@@ -51,7 +51,7 @@ Ivabradine is a heart-rate-lowering drug that selectively inhibits the HCN chann
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of NDAs | 7 authorizations in total (1 NDA, 6 ANDAs), all cancelled |
+| Number of FDA Applications | 7 authorizations in total (1 NDA, 6 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ---

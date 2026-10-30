@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1215
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Teriparatide"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
 description: "Teriparatide: predicted new indication Duodenal ulcer (disease) (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **duodenal ulcer**, but there a
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of NDAs | 6 (valid: 6) |
+| Number of FDA Applications | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

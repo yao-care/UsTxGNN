@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1177
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Sotagliflozin: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 1 diabetes mellitus (including diabetic ketoacidosis-related con…"
 monitor_inn: "SOTAGLIFLOZIN"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "autoimmune oophoritis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **opsismodysplasia**, a rare sk
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

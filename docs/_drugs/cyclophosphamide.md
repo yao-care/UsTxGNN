@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 556
 evidence_level: L1
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "CYCLOPHOSPHAMIDE"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
 description: "Cyclophosphamide: predicted new indication Myeloid leukemia (evidence level L1). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **Myeloid Leukemia**, with **35
 | TxGNN Prediction Score | 0.9947 |
 | Evidence Level | L1 (as assigned in the compiled data; see the caveat in the Conclusion) |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 12 authorizations (a mix of NDAs and ANDAs) |
+| Number of FDA Applications | 12 authorizations (a mix of NDAs and ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ESTRADIOL CYPIONATE"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "partial trisomy/tetrasomy of the short arm of chromosome 12", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "blepharophimosis-epicanthus inversus-ptosis", "partial autosomal trisomy/tetrasomy", "luteoma of pregnancy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Estradiol Cypionate: predicted new indication Symptomatic form of fragile X syndrome in female carrier (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ but **no clinical trials and no publications** currently support this specific p
 | TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

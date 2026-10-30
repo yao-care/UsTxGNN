@@ -49,7 +49,7 @@ Palonosetron is a 5-HT3 receptor antagonist, a drug class used to prevent nausea
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 14 (all cancelled; 11 ANDAs and 3 NDAs) |
+| Number of FDA Applications | 14 (all cancelled; 11 ANDAs and 3 NDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

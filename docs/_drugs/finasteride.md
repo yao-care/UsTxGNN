@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Finasteride: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L4). Approved use: Benign prostatic hyperplasia"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model (deep learning) predicts it may be effective for **Ambras type h
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of NDAs | 10 |
+| Number of FDA Applications | 10 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

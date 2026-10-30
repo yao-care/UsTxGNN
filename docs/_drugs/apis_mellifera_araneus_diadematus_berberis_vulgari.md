@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 381
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -38,7 +38,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Issue | Detail |
 |-------|--------|
 | US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of NDAs | at least 7 |
+| Number of FDA Applications | at least 7 |
 | Entity resolution failure | 11-ingredient homeopathic string → `drugbank_id: null` → no KG node |
 | TxGNN output | `predicted_indications: []` — zero predictions generated |
 | Regulatory status | 0 Taiwan licenses; not marketed in any jurisdiction on record |

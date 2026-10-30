@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "RAVULIZUMAB"
 predicted_indications: ["autosomal recessive severe congenital neutropenia due to G6PC3 deficiency", "cyclic hematopoiesis", "primary hyperoxaluria", "severe congenital neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "pseudo-von Willebrand disease", "X-linked severe congenital neutropenia", "primary release disorder of platelets", "megaloblastic anemia (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ravulizumab: predicted new indication Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency (evidence level L5). Approved use: Paroxysmal nocturnal hemoglobinuria"
 ---
 
@@ -51,7 +51,7 @@ but **no clinical trials and no publications** currently support this prediction
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

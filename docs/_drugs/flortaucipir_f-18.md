@@ -6,7 +6,7 @@ title: Flortaucipir F-18
 parent: Known Uses Only (No New Predictions)
 nav_order: 711
 monitor_inn: "Flortaucipir F-18"
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Flortaucipir F-18: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0
@@ -44,7 +44,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |------|------|
 | Original Indication | Not recorded in the local data |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 
 ## US Market Information
 

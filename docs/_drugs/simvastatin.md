@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1163
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: predicted new indication Brain stem infarction (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,7 +49,7 @@ Simvastatin is a statin (HMG-CoA reductase inhibitor) originally used for hyperl
 | TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of NDAs | 6 (all ANDAs; none currently valid) |
+| Number of FDA Applications | 6 (all ANDAs; none currently valid) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

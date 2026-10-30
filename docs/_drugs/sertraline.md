@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1157
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "SERTRALINE"
 predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Sertraline: predicted new indication Paranoid personality disorder (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **Agoraphobia**, supported by *
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 (based on the literature; see note below) |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | 8 (all ANDA generic applications, all cancelled) |
+| Number of FDA Applications | 8 (all ANDA generic applications, all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on the evidence level:* The only registered sertraline trial in this set (NCT00182533) is in social phobia, is Phase 4 and was terminated. The L1 level rests on the published randomized trials and network meta-analyses in panic disorder with or without agoraphobia, not on a completed Phase 3 trial in agoraphobia itself.

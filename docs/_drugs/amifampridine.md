@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "AMIFAMPRIDINE"
 predicted_indications: ["glaucoma", "acute intermittent porphyria"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Amifampridine: predicted new indication Glaucoma (evidence level L5). Approved use: Lambert-Eaton myasthenic syndrome"
 ---
 
@@ -51,7 +51,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

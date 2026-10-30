@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 7
 monitor_inn: "MEFENAMIC ACID"
 predicted_indications: ["rheumatoid arthritis", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Mefenamic Acid: predicted new indication Rheumatoid arthritis (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -49,7 +49,7 @@ Mefenamic acid is an oral nonsteroidal anti-inflammatory drug (NSAID) that reduc
 | TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L2 |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| Number of FDA Applications | 3 (valid: 3) |
 | Recommended Decision | Hold (rheumatoid arthritis); Proceed with Guardrails (migraine disorder, the strongest candidate) |
 
 ## Why is This Prediction Reasonable?

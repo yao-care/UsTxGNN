@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ORITAVANCIN"
 predicted_indications: ["Bacteroidaceae infectious disease", "ophthalmic herpes zoster", "Mycoplasma pneumoniae pneumonia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Oritavancin: predicted new indication Bacteroidaceae infectious disease (evidence level L5). Approved use: Skin disease caused by infection"
 ---
 
@@ -51,7 +51,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | TxGNN Prediction Score | 0.9948 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

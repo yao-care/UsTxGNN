@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "BINETRAKIN"
 predicted_indications: ["craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "tetanic cataract", "nuclear senile cataract", "cortical cataract", "diabetic cataract", "senile cataract"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Binetrakin: predicted new indication craniostenosis cataract (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ There are currently **0 clinical trials** and **0 publications** supporting this
 | TxGNN Prediction Score | 0.9914 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

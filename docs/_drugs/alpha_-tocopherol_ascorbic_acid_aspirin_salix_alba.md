@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Without a model prediction or supporting evidence, this candidate cannot proceed
 | Predicted New Indication | None generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction only; no supporting studies |
-| Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of Authorizations | 0 |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---

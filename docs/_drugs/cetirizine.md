@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CETIRIZINE"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cetirizine: predicted new indication nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,7 +49,7 @@ Cetirizine is an H1-receptor antihistamine. The TxGNN model predicts it may be e
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 13) |
-| Number of NDAs | at least 13 |
+| Number of FDA Applications | at least 13 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

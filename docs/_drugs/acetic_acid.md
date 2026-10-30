@@ -51,7 +51,7 @@ The top-scoring predictions (e.g., post-bacterial disorder) have no supporting s
 | TxGNN Prediction Score | 0.9925 (tinea corporis); 0.9998 (post-bacterial disorder, rank 1, no evidence) |
 | Evidence Level | L5 (tinea corporis); L5 for all other predictions |
 | US Market Status | Marketed (valid licenses: 4 of 6) |
-| Number of NDAs | 6 (valid: 4) |
+| Number of FDA Applications | 6 (valid: 4) |
 | Recommended Decision | Hold (tinea corporis may be treated as a research question) |
 
 ## Why is This Prediction Reasonable?

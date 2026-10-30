@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "RIFABUTIN"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "sclerosing cholangitis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "conjunctivitis", "leprosy", "endocarditis", "pneumocystosis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Rifabutin: predicted new indication HIV infectious disease (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
@@ -53,7 +53,7 @@ The link is indirect: rifabutin does not act on HIV itself, but it treats opport
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L1 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

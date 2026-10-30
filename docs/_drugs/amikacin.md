@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "AMIKACIN"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "meningococcemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Amikacin: predicted new indication paratyphoid fever (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ No clinical trials are registered for this prediction, and the 8 publications co
 | TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of NDAs | 6 (valid: 6) |
+| Number of FDA Applications | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

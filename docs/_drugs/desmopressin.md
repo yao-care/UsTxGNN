@@ -51,7 +51,7 @@ This top-ranked prediction is most likely a network-proximity artefact, and the 
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | 11 (all cancelled) |
+| Number of FDA Applications | 11 (all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

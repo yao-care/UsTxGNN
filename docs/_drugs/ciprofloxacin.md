@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **diffuse scleroderma** (score 
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of NDAs | 8 (1 NDA, 7 ANDAs; all cancelled) |
+| Number of FDA Applications | 8 (1 NDA, 7 ANDAs; all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

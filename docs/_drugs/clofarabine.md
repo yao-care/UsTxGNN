@@ -51,7 +51,7 @@ with **many clinical trials, including 2 completed Phase 3 trials**, and **20 pu
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L1 |
 | US Market Status | Marketed (valid licenses: 4 of 6) |
-| Number of NDAs | 6 (valid: 4) |
+| Number of FDA Applications | 6 (valid: 4) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

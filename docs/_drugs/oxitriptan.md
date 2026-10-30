@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "OXITRIPTAN"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Oxitriptan: predicted new indication Insomnia (evidence level L5). Approved use: No approved indication text available"
 ---
 
@@ -51,7 +51,7 @@ Currently there are **0 clinical trials** and **0 publications** supporting this
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

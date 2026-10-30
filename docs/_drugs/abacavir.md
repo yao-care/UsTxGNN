@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ABACAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Abacavir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease"
 ---
 
@@ -51,7 +51,7 @@ Currently there are **0 clinical trials** and **1 publication** (an in vitro sus
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 7 of 7) |
-| Number of NDAs | 7 (valid: 7) |
+| Number of FDA Applications | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

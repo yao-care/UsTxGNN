@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 196
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,8 +41,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|---------|
 | Original Indication | Not recorded in the local data |
-| Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Number of Approvals | 0 |
 
 ---

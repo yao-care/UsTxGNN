@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 911
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "METHOTREXATE"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Methotrexate: predicted new indication Pulmonary blastoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **pulmonary blastoma**, a rare 
 | TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 (model prediction only) |
 | US Market Status | Marketed (valid licenses on record: at least 13) |
-| Number of NDAs | 13 authorizations in total (3 NDAs and 10 ANDAs) |
+| Number of FDA Applications | 13 authorizations in total (3 NDAs and 10 ANDAs) |
 | Recommended Decision | Hold |
 
 ---

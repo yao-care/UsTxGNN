@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 2
 monitor_inn: "PHENYLALANINE"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Phenylalanine: predicted new indication Sclerosing cholangitis (evidence level L4). Approved use: Not available (the approved indication text is empty)"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but
 | TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

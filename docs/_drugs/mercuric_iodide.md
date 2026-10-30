@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MERCURIC IODIDE"
 predicted_indications: ["ventricular tachycardia", "obsolete bundle branch block", "multifocal atrial tachycardia (disease)", "His bundle tachycardia", "periodic paralysis with transient compartment-like syndrome", "arrhythmogenic right ventricular cardiomyopathy", "idiopathic neonatal atrial flutter", "incessant infant ventricular tachycardia", "catecholaminergic polymorphic ventricular tachycardia", "atrial fibrillation (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Mercuric Iodide: predicted new indication Ventricular tachycardia (evidence level L5). Approved use: No approved indication text available"
 ---
 
@@ -51,7 +51,7 @@ It is a purely computational result, and mercury compounds are known to be cardi
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

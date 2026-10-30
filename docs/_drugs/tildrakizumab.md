@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "TILDRAKIZUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "drug-induced osteoporosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tildrakizumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not listed in the compiled data (known clinical use: moderate-to-seve…"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 | TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

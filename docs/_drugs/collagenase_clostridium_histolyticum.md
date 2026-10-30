@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "COLLAGENASE CLOSTRIDIUM HISTOLYTICUM"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "Ledderhose disease", "infantile digital fibromatosis", "palmar fibromatosis", "hemorrhagic disorder due to a constitutional thrombocytopenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "posterior leukoencephalopathy syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Collagenase Clostridium Histolyticum: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Peyronie disease, penile fibromatosis, balanitis xerotica oblit…"
 ---
 
@@ -51,7 +51,7 @@ with **13 clinical trials** and **20 publications** currently supporting this di
 | TxGNN Prediction Score | 1.0000 (rank 1, primary release disorder of platelets); 0.9995 (palmar fibromatosis) |
 | Evidence Level | L5 (palmar fibromatosis); L5 for the top-ranked platelet disorders |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails (palmar fibromatosis only); Hold for the other predictions |
 
 The top-ranked predictions (platelet function and bleeding disorders) have no clinical or literature support and no plausible mechanism. This report therefore focuses on **palmar fibromatosis**, the only prediction with substantial evidence. Ledderhose disease (plantar fibromatosis) is a secondary research question supported only by case reports.

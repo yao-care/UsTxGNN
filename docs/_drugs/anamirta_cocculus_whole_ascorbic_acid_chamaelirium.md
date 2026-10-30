@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ As a result, a full repurposing evaluation cannot be completed at this stage; th
 | Predicted New Indication | No TxGNN prediction available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 — no model output, no studies |
-| Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | at least 8 |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
+| Number of FDA Applications | at least 8 |
 | Number of Approvals | 0 |
 | Recommended Decision | **Hold** |
 

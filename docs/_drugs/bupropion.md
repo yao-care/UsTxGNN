@@ -51,7 +51,7 @@ with **6 registered clinical trials** (4 completed, 1 withdrawn, 1 early phase) 
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L1 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 13 (all ANDAs, all cancelled) |
+| Number of FDA Applications | 13 (all ANDAs, all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

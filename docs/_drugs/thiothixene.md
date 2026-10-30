@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "THIOTHIXENE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Thiothixene: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model (deep learning) predicts it may be effective for **retinal dystr
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---

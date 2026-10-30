@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1247
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Trandolapril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "TRANDOLAPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
@@ -51,7 +51,7 @@ but currently there are **0 clinical trials** and **0 publications** directly su
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| Number of FDA Applications | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

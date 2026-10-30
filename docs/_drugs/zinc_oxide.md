@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1308
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "ZINC OXIDE"
 predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
 description: "Zinc Oxide: predicted new indication Acne (disease) (evidence level L4). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **Acne (disease)**, but there a
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses on record: at least 2) |
-| Number of NDAs | 2 (both cancelled) |
+| Number of FDA Applications | 2 (both cancelled) |
 | Recommended Decision | Hold (research question only) |
 
 ---

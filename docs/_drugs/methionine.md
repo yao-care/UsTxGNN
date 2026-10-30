@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "METHIONINE"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "nuclear senile cataract", "mature cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "cortical cataract", "tetanic cataract", "craniostenosis cataract", "diabetic cataract"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Methionine: predicted new indication Acne (disease) (evidence level L5). Approved use: No approved indication text available in the data compiled for this r…"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **acne (disease)**, but there a
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Number of approvals | 1 license (listed as a single-ingredient product; the license number is not recorded) |
 | Recommended Decision | Hold |
 

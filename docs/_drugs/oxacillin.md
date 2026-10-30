@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "OXACILLIN"
 predicted_indications: ["epiglottitis", "laryngitis", "bacterial arthritis", "urinary tract infection (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Oxacillin: predicted new indication Epiglottitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **Epiglottitis**, but this pred
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 8 of 8) |
-| Number of NDAs | 8 (valid: 8) |
+| Number of FDA Applications | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

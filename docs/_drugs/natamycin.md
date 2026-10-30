@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "NATAMYCIN"
 predicted_indications: ["vulvovaginal candidiasis", "candidiasis", "vulvitis", "vulvovaginitis", "trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "vaginitis (disease)", "tinea nigra"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Natamycin: predicted new indication Vulvovaginal candidiasis (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
@@ -52,7 +52,7 @@ Note that the Phase 3 trial tested a natamycin plus lactulose combination, so na
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L1 (as assigned in the compiled data; see the note in the Clinical Trial Evidence section) |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

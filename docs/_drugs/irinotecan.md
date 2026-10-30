@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **female breast carcinoma**, bu
 | TxGNN Prediction Score | 0.9908 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | 9 (includes NDA and ANDA records) |
+| Number of FDA Applications | 9 (includes NDA and ANDA records) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

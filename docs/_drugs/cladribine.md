@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CLADRIBINE"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "liver sarcoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cladribine: predicted new indication Parameningeal embryonal rhabdomyosarcoma (evidence level L5). Approved use: Hairy cell leukemia"
 ---
 
@@ -51,7 +51,7 @@ but **no clinical trials** and **no directly relevant publications** currently s
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of NDAs | 5 (valid: 5) |
+| Number of FDA Applications | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

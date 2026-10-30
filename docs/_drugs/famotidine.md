@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 692
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "FAMOTIDINE"
 predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
 description: "Famotidine: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,7 +49,7 @@ Famotidine is a histamine H2-receptor blocker that reduces stomach acid. It is u
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of NDAs | 14 (all are generic ANDA listings) |
+| Number of FDA Applications | 14 (all are generic ANDA listings) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

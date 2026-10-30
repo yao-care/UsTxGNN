@@ -51,7 +51,7 @@ The model's other top-ranked predictions are likewise unsupported, so this repor
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 8 of 9) |
-| Number of NDAs | 9 (valid: 8) |
+| Number of FDA Applications | 9 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1185
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "SULFACETAMIDE"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis", "exposure keratitis", "parasitic eyelid infestation"]
 description: "Sulfacetamide: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ The score comes from the TxGNN model (deep learning) and may reflect similaritie
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of NDAs | 4 licenses in total (all cancelled; 1 NDA and 2 ANDAs, 1 without a listed number) |
+| Number of FDA Applications | 4 licenses in total (all cancelled; 1 NDA and 2 ANDAs, 1 without a listed number) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

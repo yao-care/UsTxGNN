@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 394
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Apraclonidine: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ All candidates that the TxGNN model produced for Apraclonidine (score ≥ 0.99) 
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 0 |
 | Evidence level | Not applicable |
-| Market status in the United States | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 
 ## Known uses among the model's candidates
 

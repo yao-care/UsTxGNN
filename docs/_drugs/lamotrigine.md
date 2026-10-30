@@ -53,7 +53,7 @@ The prediction is therefore best treated as a model signal without direct suppor
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 13 licenses (1 NDA, 12 ANDAs), all cancelled |
+| Number of FDA Applications | 13 licenses (1 NDA, 12 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ---

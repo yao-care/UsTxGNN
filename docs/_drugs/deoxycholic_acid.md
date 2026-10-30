@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "DEOXYCHOLIC ACID"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Deoxycholic Acid: predicted new indication autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be relevant to **diabetic nephropathy** (the hig
 | TxGNN Prediction Score | 0.9932 for diabetic nephropathy (0.9949 for the top-ranked rare disorder) |
 | Evidence Level | L5 (diabetic nephropathy); L5 for the two top-ranked rare disorders |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

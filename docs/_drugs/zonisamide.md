@@ -53,7 +53,7 @@ Among the other top-10 predictions, **absence epilepsy** has the most supporting
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 (model prediction only) |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of NDAs | 7 authorizations in total (1 NDA, 6 ANDAs), all cancelled |
+| Number of FDA Applications | 7 authorizations in total (1 NDA, 6 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ---

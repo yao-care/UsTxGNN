@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "ABALOPARATIDE"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "amenorrhea (disease)", "esophageal ulcer"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Abaloparatide: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Postmenopausal osteoporosis at high risk for fracture"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **non-syndromic esophageal malf
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 827
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "LABETALOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 description: "Labetalol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ but there are currently **0 clinical trials** and only **1 publication** (a case
 | TxGNN Prediction Score | 0.9908 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | 9 (all cancelled; listed as ANDAs) |
+| Number of FDA Applications | 9 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
 ---

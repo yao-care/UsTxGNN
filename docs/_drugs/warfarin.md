@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1298
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "WARFARIN"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Warfarin: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Not recorded in the local data"
@@ -53,7 +53,7 @@ This is largely an extension of warfarin's existing anticoagulant use rather tha
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 (conditional; see below) |
 | US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of NDAs | 4 (all cancelled; all are ANDA generic applications) |
+| Number of FDA Applications | 4 (all cancelled; all are ANDA generic applications) |
 | Recommended Decision | Hold |
 
 **Note on evidence level:** The L1 grade for thrombophilia rests on a single Phase 3 trial of unknown status that tests a D-dimer-guided strategy, not warfarin alone. It does not meet the "≥2 completed Phase 3 RCTs" definition, so it should be read as conditional at best.

@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **acne**, but there are current
 | TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L5 |
 | US Market Status | Not marketed (licenses canceled: 1 of 1) |
-| Number of NDAs | 1 (valid: 0) |
+| Number of FDA Applications | 1 (valid: 0) |
 | Recommended Decision | Hold |
 
 ---

@@ -51,7 +51,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | TxGNN Prediction Score | 0.9947 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 4) |
-| Number of NDAs | 4 (valid: 2) |
+| Number of FDA Applications | 4 (valid: 2) |
 | Recommended Decision | Hold |
 
 A second prediction, **factor 5 excess with spontaneous thrombosis** (score 0.9906), was also generated. It likewise has no supporting trials or literature and is discussed briefly below.

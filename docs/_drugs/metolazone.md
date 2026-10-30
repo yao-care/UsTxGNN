@@ -50,7 +50,7 @@ The result is a computational prediction only.
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | 10 (all cancelled; listed as ANDAs) |
+| Number of FDA Applications | 10 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

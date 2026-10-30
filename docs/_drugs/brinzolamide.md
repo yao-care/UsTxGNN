@@ -46,8 +46,8 @@ The TxGNN model's candidates for Brinzolamide (score ≥ 0.99) are all known use
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| Market status in the United States | Marketed (valid licenses: 3 of 4) |
-| Number of NDAs | 4 (valid: 3) |
+| US Market Status | Marketed (valid licenses: 3 of 4) |
+| Number of FDA Applications | 4 (valid: 3) |
 
 ## Known uses among the model's candidates
 

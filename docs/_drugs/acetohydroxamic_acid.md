@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "ACETOHYDROXAMIC ACID"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Acetohydroxamic Acid: predicted new indication Ureaplasma urethritis (evidence level L5). Approved use: Urinary tract infection"
 ---
 
@@ -51,7 +51,7 @@ but **no clinical trials and no publications** currently support this direction,
 | TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

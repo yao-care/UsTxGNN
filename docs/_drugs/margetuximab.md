@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "MARGETUXIMAB"
 predicted_indications: ["drug-induced osteoporosis", "HER2 positive breast carcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Margetuximab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not stated in the license data compiled for this report (literature i…"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model's highest-ranked prediction is **drug-induced osteoporosis** (no
 | TxGNN Prediction Score | Drug-induced osteoporosis: 0.9929; HER2 positive breast carcinoma: 0.9905 |
 | Evidence Level | Drug-induced osteoporosis: L5; HER2 positive breast carcinoma: L1 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Drug-induced osteoporosis: Hold; HER2 positive breast carcinoma: Proceed with Guardrails |
 
 ---

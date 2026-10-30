@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CLOPIDOGREL"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "rheumatoid arthritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Clopidogrel: predicted new indication Migraine with brainstem aura (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -53,7 +53,7 @@ with **6 clinical trials** (3 directly relevant to clopidogrel) and **22 publica
 | TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | 9 authorizations (1 NDA, 8 ANDAs) |
+| Number of FDA Applications | 9 authorizations (1 NDA, 8 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

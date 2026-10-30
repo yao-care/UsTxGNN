@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 8
 monitor_inn: "DIPYRIDAMOLE"
 predicted_indications: ["thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cavernous sinus thrombosis", "lateral sinus thrombosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Dipyridamole: predicted new indication Thrombotic disease (evidence level L4). Approved use: Atrial fibrillation"
 ---
 
@@ -49,7 +49,7 @@ Dipyridamole is an antiplatelet and vasodilator drug, and US generic products ar
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | at least 8 |
+| Number of FDA Applications | at least 8 |
 | Number of approvals | At least 8 ANDAs (the list may be partial) |
 | Recommended Decision | Hold |
 

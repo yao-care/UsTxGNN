@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ISOSORBIDE MONONITRATE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "alopecia", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pulmonary arterial hypertension"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Isosorbide Mononitrate: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not stated in the compiled data (the drug is known as a nitrate vasod…"
 ---
 
@@ -51,7 +51,7 @@ The only prediction with any literature is **pulmonary arterial hypertension** (
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of NDAs | 7 licences (1 NDA, 6 ANDAs) |
+| Number of FDA Applications | 7 licences (1 NDA, 6 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

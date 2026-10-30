@@ -51,7 +51,7 @@ The only prediction with any supporting literature is **manic bipolar affective 
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | 11 (all cancelled; these are ANDA generic applications) |
+| Number of FDA Applications | 11 (all cancelled; these are ANDA generic applications) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

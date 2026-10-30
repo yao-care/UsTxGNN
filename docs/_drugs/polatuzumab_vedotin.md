@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "POLATUZUMAB VEDOTIN"
 predicted_indications: ["HER2 positive breast carcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Polatuzumab Vedotin: predicted new indication HER2 positive breast carcinoma (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **HER2-positive breast carcinom
 | TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

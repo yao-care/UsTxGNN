@@ -51,7 +51,7 @@ This prediction should be regarded as a computational signal only.
 | TxGNN Prediction Score | 0.9968 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 13 (no currently valid licenses) |
+| Number of FDA Applications | 13 (no currently valid licenses) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

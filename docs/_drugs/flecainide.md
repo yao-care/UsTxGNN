@@ -53,7 +53,7 @@ but the support is indirect: **1 clinical trial** (with an arrhythmia endpoint, 
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of NDAs | 7 (all ANDAs, all cancelled) |
+| Number of FDA Applications | 7 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ---

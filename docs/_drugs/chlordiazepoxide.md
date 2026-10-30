@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CHLORDIAZEPOXIDE"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "barbiturate abuse", "antidepressant type abuse", "hallucinogen abuse", "myofascial pain syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Chlordiazepoxide: predicted new indication insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ Currently there are **no registered clinical trials** and **5 publications** ret
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | at least 8 |
+| Number of FDA Applications | at least 8 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

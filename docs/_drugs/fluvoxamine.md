@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **Paranoid Personality Disorder
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of NDAs | 8 authorizations in total (1 NDA and 7 ANDAs), all cancelled |
+| Number of FDA Applications | 8 authorizations in total (1 NDA and 7 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ---

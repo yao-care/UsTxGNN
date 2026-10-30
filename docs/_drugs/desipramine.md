@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **attention deficit hyperactivi
 | TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 for the inattentive subtype (L3 for parent ADHD) |
 | US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of NDAs | 6 (all cancelled; 1 NDA and 5 ANDAs) |
+| Number of FDA Applications | 6 (all cancelled; 1 NDA and 5 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

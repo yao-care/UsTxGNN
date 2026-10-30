@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 3
 monitor_inn: "CYCLOBENZAPRINE"
 predicted_indications: ["myofascial pain syndrome", "neuralgia", "papillary conjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cyclobenzaprine: predicted new indication Myofascial pain syndrome (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -49,7 +49,7 @@ Cyclobenzaprine is a centrally acting skeletal muscle relaxant. The TxGNN model 
 | TxGNN Prediction Score | 0.9909 |
 | Evidence Level | L2 (see note under "Clinical Trial Evidence") |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | 9 licenses (1 NDA, 8 ANDAs), all cancelled |
+| Number of FDA Applications | 9 licenses (1 NDA, 8 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

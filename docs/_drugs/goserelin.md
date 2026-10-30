@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 3
 monitor_inn: "GOSERELIN"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Goserelin: predicted new indication amenorrhea (evidence level L2). Approved use: Endometriosis"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be relevant for **Amenorrhea**, but this is larg
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

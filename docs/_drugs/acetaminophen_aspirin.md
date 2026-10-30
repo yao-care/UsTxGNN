@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -50,8 +50,8 @@ Acetaminophen and Aspirin is a well-established analgesic and antipyretic combin
 | Predicted New Indication | No TxGNN predictions generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction stage not reached; data gaps blocking evaluation |
-| Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of Licenses | 0 |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 2
 monitor_inn: "NEFAZODONE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Nefazodone: predicted new indication Migraine disorder (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ but currently only **0 clinical trials** and **1 publication** (a 2004 review) t
 | TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

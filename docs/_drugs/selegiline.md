@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **Schizophrenia** (the second-r
 | TxGNN Prediction Score | 0.9915 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 6 of 8) |
-| Number of NDAs | 8 (valid: 6) |
+| Number of FDA Applications | 8 (valid: 6) |
 | Recommended Decision | Hold (treat as a research question) |
 
 ---

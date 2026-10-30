@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1305
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "ZILEUTON"
 predicted_indications: ["bronchitis", "obstructive lung disease", "atopic eczema", "bronchial neoplasm (disease)", "Laubry-Pezzi syndrome", "heart disease", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome"]
 description: "Zileuton: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ The strongest nearby signals are in other airway conditions, such as obstructive
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 (model prediction only) |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| Number of FDA Applications | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

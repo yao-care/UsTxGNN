@@ -51,7 +51,7 @@ but the evidence is thin: **0 clinical trials** and only **1 directly relevant p
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of NDAs | 6 licences in total (1 NDA, 5 ANDAs), all cancelled |
+| Number of FDA Applications | 6 licences in total (1 NDA, 5 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

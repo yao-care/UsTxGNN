@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "SECRETIN HUMAN"
 predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Secretin Human: predicted new indication Open-angle glaucoma (evidence level L5). Approved use: Not stated in the data compiled for this report"
 ---
 
@@ -49,7 +49,7 @@ Human secretin is a gastrointestinal peptide hormone, marketed in the US as the 
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

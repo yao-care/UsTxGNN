@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **pulmonary arteriovenous malfo
 | TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | at least 9 |
+| Number of FDA Applications | at least 9 |
 | Recommended Decision | Hold |
 
 ---

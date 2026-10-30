@@ -51,7 +51,7 @@ The retrieved publications mostly describe harm, such as drug-induced pulmonary 
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of NDAs | 12 (1 NDA and 11 ANDAs, all cancelled) |
+| Number of FDA Applications | 12 (1 NDA and 11 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

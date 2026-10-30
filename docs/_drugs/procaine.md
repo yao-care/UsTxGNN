@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "PROCAINE"
 predicted_indications: ["methemoglobinemia", "methemoglobinemia, alpha type", "Tourette syndrome", "anaphylaxis", "methemoglobin reductase deficiency", "hyperthyroidism", "fibromyalgia", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Procaine: predicted new indication Methemoglobinemia (evidence level L4). Approved use: Local anaesthesia (e.g., dental surgery)"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **methemoglobinemia**, but ther
 | TxGNN Prediction Score | 0.9950 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

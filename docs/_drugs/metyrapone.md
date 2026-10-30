@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "METYRAPONE"
 predicted_indications: ["exercise-induced malignant hyperthermia", "King-Denborough syndrome", "central core myopathy", "moderate multiminicore disease with hand involvement", "congenital multicore myopathy with external ophthalmoplegia", "myopathy, centronuclear", "familial periodic paralysis", "renal tubular acidosis", "malignant hyperthermia of anesthesia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Metyrapone: predicted new indication Exercise-induced malignant hyperthermia (evidence level L5). Approved use: Not stated in the US license data. Pharmacology sources describe use…"
 ---
 
@@ -53,7 +53,7 @@ The prediction rests on computational network proximity only, and no biological 
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

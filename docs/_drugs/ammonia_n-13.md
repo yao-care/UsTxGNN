@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "AMMONIA N-13"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ammonia N-13: predicted new indication non-syndromic esophageal malformation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ but **0 clinical trials** and **0 publications** currently support this directio
 | TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 20 of 20) |
-| Number of NDAs | 20 (valid: 20) |
+| Number of FDA Applications | 20 (valid: 20) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

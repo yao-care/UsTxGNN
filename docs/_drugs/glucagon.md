@@ -49,7 +49,7 @@ Glucagon is a proglucagon-derived peptide hormone. It is also long established a
 | TxGNN Prediction Score | 0.9924 |
 | Evidence Level | L3 (indirect; observational and review-level literature, no glucagon-specific trials) |
 | US Market Status | Marketed (valid licenses: 4 of 5) |
-| Number of NDAs | 5 (valid: 4) |
+| Number of FDA Applications | 5 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 963
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Niacin: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ The TxGNN model (score ≥ 0.99) produced candidates for Niacin. Every candidate
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 0 |
 | Evidence level | Not applicable |
-| Market status in the United States | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | at least 9 |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
+| Number of FDA Applications | at least 9 |
 
 ## Known uses among the model's candidates
 

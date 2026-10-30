@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "BENZONATATE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Benzonatate: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not listed in the US license data (benzonatate is generally known as…"
 ---
 
@@ -51,7 +51,7 @@ This is a model-only prediction (evidence level L5).
 | TxGNN Prediction Score | 0.9966 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | 8 (all generic ANDA applications, none currently valid) |
+| Number of FDA Applications | 8 (all generic ANDA applications, none currently valid) |
 | Recommended Decision | Hold |
 
 A second prediction was also generated: **obsolete neurogenic bladder (disease)**, with a score of 0.9939 and the same evidence level (L5) and decision (Hold). It is discussed below.

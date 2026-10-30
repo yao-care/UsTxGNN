@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunt
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of NDAs | 8 (all cancelled; all are ANDAs) |
+| Number of FDA Applications | 8 (all cancelled; all are ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

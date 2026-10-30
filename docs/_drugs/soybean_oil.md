@@ -51,7 +51,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 8 of 9) |
-| Number of NDAs | 9 (valid: 8) |
+| Number of FDA Applications | 9 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

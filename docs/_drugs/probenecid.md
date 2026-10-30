@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "PROBENECID"
 predicted_indications: ["hypouricemia, renal", "Lesch-Nyhan syndrome", "hypoxanthine guanine phosphoribosyltransferase partial deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Probenecid: predicted new indication Hypouricemia, renal (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **renal hypouricemia**, but the
 | TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses: 7 of 7) |
-| Number of NDAs | 7 (valid: 7) |
+| Number of FDA Applications | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

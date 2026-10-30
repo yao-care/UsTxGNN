@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 730
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "FLUTICASONE FUROATE"
 predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis"]
 description: "Fluticasone Furoate: predicted new indication Atopic eczema (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **atopic eczema**, but there ar
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of NDAs | 5 (valid: 5) |
+| Number of FDA Applications | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

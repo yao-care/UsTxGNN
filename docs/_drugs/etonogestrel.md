@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ETONOGESTREL"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Etonogestrel: predicted new indication Amenorrhea (evidence level L5). Approved use: Not stated in the available regulatory data (marketed as a hormonal c…"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **amenorrhea**, but **no clinic
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of NDAs | 4 (valid: 4) |
+| Number of FDA Applications | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

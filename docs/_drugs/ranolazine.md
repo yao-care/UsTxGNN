@@ -49,7 +49,7 @@ Ranolazine is an antianginal drug that inhibits the late sodium current. The TxG
 | TxGNN Prediction Score | 0.9965 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | 9 (all cancelled; these are ANDA generic applications) |
+| Number of FDA Applications | 9 (all cancelled; these are ANDA generic applications) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

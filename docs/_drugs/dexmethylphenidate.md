@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 595
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "DEXMETHYLPHENIDATE"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "multiple system atrophy", "variably protease-sensitive prionopathy", "manic bipolar affective disorder", "trichotillomania", "cerebellar ataxia", "autosomal dominant cerebellar ataxia", "postural orthostatic tachycardia syndrome"]
 description: "Dexmethylphenidate: predicted new indication Specific developmental disorder (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ but **no clinical trials** and **no publications** currently support this predic
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | 9 (1 NDA and 8 ANDAs) |
+| Number of FDA Applications | 9 (1 NDA and 8 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

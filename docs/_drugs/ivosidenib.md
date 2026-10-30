@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 822
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "IVOSIDENIB"
 predicted_indications: ["bulbar polio"]
 description: "Ivosidenib: predicted new indication Bulbar polio (evidence level L5). Approved use: Not recorded in the local data"
@@ -53,7 +53,7 @@ Two lower-ranked predictions, **AML/MDS related to alkylating agents** and **AML
 | TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

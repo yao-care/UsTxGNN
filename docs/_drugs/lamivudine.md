@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 13 licenses in total (2 NDAs, 11 ANDAs), all with cancelled status |
+| Number of FDA Applications | 13 licenses in total (2 NDAs, 11 ANDAs), all with cancelled status |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

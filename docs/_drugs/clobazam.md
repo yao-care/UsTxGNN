@@ -51,7 +51,7 @@ Currently **0 clinical trials** are registered, but **20 publications** (guideli
 | TxGNN Prediction Score | 0.9982 (febrile infection-related epilepsy syndrome) |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of NDAs | 15 licences in total (3 NDAs, 12 ANDAs) |
+| Number of FDA Applications | 15 licences in total (3 NDAs, 12 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

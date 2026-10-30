@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "RALTEGRAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Raltegravir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease"
 ---
 
@@ -51,7 +51,7 @@ Currently there are **0 clinical trials** and **15 publications** (mostly precli
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| Number of FDA Applications | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

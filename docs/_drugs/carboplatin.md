@@ -51,7 +51,7 @@ Carboplatin is a platinum-based cytotoxic chemotherapy drug that is already mark
 | TxGNN Prediction Score | 0.9928 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of NDAs | at least 8 |
+| Number of FDA Applications | at least 8 |
 | Recommended Decision | Hold |
 
 ---

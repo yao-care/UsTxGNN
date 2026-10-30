@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "FERUMOXYTOL"
 predicted_indications: ["Plummer-Vinson syndrome", "non-syndromic esophageal malformation", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "severe nonproliferative diabetic retinopathy", "esophageal ulcer", "esophageal disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ferumoxytol: predicted new indication Plummer-Vinson syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ The link rests on indirect reasoning, because the anemia component of the syndro
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 (no trials or literature for this indication; mechanistic reasoning only) |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| Number of FDA Applications | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

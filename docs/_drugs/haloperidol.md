@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "HALOPERIDOL"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Haloperidol: predicted new indication Congenital disorder of glycosylation with defective fucosylation (evidence level L5). Approved use: Psychotic disorder, schizophrenia, schizophreniform disorder…"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model (deep learning) predicts it may be effective for **congenital di
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of NDAs | 10 (all are ANDAs, all cancelled) |
+| Number of FDA Applications | 10 (all are ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ---

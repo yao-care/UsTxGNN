@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "SOFOSBUVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Sofosbuvir: predicted new indication Top TxGNN prediction: hepatitis B virus infection . Best-supported ca… (evidence level L5). Approved use: Chronic hepatitis C virus infection"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model's top-ranked prediction is **hepatitis B virus infection**, but 
 | TxGNN Prediction Score | Hepatitis B virus infection: 0.9977. Hepatitis E virus infection: 0.9949 |
 | Evidence Level | L2 for hepatitis E (one completed Phase 2 pilot, no Phase 3 data); L2 for hepatitis B (co-infection data only) |
 | US Market Status | Marketed (valid licenses: 7 of 7) |
-| Number of NDAs | 7 (valid: 7) |
+| Number of FDA Applications | 7 (valid: 7) |
 | Recommended Decision | Hold (hepatitis E may proceed as a research question) |
 
 ---

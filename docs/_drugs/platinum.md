@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "PLATINUM"
 predicted_indications: ["urinary bladder carcinoma", "infiltrating bladder urothelial carcinoma", "non-invasive bladder urothelial carcinoma", "bladder urachal urothelial carcinoma", "bladder signet ring cell adenocarcinoma", "bladder colonic type adenocarcinoma", "bladder colloid adenocarcinoma", "bladder mixed adenocarcinoma", "bladder clear cell adenocarcinoma", "urinary bladder neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Platinum: predicted new indication Urinary bladder carcinoma (evidence level L5). Approved use: Not available"
 ---
 
@@ -53,7 +53,7 @@ The evidence mostly reflects platinum-class drugs (cisplatin, carboplatin) rathe
 | TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L1 (as assigned in the data compiled for this report; see note below) |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Evidence level note: the L1 rating rests on platinum-class evidence, including a Phase 3 trial that is still recruiting. By the strict rule (at least 2 completed Phase 3 RCTs), the trial data for this entry alone would not reach L1. Only one completed randomised Phase 2 trial is listed, and its platinum backbone is present in both arms. Treat L1 as applying to the platinum class, not to this entry.*

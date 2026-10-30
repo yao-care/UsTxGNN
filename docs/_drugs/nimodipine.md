@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "NIMODIPINE"
 predicted_indications: ["homozygous familial hypercholesterolemia", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Nimodipine: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Subarachnoid hemorrhage (including acquired aneurysmal subarachnoid h…"
 ---
 
@@ -51,7 +51,7 @@ but **no clinical trials and no publications** currently support this direction,
 | TxGNN Prediction Score | 0.9929 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of NDAs | 4 (valid: 4) |
+| Number of FDA Applications | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 A second prediction, **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**, scored 0.9905 and is also at evidence level L5 with a Hold recommendation. It is discussed briefly below.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -53,7 +53,7 @@ Currently, **0 clinical trials** and **0 publications** are linked to this compo
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction only; in this case no prediction was generated |
 | US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of NDAs | 0 |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PEPPERMINT OIL"
 predicted_indications: ["leprosy", "pneumocystosis", "coronary artery disease", "myocardial ischemia", "echinococcus granulosus infectious disease", "polyp of vocal cord", "uterine polyp", "polyp of middle ear", "cardiovascular disease", "polyp of frontal sinus"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Peppermint Oil: predicted new indication Leprosy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -52,7 +52,7 @@ That prediction has **1 completed small trial** and **2 directly relevant public
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of NDAs | 4 (valid: 4) |
+| Number of FDA Applications | 4 (valid: 4) |
 | Recommended Decision | Hold (research question only) |
 
 **Note on the top-ranked predictions:** The nine other predictions (leprosy 0.9980, pneumocystosis 0.9958, coronary artery disease 0.9935, myocardial ischemia 0.9926, echinococcus granulosus infection 0.9925, and polyps of the vocal cord, uterus, middle ear and frontal sinus at 99.1%) have no clinical trials or publications. They are Level L5 (model prediction only) and are on Hold. Cardiovascular disease is reported here because it is the only prediction with supporting data.

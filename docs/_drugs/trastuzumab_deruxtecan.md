@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TRASTUZUMAB DERUXTECAN"
 predicted_indications: ["drug-induced osteoporosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Trastuzumab Deruxtecan: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not specified in the data compiled for this report"
 ---
 
@@ -51,7 +51,7 @@ The prediction rests on a model score alone and should be treated as a low-confi
 | TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

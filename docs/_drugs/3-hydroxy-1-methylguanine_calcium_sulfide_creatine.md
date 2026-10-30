@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -53,7 +53,7 @@ As a result, this candidate **cannot proceed to standard evaluation** without su
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction unavailable — no actual studies identified) |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of NDAs | 0 |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---

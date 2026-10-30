@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BEVACIZUMAB"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Bevacizumab: predicted new indication epiglottis neoplasm (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ However, **no clinical trials and no publications** directly support this predic
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 7 of 7) |
-| Number of NDAs | 7 (valid: 7) |
+| Number of FDA Applications | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

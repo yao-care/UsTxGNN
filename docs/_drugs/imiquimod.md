@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 793
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "IMIQUIMOD"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
 description: "Imiquimod: predicted new indication Pre-malignant neoplasm (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ with **2 clinical trials** and **9 publications** currently supporting this dire
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 (as scored in the data compiled for this report; see note below) |
 | US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of NDAs | 5 (valid: 5) |
+| Number of FDA Applications | 5 (valid: 5) |
 | Recommended Decision | Proceed with Guardrails |
 
 > **Note on evidence level:** Under the L1 to L5 rules, L1 requires at least 2 completed Phase 3 RCTs. Only one Phase 3 trial is completed (open-label, n=20, and not a randomized controlled design). The other Phase 3 RCT was terminated early with 9 participants. The strict reading of the rules therefore supports a lower level than L1, closer to L3 (reviews and case reports). The L1 label should be treated with caution.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ETOPOSIDE"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Etoposide: predicted new indication Well-differentiated fetal adenocarcinoma of the lung (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ Several other predictions (e.g., rhabdomyosarcoma) are also supported, while man
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 7 of 7) |
-| Number of NDAs | 7 (valid: 7) |
+| Number of FDA Applications | 7 (valid: 7) |
 | Recommended Decision | Proceed with Guardrails |
 
 **Note on the prediction list:** The rank-1 prediction is well-differentiated fetal adenocarcinoma of the lung (0.9994), supported only by a single case report/review (L4, Hold). Ewing sarcoma is presented here because it has the strongest evidence of the ten predictions. Rhabdomyosarcoma (rank 6, 0.9979) is also L1 and is summarised below.

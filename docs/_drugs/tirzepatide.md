@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1233
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tirzepatide: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 3 |
 | Evidence level | Not applicable |
-| Market status in the United States | Marketed (valid licenses on record: at least 2) |
-| Number of NDAs | at least 2 |
+| US Market Status | Marketed (valid licenses on record: at least 2) |
+| Number of FDA Applications | at least 2 |
 
 ## Known uses recorded for this drug
 

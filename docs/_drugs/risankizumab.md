@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1126
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "RISANKIZUMAB"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
 description: "Risankizumab: predicted new indication Dermatitis (evidence level L2). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **dermatitis** (mainly atopic d
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L2 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---

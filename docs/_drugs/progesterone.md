@@ -53,7 +53,7 @@ with **4 clinical trials** and **19 publications** currently linked to this dire
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L2 (as rated in the compiled data; see the note below) |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | 9 (all cancelled) |
+| Number of FDA Applications | 9 (all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on the evidence level:* The evidence level is L2 in the compiled data, but I would treat it as a cautious L2 at best. The Phase 3 and Phase 2/3 trials are completed, but the records do not show that progesterone was the tested arm. In these studies, estrogen replacement is the main intervention.

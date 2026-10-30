@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "MOGAMULIZUMAB"
 predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "human herpesvirus 8-related tumor", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Mogamulizumab: predicted new indication Prostatic urethra urothelial carcinoma (evidence level L5). Approved use: Mycosis fungoides and variants"
 ---
 
@@ -51,7 +51,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

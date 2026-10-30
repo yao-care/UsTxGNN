@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "VANDETANIB"
 predicted_indications: ["renal cell carcinoma (disease)", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Vandetanib: predicted new indication Renal cell carcinoma (evidence level L2). Approved use: Thyroid gland carcinoma"
 ---
 
@@ -51,7 +51,7 @@ with **4 clinical trials** (all small Phase 1/2 or Phase 2 studies, two terminat
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L2 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "CYSTEINE"
 predicted_indications: ["dry eye syndrome", "closed-angle glaucoma", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis", "exercise-induced malignant hyperthermia", "angle-closure glaucoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cysteine: predicted new indication Dry eye syndrome (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **dry eye syndrome**, but there
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L4 (preclinical and mechanism studies only) |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| Number of FDA Applications | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

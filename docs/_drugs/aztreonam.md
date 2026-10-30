@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "AZTREONAM"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Ureaplasma urethritis", "gonococcal urethritis", "blood group incompatibility", "premalignant hematological system disease", "epiglottitis", "monoclonal gammopathy", "xanthogranulomatous pyelonephritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Aztreonam: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Urinary tract infection, Pseudomonas aeruginosa infection…"
 ---
 
@@ -53,7 +53,7 @@ The top-scoring predictions (such as polyclonal hyperviscosity syndrome) have no
 | TxGNN Prediction Score | 0.9959 (gonococcal urethritis); rank-1 prediction scored 0.9973 |
 | Evidence Level | L5 (gonococcal urethritis: single-arm and uncontrolled clinical studies, no RCTs); L5 for the rank-1 prediction |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| Number of FDA Applications | 3 (valid: 3) |
 | Recommended Decision | Hold (gonococcal urethritis may be pursued as a research question) |
 
 ---

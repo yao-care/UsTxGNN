@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "LOFEXIDINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Lofexidine: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the compiled data"
 ---
 
@@ -51,7 +51,7 @@ This prediction is a computational signal only and has no direct clinical suppor
 | TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of NDAs | 4 (valid: 4) |
+| Number of FDA Applications | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

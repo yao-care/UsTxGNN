@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "SPIRONOLACTONE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Spironolactone: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Hypertension, congestive heart failure…"
 ---
 
@@ -51,7 +51,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | TxGNN Prediction Score | 0.9926 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | 8 (7 ANDAs and 1 NDA) |
+| Number of FDA Applications | 8 (7 ANDAs and 1 NDA) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

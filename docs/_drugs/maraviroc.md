@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MARAVIROC"
 predicted_indications: ["multiple endocrine neoplasia", "acne (disease)", "primary cutaneous T-cell lymphoma", "pediatric systemic lupus erythematosus", "primary cutaneous T-cell non-Hodgkin lymphoma", "primary cutaneous B-cell lymphoma", "candidiasis", "complement component 4a deficiency", "cytomegalovirus infection", "HER2 positive breast carcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Maraviroc: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not listed in the data compiled for this report (the drug is known as…"
 ---
 
@@ -49,7 +49,7 @@ Maraviroc is a CCR5 antagonist that was developed as an antiretroviral for HIV-1
 | TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of NDAs | 4 (valid: 4) |
+| Number of FDA Applications | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

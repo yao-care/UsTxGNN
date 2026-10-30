@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **Acromesomelic Dysplasia, Hunt
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | Evidence Level | L5 for the top-ranked prediction; L4 for ankylosing spondylitis |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | 10 (all ANDAs, all cancelled) |
+| Number of FDA Applications | 10 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold (top-ranked prediction); Research Question for ankylosing spondylitis |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "TERLIPRESSIN"
 predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "pulmonary hypertension", "kyphoscoliotic heart disease", "esotropia", "glaucoma 1, open angle", "headache disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Terlipressin: predicted new indication Pulmonary hypertension (evidence level L3). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -51,7 +51,7 @@ The evidence is early-stage and the direction of effect is uncertain.
 | TxGNN Prediction Score | 0.9956 (open-angle glaucoma, the top-ranked prediction: 0.9978) |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold (treat as a research question) |
 
 ## Why is This Prediction Reasonable?

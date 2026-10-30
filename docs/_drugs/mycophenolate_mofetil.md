@@ -53,7 +53,7 @@ The evidence is early-stage, mixed, and modest.
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L2 (per the compiled scoring; see note below) |
 | US Market Status | Marketed (valid licenses on record: at least 15) |
-| Number of NDAs | 17 licenses in total (NDAs and ANDAs) |
+| Number of FDA Applications | 17 licenses in total (NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
 **Note on evidence level:** The L2 rating comes from the compiled scoring. Strictly applying the rules, the only HIV-related Phase 2 trials were withdrawn (n=0) or tested a different agent, so there is no completed Phase 2/3 RCT of mycophenolate in HIV. The most direct randomized evidence is a small published RCT (PMID 15353978). The practical strength is therefore closer to L3.

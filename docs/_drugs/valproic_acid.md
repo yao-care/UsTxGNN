@@ -52,7 +52,7 @@ The TxGNN model ranks **trigeminal nerve neoplasm** as its top predicted new ind
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of NDAs | 7 (all cancelled; all are ANDA generic applications) |
+| Number of FDA Applications | 7 (all cancelled; all are ANDA generic applications) |
 | Recommended Decision | Hold |
 
 ---

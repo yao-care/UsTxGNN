@@ -49,7 +49,7 @@ Atorvastatin is a statin, a cholesterol-lowering drug that works by inhibiting H
 | TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L2 |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of NDAs | at least 14 |
+| Number of FDA Applications | at least 14 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

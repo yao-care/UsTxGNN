@@ -49,7 +49,7 @@ Amcinonide is a topical corticosteroid that has been marketed in the United Stat
 | TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 4) |
-| Number of NDAs | 4 (valid: 2) |
+| Number of FDA Applications | 4 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

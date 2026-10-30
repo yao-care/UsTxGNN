@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **Faciodigitogenital Syndrome**
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 16) |
-| Number of NDAs | 18 authorizations in total (all cancelled; includes both NDAs and ANDAs) |
+| Number of FDA Applications | 18 authorizations in total (all cancelled; includes both NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

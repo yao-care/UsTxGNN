@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **Prinzmetal angina**, but ther
 | TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | 11 authorizations in total (2 NDAs, 9 ANDAs), all cancelled |
+| Number of FDA Applications | 11 authorizations in total (2 NDAs, 9 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

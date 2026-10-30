@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 580
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "DEMECLOCYCLINE"
 predicted_indications: ["chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
 description: "Demeclocycline: predicted new indication Chronic ethmoidal sinusitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | TxGNN Prediction Score | 0.9914 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 Two other predictions were also generated, both with L5 evidence and a Hold recommendation:

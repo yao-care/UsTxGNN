@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "PITOLISANT"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Pitolisant: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **Insomnia**, but there are **0
 | TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

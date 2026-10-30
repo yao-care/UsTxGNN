@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **malignant renovascular hypert
 | TxGNN Prediction Score | 0.9901 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | 10 (1 NDA and 9 ANDAs, all cancelled) |
+| Number of FDA Applications | 10 (1 NDA and 9 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ---

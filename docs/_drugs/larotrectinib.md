@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "LAROTRECTINIB"
 predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Larotrectinib: predicted new indication Multiple endocrine neoplasia (evidence level L3). Approved use: Not available in the compiled data"
 ---
 
@@ -51,7 +51,7 @@ and so far this is supported by only **1 broad, non-specific clinical trial** an
 | TxGNN Prediction Score | 0.9924 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

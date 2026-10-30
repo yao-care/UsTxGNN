@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1146
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Sebelipase Alfa: predicted new indication Scheie syndrome (evidence level L5). Approved use: Wolman disease, lysosomal acid lipase deficiency…"
 monitor_inn: "SEBELIPASE ALFA"
 predicted_indications: ["Scheie syndrome", "Hurler syndrome", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "cholesteryl ester storage disease", "Gaucher disease", "lysosomal storage disease with skeletal involvement", "autosomal ichthyosis syndrome with fatal disease course", "Tay-Sachs disease", "benign neoplasm of adrenal gland"]
@@ -52,7 +52,7 @@ The TxGNN model's top-ranked predictions are mostly unsupported, but the best-ev
 | TxGNN Prediction Score | 0.9980 (Scheie syndrome); 0.9972 (cholesteryl ester storage disease) |
 | Evidence Level | L5 for Scheie syndrome; L1 for cholesteryl ester storage disease |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold for Scheie syndrome; Proceed with Guardrails for cholesteryl ester storage disease |
 
 ---

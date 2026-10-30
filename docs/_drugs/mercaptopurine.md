@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 901
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "MERCAPTOPURINE"
 predicted_indications: ["myeloid leukemia", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
 description: "Mercaptopurine: predicted new indication Myeloid leukemia (evidence level L2). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ with **15 clinical trials** and **20 publications** currently supporting this di
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L2 (see the note below the table) |
 | US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of NDAs | 4 (valid: 4) |
+| Number of FDA Applications | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 Note on evidence level: Phase 3 trials exist for myeloid leukemia, but they test whole regimens, not mercaptopurine itself, and none isolates its contribution. A strict reading of the grading rules would therefore put this closer to L3. L2 is the level assigned in the compiled data.

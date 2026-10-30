@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "NITISINONE"
 predicted_indications: ["renal tubular acidosis", "galactosemia", "serpinopathy with toxic serpin polymerization", "C1 inhibitor deficiency", "glycogen storage disease", "adult polyglucosan body disease", "glycogen storage disease due to glucose-6-phosphatase deficiency", "Griscelli syndrome", "granulomatous disease, chronic, X-linked", "ermine phenotype"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Nitisinone: predicted new indication Renal tubular acidosis (evidence level L5). Approved use: Tyrosinemia"
 ---
 
@@ -51,7 +51,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of NDAs | 6 (all cancelled; includes NDA and ANDA entries) |
+| Number of FDA Applications | 6 (all cancelled; includes NDA and ANDA entries) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

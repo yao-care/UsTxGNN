@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "INTERFERON GAMMA-1B"
 predicted_indications: ["heart disease", "Jeune syndrome situs inversus", "orofacial clefting syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "disorder of fucoglycosan synthesis", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "Laubry-Pezzi syndrome", "partial deletion of the long arm of chromosome 22", "interventricular septum aneurysm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Interferon Gamma-1B: predicted new indication Heart disease (evidence level L4). Approved use: Not available in the compiled data"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **heart disease**, but there ar
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 549
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Conestat Alfa: predicted new indication C1 inhibitor deficiency (evidence level L1). Approved use: Hereditary angioedema"
 monitor_inn: "CONESTAT ALFA"
 predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "fetal and neonatal alloimmune thrombocytopenia"]
@@ -53,7 +53,7 @@ This is essentially a confirmation of the drug's original use rather than true r
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L1 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

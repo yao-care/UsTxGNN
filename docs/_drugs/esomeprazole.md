@@ -51,7 +51,7 @@ Esomeprazole is a proton pump inhibitor originally used for acid-related conditi
 | TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 2) |
-| Number of NDAs | 5 |
+| Number of FDA Applications | 5 |
 | Recommended Decision | Hold |
 
 ---

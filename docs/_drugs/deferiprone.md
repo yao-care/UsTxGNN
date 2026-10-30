@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 578
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "DEFERIPRONE"
 predicted_indications: ["hepatic porphyria", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
 description: "Deferiprone: predicted new indication Hepatic porphyria (evidence level L4). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **hepatic porphyria**, but ther
 | TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of NDAs | 6 (valid: 6) |
+| Number of FDA Applications | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ---

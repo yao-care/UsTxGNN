@@ -53,7 +53,7 @@ with **15 clinical trials** and **20 publications** retrieved. Most of these are
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L1 (nominal, see note below) |
 | US Market Status | Marketed (valid licenses: 3 of 5) |
-| Number of NDAs | 5 (valid: 3) |
+| Number of FDA Applications | 5 (valid: 3) |
 | Recommended Decision | Hold |
 
 *Note on evidence level:* Under the grading rules, two completed Phase 3 trials would qualify for L1. Only one completed Phase 3 trial (NCT00114361) directly addresses ribavirin in HBV, and it tested a combination with peginterferon. The other Phase 3 trials are HCV-focused. The L1 label should therefore be read cautiously, and the effective strength of direct evidence is closer to L2.

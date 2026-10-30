@@ -53,7 +53,7 @@ The prediction is best treated as a research question rather than an actionable 
 | TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 |
 | US Market Status | Not marketed (licenses canceled: 1 of 1) |
-| Number of NDAs | 1 (valid: 0) |
+| Number of FDA Applications | 1 (valid: 0) |
 | Recommended Decision | Hold |
 
 ---

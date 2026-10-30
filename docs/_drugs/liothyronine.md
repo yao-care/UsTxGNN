@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 863
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "LIOTHYRONINE"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "myxoma", "angiomyxoma", "hypotrichosis simplex of the scalp"]
 description: "Liothyronine: predicted new indication Renal hypodysplasia/aplasia (evidence level L5). Approved use: Not recorded in the local data"
@@ -53,7 +53,7 @@ No plausible mechanism links thyroid hormone replacement to this congenital kidn
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of NDAs | 5 (all ANDAs) |
+| Number of FDA Applications | 5 (all ANDAs) |
 | Recommended Decision | Hold |
 
 ---

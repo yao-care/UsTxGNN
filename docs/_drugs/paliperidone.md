@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **retinal dystrophy with or wit
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of NDAs | 12 authorizations in total (3 NDAs and 9 ANDAs) |
+| Number of FDA Applications | 12 authorizations in total (3 NDAs and 9 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

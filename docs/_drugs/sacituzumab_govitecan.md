@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "SACITUZUMAB GOVITECAN"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Sacituzumab Govitecan: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **drug-induced osteoporosis**, 
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

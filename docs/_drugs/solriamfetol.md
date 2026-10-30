@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "SOLRIAMFETOL"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "attention deficit hyperactivity disorder, inattentive type", "chondromyxoid fibroma", "specific developmental disorder", "variably protease-sensitive prionopathy", "multiple system atrophy", "postural orthostatic tachycardia syndrome", "disorder of peroxisomal alpha-, beta- and omega-oxidation"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Solriamfetol: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Narcolepsy (other listed indications: narcolepsy-cataplexy syndrome…"
 ---
 
@@ -51,7 +51,7 @@ with **5 clinical trials** (including 3 Phase 3 trials) and **6 publications** c
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L1 (see note below) |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* Under the strict rule (≥2 completed Phase 3 RCTs), only one completed Phase 3 RCT (NCT05972044) is registered, and its results have not been verified. The other completed trial is a small Phase 2/3 pilot, which has a published report. The L1 level assigned in the compiled data should therefore be read cautiously; a conservative reading would be L2.

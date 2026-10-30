@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **bronchitis** (score 0.9987), 
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses: 4 of 5) |
-| Number of NDAs | 5 (valid: 4) |
+| Number of FDA Applications | 5 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---

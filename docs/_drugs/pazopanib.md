@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1018
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "PAZOPANIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
 description: "Pazopanib: predicted new indication Liposarcoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ The TxGNN model's top-ranked prediction is a rare renal cell carcinoma subtype w
 | TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 for the top-ranked prediction; L3 for unclassified renal cell carcinoma |
 | US Market Status | Marketed (valid licenses: 7 of 7) |
-| Number of NDAs | 7 (valid: 7) |
+| Number of FDA Applications | 7 (valid: 7) |
 | Recommended Decision | Hold for the top-ranked prediction; Hold (research question) for unclassified renal cell carcinoma |
 
 **Note on the top-ranked prediction:** The rank-1 prediction (Xp11.2/TFE3 translocation renal cell carcinoma) has no clinical trials or literature in the data compiled for this report, so the high score rests on the model alone. The sections below therefore focus on the best-supported predictions in the same data: unclassified renal cell carcinoma (the closest to the rank-1 renal cell carcinoma context) and liposarcoma (the strongest trial evidence).

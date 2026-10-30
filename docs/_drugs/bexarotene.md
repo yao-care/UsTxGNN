@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 456
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Bexarotene: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L5). Approved use: Primary cutaneous T-cell lymphoma (including primary cutaneous T-cell…"
 monitor_inn: "BEXAROTENE"
 predicted_indications: ["primary cutaneous B-cell lymphoma", "Sezary syndrome", "lymphosarcoma"]
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **primary cutaneous B-cell lymp
 | TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 (model prediction only, no direct studies) |
 | US Market Status | Marketed (valid licenses: 9 of 9) |
-| Number of NDAs | 9 (valid: 9) |
+| Number of FDA Applications | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

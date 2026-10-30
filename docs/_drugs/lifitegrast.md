@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **penile fibromatosis** (Peyron
 | TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 2) |
-| Number of NDAs | 2 (valid: 1) |
+| Number of FDA Applications | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 Other predicted indications from the same analysis, all at evidence level L5 and Hold: palmar fibromatosis (0.9959), Ledderhose disease (0.9957), infantile digital fibromatosis (0.9953), severe nonproliferative diabetic retinopathy (0.9924), and diabetic retinopathy (0.9903).

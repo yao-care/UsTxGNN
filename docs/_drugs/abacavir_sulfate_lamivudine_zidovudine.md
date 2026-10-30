@@ -41,8 +41,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|---------|
 | Original Indication | Not recorded in the local data |
-| Market Status | Marketed (valid licenses: 11 of 13) |
-| Number of Licenses | 13 (valid: 11) |
+| US Market Status | Marketed (valid licenses: 11 of 13) |
+| Number of FDA Applications | 13 (valid: 11) |
 
 ---
 

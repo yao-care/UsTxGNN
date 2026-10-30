@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "PIOGLITAZONE"
 predicted_indications: ["opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Pioglitazone: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model (deep learning) predicts it may be effective for **Opsismodyspla
 | TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of NDAs | 6 authorizations in total (1 NDA, 5 ANDAs), all cancelled |
+| Number of FDA Applications | 6 authorizations in total (1 NDA, 5 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ---

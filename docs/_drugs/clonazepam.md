@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 3
 monitor_inn: "CLONAZEPAM"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Clonazepam: predicted new indication restless legs syndrome (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
@@ -49,7 +49,7 @@ Clonazepam is a benzodiazepine that enhances GABA-A receptor signalling. The TxG
 | TxGNN Prediction Score | 0.9965 |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of NDAs | at least 7 |
+| Number of FDA Applications | at least 7 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 984
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ofloxacin: predicted new indication Hyperamylasemia (evidence level L5). Approved use: Bacterial infections (typhoid fever, salmonellosis…"
 monitor_inn: "OFLOXACIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
@@ -53,7 +53,7 @@ The prediction rests on the model alone. The only predicted indication with mean
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 12 (all cancelled) |
+| Number of FDA Applications | 12 (all cancelled) |
 | Recommended Decision | Hold |
 
 ---

@@ -51,7 +51,7 @@ with **0 registered clinical trials** and **15 publications** (including one RCT
 | TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L2 (as assigned in the compiled data; see note below) |
 | US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of NDAs | 4 (all cancelled ANDA records) |
+| Number of FDA Applications | 4 (all cancelled ANDA records) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* Under the strict rules, L2 requires a completed Phase 2/3 RCT. No trials are registered, but the literature includes a controlled study in children and adolescents (PMID 11052409). The L2 level is therefore provisional and rests on that single publication.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "HYALURONIDASE"
 predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 description: "Hyaluronidase: predicted new indication Esotropia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -55,7 +55,7 @@ The top-ranked prediction (esotropia) has no supporting evidence. This report th
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | Esotropia L5 (adverse-event reports only); diabetic retinopathy L5 (nominal, outcomes unverified) |
 | US Market Status | Marketed (valid licenses: 10 of 10) |
-| Number of NDAs | 10 (valid: 10) |
+| Number of FDA Applications | 10 (valid: 10) |
 | Recommended Decision | Hold (esotropia); Hold, with a research question for diabetic retinopathy |
 
 ---

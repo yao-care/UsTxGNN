@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FENOFIBRATE"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Fenofibrate: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,7 +49,7 @@ Fenofibrate is a PPARα agonist marketed in the United States for lipid disorder
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 16) |
-| Number of NDAs | at least 16 |
+| Number of FDA Applications | at least 16 |
 | Number of approvals | At least 16 (1 NDA and 15 ANDAs); the list may be partial |
 | Recommended Decision | Hold |
 

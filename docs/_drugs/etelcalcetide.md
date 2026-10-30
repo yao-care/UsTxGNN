@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 4
 monitor_inn: "ETELCALCETIDE"
 predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices with bleeding", "esophageal varices without bleeding", "varicose disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Etelcalcetide: predicted new indication Hyperphosphatemia (evidence level L3). Approved use: Hyperparathyroidism (secondary hyperparathyroidism in hemodialysis)"
 ---
 
@@ -51,7 +51,7 @@ but there are currently **no registered clinical trials** and only **6 publicati
 | TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

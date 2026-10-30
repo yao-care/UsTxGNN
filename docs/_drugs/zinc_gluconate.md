@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ZINC GLUCONATE"
 predicted_indications: ["anemia of prematurity", "injury", "cell proliferation disorder", "perinatal disease", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "radiation or chemically induced disorder", "disease by subcellular system affected", "iatrogenic disease", "regional odontodysplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Zinc Gluconate: predicted new indication Anemia of prematurity (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be useful for **anemia of prematurity**, but **n
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 1) |
-| Number of NDAs | 1 |
+| Number of FDA Applications | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 790
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "ILOPROST"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
 description: "Iloprost: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ with **no registered clinical trials** but **20 publications** (mostly observati
 | TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 This report focuses on the highest-ranked prediction with meaningful supporting evidence (rank 3).*

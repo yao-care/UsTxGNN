@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 993
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "OMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Omeprazole: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ Omeprazole is a proton pump inhibitor originally used for acid-related condition
 | TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of NDAs | 10 authorizations (2 NDAs, 8 ANDAs) |
+| Number of FDA Applications | 10 authorizations (2 NDAs, 8 ANDAs) |
 | Recommended Decision | Hold |
 
 ---

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 717
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "FLUNISOLIDE"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "2-hydroxyethyl methacrylate sensitization", "polyp of vocal cord", "polyp of middle ear", "fibroepithelial polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
 description: "Flunisolide: predicted new indication Atopic eczema (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ The evidence is indirect and rests mainly on class-level corticosteroid pharmaco
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

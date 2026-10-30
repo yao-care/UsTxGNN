@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "REGADENOSON"
 predicted_indications: ["anaphylaxis", "food-dependent exercise-induced anaphylaxis", "esotropia", "pseudoallergy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Regadenoson: predicted new indication Anaphylaxis (evidence level L5). Approved use: Diagnostic agent for radionuclide myocardial perfusion imaging (MPI)"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be relevant to **anaphylaxis**, but **no clinica
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 12 of 12) |
-| Number of NDAs | 12 (valid: 12) |
+| Number of FDA Applications | 12 (valid: 12) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

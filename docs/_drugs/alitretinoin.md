@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ALITRETINOIN"
 predicted_indications: ["amenorrhea (disease)", "acne (disease)", "atypical coarctation of aorta", "pregnancy associated osteoporosis", "aortic malformation", "postmenopausal osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "breast fibrocystic disease", "benign mammary dysplasia", "Worth syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Alitretinoin: predicted new indication amenorrhea (evidence level L5). Approved use: Not stated in the US license record. Drug-level pharmacology data lis…"
 ---
 
@@ -49,7 +49,7 @@ Alitretinoin (9-cis-retinoic acid) is a retinoid that was marketed in the US as 
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

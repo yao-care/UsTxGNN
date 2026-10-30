@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1175
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Sorafenib: predicted new indication Liposarcoma (evidence level L2). Approved use: Hepatocellular carcinoma (also liver cancer subtypes…"
 monitor_inn: "SORAFENIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **Liposarcoma**, but support is
 | TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L2 |
 | US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of NDAs | 6 (valid: 6) |
+| Number of FDA Applications | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -51,7 +51,7 @@ Support is very thin: the data compiled for this report contain **no clinical tr
 | TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 2) |
-| Number of NDAs | 2 (valid: 1) |
+| Number of FDA Applications | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

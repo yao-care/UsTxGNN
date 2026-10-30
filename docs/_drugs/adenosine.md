@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ADENOSINE"
 predicted_indications: ["obsolete bundle branch block"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Adenosine: predicted new indication obsolete bundle branch block (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be relevant to **obsolete bundle branch block**,
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | at least 8 |
+| Number of FDA Applications | at least 8 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -50,7 +50,7 @@ Breast carcinoma is already among docetaxel's original indications, so this is a
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L1 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 15 (all cancelled) |
+| Number of FDA Applications | 15 (all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ZAFIRLUKAST"
 predicted_indications: ["bronchitis", "obstructive lung disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Zafirlukast: predicted new indication Bronchitis (evidence level L5). Approved use: Asthma (including intrinsic asthma and allergic asthma)"
 ---
 
@@ -51,7 +51,7 @@ The second-ranked prediction, **Obstructive Lung Disease**, is backed by **18 pu
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 (model prediction only) |
 | US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of NDAs | 4 (valid: 4) |
+| Number of FDA Applications | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

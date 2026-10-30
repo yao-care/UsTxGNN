@@ -52,7 +52,7 @@ However, **no clinical trials** are registered for this indication, and none of 
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of NDAs | 12 (all generic ANDAs) |
+| Number of FDA Applications | 12 (all generic ANDAs) |
 | Recommended Decision | Hold |
 
 ---

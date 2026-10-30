@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ELAGOLIX"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Elagolix: predicted new indication Amenorrhea (evidence level L4). Approved use: Endometriosis (including endometriosis of the uterus)"
 ---
 
@@ -53,7 +53,7 @@ Amenorrhea appears to be an expected pharmacological effect of the drug rather t
 | TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

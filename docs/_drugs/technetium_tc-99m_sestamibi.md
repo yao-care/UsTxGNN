@@ -51,7 +51,7 @@ The only prediction with any literature is **multiple endocrine neoplasia** (ran
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 3) |
-| Number of NDAs | 3 (valid: 2) |
+| Number of FDA Applications | 3 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

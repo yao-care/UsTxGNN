@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "DENOSUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Denosumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Osteoporosis (postmenopausal osteoporosis, drug-induced osteoporosis)"
 ---
 
@@ -51,7 +51,7 @@ but currently there are **0 clinical trials** and **0 directly relevant publicat
 | TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 10 of 10) |
-| Number of NDAs | 10 (valid: 10) |
+| Number of FDA Applications | 10 (valid: 10) |
 | Recommended Decision | Hold |
 
 A second, related prediction, **diabetic retinopathy** (score 0.9923, Evidence Level L4, Hold), is discussed in the evidence sections below because it is the only prediction with any supporting literature.

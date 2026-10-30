@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 623
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "DORZOLAMIDE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
 description: "Dorzolamide: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,7 +49,7 @@ Dorzolamide is a topical carbonic anhydrase inhibitor, originally used to lower 
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 (model prediction only) |
 | US Market Status | Marketed (valid licenses: 9 of 9) |
-| Number of NDAs | 9 (valid: 9) |
+| Number of FDA Applications | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

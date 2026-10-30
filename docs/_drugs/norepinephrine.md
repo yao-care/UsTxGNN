@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "NOREPINEPHRINE"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Norepinephrine: predicted new indication Obstructive lung disease (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **obstructive lung disease**, b
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

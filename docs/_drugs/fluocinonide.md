@@ -51,7 +51,7 @@ Among the other top predictions, only alopecia areata has any related material (
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 13 (all ANDA generic applications, all cancelled) |
+| Number of FDA Applications | 13 (all ANDA generic applications, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

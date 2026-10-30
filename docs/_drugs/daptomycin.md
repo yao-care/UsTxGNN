@@ -53,7 +53,7 @@ This prediction is best viewed as a model artifact rather than a real repurposin
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 16) |
-| Number of NDAs | 17 authorizations in total (all cancelled; includes NDAs and ANDAs) |
+| Number of FDA Applications | 17 authorizations in total (all cancelled; includes NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
 ---

@@ -46,8 +46,8 @@ The TxGNN deep-learning model produced candidates for Pilocarpine at a score of 
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| Market status in the United States | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | at least 10 |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
+| Number of FDA Applications | at least 10 |
 
 ## Known uses among the model's candidates
 

@@ -49,7 +49,7 @@ Apixaban is an oral direct factor Xa inhibitor (anticoagulant). The TxGNN model 
 | TxGNN Prediction Score | 0.9902 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses: 3 of 5) |
-| Number of NDAs | 5 (valid: 3) |
+| Number of FDA Applications | 5 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

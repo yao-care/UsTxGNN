@@ -50,7 +50,7 @@ but there are currently **0 clinical trials** and **20 publications** on migrain
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of NDAs | 11 authorizations in total (1 NDA, 10 ANDAs), all with cancelled status |
+| Number of FDA Applications | 11 authorizations in total (1 NDA, 10 ANDAs), all with cancelled status |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

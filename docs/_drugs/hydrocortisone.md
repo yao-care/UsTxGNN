@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **alopecia areata**, but only *
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L1 (formally met by one Phase 3 RCT, but see caveats below) |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | 9 (all cancelled; the records are mostly ANDA or OTC monograph entries) |
+| Number of FDA Applications | 9 (all cancelled; the records are mostly ANDA or OTC monograph entries) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

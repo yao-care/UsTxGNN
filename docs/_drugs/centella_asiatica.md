@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "CENTELLA ASIATICA"
 predicted_indications: ["insomnia (disease)", "anxiety", "sleep disorder, initiating and maintaining sleep"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Centella Asiatica: predicted new indication insomnia (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ but the only supporting study is **1 preclinical zebrafish publication**, with *
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of NDAs | at least 4 |
+| Number of FDA Applications | at least 4 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

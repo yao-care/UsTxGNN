@@ -50,7 +50,7 @@ but the evidence is thin: the only registered trial (**1 clinical trial**) was w
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of NDAs | 12 (all generic ANDAs) |
+| Number of FDA Applications | 12 (all generic ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

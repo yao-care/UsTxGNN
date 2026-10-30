@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but t
 | TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | 9 licenses in total (2 NDAs and 7 ANDAs) |
+| Number of FDA Applications | 9 licenses in total (2 NDAs and 7 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

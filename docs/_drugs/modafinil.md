@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "MODAFINIL"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Modafinil: predicted new indication insomnia (evidence level L3). Approved use: Narcolepsy (including narcolepsy with cataplexy)"
 ---
 
@@ -53,7 +53,7 @@ The mechanistic link is weak, because a wake-promoting drug could plausibly wors
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of NDAs | 7 (all cancelled) |
+| Number of FDA Applications | 7 (all cancelled) |
 | Recommended Decision | Hold |
 
 ---

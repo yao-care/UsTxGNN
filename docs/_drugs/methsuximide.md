@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 914
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "METHSUXIMIDE"
 predicted_indications: ["insomnia (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "sleep disorder, initiating and maintaining sleep", "nephrogenic diabetes insipidus", "restless legs syndrome", "trichotillomania", "Wernicke-Korsakoff syndrome"]
 description: "Methsuximide: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **insomnia**, but **no clinical
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 

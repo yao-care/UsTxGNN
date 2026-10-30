@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 524
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Chlorthalidone: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Hypertensive disorder, hypertension, congestive heart failure"
 monitor_inn: "CHLORTHALIDONE"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
@@ -51,7 +51,7 @@ but **0 clinical trials** and **0 publications** currently support this predicti
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | 9 (all ANDAs, all cancelled) |
+| Number of FDA Applications | 9 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

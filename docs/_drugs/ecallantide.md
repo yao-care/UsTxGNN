@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 6
 monitor_inn: "ECALLANTIDE"
 predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "Peyronie disease", "pancreatitis", "esophageal varices without bleeding", "esophageal varices with bleeding"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ecallantide: predicted new indication C1 inhibitor deficiency (evidence level L1). Approved use: Hereditary angioedema"
 ---
 
@@ -51,7 +51,7 @@ Currently, **7 clinical trials** (3 phase 3 studies, 2 of them randomized and pl
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L1 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

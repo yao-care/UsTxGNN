@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "ESLICARBAZEPINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Eslicarbazepine: predicted new indication Migraine disorder (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ with **1 clinical trial** (a completed Phase 2 study) and **only indirect litera
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L2 (one completed Phase 2 RCT, but no results available to judge efficacy) |
 | US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of NDAs | 7 authorizations in total (1 NDA, 6 ANDAs) |
+| Number of FDA Applications | 7 authorizations in total (1 NDA, 6 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

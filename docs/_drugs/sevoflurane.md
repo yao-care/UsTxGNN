@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "SEVOFLURANE"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "migraine disorder", "inclusion body myositis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Sevoflurane: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not specified in the data compiled for this report (used as an inhale…"
 ---
 
@@ -49,7 +49,7 @@ Sevoflurane is an inhaled general anesthetic. The TxGNN model predicts it may be
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of NDAs | 6 (valid: 6) |
+| Number of FDA Applications | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

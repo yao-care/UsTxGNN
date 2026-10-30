@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "BIOTIN"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Biotin: predicted new indication Dyspepsia (evidence level L5). Approved use: Nutritional biotin deficiency"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **dyspepsia**, but there are cu
 | TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of NDAs | 3 (all cancelled) |
+| Number of FDA Applications | 3 (all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

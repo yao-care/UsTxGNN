@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "VINBLASTINE"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Vinblastine: predicted new indication Rhabdomyosarcoma (disease) (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ but there are currently **0 registered clinical trials** and only **7 publicatio
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

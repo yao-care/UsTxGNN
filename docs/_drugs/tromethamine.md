@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1268
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "TROMETHAMINE"
 predicted_indications: ["allergic urticaria", "rosacea conjunctivitis", "recalcitrant atopic dermatitis", "post-bacterial disorder", "otitis externa", "postinfectious vasculitis", "infective urethral stricture", "post-infectious syndrome", "Chagas cardiomyopathy", "IgE responsiveness, atopic"]
 description: "Tromethamine: predicted new indication Allergic urticaria (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **Allergic Urticaria**, but the
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 9 of 9) |
-| Number of NDAs | 9 (valid: 9) |
+| Number of FDA Applications | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ---

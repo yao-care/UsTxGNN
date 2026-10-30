@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1032
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "PERAMPANEL"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel: predicted new indication Beta-ketothiolase deficiency (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ Perampanel is an antiseizure medication that blocks AMPA glutamate receptors. It
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of NDAs | 5 authorizations in total (2 NDAs, 3 ANDAs), all cancelled |
+| Number of FDA Applications | 5 authorizations in total (2 NDAs, 3 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ---

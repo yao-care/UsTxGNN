@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "HYOSCYAMINE"
 predicted_indications: ["gastroduodenitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Hyoscyamine: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Peptic ulcer disease"
 ---
 
@@ -51,7 +51,7 @@ but currently there are **0 registered clinical trials** and only **1 publicatio
 | TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 1) |
-| Number of NDAs | 1 |
+| Number of FDA Applications | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

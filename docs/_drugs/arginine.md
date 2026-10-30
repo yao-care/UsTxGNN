@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "ARGININE"
 predicted_indications: ["gastroparesis (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Arginine: predicted new indication Gastroparesis (evidence level L4). Approved use: Not specified in the available data"
 ---
 
@@ -51,7 +51,7 @@ but there are currently **0 clinical trials** and only **9 publications**, all p
 | TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| Number of FDA Applications | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

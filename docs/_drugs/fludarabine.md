@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "FLUDARABINE"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Fludarabine: predicted new indication Plasma cell myeloma (evidence level L2). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -51,7 +51,7 @@ In nearly all of these studies, fludarabine is a conditioning or lymphodepletion
 | TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L2 |
 | US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of NDAs | 4 (valid: 4) |
+| Number of FDA Applications | 4 (valid: 4) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

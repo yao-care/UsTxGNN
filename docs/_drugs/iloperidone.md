@@ -52,7 +52,7 @@ The TxGNN model's top-ranked prediction is **retinal dystrophy with or without e
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 (model prediction only) |
 | US Market Status | Marketed (valid licenses: 1 of 2) |
-| Number of NDAs | 2 (valid: 1) |
+| Number of FDA Applications | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1230
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "TIOCONAZOLE"
 predicted_indications: ["vulvovaginitis", "vulvitis", "postmenopausal atrophic vaginitis"]
 description: "Tioconazole: predicted new indication Vulvovaginitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ Currently there are **0 registered clinical trials** and **19 publications** (mo
 | TxGNN Prediction Score | 0.9923 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

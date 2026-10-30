@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "METHOHEXITAL"
 predicted_indications: ["insomnia (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Methohexital: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ This is a model-only prediction with no direct clinical evidence.
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

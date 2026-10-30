@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 992
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Omalizumab: predicted new indication Bronchitis (evidence level L3). Approved use: Asthma (allergic and intrinsic) and chronic idiopathic urticaria"
 monitor_inn: "OMALIZUMAB"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
@@ -53,7 +53,7 @@ Among the top predictions, the stronger signals are in atopic eczema and dermati
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---

@@ -51,7 +51,7 @@ with **1 clinical trial** and **20 publications** currently supporting this dire
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of NDAs | 8 (2 NDAs and 6 ANDAs) |
+| Number of FDA Applications | 8 (2 NDAs and 6 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

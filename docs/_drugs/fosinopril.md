@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 738
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "FOSINOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 description: "Fosinopril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of NDAs | 4 (all cancelled; listed as ANDAs) |
+| Number of FDA Applications | 4 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

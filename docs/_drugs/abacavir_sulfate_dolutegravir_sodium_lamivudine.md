@@ -42,7 +42,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |------|---------|
 | Original Indication | Not recorded in the local data |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 0 |
+| Number of FDA Applications | 0 |
 
 ---
 

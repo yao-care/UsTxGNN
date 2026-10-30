@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1291
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "VILOXAZINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "Creutzfeldt-Jakob disease", "hypersomnia (disease)", "circadian rhythm sleep disorder", "chondromyxoid fibroma", "X-linked adrenoleukodystrophy", "attention deficit hyperactivity disorder, inattentive type"]
 description: "Viloxazine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L1). Approved use: Not recorded in the local data"
@@ -53,7 +53,7 @@ Note that ADHD is already an FDA-approved use of extended-release viloxazine, so
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L1 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

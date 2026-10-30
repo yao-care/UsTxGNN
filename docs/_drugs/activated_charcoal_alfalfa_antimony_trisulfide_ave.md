@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -51,7 +51,7 @@ This formulation is a 22-ingredient combination of digestive enzymes, bitter bot
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Not Evaluable |
 | US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of NDAs | 0 |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ---

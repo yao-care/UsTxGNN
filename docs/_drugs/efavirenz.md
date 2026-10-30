@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EFAVIRENZ"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Efavirenz: predicted new indication Feline acquired immunodeficiency syndrome (a veterinary indication) (evidence level L4). Approved use: HIV infectious disease"
 ---
 
@@ -51,7 +51,7 @@ but currently only **0 clinical trials** and **1 publication** (a preclinical bi
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 14 of 14) |
-| Number of NDAs | 14 (valid: 14) |
+| Number of FDA Applications | 14 (valid: 14) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

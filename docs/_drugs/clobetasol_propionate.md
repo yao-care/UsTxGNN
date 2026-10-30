@@ -50,7 +50,7 @@ The TxGNN model predicts it may be relevant for **vulvar inverted follicular ker
 | TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 17) |
-| Number of NDAs | at least 18 |
+| Number of FDA Applications | at least 18 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

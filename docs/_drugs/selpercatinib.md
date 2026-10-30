@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Selpercatinib"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Selpercatinib: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not specified in the approval records compiled for this report (the a…"
 ---
 
@@ -49,7 +49,7 @@ Selpercatinib is a selective RET kinase inhibitor used in RET-driven cancers suc
 | TxGNN Prediction Score | 0.9918 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

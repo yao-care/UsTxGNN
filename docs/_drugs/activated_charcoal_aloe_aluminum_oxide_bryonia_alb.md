@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 164
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,8 +42,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |------|---------|
 | Approved Indications | No approved indication record |
 | Predicted Novel Indications | None (TxGNN generated no predictions) |
-| U.S. Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of NDAs | 0 |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
+| Number of FDA Applications | 0 |
 
 ---
 

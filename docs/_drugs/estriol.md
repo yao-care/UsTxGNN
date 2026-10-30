@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "ESTRIOL"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Estriol: predicted new indication Amenorrhea (evidence level L3). Approved use: Not available"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **amenorrhea**, with **0 regist
 | TxGNN Prediction Score | 0.9918 |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of NDAs | 4 (valid: 4) |
+| Number of FDA Applications | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

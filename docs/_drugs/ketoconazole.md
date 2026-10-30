@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 825
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ketoconazole: predicted new indication Acne (disease) (evidence level L4). Approved use: Fungal skin infections (e.g., tinea pedis, seborrheic dermatitis…"
 monitor_inn: "KETOCONAZOLE"
 predicted_indications: ["acne (disease)"]
@@ -51,7 +51,7 @@ with **1 clinical trial** (a small, ongoing, non-placebo-controlled study) and a
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 12 licenses (1 NDA, 11 ANDAs or other) |
+| Number of FDA Applications | 12 licenses (1 NDA, 11 ANDAs or other) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

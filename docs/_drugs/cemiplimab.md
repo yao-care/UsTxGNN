@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 511
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cemiplimab: predicted new indication Gallbladder adenosquamous carcinoma (evidence level L5). Approved use: Squamous cell carcinoma"
 monitor_inn: "CEMIPLIMAB"
 predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "external ear basal cell carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]
@@ -51,7 +51,7 @@ but **no clinical trials and no publications** currently support this specific p
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

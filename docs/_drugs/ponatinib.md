@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "PONATINIB"
 predicted_indications: ["fibromatosis, gingival", "liposarcoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ponatinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Chronic myelogenous leukemia, BCR-ABL1 positive"
 ---
 
@@ -51,7 +51,7 @@ The second-ranked prediction, liposarcoma, is supported by only **1 preclinical 
 | TxGNN Prediction Score | 0.9904 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

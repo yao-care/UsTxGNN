@@ -51,7 +51,7 @@ The evidence is weak and limited to tuberculosis-related eye disease.
 | TxGNN Prediction Score | 0.9936 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 4 of 7) |
-| Number of NDAs | 7 (valid: 4) |
+| Number of FDA Applications | 7 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

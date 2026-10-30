@@ -53,7 +53,7 @@ with **0 registered clinical trials** but **20 publications** (including a place
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 13 licenses in total (all cancelled) |
+| Number of FDA Applications | 13 licenses in total (all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

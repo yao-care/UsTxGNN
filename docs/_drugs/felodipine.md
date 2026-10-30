@@ -50,7 +50,7 @@ The TxGNN model's top-ranked prediction is **pulmonary hypertension with unclear
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of NDAs | 6 (all ANDAs, all cancelled) |
+| Number of FDA Applications | 6 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

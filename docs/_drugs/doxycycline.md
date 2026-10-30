@@ -53,7 +53,7 @@ That direction is backed by **11 clinical trials** (several completed Phase 4 an
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 (punctate epithelial keratoconjunctivitis); L1 (post-bacterial disorder) |
 | US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of NDAs | 15 (1 NDA, 14 ANDAs) |
+| Number of FDA Applications | 15 (1 NDA, 14 ANDAs) |
 | Recommended Decision | Hold (top-ranked prediction); Proceed with Guardrails (post-bacterial disorder / doxy-PEP) |
 
 ---

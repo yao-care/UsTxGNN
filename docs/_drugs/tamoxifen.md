@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1198
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "TAMOXIFEN"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Tamoxifen: predicted new indication Mammary Paget disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **mammary Paget disease**, with
 | TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of NDAs | 5 (valid: 5) |
+| Number of FDA Applications | 5 (valid: 5) |
 | Recommended Decision | Proceed with Guardrails |
 
 Note: The highest TxGNN score belongs to mammary Paget disease (0.9969), but its evidence is indirect (L4, Hold). Breast carcinoma in situ is the best-supported prediction in the data compiled for this report, so this report focuses on it.

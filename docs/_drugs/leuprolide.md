@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "LEUPROLIDE"
 predicted_indications: ["osteoarthritis", "pseudoachondroplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Leuprolide: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ but currently **0 clinical trials** and **1 publication** (an unrelated case rep
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of NDAs | 6 (valid: 6) |
+| Number of FDA Applications | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

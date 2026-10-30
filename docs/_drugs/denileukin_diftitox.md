@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "DENILEUKIN DIFTITOX"
 predicted_indications: ["plasmacytoma", "neurolymphomatosis", "Richter syndrome", "metastatic neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Denileukin Diftitox: predicted new indication Metastatic neoplasm (evidence level L2). Approved use: Primary cutaneous T-cell lymphoma (primary cutaneous T-cell non-Hodgk…"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **metastatic neoplasm** (the hi
 | TxGNN Prediction Score | 0.9901 (metastatic neoplasm) |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 **Note on predictions:** The three highest-scoring predictions (plasmacytoma 0.9987, neurolymphomatosis 0.9986, Richter syndrome 0.9916) are model predictions only (L5) with no registered trials or publications. Metastatic neoplasm is the first prediction with actual study evidence and is the focus of this report.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "BENZNIDAZOLE"
 predicted_indications: ["congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Benznidazole: predicted new indication Congenital analbuminemia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ but currently **0 clinical trials** and **0 publications** support this predicti
 | TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

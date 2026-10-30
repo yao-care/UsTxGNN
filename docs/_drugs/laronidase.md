@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 836
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Laronidase: predicted new indication Lysosomal storage disease with skeletal involvement (evidence level L4). Approved use: Mucopolysaccharidosis I (Hurler, Hurler-Scheie and Scheie syndromes)"
 monitor_inn: "LARONIDASE"
 predicted_indications: ["lysosomal storage disease with skeletal involvement", "Sanfilippo syndrome"]
@@ -51,7 +51,7 @@ The prediction largely overlaps with the existing MPS I indication, so it is not
 | TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

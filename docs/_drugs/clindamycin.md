@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **punctate epithelial keratocon
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 13) |
-| Number of NDAs | at least 14 |
+| Number of FDA Applications | at least 14 |
 | Recommended Decision | Hold |
 
 ---

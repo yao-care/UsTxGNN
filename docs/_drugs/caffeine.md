@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 484
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Caffeine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, migraine, pharyngitis…"
 monitor_inn: "CAFFEINE"
 predicted_indications: ["nasal cavity disease", "thrombotic disease", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **Nasal Cavity Disease**, but t
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | 8 licence records (all cancelled) |
+| Number of FDA Applications | 8 licence records (all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

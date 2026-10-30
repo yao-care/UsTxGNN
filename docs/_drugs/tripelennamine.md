@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1265
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "TRIPELENNAMINE"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis"]
 description: "Tripelennamine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ Currently there are **0 clinical trials** and **1 publication** (a 1954 clinical
 | TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---

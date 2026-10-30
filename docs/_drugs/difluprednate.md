@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **familial adrenal hypoplasia w
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 7 of 8) |
-| Number of NDAs | 8 (valid: 7) |
+| Number of FDA Applications | 8 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "DIETHYLPROPION"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Diethylpropion: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -53,7 +53,7 @@ The prediction is a model output only and has no credible mechanistic or clinica
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of NDAs | 3 (all cancelled; these are ANDA generic applications) |
+| Number of FDA Applications | 3 (all cancelled; these are ANDA generic applications) |
 | Recommended Decision | Hold |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "DAROLUTAMIDE"
 predicted_indications: ["homozygous familial hypercholesterolemia", "multiple endocrine neoplasia", "HIV infectious disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Darolutamide: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -53,7 +53,7 @@ The evidence rests on the model score alone.
 | TxGNN Prediction Score | 0.9911 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

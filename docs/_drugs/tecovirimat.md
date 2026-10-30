@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1204
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tecovirimat: predicted new indication Hordeolum (evidence level L5). Approved use: Smallpox"
 monitor_inn: "TECOVIRIMAT"
 predicted_indications: ["hordeolum", "vibrio infectious disease", "Klebsiella infectious disease", "noma", "lumpy skin disease", "human infection by orthopoxvirus", "idiopathic severe pneumococcemia", "coinfection", "phlebotomus fever"]
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **hordeolum** (stye), but there
 | TxGNN Prediction Score | 0.9966 |
 | Evidence Level | L5 (model prediction only) |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---

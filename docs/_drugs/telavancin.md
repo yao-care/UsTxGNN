@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "TELAVANCIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "septicemic plague", "premalignant hematological system disease", "hematological disease associated with an acquired peripheral neuropathy", "monoclonal gammopathy", "congenital hematological disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Telavancin: predicted new indication Hyperamylasemia (evidence level L5). Approved use: Bacterial pneumonia"
 ---
 
@@ -53,7 +53,7 @@ The high score appears to be a TxGNN model (deep learning) artifact rather than 
 | TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

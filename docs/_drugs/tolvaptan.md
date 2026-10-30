@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1241
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "TOLVAPTAN"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 description: "Tolvaptan: predicted new indication Renal-hepatic-pancreatic dysplasia (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ with **0 registered clinical trials** and **20 publications** (including 2 RCTs 
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 (based on the pivotal ADPKD RCTs; see note below) |
 | US Market Status | Marketed (valid licenses: 8 of 8) |
-| Number of NDAs | 8 (valid: 8) |
+| Number of FDA Applications | 8 (valid: 8) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* The RCTs (TEMPO 3:4 and REPRISE) were conducted in ADPKD generally, not in the GANAB-associated PKD3 form. No clinical trials specific to the predicted indication are registered, so the L1 rating applies to the closely related parent disease, and the direct evidence for PKD3 is weaker.

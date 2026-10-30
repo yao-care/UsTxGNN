@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "HALCINONIDE"
 predicted_indications: ["annular atrophic lichen planus", "lichen planus pigmentosus", "hypertrophic lichen planus", "vulvar inverted follicular keratosis", "lichen planus pemphigoides", "alopecia areata", "telogen effluvium", "alopecia mucinosa", "hereditary hypotrichosis with recurrent skin vesicles", "Quinquaud's folliculitis decalvans"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Halcinonide: predicted new indication Annular atrophic lichen planus (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -53,7 +53,7 @@ Across the 10 predicted indications, the only published item is a 1977 title-onl
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of NDAs | 4 (valid: 4) |
+| Number of FDA Applications | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---

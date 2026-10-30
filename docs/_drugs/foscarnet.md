@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "FOSCARNET"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "rheumatoid arthritis", "diabetic nephropathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Foscarnet: predicted new indication autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (evidence level L5). Approved use: Not stated in the available data (approved-indication tex…"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model (deep learning) predicts it may be effective for **autosomal dom
 | TxGNN Prediction Score | 0.9956 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of NDAs | 6 (valid: 6) |
+| Number of FDA Applications | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

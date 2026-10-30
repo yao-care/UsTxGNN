@@ -50,7 +50,7 @@ The TxGNN model predicts it may be useful for **cauda equina neoplasm**, but the
 | TxGNN Prediction Score | 0.9930 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of NDAs | at least 6 |
+| Number of FDA Applications | at least 6 |
 | Number of approvals | At least 6 (1 NDA and 5 ANDAs; the list may be partial) |
 | Recommended Decision | Hold |
 

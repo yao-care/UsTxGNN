@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Insulin lispro"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Insulin Lispro: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ The high score comes from the TxGNN model (deep learning) and may reflect simila
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of NDAs | 6 (all cancelled; listed as BLAs) |
+| Number of FDA Applications | 6 (all cancelled; listed as BLAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

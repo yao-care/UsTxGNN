@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "PROPOFOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Propofol: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the available license records (propofol is generally kn…"
 ---
 
@@ -51,7 +51,7 @@ with **3 clinical trials** and **20 publications** currently supporting this dir
 | TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L2 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | 9 licenses (1 NDA and 8 ANDAs) |
+| Number of FDA Applications | 9 licenses (1 NDA and 8 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

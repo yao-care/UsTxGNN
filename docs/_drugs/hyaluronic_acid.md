@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "HYALURONIC ACID"
 predicted_indications: ["dry eye syndrome", "Sjogren syndrome", "xerophthalmia", "psoriasis", "dermatitis, atopic", "prolapse of lacrimal gland", "parapsoriasis", "pityriasis lichenoides", "severe nonproliferative diabetic retinopathy", "exanthem (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Hyaluronic Acid: predicted new indication Dry eye syndrome (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
@@ -53,7 +53,7 @@ with **10 clinical trials** and **20 publications** currently supporting this di
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L1 (per the evidence scoring; note that only one Phase 3 RCT is listed, see below) |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| Number of FDA Applications | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

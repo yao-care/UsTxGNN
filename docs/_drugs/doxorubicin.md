@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 626
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "DOXORUBICIN"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
 description: "Doxorubicin: predicted new indication Ewing sarcoma (evidence level L2). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ with **28 clinical trials** and **20 publications** currently supporting this di
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L2 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 12 (2 NDAs and 10 ANDAs) |
+| Number of FDA Applications | 12 (2 NDAs and 10 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
 Note: the data compiled for this report assigns L2. By the stated rules, the several completed Phase 3 trials in the list would argue for L1, but most do not report doxorubicin-specific results and their relevance grading is pending. L2 is retained as the conservative level.

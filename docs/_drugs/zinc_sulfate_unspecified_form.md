@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ZINC SULFATE, UNSPECIFIED FORM"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "bronchitis", "diabetic cataract", "dermatitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Zinc Sulfate Unspecified Form: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not stated in the available data"
 ---
 
@@ -51,7 +51,7 @@ Currently there are **0 clinical trials** and **0 publications** supporting this
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 Other predicted indications, all at evidence level L5 and Hold:

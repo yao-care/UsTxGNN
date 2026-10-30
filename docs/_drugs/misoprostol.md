@@ -51,7 +51,7 @@ The evidence is weak, so the recommendation is **Hold**.
 | TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of NDAs | 5 (all cancelled; 1 NDA and 4 ANDAs) |
+| Number of FDA Applications | 5 (all cancelled; 1 NDA and 4 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

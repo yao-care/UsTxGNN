@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **"obsolete vitamin D deficienc
 | TxGNN Prediction Score | 0.9948 |
 | Evidence Level | L5 (model prediction only) |
 | US Market Status | Marketed (valid licenses: 4 of 5) |
-| Number of NDAs | 5 (valid: 4) |
+| Number of FDA Applications | 5 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

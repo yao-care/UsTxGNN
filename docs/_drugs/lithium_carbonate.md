@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "LITHIUM CARBONATE"
 predicted_indications: ["pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "myosclerosis", "brachyolmia-amelogenesis imperfecta syndrome", "brachydactyly-syndactyly syndrome", "Behr syndrome", "WHIM syndrome", "combined immunodeficiency due to moesin deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Lithium Carbonate: predicted new indication Pseudoachondroplasia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -53,7 +53,7 @@ This is a model-only prediction with no direct supporting evidence.
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of NDAs | 10 authorisation records (2 NDAs and 7 ANDAs, plus 1 record without a number) |
+| Number of FDA Applications | 10 authorisation records (2 NDAs and 7 ANDAs, plus 1 record without a number) |
 | Recommended Decision | Hold |
 
 ---

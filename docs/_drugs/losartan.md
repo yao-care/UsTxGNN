@@ -51,7 +51,7 @@ but the data compiled for this report show **0 clinical trials** and only **1 pu
 | TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | 9 (all cancelled; these are ANDAs) |
+| Number of FDA Applications | 9 (all cancelled; these are ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

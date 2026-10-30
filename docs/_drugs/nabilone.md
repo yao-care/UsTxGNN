@@ -49,7 +49,7 @@ Nabilone is a synthetic cannabinoid capsule (marketed in the US as Cesamet) that
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L4 |
 | US Market Status | Not marketed (licenses canceled: 1 of 1) |
-| Number of NDAs | 1 (valid: 0) |
+| Number of FDA Applications | 1 (valid: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

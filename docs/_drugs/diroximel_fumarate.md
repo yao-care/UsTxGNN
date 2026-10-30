@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DIROXIMEL FUMARATE"
 predicted_indications: ["diabetic cataract", "diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "tetanic cataract", "immature cataract", "craniostenosis cataract", "nuclear senile cataract", "cortical cataract", "diabetes mellitus type 2 associated cataract", "mature cataract"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Diroximel Fumarate: predicted new indication Diabetic cataract (evidence level L5). Approved use: Not listed in the available regulatory data"
 ---
 
@@ -51,7 +51,7 @@ but **0 clinical trials** and **0 publications** currently support this directio
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

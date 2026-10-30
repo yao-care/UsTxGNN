@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "TAZAROTENE"
 predicted_indications: ["seborrheic dermatitis", "seborrheic keratosis", "vulvar inverted follicular keratosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tazarotene: predicted new indication Seborrheic dermatitis (evidence level L5). Approved use: Psoriasis, parapsoriasis, acne"
 ---
 
@@ -51,7 +51,7 @@ but there are currently **0 clinical trials** and **0 publications** directly su
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of NDAs | 11 (all cancelled; includes both NDAs and ANDAs) |
+| Number of FDA Applications | 11 (all cancelled; includes both NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

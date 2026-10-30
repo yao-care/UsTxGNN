@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "HYDROXOCOBALAMIN"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Hydroxocobalamin: predicted new indication Esophageal varices with bleeding (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **esophageal varices with bleed
 | TxGNN Prediction Score | 0.9923 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

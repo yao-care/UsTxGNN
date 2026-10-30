@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "PREDNISONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "tenosynovitis", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Prednisone: predicted new indication Alopecia areata (evidence level L3). Approved use: Autoimmune disease (broad indication set including Crohn disease…"
 ---
 
@@ -51,7 +51,7 @@ with **no registered clinical trials** but **20 publications** (including 1 rand
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 12 (all are ANDAs, all cancelled) |
+| Number of FDA Applications | 12 (all are ANDAs, all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

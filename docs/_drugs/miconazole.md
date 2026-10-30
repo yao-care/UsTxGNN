@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "MICONAZOLE"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Miconazole: predicted new indication Acne (disease) (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **acne**, with **0 registered c
 | TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L3 (observational or small clinical studies and a review only; no completed Phase 2/3 RCTs) |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of NDAs | 6 (all cancelled; the records are ANDA or other license numbers) |
+| Number of FDA Applications | 6 (all cancelled; the records are ANDA or other license numbers) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BRODALUMAB"
 predicted_indications: ["strongyloidiasis", "eye disease", "vitamin deficiency disorder", "von Hippel anomaly", "isolated optic neuritis", "optic perineuritis", "chronic relapsing inflammatory optic neuropathy", "recurrent idiopathic neuroretinitis", "episcleritis periodica fugax", "nodular episcleritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Brodalumab: predicted new indication Strongyloidiasis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **strongyloidiasis**, but **0 c
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

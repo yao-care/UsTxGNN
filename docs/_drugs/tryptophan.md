@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "TRYPTOPHAN"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tryptophan: predicted new indication Restless legs syndrome (evidence level L5). Approved use: Not available"
 ---
 
@@ -53,7 +53,7 @@ Restless legs syndrome, the top-ranked prediction, has **no registered clinical 
 | TxGNN Prediction Score | 0.9972 (restless legs syndrome); 0.9947 (insomnia) |
 | Evidence Level | L3 (restless legs syndrome and insomnia); L4–L5 for the other candidates |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 **Other predicted indications** (all with TxGNN scores of 0.9901–0.9957):

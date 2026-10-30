@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "LURBINECTEDIN"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "cytomegalovirus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "malignant catarrh", "infectious bovine rhinotracheitis", "Mills syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Lurbinectedin: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **multiple endocrine neoplasia*
 | TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 (model prediction only) |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

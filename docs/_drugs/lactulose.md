@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "LACTULOSE"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Lactulose: predicted new indication acute urate nephropathy (evidence level L3). Approved use: Hepatic encephalopathy, hepatic coma…"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be useful for **obstructive jaundice** (the top-
 | TxGNN Prediction Score | 0.9953 (obstructive jaundice); 0.9989 (acute urate nephropathy, no evidence) |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | 8 (all are ANDAs, all cancelled) |
+| Number of FDA Applications | 8 (all are ANDAs, all cancelled) |
 | Recommended Decision | Hold (the indication is a research question, not ready for development) |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ADENINE"
 predicted_indications: ["drug-induced osteoporosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Adenine: predicted new indication drug-induced osteoporosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,7 +49,7 @@ Adenine is a purine base that takes part in nucleotide metabolism. The TxGNN mod
 | TxGNN Prediction Score | 0.9916 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

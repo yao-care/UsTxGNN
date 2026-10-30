@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 808
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ipilimumab: predicted new indication Choroideremia (evidence level L5). Approved use: Metastatic melanoma"
 monitor_inn: "IPILIMUMAB"
 predicted_indications: ["choroideremia"]
@@ -51,7 +51,7 @@ The prediction rests on a computational score alone, and the biology does not su
 | TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

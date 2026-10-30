@@ -53,7 +53,7 @@ but only **1 clinical trial** (a procedural study in upper GI bleeding) and **20
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 (as assessed in the data compiled for this report; no completed Phase 3 or Phase 2/3 RCT for ulcer treatment) |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | 10 (all ANDAs, generic applications; none is an NDA) |
+| Number of FDA Applications | 10 (all ANDAs, generic applications; none is an NDA) |
 | Recommended Decision | Hold |
 
 ---

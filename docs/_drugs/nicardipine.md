@@ -53,7 +53,7 @@ but there are currently **0 clinical trials** and only **1 directly relevant pub
 | TxGNN Prediction Score | 0.9926 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of NDAs | 12 (2 NDAs and 10 ANDAs) |
+| Number of FDA Applications | 12 (2 NDAs and 10 ANDAs) |
 | Recommended Decision | Hold |
 
 *Note: The prediction ranked first by the model is "pulmonary hypertension with unclear multifactorial mechanism" (score 0.9926, L5, no trials or literature). This report focuses on the second-ranked prediction, which has the most supporting literature.*

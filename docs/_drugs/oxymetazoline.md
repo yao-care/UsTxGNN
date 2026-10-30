@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1005
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "OXYMETAZOLINE"
 predicted_indications: ["nasal cavity disease", "headache disorder"]
 description: "Oxymetazoline: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ but there are currently **0 registered clinical trials** and only **5 indirect p
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 1) |
-| Number of NDAs | 1 |
+| Number of FDA Applications | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

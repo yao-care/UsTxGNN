@@ -49,7 +49,7 @@ Celecoxib is an oral COX-2 inhibitor of the NSAID class, with locally recorded l
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of NDAs | at least 12 |
+| Number of FDA Applications | at least 12 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

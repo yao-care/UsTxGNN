@@ -55,7 +55,7 @@ The TxGNN model's top-ranked prediction is **polyclonal hyperviscosity syndrome*
 | Evidence Level (rank 1) | L5 |
 | Best-Supported Candidate | Polyclonal hyperviscosity syndrome |
 | US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of NDAs/ANDAs | 5 (all cancelled) |
+| Number of FDA Applications | 5 (all cancelled) |
 | Recommended Decision | Hold (rank 1); UTI is a research question |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CIMETIDINE"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cimetidine: predicted new indication peptic ulcer perforation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ No clinical trials are registered for this prediction, and the **20 publications
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | at least 9 |
+| Number of FDA Applications | at least 9 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

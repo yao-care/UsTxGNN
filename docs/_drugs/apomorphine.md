@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "APOMORPHINE"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "syndromic myopia", "hydranencephaly (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Apomorphine: predicted new indication polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (evidence level L5). Approved use: Parkinson disease and related parkinsonian syndromes"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model's top-ranked prediction is a rare congenital brain malformation 
 | TxGNN Prediction Score | 0.9975 (rank 1); 0.9969 (schizophrenia) |
 | Evidence Level | L5 for rank 1; L4 for schizophrenia |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| Number of FDA Applications | 3 (valid: 3) |
 | Recommended Decision | Hold (schizophrenia: research question only) |
 
 ## Why is This Prediction Reasonable?

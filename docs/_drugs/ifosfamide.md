@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "IFOSFAMIDE"
 predicted_indications: ["female breast carcinoma", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "rhabdomyosarcoma (disease)", "myelodysplastic syndrome", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ifosfamide: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not available"
 ---
 
@@ -51,7 +51,7 @@ The evidence is early-phase and the trials are mostly small, terminated or of un
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 (per the compiled assessment; Phase 2 studies only, with no Phase 3 RCT for breast cancer) |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| Number of FDA Applications | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

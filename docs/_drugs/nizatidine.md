@@ -49,7 +49,7 @@ Nizatidine is an H2-receptor antagonist (acid-suppressing drug). The TxGNN model
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 3 of 4) |
-| Number of NDAs | 4 (valid: 3) |
+| Number of FDA Applications | 4 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

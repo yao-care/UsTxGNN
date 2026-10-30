@@ -53,7 +53,7 @@ This report therefore evaluates RLS as the lead candidate and compares it with t
 | TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of NDAs | 11 (all cancelled) |
+| Number of FDA Applications | 11 (all cancelled) |
 | Recommended Decision | Hold |
 
 ---

@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but **no cl
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 3) |
-| Number of NDAs | 3 (valid: 1) |
+| Number of FDA Applications | 3 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

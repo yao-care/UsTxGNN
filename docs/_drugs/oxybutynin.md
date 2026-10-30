@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "OXYBUTYNIN"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Oxybutynin: predicted new indication Restless legs syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **Restless Legs Syndrome**, but
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | 9 (all cancelled; these are ANDA generic approvals) |
+| Number of FDA Applications | 9 (all cancelled; these are ANDA generic approvals) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

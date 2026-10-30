@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PEGLOTICASE"
 predicted_indications: ["severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Pegloticase: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Gout"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 | TxGNN Prediction Score | 0.9918 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

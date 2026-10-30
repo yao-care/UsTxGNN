@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 846
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Lenvatinib: predicted new indication Liposarcoma (evidence level L2). Approved use: Renal cell carcinoma and thyroid cancer"
 monitor_inn: "LENVATINIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
@@ -55,7 +55,7 @@ Of the ten predictions, the best-supported is **renal carcinoma**, which is an o
 | TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L2 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold (treat as a research question) |
 
 ---

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 568
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "DANTROLENE"
 predicted_indications: ["moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
 description: "Dantrolene: predicted new indication Moderate multiminicore disease with hand involvement (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ This is essentially an on-label use rather than a true repurposing; the other pr
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of NDAs | 7 (NDA and ANDA authorizations combined) |
+| Number of FDA Applications | 7 (NDA and ANDA authorizations combined) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

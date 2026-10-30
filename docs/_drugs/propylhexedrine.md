@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "PROPYLHEXEDRINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "migraine disorder", "faciodigitogenital syndrome", "migraine with brainstem aura", "erectile dysfunction (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis", "trichotillomania", "Tourette syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Propylhexedrine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Not available"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

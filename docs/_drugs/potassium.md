@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 5
 monitor_inn: "POTASSIUM"
 predicted_indications: ["hypertensive disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Potassium: predicted new indication Hypertensive disorder (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
@@ -53,7 +53,7 @@ This direction is supported by **25 registered clinical trials** (only a few dir
 | TxGNN Prediction Score | 0.9916 |
 | Evidence Level | L1 (per the compiled scoring; see the note below) |
 | US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of NDAs | 7 (all cancelled; the records are mostly ANDA or unlisted) |
+| Number of FDA Applications | 7 (all cancelled; the records are mostly ANDA or unlisted) |
 | Recommended Decision | Proceed with Guardrails |
 
 **Note on the evidence level:** Most Phase 3 trials retrieved are losartan potassium or other potassium-salt drugs matched by name, so they are not evidence for potassium itself. The directly relevant support comes from meta-analyses of RCTs and a small number of potassium-specific trials. The L1 label should be read cautiously.

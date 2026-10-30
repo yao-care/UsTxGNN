@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 505
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cefoxitin: predicted new indication Infectious otitis media (evidence level L5). Approved use: Bacterial infections (streptococcal and staphylococcal infections…"
 monitor_inn: "CEFOXITIN"
 predicted_indications: ["infectious otitis media", "urinary tract infection (disease)", "chronic otitis media", "suppurative otitis media", "middle ear disease", "Ureaplasma urethritis", "toxocariasis", "otosalpingitis", "non-suppurative otitis media"]
@@ -53,7 +53,7 @@ Currently **1 clinical trial** (terminated after 6 patients) and **20 publicatio
 | TxGNN Prediction Score | 0.9926 (UTI); rank 1 infectious otitis media scored 0.9930 |
 | Evidence Level | L5 (UTI) |
 | US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of NDAs | 6 (valid: 6) |
+| Number of FDA Applications | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "THIAMINE"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Thiamine: predicted new indication resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (evidence level L5). Approved use: Not available"
 ---
 
@@ -51,7 +51,7 @@ Thiamine (vitamin B1) is marketed in the United States as injectable products, b
 | TxGNN Prediction Score | 0.9943 (top-ranked prediction) |
 | Evidence Level | L5 (top-ranked prediction) |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of NDAs | at least 11 |
+| Number of FDA Applications | at least 11 |
 | Number of approvals | At least 11 ANDAs or similar records (the list may be partial) |
 | Recommended Decision | Hold |
 

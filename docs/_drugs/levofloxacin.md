@@ -50,7 +50,7 @@ The TxGNN model ranks **punctate epithelial keratoconjunctivitis** as its top pr
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of NDAs | 11 (all ANDA generic applications) |
+| Number of FDA Applications | 11 (all ANDA generic applications) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

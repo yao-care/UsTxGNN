@@ -51,7 +51,7 @@ but there are currently **0 registered clinical trials** and only **2 case repor
 | TxGNN Prediction Score | 0.9936 |
 | Evidence Level | L5 (model prediction only; the only literature is two case reports, which does not meet L3 criteria) |
 | US Market Status | Marketed (valid licenses: 3 of 4) |
-| Number of NDAs | 4 (valid: 3) |
+| Number of FDA Applications | 4 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

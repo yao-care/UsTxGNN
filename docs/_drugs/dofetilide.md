@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "DOFETILIDE"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "duodenal obstruction", "brain stem infarction", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cerebrovascular disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Dofetilide: predicted new indication Stroke disorder (evidence level L4). Approved use: Atrial fibrillation"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **stroke disorder**, but there 
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | 9 authorizations (1 NDA and 8 ANDAs) |
+| Number of FDA Applications | 9 authorizations (1 NDA and 8 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

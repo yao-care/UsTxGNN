@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "EVOLOCUMAB"
 predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Evolocumab: predicted new indication Symptomatic form of hemophilia in female carriers (evidence level L5). Approved use: Homozygous familial hypercholesterolemia"
 ---
 
@@ -51,7 +51,7 @@ The top-ranked prediction comes from the TxGNN model (deep learning) and may ref
 | TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

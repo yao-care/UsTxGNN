@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, with **1
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses on record: at least 2) |
-| Number of NDAs | 4 authorizations (2 NDAs, 2 ANDAs) |
+| Number of FDA Applications | 4 authorizations (2 NDAs, 2 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

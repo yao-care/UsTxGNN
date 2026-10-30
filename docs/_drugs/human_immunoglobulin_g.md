@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "HUMAN IMMUNOGLOBULIN G"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Human Immunoglobulin G: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ Currently there are **0 clinical trials** and **0 publications** supporting this
 | TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of NDAs | 11 (all cancelled; these are BLAs) |
+| Number of FDA Applications | 11 (all cancelled; these are BLAs) |
 | Recommended Decision | Hold |
 
 Two other predictions were also generated: diabetic retinopathy (0.9963) and drug-induced osteoporosis (0.9937). Both are also L5 with a recommendation of Hold.

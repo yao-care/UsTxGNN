@@ -50,7 +50,7 @@ The TxGNN model predicts it may be relevant to **preeclampsia**, but **no clinic
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 4 of 6) |
-| Number of NDAs | 6 (valid: 4) |
+| Number of FDA Applications | 6 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

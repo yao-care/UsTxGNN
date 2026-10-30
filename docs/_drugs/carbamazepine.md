@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm**, 
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of NDAs | 16 (2 NDAs and 14 ANDAs) |
+| Number of FDA Applications | 16 (2 NDAs and 14 ANDAs) |
 | Recommended Decision | Hold |
 
 ---

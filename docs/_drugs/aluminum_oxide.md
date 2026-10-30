@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ALUMINUM OXIDE"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "heparin cofactor 2 deficiency", "hemoglobinopathy", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombotic disease", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Aluminum Oxide: predicted new indication rheumatoid arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be relevant to **rheumatoid arthritis (rheumatoi
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

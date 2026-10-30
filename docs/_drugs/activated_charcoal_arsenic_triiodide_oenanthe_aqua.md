@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 209
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -50,7 +50,7 @@ Without a valid prediction target, a standard repurposing evaluation cannot proc
 |------|---------|
 | Original Indication | Not recorded in the local data |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of NDAs | 0 |
+| Number of FDA Applications | 0 |
 
 ---
 

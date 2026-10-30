@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 1
 monitor_inn: "KETAMINE"
 predicted_indications: ["headache disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ketamine: predicted new indication Headache disorder (evidence level L5). Approved use: Not available"
 ---
 
@@ -53,7 +53,7 @@ The evidence includes one completed Phase 3 trial (THINK), but no trial results 
 | TxGNN Prediction Score | 0.9933 |
 | Evidence Level | L2 (see note below) |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of NDAs | 6 authorizations (1 NDA, 5 ANDAs), all cancelled |
+| Number of FDA Applications | 6 authorizations (1 NDA, 5 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 *Note on evidence level:* Only one Phase 3 trial (THINK, NCT03081416) is completed, and the other Phase 3 trial (KetHead) is still recruiting. This does not meet L1 (≥2 completed Phase 3 RCTs). Because no results are available, the evidence is conservatively classed as L2. The upstream scoring labelled this L1, which I have not adopted.

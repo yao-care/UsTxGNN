@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 687
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "EVEROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
 description: "Everolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ with **1 clinical trial** and **4 publications** currently supporting this direc
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 by the strict rules (no completed Phase 3/2-3 RCT). The data compiled for this report assigns L2, but the only trial is an uncompleted, single-arm Phase 2 combination study. |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of NDAs | 11 authorizations in total (3 NDAs, 8 ANDAs), all cancelled |
+| Number of FDA Applications | 11 authorizations in total (3 NDAs, 8 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

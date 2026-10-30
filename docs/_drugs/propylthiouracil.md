@@ -51,7 +51,7 @@ The prediction comes from the TxGNN model (deep learning) and is not supported b
 | TxGNN Prediction Score | 0.9966 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses: 4 of 5) |
-| Number of NDAs | 5 (valid: 4) |
+| Number of FDA Applications | 5 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

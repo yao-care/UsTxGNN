@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 988
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Olodaterol: predicted new indication Bronchitis (evidence level L4). Approved use: Chronic obstructive pulmonary disease (COPD)"
 monitor_inn: "OLODATEROL"
 predicted_indications: ["bronchitis"]
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be useful for **bronchitis**, but the evidence i
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

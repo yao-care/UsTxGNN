@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "LIDOCAINE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Lidocaine: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Relations recorded in the knowledge graph (not label-confirmed): derm…"
 ---
 
@@ -49,7 +49,7 @@ Lidocaine is a local anesthetic and sodium channel blocker. The TxGNN model's to
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | at least 9 |
+| Number of FDA Applications | at least 9 |
 | Number of approvals | At least 9 (the list may be partial) |
 | Recommended Decision | Hold |
 

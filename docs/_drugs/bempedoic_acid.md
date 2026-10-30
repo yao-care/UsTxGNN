@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "BEMPEDOIC ACID"
 predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "infectious bovine rhinotracheitis", "malignant catarrh", "cytomegalovirus infection", "hyperthyroxinemia", "drug-induced osteoporosis", "multiple endocrine neoplasia", "pregnancy associated osteoporosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Bempedoic Acid: predicted new indication hyperthyroidism (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,7 +49,7 @@ Bempedoic acid is an oral cholesterol-lowering drug that inhibits ATP-citrate ly
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

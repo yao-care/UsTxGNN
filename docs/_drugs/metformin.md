@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **classic stiff person syndrome
 | TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of NDAs | 14 (all cancelled; all listed as ANDAs) |
+| Number of FDA Applications | 14 (all cancelled; all listed as ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

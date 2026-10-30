@@ -52,7 +52,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 | TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 8 of 9) |
-| Number of NDAs | 9 (valid: 8) |
+| Number of FDA Applications | 9 (valid: 8) |
 | Recommended Decision | Hold |
 
 ---

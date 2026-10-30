@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CARISOPRODOL"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Carisoprodol: predicted new indication insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **insomnia (disease)**, but **n
 | TxGNN Prediction Score | 0.9902 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of NDAs | at least 6 |
+| Number of FDA Applications | at least 6 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

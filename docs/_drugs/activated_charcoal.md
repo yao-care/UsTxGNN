@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -53,7 +53,7 @@ and **no regulatory authorizations** are on record, preventing a standard repurp
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — no model predictions returned |
 | US Market Status | Marketed (valid licenses on record: at least 2) |
-| Number of NDAs | 0 |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---

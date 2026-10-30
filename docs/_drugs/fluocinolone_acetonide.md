@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **Hypertrophic Lichen Planus**,
 | TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 15) |
-| Number of NDAs | 17 authorizations in total (4 NDAs and 13 ANDAs; all cancelled) |
+| Number of FDA Applications | 17 authorizations in total (4 NDAs and 13 ANDAs; all cancelled) |
 | Recommended Decision | Hold |
 
 Other predicted indications with the same level of evidence (L5, model prediction only): annular atrophic lichen planus (0.9942), lichen planus pigmentosus (0.9942) and lichen planus pemphigoides (0.9934).

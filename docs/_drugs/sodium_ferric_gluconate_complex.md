@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "SODIUM FERRIC GLUCONATE COMPLEX"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "anaphylaxis", "bronchitis", "food-dependent exercise-induced anaphylaxis", "diabetic cataract"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Sodium Ferric Gluconate Complex: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Iron deficiency anemia in chronic kidney disease"
 ---
 
@@ -51,7 +51,7 @@ It is a computational prediction only, and a plausible biological rationale is l
 | TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

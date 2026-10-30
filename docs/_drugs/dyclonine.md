@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 638
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "DYCLONINE"
 predicted_indications: ["bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "gastroduodenitis", "peptic ulcer disease", "irritable bowel syndrome"]
 description: "Dyclonine: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -53,7 +53,7 @@ The only indication with any supporting literature among the top 10 predictions 
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 (model prediction only) |
 | US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of NDAs | 3 (all cancelled) |
+| Number of FDA Applications | 3 (all cancelled) |
 | Recommended Decision | Hold |
 
 ---

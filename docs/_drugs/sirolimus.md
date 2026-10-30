@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1166
 evidence_level: L2
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "SIROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lung PEComa", "vulva sarcoma"]
 description: "Sirolimus: predicted new indication Liposarcoma (evidence level L2). Approved use: Not recorded in the local data"
@@ -55,7 +55,7 @@ with **1 clinical trial** (a single-arm Phase 2 study of a combination regimen) 
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L2 (one completed Phase 2 trial; single-arm, combination therapy) |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of NDAs | 11 authorizations in total (2 NDAs, 9 ANDAs) |
+| Number of FDA Applications | 11 authorizations in total (2 NDAs, 9 ANDAs) |
 | Recommended Decision | Hold (research question) |
 
 ---

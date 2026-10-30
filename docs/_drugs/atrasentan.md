@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ATRASENTAN"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Atrasentan: predicted new indication Amenorrhea (evidence level L5). Approved use: IgA nephropathy (reduction of proteinuria in adults with primary dise…"
 ---
 
@@ -51,7 +51,7 @@ The prediction rests on a computational score alone.
 | TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 Note: the license record compiled for this report has no indication text. The original indication above comes from the drug's pharmacology and clinical-use information.

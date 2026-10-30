@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "VALINE"
 predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyperthyroidism", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma", "glaucomatous atrophy of optic disc", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "obsolete bundle branch block", "hyperthyroxinemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Valine: predicted new indication Sclerosing cholangitis (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be useful for **sclerosing cholangitis**, but th
 | TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

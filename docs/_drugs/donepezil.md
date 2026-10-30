@@ -51,7 +51,7 @@ Evidence is limited, and no randomized controlled trial supports this direction 
 | TxGNN Prediction Score | 0.9923 (psychogenic movement disorders); 0.9919 (chronic tic disorder) |
 | Evidence Level | L5 for the top-ranked prediction; L3 for chronic tic disorder |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | 13 (all cancelled; 1 NDA and 12 ANDAs) |
+| Number of FDA Applications | 13 (all cancelled; 1 NDA and 12 ANDAs) |
 | Recommended Decision | Hold (psychogenic movement disorders); Hold with a research question for chronic tic disorder |
 
 ## Why is This Prediction Reasonable?

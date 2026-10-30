@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FORMALDEHYDE"
 predicted_indications: ["leishmaniasis, diffuse cutaneous", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency", "mucocutaneous leishmaniasis", "pyelonephritis", "streptococcal pneumonia", "X-linked lymphoproliferative syndrome", "trigonitis", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection", "Plasmodium falciparum malaria"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Formaldehyde: predicted new indication Leishmaniasis, diffuse cutaneous (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **diffuse cutaneous leishmanias
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

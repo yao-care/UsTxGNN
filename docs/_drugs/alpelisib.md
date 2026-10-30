@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ALPELISIB"
 predicted_indications: ["pulmonary hypertension"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Alpelisib: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not listed in the data compiled for this report (the product names PI…"
 ---
 
@@ -49,7 +49,7 @@ Alpelisib is a PI3K-alpha inhibitor marketed in the US as PIQRAY and VIJOICE. Th
 | TxGNN Prediction Score | 0.9903 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| Number of FDA Applications | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

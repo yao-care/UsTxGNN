@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "VASOPRESSIN"
 predicted_indications: ["congenital prothrombin deficiency", "drug-induced osteoporosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Vasopressin: predicted new indication Congenital prothrombin deficiency (evidence level L4). Approved use: Not available in the compiled data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **congenital prothrombin defici
 | TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | 9 (authorizations listed, including NDAs and ANDAs) |
+| Number of FDA Applications | 9 (authorizations listed, including NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

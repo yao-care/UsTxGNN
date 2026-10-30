@@ -51,7 +51,7 @@ but there are currently **0 clinical trials** and only **indirect literature (20
 | TxGNN Prediction Score | 0.9939 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 2) |
-| Number of NDAs | 2 (valid: 1) |
+| Number of FDA Applications | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

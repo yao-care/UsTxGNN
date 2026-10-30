@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "AMANTADINE"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Amantadine: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,7 +49,7 @@ Amantadine is an older drug with NMDA receptor antagonist and dopaminergic activ
 | TxGNN Prediction Score | 0.9948 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of NDAs | at least 10 |
+| Number of FDA Applications | at least 10 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

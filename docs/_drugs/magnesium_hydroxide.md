@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MAGNESIUM HYDROXIDE"
 predicted_indications: ["stomach disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Magnesium Hydroxide: predicted new indication Stomach disease (evidence level L5). Approved use: Peptic ulcer disease, gastroesophageal reflux disease, esophagitis…"
 ---
 
@@ -51,7 +51,7 @@ Currently there are **0 registered clinical trials** and **20 publications** (mo
 | TxGNN Prediction Score | 0.9923 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of NDAs | at least 3 |
+| Number of FDA Applications | at least 3 |
 | Number of approvals | At least 3 licences (the list may be partial) |
 | Recommended Decision | Hold |
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CARFILZOMIB"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Carfilzomib: predicted new indication CMM7 (a melanoma-related subtype) (evidence level L5). Approved use: Plasma cell myeloma"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **melanoma** (and several melan
 | TxGNN Prediction Score | 0.9937 (CMM7); melanoma: 0.9903 |
 | Evidence Level | L5 for CMM7; L4 for melanoma |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

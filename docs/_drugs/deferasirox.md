@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **HIV infectious disease**, but
 | TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of NDAs | 15 (1 NDA and 14 ANDAs; all cancelled) |
+| Number of FDA Applications | 15 (1 NDA and 14 ANDAs; all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

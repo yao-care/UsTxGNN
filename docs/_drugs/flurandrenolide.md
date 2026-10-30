@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **vulvar inverted follicular ke
 | TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 3) |
-| Number of NDAs | 3 (valid: 2) |
+| Number of FDA Applications | 3 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

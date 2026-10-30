@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **Pneumocystosis**, but only **
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 14 (2 NDAs and 12 ANDAs, all cancelled) |
+| Number of FDA Applications | 14 (2 NDAs and 12 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

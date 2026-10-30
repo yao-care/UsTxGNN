@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "OXAZEPAM"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Oxazepam: predicted new indication Insomnia (evidence level L3). Approved use: Alcohol withdrawal delirium"
 ---
 
@@ -51,7 +51,7 @@ but there are currently **0 registered clinical trials** and only **2 directly r
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| Number of FDA Applications | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

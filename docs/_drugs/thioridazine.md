@@ -51,7 +51,7 @@ The evidence is weak, and thioridazine carries a serious cardiac (QTc) safety co
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 6) |
-| Number of NDAs | 6 (valid: 1) |
+| Number of FDA Applications | 6 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

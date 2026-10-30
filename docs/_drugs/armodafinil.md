@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 1
 monitor_inn: "ARMODAFINIL"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Armodafinil: predicted new indication insomnia (disease) (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be relevant to **insomnia (disease)**, with **3 
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L2 |
 | US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of NDAs | at least 4 |
+| Number of FDA Applications | at least 4 |
 | Recommended Decision | Hold |
 
 ---

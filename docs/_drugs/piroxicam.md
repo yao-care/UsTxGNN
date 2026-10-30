@@ -50,7 +50,7 @@ The TxGNN model's top-ranked prediction is a rare skeletal and ocular syndrome w
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 (rank 1); L3 (juvenile idiopathic arthritis) |
 | US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of NDAs | 7 (all ANDA generics, all cancelled) |
+| Number of FDA Applications | 7 (all ANDA generics, all cancelled) |
 | Recommended Decision | Hold (rank 1); Proceed with Guardrails is suggested only for the JIA research question |
 
 ## Why is This Prediction Reasonable?

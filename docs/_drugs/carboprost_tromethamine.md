@@ -49,7 +49,7 @@ Carboprost tromethamine is a prostaglandin F2alpha analog marketed in the US as 
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 13 licenses listed (1 NDA, 12 ANDAs), all cancelled |
+| Number of FDA Applications | 13 licenses listed (1 NDA, 12 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

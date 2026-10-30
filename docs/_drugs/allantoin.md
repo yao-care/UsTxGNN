@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "ALLANTOIN"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial", "exanthem (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Allantoin: predicted new indication severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ but **no clinical trials and no publications** currently support this direction.
 | TxGNN Prediction Score | 0.9956 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of NDAs | at least 4 |
+| Number of FDA Applications | at least 4 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

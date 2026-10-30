@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 989
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Olopatadine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Allergic rhinitis (also vasomotor rhinitis, atopic conjunctivitis…"
 monitor_inn: "OLOPATADINE"
 predicted_indications: ["rosacea conjunctivitis"]
@@ -51,7 +51,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | 12 authorizations in total (1 NDA, 11 ANDAs), all cancelled |
+| Number of FDA Applications | 12 authorizations in total (1 NDA, 11 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

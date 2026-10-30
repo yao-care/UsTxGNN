@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "MAGNESIUM SALICYLATE"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "ankylosing spondylitis", "myosclerosis", "brachydactyly-syndactyly syndrome", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Magnesium Salicylate: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not stated in the US licence text."
 ---
 
@@ -49,7 +49,7 @@ Magnesium salicylate is a salicylate-type pain reliever and anti-inflammatory ag
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| Number of FDA Applications | 3 (valid: 3) |
 | Number of approvals | 3 licences (single-ingredient products) |
 | Recommended Decision | Hold |
 

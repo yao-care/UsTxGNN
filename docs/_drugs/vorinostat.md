@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1296
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Vorinostat: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L3). Approved use: Primary cutaneous T-cell lymphoma (including primary cutaneous T-cell…"
 monitor_inn: "VORINOSTAT"
 predicted_indications: ["primary cutaneous B-cell lymphoma", "Sezary syndrome"]
@@ -51,7 +51,7 @@ A second prediction, **Sezary syndrome**, is much better supported, but it is es
 | TxGNN Prediction Score | 0.9921 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold (research question only) |
 
 ## Why is This Prediction Reasonable?

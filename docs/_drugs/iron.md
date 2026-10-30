@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "IRON"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "Plummer-Vinson syndrome", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Iron: predicted new indication Vitamin B12- and folate-independent constitutional megaloblastic anemia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **vitamin B12- and folate-indep
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 2) |
-| Number of NDAs | 2 authorizations on record (both cancelled) |
+| Number of FDA Applications | 2 authorizations on record (both cancelled) |
 | Recommended Decision | Hold |
 
 *Note: the US authorization records contain no approved-indication text, so the original indications come from the drug-disease knowledge base used by the TxGNN model.*

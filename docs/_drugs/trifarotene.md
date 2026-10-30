@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "TRIFAROTENE"
 predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Trifarotene: predicted new indication Elevated plasma zinc (evidence level L5). Approved use: Acne (acne vulgaris)"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **elevated plasma zinc**, but t
 | TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

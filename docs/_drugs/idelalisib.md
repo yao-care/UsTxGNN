@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 787
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Idelalisib: predicted new indication Mantle cell lymphoma (evidence level L5). Approved use: Follicular lymphoma, B-cell neoplasms, acute lymphoblastic leukemia…"
 monitor_inn: "IDELALISIB"
 predicted_indications: ["mantle cell lymphoma", "Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "small intestinal Burkitt lymphoma", "colon adenocarcinoma"]
@@ -53,7 +53,7 @@ No confirmatory randomized trial exists for this indication, and the drug's only
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L2 (as scored for this indication; see note below) |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 *Note on evidence level:* The mantle cell lymphoma trials are Phase 1 to Phase 2 studies, and the Phase 2 study was terminated. Under the strict rules (L2 requires a completed Phase 2/3 RCT), this evidence is closer to L3–L4. I therefore recommend Hold rather than advancing.

@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **bilateral parasagittal pariet
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 5 of 6) |
-| Number of NDAs | 6 (valid: 5) |
+| Number of FDA Applications | 6 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

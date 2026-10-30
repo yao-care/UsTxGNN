@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **manic bipolar affective disor
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs | 9 authorizations (2 NDAs, 7 ANDAs) |
+| Number of FDA Applications | 9 authorizations (2 NDAs, 7 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

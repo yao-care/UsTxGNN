@@ -52,7 +52,7 @@ The evidence is indirect, so this is a model-driven hypothesis at this stage.
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of NDAs | 11 authorizations in total (1 NDA, 10 ANDAs; all cancelled) |
+| Number of FDA Applications | 11 authorizations in total (1 NDA, 10 ANDAs; all cancelled) |
 | Recommended Decision | Hold |
 
 ---

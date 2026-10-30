@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "HYDROQUINONE"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "exanthem (disease)", "lichen disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Hydroquinone: predicted new indication Seborrheic keratosis (evidence level L4). Approved use: No approved indication text is available in the US license record"
 ---
 
@@ -49,7 +49,7 @@ Hydroquinone is a topical skin-lightening (depigmenting) agent. The TxGNN model 
 | TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1070
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "POTASSIUM IODIDE"
 predicted_indications: ["nasal cavity disease"]
 description: "Potassium Iodide: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ but there are **0 registered clinical trials** and only **4 publications** (all 
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of NDAs | 4 (all cancelled) |
+| Number of FDA Applications | 4 (all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

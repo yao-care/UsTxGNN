@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **tendinitis**, but there are *
 | TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of NDAs | 11 (1 NDA and 10 ANDAs, all cancelled) |
+| Number of FDA Applications | 11 (1 NDA and 10 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

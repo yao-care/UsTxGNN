@@ -49,7 +49,7 @@ Ampicillin is a beta-lactam (aminopenicillin) antibiotic. The TxGNN model predic
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | at least 10 |
+| Number of FDA Applications | at least 10 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

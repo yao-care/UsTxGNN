@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 7
 monitor_inn: "ICATIBANT"
 predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Icatibant: predicted new indication C1 inhibitor deficiency (evidence level L1). Approved use: Hereditary angioedema (including HAE with C1 inhibitor deficiency)"
 ---
 
@@ -51,7 +51,7 @@ Note that this prediction largely overlaps with the drug's existing use, so it i
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L1 |
 | US Market Status | Marketed (valid licenses: 8 of 8) |
-| Number of NDAs | 8 (valid: 8) |
+| Number of FDA Applications | 8 (valid: 8) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

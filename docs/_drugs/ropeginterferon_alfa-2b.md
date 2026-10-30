@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ROPEGINTERFERON ALFA-2B"
 predicted_indications: ["Laubry-Pezzi syndrome", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "Jeune syndrome situs inversus", "partial deletion of the long arm of chromosome 22", "orofacial clefting syndrome", "pulmonary valve disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ropeginterferon Alfa-2B: predicted new indication Laubry-Pezzi syndrome (evidence level L5). Approved use: Acquired polycythemia vera (also listed: plasmacytoma, polycythemia)"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **Laubry-Pezzi syndrome** (vent
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

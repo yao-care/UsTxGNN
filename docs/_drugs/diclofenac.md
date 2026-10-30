@@ -53,7 +53,7 @@ There are currently **0 clinical trials** and **14 publications** on this direct
 | TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 15) |
-| Number of NDAs | 16 (1 NDA and 15 ANDAs, all cancelled) |
+| Number of FDA Applications | 16 (1 NDA and 15 ANDAs, all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

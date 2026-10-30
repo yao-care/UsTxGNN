@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BLACK COHOSH"
 predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus", "orofacial clefting syndrome", "disorder of fucoglycosan synthesis", "pulmonary valve disease", "interventricular septum aneurysm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Black Cohosh: predicted new indication Heart disease (evidence level L4). Approved use: Not available"
 ---
 
@@ -49,7 +49,7 @@ Black cohosh (*Cimicifuga racemosa*) is a botanical product, and the data compil
 | TxGNN Prediction Score | 0.9919 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 1) |
-| Number of NDAs | 1 |
+| Number of FDA Applications | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Without a valid drug node mapping, this candidate cannot be progressed through t
 | Predicted New Indication | None — no TxGNN prediction generated |
 | TxGNN Prediction Score | Not available |
 | Evidence Level | — |
-| Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | 0 |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---

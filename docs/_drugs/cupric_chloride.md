@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **primary release disorder of p
 | TxGNN Prediction Score | 0.9929 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 4 of 5) |
-| Number of NDAs | 5 (valid: 4) |
+| Number of FDA Applications | 5 (valid: 4) |
 | Recommended Decision | Hold |
 
 Two other predictions were also generated, and both are at evidence level L5 with a Hold recommendation:

@@ -49,7 +49,7 @@ Cabergoline is an oral dopamine D2 receptor agonist. The TxGNN model predicts it
 | TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 5 of 6) |
-| Number of NDAs | 6 (valid: 5) |
+| Number of FDA Applications | 6 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

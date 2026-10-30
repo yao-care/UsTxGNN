@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **exercise-induced malignant hy
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of NDAs | at least 12 |
+| Number of FDA Applications | at least 12 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

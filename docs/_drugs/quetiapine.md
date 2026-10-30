@@ -52,7 +52,7 @@ This report therefore covers the top-ranked prediction in the overview table, an
 | Best-Supported Candidate | Retinal dystrophy with or without extraocular anomalies |
 | Evidence Level | L5 for the rank 1 prediction (L4 for trichotillomania) |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of NDAs/ANDAs | 9 (1 NDA, 8 ANDAs; all cancelled) |
+| Number of FDA Applications | 9 (1 NDA, 8 ANDAs; all cancelled) |
 | Recommended Decision | Hold (rank 1); trichotillomania is a research question only |
 
 ## Why is This Prediction Reasonable?

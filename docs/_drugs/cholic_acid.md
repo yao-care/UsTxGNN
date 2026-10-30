@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "CHOLIC ACID"
 predicted_indications: ["HIV infectious disease", "obsolete familial combined hyperlipidemia", "homozygous familial hypercholesterolemia", "biotin metabolic disease", "vitamin deficiency disorder", "hereditary hemochromatosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hemosiderosis", "disorder of phenylalanine metabolism", "bone Paget disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cholic Acid: predicted new indication HIV infectious disease (evidence level L4). Approved use: Bile acid synthesis disorders and biliary conditions (constipation di…"
 ---
 
@@ -51,7 +51,7 @@ This prediction is not supported by clinical data.
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

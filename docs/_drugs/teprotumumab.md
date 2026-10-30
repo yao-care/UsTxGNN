@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TEPROTUMUMAB"
 predicted_indications: ["monosomy X", "esophageal varices with bleeding", "esophageal varices without bleeding", "mixed gonadal dysgenesis", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Turner syndrome due to structural X chromosome anomalies", "mosaic monosomy X", "sex chromosome disorder of sex development", "varicose disease", "X chromosome number anomaly"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Teprotumumab: predicted new indication Monosomy X (evidence level L5). Approved use: Endocrine exophthalmos"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **monosomy X** (Turner syndrome
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

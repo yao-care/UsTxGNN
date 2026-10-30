@@ -51,7 +51,7 @@ but there are currently **0 clinical trials** and only **1 publication** (a pedi
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of NDAs | 15 (all cancelled; includes ANDAs and NDAs) |
+| Number of FDA Applications | 15 (all cancelled; includes ANDAs and NDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

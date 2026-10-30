@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **small cell lung carcinoma**, 
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses: 10 of 12) |
-| Number of NDAs | 12 (valid: 10) |
+| Number of FDA Applications | 12 (valid: 10) |
 | Recommended Decision | Hold |
 
 ---

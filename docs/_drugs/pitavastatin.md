@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "PITAVASTATIN"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Pitavastatin: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **cholesterol-ester transfer pr
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of NDAs | at least 9 |
+| Number of FDA Applications | at least 9 |
 | Number of approvals | At least 9 (2 NDAs and 7 ANDAs; the list may be partial) |
 | Recommended Decision | Hold |
 

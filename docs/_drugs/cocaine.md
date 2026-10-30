@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "COCAINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "papillary conjunctivitis", "rhinitis", "irritable bowel syndrome", "anaphylaxis", "neurocirculatory asthenia", "atopic conjunctivitis", "food-dependent exercise-induced anaphylaxis", "pharyngitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cocaine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not listed in the US license data"
 ---
 
@@ -49,7 +49,7 @@ Cocaine is a local anesthetic and vasoconstrictor historically used in nasal, or
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| Number of FDA Applications | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

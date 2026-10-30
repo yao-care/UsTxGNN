@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "POLYETHYLENE GLYCOL 400"
 predicted_indications: ["bronchitis", "congenital ichthyosiform erythroderma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Polyethylene Glycol 400: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **Bronchitis**, but the predict
 | TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 1) |
-| Number of NDAs | 1 |
+| Number of FDA Applications | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

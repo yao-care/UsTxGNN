@@ -53,7 +53,7 @@ Among the ten predictions, the best-supported is **ventricular tachycardia** (a 
 | TxGNN Prediction Score | 0.9978 (CPVT); 0.9964 (ventricular tachycardia) |
 | Evidence Level | L4 (CPVT); L1 (ventricular tachycardia) |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of NDAs | 12 (1 NDA and 11 ANDAs) |
+| Number of FDA Applications | 12 (1 NDA and 11 ANDAs) |
 | Recommended Decision | Hold (CPVT); Proceed with Guardrails (ventricular tachycardia) |
 
 ---

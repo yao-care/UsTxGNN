@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "DRONEDARONE"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Dronedarone: predicted new indication Stroke disorder (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be useful for **stroke disorder**, but there are
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold (research question only) |
 
 ## Why is This Prediction Reasonable?

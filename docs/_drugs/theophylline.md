@@ -51,7 +51,7 @@ but **no clinical trials** and **no publications that directly study theophyllin
 | TxGNN Prediction Score | 0.9962 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of NDAs | at least 13 |
+| Number of FDA Applications | at least 13 |
 | Number of approvals | At least 13 ANDAs (the list may be partial) |
 | Recommended Decision | Hold |
 

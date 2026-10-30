@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "BROMFENAC"
 predicted_indications: ["eye disease", "optic papillitis", "von Hippel anomaly", "mcpherson robertson cammarano syndrome", "vulvar inverted follicular keratosis", "lagophthalmos", "microblepharon-ablephara syndrome", "seborrheic keratosis", "conjunctival degeneration", "luxation of globe"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Bromfenac: predicted new indication Eye disease (evidence level L1). Approved use: Not available"
 ---
 
@@ -51,7 +51,7 @@ The evidence is strongest for specific sub-indications such as post-cataract inf
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L1 |
 | US Market Status | Marketed (valid licenses: 12 of 12) |
-| Number of NDAs | 12 (valid: 12) |
+| Number of FDA Applications | 12 (valid: 12) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

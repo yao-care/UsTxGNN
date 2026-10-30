@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "SOTALOL"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Sotalol: predicted new indication Sick sinus syndrome 2, autosomal dominant (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **sick sinus syndrome 2, autoso
 | TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of NDAs | 7 (all cancelled; 1 NDA and 6 ANDAs) |
+| Number of FDA Applications | 7 (all cancelled; 1 NDA and 6 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

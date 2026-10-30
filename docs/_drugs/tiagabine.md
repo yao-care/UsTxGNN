@@ -46,8 +46,8 @@ The TxGNN deep-learning model produced candidates for Tiagabine, but every candi
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 0 |
 | Evidence level | Not applicable |
-| Market status in the United States | Marketed (valid licenses: 2 of 3) |
-| Number of NDAs | 3 (valid: 2) |
+| US Market Status | Marketed (valid licenses: 2 of 3) |
+| Number of FDA Applications | 3 (valid: 2) |
 
 ## Known uses among the model's candidates
 

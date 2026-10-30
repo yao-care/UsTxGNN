@@ -49,7 +49,7 @@ Oliceridine is a G protein-biased mu-opioid receptor agonist given by injection,
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
 | US Market Status | Not marketed (licenses canceled: 1 of 1) |
-| Number of NDAs | 1 (valid: 0) |
+| Number of FDA Applications | 1 (valid: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

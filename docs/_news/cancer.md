@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 8 articles, 1 related drugs."
+description: "Health news about cancer. 9 articles, 1 related drugs."
 permalink: /news/cancer/
 last_modified_at: 2026-10-30
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>8 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
 
-### [Colon cancer rates are rising in these age groups - USA Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2otTTMtQ3VHTUhHaUJKUVRUVmlqNnB4ZUJGV0xOQXlhYXBaN2dxMHZXTDNQRkdFbVg4alotdjZZbkdhSTkxNDVVUmtKM0hpNDhudjZCVXEwcnFjLUh1Tk05ZW1fcnVBemlzRTNLTkw1Ti04Q1JsMmZjeE1xeUhmM2VZdUw0LUszcXRHZUNWTTl4dDd6RzZ5bXBOOFhhOXE5QjBOUE1qeno1RUhoT3FWS3BzSGd4bWk4WEE?oc=5)
+### [A new test could make it easier to detect one of the most common cancers in women - The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHBrZG5jUnczVDcyMEF4N04zWFp2NDNnaWpmR2MwWUFsNFlXOENsYlJRaEdVSmVnX01mbUktcWdCUFo2UjdoQVRTdmVXNTQzZHpPelRVM2pHaGFpNDJaUl9TODQzNDFEX0RMLV96dk5GOF9vTmZvc1p4UElISG5sSkQ1M0RRZ2Y4WXRHWHZRbi1kNVRLRGNWcV96SW9HNVFPTlF4WVFidTlpU2lhbGlOT2hn?oc=5)
 
 2026-10-30
 
-Source: [USA Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2otTTMtQ3VHTUhHaUJKUVRUVmlqNnB4ZUJGV0xOQXlhYXBaN2dxMHZXTDNQRkdFbVg4alotdjZZbkdhSTkxNDVVUmtKM0hpNDhudjZCVXEwcnFjLUh1Tk05ZW1fcnVBemlzRTNLTkw1Ti04Q1JsMmZjeE1xeUhmM2VZdUw0LUszcXRHZUNWTTl4dDd6RzZ5bXBOOFhhOXE5QjBOUE1qeno1RUhoT3FWS3BzSGd4bWk4WEE?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHBrZG5jUnczVDcyMEF4N04zWFp2NDNnaWpmR2MwWUFsNFlXOENsYlJRaEdVSmVnX01mbUktcWdCUFo2UjdoQVRTdmVXNTQzZHpPelRVM2pHaGFpNDJaUl9TODQzNDFEX0RMLV96dk5GOF9vTmZvc1p4UElISG5sSkQ1M0RRZ2Y4WXRHWHZRbi1kNVRLRGNWcV96SW9HNVFPTlF4WVFidTlpU2lhbGlOT2hn?oc=5)
+
+---
+
+### [Why is colorectal cancer aggressive in younger patients? Boston researchers discover new clues](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXp4emQ1OU9RNjZtOUxwSmljVEVyc1NFUFpacFhHblJYX1NZMi1lbmZiTFdjTHJNaXRVdmh1TXdXa2JqY0lhbzZqTnhhclZpbmItdnlNVURYMldrVkJDTENhUHFEcjloQ0FDaDJaTmRyak9iVDVKUjRRUjJiNkJ4NXhIZ084RlJZUFF1N29SbDR5SmhGV2c?oc=5)
+
+2026-10-29
+
+Source: [WCVB](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXp4emQ1OU9RNjZtOUxwSmljVEVyc1NFUFpacFhHblJYX1NZMi1lbmZiTFdjTHJNaXRVdmh1TXdXa2JqY0lhbzZqTnhhclZpbmItdnlNVURYMldrVkJDTENhUHFEcjloQ0FDaDJaTmRyak9iVDVKUjRRUjJiNkJ4NXhIZ084RlJZUFF1N29SbDR5SmhGV2c?oc=5)
 
 ---
 
@@ -48,11 +56,11 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxOenBT
 
 ---
 
-### [Utah pediatrician urges women not to delay mammograms after cancer diagnosis - KSL News](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkFVM21RNldSM0dPREVSTURZM0NvY2U5clpDQS14WVZRUV9MZkx1YUFBWXJRMjhXRXIwNU9yYl9WQnZ3Yl9pcmhjay10QzhMZjRucHMxRHNaRGt2SVRPQWR2clE2Q3dOOXBuMGdoUnRyWUpCVGtyOGZJV1UwZ3lEZGRsbUNSWlpqV0J1ckdNT2ZBMTlyYzZfYVppcDR4MHJHTzFYM2pqZFFkSVVvQWRFVTEwOA?oc=5)
+### [Utah pediatrician urges women not to delay mammograms after cancer diagnosis](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkFVM21RNldSM0dPREVSTURZM0NvY2U5clpDQS14WVZRUV9MZkx1YUFBWXJRMjhXRXIwNU9yYl9WQnZ3Yl9pcmhjay10QzhMZjRucHMxRHNaRGt2SVRPQWR2clE2Q3dOOXBuMGdoUnRyWUpCVGtyOGZJV1UwZ3lEZGRsbUNSWlpqV0J1ckdNT2ZBMTlyYzZfYVppcDR4MHJHTzFYM2pqZFFkSVVvQWRFVTEwOA?oc=5)
 
 2026-10-28
 
-Source: [KSL News](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkFVM21RNldSM0dPREVSTURZM0NvY2U5clpDQS14WVZRUV9MZkx1YUFBWXJRMjhXRXIwNU9yYl9WQnZ3Yl9pcmhjay10QzhMZjRucHMxRHNaRGt2SVRPQWR2clE2Q3dOOXBuMGdoUnRyWUpCVGtyOGZJV1UwZ3lEZGRsbUNSWlpqV0J1ckdNT2ZBMTlyYzZfYVppcDR4MHJHTzFYM2pqZFFkSVVvQWRFVTEwOA?oc=5)
+Source: [KSL](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkFVM21RNldSM0dPREVSTURZM0NvY2U5clpDQS14WVZRUV9MZkx1YUFBWXJRMjhXRXIwNU9yYl9WQnZ3Yl9pcmhjay10QzhMZjRucHMxRHNaRGt2SVRPQWR2clE2Q3dOOXBuMGdoUnRyWUpCVGtyOGZJV1UwZ3lEZGRsbUNSWlpqV0J1ckdNT2ZBMTlyYzZfYVppcDR4MHJHTzFYM2pqZFFkSVVvQWRFVTEwOA?oc=5)
 
 ---
 
@@ -72,19 +80,19 @@ Source: [USA Today](https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkx3Vk1
 
 ---
 
+### [Cutting This One Food Could Drastically Reduce Your Colon Cancer Risk](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DVWhxLTlmaG9pMGVYSDIyMm9QY3pjdlRFNjdpbEo1X1BES08zbDRLVzhLbHRad1I4S3Q0Nk81b1dCN0o4SVg2a1lnMENsU0ZVOWlNRGVtNGsyc09GRWl6VmZPTDQ5U2VIZjZ6VVoySQ?oc=5)
+
+2026-10-27
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DVWhxLTlmaG9pMGVYSDIyMm9QY3pjdlRFNjdpbEo1X1BES08zbDRLVzhLbHRad1I4S3Q0Nk81b1dCN0o4SVg2a1lnMENsU0ZVOWlNRGVtNGsyc09GRWl6VmZPTDQ5U2VIZjZ6VVoySQ?oc=5)
+
+---
+
 ### [Young adults with cancer report getting dismissed by doctors](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oMGtYVHZ0RmdWeTNHTzlGaHZBNzIySTg0YmJ6a3NhT2FSUi15dzFGZlNBUDcyU19xam9iU1ZTOF9EMzI3emc4Rm5JMWY2cDZISjUwdmNJT2xSZ1dtTXpSUjlyeXk1Zw?oc=5)
 
 2026-10-26
 
 Source: [Futurity](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oMGtYVHZ0RmdWeTNHTzlGaHZBNzIySTg0YmJ6a3NhT2FSUi15dzFGZlNBUDcyU19xam9iU1ZTOF9EMzI3emc4Rm5JMWY2cDZISjUwdmNJT2xSZ1dtTXpSUjlyeXk1Zw?oc=5)
-
----
-
-### [Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
-
-2026-10-23
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
 
 ---
 

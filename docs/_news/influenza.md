@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 4 articles, 2 related drugs."
+description: "Health news about flu (influenza). 6 articles, 2 related drugs."
 permalink: /news/influenza/
 last_modified_at: 2026-10-30
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>6 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,13 +31,29 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (4)
+## Related News (6)
+
+### [Public health leaders remind Californians to vaccinate against 3 viruses](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlo3YmtQcDM4N2xvajJtZ0s3SnM3dzVOeFh2Rm9aelBJZzZPUXB6VjZOUVpQSmMxWWJNd0dGbTlPQ0NGR1hsSm1TMEJ1QTFiazhPM09iU3dyVzhPbWhna1E3Ry1UM0haUHBEbVpUUlRQT2p2SnRESlJMR2I1aVM3NDRrT0QxUkp6VXRtRHBfNDZRd2tsVW5BQVJuTQ?oc=5)
+
+2026-10-29
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlo3YmtQcDM4N2xvajJtZ0s3SnM3dzVOeFh2Rm9aelBJZzZPUXB6VjZOUVpQSmMxWWJNd0dGbTlPQ0NGR1hsSm1TMEJ1QTFiazhPM09iU3dyVzhPbWhna1E3Ry1UM0haUHBEbVpUUlRQT2p2SnRESlJMR2I1aVM3NDRrT0QxUkp6VXRtRHBfNDZRd2tsVW5BQVJuTQ?oc=5)
+
+---
 
 ### [First flu-related death of the season reported in eastern Idaho - East Idaho News](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMk9jYnNKS3pYcWlPZVh1eTFqZEN5b0hCNzhNX0FIYkRuc1NveW5tMkl2akh6eTU1WGFqSGhZNDdWSTlZZ081bnhkOW94UzhTX1V0dkFCQ3NfWVZ3Y1RTRUprWldCLXp3UEljOTA2TzZSU0VoMXNhbkp5UEVBMWgzN2hXbjhRTmlDWlE1MVVuUlhTZjZKS2NsRG05a3lTZ1FhT1Q4WGNPYw?oc=5)
 
 2026-10-29
 
 Source: [East Idaho News](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMk9jYnNKS3pYcWlPZVh1eTFqZEN5b0hCNzhNX0FIYkRuc1NveW5tMkl2akh6eTU1WGFqSGhZNDdWSTlZZ081bnhkOW94UzhTX1V0dkFCQ3NfWVZ3Y1RTRUprWldCLXp3UEljOTA2TzZSU0VoMXNhbkp5UEVBMWgzN2hXbjhRTmlDWlE1MVVuUlhTZjZKS2NsRG05a3lTZ1FhT1Q4WGNPYw?oc=5)
+
+---
+
+### [Avian influenza confirmed in backyard poultry flock in eastern Baxter County](https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnpQbXcxdzlqTVg5V3ZaWUwtMmtfWGw0R2RKaWd3VENUelZlUVNoQnhCQ2VmVW01Zy14YXVkNE9RMTk3N0JiTWNpajNoWjZHR0dtaGFONHlBVnV3N25FWkhhQ00wdHhXZmJtZ0VDajZMRHhXVnZsdFUwWGtjSkx6LXVQVzE4VUpVQnJWLXk5SXdhYlpESjNBb00wQnBQbkhsOW1NSVFXY2N5eHZ5dkE?oc=5)
+
+2026-10-29
+
+Source: [KTLO](https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnpQbXcxdzlqTVg5V3ZaWUwtMmtfWGw0R2RKaWd3VENUelZlUVNoQnhCQ2VmVW01Zy14YXVkNE9RMTk3N0JiTWNpajNoWjZHR0dtaGFONHlBVnV3N25FWkhhQ00wdHhXZmJtZ0VDajZMRHhXVnZsdFUwWGtjSkx6LXVQVzE4VUpVQnJWLXk5SXdhYlpESjNBb00wQnBQbkhsOW1NSVFXY2N5eHZ5dkE?oc=5)
 
 ---
 

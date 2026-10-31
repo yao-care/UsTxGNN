@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about MI (myocardial infarction). 34 articles, 9 related drugs."
 permalink: /news/myocardial-infarction/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # MI (myocardial infarction) News
@@ -39,6 +39,30 @@ This page brings together the latest health news about “MI” and lists the dr
 </div>
 
 ## Related News (34)
+
+### [Tula-Tu fights off EEHV infection as doctors express cautious optimism](https://news.google.com/rss/articles/CBMivgFBVV95cUxQb2Y0UXlmaTUySnFnR3otSG5nQ2poQmM0VzZMbTQ4VF9NRUtUMGNoV1pJeGFDbFhnSXNveG5GbkFJUDdETDktb0pLZ3E1QThCRlZrNmxPS2NCTHlQN0plM000YmZWZ3JoWnZYYkNJQjBsVWI4WkFaOEdncEl0WHMwdU5wa0Z4ay11NExDYTdsblBpS2hmNW5nckJLakUxVk9Ib2xGWlozX0dBdmVMTTJVNmVHN2E2ZXUyRkpWYm1B?oc=5)
+
+2026-10-30
+
+Source: [KTVZ](https://news.google.com/rss/articles/CBMivgFBVV95cUxQb2Y0UXlmaTUySnFnR3otSG5nQ2poQmM0VzZMbTQ4VF9NRUtUMGNoV1pJeGFDbFhnSXNveG5GbkFJUDdETDktb0pLZ3E1QThCRlZrNmxPS2NCTHlQN0plM000YmZWZ3JoWnZYYkNJQjBsVWI4WkFaOEdncEl0WHMwdU5wa0Z4ay11NExDYTdsblBpS2hmNW5nckJLakUxVk9Ib2xGWlozX0dBdmVMTTJVNmVHN2E2ZXUyRkpWYm1B?oc=5)
+
+---
+
+### [A human subject has been injected with an AI-designed virus aiming to kill antibiotic-resistant bacteria, so let's see how that turns out - Yahoo Tech](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTENXX1U5clluQzVFM21uQ3dlZkp4X0VhYlVBZG8yWkQwZVE5V0lmVExwRk5nOERCYVVPTDdFTjJJZFI4X3F3SDZ5ZWVJMm56dC11MURDallWMXJkQldwTkkxNldKNGdGckoyM2JQRHlYQTlGc0xfaVhpYXY0RFJJY2FqNUhyS25pN3NEcEdwOUEyYms?oc=5)
+
+2026-10-30
+
+Source: [Yahoo Tech](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTENXX1U5clluQzVFM21uQ3dlZkp4X0VhYlVBZG8yWkQwZVE5V0lmVExwRk5nOERCYVVPTDdFTjJJZFI4X3F3SDZ5ZWVJMm56dC11MURDallWMXJkQldwTkkxNldKNGdGckoyM2JQRHlYQTlGc0xfaVhpYXY0RFJJY2FqNUhyS25pN3NEcEdwOUEyYms?oc=5)
+
+---
+
+### [Boston researchers discover differences in colon cancer tumor cells in younger patients - KSL News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHQ1YkhIeDdZOUNvUkNEQWFfX3RQSnpEbFlkdUVmSUFjRDRKbTQzbEF6RkJNV1dKYnFhV0NESXFEOC1qUlR3dE1mTUlNXzR1UHk1QlhuNHpGMTFxcTRDc1ZiOHpocVB0VWc0UGk1ckZfZzdwSGRjcF9vYkZkS0RySlZvdmdpNTBQOUdZelp6NUtSNi1ORVIwZlVPcWdleGpmckJhU1h5UkVrdDJPVGhyNWtMOTF6alRfSkpDNFJqZVplQQ?oc=5)
+
+2026-10-30
+
+Source: [KSL News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHQ1YkhIeDdZOUNvUkNEQWFfX3RQSnpEbFlkdUVmSUFjRDRKbTQzbEF6RkJNV1dKYnFhV0NESXFEOC1qUlR3dE1mTUlNXzR1UHk1QlhuNHpGMTFxcTRDc1ZiOHpocVB0VWc0UGk1ckZfZzdwSGRjcF9vYkZkS0RySlZvdmdpNTBQOUdZelp6NUtSNi1ORVIwZlVPcWdleGpmckJhU1h5UkVrdDJPVGhyNWtMOTF6alRfSkpDNFJqZVplQQ?oc=5)
+
+---
 
 ### [Over 25% of people lie to get antibiotics—and their lies aren’t even good - Ars Technica](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMDR2NGF1a1d0ZVgzUWlRMVhzQ1dnZ1ZGRG9CZ3c5dUVRemZIMFlUb05McTdtRUJDYmM3bjFxZTFpd3dTc0s0NVFpaEh2ZTZaUUZ2WkdDb2FNS1h6dHRISk85dkVqbVhfWEtOX3labEQ1eDRGRnpPcjliSEdFU2UwVk01SXJxbFZMOE1GQUI2LXlEU0w0R3k0NDdfWXhsVzBjcXBSX3dpWU1zUncwNVQ2bQ?oc=5)
 
@@ -88,11 +112,19 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95c
 
 ---
 
-### [Voyager 1 gives controllers the silent treatment - The Register](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHg4VU9zT2Y4cGNZOC16dUdtaEo2WDQtRFF5bXg2Y2dRSHVua1NzalFYUFlaWGp2SGVYWUZUYXdsWTg2VDRuUXNoX2ozTnAzVFBmOXM1Z3pjaC1QcTVtMHdRUFlmNnJyZXQ3QU1XeldEOXRfYVUwU1VMTXlKelJfcy0tTjR0S3pWdkNZMUh0ekhVR0pGRmRUZ1d6eGd4aUhWRGhyeGhR?oc=5)
+### [E. coli outbreak lands 3 in hospital, health officials investigate link to pumpkin patch - Fox News](https://news.google.com/rss/articles/CBMisAFBVV95cUxPVGE0cjJ5a1M3MU10eGFfWUlSb3FUck9vQ2lGdEV0alh6WmVPNmNxSE9zd2E4TDZOR05jVl9GNFlwbTQwME9xdTdaN0E0X3d1VXdkMGg2aEhaNVhYdWxVY3Q5QW1IM21Gb2trSDROak02Z0dxT1REM0Ytd0hYM19RUWZHZXdGRDRiUWZ1TnBYeDllZHZQN1BRWTJxSzlMN0xLaEt1LVVJVnF1WU1WMV9udtIBtgFBVV95cUxPWlBKNGZxZ1E3eUw2c0drY1FYZGptVmVqOUFoelNYTVBNX19IamQ2VU01YVFBWUFkbnJaeG9HSFpfMVRnaGZfaWVRSmdMRXFyY3FHM2RYT3M4TUk1MWxjNnUySU0xbHJFbUdrNk5HQ3FyVHZhejRfUzVFbEFzb3JEc1RhSnZkWjgySEtldTFYeUtjUEM2VnZhYnFQMHRLZU1RdGU2TUk5NEh1VTFUUC1CLTNmN3pXQQ?oc=5)
 
 2026-10-30
 
-Source: [The Register](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHg4VU9zT2Y4cGNZOC16dUdtaEo2WDQtRFF5bXg2Y2dRSHVua1NzalFYUFlaWGp2SGVYWUZUYXdsWTg2VDRuUXNoX2ozTnAzVFBmOXM1Z3pjaC1QcTVtMHdRUFlmNnJyZXQ3QU1XeldEOXRfYVUwU1VMTXlKelJfcy0tTjR0S3pWdkNZMUh0ekhVR0pGRmRUZ1d6eGd4aUhWRGhyeGhR?oc=5)
+Source: [Fox News](https://news.google.com/rss/articles/CBMisAFBVV95cUxPVGE0cjJ5a1M3MU10eGFfWUlSb3FUck9vQ2lGdEV0alh6WmVPNmNxSE9zd2E4TDZOR05jVl9GNFlwbTQwME9xdTdaN0E0X3d1VXdkMGg2aEhaNVhYdWxVY3Q5QW1IM21Gb2trSDROak02Z0dxT1REM0Ytd0hYM19RUWZHZXdGRDRiUWZ1TnBYeDllZHZQN1BRWTJxSzlMN0xLaEt1LVVJVnF1WU1WMV9udtIBtgFBVV95cUxPWlBKNGZxZ1E3eUw2c0drY1FYZGptVmVqOUFoelNYTVBNX19IamQ2VU01YVFBWUFkbnJaeG9HSFpfMVRnaGZfaWVRSmdMRXFyY3FHM2RYT3M4TUk1MWxjNnUySU0xbHJFbUdrNk5HQ3FyVHZhejRfUzVFbEFzb3JEc1RhSnZkWjgySEtldTFYeUtjUEM2VnZhYnFQMHRLZU1RdGU2TUk5NEh1VTFUUC1CLTNmN3pXQQ?oc=5)
+
+---
+
+### [NASA's Voyager 1 conserves power, resolves brief communications pause](https://news.google.com/rss/articles/CBMid0FVX3lxTE5XYjZKbmhHRG1pcXJjSVQwZWdCbjNBbWt1QjMtOGJDclY3X3VkUE5SS1piYXk4eHMyN3lxQnQ2Wk9fWEtSSjV1Y2l6Z0duZjJsNVhQdmhObmlxeGtSb0l4YW1ic2lpYWdpbzlJWTRKaGR6WDR5MXVF?oc=5)
+
+2026-10-30
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMid0FVX3lxTE5XYjZKbmhHRG1pcXJjSVQwZWdCbjNBbWt1QjMtOGJDclY3X3VkUE5SS1piYXk4eHMyN3lxQnQ2Wk9fWEtSSjV1Y2l6Z0duZjJsNVhQdmhObmlxeGtSb0l4YW1ic2lpYWdpbzlJWTRKaGR6WDR5MXVF?oc=5)
 
 ---
 
@@ -101,6 +133,14 @@ Source: [The Register](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHg4
 2026-10-30
 
 Source: [Gizmodo](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOUpoQUJlc3p6OGp2M0MxYnlJUmx4X1RpSW91bnBLb2o2VHNmQjhhSGVfdkVpbDU5cXo2Y2sxbW9MQ2hPanZHTmhMSTlCTEtXaUFQMkJPTURydWFKeTFSN2pXVm82d1AyX3hqWjROZlpveFFodVhxMWoxcmM0X2FoMlNLc1JMbFZLblE?oc=5)
+
+---
+
+### [Confirming altermagnetism: A geometric twist offers experimental proof](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEROa1FLc0lqZTZIckF1N0ttNTd4WHVnTzMyZVpEMXQ5X0ZKRi1mLU1QWWQ1QTAwTXBBSGtDaVZDTVV4OHZDMGhGWkN4aEpXVVR1UXcxeXIzLWRsVS14SWRtcGc1NTlHUTBZQW1IUkdVRzVBdmxrSWhQVm0wcE1HVUJNeHg?oc=5)
+
+2026-10-30
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEROa1FLc0lqZTZIckF1N0ttNTd4WHVnTzMyZVpEMXQ5X0ZKRi1mLU1QWWQ1QTAwTXBBSGtDaVZDTVV4OHZDMGhGWkN4aEpXVVR1UXcxeXIzLWRsVS14SWRtcGc1NTlHUTBZQW1IUkdVRzVBdmxrSWhQVm0wcE1HVUJNeHg?oc=5)
 
 ---
 
@@ -136,27 +176,11 @@ Source: [MPR News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0pWd3Ey
 
 ---
 
-### [Scientists for the first time injected an AI-created virus into a human - The Independent](https://news.google.com/rss/articles/CBMigwFBVV95cUxNWkRlY2ZTcno5bWgyX0psX3VUalVLNVp2TExWakJ6LUE3eWU1UE1QMmtTQTBPNkVFMU5tVVRmZml6dk5vak5vdGplSlNuRWpQUVVMUUdoZVk5TnB4S21PTENnNmlhc2hFYVJSUktlbDgyOWVGUVdBSmRwaXcxRTBWaE9Gcw?oc=5)
-
-2026-10-29
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMigwFBVV95cUxNWkRlY2ZTcno5bWgyX0psX3VUalVLNVp2TExWakJ6LUE3eWU1UE1QMmtTQTBPNkVFMU5tVVRmZml6dk5vak5vdGplSlNuRWpQUVVMUUdoZVk5TnB4S21PTENnNmlhc2hFYVJSUktlbDgyOWVGUVdBSmRwaXcxRTBWaE9Gcw?oc=5)
-
----
-
 ### [The first global food pyramid vs. RFK Jr.'s. They look nothing alike - USA Today](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZGN3Qm50RUdmejlnMHdab082Ulo2TFlKdTFuUXdBQXBpLTkyNUstUWdjaG16WWdMNU9qN1lBWGdiQ1owcnpzX2hOaHMycGtKRWFwWENTZlY5OGlseDRLb0V0QkVhb0U5S3RiVS1EaVRGRy1Cei1QTTB2RjdDZnQ5b3RLZzJCUGgzLUJVWm1zMVVGTzlWTzdWR1M5RUtoX29obElMdzh2eWpZWEFHSDd0a2pUR0d5NUJtMzFhckdSZTA?oc=5)
 
 2026-10-29
 
 Source: [USA Today](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZGN3Qm50RUdmejlnMHdab082Ulo2TFlKdTFuUXdBQXBpLTkyNUstUWdjaG16WWdMNU9qN1lBWGdiQ1owcnpzX2hOaHMycGtKRWFwWENTZlY5OGlseDRLb0V0QkVhb0U5S3RiVS1EaVRGRy1Cei1QTTB2RjdDZnQ5b3RLZzJCUGgzLUJVWm1zMVVGTzlWTzdWR1M5RUtoX29obElMdzh2eWpZWEFHSDd0a2pUR0d5NUJtMzFhckdSZTA?oc=5)
-
----
-
-### [Why is colorectal cancer aggressive in younger patients? Boston researchers discover new clues](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXp4emQ1OU9RNjZtOUxwSmljVEVyc1NFUFpacFhHblJYX1NZMi1lbmZiTFdjTHJNaXRVdmh1TXdXa2JqY0lhbzZqTnhhclZpbmItdnlNVURYMldrVkJDTENhUHFEcjloQ0FDaDJaTmRyak9iVDVKUjRRUjJiNkJ4NXhIZ084RlJZUFF1N29SbDR5SmhGV2c?oc=5)
-
-2026-10-29
-
-Source: [WCVB](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXp4emQ1OU9RNjZtOUxwSmljVEVyc1NFUFpacFhHblJYX1NZMi1lbmZiTFdjTHJNaXRVdmh1TXdXa2JqY0lhbzZqTnhhclZpbmItdnlNVURYMldrVkJDTENhUHFEcjloQ0FDaDJaTmRyak9iVDVKUjRRUjJiNkJ4NXhIZ084RlJZUFF1N29SbDR5SmhGV2c?oc=5)
 
 ---
 
@@ -176,27 +200,19 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlo3YmtQcDM
 
 ---
 
-### [Farmer's Blurry Eyes Caused by Parasitic Worms](https://news.google.com/rss/articles/CBMiswFBVV95cUxOOE02NmVjWlh0elJzY0w1RUJfdWQ2M01kV015Ml9vTi02NVNXVWJvN3R3dWRWSE9MSFRXTVdBZm55TnlMVWJLQ3RkbktSQlFSNEEzQ0lHTk01bko2UnVTS2NLNHUxUkVSbkpWQnc4cnJhdzJpeTdkcnRNMEFNWDdDRHVtT21lRkJsSF9aSjVXOUZ3Qlc4MmtQLXdGWGZjTGl1dlFNUXFXSUFiTkVlME9vVEJ3SQ?oc=5)
+### [Rubin observatory reveals two hidden companions of the Milky Way](https://news.google.com/rss/articles/CBMihAFBVV95cUxNUm1sRGxGelFPMEZBa3FMYUc0dk1kMzk5c1lGWUJ0WjRhWnllcDZUb1ZPTGRndktFeHA0RmZPbWY3TnBqeUFTeUhsZlhNc1ZxQWl5VkJjNy1ROTdfU3JBTkpIMkZTazZMQW1uWVlxc1hHQlRqSkktaDNEQ3VvbnBVUU9jU2w?oc=5)
 
 2026-10-29
 
-Source: [Gizmodo](https://news.google.com/rss/articles/CBMiswFBVV95cUxOOE02NmVjWlh0elJzY0w1RUJfdWQ2M01kV015Ml9vTi02NVNXVWJvN3R3dWRWSE9MSFRXTVdBZm55TnlMVWJLQ3RkbktSQlFSNEEzQ0lHTk01bko2UnVTS2NLNHUxUkVSbkpWQnc4cnJhdzJpeTdkcnRNMEFNWDdDRHVtT21lRkJsSF9aSjVXOUZ3Qlc4MmtQLXdGWGZjTGl1dlFNUXFXSUFiTkVlME9vVEJ3SQ?oc=5)
+Source: [Phys.org](https://news.google.com/rss/articles/CBMihAFBVV95cUxNUm1sRGxGelFPMEZBa3FMYUc0dk1kMzk5c1lGWUJ0WjRhWnllcDZUb1ZPTGRndktFeHA0RmZPbWY3TnBqeUFTeUhsZlhNc1ZxQWl5VkJjNy1ROTdfU3JBTkpIMkZTazZMQW1uWVlxc1hHQlRqSkktaDNEQ3VvbnBVUU9jU2w?oc=5)
 
 ---
 
-### [These 4 germs are becoming an urgent threat, and they resist treatment - USA Today](https://news.google.com/rss/articles/CBMizwFBVV95cUxNY1FaTlZkRjhXVE50bDlHZXB6T2toZWhMei03WGhRaU5tZGt2THIzcVkwWndqc3l1SFdFMVAtS1ZiVU1QdGdLT2RHYWZYWFlUOWtwNkVGVmlSVzJuZEdFT3RqS2VWcm83V0ltakhfQUs3dk14LUw2SldiYWdWOVphWDhWRURJclR0bXprQjBxR1h1WE43NThURF9sM3VLc2JhNmdSbllOc0RaU3hzNTY3M29BV3F1aElhMVBqaTdobGx2RTA1S0FBQmRkSEo2Ulk?oc=5)
+### [Experts warn of wider spread as Ebola outbreak reaches plateau - AP News](https://news.google.com/rss/articles/CBMilwFBVV95cUxPSUEtT2tsMl9PcVZRWm4tV2I5NWxFdGh4ekI3eGFrOEtzZUNCMmwtX1lub09ldXY4RmxlRW9ucUY3bzJsczVvQVVySFNUeHBqQ1kwVnp5V01LMm1ZVnFRQWc2TFNnMjVsbW9QM21ld0tYZ1BWako0YWtza1ZwYzJ1Y28tOTliQXRROHJWSkxrT2VZYXRJTkJr?oc=5)
 
 2026-10-29
 
-Source: [USA Today](https://news.google.com/rss/articles/CBMizwFBVV95cUxNY1FaTlZkRjhXVE50bDlHZXB6T2toZWhMei03WGhRaU5tZGt2THIzcVkwWndqc3l1SFdFMVAtS1ZiVU1QdGdLT2RHYWZYWFlUOWtwNkVGVmlSVzJuZEdFT3RqS2VWcm83V0ltakhfQUs3dk14LUw2SldiYWdWOVphWDhWRURJclR0bXprQjBxR1h1WE43NThURF9sM3VLc2JhNmdSbllOc0RaU3hzNTY3M29BV3F1aElhMVBqaTdobGx2RTA1S0FBQmRkSEo2Ulk?oc=5)
-
----
-
-### [Officials Warn Ebola Could Spread Like COVID as Cases Surpass 10K: ‘We Want All Countries to Know That They Are Not Safe’](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQzBfNWQ5SVRTZlJnWDVDTGlWM1hmeE9QNENtWFlvOEQxTDRHdGpYbXpUbkp1dzU1b1h1WjJIZk9Lak5MMzVkRVZDckpZLUx4c08xUzNaR0NMS1BUdzBkcm8zbm54cXFoMHg4QTdfSGp0QXE5Rm1MWklsdVlpcE5UNUdDQjFkUWtGdnBURkFvTC1qb1N3?oc=5)
-
-2026-10-29
-
-Source: [Yahoo](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQzBfNWQ5SVRTZlJnWDVDTGlWM1hmeE9QNENtWFlvOEQxTDRHdGpYbXpUbkp1dzU1b1h1WjJIZk9Lak5MMzVkRVZDckpZLUx4c08xUzNaR0NMS1BUdzBkcm8zbm54cXFoMHg4QTdfSGp0QXE5Rm1MWklsdVlpcE5UNUdDQjFkUWtGdnBURkFvTC1qb1N3?oc=5)
+Source: [AP News](https://news.google.com/rss/articles/CBMilwFBVV95cUxPSUEtT2tsMl9PcVZRWm4tV2I5NWxFdGh4ekI3eGFrOEtzZUNCMmwtX1lub09ldXY4RmxlRW9ucUY3bzJsczVvQVVySFNUeHBqQ1kwVnp5V01LMm1ZVnFRQWc2TFNnMjVsbW9QM21ld0tYZ1BWako0YWtza1ZwYzJ1Y28tOTliQXRROHJWSkxrT2VZYXRJTkJr?oc=5)
 
 ---
 
@@ -256,27 +272,27 @@ Source: [SFGATE](https://news.google.com/rss/articles/CBMigwFBVV95cUxPU1hHZTVBaD
 
 ---
 
-### [Weight-loss drug could help address nighttime sleep disruptions for millions - Fox News](https://news.google.com/rss/articles/CBMingFBVV95cUxPZWlxdV8xSE1JRktFM2NDNUJtSHg1QzVGd2Y5aEMyUW9rbTBGWEQ4VG95WXhrTW1IOW91aFVTVTdBb0RCeC1KQXpZb09oX2p5Z09hcFFCTllkRWtUMGZnUXRNdTN1a0Q0MWxfcVdMcXhDRU5OZTkwLXdmazNNVUtJRDc1TG1RY2dBQm1saVh4UXVRSkh2X1hSUmxjTUYtdw?oc=5)
+### [Dead star discovery shows what will happen to Earth when the Sun burns out](https://news.google.com/rss/articles/CBMiggFBVV95cUxNLTBIcWJTSm1qTmJTbzV3bUVBMWJYNUtPd0pwTUJfZ2EzYzVWVEd5a0xpUDZJZW5UMHNEM1BxMEh4NjhELWpQb2VIR2NxNTlsSWtVMWo5dVRFTUlLOHRMTGphUFdjeTRfRUh5RmJXMWVqNXU4XzBROGlzUnBXMjRLVzFR?oc=5)
 
 2026-10-28
 
-Source: [Fox News](https://news.google.com/rss/articles/CBMingFBVV95cUxPZWlxdV8xSE1JRktFM2NDNUJtSHg1QzVGd2Y5aEMyUW9rbTBGWEQ4VG95WXhrTW1IOW91aFVTVTdBb0RCeC1KQXpZb09oX2p5Z09hcFFCTllkRWtUMGZnUXRNdTN1a0Q0MWxfcVdMcXhDRU5OZTkwLXdmazNNVUtJRDc1TG1RY2dBQm1saVh4UXVRSkh2X1hSUmxjTUYtdw?oc=5)
+Source: [AOL.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxNLTBIcWJTSm1qTmJTbzV3bUVBMWJYNUtPd0pwTUJfZ2EzYzVWVEd5a0xpUDZJZW5UMHNEM1BxMEh4NjhELWpQb2VIR2NxNTlsSWtVMWo5dVRFTUlLOHRMTGphUFdjeTRfRUh5RmJXMWVqNXU4XzBROGlzUnBXMjRLVzFR?oc=5)
 
 ---
 
-### [Neutrinos Are Everywhere. Now What? - The New York Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZTFYVFFraVlnX25sV3dTWTJHUmZ1dWRqSnNhRm11Q2dZOW1rcnlGMUVESHdFX3JyUm9sT05wblEyaWVJdENZZC1NREtscVpxSVhJNVlsUDJOTS1TUVhTUDZrazl1eHhYZDlSZFMwMm5YME9jSU1XQlA2azNzU2I1M2ZHckZaTUU?oc=5)
-
-2026-10-28
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZTFYVFFraVlnX25sV3dTWTJHUmZ1dWRqSnNhRm11Q2dZOW1rcnlGMUVESHdFX3JyUm9sT05wblEyaWVJdENZZC1NREtscVpxSVhJNVlsUDJOTS1TUVhTUDZrazl1eHhYZDlSZFMwMm5YME9jSU1XQlA2azNzU2I1M2ZHckZaTUU?oc=5)
-
----
-
-### [Neurologists Reveal The Overlooked Signs Of Alzheimer's They Wish Everyone Knew](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVDBTN2JqN25ZOTROSncyaV9ud1h3ZmFmMlVsc25WYXJxcjQwU0J4R3FXTFo3R2x3WlFqWlpVVk9obUNjSUNhSEd3VmVXVHFST3JMdzVrTE8yUm1CWnM5YWs0RTN0RWlmeUNkZk5aMklZM2g3ZFNIZnh6a0FPZUppc19LUV9ONUhGV3p3bFVvWVZ1NU5uU3R2Wm9iamFxbXUt0gGmAUFVX3lxTE02R05VaFdSZENpZmF3djFzOXZCWF9uQ1B1VlpjWWJVZ3Z1LVhKei1HdjhTU3dYUk1vUHV5czB4VVYzbU9aeTNramNxZElOS3dWT3IzV0p4Y29FSlNsVjN4ek1USGVURXdmRlZ4S1lRV3pBaGZpbkgwOHpzZmlIQ1h5ZnBtUDdzMlJ0LU1zTmpXMFNuY2oyYVVpTkV0U0VaMk9sNHJHWFE?oc=5)
+### [Drug-resistant germs are 'growing threat' to US, causing more than 50,000 deaths annually: CDC - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ0o2cFplaXlYYjFjOXZyczV0eXphY3hPVW81dTRRNlhCSTgxTloxT0tEVkRCX1kxT01vYkRPLW0xbTFMR1QyX0xETnBtTmFac1dKUHhCZkJRTll0ODB6SG45MzhpQ2N0MzZJU214OVRzZjhLTkhHWTM3WUttT3k0a0k3UV9iV0pKMFRwMEtRSXZCX1A1d09qVVdXdVdOSGvSAaQBQVVfeXFMUExheC1kN3pRM0VMYjN4RzE5OXlCMlB4d0NKSVhVcGplZkcxLXZCUTZ2OWF6Yzc1YnBmLTNLdkEwck5WZ2piZTBJMERnYU1qOXRxNTZGUDBjWEIwWTdIaEpVYXBxd0RHOE9tekxsRTR1TzNIWmxNX1BuVUlIUUZjR3JDcWxHTk1jdmtTTk41X3dWY1JxQUlIVTVabkVEMUVEVVhRVGo?oc=5)
 
 2026-10-27
 
-Source: [HuffPost](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVDBTN2JqN25ZOTROSncyaV9ud1h3ZmFmMlVsc25WYXJxcjQwU0J4R3FXTFo3R2x3WlFqWlpVVk9obUNjSUNhSEd3VmVXVHFST3JMdzVrTE8yUm1CWnM5YWs0RTN0RWlmeUNkZk5aMklZM2g3ZFNIZnh6a0FPZUppc19LUV9ONUhGV3p3bFVvWVZ1NU5uU3R2Wm9iamFxbXUt0gGmAUFVX3lxTE02R05VaFdSZENpZmF3djFzOXZCWF9uQ1B1VlpjWWJVZ3Z1LVhKei1HdjhTU3dYUk1vUHV5czB4VVYzbU9aeTNramNxZElOS3dWT3IzV0p4Y29FSlNsVjN4ek1USGVURXdmRlZ4S1lRV3pBaGZpbkgwOHpzZmlIQ1h5ZnBtUDdzMlJ0LU1zTmpXMFNuY2oyYVVpTkV0U0VaMk9sNHJHWFE?oc=5)
+Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ0o2cFplaXlYYjFjOXZyczV0eXphY3hPVW81dTRRNlhCSTgxTloxT0tEVkRCX1kxT01vYkRPLW0xbTFMR1QyX0xETnBtTmFac1dKUHhCZkJRTll0ODB6SG45MzhpQ2N0MzZJU214OVRzZjhLTkhHWTM3WUttT3k0a0k3UV9iV0pKMFRwMEtRSXZCX1A1d09qVVdXdVdOSGvSAaQBQVVfeXFMUExheC1kN3pRM0VMYjN4RzE5OXlCMlB4d0NKSVhVcGplZkcxLXZCUTZ2OWF6Yzc1YnBmLTNLdkEwck5WZ2piZTBJMERnYU1qOXRxNTZGUDBjWEIwWTdIaEpVYXBxd0RHOE9tekxsRTR1TzNIWmxNX1BuVUlIUUZjR3JDcWxHTk1jdmtTTk41X3dWY1JxQUlIVTVabkVEMUVEVVhRVGo?oc=5)
+
+---
+
+### [Ancient armored bottom-feeder is first seagoing amphibian](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjBFdkF3TTVCTmJUeHRiT19xSGJhQ3NQbnRYY0UycU0tV3ZrbXBoRGxHbTBfZ0tRVVl0MDBYMXlaZHJTejZ2TkdoVlhFaV9NS3NvQnRaOGtPeGNmVnNiaUdkWFkwbkwzc3lrckl3eUFTUVhDMEFrMlFjbWJRZFhmMWg0M2pHaHE1TWVfbGxaVkVnSk5ud3UzZDFXNkFkeVhwV1pYWkt5NDlxdVBOcGs4b1RvcE0?oc=5)
+
+2026-10-27
+
+Source: [Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjBFdkF3TTVCTmJUeHRiT19xSGJhQ3NQbnRYY0UycU0tV3ZrbXBoRGxHbTBfZ0tRVVl0MDBYMXlaZHJTejZ2TkdoVlhFaV9NS3NvQnRaOGtPeGNmVnNiaUdkWFkwbkwzc3lrckl3eUFTUVhDMEFrMlFjbWJRZFhmMWg0M2pHaHE1TWVfbGxaVkVnSk5ud3UzZDFXNkFkeVhwV1pYWkt5NDlxdVBOcGs4b1RvcE0?oc=5)
 
 ---
 
@@ -285,22 +301,6 @@ Source: [HuffPost](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVDBTN2Jq
 2026-10-27
 
 Source: [EatingWell](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DVWhxLTlmaG9pMGVYSDIyMm9QY3pjdlRFNjdpbEo1X1BES08zbDRLVzhLbHRad1I4S3Q0Nk81b1dCN0o4SVg2a1lnMENsU0ZVOWlNRGVtNGsyc09GRWl6VmZPTDQ5U2VIZjZ6VVoySQ?oc=5)
-
----
-
-### [1.9-million-year-old discovery rewrites the story of human evolution - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1KTk4wd1Utd3I3VHUtZGpuLWNJX3VlWTY0WnJPLUJtdENXQ0FxeVlIdXFYMVRVZEtaTVQwaDNTUGlZZThqWFdpalhBYVB4a1BCdFdQQndkUHVnZ0w0Y09MX3JHckJNb3NzT3dGZmJzVQ?oc=5)
-
-2026-10-27
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1KTk4wd1Utd3I3VHUtZGpuLWNJX3VlWTY0WnJPLUJtdENXQ0FxeVlIdXFYMVRVZEtaTVQwaDNTUGlZZThqWFdpalhBYVB4a1BCdFdQQndkUHVnZ0w0Y09MX3JHckJNb3NzT3dGZmJzVQ?oc=5)
-
----
-
-### [Armored amphibian lived entirely at sea 237 million years ago, fossils suggest](https://news.google.com/rss/articles/CBMiekFVX3lxTE8yb2RUQk1fTldwbXJxZ0lRcXZZTllWaldlamJlM2JZbTRNbE5feFFReS04Vk15djF2bTdKd3VqejVrZUFzakRpcTNOdjJ2ak5nUGlNRS0tUUMtSnVDTG9ycERLM1pfNXpaUXctd1pHNXlMVkVXaDJyNml3?oc=5)
-
-2026-10-26
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMiekFVX3lxTE8yb2RUQk1fTldwbXJxZ0lRcXZZTllWaldlamJlM2JZbTRNbE5feFFReS04Vk15djF2bTdKd3VqejVrZUFzakRpcTNOdjJ2ak5nUGlNRS0tUUMtSnVDTG9ycERLM1pfNXpaUXctd1pHNXlMVkVXaDJyNml3?oc=5)
 
 ---
 

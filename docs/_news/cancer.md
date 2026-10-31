@@ -3,9 +3,9 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 6 articles, 1 related drugs."
+description: "Health news about cancer. 8 articles, 1 related drugs."
 permalink: /news/cancer/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # cancer News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>8 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (6)
+## Related News (8)
+
+### [Boston researchers discover differences in colon cancer tumor cells in younger patients - KSL News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHQ1YkhIeDdZOUNvUkNEQWFfX3RQSnpEbFlkdUVmSUFjRDRKbTQzbEF6RkJNV1dKYnFhV0NESXFEOC1qUlR3dE1mTUlNXzR1UHk1QlhuNHpGMTFxcTRDc1ZiOHpocVB0VWc0UGk1ckZfZzdwSGRjcF9vYkZkS0RySlZvdmdpNTBQOUdZelp6NUtSNi1ORVIwZlVPcWdleGpmckJhU1h5UkVrdDJPVGhyNWtMOTF6alRfSkpDNFJqZVplQQ?oc=5)
+
+2026-10-30
+
+Source: [KSL News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHQ1YkhIeDdZOUNvUkNEQWFfX3RQSnpEbFlkdUVmSUFjRDRKbTQzbEF6RkJNV1dKYnFhV0NESXFEOC1qUlR3dE1mTUlNXzR1UHk1QlhuNHpGMTFxcTRDc1ZiOHpocVB0VWc0UGk1ckZfZzdwSGRjcF9vYkZkS0RySlZvdmdpNTBQOUdZelp6NUtSNi1ORVIwZlVPcWdleGpmckJhU1h5UkVrdDJPVGhyNWtMOTF6alRfSkpDNFJqZVplQQ?oc=5)
+
+---
 
 ### [A new test could make it easier to detect one of the most common cancers in women - The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHBrZG5jUnczVDcyMEF4N04zWFp2NDNnaWpmR2MwWUFsNFlXOENsYlJRaEdVSmVnX01mbUktcWdCUFo2UjdoQVRTdmVXNTQzZHpPelRVM2pHaGFpNDJaUl9TODQzNDFEX0RMLV96dk5GOF9vTmZvc1p4UElISG5sSkQ1M0RRZ2Y4WXRHWHZRbi1kNVRLRGNWcV96SW9HNVFPTlF4WVFidTlpU2lhbGlOT2hn?oc=5)
 
@@ -48,6 +56,14 @@ Source: [Business Insider](https://news.google.com/rss/articles/CBMimAFBVV95cUxP
 
 ---
 
+### [Fawn 2-year-old battles rare brain cancer](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTHpHRWtqZ3VkSDdFdzRIdjNveHVaeEJKMDJlaXFKdXViQVJ3dEJ2dGNwSkhSYnh0dEdFQ3ZHa1JRX3NjV0dCUWxTbVVWQnN6Q0J5clJDMmRSbFlWY0JNbDQ3Ui0zUnJucExhT2lqUFc1eURzSHZWYnBRSmdtcmtaVmR4ZElTeFJQbDlONmk4cUVmWFlE?oc=5)
+
+2026-10-30
+
+Source: [TribLIVE.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTHpHRWtqZ3VkSDdFdzRIdjNveHVaeEJKMDJlaXFKdXViQVJ3dEJ2dGNwSkhSYnh0dEdFQ3ZHa1JRX3NjV0dCUWxTbVVWQnN6Q0J5clJDMmRSbFlWY0JNbDQ3Ui0zUnJucExhT2lqUFc1eURzSHZWYnBRSmdtcmtaVmR4ZElTeFJQbDlONmk4cUVmWFlE?oc=5)
+
+---
+
 ### [Doctor Shares 3 Lifestyle Habits to Reduce Breast Cancer Risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
 
 2026-10-30
@@ -56,19 +72,19 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2p
 
 ---
 
-### [Why is colorectal cancer aggressive in younger patients? Boston researchers discover new clues](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXp4emQ1OU9RNjZtOUxwSmljVEVyc1NFUFpacFhHblJYX1NZMi1lbmZiTFdjTHJNaXRVdmh1TXdXa2JqY0lhbzZqTnhhclZpbmItdnlNVURYMldrVkJDTENhUHFEcjloQ0FDaDJaTmRyak9iVDVKUjRRUjJiNkJ4NXhIZ084RlJZUFF1N29SbDR5SmhGV2c?oc=5)
-
-2026-10-29
-
-Source: [WCVB](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXp4emQ1OU9RNjZtOUxwSmljVEVyc1NFUFpacFhHblJYX1NZMi1lbmZiTFdjTHJNaXRVdmh1TXdXa2JqY0lhbzZqTnhhclZpbmItdnlNVURYMldrVkJDTENhUHFEcjloQ0FDaDJaTmRyak9iVDVKUjRRUjJiNkJ4NXhIZ084RlJZUFF1N29SbDR5SmhGV2c?oc=5)
-
----
-
 ### [Known for preventing cancer, p53 could also help immune cells fight it - Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3JTRExiY002UU9qN0JlVW1hWlVRZHRXWnRTNmFmZTR5bWRKSERjbUV2ZnA2dnJfbVVsRnNucmRfU2RrY19QQXFZQmhSUTVSTmRvc1ktX3VrTEZWd0szY3pyY3FpZ1NmNmN0MExLa0JRcmtwa0E?oc=5)
 
 2026-10-29
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3JTRExiY002UU9qN0JlVW1hWlVRZHRXWnRTNmFmZTR5bWRKSERjbUV2ZnA2dnJfbVVsRnNucmRfU2RrY19QQXFZQmhSUTVSTmRvc1ktX3VrTEZWd0szY3pyY3FpZ1NmNmN0MExLa0JRcmtwa0E?oc=5)
+
+---
+
+### [New Pancreatic Cancer Vaccine Sparked Immune Responses in 99% of Patients](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlQ0VjR5UFE5X2Flb1VMUklnaHdrWmtqZ185QmpqQ0I5WjNxWi16eWZnYjhXVjAzTEZWRW1YWFZJVjg0MGRQc0Ffd0ZoNHdSa2tBV2p1T2FwbTZrQVh4OHhRcDBrN1ZFUnJscGlvNkUxNENTcnVhT2JtbnVDdGdPQWNKLUpvSGljRmtxekJ5a0lJVVc2R2pSZUlpT09OcWVldDBV?oc=5)
+
+2026-10-29
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlQ0VjR5UFE5X2Flb1VMUklnaHdrWmtqZ185QmpqQ0I5WjNxWi16eWZnYjhXVjAzTEZWRW1YWFZJVjg0MGRQc0Ffd0ZoNHdSa2tBV2p1T2FwbTZrQVh4OHhRcDBrN1ZFUnJscGlvNkUxNENTcnVhT2JtbnVDdGdPQWNKLUpvSGljRmtxekJ5a0lJVVc2R2pSZUlpT09OcWVldDBV?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 8 articles, 1 related drugs."
+description: "Health news about cancer. 10 articles, 1 related drugs."
 permalink: /news/cancer/
 last_modified_at: 2026-10-31
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>8 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>10 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (8)
+## Related News (10)
+
+### [Any amount of alcohol may raise breast cancer risk. What experts know. - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxORW4xZXF3SjdPZDZLNzZUN25yaFltR3JrTkxvUXRZWjZRT0pWY1VmOHpZTjF2X2tkQjk2cEoyM2hTb1FJUk9tQTY4UTh4X19IZ1pOWVJHYUplZVJqeHFjaFZka2tGekM5cVNlclNkWEdMWVNfM3RqVGk0TGdmQnNTenYyeUZYd0cyVU1OWFZrOEExdm5YaGJQRkxXS0IweG1aX0VKTHhlVnRxM3pWSGE5SE14Zw?oc=5)
+
+2026-10-31
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxORW4xZXF3SjdPZDZLNzZUN25yaFltR3JrTkxvUXRZWjZRT0pWY1VmOHpZTjF2X2tkQjk2cEoyM2hTb1FJUk9tQTY4UTh4X19IZ1pOWVJHYUplZVJqeHFjaFZka2tGekM5cVNlclNkWEdMWVNfM3RqVGk0TGdmQnNTenYyeUZYd0cyVU1OWFZrOEExdm5YaGJQRkxXS0IweG1aX0VKTHhlVnRxM3pWSGE5SE14Zw?oc=5)
+
+---
 
 ### [Boston researchers discover differences in colon cancer tumor cells in younger patients - KSL News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHQ1YkhIeDdZOUNvUkNEQWFfX3RQSnpEbFlkdUVmSUFjRDRKbTQzbEF6RkJNV1dKYnFhV0NESXFEOC1qUlR3dE1mTUlNXzR1UHk1QlhuNHpGMTFxcTRDc1ZiOHpocVB0VWc0UGk1ckZfZzdwSGRjcF9vYkZkS0RySlZvdmdpNTBQOUdZelp6NUtSNi1ORVIwZlVPcWdleGpmckJhU1h5UkVrdDJPVGhyNWtMOTF6alRfSkpDNFJqZVplQQ?oc=5)
 
@@ -93,6 +101,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlQ0
 2026-10-27
 
 Source: [EatingWell](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DVWhxLTlmaG9pMGVYSDIyMm9QY3pjdlRFNjdpbEo1X1BES08zbDRLVzhLbHRad1I4S3Q0Nk81b1dCN0o4SVg2a1lnMENsU0ZVOWlNRGVtNGsyc09GRWl6VmZPTDQ5U2VIZjZ6VVoySQ?oc=5)
+
+---
+
+### [Young adults with cancer report getting dismissed by doctors](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oMGtYVHZ0RmdWeTNHTzlGaHZBNzIySTg0YmJ6a3NhT2FSUi15dzFGZlNBUDcyU19xam9iU1ZTOF9EMzI3emc4Rm5JMWY2cDZISjUwdmNJT2xSZ1dtTXpSUjlyeXk1Zw?oc=5)
+
+2026-10-26
+
+Source: [Futurity](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oMGtYVHZ0RmdWeTNHTzlGaHZBNzIySTg0YmJ6a3NhT2FSUi15dzFGZlNBUDcyU19xam9iU1ZTOF9EMzI3emc4Rm5JMWY2cDZISjUwdmNJT2xSZ1dtTXpSUjlyeXk1Zw?oc=5)
 
 ---
 

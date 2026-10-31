@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>13 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>12 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (12)
 
 ### [Boston researchers discover differences in colon cancer tumor cells in younger patients - KSL News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHQ1YkhIeDdZOUNvUkNEQWFfX3RQSnpEbFlkdUVmSUFjRDRKbTQzbEF6RkJNV1dKYnFhV0NESXFEOC1qUlR3dE1mTUlNXzR1UHk1QlhuNHpGMTFxcTRDc1ZiOHpocVB0VWc0UGk1ckZfZzdwSGRjcF9vYkZkS0RySlZvdmdpNTBQOUdZelp6NUtSNi1ORVIwZlVPcWdleGpmckJhU1h5UkVrdDJPVGhyNWtMOTF6alRfSkpDNFJqZVplQQ?oc=5)
 
@@ -76,7 +76,7 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2p
 
 ### [4 Vegetables to Help Reduce Heart Disease Risk, According to a Cardiologist](https://news.google.com/rss/articles/CBMid0FVX3lxTE52NkFySk0yU3FJbUhYNGpUSTUyMk5MdE9LOTN3ZUFQWV9iU2NvbUpyZ1Z1TGlXczhkSjYtZTBxM0syVHcycGtWd1NkTmd3XzJKanhKeG9rdVFQRDdnd2dKalFueG42QmtsMDRkZUc0SFlEWFd3T2lz?oc=5)
 
-2026-10-29 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-29 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">UC</span>
 
 Source: [EatingWell](https://news.google.com/rss/articles/CBMid0FVX3lxTE52NkFySk0yU3FJbUhYNGpUSTUyMk5MdE9LOTN3ZUFQWV9iU2NvbUpyZ1Z1TGlXczhkSjYtZTBxM0syVHcycGtWd1NkTmd3XzJKanhKeG9rdVFQRDdnd2dKalFueG42QmtsMDRkZUc0SFlEWFd3T2lz?oc=5)
 
@@ -100,7 +100,7 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0x
 
 ### [These 1970s Kids Had to Stay in School For 1 Year Longer. Decades Later, The Results Are Dramatic.](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTZiSGNzM0pSOVZpRVlsWEt3YUpsTkFEcmVWMjlPYTNudnMwZWZ4VjBPbEgwQVVEM2dyc1czMEZndUhvWTV0ZnNEZld4SHc4dklZQlNNcDVyNTRZU0lfaWRBWEh0bHByTDFxcjdGcURvazFQQkd5Z3ZOYnUtSUZMTTE5UzZoRnFnNUdlZDYzZU1VZGlzdDlDU0djenFYSWk0MGJfN1N2SUhfckFFLVR3a3BNUWZqeXk5blFURnZWUTduZw?oc=5)
 
-2026-10-29 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-29 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTZiSGNzM0pSOVZpRVlsWEt3YUpsTkFEcmVWMjlPYTNudnMwZWZ4VjBPbEgwQVVEM2dyc1czMEZndUhvWTV0ZnNEZld4SHc4dklZQlNNcDVyNTRZU0lfaWRBWEh0bHByTDFxcjdGcURvazFQQkd5Z3ZOYnUtSUZMTTE5UzZoRnFnNUdlZDYzZU1VZGlzdDlDU0djenFYSWk0MGJfN1N2SUhfckFFLVR3a3BNUWZqeXk5blFURnZWUTduZw?oc=5)
 
@@ -119,14 +119,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1
 2026-10-28 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZTFYVFFraVlnX25sV3dTWTJHUmZ1dWRqSnNhRm11Q2dZOW1rcnlGMUVESHdFX3JyUm9sT05wblEyaWVJdENZZC1NREtscVpxSVhJNVlsUDJOTS1TUVhTUDZrazl1eHhYZDlSZFMwMm5YME9jSU1XQlA2azNzU2I1M2ZHckZaTUU?oc=5)
-
----
-
-### [Scientists invent implant that can transform sugar in the blood to treat type 2 diabetes - Live Science](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVFVVZWk1QUVWU0ZLSFMxUGNwQlAzSFhzajg2NlBSbkExajZCN01CVXFzeTNoRDZSVkZKeHhKNjBHeVQ3MUxaVzFaQmZxcF9iRXlvTXZIMDYzcnlqdzZBZ2ppRDBUWFlDenNfTXpjMUJRQXhiV2MzYnJrM01pQmRodDB3YnpEdks3aDdmT0NKazJVWnRzb1FNVUpDQzhTTkdQY3dBa3d3Y21WRUhkNzQxVktqaHFPa1JvYmRVUjNiOTE?oc=5)
-
-2026-10-27 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Live Science](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVFVVZWk1QUVWU0ZLSFMxUGNwQlAzSFhzajg2NlBSbkExajZCN01CVXFzeTNoRDZSVkZKeHhKNjBHeVQ3MUxaVzFaQmZxcF9iRXlvTXZIMDYzcnlqdzZBZ2ppRDBUWFlDenNfTXpjMUJRQXhiV2MzYnJrM01pQmRodDB3YnpEdks3aDdmT0NKazJVWnRzb1FNVUpDQzhTTkdQY3dBa3d3Y21WRUhkNzQxVktqaHFPa1JvYmRVUjNiOTE?oc=5)
 
 ---
 

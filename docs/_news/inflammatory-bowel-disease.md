@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 13 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 12 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-10-31
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>13 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>12 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (13)
+## Related News (12)
 
 ### [Boston researchers discover differences in colon cancer tumor cells in younger patients - KSL News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHQ1YkhIeDdZOUNvUkNEQWFfX3RQSnpEbFlkdUVmSUFjRDRKbTQzbEF6RkJNV1dKYnFhV0NESXFEOC1qUlR3dE1mTUlNXzR1UHk1QlhuNHpGMTFxcTRDc1ZiOHpocVB0VWc0UGk1ckZfZzdwSGRjcF9vYkZkS0RySlZvdmdpNTBQOUdZelp6NUtSNi1ORVIwZlVPcWdleGpmckJhU1h5UkVrdDJPVGhyNWtMOTF6alRfSkpDNFJqZVplQQ?oc=5)
 
@@ -114,14 +114,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1
 2026-10-28
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZTFYVFFraVlnX25sV3dTWTJHUmZ1dWRqSnNhRm11Q2dZOW1rcnlGMUVESHdFX3JyUm9sT05wblEyaWVJdENZZC1NREtscVpxSVhJNVlsUDJOTS1TUVhTUDZrazl1eHhYZDlSZFMwMm5YME9jSU1XQlA2azNzU2I1M2ZHckZaTUU?oc=5)
-
----
-
-### [Scientists invent implant that can transform sugar in the blood to treat type 2 diabetes - Live Science](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVFVVZWk1QUVWU0ZLSFMxUGNwQlAzSFhzajg2NlBSbkExajZCN01CVXFzeTNoRDZSVkZKeHhKNjBHeVQ3MUxaVzFaQmZxcF9iRXlvTXZIMDYzcnlqdzZBZ2ppRDBUWFlDenNfTXpjMUJRQXhiV2MzYnJrM01pQmRodDB3YnpEdks3aDdmT0NKazJVWnRzb1FNVUpDQzhTTkdQY3dBa3d3Y21WRUhkNzQxVktqaHFPa1JvYmRVUjNiOTE?oc=5)
-
-2026-10-27
-
-Source: [Live Science](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVFVVZWk1QUVWU0ZLSFMxUGNwQlAzSFhzajg2NlBSbkExajZCN01CVXFzeTNoRDZSVkZKeHhKNjBHeVQ3MUxaVzFaQmZxcF9iRXlvTXZIMDYzcnlqdzZBZ2ppRDBUWFlDenNfTXpjMUJRQXhiV2MzYnJrM01pQmRodDB3YnpEdks3aDdmT0NKazJVWnRzb1FNVUpDQzhTTkdQY3dBa3d3Y21WRUhkNzQxVktqaHFPa1JvYmRVUjNiOTE?oc=5)
 
 ---
 

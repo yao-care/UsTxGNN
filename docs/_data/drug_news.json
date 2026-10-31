@@ -8,7 +8,7 @@
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 53
+      "count": 54
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -20,12 +20,12 @@
     {
       "url": "/news/insulin_glargine/",
       "title": "Insulin glargine News",
-      "count": 64
+      "count": 65
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 53
+      "count": 54
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -35,19 +35,19 @@
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 13
+      "count": 12
     }
   ],
   "/drugs/insulin-human/": [
     {
       "url": "/news/insulin_human/",
       "title": "Insulin human News",
-      "count": 64
+      "count": 65
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 53
+      "count": 54
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -57,19 +57,19 @@
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 13
+      "count": 12
     }
   ],
   "/drugs/insulin-lispro/": [
     {
       "url": "/news/insulin_lispro/",
       "title": "Insulin lispro News",
-      "count": 64
+      "count": 65
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 53
+      "count": 54
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -79,7 +79,7 @@
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 13
+      "count": 12
     }
   ],
   "/drugs/lasmiditan/": [
@@ -98,7 +98,7 @@
     {
       "url": "/news/raloxifene/",
       "title": "Raloxifene News",
-      "count": 42
+      "count": 43
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -108,36 +108,36 @@
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 13
+      "count": 12
     },
     {
       "url": "/news/influenza/",
       "title": "flu (influenza) News",
-      "count": 3
+      "count": 5
     }
   ],
   "/drugs/ramucirumab/": [
     {
       "url": "/news/ramucirumab/",
       "title": "Ramucirumab News",
-      "count": 8
+      "count": 10
     },
     {
       "url": "/news/cancer/",
       "title": "cancer News",
-      "count": 8
+      "count": 10
     }
   ],
   "/drugs/rutin/": [
     {
       "url": "/news/rutin/",
       "title": "Rutin News",
-      "count": 13
+      "count": 12
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 13
+      "count": 12
     }
   ],
   "/drugs/selpercatinib/": [
@@ -161,24 +161,24 @@
     {
       "url": "/news/sodium_acetate/",
       "title": "Sodium acetate News",
-      "count": 53
+      "count": 54
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 53
+      "count": 54
     }
   ],
   "/drugs/tadalafil/": [
     {
       "url": "/news/tadalafil/",
       "title": "Tadalafil News",
-      "count": 63
+      "count": 64
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 53
+      "count": 54
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -195,12 +195,12 @@
     {
       "url": "/news/teriparatide/",
       "title": "Teriparatide News",
-      "count": 66
+      "count": 67
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 53
+      "count": 54
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -210,12 +210,12 @@
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 13
+      "count": 12
     },
     {
       "url": "/news/influenza/",
       "title": "flu (influenza) News",
-      "count": 3
+      "count": 5
     }
   ]
 }

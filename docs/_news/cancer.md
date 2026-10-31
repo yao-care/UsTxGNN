@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 10 articles, 1 related drugs."
+description: "Health news about cancer. 12 articles, 1 related drugs."
 permalink: /news/cancer/
 last_modified_at: 2026-10-31
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>10 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>12 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (10)
+## Related News (12)
 
 ### [The link between alcohol and breast cancer risk is strong. Here’s what to know. - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxORW4xZXF3SjdPZDZLNzZUN25yaFltR3JrTkxvUXRZWjZRT0pWY1VmOHpZTjF2X2tkQjk2cEoyM2hTb1FJUk9tQTY4UTh4X19IZ1pOWVJHYUplZVJqeHFjaFZka2tGekM5cVNlclNkWEdMWVNfM3RqVGk0TGdmQnNTenYyeUZYd0cyVU1OWFZrOEExdm5YaGJQRkxXS0IweG1aX0VKTHhlVnRxM3pWSGE5SE14Zw?oc=5)
 
@@ -48,11 +48,11 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWkN
 
 ---
 
-### [Boston researchers discover differences in colon cancer tumor cells in younger patients](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHQ1YkhIeDdZOUNvUkNEQWFfX3RQSnpEbFlkdUVmSUFjRDRKbTQzbEF6RkJNV1dKYnFhV0NESXFEOC1qUlR3dE1mTUlNXzR1UHk1QlhuNHpGMTFxcTRDc1ZiOHpocVB0VWc0UGk1ckZfZzdwSGRjcF9vYkZkS0RySlZvdmdpNTBQOUdZelp6NUtSNi1ORVIwZlVPcWdleGpmckJhU1h5UkVrdDJPVGhyNWtMOTF6alRfSkpDNFJqZVplQQ?oc=5)
+### [Boston researchers discover differences in colon cancer tumor cells in younger patients - KSL News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHQ1YkhIeDdZOUNvUkNEQWFfX3RQSnpEbFlkdUVmSUFjRDRKbTQzbEF6RkJNV1dKYnFhV0NESXFEOC1qUlR3dE1mTUlNXzR1UHk1QlhuNHpGMTFxcTRDc1ZiOHpocVB0VWc0UGk1ckZfZzdwSGRjcF9vYkZkS0RySlZvdmdpNTBQOUdZelp6NUtSNi1ORVIwZlVPcWdleGpmckJhU1h5UkVrdDJPVGhyNWtMOTF6alRfSkpDNFJqZVplQQ?oc=5)
 
 2026-10-30
 
-Source: [KSL.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHQ1YkhIeDdZOUNvUkNEQWFfX3RQSnpEbFlkdUVmSUFjRDRKbTQzbEF6RkJNV1dKYnFhV0NESXFEOC1qUlR3dE1mTUlNXzR1UHk1QlhuNHpGMTFxcTRDc1ZiOHpocVB0VWc0UGk1ckZfZzdwSGRjcF9vYkZkS0RySlZvdmdpNTBQOUdZelp6NUtSNi1ORVIwZlVPcWdleGpmckJhU1h5UkVrdDJPVGhyNWtMOTF6alRfSkpDNFJqZVplQQ?oc=5)
+Source: [KSL News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHQ1YkhIeDdZOUNvUkNEQWFfX3RQSnpEbFlkdUVmSUFjRDRKbTQzbEF6RkJNV1dKYnFhV0NESXFEOC1qUlR3dE1mTUlNXzR1UHk1QlhuNHpGMTFxcTRDc1ZiOHpocVB0VWc0UGk1ckZfZzdwSGRjcF9vYkZkS0RySlZvdmdpNTBQOUdZelp6NUtSNi1ORVIwZlVPcWdleGpmckJhU1h5UkVrdDJPVGhyNWtMOTF6alRfSkpDNFJqZVplQQ?oc=5)
 
 ---
 
@@ -80,6 +80,14 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2p
 
 ---
 
+### [Utah County survivor warns about breast cancer risk for men - KSL News](https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXdZQUVNQVJGbU83U3Zsc0R3c0NMdXZLX1h5aWZvc1NFNThwdXZrUmlDaDExOUhrS2t0a3dGR2dnV1JQVzVpM1I1VzJjVVY5UTNWTGJBWjlFWlphM1lLelY0VmNJeDdoT2lPS1dJQjFlQVJidEM0RldQTFA0UXFDRTd5T1BWangwek1rbUF1bHlvcVhjdGJBME5CdWM?oc=5)
+
+2026-10-29
+
+Source: [KSL News](https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXdZQUVNQVJGbU83U3Zsc0R3c0NMdXZLX1h5aWZvc1NFNThwdXZrUmlDaDExOUhrS2t0a3dGR2dnV1JQVzVpM1I1VzJjVVY5UTNWTGJBWjlFWlphM1lLelY0VmNJeDdoT2lPS1dJQjFlQVJidEM0RldQTFA0UXFDRTd5T1BWangwek1rbUF1bHlvcVhjdGJBME5CdWM?oc=5)
+
+---
+
 ### [Known for preventing cancer, p53 could also help immune cells fight it - Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3JTRExiY002UU9qN0JlVW1hWlVRZHRXWnRTNmFmZTR5bWRKSERjbUV2ZnA2dnJfbVVsRnNucmRfU2RrY19QQXFZQmhSUTVSTmRvc1ktX3VrTEZWd0szY3pyY3FpZ1NmNmN0MExLa0JRcmtwa0E?oc=5)
 
 2026-10-29
@@ -93,6 +101,14 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3
 2026-10-29
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlQ0VjR5UFE5X2Flb1VMUklnaHdrWmtqZ185QmpqQ0I5WjNxWi16eWZnYjhXVjAzTEZWRW1YWFZJVjg0MGRQc0Ffd0ZoNHdSa2tBV2p1T2FwbTZrQVh4OHhRcDBrN1ZFUnJscGlvNkUxNENTcnVhT2JtbnVDdGdPQWNKLUpvSGljRmtxekJ5a0lJVVc2R2pSZUlpT09OcWVldDBV?oc=5)
+
+---
+
+### [Dear Doctor: If I'm too old for a colonoscopy, why was I given a colon cancer screening test?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWt4bzQ3UGpVaGx5cmtqYXJndlZGQXZ2b1VfeDR3cFA5YnR0aWxpeXpONmE4QTVfOWxINmpkQmwyUFRib1o2UUZUdnpGUXFFUmJJRGlfdF9meDZKMlVrSzd1SW03dGVEQ19na1NnSng3aXpDaUpCZG1qTHNiMG1WSWlmSk1lZjVOVEpPS2NtbW9zU2FreFptNUhKb2w4aFdMX2NLRUdnc0ZNUjJfR29RZW9rLXhHRlhIQWI1RVBHRXJRcF9pVHRXcVZPZVF1T19Ud0HSAeYBQVVfeXFMTkxoclQyNFBlMC1LamNtSEhjUWl4NFNHM2pvcncxanY2d3UwcWM1X1R0ZV9UU3l3NEpvSVpZdk9SVFphS3NYOXpsSDNWbXhDX29FU3ctWjFuRnRHc0tLcmdsU01xSnpSWERwREN2QjAwYnJNS3pFajFWSUIxaGJkRVNpWnFBSHlkUFhVb250dE9ibFVjM2htSnZkNXlvOWdYMTZzZ0drcmhYb0kzeEktSTJ2TFg0VzVSOVE5N0t0NjFLSDBMN3ZYSXp6Rmo0UkwyYVN0YlZUckJWWDNpSWdEbXVCMGxYbnc?oc=5)
+
+2026-10-29
+
+Source: [OregonLive.com](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWt4bzQ3UGpVaGx5cmtqYXJndlZGQXZ2b1VfeDR3cFA5YnR0aWxpeXpONmE4QTVfOWxINmpkQmwyUFRib1o2UUZUdnpGUXFFUmJJRGlfdF9meDZKMlVrSzd1SW03dGVEQ19na1NnSng3aXpDaUpCZG1qTHNiMG1WSWlmSk1lZjVOVEpPS2NtbW9zU2FreFptNUhKb2w4aFdMX2NLRUdnc0ZNUjJfR29RZW9rLXhHRlhIQWI1RVBHRXJRcF9pVHRXcVZPZVF1T19Ud0HSAeYBQVVfeXFMTkxoclQyNFBlMC1LamNtSEhjUWl4NFNHM2pvcncxanY2d3UwcWM1X1R0ZV9UU3l3NEpvSVpZdk9SVFphS3NYOXpsSDNWbXhDX29FU3ctWjFuRnRHc0tLcmdsU01xSnpSWERwREN2QjAwYnJNS3pFajFWSUIxaGJkRVNpWnFBSHlkUFhVb250dE9ibFVjM2htSnZkNXlvOWdYMTZzZ0drcmhYb0kzeEktSTJ2TFg0VzVSOVE5N0t0NjFLSDBMN3ZYSXp6Rmo0UkwyYVN0YlZUckJWWDNpSWdEbXVCMGxYbnc?oc=5)
 
 ---
 

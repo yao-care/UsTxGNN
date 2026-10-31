@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "DARUNAVIR"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Darunavir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model's top predictions are veterinary or animal-model retroviral dise
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 (SIV infection); L5 for the other three predictions |
 | US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of FDA Applications | 10 authorizations in total (2 NDAs, 8 ANDAs) |
+| Number of FDA Applications | at least 10 |
 | Recommended Decision | Hold |
 
 Note: the four predictions are tied or nearly tied on score. The first two, feline AIDS and SIV infection, both score 0.99969. This report focuses on SIV infection because it is the only one with any literature.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1098
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "PSEUDOEPHEDRINE"
 predicted_indications: ["nasal cavity disease", "allergic urticaria"]
 description: "Pseudoephedrine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -53,7 +53,7 @@ This is largely an extension of existing use rather than a true repurposing.
 | TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | 3 (ANDA/OTC monograph records, all cancelled) |
+| Number of FDA Applications | at least 3 |
 | Recommended Decision | Hold |
 
 ---

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1107
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "RAMIPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
 description: "Ramipril: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ but the evidence is thin: **0 clinical trials** and only **1 directly relevant p
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | 6 licences in total (1 NDA, 5 ANDAs), all cancelled |
+| Number of FDA Applications | at least 6 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

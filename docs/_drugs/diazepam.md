@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "DIAZEPAM"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Diazepam: predicted new indication Insomnia (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **insomnia**, but the support i
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of FDA Applications | 12 (all cancelled) |
+| Number of FDA Applications | at least 12 |
 | Recommended Decision | Hold |
 
 ---

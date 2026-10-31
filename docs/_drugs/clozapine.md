@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CLOZAPINE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "psychotic disorder", "Malan overgrowth syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Clozapine: predicted new indication Manic bipolar affective disorder (evidence level L2). Approved use: Not listed in the compiled data (literature describes treatment-resis…"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **manic bipolar affective disor
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of FDA Applications | 9 authorizations (2 NDAs, 7 ANDAs) |
+| Number of FDA Applications | at least 9 |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

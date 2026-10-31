@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "DESOXIMETASONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "hereditary hypotrichosis with recurrent skin vesicles", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "primary cutaneous B-cell lymphoma", "atrichia with papular lesions", "vulvar inverted follicular keratosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Desoximetasone: predicted new indication Alopecia areata (evidence level L3). Approved use: Inflammatory skin conditions (e.g., atopic dermatitis…"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **alopecia areata**, with **0 r
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of FDA Applications | 12 licenses (all cancelled; 2 NDAs and 10 ANDAs) |
+| Number of FDA Applications | at least 12 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

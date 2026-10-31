@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "SENNOSIDES"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Sennosides: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Laxative (inferred from product names"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts they may be effective for **hypotrichosis simplex of th
 | TxGNN Prediction Score | 0.9929 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 2) |
-| Number of FDA Applications | 2 (both cancelled) |
+| Number of FDA Applications | at least 2 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

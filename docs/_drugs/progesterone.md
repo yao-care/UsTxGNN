@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1089
 evidence_level: L2
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "PROGESTERONE"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 description: "Progesterone: predicted new indication Amenorrhea (disease) (evidence level L2). Approved use: Not recorded in the local data"
@@ -53,7 +53,7 @@ with **4 clinical trials** and **19 publications** currently linked to this dire
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L2 (as rated in the compiled data; see the note below) |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of FDA Applications | 9 (all cancelled) |
+| Number of FDA Applications | at least 9 |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on the evidence level:* The evidence level is L2 in the compiled data, but I would treat it as a cautious L2 at best. The Phase 3 and Phase 2/3 trials are completed, but the records do not show that progesterone was the tested arm. In these studies, estrogen replacement is the main intervention.

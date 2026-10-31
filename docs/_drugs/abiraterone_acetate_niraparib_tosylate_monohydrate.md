@@ -5,7 +5,7 @@ layout: default
 title: Abiraterone Acetate Niraparib Tosylate Monohydrate
 parent: Known Uses Only (No New Predictions)
 nav_order: 49
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Abiraterone Acetate Niraparib Tosylate Monohydrate: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0
@@ -44,7 +44,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Original Indication | Not recorded in the local data |
 | US Market Status | Marketed (valid licenses on record: at least 10) |
 | Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of FDA Applications | 0 |
+| Number of FDA Applications | at least 10 |
 
 ---
 

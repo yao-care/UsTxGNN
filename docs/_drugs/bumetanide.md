@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "BUMETANIDE"
 predicted_indications: ["acute pulmonary heart disease"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Bumetanide: predicted new indication Acute pulmonary heart disease (evidence level L4). Approved use: Congestive heart failure"
 ---
 
@@ -51,7 +51,7 @@ but there are currently **no registered clinical trials** and only **5 publicati
 | TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of FDA Applications | 11 (all cancelled) |
+| Number of FDA Applications | at least 11 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

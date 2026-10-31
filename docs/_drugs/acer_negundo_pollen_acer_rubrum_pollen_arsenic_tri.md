@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -53,7 +53,7 @@ As a result, **no evidence-based repurposing analysis can be completed at this t
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — and none generated) |
 | US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | 0 |
+| Number of FDA Applications | at least 5 |
 | Recommended Decision | **Hold** |
 
 ---

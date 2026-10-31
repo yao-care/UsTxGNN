@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "RANOLAZINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Ranolazine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,7 +49,7 @@ Ranolazine is an antianginal drug that inhibits the late sodium current. The TxG
 | TxGNN Prediction Score | 0.9965 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of FDA Applications | 9 (all cancelled; these are ANDA generic applications) |
+| Number of FDA Applications | at least 9 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

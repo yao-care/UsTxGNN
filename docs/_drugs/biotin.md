@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **dyspepsia**, but there are cu
 | TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | 3 (all cancelled) |
+| Number of FDA Applications | at least 3 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

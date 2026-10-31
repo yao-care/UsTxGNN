@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -53,7 +53,7 @@ nor is there clinical trial or literature support for the repurposing direction 
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model unable to assess; lack of any actual research) |
 | US Market Status | Marketed (valid licenses on record: at least 13) |
-| Number of FDA Applications | 0 |
+| Number of FDA Applications | at least 13 |
 | Recommended Decision | **Hold** |
 
 ---

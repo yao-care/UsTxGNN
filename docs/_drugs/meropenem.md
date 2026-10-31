@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 903
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L5). Approved use: Bacterial meningitis, peritonitis…"
 monitor_inn: "MEROPENEM"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus aureus infection", "laryngitis", "paratyphoid fever", "Lyme disease", "Peptostreptococcus infectious disease", "Ureaplasma urethritis", "gonococcal urethritis"]
@@ -51,7 +51,7 @@ The best-supported candidate among the ten predictions is **urinary tract infect
 | TxGNN Prediction Score | 0.9992 (bacterial arthritis) |
 | Evidence Level | L4 (bacterial arthritis); L1 (urinary tract infection) |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | 9 (1 NDA and 8 ANDAs, all cancelled) |
+| Number of FDA Applications | at least 9 |
 | Recommended Decision | Hold (bacterial arthritis); Proceed with Guardrails (urinary tract infection) |
 
 ## Why is This Prediction Reasonable?

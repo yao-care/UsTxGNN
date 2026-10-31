@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "DEXMEDETOMIDINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Dexmedetomidine: predicted new indication nephrogenic syndrome of inappropriate antidiuresis . The top-ranked prediction by score is nephrogenic… (evidence level L5). Approved use: Not available in the data compiled for this report …"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **Headache Disorder** (the best
 | TxGNN Prediction Score | 0.9930 for headache disorder (0.9960 for nephrogenic syndrome of inappropriate antidiuresis, which has no supporting evidence) |
 | Evidence Level | L5 (headache disorder). Other predictions are L5, except migraine disorder, which is L5 with one ongoing trial. |
 | US Market Status | Marketed (valid licenses on record: at least 13) |
-| Number of FDA Applications | 13 (2 NDAs and 11 ANDAs) |
+| Number of FDA Applications | at least 13 |
 | Recommended Decision | Hold (a focused research question on PDPH is reasonable) |
 
 ---

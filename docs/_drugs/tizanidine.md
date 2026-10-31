@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 5
 monitor_inn: "TIZANIDINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Tizanidine: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -51,7 +51,7 @@ Tizanidine is a centrally acting alpha-2 adrenergic agonist, which is a muscle r
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L1 (provisional; see note below) |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | 9 (all ANDA generic applications, all cancelled) |
+| Number of FDA Applications | at least 9 |
 | Recommended Decision | Proceed with Guardrails |
 
 **Note on the evidence level:** L1 normally requires at least 2 completed Phase 3 RCTs. The only Phase 3 trial (NCT05484349) has an "Unknown" status with no reported results, so L1 is provisional and should be verified against published trial results. Strictly by the rules, the evidence would be closer to L2 or L3: the one placebo-controlled RCT (2002) was in chronic daily headache, not strictly migraine.

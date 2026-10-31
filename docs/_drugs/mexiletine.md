@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MEXILETINE"
 predicted_indications: ["hypertrichosis (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "migraine disorder", "isolated genetic hair shaft abnormality", "pulmonary hypertension", "migraine with brainstem aura", "headache disorder"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Mexiletine: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for several conditions. The best-su
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 (headache disorder); L5 for the top-ranked prediction |
 | US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | 5 (all cancelled; these are ANDA generic applications) |
+| Number of FDA Applications | at least 5 |
 | Recommended Decision | Hold (headache disorder may be advanced as a research question) |
 
 ---

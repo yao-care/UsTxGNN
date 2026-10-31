@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 964
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "NICARDIPINE"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome"]
 description: "Nicardipine: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Not recorded in the local data"
@@ -53,7 +53,7 @@ but there are currently **0 clinical trials** and only **1 directly relevant pub
 | TxGNN Prediction Score | 0.9926 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of FDA Applications | 12 (2 NDAs and 10 ANDAs) |
+| Number of FDA Applications | at least 12 |
 | Recommended Decision | Hold |
 
 *Note: The prediction ranked first by the model is "pulmonary hypertension with unclear multifactorial mechanism" (score 0.9926, L5, no trials or literature). This report focuses on the second-ranked prediction, which has the most supporting literature.*

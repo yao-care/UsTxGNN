@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 541
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Clonidine: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Hypertension (other listed indications: open-angle glaucoma, ADHD)"
 monitor_inn: "CLONIDINE"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
@@ -51,7 +51,7 @@ The better-supported candidates among the other predictions are **Tourette syndr
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of FDA Applications | 12 (all cancelled; the authorizations listed are ANDAs) |
+| Number of FDA Applications | at least 12 |
 | Recommended Decision | Hold |
 
 The top-ranked prediction has no supporting evidence. Other predictions have more evidence and are summarised below.

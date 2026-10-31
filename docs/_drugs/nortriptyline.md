@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 2
 monitor_inn: "NORTRIPTYLINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Nortriptyline: predicted new indication Attention deficit-hyperactivity disorder (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ with **0 registered clinical trials** and **15 publications** (including one RCT
 | TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L2 (as assigned in the compiled data; see note below) |
 | US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | 4 (all cancelled ANDA records) |
+| Number of FDA Applications | at least 4 |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* Under the strict rules, L2 requires a completed Phase 2/3 RCT. No trials are registered, but the literature includes a controlled study in children and adolescents (PMID 11052409). The L2 level is therefore provisional and rests on that single publication.

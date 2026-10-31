@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 763
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "GUAIFENESIN"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
 description: "Guaifenesin: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ but there are currently **no registered clinical trials** and only **1 publicati
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of FDA Applications | 8 licences in total (1 NDA, 7 ANDAs) |
+| Number of FDA Applications | at least 8 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

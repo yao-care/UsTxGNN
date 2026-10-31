@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 978
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Nystatin: predicted new indication Vulvovaginitis (evidence level L4). Approved use: Cutaneous candidiasis, oral candidiasis, candidiasis…"
 monitor_inn: "NYSTATIN"
 predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
@@ -51,7 +51,7 @@ Currently there are **0 clinical trials** and **about 20 publications** (mostly 
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of FDA Applications | 12 (all ANDAs, all cancelled) |
+| Number of FDA Applications | at least 12 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

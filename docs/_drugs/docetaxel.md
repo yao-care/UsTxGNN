@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 617
 evidence_level: L1
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "DOCETAXEL"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
 description: "Docetaxel: predicted new indication Ewing sarcoma (evidence level L1). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ Breast carcinoma is already among docetaxel's original indications, so this is a
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L1 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of FDA Applications | 15 (all cancelled) |
+| Number of FDA Applications | at least 15 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "DEXAMETHASONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Dexamethasone: predicted new indication Alopecia areata (evidence level L2). Approved use: Adrenocortical insufficiency, Crohn disease…"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **Alopecia Areata**, and the da
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
 | US Market Status | Marketed (valid licenses on record: at least 15) |
-| Number of FDA Applications | 15 (all ANDAs; none currently valid) |
+| Number of FDA Applications | at least 15 |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

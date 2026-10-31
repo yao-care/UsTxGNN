@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "DAPTOMYCIN"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Daptomycin: predicted new indication Osteoarthritis (evidence level L4). Approved use: Not available in the compiled data (the retrieved literature describe…"
 ---
 
@@ -53,7 +53,7 @@ This prediction is best viewed as a model artifact rather than a real repurposin
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 16) |
-| Number of FDA Applications | 17 authorizations in total (all cancelled; includes NDAs and ANDAs) |
+| Number of FDA Applications | at least 17 |
 | Recommended Decision | Hold |
 
 ---

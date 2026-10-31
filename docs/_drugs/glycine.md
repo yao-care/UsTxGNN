@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 757
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "GLYCINE"
 predicted_indications: ["nasal cavity disease"]
 description: "Glycine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but t
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of FDA Applications | 7 licenses (all cancelled) |
+| Number of FDA Applications | at least 7 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -53,7 +53,7 @@ No clinical trial or literature evidence is available within this evaluation pac
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — no predictions generated |
 | US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of FDA Applications | 0 |
+| Number of FDA Applications | at least 4 |
 | Recommended Decision | Hold |
 
 ---

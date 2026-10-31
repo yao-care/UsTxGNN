@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 792
 evidence_level: L3
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "IMIPRAMINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "benign paroxysmal torticollis of infancy", "obsessive-compulsive disorder"]
 description: "Imipramine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L3). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | 5 (all cancelled; listed under ANDA numbers) |
+| Number of FDA Applications | at least 5 |
 | Recommended Decision | Hold |
 
 ---

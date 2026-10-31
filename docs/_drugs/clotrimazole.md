@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 543
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Clotrimazole: predicted new indication acne (disease) (evidence level L5). Approved use: Fungal skin and mucosal infections (e.g., tinea pedis, tinea corporis…"
 monitor_inn: "CLOTRIMAZOLE"
 predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atrophic vaginitis"]
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **acne**, but the support is we
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L4 (weak; no clotrimazole-specific efficacy data) |
 | US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of FDA Applications | 4 (generic applications and related authorizations, all cancelled) |
+| Number of FDA Applications | at least 4 |
 | Recommended Decision | Hold |
 
 ---

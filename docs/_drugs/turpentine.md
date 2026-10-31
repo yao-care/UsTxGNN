@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TURPENTINE"
 predicted_indications: ["multiple endocrine neoplasia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Turpentine: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -53,7 +53,7 @@ The prediction rests solely on a computational score.
 | TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | 3 (all cancelled) |
+| Number of FDA Applications | at least 3 |
 | Recommended Decision | Hold |
 
 ---

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 835
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "LANSOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Lansoprazole: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ but currently there are **0 clinical trials** and only **1 general review articl
 | TxGNN Prediction Score | 0.9968 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | 10 (all cancelled; 1 NDA and 9 ANDAs) |
+| Number of FDA Applications | at least 10 |
 | Recommended Decision | Hold |
 
 A second prediction, **duodenal obstruction** (score 0.9968), was also generated. It has no trials or literature (Evidence Level L5) and no clear mechanistic link, so it is not pursued further here.

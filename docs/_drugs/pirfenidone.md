@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PIRFENIDONE"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Pirfenidone: predicted new indication Extracutaneous mastocytoma (evidence level L5). Approved use: Idiopathic pulmonary fibrosis (also acute interstitial pneumonia and…"
 ---
 
@@ -51,7 +51,7 @@ but **no clinical trials** and **no publications** currently support this predic
 | TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of FDA Applications | 11 (1 NDA and 10 ANDAs) |
+| Number of FDA Applications | at least 11 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

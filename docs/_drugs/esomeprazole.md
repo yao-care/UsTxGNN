@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 672
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "ESOMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Esomeprazole: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ Esomeprazole is a proton pump inhibitor originally used for acid-related conditi
 | TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 2) |
-| Number of FDA Applications | 5 |
+| Number of FDA Applications | at least 5 |
 | Recommended Decision | Hold |
 
 ---

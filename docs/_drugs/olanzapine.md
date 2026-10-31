@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 985
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "OLANZAPINE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Olanzapine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ Two other predictions, agoraphobia (6 publications) and dysthymic disorder (5 pu
 | TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of FDA Applications | 10 (all cancelled; all are generic applications, ANDAs) |
+| Number of FDA Applications | at least 10 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

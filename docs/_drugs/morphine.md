@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "MORPHINE"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Morphine: predicted new indication Myofascial pain syndrome (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
@@ -53,7 +53,7 @@ This report therefore evaluates RLS as the lead candidate and compares it with t
 | TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of FDA Applications | 11 (all cancelled) |
+| Number of FDA Applications | at least 11 |
 | Recommended Decision | Hold |
 
 ---

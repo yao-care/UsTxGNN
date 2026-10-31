@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "FENTANYL"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Fentanyl: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not specified in the available data"
 ---
 
@@ -51,7 +51,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of FDA Applications | 6 (all cancelled; 1 NDA and 5 ANDAs) |
+| Number of FDA Applications | at least 6 |
 | Recommended Decision | Hold |
 
 A second prediction, Tourette syndrome (score 0.9905), was also evaluated. It likewise has no supporting trials or literature, and its recommendation is also Hold (see the conclusion).

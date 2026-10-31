@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -53,7 +53,7 @@ Without a resolvable drug identity, repurposing evaluation cannot proceed at thi
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Cannot be assessed |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of FDA Applications | 0 |
+| Number of FDA Applications | at least 12 |
 | Recommended Decision | **Hold** |
 
 ---

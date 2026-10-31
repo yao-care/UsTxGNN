@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 1
 monitor_inn: "DAPSONE"
 predicted_indications: ["pneumocystosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Dapsone: predicted new indication Pneumocystosis (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ with **10 clinical trials** and **20 publications** currently supporting this di
 | TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L1 |
 | US Market Status | Marketed (valid licenses on record: at least 13) |
-| Number of FDA Applications | 15 authorizations in total (2 NDAs and 13 ANDAs) |
+| Number of FDA Applications | at least 15 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

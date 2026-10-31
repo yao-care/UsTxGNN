@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1312
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Zonisamide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not available"
 monitor_inn: "ZONISAMIDE"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
@@ -53,7 +53,7 @@ Among the other top-10 predictions, **absence epilepsy** has the most supporting
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 (model prediction only) |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of FDA Applications | 7 authorizations in total (1 NDA, 6 ANDAs), all cancelled |
+| Number of FDA Applications | at least 7 |
 | Recommended Decision | Hold |
 
 ---

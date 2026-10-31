@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 612
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "DIPHENHYDRAMINE"
 predicted_indications: ["rosacea conjunctivitis"]
 description: "Diphenhydramine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of FDA Applications | 4 |
+| Number of FDA Applications | at least 4 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

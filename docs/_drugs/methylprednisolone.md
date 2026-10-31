@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 917
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Methylprednisolone: predicted new indication Alopecia areata (evidence level L3). Approved use: Autoimmune disease (other listed indications include Crohn disease…"
 monitor_inn: "METHYLPREDNISOLONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
@@ -51,7 +51,7 @@ with **1 clinical trial** and **20 publications** currently supporting this dire
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of FDA Applications | 8 (2 NDAs and 6 ANDAs) |
+| Number of FDA Applications | at least 8 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

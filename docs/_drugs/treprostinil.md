@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1256
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Treprostinil: predicted new indication pulmonary arteriovenous malformation (disease) (evidence level L5). Approved use: Pulmonary arterial hypertension"
 monitor_inn: "TREPROSTINIL"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita"]
@@ -50,7 +50,7 @@ The TxGNN model's top-ranked prediction is **pulmonary arteriovenous malformatio
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 (top prediction); best among the top 10 predictions is L3 (PAH associated with connective tissue disease) |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | 9 (all cancelled; includes both NDAs and ANDAs) |
+| Number of FDA Applications | at least 9 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

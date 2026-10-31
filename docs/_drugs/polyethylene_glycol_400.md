@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **Bronchitis**, but the predict
 | TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 1) |
-| Number of FDA Applications | 1 |
+| Number of FDA Applications | at least 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

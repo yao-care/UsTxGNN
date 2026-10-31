@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "FLECAINIDE"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Flecainide: predicted new indication Stroke disorder (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -53,7 +53,7 @@ but the support is indirect: **1 clinical trial** (with an arrhythmia endpoint, 
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of FDA Applications | 7 (all ANDAs, all cancelled) |
+| Number of FDA Applications | at least 7 |
 | Recommended Decision | Hold |
 
 ---

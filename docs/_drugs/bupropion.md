@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "BUPROPION"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "benign paroxysmal torticollis of infancy", "trigeminal nerve neoplasm", "obsolete hypertelorism (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Bupropion: predicted new indication Attention deficit-hyperactivity disorder (evidence level L1). Approved use: Major depressive disorder, anxiety disorder…"
 ---
 
@@ -51,7 +51,7 @@ with **6 registered clinical trials** (4 completed, 1 withdrawn, 1 early phase) 
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L1 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of FDA Applications | 13 (all ANDAs, all cancelled) |
+| Number of FDA Applications | at least 13 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

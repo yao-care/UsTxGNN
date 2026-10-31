@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "LACOSAMIDE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Lacosamide: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -53,7 +53,7 @@ Evidence is strongest for active-comparator trials against propranolol and topir
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 13) |
-| Number of FDA Applications | 13 (all ANDA generic applications, all cancelled; no NDA in the data) |
+| Number of FDA Applications | at least 13 |
 | Recommended Decision | Proceed with Guardrails |
 
 Note: The top-ranked TxGNN prediction is manic bipolar affective disorder (0.9996, evidence level L3, "Research Question"). Migraine disorder is reported here because it has the strongest clinical evidence among the ten predictions.

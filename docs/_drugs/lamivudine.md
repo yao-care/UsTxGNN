@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 830
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "LAMIVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 description: "Lamivudine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L4 |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of FDA Applications | 13 licenses in total (2 NDAs, 11 ANDAs), all with cancelled status |
+| Number of FDA Applications | at least 13 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

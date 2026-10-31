@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1090
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "PROPAFENONE"
 predicted_indications: ["manic bipolar affective disorder", "periodic paralysis with transient compartment-like syndrome", "Prinzmetal angina", "arrhythmogenic right ventricular cardiomyopathy", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania"]
 description: "Propafenone: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ Support is limited: **0 registered clinical trials** and **10 publications** (pr
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | 9 (all cancelled) |
+| Number of FDA Applications | at least 9 |
 | Recommended Decision | Hold (research question; see Conclusion) |
 
 Every US license record in the data compiled for this report lacks approved-indication text.

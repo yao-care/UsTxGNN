@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "VITAMIN A"
 predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "florid cemento-osseous dysplasia", "perinatal disease", "segmental odontomaxillary dysplasia", "disease by subcellular system affected", "radiation or chemically induced disorder"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Vitamin A: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Vitamin deficiency disorder / vitamin A deficiency"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **congenital prothrombin defici
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of FDA Applications | 4 (all cancelled) |
+| Number of FDA Applications | at least 4 |
 | Recommended Decision | Hold |
 
 *Note: The original indication is not listed in the TxGNN model's output. The US authorization records compiled for this report contain no approved-indication text.*

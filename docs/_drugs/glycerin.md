@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GLYCERIN"
 predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Glycerin: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -53,7 +53,7 @@ Overall evidence is weak, and none of the top 10 predictions is supported by a d
 | TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 for cauda equina syndrome; L4 for open-angle glaucoma |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of FDA Applications | 6 |
+| Number of FDA Applications | at least 6 |
 | Recommended Decision | Hold |
 
 ---

@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **Congenital Ichthyosiform Eryt
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 1) |
-| Number of FDA Applications | 1 |
+| Number of FDA Applications | at least 1 |
 | Recommended Decision | Hold |
 
 Other predicted indications, all L5 and Hold:

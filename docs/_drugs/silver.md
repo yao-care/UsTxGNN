@@ -50,7 +50,7 @@ The 5 retrieved papers use silver only as a staining reagent or concern unrelate
 | TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 1) |
-| Number of FDA Applications | 1 (cancelled) |
+| Number of FDA Applications | at least 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

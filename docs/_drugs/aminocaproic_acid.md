@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "AMINOCAPROIC ACID"
 predicted_indications: ["severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Aminocaproic Acid: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not stated in the compiled license data"
 ---
 
@@ -49,7 +49,7 @@ Aminocaproic acid is an antifibrinolytic drug, used to control bleeding caused b
 | TxGNN Prediction Score | 0.9927 |
 | Evidence Level | L5 (model prediction only) |
 | US Market Status | Marketed (valid licenses on record: at least 13) |
-| Number of FDA Applications | 13 (all cancelled; 1 NDA and 12 ANDAs) |
+| Number of FDA Applications | at least 13 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

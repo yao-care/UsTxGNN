@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 536
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Clobazam: predicted new indication febrile infection-related epilepsy syndrome (evidence level L3). Approved use: Lennox-Gastaut syndrome"
 monitor_inn: "CLOBAZAM"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "cryptogenic late-onset epileptic spasms", "photosensitive occipital lobe epilepsy", "atypical childhood epilepsy with centrotemporal spikes", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
@@ -51,7 +51,7 @@ Currently **0 clinical trials** are registered, but **20 publications** (guideli
 | TxGNN Prediction Score | 0.9982 (febrile infection-related epilepsy syndrome) |
 | Evidence Level | L3 |
 | US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of FDA Applications | 15 licences in total (3 NDAs, 12 ANDAs) |
+| Number of FDA Applications | at least 15 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

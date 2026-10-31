@@ -52,7 +52,7 @@ The better-supported prediction for this drug is **cerebral infarction**, with 1
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | 3 (all cancelled; listed as BLA or unnumbered licenses) |
+| Number of FDA Applications | at least 3 |
 | Recommended Decision | Hold |
 
 ---

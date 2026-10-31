@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 205
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -44,7 +44,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Drug Queried | Multi-ingredient homeopathic combination (14 components) |
 | DrugBank ID | Not available |
 | Taiwan Market Status | Not marketed |
-| Number of FDA Applications | 0 |
+| Number of FDA Applications | at least 1 |
 
 ---
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 637
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "DUVELISIB"
 predicted_indications: ["Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
 description: "Duvelisib: predicted new indication Hodgkins lymphoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -137,7 +137,7 @@ For full warnings and contraindications, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The high prediction score is not backed by any Hodgkin lymphoma-specific trial or publication. The supporting evidence is from related lymphomas, several trials were withdrawn or terminated, and the only US license is cancelled. Known PI3K-class toxicities add to the caution.
+The high prediction score is not backed by any Hodgkin lymphoma-specific trial or publication. Known PI3K-class toxicities add to the caution.
 
 **To proceed, the following is needed:**
 - Hodgkin lymphoma-specific preclinical or early clinical data (for example, a small Phase 1/2 study in relapsed or refractory classical Hodgkin lymphoma)

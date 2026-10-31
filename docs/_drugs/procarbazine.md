@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 5
 monitor_inn: "PROCARBAZINE"
 predicted_indications: ["follicular lymphoma", "neuroblastoma", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Procarbazine: predicted new indication Follicular lymphoma (evidence level L3). Approved use: Hodgkin lymphoma (including classic Hodgkin lymphoma and related subt…"
 ---
 
@@ -120,7 +120,6 @@ The evidence is limited to a small case report, a cohort description of the PEP-
 - Mechanism of action data (for example from DrugBank)
 - Verification of whether the regimen in NCT00003113 contains procarbazine
 - Prospective or retrospective data on procarbazine-containing regimens (such as PEP-C) in follicular lymphoma
-- A review of the regulatory pathway, given that the only US license is cancelled
 
 ## Other Predicted Indications (Not Recommended for Advancement)
 

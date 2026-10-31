@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 4
 monitor_inn: "ETELCALCETIDE"
 predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices with bleeding", "esophageal varices without bleeding", "varicose disease"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Etelcalcetide: predicted new indication Hyperphosphatemia (evidence level L3). Approved use: Hyperparathyroidism (secondary hyperparathyroidism in hemodialysis)"
 ---
 
@@ -100,7 +100,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible but indirect, and no clinical trials directly test etelcalcetide for hyperphosphatemia. The available literature is mainly reviews, case reports and one preclinical study. Also, the only US NDA is cancelled, and package insert safety data is missing. This is best treated as a research question rather than a development candidate.
+The prediction is mechanistically plausible but indirect, and no clinical trials directly test etelcalcetide for hyperphosphatemia. The available literature is mainly reviews, case reports and one preclinical study. This is best treated as a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

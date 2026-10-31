@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "LANDIOLOL"
 predicted_indications: ["lingual-facial-buccal dyskinesia", "chronic tic disorder", "psychogenic movement disorders", "extrapyramidal and movement disease", "benign shuddering attacks", "primary orthostatic tremor"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Landiolol: predicted new indication Lingual-facial-buccal dyskinesia (evidence level L5). Approved use: Supraventricular tachycardia (atrial fibrillation and atrial flutter)…"
 ---
 
@@ -96,7 +96,7 @@ Please refer to the package insert for warnings and contraindications, as these 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score (L5). There are no clinical trials or publications, the mechanism is not validated, and landiolol's beta-1 selectivity, minimal CNS penetration, ultra-short half-life and IV-only use make it a poor fit for chronic movement disorders. The US license record also shows only a cancelled status.
+The prediction is supported only by the model score (L5). There are no clinical trials or publications, the mechanism is not validated, and landiolol's beta-1 selectivity, minimal CNS penetration, ultra-short half-life and IV-only use make it a poor fit for chronic movement disorders.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

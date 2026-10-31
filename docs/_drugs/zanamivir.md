@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ZANAMIVIR"
 predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Zanamivir: predicted new indication Pyelonephritis (evidence level L5). Approved use: Influenza"
 ---
 
@@ -90,7 +90,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a high model score. There are no clinical trials or literature, no plausible mechanism against bacterial pyelonephritis, and the only US license is cancelled. The score is likely a TxGNN model (deep learning) artifact.
+The prediction rests only on a high model score. The score is likely a TxGNN model (deep learning) artifact.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data, including any evidence of zanamivir activity against bacterial neuraminidases

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CABOTEGRAVIR"
 predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "bronchitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Cabotegravir: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -92,7 +92,7 @@ Warning and contraindication data from the package insert are not available. Ple
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model (deep learning) score. There are no trials or publications, and no plausible mechanistic link between integrase inhibition and rheumatoid arthritis. In addition, the only US license is cancelled, and package insert safety data are missing.
+The prediction rests only on a TxGNN model (deep learning) score. There are no trials or publications, and no plausible mechanistic link between integrase inhibition and rheumatoid arthritis.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

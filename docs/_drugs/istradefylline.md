@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ISTRADEFYLLINE"
 predicted_indications: ["Rasmussen subacute encephalitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Istradefylline: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Parkinson disease (and related parkinsonian syndromes)"
 ---
 
@@ -92,7 +92,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has the lowest evidence level (L5). It has no registered trials or publications, and the mechanistic link is theoretical and possibly contradictory. The only US NDA is cancelled, and package insert safety data is missing.
+The prediction has the lowest evidence level (L5). It has no registered trials or publications, and the mechanistic link is theoretical and possibly contradictory.
 
 **To proceed, the following is needed:**
 - Preclinical evidence (for example, A2A modulation in neuroinflammation or epilepsy models relevant to Rasmussen encephalitis)

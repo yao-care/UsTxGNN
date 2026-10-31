@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1291
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "VILOXAZINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "Creutzfeldt-Jakob disease", "hypersomnia (disease)", "circadian rhythm sleep disorder", "chondromyxoid fibroma", "X-linked adrenoleukodystrophy", "attention deficit hyperactivity disorder, inattentive type"]
 description: "Viloxazine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L1). Approved use: Not recorded in the local data"
@@ -118,7 +118,7 @@ Of note, the literature compiled for this report mentions that the cardiovascula
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-A completed Phase 3 randomized placebo-controlled trial, several long-term extension studies and multiple meta-analyses and reviews support viloxazine in ADHD. However, this is an already established use of the extended-release product, not a true repurposing finding. The US licence record shows only a single NDA with cancelled status, and the safety label data are missing.
+A completed Phase 3 randomized placebo-controlled trial, several long-term extension studies and multiple meta-analyses and reviews support viloxazine in ADHD. However, this is an already established use of the extended-release product, not a true repurposing finding.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

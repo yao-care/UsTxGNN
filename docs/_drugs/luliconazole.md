@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 876
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Luliconazole: predicted new indication Pityriasis versicolor (evidence level L4). Approved use: Tinea pedis, tinea corporis, tinea infection…"
 monitor_inn: "LULICONAZOLE"
 predicted_indications: ["pityriasis versicolor", "endothrix infectious disease", "ectothrix infectious disease"]
@@ -104,7 +104,7 @@ Please refer to the package insert for safety information. No drug interaction r
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high and the azole mechanism fits *Malassezia* infection. However, the evidence is one small open-label trial (no abstract data available), one in vitro paper, and a Phase 4 trial that has not yet begun. The only US authorization is cancelled, and label safety information is missing, so the case is not strong enough to advance.
+The TxGNN score is high and the azole mechanism fits *Malassezia* infection. However, the evidence is one small open-label trial (no abstract data available), one in vitro paper, and a Phase 4 trial that has not yet begun.
 
 **To proceed, the following is needed:**
 - Results from NCT07333170, and full-text outcomes from the 2016 randomized trial (PMID 27559523)

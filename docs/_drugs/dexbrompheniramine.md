@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 591
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "DEXBROMPHENIRAMINE"
 predicted_indications: ["recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis"]
 description: "Dexbrompheniramine: predicted new indication Recalcitrant atopic dermatitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -99,7 +99,7 @@ The package insert warnings and contraindications were not available. Please ref
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication is largely a subtype of an existing labeled use, so it offers little true repurposing value. There are no trials or publications, only the model score and class-level mechanistic reasoning. The only US license is cancelled, and label safety data is missing.
+The predicted indication is largely a subtype of an existing labeled use, so it offers little true repurposing value. There are no trials or publications, only the model score and class-level mechanistic reasoning.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (blocking for safety screening)

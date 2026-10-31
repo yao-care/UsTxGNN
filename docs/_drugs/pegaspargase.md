@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1019
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "PEGASPARGASE"
 predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "follicular lymphoma", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
 description: "Pegaspargase: predicted new indication Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (evidence level L5)."
@@ -120,7 +120,7 @@ Almost all trials test pegaspargase-containing regimens, and in many the randomi
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The predicted indication is essentially the original one (ALL and lymphoblastic lymphoma). Multiple completed Phase 3 trials and a large body of literature support pegaspargase-containing regimens, so efficacy evidence is strong. The main concerns are known toxicities, missing label safety data, and the fact that the only US license (BLA103411) is cancelled.
+The predicted indication is essentially the original one (ALL and lymphoblastic lymphoma). Multiple completed Phase 3 trials and a large body of literature support pegaspargase-containing regimens, so efficacy evidence is strong.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

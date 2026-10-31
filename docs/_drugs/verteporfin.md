@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "VERTEPORFIN"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Verteporfin: predicted new indication mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (evidence level L5). Approved use: Macular degeneration"
 ---
 
@@ -93,7 +93,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no clinical trials or literature (Evidence Level L5). The drug's photodynamic oxidative stress could worsen mitochondrial dysfunction, so the direction of effect is uncertain. The only US NDA is cancelled, and the knowledge graph flags several relevant contraindications (porphyria, liver and gallbladder disease).
+The prediction is supported only by a model score, with no clinical trials or literature (Evidence Level L5). The drug's photodynamic oxidative stress could worsen mitochondrial dysfunction, so the direction of effect is uncertain.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

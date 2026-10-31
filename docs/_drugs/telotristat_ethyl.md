@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "TELOTRISTAT ETHYL"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Telotristat Ethyl: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Diarrheal disease"
 ---
 
@@ -92,7 +92,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or literature (evidence level L5), and no plausible mechanism links peripheral serotonin reduction to nerve root compression. The only US authorization is cancelled. The model score alone is not enough to justify moving forward.
+The prediction has no supporting clinical trials or literature (evidence level L5), and no plausible mechanism links peripheral serotonin reduction to nerve root compression. The model score alone is not enough to justify moving forward.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, and a mechanistic rationale connecting the drug to cauda equina syndrome

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "RESLIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Reslizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -91,7 +91,7 @@ No drug-interaction records were found, and no knowledge-graph contraindications
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no clinical trials and no directly relevant literature, so the evidence level is L5. The only US license is cancelled, and the mechanism and label safety data are missing.
+The prediction has a high model score but no clinical trials and no directly relevant literature, so the evidence level is L5.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (FDA label), a blocking gap for safety screening

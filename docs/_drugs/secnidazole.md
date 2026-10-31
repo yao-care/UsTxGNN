@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1148
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Secnidazole: predicted new indication Postmenopausal atrophic vaginitis (evidence level L5). Approved use: Bacterial vaginosis, trichomoniasis, giardiasis, vaginitis, vulvitis…"
 monitor_inn: "SECNIDAZOLE"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vaginal discharge", "vulvar neoplasm", "trichomonal vulvovaginitis", "leukoplakia of vagina", "vulvovaginal candidiasis"]
@@ -89,7 +89,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical or literature support and no plausible mechanism, since atrophic vaginitis is hormone-driven rather than infectious. The product's only US license is cancelled.
+The prediction has no clinical or literature support and no plausible mechanism, since atrophic vaginitis is hormone-driven rather than infectious.
 
 Other predictions in the same data are better supported, though they largely extend existing indications rather than being true repurposing:
 - **Vaginal discharge** (score 0.9941, L1, Proceed with Guardrails): supported by a completed Phase 3 placebo-controlled trial in trichomoniasis (NCT03935217, n=147), a Phase 3 trial in bacterial vaginosis (PMID 28867602), and a meta-analysis of single-dose secnidazole in bacterial vaginosis (PMID 31129560).

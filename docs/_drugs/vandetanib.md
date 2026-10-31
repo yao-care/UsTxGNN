@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "VANDETANIB"
 predicted_indications: ["renal cell carcinoma (disease)", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Vandetanib: predicted new indication Renal cell carcinoma (evidence level L2). Approved use: Thyroid gland carcinoma"
 ---
 
@@ -121,7 +121,7 @@ However, the rationale is weakened by practical considerations. Established VEGF
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (0.9992), and the VEGFR-inhibition rationale in VHL-deficient clear cell RCC is plausible. The clinical evidence is weak, however. Only four small Phase 1/2 or Phase 2 trials exist, two were terminated with 3 and 7 patients, and none has reported results in the available data. Standard VEGFR inhibitors are already established in RCC. Vandetanib carries a notable QT and cardiovascular risk profile, and its only US license is cancelled. The package insert warnings and contraindications are also missing from the compiled data, which blocks safety screening.
+The TxGNN score is very high (0.9992), and the VEGFR-inhibition rationale in VHL-deficient clear cell RCC is plausible. The clinical evidence is weak, however. Only four small Phase 1/2 or Phase 2 trials exist, two were terminated with 3 and 7 patients, and none has reported results in the available data. Standard VEGFR inhibitors are already established in RCC. The package insert warnings and contraindications are also missing from the compiled data, which blocks safety screening.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (obtain from the FDA website)

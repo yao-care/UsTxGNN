@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "POLYETHYLENE GLYCOL 400"
 predicted_indications: ["bronchitis", "congenital ichthyosiform erythroderma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Polyethylene Glycol 400: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -96,7 +96,7 @@ Please refer to the package insert for authoritative safety information.
 **Decision: Hold**
 
 **Rationale:**
-The bronchitis prediction rests only on a model score, with no clinical trials, no literature, and no documented mechanism of action. PEG 400 is mainly an excipient or vehicle, and its only US authorization has been cancelled. The evidence is not sufficient to justify further development at this time.
+The bronchitis prediction rests only on a model score, with no clinical trials, no literature, and no documented mechanism of action. The evidence is not sufficient to justify further development at this time.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (for example from DrugBank) and a testable hypothesis for airway effects

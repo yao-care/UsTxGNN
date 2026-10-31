@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 787
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Idelalisib: predicted new indication Mantle cell lymphoma (evidence level L5). Approved use: Follicular lymphoma, B-cell neoplasms, acute lymphoblastic leukemia…"
 monitor_inn: "IDELALISIB"
 predicted_indications: ["mantle cell lymphoma", "Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "small intestinal Burkitt lymphoma", "colon adenocarcinoma"]
@@ -40,7 +40,6 @@ Evidence Level: **L2** | Predicted Indications: **6**
 
 Idelalisib is an oral PI3K-delta inhibitor, originally used for B-cell malignancies such as chronic lymphocytic leukemia/small lymphocytic lymphoma and follicular lymphoma.
 The TxGNN model predicts it may be effective for **Mantle Cell Lymphoma**, with **5 clinical trials** (all early-phase) and **20 publications** (mostly reviews and preclinical studies) currently supporting this direction.
-No confirmatory randomized trial exists for this indication, and the drug's only US license is now cancelled.
 
 ---
 

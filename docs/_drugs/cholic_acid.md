@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "CHOLIC ACID"
 predicted_indications: ["HIV infectious disease", "obsolete familial combined hyperlipidemia", "homozygous familial hypercholesterolemia", "biotin metabolic disease", "vitamin deficiency disorder", "hereditary hemochromatosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hemosiderosis", "disorder of phenylalanine metabolism", "bone Paget disease"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Cholic Acid: predicted new indication HIV infectious disease (evidence level L4). Approved use: Bile acid synthesis disorders and biliary conditions (constipation di…"
 ---
 
@@ -103,7 +103,7 @@ For label-based warnings and contraindications, please refer to the package inse
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a high model score alone. There are no clinical trials, the only direct antiviral data are old in vitro results, and a cholic acid derivative study showed enhanced HIV-1 replication. The product's only US NDA is cancelled.
+The prediction rests on a high model score alone. There are no clinical trials, the only direct antiviral data are old in vitro results, and a cholic acid derivative study showed enhanced HIV-1 replication.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, to assess whether any plausible antiviral pathway exists

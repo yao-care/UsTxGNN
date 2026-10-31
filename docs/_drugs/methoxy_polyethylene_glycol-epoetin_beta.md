@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Methoxy Polyethylene Glycol-Epoetin Beta: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not listed in the compiled data"
 ---
 
@@ -96,7 +96,7 @@ No drug interaction records were found, and no contraindications from the knowle
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone, with no clinical or literature support. The proposed mechanistic links are weak, and several predicted indications are thrombotic conditions in which ESA thrombosis risk would be a safety concern. The only US license is cancelled.
+The prediction rests on a model score alone, with no clinical or literature support. The proposed mechanistic links are weak, and several predicted indications are thrombotic conditions in which ESA thrombosis risk would be a safety concern.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (blocking gap for safety screening)

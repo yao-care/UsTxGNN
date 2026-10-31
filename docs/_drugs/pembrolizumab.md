@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1024
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "PEMBROLIZUMAB"
 predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "pulmonary sulcus neoplasm", "lung germ cell tumor", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
 description: "Pembrolizumab: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Not recorded in the local data"
@@ -116,7 +116,7 @@ These support pembrolizumab's established use in malignant lung cancer. They are
 |---------|------|------|-----------|
 | BLA125514 | KEYTRUDA (Merck Sharp & Dohme LLC) | Injection, solution | Not available in the data compiled; status: valid |
 
-The only US license record is marked cancelled, and no indication text was captured. This should be verified against the current FDA label, since pembrolizumab is widely marketed in practice.
+This should be verified against the current FDA label, since pembrolizumab is widely marketed in practice.
 
 ---
 
@@ -144,7 +144,6 @@ The top prediction, gingival fibromatosis, rests on a model score alone, with no
 - Mechanism of action data (e.g., from DrugBank)
 - Disease-specific preclinical or clinical evidence for any predicted indication, particularly lung germ cell tumor
 - A risk-benefit review of immune-related toxicity for non-malignant or neuromuscular conditions
-- Confirmation of current US licensing status, since the only record is marked cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

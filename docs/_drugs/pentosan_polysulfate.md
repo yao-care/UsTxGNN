@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "PENTOSAN POLYSULFATE"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Pentosan Polysulfate: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Interstitial cystitis"
 ---
 
@@ -96,7 +96,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no trials or literature. The drug's anticoagulant-like activity and the knowledge-graph contraindications (coagulation disease, hemophilia, thrombocytopenia) suggest a risk of worsening bleeding rather than benefit. The only US license is cancelled.
+The prediction is supported only by a model score, with no trials or literature. The drug's anticoagulant-like activity and the knowledge-graph contraindications (coagulation disease, hemophilia, thrombocytopenia) suggest a risk of worsening bleeding rather than benefit.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are a blocking gap for safety screening

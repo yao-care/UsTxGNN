@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ZINC GLUCONATE"
 predicted_indications: ["anemia of prematurity", "injury", "cell proliferation disorder", "perinatal disease", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "radiation or chemically induced disorder", "disease by subcellular system affected", "iatrogenic disease", "regional odontodysplasia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Zinc Gluconate: predicted new indication Anemia of prematurity (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -77,7 +77,7 @@ Currently no related literature is available for anemia of prematurity.
 |---------|------|------|-----------|
 | Not available | Zinc Cold Therapy (BETTER LIVING BRANDS LLC) | Chewable tablet | Not stated (status: cancelled) |
 
-The only US license on record is cancelled. Other dosage forms in the data are oral tablets and lozenges.
+Other dosage forms in the data are oral tablets and lozenges.
 
 ## Safety Considerations
 

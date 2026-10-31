@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "ZICONOTIDE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "obesity disorder", "transient ischemic attack (disease)", "open-angle glaucoma", "obsolete neurogenic bladder (disease)", "primary hereditary glaucoma", "preeclampsia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Ziconotide: predicted new indication Migraine disorder (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -110,7 +110,7 @@ Please refer to the package insert for warnings and contraindications, as label 
 **Decision: Hold**
 
 **Rationale:**
-Evidence is limited to one case report and narrative reviews, with no registered trials. The only US NDA is cancelled. The intrathecal route and the neuropsychiatric risk profile make the risk-benefit balance unfavourable for migraine, which is rarely life-threatening. The topic is better treated as a research question than as a development candidate for now.
+Evidence is limited to one case report and narrative reviews, with no registered trials. The intrathecal route and the neuropsychiatric risk profile make the risk-benefit balance unfavourable for migraine, which is rarely life-threatening. The topic is better treated as a research question than as a development candidate for now.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which are currently missing and block safety screening

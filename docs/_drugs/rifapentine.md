@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "RIFAPENTINE"
 predicted_indications: ["leprosy", "female breast carcinoma", "Prinzmetal angina", "HIV infectious disease", "neuroretinitis", "vestibular neuronitis", "motor nerve neuritis", "brachial plexus neuritis", "dermatofibrosarcoma protuberans", "rheumatoid arthritis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Rifapentine: predicted new indication Leprosy (evidence level L5). Approved use: Pulmonary tuberculosis"
 ---
 
@@ -147,7 +147,6 @@ Package insert warnings and contraindications were not available. Please refer t
 - Clinical trials of rifapentine in leprosy treatment or prophylaxis.
 - Mechanism-of-action data from DrugBank.
 - Package insert warnings and contraindications from the FDA.
-- Clarification of US regulatory status, since the only NDA on record is cancelled.
 - A drug-interaction management plan, especially for antiretrovirals and the major-level interactions.
 ## Disclaimer
 

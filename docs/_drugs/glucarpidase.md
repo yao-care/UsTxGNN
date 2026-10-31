@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GLUCARPIDASE"
 predicted_indications: ["diabetic cataract", "diabetic retinopathy", "tetanic cataract", "mature cataract", "immature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "cortical cataract", "nuclear senile cataract", "senile cataract"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Glucarpidase: predicted new indication Diabetic cataract (evidence level L5). Approved use: Not listed in the data compiled for this report (the drug's establish…"
 ---
 
@@ -88,7 +88,7 @@ Please refer to the package insert for warnings and contraindications, as this i
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a computational score, with no clinical trials, no publications, and no plausible mechanism. The drug is also an intravenously given enzyme unlikely to reach the lens or retina, and its only US license is cancelled. The repeated near-identical scores across eye diseases point to a model artifact.
+The prediction rests only on a computational score, with no clinical trials, no publications, and no plausible mechanism. The repeated near-identical scores across eye diseases point to a model artifact.
 
 **To proceed, the following is needed:**
 - Complete mechanism of action data and the FDA package insert warnings and contraindications

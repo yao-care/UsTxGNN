@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "SACITUZUMAB GOVITECAN"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Sacituzumab Govitecan: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -124,7 +124,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no clinical trials, no literature, and no plausible mechanism. The drug's cytotoxic profile makes a favorable benefit-risk balance unlikely in a non-malignant condition such as drug-induced osteoporosis. The only US license record is cancelled, and safety label data are missing.
+The prediction is supported only by a model score, with no clinical trials, no literature, and no plausible mechanism. The drug's cytotoxic profile makes a favorable benefit-risk balance unlikely in a non-malignant condition such as drug-induced osteoporosis.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which block safety screening

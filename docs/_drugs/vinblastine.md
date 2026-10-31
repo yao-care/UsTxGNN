@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "VINBLASTINE"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Vinblastine: predicted new indication Rhabdomyosarcoma (disease) (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
@@ -115,14 +115,13 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high (0.9986) and the antimitotic mechanism is plausible. However, there are no registered trials, the literature is limited to case reports, small series and preclinical work, and vinblastine's individual contribution in combination regimens cannot be isolated. The only US authorization is cancelled, and the official label safety data are missing.
+The TxGNN score is high (0.9986) and the antimitotic mechanism is plausible. However, there are no registered trials, the literature is limited to case reports, small series and preclinical work, and vinblastine's individual contribution in combination regimens cannot be isolated.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data from DrugBank
 - Comparison with the current standard rhabdomyosarcoma regimens (vincristine-based), including whether vinblastine adds value
 - Prospective or registry data on vinblastine in rhabdomyosarcoma
-- A plan to confirm injectable product availability in the US, since the only listed ANDA is cancelled
 - A safety monitoring plan covering myelosuppression, neurotoxicity, hepatic impairment and CYP3A4 interactions (e.g. clarithromycin)
 ## Disclaimer
 

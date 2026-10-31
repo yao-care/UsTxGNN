@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "OMIDENEPAG ISOPROPYL"
 predicted_indications: ["pancreatitis", "hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "blepharospasm", "familial visceral myopathy", "alcoholic cardiomyopathy"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Omidenepag Isopropyl: predicted new indication Pancreatitis (evidence level L5). Approved use: Ocular hypertension"
 ---
 
@@ -93,7 +93,7 @@ Please refer to the package insert for safety information. No drug interactions 
 **Decision: Hold**
 
 **Rationale:**
-The pancreatitis prediction is supported only by a model score, with no clinical trials or publications (Evidence Level L5). The drug is a topical ocular product with minimal systemic exposure, and its only US authorization is cancelled. Safety and mechanism data are also incomplete, so the evaluation cannot move beyond the earliest screening stage.
+The pancreatitis prediction is supported only by a model score, with no clinical trials or publications (Evidence Level L5). Safety and mechanism data are also incomplete, so the evaluation cannot move beyond the earliest screening stage.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

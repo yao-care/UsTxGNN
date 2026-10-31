@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 798
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "INSULIN DETEMIR"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 description: "Insulin Detemir: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Not recorded in the local data"
@@ -132,7 +132,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple completed Phase 3 trials, together with systematic reviews and a randomised trial, support insulin detemir in type 1 diabetes, so the evidence level is L1. However, this is an existing core indication rather than a new use, and the only US license (BLA021536) is cancelled, so availability is a concern.
+Multiple completed Phase 3 trials, together with systematic reviews and a randomised trial, support insulin detemir in type 1 diabetes, so the evidence level is L1.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (currently missing and rated blocking for safety screening)

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "OLSALAZINE"
 predicted_indications: ["myelodysplastic syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "partial deletion of the long arm of chromosome 5", "unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Olsalazine: predicted new indication Myelodysplastic syndrome (evidence level L5). Approved use: Not stated in the available US label data"
 ---
 
@@ -89,7 +89,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a model score. There are no trials or publications, no mechanistic data, and olsalazine's minimal systemic absorption makes bone marrow or hair follicle effects implausible. The only US license is cancelled, and package insert safety data are missing.
+The prediction rests solely on a model score. There are no trials or publications, no mechanistic data, and olsalazine's minimal systemic absorption makes bone marrow or hair follicle effects implausible.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for olsalazine and a plausible biological link to MDS (or to alopecia areata)

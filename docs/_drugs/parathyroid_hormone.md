@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "PARATHYROID HORMONE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "amenorrhea (disease)", "Raynaud disease", "non-syndromic esophageal malformation", "esophageal disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "erectile dysfunction (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Parathyroid Hormone: predicted new indication Migraine disorder (evidence level L4). Approved use: Not available"
 ---
 
@@ -94,7 +94,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The migraine prediction has a high model score, but there are no clinical trials, and the literature shows only association and an indirect genetic hint. No study tests PTH as a migraine treatment. The only US license is cancelled, and the label's warnings, contraindications and indication text are missing, so safety screening cannot proceed.
+The migraine prediction has a high model score, but there are no clinical trials, and the literature shows only association and an indirect genetic hint. No study tests PTH as a migraine treatment.
 
 **To proceed, the following is needed:**
 - The FDA package insert (warnings, contraindications, approved indication) for NATPARA

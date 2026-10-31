@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "STREPTOMYCIN"
 predicted_indications: ["conjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "Lyme disease", "infectious otitis interna"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Streptomycin: predicted new indication Conjunctivitis (evidence level L4). Approved use: Pulmonary tuberculosis (also chancroid, leptospirosis…"
 ---
 
@@ -123,7 +123,7 @@ All other predictions are also at Hold:
 **Decision: Hold**
 
 **Rationale:**
-There are no clinical trials, and the literature for conjunctivitis consists of historical reports, case reports and reviews that are mostly indirect (tularemia, brucellosis, tuberculosis). The drug's only US licence is cancelled, and systemic aminoglycoside toxicity argues against use in a usually self-limiting, topically treatable condition.
+There are no clinical trials, and the literature for conjunctivitis consists of historical reports, case reports and reviews that are mostly indirect (tularemia, brucellosis, tuberculosis).
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently missing and a blocking gap for safety screening)

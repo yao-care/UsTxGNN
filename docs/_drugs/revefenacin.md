@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1118
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "REVEFENACIN"
 predicted_indications: ["bronchitis"]
 description: "Revefenacin: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -139,7 +139,6 @@ Please refer to the package insert for warnings and contraindications, as this i
 - For bronchitis, there is no direct evidence outside COPD, and the high TxGNN score likely reflects disease-classification proximity.
 
 **To proceed, the following is needed:**
-- Verify current commercial availability, since the only US NDA is listed as cancelled
 - Obtain the FDA package insert warnings and contraindications
 - Obtain detailed mechanism of action data from DrugBank
 - Bronchitis-specific data in non-COPD populations, if that indication is to be pursued

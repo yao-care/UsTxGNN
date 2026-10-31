@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "TILDRAKIZUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "drug-induced osteoporosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Tildrakizumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not listed in the compiled data (known clinical use: moderate-to-seve…"
 ---
 
@@ -95,7 +95,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-All four predictions are supported only by model scores (L5), with no registered trials or publications. The mechanistic link to diabetic retinopathy is speculative. In addition, the only US license is recorded as cancelled, and the package insert safety data has not been obtained.
+All four predictions are supported only by model scores (L5), with no registered trials or publications. The mechanistic link to diabetic retinopathy is speculative.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which is a blocking gap for safety screening

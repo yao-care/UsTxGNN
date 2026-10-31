@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "OXITRIPTAN"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Oxitriptan: predicted new indication Insomnia (evidence level L5). Approved use: No approved indication text available"
 ---
 
@@ -92,7 +92,7 @@ Many of the Major interactions involve serotonergic agents, so serotonin-related
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but there are no clinical trials or publications behind it (Evidence Level L5). The mechanism of action data is missing, and the only US authorization is cancelled. Label warnings and contraindications are also unavailable, which blocks safety screening.
+The prediction score is very high, but there are no clinical trials or publications behind it (Evidence Level L5). Label warnings and contraindications are also unavailable, which blocks safety screening.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications

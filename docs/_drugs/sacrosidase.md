@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "SACROSIDASE"
 predicted_indications: ["cystinosis", "familial apolipoprotein C-II deficiency"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Sacrosidase: predicted new indication Cystinosis (evidence level L5). Approved use: Congenital sucrase-isomaltase deficiency"
 ---
 
@@ -89,13 +89,12 @@ No drug-drug interaction records were found in the data compiled for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trial or literature support (L5), and no plausible mechanism links a non-absorbed gut enzyme to lysosomal cystine transport. The only US license is cancelled, so there is also no commercial basis for development.
+The prediction has no clinical trial or literature support (L5), and no plausible mechanism links a non-absorbed gut enzyme to lysosomal cystine transport.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank) to allow a proper mechanistic assessment
 - Package insert warnings and contraindications from the FDA, which are required before any safety screening
 - Preclinical evidence of any systemic or lysosomal effect of sacrosidase relevant to cystinosis
-- Clarification of the regulatory and supply status, given that the only US license is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

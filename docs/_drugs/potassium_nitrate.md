@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "POTASSIUM NITRATE"
 predicted_indications: ["meningococcal infection", "sclerosing cholangitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Potassium Nitrate: predicted new indication Meningococcal infection (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Potassium nitrate is a nitrate salt. In the US it appears only in cancelled products (a dentifrice paste and a homeopathic pellet), and no approved indication is recorded for it in the data compiled for this report.
+Potassium nitrate is a nitrate salt.
 The TxGNN model predicts it may be effective for **meningococcal infection**, but **0 clinical trials** and **0 publications** currently support this direction.
 This is a model-only prediction, and the data compiled for this report do not support a plausible therapeutic role.
 

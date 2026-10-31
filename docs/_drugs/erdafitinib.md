@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "ERDAFITINIB"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "amenorrhea (disease)", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Erdafitinib: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -101,7 +101,7 @@ Label warnings and contraindications were not available in the compiled data. Pl
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a computational score, with no clinical trials or relevant literature, and the evidence level is L5. The only US license is cancelled, and the label warnings and original indication data are missing. Safety screening cannot proceed without the package insert.
+The prediction rests only on a computational score, with no clinical trials or relevant literature, and the evidence level is L5. Safety screening cannot proceed without the package insert.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)

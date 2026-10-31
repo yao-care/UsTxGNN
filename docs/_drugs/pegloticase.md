@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PEGLOTICASE"
 predicted_indications: ["severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Pegloticase: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Gout"
 ---
 
@@ -96,7 +96,7 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-The only support for this prediction is a high TxGNN score. There are no clinical trials or publications, the mechanistic link is speculative, and the drug is delivered systemically for an eye disease. The only US license is cancelled, which further limits availability.
+The only support for this prediction is a high TxGNN score. There are no clinical trials or publications, the mechanistic link is speculative, and the drug is delivered systemically for an eye disease.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

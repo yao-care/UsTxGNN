@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GARLIC"
 predicted_indications: ["gastrin secretion abnormality", "endometriosis of uterus", "cerebral infarction", "renal hypoplasia, bilateral", "multiple endocrine neoplasia", "renal hypoplasia (disease)", "gelatinous drop-like corneal dystrophy", "HIV infectious disease", "cervix endometriosis", "endometriosis of rectovaginal septum and vagina"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Garlic: predicted new indication Gastrin secretion abnormality (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -38,7 +38,6 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Garlic (DrugBank DB10532) is listed in the US only through three cancelled allergenic-extract and homeopathic product licenses, and no approved indication text is on record.
 The TxGNN model ranks **gastrin secretion abnormality** as its top prediction, but there are **0 clinical trials** and **0 publications** supporting it.
 The better-supported prediction for this drug is **cerebral infarction**, with 10 publications, mostly animal studies and reviews.
 

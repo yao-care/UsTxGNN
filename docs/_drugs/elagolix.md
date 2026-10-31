@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ELAGOLIX"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Elagolix: predicted new indication Amenorrhea (evidence level L4). Approved use: Endometriosis (including endometriosis of the uterus)"
 ---
 
@@ -112,7 +112,7 @@ Please refer to the package insert for full warnings and precautions, as label-b
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by model score and mechanistic proximity (L4 evidence). No clinical trials exist, and the literature addresses fibroids and heavy menstrual bleeding, not amenorrhea as a therapeutic goal. Amenorrhea is a symptom and a pharmacological effect, not a disease target. In addition, the only US license is cancelled, and label safety data are missing.
+The prediction is supported only by model score and mechanistic proximity (L4 evidence). No clinical trials exist, and the literature addresses fibroids and heavy menstrual bleeding, not amenorrhea as a therapeutic goal. Amenorrhea is a symptom and a pharmacological effect, not a disease target.
 
 **To proceed, the following is needed:**
 - Clarify whether amenorrhea is a meaningful therapeutic target, or whether the underlying condition (for example, heavy menstrual bleeding with fibroids) is the real candidate indication

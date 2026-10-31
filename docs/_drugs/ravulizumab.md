@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "RAVULIZUMAB"
 predicted_indications: ["autosomal recessive severe congenital neutropenia due to G6PC3 deficiency", "cyclic hematopoiesis", "primary hyperoxaluria", "severe congenital neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "pseudo-von Willebrand disease", "X-linked severe congenital neutropenia", "primary release disorder of platelets", "megaloblastic anemia (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Ravulizumab: predicted new indication Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency (evidence level L5). Approved use: Paroxysmal nocturnal hemoglobinuria"
 ---
 
@@ -88,7 +88,7 @@ Please refer to the package insert for other warnings and contraindications. The
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trial or literature support (Evidence Level L5), and no plausible mechanistic link between C5 inhibition and G6PC3-deficiency neutropenia. Complement blockade also carries a serious risk of meningococcal and other encapsulated-organism infection, which is a particular concern in neutropenic or immunodeficient patients. In addition, the only US license is listed as cancelled.
+The prediction has no clinical trial or literature support (Evidence Level L5), and no plausible mechanistic link between C5 inhibition and G6PC3-deficiency neutropenia. Complement blockade also carries a serious risk of meningococcal and other encapsulated-organism infection, which is a particular concern in neutropenic or immunodeficient patients.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence for complement involvement in G6PC3-deficiency neutropenia, such as preclinical or biomarker studies

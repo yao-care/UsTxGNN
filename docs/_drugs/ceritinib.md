@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 513
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Ceritinib: predicted new indication fibromatosis, gingival (evidence level L5). Approved use: Non-small cell lung cancer (NSCLC)"
 monitor_inn: "CERITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "junctional epidermolysis bullosa"]
@@ -98,7 +98,7 @@ Label warnings and contraindications were not available in the compiled data. Pl
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score. No clinical trials or literature address gingival fibromatosis, no mechanistic link to ceritinib's targets is known, and the only US license is cancelled. The evidence level is L5.
+The prediction is supported only by a model score. The evidence level is L5.
 
 **To proceed, the following is needed:**
 - A plausible mechanistic hypothesis linking ALK, ROS1 or IGF-1R signaling to gingival fibromatosis, supported by preclinical data

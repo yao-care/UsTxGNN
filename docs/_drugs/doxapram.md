@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DOXAPRAM"
 predicted_indications: ["vascular disease", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "angiodysplasia of stomach", "blue toe syndrome", "hemangioendothelioma", "atheroembolism of kidney", "neurogenic thoracic outlet syndrome", "visceral calciphylaxis", "lymphangiectasis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Doxapram: predicted new indication Vascular disease (evidence level L4). Approved use: Respiratory failure"
 ---
 
@@ -115,14 +115,13 @@ Please also refer to the package insert for label warnings and contraindications
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score is not backed by any clinical trial or relevant literature, and the mechanism does not plausibly fit vascular disease. Several vascular conditions appear among the knowledge-graph cautions, and the only US license is cancelled. Evidence is limited to indirect, mostly preclinical or safety-related findings (L4).
+The high TxGNN score is not backed by any clinical trial or relevant literature, and the mechanism does not plausibly fit vascular disease. Evidence is limited to indirect, mostly preclinical or safety-related findings (L4).
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking for safety screening)
 - Detailed mechanism of action data, to test whether any mechanistic link to vascular disease exists
 - A specific, clinically defined vascular indication, with supporting preclinical or clinical data
 - A review of the contraindicated vascular conditions against the proposed use
-- Clarification of the regulatory and route situation, given that the only US license is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

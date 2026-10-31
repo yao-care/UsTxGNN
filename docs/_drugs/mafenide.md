@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MAFENIDE"
 predicted_indications: ["irritable bowel syndrome", "cauda equina syndrome", "panuveitis (disease)", "iris disease", "uveitis", "acne (disease)", "isolated iridoschisis", "abnormal pupillary function (disease)", "benign neoplasm of iris", "iris cancer"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Mafenide: predicted new indication Irritable bowel syndrome (evidence level L5). Approved use: Not stated in the available regulatory data"
 ---
 
@@ -87,7 +87,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no trials, no literature and no mechanistic rationale. The only US license is cancelled, and mafenide is a topical product with notable tissue toxicity and metabolic acidosis risk. This makes it poorly suited to a gastrointestinal indication.
+The prediction rests only on a model score, with no trials, no literature and no mechanistic rationale. This makes it poorly suited to a gastrointestinal indication.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ROTIGOTINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "faciodigitogenital syndrome", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "atypical glycine encephalopathy", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Rotigotine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L4). Approved use: Restless legs syndrome, Parkinson disease"
 ---
 
@@ -98,7 +98,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (1.0000), but there are no clinical trials and the literature is indirect: two restless legs reviews and one receptor-level preclinical study. The evidence level is L4, with no rotigotine-specific ADHD data. Moreover, the only US NDA is cancelled.
+The TxGNN score is very high (1.0000), but there are no clinical trials and the literature is indirect: two restless legs reviews and one receptor-level preclinical study. The evidence level is L4, with no rotigotine-specific ADHD data.
 
 **To proceed, the following is needed:**
 - Rotigotine-specific preclinical or clinical data in ADHD

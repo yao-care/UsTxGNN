@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 2
 monitor_inn: "PHENYLALANINE"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Phenylalanine: predicted new indication Sclerosing cholangitis (evidence level L4). Approved use: Not available (the approved indication text is empty)"
 ---
 
@@ -113,7 +113,7 @@ Please refer to the package insert for confirmed safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone. There are no clinical trials, the literature is only indirectly related, and no mechanistic rationale exists. The only US authorization is cancelled, and package insert safety data are missing, which blocks safety screening.
+The prediction rests on a model score alone. There are no clinical trials, the literature is only indirectly related, and no mechanistic rationale exists.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

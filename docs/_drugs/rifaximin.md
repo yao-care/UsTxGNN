@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "RIFAXIMIN"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Rifaximin: predicted new indication Oral candidiasis (evidence level L4). Approved use: Hepatic encephalopathy, hepatic coma"
 ---
 
@@ -98,7 +98,6 @@ The prediction rests on a model score alone. The only supporting literature sugg
 - Mechanism of action data
 - Evidence of antifungal activity or clinical benefit in candidiasis, such as in vitro or preclinical studies
 - Review of whether the Candida risk signal outweighs any potential benefit
-- Clarification of the current US marketing status, since the only NDA on record is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

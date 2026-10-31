@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TIVOZANIB"
 predicted_indications: ["endocervical carcinoma", "uterine ligament adenocarcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "cervical adenosquamous carcinoma, glassy cell variant", "uterine ligament endometrioid adenocarcinoma", "uterine ligament mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma", "cervical mucinous adenocarcinoma, minimal deviation variant"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Tivozanib: predicted new indication Endocervical carcinoma (evidence level L5). Approved use: Renal cell carcinoma (nonpapillary renal cell carcinoma…"
 ---
 
@@ -102,7 +102,7 @@ No warnings or contraindications are available in the compiled data. Please refe
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or publications (Evidence Level L5). The anti-angiogenic rationale is plausible but unverified, the predicted diseases are mostly rare subtypes where evidence is unlikely to emerge soon, and the only US NDA is cancelled.
+The prediction has no supporting clinical trials or publications (Evidence Level L5).
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

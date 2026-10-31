@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 851
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "LEVMETAMFETAMINE"
 predicted_indications: ["nasal cavity disease"]
 description: "Levmetamfetamine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -86,7 +86,7 @@ No drug interaction records were found in the data compiled for this report.
 **Decision: Hold**
 
 **Rationale:**
-Both predictions (nasal cavity disease and acute laryngopharyngitis) rest on model scores alone, with no clinical trials or literature (Evidence Level L5). The only US license is cancelled, so there is no current regulatory support, and safety and mechanism data are missing.
+Both predictions (nasal cavity disease and acute laryngopharyngitis) rest on model scores alone, with no clinical trials or literature (Evidence Level L5).
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

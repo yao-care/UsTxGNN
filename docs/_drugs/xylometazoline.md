@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1299
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Xylometazoline: predicted new indication Nasal cavity disease (evidence level L3). Approved use: Pharyngitis, common cold"
 monitor_inn: "XYLOMETAZOLINE"
 predicted_indications: ["nasal cavity disease"]
@@ -94,7 +94,7 @@ Please refer to the package insert for full safety information, as label warning
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible and the existing literature (mostly procedural nasal preparation and rhinomanometry studies) is consistent with a decongestant effect. However, no clinical trials are registered, the evidence is largely indirect, and the only US licence is cancelled. Label safety data are also missing, which blocks the safety screening step.
+The mechanism is plausible and the existing literature (mostly procedural nasal preparation and rhinomanometry studies) is consistent with a decongestant effect. Label safety data are also missing, which blocks the safety screening step.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)

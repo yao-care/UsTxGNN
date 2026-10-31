@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SECALE CEREALE POLLEN"
 predicted_indications: ["alopecia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Secale Cereale Pollen: predicted new indication Alopecia (evidence level L5). Approved use: Not recorded in the available data"
 ---
 
@@ -83,7 +83,7 @@ Please refer to the package insert for safety information. No drug interaction r
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical, literature, or mechanistic support (Evidence Level L5). The only US license is cancelled, and safety and mechanism data are missing, so the project should not advance.
+The prediction has no clinical, literature, or mechanistic support (Evidence Level L5).
 
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank) and a plausible biological link to alopecia

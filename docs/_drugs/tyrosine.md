@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TYROSINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Tyrosine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not available"
 ---
 
@@ -109,7 +109,7 @@ Please refer to the package insert for safety information. No warnings, contrain
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, cauda equina syndrome, is supported only by the model score, with no trials, no literature, and no plausible mechanism. The same is true of the other predictions, and several (hyperthyroidism, hyperthyroxinemia, THRB resistance) run against known biology. The only drug license on record is cancelled. POTS is the sole prediction that merits follow-up, as a research question rather than a candidate for development.
+The top prediction, cauda equina syndrome, is supported only by the model score, with no trials, no literature, and no plausible mechanism. The same is true of the other predictions, and several (hyperthyroidism, hyperthyroxinemia, THRB resistance) run against known biology. POTS is the sole prediction that merits follow-up, as a research question rather than a candidate for development.
 
 **To proceed, the following is needed:**
 - Safety information from the package insert (warnings and contraindications), which is currently missing and blocks safety screening

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "PANITUMUMAB"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Panitumumab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Metastatic malignant neoplasm in the colon"
 ---
 
@@ -101,7 +101,7 @@ For warnings and contraindications, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but there are no clinical trials or publications, and the mechanism data are missing. The known EGFR-inhibitor effects on calcium and magnesium point toward possible harm to bone, not benefit. In addition, the only US license is cancelled, and a chronic bone indication for a cancer antibody would need a strong case.
+The prediction score is very high, but there are no clinical trials or publications, and the mechanism data are missing. The known EGFR-inhibitor effects on calcium and magnesium point toward possible harm to bone, not benefit.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (for example from DrugBank) and a mechanistic analysis of EGFR in bone biology

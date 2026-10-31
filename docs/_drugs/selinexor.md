@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SELINEXOR"
 predicted_indications: ["drug-induced osteoporosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Selinexor: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -104,7 +104,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no clinical trials or publications. The only US NDA is cancelled. Package insert safety data and mechanism data are missing, and the drug's known adverse effects could plausibly worsen bone health.
+The prediction is supported only by a model score, with no clinical trials or publications. Package insert safety data and mechanism data are missing, and the drug's known adverse effects could plausibly worsen bone health.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking for safety screening)

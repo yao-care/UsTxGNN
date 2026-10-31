@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FLUOROESTRADIOL F-18"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Fluoroestradiol F-18: predicted new indication Amenorrhea (evidence level L5). Approved use: Not available"
 ---
 
@@ -77,7 +77,7 @@ Please refer to the package insert for safety information. No drug interaction r
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5). There are no registered clinical trials and no literature. The compound is a diagnostic tracer with no pharmacologic effect at tracer doses, and its only US authorization is cancelled. Basic safety and mechanism data are also missing.
+The prediction rests on model output alone (L5). There are no registered clinical trials and no literature. Basic safety and mechanism data are also missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

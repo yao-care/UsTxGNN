@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 659
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Epinastine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis"
 monitor_inn: "EPINASTINE"
 predicted_indications: ["rosacea conjunctivitis", "allergic urticaria"]
@@ -85,7 +85,6 @@ Currently no related literature available.
 |---------|------|------|-----------|
 | ANDA090951 | Epinastine Hydrochloride (Somerset Therapeutics, LLC) | Solution / drops | Valid |
 
-The only US license on record is cancelled, so the drug's practical availability would need verification.
 
 ---
 
@@ -100,13 +99,12 @@ Please refer to the package insert for safety information. No warning, contraind
 **Decision: Hold**
 
 **Rationale:**
-The prediction for rosacea conjunctivitis rests only on a model score, with no registered trials or literature (evidence level L5). The drug's only US license is cancelled, and label-level safety and mechanism data are missing.
+The prediction for rosacea conjunctivitis rests only on a model score, with no registered trials or literature (evidence level L5).
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data from DrugBank
 - Targeted literature and trial searches on antihistamines or mast-cell stabilizers in ocular rosacea
-- Confirmation of current US availability, since the only license is cancelled
 - Consideration of the second-ranked prediction, **allergic urticaria** (score 0.9928, evidence level L3). It is supported by reviews and histamine wheal-and-flare studies in healthy volunteers, including a double-blind crossover RCT (PMID 10442525). These are surrogate pharmacodynamic data, not trials in urticaria patients, so it is best treated as a research question rather than a development candidate.
 ## Disclaimer
 

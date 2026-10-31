@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "COLLAGENASE CLOSTRIDIUM HISTOLYTICUM"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "Ledderhose disease", "infantile digital fibromatosis", "palmar fibromatosis", "hemorrhagic disorder due to a constitutional thrombocytopenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "posterior leukoencephalopathy syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Collagenase Clostridium Histolyticum: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Peyronie disease, penile fibromatosis, balanitis xerotica oblit…"
 ---
 
@@ -133,7 +133,6 @@ Palmar fibromatosis is supported by multiple completed Phase 3 trials, including
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
-- Verification of the regulatory and supply status of the injectable product in the US, since the only record listed is a cancelled ointment
 - Monitoring plan for tendon rupture, ligament injury, and anaphylaxis
 - For Ledderhose disease: controlled studies beyond the existing case reports, as a research question
 ## Disclaimer

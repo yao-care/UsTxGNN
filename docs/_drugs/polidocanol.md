@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "POLIDOCANOL"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding", "Immunoerythromyeloid hypoplasia", "pigmented paravenous retinochoroidal atrophy", "progressive bifocal chorioretinal atrophy", "X-linked retinal dysplasia", "monosomy X", "cone dystrophy", "oligocone trichromacy", "retinoschisis of fovea"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Polidocanol: predicted new indication Esophageal varices with bleeding (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
@@ -99,7 +99,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The predicted indication has a plausible mechanism and multiple published studies, including two RCTs. However, these are old, no clinical trials are registered, and band ligation is now the preferred endoscopic treatment. The only US license is cancelled, which limits practical availability.
+The predicted indication has a plausible mechanism and multiple published studies, including two RCTs. However, these are old, no clinical trials are registered, and band ligation is now the preferred endoscopic treatment.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

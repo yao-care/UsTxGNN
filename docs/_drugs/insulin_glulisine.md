@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 800
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "INSULIN GLULISINE"
 predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 description: "Insulin Glulisine: predicted new indication Thiamine-responsive dysfunction syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -114,10 +114,9 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple completed Phase 3 trials and randomized studies support insulin glulisine in type 1 diabetes, which meets the L1 evidence level. However, this is on-label use rather than true repurposing, and the only US license is cancelled, so availability must be confirmed.
+Multiple completed Phase 3 trials and randomized studies support insulin glulisine in type 1 diabetes, which meets the L1 evidence level.
 
 **To proceed, the following is needed:**
-- Confirm current US availability and licensing status (the only BLA is cancelled)
 - FDA package insert warnings and contraindications (a blocking data gap for safety screening)
 - Detailed mechanism of action data from DrugBank
 - A glucose monitoring plan for patients taking interacting drugs

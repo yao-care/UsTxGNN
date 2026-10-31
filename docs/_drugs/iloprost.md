@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 790
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "ILOPROST"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
 description: "Iloprost: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
@@ -107,12 +107,11 @@ For label-based warnings and contraindications, please refer to the package inse
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The mechanism is the same as in the approved PAH indication, and several cohort studies, a small randomized cross-over pilot, and case series support use in CHD-PAH. However, there are no registered trials and no Phase 3 RCT evidence, so the evidence level is L3. The only US authorization is cancelled.
+The mechanism is the same as in the approved PAH indication, and several cohort studies, a small randomized cross-over pilot, and case series support use in CHD-PAH. However, there are no registered trials and no Phase 3 RCT evidence, so the evidence level is L3.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data (MOA) from DrugBank
-- Confirmation of a currently marketed US iloprost product, since the only NDA listed is cancelled
 - Patient selection criteria, hemodynamic monitoring, and attention to shunt physiology
 - A prospective controlled study in CHD-PAH, ideally in specialist centers
 

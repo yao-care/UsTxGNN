@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "ACETOHYDROXAMIC ACID"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Acetohydroxamic Acid: predicted new indication Ureaplasma urethritis (evidence level L5). Approved use: Urinary tract infection"
 ---
 
@@ -104,7 +104,7 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trial or literature support (evidence level L5), and the mechanistic link to a lower genital tract mucosal infection is weak. The only US product is cancelled, and the hematologic safety signals are notable. Effective antibiotic therapy also already exists for these conditions.
+The prediction has no clinical trial or literature support (evidence level L5), and the mechanistic link to a lower genital tract mucosal infection is weak. Effective antibiotic therapy also already exists for these conditions.
 
 **To proceed, the following is needed:**
 - Official package insert warnings and contraindications (a blocking gap for safety screening)
@@ -112,7 +112,6 @@ The prediction has no clinical trial or literature support (evidence level L5), 
 - Laboratory evidence that urease inhibition has an effect against *Ureaplasma*
 - Any clinical or observational data in the predicted indication
 - If any indication is pursued, xanthogranulomatous pyelonephritis is the most mechanistically plausible candidate, and a hematologic safety monitoring plan would be needed
-- Clarification of the regulatory and supply pathway, given that the only US product is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

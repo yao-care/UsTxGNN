@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "BESIFLOXACIN"
 predicted_indications: ["bronchitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "otitis externa"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Besifloxacin: predicted new indication Bronchitis (evidence level L5). Approved use: Conjunctivitis"
 ---
 
@@ -97,7 +97,7 @@ No drug interaction records were found. For full warnings and contraindications,
 **Decision: Hold**
 
 **Rationale:**
-The bronchitis prediction rests only on a model score, with no trials or literature. The drug is available only as an ophthalmic suspension with minimal systemic exposure, and its only US license is cancelled. Most bronchitis is viral. All eight predicted indications remain at evidence level L5.
+The bronchitis prediction rests only on a model score, with no trials or literature. Most bronchitis is viral. All eight predicted indications remain at evidence level L5.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

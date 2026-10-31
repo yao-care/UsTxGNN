@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "NIFURTIMOX"
 predicted_indications: ["congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "blood group incompatibility", "monoclonal gammopathy", "premalignant hematological system disease", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Nifurtimox: predicted new indication Congenital analbuminemia (evidence level L5). Approved use: Chagas disease"
 ---
 
@@ -112,7 +112,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model (deep learning) score. No clinical trials or publications support it, and no plausible biological link exists between a nitrofuran antiprotozoal and a monogenic albumin deficiency. The only US authorization is cancelled. Evidence Level L5 does not justify advancing.
+The prediction rests only on a TxGNN model (deep learning) score. No clinical trials or publications support it, and no plausible biological link exists between a nitrofuran antiprotozoal and a monogenic albumin deficiency. Evidence Level L5 does not justify advancing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for nifurtimox

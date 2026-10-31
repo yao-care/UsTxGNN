@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "RAXIBACUMAB"
 predicted_indications: ["postinfectious vasculitis", "post-infectious syndrome", "post-bacterial disorder", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "drug-induced osteoporosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Raxibacumab: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Inhalational anthrax"
 ---
 
@@ -85,7 +85,7 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials or literature behind it (evidence level L5), and the anti-PA mechanism has no plausible link to postinfectious vasculitis. The only US license is cancelled, and safety and mechanism data are incomplete.
+The prediction has no clinical trials or literature behind it (evidence level L5), and the anti-PA mechanism has no plausible link to postinfectious vasculitis.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (required before any safety screening)

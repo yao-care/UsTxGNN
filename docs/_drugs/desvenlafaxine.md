@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 589
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "DESVENLAFAXINE"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Desvenlafaxine: predicted new indication Obsessive-compulsive disorder (evidence level L4). Approved use: Not recorded in the local data"
@@ -106,7 +106,7 @@ Official label warnings were not available. Please refer to the package insert f
 **Decision: Hold**
 
 **Rationale:**
-The OCD prediction rests on a plausible class-level serotonergic mechanism, but there are no clinical trials and no desvenlafaxine-specific studies in OCD. Established OCD pharmacotherapy already exists (SSRIs, clomipramine). The only US license is cancelled.
+The OCD prediction rests on a plausible class-level serotonergic mechanism, but there are no clinical trials and no desvenlafaxine-specific studies in OCD. Established OCD pharmacotherapy already exists (SSRIs, clomipramine).
 
 For reference, **dysthymic disorder** has much stronger support in the compiled data, at evidence level L3. It has two completed desvenlafaxine trials: a Phase 4 placebo-controlled study (NCT01537068, n=59) and an open-label study (NCT01948895, n=30). It also has a meta-analysis of antidepressants in dysthymia. That indication may be a more productive research question than OCD.
 

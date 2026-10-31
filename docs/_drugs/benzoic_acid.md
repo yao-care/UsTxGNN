@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BENZOIC ACID"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "dry eye syndrome", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "hereditary angioedema with C1Inh deficiency", "posterior leukoencephalopathy syndrome", "C1 inhibitor deficiency"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Benzoic Acid: predicted new indication bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -108,7 +108,7 @@ Please refer to the package insert for further safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone. No clinical trial or publication studies benzoic acid in bronchitis, no mechanism is documented, and the only product record is cancelled.
+The prediction rests on a model score alone.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for benzoic acid

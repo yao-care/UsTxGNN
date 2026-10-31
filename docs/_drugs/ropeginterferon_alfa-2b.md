@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ROPEGINTERFERON ALFA-2B"
 predicted_indications: ["Laubry-Pezzi syndrome", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "Jeune syndrome situs inversus", "partial deletion of the long arm of chromosome 22", "orofacial clefting syndrome", "pulmonary valve disease"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Ropeginterferon Alfa-2B: predicted new indication Laubry-Pezzi syndrome (evidence level L5). Approved use: Acquired polycythemia vera (also listed: plasmacytoma, polycythemia)"
 ---
 
@@ -94,7 +94,7 @@ Please refer to the package insert for safety information. No drug-interaction r
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials or literature for Laubry-Pezzi syndrome, no plausible mechanistic link to a structural cardiac defect, and the safety data are incomplete. The only US license is listed as cancelled.
+The prediction rests only on a model score. There are no clinical trials or literature for Laubry-Pezzi syndrome, no plausible mechanistic link to a structural cardiac defect, and the safety data are incomplete.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the FDA (a blocking gap for safety screening)

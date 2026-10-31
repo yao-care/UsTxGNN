@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "PALIFERMIN"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "Scott syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Palifermin: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -102,7 +102,7 @@ Please refer to the package insert for warnings and contraindications. Label-bas
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a TxGNN model (deep learning) score, with no clinical trials, no literature, and no plausible mechanistic link between FGF7/FGFR2b signaling and platelet function. In addition, the only US license is cancelled, and the label-based safety review could not be completed.
+The prediction is supported only by a TxGNN model (deep learning) score, with no clinical trials, no literature, and no plausible mechanistic link between FGF7/FGFR2b signaling and platelet function.
 
 **To proceed, the following is needed:**
 - Retrieve the FDA package insert (warnings, contraindications, approved indication), which is required before any safety screening

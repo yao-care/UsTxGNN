@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "BIOTIN"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Biotin: predicted new indication Dyspepsia (evidence level L5). Approved use: Nutritional biotin deficiency"
 ---
 
@@ -99,7 +99,7 @@ No drug interaction records were found. Please refer to the package insert for f
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials, no supporting literature, and no established mechanism, so it sits at evidence level L5. The US market status shows only cancelled authorizations, and safety review cannot proceed without label data.
+The prediction has no clinical trials, no supporting literature, and no established mechanism, so it sits at evidence level L5.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

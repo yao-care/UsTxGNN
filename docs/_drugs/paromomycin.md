@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "PAROMOMYCIN"
 predicted_indications: ["idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatic porphyria", "acute urate nephropathy", "peritonitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Paromomycin: predicted new indication Idiopathic copper-associated cirrhosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -93,7 +93,7 @@ Please refer to the package insert for the full warnings and contraindications. 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials, no literature, and no established mechanistic link to copper-associated cirrhosis. The only US license is cancelled, and the label safety information is missing, which blocks safety screening.
+The prediction rests only on a model score, with no clinical trials, no literature, and no established mechanistic link to copper-associated cirrhosis.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

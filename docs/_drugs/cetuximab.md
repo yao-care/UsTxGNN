@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CETUXIMAB"
 predicted_indications: ["chondroid hamartoma", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "non-seminomatous lesion", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "cystic neoplasm", "epiglottis neoplasm", "pre-malignant neoplasm"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Cetuximab: predicted new indication Top-ranked prediction: chondroid hamartoma . Best-evidenced candidate… (evidence level L5). Approved use: Colorectal cancer and squamous cell carcinoma (colon, pha…"
 ---
 
@@ -157,7 +157,6 @@ Please refer to the package insert for warnings and contraindications.
 - Results of NCT01192087 and the salivary gland Phase II study, with the cystic neoplasm label narrowed to a specific tumor type
 - Package insert warnings and contraindications (a blocking data gap)
 - Mechanism-of-action data
-- Clarification of the US regulatory status, since the only BLA record is cancelled
 - Review of the Major interactions (aminolevulinic acid, thalidomide) and the platinum and fluoropyrimidine combinations for any prospective study
 ## Disclaimer
 

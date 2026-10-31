@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 871
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Lorlatinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Non-small cell lung carcinoma / lung cancer"
 monitor_inn: "LORLATINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
@@ -100,7 +100,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, gingival fibromatosis, has no clinical trials, no literature, and no plausible mechanistic link to ALK/ROS1 inhibition. The only literature found for other predictions reflects the existing NSCLC indication or other ALK-driven tumors. Lorlatinib's only US NDA is also recorded as cancelled.
+The top prediction, gingival fibromatosis, has no clinical trials, no literature, and no plausible mechanistic link to ALK/ROS1 inhibition. The only literature found for other predictions reflects the existing NSCLC indication or other ALK-driven tumors.
 
 **To proceed, the following is needed:**
 - The FDA package insert warnings and contraindications (a blocking gap for safety screening)

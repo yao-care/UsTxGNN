@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SILVER"
 predicted_indications: ["bone Paget disease"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Silver: predicted new indication Bone Paget disease (evidence level L5). Approved use: Not available"
 ---
 
@@ -38,7 +38,6 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Silver (colloidal silver) has no original approved indication on record in the data compiled for this report, and its only US license is cancelled.
 The TxGNN model predicts it may be effective for **bone Paget disease**, but there are **0 clinical trials** and no relevant therapeutic publications supporting this prediction.
 The 5 retrieved papers use silver only as a staining reagent or concern unrelated topics, so the prediction is most likely a literature co-occurrence artifact.
 
@@ -95,7 +94,7 @@ Please refer to the package insert for safety information. No warnings, contrain
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials, no mechanistic data, and the literature uses silver only as a staining reagent. The only US license is cancelled, and no safety information could be retrieved.
+The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials, no mechanistic data, and the literature uses silver only as a staining reagent.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

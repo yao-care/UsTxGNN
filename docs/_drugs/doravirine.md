@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "DORAVIRINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Doravirine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV infectious disease, AIDS"
 ---
 
@@ -99,7 +99,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score (evidence level L5), with no clinical trials and no direct literature. Known pharmacology suggests FIV and SIV are poorly susceptible to NNRTIs, so the prediction is likely a network artifact. In addition, the only US authorization is cancelled.
+The prediction is supported only by a model score (evidence level L5), with no clinical trials and no direct literature. Known pharmacology suggests FIV and SIV are poorly susceptible to NNRTIs, so the prediction is likely a network artifact.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for doravirine

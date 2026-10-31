@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "CAPMATINIB"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Capmatinib: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -104,7 +104,7 @@ Package insert warnings and contraindications are not available in the data comp
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5), with no registered trials and no disease-specific literature. The drug's only US license is cancelled. The package insert safety data and the original indication and MOA are missing, so the prediction cannot be properly assessed.
+The prediction rests on model output alone (L5), with no registered trials and no disease-specific literature. The package insert safety data and the original indication and MOA are missing, so the prediction cannot be properly assessed.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, to allow safety screening

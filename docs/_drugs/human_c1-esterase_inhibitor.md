@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "HUMAN C1-ESTERASE INHIBITOR"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "primary release disorder of platelets", "diabetic retinopathy", "pseudo-von Willebrand disease"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Human C1-Esterase Inhibitor: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not stated in the available license data"
 ---
 
@@ -118,7 +118,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-All four predictions are L5: high model scores with no clinical or literature support. The only US license is cancelled, and the label's warnings and mechanism data are missing. The platelet-related predictions in particular have no plausible mechanistic basis.
+All four predictions are L5: high model scores with no clinical or literature support. The platelet-related predictions in particular have no plausible mechanistic basis.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

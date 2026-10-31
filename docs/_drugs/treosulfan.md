@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TREOSULFAN"
 predicted_indications: ["diabetic cataract"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Treosulfan: predicted new indication Diabetic cataract (evidence level L5). Approved use: Not stated in the available license data (the drug is known as a cond…"
 ---
 
@@ -97,7 +97,7 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a high model score, with no clinical trials, no literature, and no plausible mechanistic link to diabetic cataract (Evidence Level L5). The drug's cytotoxic profile adds a strong safety concern for this chronic indication, and its only US license is cancelled.
+The prediction is supported only by a high model score, with no clinical trials, no literature, and no plausible mechanistic link to diabetic cataract (Evidence Level L5).
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

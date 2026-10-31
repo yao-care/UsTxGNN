@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "MILNACIPRAN"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "tendinitis", "papillary conjunctivitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "atrophoderma vermiculata", "cauda equina syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Milnacipran: predicted new indication Migraine disorder (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
@@ -122,7 +122,7 @@ Package insert warnings were not available for this report. Please refer to the 
 **Decision: Hold (treat as a research question)**
 
 **Rationale:**
-The prediction score is very high and the SNRI mechanism is plausible, but the clinical evidence consists of one small open-label pilot study and one small placebo-controlled trial with no available results. There are no completed Phase 2/3 efficacy trials. The only US NDA is cancelled, and the knowledge graph flags several cardiovascular contraindications that matter in a migraine population.
+The prediction score is very high and the SNRI mechanism is plausible, but the clinical evidence consists of one small open-label pilot study and one small placebo-controlled trial with no available results. There are no completed Phase 2/3 efficacy trials.
 
 **To proceed, the following is needed:**
 - Results of the completed placebo-controlled trial NCT01393522 (publication or registry results)

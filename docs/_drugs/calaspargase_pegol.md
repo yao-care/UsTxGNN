@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CALASPARGASE PEGOL"
 predicted_indications: ["insomnia (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Calaspargase Pegol: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not listed in the available regulatory data"
 ---
 
@@ -103,13 +103,12 @@ Package insert warnings and contraindications are not available in the data comp
 **Decision: Hold**
 
 **Rationale:**
-All four predictions rest on model scores alone (L5), with no trials or literature. The insomnia prediction has no plausible mechanism, and the three coagulation-related predictions point in the opposite direction from a therapeutic effect, because the drug is known to worsen these conditions. The only US license is cancelled, and the label safety data are missing.
+All four predictions rest on model scores alone (L5), with no trials or literature. The insomnia prediction has no plausible mechanism, and the three coagulation-related predictions point in the opposite direction from a therapeutic effect, because the drug is known to worsen these conditions.
 
 **To proceed, the following is needed:**
 - Obtain the FDA package insert (warnings, contraindications, and the approved indication)
 - Obtain mechanism of action data from DrugBank
 - Provide a biological rationale for any proposed new indication before further evaluation
-- Confirm the current regulatory and supply status, since the only license is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

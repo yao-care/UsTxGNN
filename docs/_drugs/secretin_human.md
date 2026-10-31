@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "SECRETIN HUMAN"
 predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Secretin Human: predicted new indication Open-angle glaucoma (evidence level L5). Approved use: Not stated in the data compiled for this report"
 ---
 
@@ -86,7 +86,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN score, with no clinical trials, no literature, and no mechanistic link in the available data. The only US license is cancelled, and label safety information is missing, so the candidate cannot move to safety screening.
+The prediction rests only on a TxGNN score, with no clinical trials, no literature, and no mechanistic link in the available data.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)

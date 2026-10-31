@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "EFLORNITHINE"
 predicted_indications: ["esotropia", "neurotrophic keratopathy"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Eflornithine: predicted new indication Esotropia (evidence level L5). Approved use: Human African trypanosomiasis (trypanosomiasis)"
 ---
 
@@ -86,7 +86,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials or publications, and no plausible mechanistic link between ODC inhibition and ocular alignment. The only US NDA is cancelled, and label safety data were not available.
+The prediction rests only on a model score, with no clinical trials or publications, and no plausible mechanistic link between ODC inhibition and ocular alignment.
 
 **To proceed, the following is needed:**
 - Retrieve the FDA package insert to obtain warnings and contraindications (this blocks safety screening)

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "URIC ACID"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "bronchitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Uric Acid: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -98,7 +98,7 @@ Please refer to the package insert for safety information. No drug interaction r
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a computational score alone. The only trial does not test uric acid, and the literature treats uric acid as a biomarker or risk factor in RA, often a pro-inflammatory one, not as a therapy. The only US authorization is cancelled and has no recorded indication.
+The prediction rests on a computational score alone. The only trial does not test uric acid, and the literature treats uric acid as a biomarker or risk factor in RA, often a pro-inflammatory one, not as a therapy.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, plus a plausible hypothesis for how administering uric acid could benefit RA

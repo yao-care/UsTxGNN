@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 892
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "MECHLORETHAMINE"
 predicted_indications: ["lymph node cancer", "relapsing-remitting multiple sclerosis", "follicular lymphoma"]
 description: "Mechlorethamine: predicted new indication Lymph node cancer (evidence level L5). Approved use: Not recorded in the local data"
@@ -113,7 +113,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The "lymph node cancer" prediction mostly restates mechlorethamine's existing lymphoma indications and is not a true repurposing. The supporting literature is mostly old combination-regimen studies, no clinical trials are registered, and the only US license is cancelled. MOPP has been superseded by newer regimens, which limits current clinical value. The multiple sclerosis (L5) and follicular lymphoma (L4) predictions are weaker still.
+The "lymph node cancer" prediction mostly restates mechlorethamine's existing lymphoma indications and is not a true repurposing. MOPP has been superseded by newer regimens, which limits current clinical value. The multiple sclerosis (L5) and follicular lymphoma (L4) predictions are weaker still.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

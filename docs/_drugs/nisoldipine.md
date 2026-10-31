@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 968
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Nisoldipine: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L4). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "NISOLDIPINE"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Hypoxic pulmonary vasoconstriction depends partly on calcium influx through L-type channels and on calcium release from intracellular stores in pulmonary arterial smooth muscle. This gives a plausible link between calcium channel blockade and the predicted indication. Older animal work, such as a 1985 canine study comparing nisoldipine, nifedipine and bepridil in experimental pulmonary hypertension, is consistent with this idea.
 
-There is an important caution. Calcium channel blockers are generally not recommended for pulmonary hypertension associated with lung disease or hypoxia, because they may worsen ventilation/perfusion mismatch and cause systemic hypotension. The high TxGNN score therefore should not be read as clinical support.
+There is an important caution. The high TxGNN score therefore should not be read as clinical support.
 
 Other predictions in the list are weaker:
 - Pulmonary hypertension with unclear multifactorial mechanism: computational prediction only (L5).
@@ -111,7 +111,7 @@ For the lower-ranked prediction of malignant renovascular hypertension, the only
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic link is plausible, but the evidence is limited to old preclinical studies (L4) with no registered clinical trials. Calcium channel blockers are generally not recommended in hypoxia-related pulmonary hypertension, and the only US authorization is cancelled. The other four predictions rest on computational scores alone or on non-specific references.
+The mechanistic link is plausible, but the evidence is limited to old preclinical studies (L4) with no registered clinical trials. The other four predictions rest on computational scores alone or on non-specific references.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which are currently missing and block safety screening

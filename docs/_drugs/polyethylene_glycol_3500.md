@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "POLYETHYLENE GLYCOL 3500"
 predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Polyethylene Glycol 3500: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -93,7 +93,7 @@ No drug interaction records were found. Please refer to the package insert for o
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials or publications, the mechanism is unknown, oral PEG 3500 is minimally absorbed, and the only US license is cancelled. Effective ichthyosis treatments already exist.
+The prediction rests only on a model score. Effective ichthyosis treatments already exist.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for PEG 3500 and a plausible biological link to ichthyosis

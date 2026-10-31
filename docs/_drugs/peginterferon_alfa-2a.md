@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1021
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "PEGINTERFERON ALFA-2A"
 predicted_indications: ["hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "heart conduction disease", "heart neoplasm", "heart valve disease", "congenital anomaly of ventricular septum"]
 description: "Peginterferon Alfa-2A: predicted new indication Hepatitis E virus infection (evidence level L1). Approved use: Not recorded in the local data"
@@ -112,10 +112,9 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Peginterferon alfa-2a is an established therapy for chronic hepatitis B, with supporting RCTs, meta-analyses, and many Phase 3/4 trials. The guardrail is that the only US license is cancelled, and label-based safety data have not yet been reviewed.
+Peginterferon alfa-2a is an established therapy for chronic hepatitis B, with supporting RCTs, meta-analyses, and many Phase 3/4 trials.
 
 **To proceed, the following is needed:**
-- Confirm product availability and current regulatory status, since the only US license is cancelled
 - Obtain and review the package insert for warnings and contraindications (a blocking gap for safety screening)
 - Obtain detailed mechanism of action data
 - Create an interaction management plan for the major interactions listed above

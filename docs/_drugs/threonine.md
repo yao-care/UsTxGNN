@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "THREONINE"
 predicted_indications: ["gastroparesis (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Threonine: predicted new indication Gastroparesis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -91,7 +91,6 @@ The prediction rests only on a model score. This evidence is at L5, the lowest l
 - Package insert warnings and contraindications, which are currently missing and block safety screening
 - Mechanism of action data (for example, from DrugBank), to test a link between threonine and gastric motility or mucosal function
 - A literature and trial search specific to threonine and gastroparesis, including preclinical studies
-- Route and formulation compatibility assessment, since only one cancelled liquid product exists
 - A review of the knowledge-graph contraindication signals (phenylketonuria and phenylalanine metabolism disorders) for any target population
 ## Disclaimer
 

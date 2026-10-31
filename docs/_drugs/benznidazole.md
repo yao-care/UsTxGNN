@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "BENZNIDAZOLE"
 predicted_indications: ["congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Benznidazole: predicted new indication Congenital analbuminemia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -92,7 +92,7 @@ Benznidazole is not classified as an antineoplastic drug, so no cytotoxicity ass
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model (deep learning) score (Evidence Level L5). There are no clinical trials or publications, and no plausible mechanistic link to congenital analbuminemia. The only US license is cancelled, so the practical path to development is also unclear.
+The prediction rests only on a TxGNN model (deep learning) score (Evidence Level L5). There are no clinical trials or publications, and no plausible mechanistic link to congenital analbuminemia.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

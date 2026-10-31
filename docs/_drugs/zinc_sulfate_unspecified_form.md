@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ZINC SULFATE, UNSPECIFIED FORM"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "bronchitis", "diabetic cataract", "dermatitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Zinc Sulfate Unspecified Form: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not stated in the available data"
 ---
 
@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Zinc sulfate is an injectable zinc product. The US approval record compiled for this report does not state an approved indication, and the only authorization on file is cancelled.
+Zinc sulfate is an injectable zinc product.
 The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**.
 Currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
@@ -94,7 +94,7 @@ Please refer to the package insert for safety information. No warnings, contrain
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score (0.9984) but no clinical trials or publications behind it, so the evidence level is L5. The only US authorization is cancelled, and safety information and mechanism of action are both missing.
+The prediction has a high model score (0.9984) but no clinical trials or publications behind it, so the evidence level is L5.
 
 **To proceed, the following is needed:**
 - A systematic literature and trial registry search for zinc in diabetic retinopathy and the other predicted indications

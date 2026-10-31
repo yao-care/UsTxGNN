@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "DEANOL"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Deanol: predicted new indication insomnia (evidence level L5). Approved use: Not recorded"
 ---
 
@@ -38,7 +38,6 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Deanol (DMAE) has no recorded approved indication in the data compiled for this report, and its only US listing is a cancelled product.
 The TxGNN model predicts it may be effective for **insomnia**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
 The prediction is a computational hypothesis only.
 

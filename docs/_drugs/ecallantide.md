@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 6
 monitor_inn: "ECALLANTIDE"
 predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "Peyronie disease", "pancreatitis", "esophageal varices without bleeding", "esophageal varices with bleeding"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Ecallantide: predicted new indication C1 inhibitor deficiency (evidence level L1). Approved use: Hereditary angioedema"
 ---
 
@@ -113,7 +113,6 @@ Two randomized, double-blind, placebo-controlled Phase 3 trials (EDEMA4 and NCT0
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (not yet obtained; this is a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
-- Confirmation of current US availability, since the only license (BLA125277) is cancelled
 - Controlled data in acquired C1-INH deficiency beyond the published case series
 - An anaphylaxis risk management plan, including administration under healthcare professional supervision
 

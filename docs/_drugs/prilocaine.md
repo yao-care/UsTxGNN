@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PRILOCAINE"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Prilocaine: predicted new indication Papillary conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -121,7 +121,7 @@ Of the 14 publications listed in the data, 10 are shown here. The 4 omitted are 
 **Decision: Hold**
 
 **Rationale:**
-Neuralgia is the best-supported prediction (L3), but the evidence consists of small, early, uncontrolled studies of the lidocaine/prilocaine combination, and the open trial only tested pre-treatment tolerability. The only US authorization is cancelled, and no mechanism or label safety data were available. The other nine predictions have either no evidence (L5) or only indirect or safety-oriented evidence (L4).
+Neuralgia is the best-supported prediction (L3), but the evidence consists of small, early, uncontrolled studies of the lidocaine/prilocaine combination, and the open trial only tested pre-treatment tolerability. The other nine predictions have either no evidence (L5) or only indirect or safety-oriented evidence (L4).
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

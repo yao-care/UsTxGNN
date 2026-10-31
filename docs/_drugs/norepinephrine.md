@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "NOREPINEPHRINE"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Norepinephrine: predicted new indication Obstructive lung disease (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **obstructive lung disease**, b
 
 Detailed mechanism of action data is not available. Norepinephrine is known as an adrenergic agonist with predominantly alpha-1 activity. Its original indications (asthma, bronchitis, emphysema, bronchiectasis) are themselves obstructive airway diseases, so the prediction largely restates the historical label rather than offering new repurposing insight.
 
-The literature does discuss adrenergic signalling and airway innervation in asthma and COPD, and neuroimmune mechanisms are plausible (PMID 29696025, 21271508, 41601146). However, systemic norepinephrine is a potent vasopressor and not a practical bronchodilator. The high TxGNN score is a computational prediction only and is not supported by clinical evidence for this use.
+The literature does discuss adrenergic signalling and airway innervation in asthma and COPD, and neuroimmune mechanisms are plausible (PMID 29696025, 21271508, 41601146). However, systemic norepinephrine is a potent vasopressor and not a practical bronchodilator.
 
 The other two predictions are weaker still. "Respiratory malformation" (score 0.9984) is supported only by preclinical work on noradrenergic control of breathing and by prenatal-exposure safety papers, which are not treatment evidence. "Rienhoff syndrome" (score 0.9983) has no trials and no literature, so no mechanistic link can be established.
 
@@ -102,7 +102,7 @@ Please refer to the package insert for key warnings and the full contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The only clinical trial found is a Phase 1 hypertension study unrelated to this indication, and the literature consists of background reviews and physiology papers. The high TxGNN score is a computational prediction, the mechanistic overlap mostly restates the old label, and the only US product record is cancelled. Systemic norepinephrine is a vasopressor rather than a practical bronchodilator, and the knowledge-graph contraindications include hypertension and thrombotic disease.
+The only clinical trial found is a Phase 1 hypertension study unrelated to this indication, and the literature consists of background reviews and physiology papers. Systemic norepinephrine is a vasopressor rather than a practical bronchodilator, and the knowledge-graph contraindications include hypertension and thrombotic disease.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "POLYVINYL ALCOHOL"
 predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis", "bathing suit ichthyosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Polyvinyl Alcohol: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -101,7 +101,7 @@ The knowledge graph links the drug to the following conditions as contraindicati
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials or publications. The mechanistic link is speculative and symptomatic at best, and the only US authorization is cancelled.
+The prediction rests only on a model score, with no clinical trials or publications.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

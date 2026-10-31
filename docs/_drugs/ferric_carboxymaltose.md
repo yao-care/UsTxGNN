@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FERRIC CARBOXYMALTOSE"
 predicted_indications: ["bronchitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Ferric Carboxymaltose: predicted new indication Bronchitis (evidence level L5). Approved use: Iron deficiency and iron deficiency anemia"
 ---
 
@@ -89,7 +89,7 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials, no literature, and no established mechanistic link to bronchitis. The only US license is cancelled, and the possible infection-related concerns with intravenous iron argue against assuming a benefit.
+The prediction rests only on a model score, with no clinical trials, no literature, and no established mechanistic link to bronchitis.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, and a plausible biological rationale linking iron replacement to bronchitis

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 797
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "INSULIN DEGLUDEC"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome"]
 description: "Insulin Degludec: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Not recorded in the local data"
@@ -135,7 +135,7 @@ Five further predictions have no clinical trials or literature (evidence level L
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple completed Phase 3 trials, randomised controlled trials and meta-analyses support insulin degludec in type 1 diabetes. This is an on-label use rather than true repurposing, but the only US licence is listed as cancelled.
+Multiple completed Phase 3 trials, randomised controlled trials and meta-analyses support insulin degludec in type 1 diabetes.
 
 **To proceed, the following is needed:**
 - Confirmation of the availability and regulatory status of the specific product or formulation in the US

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PHENAZOPYRIDINE"
 predicted_indications: ["bronchitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Phenazopyridine: predicted new indication Bronchitis (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -98,7 +98,7 @@ Package insert warnings and contraindications were not available, so please refe
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials, no literature, and no documented mechanism linking the drug to bronchitis. The only US license on record is cancelled, and no label safety data were available.
+The prediction rests only on a model score, with no clinical trials, no literature, and no documented mechanism linking the drug to bronchitis.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the FDA, which is a blocking gap for safety screening

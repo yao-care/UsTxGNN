@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Galcanezumab"
 predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Galcanezumab: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Migraine disorder (migraine with or without aura)"
 ---
 
@@ -92,7 +92,7 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score (L5), with no trials, no literature, and no plausible mechanistic link between CGRP neutralization and the coagulation pathways involved. The only US license listed is cancelled, and safety data are missing.
+The prediction is supported only by a model score (L5), with no trials, no literature, and no plausible mechanistic link between CGRP neutralization and the coagulation pathways involved.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for galcanezumab, followed by a reassessment of any link to SERPIND1-related thrombin inhibition

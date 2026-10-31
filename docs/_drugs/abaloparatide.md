@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "ABALOPARATIDE"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "amenorrhea (disease)", "esophageal ulcer"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Abaloparatide: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Postmenopausal osteoporosis at high risk for fracture"
 ---
 
@@ -95,7 +95,7 @@ Please refer to the package insert for warnings and contraindications. The knowl
 **Decision: Hold**
 
 **Rationale:**
-All four predictions rest on model scores alone, with no trials or literature and no plausible biological link between PTH1R agonism and the predicted conditions. The only US license is cancelled, and warnings and contraindications are not available.
+All four predictions rest on model scores alone, with no trials or literature and no plausible biological link between PTH1R agonism and the predicted conditions.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking for safety screening)

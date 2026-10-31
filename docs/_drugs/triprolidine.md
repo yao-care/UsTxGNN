@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1266
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "TRIPROLIDINE"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
 description: "Triprolidine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -102,7 +102,7 @@ The official package insert warnings and contraindications were not available. P
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but the evidence is indirect. There are no triprolidine-specific trials, and the only literature concerns related drugs or is a historical study. Allergic urticaria also largely overlaps with the drug's existing indications, so there is little true repurposing value. The only US license is cancelled, and the label safety data needed for screening are missing.
+The prediction score is high, but the evidence is indirect. There are no triprolidine-specific trials, and the only literature concerns related drugs or is a historical study. Allergic urticaria also largely overlaps with the drug's existing indications, so there is little true repurposing value.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

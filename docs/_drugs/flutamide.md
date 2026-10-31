@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 729
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "FLUTAMIDE"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 description: "Flutamide: predicted new indication Fibroma of prostate (evidence level L5). Approved use: Not recorded in the local data"
@@ -102,14 +102,13 @@ Please refer to the package insert for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The predicted entry is a genetic susceptibility label with no supporting trials or literature (L5, model prediction only). The high score appears to reflect flutamide's existing prostate cancer association. In addition, the only US license on record is cancelled.
+The predicted entry is a genetic susceptibility label with no supporting trials or literature (L5, model prediction only). The high score appears to reflect flutamide's existing prostate cancer association.
 
 **To proceed, the following is needed:**
 - A clearer, treatable disease definition in place of the susceptibility label
 - Direct clinical or preclinical evidence for the predicted indication
 - Mechanism of action data (MOA)
 - The full package insert warnings and contraindications, especially hepatotoxicity
-- Re-verification of US regulatory status, since only a cancelled license is on record
 - Consideration of the better-supported alternative predictions (male reproductive organ cancer, benign reproductive system neoplasm) as separate evaluations
 ## Disclaimer
 

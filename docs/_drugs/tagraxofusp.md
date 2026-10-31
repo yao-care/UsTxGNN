@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TAGRAXOFUSP"
 predicted_indications: ["esotropia", "pre-malignant neoplasm", "inner ear neoplasm", "benign neoplasm of tongue", "bronchial adenomas/carcinoids childhood", "chondroid hamartoma", "non-seminomatous lesion", "ductal or ductular proliferation", "cystic neoplasm", "thyroglossal duct cyst"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Tagraxofusp: predicted new indication Esotropia (evidence level L5). Approved use: CD4+/CD56+ hematodermic neoplasm"
 ---
 
@@ -99,7 +99,7 @@ For full warnings and contraindications, please refer to the package insert, as 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials, no publications, and no plausible mechanistic link between a CD123-directed cytotoxin and esotropia. The drug's systemic toxicity makes the risk-benefit balance unfavorable for a non-malignant condition. In addition, the only US license is cancelled.
+The prediction rests only on a model score. There are no clinical trials, no publications, and no plausible mechanistic link between a CD123-directed cytotoxin and esotropia. The drug's systemic toxicity makes the risk-benefit balance unfavorable for a non-malignant condition.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

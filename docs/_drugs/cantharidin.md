@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CANTHARIDIN"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Cantharidin: predicted new indication Amenorrhea (evidence level L5). Approved use: No approved indication text is recorded in the license data"
 ---
 
@@ -86,7 +86,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has only a model score behind it: no clinical trials, no literature, and no plausible mechanistic link between a topical PP2A-inhibiting vesicant and amenorrhea. Systemic toxicity further weakens any case for use. The only US license on record is cancelled.
+The prediction has only a model score behind it: no clinical trials, no literature, and no plausible mechanistic link between a topical PP2A-inhibiting vesicant and amenorrhea. Systemic toxicity further weakens any case for use.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (FDA label) for safety screening

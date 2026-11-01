@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 4 articles, 2 related drugs."
+description: "Health news about flu (influenza). 5 articles, 2 related drugs."
 permalink: /news/influenza/
 last_modified_at: 2026-11-01
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>5 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,37 +31,45 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
-### [Child dies of flu-related illness in San Bernardino County](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUVxOXlZZFI0UDd3R0dHd0tmYVl5UlkzOE5fVlR1TzZ6NEdQQ0VoS3ZDMlVISlNfYjRSdjBQdVlzZFFSODA3bUJwbWYyREdOMXZUNUhJZG1IcHNKcVo5amZFQ3pVLUJGTndZUFJSUG1ERWdZNmhzdGxVZC1BUDJnRmdvNGhTdWthWEwzQm9YUnFhWWt5RmVuVkVhNNIBoAFBVV95cUxNRndsRTlTVHkwS1I5Qkd2b2d6OENIRjJOOVVyT1l3X2VOckxkbm0wYTRnaFN0Q1VaTVR2X2lkNmVkb2JrSnUwYm1hRGxLYUg4TFE3bm4wTnZ6ZzdndFFqZjI4ZS1VdDVMNUtNN2pJR0R0TEIwYzgyUkExNDZLLUpRWHA2RFZ5VWNqZ09qMjNzTW5HbkRmYVdDN2k3NHA3c2c5?oc=5)
+### [What happened to Khiana Smith in Bali? - Attack of the Fanboy](https://news.google.com/rss/articles/CBMiggJBVV95cUxQVTEyV1JKald3bnZmcXlWcUJrQVlWUHR1Vl9wNk9vbTl6TmY5SENOMmo0OVRRVXNDUFBrUlVEQnI2cUVUN3NLR1FOeVNRYmRkdWdadXZGME93SFJqV2o4dVhnVmR0QkNiRkxOYTBNLUhfSWF0NGxRN1J5VHFzbWxQMG1VeU1XOGRicWJnMl9TUkVGNEE3LW5jTmZjbjktc2VzSHQxQm43RjRlUlRpby1vN2VVV2ktSHBBRzA5V0tNbjFORUdrcDV6ZVRoWFRMMkk0V01tQzlaa3RqeFNYMnpKT2o3dHNBR25SQlZwMDlPdjJmTzhISE94dGZCQWk2bWpyMHc?oc=5)
 
-2026-10-31
+2026-11-01
 
-Source: [KTLA](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUVxOXlZZFI0UDd3R0dHd0tmYVl5UlkzOE5fVlR1TzZ6NEdQQ0VoS3ZDMlVISlNfYjRSdjBQdVlzZFFSODA3bUJwbWYyREdOMXZUNUhJZG1IcHNKcVo5amZFQ3pVLUJGTndZUFJSUG1ERWdZNmhzdGxVZC1BUDJnRmdvNGhTdWthWEwzQm9YUnFhWWt5RmVuVkVhNNIBoAFBVV95cUxNRndsRTlTVHkwS1I5Qkd2b2d6OENIRjJOOVVyT1l3X2VOckxkbm0wYTRnaFN0Q1VaTVR2X2lkNmVkb2JrSnUwYm1hRGxLYUg4TFE3bm4wTnZ6ZzdndFFqZjI4ZS1VdDVMNUtNN2pJR0R0TEIwYzgyUkExNDZLLUpRWHA2RFZ5VWNqZ09qMjNzTW5HbkRmYVdDN2k3NHA3c2c5?oc=5)
+Source: [Attack of the Fanboy](https://news.google.com/rss/articles/CBMiggJBVV95cUxQVTEyV1JKald3bnZmcXlWcUJrQVlWUHR1Vl9wNk9vbTl6TmY5SENOMmo0OVRRVXNDUFBrUlVEQnI2cUVUN3NLR1FOeVNRYmRkdWdadXZGME93SFJqV2o4dVhnVmR0QkNiRkxOYTBNLUhfSWF0NGxRN1J5VHFzbWxQMG1VeU1XOGRicWJnMl9TUkVGNEE3LW5jTmZjbjktc2VzSHQxQm43RjRlUlRpby1vN2VVV2ktSHBBRzA5V0tNbjFORUdrcDV6ZVRoWFRMMkk0V01tQzlaa3RqeFNYMnpKT2o3dHNBR25SQlZwMDlPdjJmTzhISE94dGZCQWk2bWpyMHc?oc=5)
 
 ---
 
-### [Data Shows These 2 Fall Viruses Are Elevated Right Now. Here's What Doctors Say You Can Do To Stay Healthy.](https://news.google.com/rss/articles/CBMieEFVX3lxTE1seWJoeVZZNlQ4RXpjZnA2bU5EUXZMNGJjT0kzRG1BVDVJMUo5MWNWS2c2d3dFVktJVGM2c2hzQmZTVTVMM1U5aUJSUGNBc3RVbUJiX1gwTlAtUDNDdkhfYlZsOGtXRGxXTjc4OG1DLXZVeTA5Y21JMA?oc=5)
+### [Scientists say a forgotten particle may explain why the universe exists - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5FU0s5aXBJanNtdGR3anRfOWJlS2VjSk1ZZ1BhOEhOYm42SlpSd1FCSVBtMlRycXlvcEZTZExNLTdaQnYzN21UVjM3TlJYWmRibWtiSkJNV1lFUjNEZlNiVC1CR2VHc0U1TVJHTVRtUQ?oc=5)
+
+2026-11-01
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5FU0s5aXBJanNtdGR3anRfOWJlS2VjSk1ZZ1BhOEhOYm42SlpSd1FCSVBtMlRycXlvcEZTZExNLTdaQnYzN21UVjM3TlJYWmRibWtiSkJNV1lFUjNEZlNiVC1CR2VHc0U1TVJHTVRtUQ?oc=5)
+
+---
+
+### [Bird flu detected at Colorado dairy for first time since 2024 outbreak](https://news.google.com/rss/articles/CBMi5wFBVV95cUxObU9wTU42czlsUERUTnh5ZWNpeG5QT3I2WFlJVnhOdUNnQW9qVGIwV19JN3lVLXVvSTF3YzlQM3NSWF9mWTFSOXpkMjBzT0VINmVHakhsOGs1WTA5akRRUTFnUjZGdG4yWlRNb2xSOFozS3Zlc003bUdUOWt6MHhUZDRHZ25WZ3NtQUpwdUk3dlVPaC0tWlhFSks4OV9qWElyaGFGamIxU0lXb2VEV2l5S1padVFZTGNucHR4dno1VVVWa1dWMUh3Y1NxZ3ZabEJMX3UwZ01CMlN0cEktdGFPS2tleG1WUG8?oc=5)
 
 2026-10-30
 
-Source: [AOL.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE1seWJoeVZZNlQ4RXpjZnA2bU5EUXZMNGJjT0kzRG1BVDVJMUo5MWNWS2c2d3dFVktJVGM2c2hzQmZTVTVMM1U5aUJSUGNBc3RVbUJiX1gwTlAtUDNDdkhfYlZsOGtXRGxXTjc4OG1DLXZVeTA5Y21JMA?oc=5)
+Source: [9News](https://news.google.com/rss/articles/CBMi5wFBVV95cUxObU9wTU42czlsUERUTnh5ZWNpeG5QT3I2WFlJVnhOdUNnQW9qVGIwV19JN3lVLXVvSTF3YzlQM3NSWF9mWTFSOXpkMjBzT0VINmVHakhsOGs1WTA5akRRUTFnUjZGdG4yWlRNb2xSOFozS3Zlc003bUdUOWt6MHhUZDRHZ25WZ3NtQUpwdUk3dlVPaC0tWlhFSks4OV9qWElyaGFGamIxU0lXb2VEV2l5S1padVFZTGNucHR4dno1VVVWa1dWMUh3Y1NxZ3ZabEJMX3UwZ01CMlN0cEktdGFPS2tleG1WUG8?oc=5)
 
 ---
 
-### [Flu’s Back Way Sooner Than Normal. Here’s What to Know.](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXF5ak5GeXM1cThMV01VcW9xMTF0WHVCeWZHNHJXczl0aUlQSzdNb19IMEFzMkFoVWtYdnNUQVBQQXQzbnlWNUxCamF3UGZSWC1UU05qNXpYZGRIdUlHS2t5b0FxZzRYeEpFTTdFcmNhUHgyLThFc1d3ZG1TQ3VIaVlnV3NYNzg2dkVMTm1QOHQ?oc=5)
+### [Nearly 50 people have died across the US in recent days from flu as cases spike nationwide - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkl0eTNhalNIMlNwSWZCRUF1ZzktbHhUa1ZiNE51WG1LVUEwSXdROTVFNzVGSzgwYldfNDZKS3pNNFBuNXVneXpMcF8yUHBVZFB1bXp6Q0RpVkd4OGcteDRPYTlCZTQwVFFuTWx2WjV1WDB6WERTbDdzSEVnYVJDTGdORWMzdWdGTUJHanpRQWlPUXNlaHNlVjhLSm5QZnYzOVl6RA?oc=5)
 
 2026-10-30
 
-Source: [WSJ](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXF5ak5GeXM1cThMV01VcW9xMTF0WHVCeWZHNHJXczl0aUlQSzdNb19IMEFzMkFoVWtYdnNUQVBQQXQzbnlWNUxCamF3UGZSWC1UU05qNXpYZGRIdUlHS2t5b0FxZzRYeEpFTTdFcmNhUHgyLThFc1d3ZG1TQ3VIaVlnV3NYNzg2dkVMTm1QOHQ?oc=5)
+Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkl0eTNhalNIMlNwSWZCRUF1ZzktbHhUa1ZiNE51WG1LVUEwSXdROTVFNzVGSzgwYldfNDZKS3pNNFBuNXVneXpMcF8yUHBVZFB1bXp6Q0RpVkd4OGcteDRPYTlCZTQwVFFuTWx2WjV1WDB6WERTbDdzSEVnYVJDTGdORWMzdWdGTUJHanpRQWlPUXNlaHNlVjhLSm5QZnYzOVl6RA?oc=5)
 
 ---
 
-### [Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.](https://news.google.com/rss/articles/CBMidkFVX3lxTE9zNElkN0NkWXJ6ZTZOMVZRVVFoSGFqeFNzRGl6MXpadHdpbzkyWXB4dVJ0ZmlMeGpTbjVRdFVDZERVWS1zZ2F4OUhlTUFpb2pEd0paTWdzdHR5TkVEcndOMTVFNG14cFYzWVNxUS1WczhPb3B6OWc?oc=5)
+### [Weekly US Influenza Surveillance Report: Key Updates for Week 42, ending October 24, 2026 | FluView - Centers for Disease Control and Prevention | CDC (.gov)](https://news.google.com/rss/articles/CBMiakFVX3lxTE0wd0N4UHh1eEZpSE0tNDVSdEdGbXRYaEppc1pSUWZCeWpPQUlMMnl6SnpBLXg1QmRGTmlsOEIyN2t4aU14V0FLX2R4R2VxaXpTYnNTZlFCeDlkc3ZFWkV6STdqM01FT1AyTnc?oc=5)
 
-2026-10-26
+2026-10-30
 
-Source: [CNN](https://news.google.com/rss/articles/CBMidkFVX3lxTE9zNElkN0NkWXJ6ZTZOMVZRVVFoSGFqeFNzRGl6MXpadHdpbzkyWXB4dVJ0ZmlMeGpTbjVRdFVDZERVWS1zZ2F4OUhlTUFpb2pEd0paTWdzdHR5TkVEcndOMTVFNG14cFYzWVNxUS1WczhPb3B6OWc?oc=5)
+Source: [Centers for Disease Control and Prevention | CDC (.gov)](https://news.google.com/rss/articles/CBMiakFVX3lxTE0wd0N4UHh1eEZpSE0tNDVSdEdGbXRYaEppc1pSUWZCeWpPQUlMMnl6SnpBLXg1QmRGTmlsOEIyN2t4aU14V0FLX2R4R2VxaXpTYnNTZlFCeDlkc3ZFWkV6STdqM01FT1AyTnc?oc=5)
 
 ---
 

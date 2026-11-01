@@ -32,6 +32,22 @@ This page brings together the latest health news about “cancer” and lists th
 
 ## Related News (11)
 
+### [Can odors from our bodies signal Alzheimer’s, cancer and other diseases? - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1FWV0xBZWNVUmdsckVicHNObWVSOUt3bXBoSlFRVVozZlV6cml6Y3hGSGhhYlVuUjNJM2QyOFM2STVqMnB6UGtzUko5bVM1c01Mb3pCY2tNZFV6T1FvdTB3ajdvQ0g1dzQ5ZGpxamhnOGNlMzF0UjNyZnJGTmhsVGFNYmNfRXgyOGpOU2tNZXVXVHByRm1nbWVGSnM4bEVwU2xqeWg4WmRUZDZnQlE?oc=5)
+
+2026-11-01
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1FWV0xBZWNVUmdsckVicHNObWVSOUt3bXBoSlFRVVozZlV6cml6Y3hGSGhhYlVuUjNJM2QyOFM2STVqMnB6UGtzUko5bVM1c01Mb3pCY2tNZFV6T1FvdTB3ajdvQ0g1dzQ5ZGpxamhnOGNlMzF0UjNyZnJGTmhsVGFNYmNfRXgyOGpOU2tNZXVXVHByRm1nbWVGSnM4bEVwU2xqeWg4WmRUZDZnQlE?oc=5)
+
+---
+
+### [Clues emerge on why colon cancer may be harder to treat in young people - The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUVzclJHUHdVdE8yYk9WYXJtR0J0ZXYzRDNIWjZWUmN2MnhWRmNPOUxsNy1JT1hra2NfZTR5VjVOSG9hcG1CUVc3X183WEpSZjBsVUdpNmQta0RZOGFGbGZKOWJ0bHo0OGt6cEhNbWo2eVhNNS1BVUdUZVRKY0o1UUJkckdDS2RlNFQySmdHWVBUMVB3VWVHbzY2RWE3RnJoZUp6SW1Sdko5MmlqM194V0l3?oc=5)
+
+2026-11-01
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUVzclJHUHdVdE8yYk9WYXJtR0J0ZXYzRDNIWjZWUmN2MnhWRmNPOUxsNy1JT1hra2NfZTR5VjVOSG9hcG1CUVc3X183WEpSZjBsVUdpNmQta0RZOGFGbGZKOWJ0bHo0OGt6cEhNbWo2eVhNNS1BVUdUZVRKY0o1UUJkckdDS2RlNFQySmdHWVBUMVB3VWVHbzY2RWE3RnJoZUp6SW1Sdko5MmlqM194V0l3?oc=5)
+
+---
+
 ### [The link between alcohol and breast cancer risk is strong. Here’s what to know. - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxORW4xZXF3SjdPZDZLNzZUN25yaFltR3JrTkxvUXRZWjZRT0pWY1VmOHpZTjF2X2tkQjk2cEoyM2hTb1FJUk9tQTY4UTh4X19IZ1pOWVJHYUplZVJqeHFjaFZka2tGekM5cVNlclNkWEdMWVNfM3RqVGk0TGdmQnNTenYyeUZYd0cyVU1OWFZrOEExdm5YaGJQRkxXS0IweG1aX0VKTHhlVnRxM3pWSGE5SE14Zw?oc=5)
 
 2026-10-31
@@ -45,14 +61,6 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95c
 2026-10-31
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWkNOSEFVamExaUcxbUltUTZfWmRxUFJKZTJ6emtES3BncWE0VEdUZy02d0U0QnF2R2M3dDVOQWRQWk8yV1Jva283b0xoZjRRNkl6enFqZmRud1Y3SWc2X25fUjlLdk4zYUVnZVI3blE4UFlLUlU0NEFqSFZUclp6NW9EMk8yS1hfdXhhSGg4bEVibWIyUUppandyaHBCV1d1UmtVUDBXRQ?oc=5)
-
----
-
-### [Boston researchers discover differences in colon cancer tumor cells in younger patients - KSL News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHQ1YkhIeDdZOUNvUkNEQWFfX3RQSnpEbFlkdUVmSUFjRDRKbTQzbEF6RkJNV1dKYnFhV0NESXFEOC1qUlR3dE1mTUlNXzR1UHk1QlhuNHpGMTFxcTRDc1ZiOHpocVB0VWc0UGk1ckZfZzdwSGRjcF9vYkZkS0RySlZvdmdpNTBQOUdZelp6NUtSNi1ORVIwZlVPcWdleGpmckJhU1h5UkVrdDJPVGhyNWtMOTF6alRfSkpDNFJqZVplQQ?oc=5)
-
-2026-10-30
-
-Source: [KSL News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHQ1YkhIeDdZOUNvUkNEQWFfX3RQSnpEbFlkdUVmSUFjRDRKbTQzbEF6RkJNV1dKYnFhV0NESXFEOC1qUlR3dE1mTUlNXzR1UHk1QlhuNHpGMTFxcTRDc1ZiOHpocVB0VWc0UGk1ckZfZzdwSGRjcF9vYkZkS0RySlZvdmdpNTBQOUdZelp6NUtSNi1ORVIwZlVPcWdleGpmckJhU1h5UkVrdDJPVGhyNWtMOTF6alRfSkpDNFJqZVplQQ?oc=5)
 
 ---
 
@@ -72,11 +80,11 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxOWE80
 
 ---
 
-### [Doctor Shares 3 Lifestyle Habits to Reduce Breast Cancer Risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
+### [My husband has Alzheimer's, and I have cancer. We spent $500 a month on Uber rides until we found a $3 alternative. - Business Insider](https://news.google.com/rss/articles/CBMimAFBVV95cUxPTEFUa1g5YTZDYXF6MC1OQ0lsb2FLalNqNXZhV3hTRC1VSXptVnZBZ0hnengyRGJpSUptU1YtWXhJS0o4VjFKT2VJdEdtWXFXZHJ2eUdaWDFJQXVzNTFWelVsYWttV0JjMlRocTVaZnVtMXFVVWdZYWQtcmsyOUQ1c050ZTc2bkt4OThtMkhEeVZhTU1aQW9pVw?oc=5)
 
 2026-10-30
 
-Source: [TODAY.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
+Source: [Business Insider](https://news.google.com/rss/articles/CBMimAFBVV95cUxPTEFUa1g5YTZDYXF6MC1OQ0lsb2FLalNqNXZhV3hTRC1VSXptVnZBZ0hnengyRGJpSUptU1YtWXhJS0o4VjFKT2VJdEdtWXFXZHJ2eUdaWDFJQXVzNTFWelVsYWttV0JjMlRocTVaZnVtMXFVVWdZYWQtcmsyOUQ1c050ZTc2bkt4OThtMkhEeVZhTU1aQW9pVw?oc=5)
 
 ---
 
@@ -93,14 +101,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3
 2026-10-29
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlQ0VjR5UFE5X2Flb1VMUklnaHdrWmtqZ185QmpqQ0I5WjNxWi16eWZnYjhXVjAzTEZWRW1YWFZJVjg0MGRQc0Ffd0ZoNHdSa2tBV2p1T2FwbTZrQVh4OHhRcDBrN1ZFUnJscGlvNkUxNENTcnVhT2JtbnVDdGdPQWNKLUpvSGljRmtxekJ5a0lJVVc2R2pSZUlpT09OcWVldDBV?oc=5)
-
----
-
-### [Dear Doctor: If I'm too old for a colonoscopy, why was I given a colon cancer screening test?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWt4bzQ3UGpVaGx5cmtqYXJndlZGQXZ2b1VfeDR3cFA5YnR0aWxpeXpONmE4QTVfOWxINmpkQmwyUFRib1o2UUZUdnpGUXFFUmJJRGlfdF9meDZKMlVrSzd1SW03dGVEQ19na1NnSng3aXpDaUpCZG1qTHNiMG1WSWlmSk1lZjVOVEpPS2NtbW9zU2FreFptNUhKb2w4aFdMX2NLRUdnc0ZNUjJfR29RZW9rLXhHRlhIQWI1RVBHRXJRcF9pVHRXcVZPZVF1T19Ud0HSAeYBQVVfeXFMTkxoclQyNFBlMC1LamNtSEhjUWl4NFNHM2pvcncxanY2d3UwcWM1X1R0ZV9UU3l3NEpvSVpZdk9SVFphS3NYOXpsSDNWbXhDX29FU3ctWjFuRnRHc0tLcmdsU01xSnpSWERwREN2QjAwYnJNS3pFajFWSUIxaGJkRVNpWnFBSHlkUFhVb250dE9ibFVjM2htSnZkNXlvOWdYMTZzZ0drcmhYb0kzeEktSTJ2TFg0VzVSOVE5N0t0NjFLSDBMN3ZYSXp6Rmo0UkwyYVN0YlZUckJWWDNpSWdEbXVCMGxYbnc?oc=5)
-
-2026-10-29
-
-Source: [OregonLive.com](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWt4bzQ3UGpVaGx5cmtqYXJndlZGQXZ2b1VfeDR3cFA5YnR0aWxpeXpONmE4QTVfOWxINmpkQmwyUFRib1o2UUZUdnpGUXFFUmJJRGlfdF9meDZKMlVrSzd1SW03dGVEQ19na1NnSng3aXpDaUpCZG1qTHNiMG1WSWlmSk1lZjVOVEpPS2NtbW9zU2FreFptNUhKb2w4aFdMX2NLRUdnc0ZNUjJfR29RZW9rLXhHRlhIQWI1RVBHRXJRcF9pVHRXcVZPZVF1T19Ud0HSAeYBQVVfeXFMTkxoclQyNFBlMC1LamNtSEhjUWl4NFNHM2pvcncxanY2d3UwcWM1X1R0ZV9UU3l3NEpvSVpZdk9SVFphS3NYOXpsSDNWbXhDX29FU3ctWjFuRnRHc0tLcmdsU01xSnpSWERwREN2QjAwYnJNS3pFajFWSUIxaGJkRVNpWnFBSHlkUFhVb250dE9ibFVjM2htSnZkNXlvOWdYMTZzZ0drcmhYb0kzeEktSTJ2TFg0VzVSOVE5N0t0NjFLSDBMN3ZYSXp6Rmo0UkwyYVN0YlZUckJWWDNpSWdEbXVCMGxYbnc?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 2 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 3 articles, 1 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # CAD (heart disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Scientists say decades-old theory on the origin of life might be wrong](https://news.google.com/rss/articles/CBMif0FVX3lxTE1wVXMzVk1RQk9KbDlBUm15UHJ1cC1WdXQ4SDM2ekdQNm5FYTNxSTlJYlNyZEI2SmRHN3J5UEFxb0VyVHVIUjlPeXE4cFotcUU5bnJjWWdoUjFUZnBtTFpyTW9LMEJfa3dqd0tnV1picnI2MlF2dXgwOHl1LTF4UW8?oc=5)
+### [NASA telescope is on the verge of plunging back to Earth after failed rescue mission - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2hHNTJVeGNHb0VHMU9jZ0JscHRGOFI1MkRfR2pDZ0xRNU8zNVZ1SVRYcFo2Sk5heklqM01rZ3d3Rmw3X1gyZWJkMHBBZVlsUURLRC01U3FSZW5sRDNmcGtoZXZ1ZzVqMzR6RUIwOGdPZ2k3YjZlR19sYUcxUzdwN2RMdTNiNlNiVk0tcFhROU5JODY5bXJxS0p3Y2tkdnBIX3QyUVk0ONIBrAFBVV95cUxOQlNYZWhtSDhmTEpOc2pPZGNNQUdMVTZXYTFHTlc0M1ZQQUM2SDEzQll2bjE4eFhrRVYyVElzWXhVVWJDckZMQUNqRkxONVRHNGJUak9GVTVNV0dKOTN5ODI5c0pFSk1lb1RFVWVUbHZOS080ajhhejBESVgxZmc2Mmp1NURkYURKQjcyaTh4UmFiamdXYkpfWl9oM2V4UnZhaDl1YUtnSXYtWUZi?oc=5)
 
 2026-10-31
 
-Source: [CNN](https://news.google.com/rss/articles/CBMif0FVX3lxTE1wVXMzVk1RQk9KbDlBUm15UHJ1cC1WdXQ4SDM2ekdQNm5FYTNxSTlJYlNyZEI2SmRHN3J5UEFxb0VyVHVIUjlPeXE4cFotcUU5bnJjWWdoUjFUZnBtTFpyTW9LMEJfa3dqd0tnV1picnI2MlF2dXgwOHl1LTF4UW8?oc=5)
+Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2hHNTJVeGNHb0VHMU9jZ0JscHRGOFI1MkRfR2pDZ0xRNU8zNVZ1SVRYcFo2Sk5heklqM01rZ3d3Rmw3X1gyZWJkMHBBZVlsUURLRC01U3FSZW5sRDNmcGtoZXZ1ZzVqMzR6RUIwOGdPZ2k3YjZlR19sYUcxUzdwN2RMdTNiNlNiVk0tcFhROU5JODY5bXJxS0p3Y2tkdnBIX3QyUVk0ONIBrAFBVV95cUxOQlNYZWhtSDhmTEpOc2pPZGNNQUdMVTZXYTFHTlc0M1ZQQUM2SDEzQll2bjE4eFhrRVYyVElzWXhVVWJDckZMQUNqRkxONVRHNGJUak9GVTVNV0dKOTN5ODI5c0pFSk1lb1RFVWVUbHZOS080ajhhejBESVgxZmc2Mmp1NURkYURKQjcyaTh4UmFiamdXYkpfWl9oM2V4UnZhaDl1YUtnSXYtWUZi?oc=5)
+
+---
+
+### [New study casts doubt on theory about the role comets played in kick-starting life on Earth - KSL News](https://news.google.com/rss/articles/CBMixwFBVV95cUxNOElzS2ljSnRuc19HVnVHRUJOU181a3Vxa0gtTmMzVTlmZzVBM2dmVUhYQmdFbDh0UGRta1pfRl9uQ2dTYUtwTENYSnlraFZLbkQyMXVJdEpVTjk4VlUxWklEMlAzYnlVSm9GaTZRa1ktN1l4LU5sZEtjN0h2OWp1aXVjUGZXSDhYcDNKTE9WNF9ubnV4WjBDNXctVy1xeGJRV3Ridk5QM0Z6M3A2dWJ4dVA0YnB0M09Zb2pmUXFrYVV2VHdhR1dz?oc=5)
+
+2026-10-31
+
+Source: [KSL News](https://news.google.com/rss/articles/CBMixwFBVV95cUxNOElzS2ljSnRuc19HVnVHRUJOU181a3Vxa0gtTmMzVTlmZzVBM2dmVUhYQmdFbDh0UGRta1pfRl9uQ2dTYUtwTENYSnlraFZLbkQyMXVJdEpVTjk4VlUxWklEMlAzYnlVSm9GaTZRa1ktN1l4LU5sZEtjN0h2OWp1aXVjUGZXSDhYcDNKTE9WNF9ubnV4WjBDNXctVy1xeGJRV3Ridk5QM0Z6M3A2dWJ4dVA0YnB0M09Zb2pmUXFrYVV2VHdhR1dz?oc=5)
 
 ---
 

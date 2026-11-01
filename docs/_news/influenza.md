@@ -3,9 +3,9 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 3 articles, 2 related drugs."
+description: "Health news about flu (influenza). 4 articles, 2 related drugs."
 permalink: /news/influenza/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # flu (influenza) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>3 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,13 +31,21 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [Child dies of flu-related illness in San Bernardino County](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUVxOXlZZFI0UDd3R0dHd0tmYVl5UlkzOE5fVlR1TzZ6NEdQQ0VoS3ZDMlVISlNfYjRSdjBQdVlzZFFSODA3bUJwbWYyREdOMXZUNUhJZG1IcHNKcVo5amZFQ3pVLUJGTndZUFJSUG1ERWdZNmhzdGxVZC1BUDJnRmdvNGhTdWthWEwzQm9YUnFhWWt5RmVuVkVhNNIBoAFBVV95cUxNRndsRTlTVHkwS1I5Qkd2b2d6OENIRjJOOVVyT1l3X2VOckxkbm0wYTRnaFN0Q1VaTVR2X2lkNmVkb2JrSnUwYm1hRGxLYUg4TFE3bm4wTnZ6ZzdndFFqZjI4ZS1VdDVMNUtNN2pJR0R0TEIwYzgyUkExNDZLLUpRWHA2RFZ5VWNqZ09qMjNzTW5HbkRmYVdDN2k3NHA3c2c5?oc=5)
 
 2026-10-31
 
 Source: [KTLA](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUVxOXlZZFI0UDd3R0dHd0tmYVl5UlkzOE5fVlR1TzZ6NEdQQ0VoS3ZDMlVISlNfYjRSdjBQdVlzZFFSODA3bUJwbWYyREdOMXZUNUhJZG1IcHNKcVo5amZFQ3pVLUJGTndZUFJSUG1ERWdZNmhzdGxVZC1BUDJnRmdvNGhTdWthWEwzQm9YUnFhWWt5RmVuVkVhNNIBoAFBVV95cUxNRndsRTlTVHkwS1I5Qkd2b2d6OENIRjJOOVVyT1l3X2VOckxkbm0wYTRnaFN0Q1VaTVR2X2lkNmVkb2JrSnUwYm1hRGxLYUg4TFE3bm4wTnZ6ZzdndFFqZjI4ZS1VdDVMNUtNN2pJR0R0TEIwYzgyUkExNDZLLUpRWHA2RFZ5VWNqZ09qMjNzTW5HbkRmYVdDN2k3NHA3c2c5?oc=5)
+
+---
+
+### [Data Shows These 2 Fall Viruses Are Elevated Right Now. Here's What Doctors Say You Can Do To Stay Healthy.](https://news.google.com/rss/articles/CBMieEFVX3lxTE1seWJoeVZZNlQ4RXpjZnA2bU5EUXZMNGJjT0kzRG1BVDVJMUo5MWNWS2c2d3dFVktJVGM2c2hzQmZTVTVMM1U5aUJSUGNBc3RVbUJiX1gwTlAtUDNDdkhfYlZsOGtXRGxXTjc4OG1DLXZVeTA5Y21JMA?oc=5)
+
+2026-10-30
+
+Source: [AOL.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE1seWJoeVZZNlQ4RXpjZnA2bU5EUXZMNGJjT0kzRG1BVDVJMUo5MWNWS2c2d3dFVktJVGM2c2hzQmZTVTVMM1U5aUJSUGNBc3RVbUJiX1gwTlAtUDNDdkhfYlZsOGtXRGxXTjc4OG1DLXZVeTA5Y21JMA?oc=5)
 
 ---
 

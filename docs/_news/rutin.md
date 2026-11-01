@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Rutin. 8 predicted indications."
 permalink: /news/rutin/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # Rutin News
@@ -42,19 +42,19 @@ This page combines the AI-predicted indications for Rutin with the latest health
 
 ## Related News (9)
 
+### [A fast-acting nasal spray offers hope for hard-to-treat depression: study - New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeG9US1BPUzFLRlBWc2FsZkRhMzVMY3RieVJTZ0pHX1lDTzlpNHV4UU9XTVpRR0xLbTZnS1NGNGhkNTBZSEkyMlkwQnBIbi1ueWFJc1NxbWhHcEVhU2dMRTl6Smd0VGw4Y3gta1NTZ2FEZkxQTzRMYzFuLTJHQUNod1Nkb0lxSnlCUXdDU1JyX3pDOTExSlpTeUNXckVBMVNzRlZnYg?oc=5)
+
+2026-10-31 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeG9US1BPUzFLRlBWc2FsZkRhMzVMY3RieVJTZ0pHX1lDTzlpNHV4UU9XTVpRR0xLbTZnS1NGNGhkNTBZSEkyMlkwQnBIbi1ueWFJc1NxbWhHcEVhU2dMRTl6Smd0VGw4Y3gta1NTZ2FEZkxQTzRMYzFuLTJHQUNod1Nkb0lxSnlCUXdDU1JyX3pDOTExSlpTeUNXckVBMVNzRlZnYg?oc=5)
+
+---
+
 ### [The link between alcohol and breast cancer risk is strong. Here’s what to know. - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxORW4xZXF3SjdPZDZLNzZUN25yaFltR3JrTkxvUXRZWjZRT0pWY1VmOHpZTjF2X2tkQjk2cEoyM2hTb1FJUk9tQTY4UTh4X19IZ1pOWVJHYUplZVJqeHFjaFZka2tGekM5cVNlclNkWEdMWVNfM3RqVGk0TGdmQnNTenYyeUZYd0cyVU1OWFZrOEExdm5YaGJQRkxXS0IweG1aX0VKTHhlVnRxM3pWSGE5SE14Zw?oc=5)
 
 2026-10-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxORW4xZXF3SjdPZDZLNzZUN25yaFltR3JrTkxvUXRZWjZRT0pWY1VmOHpZTjF2X2tkQjk2cEoyM2hTb1FJUk9tQTY4UTh4X19IZ1pOWVJHYUplZVJqeHFjaFZka2tGekM5cVNlclNkWEdMWVNfM3RqVGk0TGdmQnNTenYyeUZYd0cyVU1OWFZrOEExdm5YaGJQRkxXS0IweG1aX0VKTHhlVnRxM3pWSGE5SE14Zw?oc=5)
-
----
-
-### [NASA's Voyager 1 mysteriously lost touch with Earth](https://news.google.com/rss/articles/CBMickFVX3lxTE5XUTR1ZDJSVUVpZC13QVplQzRMa1RRNm14aU9adXRUSHU1MDBNSzdwdDhEbWJidHk3T1BuSlZzUFY3eUc1UHg1VFN2WFNmNmdmNU1DenZGc19wOU9yNnU2Rm5mQUVVdTFQanBvRG9jWVhMZw?oc=5)
-
-2026-10-31 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Mashable](https://news.google.com/rss/articles/CBMickFVX3lxTE5XUTR1ZDJSVUVpZC13QVplQzRMa1RRNm14aU9adXRUSHU1MDBNSzdwdDhEbWJidHk3T1BuSlZzUFY3eUc1UHg1VFN2WFNmNmdmNU1DenZGc19wOU9yNnU2Rm5mQUVVdTFQanBvRG9jWVhMZw?oc=5)
 
 ---
 
@@ -82,6 +82,14 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2p
 
 ---
 
+### [The Sleep Length Linked To Slower 'Biological Ageing' In A Huge Study - HuffPost UK](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTFOWEFCcE14RENBUmxVVncxdTVFMU1OaEtHWlNCVmRDczJOOTcyeVVnODJ4MjNjMHZ3UTBNdzNuR2twV0hIbm5ZZ29oOU11b2JwWXBIVlp0VGdPV1hQTEw3RzZqQ0xpVVBORGNqSUFSLUxZVTVxeXlPeThoX2QtWTF1Z2pmeUpzVWp1YlNqR2pkUnVWdkoteA?oc=5)
+
+2026-10-30 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [HuffPost UK](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTFOWEFCcE14RENBUmxVVncxdTVFMU1OaEtHWlNCVmRDczJOOTcyeVVnODJ4MjNjMHZ3UTBNdzNuR2twV0hIbm5ZZ29oOU11b2JwWXBIVlp0VGdPV1hQTEw3RzZqQ0xpVVBORGNqSUFSLUxZVTVxeXlPeThoX2QtWTF1Z2pmeUpzVWp1YlNqR2pkUnVWdkoteA?oc=5)
+
+---
+
 ### [Known for preventing cancer, p53 could also help immune cells fight it - Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3JTRExiY002UU9qN0JlVW1hWlVRZHRXWnRTNmFmZTR5bWRKSERjbUV2ZnA2dnJfbVVsRnNucmRfU2RrY19QQXFZQmhSUTVSTmRvc1ktX3VrTEZWd0szY3pyY3FpZ1NmNmN0MExLa0JRcmtwa0E?oc=5)
 
 2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
@@ -92,17 +100,9 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3
 
 ### [These 1970s Kids Had to Stay in School For 1 Year Longer. Decades Later, The Results Are Dramatic.](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTZiSGNzM0pSOVZpRVlsWEt3YUpsTkFEcmVWMjlPYTNudnMwZWZ4VjBPbEgwQVVEM2dyc1czMEZndUhvWTV0ZnNEZld4SHc4dklZQlNNcDVyNTRZU0lfaWRBWEh0bHByTDFxcjdGcURvazFQQkd5Z3ZOYnUtSUZMTTE5UzZoRnFnNUdlZDYzZU1VZGlzdDlDU0djenFYSWk0MGJfN1N2SUhfckFFLVR3a3BNUWZqeXk5blFURnZWUTduZw?oc=5)
 
-2026-10-29 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-29 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTZiSGNzM0pSOVZpRVlsWEt3YUpsTkFEcmVWMjlPYTNudnMwZWZ4VjBPbEgwQVVEM2dyc1czMEZndUhvWTV0ZnNEZld4SHc4dklZQlNNcDVyNTRZU0lfaWRBWEh0bHByTDFxcjdGcURvazFQQkd5Z3ZOYnUtSUZMTTE5UzZoRnFnNUdlZDYzZU1VZGlzdDlDU0djenFYSWk0MGJfN1N2SUhfckFFLVR3a3BNUWZqeXk5blFURnZWUTduZw?oc=5)
-
----
-
-### [Ancient armored bottom-feeder is first seagoing amphibian](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjBFdkF3TTVCTmJUeHRiT19xSGJhQ3NQbnRYY0UycU0tV3ZrbXBoRGxHbTBfZ0tRVVl0MDBYMXlaZHJTejZ2TkdoVlhFaV9NS3NvQnRaOGtPeGNmVnNiaUdkWFkwbkwzc3lrckl3eUFTUVhDMEFrMlFjbWJRZFhmMWg0M2pHaHE1TWVfbGxaVkVnSk5ud3UzZDFXNkFkeVhwV1pYWkt5NDlxdVBOcGs4b1RvcE0?oc=5)
-
-2026-10-27 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjBFdkF3TTVCTmJUeHRiT19xSGJhQ3NQbnRYY0UycU0tV3ZrbXBoRGxHbTBfZ0tRVVl0MDBYMXlaZHJTejZ2TkdoVlhFaV9NS3NvQnRaOGtPeGNmVnNiaUdkWFkwbkwzc3lrckl3eUFTUVhDMEFrMlFjbWJRZFhmMWg0M2pHaHE1TWVfbGxaVkVnSk5ud3UzZDFXNkFkeVhwV1pYWkt5NDlxdVBOcGs4b1RvcE0?oc=5)
 
 ---
 

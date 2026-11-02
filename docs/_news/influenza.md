@@ -3,9 +3,9 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 5 articles, 2 related drugs."
+description: "Health news about flu (influenza). 4 articles, 2 related drugs."
 permalink: /news/influenza/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # flu (influenza) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>5 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,13 +31,13 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [What happened to Khiana Smith in Bali? - Attack of the Fanboy](https://news.google.com/rss/articles/CBMiggJBVV95cUxQVTEyV1JKald3bnZmcXlWcUJrQVlWUHR1Vl9wNk9vbTl6TmY5SENOMmo0OVRRVXNDUFBrUlVEQnI2cUVUN3NLR1FOeVNRYmRkdWdadXZGME93SFJqV2o4dVhnVmR0QkNiRkxOYTBNLUhfSWF0NGxRN1J5VHFzbWxQMG1VeU1XOGRicWJnMl9TUkVGNEE3LW5jTmZjbjktc2VzSHQxQm43RjRlUlRpby1vN2VVV2ktSHBBRzA5V0tNbjFORUdrcDV6ZVRoWFRMMkk0V01tQzlaa3RqeFNYMnpKT2o3dHNBR25SQlZwMDlPdjJmTzhISE94dGZCQWk2bWpyMHc?oc=5)
+### [Utah Mink Farm's Outbreak Is a Pandemic's 'Perfect Petri Dish'](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcF9ueHlRWWZQak44emFWeUwzcjVfR3M2NVpldnJNNEsxX0xxQ2VNTmd4Y0c4Q0d5NllMcEtma2p0N0Rnajl6RUNzV1lTSmtDbE82VzdGNEd4N0kxNlNNM2hmNmVtWWdlcWlhSDBjRDRhWGxlbTFRRXpHaWxrRUJsSGtISEJZN1RLN3dNMFJtRTVOckRWTGYzSnFOcHBPZUE4?oc=5)
 
 2026-11-01
 
-Source: [Attack of the Fanboy](https://news.google.com/rss/articles/CBMiggJBVV95cUxQVTEyV1JKald3bnZmcXlWcUJrQVlWUHR1Vl9wNk9vbTl6TmY5SENOMmo0OVRRVXNDUFBrUlVEQnI2cUVUN3NLR1FOeVNRYmRkdWdadXZGME93SFJqV2o4dVhnVmR0QkNiRkxOYTBNLUhfSWF0NGxRN1J5VHFzbWxQMG1VeU1XOGRicWJnMl9TUkVGNEE3LW5jTmZjbjktc2VzSHQxQm43RjRlUlRpby1vN2VVV2ktSHBBRzA5V0tNbjFORUdrcDV6ZVRoWFRMMkk0V01tQzlaa3RqeFNYMnpKT2o3dHNBR25SQlZwMDlPdjJmTzhISE94dGZCQWk2bWpyMHc?oc=5)
+Source: [Newser](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcF9ueHlRWWZQak44emFWeUwzcjVfR3M2NVpldnJNNEsxX0xxQ2VNTmd4Y0c4Q0d5NllMcEtma2p0N0Rnajl6RUNzV1lTSmtDbE82VzdGNEd4N0kxNlNNM2hmNmVtWWdlcWlhSDBjRDRhWGxlbTFRRXpHaWxrRUJsSGtISEJZN1RLN3dNMFJtRTVOckRWTGYzSnFOcHBPZUE4?oc=5)
 
 ---
 
@@ -46,14 +46,6 @@ Source: [Attack of the Fanboy](https://news.google.com/rss/articles/CBMiggJBVV95
 2026-11-01
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5FU0s5aXBJanNtdGR3anRfOWJlS2VjSk1ZZ1BhOEhOYm42SlpSd1FCSVBtMlRycXlvcEZTZExNLTdaQnYzN21UVjM3TlJYWmRibWtiSkJNV1lFUjNEZlNiVC1CR2VHc0U1TVJHTVRtUQ?oc=5)
-
----
-
-### [Bird flu detected at Colorado dairy for first time since 2024 outbreak](https://news.google.com/rss/articles/CBMi5wFBVV95cUxObU9wTU42czlsUERUTnh5ZWNpeG5QT3I2WFlJVnhOdUNnQW9qVGIwV19JN3lVLXVvSTF3YzlQM3NSWF9mWTFSOXpkMjBzT0VINmVHakhsOGs1WTA5akRRUTFnUjZGdG4yWlRNb2xSOFozS3Zlc003bUdUOWt6MHhUZDRHZ25WZ3NtQUpwdUk3dlVPaC0tWlhFSks4OV9qWElyaGFGamIxU0lXb2VEV2l5S1padVFZTGNucHR4dno1VVVWa1dWMUh3Y1NxZ3ZabEJMX3UwZ01CMlN0cEktdGFPS2tleG1WUG8?oc=5)
-
-2026-10-30
-
-Source: [9News](https://news.google.com/rss/articles/CBMi5wFBVV95cUxObU9wTU42czlsUERUTnh5ZWNpeG5QT3I2WFlJVnhOdUNnQW9qVGIwV19JN3lVLXVvSTF3YzlQM3NSWF9mWTFSOXpkMjBzT0VINmVHakhsOGs1WTA5akRRUTFnUjZGdG4yWlRNb2xSOFozS3Zlc003bUdUOWt6MHhUZDRHZ25WZ3NtQUpwdUk3dlVPaC0tWlhFSks4OV9qWElyaGFGamIxU0lXb2VEV2l5S1padVFZTGNucHR4dno1VVVWa1dWMUh3Y1NxZ3ZabEJMX3UwZ01CMlN0cEktdGFPS2tleG1WUG8?oc=5)
 
 ---
 

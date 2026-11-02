@@ -3,9 +3,9 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 10 articles, 1 related drugs."
+description: "Health news about cancer. 11 articles, 1 related drugs."
 permalink: /news/cancer/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # cancer News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>10 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>11 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (10)
+## Related News (11)
 
 ### [Can odors from our bodies signal Alzheimer’s, cancer and other diseases? - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1FWV0xBZWNVUmdsckVicHNObWVSOUt3bXBoSlFRVVozZlV6cml6Y3hGSGhhYlVuUjNJM2QyOFM2STVqMnB6UGtzUko5bVM1c01Mb3pCY2tNZFV6T1FvdTB3ajdvQ0g1dzQ5ZGpxamhnOGNlMzF0UjNyZnJGTmhsVGFNYmNfRXgyOGpOU2tNZXVXVHByRm1nbWVGSnM4bEVwU2xqeWg4WmRUZDZnQlE?oc=5)
 
@@ -101,6 +101,14 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2p
 2026-10-29
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlQ0VjR5UFE5X2Flb1VMUklnaHdrWmtqZ185QmpqQ0I5WjNxWi16eWZnYjhXVjAzTEZWRW1YWFZJVjg0MGRQc0Ffd0ZoNHdSa2tBV2p1T2FwbTZrQVh4OHhRcDBrN1ZFUnJscGlvNkUxNENTcnVhT2JtbnVDdGdPQWNKLUpvSGljRmtxekJ5a0lJVVc2R2pSZUlpT09OcWVldDBV?oc=5)
+
+---
+
+### [Cutting This One Food Could Drastically Reduce Your Colon Cancer Risk](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DVWhxLTlmaG9pMGVYSDIyMm9QY3pjdlRFNjdpbEo1X1BES08zbDRLVzhLbHRad1I4S3Q0Nk81b1dCN0o4SVg2a1lnMENsU0ZVOWlNRGVtNGsyc09GRWl6VmZPTDQ5U2VIZjZ6VVoySQ?oc=5)
+
+2026-10-27
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DVWhxLTlmaG9pMGVYSDIyMm9QY3pjdlRFNjdpbEo1X1BES08zbDRLVzhLbHRad1I4S3Q0Nk81b1dCN0o4SVg2a1lnMENsU0ZVOWlNRGVtNGsyc09GRWl6VmZPTDQ5U2VIZjZ6VVoySQ?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ramucirumab. 10 predicted indications."
 permalink: /news/ramucirumab/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # Ramucirumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
 
 ### [Can odors from our bodies signal Alzheimer’s, cancer and other diseases? - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1FWV0xBZWNVUmdsckVicHNObWVSOUt3bXBoSlFRVVozZlV6cml6Y3hGSGhhYlVuUjNJM2QyOFM2STVqMnB6UGtzUko5bVM1c01Mb3pCY2tNZFV6T1FvdTB3ajdvQ0g1dzQ5ZGpxamhnOGNlMzF0UjNyZnJGTmhsVGFNYmNfRXgyOGpOU2tNZXVXVHByRm1nbWVGSnM4bEVwU2xqeWg4WmRUZDZnQlE?oc=5)
 
@@ -110,9 +110,17 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2p
 
 ### [New Pancreatic Cancer Vaccine Sparked Immune Responses in 99% of Patients](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlQ0VjR5UFE5X2Flb1VMUklnaHdrWmtqZ185QmpqQ0I5WjNxWi16eWZnYjhXVjAzTEZWRW1YWFZJVjg0MGRQc0Ffd0ZoNHdSa2tBV2p1T2FwbTZrQVh4OHhRcDBrN1ZFUnJscGlvNkUxNENTcnVhT2JtbnVDdGdPQWNKLUpvSGljRmtxekJ5a0lJVVc2R2pSZUlpT09OcWVldDBV?oc=5)
 
-2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlQ0VjR5UFE5X2Flb1VMUklnaHdrWmtqZ185QmpqQ0I5WjNxWi16eWZnYjhXVjAzTEZWRW1YWFZJVjg0MGRQc0Ffd0ZoNHdSa2tBV2p1T2FwbTZrQVh4OHhRcDBrN1ZFUnJscGlvNkUxNENTcnVhT2JtbnVDdGdPQWNKLUpvSGljRmtxekJ5a0lJVVc2R2pSZUlpT09OcWVldDBV?oc=5)
+
+---
+
+### [Cutting This One Food Could Drastically Reduce Your Colon Cancer Risk](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DVWhxLTlmaG9pMGVYSDIyMm9QY3pjdlRFNjdpbEo1X1BES08zbDRLVzhLbHRad1I4S3Q0Nk81b1dCN0o4SVg2a1lnMENsU0ZVOWlNRGVtNGsyc09GRWl6VmZPTDQ5U2VIZjZ6VVoySQ?oc=5)
+
+2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DVWhxLTlmaG9pMGVYSDIyMm9QY3pjdlRFNjdpbEo1X1BES08zbDRLVzhLbHRad1I4S3Q0Nk81b1dCN0o4SVg2a1lnMENsU0ZVOWlNRGVtNGsyc09GRWl6VmZPTDQ5U2VIZjZ6VVoySQ?oc=5)
 
 ---
 

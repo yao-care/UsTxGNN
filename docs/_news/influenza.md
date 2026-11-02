@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 4 articles, 2 related drugs."
+description: "Health news about flu (influenza). 5 articles, 2 related drugs."
 permalink: /news/influenza/
 last_modified_at: 2026-11-02
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>5 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,29 +31,37 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Flu Arrives Early in New York, With Cases Rising Rapidly in Children - The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSktWbUExNXluLXAwUkMzU3hDSTk3aGNqeERkZU9wamxTU3FRNi1GNEFMMHZFWGRRLTcwQ2NsazNfU3JpdlA0UFpoS3ZGQzFzSlN6djc5cFAwQWRNRE9ueU1qVVVrVi1icXNqR3NDcGNuV3VsUGtvdEpWZVJhM00?oc=5)
+
+2026-11-02
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSktWbUExNXluLXAwUkMzU3hDSTk3aGNqeERkZU9wamxTU3FRNi1GNEFMMHZFWGRRLTcwQ2NsazNfU3JpdlA0UFpoS3ZGQzFzSlN6djc5cFAwQWRNRE9ueU1qVVVrVi1icXNqR3NDcGNuV3VsUGtvdEpWZVJhM00?oc=5)
+
+---
+
+### [Yakima County resident dies from complications of bird flu after dairy exposure](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXFrNXBiNFF5aUJhdXlNaGhNNU8zRnVMdGRXZmwzV2hBbHlaOHFFa3pORnJKOWxTUGc4VlRmdk9PaHp2RTZlMDk5N2RPZTlZODQ0RGxrem1wT1N5dWJJRDJoUjZ4UzlEM0FiV3BhR1B4RTVRQnZaaXlhWHV6VF94bGpKQmJCdkw5X2pUNzV0S3JHbjBSZTBIdDVYNFFxWndOY3pFUWxKd21lbW9YdGU0aA?oc=5)
+
+2026-11-02
+
+Source: [KOMO](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXFrNXBiNFF5aUJhdXlNaGhNNU8zRnVMdGRXZmwzV2hBbHlaOHFFa3pORnJKOWxTUGc4VlRmdk9PaHp2RTZlMDk5N2RPZTlZODQ0RGxrem1wT1N5dWJJRDJoUjZ4UzlEM0FiV3BhR1B4RTVRQnZaaXlhWHV6VF94bGpKQmJCdkw5X2pUNzV0S3JHbjBSZTBIdDVYNFFxWndOY3pFUWxKd21lbW9YdGU0aA?oc=5)
+
+---
+
+### [Aussie fitness influencer hospitalised in Bali after contracting deadly brain infection](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdDNkOUFlUVJOMWpSVVBfQWNNeW16cmo0cTdQc2pJUUtWdXM5SEowN0xxc3E2eEdWVWpKMk1oTzU2TkZNWGNJa0R3QWc0ME1kTWFhZTJSMFBRdWhDZHFieFpsWDFrTzdRX0pYU3JjdnRZWWxoRmJGaENkNEl6TEFsT3pXejQwUVBYTUxWai1LdnkxSFI1ei13ZGpwUDhham5VdmxuZWI4NF82LWYtcmxDNHNac0NraEl4aXRTanVSZjFzX2Z6MDI3OUstSVhrYjVYOElzZkpTT0VKZkJtNmt5cFFn?oc=5)
+
+2026-11-01
+
+Source: [Nine.com.au](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdDNkOUFlUVJOMWpSVVBfQWNNeW16cmo0cTdQc2pJUUtWdXM5SEowN0xxc3E2eEdWVWpKMk1oTzU2TkZNWGNJa0R3QWc0ME1kTWFhZTJSMFBRdWhDZHFieFpsWDFrTzdRX0pYU3JjdnRZWWxoRmJGaENkNEl6TEFsT3pXejQwUVBYTUxWai1LdnkxSFI1ei13ZGpwUDhham5VdmxuZWI4NF82LWYtcmxDNHNac0NraEl4aXRTanVSZjFzX2Z6MDI3OUstSVhrYjVYOElzZkpTT0VKZkJtNmt5cFFn?oc=5)
+
+---
 
 ### [Utah Mink Farm's Outbreak Is a Pandemic's 'Perfect Petri Dish'](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcF9ueHlRWWZQak44emFWeUwzcjVfR3M2NVpldnJNNEsxX0xxQ2VNTmd4Y0c4Q0d5NllMcEtma2p0N0Rnajl6RUNzV1lTSmtDbE82VzdGNEd4N0kxNlNNM2hmNmVtWWdlcWlhSDBjRDRhWGxlbTFRRXpHaWxrRUJsSGtISEJZN1RLN3dNMFJtRTVOckRWTGYzSnFOcHBPZUE4?oc=5)
 
 2026-11-01
 
 Source: [Newser](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcF9ueHlRWWZQak44emFWeUwzcjVfR3M2NVpldnJNNEsxX0xxQ2VNTmd4Y0c4Q0d5NllMcEtma2p0N0Rnajl6RUNzV1lTSmtDbE82VzdGNEd4N0kxNlNNM2hmNmVtWWdlcWlhSDBjRDRhWGxlbTFRRXpHaWxrRUJsSGtISEJZN1RLN3dNMFJtRTVOckRWTGYzSnFOcHBPZUE4?oc=5)
-
----
-
-### [Scientists say a forgotten particle may explain why the universe exists - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5FU0s5aXBJanNtdGR3anRfOWJlS2VjSk1ZZ1BhOEhOYm42SlpSd1FCSVBtMlRycXlvcEZTZExNLTdaQnYzN21UVjM3TlJYWmRibWtiSkJNV1lFUjNEZlNiVC1CR2VHc0U1TVJHTVRtUQ?oc=5)
-
-2026-11-01
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5FU0s5aXBJanNtdGR3anRfOWJlS2VjSk1ZZ1BhOEhOYm42SlpSd1FCSVBtMlRycXlvcEZTZExNLTdaQnYzN21UVjM3TlJYWmRibWtiSkJNV1lFUjNEZlNiVC1CR2VHc0U1TVJHTVRtUQ?oc=5)
-
----
-
-### [Nearly 50 people have died across the US in recent days from flu as cases spike nationwide - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkl0eTNhalNIMlNwSWZCRUF1ZzktbHhUa1ZiNE51WG1LVUEwSXdROTVFNzVGSzgwYldfNDZKS3pNNFBuNXVneXpMcF8yUHBVZFB1bXp6Q0RpVkd4OGcteDRPYTlCZTQwVFFuTWx2WjV1WDB6WERTbDdzSEVnYVJDTGdORWMzdWdGTUJHanpRQWlPUXNlaHNlVjhLSm5QZnYzOVl6RA?oc=5)
-
-2026-10-30
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkl0eTNhalNIMlNwSWZCRUF1ZzktbHhUa1ZiNE51WG1LVUEwSXdROTVFNzVGSzgwYldfNDZKS3pNNFBuNXVneXpMcF8yUHBVZFB1bXp6Q0RpVkd4OGcteDRPYTlCZTQwVFFuTWx2WjV1WDB6WERTbDdzSEVnYVJDTGdORWMzdWdGTUJHanpRQWlPUXNlaHNlVjhLSm5QZnYzOVl6RA?oc=5)
 
 ---
 

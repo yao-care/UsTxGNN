@@ -3,9 +3,9 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 9 articles, 1 related drugs."
+description: "Health news about cancer. 12 articles, 1 related drugs."
 permalink: /news/cancer/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # cancer News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>12 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (9)
+## Related News (12)
+
+### [Doctor diagnosed with same type of breast cancer she researches - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipgFBVV95cUxQd3haZUhROU5LZlJ4ZGVHWG1QZWJuZlZQMk5FTXVDYVZkakpmSFIwV2RENjJhbm45TzhzdmpxQlFYcExDVEtnYklUYjR0XzZPWU1NTWNrLWZ3TmxMeG9QZDdLaGFkS0RDZGdzbGJUQlZfTjFpelBDMXNiR2tOcTNZMFhDaGlSbERmVnVpUnJMUzVBVkRuN1BVZXVaR0VzMmowb19CMVdB0gGrAUFVX3lxTE5RaGF1Z1BiMU1tZUw3NWRSZ0diUkdZbkUxR3FCWlh6TktWcDhhNnZGWmxyRnRnYUlwdEJzVlY5VVhKdm1ZWE9jaUkxdnh3Ni1XVGFwalVqWWxPTU53UHRzNVJIZGFJREw4QWpwZ0pMeU9wWjZNRERUN0ZUcDJGdmswc2hiN3ZkTDFycG13X0FRaVZ6YmdyQVNtYWMtdkhqUHR0UU00WFE1eklxbw?oc=5)
+
+2026-11-02
+
+Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipgFBVV95cUxQd3haZUhROU5LZlJ4ZGVHWG1QZWJuZlZQMk5FTXVDYVZkakpmSFIwV2RENjJhbm45TzhzdmpxQlFYcExDVEtnYklUYjR0XzZPWU1NTWNrLWZ3TmxMeG9QZDdLaGFkS0RDZGdzbGJUQlZfTjFpelBDMXNiR2tOcTNZMFhDaGlSbERmVnVpUnJMUzVBVkRuN1BVZXVaR0VzMmowb19CMVdB0gGrAUFVX3lxTE5RaGF1Z1BiMU1tZUw3NWRSZ0diUkdZbkUxR3FCWlh6TktWcDhhNnZGWmxyRnRnYUlwdEJzVlY5VVhKdm1ZWE9jaUkxdnh3Ni1XVGFwalVqWWxPTU53UHRzNVJIZGFJREw4QWpwZ0pMeU9wWjZNRERUN0ZUcDJGdmswc2hiN3ZkTDFycG13X0FRaVZ6YmdyQVNtYWMtdkhqUHR0UU00WFE1eklxbw?oc=5)
+
+---
+
+### [New cancer treatment approach could help immune cells fight tumors longer - Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTFyeVozR0ZQZ29OTzVINHZEcEo4QUZaZ18xbjEzSWlMaUloUHhQS25VemJyZXZVbVJ1ZjgySDV4YzhwWlFNNnVvb3BudEhiUllLT2R0MDVXdTg5Y0NuM1lsVUNqUE5CTUdva1dSYU15NGw0SWtuNE5zQlpwSUg3SWRSV1ZiSWZjTUx4Tnl3aUxfOXNsTnFRZzBObmRWUG_SAaQBQVVfeXFMTnNoOHJWaUhNVmg3aU5SLUVSakEzQzRabkh1SmxDNzM5VzZBTEFMcUxnUW01Qm91QUtrVFZibTY0OTFWaVozQ3VQb1lyWTU1a1VTQ0xsOC14RFRmeDBxclZmbWpVNE8yeHF4ZlRoUXdkTUxLdldLNTRzZHo4eWp6M3g0VWNPZWpwZGVXenhxMEIxZ2tEMUY5cWlYdV91UWpGSFRpRHg?oc=5)
+
+2026-11-02
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTFyeVozR0ZQZ29OTzVINHZEcEo4QUZaZ18xbjEzSWlMaUloUHhQS25VemJyZXZVbVJ1ZjgySDV4YzhwWlFNNnVvb3BudEhiUllLT2R0MDVXdTg5Y0NuM1lsVUNqUE5CTUdva1dSYU15NGw0SWtuNE5zQlpwSUg3SWRSV1ZiSWZjTUx4Tnl3aUxfOXNsTnFRZzBObmRWUG_SAaQBQVVfeXFMTnNoOHJWaUhNVmg3aU5SLUVSakEzQzRabkh1SmxDNzM5VzZBTEFMcUxnUW01Qm91QUtrVFZibTY0OTFWaVozQ3VQb1lyWTU1a1VTQ0xsOC14RFRmeDBxclZmbWpVNE8yeHF4ZlRoUXdkTUxLdldLNTRzZHo4eWp6M3g0VWNPZWpwZGVXenhxMEIxZ2tEMUY5cWlYdV91UWpGSFRpRHg?oc=5)
+
+---
 
 ### ['I could barely stand up straight with menopause after cancer'](https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zbzlqcXBOTjFybUR5X2NjNUhLelMwVElSMFJvRUFPVGx4Uk1YNUFrQmcwV3NvSmdCYmk5a09iMXVpU0FCN0hBcE1SaW05TEl4dEp5QWhYbXd3ekk?oc=5)
 
@@ -72,11 +88,27 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95c
 
 ---
 
+### [Study Links Drinking 2 Sugary Sodas a Week to Higher Pancreatic Cancer Risk](https://news.google.com/rss/articles/CBMifkFVX3lxTFBROGtNc1lVcnhnc2hrSFdhX01PMHFuaElkRFJhSUFoX0RvWnByMm5Yc2gwc3VZUU5Hd3pteUtHclA0OF83RkpRazZyY2tpMzgzRXlXanl0QTMtZHlNRVdoaFZiS0JYZTk1Z3JCSXhuVnR0ZWdPbmdLWjhtOV9qZw?oc=5)
+
+2026-10-30
+
+Source: [AOL.com](https://news.google.com/rss/articles/CBMifkFVX3lxTFBROGtNc1lVcnhnc2hrSFdhX01PMHFuaElkRFJhSUFoX0RvWnByMm5Yc2gwc3VZUU5Hd3pteUtHclA0OF83RkpRazZyY2tpMzgzRXlXanl0QTMtZHlNRVdoaFZiS0JYZTk1Z3JCSXhuVnR0ZWdPbmdLWjhtOV9qZw?oc=5)
+
+---
+
 ### [Doctor Shares 3 Lifestyle Habits to Reduce Breast Cancer Risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
 
 2026-10-30
 
 Source: [TODAY.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
+
+---
+
+### [New Pancreatic Cancer Vaccine Sparked Immune Responses in 99% of Patients](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlQ0VjR5UFE5X2Flb1VMUklnaHdrWmtqZ185QmpqQ0I5WjNxWi16eWZnYjhXVjAzTEZWRW1YWFZJVjg0MGRQc0Ffd0ZoNHdSa2tBV2p1T2FwbTZrQVh4OHhRcDBrN1ZFUnJscGlvNkUxNENTcnVhT2JtbnVDdGdPQWNKLUpvSGljRmtxekJ5a0lJVVc2R2pSZUlpT09OcWVldDBV?oc=5)
+
+2026-10-29
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlQ0VjR5UFE5X2Flb1VMUklnaHdrWmtqZ185QmpqQ0I5WjNxWi16eWZnYjhXVjAzTEZWRW1YWFZJVjg0MGRQc0Ffd0ZoNHdSa2tBV2p1T2FwbTZrQVh4OHhRcDBrN1ZFUnJscGlvNkUxNENTcnVhT2JtbnVDdGdPQWNKLUpvSGljRmtxekJ5a0lJVVc2R2pSZUlpT09OcWVldDBV?oc=5)
 
 ---
 
@@ -93,14 +125,6 @@ Source: [AOL.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0xCVVZIO
 2026-10-27
 
 Source: [EatingWell](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DVWhxLTlmaG9pMGVYSDIyMm9QY3pjdlRFNjdpbEo1X1BES08zbDRLVzhLbHRad1I4S3Q0Nk81b1dCN0o4SVg2a1lnMENsU0ZVOWlNRGVtNGsyc09GRWl6VmZPTDQ5U2VIZjZ6VVoySQ?oc=5)
-
----
-
-### [Young adults with cancer report getting dismissed by doctors](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oMGtYVHZ0RmdWeTNHTzlGaHZBNzIySTg0YmJ6a3NhT2FSUi15dzFGZlNBUDcyU19xam9iU1ZTOF9EMzI3emc4Rm5JMWY2cDZISjUwdmNJT2xSZ1dtTXpSUjlyeXk1Zw?oc=5)
-
-2026-10-26
-
-Source: [Futurity](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oMGtYVHZ0RmdWeTNHTzlGaHZBNzIySTg0YmJ6a3NhT2FSUi15dzFGZlNBUDcyU19xam9iU1ZTOF9EMzI3emc4Rm5JMWY2cDZISjUwdmNJT2xSZ1dtTXpSUjlyeXk1Zw?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 9 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 12 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # UC (inflammatory bowel disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>9 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>12 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,31 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (9)
+## Related News (12)
+
+### [Voyager 1 Goes Silent Before Historic Light-Day Milestone](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbVRVQVQxNnQyYjFqelV2WlQzek5ET2pSYm9NQzhYeUJfZW9mZUU1a3Zjekt3VG11MFFleDhDd2FkNFVWeGRpOW05eGFzcXB3ckE1TzZMZEpZei1xa0tjS3RmRDk3OFdnS0E4TDc2LXU3ZXVLdUM5d1FUbWtSMzNDSTBwNUNRbVljdHdVMVVNcXpsR3ZvSTBZS0RXQjdyUDVZSktyTjhCMGREOGJrX2hpVk5QN3FCMklna3AzLWlsNUY?oc=5)
+
+2026-11-02
+
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbVRVQVQxNnQyYjFqelV2WlQzek5ET2pSYm9NQzhYeUJfZW9mZUU1a3Zjekt3VG11MFFleDhDd2FkNFVWeGRpOW05eGFzcXB3ckE1TzZMZEpZei1xa0tjS3RmRDk3OFdnS0E4TDc2LXU3ZXVLdUM5d1FUbWtSMzNDSTBwNUNRbVljdHdVMVVNcXpsR3ZvSTBZS0RXQjdyUDVZSktyTjhCMGREOGJrX2hpVk5QN3FCMklna3AzLWlsNUY?oc=5)
+
+---
+
+### [New cancer treatment approach could help immune cells fight tumors longer - Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTFyeVozR0ZQZ29OTzVINHZEcEo4QUZaZ18xbjEzSWlMaUloUHhQS25VemJyZXZVbVJ1ZjgySDV4YzhwWlFNNnVvb3BudEhiUllLT2R0MDVXdTg5Y0NuM1lsVUNqUE5CTUdva1dSYU15NGw0SWtuNE5zQlpwSUg3SWRSV1ZiSWZjTUx4Tnl3aUxfOXNsTnFRZzBObmRWUG_SAaQBQVVfeXFMTnNoOHJWaUhNVmg3aU5SLUVSakEzQzRabkh1SmxDNzM5VzZBTEFMcUxnUW01Qm91QUtrVFZibTY0OTFWaVozQ3VQb1lyWTU1a1VTQ0xsOC14RFRmeDBxclZmbWpVNE8yeHF4ZlRoUXdkTUxLdldLNTRzZHo4eWp6M3g0VWNPZWpwZGVXenhxMEIxZ2tEMUY5cWlYdV91UWpGSFRpRHg?oc=5)
+
+2026-11-02
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTFyeVozR0ZQZ29OTzVINHZEcEo4QUZaZ18xbjEzSWlMaUloUHhQS25VemJyZXZVbVJ1ZjgySDV4YzhwWlFNNnVvb3BudEhiUllLT2R0MDVXdTg5Y0NuM1lsVUNqUE5CTUdva1dSYU15NGw0SWtuNE5zQlpwSUg3SWRSV1ZiSWZjTUx4Tnl3aUxfOXNsTnFRZzBObmRWUG_SAaQBQVVfeXFMTnNoOHJWaUhNVmg3aU5SLUVSakEzQzRabkh1SmxDNzM5VzZBTEFMcUxnUW01Qm91QUtrVFZibTY0OTFWaVozQ3VQb1lyWTU1a1VTQ0xsOC14RFRmeDBxclZmbWpVNE8yeHF4ZlRoUXdkTUxLdldLNTRzZHo4eWp6M3g0VWNPZWpwZGVXenhxMEIxZ2tEMUY5cWlYdV91UWpGSFRpRHg?oc=5)
+
+---
+
+### [New diabetes implant uses electricity to lower blood sugar and promote weight loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXR2RUtGWWZHUU45ODgyNF9IQm9BWlo0Q184UTlyenY5RjVVLWo2NmtKdWRkWDVCbmE5M2ZXOVZHTmN6YkFuSUtJbGc4aXItUkoxcGRmQ1lMazlWQ3RBVWlsVV9WaHp5SlcxV2tLOA?oc=5)
+
+2026-11-02
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXR2RUtGWWZHUU45ODgyNF9IQm9BWlo0Q184UTlyenY5RjVVLWo2NmtKdWRkWDVCbmE5M2ZXOVZHTmN6YkFuSUtJbGc4aXItUkoxcGRmQ1lMazlWQ3RBVWlsVV9WaHp5SlcxV2tLOA?oc=5)
+
+---
 
 ### [Energy drinks linked to higher risk of cardiac arrest in young adults, study finds - NBC News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWUlWWWNqTlNYY284VGx3cmJ0c2ZNb3hhMDFoVTU0LUE0blNwM3ZwTmVhaExNSXpZVldWeWwzekRUM3lFSjloQnRYaWxzYXJ6Sk5iM2U4VWNoT0k5eXlrVVY3VE5wSU5PZ2gxdkJXZm1lUkhDU2t3OTBQWWZRZVp4bzRFUFdTbzFxbWdteTBva0RiMGVIMlAyY0VwRllEUHVKclJ0cm5aZ01pbURlMzV4TUR2T3BGS0xuNXBXWl80STlKQQ?oc=5)
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about flu (influenza). 5 articles, 2 related drugs."
 permalink: /news/influenza/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # flu (influenza) News
@@ -33,19 +33,19 @@ This page brings together the latest health news about “flu” and lists the d
 
 ## Related News (5)
 
-### [Flu Arrives Early in New York, With Cases Rising Rapidly in Children - The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSktWbUExNXluLXAwUkMzU3hDSTk3aGNqeERkZU9wamxTU3FRNi1GNEFMMHZFWGRRLTcwQ2NsazNfU3JpdlA0UFpoS3ZGQzFzSlN6djc5cFAwQWRNRE9ueU1qVVVrVi1icXNqR3NDcGNuV3VsUGtvdEpWZVJhM00?oc=5)
+### [Third person dies of bird flu since virus started jumping to livestock - Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxPVGpfVlBQWGJOcmJ2eGJSQW9GaFg1N01lMFRWQ2F6UTMtendUNGszUmttcW1WRU80WElLNmxUN25jR3VTMFNNdHBLNGV2NUpaUjRwRnBydUYycUI0dklVSDJWZUVZeDBrajVfRjl5WnNyZ1p0RXBPQldhV05mVnVGZV9yVkNKMU1JdmZXNlpIUzlKM0pMOC1lcDFLZ2E5cU9NVUczRlhSNE15WnNReVVj?oc=5)
 
 2026-11-02
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSktWbUExNXluLXAwUkMzU3hDSTk3aGNqeERkZU9wamxTU3FRNi1GNEFMMHZFWGRRLTcwQ2NsazNfU3JpdlA0UFpoS3ZGQzFzSlN6djc5cFAwQWRNRE9ueU1qVVVrVi1icXNqR3NDcGNuV3VsUGtvdEpWZVJhM00?oc=5)
+Source: [Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxPVGpfVlBQWGJOcmJ2eGJSQW9GaFg1N01lMFRWQ2F6UTMtendUNGszUmttcW1WRU80WElLNmxUN25jR3VTMFNNdHBLNGV2NUpaUjRwRnBydUYycUI0dklVSDJWZUVZeDBrajVfRjl5WnNyZ1p0RXBPQldhV05mVnVGZV9yVkNKMU1JdmZXNlpIUzlKM0pMOC1lcDFLZ2E5cU9NVUczRlhSNE15WnNReVVj?oc=5)
 
 ---
 
-### [Yakima County resident dies from complications of bird flu after dairy exposure](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXFrNXBiNFF5aUJhdXlNaGhNNU8zRnVMdGRXZmwzV2hBbHlaOHFFa3pORnJKOWxTUGc4VlRmdk9PaHp2RTZlMDk5N2RPZTlZODQ0RGxrem1wT1N5dWJJRDJoUjZ4UzlEM0FiV3BhR1B4RTVRQnZaaXlhWHV6VF94bGpKQmJCdkw5X2pUNzV0S3JHbjBSZTBIdDVYNFFxWndOY3pFUWxKd21lbW9YdGU0aA?oc=5)
+### [How does this fluoride-free toothpaste compare when it comes to oral health?](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmFJUkxWeU5RMlR0LVFmQ0dudl9vZXB3OGxVVnpTMS16ZVMyV1hta3lsa3dXenVEUWhSMmJILXJuZmhZWWdHTW5Od0tianFCbHlSNjYxb2stUmNCV3U5MkZaWVBiOHRrVV9tc3ZPM0xfXzhZdkNBLU93UVFPZTNfR2tSQy11ejdoVEdNcE9sb0t0OXpmX19OWmdiM1NHdnM?oc=5)
 
 2026-11-02
 
-Source: [KOMO](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXFrNXBiNFF5aUJhdXlNaGhNNU8zRnVMdGRXZmwzV2hBbHlaOHFFa3pORnJKOWxTUGc4VlRmdk9PaHp2RTZlMDk5N2RPZTlZODQ0RGxrem1wT1N5dWJJRDJoUjZ4UzlEM0FiV3BhR1B4RTVRQnZaaXlhWHV6VF94bGpKQmJCdkw5X2pUNzV0S3JHbjBSZTBIdDVYNFFxWndOY3pFUWxKd21lbW9YdGU0aA?oc=5)
+Source: [NPR](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmFJUkxWeU5RMlR0LVFmQ0dudl9vZXB3OGxVVnpTMS16ZVMyV1hta3lsa3dXenVEUWhSMmJILXJuZmhZWWdHTW5Od0tianFCbHlSNjYxb2stUmNCV3U5MkZaWVBiOHRrVV9tc3ZPM0xfXzhZdkNBLU93UVFPZTNfR2tSQy11ejdoVEdNcE9sb0t0OXpmX19OWmdiM1NHdnM?oc=5)
 
 ---
 
@@ -65,11 +65,11 @@ Source: [Newser](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcF9ueHlRWW
 
 ---
 
-### [Weekly US Influenza Surveillance Report: Key Updates for Week 42, ending October 24, 2026 | FluView - Centers for Disease Control and Prevention | CDC (.gov)](https://news.google.com/rss/articles/CBMiakFVX3lxTE0wd0N4UHh1eEZpSE0tNDVSdEdGbXRYaEppc1pSUWZCeWpPQUlMMnl6SnpBLXg1QmRGTmlsOEIyN2t4aU14V0FLX2R4R2VxaXpTYnNTZlFCeDlkc3ZFWkV6STdqM01FT1AyTnc?oc=5)
+### [Flu’s Back Way Sooner Than Normal. Here’s What to Know.](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXF5ak5GeXM1cThMV01VcW9xMTF0WHVCeWZHNHJXczl0aUlQSzdNb19IMEFzMkFoVWtYdnNUQVBQQXQzbnlWNUxCamF3UGZSWC1UU05qNXpYZGRIdUlHS2t5b0FxZzRYeEpFTTdFcmNhUHgyLThFc1d3ZG1TQ3VIaVlnV3NYNzg2dkVMTm1QOHQ?oc=5)
 
 2026-10-30
 
-Source: [Centers for Disease Control and Prevention | CDC (.gov)](https://news.google.com/rss/articles/CBMiakFVX3lxTE0wd0N4UHh1eEZpSE0tNDVSdEdGbXRYaEppc1pSUWZCeWpPQUlMMnl6SnpBLXg1QmRGTmlsOEIyN2t4aU14V0FLX2R4R2VxaXpTYnNTZlFCeDlkc3ZFWkV6STdqM01FT1AyTnc?oc=5)
+Source: [WSJ](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXF5ak5GeXM1cThMV01VcW9xMTF0WHVCeWZHNHJXczl0aUlQSzdNb19IMEFzMkFoVWtYdnNUQVBQQXQzbnlWNUxCamF3UGZSWC1UU05qNXpYZGRIdUlHS2t5b0FxZzRYeEpFTTdFcmNhUHgyLThFc1d3ZG1TQ3VIaVlnV3NYNzg2dkVMTm1QOHQ?oc=5)
 
 ---
 

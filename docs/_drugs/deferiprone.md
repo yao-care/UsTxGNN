@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 578
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 monitor_inn: "DEFERIPRONE"
 predicted_indications: ["hepatic porphyria", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
 description: "Deferiprone: predicted new indication Hepatic porphyria (evidence level L4). Approved use: Not recorded in the local data"
@@ -139,6 +139,7 @@ Eight further predictions were generated, all with no registered clinical trials
 | Hepatopulmonary syndrome | 0.9920 | L5 | Speculative link only |
 | Pyruvate kinase deficiency of red cells | 0.9915 | L5 | Chelation plausible for secondary iron overload; not supported by the supplied evidence |
 | Hereditary pyropoikilocytosis | 0.9902 | L5 | Chelation would only address secondary iron overload |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

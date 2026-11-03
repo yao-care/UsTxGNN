@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 585
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 monitor_inn: "DESLORATADINE"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
 description: "Desloratadine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -118,6 +118,7 @@ Two completed randomized, double-blind Phase 4 trials and three published RCTs d
 | Recalcitrant atopic dermatitis | 0.9975 | L5 | Hold | Itch is only partly histamine-dependent; no evidence |
 | IgE responsiveness, atopic | 0.9964 | L5 | Hold | A trait rather than a treatable disease |
 | Rosacea conjunctivitis | 0.9940 | L5 | Hold | Not primarily histamine-driven; no evidence |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

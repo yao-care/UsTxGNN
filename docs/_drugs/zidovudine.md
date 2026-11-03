@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1304
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Zidovudine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease, AIDS"
 monitor_inn: "ZIDOVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
@@ -137,6 +137,7 @@ The prediction score is high, but support is limited to macaque and in vitro stu
 | Obsolete familial combined hyperlipidemia | L5 | Hold | Obsolete term with no evidence; NRTIs tend to cause dyslipidemia, not treat it |
 | Congenital HIV | L1 | Proceed with Guardrails | Phase 3 trials (NCT00102960, NCT00001104) and public health guidance exist, but this is essentially the original HIV indication; monitor for anemia and neutropenia |
 | AIDS related complex | L1 | Proceed with Guardrails | Phase 3 trial NCT00001011 (n=538) supports use, but ARC is an outdated term and this is the historical original indication; many interactions and hematologic toxicity require guardrails |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

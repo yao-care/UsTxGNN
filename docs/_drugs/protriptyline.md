@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "PROTRIPTYLINE"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "attention deficit-hyperactivity disorder", "chondromyxoid fibroma", "faciodigitogenital syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Protriptyline: predicted new indication Attention deficit hyperactivity disorder, inattentive type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -112,6 +112,7 @@ The only support for ADHD is a single uncontrolled 1996 observational study and 
 | 1 | ADHD, inattentive type | 0.9995 | L5 | Mechanistic inference only; no trials or literature |
 | 2 | Specific developmental disorder | 0.9991 | L5 | No clear mechanistic rationale; likely network proximity to ADHD |
 | 5 | Faciodigitogenital syndrome | 0.9948 | L5 | No mechanistic rationale for this genetic condition; unsupported |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

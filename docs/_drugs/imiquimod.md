@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 793
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 monitor_inn: "IMIQUIMOD"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
 description: "Imiquimod: predicted new indication Pre-malignant neoplasm (evidence level L5). Approved use: Not recorded in the local data"
@@ -131,6 +131,7 @@ The mechanism (TLR7 agonism) is well established and consistent with pre-maligna
 | Cystic neoplasm | L5 | Hold | A single incidental case report |
 | Inner ear neoplasm | L5 | Hold | Only a veterinary study of a different drug |
 | Cervical neuroblastoma, nasopharyngeal teratoma, neoplasm of major salivary gland, schwannoma of jugular foramen | L5 | Hold | Model prediction only, with no clinical or literature support |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

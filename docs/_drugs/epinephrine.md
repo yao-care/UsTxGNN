@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 660
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "EPINEPHRINE"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -132,6 +132,7 @@ Three completed Phase 3 trials of inhaled epinephrine (E004) in asthma support t
 |------|------|------|------|------|
 | Rienhoff syndrome | 0.9957 | L5 | Hold | No trials, no literature and no identifiable mechanistic rationale. |
 | Respiratory malformation | 0.9956 | L3 | Research Question | The only trial covers transient tachypnoea of the newborn, which is not a structural malformation. Much of the literature is off-target. |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

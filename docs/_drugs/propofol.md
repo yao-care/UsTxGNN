@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "PROPOFOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Propofol: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the available license records (propofol is generally kn…"
 ---
 
@@ -129,6 +129,7 @@ Several randomized trials and systematic reviews support low-dose propofol for a
 | Prinzmetal angina | 0.9923 | L5 | Hold | Case reports describe coronary spasm triggered during anesthesia, which is a safety signal rather than a benefit |
 | Nephrogenic syndrome of inappropriate antidiuresis | 0.9920 | L5 | Hold | No mechanistic link or evidence |
 | Tourette syndrome | 0.9903 | L4 | Hold | Evidence concerns propofol as sedation during deep brain stimulation surgery, not as a treatment for tics |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

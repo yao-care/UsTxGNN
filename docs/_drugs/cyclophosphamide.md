@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 556
 evidence_level: L1
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "CYCLOPHOSPHAMIDE"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
 description: "Cyclophosphamide: predicted new indication Myeloid leukemia (evidence level L1). Approved use: Not recorded in the local data"
@@ -162,6 +162,7 @@ The package insert safety data are also missing, although the drug is marketed i
 | 3 | Vertebral anomalies and variable endocrine and T-cell dysfunction | 0.9938 | L5 | Hold | No trials or literature; immunosuppression may worsen the existing T-cell deficiency |
 | 4 | Retroperitoneal neoplasm | 0.9937 | L4 | Research Question | Mixed histologies; case reports and small series only, with no trials |
 | 5 | Lymph node cancer | 0.9931 | L1 | Proceed with Guardrails | Large Phase 3 trials in node-positive breast cancer, which largely overlaps existing indications (lymphoma, breast carcinoma) and is closer to an extension of existing use |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

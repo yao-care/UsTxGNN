@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CLOZAPINE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "psychotic disorder", "Malan overgrowth syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Clozapine: predicted new indication Manic bipolar affective disorder (evidence level L2). Approved use: Not listed in the compiled data (literature describes treatment-resis…"
 ---
 
@@ -145,6 +145,7 @@ One completed Phase 2 double-blind trial and a systematic review and meta-analys
 | Trichotillomania | 0.9990 | L5 | Hold |
 | ADHD, inattentive type | 0.9921 | L5 | Hold |
 | Malan overgrowth syndrome | 0.9902 | L5 | Hold |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

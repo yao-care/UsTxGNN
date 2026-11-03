@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 782
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "HYDROXYZINE"
 predicted_indications: ["rosacea conjunctivitis"]
 description: "Hydroxyzine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -125,6 +125,7 @@ The prediction is mechanistically sound but is essentially an existing use. Guid
 | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|
 | Rosacea conjunctivitis | 0.9970 | L5 | Hold. Weak mechanistic link, since ocular rosacea is not mainly histamine-driven, and no trials or literature. |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "THIORIDAZINE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "major affective disorder", "bipolar disorder", "obsessive-compulsive disorder", "attention deficit-hyperactivity disorder", "paranoid personality disorder", "schizoid personality disorder"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Thioridazine: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -147,6 +147,7 @@ The prediction is mechanistically plausible (D2 antagonism), but there are no cl
 | 8 | Attention deficit-hyperactivity disorder | 0.9955 | L3 | Hold | Two 1991 double-blind studies of methylphenidate versus thioridazine in intellectually subaverage children. Methylphenidate was the clearly effective agent, and thioridazine carries cardiac and sedation risks in children. |
 | 9 | Paranoid personality disorder | 0.9954 | L5 | Hold | Only a 1989 open-label study in borderline personality disorder (11 patients). |
 | 10 | Schizoid personality disorder | 0.9954 | L5 | Hold | Same single 1989 study as rank 9. The identical score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

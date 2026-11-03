@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1254
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Trazodone: predicted new indication Obsessive-compulsive disorder (evidence level L3). Approved use: Unipolar depression, major depressive disorder"
 monitor_inn: "TRAZODONE"
 predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
@@ -122,6 +122,7 @@ The mechanistic link is plausible and one placebo-controlled study exists, but t
 | Phobic disorder | 0.9945 | L5 | Rests on the same two panic and agoraphobia studies |
 | Paranoid and histrionic personality disorders | 0.9992 | L5 | Only a drug-interaction case report and a 1975 hysteria report, with no efficacy evidence |
 | Schizoid and schizotypal personality disorders, benign paroxysmal torticollis of infancy, Ohdo syndrome | 0.9992 / 0.9992 / 0.9983 / 0.9928 | L5 | No trials, no literature, no plausible mechanism; scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "OXACILLIN"
 predicted_indications: ["epiglottitis", "laryngitis", "bacterial arthritis", "urinary tract infection (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Oxacillin: predicted new indication Epiglottitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -118,6 +118,7 @@ The prediction is supported only by the model score, with no trials or literatur
 | Laryngitis | 0.9973 | L5 | Hold. Most cases are viral or non-infectious, and there are no trials or literature. |
 | Bacterial arthritis | 0.9950 | L5 | Research question. Oxacillin is already standard care for MSSA bone and joint infection, supported by reviews (e.g., PMID 24119927). It is more a matter of labeling than true repurposing. |
 | Urinary tract infection | 0.9903 | L4 | Hold. Oxacillin has no activity against the Gram-negative organisms that cause most UTIs, and the literature is mostly surveillance data. |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

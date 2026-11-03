@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1227
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "fibrocartilaginous embolism"]
 description: "Ticagrelor: predicted new indication Intracranial arteriosclerosis (evidence level L5). Approved use: Not recorded in the local data"
@@ -120,6 +120,7 @@ The mechanism is plausible, and a large Phase 3 trial (CAPTIVA, n=1683) directly
 |------|------|------|------|------|------|
 | 4 | Ischemic disease | 0.9964 | L1 | Proceed with Guardrails | Largely overlaps the existing acute coronary syndrome use (e.g., TWILIGHT, PEGASUS, and 2021 stroke/TIA RCTs), so it confirms an existing use rather than novel repurposing |
 | 8 | Vascular ectasia | 0.9947 | L5 | Research Question | Only an indirect review on coronary ectasia; bleeding concern |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

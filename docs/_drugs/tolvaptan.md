@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1241
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 monitor_inn: "TOLVAPTAN"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 description: "Tolvaptan: predicted new indication Renal-hepatic-pancreatic dysplasia (evidence level L5). Approved use: Not recorded in the local data"
@@ -126,6 +126,7 @@ Tolvaptan has strong RCT and systematic review evidence in ADPKD, and its V2-ant
 | 5 | Joubert syndrome with renal defect | L5 | Research Question | Indirect cAMP rationale; needs preclinical work |
 | 6 | Adult familial nephronophthisis-spastic quadriparesia syndrome | L5 | Hold | Indirect rationale only |
 | 7–10 | Hypertrichosis-related, odontal/periodontal malformation and Dandy-Walker-related syndromes | L5 | Hold | No plausible mechanism; likely model artifacts |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

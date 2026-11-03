@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 593
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 monitor_inn: "DEXLANSOPRAZOLE"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
 description: "Dexlansoprazole: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -123,6 +123,7 @@ Other high-ranking predictions, summarized for reference:
 | Duodenal ulcer | L1 | Proceed with Guardrails | Shared indirect Phase 3 evidence; no literature retrieved |
 | Gastrojejunal ulcer | L3 | Research Question | Only trial is a withdrawn Phase 4 absorption study (n=0); absorption after gastric bypass is unresolved |
 | Peptic ulcer perforation, gastroduodenitis, duodenal obstruction, duodenogastric reflux, leather-bottle stomach | L5 | Hold | Network-proximity predictions with no trials or literature |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 381
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -44,6 +44,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Regulatory status | 0 Taiwan licenses; not marketed in any jurisdiction on record |
 | Safety data | All fields return `[Data Gap]`; three components carry high-risk profiles at non-homeopathic doses |
 | Decision | **Hold** — re-submit as decomposed individual ingredients after DrugBank mapping |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

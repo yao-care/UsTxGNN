@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 5
 monitor_inn: "PROCARBAZINE"
 predicted_indications: ["follicular lymphoma", "neuroblastoma", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Procarbazine: predicted new indication Follicular lymphoma (evidence level L3). Approved use: Hodgkin lymphoma (including classic Hodgkin lymphoma and related subt…"
 ---
 
@@ -129,6 +129,7 @@ The evidence is limited to a small case report, a cohort description of the PEP-
 | Ganglioneuroblastoma | 0.9921 | L5 | Hold | Model score only, no trials or literature |
 | Retroperitoneal neoplasm | 0.9914 | L5 | Hold | Broad anatomical category, no specific mechanism assignable |
 | Vertebral anomalies and variable endocrine and T-cell dysfunction | 0.9907 | L5 | Hold | Rare congenital syndrome with no plausible link to a cytotoxic agent; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

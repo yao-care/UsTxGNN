@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 626
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "DOXORUBICIN"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
 description: "Doxorubicin: predicted new indication Ewing sarcoma (evidence level L2). Approved use: Not recorded in the local data"
@@ -154,6 +154,7 @@ Doxorubicin is already a component of standard Ewing sarcoma regimens, supported
 | Parameningeal embryonal rhabdomyosarcoma | 0.9971 | L5 | Hold |
 | Botryoid-type embryonal rhabdomyosarcoma of the vagina | 0.9972 | L5 | Hold |
 | Well-differentiated fetal adenocarcinoma of the lung | 0.9986 | L5 | Hold (no trials or literature) |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

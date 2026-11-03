@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "PITOLISANT"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Pitolisant: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -131,6 +131,7 @@ The prediction is supported only by a model score. There are no clinical trials 
 |------|------|------|------|------|------|
 | 2 | Attention deficit-hyperactivity disorder | 0.9936 | L5 | Research Question | H3 antagonism increases histamine, acetylcholine, dopamine and norepinephrine release in cortical circuits, which gives a plausible basis for effects on attention. No ADHD-specific trials exist, and the literature is review-level. A dedicated proof-of-concept trial would be needed, with attention to insomnia, anxiety and QT considerations. |
 | 3 | Faciodigitogenital syndrome (Aarskog-Scott syndrome) | 0.9929 | L5 | Hold | No plausible mechanistic link, no trials and no literature. This is a computational prediction only. |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

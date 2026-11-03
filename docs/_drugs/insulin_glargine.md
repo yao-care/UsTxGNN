@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Insulin glargine"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Insulin Glargine: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -117,6 +117,7 @@ The other top predictions are also computational only and are on Hold. None has 
 | 8 | Centrifugal lipodystrophy | 0.9939 | L5 | Speculative, no evidence |
 | 9 | Pressure-induced localized lipoatrophy | 0.9938 | L5 | Insulin can itself cause lipoatrophy |
 | 10 | Idiopathic localized lipodystrophy | 0.9934 | L5 | No mechanism or evidence |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

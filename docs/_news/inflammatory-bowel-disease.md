@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 12 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 8 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>12 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>8 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (12)
-
-### [Voyager 1 Goes Silent Before Historic Light-Day Milestone](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbVRVQVQxNnQyYjFqelV2WlQzek5ET2pSYm9NQzhYeUJfZW9mZUU1a3Zjekt3VG11MFFleDhDd2FkNFVWeGRpOW05eGFzcXB3ckE1TzZMZEpZei1xa0tjS3RmRDk3OFdnS0E4TDc2LXU3ZXVLdUM5d1FUbWtSMzNDSTBwNUNRbVljdHdVMVVNcXpsR3ZvSTBZS0RXQjdyUDVZSktyTjhCMGREOGJrX2hpVk5QN3FCMklna3AzLWlsNUY?oc=5)
-
-2026-11-02
-
-Source: [Gizmodo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbVRVQVQxNnQyYjFqelV2WlQzek5ET2pSYm9NQzhYeUJfZW9mZUU1a3Zjekt3VG11MFFleDhDd2FkNFVWeGRpOW05eGFzcXB3ckE1TzZMZEpZei1xa0tjS3RmRDk3OFdnS0E4TDc2LXU3ZXVLdUM5d1FUbWtSMzNDSTBwNUNRbVljdHdVMVVNcXpsR3ZvSTBZS0RXQjdyUDVZSktyTjhCMGREOGJrX2hpVk5QN3FCMklna3AzLWlsNUY?oc=5)
-
----
+## Related News (8)
 
 ### [New cancer treatment approach could help immune cells fight tumors longer - Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTFyeVozR0ZQZ29OTzVINHZEcEo4QUZaZ18xbjEzSWlMaUloUHhQS25VemJyZXZVbVJ1ZjgySDV4YzhwWlFNNnVvb3BudEhiUllLT2R0MDVXdTg5Y0NuM1lsVUNqUE5CTUdva1dSYU15NGw0SWtuNE5zQlpwSUg3SWRSV1ZiSWZjTUx4Tnl3aUxfOXNsTnFRZzBObmRWUG_SAaQBQVVfeXFMTnNoOHJWaUhNVmg3aU5SLUVSakEzQzRabkh1SmxDNzM5VzZBTEFMcUxnUW01Qm91QUtrVFZibTY0OTFWaVozQ3VQb1lyWTU1a1VTQ0xsOC14RFRmeDBxclZmbWpVNE8yeHF4ZlRoUXdkTUxLdldLNTRzZHo4eWp6M3g0VWNPZWpwZGVXenhxMEIxZ2tEMUY5cWlYdV91UWpGSFRpRHg?oc=5)
 
@@ -53,19 +45,11 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTFyeVoz
 
 ---
 
-### [New diabetes implant uses electricity to lower blood sugar and promote weight loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXR2RUtGWWZHUU45ODgyNF9IQm9BWlo0Q184UTlyenY5RjVVLWo2NmtKdWRkWDVCbmE5M2ZXOVZHTmN6YkFuSUtJbGc4aXItUkoxcGRmQ1lMazlWQ3RBVWlsVV9WaHp5SlcxV2tLOA?oc=5)
+### [Energy drinks, stimulant products linked to cardiac arrest, heart attack in young adults](https://news.google.com/rss/articles/CBMiugFBVV95cUxNR19nN3dVTEFLYU05REc3OHRleDZSLVotX09VdmNWVkNEcmt5RVJFOE15b0NfX1hLV3pRbmFyNXV6SXBZVGN3bzF4Mk9ZNUIzMS1Bb3lDNV94N0k4SXpDX21jeGE0VzNmUTdLUWVuTDBUX3RFMDVnbGxsSURwNXQySmN4SWcxcnc5OVdhTkkwTkxuNk5rUkRodGdXTUdjYTdZREdtRkxza2xKemx6TjVnZzJjdTNqcUdIblE?oc=5)
 
 2026-11-02
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXR2RUtGWWZHUU45ODgyNF9IQm9BWlo0Q184UTlyenY5RjVVLWo2NmtKdWRkWDVCbmE5M2ZXOVZHTmN6YkFuSUtJbGc4aXItUkoxcGRmQ1lMazlWQ3RBVWlsVV9WaHp5SlcxV2tLOA?oc=5)
-
----
-
-### [Energy drinks linked to higher risk of cardiac arrest in young adults, study finds - NBC News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWUlWWWNqTlNYY284VGx3cmJ0c2ZNb3hhMDFoVTU0LUE0blNwM3ZwTmVhaExNSXpZVldWeWwzekRUM3lFSjloQnRYaWxzYXJ6Sk5iM2U4VWNoT0k5eXlrVVY3VE5wSU5PZ2gxdkJXZm1lUkhDU2t3OTBQWWZRZVp4bzRFUFdTbzFxbWdteTBva0RiMGVIMlAyY0VwRllEUHVKclJ0cm5aZ01pbURlMzV4TUR2T3BGS0xuNXBXWl80STlKQQ?oc=5)
-
-2026-11-02
-
-Source: [NBC News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWUlWWWNqTlNYY284VGx3cmJ0c2ZNb3hhMDFoVTU0LUE0blNwM3ZwTmVhaExNSXpZVldWeWwzekRUM3lFSjloQnRYaWxzYXJ6Sk5iM2U4VWNoT0k5eXlrVVY3VE5wSU5PZ2gxdkJXZm1lUkhDU2t3OTBQWWZRZVp4bzRFUFdTbzFxbWdteTBva0RiMGVIMlAyY0VwRllEUHVKclJ0cm5aZ01pbURlMzV4TUR2T3BGS0xuNXBXWl80STlKQQ?oc=5)
+Source: [www.heart.org](https://news.google.com/rss/articles/CBMiugFBVV95cUxNR19nN3dVTEFLYU05REc3OHRleDZSLVotX09VdmNWVkNEcmt5RVJFOE15b0NfX1hLV3pRbmFyNXV6SXBZVGN3bzF4Mk9ZNUIzMS1Bb3lDNV94N0k4SXpDX21jeGE0VzNmUTdLUWVuTDBUX3RFMDVnbGxsSURwNXQySmN4SWcxcnc5OVdhTkkwTkxuNk5rUkRodGdXTUdjYTdZREdtRkxza2xKemx6TjVnZzJjdTNqcUdIblE?oc=5)
 
 ---
 
@@ -77,19 +61,11 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMie0FVX3lxTFA4UEtXNUdp
 
 ---
 
-### [Clues emerge on why colon cancer may be harder to treat in young people - The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUVzclJHUHdVdE8yYk9WYXJtR0J0ZXYzRDNIWjZWUmN2MnhWRmNPOUxsNy1JT1hra2NfZTR5VjVOSG9hcG1CUVc3X183WEpSZjBsVUdpNmQta0RZOGFGbGZKOWJ0bHo0OGt6cEhNbWo2eVhNNS1BVUdUZVRKY0o1UUJkckdDS2RlNFQySmdHWVBUMVB3VWVHbzY2RWE3RnJoZUp6SW1Sdko5MmlqM194V0l3?oc=5)
+### [No, eating out of the bin is not a good way to get fibre - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFzVFV1QU40NFVDZS1uTGdVeExYNTJTeWh0SXdaaGdyaVlFUFJvNjd2WUEtMjdEWVVSYU5kcWJTa0luYjNUSFl5SVVzUFVOX0g5S05oX21EVUxubjJBS0Nza2Q1ZGlyNjk1b2VlNlRpMGdsMkZCSVNoUHlBVVZXX2h1Y0NTaklkVDcwVnJEaF9yTklsb3pzN3Q4MFR2SHVIOEE?oc=5)
 
 2026-11-01
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUVzclJHUHdVdE8yYk9WYXJtR0J0ZXYzRDNIWjZWUmN2MnhWRmNPOUxsNy1JT1hra2NfZTR5VjVOSG9hcG1CUVc3X183WEpSZjBsVUdpNmQta0RZOGFGbGZKOWJ0bHo0OGt6cEhNbWo2eVhNNS1BVUdUZVRKY0o1UUJkckdDS2RlNFQySmdHWVBUMVB3VWVHbzY2RWE3RnJoZUp6SW1Sdko5MmlqM194V0l3?oc=5)
-
----
-
-### [Newly discovered pathway fuels production of cancer-driving proteins - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGQwaDhFTXE0aXJZTkY0WmVPNWZCM09kU2h6bHV1SHZ4d09TMDk3TXU4cDloV2tOMmpRRHJvNmpIcEZ0SEFUZldLT0RBc004dlFVcGJkNm9tU0xEcVdEWUlubDJoUmtGamVGemFESWNCRmVMbFBWQlYzN0lYN2RTREQxc25qUm9M?oc=5)
-
-2026-11-01
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGQwaDhFTXE0aXJZTkY0WmVPNWZCM09kU2h6bHV1SHZ4d09TMDk3TXU4cDloV2tOMmpRRHJvNmpIcEZ0SEFUZldLT0RBc004dlFVcGJkNm9tU0xEcVdEWUlubDJoUmtGamVGemFESWNCRmVMbFBWQlYzN0lYN2RTREQxc25qUm9M?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFzVFV1QU40NFVDZS1uTGdVeExYNTJTeWh0SXdaaGdyaVlFUFJvNjd2WUEtMjdEWVVSYU5kcWJTa0luYjNUSFl5SVVzUFVOX0g5S05oX21EVUxubjJBS0Nza2Q1ZGlyNjk1b2VlNlRpMGdsMkZCSVNoUHlBVVZXX2h1Y0NTaklkVDcwVnJEaF9yTklsb3pzN3Q4MFR2SHVIOEE?oc=5)
 
 ---
 
@@ -109,27 +85,19 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2p
 
 ---
 
-### [The Pancreatic Cancer Symptoms That Are Easy to Blame on Something Else](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0xCVVZIODFTenJ4Sy15MGNpcUpIVXZaZGFMaVpvM0hwVVByeTQxZnZXTnRNc0Y0RVZwYlFCSk5rZm5oU0NJSWZDU3FsQTY0SExFa2xnMV9VTU5sRmw1b1huRWI4WUcyTndCUmdGREU0czJTNFpGWWhYNnpTUEExRFQ5MUJyeU5X?oc=5)
+### [The rise of colon cancer among young people has been a mystery. Boston experts say they now have clues. - The Boston Globe](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFYyODd3aFJia3FQYTVMTHpKcTFSOUxXNnpKNGdYbFFjc2VxNGIwT1VPRXZvdzBfNTN2bjgzQnRiNFdCUnhFQ0RWNHNxZlEycF9XdG5PVU1GS0dfYnRYMW52NkFBcl9fb1haZTRROVRWQnhYQkd4WHpyYWlWNm00RVJ3T2QteG5iZmVMeE5sR0Y?oc=5)
 
 2026-10-29
 
-Source: [AOL.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0xCVVZIODFTenJ4Sy15MGNpcUpIVXZaZGFMaVpvM0hwVVByeTQxZnZXTnRNc0Y0RVZwYlFCSk5rZm5oU0NJSWZDU3FsQTY0SExFa2xnMV9VTU5sRmw1b1huRWI4WUcyTndCUmdGREU0czJTNFpGWWhYNnpTUEExRFQ5MUJyeU5X?oc=5)
+Source: [The Boston Globe](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFYyODd3aFJia3FQYTVMTHpKcTFSOUxXNnpKNGdYbFFjc2VxNGIwT1VPRXZvdzBfNTN2bjgzQnRiNFdCUnhFQ0RWNHNxZlEycF9XdG5PVU1GS0dfYnRYMW52NkFBcl9fb1haZTRROVRWQnhYQkd4WHpyYWlWNm00RVJ3T2QteG5iZmVMeE5sR0Y?oc=5)
 
 ---
 
-### [These 1970s Kids Had to Stay in School For 1 Year Longer. Decades Later, The Results Are Dramatic.](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTZiSGNzM0pSOVZpRVlsWEt3YUpsTkFEcmVWMjlPYTNudnMwZWZ4VjBPbEgwQVVEM2dyc1czMEZndUhvWTV0ZnNEZld4SHc4dklZQlNNcDVyNTRZU0lfaWRBWEh0bHByTDFxcjdGcURvazFQQkd5Z3ZOYnUtSUZMTTE5UzZoRnFnNUdlZDYzZU1VZGlzdDlDU0djenFYSWk0MGJfN1N2SUhfckFFLVR3a3BNUWZqeXk5blFURnZWUTduZw?oc=5)
+### [Routine CT Scans May Detect Signs of Pancreatic Cancer Years Before Diagnosis](https://news.google.com/rss/articles/CBMie0FVX3lxTE5QQ1RqcmhxRzh3OXJlZlFrYVJBWmtKcC1RQ2M0SjNGbWt0V1JQbEhmcnkzWl9adjFfOG5EckVuRS1fM0VrTXRLbnRNa2hScXczVF9VZFhYODc0c1RSMXRtam1VcTUyX0FFVnJwa095UTB3YVB5c1h6c3NBcw?oc=5)
 
-2026-10-29
+2026-10-28
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTZiSGNzM0pSOVZpRVlsWEt3YUpsTkFEcmVWMjlPYTNudnMwZWZ4VjBPbEgwQVVEM2dyc1czMEZndUhvWTV0ZnNEZld4SHc4dklZQlNNcDVyNTRZU0lfaWRBWEh0bHByTDFxcjdGcURvazFQQkd5Z3ZOYnUtSUZMTTE5UzZoRnFnNUdlZDYzZU1VZGlzdDlDU0djenFYSWk0MGJfN1N2SUhfckFFLVR3a3BNUWZqeXk5blFURnZWUTduZw?oc=5)
-
----
-
-### [Cutting This One Food Could Drastically Reduce Your Colon Cancer Risk](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DVWhxLTlmaG9pMGVYSDIyMm9QY3pjdlRFNjdpbEo1X1BES08zbDRLVzhLbHRad1I4S3Q0Nk81b1dCN0o4SVg2a1lnMENsU0ZVOWlNRGVtNGsyc09GRWl6VmZPTDQ5U2VIZjZ6VVoySQ?oc=5)
-
-2026-10-27
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DVWhxLTlmaG9pMGVYSDIyMm9QY3pjdlRFNjdpbEo1X1BES08zbDRLVzhLbHRad1I4S3Q0Nk81b1dCN0o4SVg2a1lnMENsU0ZVOWlNRGVtNGsyc09GRWl6VmZPTDQ5U2VIZjZ6VVoySQ?oc=5)
+Source: [AOL.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE5QQ1RqcmhxRzh3OXJlZlFrYVJBWmtKcC1RQ2M0SjNGbWt0V1JQbEhmcnkzWl9adjFfOG5EckVuRS1fM0VrTXRLbnRNa2hScXczVF9VZFhYODc0c1RSMXRtam1VcTUyX0FFVnJwa095UTB3YVB5c1h6c3NBcw?oc=5)
 
 ---
 

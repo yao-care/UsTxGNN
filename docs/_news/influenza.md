@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 5 articles, 2 related drugs."
+description: "Health news about flu (influenza). 4 articles, 2 related drugs."
 permalink: /news/influenza/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>5 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,15 +31,7 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (5)
-
-### [Third person dies of bird flu since virus started jumping to livestock - Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxPVGpfVlBQWGJOcmJ2eGJSQW9GaFg1N01lMFRWQ2F6UTMtendUNGszUmttcW1WRU80WElLNmxUN25jR3VTMFNNdHBLNGV2NUpaUjRwRnBydUYycUI0dklVSDJWZUVZeDBrajVfRjl5WnNyZ1p0RXBPQldhV05mVnVGZV9yVkNKMU1JdmZXNlpIUzlKM0pMOC1lcDFLZ2E5cU9NVUczRlhSNE15WnNReVVj?oc=5)
-
-2026-11-02
-
-Source: [Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxPVGpfVlBQWGJOcmJ2eGJSQW9GaFg1N01lMFRWQ2F6UTMtendUNGszUmttcW1WRU80WElLNmxUN25jR3VTMFNNdHBLNGV2NUpaUjRwRnBydUYycUI0dklVSDJWZUVZeDBrajVfRjl5WnNyZ1p0RXBPQldhV05mVnVGZV9yVkNKMU1JdmZXNlpIUzlKM0pMOC1lcDFLZ2E5cU9NVUczRlhSNE15WnNReVVj?oc=5)
-
----
+## Related News (4)
 
 ### [How does this fluoride-free toothpaste compare when it comes to oral health?](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmFJUkxWeU5RMlR0LVFmQ0dudl9vZXB3OGxVVnpTMS16ZVMyV1hta3lsa3dXenVEUWhSMmJILXJuZmhZWWdHTW5Od0tianFCbHlSNjYxb2stUmNCV3U5MkZaWVBiOHRrVV9tc3ZPM0xfXzhZdkNBLU93UVFPZTNfR2tSQy11ejdoVEdNcE9sb0t0OXpmX19OWmdiM1NHdnM?oc=5)
 
@@ -49,11 +41,11 @@ Source: [NPR](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmFJUkxWeU5RM
 
 ---
 
-### [Aussie fitness influencer hospitalised in Bali after contracting deadly brain infection](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdDNkOUFlUVJOMWpSVVBfQWNNeW16cmo0cTdQc2pJUUtWdXM5SEowN0xxc3E2eEdWVWpKMk1oTzU2TkZNWGNJa0R3QWc0ME1kTWFhZTJSMFBRdWhDZHFieFpsWDFrTzdRX0pYU3JjdnRZWWxoRmJGaENkNEl6TEFsT3pXejQwUVBYTUxWai1LdnkxSFI1ei13ZGpwUDhham5VdmxuZWI4NF82LWYtcmxDNHNac0NraEl4aXRTanVSZjFzX2Z6MDI3OUstSVhrYjVYOElzZkpTT0VKZkJtNmt5cFFn?oc=5)
+### [Aussie woman battling brain infection in Bali - Sky News Australia](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLXpGOUpnTUcxdmdodTdETEJKSXVLZ09EbTFoR0tucHJISks0dFk3VUcxazBSbl9JclJjeDNfcldoQUVUdWViZEpRM05uTnJENnk0VkppamtEV0Q5U01iVjV6SnRSY1gzemZEbmk1ZUZWZFIydWIwekx6a19oWmVKQVJwaUkwLWxsSWNKZXVvczkyVmpsc1VvTGZ3TkRhcHZpd1F5bUhfQUhldm5qR3haNERWbzJWeTVzVFBnRm9ZbjVQcnR3d1JTZS1HMnYtN3J4MHg1bGhrSUp3eHZMLVBLaWlQX1QtWW4xVzM4clJ3?oc=5)
 
-2026-11-01
+2026-11-02
 
-Source: [Nine.com.au](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdDNkOUFlUVJOMWpSVVBfQWNNeW16cmo0cTdQc2pJUUtWdXM5SEowN0xxc3E2eEdWVWpKMk1oTzU2TkZNWGNJa0R3QWc0ME1kTWFhZTJSMFBRdWhDZHFieFpsWDFrTzdRX0pYU3JjdnRZWWxoRmJGaENkNEl6TEFsT3pXejQwUVBYTUxWai1LdnkxSFI1ei13ZGpwUDhham5VdmxuZWI4NF82LWYtcmxDNHNac0NraEl4aXRTanVSZjFzX2Z6MDI3OUstSVhrYjVYOElzZkpTT0VKZkJtNmt5cFFn?oc=5)
+Source: [Sky News Australia](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLXpGOUpnTUcxdmdodTdETEJKSXVLZ09EbTFoR0tucHJISks0dFk3VUcxazBSbl9JclJjeDNfcldoQUVUdWViZEpRM05uTnJENnk0VkppamtEV0Q5U01iVjV6SnRSY1gzemZEbmk1ZUZWZFIydWIwekx6a19oWmVKQVJwaUkwLWxsSWNKZXVvczkyVmpsc1VvTGZ3TkRhcHZpd1F5bUhfQUhldm5qR3haNERWbzJWeTVzVFBnRm9ZbjVQcnR3d1JTZS1HMnYtN3J4MHg1bGhrSUp3eHZMLVBLaWlQX1QtWW4xVzM4clJ3?oc=5)
 
 ---
 
@@ -65,11 +57,11 @@ Source: [Newser](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcF9ueHlRWW
 
 ---
 
-### [Flu’s Back Way Sooner Than Normal. Here’s What to Know.](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXF5ak5GeXM1cThMV01VcW9xMTF0WHVCeWZHNHJXczl0aUlQSzdNb19IMEFzMkFoVWtYdnNUQVBQQXQzbnlWNUxCamF3UGZSWC1UU05qNXpYZGRIdUlHS2t5b0FxZzRYeEpFTTdFcmNhUHgyLThFc1d3ZG1TQ3VIaVlnV3NYNzg2dkVMTm1QOHQ?oc=5)
+### [Weekly US Influenza Surveillance Report: Key Updates for Week 42, ending October 24, 2026 | FluView - Centers for Disease Control and Prevention | CDC (.gov)](https://news.google.com/rss/articles/CBMiakFVX3lxTE0wd0N4UHh1eEZpSE0tNDVSdEdGbXRYaEppc1pSUWZCeWpPQUlMMnl6SnpBLXg1QmRGTmlsOEIyN2t4aU14V0FLX2R4R2VxaXpTYnNTZlFCeDlkc3ZFWkV6STdqM01FT1AyTnc?oc=5)
 
 2026-10-30
 
-Source: [WSJ](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXF5ak5GeXM1cThMV01VcW9xMTF0WHVCeWZHNHJXczl0aUlQSzdNb19IMEFzMkFoVWtYdnNUQVBQQXQzbnlWNUxCamF3UGZSWC1UU05qNXpYZGRIdUlHS2t5b0FxZzRYeEpFTTdFcmNhUHgyLThFc1d3ZG1TQ3VIaVlnV3NYNzg2dkVMTm1QOHQ?oc=5)
+Source: [Centers for Disease Control and Prevention | CDC (.gov)](https://news.google.com/rss/articles/CBMiakFVX3lxTE0wd0N4UHh1eEZpSE0tNDVSdEdGbXRYaEppc1pSUWZCeWpPQUlMMnl6SnpBLXg1QmRGTmlsOEIyN2t4aU14V0FLX2R4R2VxaXpTYnNTZlFCeDlkc3ZFWkV6STdqM01FT1AyTnc?oc=5)
 
 ---
 

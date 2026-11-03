@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 12 articles, 1 related drugs."
+description: "Health news about cancer. 11 articles, 1 related drugs."
 permalink: /news/cancer/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>12 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>11 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (12)
+## Related News (11)
+
+### [Merthyr woman told she had anxiety but it was breast cancer](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WSHZoY1NnWC1PTkdIR041Y2NEWVZYc1F1V2VCNTBSWmxkNG9wSC1YNVplZ3NWbUlFTVkyYUZSd1JpblI2aHJ1TWxQX0tpeklzeENRNjRVMG1wN3c?oc=5)
+
+2026-11-03
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WSHZoY1NnWC1PTkdIR041Y2NEWVZYc1F1V2VCNTBSWmxkNG9wSC1YNVplZ3NWbUlFTVkyYUZSd1JpblI2aHJ1TWxQX0tpeklzeENRNjRVMG1wN3c?oc=5)
+
+---
 
 ### [This woman defied lethal cancer. Can mRNA vaccines make that possible for others?](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMzgyQTRjcGxWUWpBOEwyTVFhOS1teFUyZmNpc2w5YUVuNWxibmlnUlB1TFVKbVFWRWMtSWxjbTdhQTFlNTBvYU94cVpVMjJQQ241QW1YM2N5d3IwMDZPQlhQV3FTUGhRQ296R0dBOERnSkVNU1NFcGFlMjZIeWttaU1IOTl5bUk?oc=5)
 
@@ -56,11 +64,11 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTFyeVoz
 
 ---
 
-### [Can odors from our bodies signal Alzheimer's, cancer and other diseases?](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjY4SUpCV0M1NFNQMmV3TVBmT3kzQ3Bpemh1ejZZUXlDaWR5OG9faGdPa0hxVUhYRTdYdEhIdzZlanp0dW8wV3lWRnFUbkhqWTA5TWd3UnlvYi1GUldUcUFCTE1nZjNxVHhQa3VjX0UwckVTallILTlyMVJON1F4LXl4bUJOSTgwbGF4d0xYX3paUkdKTzlUam12MA?oc=5)
+### [Can odors from our bodies signal Alzheimer’s, cancer and other diseases? - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1FWV0xBZWNVUmdsckVicHNObWVSOUt3bXBoSlFRVVozZlV6cml6Y3hGSGhhYlVuUjNJM2QyOFM2STVqMnB6UGtzUko5bVM1c01Mb3pCY2tNZFV6T1FvdTB3ajdvQ0g1dzQ5ZGpxamhnOGNlMzF0UjNyZnJGTmhsVGFNYmNfRXgyOGpOU2tNZXVXVHByRm1nbWVGSnM4bEVwU2xqeWg4WmRUZDZnQlE?oc=5)
 
 2026-11-01
 
-Source: [Yahoo](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjY4SUpCV0M1NFNQMmV3TVBmT3kzQ3Bpemh1ejZZUXlDaWR5OG9faGdPa0hxVUhYRTdYdEhIdzZlanp0dW8wV3lWRnFUbkhqWTA5TWd3UnlvYi1GUldUcUFCTE1nZjNxVHhQa3VjX0UwckVTallILTlyMVJON1F4LXl4bUJOSTgwbGF4d0xYX3paUkdKTzlUam12MA?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1FWV0xBZWNVUmdsckVicHNObWVSOUt3bXBoSlFRVVozZlV6cml6Y3hGSGhhYlVuUjNJM2QyOFM2STVqMnB6UGtzUko5bVM1c01Mb3pCY2tNZFV6T1FvdTB3ajdvQ0g1dzQ5ZGpxamhnOGNlMzF0UjNyZnJGTmhsVGFNYmNfRXgyOGpOU2tNZXVXVHByRm1nbWVGSnM4bEVwU2xqeWg4WmRUZDZnQlE?oc=5)
 
 ---
 
@@ -88,27 +96,11 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95c
 
 ---
 
-### [Doctor Shares 3 Lifestyle Habits to Reduce Breast Cancer Risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
-
-2026-10-30
-
-Source: [TODAY.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
-
----
-
 ### [New Pancreatic Cancer Vaccine Sparked Immune Responses in 99% of Patients](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlQ0VjR5UFE5X2Flb1VMUklnaHdrWmtqZ185QmpqQ0I5WjNxWi16eWZnYjhXVjAzTEZWRW1YWFZJVjg0MGRQc0Ffd0ZoNHdSa2tBV2p1T2FwbTZrQVh4OHhRcDBrN1ZFUnJscGlvNkUxNENTcnVhT2JtbnVDdGdPQWNKLUpvSGljRmtxekJ5a0lJVVc2R2pSZUlpT09OcWVldDBV?oc=5)
 
 2026-10-29
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlQ0VjR5UFE5X2Flb1VMUklnaHdrWmtqZ185QmpqQ0I5WjNxWi16eWZnYjhXVjAzTEZWRW1YWFZJVjg0MGRQc0Ffd0ZoNHdSa2tBV2p1T2FwbTZrQVh4OHhRcDBrN1ZFUnJscGlvNkUxNENTcnVhT2JtbnVDdGdPQWNKLUpvSGljRmtxekJ5a0lJVVc2R2pSZUlpT09OcWVldDBV?oc=5)
-
----
-
-### [The Pancreatic Cancer Symptoms That Are Easy to Blame on Something Else](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0xCVVZIODFTenJ4Sy15MGNpcUpIVXZaZGFMaVpvM0hwVVByeTQxZnZXTnRNc0Y0RVZwYlFCSk5rZm5oU0NJSWZDU3FsQTY0SExFa2xnMV9VTU5sRmw1b1huRWI4WUcyTndCUmdGREU0czJTNFpGWWhYNnpTUEExRFQ5MUJyeU5X?oc=5)
-
-2026-10-29
-
-Source: [AOL.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0xCVVZIODFTenJ4Sy15MGNpcUpIVXZaZGFMaVpvM0hwVVByeTQxZnZXTnRNc0Y0RVZwYlFCSk5rZm5oU0NJSWZDU3FsQTY0SExFa2xnMV9VTU5sRmw1b1huRWI4WUcyTndCUmdGREU0czJTNFpGWWhYNnpTUEExRFQ5MUJyeU5X?oc=5)
 
 ---
 

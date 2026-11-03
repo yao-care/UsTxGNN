@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 4 articles, 2 related drugs."
+description: "Health news about flu (influenza). 5 articles, 2 related drugs."
 permalink: /news/influenza/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>5 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Bird flu kills US resident after dairy cow exposure, marking nation’s third death - Fox News](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGg3ZkVDMzVucmgteGJON0xfQ3hDczV1S3p4YlRJXzNoaTVKTW1kQjdFVlNoenFiVEtCQjR2Z1lmeVotcWhTRjd1NEtoTWlEU3RJMGZNU0JPdkhhSkR0clF1WEozNTEydEVLY1c1c0huYS1XRFp0R2g0NENWaHoyekdIWXRKN1YwczZRcDdfS3JicnloMGt4YzllUzUxUjdZV0JxUGJDNNIBrAFBVV95cUxPWlY5MHFWR0RQdEZ0Yi1mYUIydnhZVXlnRlFqWlpIVnpydzNnOHVNUDhqVVJibnVQZ3ZUY0s0QXluZGtad0RldXlxOF9tamlJRmVpeS1LbTl3YWs3bFRCV1RBYmFFZHJPY1E3QTZkWFdibjlVSGJ4bTF4Ql8wT3pjV3pMQ2paTGxyZnRRSUx2WDAzak5PUWZOdlpOZzAwa0pybEUyOEh5SFRVVEJJ?oc=5)
+
+2026-11-03
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGg3ZkVDMzVucmgteGJON0xfQ3hDczV1S3p4YlRJXzNoaTVKTW1kQjdFVlNoenFiVEtCQjR2Z1lmeVotcWhTRjd1NEtoTWlEU3RJMGZNU0JPdkhhSkR0clF1WEozNTEydEVLY1c1c0huYS1XRFp0R2g0NENWaHoyekdIWXRKN1YwczZRcDdfS3JicnloMGt4YzllUzUxUjdZV0JxUGJDNNIBrAFBVV95cUxPWlY5MHFWR0RQdEZ0Yi1mYUIydnhZVXlnRlFqWlpIVnpydzNnOHVNUDhqVVJibnVQZ3ZUY0s0QXluZGtad0RldXlxOF9tamlJRmVpeS1LbTl3YWs3bFRCV1RBYmFFZHJPY1E3QTZkWFdibjlVSGJ4bTF4Ql8wT3pjV3pMQ2paTGxyZnRRSUx2WDAzak5PUWZOdlpOZzAwa0pybEUyOEh5SFRVVEJJ?oc=5)
+
+---
 
 ### [How does this fluoride-free toothpaste compare when it comes to oral health?](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmFJUkxWeU5RMlR0LVFmQ0dudl9vZXB3OGxVVnpTMS16ZVMyV1hta3lsa3dXenVEUWhSMmJILXJuZmhZWWdHTW5Od0tianFCbHlSNjYxb2stUmNCV3U5MkZaWVBiOHRrVV9tc3ZPM0xfXzhZdkNBLU93UVFPZTNfR2tSQy11ejdoVEdNcE9sb0t0OXpmX19OWmdiM1NHdnM?oc=5)
 
@@ -49,19 +57,19 @@ Source: [Sky News Australia](https://news.google.com/rss/articles/CBMi7gFBVV95cU
 
 ---
 
-### [Utah Mink Farm's Outbreak Is a Pandemic's 'Perfect Petri Dish'](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcF9ueHlRWWZQak44emFWeUwzcjVfR3M2NVpldnJNNEsxX0xxQ2VNTmd4Y0c4Q0d5NllMcEtma2p0N0Rnajl6RUNzV1lTSmtDbE82VzdGNEd4N0kxNlNNM2hmNmVtWWdlcWlhSDBjRDRhWGxlbTFRRXpHaWxrRUJsSGtISEJZN1RLN3dNMFJtRTVOckRWTGYzSnFOcHBPZUE4?oc=5)
+### [Flu Arrives Early in New York, With Cases Rising Rapidly in Children - The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSktWbUExNXluLXAwUkMzU3hDSTk3aGNqeERkZU9wamxTU3FRNi1GNEFMMHZFWGRRLTcwQ2NsazNfU3JpdlA0UFpoS3ZGQzFzSlN6djc5cFAwQWRNRE9ueU1qVVVrVi1icXNqR3NDcGNuV3VsUGtvdEpWZVJhM00?oc=5)
 
-2026-11-01
+2026-11-02
 
-Source: [Newser](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcF9ueHlRWWZQak44emFWeUwzcjVfR3M2NVpldnJNNEsxX0xxQ2VNTmd4Y0c4Q0d5NllMcEtma2p0N0Rnajl6RUNzV1lTSmtDbE82VzdGNEd4N0kxNlNNM2hmNmVtWWdlcWlhSDBjRDRhWGxlbTFRRXpHaWxrRUJsSGtISEJZN1RLN3dNMFJtRTVOckRWTGYzSnFOcHBPZUE4?oc=5)
+Source: [The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSktWbUExNXluLXAwUkMzU3hDSTk3aGNqeERkZU9wamxTU3FRNi1GNEFMMHZFWGRRLTcwQ2NsazNfU3JpdlA0UFpoS3ZGQzFzSlN6djc5cFAwQWRNRE9ueU1qVVVrVi1icXNqR3NDcGNuV3VsUGtvdEpWZVJhM00?oc=5)
 
 ---
 
-### [Weekly US Influenza Surveillance Report: Key Updates for Week 42, ending October 24, 2026 | FluView - Centers for Disease Control and Prevention | CDC (.gov)](https://news.google.com/rss/articles/CBMiakFVX3lxTE0wd0N4UHh1eEZpSE0tNDVSdEdGbXRYaEppc1pSUWZCeWpPQUlMMnl6SnpBLXg1QmRGTmlsOEIyN2t4aU14V0FLX2R4R2VxaXpTYnNTZlFCeDlkc3ZFWkV6STdqM01FT1AyTnc?oc=5)
+### [Flu’s Back Way Sooner Than Normal. Here’s What to Know.](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXF5ak5GeXM1cThMV01VcW9xMTF0WHVCeWZHNHJXczl0aUlQSzdNb19IMEFzMkFoVWtYdnNUQVBQQXQzbnlWNUxCamF3UGZSWC1UU05qNXpYZGRIdUlHS2t5b0FxZzRYeEpFTTdFcmNhUHgyLThFc1d3ZG1TQ3VIaVlnV3NYNzg2dkVMTm1QOHQ?oc=5)
 
 2026-10-30
 
-Source: [Centers for Disease Control and Prevention | CDC (.gov)](https://news.google.com/rss/articles/CBMiakFVX3lxTE0wd0N4UHh1eEZpSE0tNDVSdEdGbXRYaEppc1pSUWZCeWpPQUlMMnl6SnpBLXg1QmRGTmlsOEIyN2t4aU14V0FLX2R4R2VxaXpTYnNTZlFCeDlkc3ZFWkV6STdqM01FT1AyTnc?oc=5)
+Source: [WSJ](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXF5ak5GeXM1cThMV01VcW9xMTF0WHVCeWZHNHJXczl0aUlQSzdNb19IMEFzMkFoVWtYdnNUQVBQQXQzbnlWNUxCamF3UGZSWC1UU05qNXpYZGRIdUlHS2t5b0FxZzRYeEpFTTdFcmNhUHgyLThFc1d3ZG1TQ3VIaVlnV3NYNzg2dkVMTm1QOHQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 8 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 11 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>8 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>11 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,53 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (8)
+## Related News (11)
+
+### [Eating Blueberries Every Day Could Reduce Depressive Symptoms in Older Adults](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUhKTmpkYTE5R215VVhvelU0UXlvTFNaWkNoRzc4YVVhMnRjMG5CWVRjLTJSUDM5LVpseXpQVjkzdGRYMlZrYndHYlJVYlN0allNa3dqYlItS1V5S25NTm12bXFWSVN1QVdnd3hpSTkzZ25MUExPcGpRcUdqOXphVW1TdTRKdk1UNFN0cUlJUU5zQVlXamVGY3dzQTR3WHZVNGo0VXFCWV9FUQ?oc=5)
+
+2026-11-03
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUhKTmpkYTE5R215VVhvelU0UXlvTFNaWkNoRzc4YVVhMnRjMG5CWVRjLTJSUDM5LVpseXpQVjkzdGRYMlZrYndHYlJVYlN0allNa3dqYlItS1V5S25NTm12bXFWSVN1QVdnd3hpSTkzZ25MUExPcGpRcUdqOXphVW1TdTRKdk1UNFN0cUlJUU5zQVlXamVGY3dzQTR3WHZVNGo0VXFCWV9FUQ?oc=5)
+
+---
+
+### [Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9SYVl1OGV1Q1YwU0tIRWF4Skkwb0Z1aUpnbWZ1VEFFck94VmxZUGNkdkZJejBLTDR0U1ZnX1pKWWUybTNfV3o4dXBSV2VkYi0zemQwclZqQnBfd0dRZGRwRVB4ci05NnA0STNDZHpmQQ?oc=5)
+
+2026-11-03
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9SYVl1OGV1Q1YwU0tIRWF4Skkwb0Z1aUpnbWZ1VEFFck94VmxZUGNkdkZJejBLTDR0U1ZnX1pKWWUybTNfV3o4dXBSV2VkYi0zemQwclZqQnBfd0dRZGRwRVB4ci05NnA0STNDZHpmQQ?oc=5)
+
+---
+
+### [The Best Time to Go to Bed to Reduce Blood Pressure](https://news.google.com/rss/articles/CBMifEFVX3lxTFBfMWxQOVRUWEZWQ24wUXNOaEhteHB3Q0NnXzZKQ2RIMjdZUnZJWWxMSm5QM1BocVcyN1FEWE9CcXBPZ0VLOVFtZHhJNFJkRkYtUk1ZSlp6STQ0cTBmd3hfS0MxWUgwOHVfTVF4OHhodTlMWFRES28yTWhZUDQ?oc=5)
+
+2026-11-03
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMifEFVX3lxTFBfMWxQOVRUWEZWQ24wUXNOaEhteHB3Q0NnXzZKQ2RIMjdZUnZJWWxMSm5QM1BocVcyN1FEWE9CcXBPZ0VLOVFtZHhJNFJkRkYtUk1ZSlp6STQ0cTBmd3hfS0MxWUgwOHVfTVF4OHhodTlMWFRES28yTWhZUDQ?oc=5)
+
+---
+
+### [U of C researchers confirm meteoric aging among astronauts - Calgary Herald](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZEkyaXRscHNhTU5lZk9EQW16ZnFGaGNPdFphNHhqZENvZ0ZRRWdIcFdsZlh5SWlreXlFajNXSU9nMzVrb3Z0UlF1MDJnRFh2M1E1R2YzRnhvSThucDd1NlFGRE5aT25tQ2kxdDBObjRjT1BnckxOM2tDcnJrX29Da29KaTVxTmhuQndJVU9palFUWDA?oc=5)
+
+2026-11-02
+
+Source: [Calgary Herald](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZEkyaXRscHNhTU5lZk9EQW16ZnFGaGNPdFphNHhqZENvZ0ZRRWdIcFdsZlh5SWlreXlFajNXSU9nMzVrb3Z0UlF1MDJnRFh2M1E1R2YzRnhvSThucDd1NlFGRE5aT25tQ2kxdDBObjRjT1BnckxOM2tDcnJrX29Da29KaTVxTmhuQndJVU9palFUWDA?oc=5)
+
+---
 
 ### [New cancer treatment approach could help immune cells fight tumors longer - Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTFyeVozR0ZQZ29OTzVINHZEcEo4QUZaZ18xbjEzSWlMaUloUHhQS25VemJyZXZVbVJ1ZjgySDV4YzhwWlFNNnVvb3BudEhiUllLT2R0MDVXdTg5Y0NuM1lsVUNqUE5CTUdva1dSYU15NGw0SWtuNE5zQlpwSUg3SWRSV1ZiSWZjTUx4Tnl3aUxfOXNsTnFRZzBObmRWUG_SAaQBQVVfeXFMTnNoOHJWaUhNVmg3aU5SLUVSakEzQzRabkh1SmxDNzM5VzZBTEFMcUxnUW01Qm91QUtrVFZibTY0OTFWaVozQ3VQb1lyWTU1a1VTQ0xsOC14RFRmeDBxclZmbWpVNE8yeHF4ZlRoUXdkTUxLdldLNTRzZHo4eWp6M3g0VWNPZWpwZGVXenhxMEIxZ2tEMUY5cWlYdV91UWpGSFRpRHg?oc=5)
 
 2026-11-02
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTFyeVozR0ZQZ29OTzVINHZEcEo4QUZaZ18xbjEzSWlMaUloUHhQS25VemJyZXZVbVJ1ZjgySDV4YzhwWlFNNnVvb3BudEhiUllLT2R0MDVXdTg5Y0NuM1lsVUNqUE5CTUdva1dSYU15NGw0SWtuNE5zQlpwSUg3SWRSV1ZiSWZjTUx4Tnl3aUxfOXNsTnFRZzBObmRWUG_SAaQBQVVfeXFMTnNoOHJWaUhNVmg3aU5SLUVSakEzQzRabkh1SmxDNzM5VzZBTEFMcUxnUW01Qm91QUtrVFZibTY0OTFWaVozQ3VQb1lyWTU1a1VTQ0xsOC14RFRmeDBxclZmbWpVNE8yeHF4ZlRoUXdkTUxLdldLNTRzZHo4eWp6M3g0VWNPZWpwZGVXenhxMEIxZ2tEMUY5cWlYdV91UWpGSFRpRHg?oc=5)
+
+---
+
+### [New diabetes implant uses electricity to lower blood sugar and promote weight loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXR2RUtGWWZHUU45ODgyNF9IQm9BWlo0Q184UTlyenY5RjVVLWo2NmtKdWRkWDVCbmE5M2ZXOVZHTmN6YkFuSUtJbGc4aXItUkoxcGRmQ1lMazlWQ3RBVWlsVV9WaHp5SlcxV2tLOA?oc=5)
+
+2026-11-02
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXR2RUtGWWZHUU45ODgyNF9IQm9BWlo0Q184UTlyenY5RjVVLWo2NmtKdWRkWDVCbmE5M2ZXOVZHTmN6YkFuSUtJbGc4aXItUkoxcGRmQ1lMazlWQ3RBVWlsVV9WaHp5SlcxV2tLOA?oc=5)
 
 ---
 
@@ -61,27 +101,11 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMie0FVX3lxTFA4UEtXNUdp
 
 ---
 
-### [No, eating out of the bin is not a good way to get fibre - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFzVFV1QU40NFVDZS1uTGdVeExYNTJTeWh0SXdaaGdyaVlFUFJvNjd2WUEtMjdEWVVSYU5kcWJTa0luYjNUSFl5SVVzUFVOX0g5S05oX21EVUxubjJBS0Nza2Q1ZGlyNjk1b2VlNlRpMGdsMkZCSVNoUHlBVVZXX2h1Y0NTaklkVDcwVnJEaF9yTklsb3pzN3Q4MFR2SHVIOEE?oc=5)
-
-2026-11-01
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFzVFV1QU40NFVDZS1uTGdVeExYNTJTeWh0SXdaaGdyaVlFUFJvNjd2WUEtMjdEWVVSYU5kcWJTa0luYjNUSFl5SVVzUFVOX0g5S05oX21EVUxubjJBS0Nza2Q1ZGlyNjk1b2VlNlRpMGdsMkZCSVNoUHlBVVZXX2h1Y0NTaklkVDcwVnJEaF9yTklsb3pzN3Q4MFR2SHVIOEE?oc=5)
-
----
-
 ### [The link between alcohol and breast cancer risk is strong. Here’s what to know. - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxORW4xZXF3SjdPZDZLNzZUN25yaFltR3JrTkxvUXRZWjZRT0pWY1VmOHpZTjF2X2tkQjk2cEoyM2hTb1FJUk9tQTY4UTh4X19IZ1pOWVJHYUplZVJqeHFjaFZka2tGekM5cVNlclNkWEdMWVNfM3RqVGk0TGdmQnNTenYyeUZYd0cyVU1OWFZrOEExdm5YaGJQRkxXS0IweG1aX0VKTHhlVnRxM3pWSGE5SE14Zw?oc=5)
 
 2026-10-31
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxORW4xZXF3SjdPZDZLNzZUN25yaFltR3JrTkxvUXRZWjZRT0pWY1VmOHpZTjF2X2tkQjk2cEoyM2hTb1FJUk9tQTY4UTh4X19IZ1pOWVJHYUplZVJqeHFjaFZka2tGekM5cVNlclNkWEdMWVNfM3RqVGk0TGdmQnNTenYyeUZYd0cyVU1OWFZrOEExdm5YaGJQRkxXS0IweG1aX0VKTHhlVnRxM3pWSGE5SE14Zw?oc=5)
-
----
-
-### [Doctor Shares 3 Lifestyle Habits to Reduce Breast Cancer Risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
-
-2026-10-30
-
-Source: [TODAY.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
 
 ---
 

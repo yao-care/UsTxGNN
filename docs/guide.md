@@ -3,6 +3,7 @@ layout: default
 title: User Guide
 nav_order: 92
 permalink: /guide/
+last_modified_at: 2026-11-04
 description: "UsTxGNN user guide: how to look up drugs, read evidence levels and interpret recommendations."
 ---
 

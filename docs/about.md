@@ -3,6 +3,7 @@ layout: default
 title: About
 nav_order: 90
 permalink: /about/
+last_modified_at: 2026-11-04
 description: "UsTxGNN is a drug repurposing prediction platform developed by 藥提醒科技有限公司 (yao.care), built on the Harvard TxGNN model, covering FDA-approved medicines in United States."
 ---
 

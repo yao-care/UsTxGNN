@@ -4,17 +4,17 @@ title: Collagenase Clostridium Histolyticum
 parent: Model Prediction Only (L5)
 nav_order: 548
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "COLLAGENASE CLOSTRIDIUM HISTOLYTICUM"
-predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "Ledderhose disease", "infantile digital fibromatosis", "palmar fibromatosis", "hemorrhagic disorder due to a constitutional thrombocytopenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "posterior leukoencephalopathy syndrome"]
-last_modified_at: 2026-10-31
-description: "Collagenase Clostridium Histolyticum: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Peyronie disease, penile fibromatosis, balanitis xerotica oblit…"
+predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "Ledderhose disease", "infantile digital fibromatosis", "hemorrhagic disorder due to a constitutional thrombocytopenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "posterior leukoencephalopathy syndrome"]
+last_modified_at: 2026-11-03
+description: "Collagenase Clostridium Histolyticum: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Collagenase Clostridium Histolyticum
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,21 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Collagenase Clostridium Histolyticum: From Peyronie Disease to primary release disorder of platelets
+## Collagenase Clostridium Histolyticum: Primary release disorder of platelets
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Collagenase Clostridium histolyticum is an enzyme originally used to treat Peyronie disease and related penile fibrotic conditions.
-The TxGNN model predicts it may be effective for **palmar fibromatosis (Dupuytren's disease)**,
-with **13 clinical trials** and **20 publications** currently supporting this direction. This is closer to confirmation of a known use than true repurposing.
+This is closer to confirmation of a known use than true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Peyronie disease, penile fibromatosis, balanitis xerotica obliterans |
-| Predicted New Indication | Primary release disorder of platelets (rank 1 by score); the best-supported prediction is palmar fibromatosis (rank 6) |
-| TxGNN Prediction Score | 1.0000 (rank 1, primary release disorder of platelets); 0.9995 (palmar fibromatosis) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Primary release disorder of platelets |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 (palmar fibromatosis); L5 for the top-ranked platelet disorders |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
 | Number of FDA Applications | 1 (valid: 1) |

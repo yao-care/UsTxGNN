@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Luliconazole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 876
-evidence_level: L4
-indication_count: 3
-last_modified_at: 2026-10-31
-description: "Luliconazole: predicted new indication Pityriasis versicolor (evidence level L4). Approved use: Tinea pedis, tinea corporis, tinea infection…"
+evidence_level: L5
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "LULICONAZOLE"
-predicted_indications: ["pityriasis versicolor", "endothrix infectious disease", "ectothrix infectious disease"]
+predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease"]
+description: "Luliconazole: predicted new indication Endothrix infectious disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Luliconazole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,13 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Luliconazole: From Tinea Infections to Pityriasis Versicolor
+## Luliconazole: Endothrix infectious disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Luliconazole is a topical imidazole antifungal originally used for tinea pedis, tinea corporis and related dermatophyte infections of the skin.
-The TxGNN model predicts it may be effective for **Pityriasis Versicolor**,
-with **1 clinical trial** (not yet recruiting) and **2 publications** currently supporting this direction. Only one of those publications directly addresses the predicted disease in patients.
+Only one of those publications directly addresses the predicted disease in patients.
 
 ---
 
@@ -48,10 +47,10 @@ with **1 clinical trial** (not yet recruiting) and **2 publications** currently 
 
 | Item | Content |
 |------|------|
-| Original Indication | Tinea pedis, tinea corporis, tinea infection, dermatophytosis of the groin and perianal area |
-| Predicted New Indication | Pityriasis versicolor |
-| TxGNN Prediction Score | 0.9913 |
-| Evidence Level | L4 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Endothrix infectious disease |
+| TxGNN Prediction Score | 0.9910 |
+| Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
 | Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
@@ -72,7 +71,6 @@ The current evidence is still early. The only registered trial has not started r
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT07333170](https://clinicaltrials.gov/study/NCT07333170) | Phase 4 | Not yet recruiting | 86 | Randomized comparison of luliconazole 2% cream vs ketoconazole 1% cream in pityriasis versicolor. Planned start February 2026, planned completion November 2026. No results yet. |
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nystatin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 978
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Nystatin: predicted new indication Vulvovaginitis (evidence level L4). Approved use: Cutaneous candidiasis, oral candidiasis, candidiasis…"
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "NYSTATIN"
-predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+description: "Nystatin: predicted new indication Disease of orbital region (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Nystatin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Nystatin: From Candidiasis to Vulvovaginitis
+## Nystatin: Disease of orbital region
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Nystatin is a polyene antifungal originally used to treat cutaneous, oral and vulvovaginal candidiasis.
-The TxGNN model predicts it may be effective for **vulvovaginitis**, but this largely overlaps with its existing candidiasis use.
 Currently there are **0 clinical trials** and **about 20 publications** (mostly reviews, with no nystatin-specific RCT) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Cutaneous candidiasis, oral candidiasis, candidiasis, vulvovaginal candidiasis |
-| Predicted New Indication | Vulvovaginitis |
-| TxGNN Prediction Score | 0.9992 |
-| Evidence Level | L4 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Disease of orbital region |
+| TxGNN Prediction Score | 0.9990 |
+| Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of FDA Applications | at least 12 |
 | Recommended Decision | Hold |

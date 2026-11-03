@@ -4,17 +4,17 @@ title: Chlorambucil
 parent: Model Prediction Only (L5)
 nav_order: 518
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-30
+indication_count: 5
+last_modified_at: 2026-11-03
 monitor_inn: "CHLORAMBUCIL"
-predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-description: "Chlorambucil: predicted new indication Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (evidence level L5)."
+predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
+description: "Chlorambucil: predicted new indication ALK-positive large B-cell lymphoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Chlorambucil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Chlorambucil: Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation
+## Chlorambucil: ALK-positive large B-cell lymphoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,8 +47,8 @@ However, **0 clinical trials** and **0 publications** were found for this specif
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation |
-| TxGNN Prediction Score | 0.9972 |
+| Predicted New Indication | ALK-positive large B-cell lymphoma |
+| TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 (preclinical/mechanistic only; no trials or subtype-specific literature) |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
 | Number of FDA Applications | 1 (valid: 1) |
@@ -63,7 +63,6 @@ The predicted entity is a molecular subtype of CLL/SLL, defined by somatic hyper
 Chlorambucil has also largely been replaced in CLL by targeted therapies such as BTK inhibitors and BCL2 inhibitors. For example, a phase 3 comparison (RESONATE-2) showed ibrutinib to be superior to chlorambucil in older untreated CLL/SLL patients. This limits the practical value of the prediction.
 
 Other predictions in the list are also of interest, but their evidence is mostly weaker:
-- **Pregerminal center CLL/SLL** (score 0.9972): plausible by the same reasoning, with only a 2003 review as context.
 - **Primary pulmonary lymphoma** (score 0.9942): the best-supported of the other predictions (L3), because chlorambucil has been used in indolent extranodal marginal zone/MALT lymphoma. The supporting data are case reports, retrospective series, guidelines and a small 1987 phase II study.
 - **Small cell lung carcinoma** (score 0.9924): historical trials were negative or showed no meaningful benefit, and current evidence is mostly preclinical.
 - **ALK-positive large B-cell lymphoma, well-differentiated fetal adenocarcinoma of the lung and pulmonary blastoma:** computational prediction only (L5).

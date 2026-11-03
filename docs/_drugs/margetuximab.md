@@ -4,17 +4,17 @@ title: Margetuximab
 parent: Model Prediction Only (L5)
 nav_order: 888
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 monitor_inn: "MARGETUXIMAB"
-predicted_indications: ["drug-induced osteoporosis", "HER2 positive breast carcinoma"]
-last_modified_at: 2026-10-30
-description: "Margetuximab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not stated in the license data compiled for this report (literature i…"
+predicted_indications: ["drug-induced osteoporosis"]
+last_modified_at: 2026-11-03
+description: "Margetuximab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Margetuximab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Margetuximab: From HER2-Positive Metastatic Breast Cancer to HER2-Positive Breast Carcinoma (Top Prediction: Drug-Induced Osteoporosis)
+## Margetuximab: Drug-induced osteoporosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,9 +47,9 @@ The TxGNN model's highest-ranked prediction is **drug-induced osteoporosis** (no
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the license data compiled for this report (literature indicates HER2-positive metastatic breast cancer) |
-| Predicted New Indication | Drug-induced osteoporosis (rank 1); HER2 positive breast carcinoma (rank 2, evaluated in detail below) |
-| TxGNN Prediction Score | Drug-induced osteoporosis: 0.9929; HER2 positive breast carcinoma: 0.9905 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Drug-induced osteoporosis |
+| TxGNN Prediction Score | 0.9929 |
 | Evidence Level | Drug-induced osteoporosis: L5; HER2 positive breast carcinoma: L1 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
 | Number of FDA Applications | 1 (valid: 1) |
@@ -61,7 +61,7 @@ The TxGNN model's highest-ranked prediction is **drug-induced osteoporosis** (no
 
 **Drug-induced osteoporosis (rank 1).** The score is very high, but no clinical trials or publications support it. Margetuximab targets HER2 and enhances immune-cell killing of tumour cells. No plausible biological pathway links HER2 targeting to preventing or treating drug-induced bone loss. The prediction is most likely a TxGNN model (deep learning) artifact driven by network proximity rather than a real mechanism. Detailed mechanism of action data is also unavailable, which limits further verification.
 
-**HER2 positive breast carcinoma (rank 2).** Margetuximab binds the extracellular domain of HER2, as trastuzumab does. Its engineered Fc region binds the activating receptor CD16A (FcγRIIIa) more strongly and the inhibitory receptor CD32B more weakly. This enhances NK-cell-mediated antibody-dependent cellular cytotoxicity (ADCC) against HER2-overexpressing tumour cells. The mechanism is directly relevant to this disease.
+Its engineered Fc region binds the activating receptor CD16A (FcγRIIIa) more strongly and the inhibitory receptor CD32B more weakly. This enhances NK-cell-mediated antibody-dependent cellular cytotoxicity (ADCC) against HER2-overexpressing tumour cells. The mechanism is directly relevant to this disease.
 
 This is an already-approved use: the FDA approved margetuximab in December 2020 for pretreated metastatic HER2-positive breast cancer, so it is not a true repurposing finding. Subgroup analyses in the SOPHIA literature suggest benefit is greatest in carriers of the CD16A-158F allele.
 

@@ -4,17 +4,17 @@ title: Clotrimazole
 parent: Moderate Evidence (L3-L4)
 nav_order: 543
 evidence_level: L4
-indication_count: 3
-last_modified_at: 2026-10-31
+indication_count: 2
+last_modified_at: 2026-11-03
 description: "Clotrimazole: predicted new indication acne (disease) (evidence level L5). Approved use: Fungal skin and mucosal infections (e.g., tinea pedis, tinea corporis…"
 monitor_inn: "CLOTRIMAZOLE"
-predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atrophic vaginitis"]
+predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
 ---
 
 # Clotrimazole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -119,7 +119,6 @@ The only trial is a suspended study of a three-drug combination, with no results
 - Confirmation of current product availability
 
 **Note on the other predicted indications in the same evidence set:**
-- **Vulvovaginitis (TxGNN 0.9959):** This has far stronger support, with Level L1 evidence, multiple completed Phase 3 trials and RCTs, and a suggested decision of Proceed with Guardrails. It is essentially an existing indication (vulvovaginal candidiasis) rather than true repurposing. Guardrails: confirm Candida as the cause, and take care in pregnancy, where safety data are mixed.
 - **Postmenopausal atrophic vaginitis (TxGNN 0.9946):** There is no clinical or literature evidence (L5), and no clear mechanistic rationale, since the condition is driven by estrogen deficiency. The recommendation is Hold.
 ## Disclaimer
 

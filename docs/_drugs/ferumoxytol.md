@@ -4,17 +4,17 @@ title: Ferumoxytol
 parent: Model Prediction Only (L5)
 nav_order: 703
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 monitor_inn: "FERUMOXYTOL"
-predicted_indications: ["Plummer-Vinson syndrome", "non-syndromic esophageal malformation", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "severe nonproliferative diabetic retinopathy", "esophageal ulcer", "esophageal disease"]
-last_modified_at: 2026-10-30
-description: "Ferumoxytol: predicted new indication Plummer-Vinson syndrome (evidence level L5). Approved use: Not recorded in the local data"
+predicted_indications: ["non-syndromic esophageal malformation", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "severe nonproliferative diabetic retinopathy", "esophageal ulcer", "esophageal disease"]
+last_modified_at: 2026-11-03
+description: "Ferumoxytol: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ferumoxytol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Ferumoxytol: Plummer-Vinson syndrome
+## Ferumoxytol: Non-syndromic esophageal malformation
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Ferumoxytol is an intravenous iron replacement product, originally used to treat iron deficiency anemia.
-The TxGNN model predicts it may be useful for **Plummer-Vinson syndrome**, but **no clinical trials and no publications** directly support this prediction.
 The link rests on indirect reasoning, because the anemia component of the syndrome overlaps with the drug's existing indication.
 
 ## Quick Overview
@@ -47,8 +46,8 @@ The link rests on indirect reasoning, because the anemia component of the syndro
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | Plummer-Vinson syndrome |
-| TxGNN Prediction Score | 0.9987 |
+| Predicted New Indication | Non-syndromic esophageal malformation |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 (no trials or literature for this indication; mechanistic reasoning only) |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
 | Number of FDA Applications | 3 (valid: 3) |

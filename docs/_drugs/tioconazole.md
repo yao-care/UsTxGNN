@@ -4,17 +4,17 @@ title: Tioconazole
 parent: Model Prediction Only (L5)
 nav_order: 1230
 evidence_level: L5
-indication_count: 3
-last_modified_at: 2026-10-30
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "TIOCONAZOLE"
-predicted_indications: ["vulvovaginitis", "vulvitis", "postmenopausal atrophic vaginitis"]
-description: "Tioconazole: predicted new indication Vulvovaginitis (evidence level L5). Approved use: Not recorded in the local data"
+predicted_indications: ["vulvitis", "postmenopausal atrophic vaginitis"]
+description: "Tioconazole: predicted new indication Vulvitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tioconazole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Tioconazole: Vulvovaginitis
+## Tioconazole: Vulvitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Tioconazole is a topical imidazole antifungal originally used to treat vulvovaginal candidiasis.
-The TxGNN model predicts it may be effective for **vulvovaginitis**, but this is largely an extension of the original indication (the Candida-driven subtype).
 Currently there are **0 registered clinical trials** and **19 publications** (mostly older clinical studies and reviews on vaginal candidiasis) supporting this direction.
 
 ## Quick Overview
@@ -47,8 +46,8 @@ Currently there are **0 registered clinical trials** and **19 publications** (mo
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | Vulvovaginitis |
-| TxGNN Prediction Score | 0.9923 |
+| Predicted New Indication | Vulvitis |
+| TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
 | Number of FDA Applications | 1 (valid: 1) |
@@ -58,7 +57,7 @@ Currently there are **0 registered clinical trials** and **19 publications** (mo
 
 Tioconazole is an imidazole antifungal. In fungi and yeast, it inhibits the cytochrome P450 enzyme lanosterol 14-alpha-demethylase (CYP51/ERG11), which blocks ergosterol synthesis and disrupts the fungal cell membrane. It also inhibits the human enzyme CYP8B1, which is involved in bile acid biosynthesis.
 
-Vulvovaginal candidiasis is one of the most common causes of vulvovaginitis, so the prediction is mainly an extension of the original indication rather than true repurposing. It applies only where the inflammation is caused by Candida. Bacterial vaginosis, trichomoniasis, and atrophic or irritant forms are not expected to respond to an antifungal.
+It applies only where the inflammation is caused by Candida. Bacterial vaginosis, trichomoniasis, and atrophic or irritant forms are not expected to respond to an antifungal.
 
 Note that detailed mechanism-of-action data was not available in the data compiled for this report, so the mechanism above relies on the known azole class and pharmacology data.
 
@@ -104,7 +103,7 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-The evidence is almost entirely historical (1983–1988) clinical work on vaginal candidiasis, which is the original indication. The prediction is therefore not new repurposing evidence, and it does not extend to non-fungal vulvovaginitis.
+The evidence is almost entirely historical (1983–1988) clinical work on vaginal candidiasis, which is the original indication.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

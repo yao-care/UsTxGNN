@@ -4,9 +4,9 @@ title: Clozapine
 parent: Model Prediction Only (L5)
 nav_order: 544
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "CLOZAPINE"
-predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "psychotic disorder", "Malan overgrowth syndrome"]
+predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
 last_modified_at: 2026-11-03
 description: "Clozapine: predicted new indication Manic bipolar affective disorder (evidence level L2). Approved use: Not listed in the compiled data (literature describes treatment-resis…"
 ---
@@ -14,7 +14,7 @@ description: "Clozapine: predicted new indication Manic bipolar affective disord
 # Clozapine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -136,7 +136,6 @@ One completed Phase 2 double-blind trial and a systematic review and meta-analys
 
 | Predicted Indication | TxGNN Score | Evidence Level | Decision |
 |------|------|------|------|
-| Psychotic disorder | 0.9912 | L1 | Proceed with Guardrails (effectively an established use rather than true repurposing) |
 | Schizophreniform disorder | 0.9969 | L1 | Proceed with Guardrails |
 | Bipolar disorder | 0.9962 | L1 | Proceed with Guardrails |
 | Major affective disorder | 0.9948 | L2 | Research Question |

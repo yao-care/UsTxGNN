@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Natamycin
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 957
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 monitor_inn: "NATAMYCIN"
-predicted_indications: ["vulvovaginal candidiasis", "candidiasis", "vulvitis", "vulvovaginitis", "trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "vaginitis (disease)", "tinea nigra"]
-last_modified_at: 2026-10-31
-description: "Natamycin: predicted new indication Vulvovaginal candidiasis (evidence level L1). Approved use: Not recorded in the local data"
+predicted_indications: ["vulvitis", "trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "tinea nigra"]
+last_modified_at: 2026-11-03
+description: "Natamycin: predicted new indication Vulvitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Natamycin
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,12 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Natamycin: Vulvovaginal candidiasis
+## Natamycin: Vulvitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Natamycin is a polyene antifungal originally used to treat mycotic (fungal) corneal ulcer.
-The TxGNN model predicts it may be effective for **Vulvovaginal Candidiasis**,
-with **1 completed Phase 3 clinical trial** and **14 publications** currently supporting this direction.
 Note that the Phase 3 trial tested a natamycin plus lactulose combination, so natamycin's own contribution is not isolated.
 
 ## Quick Overview
@@ -48,9 +46,9 @@ Note that the Phase 3 trial tested a natamycin plus lactulose combination, so na
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | Vulvovaginal candidiasis |
-| TxGNN Prediction Score | 0.9997 |
-| Evidence Level | L1 (as assigned in the compiled data; see the note in the Clinical Trial Evidence section) |
+| Predicted New Indication | Vulvitis |
+| TxGNN Prediction Score | 0.9981 |
+| Evidence Level | L5 (as assigned in the compiled data; see the note in the Clinical Trial Evidence section) |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
 | Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |

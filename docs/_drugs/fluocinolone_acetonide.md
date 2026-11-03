@@ -4,17 +4,17 @@ title: Fluocinolone Acetonide
 parent: Model Prediction Only (L5)
 nav_order: 718
 evidence_level: L5
-indication_count: 4
+indication_count: 1
 monitor_inn: "FLUOCINOLONE ACETONIDE"
-predicted_indications: ["hypertrophic lichen planus", "annular atrophic lichen planus", "lichen planus pigmentosus", "lichen planus pemphigoides"]
-last_modified_at: 2026-10-31
-description: "Fluocinolone Acetonide: predicted new indication Hypertrophic lichen planus (evidence level L5). Approved use: Not recorded in the local data"
+predicted_indications: ["lichen planus pemphigoides"]
+last_modified_at: 2026-11-03
+description: "Fluocinolone Acetonide: predicted new indication Lichen planus pemphigoides (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fluocinolone Acetonide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,20 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Fluocinolone Acetonide: Hypertrophic lichen planus
+## Fluocinolone Acetonide: Lichen planus pemphigoides
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Fluocinolone acetonide is a corticosteroid, used mainly as a topical agent for inflammatory and itchy skin conditions such as eczema, dermatitis and lichen disease, and as an intravitreal implant for eye disease.
-The TxGNN model predicts it may be effective for **Hypertrophic Lichen Planus**, but **no clinical trials and no publications** were found to support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | Hypertrophic lichen planus |
-| TxGNN Prediction Score | 0.9942 |
+| Predicted New Indication | Lichen planus pemphigoides |
+| TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 15) |
 | Number of FDA Applications | at least 17 |
@@ -98,7 +97,7 @@ Package insert warnings and contraindications were not available and should be r
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high (0.9942), but there are no clinical trials or publications, so the evidence is at the lowest level (L5). The drug is marketed in the US with 17 valid licenses. The mechanism is plausible, but the drug is already used for lichen disease, so the added value of this prediction is limited.
+The drug is marketed in the US with 17 valid licenses. The mechanism is plausible, but the drug is already used for lichen disease, so the added value of this prediction is limited.
 
 **To proceed, the following is needed:**
 - Literature review and trial search on topical corticosteroids in hypertrophic lichen planus, including potency comparisons

@@ -4,17 +4,17 @@ title: Zileuton
 parent: Model Prediction Only (L5)
 nav_order: 1305
 evidence_level: L5
-indication_count: 8
-last_modified_at: 2026-10-30
+indication_count: 7
+last_modified_at: 2026-11-03
 monitor_inn: "ZILEUTON"
-predicted_indications: ["bronchitis", "obstructive lung disease", "atopic eczema", "bronchial neoplasm (disease)", "Laubry-Pezzi syndrome", "heart disease", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome"]
+predicted_indications: ["bronchitis", "atopic eczema", "bronchial neoplasm (disease)", "Laubry-Pezzi syndrome", "heart disease", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome"]
 description: "Zileuton: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Zileuton
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -62,7 +62,7 @@ Asthma and bronchitis are both inflammatory airway diseases, so dampening leukot
 
 **Other predictions worth noting** (ranked by evidence rather than score):
 
-- **Obstructive lung disease (score 0.9987, L1 by the pack's scoring):** A Phase 3 trial in COPD exacerbations (NCT00493974) was terminated, so it gives no confirmed efficacy result. Most supporting trials are in asthma.
+- Most supporting trials are in asthma.
 - **Bronchial neoplasm (score 0.9948, L2):** Two completed Phase 2 trials exist, one in bronchial dysplasia (chemoprevention) and one combining eicosanoid modulators with chemotherapy in advanced NSCLC. There is no Phase 3 support.
 - **Atopic eczema (score 0.9949, L3):** A small pilot study and a related report exist, plus preclinical itch models.
 - **Heart disease (score 0.9907, L4):** Evidence is animal-based only.
@@ -72,7 +72,6 @@ Asthma and bronchitis are both inflammatory airway diseases, so dampening leukot
 
 Currently no related clinical trials registered for bronchitis.
 
-For reference, the closest airway-related trials from the neighboring predictions (obstructive lung disease and asthma) are:
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -93,7 +92,6 @@ For reference, the main publications from the neighboring airway predictions are
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [31841698](https://pubmed.ncbi.nlm.nih.gov/31841698/) | 2020 | Cohort | Pulm Pharmacol Ther | Zileuton use and phenotypic features in asthma; modest response rates |
-| [10181070](https://pubmed.ncbi.nlm.nih.gov/10181070/) | 1998 | Open-label study | Am J Manag Care | 12-month safety and efficacy in 2,947 chronic asthma patients; about 2% had reversible liver enzyme elevations |
 | [10421833](https://pubmed.ncbi.nlm.nih.gov/10421833/) | 1999 | Review | Clin Exp Allergy | Leukotriene pathway inhibitors in asthma and COPD |
 | [17394438](https://pubmed.ncbi.nlm.nih.gov/17394438/) | 2007 | Review | Int J Clin Pract | Clinical implications of 5-LOX inhibition in severe airway disease |
 | [39558440](https://pubmed.ncbi.nlm.nih.gov/39558440/) | 2024 | Review | Med Lett Drugs Ther | Drugs for asthma |

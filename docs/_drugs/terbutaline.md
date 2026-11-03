@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Terbutaline
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1212
-evidence_level: L1
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 monitor_inn: "TERBUTALINE"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-10-30
-description: "Terbutaline: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Asthma (also intrinsic and allergic asthma, bronchitis…"
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
+last_modified_at: 2026-11-03
+description: "Terbutaline: predicted new indication Respiratory malformation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Terbutaline
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Evidence Level: **L1** | Predicted Indications: **3**
 
 </div>
 
-## Terbutaline: From Asthma to Obstructive Lung Disease
+## Terbutaline: Respiratory malformation
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Terbutaline is a selective beta-2 adrenergic agonist bronchodilator, originally used for asthma, bronchitis, and emphysema.
-The TxGNN model predicts it may be effective for **obstructive lung disease**, with **15 clinical trials** and **20 publications** compiled for this direction. This is largely an on-label or near-label indication, not a true repurposing.
+This is largely an on-label or near-label indication, not a true repurposing.
 
 ---
 
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **obstructive lung disease**, w
 
 | Item | Content |
 |------|------|
-| Original Indication | Asthma (also intrinsic and allergic asthma, bronchitis, pulmonary emphysema) |
-| Predicted New Indication | Obstructive lung disease |
-| TxGNN Prediction Score | 0.9996 |
-| Evidence Level | L1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Respiratory malformation |
+| TxGNN Prediction Score | 0.9952 |
+| Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 5 of 6) |
 | Number of FDA Applications | 6 (valid: 5) |
 | Recommended Decision | Proceed with Guardrails |

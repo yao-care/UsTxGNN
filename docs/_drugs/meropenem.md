@@ -4,17 +4,17 @@ title: Meropenem
 parent: Moderate Evidence (L3-L4)
 nav_order: 903
 evidence_level: L4
-indication_count: 9
-last_modified_at: 2026-10-31
-description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L5). Approved use: Bacterial meningitis, peritonitis…"
+indication_count: 7
+last_modified_at: 2026-11-03
 monitor_inn: "MEROPENEM"
-predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus aureus infection", "laryngitis", "paratyphoid fever", "Lyme disease", "Peptostreptococcus infectious disease", "Ureaplasma urethritis", "gonococcal urethritis"]
+predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "Ureaplasma urethritis", "gonococcal urethritis"]
+description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Meropenem
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **9** 
+Evidence Level: **L4** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 </div>
 
-## Meropenem: From Bacterial Infections (Meningitis, Peritonitis, Pseudomonas) to Bacterial Arthritis
+## Meropenem: Bacterial arthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,9 +46,9 @@ The best-supported candidate among the ten predictions is **urinary tract infect
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial meningitis, peritonitis, Pseudomonas aeruginosa infection and other serious bacterial infections (the US license records contain no indication text) |
-| Predicted New Indication | Bacterial arthritis (rank 1); urinary tract infection (rank 6) has the strongest evidence |
-| TxGNN Prediction Score | 0.9992 (bacterial arthritis) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Bacterial arthritis |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L4 (bacterial arthritis); L1 (urinary tract infection) |
 | US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of FDA Applications | at least 9 |

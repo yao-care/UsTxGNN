@@ -4,17 +4,17 @@ title: Flurbiprofen
 parent: Model Prediction Only (L5)
 nav_order: 728
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-30
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "FLURBIPROFEN"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
 description: "Flurbiprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Flurbiprofen
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -97,7 +97,7 @@ Please refer to the package insert for official warnings and contraindications.
 The top prediction has only a model score behind it, with no trials, no literature and no plausible NSAID mechanism for a genetic skeletal developmental disorder. The drug is marketed in the US, and all three authorizations are valid.
 
 **Other findings from the data:**
-The lower-ranked prediction **ankylosing spondylitis** (rank 8, score 0.9997) has about 20 publications. These are mostly 1974-1986 double-blind comparisons of flurbiprofen against indomethacin, phenylbutazone and naproxen, which found comparable pain relief. This is Evidence Level L3 pending verification of study design. However, it is a symptomatic use within the NSAID class and overlaps with the drug's original rheumatic indications, so it is an expansion within the same therapeutic area and not a novel repurposing.
+These are mostly 1974-1986 double-blind comparisons of flurbiprofen against indomethacin, phenylbutazone and naproxen, which found comparable pain relief. This is Evidence Level L3 pending verification of study design. However, it is a symptomatic use within the NSAID class and overlaps with the drug's original rheumatic indications, so it is an expansion within the same therapeutic area and not a novel repurposing.
 
 **To proceed, the following is needed:**
 - Obtain the FDA package insert to verify warnings and contraindications. This is required before any safety screening.

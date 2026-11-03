@@ -4,17 +4,17 @@ title: Sertraline
 parent: Model Prediction Only (L5)
 nav_order: 1157
 evidence_level: L5
-indication_count: 8
-last_modified_at: 2026-10-31
+indication_count: 7
+last_modified_at: 2026-11-03
 monitor_inn: "SERTRALINE"
-predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
+predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Sertraline: predicted new indication Paranoid personality disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Sertraline
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,6 @@ Evidence Level: **L5** | Predicted Indications: **8**
 ## One-Sentence Summary
 
 Sertraline is an SSRI antidepressant, originally used for anxiety disorders, obsessive-compulsive disorder, post-traumatic stress disorder, social phobia and related conditions.
-The TxGNN model predicts it may be effective for **Agoraphobia**, supported by **2 clinical trials** (only one of them relevant) and **19 publications**, including several randomized trials and network meta-analyses in panic disorder with or without agoraphobia.
 
 ---
 

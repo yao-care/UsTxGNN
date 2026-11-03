@@ -4,17 +4,17 @@ title: Zafirlukast
 parent: Model Prediction Only (L5)
 nav_order: 1300
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 monitor_inn: "ZAFIRLUKAST"
-predicted_indications: ["bronchitis", "obstructive lung disease"]
-last_modified_at: 2026-10-30
-description: "Zafirlukast: predicted new indication Bronchitis (evidence level L5). Approved use: Asthma (including intrinsic asthma and allergic asthma)"
+predicted_indications: ["bronchitis"]
+last_modified_at: 2026-11-03
+description: "Zafirlukast: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Zafirlukast
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,20 +33,19 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Zafirlukast: From Asthma to Bronchitis
+## Zafirlukast: Bronchitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Zafirlukast is a cysteinyl leukotriene receptor antagonist originally used to treat asthma (including intrinsic and allergic asthma).
 The TxGNN model predicts it may be effective for **Bronchitis** (score 0.9993), but **no clinical trials and no publications** currently support this specific indication.
-The second-ranked prediction, **Obstructive Lung Disease**, is backed by **18 publications** (all reviews or pharmacology articles) and no clinical trials.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Asthma (including intrinsic asthma and allergic asthma) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 (model prediction only) |
@@ -60,7 +59,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Asthma and bronchitis are both inflammatory airway conditions in which mucus hypersecretion and airway narrowing play a role. This gives a plausible biological rationale for the prediction. However, the TxGNN score is a model output only. No trials or literature were found for bronchitis, so the mechanistic link cannot be verified from the available data.
 
-The second prediction, obstructive lung disease, is more closely related to the approved use, since asthma is itself an obstructive airway disease. The supplied literature is mostly about asthma, so its support for any *new* obstructive disease claim is indirect. Only one article (PMID 10421833) directly addresses leukotriene pathway inhibitors in asthma and COPD.
+The supplied literature is mostly about asthma, so its support for any *new* obstructive disease claim is indirect. Only one article (PMID 10421833) directly addresses leukotriene pathway inhibitors in asthma and COPD.
 
 ## Clinical Trial Evidence
 
@@ -70,7 +69,7 @@ Currently no related clinical trials registered for bronchitis. No clinical tria
 
 No related literature is available for bronchitis.
 
-For the second-ranked prediction, **obstructive lung disease** (evidence level L4), the most relevant publications are listed below. All are reviews or pharmacology articles; no RCTs were supplied.
+All are reviews or pharmacology articles; no RCTs were supplied.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|

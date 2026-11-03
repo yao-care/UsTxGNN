@@ -4,17 +4,17 @@ title: Amiodarone
 parent: Moderate Evidence (L3-L4)
 nav_order: 328
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 monitor_inn: "AMIODARONE"
-predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-10-31
-description: "Amiodarone: predicted new indication Catecholaminergic polymorphic ventricular tachycardia (evidence level L5). Approved use: Ventricular fibrillation"
+predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
+last_modified_at: 2026-11-03
+description: "Amiodarone: predicted new indication Catecholaminergic polymorphic ventricular tachycardia (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Amiodarone
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Amiodarone: From Ventricular Fibrillation to Catecholaminergic Polymorphic Ventricular Tachycardia
+## Amiodarone: Catecholaminergic polymorphic ventricular tachycardia
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Amiodarone is a multi-channel antiarrhythmic originally used to treat ventricular fibrillation.
 The TxGNN model predicts it may be effective for **catecholaminergic polymorphic ventricular tachycardia (CPVT)**, but this top-ranked prediction has **0 clinical trials** and only **9 publications** (cohort descriptions, case reports and reviews), with no controlled evidence of benefit.
-Among the ten predictions, the best-supported is **ventricular tachycardia** (a closely related arrhythmia), backed by **18 registered trials** (including several Phase 3 and 4 trials) and **20 publications**. It is discussed in the sections below.
+It is discussed in the sections below.
 
 ---
 
@@ -48,9 +48,9 @@ Among the ten predictions, the best-supported is **ventricular tachycardia** (a 
 
 | Item | Content |
 |------|------|
-| Original Indication | Ventricular fibrillation (the US license records contain no indication text) |
-| Predicted New Indication | Catecholaminergic polymorphic ventricular tachycardia (rank 1); the best-supported alternative is ventricular tachycardia (rank 3) |
-| TxGNN Prediction Score | 0.9978 (CPVT); 0.9964 (ventricular tachycardia) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Catecholaminergic polymorphic ventricular tachycardia |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 (CPVT); L1 (ventricular tachycardia) |
 | US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of FDA Applications | at least 12 |
@@ -74,7 +74,7 @@ The remaining predictions are not supported:
 
 ## Clinical Trial Evidence
 
-No clinical trials are registered for CPVT (the rank-1 prediction). The table below shows the most relevant trials for **ventricular tachycardia** (rank 3), which is the best-supported prediction.
+No clinical trials are registered for CPVT (the rank-1 prediction).
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -93,7 +93,7 @@ No clinical trials are registered for CPVT (the rank-1 prediction). The table be
 
 ## Literature Evidence
 
-Literature for **ventricular tachycardia** (rank 3), listed as RCT first, then reviews and cohorts. For CPVT, the retrieved literature is limited to cohort studies, a systematic review, a general review and case reports (for example PMID 35892906, 26513538).
+For CPVT, the retrieved literature is limited to cohort studies, a systematic review, a general review and case reports (for example PMID 35892906, 26513538).
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -138,7 +138,6 @@ Package-insert warnings and contraindications are not available in the data comp
 
 ## Conclusion and Next Steps
 
-**Decision: Hold (CPVT, the top-ranked prediction); Proceed with Guardrails (ventricular tachycardia, the best-supported prediction)**
 
 **Rationale:**
 - For CPVT, there are no registered trials and no controlled evidence, and standard care (beta-blockers, flecainide, sympathetic denervation) is well established, so this should be held.

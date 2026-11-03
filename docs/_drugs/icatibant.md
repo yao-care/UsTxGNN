@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Icatibant
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 785
-evidence_level: L1
-indication_count: 7
+evidence_level: L5
+indication_count: 6
 monitor_inn: "ICATIBANT"
-predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
-last_modified_at: 2026-10-30
-description: "Icatibant: predicted new indication C1 inhibitor deficiency (evidence level L1). Approved use: Hereditary angioedema (including HAE with C1 inhibitor deficiency)"
+predicted_indications: ["serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
+last_modified_at: 2026-11-03
+description: "Icatibant: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Icatibant
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ Evidence Level: **L1** | Predicted Indications: **7**
 
 </div>
 
-## Icatibant: From Hereditary Angioedema to C1 Inhibitor Deficiency
+## Icatibant: Serpinopathy with toxic serpin polymerization
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Icatibant is a bradykinin B2 receptor antagonist, originally used to treat acute attacks of hereditary angioedema (HAE), including HAE with C1 inhibitor deficiency.
-The TxGNN model predicts it may be effective for **C1 inhibitor deficiency**, with **12 clinical trials** and **20 publications** currently supporting this direction.
 Note that this prediction largely overlaps with the drug's existing use, so it is an on-label confirmation rather than a true repurposing finding.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hereditary angioedema (including HAE with C1 inhibitor deficiency) |
-| Predicted New Indication | C1 inhibitor deficiency |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Serpinopathy with toxic serpin polymerization |
 | TxGNN Prediction Score | 0.9999 |
-| Evidence Level | L1 |
+| Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 8 of 8) |
 | Number of FDA Applications | 8 (valid: 8) |
 | Recommended Decision | Proceed with Guardrails |

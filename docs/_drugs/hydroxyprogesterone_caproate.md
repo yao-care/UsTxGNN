@@ -4,17 +4,17 @@ title: Hydroxyprogesterone Caproate
 parent: Model Prediction Only (L5)
 nav_order: 780
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-30
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "HYDROXYPROGESTERONE CAPROATE"
-predicted_indications: ["endometriosis of uterus", "renal hypoplasia, bilateral", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "renal hypoplasia (disease)", "uterine corpus cancer", "cervix endometriosis", "endometrial cancer", "breast fibrocystic disease", "infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly"]
+predicted_indications: ["endometriosis of uterus", "renal hypoplasia, bilateral", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "renal hypoplasia (disease)", "cervix endometriosis", "breast fibrocystic disease", "infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly"]
 description: "Hydroxyprogesterone Caproate: predicted new indication Endometriosis of uterus (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Hydroxyprogesterone Caproate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -93,7 +93,7 @@ Selected from 20 retrieved publications for endometrial cancer, prioritizing sys
 | [4616884](https://pubmed.ncbi.nlm.nih.gov/4616884/) | 1974 | Case series | Gynecol Oncol | Treatment of advanced endometrial cancer |
 | [5549492](https://pubmed.ncbi.nlm.nih.gov/5549492/) | 1971 | Case series | Cancer | Therapy in advanced endometrial cancer |
 
-For the related uterine corpus cancer prediction, three older Russian-language cohort reports (PMIDs 6966107, 2815695, 3296435; 1980-1989) describe immune parameters, hormone receptors and adjuvant hormonotherapy with radiotherapy. One reports a 3-year survival of 84.1% vs 74.8% with and without hormonal therapy, but this was not a controlled efficacy comparison.
+One reports a 3-year survival of 84.1% vs 74.8% with and without hormonal therapy, but this was not a controlled efficacy comparison.
 
 ---
 
@@ -124,7 +124,6 @@ No drug interaction data were found. Please refer to the package insert for labe
 | Predicted Indication | Score | Evidence Level | Comment |
 |------|------|------|------|
 | Endometriosis of uterus | 0.9998 | L5 | Only a case report of a complication; no efficacy evidence |
-| Uterine corpus cancer | 0.9996 | L3 | Overlaps with endometrial cancer; assess together |
 | Endometriosis (rectovaginal septum and vagina, cutaneous scar, cervix) | 99.96-0.9997 | L5 | Progestin class rationale only; no drug-specific data |
 | Breast fibrocystic disease | 0.9996 | L5 | Loose rationale; no data |
 

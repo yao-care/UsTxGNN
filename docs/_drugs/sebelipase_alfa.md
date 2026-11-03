@@ -4,17 +4,17 @@ title: Sebelipase Alfa
 parent: Model Prediction Only (L5)
 nav_order: 1146
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-30
-description: "Sebelipase Alfa: predicted new indication Scheie syndrome (evidence level L5). Approved use: Wolman disease, lysosomal acid lipase deficiency…"
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "SEBELIPASE ALFA"
-predicted_indications: ["Scheie syndrome", "Hurler syndrome", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "cholesteryl ester storage disease", "Gaucher disease", "lysosomal storage disease with skeletal involvement", "autosomal ichthyosis syndrome with fatal disease course", "Tay-Sachs disease", "benign neoplasm of adrenal gland"]
+predicted_indications: ["Scheie syndrome", "Hurler syndrome", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "Gaucher disease", "lysosomal storage disease with skeletal involvement", "autosomal ichthyosis syndrome with fatal disease course", "Tay-Sachs disease", "benign neoplasm of adrenal gland"]
+description: "Sebelipase Alfa: predicted new indication Scheie syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Sebelipase Alfa
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Sebelipase Alfa: From Lysosomal Acid Lipase Deficiency to Scheie syndrome
+## Sebelipase Alfa: Scheie syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Sebelipase alfa is a recombinant human lysosomal acid lipase, originally used as enzyme replacement therapy for Wolman disease and lysosomal acid lipase deficiency (LAL-D).
-The TxGNN model's top-ranked predictions are mostly unsupported, but the best-evidenced prediction is **Cholesteryl Ester Storage Disease (CESD)**, with **8 clinical trials** and **20 publications** behind it. CESD is the later-onset form of LAL-D, so this is an on-label use rather than true repurposing.
+CESD is the later-onset form of LAL-D, so this is an on-label use rather than true repurposing.
 
 ---
 
@@ -47,9 +47,9 @@ The TxGNN model's top-ranked predictions are mostly unsupported, but the best-ev
 
 | Item | Content |
 |------|------|
-| Original Indication | Wolman disease, lysosomal acid lipase deficiency, lysosomal lipid storage disorder (the US license record has no indication text) |
-| Predicted New Indication | Scheie syndrome (TxGNN rank 1); best-supported prediction: cholesteryl ester storage disease (rank 4) |
-| TxGNN Prediction Score | 0.9980 (Scheie syndrome); 0.9972 (cholesteryl ester storage disease) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Scheie syndrome |
+| TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 for Scheie syndrome; L1 for cholesteryl ester storage disease |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
 | Number of FDA Applications | 1 (valid: 1) |
@@ -63,7 +63,7 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 
 **Top-ranked prediction (Scheie syndrome, MPS I attenuated form):** The mechanistic rationale is weak. Scheie syndrome is caused by alpha-L-iduronidase deficiency, which sebelipase alfa does not supply. The high score most likely reflects network proximity among lysosomal storage diseases rather than a true biological link. No trials or literature support this use.
 
-**Best-supported prediction (cholesteryl ester storage disease):** CESD is the later-onset, attenuated form of LAL-D, the drug's own approved indication. Enzyme replacement directly addresses the underlying defect. The same applies to rank 5, "Wolman disease with hypolipoproteinemia and acanthocytosis", which corresponds to the severe infantile form of LAL-D.
+Enzyme replacement directly addresses the underlying defect.
 
 **Other predictions** (Hurler syndrome, Gaucher disease, Tay-Sachs disease, the STAT5B-related growth hormone insensitivity syndrome, ichthyosis syndrome, skeletal-involvement lysosomal storage disease, benign adrenal neoplasm) have no plausible enzyme-replacement rationale. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The only linked trial for several of them is a multi-disorder prenatal enzyme replacement platform study.
 
@@ -71,7 +71,6 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 
 ## Clinical Trial Evidence
 
-The table covers cholesteryl ester storage disease, the best-supported prediction.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -129,7 +128,7 @@ Please refer to the package insert for safety information. The data compiled for
 
 **Rationale:**
 - Scheie syndrome and the other off-label predictions have no clinical or literature support and no plausible mechanism. The high TxGNN scores likely reflect lysosomal storage disease network proximity.
-- For cholesteryl ester storage disease (and the Wolman disease variant at rank 5), a completed Phase 3 randomized placebo-controlled trial plus multiple completed Phase 2 studies and long-term follow-up support efficacy and safety. This is on-label use of the drug's own indication, not repurposing.
+- This is on-label use of the drug's own indication, not repurposing.
 - The only US license (BLA125561) is recorded as cancelled, which needs clarification before any market-based decision.
 
 **To proceed, the following is needed:**

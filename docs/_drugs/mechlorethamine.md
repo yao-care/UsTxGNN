@@ -4,17 +4,17 @@ title: Mechlorethamine
 parent: Model Prediction Only (L5)
 nav_order: 892
 evidence_level: L5
-indication_count: 3
-last_modified_at: 2026-10-31
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "MECHLORETHAMINE"
-predicted_indications: ["lymph node cancer", "relapsing-remitting multiple sclerosis", "follicular lymphoma"]
-description: "Mechlorethamine: predicted new indication Lymph node cancer (evidence level L5). Approved use: Not recorded in the local data"
+predicted_indications: ["relapsing-remitting multiple sclerosis", "follicular lymphoma"]
+description: "Mechlorethamine: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Mechlorethamine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Mechlorethamine: Lymph node cancer
+## Mechlorethamine: Relapsing-remitting multiple sclerosis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Mechlorethamine is a nitrogen mustard alkylating agent, originally used for mycosis fungoides (cutaneous T-cell lymphoma), Hodgkin lymphoma, and other lymphomas.
-The TxGNN model predicts it may be effective for **lymph node cancer**, but this largely restates its existing indications.
 Currently **0 registered clinical trials** and **20 publications** (mostly older studies) relate to this prediction.
 
 ## Quick Overview
@@ -47,8 +46,8 @@ Currently **0 registered clinical trials** and **20 publications** (mostly older
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | Lymph node cancer |
-| TxGNN Prediction Score | 0.9943 |
+| Predicted New Indication | Relapsing-remitting multiple sclerosis |
+| TxGNN Prediction Score | 0.9913 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
 | Number of FDA Applications | 1 (valid: 1) |

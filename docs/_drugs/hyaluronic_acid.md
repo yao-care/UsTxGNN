@@ -4,17 +4,17 @@ title: Hyaluronic Acid
 parent: High Evidence (L1-L2)
 nav_order: 774
 evidence_level: L1
-indication_count: 10
+indication_count: 9
 monitor_inn: "HYALURONIC ACID"
-predicted_indications: ["dry eye syndrome", "Sjogren syndrome", "xerophthalmia", "psoriasis", "dermatitis, atopic", "prolapse of lacrimal gland", "parapsoriasis", "pityriasis lichenoides", "severe nonproliferative diabetic retinopathy", "exanthem (disease)"]
-last_modified_at: 2026-10-30
-description: "Hyaluronic Acid: predicted new indication Dry eye syndrome (evidence level L1). Approved use: Not recorded in the local data"
+predicted_indications: ["Sjogren syndrome", "xerophthalmia", "psoriasis", "dermatitis, atopic", "prolapse of lacrimal gland", "parapsoriasis", "pityriasis lichenoides", "severe nonproliferative diabetic retinopathy", "exanthem (disease)"]
+last_modified_at: 2026-11-03
+description: "Hyaluronic Acid: predicted new indication Sjogren syndrome (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Hyaluronic Acid
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,13 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Hyaluronic Acid: Dry eye syndrome
+## Hyaluronic Acid: Sjogren syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Hyaluronic acid is a hygroscopic, viscoelastic polymer used mainly in cosmetic, topical and ophthalmic products. No approved indication text appears in its US license records.
-The TxGNN model predicts it may be effective for **dry eye syndrome**,
-with **10 clinical trials** and **20 publications** currently supporting this direction. This includes a completed Phase 3 randomized trial and several meta-analyses.
+This includes a completed Phase 3 randomized trial and several meta-analyses.
 
 ---
 
@@ -49,8 +48,8 @@ with **10 clinical trials** and **20 publications** currently supporting this di
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | Dry eye syndrome |
-| TxGNN Prediction Score | 0.9986 |
+| Predicted New Indication | Sjogren syndrome |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L1 (per the evidence scoring; note that only one Phase 3 RCT is listed, see below) |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
 | Number of FDA Applications | 3 (valid: 3) |
@@ -81,7 +80,6 @@ Other predicted indications are much weaker:
 
 ## Clinical Trial Evidence
 
-Trials for the top prediction (dry eye syndrome):
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|

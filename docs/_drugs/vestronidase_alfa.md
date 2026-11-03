@@ -4,17 +4,17 @@ title: Vestronidase Alfa
 parent: Model Prediction Only (L5)
 nav_order: 1289
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-30
+indication_count: 8
+last_modified_at: 2026-11-03
 description: "Vestronidase Alfa: predicted new indication Scheie syndrome (evidence level L5). Approved use: Mucopolysaccharidosis (MPS VII)"
 monitor_inn: "VESTRONIDASE ALFA"
-predicted_indications: ["Scheie syndrome", "lysosomal storage disease with skeletal involvement", "Hurler syndrome", "Sanfilippo syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-vocal cord paralysis syndrome", "ptosis-strabismus-ectopic pupils syndrome", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "congenital Horner syndrome (disease)"]
+predicted_indications: ["Scheie syndrome", "Hurler syndrome", "Sanfilippo syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-vocal cord paralysis syndrome", "ptosis-strabismus-ectopic pupils syndrome", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "congenital Horner syndrome (disease)"]
 ---
 
 # Vestronidase Alfa
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -65,7 +65,6 @@ However, the enzymes differ. Beta-glucuronidase does not replace iduronidase, so
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |---|---|---|---|---|
-| 2 | Lysosomal storage disease with skeletal involvement | 0.9959 | L5 | Broad category that includes MPS VII itself; likely overlap with the original indication, not a new signal |
 | 3 | Hurler syndrome | 0.9943 | L5 | Same GAGs are involved, but the missing enzyme is not replaced; only an early prenatal ERT platform trial exists |
 | 4 | Sanfilippo syndrome | 0.9942 | L5 | Only MPS VII publications are available; intravenous ERT is unlikely to cross the blood-brain barrier |
 | 5–9 | Rare congenital ocular, craniofacial and neuromuscular syndromes (e.g., congenital Horner syndrome) | 0.9902–0.9909 | L5 | No plausible mechanism; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |

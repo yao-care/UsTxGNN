@@ -4,17 +4,17 @@ title: Vorinostat
 parent: Model Prediction Only (L5)
 nav_order: 1296
 evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-30
-description: "Vorinostat: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L3). Approved use: Primary cutaneous T-cell lymphoma (including primary cutaneous T-cell…"
+indication_count: 1
+last_modified_at: 2026-11-03
 monitor_inn: "VORINOSTAT"
-predicted_indications: ["primary cutaneous B-cell lymphoma", "Sezary syndrome"]
+predicted_indications: ["primary cutaneous B-cell lymphoma"]
+description: "Vorinostat: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Vorinostat
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,20 +33,19 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Vorinostat: From Cutaneous T-Cell Lymphoma to Primary Cutaneous B-Cell Lymphoma
+## Vorinostat: Primary cutaneous B-cell lymphoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Vorinostat is an oral HDAC inhibitor, originally used to treat cutaneous T-cell lymphoma (CTCL).
 The TxGNN model predicts it may be effective for **primary cutaneous B-cell lymphoma (PCBCL)**, but evidence is thin: the **4 clinical trials** compiled are general lymphoma or supportive studies, and the only **1 publication** is a preclinical mantle cell lymphoma study.
-A second prediction, **Sezary syndrome**, is much better supported, but it is essentially within the original CTCL disease family rather than a true new indication (see the end of this report).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Primary cutaneous T-cell lymphoma (including primary cutaneous T-cell non-Hodgkin lymphoma) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Primary cutaneous B-cell lymphoma |
 | TxGNN Prediction Score | 0.9921 |
 | Evidence Level | L5 |
@@ -118,7 +117,6 @@ No study directly tests vorinostat in PCBCL. The trials are general lymphoma or 
 
 ## Additional Note: Sezary Syndrome (Second Prediction)
 
-Sezary syndrome (TxGNN score 0.9907, Evidence Level **L1**, suggested decision **Proceed with Guardrails**) is a leukemic variant of CTCL, so this is essentially an on-label or near-label population rather than true repurposing.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|

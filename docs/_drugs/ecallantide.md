@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ecallantide
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 639
-evidence_level: L1
-indication_count: 6
+evidence_level: L5
+indication_count: 5
 monitor_inn: "ECALLANTIDE"
-predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "Peyronie disease", "pancreatitis", "esophageal varices without bleeding", "esophageal varices with bleeding"]
-last_modified_at: 2026-10-31
-description: "Ecallantide: predicted new indication C1 inhibitor deficiency (evidence level L1). Approved use: Hereditary angioedema"
+predicted_indications: ["serpinopathy with toxic serpin polymerization", "Peyronie disease", "pancreatitis", "esophageal varices without bleeding", "esophageal varices with bleeding"]
+last_modified_at: 2026-11-03
+description: "Ecallantide: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ecallantide
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ Evidence Level: **L1** | Predicted Indications: **6**
 
 </div>
 
-## Ecallantide: From Hereditary Angioedema to C1 Inhibitor Deficiency
+## Ecallantide: Serpinopathy with toxic serpin polymerization
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Ecallantide is a recombinant plasma kallikrein inhibitor, originally used to treat acute attacks of hereditary angioedema (HAE).
-The TxGNN model predicts it may be effective for **C1 inhibitor deficiency**, a condition closely related to its original indication.
 Currently, **7 clinical trials** (3 phase 3 studies, 2 of them randomized and placebo-controlled) and **20 publications** support this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hereditary angioedema; hereditary angioedema with C1 inhibitor deficiency |
-| Predicted New Indication | C1 inhibitor deficiency |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Serpinopathy with toxic serpin polymerization |
 | TxGNN Prediction Score | 0.9999 |
-| Evidence Level | L1 |
+| Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
 | Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |

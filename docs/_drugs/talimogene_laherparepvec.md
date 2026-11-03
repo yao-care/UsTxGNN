@@ -4,17 +4,17 @@ title: Talimogene Laherparepvec
 parent: Model Prediction Only (L5)
 nav_order: 1197
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-30
-description: "Talimogene Laherparepvec: predicted new indication CMM7 (evidence level L5). Approved use: Melanoma"
+indication_count: 4
+last_modified_at: 2026-11-03
 monitor_inn: "TALIMOGENE LAHERPAREPVEC"
-predicted_indications: ["CMM7", "glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma"]
+predicted_indications: ["glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma"]
+description: "Talimogene Laherparepvec: predicted new indication Glottis squamous cell carcinoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Talimogene Laherparepvec
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,21 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Talimogene Laherparepvec: From Melanoma to CMM7 (Cutaneous Malignant Melanoma Subtype, Label to Be Verified)
+## Talimogene Laherparepvec: Glottis squamous cell carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Talimogene laherparepvec (T-VEC) is an oncolytic herpes virus originally used to treat melanoma.
-The TxGNN model predicts it may be effective for **CMM7**, with a score of 0.9920.
 However, **no clinical trials and no publications** were found in the data compiled for this report, so this remains a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Melanoma (from the knowledge graph; no approved indication text is recorded in the US license data) |
-| Predicted New Indication | CMM7 |
-| TxGNN Prediction Score | 0.9920 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Glottis squamous cell carcinoma |
+| TxGNN Prediction Score | 0.9907 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
 | Number of FDA Applications | 1 (valid: 1) |
@@ -109,7 +108,7 @@ Other safety information, including warnings and contraindications, is not avail
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model score, with no trials or publications. The predicted label (CMM7) is ambiguous. The US license is cancelled, and the mechanism-of-action and label safety data are missing.
+The prediction is supported only by the TxGNN model score, with no trials or publications. The US license is cancelled, and the mechanism-of-action and label safety data are missing.
 
 **To proceed, the following is needed:**
 - Verify what "CMM7" refers to in the disease ontology.

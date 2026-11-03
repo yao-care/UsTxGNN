@@ -4,17 +4,17 @@ title: Elosulfase Alfa
 parent: Model Prediction Only (L5)
 nav_order: 647
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-30
+indication_count: 8
+last_modified_at: 2026-11-03
 description: "Elosulfase Alfa: predicted new indication Scheie syndrome (evidence level L5). Approved use: Mucopolysaccharidosis (Morquio A syndrome, MPS IVA)"
 monitor_inn: "ELOSULFASE ALFA"
-predicted_indications: ["Scheie syndrome", "lysosomal storage disease with skeletal involvement", "Hurler syndrome", "Sanfilippo syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-vocal cord paralysis syndrome", "ptosis-strabismus-ectopic pupils syndrome", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "congenital Horner syndrome (disease)"]
+predicted_indications: ["Scheie syndrome", "Hurler syndrome", "Sanfilippo syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-vocal cord paralysis syndrome", "ptosis-strabismus-ectopic pupils syndrome", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "congenital Horner syndrome (disease)"]
 ---
 
 # Elosulfase Alfa
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -68,7 +68,6 @@ Scheie syndrome is an attenuated form of MPS I. It is caused by a deficiency of 
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 2 | Lysosomal storage disease with skeletal involvement | 0.9959 | L5 | Overlaps with the approved MPS IVA use; the publications support the original indication, not a new one |
 | 3 | Hurler syndrome | 0.9943 | L5 | Different enzyme deficiency (MPS I); only an indirect Phase 1 prenatal ERT platform trial |
 | 4 | Sanfilippo syndrome | 0.9942 | L5 | 13 publications, almost all on Morquio A; mainly central nervous system disease, and large enzymes do not cross the blood-brain barrier |
 

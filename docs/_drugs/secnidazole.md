@@ -4,17 +4,17 @@ title: Secnidazole
 parent: Model Prediction Only (L5)
 nav_order: 1148
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-31
+indication_count: 6
+last_modified_at: 2026-11-03
 description: "Secnidazole: predicted new indication Postmenopausal atrophic vaginitis (evidence level L5). Approved use: Bacterial vaginosis, trichomoniasis, giardiasis, vaginitis, vulvitis…"
 monitor_inn: "SECNIDAZOLE"
-predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vaginal discharge", "vulvar neoplasm", "trichomonal vulvovaginitis", "leukoplakia of vagina", "vulvovaginal candidiasis"]
+predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vaginal discharge", "vulvar neoplasm", "leukoplakia of vagina", "vulvovaginal candidiasis"]
 ---
 
 # Secnidazole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -93,7 +93,6 @@ The prediction has no clinical or literature support and no plausible mechanism,
 
 Other predictions in the same data are better supported, though they largely extend existing indications rather than being true repurposing:
 - **Vaginal discharge** (score 0.9941, L1, Proceed with Guardrails): supported by a completed Phase 3 placebo-controlled trial in trichomoniasis (NCT03935217, n=147), a Phase 3 trial in bacterial vaginosis (PMID 28867602), and a meta-analysis of single-dose secnidazole in bacterial vaginosis (PMID 31129560).
-- **Trichomonal vulvovaginitis** (score 0.9937, L1, Proceed with Guardrails): supported by a Phase 3 randomized trial (PMID 33768237).
 - **Ulceration of vulva, vulvar neoplasm, leukoplakia of vagina** (all L5, Hold): no evidence and no plausible mechanism.
 - **Vulvovaginal candidiasis** (L3, Research Question): secnidazole has no direct antifungal activity, and the only clinical signal comes from a fluconazole combination trial.
 

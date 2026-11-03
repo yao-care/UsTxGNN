@@ -4,17 +4,17 @@ title: Cefoxitin
 parent: Model Prediction Only (L5)
 nav_order: 505
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-30
-description: "Cefoxitin: predicted new indication Infectious otitis media (evidence level L5). Approved use: Bacterial infections (streptococcal and staphylococcal infections…"
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "CEFOXITIN"
-predicted_indications: ["infectious otitis media", "urinary tract infection (disease)", "chronic otitis media", "suppurative otitis media", "middle ear disease", "Ureaplasma urethritis", "toxocariasis", "otosalpingitis", "non-suppurative otitis media"]
+predicted_indications: ["infectious otitis media", "chronic otitis media", "suppurative otitis media", "middle ear disease", "Ureaplasma urethritis", "toxocariasis", "otosalpingitis", "non-suppurative otitis media"]
+description: "Cefoxitin: predicted new indication Infectious otitis media (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Cefoxitin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Cefoxitin: From Bacterial Infections to Infectious Otitis Media
+## Cefoxitin: Infectious otitis media
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,9 +48,9 @@ Currently **1 clinical trial** (terminated after 6 patients) and **20 publicatio
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial infections (streptococcal and staphylococcal infections, bacterial pneumonia, peritonitis, gonorrhea, endometritis, etc.) |
-| Predicted New Indication | Urinary tract infection (the rank 1 prediction, infectious otitis media, has no supporting trials and only one unsupportive review) |
-| TxGNN Prediction Score | 0.9926 (UTI); rank 1 infectious otitis media scored 0.9930 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Infectious otitis media |
+| TxGNN Prediction Score | 0.9930 |
 | Evidence Level | L5 (UTI) |
 | US Market Status | Marketed (valid licenses: 6 of 6) |
 | Number of FDA Applications | 6 (valid: 6) |

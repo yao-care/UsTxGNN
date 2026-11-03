@@ -4,17 +4,17 @@ title: Ferric Maltol
 parent: Model Prediction Only (L5)
 nav_order: 702
 evidence_level: L5
-indication_count: 3
-last_modified_at: 2026-10-30
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "FERRIC MALTOL"
-predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "IRIDA syndrome"]
-description: "Ferric Maltol: predicted new indication Plummer-Vinson syndrome (evidence level L5). Approved use: Not recorded in the local data"
+predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "IRIDA syndrome"]
+description: "Ferric Maltol: predicted new indication Vitamin B12- and folate-independent constitutional megaloblastic anemia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ferric Maltol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,19 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Ferric Maltol: Plummer-Vinson syndrome
+## Ferric Maltol: Vitamin B12- and folate-independent constitutional megaloblastic anemia
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Ferric maltol is an oral iron replacement originally used to treat iron deficiency anemia.
-The TxGNN model predicts it may be useful for **Plummer-Vinson syndrome**,
-but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on mechanistic inference alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | Plummer-Vinson syndrome |
+| Predicted New Indication | Vitamin B12- and folate-independent constitutional megaloblastic anemia |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |

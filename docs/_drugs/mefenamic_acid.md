@@ -4,17 +4,17 @@ title: Mefenamic Acid
 parent: High Evidence (L1-L2)
 nav_order: 894
 evidence_level: L2
-indication_count: 7
+indication_count: 6
 monitor_inn: "MEFENAMIC ACID"
-predicted_indications: ["rheumatoid arthritis", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-30
-description: "Mefenamic Acid: predicted new indication Rheumatoid arthritis (evidence level L2). Approved use: Not recorded in the local data"
+predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
+last_modified_at: 2026-11-03
+description: "Mefenamic Acid: predicted new indication Headache disorder (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Mefenamic Acid
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **7** 
+Evidence Level: **L2** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **7**
 
 </div>
 
-## Mefenamic Acid: Rheumatoid arthritis
+## Mefenamic Acid: Headache disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,8 +45,8 @@ Mefenamic acid is an oral nonsteroidal anti-inflammatory drug (NSAID) that reduc
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 0.9973 |
+| Predicted New Indication | Headache disorder |
+| TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L2 |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
 | Number of FDA Applications | 3 (valid: 3) |
@@ -66,7 +66,6 @@ Other predictions are weaker:
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered, for rheumatoid arthritis or any other predicted indication.
 
 ## Literature Evidence
 

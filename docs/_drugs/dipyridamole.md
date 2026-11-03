@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dipyridamole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 613
-evidence_level: L4
-indication_count: 8
+evidence_level: L5
+indication_count: 6
 monitor_inn: "DIPYRIDAMOLE"
-predicted_indications: ["thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cavernous sinus thrombosis", "lateral sinus thrombosis"]
-last_modified_at: 2026-10-30
-description: "Dipyridamole: predicted new indication Thrombotic disease (evidence level L4). Approved use: Atrial fibrillation"
+predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cavernous sinus thrombosis", "lateral sinus thrombosis"]
+last_modified_at: 2026-11-03
+description: "Dipyridamole: predicted new indication Sick sinus syndrome 2, autosomal dominant (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dipyridamole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,21 @@ Evidence Level: **L4** | Predicted Indications: **8**
 
 </div>
 
-## Dipyridamole: From Atrial Fibrillation to Thrombotic Disease
+## Dipyridamole: Sick sinus syndrome 2, autosomal dominant
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Dipyridamole is an antiplatelet and vasodilator drug, and US generic products are marketed. The TxGNN model (deep learning) predicts it may be useful for **thrombotic disease** (score 0.9994); this score may reflect similarities the model learned between related diseases, not biological evidence. No clinical trials are registered for this broad category, and the **literature** consists mostly of older reviews on antiplatelet therapy, so the evidence is mechanistic and indirect.
+Dipyridamole is an antiplatelet and vasodilator drug, and US generic products are marketed. No clinical trials are registered for this broad category, and the **literature** consists mostly of older reviews on antiplatelet therapy, so the evidence is mechanistic and indirect.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Atrial fibrillation (a relation recorded in the knowledge graph; no label text is available to confirm an approved indication) |
-| Predicted New Indication | Thrombotic disease |
-| TxGNN Prediction Score | 0.9994 |
-| Evidence Level | L4 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Sick sinus syndrome 2, autosomal dominant |
+| TxGNN Prediction Score | 0.9989 |
+| Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of FDA Applications | at least 8 |
 | Number of approvals | At least 8 ANDAs (the list may be partial) |

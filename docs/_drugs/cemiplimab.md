@@ -4,17 +4,17 @@ title: Cemiplimab
 parent: Model Prediction Only (L5)
 nav_order: 511
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-30
-description: "Cemiplimab: predicted new indication Gallbladder adenosquamous carcinoma (evidence level L5). Approved use: Squamous cell carcinoma"
+indication_count: 5
+last_modified_at: 2026-11-03
 monitor_inn: "CEMIPLIMAB"
-predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "external ear basal cell carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]
+predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]
+description: "Cemiplimab: predicted new indication Gallbladder adenosquamous carcinoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Cemiplimab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Cemiplimab: From Squamous Cell Carcinoma to Gallbladder Adenosquamous Carcinoma
+## Cemiplimab: Gallbladder adenosquamous carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,7 +46,7 @@ but **no clinical trials and no publications** currently support this specific p
 
 | Item | Content |
 |------|------|
-| Original Indication | Squamous cell carcinoma |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Gallbladder adenosquamous carcinoma |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
@@ -86,7 +86,6 @@ Currently no related clinical trials registered for gallbladder adenosquamous ca
 
 Currently no related literature available for gallbladder adenosquamous carcinoma.
 
-For reference, the one publication supplied for another predicted indication (external ear basal cell carcinoma, rank 4) is:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -128,7 +127,7 @@ The prediction for gallbladder adenosquamous carcinoma has no trials or literatu
 - Obtain the FDA package insert to complete warnings and contraindications (a blocking gap for safety screening)
 - Confirm the current US marketing status of LIBTAYO (BLA761097), since the record shows it as cancelled
 - Obtain formal mechanism-of-action data and assess the similarity between the original and predicted indications
-- Consider whether external ear basal cell carcinoma (rank 4, L4) is a better candidate to evaluate first, given its supporting case report. Pivotal basal cell carcinoma data outside this data set should also be reviewed.
+- Pivotal basal cell carcinoma data outside this data set should also be reviewed.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

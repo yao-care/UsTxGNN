@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Albendazole
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 218
-evidence_level: L2
-indication_count: 3
+evidence_level: L5
+indication_count: 1
 monitor_inn: "ALBENDAZOLE"
-predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
-last_modified_at: 2026-10-30
-description: "Albendazole: predicted new indication Alveolar echinococcosis (evidence level L2). Approved use: Cystic echinococcosis, cysticercosis"
+predicted_indications: ["coenurosis"]
+last_modified_at: 2026-11-03
+description: "Albendazole: predicted new indication Coenurosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Albendazole
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,21 @@ Evidence Level: **L2** | Predicted Indications: **3**
 
 </div>
 
-## Albendazole: From Cystic Echinococcosis to Alveolar Echinococcosis
+## Albendazole: Coenurosis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Albendazole is a benzimidazole anthelmintic, originally used to treat cystic echinococcosis and cysticercosis.
-The TxGNN model predicts it may be effective for **Alveolar Echinococcosis**,
-with **3 clinical trials** and **20 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Cystic echinococcosis, cysticercosis (the US license entries contain no indication text) |
-| Predicted New Indication | Alveolar echinococcosis |
-| TxGNN Prediction Score | 0.9997 |
-| Evidence Level | L2 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Coenurosis |
+| TxGNN Prediction Score | 0.9983 |
+| Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 5 of 7) |
 | Number of FDA Applications | 7 (valid: 5) |
 | Recommended Decision | Proceed with Guardrails |
@@ -123,7 +121,7 @@ A completed Phase 2 trial (n=194) tests albendazole directly in early alveolar e
 
 **Other predicted indications (for reference)**
 - **Coenurosis** (score 0.9983): The Phase 3 trials found are all in neurocysticercosis, so evidence transfers by analogy only. Human coenurosis is rare. The pre-set level is L1, but this is overstated for coenurosis itself, so a more cautious reading is warranted.
-- **Cestode infectious disease** (score 0.9974): A broad category rather than a distinct clinical entity. It is better assessed through the specific diseases above and is best treated as a research question.
+- It is better assessed through the specific diseases above and is best treated as a research question.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,17 +4,17 @@ title: Risperidone
 parent: Model Prediction Only (L5)
 nav_order: 1128
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-31
+indication_count: 4
+last_modified_at: 2026-11-03
 monitor_inn: "RISPERIDONE"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 description: "Risperidone: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Risperidone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -103,7 +103,6 @@ The prediction has a very high model score but no clinical trials, no literature
 - Label warnings and contraindications from the FDA package insert.
 - Clarification of the regulatory status, since the drug is marketed in the US with 10 valid licenses.
 - Consideration of other predictions for this drug, which have more support in the data compiled for this report:
-  - **Major affective disorder** has two Phase 3 trials of adjunctive risperidone in treatment-resistant depression and several meta-analyses (L1).
   - **Trichotillomania** has consistent case reports and case series (L3).
 ## Disclaimer
 

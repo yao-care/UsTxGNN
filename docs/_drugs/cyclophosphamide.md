@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cyclophosphamide
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 556
-evidence_level: L1
-indication_count: 4
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-11-03
 monitor_inn: "CYCLOPHOSPHAMIDE"
-predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
-description: "Cyclophosphamide: predicted new indication Myeloid leukemia (evidence level L1). Approved use: Not recorded in the local data"
+predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
+description: "Cyclophosphamide: predicted new indication Vertebral anomalies and variable endocrine and T-cell dysfunction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Cyclophosphamide
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,22 @@ Evidence Level: **L1** | Predicted Indications: **4**
 
 </div>
 
-## Cyclophosphamide: Myeloid leukemia
+## Cyclophosphamide: Vertebral anomalies and variable endocrine and T-cell dysfunction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Cyclophosphamide is an alkylating chemotherapy drug originally used for lymphomas, multiple myeloma, neuroblastoma, breast carcinoma and retinoblastoma.
-The TxGNN model predicts it may be effective for **Myeloid Leukemia**, with **35 clinical trials** and **20 publications** compiled for this direction. Most of this evidence concerns transplant conditioning and post-transplant use rather than cyclophosphamide as a stand-alone treatment.
+Most of this evidence concerns transplant conditioning and post-transplant use rather than cyclophosphamide as a stand-alone treatment.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | Myeloid leukemia |
-| TxGNN Prediction Score | 0.9947 |
-| Evidence Level | L1 (as assigned in the compiled data; see the caveat in the Conclusion) |
+| Predicted New Indication | Vertebral anomalies and variable endocrine and T-cell dysfunction |
+| TxGNN Prediction Score | 0.9938 |
+| Evidence Level | L5 (as assigned in the compiled data; see the caveat in the Conclusion) |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of FDA Applications | at least 12 |
 | Recommended Decision | Proceed with Guardrails |
@@ -161,7 +161,6 @@ The package insert safety data are also missing, although the drug is marketed i
 |------|------|------|------|------|------|
 | 3 | Vertebral anomalies and variable endocrine and T-cell dysfunction | 0.9938 | L5 | Hold | No trials or literature; immunosuppression may worsen the existing T-cell deficiency |
 | 4 | Retroperitoneal neoplasm | 0.9937 | L4 | Research Question | Mixed histologies; case reports and small series only, with no trials |
-| 5 | Lymph node cancer | 0.9931 | L1 | Proceed with Guardrails | Large Phase 3 trials in node-positive breast cancer, which largely overlaps existing indications (lymphoma, breast carcinoma) and is closer to an extension of existing use |
 
 ## Disclaimer
 

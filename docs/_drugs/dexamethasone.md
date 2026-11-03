@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dexamethasone
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 590
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 monitor_inn: "DEXAMETHASONE"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-31
-description: "Dexamethasone: predicted new indication Alopecia areata (evidence level L2). Approved use: Adrenocortical insufficiency, Crohn disease…"
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
+last_modified_at: 2026-11-03
+description: "Dexamethasone: predicted new indication Alopecia mucinosa (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dexamethasone
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Dexamethasone: From Adrenocortical Insufficiency and Inflammatory Conditions to Alopecia Areata
+## Dexamethasone: Alopecia mucinosa
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Dexamethasone is a potent glucocorticoid originally used for conditions such as adrenocortical insufficiency, Crohn disease, congenital adrenal hyperplasia and acute lymphoblastic leukemia.
-The TxGNN model predicts it may be effective for **Alopecia Areata**, and the data compiled for this report include **0 registered clinical trials** and **20 publications** (including 1 randomized controlled trial and 1 network meta-analysis, plus several cohort studies on oral mini-pulse dosing).
 
 ---
 
@@ -47,10 +46,10 @@ The TxGNN model predicts it may be effective for **Alopecia Areata**, and the da
 
 | Item | Content |
 |------|------|
-| Original Indication | Adrenocortical insufficiency, Crohn disease, congenital adrenal hyperplasia, acute lymphoblastic leukemia, and others (the US license entries carry no indication text) |
-| Predicted New Indication | Alopecia areata |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Alopecia mucinosa |
 | TxGNN Prediction Score | 0.9999 |
-| Evidence Level | L2 |
+| Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 15) |
 | Number of FDA Applications | at least 15 |
 | Recommended Decision | Proceed with Guardrails |

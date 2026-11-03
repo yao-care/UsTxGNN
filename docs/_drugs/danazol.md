@@ -4,9 +4,9 @@ title: Danazol
 parent: Model Prediction Only (L5)
 nav_order: 567
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "DANAZOL"
-predicted_indications: ["amenorrhea (disease)", "benign mammary dysplasia", "apocrine adenosis of breast", "blunt duct adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
+predicted_indications: ["amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
 last_modified_at: 2026-11-03
 description: "Danazol: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
@@ -14,7 +14,7 @@ description: "Danazol: predicted new indication Amenorrhea (disease) (evidence l
 # Danazol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -132,7 +132,6 @@ The mechanism of menstrual suppression is the same one that underlies danazol's 
 
 | Rank | Predicted Indication | Evidence Level | Recommendation |
 |------|------|------|------|
-| 2 | Benign mammary dysplasia | L3 | Proceed with Guardrails |
 | 3 | Apocrine adenosis of breast | L5 | Research Question |
 | 4 | Blunt duct adenosis of breast | L5 | Hold |
 | 5 | Breast abscess | L4 | Hold |

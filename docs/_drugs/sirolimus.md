@@ -4,17 +4,17 @@ title: Sirolimus
 parent: High Evidence (L1-L2)
 nav_order: 1166
 evidence_level: L2
-indication_count: 7
-last_modified_at: 2026-10-31
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "SIROLIMUS"
-predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lung PEComa", "vulva sarcoma"]
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
 description: "Sirolimus: predicted new indication Liposarcoma (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Sirolimus
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **7** 
+Evidence Level: **L2** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -137,7 +137,6 @@ Please refer to the package insert for authoritative warnings and contraindicati
 
 | Rank | Predicted Indication | Score | Evidence Level | Key Point | Suggested Decision |
 |---|---|---|---|---|---|
-| 5 | Lymphangiomyoma (LAM) | 0.9979 | L5 | Phase 3 MILES trial ([NCT00414648](https://clinicaltrials.gov/study/NCT00414648), n=89, completed) and Phase 3 MILED ([NCT03150914](https://clinicaltrials.gov/study/NCT03150914), n=60, active); already an original indication | Proceed with Guardrails |
 | 9 | Lung PEComa | 0.9963 | L5 | Evidence transferred from LAM, not specific to lung PEComa | Research question |
 | 4 | Benign PEComa | 0.9980 | L5 | Case reports of sirolimus/nab-sirolimus response; no registered trials | Research question |
 | 3, 6-8, 10, 2 | Uterine PEComa, unclassified RCC, Xp11.2/TFE3 RCC, RCC with neuroblastoma, vulva sarcoma, ovarian myxoid liposarcoma | 99.6-0.9985 | L5 | Prediction only; no specific trials or publications | Hold |

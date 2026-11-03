@@ -4,17 +4,17 @@ title: Tecovirimat
 parent: Model Prediction Only (L5)
 nav_order: 1204
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-30
+indication_count: 8
+last_modified_at: 2026-11-03
 description: "Tecovirimat: predicted new indication Hordeolum (evidence level L5). Approved use: Smallpox"
 monitor_inn: "TECOVIRIMAT"
-predicted_indications: ["hordeolum", "vibrio infectious disease", "Klebsiella infectious disease", "noma", "lumpy skin disease", "human infection by orthopoxvirus", "idiopathic severe pneumococcemia", "coinfection", "phlebotomus fever"]
+predicted_indications: ["hordeolum", "vibrio infectious disease", "Klebsiella infectious disease", "noma", "lumpy skin disease", "idiopathic severe pneumococcemia", "coinfection", "phlebotomus fever"]
 ---
 
 # Tecovirimat
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---

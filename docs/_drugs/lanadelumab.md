@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lanadelumab
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 832
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 monitor_inn: "LANADELUMAB"
-predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
-last_modified_at: 2026-10-30
-description: "Lanadelumab: predicted new indication C1 inhibitor deficiency (evidence level L1). Approved use: Hereditary angioedema (including HAE with C1-INH deficiency)"
+predicted_indications: ["serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
+last_modified_at: 2026-11-03
+description: "Lanadelumab: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lanadelumab
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Lanadelumab: From Hereditary Angioedema to C1 Inhibitor Deficiency
+## Lanadelumab: Serpinopathy with toxic serpin polymerization
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Lanadelumab is a monoclonal antibody that inhibits plasma kallikrein, originally used to prevent attacks of hereditary angioedema (HAE).
-The TxGNN model predicts it may be effective for **C1 inhibitor deficiency**, which is closely tied to its original indication (HAE with C1-INH deficiency), so this is essentially an on-label use rather than a true repurposing case.
 Evidence currently includes **5 clinical trials** and **20 publications**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hereditary angioedema (including HAE with C1-INH deficiency) |
-| Predicted New Indication | C1 inhibitor deficiency |
-| TxGNN Prediction Score | 1.0000 |
-| Evidence Level | L1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Serpinopathy with toxic serpin polymerization |
+| TxGNN Prediction Score | 0.9999 |
+| Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
 | Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |

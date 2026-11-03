@@ -4,17 +4,17 @@ title: Cortisone
 parent: Model Prediction Only (L5)
 nav_order: 550
 evidence_level: L5
-indication_count: 9
+indication_count: 7
 monitor_inn: "CORTISONE"
-predicted_indications: ["primary cutaneous T-cell lymphoma", "adrenocortical insufficiency", "myelodysplastic syndrome", "lymphosarcoma", "candidiasis", "Crohn's colitis", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5"]
-last_modified_at: 2026-10-30
+predicted_indications: ["primary cutaneous T-cell lymphoma", "myelodysplastic syndrome", "lymphosarcoma", "candidiasis", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5"]
+last_modified_at: 2026-11-03
 description: "Cortisone: predicted new indication primary cutaneous T-cell lymphoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Cortisone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---

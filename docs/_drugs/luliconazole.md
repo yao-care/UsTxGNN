@@ -38,10 +38,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Luliconazole is a topical imidazole antifungal originally used for tinea pedis, tinea corporis and related dermatophyte infections of the skin.
-Only one of those publications directly addresses the predicted disease in patients.
-
----
+Luliconazole is a topical azole antifungal applied as a cream for skin fungal infections.
+The TxGNN model predicts it may be useful for **endothrix infectious disease**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so it remains a model prediction only.
 
 ## Quick Overview
 
@@ -55,60 +53,48 @@ Only one of those publications directly addresses the predicted disease in patie
 | Number of FDA Applications | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Published literature describes luliconazole as an imidazole antifungal that inhibits sterol 14-α-demethylase (CYP51), blocking ergosterol synthesis in fungal cells. It has broad activity against dermatophytes, *Candida albicans* and *Malassezia* species.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on its drug class, luliconazole is an azole antifungal with activity against dermatophytes, the fungi that cause superficial skin infections.
 
-Pityriasis versicolor is a superficial skin infection caused by *Malassezia* yeasts. These organisms are susceptible to azole antifungals. The original tinea indications involve dermatophytes of the skin surface, so both conditions are superficial fungal infections that respond to the same drug class and topical route. This makes the prediction mechanistically plausible.
+Endothrix infections are caused by dermatophytes that grow inside the hair shaft, for example *Trichophyton tonsurans*. Because luliconazole acts against dermatophytes in general, it is plausible that these organisms are susceptible. However, no trial or publication in the compiled data tests luliconazole in this setting, so the high score reflects a model prediction rather than demonstrated efficacy.
 
-The current evidence is still early. The only registered trial has not started recruiting, and the one published comparative study is a small open-label trial. The prediction is therefore best treated as a research question, not a confirmed new use.
-
----
+A practical caveat is that hair-shaft infections can be difficult to reach with a topical cream, and route compatibility has not yet been assessed.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [27559523](https://pubmed.ncbi.nlm.nih.gov/27559523/) | 2016 | Randomized controlled trial (open-label, prospective) | Indian Dermatology Online Journal | Compared topical ketoconazole and topical luliconazole in pityriasis versicolor at a tertiary hospital in eastern India. No abstract was available, so outcomes could not be summarized. |
-| [29198426](https://pubmed.ncbi.nlm.nih.gov/29198426/) | 2018 | In vitro study | Journal de Mycologie Médicale | Luliconazole showed activity against *Candida* species. The authors note it has been used clinically for pityriasis versicolor, dermatophytosis, onychomycosis and candidiasis. |
-
----
+Currently no related literature available.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA204153 (cancelled) | Luzu (Bausch Health US, LLC) | Cream | No indication text recorded |
+| NDA204153 | Luzu (Bausch Health US, LLC) | Cream | No indication text recorded |
 
----
+The US market status is Marketed, with 1 valid licence in the local records.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found, and the knowledge graph lists no contraindicated diseases for this drug. The US label's warnings and contraindications were not available for this report, which is a gap that must be closed before any safety screening.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found in the compiled data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high and the azole mechanism fits *Malassezia* infection. However, the evidence is one small open-label trial (no abstract data available), one in vitro paper, and a Phase 4 trial that has not yet begun.
+The prediction score is high (0.9910), but there are no clinical trials or publications for this disease, so the evidence level is L5 and the prediction is supported by the model only.
 
 **To proceed, the following is needed:**
-- Results from NCT07333170, and full-text outcomes from the 2016 randomized trial (PMID 27559523)
-- FDA package insert warnings and contraindications
-- Detailed mechanism-of-action data from DrugBank
-- Clarification of current US marketing status and available formulations, given that the Luzu NDA is cancelled
+- Laboratory susceptibility data for luliconazole against endothrix dermatophytes
+- Clinical or case-based evidence in hair-shaft (endothrix) infections
+- Assessment of whether topical cream can adequately reach the infection site
+- Package insert warnings and contraindications
+- Mechanism of action data
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

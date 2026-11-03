@@ -38,9 +38,9 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Cemiplimab is a PD-1 blocking antibody, originally used to treat squamous cell carcinoma (specifically cutaneous squamous cell carcinoma).
+Cemiplimab is a PD-1 blocking antibody that is marketed in the United States.
 The TxGNN model predicts it may be effective for **gallbladder adenosquamous carcinoma**,
-but **no clinical trials and no publications** currently support this specific prediction, so it rests on the model score alone.
+but **no clinical trials and no publications** were found to support this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
@@ -56,40 +56,19 @@ but **no clinical trials and no publications** currently support this specific p
 
 ## Why is This Prediction Reasonable?
 
-Cemiplimab (LIBTAYO) is a monoclonal antibody that targets human PD-1 (PDCD1, CD279). It blocks the PD-1/PD-L1 interaction with an IC50 below 1 nM in an ELISA, which releases the brake on T-cell activity against tumour cells. A formal mechanism-of-action entry was not available in the data compiled for this report, but the target and binding activity are well described in the pharmacology data.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on what is known, cemiplimab is an antibody that blocks the interaction between PD-1 (encoded by PDCD1) and its ligand PD-L1, with an IC50 below 1 nM in a laboratory binding assay. Blocking this pathway releases the brake on T cells so they can attack tumour cells.
 
-The FDA authorised cemiplimab in September 2018 for metastatic or locally advanced cutaneous squamous cell carcinoma that cannot be treated with surgery or radiotherapy. In the early trials, about 50% of patients with advanced disease responded, and 82% of responders with metastatic disease had durable responses. The approval was later expanded to first-line PD-L1-high non-small cell lung cancer (February 2021) and to adjuvant treatment of cutaneous squamous cell carcinoma (October 2025).
+Adenosquamous carcinoma contains a squamous cell component. Because cemiplimab has clinical activity in a squamous-histology cancer (cutaneous squamous cell carcinoma), the squamous component of this tumour could plausibly respond to PD-1 blockade as well.
 
-The predicted indication, gallbladder adenosquamous carcinoma, contains a squamous component, so PD-1 blockade could plausibly act on it. However, this link rests only on shared squamous histology and the model score. No trial or publication was provided for this disease, and the similarity to the original indication has not yet been assessed.
-
-### Other Top Predictions
-
-The model produced nine other high-scoring predictions, all with scores around 0.9999. Only one has any supporting literature.
-
-| Rank | Predicted Indication | Evidence Level | Comment |
-|---|---|---|---|
-| 2 | Glottis squamous cell carcinoma | L5 | Head and neck squamous cancers respond to PD-1 blockade as a class; no cemiplimab-specific data |
-| 3 | Rectal cloacogenic carcinoma | L5 | Squamous features; PD-1 blockade explored in anal squamous carcinoma |
-| 4 | External ear basal cell carcinoma | L5 | One case report; the most supported of the ten |
-| 5 | Adenosquamous prostate carcinoma | L5 | Prostate cancer generally responds poorly to PD-1 blockade |
-| 6 | Urethral verrucous carcinoma | L5 | Usually treated surgically; weak rationale |
-| 7 | Lung occult squamous cell carcinoma | L5 | Class activity in squamous NSCLC; no data for the occult setting |
-| 8 | Pancreatic adenosquamous carcinoma | L5 | Immunosuppressive microenvironment; weak rationale |
-| 9 | Non-keratinizing sinonasal squamous cell carcinoma | L5 | Shares biology with head and neck squamous cancer |
-| 10 | Supraglottis squamous cell carcinoma | L5 | Laryngeal subsite of head and neck squamous cancer |
+This link is only a hypothesis. No trial or publication was supplied for gallbladder adenosquamous carcinoma. The rationale rests on the model prediction and the shared squamous histology.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for gallbladder adenosquamous carcinoma.
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for gallbladder adenosquamous carcinoma.
-
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [34157152](https://pubmed.ncbi.nlm.nih.gov/34157152/) | 2021 | Case report | Clinical and Experimental Dermatology | Lasting response after cemiplimab was discontinued in a patient with locally advanced basal cell carcinoma |
+Currently no related literature available.
 
 ## US Market Information
 
@@ -97,37 +76,27 @@ Currently no related literature available for gallbladder adenosquamous carcinom
 |---------|------|------|-----------|
 | BLA761097 | LIBTAYO | Injection | Not listed in the data compiled; the record shows the authorization as valid (manufacturer: Regeneron Pharmaceuticals, Inc.) |
 
-The cancelled status in this record conflicts with the pharmacology data, which describe FDA approval in 2018 with expansions in 2021 and 2025. The current marketing status should be confirmed against the FDA database before any decision is made.
-
-## Cytotoxicity
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Immunotherapy (PD-1 checkpoint inhibitor), not a conventional cytotoxic agent |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+Manufacturer: Regeneron Pharmaceuticals, Inc. The license is currently valid.
 
 ## Safety Considerations
 
-- **Drug Interactions**: Ten interaction records were found. Nine are rated Moderate and involve corticosteroids: hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisolone, prednisone, methylprednisolone and deflazacort. The tenth is a pharmacology record for the PD-1 target itself, with no severity level.
+- **Drug Interactions**: Ten interaction records were compiled. Nine are moderate-level interactions with corticosteroids: hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisolone, prednisone, methylprednisolone and deflazacort. The tenth is a pharmacological target record (PD-1, CD279) and carries no severity level.
 
-For warnings and contraindications, please refer to the package insert.
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction for gallbladder adenosquamous carcinoma has no trials or literature behind it (Evidence Level L5). Its only support is the model score and shared squamous histology. The label-level safety data and the market status record are also incomplete or inconsistent.
+The prediction score is very high, but there are no clinical trials or publications for gallbladder adenosquamous carcinoma. The evidence level is therefore L5 and the rationale is theoretical.
 
 **To proceed, the following is needed:**
-- Search for cemiplimab or other PD-1 inhibitor studies in gallbladder, biliary and adenosquamous tumours
-- Obtain the FDA package insert to complete warnings and contraindications (a blocking gap for safety screening)
-- Confirm the current US marketing status of LIBTAYO (BLA761097), since the record shows it as cancelled
-- Obtain formal mechanism-of-action data and assess the similarity between the original and predicted indications
-- Pivotal basal cell carcinoma data outside this data set should also be reviewed.
+- Published or registered studies of PD-1 blockade in gallbladder adenosquamous carcinoma
+- Obtain and review the FDA package insert warnings and contraindications
+- Detailed mechanism of action data from DrugBank
+- Assessment of route compatibility and similarity to the original use (currently pending)
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

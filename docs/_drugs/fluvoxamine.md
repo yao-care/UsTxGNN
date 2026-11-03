@@ -38,10 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-Fluvoxamine is a selective serotonin reuptake inhibitor (SSRI) originally used for social phobia and obsessive-compulsive disorder (OCD).
-The TxGNN model predicts it may be effective for **Paranoid Personality Disorder**, but there are **0 clinical trials** and only **2 loosely related publications**, neither of which tests fluvoxamine for this condition.
-
----
+Fluvoxamine is an SSRI that is already marketed in the United States. The TxGNN model predicts it may be useful for **paranoid personality disorder**, but the data compiled for this report contain **no clinical trials** and only **2 publications**. Neither publication tests fluvoxamine in this condition, so the prediction rests on the model alone.
 
 ## Quick Overview
 
@@ -55,36 +52,28 @@ The TxGNN model predicts it may be effective for **Paranoid Personality Disorder
 | Number of FDA Applications | at least 8 |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Fluvoxamine is known to be a potent SSRI and a sigma-1 receptor agonist. Its efficacy in OCD and social anxiety is established.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Fluvoxamine is known as a potent SSRI that also acts as a sigma-1 receptor agonist. These actions are well established in anxiety-spectrum conditions, but no direct mechanistic evidence links them to paranoid personality disorder, so the connection is speculative.
 
-A mechanistic link to paranoid personality disorder is speculative. The very high score (1.0000) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same score (1.0000) was also assigned to several other personality disorders, which supports this reading. Treat this prediction as a hypothesis only.
-
-The data compiled for this report also contain other predicted indications for fluvoxamine with much stronger support. These are anxiety disorder (L1) and agoraphobia/panic disorder (L1), both close to the original label, and endogenous depression (L2). If the goal is a repurposing candidate with real evidence, those are better starting points than this one.
-
----
+The very high TxGNN score is best read as a model output rather than as evidence about fluvoxamine's biology. The same score of about 1.0000 was assigned to several other personality-disorder predictions. This suggests the score reflects shared features across personality-disorder diagnoses and not anything specific to fluvoxamine.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [10929788](https://pubmed.ncbi.nlm.nih.gov/10929788/) | 2000 | Cohort | Comprehensive Psychiatry | Assessed personality disorders and traits in 148 people with body dysmorphic disorder, 26 of whom were in a fluvoxamine treatment study. It does not test fluvoxamine for paranoid personality disorder. |
-| [11686052](https://pubmed.ncbi.nlm.nih.gov/11686052/) | 2001 | Review | L'Encephale | Review of psychiatric side effects of alpha-interferon, including personality disorders. Not specific to fluvoxamine or to this indication. |
+| [10929788](https://pubmed.ncbi.nlm.nih.gov/10929788/) | 2000 | Cohort | Comprehensive Psychiatry | Assessed personality disorders and traits in 148 people with body dysmorphic disorder, 26 of whom took part in a fluvoxamine treatment study. It does not test fluvoxamine for paranoid personality disorder. |
+| [11686052](https://pubmed.ncbi.nlm.nih.gov/11686052/) | 2001 | Review | L'Encéphale | French-language review of psychiatric complications of alpha-interferon, including personality and mood changes. It does not address fluvoxamine for this condition. |
 
----
+Neither publication directly studies the predicted disease. The evidence level is therefore L5.
 
 ## US Market Information
 
-The drug is marketed in the US, with 8 valid authorizations. No approved-indication text was available for any of them.
+Fluvoxamine is marketed in the United States as single-ingredient products, and at least one licence is currently valid. The list below shows five of the licences on record and may be partial. Approved-indication text is not recorded in the local data.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
@@ -94,31 +83,31 @@ The drug is marketed in the US, with 8 valid authorizations. No approved-indicat
 | ANDA212182 | Fluvoxamine Maleate (Bionpharma) | Capsule, extended release | Valid |
 | ANDA075902 | Fluvoxamine Maleate (Apotex) | Tablet | Valid |
 
-Three more cancelled ANDAs are not listed here (Chartwell RX, Endo USA, Preferred Pharmaceuticals).
-
----
-
 ## Safety Considerations
 
-- **Disease associations from the knowledge graph (not label text):** The knowledge graph links fluvoxamine to caution or contraindication in epilepsy, bipolar disorder, major affective disorder, liver disease, gallbladder disease, blood coagulation disease, neuroleptic malignant syndrome, inappropriate ADH syndrome, nephrogenic syndrome of inappropriate antidiuresis, and serotonin syndrome.
-- **Drug Interactions:** 100 interactions were recorded. Major-level ones include alosetron, diethylpropion, dolasetron, and bupropion. Moderate-level ones include rabeprazole, aspirin, clarithromycin, morphine, pioglitazone, aprepitant, and several corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone). Fluvoxamine is a strong CYP1A2 and CYP2C19 inhibitor, which drives much of this interaction burden.
+- **Drug Interactions:** The interaction screen returned 100 records. Major-level interactions include:
+  - alosetron
+  - bupropion
+  - diethylpropion
+  - dolasetron
+  
+  Many moderate-level interactions were also recorded, for example with rabeprazole, clarithromycin, aspirin, pioglitazone, morphine and several corticosteroids (hydrocortisone, dexamethasone, budesonide, betamethasone, triamcinolone).
 
-Please refer to the package insert for label warnings and contraindications, which were not available in the compiled data.
-
----
+For other safety information, including warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone. There are no registered trials, no literature testing fluvoxamine in paranoid personality disorder, and no credible mechanistic rationale.
+The prediction has a very high model score but no registered trials and no publication that tests fluvoxamine in paranoid personality disorder. There is no mechanistic rationale beyond speculation, so the evidence is too weak to justify further investment now.
 
 **To proceed, the following is needed:**
-- Mechanism of action data and a plausible biological rationale linking fluvoxamine to paranoid personality disorder
-- Any clinical or preclinical studies that directly test fluvoxamine in this condition
-- FDA package insert warnings and contraindications for a proper safety screen
-- A decision on whether to pursue the better-supported predictions (anxiety disorder, agoraphobia/panic disorder, endogenous depression) instead
+- Mechanism-of-action data and a plausible biological link to paranoid traits or this disorder
+- Clinical or observational studies that directly evaluate fluvoxamine in paranoid personality disorder
+- Package-insert warnings and contraindications to support a safety review
+- A drug-interaction management plan, given the major-level interactions listed above
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

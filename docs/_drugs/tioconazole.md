@@ -38,8 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Tioconazole is a topical imidazole antifungal originally used to treat vulvovaginal candidiasis.
-Currently there are **0 registered clinical trials** and **19 publications** (mostly older clinical studies and reviews on vaginal candidiasis) supporting this direction.
+Tioconazole is a topical imidazole antifungal that blocks ergosterol synthesis in fungi and yeasts. The TxGNN model predicts it may be useful for **vulvitis**, with a score of 0.9920. No clinical trials are registered for vulvitis itself. The available literature covers vaginal Candida infection and does not study vulvitis as a separate endpoint.
 
 ## Quick Overview
 
@@ -55,15 +54,9 @@ Currently there are **0 registered clinical trials** and **19 publications** (mo
 
 ## Why is This Prediction Reasonable?
 
-Tioconazole is an imidazole antifungal. In fungi and yeast, it inhibits the cytochrome P450 enzyme lanosterol 14-alpha-demethylase (CYP51/ERG11), which blocks ergosterol synthesis and disrupts the fungal cell membrane. It also inhibits the human enzyme CYP8B1, which is involved in bile acid biosynthesis.
+Tioconazole's molecular target in fungi and yeasts is lanosterol 14-α demethylase (CYP51/ERG11). This enzyme converts lanosterol to ergosterol, an essential cell membrane component. Without ergosterol the organism cannot survive. Tioconazole also inhibits the human enzyme CYP8B1, which takes part in bile acid synthesis. Detailed mechanism-of-action data were not available in the data compiled for this report, so the mechanism above comes from pharmacology data and the general azole class.
 
-It applies only where the inflammation is caused by Candida. Bacterial vaginosis, trichomoniasis, and atrophic or irritant forms are not expected to respond to an antifungal.
-
-Note that detailed mechanism-of-action data was not available in the data compiled for this report, so the mechanism above relies on the known azole class and pharmacology data.
-
-Two other predictions were also generated:
-- **Vulvitis** (score 0.9920, L3): overlaps with candidiasis, but the literature does not isolate vulvitis as its own endpoint.
-- **Postmenopausal atrophic vaginitis** (score 0.9919, L5): no mechanistic rationale, since the condition is driven by estrogen deficiency rather than infection. No trials or literature exist, and the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. This prediction should be set aside.
+Vulvitis often occurs together with yeast infection of the lower genital tract. Where the vulvar inflammation is caused by Candida, an azole antifungal could plausibly help. This reasoning holds only for the fungal subset. Vulvitis from non-infectious or non-fungal causes (irritant, allergic, or other causes) would not be expected to respond to an antifungal. The literature retrieved does not separate vulvitis from general vaginal Candida infection, so the link remains an inference.
 
 ## Clinical Trial Evidence
 
@@ -71,46 +64,49 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Most relevant publications (all concern vaginal candidiasis, not vulvovaginitis as a separate endpoint):
+None of these publications studies vulvitis as a stand-alone condition. They describe tioconazole in vaginal and vulvar Candida infection and related genital infections.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [6347833](https://pubmed.ncbi.nlm.nih.gov/6347833/) | 1983 | Double-blind placebo-controlled trial | Gynakologische Rundschau | Tioconazole vs placebo in vaginal candidiasis, including systemic absorption assessment |
-| [3524439](https://pubmed.ncbi.nlm.nih.gov/3524439/) | 1986 | Randomized comparative study | Antimicrob Agents Chemother | Single-dose 6.5% tioconazole ointment vs 3-day clotrimazole: 84% vs 85% asymptomatic at 4 weeks |
-| [6094282](https://pubmed.ncbi.nlm.nih.gov/6094282/) | 1984 | Randomized open study | J Int Med Res | Topical tioconazole 6% vs oral ketoconazole (40 patients): both eradicated disease; topical symptoms resolved faster |
-| [3510114](https://pubmed.ncbi.nlm.nih.gov/3510114/) | 1986 | Review | Drugs | Broad antimicrobial activity; trials show efficacy and safety of topical tioconazole in superficial yeast infections and vaginal candidiasis |
-| [3984688](https://pubmed.ncbi.nlm.nih.gov/3984688/) | 1985 | Clinical study | Acta Obstet Gynecol Scand | Tioconazole 2% vaginal cream: 88.5% mycological cure in symptomatic women |
-| [3485546](https://pubmed.ncbi.nlm.nih.gov/3485546/) | 1986 | Open non-comparative study | J Int Med Res | 2% cream for Trichomonas or mixed vaginal infections (20 patients): 95% cured at first follow-up |
-| [6347834](https://pubmed.ncbi.nlm.nih.gov/6347834/) | 1983 | Open-label comparative trial | Gynakologische Rundschau | Tioconazole vs econazole, 3-day treatment of vaginal candidiasis |
-| [6873744](https://pubmed.ncbi.nlm.nih.gov/6873744/) | 1983 | Open-label comparative trial | Gynakologische Rundschau | Tioconazole cream vs econazole ovules, 3-day treatment |
-| [40464716](https://pubmed.ncbi.nlm.nih.gov/40464716/) | 2025 | Review | Expert Rev Anti Infect Ther | Future non-invasive azole options for vulvovaginal candidiasis |
-| [30553009](https://pubmed.ncbi.nlm.nih.gov/30553009/) | 2019 | Formulation study (preclinical) | Int J Pharm | Chitosan-HPMC tioconazole films as an alternative vaginal dosage form |
+| [3510114](https://pubmed.ncbi.nlm.nih.gov/3510114/) | 1986 | Review | Drugs | Broad in vitro activity against dermatophytes and yeasts. Controlled and open trials show efficacy and safety of topical tioconazole in superficial yeast and dermatophyte infections. |
+| [6347833](https://pubmed.ncbi.nlm.nih.gov/6347833/) | 1983 | Double-blind placebo-controlled trial | Gynakologische Rundschau | Tioconazole compared with placebo in vaginal Candida infection, with assessment of systemic absorption. |
+| [3524439](https://pubmed.ncbi.nlm.nih.gov/3524439/) | 1986 | Randomized comparative study | Antimicrob Agents Chemother | 80 patients. Single-dose 6.5% tioconazole ointment gave 84% asymptomatic at 4 weeks, versus 85% for 3-day clotrimazole. |
+| [3984688](https://pubmed.ncbi.nlm.nih.gov/3984688/) | 1985 | Clinical study | Acta Obstet Gynecol Scand | Tioconazole 2% vaginal cream gave an 88.5% mycological cure rate in symptomatic women. |
+| [6094282](https://pubmed.ncbi.nlm.nih.gov/6094282/) | 1984 | Open randomized study | J Int Med Res | 40 patients. Single-dose topical tioconazole 6% was compared with 5 days of oral ketoconazole. Both were effective, and symptoms resolved faster with topical therapy. |
+| [6347834](https://pubmed.ncbi.nlm.nih.gov/6347834/) | 1983 | Open-label comparative trial | Gynakologische Rundschau | 3-day treatment with tioconazole compared with econazole. |
+| [6873744](https://pubmed.ncbi.nlm.nih.gov/6873744/) | 1983 | Open-label comparative trial | Gynakologische Rundschau | Tioconazole cream compared with econazole ovules over 3 days. |
+| [3485546](https://pubmed.ncbi.nlm.nih.gov/3485546/) | 1986 | Open non-comparative study | J Int Med Res | 20 patients with Trichomonas or mixed vaginal infections. Tioconazole 2% cream cured 95% (19/20) at first follow-up. |
+| [40464716](https://pubmed.ncbi.nlm.nih.gov/40464716/) | 2025 | Review | Expert Rev Anti Infect Ther | Overview of non-invasive azole antifungal options and future directions for vaginal Candida infection. |
+| [10990271](https://pubmed.ncbi.nlm.nih.gov/10990271/) | 2000 | Laboratory study | Microb Drug Resist | Cross-resistance of Candida isolates to over-the-counter azoles, a concern for repeated azole use. |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA075915 (cancelled) | Tioconazole (CVS Pharmacy) | Ointment | Not specified |
+| ANDA075915 | Tioconazole (CVS Pharmacy) | Ointment | Not specified |
+
+The local records show one licence, and it is valid.
 
 ## Safety Considerations
 
-- **Drug Interactions**: Two entries were found. Omeprazole (severity level unknown). CYP8B1, a human enzyme in bile acid synthesis that tioconazole inhibits; this is a pharmacological target interaction rather than a drug-drug interaction.
-
-Please refer to the package insert for other safety information, including warnings and contraindications.
+- **Drug Interactions**:
+  - Omeprazole: an interaction is listed, but its severity level is not specified.
+  - CYP8B1 (human enzyme): tioconazole inhibits this enzyme, which participates in bile acid biosynthesis.
+- Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence is almost entirely historical (1983–1988) clinical work on vaginal candidiasis, which is the original indication.
+The TxGNN score is high (0.9920), but no clinical trial or publication studies vulvitis itself, so the evidence level is L5. The antifungal mechanism could apply only to the Candida-related subset of vulvitis, and the supporting literature does not separate vulvitis from general vaginal Candida infection.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism-of-action data from DrugBank
-- Evidence that separates Candida-driven vulvovaginitis or vulvitis from candidiasis in general, with confirmed etiology
-- Clarification of the current US commercial and regulatory status, given the cancelled license
-- Dropping the postmenopausal atrophic vaginitis prediction unless a plausible mechanism emerges
+- Studies or case series that define vulvitis as a distinct endpoint, separating Candida-related from non-fungal causes
+- Package insert warnings and contraindications for the marketed ointment
+- Confirmation that the marketed ointment's dosage form and route suit vulvar application
+- A clinical plan limited to culture-confirmed or clinically suspected fungal vulvitis
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

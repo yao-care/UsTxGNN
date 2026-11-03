@@ -2,11 +2,11 @@
   "generated": "2026-11-03",
   "total_drugs": 954,
   "level_counts": {
-    "L1": 21,
-    "L2": 37,
+    "L1": 20,
+    "L2": 35,
     "L3": 35,
     "L4": 59,
-    "L5": 769
+    "L5": 772
   },
   "all_drugs": [
     {
@@ -264,7 +264,7 @@
     {
       "name": "Amiodarone",
       "slug": "amiodarone",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 9
     },
     {
@@ -2514,7 +2514,7 @@
     {
       "name": "Hyaluronic Acid",
       "slug": "hyaluronic_acid",
-      "level": "L1",
+      "level": "L3",
       "indication_count": 9
     },
     {
@@ -3810,7 +3810,7 @@
     {
       "name": "Omalizumab",
       "slug": "omalizumab",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 9
     },
     {
@@ -4392,7 +4392,7 @@
     {
       "name": "Progesterone",
       "slug": "progesterone",
-      "level": "L2",
+      "level": "L4",
       "indication_count": 6
     },
     {
@@ -4854,7 +4854,7 @@
     {
       "name": "Sirolimus",
       "slug": "sirolimus",
-      "level": "L2",
+      "level": "L5",
       "indication_count": 6
     },
     {

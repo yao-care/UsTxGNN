@@ -38,9 +38,9 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 ## One-Sentence Summary
 
-Flurbiprofen is a nonsteroidal anti-inflammatory drug (NSAID) originally used for rheumatoid arthritis, osteoarthritis and related joint disorders.
-The TxGNN model's top-ranked prediction is **acromesomelic dysplasia, Hunter-Thompson type**, a rare genetic skeletal disorder.
-This prediction has **no supporting clinical trials and no publications**, so it rests on model output alone.
+Flurbiprofen is a nonsteroidal anti-inflammatory drug (NSAID) that is on the US market in several forms.
+The TxGNN model predicts it may be relevant to **acromesomelic dysplasia, Hunter-Thompson type**, with a score of 0.9999.
+There are currently **no clinical trials and no publications** supporting this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
@@ -56,11 +56,9 @@ This prediction has **no supporting clinical trials and no publications**, so it
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, flurbiprofen is a non-selective COX-1/COX-2 inhibitor. It reduces prostaglandin-mediated inflammation and pain, and its efficacy in inflammatory and degenerative joint disease is well established.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Flurbiprofen belongs to the NSAID class, which generally acts by inhibiting cyclooxygenase (COX) enzymes and reducing prostaglandin-mediated inflammation and pain.
 
-The predicted indication is a different kind of disease. Acromesomelic dysplasia, Hunter-Thompson type, is a genetic skeletal disorder linked to the CDMP1/GDF5 pathway. It is a developmental defect, not a COX-dependent inflammatory condition. There is no recognized mechanistic reason for an NSAID to alter its course.
-
-The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The prediction should be treated as a computational signal, not as evidence of benefit.
+Acromesomelic dysplasia, Hunter-Thompson type is a rare genetic skeletal disorder linked to the CDMP1/GDF5 growth-factor pathway. It is a developmental defect of bone growth, not a COX-driven inflammatory condition. No plausible pharmacological link between COX inhibition and this pathway was identified. The very high score probably reflects the model's association of the drug with skeletal and joint-related features, not a demonstrated mechanism. At most, an NSAID might relieve secondary joint pain, and no data support even that.
 
 ## Clinical Trial Evidence
 
@@ -78,33 +76,27 @@ Currently no related literature available.
 | ANDA074431 | Flurbiprofen | Tablet | Not listed (valid) |
 | Not available | Rinol-STroche | Troche | Not listed (cancelled) |
 
-All three authorizations are valid, and the drug is currently marketed in the US.
+All 3 licences listed are currently valid.
 
 ## Safety Considerations
 
-- **Contraindication signals (from the TxGNN model (deep learning), not label text; they may reflect similarities the model learned between related diseases, not biological evidence):** hypertension and hypertensive disorders, kidney disease, liver disease, gallbladder disease, peptic ulcer disease (including active), blood coagulation disease, myocardial infarction, coronary thrombosis, cardiovascular and heart disease, hemoglobinopathy, pyoureter, and substance abuse/dependence.
-- **Drug Interactions:** The data compiled for this report records 100 interactions. The first 20 reviewed are mostly Moderate, with a few Minor.
-  - **Moderate:** acetylsalicylic acid, corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), metformin, sulfonylureas (glimepiride, chlorpropamide), mesalazine, balsalazide, aprepitant, potassium citrate, potassium bicarbonate, picosulfuric acid, sodium sulfate, and polyethylene glycol with electrolytes.
-  - **Minor:** famotidine, cimetidine, linaclotide.
+- **Drug Interactions**: Moderate-level interactions were reported with acetylsalicylic acid, corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), metformin, glimepiride, chlorpropamide, mesalazine, balsalazide, aprepitant, and several bowel-preparation or potassium products. Minor interactions were reported with famotidine, cimetidine, and linaclotide. The interaction screen returned 100 entries in total; only a sample is shown here.
 
-Please refer to the package insert for official warnings and contraindications.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top prediction has only a model score behind it, with no trials, no literature and no plausible NSAID mechanism for a genetic skeletal developmental disorder. The drug is marketed in the US, and all three authorizations are valid.
-
-**Other findings from the data:**
-These are mostly 1974-1986 double-blind comparisons of flurbiprofen against indomethacin, phenylbutazone and naproxen, which found comparable pain relief. This is Evidence Level L3 pending verification of study design. However, it is a symptomatic use within the NSAID class and overlaps with the drug's original rheumatic indications, so it is an expansion within the same therapeutic area and not a novel repurposing.
+The prediction has no supporting trials or publications, and there is no plausible mechanistic link between COX inhibition and a genetic skeletal developmental disorder. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- Obtain the FDA package insert to verify warnings and contraindications. This is required before any safety screening.
-- Obtain mechanism of action data from DrugBank.
-- Confirm the study designs (randomization, blinding) of the ankylosing spondylitis comparisons if that indication is pursued instead.
-- Identify any preclinical rationale linking COX inhibition to the predicted skeletal dysplasia before further investment.
-- Reassess regulatory and commercial feasibility given the cancelled-only market status.
+- Any preclinical or clinical evidence that directly studies flurbiprofen in this disease
+- A mechanistic rationale connecting the GDF5/CDMP1 pathway to the drug's pharmacology
+- Mechanism-of-action data for flurbiprofen
+- The FDA package insert warnings and contraindications, to complete the safety review
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

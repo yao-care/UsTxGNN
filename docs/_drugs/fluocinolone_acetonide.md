@@ -38,7 +38,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Fluocinolone acetonide is a corticosteroid, used mainly as a topical agent for inflammatory and itchy skin conditions such as eczema, dermatitis and lichen disease, and as an intravitreal implant for eye disease.
+Fluocinolone acetonide is a synthetic corticosteroid that acts on the glucocorticoid receptor and is used in topical and intravitreal products for inflammatory conditions.
+The TxGNN model predicts it may be relevant for **lichen planus pemphigoides**, but the data compiled for this report contain **no clinical trials and no publications** on this disease, so support is the model prediction alone.
 
 ## Quick Overview
 
@@ -52,18 +53,11 @@ Fluocinolone acetonide is a corticosteroid, used mainly as a topical agent for i
 | Number of FDA Applications | at least 17 |
 | Recommended Decision | Hold |
 
-Other predicted indications with the same level of evidence (L5, model prediction only): annular atrophic lichen planus (0.9942), lichen planus pigmentosus (0.9942) and lichen planus pemphigoides (0.9934).
-
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Fluocinolone acetonide is a synthetic corticosteroid. Pharmacology records list the glucocorticoid receptor (NR3C1) as its target. Activating this receptor suppresses inflammatory signalling, which explains its use in inflammatory and itchy skin disease.
+Detailed mechanism-of-action data are not available in the compiled data. Pharmacology data do show that fluocinolone acetonide binds the human glucocorticoid receptor (NR3C1), the target through which corticosteroids suppress inflammation and itching. It is the active component of creams for inflammatory and pruritic skin conditions.
 
-Lichen planus is a T-cell-mediated inflammatory skin disease that generally responds to topical glucocorticoids. The drug is already linked to "lichen disease", and hypertrophic lichen planus is a subtype of it. The prediction is therefore closer to an extension of an existing use than a true repurposing.
-
-There are important caveats. Hypertrophic lichen planus is a thick, treatment-resistant variant that often needs high-potency steroids or intralesional therapy. Whether this agent, at its potency, is effective is uncertain. The other predicted variants add their own limits:
-- **Annular atrophic type:** prolonged topical steroid use can worsen skin atrophy.
-- **Pigmentosus type:** response to topical steroids is generally limited.
-- **Pemphigoides type:** moderate to severe cases usually need systemic immunosuppression.
+Lichen planus pemphigoides combines features of lichen planus with autoantibody-mediated subepidermal blistering (anti-BP180). A topical corticosteroid could plausibly ease inflammation in localized disease. Moderate to severe cases, however, typically need systemic immunosuppression, so a topical agent alone is unlikely to be sufficient. This is a mechanistic rationale only and has not been tested in any study supplied here.
 
 ## Clinical Trial Evidence
 
@@ -75,6 +69,8 @@ Currently no related literature available.
 
 ## US Market Information
 
+At least 17 US authorizations are recorded, and the list below may be partial. Of these, 15 are valid and 2 are cancelled. Approved-indication text is not recorded in the local data.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA013960 | Synalar | Ointment | Not stated (valid) |
@@ -83,28 +79,24 @@ Currently no related literature available.
 | NDA210331 | YUTIQ | Implant | Not stated (valid) |
 | ANDA089526 | Fluocinolone Acetonide | Cream | Not stated (valid) |
 
-17 valid licenses are on record in the US, so the drug is marketed. Per the pharmacology data, the intravitreal implants were approved for diabetic macular edema (Iluvien, 2014) and non-infectious posterior uveitis (Yutiq, October 2018).
-
 ## Safety Considerations
 
-- **Contraindications and conditions of concern (from the knowledge graph, not label text):** herpes simplex infection and herpes simplex keratitis, geniculate herpes zoster, fungal eye infection and mycotic corneal ulcer, ocular tuberculosis, glaucoma, adrenocortical insufficiency and Addison disease, skin atrophy, telangiectasis and related capillary or vascular disease (including hereditary hemorrhagic telangiectasia, peripheral vascular disease and peripheral arterial disease), sunburn, dermatitis and atopic eczema.
-- **Drug Interactions:** 10 records were found, but none has a severity grading (all "Unknown"). Listed partners include dexamethasone, cetirizine, citalopram, valproic acid, acetaminophen, digoxin, levothyroxine, alendronic acid and clonazepam. The tenth record is the glucocorticoid receptor pharmacology entry, which is the drug's target and not an interaction.
+Label warnings and contraindications are not available in the compiled data; please refer to the package insert for safety information.
 
-Package insert warnings and contraindications were not available and should be reviewed from the official label.
+- **Drug Interactions**: 10 interaction records were retrieved. Nine are listed without a severity level: dexamethasone, cetirizine, citalopram, valproic acid, acetaminophen, digoxin, levothyroxine, alendronic acid and clonazepam. The tenth is the pharmacological target, the glucocorticoid receptor.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The drug is marketed in the US with 17 valid licenses. The mechanism is plausible, but the drug is already used for lichen disease, so the added value of this prediction is limited.
+The prediction score is high (0.9934), but no trials or publications address lichen planus pemphigoides, so the evidence level is L5. A topical corticosteroid alone is also unlikely to control moderate to severe disease.
 
 **To proceed, the following is needed:**
-- Literature review and trial search on topical corticosteroids in hypertrophic lichen planus, including potency comparisons
-- Confirmation of the mechanism of action from an authoritative source
-- Official FDA package insert warnings and contraindications
-- Route and formulation assessment (topical vs. intralesional), since the route compatibility check is still pending
-- Confirmation of current US availability (17 valid licenses)
+- Case series, case reports or trials showing fluocinolone acetonide use in lichen planus pemphigoides
+- Mechanism-of-action data and label safety information (warnings and contraindications) from the package insert
+- Assessment of whether a topical route is adequate for the disease severity, and of the role of systemic therapy
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

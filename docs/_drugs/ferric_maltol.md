@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Ferric maltol is an oral iron replacement originally used to treat iron deficiency anemia.
+Ferric maltol is an oral iron preparation used to replace iron in iron-deficiency states. The TxGNN model predicts it may be effective for **vitamin B12- and folate-independent constitutional megaloblastic anemia**, but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
@@ -54,11 +54,9 @@ Ferric maltol is an oral iron replacement originally used to treat iron deficien
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ferric maltol is an oral iron complex, its efficacy in iron deficiency anemia is established, and mechanistically it may be applicable to Plummer-Vinson syndrome.
+Detailed mechanism-of-action data for ferric maltol are not available in the data compiled for this report. Based on what is known, ferric maltol is an oral, lipophilic iron complex designed to deliver iron for absorption in the gut.
 
-Plummer-Vinson syndrome (also called Paterson-Brown-Kelly syndrome) is characterized by iron deficiency anemia, dysphagia caused by esophageal webs, and glossitis. Because iron deficiency anemia is a core feature of the condition, an oral iron that corrects the deficiency is a plausible treatment for that component.
-
-Two caveats apply. First, this is a mechanistic inference only. The data compiled for this report do not show whether iron repletion resolves the esophageal webs. Second, the new indication overlaps closely with the existing one, so this is better seen as an extension of the original use than a true repurposing. The very high TxGNN score is a computational prediction, not clinical evidence.
+The mechanistic link to the predicted condition is weak. Megaloblastic anemia is typically driven by impaired DNA synthesis, through B12 or folate pathways or through inherited defects in nucleotide metabolism. It is not driven by iron deficiency. Iron replacement would not be expected to correct a megaloblastic defect that is independent of B12 and folate, unless iron deficiency is also present. The very high score of 0.9998 most likely reflects closeness to other anemia-related conditions in the model's network rather than a true therapeutic mechanism. The score is a model output only and does not show that the drug works for this condition.
 
 ## Clinical Trial Evidence
 
@@ -72,34 +70,30 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA212320 (cancelled) | ACCRUFER (Shield TX (UK) Ltd) | Capsule | Not listed in the data compiled for this report |
+| NDA212320 | ACCRUFER (Shield TX (UK) Ltd) | Capsule | Not listed in the data compiled for this report |
+
+The data list one valid licence, a single-ingredient product taken by mouth (capsule). The manufacturer is Shield TX (UK) Ltd.
 
 ## Safety Considerations
 
-- **Contraindicated conditions (from the knowledge graph, not label text)**: hereditary hemochromatosis, hemosiderosis, iron metabolism disease, Wilson disease. These are consistent with the risk of iron overload.
+- **Conditions where use may be problematic (recorded as drug–disease contraindication relations, not taken from label text):** hereditary hemochromatosis, hemosiderosis, iron metabolism disease, Wilson disease. These are consistent with the general caution against giving iron to people with iron overload.
+- **Drug Interactions:** No interaction records were found in the data compiled for this report.
 
-No drug-interaction records were found. For other safety information, please refer to the package insert.
-
-## Other Predictions Considered
-
-| Predicted Indication | TxGNN Score | Evidence Level | Assessment |
-|------|------|------|------|
-| Vitamin B12- and folate-independent constitutional megaloblastic anemia | 0.9998 | L5 | Hold. Megaloblastic anemia stems from impaired DNA synthesis, not iron deficiency, so iron would not be expected to help unless iron deficiency coexists. The high score likely reflects network proximity to other anemia terms. |
-| IRIDA syndrome | 0.9933 | L5 | Hold. IRIDA is caused by TMPRSS6 mutations that raise hepcidin and block iron absorption, so oral iron is expected to have limited benefit. Parenteral iron is the more rational approach. |
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic link is plausible but largely overlaps with the existing indication. The other two predictions have weak or unfavorable mechanistic support.
+The prediction has a very high model score but no supporting trials or publications, and the biology argues against it: this form of megaloblastic anemia is independent of B12, folate and iron status. Evidence is at level L5 (model prediction only).
 
 **To proceed, the following is needed:**
-- The FDA package insert, to obtain warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- A literature and trial search on iron therapy in Plummer-Vinson syndrome, including whether iron repletion resolves esophageal webs
-- Clarification of the cancelled US license status and whether the product is still marketed
-- Confirmation of route compatibility (oral capsule) for the proposed use
+- Any clinical or mechanistic study that directly addresses this form of megaloblastic anemia and iron therapy
+- Mechanism-of-action data for ferric maltol
+- Package insert warnings and contraindications, to complete the safety review
+- Evidence that patients with this condition also have iron deficiency that would justify iron replacement
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

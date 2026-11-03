@@ -38,8 +38,9 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-Lanadelumab is a monoclonal antibody that inhibits plasma kallikrein, originally used to prevent attacks of hereditary angioedema (HAE).
-Evidence currently includes **5 clinical trials** and **20 publications**.
+Lanadelumab is a monoclonal antibody that inhibits plasma kallikrein and is already marketed in the US.
+The TxGNN model predicts it may be effective for **serpinopathy with toxic serpin polymerization**, with a score of 0.9999.
+No clinical trials or publications supporting this prediction were found, so it rests on the model prediction alone.
 
 ## Quick Overview
 
@@ -51,42 +52,23 @@ Evidence currently includes **5 clinical trials** and **20 publications**.
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
 | Number of FDA Applications | 1 (valid: 1) |
-| Recommended Decision | Proceed with Guardrails |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, lanadelumab is a fully human monoclonal antibody that targets plasma kallikrein (gene *KLKB1*).
+Detailed mechanism-of-action data is not available in the data compiled for this report. Pharmacology data shows that lanadelumab is an antibody directed at plasma kallikrein (KLKB1), the target of its inhibitory action.
 
-In C1 inhibitor deficiency, the loss of C1-INH control leaves plasma kallikrein activity unchecked. This produces excess bradykinin, a vasodilator that causes the swelling attacks of angioedema. Blocking kallikrein directly addresses this pathway.
+The prediction most likely reflects the model's association between the drug's biology and the serpin protein family. Its only support is the high score.
 
-The predicted indication essentially overlaps with the drug's original indication, so the prediction mainly confirms known biology. It does not point to a new therapeutic area.
-
-Other top-ranked predictions (ranks 2–10, such as serpinopathy, pancreatitis, pseudo-von Willebrand disease, Glanzmann thrombasthenia and several myopathies) have no clinical trials or literature, and several have no evident mechanistic link to kallikrein inhibition. They are best treated as unsupported model predictions (L5, Hold).
+The mechanistic fit is weak. Toxic serpin polymerization is a gain-of-function, proteotoxic process, and inhibiting plasma kallikrein would not be expected to correct it. The link should therefore be treated as a hypothesis from the model, not as an established pharmacological rationale.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT05460325](https://clinicaltrials.gov/study/NCT05460325) | Phase 3 | Completed | 20 | Open-label study of safety, pharmacokinetics and efficacy in Chinese patients with HAE (26 weeks of treatment) |
-| [NCT04070326](https://clinicaltrials.gov/study/NCT04070326) | Phase 3 | Completed | 21 | SPRING study: safety, pharmacokinetics and pharmacodynamics for attack prevention in children aged 2 to <12 years |
-| [NCT04180163](https://clinicaltrials.gov/study/NCT04180163) | Phase 3 | Completed | 12 | Open-label efficacy and safety study in Japanese patients with HAE type I or II |
-| [NCT05397431](https://clinicaltrials.gov/study/NCT05397431) | N/A | Active, not recruiting | 155 | Post-marketing survey in Japan of long-term use of the 300 mg syringe; real-world safety and symptom improvement |
-| [NCT04583007](https://clinicaltrials.gov/study/NCT04583007) | N/A | No longer available | N/A | Expanded access program for children aged 2 to <12 years with HAE, and for non-histaminergic angioedema with normal C1-INH; provides access, not efficacy evidence |
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [30480729](https://pubmed.ncbi.nlm.nih.gov/30480729/) | 2018 | RCT | JAMA | Randomized trial (HELP) of lanadelumab versus placebo for preventing HAE attacks |
-| [34287942](https://pubmed.ncbi.nlm.nih.gov/34287942/) | 2022 | Open-label extension | Allergy | HELP OLE: long-term effectiveness and safety in patients aged ≥12 years with HAE type 1/2 |
-| [40434599](https://pubmed.ncbi.nlm.nih.gov/40434599/) | 2025 | Network meta-analysis | Drugs in R&D | Indirect comparison of long-term prophylaxis options (garadacimab, lanadelumab, SC C1-INH, berotralstat) |
-| [40504359](https://pubmed.ncbi.nlm.nih.gov/40504359/) | 2025 | Real-world cohort | Advances in Therapy | EMPOWER: up to 36 months of real-world effectiveness and safety in HAE due to C1-INH deficiency |
-| [39836016](https://pubmed.ncbi.nlm.nih.gov/39836016/) | 2025 | Indirect comparison | J Comp Eff Res | Lanadelumab (SPRING) versus a C1-esterase inhibitor in children under 12 with HAE |
-| [30539362](https://pubmed.ncbi.nlm.nih.gov/30539362/) | 2019 | Review | BioDrugs | Preclinical and Phase I studies of lanadelumab in C1-INH-deficient HAE |
-| [31560114](https://pubmed.ncbi.nlm.nih.gov/31560114/) | 2019 | Review | Drugs | Review of lanadelumab in HAE; first-in-class anti-plasma kallikrein antibody |
-| [30267321](https://pubmed.ncbi.nlm.nih.gov/30267321/) | 2018 | Review | Drugs | First global approval profile; mechanism and attack reduction versus placebo |
-| [40637159](https://pubmed.ncbi.nlm.nih.gov/40637159/) | 2025 | Indirect comparison | J Comp Eff Res | Matching-adjusted comparison of garadacimab and two lanadelumab regimens |
-| [39399485](https://pubmed.ncbi.nlm.nih.gov/39399485/) | 2024 | Case report | Frontiers in Immunology | Lanadelumab in a kidney transplant patient with HAE-C1INH and high cardiovascular risk |
+Currently no related literature available.
 
 ## US Market Information
 
@@ -94,24 +76,27 @@ Other top-ranked predictions (ranks 2–10, such as serpinopathy, pancreatitis, 
 |---------|------|------|-----------|
 | BLA761090 | TAKHZYRO (Takeda Pharmaceuticals America, Inc.) | Solution (injection, solution) | Not specified in the data; status: valid |
 
+The local data lists one valid biologics licence, and the market status is marketed.
+
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: The interaction query completed with one pharmacology entry. It identifies kallikrein B1 (KLKB1) as the drug's intended target, not a separate interacting drug. No graded drug-drug interactions are listed.
 
-The only drug-interaction record is the pharmacological target itself (plasma kallikrein, *KLKB1*), which reflects the drug's intended mechanism rather than a clinical interaction. No contraindications were identified in the knowledge graph.
+Please refer to the package insert for warnings and contraindications, which are not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Multiple completed Phase 3 trials, a placebo-controlled RCT (HELP) and long-term real-world data support lanadelumab in HAE with C1-INH deficiency. However, this is the drug's original indication, so it is not new repurposing evidence. In addition, the US license record is marked as cancelled, and label safety information is missing.
+The prediction has a high model score but no supporting clinical trials or publications, and a plausible mechanistic link to plasma kallikrein inhibition is lacking.
 
 **To proceed, the following is needed:**
-- Confirm the current US regulatory status of TAKHZYRO (BLA761090), since the record shows it as cancelled
-- Obtain the FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Obtain detailed mechanism-of-action data from DrugBank
-- If a true repurposing direction is desired, evaluate the lower-ranked predictions separately. They currently have no trial or literature support and should remain on Hold.
+- Mechanistic evidence that plasma kallikrein inhibition affects serpin polymerization or its downstream effects
+- Preclinical studies, such as disease models or patient-derived cells, testing the hypothesis
+- Package insert warnings and contraindications for safety screening
+- Detailed mechanism-of-action data
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -38,9 +38,9 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Erythromycin is a macrolide antibiotic, originally used for a broad range of bacterial infections, including pneumonia, pertussis, gonorrhea, conjunctivitis and acne.
-The TxGNN model predicts it may be effective for **Punctate Epithelial Keratoconjunctivitis**,
-but there are currently **0 clinical trials** and only **1 publication** (a pediatric management review) supporting this direction.
+Erythromycin is a macrolide antibiotic marketed in the United States in oral, topical, and injectable forms.
+The TxGNN model predicts it may be useful for **punctate epithelial keratoconjunctivitis**,
+but there are currently **no registered clinical trials** and only **1 publication** (a pediatric management review) on this direction.
 
 ## Quick Overview
 
@@ -56,11 +56,9 @@ but there are currently **0 clinical trials** and only **1 publication** (a pedi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, erythromycin is a macrolide antibiotic that inhibits the bacterial 50S ribosomal subunit. Its efficacy in bacterial conjunctivitis and other infections is established, and it may be mechanistically applicable to punctate epithelial keratoconjunctivitis.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general knowledge, erythromycin is a macrolide that blocks bacterial protein synthesis by binding the 50S ribosomal subunit. Macrolides are also reported to have anti-inflammatory effects.
 
-Chronic blepharokeratoconjunctivitis often involves staphylococcal colonization and meibomian gland dysfunction. Erythromycin is active against these organisms. Macrolides also have anti-inflammatory effects that could plausibly benefit ocular surface disease.
-
-The link is indirect, however. The only supporting paper is a pediatric management review, not primary efficacy data. Other high-ranking predictions (acute contagious conjunctivitis, lymphogranuloma venereum) largely overlap with existing labeled uses and may reflect relabeling rather than true repurposing.
+The proposed link is indirect. Chronic inflammation of the eyelid and cornea in children often involves staphylococcal colonization and meibomian gland dysfunction, so an antibacterial and anti-inflammatory agent could plausibly help the ocular surface. However, the only supporting paper is a general review of diagnosis and management of chronic blepharokeratoconjunctivitis. It is not primary efficacy data, does not evaluate erythromycin for punctate epithelial keratoconjunctivitis, and the review's abstract does not describe a specific erythromycin finding.
 
 ## Clinical Trial Evidence
 
@@ -70,11 +68,11 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [11495307](https://pubmed.ncbi.nlm.nih.gov/11495307/) | 2001 | Review | Journal of Pediatric Ophthalmology and Strabismus | Describes history, symptoms, clinical signs and treatment of chronic blepharokeratoconjunctivitis in children. It does not provide erythromycin-specific efficacy data. |
+| [11495307](https://pubmed.ncbi.nlm.nih.gov/11495307/) | 2001 | Review | Journal of Pediatric Ophthalmology and Strabismus | Describes the history, symptoms, clinical signs and treatment of chronic blepharokeratoconjunctivitis in children; no erythromycin-specific efficacy data |
 
 ## US Market Information
 
-15 US authorizations are valid. Approved indication text is not available for any of them. Up to 5 main authorizations are listed below.
+At least 15 US licence records are listed, and the list may be partial. Of these, 14 are valid and 1 is cancelled. The approved-indication text is not recorded in the local data. Main authorizations:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -86,36 +84,24 @@ Currently no related clinical trials registered.
 
 ## Safety Considerations
 
-Package insert warnings and contraindications were not available. The following information comes from the knowledge graph and drug interaction databases.
+- **Drug Interactions**: 100 interactions were found in the interaction database. Examples include two rated **Major**: loperamide and clarithromycin. Many rated Moderate, including famotidine, hydrocortisone, dexamethasone, pioglitazone, aprepitant, cimetidine, and budesonide.
+- **Conditions flagged as contraindication-related in the compiled data (not label text)**: long QT syndrome and torsades de pointes, porphyria, kidney disease, liver disease, gallbladder disease, hematologic disease, Clostridium difficile colitis, myasthenia gravis, and hearing disorders, among others.
 
-- **Disease-level contraindication signals (knowledge graph, not label text)**:
-  - Cardiac: long QT syndrome, familial long QT syndrome, torsades de pointes
-  - Metabolic: porphyria (including inherited porphyria and porphyrin metabolism disease)
-  - Organ disease: kidney disease, liver disease, gallbladder disease, hematologic disease
-  - Gastrointestinal: *Clostridium difficile* colitis, perinatal necrotizing enterocolitis
-  - Skin: exfoliative dermatitis, dermatitis
-  - Neuromuscular: myasthenia gravis, neuromuscular junction disease
-  - Other: folic acid deficiency anemia, hearing disorder, auditory system disease
-- **Drug Interactions**: 100 interactions were identified. The sample reviewed includes:
-  - **Major**: loperamide, clarithromycin
-  - **Moderate**: famotidine, hydrocortisone, pioglitazone, alosetron, aprepitant, triamcinolone, dexamethasone, betamethasone, budesonide, cimetidine, chlorpropamide, bisacodyl
-  - **Minor**: amoxicillin
-
-For full safety information, please refer to the package insert.
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high, but the evidence is model prediction plus a single indirect pediatric review. No clinical trials exist for this indication.
+The model score is high (0.9989), but no clinical trial or publication directly studies erythromycin in punctate epithelial keratoconjunctivitis. The single supporting paper is a general pediatric review, so evidence remains at the model-prediction level.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data
-- Primary efficacy data, such as a controlled trial of ophthalmic erythromycin in punctate epithelial keratoconjunctivitis
-- Confirmation of the regulatory pathway for an ophthalmic formulation, given that 15 US licenses are currently valid and the drug is marketed
-- A comparison with current standard care for this condition
+- Studies that directly evaluate erythromycin (topical ophthalmic) in this disease
+- Mechanism-of-action data and a clear rationale for ocular surface inflammation
+- Package insert warnings and contraindications, particularly for ophthalmic use
+- Review of QT-prolongation and interaction risks if systemic use is considered
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

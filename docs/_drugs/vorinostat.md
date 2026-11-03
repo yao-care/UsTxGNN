@@ -38,8 +38,9 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Vorinostat is an oral HDAC inhibitor, originally used to treat cutaneous T-cell lymphoma (CTCL).
-The TxGNN model predicts it may be effective for **primary cutaneous B-cell lymphoma (PCBCL)**, but evidence is thin: the **4 clinical trials** compiled are general lymphoma or supportive studies, and the only **1 publication** is a preclinical mantle cell lymphoma study.
+Vorinostat is an oral histone deacetylase (HDAC) inhibitor that is currently marketed in the United States.
+The TxGNN model predicts it may be effective for **primary cutaneous B-cell lymphoma**, with a score of 0.9921.
+Four early-phase clinical trials and one preclinical publication are linked to this prediction, but **none studies this disease directly**.
 
 ## Quick Overview
 
@@ -51,30 +52,30 @@ The TxGNN model predicts it may be effective for **primary cutaneous B-cell lymp
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
 | Number of FDA Applications | 1 (valid: 1) |
-| Recommended Decision | Hold (research question only) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for vorinostat is not available in the data compiled for this report. Based on known class information, vorinostat is a histone deacetylase (HDAC) inhibitor. HDAC inhibition causes hyperacetylation of histone and non-histone proteins, leading to cell-cycle arrest and apoptosis in malignant lymphocytes.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Vorinostat belongs to the HDAC inhibitor class. HDAC inhibition raises acetylation of histones and other proteins, which can trigger cell-cycle arrest and apoptosis in malignant lymphocytes.
 
-Both CTCL and PCBCL are lymphomas that primarily involve the skin, which gives a plausible biological connection. Preclinical work shows vorinostat induces apoptosis in mantle cell lymphoma (an aggressive B-cell neoplasm) by acetylating proapoptotic BH3-only gene promoters, supporting activity in B-cell malignancies in general.
+Preclinical work in mantle cell lymphoma, an aggressive B-cell neoplasm, shows that vorinostat induces apoptosis by acetylating the promoters of proapoptotic BH3-only genes. This suggests that HDAC inhibition may act on B-cell lymphoid malignancies as well. The very high model score probably reflects similarity to the lymphoid cancer for which the drug is already used.
 
-However, there is no direct evidence in PCBCL. The very high TxGNN score is a computational prediction and is likely driven by similarity to the approved CTCL indication. It should not be read as proof of efficacy.
+This is computational inference only. No study in the compiled data tests vorinostat in primary cutaneous B-cell lymphoma, so the prediction remains a research hypothesis.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01567709](https://clinicaltrials.gov/study/NCT01567709) | Phase 1 | Completed | 34 | Alisertib plus vorinostat in relapsed Hodgkin, B-cell non-Hodgkin and peripheral T-cell lymphoma; combination safety and dose-finding, no PCBCL-specific efficacy conclusion |
-| [NCT00045006](https://clinicaltrials.gov/study/NCT00045006) | Phase 1 | Completed | Not reported | Oral vorinostat dose-finding in advanced solid tumors and hematologic malignancies; general safety/PK only |
-| [NCT00499811](https://clinicaltrials.gov/study/NCT00499811) | Phase 1 | Completed | 15 | Vorinostat in solid tumors and lymphomas with hepatic dysfunction; informs dosing and safety only |
-| [NCT01789255](https://clinicaltrials.gov/study/NCT01789255) | Phase 2 | Completed | 12 | Vorinostat with tacrolimus/methotrexate for graft-versus-host disease prophylaxis after transplant; different clinical setting, not relevant to PCBCL efficacy |
+| [NCT01567709](https://clinicaltrials.gov/study/NCT01567709) | Phase 1 | Completed | 34 | Alisertib plus vorinostat in relapsed lymphomas, including B-cell non-Hodgkin lymphoma. It gives combination dose and safety data, with no conclusion specific to cutaneous B-cell lymphoma. |
+| [NCT00045006](https://clinicaltrials.gov/study/NCT00045006) | Phase 1 | Completed | N/A | Oral vorinostat dose-finding in advanced solid tumors and hematologic malignancies. It provides safety and pharmacokinetic data only. |
+| [NCT00499811](https://clinicaltrials.gov/study/NCT00499811) | Phase 1 | Completed | 15 | Vorinostat in solid tumors and lymphomas with varying degrees of liver dysfunction. It informs dosing and safety only. |
+| [NCT01789255](https://clinicaltrials.gov/study/NCT01789255) | Phase 2 | Completed | 12 | Vorinostat with tacrolimus and methotrexate to prevent graft-versus-host disease after stem cell transplant. This is a different clinical setting and is not relevant to lymphoma efficacy. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21652541](https://pubmed.ncbi.nlm.nih.gov/21652541/) | 2011 | Preclinical/in vitro study | Clin Cancer Res | Vorinostat induces apoptosis in mantle cell lymphoma through acetylation of proapoptotic BH3-only gene promoters |
+| [21652541](https://pubmed.ncbi.nlm.nih.gov/21652541/) | 2011 | Preclinical (in vitro) | Clin Cancer Res | Vorinostat induces apoptosis in mantle cell lymphoma through acetylation of proapoptotic BH3-only gene promoters. This supports biological plausibility for B-cell lymphoid cancers but is not a study of the predicted disease. |
 
 ## US Market Information
 
@@ -86,47 +87,38 @@ However, there is no direct evidence in PCBCL. The very high TxGNN score is a co
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted/epigenetic therapy (HDAC inhibitor) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions (thrombocytopenia and anemia appear among the knowledge-graph contraindication signals) |
+| Cytotoxicity Classification | Targeted therapy (HDAC inhibitor) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions. Thrombocytopenia and anemia appear among the conditions flagged for caution below. |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | CBC with platelets, blood glucose, electrolytes (potassium, calcium, phosphorus), liver and renal function, ECG/QT |
+| Monitoring Items | Complete blood count (including platelets), serum electrolytes (potassium, calcium, phosphorus), blood glucose, liver and renal function, and ECG/QT monitoring, to be confirmed against the package insert |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-- **Contraindication/caution signals (from the knowledge graph, not label text)**: long QT syndrome (including familial), liver disease, gallbladder disease, thrombocytopenia, anemia (including macrocytic), hyperglycemia, diabetes mellitus, diabetic ketoacidosis, potassium deficiency, hypercalcemia, nephrocalcinosis, phosphorus metabolism disorders, pulmonary embolism, diarrheal disease.
-- **Drug Interactions**: 61 known interactions, all of those shown rated Moderate. The listed ones are largely antidiabetic agents, including metformin, pioglitazone, glimepiride, glipizide, glyburide, insulin, semaglutide, exenatide, and SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin). Blood glucose should be monitored if co-administered.
+- **Conditions flagged for caution** (drug–disease relations in the compiled data, not package-insert text): long QT syndrome (including the familial form), liver disease, gallbladder disease, thrombocytopenia, anemia (including macrocytic), hyperglycemia, diabetes mellitus, diabetic ketoacidosis, potassium deficiency, hypercalcemia, nephrocalcinosis, phosphorus metabolism disorders, pulmonary embolism, and diarrheal disease.
+- **Drug Interactions**: 61 interactions are recorded, and all those listed are rated Moderate. The listed ones are mainly glucose-lowering agents, for example:
+  - metformin, pioglitazone, glimepiride, glipizide and glyburide
+  - the SGLT2 inhibitors canagliflozin, dapagliflozin and empagliflozin
+  - the GLP-1 agonists semaglutide, dulaglutide and exenatide
+  - the DPP-4 inhibitors linagliptin and alogliptin
+  - acarbose and human insulin
 
-Package insert warnings and contraindications were not available in the data compiled; please refer to the package insert for authoritative safety information.
+  Blood glucose should be monitored closely if vorinostat is combined with these drugs.
+- Package-insert warnings and contraindications were not available in the compiled data. Please refer to the package insert for the authoritative safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No study directly tests vorinostat in PCBCL. The trials are general lymphoma or supportive-care studies, and the only publication is preclinical work in mantle cell lymphoma. The high TxGNN score alone is not sufficient evidence. The US license is also cancelled, which limits availability.
+No trial or publication in the compiled data studies vorinostat in primary cutaneous B-cell lymphoma, so the evidence level is L5. The high model score and the preclinical B-cell lymphoma data support further investigation but do not justify clinical development yet.
 
 **To proceed, the following is needed:**
-- Disease-specific preclinical data in PCBCL models or patient-derived cells
-- Detailed mechanism-of-action data
-- FDA package insert warnings and contraindications
-- Clinical data or a pilot study in PCBCL patients
-- Confirmation of drug availability given the cancelled US license
+- Disease-specific preclinical data in primary cutaneous B-cell lymphoma models, or case series and early-phase clinical data in this population
+- Confirmed mechanism-of-action data for vorinostat
+- Package-insert warnings and contraindications, with particular attention to QT prolongation, thrombocytopenia, thromboembolism and glucose effects
+- A dosing and monitoring plan for this population, including management of glucose-lowering drug interactions
 
----
-
-## Additional Note: Sezary Syndrome (Second Prediction)
-
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01728805](https://clinicaltrials.gov/study/NCT01728805) | Phase 3 | Completed | 372 | MAVORIC: mogamulizumab vs vorinostat in previously treated MF/SS; vorinostat was the less effective arm |
-| [NCT00091559](https://clinicaltrials.gov/study/NCT00091559) | Phase 2 | Completed | 74 | Pivotal single-arm study of oral vorinostat in advanced refractory CTCL |
-| [NCT00601718](https://clinicaltrials.gov/study/NCT00601718) | Phase 1/2 | Completed | 29 | Vorinostat plus R-ICE in relapsed lymphoid malignancies or untreated T-cell/mantle cell lymphoma |
-
-Key literature includes the MAVORIC randomized phase 3 trial ([30100375](https://pubmed.ncbi.nlm.nih.gov/30100375/), Lancet Oncol, 2018) and reviews of vorinostat in CTCL ([17594194](https://pubmed.ncbi.nlm.nih.gov/17594194/), [17940636](https://pubmed.ncbi.nlm.nih.gov/17940636/), 2007).
-
-**Guardrails:** vorinostat was inferior to mogamulizumab for progression-free survival in MAVORIC; the US license is cancelled; and the 61 known interactions and class toxicities (GI effects, thrombocytopenia, thromboembolism, QT effects) require monitoring.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

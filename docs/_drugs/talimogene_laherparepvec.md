@@ -38,8 +38,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Talimogene laherparepvec (T-VEC) is an oncolytic herpes virus originally used to treat melanoma.
-However, **no clinical trials and no publications** were found in the data compiled for this report, so this remains a model prediction only.
+Talimogene laherparepvec is an injectable oncolytic virus product marketed in the United States.
+The TxGNN model predicts it may be useful for **glottis squamous cell carcinoma**, but **no clinical trials and no publications** were found in the data compiled for this report, so this remains a model prediction only.
 
 ## Quick Overview
 
@@ -55,18 +55,9 @@ However, **no clinical trials and no publications** were found in the data compi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general knowledge, T-VEC is an oncolytic herpes simplex virus type 1. It replicates inside tumour cells and expresses GM-CSF to promote anti-tumour immunity. It is used for melanoma, so a cutaneous malignant melanoma subtype is biologically plausible.
+Detailed mechanism of action data is not available in the data compiled for this report. Talimogene laherparepvec is an oncolytic virus given by injection directly into tumours. In principle, such products can destroy tumour cells directly and stimulate an immune response against the tumour.
 
-The label "CMM7" is ambiguous and should be checked against the disease ontology before further work. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trials or literature support this specific subtype.
-
-**Other predicted indications (all L5, all Hold):**
-
-| Rank | Predicted Indication | Score | Main Concern |
-|------|------|------|------|
-| 4 | Glottis squamous cell carcinoma | 0.9907 | Conceptual rationale from head and neck cancer work, but airway-adjacent injection is risky. |
-| 5 | Lung occult squamous cell carcinoma | 0.9905 | No visible lesion to inject. |
-| 6 | Rectal cloacogenic carcinoma | 0.9901 | Only a weak, indirect rationale. |
-| 7 | Gallbladder adenosquamous carcinoma | 0.9901 | Deep-seated tumours that are hard to inject. The rationale is speculative. |
+Oncolytic therapy has been explored in head and neck squamous cell carcinoma more broadly, which gives a conceptual reason to consider glottic disease. However, that evidence is not part of the data compiled here. The high score reflects the model's pattern matching, not clinical support. Injecting a lesion near the airway also carries practical risks that would need careful assessment.
 
 ## Clinical Trial Evidence
 
@@ -82,6 +73,8 @@ Currently no related literature available.
 |---------|------|------|-----------|
 | BLA125518 | Imlygic (Amgen Inc) | Injection, suspension | Status: valid |
 
+At least one licence is currently valid (1 of 1 listed licences). The product is supplied as an injectable suspension by Amgen Inc.
+
 ## Cytotoxicity
 
 | Item | Content |
@@ -90,33 +83,31 @@ Currently no related literature available.
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Handling Protection | Please refer to the package insert warnings and precautions; as a live viral product, follow the manufacturer's handling and biosafety instructions |
 
 ## Safety Considerations
 
-- **Drug Interactions**: The interaction screen returned 100 records, and 20 were reviewed here. Most are rated Major. Key groups:
-  - **Corticosteroids (Major):** hydrocortisone, triamcinolone (including ophthalmic), dexamethasone, betamethasone, budesonide, prednisone, prednisolone.
-  - **Immunosuppressive or cytotoxic agents (Major):** dexrazoxane, mercaptopurine, trimetrexate, levamisole.
-  - **Radiopharmaceuticals and radio-immunotherapy (Major):** iobenguane (I-131), ibritumomab tiuxetan, tositumomab (with and without I-131).
-  - **Other biologics (Major):** dupilumab.
-  - **Antivirals (Moderate):** acyclovir (including topical) and topical penciclovir.
+- **Drug Interactions**: The interaction screen returned 100 records. The main ones listed are of Major severity:
+  - Corticosteroids: hydrocortisone, triamcinolone (including ophthalmic), dexamethasone, betamethasone, budesonide, prednisone, prednisolone
+  - Other: dexrazoxane, iobenguane (I-131), ibritumomab tiuxetan, tositumomab (including I-131), levamisole, trimetrexate, mercaptopurine, dupilumab
+  - Moderate severity: acyclovir (including topical) and topical penciclovir
 
-Other safety information, including warnings and contraindications, is not available here. Please refer to the package insert.
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model score, with no trials or publications. The US license is cancelled, and the mechanism-of-action and label safety data are missing.
+The prediction rests only on a model score, with no clinical trials or publications for glottis squamous cell carcinoma. Intratumoral injection near the airway adds practical risk, and mechanism and safety data are incomplete.
 
 **To proceed, the following is needed:**
-- Verify what "CMM7" refers to in the disease ontology.
-- Obtain the US package insert (warnings and contraindications), which is a blocking gap for safety screening.
-- Obtain mechanism-of-action data from DrugBank.
-- Run a targeted search of trials and literature for T-VEC in the predicted indications.
-- Clarify the reason for the license cancellation and the current availability of the product.
-- Assess route compatibility, since T-VEC requires intralesional injection into accessible lesions.
+- Published or registered studies of oncolytic virotherapy in glottic or head and neck squamous cell carcinoma
+- Detailed mechanism of action data
+- Package insert warnings and contraindications
+- An assessment of injection feasibility and airway safety for laryngeal lesions
+- A review of the interaction risk with corticosteroids and other immunosuppressive agents
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

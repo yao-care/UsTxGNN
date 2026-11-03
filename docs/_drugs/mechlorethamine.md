@@ -38,8 +38,9 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Mechlorethamine is a nitrogen mustard alkylating agent, originally used for mycosis fungoides (cutaneous T-cell lymphoma), Hodgkin lymphoma, and other lymphomas.
-Currently **0 registered clinical trials** and **20 publications** (mostly older studies) relate to this prediction.
+Mechlorethamine is a nitrogen mustard alkylating agent that is marketed in the US as a topical gel.
+The TxGNN model predicts it may be useful for **relapsing-remitting multiple sclerosis**, with a score of **0.9913**.
+There are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
@@ -55,13 +56,11 @@ Currently **0 registered clinical trials** and **20 publications** (mostly older
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, mechlorethamine is a nitrogen mustard alkylating agent. It cross-links DNA (notably at guanine N7) and is cytotoxic to rapidly dividing lymphoid cells. This is the basis for its historical use in the MOPP regimen (mechlorethamine, vincristine, procarbazine, prednisone) for Hodgkin lymphoma and in topical form for mycosis fungoides.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Mechlorethamine belongs to the nitrogen mustard class of alkylating agents. These drugs cross-link DNA and are cytotoxic to rapidly dividing cells, including lymphocytes.
 
-"Lymph node cancer" overlaps heavily with the already listed indications (Hodgkin lymphoma, non-Hodgkin lymphoma, lymphoma, mantle cell lymphoma). This is therefore largely a restatement of the original indications, not a true repurposing. The mechanistic rationale is sound, but MOPP has largely been replaced by ABVD and newer regimens, which limits present-day clinical relevance.
+A plausible rationale is that other cytotoxic alkylating and immunosuppressive agents, such as cyclophosphamide and mitoxantrone, have been used in multiple sclerosis (MS). MS is driven by autoreactive lymphocytes, so broad lymphocyte depletion is a conceivable mechanism.
 
-The two other predictions have weaker support:
-- **Relapsing-remitting multiple sclerosis** (score 0.9913): no trials or literature. Other alkylating agents have been used as immunosuppressants in MS, but systemic mechlorethamine is highly toxic (vesicant, myelosuppression, secondary malignancy, infertility). The evidence level is L5 and the decision is Hold.
-- **Follicular lymphoma** (score 0.9903): a B-cell lymphoma sensitive to alkylating agents, but the evidence for mechlorethamine itself is indirect (mostly other agents such as bendamustine). The evidence level is L4 and the decision is Hold.
+This link is speculative. Systemic mechlorethamine is highly toxic. It is a vesicant and causes myelosuppression, with risks of secondary malignancy and infertility. No study in the compiled data tests it in MS. Its risk-benefit profile would compare unfavourably with the approved disease-modifying therapies for relapsing-remitting MS.
 
 ## Clinical Trial Evidence
 
@@ -69,56 +68,46 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [7509381](https://pubmed.ncbi.nlm.nih.gov/7509381/) | 1994 | RCT | J Clin Oncol | Randomized comparison of 8 courses of MOPP vs alternating MOPP/ABVD in stage IIIB and IV Hodgkin's disease, studying the influence of remission time on outcome |
-| [3352775](https://pubmed.ncbi.nlm.nih.gov/3352775/) | 1988 | RCT | NCI Monogr | EORTC H5 trials in stage I-II Hodgkin's disease: total nodal irradiation vs mantle irradiation plus MOPP |
-| [35393251](https://pubmed.ncbi.nlm.nih.gov/35393251/) | 2022 | Cohort | Clin Lymphoma Myeloma Leuk | Single-center retrospective study of 0.016% chlormethine/mechlorethamine gel as maintenance therapy in mycosis fungoides patients in remission |
-| [10473086](https://pubmed.ncbi.nlm.nih.gov/10473086/) | 1999 | Cohort | Clin Cancer Res | O6-alkylguanine-DNA alkyltransferase in cutaneous T-cell lymphoma, with implications for treatment with alkylating agents |
-| [6809030](https://pubmed.ncbi.nlm.nih.gov/6809030/) | 1982 | Cohort | Br J Dermatol | 92 cutaneous T-cell lymphoma patients; topical mechlorethamine was one of the treatments for patients without extracutaneous disease |
-| [31894937](https://pubmed.ncbi.nlm.nih.gov/31894937/) | 2020 | Review | Am Fam Physician | General review of lymphoma diagnosis and treatment |
-| [2462943](https://pubmed.ncbi.nlm.nih.gov/2462943/) | 1989 | Not classified | Blood | EORTC controlled trials 1964-1987 in stage I-II Hodgkin's disease (1,579 patients), tailoring treatment to prognostic factors |
-| [2354411](https://pubmed.ncbi.nlm.nih.gov/2354411/) | 1990 | Not classified | Cancer | Radiation with or without adjuvant MOPP in 60 patients with stage I-II lower torso Hodgkin's disease |
-| [3392562](https://pubmed.ncbi.nlm.nih.gov/3392562/) | 1988 | Not classified | J Clin Oncol | Total skin electron beam irradiation followed by mechlorethamine- or cyclophosphamide-based chemotherapy in 21 tumor-stage mycosis fungoides patients (10-year follow-up) |
-| [445326](https://pubmed.ncbi.nlm.nih.gov/445326/) | 1979 | Not classified | Cancer | Long-term follow-up of chemotherapy (including mechlorethamine) plus radiotherapy in stage III Hodgkin's disease |
-
-Most of the evidence is more than 25 years old and is based on combination regimens, so the effect of mechlorethamine alone cannot be isolated.
+Currently no related literature available.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA202317 (cancelled) | VALCHLOR (Helsinn Therapeutics (U.S.), Inc.) | Gel (topical) | No indication text available |
+| NDA202317 | VALCHLOR (Helsinn Therapeutics (U.S.), Inc.) | Gel (topical) | No indication text available |
+
+At least one licence is currently valid, and the drug is marketed in the US only as a topical gel.
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (nitrogen mustard alkylating agent) |
-| Myelosuppression Risk | High with systemic use (the knowledge graph lists contraindication links to thrombocytopenia, leukopenia, neutropenia, agranulocytosis, and anemia) |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | CBC with differential, and liver and renal function |
-| Handling Protection | Must follow cytotoxic drug handling regulations (vesicant) |
+| Myelosuppression Risk | High with systemic use. Systemic exposure is expected to be much lower with the topical gel, so please refer to the package insert. |
+| Emetogenicity Classification | High with systemic administration. Please refer to the package insert for the topical gel. |
+| Monitoring Items | CBC with differential, liver and renal function. Skin reactions should be monitored with topical use. |
+| Handling Protection | Follow cytotoxic drug handling regulations. It is a vesicant, so avoid skin and eye contact. |
 
 ## Safety Considerations
 
-- **Knowledge graph contraindication links** (not label text): thrombocytopenia, blood coagulation disease, anemia, leukopenia, agranulocytosis, neutropenia (including congenital forms), amyloidosis (including AL and AH), and hyperuricemia.
-- **Drug Interactions**: 100 interactions were found. Examples of Major interactions are deferiprone, samarium (153Sm) lexidronam, adalimumab, and baricitinib. Moderate interactions include mercaptopurine, azathioprine, zidovudine, chloramphenicol, aldesleukin, alemtuzumab, anakinra, and several vaccines. Minor interactions include levofloxacin and warfarin.
+- **Hematologic conditions flagged for caution** (from relationship data, not label text): thrombocytopenia, anemia, leukopenia, agranulocytosis, neutropenia (including congenital forms), blood coagulation disease, hyperuricemia and amyloidosis.
+- **Drug Interactions:** 100 interacting drugs were recorded. Major-level interactions include deferiprone, samarium (153Sm) lexidronam, adalimumab and baricitinib. Moderate-level interactions include mercaptopurine, azathioprine, zidovudine, chloramphenicol, aldesleukin, alemtuzumab and several vaccines.
 
-Package insert warnings and contraindications were not available. Please refer to the package insert for complete safety information.
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The "lymph node cancer" prediction mostly restates mechlorethamine's existing lymphoma indications and is not a true repurposing. MOPP has been superseded by newer regimens, which limits current clinical value. The multiple sclerosis (L5) and follicular lymphoma (L4) predictions are weaker still.
+The prediction score is high (0.9913), but there are no clinical trials or publications on this disease, so the evidence level is L5. The known toxicity of mechlorethamine and the availability of approved MS therapies make the risk-benefit balance unfavourable.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data (e.g., from DrugBank)
-- Evidence that mechlorethamine offers a benefit over current standards of care (e.g., ABVD, anti-CD20 plus bendamustine)
-- A clearer definition of the target population and route of administration (topical vs systemic), since the only US product was a topical gel
+- Preclinical or mechanistic evidence that mechlorethamine acts on MS-relevant pathways
+- Mechanism-of-action data
+- Package insert warnings and contraindications
+- Evidence that any exposure route could be safe enough for a chronic autoimmune disease; the only marketed product is a topical gel
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

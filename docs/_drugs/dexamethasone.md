@@ -38,9 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-Dexamethasone is a potent glucocorticoid originally used for conditions such as adrenocortical insufficiency, Crohn disease, congenital adrenal hyperplasia and acute lymphoblastic leukemia.
-
----
+Dexamethasone is a systemic corticosteroid that is widely marketed in the United States as tablets and injections. The TxGNN model predicts it may be useful for **alopecia mucinosa**. The data compiled for this report contain **no clinical trials and no publications** for this disease, so the prediction rests on the model alone.
 
 ## Quick Overview
 
@@ -52,46 +50,25 @@ Dexamethasone is a potent glucocorticoid originally used for conditions such as 
 | Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 15) |
 | Number of FDA Applications | at least 15 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for dexamethasone is not available in the data compiled for this report. Based on known pharmacology, dexamethasone is a potent glucocorticoid that suppresses T-cell activation and pro-inflammatory cytokines such as IFN-gamma, IL-2 and TNF-alpha.
+Detailed mechanism-of-action data for dexamethasone are not available in the data compiled for this report. Dexamethasone belongs to the glucocorticoid class, which suppresses inflammatory and immune responses.
 
-Alopecia areata is a T-cell-mediated autoimmune disease. Cytotoxic CD8+ T cells attack the hair follicle, which loses its immune privilege. Dexamethasone's original indications (Crohn disease, rash, eosinophilic pneumonia, adrenal disorders) are mostly inflammatory or immune-mediated, so immunosuppression is a plausible shared mechanism.
-
-In clinical practice, oral mini-pulse dosing (for example 5 mg on two consecutive days per week) is used to induce regrowth while limiting cumulative steroid exposure. JAK inhibitors are now a competing standard of care, and dexamethasone is mainly positioned as an alternative, adjunct or rescue option, particularly when JAK inhibitors are unavailable or unsuitable.
-
----
+The model's high score probably reflects shared inflammatory skin and hair-follicle disease features. Alopecia mucinosa is an inflammatory follicular condition, and systemic corticosteroids are sometimes used in inflammatory follicular disorders. None of this use is documented in the supplied data, so the link is plausible but unverified. The score is a model output and does not show that the drug works for this disease.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [36086930](https://pubmed.ncbi.nlm.nih.gov/36086930/) | 2022 | RCT | Dermatologic Therapy | Open-label randomized study in 30 children with severe, non-progressive alopecia areata comparing low-dose oral dexamethasone mini-pulse with DPCP contact sensitization |
-| [39042154](https://pubmed.ncbi.nlm.nih.gov/39042154/) | 2024 | Systematic review / network meta-analysis | Archives of Dermatological Research | Compared systemic steroids, oral JAK inhibitors and contact immunotherapy in severe alopecia areata; aimed to identify the most effective option |
-| [35330017](https://pubmed.ncbi.nlm.nih.gov/35330017/) | 2022 | Prospective cohort | Journal of Clinical Medicine | Real-world effectiveness and safety of oral dexamethasone mini-pulse, with factors associated with response |
-| [36070222](https://pubmed.ncbi.nlm.nih.gov/36070222/) | 2022 | Multicentre cohort | Dermatologic Therapy | Oral dexamethasone mini-pulse in moderate to severe alopecia areata, as a lower-cost alternative to JAK inhibitors |
-| [36461625](https://pubmed.ncbi.nlm.nih.gov/36461625/) | 2023 | Review | Pediatric Dermatology | Review of pulse-dose corticosteroid regimens and side effects in children with alopecia areata |
-| [10535249](https://pubmed.ncbi.nlm.nih.gov/10535249/) | 1999 | Clinical study | Journal of Dermatology | 30 patients with extensive alopecia areata given 5 mg dexamethasone orally on two consecutive days per week |
-| [31579982](https://pubmed.ncbi.nlm.nih.gov/31579982/) | 2019 | Prospective study | Dermatologic Therapy | 73 children with severe disease; 1-day vs 3-day monthly IV dexamethasone pulses combined with topical clobetasol |
-| [26179196](https://pubmed.ncbi.nlm.nih.gov/26179196/) | 2015 | Long-term follow-up | Dermatologic Therapy | 65 children treated with combined oral pulse and topical corticosteroids; median follow-up 96 months |
-| [41872082](https://pubmed.ncbi.nlm.nih.gov/41872082/) | 2026 | Retrospective chart review | European Journal of Dermatology | Pulse dexamethasone rescue in non-responders to baricitinib plus topical corticosteroids (19 patients) |
-| [41243342](https://pubmed.ncbi.nlm.nih.gov/41243342/) | 2025 | Case report with focused review | Journal of Dermatological Treatment | Durable remission of severe alopecia areata with oral mini-pulse in a patient for whom JAK inhibitors were not an option |
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-All 15 US authorizations are ANDAs and all are currently valid. The data compiled for this report contain no approved-indication text for them. The first five are listed below.
+Fifteen US licences are recorded as valid, and the list may be partial. All are single-ingredient generic products (ANDA). The five shown below are examples, and approved-indication text is not recorded in the local data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -101,35 +78,31 @@ All 15 US authorizations are ANDAs and all are currently valid. The data compile
 | ANDA217538 | Dexamethasone (Bionpharma) | Tablet | Not available |
 | ANDA040802 | Dexamethasone Sodium Phosphate (Henry Schein) | Injection, solution | Not available |
 
-Available routes across all entries are injectable (solution, emulsion) and oral (tablet).
-
----
+Available routes are oral (tablet) and injectable (solution, plain injection, emulsion). No topical product is listed.
 
 ## Safety Considerations
 
-- **Contraindications flagged in the knowledge graph** (not label text): hypertension, epilepsy, hyperglycemia, congestive heart failure, herpes simplex virus keratitis, measles, certain urea-cycle disorders (carbamoyl phosphate synthetase I deficiency, hyperargininemia, citrullinemia), and a range of pituitary hormone deficiency conditions (for example hypopituitarism, Sheehan syndrome, Kallmann syndrome).
-- **Drug Interactions**: 100 interactions were found. Major-level examples include **fentanyl** and **adalimumab**. Moderate-level examples include paclitaxel, abemaciclib, acalabrutinib, ibuprofen, ketorolac, nifedipine, isotretinoin, zidovudine and acetazolamide.
-- **Treatment-related concerns from the literature**: relapse after discontinuation and steroid-related adverse effects, particularly with repeated pulses in children.
+- **Conditions recorded as cautions or contraindications** (from the compiled data, not from label text): hypertension, congestive heart failure, epilepsy, hyperglycemia, measles, herpes simplex virus keratitis, and several urea-cycle disorders (carbamoyl phosphate synthetase I deficiency, hyperargininemia, citrullinemia). Several pituitary hormone deficiency conditions are also recorded, including hypopituitarism, growth hormone deficiency and Kallmann syndrome.
+- **Drug interactions** (100 recorded in total; examples shown):
+  - Major: fentanyl, adalimumab.
+  - Moderate: paclitaxel, abemaciclib, acalabrutinib, isotretinoin, nifedipine, ibuprofen, ketorolac, zidovudine, acetazolamide, acarbose, acebutolol, codeine, dihydrocodeine, and the tetanus toxoid vaccine.
+  - Minor: dolutegravir, lidocaine, formoterol.
 
-Please refer to the package insert for full warnings, as label-based warnings and contraindications were not available for this report.
-
----
+Please refer to the package insert for the full warnings, because label-level warnings were not available for this report.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Alopecia areata has a plausible immune-mediated mechanism and a body of supporting literature, including a randomized trial in children, a network meta-analysis and several cohort studies. However, there are no registered clinical trials, the randomized evidence is small and open-label, relapse after discontinuation is common, and JAK inhibitors are a competing standard. The drug is marketed in the US, with 15 valid licenses.
+The prediction is supported only by a model score, with no trials or publications for alopecia mucinosa. The evidence level is therefore L5.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Detailed mechanism-of-action data
-- Larger, well-controlled randomized trials comparing dexamethasone mini-pulse with JAK inhibitors, with relapse follow-up
-- A steroid-exposure safety plan (blood pressure, glucose, bone health, growth in children)
-- Clarification of the US regulatory pathway given that the listed ANDAs are currently valid
+- A literature search for dexamethasone or corticosteroid use in alopecia mucinosa, including case series.
+- Mechanism-of-action data and a documented rationale for glucocorticoid effects in this condition.
+- Review of the US package insert warnings and contraindications.
+- A route and dosing assessment (oral, injectable or topical) with a risk-benefit analysis for chronic or repeated systemic steroid use in a non-life-threatening skin condition.
 
-**Other predicted indications:** The remaining nine predictions (alopecia mucinosa, telogen effluvium, folliculitis decalvans, alopecia antibody deficiency, hereditary hypotrichosis with recurrent skin vesicles, alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome, atrichia with papular lesions, alopecia universalis onychodystrophy vitiligo, and prolapse of lacrimal gland) have no supporting trials or relevant literature (Evidence Level L5). All are recommended as **Hold**. Their high TxGNN scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

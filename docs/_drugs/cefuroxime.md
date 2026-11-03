@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "CEFUROXIME"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
 last_modified_at: 2026-11-03
-description: "Cefuroxime: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Bacterial infections (otitis media, pneumonia, meningitis, gonorrhea…"
+description: "Cefuroxime: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Cefuroxime
@@ -33,15 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Cefuroxime: From Bacterial Infections to Polyclonal Hyperviscosity Syndrome
+## Cefuroxime: Polyclonal hyperviscosity syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Cefuroxime is a second-generation cephalosporin antibiotic, originally used for bacterial infections such as otitis media, pneumonia, meningitis, gonorrhea and Lyme disease.
-The TxGNN model's top-ranked prediction is **polyclonal hyperviscosity syndrome**, but it has **no supporting trials or literature**. The best-supported candidate in the list is **urinary tract infection (UTI)**, with **5 clinical trials** and **20 publications**, although this is largely an extension of existing antibacterial use rather than true repurposing.
-
-> Note: The rank-1 prediction (polyclonal hyperviscosity syndrome) has no evidence and no plausible mechanism. This report therefore presents it in the overview and focuses the evidence sections on the best-supported candidate, UTI (rank 6).
+Cefuroxime is a second-generation cephalosporin antibiotic that works by inhibiting bacterial cell wall synthesis.
+The TxGNN model predicts it may be related to **polyclonal hyperviscosity syndrome**, but the data compiled for this report contain **no clinical trials and no publications** for this prediction, so it rests on model output alone.
 
 ---
 
@@ -49,63 +47,37 @@ The TxGNN model's top-ranked prediction is **polyclonal hyperviscosity syndrome*
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial infections (otitis media, pneumonia, meningitis, gonorrhea, Lyme disease, etc.). The data compiled for this report contain no label indication text. |
-| Predicted New Indication (rank 1) | Polyclonal hyperviscosity syndrome |
-| TxGNN Prediction Score (rank 1) | 0.9976 |
-| Evidence Level (rank 1) | L5 |
-| Best-Supported Candidate | Polyclonal hyperviscosity syndrome |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Polyclonal hyperviscosity syndrome |
+| TxGNN Prediction Score | 0.9976 |
+| Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of FDA Applications | at least 5 |
-| Recommended Decision | Hold (rank 1); UTI is a research question |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, cefuroxime is a beta-lactam antibiotic that inhibits bacterial cell wall synthesis.
+Cefuroxime is a beta-lactam antibiotic. It blocks bacterial cell wall synthesis and acts on susceptible bacteria. Detailed mechanism-of-action data are not available in the data compiled for this report, so this description rests on the general pharmacology of the drug class.
 
-**Rank 1 (polyclonal hyperviscosity syndrome):** There is no identifiable mechanistic link. This is a plasma protein and immunoglobulin disorder, and an antibacterial has no known effect on it. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and there is no trial or literature support. The same applies to the other top-scoring predictions with no evidence, such as hyperamylasemia, congenital analbuminemia, premalignant hematological system disease and blood group incompatibility.
-
-**Best-supported candidate (UTI):** Cefuroxime is active against common uropathogens such as *E. coli*, *Klebsiella* and *Proteus*, so the mechanism is biologically coherent. UTI is also close to cefuroxime's already-labeled bacterial infection indications, so this is an extension of existing use rather than novel repurposing. Rising resistance and the cancelled-only US market status limit its practical value.
-
-**Other candidates:** Peptostreptococcus infection is plausible for a beta-lactam, but the only evidence is a 1981 in-vitro paper centered on ceftazidime.
+Polyclonal hyperviscosity syndrome is a disorder of plasma proteins and immunoglobulins that raises blood viscosity. No mechanistic link to an antibacterial action can be identified. The high TxGNN score is a model-based association with no trial or literature evidence behind it. At this stage the prediction should be treated as a hypothesis, not as a supported therapeutic direction.
 
 ---
 
 ## Clinical Trial Evidence
 
-Trials linked to UTI (rank 6). No other candidate has linked clinical trials.
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT04616352](https://clinicaltrials.gov/study/NCT04616352) | N/A | Completed | 973 | Effect of inappropriate cefuroxime therapy in adults hospitalized with pyelonephritis. Directly relevant, but observational rather than an interventional efficacy trial. |
-| [NCT01507974](https://clinicaltrials.gov/study/NCT01507974) | N/A | Completed | 220 | Preventive antibiotics in pregnant women with recurrent UTI. Relevant to prophylaxis; the specific agent is uncertain. |
-| [NCT02789579](https://clinicaltrials.gov/study/NCT02789579) | Early Phase 1 | Unknown | 150 | One-week antimicrobial solutions to prevent UTI before minimally invasive upper tract lithotomy. Cefuroxime's role is unclear. |
-| [NCT05577273](https://clinicaltrials.gov/study/NCT05577273) | N/A | Unknown | 1000 | Antibiotic prophylaxis at urinary catheter removal. Prevention rather than treatment; agent not clearly cefuroxime. |
-| [NCT02009098](https://clinicaltrials.gov/study/NCT02009098) | Phase 4 | Withdrawn | 0 | Antibiotic prophylaxis for postpartum infections after caesarean section. No participants enrolled, so no data. |
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Selected publications linked to UTI (rank 6), prioritizing comparative and review literature.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [2689345](https://pubmed.ncbi.nlm.nih.gov/2689345/) | 1989 | Randomized comparison | Infection | Aztreonam vs cefuroxime in hospitalized patients with gram-negative upper UTI |
-| [38215770](https://pubmed.ncbi.nlm.nih.gov/38215770/) | 2024 | RCT | Lancet Infect Dis | De-escalation from antipseudomonal β-lactams in Enterobacterales bloodstream infection (indirect) |
-| [41693075](https://pubmed.ncbi.nlm.nih.gov/41693075/) | 2026 | Systematic review | Pharmacotherapy | Oral β-lactams versus TMP/SMX and fluoroquinolones for complicated UTI |
-| [8799689](https://pubmed.ncbi.nlm.nih.gov/8799689/) | 1996 | Review | Drugs | Cefuroxime axetil: antibacterial activity, pharmacokinetics and therapeutic efficacy |
-| [18611587](https://pubmed.ncbi.nlm.nih.gov/18611587/) | 1994 | Review | Int J Antimicrob Agents | Cefuroxime axetil overview; sensitive against major respiratory pathogens |
-| [6349019](https://pubmed.ncbi.nlm.nih.gov/6349019/) | 1983 | Review | Ther Drug Monit | Cefuroxime antimicrobial activity, pharmacology and clinical efficacy |
-| [6344037](https://pubmed.ncbi.nlm.nih.gov/6344037/) | 1983 | Review | Pharmacotherapy | Cefuroxime mechanism, spectrum, pharmacokinetics and indications |
-| [39005695](https://pubmed.ncbi.nlm.nih.gov/39005695/) | 2024 | Cohort/epidemiology | Infect Dis Clin Microbiol | Causative organisms and ESBL risk factors in community-acquired UTI |
+Currently no related literature available.
 
 ---
 
 ## US Market Information
-
-All five US authorizations are valid, and the drug is marketed. Approved-indication text is not available in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -115,34 +87,34 @@ All five US authorizations are valid, and the drug is marketed. Approved-indicat
 | ANDA064125 | Cefuroxime sodium (Sagent) | Injection, powder, for solution | Not available (valid) |
 | NDA050780 | Cefuroxime and Dextrose (B. Braun) | Injection, solution | Not available (valid) |
 
+The list may be partial. Of these licences, four are valid and one (NDA050780) is cancelled.
+
 ---
 
 ## Safety Considerations
 
-- **Disease contraindication signals (knowledge graph, not label text):** kidney disease, pyoureter, liver disease, gallbladder disease, blood coagulation disease, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, congenital prothrombin deficiency.
-- **Drug Interactions:** 100 interactions were identified, all of the 20 listed being Moderate severity. Main groups:
-  - Acid-reducing agents: famotidine, ranitidine, cimetidine, nizatidine, and proton pump inhibitors (omeprazole, esomeprazole, lansoprazole, dexlansoprazole, pantoprazole, rabeprazole)
-  - Antacids: aluminum hydroxide, calcium carbonate, magaldrate, magnesium carbonate/hydroxide/oxide
+Package insert warnings and contraindications are not available in the data compiled for this report. Please refer to the package insert for full safety information.
+
+- **Drug Interactions**: 100 interactions were found in the interaction query. The ones listed here are rated Moderate:
+  - Acid-reducing agents: famotidine, ranitidine, cimetidine, nizatidine, and the proton pump inhibitors omeprazole, esomeprazole, lansoprazole, dexlansoprazole, rabeprazole and pantoprazole
+  - Antacids: aluminum hydroxide, calcium carbonate, magaldrate, magnesium carbonate, magnesium hydroxide, magnesium oxide
   - Aminoglycosides: kanamycin, neomycin
   - Balsalazide
-
-Please refer to the package insert for warnings and contraindications from the label.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold** (for the top-ranked prediction, polyclonal hyperviscosity syndrome). UTI and suppurative otitis media are best treated as research questions.
+**Decision: Hold**
 
 **Rationale:**
-- The highest-scoring predictions have no mechanistic rationale and no clinical or literature support, so the scores should not be relied upon.
-- The best-supported candidates (UTI, otitis media) overlap with existing antibacterial uses. Their evidence is mostly observational, prophylaxis-focused or indirect, with no Phase 3 RCT. Rising resistance and the cancelled-only US market status further limit value.
+The prediction has the highest model score but no clinical trials, no literature, and no plausible mechanistic link to an antibacterial drug. The evidence level is L5 (model prediction only).
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism-of-action data from DrugBank
-- Cefuroxime-specific comparative trials for UTI, if pursued
-- Confirmation of which cefuroxime products are currently marketed in the US, since five valid licenses are listed
+- A credible biological rationale linking cefuroxime to polyclonal hyperviscosity syndrome
+- Any preclinical or clinical study that directly addresses this disease
+- Package insert safety data (warnings and contraindications) and mechanism-of-action data
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

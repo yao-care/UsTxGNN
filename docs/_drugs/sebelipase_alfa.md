@@ -38,10 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 ## One-Sentence Summary
 
-Sebelipase alfa is a recombinant human lysosomal acid lipase, originally used as enzyme replacement therapy for Wolman disease and lysosomal acid lipase deficiency (LAL-D).
-CESD is the later-onset form of LAL-D, so this is an on-label use rather than true repurposing.
-
----
+Sebelipase alfa is a recombinant lysosomal acid lipase enzyme replacement therapy. The TxGNN model predicts it may be relevant to **Scheie syndrome**, but **no clinical trials and no publications** support this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
@@ -50,63 +47,24 @@ CESD is the later-onset form of LAL-D, so this is an on-label use rather than tr
 | Original Indication | Not recorded in the local data |
 | Predicted New Indication | Scheie syndrome |
 | TxGNN Prediction Score | 0.9980 |
-| Evidence Level | L5 for Scheie syndrome; L1 for cholesteryl ester storage disease |
+| Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
 | Number of FDA Applications | 1 (valid: 1) |
-| Recommended Decision | Hold for Scheie syndrome; Proceed with Guardrails for cholesteryl ester storage disease |
-
----
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, sebelipase alfa is a recombinant human lysosomal acid lipase (LAL). It replaces the deficient enzyme and reduces the lysosomal accumulation of cholesteryl esters and triglycerides.
+Detailed mechanism of action data is not available. Sebelipase alfa is a recombinant form of lysosomal acid lipase, an enzyme that breaks down cholesteryl esters and triglycerides inside lysosomes.
 
-**Top-ranked prediction (Scheie syndrome, MPS I attenuated form):** The mechanistic rationale is weak. Scheie syndrome is caused by alpha-L-iduronidase deficiency, which sebelipase alfa does not supply. The high score most likely reflects network proximity among lysosomal storage diseases rather than a true biological link. No trials or literature support this use.
-
-Enzyme replacement directly addresses the underlying defect.
-
-**Other predictions** (Hurler syndrome, Gaucher disease, Tay-Sachs disease, the STAT5B-related growth hormone insensitivity syndrome, ichthyosis syndrome, skeletal-involvement lysosomal storage disease, benign adrenal neoplasm) have no plausible enzyme-replacement rationale. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The only linked trial for several of them is a multi-disorder prenatal enzyme replacement platform study.
-
----
+Scheie syndrome, the attenuated form of mucopolysaccharidosis type I, is caused by a deficiency of alpha-L-iduronidase. Sebelipase alfa does not supply this enzyme. Both conditions are lysosomal storage disorders, and the high score most likely reflects that shared disease-class proximity in the model rather than a true biological rationale. On the available information, a therapeutic link has not been established.
 
 ## Clinical Trial Evidence
 
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01757184](https://clinicaltrials.gov/study/NCT01757184) | Phase 3 | Completed | 66 | Randomized, placebo-controlled study of sebelipase alfa 1 mg/kg every other week in late-onset LAL-D (CESD) |
-| [NCT02112994](https://clinicaltrials.gov/study/NCT02112994) | Phase 2 | Completed | 31 | Open-label multicenter study of safety and efficacy in a broad LAL-D population |
-| [NCT01371825](https://clinicaltrials.gov/study/NCT01371825) | Phase 2/3 | Completed | 9 | Dose-escalation study in children with growth failure due to LAL-D |
-| [NCT01488097](https://clinicaltrials.gov/study/NCT01488097) | Phase 2 | Completed | 8 | Long-term extension of safety and efficacy in adults with LAL-D liver dysfunction |
-| [NCT01307098](https://clinicaltrials.gov/study/NCT01307098) | Phase 1/2 | Completed | 9 | First-in-human dose escalation of safety, tolerability and PK in adults with LAL-D |
-| [NCT02193867](https://clinicaltrials.gov/study/NCT02193867) | Phase 2 | Terminated | 10 | Open-label study in infants with rapidly progressive LAL-D; early termination limits interpretation |
-| [NCT02376751](https://clinicaltrials.gov/study/NCT02376751) | N/A | No longer available | N/A | US expanded access protocol (1 mg/kg every other week) until commercial product was available |
-| [NCT04532047](https://clinicaltrials.gov/study/NCT04532047) | Phase 1 | Recruiting | 10 | Prenatal enzyme replacement platform study across several lysosomal storage disorders; only peripherally related |
-
-For Hurler syndrome and Gaucher disease, the only linked trial is NCT04532047, which gives no direct evidence of sebelipase alfa efficacy in those diseases. The other predictions have no registered trials.
-
----
+Currently no related clinical trials registered for Scheie syndrome.
 
 ## Literature Evidence
 
-The table covers cholesteryl ester storage disease and LAL-D.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [26352813](https://pubmed.ncbi.nlm.nih.gov/26352813/) | 2015 | RCT | N Engl J Med | Phase 3 trial of sebelipase alfa in children and adults with LAL-D, an underappreciated cause of cirrhosis and severe dyslipidemia |
-| [34774639](https://pubmed.ncbi.nlm.nih.gov/34774639/) | 2022 | RCT | J Hepatol | Final results of the phase 3 ARISE study in children aged 4 years and older and adults |
-| [29628368](https://pubmed.ncbi.nlm.nih.gov/29628368/) | 2018 | RCT | J Clin Lipidol | Improved atherogenic cholesterol measures through 52 weeks in the phase 3 study |
-| [35442238](https://pubmed.ncbi.nlm.nih.gov/35442238/) | 2022 | Cohort | J Pediatr Gastroenterol Nutr | Long-term efficacy and safety in a single-arm, open-label study |
-| [32657505](https://pubmed.ncbi.nlm.nih.gov/32657505/) | 2020 | Cohort | Liver Int | 5-year extension: reduced transaminases and liver fat, improved lipids |
-| [40781810](https://pubmed.ncbi.nlm.nih.gov/40781810/) | 2025 | Cohort | Liver Int | Registry data showing improved aminotransferase levels with treatment versus untreated patients |
-| [34906190](https://pubmed.ncbi.nlm.nih.gov/34906190/) | 2021 | Cohort | Orphanet J Rare Dis | Nationwide cohort of Wolman disease with up to 10 years of follow-up |
-| [38918870](https://pubmed.ncbi.nlm.nih.gov/38918870/) | 2024 | Case series | Orphanet J Rare Dis | Twice-weekly dosing rescued severely ill infants with Wolman disease |
-| [34664536](https://pubmed.ncbi.nlm.nih.gov/34664536/) | 2022 | Review | Expert Opin Drug Saf | Safety review of sebelipase alfa in LAL-D |
-| [37181111](https://pubmed.ncbi.nlm.nih.gov/37181111/) | 2021 | Systematic review | Ther Adv Rare Dis | Systematic literature review of enzyme replacement therapy in LAL-D |
-
-The literature linked to Gaucher disease concerns Wolman disease treatment, diagnostic overlap and Gaucher natural history. None shows a therapeutic effect of sebelipase alfa in Gaucher disease. The other predictions have no literature.
-
----
+Currently no related literature available for Scheie syndrome.
 
 ## US Market Information
 
@@ -114,29 +72,25 @@ The literature linked to Gaucher disease concerns Wolman disease treatment, diag
 |---------|------|------|-----------|
 | BLA125561 | KANUMA (Alexion Pharmaceuticals, Inc.) | Injection, solution, concentrate | Not stated in the data compiled; license status: valid |
 
----
+The one listed licence is valid, and the product is marketed as a single-ingredient injectable (manufacturer: Alexion Pharmaceuticals, Inc.).
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. The data compiled for this report contains no warning or contraindication text, no knowledge-graph contraindications, and no drug interaction records.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold for Scheie syndrome (the top-ranked prediction); Proceed with Guardrails for cholesteryl ester storage disease (on-label)**
+**Decision: Hold**
 
 **Rationale:**
-- Scheie syndrome and the other off-label predictions have no clinical or literature support and no plausible mechanism. The high TxGNN scores likely reflect lysosomal storage disease network proximity.
-- This is on-label use of the drug's own indication, not repurposing.
-- The only US license (BLA125561) is recorded as cancelled, which needs clarification before any market-based decision.
+The prediction has no supporting trials or publications, and the biology does not fit: sebelipase alfa does not replace alpha-L-iduronidase, the enzyme missing in Scheie syndrome. The high score alone is not enough to justify moving forward.
 
 **To proceed, the following is needed:**
-- Confirm the current US regulatory and market status of KANUMA, since the license is recorded as cancelled
-- Package insert warnings, contraindications and approved indication text (currently missing and blocking safety screening)
-- Detailed mechanism of action data
-- Immunogenicity and infusion-reaction monitoring plan
-- For any off-label prediction (for example Scheie syndrome or Hurler syndrome), preclinical or mechanistic evidence before further consideration
+- Preclinical evidence that lysosomal acid lipase replacement affects the pathology of Scheie syndrome
+- Mechanism of action data for sebelipase alfa
+- Package insert warnings and contraindications for safety screening
+- Any clinical or literature evidence directly addressing Scheie syndrome
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

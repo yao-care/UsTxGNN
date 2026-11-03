@@ -2,11 +2,11 @@
   "generated": "2026-11-03",
   "total_drugs": 954,
   "level_counts": {
-    "L1": 20,
-    "L2": 35,
+    "L1": 17,
+    "L2": 36,
     "L3": 35,
     "L4": 59,
-    "L5": 772
+    "L5": 774
   },
   "all_drugs": [
     {
@@ -1584,7 +1584,7 @@
     {
       "name": "Docetaxel",
       "slug": "docetaxel",
-      "level": "L1",
+      "level": "L2",
       "indication_count": 7
     },
     {
@@ -2952,7 +2952,7 @@
     {
       "name": "Letrozole",
       "slug": "letrozole",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 4
     },
     {
@@ -4578,7 +4578,7 @@
     {
       "name": "Rifabutin",
       "slug": "rifabutin",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 10
     },
     {

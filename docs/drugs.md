@@ -36,6 +36,8 @@ This list is based on the registration data of [FDA](https://www.fda.gov/) (Unit
 
 <!-- local-home:end -->
 
+Shortlist: [US medicines with clinical-trial evidence for a new indication]({{ '/clinical-trial-evidence/' | relative_url }}) (L1–L2, with the predicted indication and the number of registered trials cited).
+
 ## Evidence level breakdown
 
 | Evidence level | Drugs | Description |

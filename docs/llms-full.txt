@@ -15,6 +15,7 @@ Evidence levels range from L1 (stronger clinical evidence) to L5 (model predicti
 - `/` Drug Repurposing Predictions — United States — UsTxGNN - US FDA Drug Repurposing Predictions using the TxGNN graph neural network
 - `/drugs/` All Drugs — All drug validation reports and evidence level statistics in UsTxGNN.
 - `/evidence-high/` High Evidence (L1-L2) — L1-L2 drug repurposing candidates in UsTxGNN, supported by clinical trials or systematic reviews.
+- `/clinical-trial-evidence/` US Drugs with Trial Evidence for a New Indication — US medicines (FDA NDC Directory) whose TxGNN-predicted new indication has clinical-trial evidence (L1-L2): indication, evidence level, registered trials.
 - `/evidence-medium/` Moderate Evidence (L3-L4) — L3-L4 drug repurposing candidates in UsTxGNN, backed by observational or preclinical evidence.
 - `/evidence-low/` Model Prediction Only (L5) — L5 candidates in UsTxGNN: model prediction only, with no clinical or literature evidence yet.
 - `/methodology/` Methodology — How UsTxGNN produces and validates predictions: TxGNN deep learning prediction, evidence collection, L1-L5 grading, and decision recommendations.

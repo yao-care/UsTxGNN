@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Clotrimazole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 543
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-03
-description: "Clotrimazole: predicted new indication acne (disease) (evidence level L5). Approved use: Fungal skin and mucosal infections (e.g., tinea pedis, tinea corporis…"
+last_modified_at: 2026-11-04
 monitor_inn: "CLOTRIMAZOLE"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
+description: "Clotrimazole: predicted new indication Acne (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Clotrimazole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-## Clotrimazole: From Fungal Skin and Mucosal Infections to acne (disease)
+## Clotrimazole: Acne (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Clotrimazole is an azole antifungal, originally used for fungal and yeast infections such as tinea pedis, cutaneous candidiasis and vulvovaginal candidiasis.
-The TxGNN model predicts it may be effective for **acne**, but the support is weak: **1 clinical trial** (suspended, testing a triple-combination product) and **0 publications**.
+Clotrimazole is a topical azole antifungal marketed in the United States as creams. The TxGNN model predicts it may be useful for **acne (disease)**, but the evidence is thin: the only related study is **1 suspended clinical trial** of a three-drug combination cream, and **no publications** were found. The evidence level is **L5** (model prediction only).
 
 ---
 
@@ -47,10 +46,10 @@ The TxGNN model predicts it may be effective for **acne**, but the support is we
 
 | Item | Content |
 |------|------|
-| Original Indication | Fungal skin and mucosal infections (e.g., tinea pedis, tinea corporis, cutaneous candidiasis, vulvovaginal candidiasis) |
-| Predicted New Indication | Acne |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 0.9986 |
-| Evidence Level | L4 (weak; no clotrimazole-specific efficacy data) |
+| Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of FDA Applications | at least 4 |
 | Recommended Decision | Hold |
@@ -59,9 +58,11 @@ The TxGNN model predicts it may be effective for **acne**, but the support is we
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Clotrimazole is a synthetic azole antifungal. The published literature describes it as inhibiting ergosterol biosynthesis, which slows fungal growth. Its efficacy in superficial fungal infections is well established, and it has also attracted interest for activities beyond its antifungal effect.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Clotrimazole belongs to the azole antifungal class, which inhibits fungal CYP51 and so disrupts the fungal cell membrane. It also has some anti-inflammatory activity.
 
-The link to acne is indirect. Some *Malassezia*/*Candida* colonization has been proposed as a contributor to acne-like folliculitis, so an antifungal could plausibly help in a subset of cases. Acne itself, however, is mainly driven by sebum production, follicular blockage, *Cutibacterium acnes* and inflammation, and clotrimazole has no established role in these processes. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+The suggested link to acne is indirect. Colonisation by *Malassezia* or *Candida* has been proposed as a contributor to acne-like folliculitis, so an antifungal could in theory help in that subset of cases. This is a hypothesis only. The one registered trial tested a fixed combination of beclomethasone, gentamicin and clotrimazole, so any effect cannot be attributed to clotrimazole alone.
+
+The very high TxGNN score is not backed by clinical or published evidence and should be treated as a computational signal, not as proof of benefit.
 
 ---
 
@@ -69,7 +70,7 @@ The link to acne is indirect. Some *Malassezia*/*Candida* colonization has been 
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01244256](https://clinicaltrials.gov/study/NCT01244256) | Phase 2/3 | Suspended | 80 | Compared a fixed-dose combination cream (beclomethasone 0.025% + gentamicin 0.1% + clotrimazole 1%) in contaminated dermatosis with bilateral symmetrical lesions. No results are available, and the effect of clotrimazole alone cannot be isolated. |
+| [NCT01244256](https://clinicaltrials.gov/study/NCT01244256) | Phase 2/3 | Suspended | 80 | Compared a combination cream (beclomethasone 0.025% + gentamicin 0.1% + clotrimazole 1%) in contaminated dermatosis with bilateral symmetrical lesions. No results available; the combination design cannot isolate a clotrimazole effect. |
 
 ---
 
@@ -88,20 +89,18 @@ Currently no related literature available.
 | ANDA072640 | Clotrimazole | Cream | Sun Pharmaceutical Industries, Inc. | Valid |
 | ANDA078338 | Clotrimazole | Cream | E. Fougera & Co. (Fougera Pharmaceuticals Inc.) | Valid |
 
-Other dosage forms are also recorded for clotrimazole, including ointment, soap and solution.
+All 4 listed licences are valid. The list may be partial.
 
 ---
 
 ## Safety Considerations
 
-- **Contraindication-related conditions (from the TxGNN knowledge graph, not label text):** adrenocortical insufficiency, Addison disease, skin atrophy, telangiectasis, capillary disease, hereditary hemorrhagic telangiectasia, peripheral vascular disease, intermittent vascular claudication, peripheral arterial disease. These associations likely come from the corticosteroid component of combination products and should be verified against current labelling.
-- **Drug Interactions:** The interaction screen recorded 100 interacting drugs (the first 20 were reviewed).
-  - **Major:** fentanyl, alfentanil, hydrocodone, amiodarone.
-  - **Moderate:** abemaciclib, paclitaxel, acalabrutinib, nifedipine, amlodipine, levonorgestrel, norethisterone, estradiol, alprazolam, apixaban, aprepitant, alfuzosin, aliskiren.
-  - **Minor:** dolutegravir, amphotericin B (including the lipid complex).
-  - These mainly reflect CYP3A4-related interactions. They matter most for systemic exposure and are likely less relevant to topical use on intact skin.
+Package insert warnings and contraindications are not available in the data compiled for this report; please refer to the package insert.
 
-Package insert warnings and contraindications were not available. Please refer to the package insert for complete safety information.
+- **Drug Interactions**: 100 interactions were found in total. Examples by severity:
+  - Major: fentanyl, alfentanil, amiodarone, hydrocodone
+  - Moderate: abemaciclib, paclitaxel, acalabrutinib, nifedipine, levonorgestrel, estradiol, alprazolam, apixaban, aprepitant
+  - Minor: dolutegravir, amphotericin B
 
 ---
 
@@ -110,16 +109,14 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The only trial is a suspended study of a three-drug combination, with no results, so no clotrimazole-specific benefit in acne can be shown. There is no supporting literature, and the mechanistic link is speculative. The high TxGNN score is not backed by clinical evidence. The drug is marketed in the US, with 4 valid authorizations.
+No completed study tests clotrimazole in acne. The only trial is a suspended study of a combination cream, and there is no published literature. The evidence level is L5, and the high TxGNN score alone does not justify moving forward.
 
 **To proceed, the following is needed:**
-- Mechanism-of-action data, and preclinical evidence on antifungal or anti-inflammatory effects relevant to acne
-- A controlled trial of clotrimazole monotherapy in acne, ideally in *Malassezia*-associated or folliculitis-type disease
-- FDA package insert warnings and contraindications
-- Confirmation of current product availability
+- Controlled studies of clotrimazole alone in acne, or in acne-like folliculitis with confirmed *Malassezia* involvement
+- Mechanism-of-action data to clarify how an antifungal could act in acne
+- Package insert safety information (warnings and contraindications)
+- Review of the drug interaction profile for the intended patient population
 
-**Note on the other predicted indications in the same evidence set:**
-- **Postmenopausal atrophic vaginitis (TxGNN 0.9946):** There is no clinical or literature evidence (L5), and no clear mechanistic rationale, since the condition is driven by estrogen deficiency. The recommendation is Hold.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

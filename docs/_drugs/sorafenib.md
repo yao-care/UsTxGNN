@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sorafenib
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1175
-evidence_level: L2
+evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-30
-description: "Sorafenib: predicted new indication Liposarcoma (evidence level L2). Approved use: Hepatocellular carcinoma (also liver cancer subtypes…"
+last_modified_at: 2026-11-04
 monitor_inn: "SORAFENIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
+description: "Sorafenib: predicted new indication Liposarcoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Sorafenib
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,56 +33,50 @@ Evidence Level: **L2** | Predicted Indications: **6**
 
 </div>
 
-## Sorafenib: From Hepatocellular Carcinoma to Liposarcoma
+## Sorafenib: Liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Sorafenib is an oral multikinase inhibitor originally used to treat hepatocellular carcinoma, renal cell carcinoma and thyroid carcinoma.
-The TxGNN model predicts it may be effective for **Liposarcoma**, but support is thin: **1 clinical trial** (a Phase 2 study in mixed soft tissue sarcomas) and **8 publications**, of which only a few are clinical and none are liposarcoma-specific.
+Sorafenib is an oral multikinase inhibitor that blocks RAF/MEK/ERK signalling and the VEGFR, PDGFR and KIT receptors.
+The TxGNN model predicts it may be useful for **liposarcoma**, but no study has tested sorafenib in liposarcoma itself. The evidence level is therefore **L5**; the available work covers soft tissue sarcoma in general (1 Phase 2 trial, 1 Phase 2 publication) plus preclinical data.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hepatocellular carcinoma (also liver cancer subtypes, renal cell carcinoma, thyroid carcinoma) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Liposarcoma |
 | TxGNN Prediction Score | 0.9982 |
-| Evidence Level | L2 |
+| Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 6 of 6) |
 | Number of FDA Applications | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Sorafenib is a multikinase inhibitor. It blocks the RAF/MEK/ERK signalling pathway as well as VEGFR, PDGFR and KIT. The data compiled for this report did not include a formal mechanism-of-action entry, but these targets are well described for the drug.
+Sorafenib inhibits the RAF/MEK/ERK pathway and the angiogenic receptors VEGFR and PDGFR, as well as KIT. These pathways contribute to tumour growth and blood-vessel formation in soft tissue sarcomas. Detailed mechanism-of-action data were not included in the compiled data, so this description is based on the drug's known pharmacology.
 
-Both the RAF/MEK/ERK pathway and angiogenesis signalling are implicated in soft tissue sarcoma growth. This is the basis for the prediction: sorafenib acts on tumour growth and blood supply pathways that sarcomas also use. Preclinical work in dedifferentiated liposarcoma cell lines and xenograft models is supportive but not specific to sorafenib's activity.
-
-The clinical picture is less encouraging. In Phase 2 studies of advanced soft tissue sarcomas, liposarcoma was only one histologic subgroup. Activity was modest and was seen mainly in vascular sarcomas, not liposarcoma. The TxGNN score is therefore best read as a hypothesis, not as confirmation of efficacy.
+Liposarcoma is a soft tissue sarcoma, so a kinase and angiogenesis inhibitor is a plausible candidate. However, the clinical studies available enrolled advanced soft tissue sarcomas of mixed types. In the Phase 2 programme, activity was modest and was seen mainly in vascular sarcomas, not liposarcoma. A preclinical study showed sorafenib inhibited growth and MAPK signalling in malignant peripheral nerve sheath tumour cells and in dedifferentiated liposarcoma cell lines, which is supportive but not specific, and does not amount to a study in patients with liposarcoma.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00217620](https://clinicaltrials.gov/study/NCT00217620) | Phase 2 | Completed | 51 | Sorafenib (BAY 43-9006) in advanced soft tissue sarcomas. Liposarcoma is included as a subtype, but results are not liposarcoma-specific and the study is single-arm, not a randomized comparison. |
+| [NCT00217620](https://clinicaltrials.gov/study/NCT00217620) | Phase 2 | Completed | 51 | Sorafenib in advanced soft tissue sarcomas; liposarcoma is one included subtype, with no liposarcoma-specific results |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21751200](https://pubmed.ncbi.nlm.nih.gov/21751200/) | 2012 | Phase 2 trial | Cancer | SWOG-directed intergroup trial (S0505) of sorafenib in advanced soft tissue sarcomas; sorafenib targets RAF, VEGFR1-3, PDGFR-B, FLT3 and KIT. |
-| [24554062](https://pubmed.ncbi.nlm.nih.gov/24554062/) | 2014 | Phase 1 trial | Ann Surg Oncol | Neoadjuvant conformal radiotherapy plus sorafenib in locally advanced extremity soft tissue sarcoma. |
-| [22987955](https://pubmed.ncbi.nlm.nih.gov/22987955/) | 2012 | Review | Ann Oncol | Treatment of soft tissue sarcomas by histology; trabectedin is highlighted for liposarcoma, particularly myxoid liposarcoma. |
-| [24712007](https://pubmed.ncbi.nlm.nih.gov/24712007/) | 2014 | Review | Magy Onkol | Histology-driven medical treatment of soft tissue sarcomas. |
-| [36003796](https://pubmed.ncbi.nlm.nih.gov/36003796/) | 2022 | Review | Front Oncol | Patient-derived orthotopic xenograft models used to find combination therapies with palbociclib in sarcoma. |
-| [18413802](https://pubmed.ncbi.nlm.nih.gov/18413802/) | 2008 | Preclinical | Mol Cancer Ther | Sorafenib inhibits growth and MAPK signalling in malignant peripheral nerve sheath tumour cells; dedifferentiated liposarcoma cell lines were also tested. |
-| [23416162](https://pubmed.ncbi.nlm.nih.gov/23416162/) | 2013 | Preclinical xenograft | Am J Pathol | Dedifferentiated liposarcoma xenograft models showing PTEN down-regulation and response to PI3K pathway inhibition. |
-| [25075796](https://pubmed.ncbi.nlm.nih.gov/25075796/) | 2014 | Case report | Anti-Cancer Drugs | Response to trabectedin in synovial sarcoma; not about sorafenib. |
+| [21751200](https://pubmed.ncbi.nlm.nih.gov/21751200/) | 2012 | Phase 2 trial | Cancer | SWOG-directed intergroup trial of sorafenib in advanced soft tissue sarcomas; not liposarcoma-specific |
+| [24554062](https://pubmed.ncbi.nlm.nih.gov/24554062/) | 2014 | Phase 1 trial | Ann Surg Oncol | Neoadjuvant radiotherapy plus sorafenib in locally advanced extremity soft tissue sarcoma |
+| [24712007](https://pubmed.ncbi.nlm.nih.gov/24712007/) | 2014 | Review | Magyar Onkologia | Histology-driven medical treatment of soft tissue sarcomas |
+| [22987955](https://pubmed.ncbi.nlm.nih.gov/22987955/) | 2012 | Review | Ann Oncol | Histology- and non-histology-driven therapy for soft tissue sarcomas |
+| [18413802](https://pubmed.ncbi.nlm.nih.gov/18413802/) | 2008 | Preclinical | Mol Cancer Ther | Sorafenib inhibited growth and MAPK signalling in nerve sheath tumour cells and dedifferentiated liposarcoma cell lines |
+| [23416162](https://pubmed.ncbi.nlm.nih.gov/23416162/) | 2013 | Preclinical xenograft | Am J Pathol | Dedifferentiated liposarcoma xenograft models; response to PI3K pathway inhibition |
 
 ## US Market Information
-
-All six US authorizations listed are currently valid. Approved indication text was not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -92,42 +86,38 @@ All six US authorizations listed are currently valid. Approved indication text w
 | ANDA216073 | Sorafenib (Dr. Reddy's) | Film-coated tablet | Not available |
 | ANDA217095 | Sorafenib (Torrent) | Film-coated tablet | Not available |
 
-A sixth authorization, ANDA209050 (Golden State Medical Supply), is also cancelled.
-
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (multikinase inhibitor), not a conventional cytotoxic |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions. The knowledge graph lists thrombocytopenia, neutropenia and agranulocytosis among contraindication-related conditions. |
+| Cytotoxicity Classification | Targeted therapy (multikinase inhibitor) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions. Reasonable items include CBC, liver function, blood pressure and electrolytes (phosphate), given the conditions listed below. |
+| Monitoring Items | Please refer to the package insert warnings and precautions |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-- **Drug-disease cautions (from a knowledge graph, not label text)**: The following conditions are flagged: hypertension, liver failure, thrombocytopenia, neutropenia, agranulocytosis, blood coagulation disease, acute coronary syndrome, coronary artery disease, myocardial infarction, myocardial ischemia, anemia, hemoglobinopathy, hypophosphatemia, pancreatitis, and anxiety, neurotic and dysthymic disorders.
-- **Drug Interactions**: 100 interactions were found. Notable examples:
-  - **Major**: Dolasetron.
-  - **Moderate**: Clarithromycin, Dexamethasone, Levofloxacin, Famotidine, Loperamide, Palonosetron, Naltrexone, and several laxatives or bowel-preparation agents (bisacodyl, lactulose, lactitol, sodium sulfate, polyethylene glycol).
-  - **Minor**: Dapagliflozin, Metronidazole, Naloxegol.
-- In combination trials, hand-foot skin reaction was a recognised toxicity that limited combination use.
+**Drug Interactions** (100 interactions recorded; main examples):
+- **Major**: dolasetron
+- **Moderate**: famotidine, loperamide, dexamethasone, clarithromycin, levofloxacin, palonosetron, naltrexone, bisacodyl, lactulose
+- **Minor**: dapagliflozin, metronidazole, naloxegol
 
-Package insert warnings and contraindications were not available for this report; please consult the current label.
+Warnings and contraindications from the package insert were not available in the compiled data. Please refer to the package insert for further safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only direct evidence is a single-arm Phase 2 in mixed soft tissue sarcomas, and published results show modest activity concentrated in vascular sarcomas rather than liposarcoma. Other trials and studies are small, non-specific or preclinical. Established agents such as trabectedin have stronger histology-specific support. All US sorafenib authorizations are currently valid.
+The prediction score is high (0.9982), but no study tests sorafenib in liposarcoma. The soft tissue sarcoma trials showed modest activity mainly in vascular sarcomas, and the supportive laboratory work is not specific. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- Liposarcoma-specific response data, for example subgroup analysis from the S0505 and NCT00217620 trials
-- Package insert warnings and contraindications (a blocking safety gap)
-- Detailed mechanism-of-action data from DrugBank
-- Clarification of current US market and supply status
-- Comparison with standard liposarcoma therapies, and a safety plan covering cardiovascular, hepatic and hematologic risks
+- Liposarcoma-specific clinical data, for example subtype analyses of existing soft tissue sarcoma trials, or a dedicated trial
+- Package insert warnings and contraindications
+- Detailed mechanism-of-action data
+- A safety and drug-interaction plan, particularly for patients on QT-prolonging agents such as dolasetron
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

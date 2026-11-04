@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Clobazam
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 536
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
-description: "Clobazam: predicted new indication febrile infection-related epilepsy syndrome (evidence level L3). Approved use: Lennox-Gastaut syndrome"
+last_modified_at: 2026-11-04
 monitor_inn: "CLOBAZAM"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "cryptogenic late-onset epileptic spasms", "photosensitive occipital lobe epilepsy", "atypical childhood epilepsy with centrotemporal spikes", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
+description: "Clobazam: predicted new indication Febrile infection-related epilepsy syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Clobazam
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,64 +33,55 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Clobazam: From Lennox-Gastaut Syndrome to Febrile Infection-Related Epilepsy Syndrome
+## Clobazam: Febrile infection-related epilepsy syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Clobazam is a benzodiazepine anticonvulsant, originally used for Lennox-Gastaut syndrome.
-The TxGNN model predicts it may be effective for **childhood onset epileptic encephalopathy**, a broad category that partly overlaps with its existing use.
-Currently **0 clinical trials** are registered, but **20 publications** (guidelines, reviews and cohort reports) support this direction.
+Clobazam is a benzodiazepine anticonvulsant that acts on GABA-A receptors. The TxGNN model predicts it may be useful for **febrile infection-related epilepsy syndrome**, but no clinical trials are registered and only **2 publications** (a case series and a case report on other drugs) touch on this disease, so the evidence level is **L5** (model prediction only).
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Lennox-Gastaut syndrome (the approved indication text in the US licence records is empty) |
-| Predicted New Indication | Childhood onset epileptic encephalopathy (the top-ranked prediction by TxGNN score is febrile infection-related epilepsy syndrome, but it has only L4 evidence from two case reports; this report focuses on the best-supported candidate) |
-| TxGNN Prediction Score | 0.9982 (febrile infection-related epilepsy syndrome) |
-| Evidence Level | L3 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Febrile infection-related epilepsy syndrome |
+| TxGNN Prediction Score | 0.9982 |
+| Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of FDA Applications | at least 15 |
-| Recommended Decision | Proceed with Guardrails |
+| Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Clobazam is a GABA-A positive allosteric modulator (a 1,5-benzodiazepine). By enhancing inhibitory GABA signalling, it raises the seizure threshold. Detailed mechanism of action data was not available in the data compiled for this report, so this description reflects the known drug class rather than a retrieved record.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on what is known about the drug class, clobazam is a benzodiazepine that positively modulates GABA-A receptors and has anticonvulsant activity.
 
-Lennox-Gastaut syndrome is itself a prototypical childhood-onset developmental and epileptic encephalopathy. The predicted new indication is therefore a broader category that includes the original one, which makes this partly an on-label extension. Recent LGS management algorithms and consensus reviews (2025) list clobazam among the anti-seizure medications approved by the FDA for LGS. Clobazam is also commonly used with stiripentol and valproate in Dravet syndrome, another childhood encephalopathy.
+Febrile infection-related epilepsy syndrome is a severe, refractory status epilepticus syndrome in which GABAergic agents such as midazolam and barbiturates are commonly used. This gives the prediction a plausible class-level rationale.
 
-Support for the wider category rests on guidelines and reviews rather than trials. Efficacy in encephalopathies other than LGS has not been directly demonstrated in the data compiled for this report.
+However, the support is indirect. The two retrieved papers concern enteral lorazepam and perampanel, not clobazam, so no study of clobazam in this disease is available.
 
-Other predictions in the list have weaker support:
-- **Febrile infection-related epilepsy syndrome (rank 1):** two case reports on other drugs (lorazepam, perampanel). Evidence level L4, research question only.
-- **Atypical childhood epilepsy with centrotemporal spikes, benign occipital epilepsy, photosensitive occipital lobe epilepsy, cryptogenic late-onset epileptic spasms:** indirect literature only.
-- **Perioral myoclonia with absences, GRIN2A-related encephalopathy, restless legs syndrome, polymicrogyria with optic nerve hypoplasia:** no trials or literature (prediction only, L5).
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for this indication.
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
-The 20 retrieved publications are mostly reviews and guidelines. None is a randomized trial of clobazam in this indication. The most relevant are listed below.
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Guideline | Neurology | AAN/AES practice guideline update on new antiepileptic drugs for new-onset epilepsy |
-| [26122601](https://pubmed.ncbi.nlm.nih.gov/26122601/) | 2015 | Guideline | Epilepsia | ILAE Task Force recommendations for managing infantile seizures |
-| [39700524](https://pubmed.ncbi.nlm.nih.gov/39700524/) | 2025 | Review | Epilepsia Open | Updated management algorithms for Lennox-Gastaut syndrome |
-| [39854828](https://pubmed.ncbi.nlm.nih.gov/39854828/) | 2025 | Review/Consensus | Epilepsy & Behavior | Comprehensive review and consensus algorithm; clobazam is among eight FDA-approved ASMs for LGS |
-| [36194365](https://pubmed.ncbi.nlm.nih.gov/36194365/) | 2022 | Review | CNS Drugs | Psychobehavioural and cognitive adverse events of anti-seizure medications in developmental and epileptic encephalopathies |
-| [33479851](https://pubmed.ncbi.nlm.nih.gov/33479851/) | 2021 | Review | CNS Drugs | Current and future treatment strategies for Lennox-Gastaut syndrome |
-| [29594870](https://pubmed.ncbi.nlm.nih.gov/29594870/) | 2018 | Review | CNS Drugs | Treatment strategies for Dravet syndrome |
-| [32893075](https://pubmed.ncbi.nlm.nih.gov/32893075/) | 2021 | Scoping review | Brain & Development | Epilepsy in Angelman syndrome |
-| [38015929](https://pubmed.ncbi.nlm.nih.gov/38015929/) | 2023 | Cohort | Brain | Natural history of epilepsy and development in STXBP1-related disorders |
-| [30900478](https://pubmed.ncbi.nlm.nih.gov/30900478/) | 2019 | Review | Expert Rev Neurother | Stiripentol for Dravet syndrome, as adjunctive therapy to clobazam and valproate |
+| [35770765](https://pubmed.ncbi.nlm.nih.gov/35770765/) | 2022 | Case series | Epileptic Disorders | Enteral lorazepam as a weaning substitute for midazolam-dependent patients with this syndrome; does not study clobazam |
+| [39958143](https://pubmed.ncbi.nlm.nih.gov/39958143/) | 2025 | Case report | Cureus | Perampanel may reduce barbiturate dependency in a 13-year-old boy with this syndrome; does not study clobazam |
+
+---
 
 ## US Market Information
-
-The data records 15 valid licences for this marketed drug, and no approved indication text was available. The five main authorizations are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -100,29 +91,34 @@ The data records 15 valid licences for this marketed drug, and no approved indic
 | ANDA209440 | Clobazam (Taro) | Tablet | Not recorded |
 | ANDA210545 | Clobazam (Lupin) | Tablet | Not recorded |
 
+Of 15 recorded licences, 14 are valid and 1 is cancelled. The list may be partial.
+
+---
+
 ## Safety Considerations
 
-- **Drug Interactions:** 100 interactions were found. The main ones by severity:
-  - **Major:** morphine (including liposomal morphine), eliglustat
-  - **Moderate:** bupropion, aprepitant, omeprazole, esomeprazole, lansoprazole, cimetidine, clarithromycin, dexfenfluramine, fenfluramine, dronabinol, metoclopramide
-  - **Minor:** antacids (magnesium oxide, aluminum hydroxide, calcium carbonate, magaldrate, magnesium carbonate, magnesium hydroxide)
-- **Additional guardrails (from class and literature knowledge, not label data):** tolerance, sedation, behavioural adverse events, CYP2C19/CYP3A4 interactions, and interactions with valproate and stiripentol.
+- **Drug Interactions** (100 interactions recorded; examples):
+  - Major: morphine (including liposomal morphine), eliglustat
+  - Moderate: bupropion, aprepitant, omeprazole, esomeprazole, lansoprazole, cimetidine, clarithromycin, metoclopramide, fenfluramine, dronabinol, dexfenfluramine
+  - Minor: magnesium oxide, aluminum hydroxide, calcium carbonate, magaldrate
 
-Please refer to the package insert for warnings and contraindications, as these were not available in the data compiled for this report.
+Please refer to the package insert for warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-For childhood onset epileptic encephalopathy, clobazam's role is supported by guidelines and consensus reviews, and the category overlaps with its established LGS use. No trials were retrieved, and evidence for other predicted indications is weak or absent. Those should be held or treated as research questions. Note that the US licences are all recorded as cancelled, so current marketing status needs to be verified.
+The prediction score is high (0.9982), but no study of clobazam in febrile infection-related epilepsy syndrome was found. The evidence is therefore L5, and the mechanistic rationale rests only on benzodiazepine class effects.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Verification of current US marketing status against the 15 valid licences recorded in the data
-- Phase 3 LGS evidence and any clobazam-specific data in non-LGS encephalopathies
-- Safety monitoring plan covering tolerance, sedation, behavioural effects and DDIs in children
+- Clobazam-specific clinical data in this syndrome (case series, registry data or a controlled study)
+- Detailed mechanism of action data
+- Package insert warnings and contraindications
+- A safety plan covering tolerance, sedation, behavioral adverse events and interactions with CYP2C19/CYP3A4 substrates and other antiseizure drugs
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

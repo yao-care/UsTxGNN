@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ranitidine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1110
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-04
 monitor_inn: "RANITIDINE"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
-description: "Ranitidine: predicted new indication Peptic ulcer perforation (evidence level L4). Approved use: Not recorded in the local data"
+description: "Ranitidine: predicted new indication Peptic ulcer perforation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ranitidine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,8 +38,9 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-Ranitidine is an H2-receptor antagonist originally used to treat gastric and duodenal ulcers, reflux disease and acid hypersecretory conditions.
-There are **no registered clinical trials** for this exact term and **20 publications** (mostly reviews and comparator papers), so the evidence is only indirect.
+Ranitidine is an acid-suppressing H2-receptor blocker used for acid-related stomach and duodenal conditions.
+The TxGNN model predicts it may be relevant for **peptic ulcer perforation**, with a score of 0.9988.
+No clinical trials are registered, and the 20 publications found are indirect, so the evidence level is **L5** (model prediction only).
 
 ## Quick Overview
 
@@ -48,49 +49,37 @@ There are **no registered clinical trials** for this exact term and **20 publica
 | Original Indication | Not recorded in the local data |
 | Predicted New Indication | Peptic ulcer perforation |
 | TxGNN Prediction Score | 0.9988 |
-| Evidence Level | L4 |
+| Evidence Level | L5 |
 | US Market Status | Marketed (valid licenses: 4 of 9) |
 | Number of FDA Applications | 9 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, ranitidine is a competitive histamine H2-receptor antagonist. It lowers basal and stimulated gastric acid secretion, which is the basis of ulcer healing.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Ranitidine is a histamine H2-receptor antagonist, a class that lowers gastric acid secretion. Acid suppression is a plausible supportive measure in peptic ulcer disease, and perforation is a serious complication of that disease.
 
-Active peptic ulcer disease overlaps almost entirely with ranitidine's original indications (gastric and duodenal ulcer). The high TxGNN score therefore mostly reflects this overlap, and the prediction is not a genuine repurposing opportunity.
-
-Other predicted indications are weaker still. Perforation, duodenal obstruction and duodenogastric reflux are mainly surgical or non-acid problems, and ranitidine could help only with an underlying ulcer. Mastocytosis variants are plausible only for symptomatic control of histamine-driven gastric hypersecretion. For abnormality of glucagon secretion, no mechanistic link is established.
+However, perforation is a surgical emergency, and ranitidine does not treat it directly. The retrieved literature is mostly about ulcer therapy, NSAID-related injury and ulcer recurrence. No cited study tests ranitidine as a treatment for peptic ulcer perforation. The high score therefore reflects a computational association with ulcer disease, not demonstrated benefit.
 
 ## Clinical Trial Evidence
 
-None of them tests ranitidine as the intervention under study.
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00633672](https://clinicaltrials.gov/study/NCT00633672) | Phase 3 | Completed | 400 | Esomeprazole 40 mg/20 mg vs ranitidine 150 mg twice daily for healing NSAID-associated gastric ulcers |
-| [NCT00633412](https://clinicaltrials.gov/study/NCT00633412) | Phase 3 | Completed | 400 | Same design as above, US-only subjects |
-| [NCT00401752](https://clinicaltrials.gov/study/NCT00401752) | Phase 3 | Completed | 397 | Esomeprazole 20 mg vs ranitidine 150 mg twice daily over 8 weeks in NSAID-associated gastric ulcer |
-| [NCT00247130](https://clinicaltrials.gov/study/NCT00247130) | Phase 4 | Withdrawn | 0 | IV omeprazole vs IV ranitidine to maintain haemostasis after endoscopic treatment of bleeding ulcer; never enrolled |
-| [NCT01538797](https://clinicaltrials.gov/study/NCT01538797) | Phase 1 | Completed | 22 | YF476 vs placebo and ranitidine on 24-hour gastric pH in healthy volunteers |
-
-Ranitidine appears as the comparator in the trial titles, but these studies were designed to test other drugs, and the relevance review graded all five as low.
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+The publications below are the most relevant ones retrieved. None tests ranitidine as treatment of the perforation itself.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [6317325](https://pubmed.ncbi.nlm.nih.gov/6317325/) | 1983 | Review | Drug Intell Clin Pharm | Ranitidine is 4-10 times more potent than cimetidine, similarly effective and well tolerated in duodenal ulcer and hypersecretory states |
-| [3909374](https://pubmed.ncbi.nlm.nih.gov/3909374/) | 1985 | Clinical study | Scand J Gastroenterol | Ranitidine 300 mg/day: 4-week healing 91% (duodenal), 68% (prepyloric), 81% (gastric corporeal); maintenance therapy studied for relapse prevention |
-| [6317740](https://pubmed.ncbi.nlm.nih.gov/6317740/) | 1983 | Review | J Clin Gastroenterol | Comparison of ranitidine and cimetidine pharmacodynamics and pharmacokinetics |
-| [2878343](https://pubmed.ncbi.nlm.nih.gov/2878343/) | 1986 | Review | Med Toxicol | Adverse reactions and interactions of H2 antagonists; low toxicity overall |
-| [2905237](https://pubmed.ncbi.nlm.nih.gov/2905237/) | 1988 | Review | Drugs | Role of prostaglandins and H2 antagonists in peptic ulcer disease |
-| [9506245](https://pubmed.ncbi.nlm.nih.gov/9506245/) | 1998 | Review | Drugs | Rabeprazole (a PPI) review; comparative trials against H2 blockers |
-| [2905640](https://pubmed.ncbi.nlm.nih.gov/2905640/) | 1988 | Review | Drugs | Nizatidine review in peptic ulcer disease |
-| [3104657](https://pubmed.ncbi.nlm.nih.gov/3104657/) | 1986 | Clinical study | Klin Wochenschr | Nocturnal rioprostil vs ranitidine in duodenal ulcer healing |
-| [11166000](https://pubmed.ncbi.nlm.nih.gov/11166000/) | 2001 | Review | Am J Med | Omeprazole was superior to an ineffective dose of ranitidine for NSAID ulcer prevention (ASTRONAUT) |
-| [1976583](https://pubmed.ncbi.nlm.nih.gov/1976583/) | 1990 | Review | Hepato-gastroenterology | Acid suppression and ulcer healing |
-
-These are older drug reviews and comparator papers. None is a modern ranitidine-focused randomised trial for this indication.
+| [2927479](https://pubmed.ncbi.nlm.nih.gov/2927479/) | 1989 | RCT | N Engl J Med | Nonoperative versus emergency surgical treatment of perforated peptic ulcer (83 patients); ranitidine is not shown as the studied intervention |
+| [7861219](https://pubmed.ncbi.nlm.nih.gov/7861219/) | 1995 | Randomized, double-blind trial | J Neurosurg | Ranitidine versus placebo to prevent postoperative gastroduodenal bleeding or perforation in high-risk neurosurgical patients (101 patients); prevention in a different setting, not treatment of perforation |
+| [8346951](https://pubmed.ncbi.nlm.nih.gov/8346951/) | 1993 | Clinical study | Arch Dis Child | Intravenous ranitidine raised intragastric pH in preterm infants on dexamethasone, a group at risk of gastric perforation |
+| [8103373](https://pubmed.ncbi.nlm.nih.gov/8103373/) | 1993 | Review | Aliment Pharmacol Ther | Long-term H2-blocker therapy prevents ulcer recurrence and may reduce complications such as bleeding and perforation |
+| [8364140](https://pubmed.ncbi.nlm.nih.gov/8364140/) | 1993 | Review | Aliment Pharmacol Ther | Continuous H2-antagonist therapy reduces ulcer relapse in controlled trials |
+| [11488789](https://pubmed.ncbi.nlm.nih.gov/11488789/) | 2001 | Randomized and retrospective studies | Br J Surg | H. pylori eradication and ulcer recurrence after simple closure of perforated duodenal ulcer |
+| [3213266](https://pubmed.ncbi.nlm.nih.gov/3213266/) | 1988 | Clinical study | Z Rheumatol | Ulcer healing with ranitidine and antacids in 21 patients who continued NSAID therapy |
+| [2907978](https://pubmed.ncbi.nlm.nih.gov/2907978/) | 1988 | Clinical study | Burns | Stress-ulcer prophylaxis with cimetidine or ranitidine, later with ranitidine plus sucralfate, in burn patients |
+| [9260785](https://pubmed.ncbi.nlm.nih.gov/9260785/) | 1997 | Review | Am J Gastroenterol | H. pylori and NSAIDs cause nearly all gastric and duodenal ulcers; therapy is shifting away from acid suppression alone |
+| [8165479](https://pubmed.ncbi.nlm.nih.gov/8165479/) | 1994 | Case report | Surg Endosc | Giant marginal ulcer after gastroenterostomy and its complications |
 
 ## US Market Information
 
@@ -102,29 +91,28 @@ These are older drug reviews and comparator papers. None is a modern ranitidine-
 | ANDA210243 | Ranitidine (Granules India) | Tablet | Not available (valid) |
 | ANDA209859 | Ranitidine (Ajanta Pharma) | Capsule | Not available (valid) |
 
-Nine licences in total are on record, and all are cancelled. The remaining four are Acid Reducer (WinCo Foods, film-coated tablet), Ranitidine syrup (Pharmaceutical Associates), and two further Dr. Reddy's products (capsule and tablet). The market withdrawal is linked to NDMA contamination concerns.
-
 ## Safety Considerations
 
-- **Contraindications (from the knowledge graph, not label text):** inherited porphyria and other porphyrin metabolism disorders, kidney disease, liver disease, gallbladder disease, pyoureter, and gastric cancer or neoplasm (several gastric cancer subtypes are listed).
-- **Drug Interactions:** 100 interactions were found; the first 20 retrieved include:
-  - **Major:** atazanavir.
-  - **Moderate:** acalabrutinib, acetohexamide, aminophylline, bacampicillin, bosutinib, brigatinib, cefditoren, cefpodoxime, cefuroxime, ceritinib, chlorpropamide. Many of these reflect reduced absorption when gastric acid is suppressed.
-  - **Minor:** acetaminophen, alendronic acid, aluminium hydroxide, atracurium, axitinib, calcium carbonate, cisapride, cisatracurium.
-- Please refer to the package insert for full warnings and contraindications, as label text was not available. NDMA contamination, which led to the market withdrawal, is also a key concern.
+Package insert warnings and contraindications are not available in the data compiled for this report. Please refer to the package insert for safety information.
+
+**Drug Interactions**: 100 interactions were recorded. Examples from the first entries:
+- **Major**: atazanavir
+- **Moderate**: acalabrutinib, acetohexamide, aminophylline, bacampicillin, bosutinib, brigatinib, cefditoren, cefpodoxime, cefuroxime, ceritinib, chlorpropamide
+- **Minor**: acetaminophen, alendronic acid, aluminum hydroxide, atracurium, axitinib, calcium carbonate, cisapride, cisatracurium
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- Evidence is L4: only indirect, mostly historical literature.
+No study tests ranitidine as a treatment for peptic ulcer perforation, which is a surgical emergency. The only related randomized trial (PMID 7861219) looked at preventing postoperative gastroduodenal bleeding in neurosurgical patients. The evidence level is therefore L5, and the high score rests on association alone.
 
 **To proceed, the following is needed:**
-- Mechanism of action data and the FDA label warnings and contraindications
-- Resolution of the NDMA contamination issue and the market status
-- A clear rationale for choosing ranitidine over PPIs or other H2 blockers still on the market (e.g., famotidine)
-- Only if development is pursued: a genuinely distinct indication with direct supporting evidence (the mastocytosis variants are plausible but currently have no data)
+- Studies that directly test ranitidine, or acid suppression, in the treatment or prevention of ulcer perforation
+- Mechanism-of-action data
+- Package insert warnings and contraindications
+- A review of the safety profile and interaction list for any proposed use
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

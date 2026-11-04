@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 5 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 6 articles, 1 related drugs."
 permalink: /news/heart-disease/
 last_modified_at: 2026-11-04
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [The Components For Life May Not Have Arrived By Comet](https://news.google.com/rss/articles/CBMijwFBVV95cUxQN2haQ0lRMlNJZFVGclNweVY2VHF0Q1NmNFI4QjNQMW9IVjl3TU9obFhaSUtCVW5yYkN5Y09haFNDbXBxa2pHVkNhWHhSclljMm5TdFNCcUdmRS14N05pTUIzVnduUHlxMWF5aENhZEo3SUlMbzljYVZSbFh6dlEyTERHd3Z2QmRrOUVac012cw?oc=5)
+
+2026-11-03
+
+Source: [Hackaday](https://news.google.com/rss/articles/CBMijwFBVV95cUxQN2haQ0lRMlNJZFVGclNweVY2VHF0Q1NmNFI4QjNQMW9IVjl3TU9obFhaSUtCVW5yYkN5Y09haFNDbXBxa2pHVkNhWHhSclljMm5TdFNCcUdmRS14N05pTUIzVnduUHlxMWF5aENhZEo3SUlMbzljYVZSbFh6dlEyTERHd3Z2QmRrOUVac012cw?oc=5)
+
+---
 
 ### [The Best Time to Go to Bed to Reduce Blood Pressure](https://news.google.com/rss/articles/CBMifEFVX3lxTFBfMWxQOVRUWEZWQ24wUXNOaEhteHB3Q0NnXzZKQ2RIMjdZUnZJWWxMSm5QM1BocVcyN1FEWE9CcXBPZ0VLOVFtZHhJNFJkRkYtUk1ZSlp6STQ0cTBmd3hfS0MxWUgwOHVfTVF4OHhodTlMWFRES28yTWhZUDQ?oc=5)
 
@@ -64,11 +72,11 @@ Source: [The Conversation](https://news.google.com/rss/articles/CBMirgFBVV95cUxQ
 
 ---
 
-### [Scientists Upend Theory on Origin of Life on Earth](https://news.google.com/rss/articles/CBMilgFBVV95cUxOYjA5cHZQb0pGM1poYTN0UUpYQjBLWXN4enp6aEQxMGhrYV9aTjF2M1pBMHE3czRUMlZ6V2FaWnZCdU9NbU1aR045ZjdMWmk1WkFYZkw2VGxkbXlJMHpISnFTVFZWbzR4d05JOWx2UVB2VXFLeXN3b0dPRUNsMHZWLU9fcnR0elRBYWRuejBwYXdzMjk1VGc?oc=5)
+### [Cardiologists Agree—This Common Food Is Fantastic for Lowering Blood Pressure](https://news.google.com/rss/articles/CBMid0FVX3lxTE5VdEY0RVNyTXVDM1dfeExMRGJfZXpWZVlHMWpqV1Rlamw2ZmFaX1ZEb1Zrc3JCQTVvbDktMENQSU14bjJRelFPTHBUUDl5MGdtUXB1Q2R2aU56THpYV1F1TmVZaUYzaktZRWFrWlhneW4wVm43cXc4?oc=5)
 
-2026-11-02
+2026-10-30
 
-Source: [Newser](https://news.google.com/rss/articles/CBMilgFBVV95cUxOYjA5cHZQb0pGM1poYTN0UUpYQjBLWXN4enp6aEQxMGhrYV9aTjF2M1pBMHE3czRUMlZ6V2FaWnZCdU9NbU1aR045ZjdMWmk1WkFYZkw2VGxkbXlJMHpISnFTVFZWbzR4d05JOWx2UVB2VXFLeXN3b0dPRUNsMHZWLU9fcnR0elRBYWRuejBwYXdzMjk1VGc?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMid0FVX3lxTE5VdEY0RVNyTXVDM1dfeExMRGJfZXpWZVlHMWpqV1Rlamw2ZmFaX1ZEb1Zrc3JCQTVvbDktMENQSU14bjJRelFPTHBUUDl5MGdtUXB1Q2R2aU56THpYV1F1TmVZaUYzaktZRWFrWlhneW4wVm43cXc4?oc=5)
 
 ---
 

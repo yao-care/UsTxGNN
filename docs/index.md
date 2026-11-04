@@ -3,6 +3,7 @@ layout: default
 title: Drug Repurposing Predictions — United States
 nav_order: 1
 description: "UsTxGNN - US FDA Drug Repurposing Predictions using the TxGNN graph neural network"
+last_modified_at: 2026-11-04
 permalink: /
 ---
 
@@ -35,22 +36,20 @@ Reports by evidence level: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {
 | [Bromfenac](/drugs/bromfenac/) | L1 |
 | [Bupropion](/drugs/bupropion/) | L1 |
 | [Busulfan](/drugs/busulfan/) | L1 |
-| [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L1 |
-| [Lanadelumab](/drugs/lanadelumab/) | L1 |
-| [Natamycin](/drugs/natamycin/) | L1 |
 | [Nepafenac](/drugs/nepafenac/) | L1 |
 | [Platinum](/drugs/platinum/) | L1 |
 | [Polidocanol](/drugs/polidocanol/) | L1 |
+| [Peginterferon Alfa-2A](/drugs/peginterferon-alfa-2a/) | L1 |
+| [Ribavirin](/drugs/ribavirin/) | L1 |
+| [Clofarabine](/drugs/clofarabine/) | L1 |
 
 ### Medicines covered only by this site among the 30 TxGNN sites
 
 | Medicine | Evidence level |
 |---|---|
 | [Platinum](/drugs/platinum/) | L1 |
-| [Ecallantide](/drugs/ecallantide/) | L1 |
 | [Black Cohosh](/drugs/black-cohosh/) | L5 |
 | [Bremelanotide](/drugs/bremelanotide/) | L5 |
-| [Collagenase Clostridium Histolyticum](/drugs/collagenase-clostridium-histolyticum/) | L5 |
 | [Dexmethylphenidate](/drugs/dexmethylphenidate/) | L5 |
 | [Dyclonine](/drugs/dyclonine/) | L5 |
 | [Elapegademase](/drugs/elapegademase/) | L5 |
@@ -61,6 +60,8 @@ Reports by evidence level: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {
 | [Mercuric Iodide](/drugs/mercuric-iodide/) | L5 |
 | [Molindone](/drugs/molindone/) | L5 |
 | [Secretin Human](/drugs/secretin-human/) | L5 |
+| [Technetium Tc-99M Sestamibi](/drugs/technetium-tc-99m-sestamibi/) | L5 |
+| [Thiothixene](/drugs/thiothixene/) | L5 |
 
 <!-- local-home:end -->
 
@@ -110,7 +111,7 @@ https://ustxgnn.yao.care/smart/launch.html
 | Metric | Value |
 |:-------|------:|
 | Total FDA Drugs | 104,047 |
-| DrugBank Mappings | 7,958 |
+| DrugBank Mappings | 1,667 |
 | Disease Ontology | 17,081 |
 | Drug-Disease Relations | 80,127 |
 
@@ -142,7 +143,7 @@ If you use UsTxGNN in your research, please cite:
 
 ---
 
-*Last updated: {{ site.time | date: "%Y-%m-%d" }}*
+*Last updated: {{ page.last_modified_at | date: "%Y-%m-%d" }}*
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Rutin. 8 predicted indications."
 permalink: /news/rutin/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Rutin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>11 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>15 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,37 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (15)
 
-### [Eating Blueberries Every Day Could Reduce Depressive Symptoms in Older Adults](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUhKTmpkYTE5R215VVhvelU0UXlvTFNaWkNoRzc4YVVhMnRjMG5CWVRjLTJSUDM5LVpseXpQVjkzdGRYMlZrYndHYlJVYlN0allNa3dqYlItS1V5S25NTm12bXFWSVN1QVdnd3hpSTkzZ25MUExPcGpRcUdqOXphVW1TdTRKdk1UNFN0cUlJUU5zQVlXamVGY3dzQTR3WHZVNGo0VXFCWV9FUQ?oc=5)
+### [Injectable glucose sensor component matches pricier alternative at one-tenth the cost - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTENlQkVmUFVyX2ljV29vblZhMV9BdnFWT0l0cVF2YWVsSFhyUDJ1eXNVRWZnTnRjenI4OXVYd3RvN2E5Rmx1aFotV1lmMmFRSWx1QnNkOERiLXBaSjhEaDVBQ04xRFhxMmVZaGh2MHJsNnRLajJYZFp2dUpMU1RjcERVQlpTQlNkbzFjR1NqTkp5UQ?oc=5)
 
 2026-11-03 <span class="news-indication-tag">UC</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUhKTmpkYTE5R215VVhvelU0UXlvTFNaWkNoRzc4YVVhMnRjMG5CWVRjLTJSUDM5LVpseXpQVjkzdGRYMlZrYndHYlJVYlN0allNa3dqYlItS1V5S25NTm12bXFWSVN1QVdnd3hpSTkzZ25MUExPcGpRcUdqOXphVW1TdTRKdk1UNFN0cUlJUU5zQVlXamVGY3dzQTR3WHZVNGo0VXFCWV9FUQ?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTENlQkVmUFVyX2ljV29vblZhMV9BdnFWT0l0cVF2YWVsSFhyUDJ1eXNVRWZnTnRjenI4OXVYd3RvN2E5Rmx1aFotV1lmMmFRSWx1QnNkOERiLXBaSjhEaDVBQ04xRFhxMmVZaGh2MHJsNnRLajJYZFp2dUpMU1RjcERVQlpTQlNkbzFjR1NqTkp5UQ?oc=5)
+
+---
+
+### [Lewis County measles death: Baby boy was unvaccinated, NYT reports](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVNZM0lZS3RNZ3ZGbFhRMzRzdUdQeHJMUFQ0dDBMWkV1YjBlUnUtSzVIZ2VPZmZOc0dTZzM3dnY3ZzBDZEJIVDVKLUlycFRWdzJZQS1NdUNEUnRwVmljWDRIV1Z5RXdycnItZzRGNHE0QzFfR01sSVA2cDJOWWhpbWZmdFRqdGJwRGYyNU1fanRiMnZTWHZEOUwwc2FPUnI00gG0AUFVX3lxTE5zVUt1SV8tVW9MeHdiNTBsMUs5UGVlRGRqaE11N3dJZXFzaVJ6TUxTa3EtY2dvRzdDQzBRNFlKcVRTRTMweXpMSjFLUlRpVlVRLXFqc25IS0V5WVhLcEFpeVlEd3FKLWZpWThMNFV4V0VsUmJJaFhVNll2M2FpVlBId2VaT1B2M0dwTm1TTFpWUnpwRXVzQ2ZETGszcExPUWxpTW9ObVg4eE5ZZWE5QmtmRXVSMQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [WWNY](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVNZM0lZS3RNZ3ZGbFhRMzRzdUdQeHJMUFQ0dDBMWkV1YjBlUnUtSzVIZ2VPZmZOc0dTZzM3dnY3ZzBDZEJIVDVKLUlycFRWdzJZQS1NdUNEUnRwVmljWDRIV1Z5RXdycnItZzRGNHE0QzFfR01sSVA2cDJOWWhpbWZmdFRqdGJwRGYyNU1fanRiMnZTWHZEOUwwc2FPUnI00gG0AUFVX3lxTE5zVUt1SV8tVW9MeHdiNTBsMUs5UGVlRGRqaE11N3dJZXFzaVJ6TUxTa3EtY2dvRzdDQzBRNFlKcVRTRTMweXpMSjFLUlRpVlVRLXFqc25IS0V5WVhLcEFpeVlEd3FKLWZpWThMNFV4V0VsUmJJaFhVNll2M2FpVlBId2VaT1B2M0dwTm1TTFpWUnpwRXVzQ2ZETGszcExPUWxpTW9ObVg4eE5ZZWE5QmtmRXVSMQ?oc=5)
+
+---
+
+### [Huge Alzheimer's study uncovers dozens of risk factors scientists hadn't seen](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTWRBSjIwTkwyaXRMTnNpZFNXc3JDeXB1MWFzQ01qVUZiX2VqVXBwOC1KT09Zak9rRnliNlpXaFRmZVF4SjdYbXkyUUdPNzFpYkFWRUxXWnpKUUhEVDVadU5nZzFISXpuandkMFhlNzZnV0RGQm84UmxEUzkySG9IbU5pVkcwaURVU1RXOUZGNHJlT3hpV2dBaE5seVp0akxpTDNVNUdxOW8?oc=5)
+
+2026-11-03 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Newsweek](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTWRBSjIwTkwyaXRMTnNpZFNXc3JDeXB1MWFzQ01qVUZiX2VqVXBwOC1KT09Zak9rRnliNlpXaFRmZVF4SjdYbXkyUUdPNzFpYkFWRUxXWnpKUUhEVDVadU5nZzFISXpuandkMFhlNzZnV0RGQm84UmxEUzkySG9IbU5pVkcwaURVU1RXOUZGNHJlT3hpV2dBaE5seVp0akxpTDNVNUdxOW8?oc=5)
+
+---
+
+### [AI cardiac MRI scans could improve prediction of patient survival - The Engineer](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVBWakFOMTF6aF8tZldpejhJM0ZMZHFVTno0ZkYzaXExNktibTczU3kxbllTRHlWUGN0SWl3LVo2VnA5Y1MxWWltWFJtWE9aOGxGQVV3UUc2SlU2V0VDUXBQNS04U1dTeVp1Z1ozdXBsdVBRSHFrLS1DaWRHZWVvVWRwRk5qUmZGSk9RMklaNHFPQnZ5dTBVUnM0VG1naGVhZHNoNg?oc=5)
+
+2026-11-03 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Engineer](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVBWakFOMTF6aF8tZldpejhJM0ZMZHFVTno0ZkYzaXExNktibTczU3kxbllTRHlWUGN0SWl3LVo2VnA5Y1MxWWltWFJtWE9aOGxGQVV3UUc2SlU2V0VDUXBQNS04U1dTeVp1Z1ozdXBsdVBRSHFrLS1DaWRHZWVvVWRwRk5qUmZGSk9RMklaNHFPQnZ5dTBVUnM0VG1naGVhZHNoNg?oc=5)
 
 ---
 
@@ -60,7 +84,7 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9SYVl
 
 ### [The Best Time to Go to Bed to Reduce Blood Pressure](https://news.google.com/rss/articles/CBMifEFVX3lxTFBfMWxQOVRUWEZWQ24wUXNOaEhteHB3Q0NnXzZKQ2RIMjdZUnZJWWxMSm5QM1BocVcyN1FEWE9CcXBPZ0VLOVFtZHhJNFJkRkYtUk1ZSlp6STQ0cTBmd3hfS0MxWUgwOHVfTVF4OHhodTlMWFRES28yTWhZUDQ?oc=5)
 
-2026-11-03 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-03 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [EatingWell](https://news.google.com/rss/articles/CBMifEFVX3lxTFBfMWxQOVRUWEZWQ24wUXNOaEhteHB3Q0NnXzZKQ2RIMjdZUnZJWWxMSm5QM1BocVcyN1FEWE9CcXBPZ0VLOVFtZHhJNFJkRkYtUk1ZSlp6STQ0cTBmd3hfS0MxWUgwOHVfTVF4OHhodTlMWFRES28yTWhZUDQ?oc=5)
 
@@ -82,19 +106,19 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTFyeVoz
 
 ---
 
+### [Energy Drinks Linked to Cardiac Risk in Young Adults](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGlJZzRISkFjbFJpN25GeXVXTy11S3JVSmVRR0JsZzIxeXhHQk9sWWJRdGVieUV1Mi1RVHdiYnhFaDNSQjdNb2sybkpKVGtSWTZuaWdENDlMYUMzbmczQlVIeF9xVWZDVXduWUg4dzVmMHJKNjBUaUgyZ0tHMDNXY1hrMThIMkRYSTVrZExPQ05TUWhSa0VDRw?oc=5)
+
+2026-11-02 <span class="news-drug-tag">Rutin</span> <span class="news-indication-tag">heart attack</span> <span class="news-indication-tag">UC</span>
+
+Source: [Newser](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGlJZzRISkFjbFJpN25GeXVXTy11S3JVSmVRR0JsZzIxeXhHQk9sWWJRdGVieUV1Mi1RVHdiYnhFaDNSQjdNb2sybkpKVGtSWTZuaWdENDlMYUMzbmczQlVIeF9xVWZDVXduWUg4dzVmMHJKNjBUaUgyZ0tHMDNXY1hrMThIMkRYSTVrZExPQ05TUWhSa0VDRw?oc=5)
+
+---
+
 ### [New diabetes implant uses electricity to lower blood sugar and promote weight loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXR2RUtGWWZHUU45ODgyNF9IQm9BWlo0Q184UTlyenY5RjVVLWo2NmtKdWRkWDVCbmE5M2ZXOVZHTmN6YkFuSUtJbGc4aXItUkoxcGRmQ1lMazlWQ3RBVWlsVV9WaHp5SlcxV2tLOA?oc=5)
 
 2026-11-02 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXR2RUtGWWZHUU45ODgyNF9IQm9BWlo0Q184UTlyenY5RjVVLWo2NmtKdWRkWDVCbmE5M2ZXOVZHTmN6YkFuSUtJbGc4aXItUkoxcGRmQ1lMazlWQ3RBVWlsVV9WaHp5SlcxV2tLOA?oc=5)
-
----
-
-### [Energy drinks, stimulant products linked to cardiac arrest, heart attack in young adults](https://news.google.com/rss/articles/CBMiugFBVV95cUxNR19nN3dVTEFLYU05REc3OHRleDZSLVotX09VdmNWVkNEcmt5RVJFOE15b0NfX1hLV3pRbmFyNXV6SXBZVGN3bzF4Mk9ZNUIzMS1Bb3lDNV94N0k4SXpDX21jeGE0VzNmUTdLUWVuTDBUX3RFMDVnbGxsSURwNXQySmN4SWcxcnc5OVdhTkkwTkxuNk5rUkRodGdXTUdjYTdZREdtRkxza2xKemx6TjVnZzJjdTNqcUdIblE?oc=5)
-
-2026-11-02 <span class="news-drug-tag">Rutin</span> <span class="news-indication-tag">heart attack</span> <span class="news-indication-tag">UC</span>
-
-Source: [www.heart.org](https://news.google.com/rss/articles/CBMiugFBVV95cUxNR19nN3dVTEFLYU05REc3OHRleDZSLVotX09VdmNWVkNEcmt5RVJFOE15b0NfX1hLV3pRbmFyNXV6SXBZVGN3bzF4Mk9ZNUIzMS1Bb3lDNV94N0k4SXpDX21jeGE0VzNmUTdLUWVuTDBUX3RFMDVnbGxsSURwNXQySmN4SWcxcnc5OVdhTkkwTkxuNk5rUkRodGdXTUdjYTdZREdtRkxza2xKemx6TjVnZzJjdTNqcUdIblE?oc=5)
 
 ---
 
@@ -114,6 +138,14 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95c
 
 ---
 
+### [Decapitated man buried near fort in Roman-era Scotland gets a new virtual face - Live Science](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbm82amJ1RW42aDFNdVRhSVFuc1RuaElSbXBMTW5KZjIydUFsUERBQlZiVmllRV9OUkNzMmo2OFhlRm9aSEY4NGF1d2w1RldwZFlBWnFEWE5OZmJxdFZrWDJoemd1TlpEa1FWTkVuSTJITGF3Z1BWQkpvaDU4V0tLOUhGSFV1dlE2a1ZjMFVqZ0xySnpwN2YyLWhQX2dETTBqM1RUZnBRUG40UFV1X3o1aFZmYVpuWm9TSjB2eTlXX210amc?oc=5)
+
+2026-10-29 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Live Science](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbm82amJ1RW42aDFNdVRhSVFuc1RuaElSbXBMTW5KZjIydUFsUERBQlZiVmllRV9OUkNzMmo2OFhlRm9aSEY4NGF1d2w1RldwZFlBWnFEWE5OZmJxdFZrWDJoemd1TlpEa1FWTkVuSTJITGF3Z1BWQkpvaDU4V0tLOUhGSFV1dlE2a1ZjMFVqZ0xySnpwN2YyLWhQX2dETTBqM1RUZnBRUG40UFV1X3o1aFZmYVpuWm9TSjB2eTlXX210amc?oc=5)
+
+---
+
 ### [The rise of colon cancer among young people has been a mystery. Boston experts say they now have clues. - The Boston Globe](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFYyODd3aFJia3FQYTVMTHpKcTFSOUxXNnpKNGdYbFFjc2VxNGIwT1VPRXZvdzBfNTN2bjgzQnRiNFdCUnhFQ0RWNHNxZlEycF9XdG5PVU1GS0dfYnRYMW52NkFBcl9fb1haZTRROVRWQnhYQkd4WHpyYWlWNm00RVJ3T2QteG5iZmVMeE5sR0Y?oc=5)
 
 2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
@@ -124,7 +156,7 @@ Source: [The Boston Globe](https://news.google.com/rss/articles/CBMikAFBVV95cUxQ
 
 ### [Routine CT Scans May Detect Signs of Pancreatic Cancer Years Before Diagnosis](https://news.google.com/rss/articles/CBMie0FVX3lxTE5QQ1RqcmhxRzh3OXJlZlFrYVJBWmtKcC1RQ2M0SjNGbWt0V1JQbEhmcnkzWl9adjFfOG5EckVuRS1fM0VrTXRLbnRNa2hScXczVF9VZFhYODc0c1RSMXRtam1VcTUyX0FFVnJwa095UTB3YVB5c1h6c3NBcw?oc=5)
 
-2026-10-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
+2026-10-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [AOL.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE5QQ1RqcmhxRzh3OXJlZlFrYVJBWmtKcC1RQ2M0SjNGbWt0V1JQbEhmcnkzWl9adjFfOG5EckVuRS1fM0VrTXRLbnRNa2hScXczVF9VZFhYODc0c1RSMXRtam1VcTUyX0FFVnJwa095UTB3YVB5c1h6c3NBcw?oc=5)
 

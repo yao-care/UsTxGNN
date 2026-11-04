@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about flu (influenza). 5 articles, 2 related drugs."
 permalink: /news/influenza/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # flu (influenza) News
@@ -33,11 +33,19 @@ This page brings together the latest health news about “flu” and lists the d
 
 ## Related News (5)
 
-### [Bird flu kills US resident after dairy cow exposure, marking nation’s third death - Fox News](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGg3ZkVDMzVucmgteGJON0xfQ3hDczV1S3p4YlRJXzNoaTVKTW1kQjdFVlNoenFiVEtCQjR2Z1lmeVotcWhTRjd1NEtoTWlEU3RJMGZNU0JPdkhhSkR0clF1WEozNTEydEVLY1c1c0huYS1XRFp0R2g0NENWaHoyekdIWXRKN1YwczZRcDdfS3JicnloMGt4YzllUzUxUjdZV0JxUGJDNNIBrAFBVV95cUxPWlY5MHFWR0RQdEZ0Yi1mYUIydnhZVXlnRlFqWlpIVnpydzNnOHVNUDhqVVJibnVQZ3ZUY0s0QXluZGtad0RldXlxOF9tamlJRmVpeS1LbTl3YWs3bFRCV1RBYmFFZHJPY1E3QTZkWFdibjlVSGJ4bTF4Ql8wT3pjV3pMQ2paTGxyZnRRSUx2WDAzak5PUWZOdlpOZzAwa0pybEUyOEh5SFRVVEJJ?oc=5)
+### [What to know after Washington state resident dies of bird flu - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMilgFBVV95cUxNcTdLMlBMdE9xTkUtNEpJd2ZiOFlhaGZ1NWUxZmhoRGsteV8tSnU3NW5ZYlpEaTFUbzE3ZWwtS2kteUJLRFo5ekd2d2dia01zN3d5ZnNOYXRWQ2l2UGtBd3lmSHFHQm5JaHdmY2N5Z0NXVnh5YWJfbHExRUpIdzlNOXhabE5xNF9kWGk0NjRHMzQzeDcxNUHSAZsBQVVfeXFMTW52UVVTeS1hMmp1dXBWSmxSUTlubUs0eGdnaGEzVHRlLVRVR0NfUm8wODF5TG5HRU5CU1JCQmhWQk5YaFF1dzJLbFBTUjJxVWtGSzdJektzcGI4dGs1bnBheXY0MXlOUlA0ZDFuNzFNMDFrQkVMM21SVW1tNnRPRFUwb19qcTVUOUN2bzZEamxodDZCMEZscGxXbDQ?oc=5)
 
 2026-11-03
 
-Source: [Fox News](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGg3ZkVDMzVucmgteGJON0xfQ3hDczV1S3p4YlRJXzNoaTVKTW1kQjdFVlNoenFiVEtCQjR2Z1lmeVotcWhTRjd1NEtoTWlEU3RJMGZNU0JPdkhhSkR0clF1WEozNTEydEVLY1c1c0huYS1XRFp0R2g0NENWaHoyekdIWXRKN1YwczZRcDdfS3JicnloMGt4YzllUzUxUjdZV0JxUGJDNNIBrAFBVV95cUxPWlY5MHFWR0RQdEZ0Yi1mYUIydnhZVXlnRlFqWlpIVnpydzNnOHVNUDhqVVJibnVQZ3ZUY0s0QXluZGtad0RldXlxOF9tamlJRmVpeS1LbTl3YWs3bFRCV1RBYmFFZHJPY1E3QTZkWFdibjlVSGJ4bTF4Ql8wT3pjV3pMQ2paTGxyZnRRSUx2WDAzak5PUWZOdlpOZzAwa0pybEUyOEh5SFRVVEJJ?oc=5)
+Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMilgFBVV95cUxNcTdLMlBMdE9xTkUtNEpJd2ZiOFlhaGZ1NWUxZmhoRGsteV8tSnU3NW5ZYlpEaTFUbzE3ZWwtS2kteUJLRFo5ekd2d2dia01zN3d5ZnNOYXRWQ2l2UGtBd3lmSHFHQm5JaHdmY2N5Z0NXVnh5YWJfbHExRUpIdzlNOXhabE5xNF9kWGk0NjRHMzQzeDcxNUHSAZsBQVVfeXFMTW52UVVTeS1hMmp1dXBWSmxSUTlubUs0eGdnaGEzVHRlLVRVR0NfUm8wODF5TG5HRU5CU1JCQmhWQk5YaFF1dzJLbFBTUjJxVWtGSzdJektzcGI4dGs1bnBheXY0MXlOUlA0ZDFuNzFNMDFrQkVMM21SVW1tNnRPRFUwb19qcTVUOUN2bzZEamxodDZCMEZscGxXbDQ?oc=5)
+
+---
+
+### [Early Addition: It's past time for a flu shot](https://news.google.com/rss/articles/CBMiekFVX3lxTE04Sy1zck5IWDh5VndfMThmZXB6X19hM0VPTmZHaDVWMmpndjVJU3JlMk5tODlfRGo3ZjYyaF9vSmlXYVo3T1gteUhJY2kxTGgybVpjZEl0eVpISG43SW5QWmRGbXFCVDlGaUg3ZkEwdUxZRk9Ec3FtenBB?oc=5)
+
+2026-11-02
+
+Source: [Gothamist](https://news.google.com/rss/articles/CBMiekFVX3lxTE04Sy1zck5IWDh5VndfMThmZXB6X19hM0VPTmZHaDVWMmpndjVJU3JlMk5tODlfRGo3ZjYyaF9vSmlXYVo3T1gteUhJY2kxTGgybVpjZEl0eVpISG43SW5QWmRGbXFCVDlGaUg3ZkEwdUxZRk9Ec3FtenBB?oc=5)
 
 ---
 
@@ -49,19 +57,11 @@ Source: [NPR](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmFJUkxWeU5RM
 
 ---
 
-### [Aussie woman battling brain infection in Bali - Sky News Australia](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLXpGOUpnTUcxdmdodTdETEJKSXVLZ09EbTFoR0tucHJISks0dFk3VUcxazBSbl9JclJjeDNfcldoQUVUdWViZEpRM05uTnJENnk0VkppamtEV0Q5U01iVjV6SnRSY1gzemZEbmk1ZUZWZFIydWIwekx6a19oWmVKQVJwaUkwLWxsSWNKZXVvczkyVmpsc1VvTGZ3TkRhcHZpd1F5bUhfQUhldm5qR3haNERWbzJWeTVzVFBnRm9ZbjVQcnR3d1JTZS1HMnYtN3J4MHg1bGhrSUp3eHZMLVBLaWlQX1QtWW4xVzM4clJ3?oc=5)
+### [Aussie fitness influencer hospitalised in Bali after contracting deadly brain infection](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdDNkOUFlUVJOMWpSVVBfQWNNeW16cmo0cTdQc2pJUUtWdXM5SEowN0xxc3E2eEdWVWpKMk1oTzU2TkZNWGNJa0R3QWc0ME1kTWFhZTJSMFBRdWhDZHFieFpsWDFrTzdRX0pYU3JjdnRZWWxoRmJGaENkNEl6TEFsT3pXejQwUVBYTUxWai1LdnkxSFI1ei13ZGpwUDhham5VdmxuZWI4NF82LWYtcmxDNHNac0NraEl4aXRTanVSZjFzX2Z6MDI3OUstSVhrYjVYOElzZkpTT0VKZkJtNmt5cFFn?oc=5)
 
-2026-11-02
+2026-11-01
 
-Source: [Sky News Australia](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLXpGOUpnTUcxdmdodTdETEJKSXVLZ09EbTFoR0tucHJISks0dFk3VUcxazBSbl9JclJjeDNfcldoQUVUdWViZEpRM05uTnJENnk0VkppamtEV0Q5U01iVjV6SnRSY1gzemZEbmk1ZUZWZFIydWIwekx6a19oWmVKQVJwaUkwLWxsSWNKZXVvczkyVmpsc1VvTGZ3TkRhcHZpd1F5bUhfQUhldm5qR3haNERWbzJWeTVzVFBnRm9ZbjVQcnR3d1JTZS1HMnYtN3J4MHg1bGhrSUp3eHZMLVBLaWlQX1QtWW4xVzM4clJ3?oc=5)
-
----
-
-### [Flu Arrives Early in New York, With Cases Rising Rapidly in Children - The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSktWbUExNXluLXAwUkMzU3hDSTk3aGNqeERkZU9wamxTU3FRNi1GNEFMMHZFWGRRLTcwQ2NsazNfU3JpdlA0UFpoS3ZGQzFzSlN6djc5cFAwQWRNRE9ueU1qVVVrVi1icXNqR3NDcGNuV3VsUGtvdEpWZVJhM00?oc=5)
-
-2026-11-02
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSktWbUExNXluLXAwUkMzU3hDSTk3aGNqeERkZU9wamxTU3FRNi1GNEFMMHZFWGRRLTcwQ2NsazNfU3JpdlA0UFpoS3ZGQzFzSlN6djc5cFAwQWRNRE9ueU1qVVVrVi1icXNqR3NDcGNuV3VsUGtvdEpWZVJhM00?oc=5)
+Source: [Nine.com.au](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdDNkOUFlUVJOMWpSVVBfQWNNeW16cmo0cTdQc2pJUUtWdXM5SEowN0xxc3E2eEdWVWpKMk1oTzU2TkZNWGNJa0R3QWc0ME1kTWFhZTJSMFBRdWhDZHFieFpsWDFrTzdRX0pYU3JjdnRZWWxoRmJGaENkNEl6TEFsT3pXejQwUVBYTUxWai1LdnkxSFI1ei13ZGpwUDhham5VdmxuZWI4NF82LWYtcmxDNHNac0NraEl4aXRTanVSZjFzX2Z6MDI3OUstSVhrYjVYOElzZkpTT0VKZkJtNmt5cFFn?oc=5)
 
 ---
 

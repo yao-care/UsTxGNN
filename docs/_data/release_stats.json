@@ -1,0 +1,27 @@
+{
+  "_source": "README 用的預測統計，取自本 repo Release data-20261029-223708 的 data/processed/（integration_stats.json、drug_mapping.csv、repurposing_candidates.csv(.gz)、txgnn_dl_predictions.csv(.gz)；CSV 筆數＝行數扣表頭，同時有 .csv 與 .csv.gz 時用 .csv）。data/ 不進 git。由母 repo yao-care/txgnn 的 .claude/generate_readmes.py --refresh-release-stats 產生，勿手改。",
+  "release": "data-20261029-223708",
+  "integration": {
+    "total_predictions": 3749899,
+    "unique_drugs": 1666,
+    "unique_indications": 17041,
+    "unique_products": 2609,
+    "by_source": {
+      "DL": 3744193,
+      "KG + DL": 5006,
+      "KG": 700
+    },
+    "by_confidence": {
+      "low": 3202049,
+      "medium": 375710,
+      "high": 168225,
+      "very_high": 3915
+    }
+  },
+  "drug_mapping": {
+    "total": 104047,
+    "mapped": 91682
+  },
+  "kg_candidates": 5706,
+  "dl_predictions": 3749199
+}

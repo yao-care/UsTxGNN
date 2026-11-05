@@ -20,27 +20,28 @@ Drug repurposing predictions for United States FDA-approved drugs using the TxGN
 | Item | Count |
 |------|------|
 | **Drug Reports** | 954 |
-| **Total Predictions** | 168,043,848 |
-| **Unique Drugs** | 1,662 |
+| **Total Predictions** | 3,749,899 |
+| **Unique Drugs** | 1,666 |
 | **Unique Indications** | 17,041 |
 | **DDI Data** | 160,235 |
-| **FHIR Resources** | 944 MK / 5,706 CUD |
+| **FHIR Resources** | 1,172 MK / 6,341 CUD |
 
 ### Evidence Level Distribution
 
 | Evidence Level | Report Count | Description |
 |---------|-------|------|
-| **L1** | 0 | Multiple Phase 3 RCTs |
-| **L2** | 0 | Single RCT or multiple Phase 2 |
-| **L3** | 0 | Observational studies |
-| **L4** | 0 | Preclinical / mechanistic studies |
-| **L5** | 944 | Computational prediction only |
+| **L1** | 14 | Multiple Phase 3 RCTs |
+| **L2** | 38 | Single RCT or multiple Phase 2 |
+| **L3** | 32 | Observational studies |
+| **L4** | 59 | Preclinical / mechanistic studies |
+| **L5** | 778 | Computational prediction only |
+| **N/A** | 33 | Known uses only (no new prediction) |
 
 ### By Source
 
 | Source | Predictions |
 |------|------|
-| DL | 168,038,142 |
+| DL | 3,744,193 |
 | KG + DL | 5,006 |
 | KG | 700 |
 
@@ -49,9 +50,9 @@ Drug repurposing predictions for United States FDA-approved drugs using the TxGN
 | Confidence | Predictions |
 |------|------|
 | very_high | 3,915 |
-| high | 8,625,646 |
-| medium | 16,707,557 |
-| low | 142,706,730 |
+| high | 168,225 |
+| medium | 375,710 |
+| low | 3,202,049 |
 
 ---
 
@@ -71,7 +72,7 @@ uv run python scripts/run_kg_prediction.py
 | Metric | Value |
 |------|------|
 | FDA Total Drugs | 104,047 |
-| Mapped to DrugBank | 91,376 (87.8%) |
+| Mapped to DrugBank | 91,682 (88.1%) |
 | Repurposing Candidates | 5,706 |
 
 ### Deep Learning Method
@@ -83,8 +84,8 @@ PYTHONPATH=src python -m ustxgnn.predict.txgnn_model
 
 | Metric | Value |
 |------|------|
-| Total DL Predictions | 3,744,232 |
-| Unique Drugs | 1,662 |
+| Total DL Predictions | 3,749,199 |
+| Unique Drugs | 1,666 |
 | Unique Indications | 17,041 |
 
 ### Score Interpretation

@@ -132,11 +132,12 @@ https://ustxgnn.yao.care/smart/launch.html
 
 | Metric | Value |
 |:-------|------:|
-| Total FDA Drugs | 104,047 |
-| DrugBank Mappings | 1,667 |
+| Total FDA Drugs | {{ site.data.mapping_stats.display.fda_products }} |
+| DrugBank Mappings | {{ site.data.mapping_stats.display.drugbank_ids }} |
 | Disease Ontology | {{ site.data.kg_stats.display.diseases }} |
 | Drug-Disease Relations | {{ site.data.kg_stats.display.drug_disease_relations }} |
 
+Total FDA Drugs counts the products in the [FDA National Drug Code Directory](https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory) data used by this site; DrugBank Mappings counts the distinct DrugBank IDs their active ingredients were mapped to.
 Disease Ontology and Drug-Disease Relations are counted from the [TxGNN knowledge graph](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) (Harvard Dataverse): disease nodes, and indication and contraindication links between drugs and diseases.
 
 ## Citation

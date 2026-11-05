@@ -229,6 +229,10 @@ def main():
     candidates_df.to_csv(output_dir / "repurposing_candidates.csv.gz", index=False)
     print(f"   候選結果: {output_dir / 'repurposing_candidates.csv.gz'}")
 
+    # 首頁 Statistics 表的 FDA 藥品數、DrugBank 映射數由 docs/_data/mapping_stats.json 供應（2026-11-05）
+    import generate_mapping_stats
+    generate_mapping_stats.main()
+
     # 7. 統計報告
     print()
     print("=" * 60)

@@ -134,8 +134,10 @@ https://ustxgnn.yao.care/smart/launch.html
 |:-------|------:|
 | Total FDA Drugs | 104,047 |
 | DrugBank Mappings | 1,667 |
-| Disease Ontology | 17,081 |
-| Drug-Disease Relations | 80,127 |
+| Disease Ontology | {{ site.data.kg_stats.display.diseases }} |
+| Drug-Disease Relations | {{ site.data.kg_stats.display.drug_disease_relations }} |
+
+Disease Ontology and Drug-Disease Relations are counted from the [TxGNN knowledge graph](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) (Harvard Dataverse): disease nodes, and indication and contraindication links between drugs and diseases.
 
 ## Citation
 

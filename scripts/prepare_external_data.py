@@ -161,6 +161,10 @@ def main():
     relations.to_csv(relations_path, index=False)
     print(f"  藥物-疾病關係數: {len(relations)} -> {relations_path}")
 
+    # 首頁 Statistics 表的疾病數、關係數由 docs/_data/kg_stats.json 供應（2026-11-05）
+    import generate_kg_stats
+    generate_kg_stats.main()
+
     print()
     print("=" * 60)
     print("完成！")

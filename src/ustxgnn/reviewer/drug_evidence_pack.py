@@ -26,6 +26,7 @@ def _market_status(valid, lics, partial):
     if lics:
         return "Cancelled only" if not partial else "Unknown (partial list)"
     return "Not marketed"
+_APPL = re.compile(r"^(NDA|ANDA|BLA)\d{6}$")
 _CANCELLED = re.compile(r"註銷|撤銷|廢止|取消|cancel|withdraw|revok|suspen|expir|lapse|discontinu|retir|inactive|refus|annul|"
                         r"widerruf|zurückgez|ruhend|retirad|cancelad|caducad|revocad|retiré|abrog|revoca|sospes|ritirat|"
                         r"återkall|avregistr|tilbakekall|ingetrokken|vervallen|peruutet|lakkaut|ملغ|موقوف|inativ|archiv|^opinion|\|opinion", re.I)
@@ -109,6 +110,11 @@ class DrugEvidencePackGenerator:
         全部列出、不截斷。LLM 只能引用這些欄位，許可證表由同步時的程式化區塊取代。"""
         reg = cls._get_regulatory(bundle)
         recs = reg.get("records", [])
+        # 2026-11-05（用戶核准）：OTC monograph／未核准類別的 NDC 列名產品沒有 FDA 申請號，不是 FDA 核准，不算許可證，
+        # 另外計數（listed_total；依成分重建前的舊證據包以紀錄數計）；張數、有效／註銷只算 NDA／ANDA／BLA 申請號
+        listing = [r for r in recs if r.get("listing") or not _APPL.match(str(r.get("license_id") or "").strip())]
+        listed = int(reg["listed_total"]) if "listed_total" in reg else len(listing)
+        recs = [r for r in recs if r not in listing]
         seen, lics = set(), []
         for r in recs:
             lid = r.get("license_id") or r.get("許可證字號") or r.get("reg_no") or r.get("registration_number", "")  # NPRA 用 reg_no、ANVISA 用 registration_number
@@ -135,10 +141,15 @@ class DrugEvidencePackGenerator:
                 "status": status,
             })
         valid = [x for x in lics if x["status"] == "valid"]
-        partial = int(reg.get("total_matches") or 0) > len(recs)
+        # 依成分重建後的證據包收全部申請號（applications_total），只有列名產品截 20 筆，申請號不是部分紀錄
+        partial = (int(reg["applications_total"]) > len(lics)) if "applications_total" in reg else int(reg.get("total_matches") or 0) > len(recs) + len(listing)
+        ms = _market_status(valid, lics, partial)
+        if not valid and listed and ms != "Marketed":
+            ms = "Marketed"  # 沒有有效申請、但有 OTC monograph／未核准列名產品在市面上
         return {
             # 只存了部分許可證（total_matches 較多）且列出的都已註銷時，不能斷定全部註銷
-            "market_status": _market_status(valid, lics, partial),
+            "market_status": ms,
+            "listed_products": listed,
             # 2026-10-21：張數＝不重複許可證號（us 的紀錄是產品列，15 列只有 7 個核准號）；
             # total_matches 大於紀錄列數＝收集器只存了一部分，張數不可知（None），頁面不可寫「共 N 張」
             "total_licenses": len(lics) if not partial else f"≥{len(lics)}",  # 部分紀錄：寫「至少 N」（pm 2026-10-21 選 b）

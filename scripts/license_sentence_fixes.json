@@ -1,0 +1,318 @@
+{
+ "oxazepam": [
+  {
+   "sentence": "Oxazepam is marketed in the US, with all 3 authorizations valid, and safety label data are missing",
+   "cut": ", with all 3 authorizations valid",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；證據等級與研究定位的說法保留"
+  }
+ ],
+ "travoprost": [
+  {
+   "sentence": "All nine US licenses are valid, and topical ocular dosing gives little systemic exposure",
+   "cut": "All nine US licenses are valid, and ",
+   "capitalize": true,
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；眼用局部給藥全身暴露低的藥理說法保留"
+  }
+ ],
+ "bismuth_subsalicylate": [
+  {
+   "sentence": "Confirmation of current US regulatory status, given that the drug is marketed with three valid authorizations",
+   "cut": ", given that the drug is marketed with three valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；下一步項目本身保留"
+  }
+ ],
+ "busulfan": [
+  {
+   "sentence": "Clarification of the approved indications; all 9 of 9 US licenses are valid and the drug is marketed",
+   "cut": "; all 9 of 9 US licenses are valid and the drug is marketed",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；下一步項目本身保留"
+  }
+ ],
+ "daunorubicin": [
+  {
+   "sentence": "Clarification of the regulatory and supply situation, given that all 3 US licenses are valid and the drug is marketed",
+   "cut": ", given that all 3 US licenses are valid and the drug is marketed",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；下一步項目本身保留"
+  }
+ ],
+ "ethosuximide": [
+  {
+   "sentence": "Assessment of route compatibility and formulation availability, given that all seven US authorizations are valid",
+   "cut": ", given that all seven US authorizations are valid",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；下一步項目本身保留"
+  }
+ ],
+ "isoflurane": [
+  {
+   "sentence": "Clarification of the regulatory pathway, noting that all five US licenses are valid",
+   "cut": ", noting that all five US licenses are valid",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；下一步項目本身保留"
+  }
+ ],
+ "mepivacaine": [
+  {
+   "sentence": "Review of the regulatory status, given that all six licenses are valid and the drug is marketed",
+   "cut": ", given that all six licenses are valid and the drug is marketed",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；下一步項目本身保留"
+  }
+ ],
+ "miglustat": [
+  {
+   "sentence": "Clarification of the regulatory pathway, noting that all five US licenses are currently valid",
+   "cut": ", noting that all five US licenses are currently valid",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；下一步項目本身保留"
+  }
+ ],
+ "potassium_iodide": [
+  {
+   "sentence": "A regulatory pathway given that the drug is marketed in the US with four valid licenses",
+   "cut": " given that the drug is marketed in the US with four valid licenses",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；下一步項目本身保留"
+  }
+ ],
+ "ribavirin": [
+  {
+   "sentence": "Clarify the regulatory path, given that all 5 US authorizations are valid and the drug is marketed",
+   "cut": ", given that all 5 US authorizations are valid and the drug is marketed",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；下一步項目本身保留"
+  }
+ ],
+ "rifabutin": [
+  {
+   "sentence": "Both licences are valid, and the product is available as an oral capsule",
+   "cut": "Both licences are valid, and ",
+   "capitalize": true,
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；劑型說法保留"
+  }
+ ],
+ "enalaprilat": [
+  {
+   "sentence": "Both US authorizations for enalaprilat are valid, and the drug is marketed.",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；整句都是許可證張數／狀態說法，子句刪除會留下殘句，整句刪"
+  }
+ ],
+ "finasteride": [
+  {
+   "sentence": "All 10 licenses compiled for this report are valid; the table shows the first 5.",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；整句都是許可證張數／狀態說法，子句刪除會留下殘句，整句刪"
+  }
+ ],
+ "folic_acid": [
+  {
+   "sentence": "All eight US authorizations for folic acid are valid, and no approved indication text is recorded for them.",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；整句都是許可證張數／狀態說法，子句刪除會留下殘句，整句刪"
+  }
+ ],
+ "levocarnitine": [
+  {
+   "sentence": "Of the 11 licenses listed, all 11 are valid.",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；整句都是許可證張數／狀態說法，子句刪除會留下殘句，整句刪"
+  }
+ ],
+ "sodium_fluoride": [
+  {
+   "sentence": "All three US authorizations in the data are valid, and none carries approved indication text.",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；整句都是許可證張數／狀態說法，子句刪除會留下殘句，整句刪"
+  }
+ ],
+ "tizanidine": [
+  {
+   "sentence": "all 9 licence records in the data compiled for this report are currently valid",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；整句都是許可證張數／狀態說法，子句刪除會留下殘句，整句刪"
+  }
+ ],
+ "trihexyphenidyl": [
+  {
+   "sentence": "All six US authorizations (ANDAs) are valid.",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；整句都是許可證張數／狀態說法，子句刪除會留下殘句，整句刪"
+  }
+ ],
+ "bumetanide": [
+  {
+   "sentence": "The local data list 11 US records, all currently valid, and the list may be partial.",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；整句都是許可證張數／狀態說法，子句刪除會留下殘句，整句刪"
+  }
+ ],
+ "haloperidol": [
+  {
+   "sentence": "All 10 US authorizations are generic applications (ANDAs) and are valid.",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；整句都是許可證張數／狀態說法，子句刪除會留下殘句，整句刪"
+  }
+ ],
+ "isosorbide_dinitrate": [
+  {
+   "sentence": "Eight records are listed, all single-ingredient oral tablets with valid status.",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；整句都是許可證張數／狀態說法，子句刪除會留下殘句，整句刪"
+  }
+ ],
+ "perphenazine": [
+  {
+   "sentence": "All 7 US authorizations are generic (ANDA) tablet products and all are valid.",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；整句都是許可證張數／狀態說法，子句刪除會留下殘句，整句刪"
+  }
+ ],
+ "pitavastatin": [
+  {
+   "sentence": "The compiled records list 9 authorizations for single-ingredient pitavastatin tablets, all currently valid.",
+   "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；整句都是許可證張數／狀態說法，子句刪除會留下殘句，整句刪"
+  }
+ ],
+ "tolcapone": [
+  {
+   "sentence": "Neither is currently valid.",
+   "keep": true,
+   "reason": "checker 誤判（M3a）：句子說前句兩張許可都已失效，與事實（Drugs@FDA 5 個申請號全部停產）一致，不刪"
+  }
+ ],
+ "abacavir_sulfate_lamivudine": [
+  {
+   "sentence": "due to a failed DrugBank ID mapping and the absence of Taiwan TFDA registration data",
+   "cut": " and the absence of Taiwan TFDA registration data",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  }
+ ],
+ "acetaldehyde_berberis_vulgaris_root_bark_caffeine_": [
+  {
+   "sentence": "TFDA package inserts and DrugBank pharmacology data should be retrieved",
+   "cut": "TFDA package inserts and ",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  }
+ ],
+ "acetaminophen_dextromethorphan_hydrobromide_guaife": [
+  {
+   "sentence": "Due to the absence of predictions, Taiwan regulatory data, and safety records",
+   "cut": ", Taiwan regulatory data,",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  },
+  {
+   "sentence": "zero predictions were generated, and Taiwan regulatory and safety records are both absent",
+   "cut": [
+    "Taiwan regulatory and ",
+    " both"
+   ],
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  }
+ ],
+ "aconitum_napellus_whole_bryonia_alba_root_gelsemiu": [
+  {
+   "sentence": "This compound is not registered with the US FDA or Taiwan TFDA.",
+   "cut": " or Taiwan TFDA",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  }
+ ],
+ "actaea_spicata_root_aloe_copper_cupric_arsenite_fr": [
+  {
+   "sentence": "TFDA package insert or equivalent regulatory safety data must be obtained",
+   "cut": "TFDA package insert or equivalent ",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  }
+ ],
+ "activated_charcoal_aesculus_hippocastanum_flower_a": [
+  {
+   "sentence": "Obtain Taiwan TFDA package insert data (DG001)",
+   "cut": "Taiwan TFDA ",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  }
+ ],
+ "activated_charcoal_alfalfa_antimony_trisulfide_ave": [
+  {
+   "sentence": "A TFDA query returned 0 results and DDI lookup was not found",
+   "cut": "A TFDA query returned 0 results and ",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  }
+ ],
+ "activated_charcoal_anamirta_cocculus_seed_arbutus_": [
+  {
+   "sentence": "**TFDA package insert**: Retrieve warning and contraindication text",
+   "cut": "TFDA ",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容",
+   "capitalize": true
+  }
+ ],
+ "activated_charcoal_arnica_montana_root_gold_trichl": [
+  {
+   "sentence": "Retrieve the TFDA package insert (if any historical registration exists)",
+   "cut": "TFDA ",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  }
+ ],
+ "activated_charcoal_arnica_montana_whole_arsenic_tr": [
+  {
+   "sentence": "TFDA package insert warnings and contraindications (DG001) are blocking",
+   "cut": "TFDA ",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  }
+ ],
+ "activated_charcoal_arsenic_triiodide_arsenic_triox": [
+  {
+   "sentence": "Formal safety profiling via DrugBank API, TFDA package insert review, and DDI screening",
+   "cut": "TFDA ",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  },
+  {
+   "sentence": "Complete TFDA package insert review (if any component is registered)",
+   "cut": "TFDA ",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  }
+ ],
+ "alpha_-tocopherol_acetate_dl-_5-methyltetrahydrofo": [
+  {
+   "sentence": "because no DrugBank ID was resolved and no Taiwan regulatory baseline exists",
+   "cut": " and no Taiwan regulatory baseline exists",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  }
+ ],
+ "aluminum_sulfate_tetradecahydrate_calcium_acetate_": [
+  {
+   "sentence": "TxGNN produced no predicted indications, there is no Taiwan regulatory approval history, and both MOA",
+   "cut": " there is no Taiwan regulatory approval history,",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  }
+ ],
+ "anas_platyrhynchos_feather_anemone_pulsatilla_anse": [
+  {
+   "sentence": "The TFDA query returned 0 records, and no matching NDA/ANDA/BLA was identified.",
+   "cut": "The TFDA query returned 0 records, and ",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容",
+   "capitalize": true
+  }
+ ],
+ "anas_platyrhynchos_feather_anser_anser_feather_bos": [
+  {
+   "sentence": "Download the TFDA package insert PDF to extract",
+   "cut": "TFDA ",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  }
+ ],
+ "arnica_montana_whole_arsenic_trioxide_avena_sativa": [
+  {
+   "sentence": "No US (NDA) or Taiwan regulatory authorizations on file for this product.",
+   "cut": " or Taiwan",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  },
+  {
+   "sentence": "There is no Taiwan regulatory record, no original indication, and no evidence foundation",
+   "cut": " Taiwan regulatory record, no",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  },
+  {
+   "sentence": "Clarify the product's legal classification under Taiwan TFDA and US FDA frameworks",
+   "cut": "Taiwan TFDA and ",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）說法，與本站無關；只刪台灣部分，保留其餘內容"
+  }
+ ],
+ "acetaminophen_caffeine": [
+  {
+   "sentence": "The TFDA query returned 0 results (query ID 1, 2026-03-24).",
+   "cut": " The TFDA query returned 0 results (query ID 1, 2026-03-24).",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）查詢說法，與本站無關；前半句（美國查無核准申請，與事實一致）保留"
+  }
+ ],
+ "activated_charcoal_apple_atlantic_cod_atlantic_sal": [
+  {
+   "sentence": "No regulatory licenses were found in the US database for this entry (TFDA query returned 0 results, total_licenses = 0).",
+   "cut": " (TFDA query returned 0 results, total_licenses = 0)",
+   "reason": "TwTxGNN 模板殘留的台灣（TFDA）查詢說法，與本站無關；前半句（美國查無核准申請，與事實一致）保留"
+  }
+ ]
+}

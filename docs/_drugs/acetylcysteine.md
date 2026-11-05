@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "ACETYLCYSTEINE"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Acetylcysteine: predicted new indication thrombotic disease (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ Most of this work concerns specific subtypes (thrombotic thrombocytopenic purpur
 | Predicted New Indication | thrombotic disease |
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of FDA Applications | at least 14 |
+| US Market Status | Marketed (active FDA-approved applications: 18 of 34; OTC monograph / unapproved listings: 2) |
+| Number of FDA Applications | 34 (active: 18) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

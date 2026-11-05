@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ This report cannot advance to a standard repurposing evaluation without foundati
 | Predicted New Indication | No prediction available |
 | TxGNN Prediction Score | — |
 | Evidence Level | L5 (no predictions returned) |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 20) |
+| Number of FDA Applications | 0 |
 | Number of Approvals | 0 |
 | Recommended Decision | Hold |
 

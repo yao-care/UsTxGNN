@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 840
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "LATANOPROSTENE BUNOD"
 predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "idiopathic spontaneous coronary artery dissection", "angiodysplasia of stomach", "lymphangiectasis", "hemangioendothelioma"]
 description: "Latanoprostene Bunod: predicted new indication Visceral calciphylaxis (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ The prediction rests on model output alone.
 | Predicted New Indication | Visceral calciphylaxis |
 | TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 2) |
+| Number of FDA Applications | 2 (active: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

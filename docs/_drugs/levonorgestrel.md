@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 857
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Levonorgestrel: predicted new indication Acne (disease) (evidence level L3). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **Acne (disease)**. **No clinic
 | Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (valid licenses on record: at least 13) |
-| Number of FDA Applications | at least 13 |
+| US Market Status | Marketed (active FDA-approved applications: 78 of 111) |
+| Number of FDA Applications | 111 (active: 78) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

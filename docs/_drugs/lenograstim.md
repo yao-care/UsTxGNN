@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "LENOGRASTIM"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Lenograstim: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but **no clinical trials and no publications** currently support this direction,
 | Predicted New Indication | Primary release disorder of platelets |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 4) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1148
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Secnidazole: predicted new indication Postmenopausal atrophic vaginitis (evidence level L5). Approved use: Bacterial vaginosis, trichomoniasis, giardiasis, vaginitis, vulvitis…"
 monitor_inn: "SECNIDAZOLE"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vaginal discharge", "vulvar neoplasm", "leukoplakia of vagina", "vulvovaginal candidiasis"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **postmenopausal atrophic vagin
 | Predicted New Indication | Postmenopausal atrophic vaginitis |
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

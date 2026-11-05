@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 456
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Bexarotene: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L5). Approved use: Primary cutaneous T-cell lymphoma (including primary cutaneous T-cell…"
 monitor_inn: "BEXAROTENE"
 predicted_indications: ["primary cutaneous B-cell lymphoma", "lymphosarcoma"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **primary cutaneous B-cell lymp
 | Predicted New Indication | Primary cutaneous B-cell lymphoma |
 | TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 (model prediction only, no direct studies) |
-| US Market Status | Marketed (valid licenses: 9 of 9) |
-| Number of FDA Applications | 9 (valid: 9) |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 11) |
+| Number of FDA Applications | 11 (active: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -90,7 +90,7 @@ None of these publications reports bexarotene efficacy in B-cell lymphoma.
 | ANDA215398 | Bexarotene (Amneal) | Gel | Not listed in the license record |
 | ANDA209886 | Bexarotene (Upsher-Smith) | Capsule | Not listed in the license record |
 
-All 9 authorizations (2 NDAs and 7 ANDAs) are valid, and the drug is marketed. Bexarotene exists in both oral (capsule) and topical (gel) forms.
+Bexarotene exists in both oral (capsule) and topical (gel) forms.
 
 ## Cytotoxicity
 
@@ -118,7 +118,7 @@ For the full list of warnings, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score is not backed by any trial or B-cell-specific study. The literature mentions bexarotene only for T-cell disease, and the RXR mechanism cannot be assumed to apply to B-cell lymphoma. All 9 US authorizations are valid, and the drug is marketed. The same data show that Sézary syndrome (a T-cell variant) has far stronger bexarotene evidence, including a terminated Phase 3 trial. That is an extension of the existing T-cell indication and not a true repurposing case.
+The high TxGNN score is not backed by any trial or B-cell-specific study. The literature mentions bexarotene only for T-cell disease, and the RXR mechanism cannot be assumed to apply to B-cell lymphoma. The same data show that Sézary syndrome (a T-cell variant) has far stronger bexarotene evidence, including a terminated Phase 3 trial. That is an extension of the existing T-cell indication and not a true repurposing case.
 
 **To proceed, the following is needed:**
 - B-cell-specific preclinical data showing RXR pathway dependence or in vitro activity in cutaneous B-cell lymphoma models

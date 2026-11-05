@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DEXRAZOXANE"
 predicted_indications: ["sclerosing cholangitis", "bronchitis", "paratyphoid fever", "conjunctivitis", "epiglottitis", "peritonitis", "laryngitis", "urinary tract infection (disease)", "pyelonephritis", "cystitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Dexrazoxane: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **Sclerosing Cholangitis**, but
 | Predicted New Indication | Sclerosing cholangitis |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 6) |
+| Number of FDA Applications | 6 (active: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

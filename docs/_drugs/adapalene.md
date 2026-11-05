@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ADAPALENE"
 predicted_indications: ["zinc, elevated plasma"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Adapalene: predicted new indication zinc, elevated plasma (evidence level L5). Approved use: Acne"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **elevated plasma zinc**, but t
 | Predicted New Indication | Elevated plasma zinc |
 | TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | at least 9 |
+| US Market Status | Marketed (active FDA-approved applications: 27 of 31; OTC monograph / unapproved listings: 3) |
+| Number of FDA Applications | 31 (active: 27) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

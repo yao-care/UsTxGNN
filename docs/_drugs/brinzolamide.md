@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 469
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Brinzolamide: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN model's candidates for Brinzolamide (score ≥ 0.99) are all known use
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| US Market Status | Marketed (valid licenses: 3 of 4) |
-| Number of FDA Applications | 4 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 5) |
+| Number of FDA Applications | 5 (active: 4) |
 
 ## Known uses among the model's candidates
 

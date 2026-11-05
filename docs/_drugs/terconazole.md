@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1213
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "TERCONAZOLE"
 predicted_indications: ["trichomonal vulvovaginitis", "vulvitis", "postmenopausal atrophic vaginitis", "herpetic vulvovaginitis", "ulceration of vulva", "vulvar neoplasm", "vaginal discharge", "bacterial vaginosis"]
 description: "Terconazole: predicted new indication Trichomonal vulvovaginitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be useful for **trichomonal vulvovaginitis**, bu
 | Predicted New Indication | Trichomonal vulvovaginitis |
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of FDA Applications | 6 (valid: 6) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 10) |
+| Number of FDA Applications | 10 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -80,8 +80,6 @@ Currently no related clinical trials are registered for this predicted indicatio
 | ANDA076043 | Terconazole (A-S Medication Solutions) | Cream | Valid |
 | ANDA076712 | Terconazole (A-S Medication Solutions) | Cream | Valid |
 | NDA021735 | Terconazole (A-S Medication Solutions) | Cream | Valid |
-
-All six authorizations in the local data are currently valid. This table lists the first five; the sixth is ANDA077149 (suppository).
 
 ## Safety Considerations
 

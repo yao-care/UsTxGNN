@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1062
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Polymyxin B: predicted new indication Bronchitis (evidence level L4). Approved use: Not available in the data compiled for this report"
 monitor_inn: "POLYMYXIN B"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **bronchitis** (score 0.9987), 
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses: 4 of 5) |
-| Number of FDA Applications | 5 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 32 of 97; OTC monograph / unapproved listings: 269) |
+| Number of FDA Applications | 97 (active: 32) |
 | Recommended Decision | Hold |
 
 ---

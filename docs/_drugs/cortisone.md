@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "CORTISONE"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "myelodysplastic syndrome", "lymphosarcoma", "candidiasis", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Cortisone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ Cortisone is a corticosteroid that the body converts into its active form, corti
 | Predicted New Indication | Primary cutaneous T-cell lymphoma |
 | TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses: 1 of 2) |
-| Number of FDA Applications | 2 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 0 of 20; OTC monograph / unapproved listings: 47) |
+| Number of FDA Applications | 20 (active: 0) |
 | Recommended Decision | Hold |
 
 ---
@@ -97,7 +97,7 @@ All of these are old, small, descriptive reports with no controlled comparison. 
 | Not recorded | Cortisone aceticum (Boiron) | Pellet | Not recorded in the local data |
 | ANDA080694 | Cortisone Acetate (Chartwell RX, LLC) | Tablet | Not recorded in the local data |
 
-Cortisone is marketed in the US. One record is currently valid (the pellet product) and one is cancelled (the tablet product).
+Cortisone is marketed in the US.
 
 ---
 

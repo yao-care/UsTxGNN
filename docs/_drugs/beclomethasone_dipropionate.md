@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "BECLOMETHASONE DIPROPIONATE"
 predicted_indications: ["atopic eczema"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Beclomethasone Dipropionate: predicted new indication Atopic eczema (evidence level L3). Approved use: Asthma, allergic rhinitis"
 ---
 
@@ -50,8 +50,8 @@ but currently there are **0 registered clinical trials** and only **9 publicatio
 | Predicted New Indication | Atopic eczema |
 | TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 14) |
+| Number of FDA Applications | 14 (active: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -88,7 +88,7 @@ Currently no related clinical trials registered.
 | ANDA213811 | Beclomethasone Dipropionate (Amneal) | Metered aerosol | Not specified (valid) |
 | NDA202813 | QNASL (Teva Respiratory) | Metered aerosol | Not specified (valid) |
 
-All three authorizations are valid, and all are inhaled or intranasal aerosol products. No topical dermatological formulation is listed.
+No topical dermatological formulation is listed.
 
 ## Safety Considerations
 
@@ -103,7 +103,7 @@ Please refer to the package insert for label warnings, which were not available 
 **Decision: Hold**
 
 **Rationale:**
-The high model score is not backed by modern clinical evidence: there are no registered trials, and the literature consists of small, older studies, reviews, and safety reports, some pointing to adrenal and growth concerns. Many approved topical corticosteroids already treat atopic eczema, and the drug is marketed in the US with all 3 authorizations valid, but none is a dermatological product.
+The high model score is not backed by modern clinical evidence: there are no registered trials, and the literature consists of small, older studies, reviews, and safety reports, some pointing to adrenal and growth concerns. Many approved topical corticosteroids already treat atopic eczema, but none is a dermatological product.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

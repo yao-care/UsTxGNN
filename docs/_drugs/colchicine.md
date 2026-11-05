@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "COLCHICINE"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Colchicine: predicted new indication Plasmodium falciparum malaria (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Colchicine is a microtubule-disrupting agent that is marketed in the United Stat
 | Predicted New Indication | Plasmodium falciparum malaria |
 | TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of FDA Applications | at least 11 |
+| US Market Status | Marketed (active FDA-approved applications: 25 of 34) |
+| Number of FDA Applications | 34 (active: 25) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

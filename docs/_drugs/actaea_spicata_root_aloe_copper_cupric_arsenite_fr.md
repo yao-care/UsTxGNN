@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ As a result, **no evidence-based repurposing evaluation can be completed at this
 | Predicted New Indication | None (TxGNN returned no predictions) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only; in this case, no prediction was generated |
-| US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of FDA Applications | at least 6 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---
@@ -90,7 +90,7 @@ This candidate cannot be evaluated for repurposing because the TxGNN pipeline re
 - **Confirm product category**: Verify whether this product is registered as a homeopathic medicine, dietary supplement, or conventional drug in any jurisdiction—this determines which regulatory pathway and evidence standard applies
 - **Resolve DrugBank mapping**: At minimum, Aloe vera, Zinc, or Copper may have individual DrugBank entries that could be queried separately
 - **Clarify clinical intent**: Determine which ingredient (if any) is the therapeutic target for the new indication being explored
-- **Obtain safety documentation**: Cupric arsenite is an arsenic-containing compound; TFDA package insert or equivalent regulatory safety data must be obtained before any clinical evaluation proceeds
+- **Obtain safety documentation**: Cupric arsenite is an arsenic-containing compound; regulatory safety data must be obtained before any clinical evaluation proceeds
 - **Re-submit as individual APIs**: Once decomposed, each mappable ingredient should be run through the TxGNN pipeline independently
 
 > ⚠️ **Note**: Cupric arsenite (copper(II) arsenite) contains inorganic arsenic. Any downstream clinical repurposing study involving this ingredient will require enhanced toxicological review and regulatory pre-consultation regardless of TxGNN prediction outcomes.

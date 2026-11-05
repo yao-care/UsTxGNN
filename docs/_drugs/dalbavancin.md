@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DALBAVANCIN"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "otitis externa", "ophthalmic herpes zoster", "infectious mononucleosis", "orbital cellulitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Dalbavancin: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but currently **0 clinical trials** and **0 publications** support this directio
 | Predicted New Indication | Postinfectious vasculitis |
 | TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of FDA Applications | 4 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 6) |
+| Number of FDA Applications | 6 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

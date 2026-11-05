@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "DAUNORUBICIN"
 predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Daunorubicin: predicted new indication Hodgkins lymphoma (evidence level L3). Approved use: Acute lymphoblastic leukemia and acute myeloid leukemia (and related…"
 ---
 
@@ -52,8 +52,8 @@ but support is limited to **2 Phase 2 combination-chemotherapy trials** and **li
 | Predicted New Indication | Hodgkin's lymphoma |
 | TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 12) |
+| Number of FDA Applications | 12 (active: 6) |
 | Recommended Decision | Hold |
 
 ---
@@ -101,8 +101,6 @@ Note: none of the retrieved studies directly evaluates daunorubicin in Hodgkin's
 | ANDA208759 | Daunorubicin Hydrochloride (Hisun) | Injection, solution | Not available (valid) |
 | ANDA065035 | Daunorubicin Hydrochloride (Meitheal) | Injection, solution | Not available (valid) |
 
-All three authorizations are valid, so valid single-agent or combination licenses are currently listed.
-
 ---
 
 ## Cytotoxicity
@@ -140,7 +138,7 @@ The evidence is only Phase 2 combination protocols and non-Hodgkin lymphoma or l
 - Detailed mechanism-of-action data
 - Direct clinical evidence for daunorubicin in Hodgkin's lymphoma, and a rationale for choosing it over doxorubicin
 - A cardiotoxicity and cumulative-dose risk assessment
-- Clarification of the regulatory and supply situation, given that all 3 US licenses are valid and the drug is marketed
+- Clarification of the regulatory and supply situation
 
 ---
 

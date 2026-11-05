@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CHLOROPROCAINE"
 predicted_indications: ["cauda equina syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Chloroprocaine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not stated in the available data (used as a local anesthetic)"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **cauda equina syndrome**, but 
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 0.9901 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 6) |
+| Number of FDA Applications | 6 (active: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -98,7 +98,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5). The available literature describes cauda equina syndrome as a complication of spinal and epidural local anesthetics, not as a condition they treat, and no therapeutic mechanism is plausible. All three US authorizations are valid, and the drug is marketed.
+The prediction rests on model output alone (L5). The available literature describes cauda equina syndrome as a complication of spinal and epidural local anesthetics, not as a condition they treat, and no therapeutic mechanism is plausible.
 
 **To proceed, the following is needed:**
 - Confirmation that the model signal reflects an adverse (causative) association, and reclassification of the finding as a safety signal rather than a repurposing candidate

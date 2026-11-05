@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "FAMCICLOVIR"
 predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Famciclovir: predicted new indication Post-infectious neuralgia (evidence level L4). Approved use: Herpes zoster"
 ---
 
@@ -52,8 +52,8 @@ Evidence is therefore limited to model prediction and indirect mechanistic reaso
 | Predicted New Indication | Post-infectious neuralgia |
 | TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of FDA Applications | at least 4 |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 9) |
+| Number of FDA Applications | 9 (active: 4) |
 | Recommended Decision | Hold |
 
 ---

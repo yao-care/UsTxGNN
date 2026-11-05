@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ENFORTUMAB VEDOTIN"
 predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "malignant catarrh", "infectious bovine rhinotracheitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Enfortumab Vedotin: predicted new indication Leprosy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **leprosy**, but there are **0 
 | Predicted New Indication | Leprosy |
 | TxGNN Prediction Score | 0.9953 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

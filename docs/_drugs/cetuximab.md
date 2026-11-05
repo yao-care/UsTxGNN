@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CETUXIMAB"
 predicted_indications: ["chondroid hamartoma", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "non-seminomatous lesion", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "cystic neoplasm", "epiglottis neoplasm", "pre-malignant neoplasm"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Cetuximab: predicted new indication Top-ranked prediction: chondroid hamartoma . Best-evidenced candidate… (evidence level L5). Approved use: Colorectal cancer and squamous cell carcinoma (colon, pha…"
 ---
 
@@ -51,8 +51,8 @@ The TxGNN model's top-ranked predictions are mostly unsupported, so this report 
 | Predicted New Indication | Top-ranked prediction: chondroid hamartoma (no supporting evidence). Best-evidenced candidates: pre-malignant neoplasm and cystic neoplasm |
 | TxGNN Prediction Score | 0.9995 (top prediction, chondroid hamartoma); 0.9995 (pre-malignant neoplasm) |
 | Evidence Level | L5 for the top-ranked prediction; L2 for pre-malignant neoplasm and cystic neoplasm |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold (overall); pre-malignant neoplasm and cystic neoplasm are worth a research question |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ETHAMBUTOL"
 predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Ethambutol: predicted new indication Epiglottitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ The evidence indicates that this is a tuberculosis-related manifestation, not a 
 | Predicted New Indication | Epiglottitis |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 4) |
+| Number of FDA Applications | 4 (active: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1278
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Ustekinumab: predicted new indication Dermatitis (evidence level L2). Approved use: Psoriatic arthritis, psoriasis, parapsoriasis"
 monitor_inn: "USTEKINUMAB"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
@@ -50,8 +50,8 @@ Currently **6 clinical trials** (3 directly relevant) and **20 publications** ar
 | Predicted New Indication | Dermatitis |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of FDA Applications | at least 11 |
+| US Market Status | Marketed (active FDA-approved applications: 12 of 12) |
+| Number of FDA Applications | 12 (active: 12) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

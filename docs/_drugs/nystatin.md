@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 978
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "NYSTATIN"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
 description: "Nystatin: predicted new indication Disease of orbital region (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ The data compiled for this report contain **1 registered clinical trial** (which
 | Predicted New Indication | Disease of orbital region |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of FDA Applications | at least 12 |
+| US Market Status | Marketed (active FDA-approved applications: 51 of 124) |
+| Number of FDA Applications | 124 (active: 51) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

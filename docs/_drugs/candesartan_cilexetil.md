@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CANDESARTAN CILEXETIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Candesartan Cilexetil: predicted new indication malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Candesartan cilexetil is an angiotensin II type 1 receptor blocker. The TxGNN mo
 | Predicted New Indication | malignant hypertensive renal disease |
 | TxGNN Prediction Score | 0.9968 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of FDA Applications | at least 6 |
+| US Market Status | Marketed (active FDA-approved applications: 13 of 15) |
+| Number of FDA Applications | 15 (active: 13) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

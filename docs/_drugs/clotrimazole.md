@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 543
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "CLOTRIMAZOLE"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
 description: "Clotrimazole: predicted new indication Acne (disease) (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ Clotrimazole is a topical azole antifungal marketed in the United States as crea
 | Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of FDA Applications | at least 4 |
+| US Market Status | Marketed (active FDA-approved applications: 24 of 43; OTC monograph / unapproved listings: 158) |
+| Number of FDA Applications | 43 (active: 24) |
 | Recommended Decision | Hold |
 
 ---
@@ -89,7 +89,7 @@ Currently no related literature available.
 | ANDA072640 | Clotrimazole | Cream | Sun Pharmaceutical Industries, Inc. | Valid |
 | ANDA078338 | Clotrimazole | Cream | E. Fougera & Co. (Fougera Pharmaceuticals Inc.) | Valid |
 
-All 4 listed licences are valid. The list may be partial.
+The list may be partial.
 
 ---
 

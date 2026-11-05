@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TRIFLUOPERAZINE"
 predicted_indications: ["manic bipolar affective disorder"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Trifluoperazine: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but currently there are **0 registered clinical trials** and only **a small set 
 | Predicted New Indication | Manic bipolar affective disorder |
 | TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of FDA Applications | 5 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 22) |
+| Number of FDA Applications | 22 (active: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

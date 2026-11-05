@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "RIVASTIGMINE"
 predicted_indications: ["glaucoma"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Rivastigmine: predicted new indication Glaucoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but currently there are **0 registered clinical trials** and only **3 publicatio
 | Predicted New Indication | Glaucoma |
 | TxGNN Prediction Score | 0.9927 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of FDA Applications | at least 9 |
+| US Market Status | Marketed (active FDA-approved applications: 14 of 19) |
+| Number of FDA Applications | 19 (active: 14) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

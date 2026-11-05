@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ISOSORBIDE DINITRATE"
 predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "diffuse alopecia areata", "vascular disease", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "visceral calciphylaxis", "venous thoracic outlet syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Isosorbide Dinitrate: predicted new indication Alopecia (evidence level L5). Approved use: Not stated in the licence records compiled for this report"
 ---
 
@@ -50,8 +50,8 @@ The prediction comes from the TxGNN model (deep learning) and may reflect simila
 | Predicted New Indication | Alopecia |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of FDA Applications | at least 8 |
+| US Market Status | Marketed (active FDA-approved applications: 17 of 46) |
+| Number of FDA Applications | 46 (active: 17) |
 | Number of approvals | At least 8 (7 ANDAs, 1 NDA); the list may be partial |
 | Recommended Decision | Hold |
 
@@ -71,7 +71,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The licence records contain no approved-indication text. Eight records are listed, all single-ingredient oral tablets with valid status. The first five are shown below.
+The licence records contain no approved-indication text. The first five are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|

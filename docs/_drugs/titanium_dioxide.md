@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TITANIUM DIOXIDE"
 predicted_indications: ["drug-induced osteoporosis", "diabetic retinopathy", "diabetic cataract", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "mature cataract", "tetanic cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "cortical cataract"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Titanium Dioxide: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: No approved indication text recorded (products are a sunscreen lotion…"
 ---
 
@@ -52,8 +52,8 @@ However, there are **0 clinical trials** and **0 relevant publications** support
 | Predicted New Indication | Drug-induced osteoporosis |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 2) |
-| Number of FDA Applications | at least 2 |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 2; OTC monograph / unapproved listings: 2467) |
+| Number of FDA Applications | 2 (active: 2) |
 | Recommended Decision | Hold |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MARGETUXIMAB"
 predicted_indications: ["drug-induced osteoporosis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Margetuximab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be relevant to **drug-induced osteoporosis**, bu
 | Predicted New Indication | Drug-induced osteoporosis |
 | TxGNN Prediction Score | 0.9929 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1095
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "PROPYLTHIOURACIL"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
 description: "Propylthiouracil: predicted new indication Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (evidence level L4). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ The prediction comes from the TxGNN model (deep learning) and is not supported b
 | Predicted New Indication | Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta |
 | TxGNN Prediction Score | 0.9966 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses: 4 of 5) |
-| Number of FDA Applications | 5 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 16) |
+| Number of FDA Applications | 16 (active: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -103,7 +103,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but there are no clinical trials and the literature consists only of case descriptions and mouse models, none testing PTU as therapy. The mechanism points the wrong way: reducing thyroid hormone in patients whose tissues already respond poorly to it may cause harm. All 5 US authorizations are valid, and the drug is marketed.
+The prediction score is very high, but there are no clinical trials and the literature consists only of case descriptions and mouse models, none testing PTU as therapy. The mechanism points the wrong way: reducing thyroid hormone in patients whose tissues already respond poorly to it may cause harm.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking data gap)

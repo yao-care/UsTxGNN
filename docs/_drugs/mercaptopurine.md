@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 901
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "MERCAPTOPURINE"
 predicted_indications: ["myeloid leukemia", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
 description: "Mercaptopurine: predicted new indication Myeloid leukemia (evidence level L3). Approved use: Not recorded in the local data"
@@ -48,8 +48,8 @@ Mercaptopurine is a purine antimetabolite used in leukemia chemotherapy. The TxG
 | Predicted New Indication | Myeloid leukemia |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of FDA Applications | 4 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 6) |
+| Number of FDA Applications | 6 (active: 5) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

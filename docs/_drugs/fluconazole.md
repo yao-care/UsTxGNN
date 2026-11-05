@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FLUCONAZOLE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Fluconazole: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Oral candidiasis, candidiasis, vulvovaginal candidiasis…"
 ---
 
@@ -50,8 +50,8 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 0.9924 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | at least 10 |
+| US Market Status | Marketed (active FDA-approved applications: 21 of 46) |
+| Number of FDA Applications | 46 (active: 21) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

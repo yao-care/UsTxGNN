@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "OXAZEPAM"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Oxazepam: predicted new indication Insomnia (evidence level L3). Approved use: Alcohol withdrawal delirium"
 ---
 
@@ -50,8 +50,8 @@ but there are currently **0 registered clinical trials** and only **2 directly r
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 23) |
+| Number of FDA Applications | 23 (active: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -104,7 +104,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible, but direct evidence is limited to one small 1984 comparative study (14 patients) and one trial in a cardiac population where sleep was a secondary outcome. No clinical trials are registered. Oxazepam is marketed in the US, with all 3 authorizations valid, and safety label data are missing, so the evidence level is L3 and the candidate is best treated as a research question.
+The prediction is mechanistically plausible, but direct evidence is limited to one small 1984 comparative study (14 patients) and one trial in a cardiac population where sleep was a secondary outcome. No clinical trials are registered. Oxazepam is marketed in the US, and safety label data are missing, so the evidence level is L3 and the candidate is best treated as a research question.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

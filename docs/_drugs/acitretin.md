@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "ACITRETIN"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Acitretin: predicted new indication Acne (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -52,8 +52,8 @@ Because just one case report directly describes acitretin in nodulocystic acne, 
 | Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of FDA Applications | at least 6 |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 8) |
+| Number of FDA Applications | 8 (active: 6) |
 | Recommended Decision | Hold |
 
 ---
@@ -101,7 +101,7 @@ The strongest signals in the retrieved data concern hidradenitis suppurativa (al
 | ANDA217774 | Acitretin (Alembic) | Capsule | Not recorded |
 | ANDA091455 | Acitretin (Teva) | Capsule | Not recorded |
 
-At least 6 licences are recorded, all currently valid, and the list may be partial.
+At least 6 licences are recorded, the list may be partial.
 
 ---
 

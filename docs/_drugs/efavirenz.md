@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EFAVIRENZ"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Efavirenz: predicted new indication Feline acquired immunodeficiency syndrome (a veterinary indication) (evidence level L4). Approved use: HIV infectious disease"
 ---
 
@@ -50,8 +50,8 @@ but currently only **0 clinical trials** and **1 publication** (a preclinical bi
 | Predicted New Indication | Feline acquired immunodeficiency syndrome (a veterinary indication) |
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 14 of 14) |
-| Number of FDA Applications | 14 (valid: 14) |
+| US Market Status | Marketed (active FDA-approved applications: 15 of 26) |
+| Number of FDA Applications | 26 (active: 15) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -89,8 +89,6 @@ For the second prediction (SIV infection), the most relevant publications are RT
 
 ## US Market Information
 
-All 14 US licenses are valid; the drug is marketed.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA022142 | SYMFI | Film-coated tablet | Not specified in the data |
@@ -111,7 +109,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone plus one preclinical study. There are no clinical trials, and the top predicted indication is a veterinary disease. NNRTIs generally work poorly against non-HIV-1 lentiviral RTs, and the SIV evidence only reflects efavirenz acting on HIV-1 RT. In addition, the drug is marketed, with all 14 US licenses valid.
+The prediction rests on model output alone plus one preclinical study. There are no clinical trials, and the top predicted indication is a veterinary disease. NNRTIs generally work poorly against non-HIV-1 lentiviral RTs, and the SIV evidence only reflects efavirenz acting on HIV-1 RT.
 
 **To proceed, the following is needed:**
 - The actual results of the 2023 FIV RT study (PMID 38031646), especially efavirenz's inhibition data against FIV RT

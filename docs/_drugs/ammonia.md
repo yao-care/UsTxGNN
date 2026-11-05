@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "AMMONIA"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Ammonia: predicted new indication acrodermatitis chronica atrophicans (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ The TxGNN model predicts it may be relevant to **acrodermatitis chronica atrophi
 | Predicted New Indication | acrodermatitis chronica atrophicans |
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 2) |
-| Number of FDA Applications | at least 2 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 42) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

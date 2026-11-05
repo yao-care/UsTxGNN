@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 599
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "DEXTROMETHORPHAN"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria"]
 description: "Dextromethorphan: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but *
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | at least 5 |
+| US Market Status | Marketed (active FDA-approved applications: 29 of 38; OTC monograph / unapproved listings: 1589) |
+| Number of FDA Applications | 38 (active: 29) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -84,8 +84,6 @@ Currently no related literature available.
 | ANDA091135 | cough dm | Suspension | Not stated (valid) |
 | M013 | Dextabs | Tablet | Not stated (valid) |
 | NDA018658 | DELSYM | Suspension, extended release | Not stated (valid) |
-
-All five US authorizations are valid, and the drug is currently marketed in the US.
 
 ## Safety Considerations
 

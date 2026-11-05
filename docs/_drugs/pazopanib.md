@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1018
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "PAZOPANIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
 description: "Pazopanib: predicted new indication Liposarcoma (evidence level L2). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ Evidence consists of **2 liposarcoma-specific Phase 2 trials**, several other sa
 | Predicted New Indication | Liposarcoma |
 | TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (valid licenses: 7 of 7) |
-| Number of FDA Applications | 7 (valid: 7) |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 7) |
+| Number of FDA Applications | 7 (active: 7) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

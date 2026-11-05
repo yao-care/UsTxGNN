@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "NITROUS OXIDE"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Nitrous Oxide: predicted new indication Benign prostatic hyperplasia (evidence level L4). Approved use: Not specified in the US license records compiled for this report"
 ---
 
@@ -48,8 +48,8 @@ Nitrous oxide is an inhaled gas widely used as an anesthetic and analgesic. The 
 | Predicted New Indication | Benign prostatic hyperplasia |
 | TxGNN Prediction Score | 0.9952 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | at least 3 |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 7; OTC monograph / unapproved listings: 4) |
+| Number of FDA Applications | 7 (active: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

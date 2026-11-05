@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "BUSULFAN"
 predicted_indications: ["myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "seborrheic keratosis", "simian immunodeficiency virus infection"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Busulfan: predicted new indication Myelodysplastic syndrome (evidence level L1). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -50,8 +50,8 @@ with **39 clinical trials** and **18 publications** compiled for this prediction
 | Predicted New Indication | Myelodysplastic syndrome |
 | TxGNN Prediction Score | 0.9962 |
 | Evidence Level | L1 |
-| US Market Status | Marketed (valid licenses: 8 of 9) |
-| Number of FDA Applications | 9 (valid: 8) |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 17) |
+| Number of FDA Applications | 17 (active: 9) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -100,8 +100,6 @@ Note: the literature shows that treosulfan compared favorably with reduced-inten
 
 ## US Market Information
 
-All 9 listed licenses are valid (9 of 9); the approved indication text is blank in the compiled data.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA020954 | BUSULFEX (Otsuka) | Injection | Not available |
@@ -140,7 +138,7 @@ Multiple randomized phase 3 and phase 2/3 trials and several phase 3 publication
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking data gap for safety screening)
 - Mechanism of action data
-- Clarification of the approved indications; all 9 of 9 US licenses are valid and the drug is marketed
+- Clarification of the approved indications
 - Safety guardrails: PK-targeted IV busulfan dosing, conditioning intensity matched to age and comorbidity, seizure prophylaxis and VOD monitoring
 - Disease-specific evidence before considering the lower-ranked predictions (refractory cytopenia of childhood and aplastic anemia may warrant follow-up; the remaining predictions should be held)
 ## Disclaimer

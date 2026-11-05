@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "FOSPHENYTOIN"
 predicted_indications: ["conjunctivitis", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "manic bipolar affective disorder", "idiopathic granulomatous myositis", "myositis fibrosa", "fibromyalgia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Fosphenytoin: predicted new indication Conjunctivitis (evidence level L5). Approved use: Epilepsy, status epilepticus"
 ---
 
@@ -52,8 +52,8 @@ but **no clinical trials** and **no publications** currently support this predic
 | Predicted New Indication | Conjunctivitis |
 | TxGNN Prediction Score | 0.9936 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 6) |
-| Number of FDA Applications | 6 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 8 of 16) |
+| Number of FDA Applications | 16 (active: 8) |
 | Recommended Decision | Hold |
 
 ---
@@ -99,7 +99,7 @@ For the manic bipolar affective disorder prediction, one publication was identif
 
 ## US Market Information
 
-All six US authorizations are valid, so fosphenytoin is currently marketed in the data compiled for this report. Approved indication text is not available for these entries.
+Approved indication text is not available for these entries.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -133,7 +133,7 @@ Package insert warnings and contraindications are not available in the data comp
 **Decision: Hold**
 
 **Rationale:**
-The conjunctivitis prediction has a high model score but no clinical trials, no literature, and no plausible mechanistic link (Level L5). All six US authorizations are valid, and the drug is marketed.
+The conjunctivitis prediction has a high model score but no clinical trials, no literature, and no plausible mechanistic link (Level L5).
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

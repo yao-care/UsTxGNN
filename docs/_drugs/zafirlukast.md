@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ZAFIRLUKAST"
 predicted_indications: ["bronchitis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Zafirlukast: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be useful for **bronchitis**, but this rests on 
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of FDA Applications | 4 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 5) |
+| Number of FDA Applications | 5 (active: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

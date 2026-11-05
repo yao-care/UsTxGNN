@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "LOVASTATIN"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Lovastatin: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Hyperlipidemia, including hypertriglyceridemia…"
 ---
 
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and **1 publication** (a mouse stu
 | Predicted New Indication | Cholesterol-ester transfer protein deficiency |
 | TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | at least 3 |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 12) |
+| Number of FDA Applications | 12 (active: 7) |
 | Number of approvals | At least 3 ANDAs (the list may be partial) |
 | Recommended Decision | Hold |
 

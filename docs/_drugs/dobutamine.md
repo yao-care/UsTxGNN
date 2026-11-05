@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DOBUTAMINE"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "Raynaud disease", "primary hereditary glaucoma", "headache disorder", "hypertrichosis (disease)", "migraine disorder"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Dobutamine: predicted new indication Alopecia (evidence level L5). Approved use: Not available in the data compiled for this report (the drug is gener…"
 ---
 
@@ -50,8 +50,8 @@ This prediction is best regarded as a likely model artifact rather than a genuin
 | Predicted New Indication | Alopecia |
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of FDA Applications | 5 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 16) |
+| Number of FDA Applications | 16 (active: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -85,8 +85,6 @@ Literature retrieved for lower-ranked predictions is also indirect:
 
 ## US Market Information
 
-All five US authorizations are valid, and no approved-indication text is available in the compiled data.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA 074086 | Dobutamine (HF Acquisition Co LLC, DBA HealthFirst) | Injection, solution, concentrate | Not available (valid) |
@@ -112,7 +110,7 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score. There are no clinical trials and no supporting literature, and no plausible mechanism links a beta-1 agonist given by IV infusion to hair loss. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. In addition, all five US licenses are valid, and label safety data are missing.
+The prediction is supported only by a model score. There are no clinical trials and no supporting literature, and no plausible mechanism links a beta-1 agonist given by IV infusion to hair loss. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. In addition, label safety data are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible hypothesis linking dobutamine to hair follicle biology (otherwise discontinue this line)

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ At this time, a drug repurposing evaluation cannot be completed due to insuffici
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — and even this is absent) |
-| US Market Status | Marketed (valid licenses on record: at least 1) |
-| Number of FDA Applications | at least 1 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ---

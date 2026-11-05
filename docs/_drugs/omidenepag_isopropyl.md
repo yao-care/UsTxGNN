@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "OMIDENEPAG ISOPROPYL"
 predicted_indications: ["pancreatitis", "hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "blepharospasm", "familial visceral myopathy", "alcoholic cardiomyopathy"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Omidenepag Isopropyl: predicted new indication Pancreatitis (evidence level L5). Approved use: Ocular hypertension"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **pancreatitis**, but there are
 | Predicted New Indication | Pancreatitis |
 | TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

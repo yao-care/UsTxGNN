@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "METAXALONE"
 predicted_indications: ["infectious otitis media", "endocarditis", "endocardial fibroelastosis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Metaxalone: predicted new indication Infectious otitis media (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ The prediction comes from the TxGNN model (deep learning) alone and may reflect 
 | Predicted New Indication | Infectious otitis media |
 | TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of FDA Applications | at least 4 |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 10) |
+| Number of FDA Applications | 10 (active: 7) |
 | Recommended Decision | Hold |
 
 Two other predictions were also reviewed: **endocarditis** (0.9902) and **endocardial fibroelastosis** (0.9900). Both are L5 with no trials or literature, and both are also recommended as Hold.

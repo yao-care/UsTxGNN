@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "OXALIPLATIN"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Oxaliplatin: predicted new indication Malignant pleural mesothelioma (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ with **3 clinical trials** (2 directly relevant Phase 2 studies) and **20 public
 | Predicted New Indication | Malignant pleural mesothelioma |
 | TxGNN Prediction Score | 0.9968 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | at least 9 |
+| US Market Status | Marketed (active FDA-approved applications: 13 of 31) |
+| Number of FDA Applications | 31 (active: 13) |
 | Recommended Decision | Hold (research question) |
 
 ## Why is This Prediction Reasonable?

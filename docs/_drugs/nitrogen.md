@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "NITROGEN"
 predicted_indications: ["16q24.1 microdeletion syndrome", "primary interstitial lung disease specific to childhood", "isolated pulmonary capillaritis", "congenital pulmonary lymphangiectasia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Nitrogen: predicted new indication 16q24.1 microdeletion syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | 16q24.1 microdeletion syndrome |
 | TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | at least 9 |
+| US Market Status | Marketed (active FDA-approved applications: 16 of 16; OTC monograph / unapproved listings: 9) |
+| Number of FDA Applications | 16 (active: 16) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

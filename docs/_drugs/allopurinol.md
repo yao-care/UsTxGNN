@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ALLOPURINOL"
 predicted_indications: ["hepatic porphyria", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "inflammatory myopathy with abundant macrophages"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Allopurinol: predicted new indication hepatic porphyria (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Allopurinol is a xanthine oxidase inhibitor that lowers uric acid production. Th
 | Predicted New Indication | hepatic porphyria |
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of FDA Applications | at least 14 |
+| US Market Status | Marketed (active FDA-approved applications: 19 of 37) |
+| Number of FDA Applications | 37 (active: 19) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

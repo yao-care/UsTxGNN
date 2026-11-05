@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Finasteride: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L4). Approved use: Benign prostatic hyperplasia"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model (deep learning) predicts it may be effective for **Ambras type h
 | Predicted New Indication | Hypertrichosis (rank 2 of 6 predictions; the top-ranked prediction, Ambras type hypertrichosis universalis congenita, has no evidence at all) |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of FDA Applications | at least 10 |
+| US Market Status | Marketed (active FDA-approved applications: 17 of 27; OTC monograph / unapproved listings: 3) |
+| Number of FDA Applications | 27 (active: 17) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -85,8 +85,6 @@ Currently no related clinical trials registered.
 | ANDA204304 | Finasteride (Proficient Rx) | Film-coated tablet | Not listed (valid) |
 | ANDA090121 | Finasteride (Proficient Rx) | Film-coated tablet | Not listed (valid) |
 | ANDA090060 | Finasteride (NuCare Pharmaceuticals) | Film-coated tablet | Not listed (valid) |
-
-All 10 licenses compiled for this report are valid; the table shows the first 5.
 
 ## Safety Considerations
 

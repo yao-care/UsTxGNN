@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "METHADONE"
 predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Methadone: predicted new indication Tourette syndrome (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -52,8 +52,8 @@ This direction rests mainly on a computational prediction, and the evidence is w
 | Predicted New Indication | Tourette syndrome |
 | TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses on record: at least 16) |
-| Number of FDA Applications | at least 16 |
+| US Market Status | Marketed (active FDA-approved applications: 26 of 34) |
+| Number of FDA Applications | 34 (active: 26) |
 | Recommended Decision | Hold |
 
 ---
@@ -87,7 +87,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 16 licenses are valid, and no approved-indication text is recorded. Five representative licenses are listed below.
+Five representative licenses are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

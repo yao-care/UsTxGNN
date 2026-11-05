@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1187
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Sulfasalazine: predicted new indication brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Rheumatoid arthritis, ulcerative colitis, inflammatory bowel disease…"
 monitor_inn: "SULFASALAZINE"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
@@ -49,8 +49,8 @@ The TxGNN model's top-ranked predictions are mostly rare congenital syndromes wi
 | Predicted New Indication | Osteoarthritis (the most credible among the top 10 predictions; the rank 1 prediction is brachydactyly-syndactyly syndrome) |
 | TxGNN Prediction Score | 0.9964 for osteoarthritis (0.9994 for the rank 1 prediction, brachydactyly-syndactyly syndrome) |
 | Evidence Level | L5 (preclinical only) for osteoarthritis |
-| US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of FDA Applications | 6 (valid: 6) |
+| US Market Status | Marketed (active FDA-approved applications: 8 of 16) |
+| Number of FDA Applications | 16 (active: 8) |
 | Recommended Decision | Hold |
 
 *Note: The top-ranked prediction, brachydactyly-syndactyly syndrome, has only model-based support (L5). The osteoarthritis entry is highlighted here because it is the only one with a plausible link and some preclinical data.*
@@ -95,7 +95,7 @@ For the "spondyloarthropathy, susceptibility to" entry, the retrieved literature
 
 ## US Market Information
 
-All six US authorizations are valid (6 of 6), and the drug is marketed in the US. Approved indication text was not available for any of them.
+Approved indication text was not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "INCLISIRAN"
 predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Inclisiran: predicted new indication Potassium deficiency disease (evidence level L5). Approved use: Not recorded in the data compiled for this report"
 ---
 
@@ -48,8 +48,8 @@ Inclisiran is a small interfering RNA (siRNA) that targets PCSK9 and is marketed
 | Predicted New Indication | Potassium deficiency disease |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

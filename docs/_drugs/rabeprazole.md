@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1103
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Rabeprazole: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Rabeprazo
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 2 |
 | Evidence level | Not applicable |
-| US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of FDA Applications | at least 7 |
+| US Market Status | Marketed (active FDA-approved applications: 10 of 13) |
+| Number of FDA Applications | 13 (active: 10) |
 
 ## Known uses among the model's candidates
 

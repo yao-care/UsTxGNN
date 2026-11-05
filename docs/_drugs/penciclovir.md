@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PENCICLOVIR"
 predicted_indications: ["fascioliasis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Penciclovir: predicted new indication Fascioliasis (evidence level L5). Approved use: Herpes labialis"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **fascioliasis**, but this rest
 | Predicted New Indication | Fascioliasis |
 | TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 4 of 5) |
-| Number of FDA Applications | 5 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 5) |
+| Number of FDA Applications | 5 (active: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -78,8 +78,6 @@ Currently no related literature available.
 | ANDA216981 | Penciclovir (Torrent Pharmaceuticals Limited) | Cream | Not listed (valid) |
 | ANDA212710 | Penciclovir (Teva Pharmaceuticals USA, Inc.) | Cream | Not listed (valid) |
 | ANDA212368 | Penciclovir (Padagis Israel Pharmaceuticals Ltd) | Cream | Not listed (valid) |
-
-All five licenses are valid, and all are topical creams.
 
 ## Safety Considerations
 

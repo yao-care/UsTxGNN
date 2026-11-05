@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PROCAINAMIDE"
 predicted_indications: ["Tourette syndrome", "hyperthyroidism", "Prinzmetal angina", "methemoglobinemia, alpha type", "methemoglobinemia", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "methemoglobin reductase deficiency", "rheumatoid arthritis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Procainamide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not stated in the available approval records (the drug is known as an…"
 ---
 
@@ -50,8 +50,8 @@ This is a model-only prediction with no actual supporting studies.
 | Predicted New Indication | Tourette syndrome |
 | TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of FDA Applications | 5 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 78) |
+| Number of FDA Applications | 78 (active: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

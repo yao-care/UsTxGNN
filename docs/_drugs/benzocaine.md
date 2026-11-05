@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BENZOCAINE"
 predicted_indications: ["papillary conjunctivitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Benzocaine: predicted new indication papillary conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ There are currently **no clinical trials and no publications** supporting this d
 | Predicted New Indication | papillary conjunctivitis |
 | TxGNN Prediction Score | 0.9938 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of FDA Applications | at least 4 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 529) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CYCLOPENTOLATE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Cyclopentolate: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but **no clinical trials and no publications** currently support this direction,
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of FDA Applications | 5 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 14) |
+| Number of FDA Applications | 14 (active: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -74,8 +74,6 @@ Two other predictions were also generated, and both are likewise supported only 
 | ANDA084108 | Cyclogyl | Solution/drops | Valid | Alcon Laboratories, Inc. |
 | ANDA084109 | Cyclogyl | Solution/drops | Valid | Alcon Laboratories, Inc. |
 | ANDA084300 | Cyclomydril | Solution/drops | Valid | Alcon Laboratories, Inc. |
-
-All five authorizations are valid, and no approved indication text is recorded for them.
 
 ## Safety Considerations
 

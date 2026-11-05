@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ This entry consists of a complex multi-component preparation combining conventio
 | Predicted New Indication | None (TxGNN returned no predictions) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only; in this case, no prediction was generated |
-| US Market Status | Marketed (valid licenses on record: at least 2) |
-| Number of FDA Applications | at least 2 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---
@@ -108,7 +108,7 @@ This preparation cannot be evaluated through the standard TxGNN repurposing pipe
 - **Obtain DrugBank IDs** for pharmacologically active components (activated charcoal, ouabain/strophanthin, aescin) to enable knowledge-graph anchoring
 - **Define original indication(s)** — without a declared therapeutic purpose, no repurposing direction can be assessed
 - **Safety review of strophanthus gratus content**: Establish dose, dilution factor, and ouabain concentration before any clinical consideration
-- Retrieve the TFDA package insert (if any historical registration exists) to fill DG001 and DG002 data gaps
+- Retrieve the package insert (if any historical registration exists) to fill DG001 and DG002 data gaps
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

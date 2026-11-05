@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 780
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "HYDROXYPROGESTERONE CAPROATE"
 predicted_indications: ["endometriosis of uterus", "renal hypoplasia, bilateral", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "renal hypoplasia (disease)", "cervix endometriosis", "breast fibrocystic disease", "infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly"]
 description: "Hydroxyprogesterone Caproate: predicted new indication Endometriosis of uterus (evidence level L5). Approved use: Not recorded in the local data"
@@ -48,8 +48,8 @@ Hydroxyprogesterone caproate is an injectable progestin. The TxGNN model predict
 | Predicted New Indication | Endometriosis of uterus |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Not marketed (licenses canceled: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 0) |
+| US Market Status | Not marketed (licenses canceled: 8 of 8) |
+| Number of FDA Applications | 8 (active: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

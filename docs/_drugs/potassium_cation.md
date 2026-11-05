@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "POTASSIUM CATION"
 predicted_indications: ["hypertensive disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Braddock syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Potassium Cation: predicted new indication Hypertensive disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ However, there are currently **0 clinical trials** and **0 publications** suppor
 | Predicted New Indication | Hypertensive disorder |
 | TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

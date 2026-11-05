@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Pregabalin: predicted new indication Tendinitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **tendinitis**, but there are *
 | Predicted New Indication | Tendinitis |
 | TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of FDA Applications | at least 11 |
+| US Market Status | Marketed (active FDA-approved applications: 34 of 57) |
+| Number of FDA Applications | 57 (active: 34) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "DOLUTEGRAVIR"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Dolutegravir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L4). Approved use: HIV infectious disease, AIDS"
 ---
 
@@ -50,8 +50,8 @@ but the evidence is thin: **0 clinical trials** and **1 publication** (a veterin
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 7) |
+| Number of FDA Applications | 7 (active: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

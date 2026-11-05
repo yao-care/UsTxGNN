@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1274
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "UBROGEPANT"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Ubrogepant: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ with **no registered clinical trials** specific to this subtype and **19 publica
 | Predicted New Indication | Atrophoderma vermiculata |
 | TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 2) |
+| Number of FDA Applications | 2 (active: 2) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

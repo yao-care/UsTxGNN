@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ACARBOSE"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Acarbose: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model (deep learning) predicts it may be effective for **classic stiff
 | Predicted New Indication | Classic stiff person syndrome |
 | TxGNN Prediction Score | 0.9965 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 3) |
-| Number of FDA Applications | 3 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 9) |
+| Number of FDA Applications | 9 (active: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -91,7 +91,7 @@ Please refer to the package insert for label warnings and contraindications, as 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (evidence level L5), with no clinical trials or literature. There is no plausible pharmacological link between an intestinal alpha-glucosidase inhibitor and an autoimmune neurological disorder. The drug is marketed in the US, and all 3 licenses are valid.
+The prediction rests on model output alone (evidence level L5), with no clinical trials or literature. There is no plausible pharmacological link between an intestinal alpha-glucosidase inhibitor and an autoimmune neurological disorder.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, and a plausible mechanistic hypothesis for stiff person syndrome

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 869
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "LOPERAMIDE"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "conjunctival folliculosis", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "serous conjunctivitis except viral", "Angelucci syndrome"]
 description: "Loperamide: predicted new indication Acute contagious conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -53,8 +53,8 @@ The TxGNN model's top-ranked prediction is **acute contagious conjunctivitis**, 
 | Predicted New Indication | Acute contagious conjunctivitis (rank 1); amebic dysentery (acute contagious conjunctivitis) |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 (acute contagious conjunctivitis); L4 (amebic dysentery) |
-| US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of FDA Applications | at least 10 |
+| US Market Status | Marketed (active FDA-approved applications: 27 of 49) |
+| Number of FDA Applications | 49 (active: 27) |
 | Recommended Decision | Hold |
 
 ---
@@ -90,8 +90,6 @@ No literature is available for acute contagious conjunctivitis (rank 1). The fol
 ---
 
 ## US Market Information
-
-All 10 licenses are valid, and no approved indication text is recorded.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

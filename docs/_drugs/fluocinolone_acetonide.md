@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FLUOCINOLONE ACETONIDE"
 predicted_indications: ["lichen planus pemphigoides"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Fluocinolone Acetonide: predicted new indication Lichen planus pemphigoides (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be relevant for **lichen planus pemphigoides**, 
 | Predicted New Indication | Lichen planus pemphigoides |
 | TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 15) |
-| Number of FDA Applications | at least 17 |
+| US Market Status | Marketed (active FDA-approved applications: 34 of 80) |
+| Number of FDA Applications | 80 (active: 34) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

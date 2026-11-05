@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "RIVAROXABAN"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Rivaroxaban: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but t
 | Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of FDA Applications | at least 9 |
+| US Market Status | Marketed (active FDA-approved applications: 25 of 29) |
+| Number of FDA Applications | 29 (active: 25) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -73,8 +73,6 @@ Currently no related clinical trials registered.
 | [41918541](https://pubmed.ncbi.nlm.nih.gov/41918541/) | 2026 | Case report | Cureus | Recurrent embolic events despite anticoagulation in an 88-year-old woman with atrial fibrillation, chronic kidney disease, and rheumatoid arthritis on oral steroids. A comorbidity report only. |
 
 ## US Market Information
-
-All 9 licenses are valid, and the approved-indication text is not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

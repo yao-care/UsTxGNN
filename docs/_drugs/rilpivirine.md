@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1123
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "RILPIVIRINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Rilpivirine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ Support is thin: **0 clinical trials** and **1 preclinical publication**. The ot
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of FDA Applications | 4 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 10 of 11) |
+| Number of FDA Applications | 11 (active: 10) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -98,7 +98,7 @@ For the lower-ranked prediction of congenital HIV, one trial was retrieved, but 
 
 ## US Market Information
 
-All four US authorizations are valid. Approved indication text was not available for any of them.
+Approved indication text was not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|

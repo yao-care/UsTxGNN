@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "QUINIDINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Quinidine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Atrial fibrillation"
 ---
 
@@ -50,8 +50,8 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 0.9927 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of FDA Applications | 5 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 68) |
+| Number of FDA Applications | 68 (active: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -77,8 +77,6 @@ Currently no related literature available.
 | ANDA212589 | Quinidine Gluconate | Extended-release tablet | Not available (valid) |
 | ANDA218426 | Dextromethorphan hydrobromide and quinidine sulfate | Capsule | Not available (valid) |
 | NDA021879 | Nuedexta | Gelatin-coated capsule | Not available (valid) |
-
-All five authorizations are valid, and the drug is currently marketed in the US.
 
 ## Safety Considerations
 

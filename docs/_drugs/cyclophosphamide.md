@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 556
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "CYCLOPHOSPHAMIDE"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 description: "Cyclophosphamide: predicted new indication Vertebral anomalies and variable endocrine and T-cell dysfunction (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ The TxGNN model predicts it may be relevant to **vertebral anomalies and variabl
 | Predicted New Indication | Vertebral anomalies and variable endocrine and T-cell dysfunction |
 | TxGNN Prediction Score | 0.9938 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of FDA Applications | at least 12 |
+| US Market Status | Marketed (active FDA-approved applications: 22 of 31) |
+| Number of FDA Applications | 31 (active: 22) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -70,7 +70,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-Cyclophosphamide is marketed in the United States. All 12 licences on record are currently valid. The list below shows 5 of them and may be partial.
+Cyclophosphamide is marketed in the United States. The list below shows 5 of them and may be partial.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

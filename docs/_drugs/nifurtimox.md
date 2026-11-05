@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "NIFURTIMOX"
 predicted_indications: ["congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "blood group incompatibility", "monoclonal gammopathy", "premalignant hematological system disease", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Nifurtimox: predicted new indication Congenital analbuminemia (evidence level L5). Approved use: Chagas disease"
 ---
 
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **Congenital Analbuminemia**, b
 | Predicted New Indication | Congenital analbuminemia |
 | TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ---

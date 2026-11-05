@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TRIHEPTANOIN"
 predicted_indications: ["tetanic cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "craniostenosis cataract", "immature cataract", "diabetic cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "antithrombin deficiency type 2"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Triheptanoin: predicted new indication Tetanic cataract (evidence level L5). Approved use: Not available"
 ---
 
@@ -50,8 +50,8 @@ The prediction rests on the model score alone.
 | Predicted New Indication | Tetanic cataract |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

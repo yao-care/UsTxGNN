@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 673
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "ESTAZOLAM"
 predicted_indications: ["visual epilepsy", "alcohol withdrawal delirium", "restless legs syndrome", "myofascial pain syndrome", "thinking seizures", "micturation-induced seizures", "audiogenic seizures", "eating seizures", "orgasm-induced seizures"]
 description: "Estazolam: predicted new indication Visual epilepsy (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,8 +52,8 @@ The prediction is supported by **7 clinical trials** and **19 publications** ret
 | Predicted New Indication | Visual epilepsy |
 | TxGNN Prediction Score | 0.9947 |
 | Evidence Level | L5 (as scored in the compiled data; see the note under Clinical Trial Evidence) |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 4) |
+| Number of FDA Applications | 4 (active: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TRAVOPROST"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Travoprost: predicted new indication Visceral calciphylaxis (evidence level L5). Approved use: Open-angle glaucoma"
 ---
 
@@ -50,8 +50,8 @@ The model's other top-ranked predictions are likewise unsupported, so this repor
 | Predicted New Indication | Visceral calciphylaxis |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 8 of 9) |
-| Number of FDA Applications | 9 (valid: 8) |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 13) |
+| Number of FDA Applications | 13 (active: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -84,7 +84,7 @@ For reference, the only publication linked to a specific vascular-type predictio
 
 ## US Market Information
 
-All nine US authorizations are valid, and the approved-indication text was not available for any of them. The five below are examples.
+The five below are examples.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -107,7 +107,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5). There are no trials or publications for visceral calciphylaxis, and no plausible mechanism links an ocular FP receptor agonist to calcific small-vessel disease. All nine US licenses are valid, and topical ocular dosing gives little systemic exposure.
+The prediction rests on model output alone (L5). There are no trials or publications for visceral calciphylaxis, and no plausible mechanism links an ocular FP receptor agonist to calcific small-vessel disease. Topical ocular dosing gives little systemic exposure.
 
 **To proceed, the following is needed:**
 - Mechanism-of-action data and a credible biological hypothesis linking FP receptor signaling to vascular calcification or calciphylaxis

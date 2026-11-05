@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BUMETANIDE"
 predicted_indications: ["acute pulmonary heart disease"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Bumetanide: predicted new indication Acute pulmonary heart disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be useful for **acute pulmonary heart disease**,
 | Predicted New Indication | Acute pulmonary heart disease |
 | TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of FDA Applications | at least 11 |
+| US Market Status | Marketed (active FDA-approved applications: 22 of 26) |
+| Number of FDA Applications | 26 (active: 22) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -77,7 +77,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-The local data list 11 US records, all currently valid, and the list may be partial. The records are single-ingredient products.
+The records are single-ingredient products.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|

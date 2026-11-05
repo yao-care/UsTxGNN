@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 912
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "METHOXSALEN"
 predicted_indications: ["localized pagetoid reticulosis", "neoplasm of mature B-cells", "small intestinal Burkitt lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "vulvar inverted follicular keratosis"]
 description: "Methoxsalen: predicted new indication Localized pagetoid reticulosis (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ Currently there are **0 clinical trials** and **0 publications** specific to thi
 | Predicted New Indication | Localized pagetoid reticulosis |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 6) |
+| Number of FDA Applications | 6 (active: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

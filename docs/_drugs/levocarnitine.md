@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "LEVOCARNITINE"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "rheumatoid arthritis", "sclerosing cholangitis", "gout", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congestive heart failure", "hypoalphalipoproteinemia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Levocarnitine: predicted new indication Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (evidence level L5)."
 ---
 
@@ -49,8 +49,8 @@ This prediction has **0 clinical trials** and **0 publications** behind it, so i
 | Predicted New Indication | Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Marketed (valid licenses: 11 of 11) |
-| Number of FDA Applications | 11 (valid: 11) |
+| US Market Status | Marketed (active FDA-approved applications: 13 of 15; OTC monograph / unapproved listings: 10) |
+| Number of FDA Applications | 15 (active: 13) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -69,7 +69,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-Of the 11 licenses listed, all 11 are valid. No approved indication text was available for any of them.
+No approved indication text was available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|

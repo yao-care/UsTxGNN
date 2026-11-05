@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 732
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "FLUVOXAMINE"
 predicted_indications: ["paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Fluvoxamine: predicted new indication Paranoid personality disorder (evidence level L5). Approved use: Not recorded in the local data"
@@ -48,8 +48,8 @@ Fluvoxamine is an SSRI that is already marketed in the United States. The TxGNN 
 | Predicted New Indication | Paranoid personality disorder |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of FDA Applications | at least 8 |
+| US Market Status | Marketed (active FDA-approved applications: 13 of 27) |
+| Number of FDA Applications | 27 (active: 13) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1312
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Zonisamide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not available"
 monitor_inn: "ZONISAMIDE"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
@@ -52,8 +52,8 @@ Among the other top-10 predictions, **absence epilepsy** has the most supporting
 | Predicted New Indication | Tourette syndrome |
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of FDA Applications | at least 7 |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 21) |
+| Number of FDA Applications | 21 (active: 9) |
 | Recommended Decision | Hold |
 
 ---
@@ -102,7 +102,6 @@ For the top-ranked prediction (Tourette syndrome), no related literature is avai
 
 The most relevant publications for the other candidate indications are listed below. The tier column is the preliminary classification from the compiled data; items marked "design not confirmed" were classified from titles and abstracts only.
 
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [15847848](https://pubmed.ncbi.nlm.nih.gov/15847848/) | 2005 | Chart review | Epilepsy Research | 45 patients aged 18 or younger with absence seizures; 51.1% (23) became seizure-free, and 2 discontinued. |
@@ -135,8 +134,6 @@ The most relevant publications for the other candidate indications are listed be
 ---
 
 ## US Market Information
-
-All seven authorizations are valid, and no approved indication text is available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 329
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Amlodipine: predicted new indication Brain stem infarction (evidence level L5). Approved use: Hypertension (also stroke, cerebral infarction, Prinzmetal angina)"
 monitor_inn: "AMLODIPINE"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
@@ -50,8 +50,8 @@ Amlodipine is a calcium channel blocker originally used to treat hypertension an
 | Predicted New Indication | Brain stem infarction |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of FDA Applications | at least 11 |
+| US Market Status | Marketed (active FDA-approved applications: 68 of 116) |
+| Number of FDA Applications | 116 (active: 68) |
 | Recommended Decision | Hold |
 
 ---
@@ -92,7 +92,7 @@ The intracerebral hemorrhage result concerns amlodipine as one component of a co
 
 ## US Market Information
 
-All 11 listed authorizations are valid. The five main ones are shown below. Approved indication text was not available for these entries.
+The five main ones are shown below. Approved indication text was not available for these entries.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

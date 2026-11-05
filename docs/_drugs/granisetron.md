@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GRANISETRON"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Granisetron: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not stated in the compiled regulatory data (granisetron is generally…"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **manic bipolar affective disor
 | Predicted New Indication | Manic bipolar affective disorder |
 | TxGNN Prediction Score | 0.9962 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 8 of 10) |
-| Number of FDA Applications | 10 (valid: 8) |
+| US Market Status | Marketed (active FDA-approved applications: 26 of 53) |
+| Number of FDA Applications | 53 (active: 26) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "VOXELOTOR"
 predicted_indications: ["hereditary thrombocytopenia with normal platelets", "marcothrombocytopenia with mitral valve insufficiency", "dense granule disease", "transient neonatal thrombocytopenia", "thrombocytopenia", "acquired monoclonal Ig light chain-associated Fanconi syndrome", "primary release disorder of platelets"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Voxelotor: predicted new indication Hereditary thrombocytopenia with normal platelets (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
 | US Market Status | Not marketed (licenses canceled: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 0) |
+| Number of FDA Applications | 2 (active: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

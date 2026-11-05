@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "RACEPINEPHRINE"
 predicted_indications: ["primary hereditary glaucoma", "hypotrichosis simplex of the scalp", "open-angle glaucoma", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "headache disorder"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Racepinephrine: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Not available"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **primary hereditary glaucoma**
 | Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 5) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

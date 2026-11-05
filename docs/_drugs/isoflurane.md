@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "ISOFLURANE"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "manic bipolar affective disorder", "trichotillomania", "dysthymic disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Isoflurane: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Isoflurane is an inhaled volatile general anesthetic. The TxGNN model's top-rank
 | Predicted New Indication | Prinzmetal angina |
 | TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 (preclinical and case-level evidence only) |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of FDA Applications | 5 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 7) |
+| Number of FDA Applications | 7 (active: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -78,8 +78,6 @@ The table lists the most relevant publications. Several other retrieved papers (
 | [40764901](https://pubmed.ncbi.nlm.nih.gov/40764901/) | 2025 | Preclinical | J Headache Pain | Atogepant does not affect CSD susceptibility in rats (model context) |
 
 ## US Market Information
-
-All five US licenses are valid, and no approved indication text was recorded for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -113,7 +111,7 @@ Please refer to the package insert for warnings and label contraindications, whi
 - Mechanism of action data
 - Direct isoflurane studies on spreading depression and migraine, and prospective data on refractory status migrainosus
 - A defined hospital-based use setting and monitoring plan, including screening for malignant hyperthermia risk
-- Clarification of the regulatory pathway, noting that all five US licenses are valid
+- Clarification of the regulatory pathway
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

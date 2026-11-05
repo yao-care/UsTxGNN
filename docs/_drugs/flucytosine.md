@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FLUCYTOSINE"
 predicted_indications: ["bone Paget disease"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Flucytosine: predicted new indication Bone Paget disease (evidence level L5). Approved use: Not listed in the compiled US license data"
 ---
 
@@ -50,8 +50,8 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Bone Paget disease |
 | TxGNN Prediction Score | 0.9904 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of FDA Applications | at least 6 |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 8) |
+| Number of FDA Applications | 8 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

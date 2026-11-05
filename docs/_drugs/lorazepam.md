@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 870
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
 description: "Lorazepam: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,8 +52,8 @@ Among the other predictions, **insomnia** has the most supporting literature (17
 | Predicted New Indication | Trigeminal nerve neoplasm |
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of FDA Applications | at least 7 |
+| US Market Status | Marketed (active FDA-approved applications: 21 of 73) |
+| Number of FDA Applications | 73 (active: 21) |
 | Recommended Decision | Hold |
 
 ---

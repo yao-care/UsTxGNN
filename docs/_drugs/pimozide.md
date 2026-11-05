@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "PIMOZIDE"
 predicted_indications: ["trichotillomania", "manic bipolar affective disorder", "insomnia (disease)", "major affective disorder", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "Malan overgrowth syndrome", "attention deficit hyperactivity disorder, inattentive type", "agoraphobia", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Pimozide: predicted new indication Trichotillomania (evidence level L3). Approved use: Tourette syndrome"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **trichotillomania** (a hair-pu
 | Predicted New Indication | Trichotillomania |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 3) |
+| Number of FDA Applications | 3 (active: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

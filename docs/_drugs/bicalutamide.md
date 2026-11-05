@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "BICALUTAMIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "multiple endocrine neoplasia", "pulmonary hypertension", "female breast carcinoma", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Bicalutamide: predicted new indication Hypertrichosis (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ Support is thin: **no clinical trials** are registered and there is **1 publicat
 | Predicted New Indication | Hypertrichosis (disease) |
 | TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of FDA Applications | 4 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 8 of 15) |
+| Number of FDA Applications | 15 (active: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

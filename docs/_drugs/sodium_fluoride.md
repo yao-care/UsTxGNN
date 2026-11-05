@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "SODIUM FLUORIDE"
 predicted_indications: ["epiglottitis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "laryngitis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Sodium Fluoride: predicted new indication Epiglottitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **epiglottitis**, but this rest
 | Predicted New Indication | Epiglottitis |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | at least 3 |
+| US Market Status | Marketed (active FDA-approved applications: 0 of 1; OTC monograph / unapproved listings: 1056) |
+| Number of FDA Applications | 1 (active: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -80,8 +80,6 @@ For the closely related prediction, laryngitis (rank 7), four papers were retrie
 
 ## US Market Information
 
-All three US authorizations in the data are valid, and none carries approved indication text.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | M021 | Anticavity fluoride rinse | Mouthwash | Not available |
@@ -101,7 +99,7 @@ Please refer to the package insert for authoritative safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials or relevant publications (Evidence Level L5). No plausible mechanism links sodium fluoride to epiglottitis, which is already managed with established antibiotic therapy. The drug is marketed, with 3 valid US authorizations, and the safety package is incomplete.
+The prediction rests only on a model score, with no clinical trials or relevant publications (Evidence Level L5). No plausible mechanism links sodium fluoride to epiglottitis, which is already managed with established antibiotic therapy.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

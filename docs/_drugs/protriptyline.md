@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "PROTRIPTYLINE"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "attention deficit-hyperactivity disorder", "chondromyxoid fibroma", "faciodigitogenital syndrome"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Protriptyline: predicted new indication Attention deficit hyperactivity disorder, inattentive type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 | Predicted New Indication | Attention deficit hyperactivity disorder, inattentive type |
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 6) |
+| Number of FDA Applications | 6 (active: 2) |
 | Recommended Decision | Hold |
 
 **Note on the choice of indication:** The top-ranked prediction, ADHD inattentive type (score 0.9995), has no clinical trials or literature (L5). The report therefore focuses on the closely related general ADHD prediction (score 0.9977), which is the only prediction with direct supporting literature. The other predictions are summarised at the end of the report.

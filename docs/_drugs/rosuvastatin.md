@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1136
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "ROSUVASTATIN"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
 description: "Rosuvastatin: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Not recorded in the local data"
@@ -53,8 +53,8 @@ The TxGNN model predicts it may be effective for **cholesterol-ester transfer pr
 | Predicted New Indication | Cholesterol-ester transfer protein deficiency |
 | TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 (CETP deficiency); L1 (familial hypercholesterolemia) |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | at least 9 |
+| US Market Status | Marketed (active FDA-approved applications: 20 of 32) |
+| Number of FDA Applications | 32 (active: 20) |
 | Recommended Decision | Hold (CETP deficiency); Proceed with Guardrails (familial hypercholesterolemia) |
 
 ---

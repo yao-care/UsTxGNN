@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Midazolam: predicted new indication Insomnia (disease) (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ with **2 clinical trials** (both only indirectly related) and **10 publications*
 | Predicted New Indication | Insomnia (disease) |
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of FDA Applications | at least 12 |
+| US Market Status | Marketed (active FDA-approved applications: 23 of 46) |
+| Number of FDA Applications | 46 (active: 23) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TROLAMINE SALICYLATE"
 predicted_indications: ["exostosis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "fibromyalgia", "inclusion body myositis", "exostoses, multiple,", "rheumatoid arthritis", "headache disorder", "gout"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Trolamine Salicylate: predicted new indication Exostosis (evidence level L5). Approved use: Not stated in the data compiled for this report . The product names s…"
 ---
 
@@ -48,8 +48,8 @@ Trolamine salicylate is a topical salicylate used in over-the-counter pain relie
 | Predicted New Indication | Exostosis |
 | TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | at least 3 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 26) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

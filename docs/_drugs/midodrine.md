@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 927
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "MIDODRINE"
 predicted_indications: ["variably protease-sensitive prionopathy", "faciodigitogenital syndrome", "attention deficit-hyperactivity disorder", "hypotensive disorder", "attention deficit hyperactivity disorder, inattentive type", "sinoatrial node disease", "monogenic obesity", "specific developmental disorder", "obsolete hypertelorism (disease)", "sinoatrial block"]
 description: "Midodrine: predicted new indication Variably protease-sensitive prionopathy (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ This is a TxGNN model (deep learning) prediction only: **0 clinical trials** and
 | Predicted New Indication | Variably protease-sensitive prionopathy |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of FDA Applications | at least 10 |
+| US Market Status | Marketed (active FDA-approved applications: 12 of 15) |
+| Number of FDA Applications | 15 (active: 12) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -72,7 +72,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 10 midodrine hydrochloride tablet authorizations are valid. The records contain no approved-indication text. The first five are listed below.
+The records contain no approved-indication text. The first five are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

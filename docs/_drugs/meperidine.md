@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "MEPERIDINE"
 predicted_indications: ["Tourette syndrome", "trichotillomania"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Meperidine: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -50,8 +50,8 @@ The prediction is a computational signal only and is not backed by any real-worl
 | Predicted New Indication | Tourette syndrome |
 | TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of FDA Applications | 5 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 49) |
+| Number of FDA Applications | 49 (active: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -79,8 +79,6 @@ Currently no related literature available.
 | ANDA080445 | Meperidine Hydrochloride (Hikma) | Injection | Valid |
 | ANDA040331 | Meperidine Hydrochloride (Epic Pharma) | Tablet | Valid |
 | ANDA040893 | Meperidine Hydrochloride (Genus Lifesciences) | Tablet | Valid |
-
-All five licenses are valid and the drug is marketed in the US, and no approved indication text is available for any of them.
 
 ## Cytotoxicity
 

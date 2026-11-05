@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "METHOCARBAMOL"
 predicted_indications: ["cauda equina syndrome", "irritable bowel syndrome", "panuveitis (disease)", "anaphylaxis", "iris disease", "uveitis", "ventricular tachycardia", "food-dependent exercise-induced anaphylaxis", "conjunctivitis", "obsolete bundle branch block"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Methocarbamol: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not listed in the data compiled for this report (methocarbamol is gen…"
 ---
 
@@ -48,8 +48,8 @@ Methocarbamol is a centrally acting skeletal muscle relaxant. The TxGNN model pr
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of FDA Applications | at least 8 |
+| US Market Status | Marketed (active FDA-approved applications: 21 of 81) |
+| Number of FDA Applications | 81 (active: 21) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

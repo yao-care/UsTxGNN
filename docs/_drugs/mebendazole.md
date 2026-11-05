@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MEBENDAZOLE"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Mebendazole: predicted new indication Acne (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **acne**, but there are current
 | Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L5 |
-| US Market Status | Not marketed (licenses canceled: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 0) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 3) |
+| Number of FDA Applications | 3 (active: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -106,7 +106,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no relevant literature and no plausible mechanistic link between tubulin inhibition and acne pathology. The only US license is cancelled, and label safety data is unavailable.
+The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no relevant literature and no plausible mechanistic link between tubulin inhibition and acne pathology.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank) and a rigorous assessment of any biological link to acne

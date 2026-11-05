@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 848
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "LETROZOLE"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Letrozole: predicted new indication Nipple carcinoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be useful for **nipple carcinoma**, but the evid
 | Predicted New Indication | Nipple carcinoma |
 | TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of FDA Applications | at least 6 |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 23) |
+| Number of FDA Applications | 23 (active: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

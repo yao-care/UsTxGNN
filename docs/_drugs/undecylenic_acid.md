@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "UNDECYLENIC ACID"
 predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease", "pityriasis versicolor"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Undecylenic Acid: predicted new indication Ectothrix infectious disease (evidence level L5). Approved use: Tinea pedis, tinea corporis, tinea infection"
 ---
 
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Ectothrix infectious disease |
 | TxGNN Prediction Score | 0.9908 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | at least 3 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 88) |
+| Number of FDA Applications | 0 |
 | Number of approvals | At least 3 licences (the list may be partial) |
 | Recommended Decision | Hold |
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ALFUZOSIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "allergic urticaria", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Alfuzosin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Benign prostatic hyperplasia"
 ---
 
@@ -50,8 +50,8 @@ but **no clinical trials and no publications** currently support this prediction
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 6) |
-| Number of FDA Applications | 6 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 10) |
+| Number of FDA Applications | 10 (active: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -80,7 +80,7 @@ Currently no related literature available.
 | ANDA079060 | Alfuzosin Hydrochloride (Rising Pharma Holdings, Inc.) | Film-coated extended-release tablet | Valid |
 | ANDA090284 | Alfuzosin hydrochloride (Aphena Pharma Solutions - Tennessee, LLC) | Extended-release tablet | Valid |
 
-All 6 US authorizations are valid (one further generic, ANDA203192 from Unichem, is not shown). Approved indication text was not available for any of them.
+Approved indication text was not available for any of them.
 
 ## Safety Considerations
 
@@ -108,7 +108,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials and no literature behind it, so it sits at evidence level L5 despite the very high model score. No plausible mechanism links alpha-1 blockade to Ambras syndrome, and the signal may reflect an adverse-effect association instead of a therapeutic one. The drug is marketed in the US, with all 6 licenses valid.
+The prediction has no clinical trials and no literature behind it, so it sits at evidence level L5 despite the very high model score. No plausible mechanism links alpha-1 blockade to Ambras syndrome, and the signal may reflect an adverse-effect association instead of a therapeutic one.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications for safety screening

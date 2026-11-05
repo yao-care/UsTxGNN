@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "GRISEOFULVIN"
 predicted_indications: ["myiasis", "wound myiasis", "creeping myiasis", "furuncular myiasis", "echinococcus granulosus infectious disease"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Griseofulvin: predicted new indication Myiasis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ The prediction is model-only and should be treated as a hypothesis.
 | Predicted New Indication | Myiasis |
 | TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of FDA Applications | at least 10 |
+| US Market Status | Marketed (active FDA-approved applications: 12 of 22) |
+| Number of FDA Applications | 22 (active: 12) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

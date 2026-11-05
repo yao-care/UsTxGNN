@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "HEPARIN"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Heparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but **no clinical trials and no publications** currently support this prediction
 | Predicted New Indication | Thrombophilia due to protein C deficiency, autosomal recessive |
 | TxGNN Prediction Score | 0.9929 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 13) |
-| Number of FDA Applications | at least 13 |
+| US Market Status | Marketed (active FDA-approved applications: 33 of 89) |
+| Number of FDA Applications | 89 (active: 33) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

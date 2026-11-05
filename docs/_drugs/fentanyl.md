@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "FENTANYL"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Fentanyl: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not specified in the available data"
 ---
 
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of FDA Applications | at least 6 |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 39) |
+| Number of FDA Applications | 39 (active: 9) |
 | Recommended Decision | Hold |
 
 A second prediction, Tourette syndrome (score 0.9905), was also evaluated. It likewise has no supporting trials or literature, and its recommendation is also Hold (see the conclusion).
@@ -82,7 +82,7 @@ Currently no related literature available.
 | ANDA076258 (Mylan), cancelled | Fentanyl | Patch | Not listed |
 | ANDA077154 (SpecGx), cancelled | Fentanyl Transdermal | Extended-release patch | Not listed |
 
-One further authorization (ANDA212086, Fresenius Kabi, injection solution) is also valid. All six authorizations are valid.
+One further authorization (ANDA212086, Fresenius Kabi, injection solution) is also valid.
 
 ## Safety Considerations
 

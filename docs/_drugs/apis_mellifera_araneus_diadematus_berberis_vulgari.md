@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 381
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -37,11 +37,10 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 | Issue | Detail |
 |-------|--------|
-| US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of FDA Applications | at least 7 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Entity resolution failure | 11-ingredient homeopathic string → `drugbank_id: null` → no KG node |
 | TxGNN output | `predicted_indications: []` — zero predictions generated |
-| Regulatory status | 0 Taiwan licenses; not marketed in any jurisdiction on record |
 | Safety data | All fields return `[Data Gap]`; three components carry high-risk profiles at non-homeopathic doses |
 | Decision | **Hold** — re-submit as decomposed individual ingredients after DrugBank mapping |
 

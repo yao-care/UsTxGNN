@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1185
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "SULFACETAMIDE"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis", "exposure keratitis", "parasitic eyelid infestation"]
 description: "Sulfacetamide: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ The score comes from the TxGNN model (deep learning) and may reflect similaritie
 | Predicted New Indication | Postinfectious vasculitis |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of FDA Applications | at least 4 |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 55; OTC monograph / unapproved listings: 116) |
+| Number of FDA Applications | 55 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -90,8 +90,6 @@ For other predicted indications, two papers were retrieved. Neither supports eff
 | [18561612](https://pubmed.ncbi.nlm.nih.gov/18561612/) | 2007 | Observational/Review | Annales Academiae Medicae Stetinensis | Describes Demodex as a cause of chronic marginal blepharitis. Sulfacetamide is not evaluated (linked to parasitic eyelid infestation) |
 
 ## US Market Information
-
-All four US licenses are valid, and none has approved indication text on record.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

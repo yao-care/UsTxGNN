@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ECULIZUMAB"
 predicted_indications: ["cyclic hematopoiesis", "autosomal recessive severe congenital neutropenia due to JAGN1 deficiency", "X-linked severe congenital neutropenia", "congenital neutropenia-myelofibrosis-nephromegaly syndrome", "adult idiopathic neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "autosomal recessive severe congenital neutropenia due to CSF3R deficiency", "severe congenital neutropenia", "primary release disorder of platelets"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Eculizumab: predicted new indication Cyclic hematopoiesis (cyclic neutropenia) (evidence level L5). Approved use: Paroxysmal nocturnal hemoglobinuria"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **cyclic hematopoiesis**, but *
 | Predicted New Indication | Cyclic hematopoiesis (cyclic neutropenia) |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 3) |
+| Number of FDA Applications | 3 (active: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

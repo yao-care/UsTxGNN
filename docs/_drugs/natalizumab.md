@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "NATALIZUMAB"
 predicted_indications: ["bronchitis", "parapsoriasis", "psoriasis", "severe nonproliferative diabetic retinopathy", "acute lichenoid pityriasis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Natalizumab: predicted new indication Bronchitis (evidence level L5). Approved use: Crohn's disease, inflammatory bowel disease, Crohn's colitis…"
 ---
 
@@ -50,8 +50,8 @@ Among the other top predictions, the available literature (for example, in psori
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 2) |
+| Number of FDA Applications | 2 (active: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 648
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Emapalumab: predicted new indication Autosomal recessive familial Mediterranean fever (evidence level L5). Approved use: Hemophagocytic lymphohistiocytosis / hemophagocytic syndrome"
 monitor_inn: "EMAPALUMAB"
 predicted_indications: ["autosomal recessive familial Mediterranean fever", "hepatic infarction", "hepatic veno-occlusive disease", "X-linked lymphoproliferative disease due to SH2D1A deficiency", "familial Mediterranean fever", "A20 haploinsufficiency", "immune dysregulation with inflammatory bowel disease", "peliosis hepatis"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **autosomal recessive familial 
 | Predicted New Indication | Autosomal recessive familial Mediterranean fever |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

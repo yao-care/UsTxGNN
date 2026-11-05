@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "PEGFILGRASTIM"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Pegfilgrastim: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not stated in the compiled data (pegfilgrastim is generally known as…"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Marketed (valid licenses: 7 of 7) |
-| Number of FDA Applications | 7 (valid: 7) |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 9) |
+| Number of FDA Applications | 9 (active: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "LEUPROLIDE"
 predicted_indications: ["osteoarthritis", "pseudoachondroplasia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Leuprolide: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but currently **0 clinical trials** and **1 publication** (an unrelated case rep
 | Predicted New Indication | Osteoarthritis |
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of FDA Applications | 6 (valid: 6) |
+| US Market Status | Marketed (active FDA-approved applications: 22 of 28) |
+| Number of FDA Applications | 28 (active: 22) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -76,7 +76,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All six US licenses are currently valid. Approved-indication text is not available in the records.
+Approved-indication text is not available in the records.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -100,7 +100,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (evidence level L5). There are no relevant trials or literature, and the biology (sex-steroid suppression) suggests no benefit, and possibly harm, for osteoarthritis. All six US licenses are currently valid.
+The prediction rests on a model score alone (evidence level L5). There are no relevant trials or literature, and the biology (sex-steroid suppression) suggests no benefit, and possibly harm, for osteoarthritis.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA)

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "POTASSIUM CHLORIDE"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Potassium Chloride: predicted new indication Renal tubular acidosis (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be useful for **Renal Tubular Acidosis**, but th
 | Predicted New Indication | Renal tubular acidosis |
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of FDA Applications | at least 15 |
+| US Market Status | Marketed (active FDA-approved applications: 145 of 285; OTC monograph / unapproved listings: 186) |
+| Number of FDA Applications | 285 (active: 145) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -84,7 +84,7 @@ The available literature consists mainly of case reports, reviews and cohort des
 
 ## US Market Information
 
-All 15 authorizations in the data are valid. The data contain no approved-indication text. The main ones are:
+The data contain no approved-indication text. The main ones are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,15 +52,15 @@ A repurposing evaluation cannot be completed at this stage — a **Hold** decisi
 | Predicted New Indication | No predictions available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — no predictions generated |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | at least 5 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---
 
 ## US Market Information
 
-No authorizations were found for this 28-ingredient complex. The TFDA query returned 0 records, and no matching NDA/ANDA/BLA was identified.
+No authorizations were found for this 28-ingredient complex. No matching NDA/ANDA/BLA was identified.
 
 > **Note on ingredient Arsenic Trioxide:** As a standalone drug, Arsenic Trioxide (Trisenox) holds FDA approval for relapsed/refractory acute promyelocytic leukemia (APL). However, in this context it appears as one component of a multi-ingredient preparation alongside allergens and classical homeopathic minerals, consistent with a homeopathic dilution rather than a therapeutic oncologic dose. If the concentration in this product is in fact pharmacologically active (i.e., not ultra-diluted), the candidate should be re-evaluated separately under an oncology repurposing framework.
 

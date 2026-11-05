@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ALOSETRON"
 predicted_indications: ["migraine disorder", "leprosy", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "headache disorder"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Alosetron: predicted new indication migraine disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Alosetron is an oral selective 5-HT3 receptor antagonist. The TxGNN model predic
 | Predicted New Indication | migraine disorder |
 | TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 7) |
+| Number of FDA Applications | 7 (active: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

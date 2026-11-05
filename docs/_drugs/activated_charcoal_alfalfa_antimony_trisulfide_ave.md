@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -50,8 +50,8 @@ This formulation is a 22-ingredient combination of digestive enzymes, bitter bot
 | Predicted New Indication | None — model could not process |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Not Evaluable |
-| US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of FDA Applications | at least 14 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ---
@@ -99,7 +99,7 @@ The TxGNN pipeline cannot evaluate this compound in its current form. Without a 
 - **Assign a DrugBank ID or decompose into individual ingredients**: Evaluate each of the 22 active components separately through TxGNN; leading candidates (berberine, glycyrrhizin, pancrelipase, pepsin) already have DrugBank entries
 - **Identify the original registered indication**: Even an informal use case (e.g., dyspepsia, digestive insufficiency, liver support) is needed to anchor the repurposing analysis
 - **Obtain complete safety data**: Retrieve the full package insert to document warnings, contraindications, and dosing limits — especially regarding nux vomica (strychnine content) and antimony trisulfide
-- **Confirm US market status**: A TFDA query returned 0 results and DDI lookup was not found; an independent US FDA Orange Book search should confirm whether any NDA or ANDA exists under a brand name
+- **Confirm US market status**: DDI lookup was not found; an independent US FDA Orange Book search should confirm whether any NDA or ANDA exists under a brand name
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

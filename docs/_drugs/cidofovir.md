@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CIDOFOVIR"
 predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Cidofovir: predicted new indication sclerosing cholangitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be relevant to **sclerosing cholangitis**, but *
 | Predicted New Indication | sclerosing cholangitis |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 3) |
+| Number of FDA Applications | 3 (active: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

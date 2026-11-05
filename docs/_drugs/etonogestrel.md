@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ETONOGESTREL"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Etonogestrel: predicted new indication Amenorrhea (evidence level L5). Approved use: Not stated in the available regulatory data (marketed as a hormonal c…"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **amenorrhea**, but **no clinic
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of FDA Applications | 4 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 7) |
+| Number of FDA Applications | 7 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -100,7 +100,7 @@ Please refer to the package insert for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score (L5). There are no relevant trials or literature. Amenorrhea is an expected side effect of the drug rather than an established treatment target. The drug is marketed in the US, with all four licenses valid, and label safety data are missing.
+The prediction is supported only by the model score (L5). There are no relevant trials or literature. Amenorrhea is an expected side effect of the drug rather than an established treatment target.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (required before any safety screening)

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -50,8 +50,8 @@ This submission comprises a 22-ingredient homeopathic/botanical combination — 
 | Predicted New Indication | None (TxGNN returned no candidates) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction only; in this case, no prediction was generated |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | at least 5 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---
@@ -72,7 +72,7 @@ Ingredient-level inspection suggests this may be a **homeopathic cardiac remedy*
 
 ## US Market Information
 
-No US market authorizations are on record for this combination product. The TFDA query on 2026-03-24 returned zero results.
+No US market authorizations are on record for this combination product.
 
 ---
 
@@ -103,7 +103,7 @@ The TxGNN pipeline could not generate any repurposing prediction because the inp
 - **Decompose into individual ingredients**: Run separate TxGNN evaluations for pharmacologically active components (e.g., Arsenic Trioxide, Nitroglycerin) that have established DrugBank IDs, rather than submitting the full combination string.
 - **Obtain TFDA/NDA records**: If a regulatory filing exists in any jurisdiction, provide the authorization number so approval status and labeled indications can be confirmed.
 - **Resolve MOA data**: Mechanism of action data (DG002) is missing. For any individual component taken forward, DrugBank API lookup is the recommended source.
-- **Safety package**: TFDA package insert warnings and contraindications (DG001) are blocking. These must be retrieved before any clinical feasibility assessment.
+- **Safety package**: package insert warnings and contraindications (DG001) are blocking. These must be retrieved before any clinical feasibility assessment.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

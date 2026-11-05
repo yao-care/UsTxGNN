@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "DIETHYLTOLUAMIDE"
 predicted_indications: ["insomnia (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "migraine disorder", "attention deficit-hyperactivity disorder"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Diethyltoluamide: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ This is a model-only prediction with no supporting evidence.
 | Predicted New Indication | Insomnia (disease) |
 | TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

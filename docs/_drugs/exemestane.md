@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "EXEMESTANE"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Exemestane: predicted new indication Antithrombin deficiency type 2 (evidence level L4). Approved use: Not available in the compiled data"
 ---
 
@@ -50,8 +50,8 @@ There are **0 clinical trials** and **5 publications** (1 cohort study, 4 review
 | Predicted New Indication | Amenorrhea (the top-ranked prediction is antithrombin deficiency type 2, which has no evidence at all) |
 | TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 7 of 7) |
-| Number of FDA Applications | 7 (valid: 7) |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 12) |
+| Number of FDA Applications | 12 (active: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

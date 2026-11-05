@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "PITAVASTATIN"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Pitavastatin: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **cholesterol-ester transfer pr
 | Predicted New Indication | Cholesterol-ester transfer protein deficiency |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | at least 9 |
+| US Market Status | Marketed (active FDA-approved applications: 10 of 11) |
+| Number of FDA Applications | 11 (active: 10) |
 | Number of approvals | At least 9 (2 NDAs and 7 ANDAs; the list may be partial) |
 | Recommended Decision | Hold |
 
@@ -80,7 +80,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The compiled records list 9 authorizations for single-ingredient pitavastatin tablets, all currently valid. The list may be partial, and no approved-indication text was available in the records. The five main ones are shown below.
+The list may be partial, and no approved-indication text was available in the records. The five main ones are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|

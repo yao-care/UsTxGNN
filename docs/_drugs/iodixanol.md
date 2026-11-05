@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "IODIXANOL"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Iodixanol: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not available"
 ---
 
@@ -50,8 +50,8 @@ Iodixanol is an iodinated, non-ionic, iso-osmolar contrast agent used in diagnos
 | Predicted New Indication | Osteoarthritis |
 | TxGNN Prediction Score | 0.9907 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 3) |
+| Number of FDA Applications | 3 (active: 3) |
 | Number of approvals | 1 NDA and 1 ANDA |
 | Recommended Decision | Hold |
 

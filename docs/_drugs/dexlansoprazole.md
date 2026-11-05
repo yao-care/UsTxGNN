@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 593
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "DEXLANSOPRAZOLE"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
 description: "Dexlansoprazole: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ Currently **2 completed Phase 3 trials** (in erosive esophagitis, so indirect ev
 | Predicted New Indication | Gastroduodenitis |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 (based on the data compiled for this report; the Phase 3 trials enrolled erosive esophagitis patients, so applicability to ulcer healing is indirect) |
-| US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of FDA Applications | 4 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 6) |
+| Number of FDA Applications | 6 (active: 5) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

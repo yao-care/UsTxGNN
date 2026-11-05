@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ATROPINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Atropine: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9956 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 13) |
-| Number of FDA Applications | at least 13 |
+| US Market Status | Marketed (active FDA-approved applications: 35 of 76; OTC monograph / unapproved listings: 40) |
+| Number of FDA Applications | 76 (active: 35) |
 | Recommended Decision | Hold |
 
 A second prediction, **migraine with brainstem aura** (score 0.9942, Evidence Level L5, Hold), is covered briefly in the sections below.
@@ -81,7 +81,7 @@ Of the 10 publications retrieved for migraine disorder, only the first four rows
 
 ## US Market Information
 
-All 13 US licenses are valid, and none has approved indication text on record. Five examples:
+Five examples:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

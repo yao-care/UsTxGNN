@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 591
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "DEXBROMPHENIRAMINE"
 predicted_indications: ["recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis"]
 description: "Dexbrompheniramine: predicted new indication Recalcitrant atopic dermatitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ Allergic urticaria is a subtype of an already established indication (urticaria)
 | Predicted New Indication | Recalcitrant atopic dermatitis |
 | TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 0 of 8; OTC monograph / unapproved listings: 23) |
+| Number of FDA Applications | 8 (active: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

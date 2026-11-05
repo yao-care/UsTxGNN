@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "HISTIDINE"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Histidine: predicted new indication gastroparesis (disease) (evidence level L5). Approved use: Not available"
 ---
 
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **gastroparesis**, but **0 clin
 | Predicted New Indication | Gastroparesis |
 | TxGNN Prediction Score | 0.9955 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 4) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ---

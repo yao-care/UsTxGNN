@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Without a prediction, no clinical trial or literature evidence is available thro
 | Predicted New Indication | No prediction generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only (no prediction output) |
-| US Market Status | Marketed (valid licenses on record: at least 1) |
-| Number of FDA Applications | at least 1 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ---
@@ -70,7 +70,7 @@ Because no single DrugBank ID was resolved for this multi-ingredient formula, th
 
 ## US Market Information
 
-This formula has no recorded market authorizations. The TFDA query confirmed 0 licenses and no approved dosage forms or indications.
+This formula has no recorded market authorizations.
 
 ---
 
@@ -93,7 +93,7 @@ The TxGNN pipeline could not process this submission because the multi-ingredien
 - **DrugBank ID resolution**: Confirm whether any of the 18 components has a valid DrugBank entry, particularly the conventional drug components (caffeine: DB00201, estrone: DB00655).
 - **Product identity clarification**: Determine the brand name, manufacturer, and intended therapeutic class of this combination to locate existing safety and efficacy documentation.
 - **Regulatory scope check**: Homeopathic preparations are regulated differently from conventional drugs in most jurisdictions — confirm whether this formula falls under homeopathic product regulations, which may require a separate evaluation pathway.
-- **MOA and safety data**: Once components are resolved, TFDA package inserts and DrugBank pharmacology data should be retrieved to complete the safety and mechanism-of-action analysis.
+- **MOA and safety data**: Once components are resolved, DrugBank pharmacology data should be retrieved to complete the safety and mechanism-of-action analysis.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

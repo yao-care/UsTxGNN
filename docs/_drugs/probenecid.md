@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "PROBENECID"
 predicted_indications: ["hypouricemia, renal", "Lesch-Nyhan syndrome", "hypoxanthine guanine phosphoribosyltransferase partial deficiency"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Probenecid: predicted new indication Hypouricemia, renal (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **renal hypouricemia**, but the
 | Predicted New Indication | Hypouricemia, renal |
 | TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses: 7 of 7) |
-| Number of FDA Applications | 7 (valid: 7) |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 25) |
+| Number of FDA Applications | 25 (active: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -84,8 +84,6 @@ The compiled literature consists of reviews, case reports and genetic or mechani
 
 ## US Market Information
 
-All seven authorizations are valid, and no approved-indication text is available.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA080966 | Probenecid | Tablet, film coated | Not available |
@@ -112,7 +110,7 @@ All seven authorizations are valid, and no approved-indication text is available
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a computational score alone. No clinical trials exist, and the literature never supports therapeutic use. The mechanism suggests probenecid would worsen a condition already marked by excessive urate excretion. All seven US licenses are valid.
+The prediction rests on a computational score alone. No clinical trials exist, and the literature never supports therapeutic use. The mechanism suggests probenecid would worsen a condition already marked by excessive urate excretion.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

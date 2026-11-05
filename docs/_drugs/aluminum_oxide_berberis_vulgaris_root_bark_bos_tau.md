@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 292
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,8 +42,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |------|---------|
 | Drug / Mixture | ALUMINUM OXIDE; BERBERIS VULGARIS ROOT BARK; BOS TAURUS OVARY; BOS TAURUS UTERUS; MAGNESIUM SULFATE; OXALIS ACETOSELLA LEAF; PENOXSULAM; URTICA URENS; VISCUM ALBUM FRUITING TOP |
 | Original Indication | Not recorded in the local data |
-| US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of FDA Applications | at least 14 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 
 ---
 

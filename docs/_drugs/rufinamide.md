@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1138
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "RUFINAMIDE"
 predicted_indications: ["perioral myoclonia with absences"]
 description: "Rufinamide: predicted new indication Perioral myoclonia with absences (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ but the data compiled for this report contain **0 clinical trials** and **0 publ
 | Predicted New Indication | Perioral myoclonia with absences |
 | TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of FDA Applications | at least 12 |
+| US Market Status | Marketed (active FDA-approved applications: 17 of 17) |
+| Number of FDA Applications | 17 (active: 17) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

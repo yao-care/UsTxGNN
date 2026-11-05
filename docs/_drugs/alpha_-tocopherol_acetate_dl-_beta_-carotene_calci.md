@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ This candidate is a 14-component multivitamin and mineral combination (including
 | Predicted New Indication | None identified |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction unavailable; no supporting studies |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | at least 5 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---
@@ -90,7 +90,7 @@ No US market authorizations found for this drug combination.
 
 Please refer to the package insert for safety information.
 
-> **Note:** No Taiwan regulatory records (仿單) were retrieved for this combination. Individual component safety profiles can be found in each ingredient's respective monograph. Drug-drug interaction data was not found for this multi-ingredient query string.
+> Individual component safety profiles can be found in each ingredient's respective monograph. Drug-drug interaction data was not found for this multi-ingredient query string.
 
 ---
 

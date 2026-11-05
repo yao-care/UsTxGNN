@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "DIMENHYDRINATE"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Dimenhydrinate: predicted new indication Allergic urticaria (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but currently there are **0 clinical trials** and only **1 publication** (a phar
 | Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 2) |
-| Number of FDA Applications | at least 2 |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 9; OTC monograph / unapproved listings: 29) |
+| Number of FDA Applications | 9 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -111,7 +111,7 @@ The prediction is biologically plausible through H1 antagonism, but no clinical 
 - Mechanism of action data
 - Clinical efficacy data (trials or observational studies) for dimenhydrinate or diphenhydramine in allergic urticaria, and in cold urticaria
 - Assessment of the added value over second-generation antihistamines, given the sedation and anticholinergic burden
-- Clarification of route and formulation availability, since the drug is currently marketed with 2 valid US authorizations
+- Clarification of route and formulation availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

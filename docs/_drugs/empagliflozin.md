@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Empagliflozin: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Classic stiff person syndrome |
 | TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 8) |
+| Number of FDA Applications | 8 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -93,7 +93,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model (deep learning) score (0.9906), with no registered trials, no publications, and no plausible mechanistic link between SGLT2 inhibition and the autoimmune, GABAergic pathology of stiff person syndrome. The identical score for focal stiff limb syndrome may reflect similarities the model learned between related diseases, not biological evidence. The drug is marketed in the US, and all 3 US authorizations listed are valid.
+The prediction rests only on a TxGNN model (deep learning) score (0.9906), with no registered trials, no publications, and no plausible mechanistic link between SGLT2 inhibition and the autoimmune, GABAergic pathology of stiff person syndrome. The identical score for focal stiff limb syndrome may reflect similarities the model learned between related diseases, not biological evidence.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for empagliflozin

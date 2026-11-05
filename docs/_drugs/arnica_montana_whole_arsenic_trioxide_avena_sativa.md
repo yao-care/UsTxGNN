@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Currently, **0 clinical trials** and **0 publications** are linked to this compo
 | Predicted New Indication | None (TxGNN returned no prediction) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction only; in this case no prediction was generated |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | at least 5 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---
@@ -82,7 +82,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-No US (NDA) or Taiwan regulatory authorizations on file for this product.
+No US (NDA) regulatory authorizations on file for this product.
 
 ---
 
@@ -113,7 +113,7 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The automated pipeline could not generate any TxGNN prediction for this candidate because the 31-ingredient composition cannot be mapped to a single DrugBank node or knowledge-graph entity. There is no Taiwan regulatory record, no original indication, and no evidence foundation to evaluate repurposing potential.
+The automated pipeline could not generate any TxGNN prediction for this candidate because the 31-ingredient composition cannot be mapped to a single DrugBank node or knowledge-graph entity. There is no original indication, and no evidence foundation to evaluate repurposing potential.
 
 **To proceed, the following is needed:**
 
@@ -121,7 +121,7 @@ The automated pipeline could not generate any TxGNN prediction for this candidat
 - **Arsenic Trioxide concentration verification**: Confirm the dilution factor of the arsenic trioxide component to establish whether pharmaceutical-grade toxicity guidance applies.
 - **Single-entity decomposition**: If repurposing analysis is desired for individual ingredients (e.g., Arsenic Trioxide for hematologic malignancies, Saw Palmetto for BPH), each ingredient should be submitted as a separate Evidence Pack query with its own INN and DrugBank ID.
 - **MOA documentation**: Obtain mechanism-of-action data from DrugBank for any pharmacologically active components before re-running the TxGNN pipeline.
-- **Regulatory status review**: Clarify the product's legal classification under Taiwan TFDA and US FDA frameworks (homeopathic OTC, dietary supplement, or prescription drug) to determine the applicable regulatory pathway.
+- **Regulatory status review**: Clarify the product's legal classification under US FDA frameworks (homeopathic OTC, dietary supplement, or prescription drug) to determine the applicable regulatory pathway.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

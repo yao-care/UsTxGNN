@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Currently there are **no clinical trials or literature** supporting its drug rep
 | Predicted new indications | None (TxGNN did not generate predictions) |
 | TxGNN prediction score | — |
 | Evidence level | L5 (only model input, no actual research) |
-| US Market Status | Marketed (valid licenses on record: at least 1) |
-| Number of FDA Applications | at least 1 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Total number of approvals | 0 |
 | Recommended decision | **Hold** |
 

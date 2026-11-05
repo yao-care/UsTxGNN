@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ALUMINUM CHLORIDE"
 predicted_indications: ["seborrheic keratosis", "congenital prothrombin deficiency", "seborrheic dermatitis", "acne (disease)", "vulvar inverted follicular keratosis", "skin disease", "dry eye syndrome", "eye disease", "von Hippel anomaly", "chronic relapsing inflammatory optic neuropathy"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Aluminum Chloride: predicted new indication seborrheic keratosis (evidence level L5). Approved use: Not specified in the data compiled for this report"
 ---
 
@@ -52,8 +52,8 @@ The evidence is mostly reviews and early-phase studies, and it does not demonstr
 | Predicted New Indication | Skin disease (best-supported candidate; the top TxGNN-ranked prediction is seborrheic keratosis, which has no supporting evidence) |
 | TxGNN Prediction Score | 0.9935 (skin disease); 0.9968 (seborrheic keratosis, rank 1) |
 | Evidence Level | L5 (skin disease); L5 for the other nine predictions, except as noted below |
-| US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | at least 3 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 38) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold (research question: re-define the target as hyperhidrosis) |
 
 ---

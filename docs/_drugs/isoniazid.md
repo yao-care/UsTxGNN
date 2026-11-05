@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ISONIAZID"
 predicted_indications: ["conjunctivitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Isoniazid: predicted new indication Conjunctivitis (evidence level L4). Approved use: Pulmonary tuberculosis"
 ---
 
@@ -50,8 +50,8 @@ The evidence is weak and limited to tuberculosis-related eye disease.
 | Predicted New Indication | Conjunctivitis |
 | TxGNN Prediction Score | 0.9936 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 4 of 7) |
-| Number of FDA Applications | 7 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 48) |
+| Number of FDA Applications | 48 (active: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -83,7 +83,7 @@ Several other retrieved publications (on toxic epidermal necrolysis, BCG-associa
 
 ## US Market Information
 
-All seven authorizations are valid. No approved indication text is available for them.
+No approved indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

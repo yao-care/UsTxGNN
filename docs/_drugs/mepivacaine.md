@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "MEPIVACAINE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer disease"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Mepivacaine: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **gastroduodenitis**, but **no 
 | Predicted New Indication | Gastroduodenitis |
 | TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of FDA Applications | 6 (valid: 6) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 21) |
+| Number of FDA Applications | 21 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -81,7 +81,7 @@ For the second predicted indication, peptic ulcer disease, one publication was r
 | ANDA089409 | Polocaine-MPF, Fresenius Kabi USA | Injection, solution | Not listed (valid) |
 | ANDA089407 | Polocaine, Fresenius Kabi USA | Injection, solution | Not listed (valid) |
 
-One further license (ANDA089408, Polocaine-MPF, Fresenius Kabi USA) is also valid. All six licenses are valid, so there is currently valid US authorization in these records.
+One further license (ANDA089408, Polocaine-MPF, Fresenius Kabi USA) is also valid.
 
 ## Safety Considerations
 
@@ -104,7 +104,7 @@ The prediction rests only on a computational score, with no clinical trials and 
 - Mechanism of action data, for example from DrugBank
 - A literature and trial search specific to mepivacaine in gastroduodenitis and peptic ulcer disease
 - A clear mechanistic rationale and route compatibility assessment (injectable form versus the GI target)
-- Review of the regulatory status, given that all six licenses are valid and the drug is marketed
+- Review of the regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

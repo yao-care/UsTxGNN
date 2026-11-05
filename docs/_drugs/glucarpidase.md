@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GLUCARPIDASE"
 predicted_indications: ["diabetic cataract", "diabetic retinopathy", "tetanic cataract", "mature cataract", "immature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "cortical cataract", "nuclear senile cataract", "senile cataract"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Glucarpidase: predicted new indication Diabetic cataract (evidence level L5). Approved use: Not listed in the data compiled for this report (the drug's establish…"
 ---
 
@@ -48,8 +48,8 @@ Glucarpidase is a recombinant enzyme (marketed as Voraxaze) that breaks down met
 | Predicted New Indication | Diabetic cataract |
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

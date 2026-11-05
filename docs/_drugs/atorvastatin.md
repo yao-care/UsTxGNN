@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "ATORVASTATIN"
 predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Atorvastatin: predicted new indication HIV infectious disease (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Atorvastatin is a statin, a cholesterol-lowering drug that works by inhibiting H
 | Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of FDA Applications | at least 14 |
+| US Market Status | Marketed (active FDA-approved applications: 32 of 43) |
+| Number of FDA Applications | 43 (active: 32) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

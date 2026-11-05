@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Without a predicted indication or supporting evidence, a standard drug repurposi
 | Predicted New Indication | None generated |
 | TxGNN Prediction Score | Not available |
 | Evidence Level | L5 — model produced no output |
-| US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of FDA Applications | at least 4 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ---
@@ -114,7 +114,7 @@ This product cannot be evaluated under the standard TxGNN drug repurposing frame
 **To proceed, the following is needed:**
 
 - **Clarify the intended drug entity**: Identify which single active component (e.g., a specific allergen extract or histamine dihydrochloride) should be the subject of a repurposing query, and obtain its DrugBank ID
-- **Resolve data gap DG001**: Download the TFDA package insert PDF to extract safety warnings and contraindications
+- **Resolve data gap DG001**: Download the package insert PDF to extract safety warnings and contraindications
 - **Resolve data gap DG002**: Query DrugBank API for mechanism-of-action data for the relevant active component
 - **Re-run TxGNN**: After establishing a valid drug–DrugBank ID mapping, re-submit as a single-entity prediction request
 - **Confirm product category**: Determine whether this is a diagnostic allergen panel (in vitro or skin test) or an immunotherapy product, as the regulatory and clinical pathway differs substantially between the two

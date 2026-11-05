@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "BENDAMUSTINE"
 predicted_indications: ["mantle cell lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Hodgkins lymphoma", "small intestinal Burkitt lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "MALT lymphoma", "relapsing-remitting multiple sclerosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Bendamustine: predicted new indication mantle cell lymphoma (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ with **40 clinical trials** and **20 publications** compiled for this direction,
 | Predicted New Indication | mantle cell lymphoma |
 | TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L1 |
-| US Market Status | Marketed (valid licenses: 9 of 9) |
-| Number of FDA Applications | 9 (valid: 9) |
+| US Market Status | Marketed (active FDA-approved applications: 12 of 17) |
+| Number of FDA Applications | 17 (active: 12) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 955
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "NARATRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Naratriptan: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ but there are **0 registered clinical trials** and only **indirect literature** 
 | Predicted New Indication | Atrophoderma vermiculata |
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 10) |
+| Number of FDA Applications | 10 (active: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

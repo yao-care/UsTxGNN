@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ABACAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Abacavir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease"
 ---
 
@@ -50,8 +50,8 @@ Currently there are **0 clinical trials** and **1 publication** (an in vitro sus
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 7 of 7) |
-| Number of FDA Applications | 7 (valid: 7) |
+| US Market Status | Marketed (active FDA-approved applications: 15 of 25) |
+| Number of FDA Applications | 25 (active: 15) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -92,7 +92,7 @@ Related literature for the feline prediction:
 | ANDA078119 | Abacavir (Cipla USA) | Tablet, film coated | Not listed (valid) |
 | ANDA091560 | Abacavir (Coupler) | Tablet | Not listed (valid) |
 
-All 7 licenses are valid. Two further cancelled solution ANDAs (Camber ANDA201107, Rising ANDA077950) are not shown.
+Two further cancelled solution ANDAs (Camber ANDA201107, Rising ANDA077950) are not shown.
 
 ## Safety Considerations
 
@@ -107,14 +107,13 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The only support for the top prediction is a single in vitro study. There are no clinical trials, and SIV is an animal-model disease with no human development path. The drug is marketed in the US, with all 7 licenses valid, and the prediction largely overlaps with abacavir's existing HIV indication.
+The only support for the top prediction is a single in vitro study. There are no clinical trials, and SIV is an animal-model disease with no human development path.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - A clear human-relevant indication, since the current top predictions are animal-model diseases or have no mechanistic link
 - Independent target and pathophysiology review for the neurodevelopmental disorder prediction
-- Clarification of the US regulatory status, given that the drug is marketed and all 7 licenses are valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

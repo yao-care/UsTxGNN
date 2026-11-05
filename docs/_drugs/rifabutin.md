@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "RIFABUTIN"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "sclerosing cholangitis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "conjunctivitis", "leprosy", "endocarditis", "pneumocystosis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Rifabutin: predicted new indication HIV infectious disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be relevant to **HIV infectious disease** (score
 | Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 6) |
+| Number of FDA Applications | 6 (active: 5) |
 | Recommended Decision | Hold |
 
 ---
@@ -112,7 +112,7 @@ The publications are mainly reviews, cohort studies and pharmacokinetic work. No
 | NDA050689 | Rifabutin (Mylan Pharmaceuticals Inc.) | Capsule | Not available |
 | ANDA215041 | Rifabutin (ANI Pharmaceuticals, Inc.) | Capsule | Not available |
 
-Both licences are valid, and the product is available as an oral capsule.
+The product is available as an oral capsule.
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FLOXURIDINE"
 predicted_indications: ["hereditary breast ovarian cancer syndrome", "neutrophil immunodeficiency syndrome", "myeloid leukemia", "CMM7", "pediatric leptomeningeal melanoma", "melanoma", "epithelioid cell uveal melanoma", "ovarian clear cell adenocarcinoma", "central nervous system melanocytic neoplasm", "female breast carcinoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Floxuridine: predicted new indication Hereditary breast ovarian cancer syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ Among the other predictions, the best-supported are **female breast carcinoma** 
 | Predicted New Indication | Hereditary breast ovarian cancer syndrome |
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 5) |
+| Number of FDA Applications | 5 (active: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "RALTEGRAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Raltegravir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease"
 ---
 
@@ -50,8 +50,8 @@ Currently there are **0 clinical trials** and **15 publications** (mostly precli
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 6) |
+| Number of FDA Applications | 6 (active: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -89,7 +89,7 @@ All publications below are preclinical (animal or in vitro). The compiled data c
 
 ## US Market Information
 
-The approved indication text is not available in the compiled data. All three licenses are valid.
+The approved indication text is not available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -113,13 +113,13 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-- The evidence is limited to preclinical studies (L4), with no clinical trials. SIV is an animal-model virus, not a human disease, so this prediction does not translate into a human repurposing opportunity. Raltegravir's marketed HIV use is already established, and all three of its US licenses in the data are valid.
+- The evidence is limited to preclinical studies (L4), with no clinical trials. SIV is an animal-model virus, not a human disease, so this prediction does not translate into a human repurposing opportunity. Raltegravir's marketed HIV use is already established.
 
 **To proceed, the following is needed:**
 - Redefine the goal. SIV-related findings are best used to support preclinical HIV research models, not a new human indication.
 - Obtain the FDA package insert warnings and contraindications. This is a blocking gap for safety screening.
 - Obtain the mechanism of action data from DrugBank.
-- Confirm current US marketing status; all three listed licenses are valid.
+- Confirm current US marketing status.
 - Do not pursue feline AIDS or the neurodevelopmental disorder prediction without new evidence, since no supporting data or credible mechanism was found.
 ## Disclaimer
 

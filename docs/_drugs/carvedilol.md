@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 502
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "CARVEDILOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 description: "Carvedilol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ but **0 clinical trials** and **0 publications** currently support this specific
 | Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 0.9955 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | at least 9 |
+| US Market Status | Marketed (active FDA-approved applications: 14 of 21) |
+| Number of FDA Applications | 21 (active: 14) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -86,8 +86,6 @@ For reference, the closest evidence found for the fourth-ranked prediction (pulm
 | [10862260](https://pubmed.ncbi.nlm.nih.gov/10862260/) | 2000 | Review | Presse Med | Beta-blocker intoxication; carvedilol listed among the more toxic agents (safety context) |
 
 ## US Market Information
-
-All nine US authorizations are valid, and none has approved-indication text on record.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

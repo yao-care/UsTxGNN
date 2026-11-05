@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BENZYL ALCOHOL"
 predicted_indications: ["bronchitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Benzyl Alcohol: predicted new indication bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Benzyl alcohol is a topical and preservative agent used in dermatological and pa
 | Predicted New Indication | bronchitis |
 | TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of FDA Applications | 4 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 0 of 1; OTC monograph / unapproved listings: 22) |
+| Number of FDA Applications | 1 (active: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

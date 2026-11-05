@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "MECLIZINE"
 predicted_indications: ["allergic urticaria", "common cold", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "cold urticaria"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Meclizine: predicted new indication Allergic urticaria (evidence level L5). Approved use: Central nervous system origin vertigo"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **allergic urticaria**, but the
 | Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of FDA Applications | at least 7 |
+| US Market Status | Marketed (active FDA-approved applications: 11 of 38; OTC monograph / unapproved listings: 87) |
+| Number of FDA Applications | 38 (active: 11) |
 | Recommended Decision | Hold |
 
 Other predicted indications, all also at L5 with a Hold recommendation:

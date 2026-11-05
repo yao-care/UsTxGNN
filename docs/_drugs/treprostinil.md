@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1256
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Treprostinil: predicted new indication pulmonary arteriovenous malformation (disease) (evidence level L5). Approved use: Pulmonary arterial hypertension"
 monitor_inn: "TREPROSTINIL"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita"]
@@ -49,8 +49,8 @@ The TxGNN model's top-ranked prediction is **pulmonary arteriovenous malformatio
 | Predicted New Indication | Pulmonary arteriovenous malformation (top-ranked prediction) |
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 (top prediction); best among the top 10 predictions is L3 (PAH associated with connective tissue disease) |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | at least 9 |
+| US Market Status | Marketed (active FDA-approved applications: 8 of 10) |
+| Number of FDA Applications | 10 (active: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -83,7 +83,7 @@ For PAH associated with congenital heart disease (rank 2), supporting data are l
 
 ## US Market Information
 
-The drug is marketed in the US, and all nine US authorizations are valid. Approved indication text was not available in the data.
+Approved indication text was not available in the data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -108,7 +108,7 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, pulmonary arteriovenous malformation, has only a model score, no trials or literature, and a mechanistic concern (possible worsening of shunting). The better-supported predictions are PAH subgroups, which are largely covered by the existing PAH indication. The drug is marketed in the US, and nine US authorizations are valid.
+The top-ranked prediction, pulmonary arteriovenous malformation, has only a model score, no trials or literature, and a mechanistic concern (possible worsening of shunting). The better-supported predictions are PAH subgroups, which are largely covered by the existing PAH indication.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

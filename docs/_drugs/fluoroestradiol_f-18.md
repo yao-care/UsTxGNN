@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FLUOROESTRADIOL F-18"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Fluoroestradiol F-18: predicted new indication Amenorrhea (evidence level L5). Approved use: Not available"
 ---
 
@@ -50,8 +50,8 @@ The prediction most likely reflects the drug's similarity to estradiol rather th
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

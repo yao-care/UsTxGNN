@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 564
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "DACTINOMYCIN"
 predicted_indications: ["relapsing-remitting multiple sclerosis", "liver sarcoma", "upper aerodigestive tract neoplasm", "head and neck cancer"]
 description: "Dactinomycin: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,8 +51,8 @@ The TxGNN model's top-ranked prediction is **relapsing-remitting multiple sclero
 | Predicted New Indication | Relapsing-remitting multiple sclerosis |
 | TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of FDA Applications | 4 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 7) |
+| Number of FDA Applications | 7 (active: 4) |
 | Recommended Decision | Hold |
 
 ---
@@ -94,7 +94,7 @@ No literature is available for the top-ranked prediction (relapsing-remitting mu
 
 ## US Market Information
 
-All four authorizations are valid, and the drug is marketed. The data compiled for this report contain no approved indication text for them.
+The data compiled for this report contain no approved indication text for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -132,7 +132,7 @@ For label warnings and contraindications, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, relapsing-remitting multiple sclerosis, rests on a model score alone (L5) with no trials, no literature and no plausible mechanism. The severe toxicity of dactinomycin is a poor fit for a chronic autoimmune disease. None of the head and neck or upper aerodigestive predictions shows efficacy beyond sarcoma histologies. All four US ANDAs are valid and the drug is marketed.
+The top-ranked prediction, relapsing-remitting multiple sclerosis, rests on a model score alone (L5) with no trials, no literature and no plausible mechanism. The severe toxicity of dactinomycin is a poor fit for a chronic autoimmune disease. None of the head and neck or upper aerodigestive predictions shows efficacy beyond sarcoma histologies.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "SIPONIMOD"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura", "Prinzmetal angina", "rheumatoid arthritis", "atrophoderma vermiculata"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Siponimod: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **pulmonary hypertension**, but
 | Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 0.9968 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 4) |
+| Number of FDA Applications | 4 (active: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

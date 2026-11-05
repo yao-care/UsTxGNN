@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1250
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "TRASTUZUMAB"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 description: "Trastuzumab: predicted new indication Malignant cutaneous granular cell skin tumor (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ This is best understood as an extension within the already established HER2-posi
 | Predicted New Indication | Malignant cutaneous granular cell skin tumor |
 | TxGNN Prediction Score | 0.9948 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 9 of 9) |
-| Number of FDA Applications | 9 (valid: 9) |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 9) |
+| Number of FDA Applications | 9 (active: 9) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

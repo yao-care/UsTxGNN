@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1243
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Topotecan: predicted new indication Female breast carcinoma (evidence level L3). Approved use: Ovarian cancer (including ovarian germ cell tumours…"
 monitor_inn: "TOPOTECAN"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
@@ -50,8 +50,8 @@ with **3 clinical trials** (all early-phase or combination studies) and **20 pub
 | Predicted New Indication | Female breast carcinoma |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 7 of 7) |
-| Number of FDA Applications | 7 (valid: 7) |
+| US Market Status | Marketed (active FDA-approved applications: 11 of 18) |
+| Number of FDA Applications | 18 (active: 11) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -89,7 +89,7 @@ This rationale rests on the class mechanism and preclinical data, not on direct 
 
 ## US Market Information
 
-All 7 US authorizations are currently valid. The approved indication text is not available in the data compiled for this report.
+The approved indication text is not available in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

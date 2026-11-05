@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Without a predicted target indication and with critical data gaps across all eva
 | Predicted New Indication | None — TxGNN returned no prediction for this formula |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — and even this is absent) |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---
@@ -117,7 +117,7 @@ The pipeline cannot generate a repurposing signal for a 15-ingredient heterogene
 2. **Clarify regulatory intent** — Determine whether this is intended as a homeopathic product (different regulatory pathway) or a combination biologic/pharmaceutical (requiring full CMC and efficacy data).
 3. **Obtain DrugBank IDs** — At minimum for Canakinumab (DB09035) and any other components with defined molecular targets, to enable KG traversal.
 4. **Resolve MOA for the composite** — If the combination formula is the intended candidate, a unified pharmacological rationale must be documented linking all 15 components to a shared therapeutic hypothesis.
-5. **Safety documentation** — Obtain Taiwan TFDA package insert data (DG001) and complete contraindication/warning review for components with known narrow therapeutic indices (Belladonna, Nux-vomica, Podophyllum).
+5. **Safety documentation** — Obtain package insert data (DG001) and complete contraindication/warning review for components with known narrow therapeutic indices (Belladonna, Nux-vomica, Podophyllum).
 6. **Source qualification for animal tissues** — Sus scrofa-derived materials require TSE/prion risk assessment documentation per international biologics standards (Ph.Eur. 5.2.8, FDA 21 CFR 610.13).
 ## Disclaimer
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "THIORIDAZINE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "major affective disorder", "bipolar disorder", "obsessive-compulsive disorder", "attention deficit-hyperactivity disorder", "paranoid personality disorder", "schizoid personality disorder"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Thioridazine: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ The evidence is weak, and thioridazine carries a serious cardiac (QTc) safety co
 | Predicted New Indication | Manic bipolar affective disorder |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 6) |
-| Number of FDA Applications | 6 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 81) |
+| Number of FDA Applications | 81 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -126,7 +126,7 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible (D2 antagonism), but there are no clinical trials and no thioridazine-specific controlled evidence in mania. The serious QTc and arrhythmia risk is a major concern in this population, and the drug is marketed in the US with 6 valid licenses of 6. Better-established antimanic agents are available.
+The prediction is mechanistically plausible (D2 antagonism), but there are no clinical trials and no thioridazine-specific controlled evidence in mania. The serious QTc and arrhythmia risk is a major concern in this population. Better-established antimanic agents are available.
 
 **To proceed, the following is needed:**
 - Official package insert warnings and contraindications (a blocking gap for safety screening).

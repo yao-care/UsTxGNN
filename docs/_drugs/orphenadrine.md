@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "ORPHENADRINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "myopia 26, X-linked, female-limited"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Orphenadrine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ Among the other predictions, only **schizophrenia** has a body of literature (**
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
 | TxGNN Prediction Score | 0.9929 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of FDA Applications | 5 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 21) |
+| Number of FDA Applications | 21 (active: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -118,7 +118,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, retinal dystrophy, has a high model score but no clinical trials, no literature and no identifiable mechanistic link, so it is most likely a TxGNN model (deep learning) artifact. The same is true of the other genetic and developmental predictions. Schizophrenia is the only prediction with literature, but that evidence covers side-effect management rather than disease treatment, and it warrants only a research question. In addition, the drug is marketed, with all 5 licences valid, and safety label data are missing.
+The top-ranked prediction, retinal dystrophy, has a high model score but no clinical trials, no literature and no identifiable mechanistic link, so it is most likely a TxGNN model (deep learning) artifact. The same is true of the other genetic and developmental predictions. Schizophrenia is the only prediction with literature, but that evidence covers side-effect management rather than disease treatment, and it warrants only a research question.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

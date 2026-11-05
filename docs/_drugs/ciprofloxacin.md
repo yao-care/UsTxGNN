@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 531
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Ciprofloxacin: predicted new indication Diffuse scleroderma (evidence level L4). Approved use: Bacterial infections (typhoid fever, salmonellosis…"
 monitor_inn: "CIPROFLOXACIN"
 predicted_indications: ["diffuse scleroderma", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **diffuse scleroderma** (score 
 | Predicted New Indication | Diffuse scleroderma |
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of FDA Applications | at least 8 |
+| US Market Status | Marketed (active FDA-approved applications: 39 of 71) |
+| Number of FDA Applications | 71 (active: 39) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -76,8 +76,6 @@ Currently no related clinical trials registered.
 | [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Diagnostic / cohort | British Journal of Rheumatology | 24 systemic sclerosis patients with malabsorption symptoms were assessed for small bowel bacterial overgrowth, with treatment outcomes reported. It mainly addresses detection, not a clear ciprofloxacin effect. |
 
 ## US Market Information
-
-All eight US authorizations are valid, and none has approved-indication text on record.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 659
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Epinastine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis"
 monitor_inn: "EPINASTINE"
 predicted_indications: ["rosacea conjunctivitis", "allergic urticaria"]
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **rosacea conjunctivitis**, but
 | Predicted New Indication | Rosacea conjunctivitis |
 | TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 7) |
+| Number of FDA Applications | 7 (active: 1) |
 | Recommended Decision | Hold |
 
 ---

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 612
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "DIPHENHYDRAMINE"
 predicted_indications: ["rosacea conjunctivitis"]
 description: "Diphenhydramine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Rosacea conjunctivitis |
 | TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of FDA Applications | at least 4 |
+| US Market Status | Marketed (active FDA-approved applications: 23 of 109; OTC monograph / unapproved listings: 916) |
+| Number of FDA Applications | 109 (active: 23) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -78,8 +78,6 @@ Currently no related literature available.
 | M010 | Berkley and Jensen Sleep Aid | Solution | Not specified (valid) |
 | M017 | Itch Relief | Spray | Not specified (valid) |
 | ANDA080817 | Diphenhydramine Hydrochloride | Injection | Not specified (valid) |
-
-All four authorizations are currently valid, and the drug is marketed.
 
 ## Safety Considerations
 

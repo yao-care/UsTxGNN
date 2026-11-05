@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1124
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Riluzole: predicted new indication Bilateral parasagittal parieto-occipital polymicrogyria (evidence level L5). Approved use: Amyotrophic lateral sclerosis"
 monitor_inn: "RILUZOLE"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **bilateral parasagittal pariet
 | Predicted New Indication | Bilateral parasagittal parieto-occipital polymicrogyria |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 6) |
-| Number of FDA Applications | 6 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 12; OTC monograph / unapproved listings: 3) |
+| Number of FDA Applications | 12 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -69,7 +69,6 @@ Currently no related clinical trials registered.
 
 Currently no related literature available for the top-ranked prediction.
 
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [42161327](https://pubmed.ncbi.nlm.nih.gov/42161327/) | 2026 | Cohort/Association study | Brain | CYP2D6 variants studied in relation to ALS risk and survival. Notes that riluzole's survival benefit is modest and variable between patients |
@@ -83,7 +82,7 @@ These records are indirect evidence. They do not show efficacy for the predicted
 
 ## US Market Information
 
-All six authorizations are valid. No approved-indication text is available in the data.
+No approved-indication text is available in the data.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
@@ -108,7 +107,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for bilateral parasagittal parieto-occipital polymicrogyria is supported only by a model score. There are no trials or literature, and the mechanistic link is speculative. All US authorizations are valid. The more plausible candidates are the ALS-related motor neuron conditions, which could be framed as research questions.
+The prediction for bilateral parasagittal parieto-occipital polymicrogyria is supported only by a model score. There are no trials or literature, and the mechanistic link is speculative. The more plausible candidates are the ALS-related motor neuron conditions, which could be framed as research questions.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

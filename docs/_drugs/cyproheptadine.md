@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 559
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "CYPROHEPTADINE"
 predicted_indications: ["nasal cavity disease"]
 description: "Cyproheptadine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ No clinical trials are registered for the top prediction, and **9 publications**
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 0.9921 |
 | Evidence Level | L5 (for allergic urticaria); L3 for cold urticaria (rank 2) |
-| US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of FDA Applications | at least 11 |
+| US Market Status | Marketed (active FDA-approved applications: 14 of 41) |
+| Number of FDA Applications | 41 (active: 14) |
 | Recommended Decision | Hold for allergic urticaria; Proceed with Guardrails for cold urticaria |
 
 ## Why is This Prediction Reasonable?

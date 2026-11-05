@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Sodium acetate"
 predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "Ureaplasma urethritis", "gonococcal urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Sodium Acetate: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: No approved indication text is available in the US licence records"
 ---
 
@@ -50,8 +50,8 @@ The high score comes from the TxGNN model (deep learning) and may reflect simila
 | Predicted New Indication | Congenital prothrombin deficiency |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of FDA Applications | at least 12 |
+| US Market Status | Marketed (active FDA-approved applications: 21 of 55; OTC monograph / unapproved listings: 14) |
+| Number of FDA Applications | 55 (active: 21) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -74,7 +74,7 @@ Literature retrieved for lower-ranked predictions does not support a therapeutic
 
 ## US Market Information
 
-All 12 US licenses are valid and none has approved indication text. The products below are those in the compiled data, and many contain sodium acetate as a component or excipient rather than as the active ingredient.
+The products below are those in the compiled data, and many contain sodium acetate as a component or excipient rather than as the active ingredient.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

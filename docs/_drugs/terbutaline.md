@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "TERBUTALINE"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Terbutaline: predicted new indication Respiratory malformation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Terbutaline is a beta-2 adrenergic agonist. The TxGNN model predicts it may be r
 | Predicted New Indication | Respiratory malformation |
 | TxGNN Prediction Score | 0.9952 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 6) |
-| Number of FDA Applications | 6 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 15) |
+| Number of FDA Applications | 15 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

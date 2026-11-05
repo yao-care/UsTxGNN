@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "EMICIZUMAB"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "thrombotic thrombocytopenic purpura", "fetal and neonatal alloimmune thrombocytopenia", "flood factor deficiency"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Emicizumab: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -53,8 +53,8 @@ This report therefore focuses on acquired coagulation factor deficiency, and sum
 | Predicted New Indication | Pseudo-von Willebrand disease |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 (see note below) |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 Note: No completed randomized phase 3 trial exists. The evidence comes from prospective, open-label, single-arm studies, so it is rated L2 rather than L1.

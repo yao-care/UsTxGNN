@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 973
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Nitroglycerin: predicted new indication Pulmonary hypertension (evidence level L3). Approved use: Not available in the license data (nitroglycerin is a long-establishe…"
 monitor_inn: "NITROGLYCERIN"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "primary hereditary glaucoma", "congenital hypotrichosis milia"]
@@ -50,8 +50,8 @@ with **3 clinical trials** (1 completed, 1 of unknown status, 1 not yet recruiti
 | Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | at least 9 |
+| US Market Status | Marketed (active FDA-approved applications: 26 of 63; OTC monograph / unapproved listings: 90) |
+| Number of FDA Applications | 63 (active: 26) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -87,7 +87,7 @@ An important caveat: the evidence is mostly hemodynamic, perioperative or small-
 
 ## US Market Information
 
-All nine US authorizations are valid, and the drug is marketed in the US. Indication text is not available for any of them.
+Indication text is not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

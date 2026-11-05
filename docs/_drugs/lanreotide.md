@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "LANREOTIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Lanreotide: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but **no cl
 | Predicted New Indication | Hypertrichosis (disease) |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 3) |
-| Number of FDA Applications | 3 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 4) |
+| Number of FDA Applications | 4 (active: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

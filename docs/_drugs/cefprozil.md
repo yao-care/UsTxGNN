@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "CEFPROZIL"
 predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "pneumonia", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Cefprozil: predicted new indication urinary tract infection (disease) (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -52,8 +52,8 @@ and the data compiled for this report include **no registered clinical trials** 
 | Predicted New Indication | urinary tract infection (disease) |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of FDA Applications | at least 6 |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 18) |
+| Number of FDA Applications | 18 (active: 7) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

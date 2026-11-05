@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "BENZPHETAMINE"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Benzphetamine: predicted new indication hypervitaminosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Benzphetamine is a sympathomimetic amine anorectic (appetite suppressant). The T
 | Predicted New Indication | hypervitaminosis |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 10) |
+| Number of FDA Applications | 10 (active: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

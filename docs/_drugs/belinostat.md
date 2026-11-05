@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 3
 monitor_inn: "BELINOSTAT"
 predicted_indications: ["myeloid leukemia", "plasma cell myeloma", "indolent plasma cell myeloma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Belinostat: predicted new indication Myeloid leukemia (evidence level L5). Approved use: Not listed in the US license record (the literature describes belinos…"
 ---
 
@@ -50,8 +50,8 @@ with **6 clinical trials** (all early phase, Phase 1 to Phase 2) and **20 public
 | Predicted New Indication | Myeloid leukemia |
 | TxGNN Prediction Score | 0.9953 |
 | Evidence Level | L2 (see note below) |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 *Evidence level note: the strict rubric calls for a completed Phase 2/3 randomized trial for L2. The only completed Phase 2 study here is single-arm and small (n=12), so L2 is a generous reading, and the evidence is closer to early-phase only.*

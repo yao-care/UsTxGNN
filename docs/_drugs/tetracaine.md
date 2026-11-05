@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1218
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "TETRACAINE"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
 description: "Tetracaine: predicted new indication Acrodermatitis chronica atrophicans (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ The high score comes from the TxGNN model (deep learning) and may reflect simila
 | Predicted New Indication | Acrodermatitis chronica atrophicans |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of FDA Applications | 5 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 6; OTC monograph / unapproved listings: 18) |
+| Number of FDA Applications | 6 (active: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -91,8 +91,6 @@ Eight other predictions were generated for tetracaine. None has therapeutic evid
 
 ## US Market Information
 
-All five licenses are valid, and the data contain no approved indication text.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA208135 | Tetracaine Hydrochloride (Alcon Laboratories) | Solution | Not available |
@@ -123,7 +121,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The top prediction has no clinical trials and no literature. Tetracaine has no plausible mechanism against a Borrelia skin infection, and the high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. None of the other eight predictions has therapeutic evidence. All five US licenses are valid.
+The top prediction has no clinical trials and no literature. Tetracaine has no plausible mechanism against a Borrelia skin infection, and the high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. None of the other eight predictions has therapeutic evidence.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CUPRIC CHLORIDE"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "thrombocytopenia due to immune destruction"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Cupric Chloride: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **primary release disorder of p
 | Predicted New Indication | Primary release disorder of platelets |
 | TxGNN Prediction Score | 0.9929 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 4 of 5) |
-| Number of FDA Applications | 5 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 5; OTC monograph / unapproved listings: 8) |
+| Number of FDA Applications | 5 (active: 4) |
 | Recommended Decision | Hold |
 
 Two other predictions were also generated, and both are at evidence level L5 with a Hold recommendation:
@@ -105,7 +105,7 @@ All three predictions have only model scores behind them. There are no clinical 
 - Mechanism of action data for cupric chloride
 - Package insert warnings and contraindications, which are needed before any safety screening
 - A biological rationale connecting copper to platelet release or function, followed by preclinical studies
-- Confirmation of the regulatory and supply status, since all 5 of 5 licenses are valid
+- Confirmation of the regulatory and supply status
 - Review of the knowledge-graph contraindications (Wilson disease, iron metabolism disorders, hemochromatosis) for relevance to any target population
 ## Disclaimer
 

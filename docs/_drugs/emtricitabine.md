@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "EMTRICITABINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Emtricitabine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease, AIDS"
 ---
 
@@ -50,8 +50,8 @@ but there are **0 registered clinical trials** and **20 publications** (almost a
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of FDA Applications | at least 14 |
+| US Market Status | Marketed (active FDA-approved applications: 33 of 41) |
+| Number of FDA Applications | 41 (active: 33) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

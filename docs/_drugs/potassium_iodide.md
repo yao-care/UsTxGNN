@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1070
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "POTASSIUM IODIDE"
 predicted_indications: ["nasal cavity disease"]
 description: "Potassium Iodide: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ but there are **0 registered clinical trials** and only **4 publications** (all 
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses on record: at least 4) |
-| Number of FDA Applications | at least 4 |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 6; OTC monograph / unapproved listings: 160) |
+| Number of FDA Applications | 6 (active: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -77,7 +77,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Four US licenses are valid. No approved indication text is available for them.
+No approved indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -110,7 +110,7 @@ The prediction rests on a high model score and four case reports, three of them 
 - Mechanism of action data
 - FDA package insert warnings and contraindications
 - A review of the drug interaction profile, especially with ACE inhibitors, ARBs and NSAIDs, and a plan for potassium monitoring
-- A regulatory pathway given that the drug is marketed in the US with four valid licenses
+- A regulatory pathway
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

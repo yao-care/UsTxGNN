@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ESTRADIOL VALERATE"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "anovulation", "ovarian remnant syndrome", "luteoma of pregnancy", "ovarian dysfunction"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Estradiol Valerate: predicted new indication Symptomatic form of fragile X syndrome in female carrier (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but **no clinical trials and no publications** currently support this specific p
 | Predicted New Indication | Symptomatic form of fragile X syndrome in female carrier |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of FDA Applications | 4 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 13) |
+| Number of FDA Applications | 13 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -119,7 +119,7 @@ These should be checked against the official label. No drug interaction records 
 **Decision: Hold**
 
 **Rationale:**
-The fragile X carrier prediction has a high model score (0.9994) but no clinical trials or literature. Evidence level is L5. Any benefit would be limited to estrogen replacement for the ovarian insufficiency component and would not address the underlying FMR1 disorder. All four US licenses are valid, and the safety label data are missing.
+The fragile X carrier prediction has a high model score (0.9994) but no clinical trials or literature. Evidence level is L5. Any benefit would be limited to estrogen replacement for the ovarian insufficiency component and would not address the underlying FMR1 disorder.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (blocking gap), obtained from the FDA label

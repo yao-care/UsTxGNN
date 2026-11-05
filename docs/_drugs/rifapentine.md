@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "RIFAPENTINE"
 predicted_indications: ["leprosy", "female breast carcinoma", "Prinzmetal angina", "HIV infectious disease", "neuroretinitis", "vestibular neuronitis", "motor nerve neuritis", "brachial plexus neuritis", "dermatofibrosarcoma protuberans", "rheumatoid arthritis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Rifapentine: predicted new indication Leprosy (evidence level L5). Approved use: Pulmonary tuberculosis"
 ---
 
@@ -52,8 +52,8 @@ A separate, much better-supported extension is **TB prevention and treatment in 
 | Predicted New Indication | Leprosy |
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L3 (leprosy); the HIV-related extension is graded L1, but that grade applies to TB in people with HIV, not to HIV infection itself |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 2) |
+| Number of FDA Applications | 2 (active: 2) |
 | Recommended Decision | Hold (leprosy: research question; the HIV-associated TB extension may Proceed with Guardrails) |
 
 ---

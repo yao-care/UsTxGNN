@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PAROXETINE"
 predicted_indications: ["Ohdo syndrome and variants"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Paroxetine: predicted new indication Ohdo syndrome and variants (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **Ohdo syndrome and variants**,
 | Predicted New Indication | Ohdo syndrome and variants |
 | TxGNN Prediction Score | 0.9911 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of FDA Applications | at least 10 |
+| US Market Status | Marketed (active FDA-approved applications: 23 of 35) |
+| Number of FDA Applications | 35 (active: 23) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

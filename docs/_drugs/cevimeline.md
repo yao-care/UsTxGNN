@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CEVIMELINE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Cevimeline: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but **no cl
 | Predicted New Indication | Hypertrichosis (disease) |
 | TxGNN Prediction Score | 0.9926 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 8 of 8) |
-| Number of FDA Applications | 8 (valid: 8) |
+| US Market Status | Marketed (active FDA-approved applications: 10 of 11) |
+| Number of FDA Applications | 11 (active: 10) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

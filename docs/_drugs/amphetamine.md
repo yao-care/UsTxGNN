@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "AMPHETAMINE"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "trichotillomania", "postural orthostatic tachycardia syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Amphetamine: predicted new indication faciodigitogenital syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be relevant to **faciodigitogenital syndrome**, 
 | Predicted New Indication | faciodigitogenital syndrome |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of FDA Applications | at least 10 |
+| US Market Status | Marketed (active FDA-approved applications: 48 of 70) |
+| Number of FDA Applications | 70 (active: 48) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

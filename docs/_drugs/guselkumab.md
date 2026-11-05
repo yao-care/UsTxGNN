@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 765
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "GUSELKUMAB"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "renal osteodystrophy", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
 description: "Guselkumab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,8 +52,8 @@ Guselkumab is an anti-IL-23 p19 monoclonal antibody, and the data compiled for t
 | Predicted New Indication | Drug-induced osteoporosis (rank 1); ulcerative colitis (rank 6) is the best-supported prediction (drug-induced osteoporosis) |
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 (drug-induced osteoporosis); L1 (ulcerative colitis) |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold (drug-induced osteoporosis); Proceed with Guardrails (ulcerative colitis) |
 
 ---

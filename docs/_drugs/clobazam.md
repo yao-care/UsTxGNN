@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 536
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "CLOBAZAM"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "cryptogenic late-onset epileptic spasms", "photosensitive occipital lobe epilepsy", "atypical childhood epilepsy with centrotemporal spikes", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
 description: "Clobazam: predicted new indication Febrile infection-related epilepsy syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ Clobazam is a benzodiazepine anticonvulsant that acts on GABA-A receptors. The T
 | Predicted New Indication | Febrile infection-related epilepsy syndrome |
 | TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of FDA Applications | at least 15 |
+| US Market Status | Marketed (active FDA-approved applications: 20 of 34) |
+| Number of FDA Applications | 34 (active: 20) |
 | Recommended Decision | Hold |
 
 ---

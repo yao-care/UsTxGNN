@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "TIZANIDINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Tizanidine: predicted new indication Migraine disorder (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be useful for **偏頭痛 (migraine disorder)**,
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | at least 9 |
+| US Market Status | Marketed (active FDA-approved applications: 24 of 32) |
+| Number of FDA Applications | 32 (active: 24) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -86,8 +86,6 @@ Clinical data point in the same direction. A double-blind, placebo-controlled, m
 | ANDA078868 | Tizanidine Hydrochloride (AvKARE) | Capsule, gelatin coated | Not available |
 | ANDA210021 | Tizanidine Hydrochloride (Nivagen Pharmaceuticals) | Capsule | Not available |
 | ANDA076286 | Tizanidine (AvPAK) | Tablet | Not available |
-
-The list may be partial; all 9 licence records in the data compiled for this report are currently valid, and the 5 above are shown.
 
 ## Safety Considerations
 

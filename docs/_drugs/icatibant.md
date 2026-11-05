@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "ICATIBANT"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Icatibant: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Icatibant is a bradykinin B2 receptor antagonist that is marketed in the United 
 | Predicted New Indication | Serpinopathy with toxic serpin polymerization |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 8 of 8) |
-| Number of FDA Applications | 8 (valid: 8) |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 11) |
+| Number of FDA Applications | 11 (active: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -76,7 +76,7 @@ Currently no related literature available.
 | ANDA210118 | Icatibant | Injection, solution | Teva Pharmaceuticals USA, Inc. |
 | ANDA213773 | Icatibant | Injection | Alembic Pharmaceuticals Inc. |
 
-All 8 licences on record are valid. Only the first 5 are listed here.
+Only the first 5 are listed here.
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "GADODIAMIDE"
 predicted_indications: ["rheumatoid arthritis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Gadodiamide: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Not available in the data compiled for this report (a diagnostic MRI…"
 ---
 
@@ -52,8 +52,8 @@ This prediction is most likely a computational artifact and is not supported as 
 | Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 0.9916 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 2) |
+| Number of FDA Applications | 2 (active: 1) |
 | Recommended Decision | Hold |
 
 ---

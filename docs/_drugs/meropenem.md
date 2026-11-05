@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 903
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "MEROPENEM"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "Ureaplasma urethritis", "gonococcal urethritis"]
 description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L4). Approved use: Not recorded in the local data"
@@ -48,8 +48,8 @@ Meropenem is a broad-spectrum carbapenem antibiotic that blocks bacterial cell w
 | Predicted New Indication | Bacterial arthritis |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | at least 9 |
+| US Market Status | Marketed (active FDA-approved applications: 13 of 17) |
+| Number of FDA Applications | 17 (active: 13) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

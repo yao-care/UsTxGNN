@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 852
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Levobunolol: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN model produced candidates for Levobunolol, but every candidate that ca
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 2 |
 | Evidence level | Not applicable |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 10) |
+| Number of FDA Applications | 10 (active: 2) |
 
 ## Known uses among the model's candidates
 

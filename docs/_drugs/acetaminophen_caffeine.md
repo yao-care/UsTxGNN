@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,15 +52,15 @@ Acetaminophen + Caffeine is a fixed-dose analgesic combination in which caffeine
 | Predicted New Indication | No predictions generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction only; no supporting studies |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | at least 5 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 26) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---
 
 ## US Market Information
 
-No US market authorizations were retrieved for the combined entity "ACETAMINOPHEN; CAFFEINE." The TFDA query returned 0 results (query ID 1, 2026-03-24). Although both active ingredients are individually available over-the-counter in the United States, no NDA record for this fixed-dose combination was found in the current data pull.
+No US market authorizations were retrieved for the combined entity "ACETAMINOPHEN; CAFFEINE." Although both active ingredients are individually available over-the-counter in the United States, no NDA record for this fixed-dose combination was found in the current data pull.
 
 > **Note:** The FDA Orange Book lists numerous acetaminophen + caffeine OTC products (e.g., Excedrin Tension Headache). The absence of records here likely reflects a query-string mismatch or scope limitation of the current data source, and should be verified before drawing conclusions about market status.
 

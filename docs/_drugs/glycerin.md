@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GLYCERIN"
 predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Glycerin: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -52,8 +52,8 @@ Overall evidence is weak, and none of the top 10 predictions is supported by a d
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 for cauda equina syndrome; L4 for open-angle glaucoma |
-| US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of FDA Applications | at least 6 |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 2; OTC monograph / unapproved listings: 306) |
+| Number of FDA Applications | 2 (active: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -103,8 +103,6 @@ Literature for other predicted indications (all indirect):
 
 ## US Market Information
 
-All six US licenses are valid, and no approved indication text is recorded for them.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | M006 | CLENZIDERM THERAPEUTIC MOISTURIZER | Cream | Not recorded |
@@ -136,7 +134,7 @@ Please refer to the package insert for safety information. Package insert warnin
 **Decision: Hold**
 
 **Rationale:**
-- The top-ranked predictions have high model scores (0.9918 to 0.9960), but none has a clinical trial or a direct study. The best-supported candidate, open-angle glaucoma, rests on an indirect osmotic IOP-lowering rationale. The six US licenses are valid, and the package insert safety data are missing.
+- The top-ranked predictions have high model scores (0.9918 to 0.9960), but none has a clinical trial or a direct study. The best-supported candidate, open-angle glaucoma, rests on an indirect osmotic IOP-lowering rationale.
 
 **To proceed, the following is needed:**
 - Obtain FDA package insert warnings and contraindications to allow safety screening.

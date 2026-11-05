@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ITRACONAZOLE"
 predicted_indications: ["pneumocystosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Itraconazole: predicted new indication Pneumocystosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **Pneumocystosis**, but the dat
 | Predicted New Indication | Pneumocystosis |
 | TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 9 of 9) |
-| Number of FDA Applications | 9 (valid: 9) |
+| US Market Status | Marketed (active FDA-approved applications: 12 of 20) |
+| Number of FDA Applications | 20 (active: 12) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -83,8 +83,6 @@ No study listed below tests itraconazole for Pneumocystis treatment. Study types
 | [36891307](https://pubmed.ncbi.nlm.nih.gov/36891307/) | 2023 | Case report and literature review | Frontiers in Immunology | *Talaromyces marneffei* and *P. jirovecii* coinfection in a child with a STAT1 mutation |
 
 ## US Market Information
-
-All 9 US licenses are valid, and no approved-indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

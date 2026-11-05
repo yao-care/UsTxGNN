@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ With **0 clinical trials** and **0 publications** identified for the combination
 | Predicted New Indication | None (TxGNN returned no predictions) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only, but no prediction was generated |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | at least 5 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ---
@@ -115,7 +115,7 @@ The TxGNN model produced no repurposing predictions for this multi-ingredient co
 - **Concentration and formulation data**: Determine whether this is a homeopathic dilution product (e.g., 6C, 30C) or a standardized botanical extract; homeopathic dilutions beyond Avogadro's limit are not pharmacologically evaluable by standard models.
 - **Regulatory classification**: Clarify whether this product is classified as a homeopathic drug, dietary supplement, or conventional pharmaceutical — this determines which evidence framework applies.
 - **MOA documentation**: Source mechanism-of-action data from DrugBank for any pharmacologically active components before machine-learning-based repurposing is attempted.
-- **TFDA package insert**: Retrieve warning and contraindication text to enable S1 safety screening (currently Blocking data gap DG001).
+- **Package insert**: Retrieve warning and contraindication text to enable S1 safety screening (currently Blocking data gap DG001).
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

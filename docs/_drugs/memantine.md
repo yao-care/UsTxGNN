@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "MEMANTINE"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Memantine: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -52,8 +52,8 @@ The evidence is real but modest in quality: the only Phase 3 trial is small (33 
 | Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 (rests on one completed Phase 3 trial; quality is modest) |
-| US Market Status | Marketed (valid licenses on record: at least 13) |
-| Number of FDA Applications | at least 13 |
+| US Market Status | Marketed (active FDA-approved applications: 34 of 52) |
+| Number of FDA Applications | 52 (active: 34) |
 | Recommended Decision | Hold (research question; larger placebo-controlled trials are needed) |
 
 ## Why is This Prediction Reasonable?

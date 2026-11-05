@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "SELUMETINIB"
 predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "rhabdoid tumor", "acromelanosis", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "Moynahan syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "peripheral nerve schwannoma", "microcystic/reticular schwannoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Selumetinib: predicted new indication Familial generalized lentiginosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -52,8 +52,8 @@ with **3 clinical trials** and **6 publications** currently supporting this dire
 | Predicted New Indication | Familial generalized lentiginosis |
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 2) |
+| Number of FDA Applications | 2 (active: 2) |
 | Recommended Decision | Hold |
 
 **Note on selection:** The top-ranked prediction (familial generalized lentiginosis) has no trials or literature. Peripheral nerve schwannoma (rank 9) is the best-supported prediction, so it is the focus here. Rhabdoid tumor (rank 3) has only indirect evidence. The other seven predictions are model output only (L5).

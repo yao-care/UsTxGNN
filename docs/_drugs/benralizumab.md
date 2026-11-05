@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "BENRALIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Benralizumab: predicted new indication thrombocytopenia due to immune destruction (evidence level L2). Approved use: Eosinophilic pneumonia"
 ---
 
@@ -51,8 +51,8 @@ The TxGNN model's top-scoring predictions have no supporting studies. The best-s
 | Predicted New Indication | Dermatitis (the rank 1 prediction, thrombocytopenia due to immune destruction, has no supporting evidence, so the best-supported prediction is evaluated here) |
 | TxGNN Prediction Score | 0.9916 (dermatitis); 0.9934 (rank 1, immune thrombocytopenia) |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ---

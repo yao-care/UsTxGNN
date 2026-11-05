@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "IRINOTECAN"
 predicted_indications: ["female breast carcinoma"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Irinotecan: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **female breast carcinoma**, bu
 | Predicted New Indication | Female breast carcinoma |
 | TxGNN Prediction Score | 0.9908 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of FDA Applications | at least 9 |
+| US Market Status | Marketed (active FDA-approved applications: 19 of 29) |
+| Number of FDA Applications | 29 (active: 19) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

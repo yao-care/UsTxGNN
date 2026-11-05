@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1229
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "TINIDAZOLE"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "apocrine adenosis of breast", "blunt duct adenosis of breast", "congenital human immunodeficiency virus", "AIDS related complex", "benign mammary dysplasia"]
 description: "Tinidazole: predicted new indication Postmenopausal atrophic vaginitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **postmenopausal atrophic vagin
 | Predicted New Indication | Postmenopausal atrophic vaginitis |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of FDA Applications | 4 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 7) |
+| Number of FDA Applications | 7 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -98,8 +98,6 @@ The following publications were found for the lower-ranked AIDS prediction. They
 | ANDA202044 | Tinidazole (Chartwell RX) | Film-coated tablet | Not available; status valid |
 | ANDA202489 | Tindazole (Rising Pharma) | Film-coated tablet | Not available; status valid |
 | ANDA203808 | Tinidazole (Edenbridge) | Tablet | Not available; status valid |
-
-All four authorizations on record are valid, and all products are oral.
 
 ## Safety Considerations
 

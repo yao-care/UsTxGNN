@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "APOMORPHINE"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "syndromic myopia", "hydranencephaly (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Apomorphine: predicted new indication polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (evidence level L5). Approved use: Parkinson disease and related parkinsonian syndromes"
 ---
 
@@ -51,8 +51,8 @@ The TxGNN model's top-ranked prediction is a rare congenital brain malformation 
 | Predicted New Indication | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (rank 1); Schizophrenia (rank 5, the only candidate with literature) |
 | TxGNN Prediction Score | 0.9975 (rank 1); 0.9969 (schizophrenia) |
 | Evidence Level | L5 for rank 1; L4 for schizophrenia |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 4; OTC monograph / unapproved listings: 3) |
+| Number of FDA Applications | 4 (active: 3) |
 | Recommended Decision | Hold (schizophrenia: research question only) |
 
 ## Why is This Prediction Reasonable?
@@ -113,7 +113,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-- All ten predictions rest on model scores alone, or on indirect, old, small studies. None has a registered clinical trial. The top prediction (polymicrogyria) has no plausible mechanism. For schizophrenia, the small controlled studies from 1975–1984 showed no significant benefit, and psychotic disorders appear among the knowledge-graph contraindications. Schizophrenia is best treated as a research question rather than a development candidate. The drug is marketed in the US, and all 3 licences are valid.
+- All ten predictions rest on model scores alone, or on indirect, old, small studies. None has a registered clinical trial. The top prediction (polymicrogyria) has no plausible mechanism. For schizophrenia, the small controlled studies from 1975–1984 showed no significant benefit, and psychotic disorders appear among the knowledge-graph contraindications. Schizophrenia is best treated as a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
 - Mechanism-of-action data and package insert warnings and contraindications (currently missing; the latter is a blocking gap for safety screening).

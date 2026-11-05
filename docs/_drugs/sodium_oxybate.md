@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 6
 monitor_inn: "SODIUM OXYBATE"
 predicted_indications: ["insomnia (disease)", "obsolete neurogenic bladder (disease)", "sleep disorder, initiating and maintaining sleep", "cauda equina syndrome", "Wernicke-Korsakoff syndrome", "restless legs syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Sodium Oxybate: predicted new indication Insomnia (disease) (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ with **3 clinical trials** (only 1 directly relevant) and **12 publications** cu
 | Predicted New Indication | Insomnia (disease) |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of FDA Applications | 4 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 6) |
+| Number of FDA Applications | 6 (active: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 246
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -36,7 +36,6 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 ## Alpha -Tocopherol Ascorbic Acid Banana Beta Carote
 {: .text-alpha }
 
-
 ## One-Sentence Summary
 
 This candidate is a multi-component supplement formulation composed of eight natural ingredients (α-tocopherol, ascorbic acid, banana, β-carotene, Houttuynia cordata, inulin, nattokinase, rutin), **not a single chemical drug**, and has not obtained any drug license in Taiwan to date. The TxGNN model **failed to generate any predicted indications**, primarily because the multi-component formulation cannot be mapped to DrugBank knowledge graph nodes, compounded by the lack of DrugBank ID and original indication data; this assessment **cannot proceed to substantive analysis phase**.
@@ -49,9 +48,8 @@ This candidate is a multi-component supplement formulation composed of eight nat
 |------|---------|
 | Ingredient composition | α-tocopherol / ascorbic acid / banana / β-carotene / Houttuynia cordata / inulin / nattokinase / rutin |
 | Original indication | Not recorded in the local data |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Taiwan market status | ✗ Not marketed (0 drug licenses) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 
 ---
 

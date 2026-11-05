@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ENALAPRILAT"
 predicted_indications: ["primary hereditary glaucoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Enalaprilat: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Hypertension and heart failure (hypertensive disorder…"
 ---
 
@@ -50,8 +50,8 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 0.9909 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 7) |
+| Number of FDA Applications | 7 (active: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -89,7 +89,7 @@ Please refer to the package insert for further safety information, including war
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no clinical trials or literature (evidence level L5). The proposed mechanism is speculative and conflicts with the largely genetic and developmental cause of primary hereditary glaucoma. Both US authorizations for enalaprilat are valid, and the drug is marketed. Safety review also cannot proceed without the package insert.
+The prediction is supported only by a model score, with no clinical trials or literature (evidence level L5). The proposed mechanism is speculative and conflicts with the largely genetic and developmental cause of primary hereditary glaucoma. Safety review also cannot proceed without the package insert.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

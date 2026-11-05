@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "DONEPEZIL"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Donepezil: predicted new indication Top-ranked by score: psychogenic movement disorders . Best-supported:… (evidence level L5). Approved use: Alzheimer disease (also listed: Alzheimer disease without…"
 ---
 
@@ -50,8 +50,8 @@ Evidence is limited, and no randomized controlled trial supports this direction 
 | Predicted New Indication | psychogenic movement disorders |
 | TxGNN Prediction Score | 0.9923 (psychogenic movement disorders); 0.9919 (chronic tic disorder) |
 | Evidence Level | L5 for the top-ranked prediction; L3 for chronic tic disorder |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | at least 13 |
+| US Market Status | Marketed (active FDA-approved applications: 30 of 58) |
+| Number of FDA Applications | 58 (active: 30) |
 | Recommended Decision | Hold (psychogenic movement disorders); Hold with a research question for chronic tic disorder |
 
 ## Why is This Prediction Reasonable?

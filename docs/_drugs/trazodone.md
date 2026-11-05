@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1254
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Trazodone: predicted new indication Obsessive-compulsive disorder (evidence level L3). Approved use: Unipolar depression, major depressive disorder"
 monitor_inn: "TRAZODONE"
 predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
@@ -50,8 +50,8 @@ but the supporting evidence consists of **no registered clinical trials** and **
 | Predicted New Indication | Obsessive-compulsive disorder |
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | at least 9 |
+| US Market Status | Marketed (active FDA-approved applications: 16 of 36) |
+| Number of FDA Applications | 36 (active: 16) |
 | Recommended Decision | Hold (research question only) |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "THREONINE"
 predicted_indications: ["gastroparesis (disease)"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Threonine: predicted new indication Gastroparesis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be relevant to **Gastroparesis**, but the suppor
 | Predicted New Indication | Gastroparesis (disease) |
 | TxGNN Prediction Score | 0.9932 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 4) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "MILNACIPRAN"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "tendinitis", "papillary conjunctivitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "atrophoderma vermiculata", "cauda equina syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Milnacipran: predicted new indication Migraine disorder (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
@@ -52,8 +52,8 @@ The evidence is early-stage: no controlled efficacy results are available yet.
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 6) |
+| Number of FDA Applications | 6 (active: 6) |
 | Recommended Decision | Hold (treat as a research question) |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ERTAPENEM"
 predicted_indications: ["bacterial arthritis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Ertapenem: predicted new indication Bacterial arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **bacterial arthritis**, but so
 | Predicted New Indication | Bacterial arthritis |
 | TxGNN Prediction Score | 0.9972 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of FDA Applications | 6 (valid: 6) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 7) |
+| Number of FDA Applications | 7 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -82,7 +82,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 6 authorizations are valid, and no label indication text was available. The first five are listed below.
+The first five are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|-----------|------|
@@ -104,12 +104,12 @@ Please refer to the package insert for warnings, contraindications and dosing in
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic fit is reasonable and the TxGNN score is high. However, the evidence consists of case reports and mixed-infection cohorts, with no registered trials and no controlled data in bacterial arthritis. The drug is marketed in the US, and all 6 US licenses are valid.
+The mechanistic fit is reasonable and the TxGNN score is high. However, the evidence consists of case reports and mixed-infection cohorts, with no registered trials and no controlled data in bacterial arthritis.
 
 **To proceed, the following is needed:**
 - Prospective or well-designed comparative studies of ertapenem in septic arthritis and bone and joint infections, including pathogen-specific outcomes
 - Mechanism of action data and the official package insert warnings and contraindications
-- Confirmation of current US availability, although all 6 listed licenses are valid
+- Confirmation of current US availability
 - A review of the knowledge-graph contraindication signals (kidney disease, epilepsy, *C. difficile* colitis) against the label
 
 A separate direction may be worth considering. The second-ranked prediction, *Staphylococcus aureus* infection, has a Phase 2 trial (NCT04886284, cefazolin plus ertapenem in MSSA bacteremia) and supporting salvage-therapy case series. It has stronger evidence than bacterial arthritis, but it is a combination-regimen question, not ertapenem monotherapy.

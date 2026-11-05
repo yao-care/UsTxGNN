@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "IFOSFAMIDE"
 predicted_indications: ["female breast carcinoma", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "rhabdomyosarcoma (disease)", "myelodysplastic syndrome", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Ifosfamide: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not available"
 ---
 
@@ -50,8 +50,8 @@ The evidence is early-phase and the trials are mostly small, terminated or of un
 | Predicted New Indication | Female breast carcinoma |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 (per the compiled assessment; Phase 2 studies only, with no Phase 3 RCT for breast cancer) |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 7) |
+| Number of FDA Applications | 7 (active: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -96,8 +96,6 @@ The supporting evidence is early-phase. It also includes literature on rarer bre
 | ANDA076619 | Ifosfamide (Hikma) | Injection | Not available (valid) |
 | ANDA076078 | Ifosfamide (Fresenius Kabi) | Injection, powder, lyophilized, for solution | Not available (valid) |
 
-All three licenses are valid, so the drug is marketed in the US.
-
 ## Cytotoxicity
 
 | Item | Content |
@@ -121,7 +119,7 @@ Please refer to the package insert for official warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The breast cancer evidence consists only of Phase 1/2 trials (several terminated or of unknown status) and small single-arm studies, with no Phase 3 RCT. All 3 US licenses are valid, but the label indications and warnings are not available. The compiled assessment rates this as a research question rather than a candidate ready to advance.
+The breast cancer evidence consists only of Phase 1/2 trials (several terminated or of unknown status) and small single-arm studies, with no Phase 3 RCT. The compiled assessment rates this as a research question rather than a candidate ready to advance.
 
 **To proceed, the following is needed:**
 - The current FDA package insert (indications, warnings, contraindications), since the safety data gap blocks safety screening

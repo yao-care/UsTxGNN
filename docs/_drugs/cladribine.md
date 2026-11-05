@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CLADRIBINE"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "liver sarcoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Cladribine: predicted new indication Parameningeal embryonal rhabdomyosarcoma (evidence level L5). Approved use: Hairy cell leukemia"
 ---
 
@@ -50,8 +50,8 @@ but **no clinical trials** and **no directly relevant publications** currently s
 | Predicted New Indication | Parameningeal embryonal rhabdomyosarcoma |
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of FDA Applications | 5 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 8) |
+| Number of FDA Applications | 8 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -109,7 +109,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is based on the model score alone (Evidence Level L5). There are no clinical trials and no relevant publications. The mechanism does not clearly fit rhabdomyosarcoma, the score looks inherited from the disease class, and the drug has substantial myelosuppressive and neurotoxic risks. All five US licenses are valid.
+The prediction is based on the model score alone (Evidence Level L5). There are no clinical trials and no relevant publications. The mechanism does not clearly fit rhabdomyosarcoma, the score looks inherited from the disease class, and the drug has substantial myelosuppressive and neurotoxic risks.
 
 **To proceed, the following is needed:**
 - Preclinical validation, such as cell-line sensitivity testing in rhabdomyosarcoma models and deoxycytidine kinase expression analysis

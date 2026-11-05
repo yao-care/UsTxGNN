@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CYANOCOBALAMIN"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Cyanocobalamin: predicted new indication Biotin metabolic disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -52,8 +52,8 @@ but currently there are **0 clinical trials** and only **1 publication** (a gene
 | Predicted New Indication | Biotin metabolic disease |
 | TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of FDA Applications | at least 11 |
+| US Market Status | Marketed (active FDA-approved applications: 23 of 62; OTC monograph / unapproved listings: 96) |
+| Number of FDA Applications | 62 (active: 23) |
 | Recommended Decision | Hold |
 
 ---

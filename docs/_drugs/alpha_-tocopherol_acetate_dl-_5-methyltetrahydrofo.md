@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Without regulatory baseline data or model output, this evaluation cannot progres
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — but no output generated) |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | at least 5 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---
@@ -64,7 +64,6 @@ This candidate's INN string contains **14 co-listed active ingredients**, which 
 
 1. **No DrugBank ID available** — the system could not anchor this multi-component string to a graph node, so no traversal was performed.
 2. **Multi-ingredient query string not parseable** — the semicolon-delimited INN list was treated as a single unrecognized entity rather than a decomposed set of components.
-3. **No Taiwan regulatory baseline** — zero approved licenses means there is no approved indication to seed the "original indication → new indication" inference pathway.
 
 The composition itself is clinically recognizable: DHA + EPA (omega-3 for fetal neurodevelopment), 5-MTHF + Folic Acid (neural tube protection), Ferrous Asparto Glycinate (pregnancy anaemia prevention), Cholecalciferol + Pyridoxine + Cyanocobalamin + Biotin (B-complex and vitamin D), Potassium Iodide (thyroid function in pregnancy), and Magnesium Oxide + Calcium Formate (bone and muscle support). This profile is consistent with a **branded prenatal multivitamin** — analogous to products such as Elevit, Materna, or Femibion — that may be marketed in other jurisdictions but has not been registered in Taiwan.
 
@@ -97,7 +96,7 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN pipeline could not process this candidate because no DrugBank ID was resolved and no Taiwan regulatory baseline exists; without graph anchoring, no repurposing inference is possible.
+The TxGNN pipeline could not process this candidate because no DrugBank ID was resolved; without graph anchoring, no repurposing inference is possible.
 
 **To proceed, the following is needed:**
 

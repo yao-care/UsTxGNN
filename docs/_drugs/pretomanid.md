@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "PRETOMANID"
 predicted_indications: ["candidiasis", "leprosy", "coronary artery disease", "myocardial ischemia", "anomalous left coronary artery from the pulmonary artery"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Pretomanid: predicted new indication Candidiasis (evidence level L5). Approved use: Not available in the license record (known use: drug-resistant pulmon…"
 ---
 
@@ -52,8 +52,8 @@ Pretomanid is an oral nitroimidazooxazine antibiotic used against drug-resistant
 | Predicted New Indication | Candidiasis |
 | TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "NILOTINIB"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Nilotinib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L4). Approved use: Chronic myelogenous leukemia, BCR-ABL1 positive"
 ---
 
@@ -50,8 +50,8 @@ but currently there are **0 registered clinical trials** and **1 publication** (
 | Predicted New Indication | Dermatofibrosarcoma protuberans |
 | TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of FDA Applications | at least 8 |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 9) |
+| Number of FDA Applications | 9 (active: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

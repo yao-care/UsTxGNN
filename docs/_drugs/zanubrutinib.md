@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1302
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Zanubrutinib: predicted new indication Myeloid leukemia (evidence level L4). Approved use: Mantle cell lymphoma, B-cell neoplasm, lymphosarcoma"
 monitor_inn: "ZANUBRUTINIB"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
@@ -50,8 +50,8 @@ but the data compiled for this report show only **1 early-phase clinical trial**
 | Predicted New Indication | Myeloid leukemia |
 | TxGNN Prediction Score | 0.9965 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 2) |
-| Number of FDA Applications | 2 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 2) |
+| Number of FDA Applications | 2 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

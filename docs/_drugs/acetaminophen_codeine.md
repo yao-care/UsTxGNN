@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -48,12 +48,11 @@ Without a prediction target, this report documents the data gaps that must be re
 
 | Item | Content |
 |------|---------|
-| Original Indication | Unknown (no TFDA license records found; combination not registered in this system) |
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — and none was produced) |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | at least 5 |
+| US Market Status | Marketed (active FDA-approved applications: 10 of 108) |
+| Number of FDA Applications | 108 (active: 10) |
 | Recommended Decision | **Hold** |
 
 ---
@@ -81,8 +80,6 @@ Currently no related literature available (no predicted indication target to que
 ---
 
 ## US Market Information
-
-No Taiwan license records found for this combination entry. The query returned 0 results from the TFDA database.
 
 > **Note**: Acetaminophen + Codeine products are widely marketed internationally (e.g., Tylenol with Codeine No. 3/4 in the US under NDA 022450 and others), but this system did not retrieve those records. A direct US FDA query is recommended.
 

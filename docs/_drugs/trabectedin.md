@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TRABECTEDIN"
 predicted_indications: ["female breast carcinoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Trabectedin: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ with **1 clinical trial** (a QT-interval safety study, not an efficacy trial) an
 | Predicted New Indication | Female breast carcinoma |
 | TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 3) |
+| Number of FDA Applications | 3 (active: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

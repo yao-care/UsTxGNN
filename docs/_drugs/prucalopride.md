@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PRUCALOPRIDE"
 predicted_indications: ["hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "duodenal ulcer (disease)", "oral candidiasis", "obsolete familial combined hyperlipidemia", "amyloidosis (disease)", "strongyloidiasis", "HIV infectious disease", "primary amyloidosis", "acquired amyloid peripheral neuropathy"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Prucalopride: predicted new indication Hypoalphalipoproteinemia (evidence level L5). Approved use: Constipation disorder"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **Hypoalphalipoproteinemia** (l
 | Predicted New Indication | Hypoalphalipoproteinemia |
 | TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 13) |
-| Number of FDA Applications | at least 13 |
+| US Market Status | Marketed (active FDA-approved applications: 18 of 20) |
+| Number of FDA Applications | 20 (active: 18) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

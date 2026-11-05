@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1119
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "RIBAVIRIN"
 predicted_indications: ["chronic hepatitis B virus infection", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "hepatoportal sclerosis", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related aortitis", "IgG4-related mesenteritis"]
 description: "Ribavirin: predicted new indication Chronic hepatitis B virus infection (evidence level L1). Approved use: Not recorded in the local data"
@@ -52,8 +52,8 @@ with **15 clinical trials** and **20 publications** retrieved. Most of these are
 | Predicted New Indication | Chronic hepatitis B virus infection |
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L1 (nominal, see note below) |
-| US Market Status | Marketed (valid licenses: 3 of 5) |
-| Number of FDA Applications | 5 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 16; OTC monograph / unapproved listings: 8) |
+| Number of FDA Applications | 16 (active: 5) |
 | Recommended Decision | Hold |
 
 *Note on evidence level:* Under the grading rules, two completed Phase 3 trials would qualify for L1. Only one completed Phase 3 trial (NCT00114361) directly addresses ribavirin in HBV, and it tested a combination with peginterferon. The other Phase 3 trials are HCV-focused. The L1 label should therefore be read cautiously, and the effective strength of direct evidence is closer to L2.
@@ -108,7 +108,7 @@ All retrieved publications are reviews or general overviews; no randomized trial
 
 ## US Market Information
 
-All five authorizations in the data are valid, and the drug is marketed in the US. Approved indication text is not available for any of them.
+Approved indication text is not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
@@ -144,7 +144,7 @@ Only one completed Phase 3 trial directly tests ribavirin (combined with peginte
 - Obtain detailed mechanism-of-action data from DrugBank
 - Grade the severity of the listed drug interactions
 - Develop a hemolysis, anemia, and cardiopulmonary monitoring plan for the HBV population
-- Clarify the regulatory path, given that all 5 US authorizations are valid and the drug is marketed
+- Clarify the regulatory path
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

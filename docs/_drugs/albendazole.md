@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ALBENDAZOLE"
 predicted_indications: ["coenurosis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Albendazole: predicted new indication Coenurosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Albendazole is an oral anthelmintic. The TxGNN model predicts it may be effectiv
 | Predicted New Indication | Coenurosis |
 | TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 7) |
-| Number of FDA Applications | 7 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 10) |
+| Number of FDA Applications | 10 (active: 6) |
 | Recommended Decision | Hold |
 
 ---

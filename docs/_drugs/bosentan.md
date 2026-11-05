@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 465
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Bosentan: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Pulmonary arterial hypertension (including pulmonary hypertension and…"
 monitor_inn: "BOSENTAN"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
@@ -50,8 +50,8 @@ but currently there are **0 registered clinical trials** and only **animal-model
 | Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses: 7 of 7) |
-| Number of FDA Applications | 7 (valid: 7) |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 15) |
+| Number of FDA Applications | 15 (active: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -113,7 +113,6 @@ The prediction score is very high (0.9980), but the support is limited to mouse 
 - Human proof-of-concept data in rheumatoid arthritis (for example, a small Phase 2 study)
 - Detailed mechanism of action data and a clearer link to synovial endothelin biology
 - Official package insert warnings and contraindications, including liver function monitoring requirements
-- Clarification of the US regulatory status, since the drug is marketed and all 7 of 7 licenses are valid
 - A review of the interaction profile against drugs commonly used in rheumatoid arthritis, especially corticosteroids
 ## Disclaimer
 

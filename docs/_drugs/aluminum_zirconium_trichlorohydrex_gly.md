@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ As a result, this report cannot proceed to a standard repurposing evaluation —
 | Predicted New Indication | None (TxGNN returned no candidates) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model returned no prediction |
-| US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | at least 3 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 72) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---
@@ -82,7 +82,7 @@ Currently no related literature available in the Evidence Pack. Literature searc
 
 ## US Market Status
 
-No authorizations found. The TFDA query on 2026-03-24 returned 0 results for this compound.
+No authorizations found.
 
 ---
 

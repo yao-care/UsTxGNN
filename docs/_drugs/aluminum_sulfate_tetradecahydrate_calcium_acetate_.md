@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ As a result, a standard evidence-based repurposing evaluation cannot be complete
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — No supporting studies identified |
-| US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of FDA Applications | at least 6 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 3) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---
@@ -77,7 +77,7 @@ Currently, no repurposing direction can be evaluated.
 **Decision: Hold**
 
 **Rationale:**
-TxGNN produced no predicted indications, there is no Taiwan regulatory approval history, and both MOA and safety data are absent. There is no basis on which to evaluate a new indication at this time.
+TxGNN produced no predicted indications, and both MOA and safety data are absent. There is no basis on which to evaluate a new indication at this time.
 
 **To proceed, the following is needed:**
 

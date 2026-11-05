@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FOMEPIZOLE"
 predicted_indications: ["sclerosing cholangitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Fomepizole: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: No approved indication text is available in the US license records (g…"
 ---
 
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Sclerosing cholangitis |
 | TxGNN Prediction Score | 0.9928 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of FDA Applications | 4 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 6) |
+| Number of FDA Applications | 6 (active: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

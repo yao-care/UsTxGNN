@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ELAFIBRANOR"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Elafibranor: predicted new indication amenorrhea (evidence level L5). Approved use: Primary biliary cholangitis"
 ---
 
@@ -50,8 +50,8 @@ The prediction rests on a model score alone.
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

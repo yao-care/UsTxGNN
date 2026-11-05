@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "DOXERCALCIFEROL"
 predicted_indications: ["obsolete vitamin D deficiency"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Doxercalciferol: predicted new indication Obsolete vitamin D deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **"obsolete vitamin D deficienc
 | Predicted New Indication | Obsolete vitamin D deficiency |
 | TxGNN Prediction Score | 0.9948 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Marketed (valid licenses: 4 of 5) |
-| Number of FDA Applications | 5 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 18) |
+| Number of FDA Applications | 18 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -69,7 +69,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All five authorizations are valid. The approved indication text is not available in the compiled data.
+The approved indication text is not available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|

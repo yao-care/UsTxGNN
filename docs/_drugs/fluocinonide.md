@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "FLUOCINONIDE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "alopecia areata", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Fluocinonide: predicted new indication Alopecia mucinosa (evidence level L5). Approved use: Atopic dermatitis, contact dermatitis, seborrheic dermatitis…"
 ---
 
@@ -50,8 +50,8 @@ Among the other top predictions, only alopecia areata has any related material (
 | Predicted New Indication | Alopecia mucinosa |
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of FDA Applications | at least 13 |
+| US Market Status | Marketed (active FDA-approved applications: 31 of 47) |
+| Number of FDA Applications | 47 (active: 31) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

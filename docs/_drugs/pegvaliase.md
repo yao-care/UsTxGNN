@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "PEGVALIASE"
 predicted_indications: ["diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "diabetic cataract"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Pegvaliase: predicted new indication Diabetic retinopathy (evidence level L5). Approved use: Not available in the compiled data (the label text is blank"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **diabetic retinopathy**, but t
 | Predicted New Indication | Diabetic retinopathy |
 | TxGNN Prediction Score | 0.9917 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 Two other predicted indications are closely related diabetic eye conditions with nearly identical scores: severe nonproliferative diabetic retinopathy (0.9916) and diabetic cataract (0.9911). All three also have no trials or literature.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 704
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Fexofenadine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Allergic rhinitis (also vasomotor rhinitis, atopic…"
 monitor_inn: "FEXOFENADINE"
 predicted_indications: ["rosacea conjunctivitis"]
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Rosacea conjunctivitis |
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | at least 5 |
+| US Market Status | Marketed (active FDA-approved applications: 26 of 36; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 36 (active: 26) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

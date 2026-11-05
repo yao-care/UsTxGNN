@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 182
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -49,9 +49,8 @@ The profile is flagged **Hold** pending fundamental data remediation and safety 
 | Item | Content |
 |------|---------|
 | Original Indication | Not recorded in the local data |
-| US Market Status | Marketed (valid licenses on record: at least 6) |
-| Taiwan Market Status | Not marketed (TFDA query returned 0 results) |
-| Number of FDA Applications | at least 6 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 
 ---
 

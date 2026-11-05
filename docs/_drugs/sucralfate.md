@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 2
 monitor_inn: "SUCRALFATE"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Sucralfate: predicted new indication Duodenogastric reflux (evidence level L2). Approved use: Duodenal ulcer"
 ---
 
@@ -50,8 +50,8 @@ with **no registered clinical trials** but **10 publications** (including 2 rand
 | Predicted New Indication | Duodenogastric reflux |
 | TxGNN Prediction Score | 0.9937 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of FDA Applications | at least 9 |
+| US Market Status | Marketed (active FDA-approved applications: 14 of 17) |
+| Number of FDA Applications | 17 (active: 14) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -90,8 +90,6 @@ Currently no related clinical trials registered.
 | ANDA074415 | Sucralfate (Bryant Ranch Prepack) | Tablet | Not available (valid) |
 | ANDA215705 | Sucralfate (Zydus Lifesciences) | Tablet | Not available (valid) |
 | ANDA070848 | Sucralfate (Cardinal Health 107) | Tablet | Not available (valid) |
-
-All 9 authorizations are currently valid; only the first 5 are shown.
 
 ## Safety Considerations
 

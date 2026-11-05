@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "VILAZODONE"
 predicted_indications: ["neurotic disorder", "obsessive-compulsive disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "Keppen-Lubinsky syndrome", "Ohdo syndrome and variants", "schizoid personality disorder"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Vilazodone: predicted new indication Neurotic disorder (evidence level L5). Approved use: Major depressive disorder"
 ---
 
@@ -50,8 +50,8 @@ There are currently **0 clinical trials** and **0 publications** that directly s
 | Predicted New Indication | Neurotic disorder |
 | TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of FDA Applications | at least 6 |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 6) |
+| Number of FDA Applications | 6 (active: 6) |
 | Number of approvals | At least 6 (1 NDA and 5 ANDAs; the list may be partial) |
 | Recommended Decision | Hold |
 

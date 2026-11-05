@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 782
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "HYDROXYZINE"
 predicted_indications: ["rosacea conjunctivitis"]
 description: "Hydroxyzine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ Most of the publications concern cetirizine (hydroxyzine's active metabolite) an
 | Predicted New Indication | Rosacea conjunctivitis |
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 15) |
-| Number of FDA Applications | at least 15 |
+| US Market Status | Marketed (active FDA-approved applications: 35 of 151) |
+| Number of FDA Applications | 151 (active: 35) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 585
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "DESLORATADINE"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
 description: "Desloratadine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ with **2 clinical trials** and **6 publications** currently supporting this dire
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 (see note below) |
-| US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of FDA Applications | 6 (valid: 6) |
+| US Market Status | Marketed (active FDA-approved applications: 13 of 20) |
+| Number of FDA Applications | 20 (active: 13) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* the strict L1 definition asks for at least two completed Phase 3 RCTs. The two completed trials here are Phase 4, randomized and double-blind, and are supported by three published RCTs. They were treated as equivalent to L1 for this report, but this is a judgment call.

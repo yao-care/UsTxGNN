@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1189
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Sumatriptan: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Sumatript
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of FDA Applications | at least 15 |
+| US Market Status | Marketed (active FDA-approved applications: 33 of 56) |
+| Number of FDA Applications | 56 (active: 33) |
 
 ## Known uses among the model's candidates
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FIBRINOGEN HUMAN"
 predicted_indications: ["hemoglobinopathy"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Fibrinogen Human: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Not listed in the US license data compiled for this report (general u…"
 ---
 
@@ -50,8 +50,8 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Hemoglobinopathy |
 | TxGNN Prediction Score | 0.9912 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 7) |
+| Number of FDA Applications | 7 (active: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

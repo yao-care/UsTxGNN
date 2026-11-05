@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1082
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "PRIMAQUINE"
 predicted_indications: ["myiasis", "creeping myiasis", "furuncular myiasis", "wound myiasis", "toxoplasmosis", "nocardiosis", "pneumocystosis"]
 description: "Primaquine: predicted new indication Myiasis (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,8 +52,8 @@ The prediction rests on model output alone and has no biological rationale behin
 | Predicted New Indication | Myiasis |
 | TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 5) |
+| Number of FDA Applications | 5 (active: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -82,8 +82,6 @@ Currently no related literature available.
 
 ## US Market Information
 
-All three US authorizations for primaquine are valid.
-
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
 | NDA008316 | Primaquine Phosphate | Tablet, film coated | Sanofi-Aventis U.S. LLC | Valid |
@@ -109,7 +107,7 @@ Please refer to the package insert for full warnings and precautions.
 **Decision: Hold**
 
 **Rationale:**
-The myiasis prediction has no clinical trials, no literature and no plausible mechanism. Its Evidence Level is L5, and all three US licenses are valid. The hemolysis risk in G6PD deficiency adds further caution, so there is no basis for advancing this indication.
+The myiasis prediction has no clinical trials, no literature and no plausible mechanism. Its Evidence Level is L5. The hemolysis risk in G6PD deficiency adds further caution, so there is no basis for advancing this indication.
 
 **To proceed, the following is needed:**
 - Any preclinical or mechanistic evidence of primaquine activity against fly larvae. Without it, further investment is not justified.

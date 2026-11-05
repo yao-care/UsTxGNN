@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ESTRONE"
 predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Estrone: predicted new indication Zinc, elevated plasma (evidence level L5). Approved use: Acne"
 ---
 
@@ -50,8 +50,8 @@ The prediction rests on a computational score alone and has no direct clinical s
 | Predicted New Indication | Zinc, elevated plasma |
 | TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 1) |
-| Number of FDA Applications | at least 1 |
+| US Market Status | Marketed (active FDA-approved applications: 0 of 5; OTC monograph / unapproved listings: 47) |
+| Number of FDA Applications | 5 (active: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "OFATUMUMAB"
 predicted_indications: ["follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma", "Langerhans cell histiocytosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Ofatumumab: predicted new indication Follicular lymphoma (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **follicular lymphoma**, with *
 | Predicted New Indication | Follicular lymphoma |
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Number of approvals | 1 BLA |
 | Recommended Decision | Proceed with Guardrails |
 

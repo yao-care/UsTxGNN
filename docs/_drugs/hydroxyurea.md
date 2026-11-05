@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 781
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "HYDROXYUREA"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
 description: "Hydroxyurea: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **female breast carcinoma**, bu
 | Predicted New Indication | Female breast carcinoma |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 (preclinical and mechanistic studies only) |
-| US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of FDA Applications | at least 7 |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 10) |
+| Number of FDA Applications | 10 (active: 7) |
 | Recommended Decision | Hold |
 
 ---

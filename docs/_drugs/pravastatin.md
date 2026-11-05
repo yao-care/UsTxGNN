@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1076
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "PRAVASTATIN"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
 description: "Pravastatin: predicted new indication HIV infectious disease (evidence level L4). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ but the supporting evidence is indirect: **1 clinical trial** (which tests a dif
 | Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | at least 5 |
+| US Market Status | Marketed (active FDA-approved applications: 13 of 20) |
+| Number of FDA Applications | 20 (active: 13) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

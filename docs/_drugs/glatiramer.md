@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "GLATIRAMER"
 predicted_indications: ["hemoglobinopathy"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Glatiramer: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Not listed in the data compiled for this report (generally used for r…"
 ---
 
@@ -50,8 +50,8 @@ but currently there are **0 clinical trials** and only **1 loosely related publi
 | Predicted New Indication | Hemoglobinopathy |
 | TxGNN Prediction Score | 0.9903 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 9 of 9) |
-| Number of FDA Applications | 9 (valid: 9) |
+| US Market Status | Marketed (active FDA-approved applications: 11 of 11) |
+| Number of FDA Applications | 11 (active: 11) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

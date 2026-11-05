@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "AMPICILLIN"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Ampicillin: predicted new indication laryngitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Ampicillin is a beta-lactam (aminopenicillin) antibiotic. The TxGNN model predic
 | Predicted New Indication | laryngitis |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | at least 10 |
+| US Market Status | Marketed (active FDA-approved applications: 29 of 57) |
+| Number of FDA Applications | 57 (active: 29) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

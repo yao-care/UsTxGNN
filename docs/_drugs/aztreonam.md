@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "AZTREONAM"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Ureaplasma urethritis", "gonococcal urethritis", "blood group incompatibility", "premalignant hematological system disease", "epiglottitis", "monoclonal gammopathy", "xanthogranulomatous pyelonephritis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Aztreonam: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Urinary tract infection, Pseudomonas aeruginosa infection…"
 ---
 
@@ -52,8 +52,8 @@ The top-scoring predictions (such as polyclonal hyperviscosity syndrome) have no
 | Predicted New Indication | Gonococcal urethritis (best-supported of the top 10 predictions; the rank-1 prediction is polyclonal hyperviscosity syndrome, which has no supporting evidence) |
 | TxGNN Prediction Score | 0.9959 (gonococcal urethritis); rank-1 prediction scored 0.9973 |
 | Evidence Level | L5 (gonococcal urethritis: single-arm and uncontrolled clinical studies, no RCTs); L5 for the rank-1 prediction |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 8) |
+| Number of FDA Applications | 8 (active: 5) |
 | Recommended Decision | Hold (gonococcal urethritis may be pursued as a research question) |
 
 ---
@@ -110,8 +110,6 @@ Indirect evidence for other predictions:
 | NDA050580 (cancelled) | AZACTAM | Injection, powder, for solution | Not available |
 | ANDA206517 (cancelled) | Aztreonam (Hospira, Inc.) | Injection, powder, lyophilized, for solution | Not available |
 | ANDA065439 (cancelled) | Aztreonam (Fresenius Kabi USA, LLC) | Injection, powder, lyophilized, for solution | Not available |
-
-All three US authorizations are valid, and only injectable forms are listed.
 
 ---
 

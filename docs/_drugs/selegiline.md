@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "SELEGILINE"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Selegiline: predicted new indication Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **Schizophrenia** (the second-r
 | Predicted New Indication | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis |
 | TxGNN Prediction Score | 0.9915 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 6 of 8) |
-| Number of FDA Applications | 8 (valid: 6) |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 18) |
+| Number of FDA Applications | 18 (active: 7) |
 | Recommended Decision | Hold (treat as a research question) |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "NELARABINE"
 predicted_indications: ["relapsing-remitting multiple sclerosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Nelarabine: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Relapsing-remitting multiple sclerosis |
 | TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 10 of 10) |
-| Number of FDA Applications | 10 (valid: 10) |
+| US Market Status | Marketed (active FDA-approved applications: 11 of 11) |
+| Number of FDA Applications | 11 (active: 11) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

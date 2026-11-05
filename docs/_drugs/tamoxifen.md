@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1198
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "TAMOXIFEN"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Tamoxifen: predicted new indication Mammary Paget disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **mammary Paget disease**, with
 | Predicted New Indication | Mammary Paget disease |
 | TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of FDA Applications | 5 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 14) |
+| Number of FDA Applications | 14 (active: 6) |
 | Recommended Decision | Proceed with Guardrails |
 
 Note: The highest TxGNN score belongs to mammary Paget disease (0.9969), but its evidence is indirect (L4, Hold). Breast carcinoma in situ is the best-supported prediction in the data compiled for this report, so this report focuses on it.
@@ -105,7 +105,7 @@ The table lists the most relevant of the 35 registered trials, prioritizing thos
 | NDA021807 | SOLTAMOX (Mayne Pharma) | Liquid | Not listed (valid) |
 | ANDA075797 | Tamoxifen Citrate (Dr. Reddy's) | Film-coated tablet | Not listed (valid) |
 
-All five licenses in the dataset are valid. The label may differ by region or in other sources.
+The label may differ by region or in other sources.
 
 ## Cytotoxicity
 
@@ -147,7 +147,7 @@ Randomized Phase 3 evidence, including NSABP B-24, the placebo-controlled TAM-01
 - Obtain the FDA package insert warnings and contraindications (a blocking data gap).
 - Obtain detailed mechanism-of-action data from DrugBank.
 - Set up monitoring for endometrial and thromboembolic risk, and review CYP2D6 status and the drug interaction burden.
-- Confirm the regulatory status; all five US licenses in the dataset are valid.
+- Confirm the regulatory status.
 
 **Other predictions (all Hold, except where noted):**
 - **Mammary Paget disease** (L4): evidence is indirect, from case reports and surgical series.

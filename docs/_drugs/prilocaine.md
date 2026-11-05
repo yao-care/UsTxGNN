@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PRILOCAINE"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Prilocaine: predicted new indication Papillary conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -52,8 +52,8 @@ The evidence is early-stage: small, uncontrolled studies, mostly of the lidocain
 | Predicted New Indication | Papillary conjunctivitis |
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 16; OTC monograph / unapproved listings: 5) |
+| Number of FDA Applications | 16 (active: 9) |
 | Recommended Decision | Hold |
 
 ---

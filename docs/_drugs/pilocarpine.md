@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1044
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Pilocarpine: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN deep-learning model produced candidates for Pilocarpine at a score of 
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of FDA Applications | at least 10 |
+| US Market Status | Marketed (active FDA-approved applications: 12 of 18; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 18 (active: 12) |
 
 ## Known uses among the model's candidates
 

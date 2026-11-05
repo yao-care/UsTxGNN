@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1230
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "TIOCONAZOLE"
 predicted_indications: ["vulvitis", "postmenopausal atrophic vaginitis"]
 description: "Tioconazole: predicted new indication Vulvitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -48,8 +48,8 @@ Tioconazole is a topical imidazole antifungal that blocks ergosterol synthesis i
 | Predicted New Indication | Vulvitis |
 | TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 3) |
+| Number of FDA Applications | 3 (active: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

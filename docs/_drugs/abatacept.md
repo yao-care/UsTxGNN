@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 7
 monitor_inn: "ABATACEPT"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Abatacept: predicted new indication ankylosing spondylitis (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Abatacept is a biologic that blocks T-cell co-stimulation and is already markete
 | Predicted New Indication | ankylosing spondylitis |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

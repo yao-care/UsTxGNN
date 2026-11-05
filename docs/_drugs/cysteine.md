@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "CYSTEINE"
 predicted_indications: ["dry eye syndrome", "closed-angle glaucoma", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis", "exercise-induced malignant hyperthermia", "angle-closure glaucoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Cysteine: predicted new indication Dry eye syndrome (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **dry eye syndrome**, but there
 | Predicted New Indication | Dry eye syndrome |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L4 (preclinical and mechanism studies only) |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 4; OTC monograph / unapproved listings: 26) |
+| Number of FDA Applications | 4 (active: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -86,8 +86,6 @@ The most relevant publications are listed below. All are preclinical or review-l
 
 ## US Market Information
 
-All three US licenses are valid, and the data compiled for this report contain no approved indication text.
-
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | NDA212535 | Cysteine Hydrochloride (Baxter Healthcare) | Injection | Valid |
@@ -114,7 +112,7 @@ No drug interaction data were found.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score for dry eye is very high, but supporting evidence is limited to preclinical formulation and mechanism studies, with no clinical trials. In these studies cysteine acts as a component of a delivery system or prodrug, not as a stand-alone treatment. All three US licenses are valid, and no label safety data are available.
+The TxGNN score for dry eye is very high, but supporting evidence is limited to preclinical formulation and mechanism studies, with no clinical trials. In these studies cysteine acts as a component of a delivery system or prodrug, not as a stand-alone treatment.
 
 Other predicted indications are weaker:
 

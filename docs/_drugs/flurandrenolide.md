@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FLURANDRENOLIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "lichen planus pigmentosus", "hypertrophic lichen planus", "annular atrophic lichen planus", "alopecia areata", "primary cutaneous B-cell lymphoma", "alopecia mucinosa", "telogen effluvium", "lichen planus pemphigoides", "hereditary hypotrichosis with recurrent skin vesicles"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Flurandrenolide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **vulvar inverted follicular ke
 | Predicted New Indication | Vulvar inverted follicular keratosis |
 | TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 3) |
-| Number of FDA Applications | 3 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 10) |
+| Number of FDA Applications | 10 (active: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -89,8 +89,6 @@ Currently no related literature available.
 | NDA012806 | CORDRAN (INA Pharmaceutics, Inc) | Cream | Not available (valid) |
 | ANDA207133 | Flurandrenolide (Bryant Ranch Prepack) | Lotion | Not available (valid) |
 
-All three authorizations are valid, so the product is currently marketed in the US.
-
 ## Safety Considerations
 
 - **Knowledge-graph contraindication signals** (from drug-disease relationships, not label text): adrenocortical insufficiency, Addison disease, skin atrophy, telangiectasis, capillary disease, hereditary hemorrhagic telangiectasia, peripheral vascular disease, intermittent vascular claudication, and peripheral arterial disease.
@@ -104,7 +102,7 @@ Please refer to the package insert for further safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for vulvar inverted follicular keratosis has no supporting clinical trials or literature (L5). The condition is normally managed by excision, and the vulvar site raises skin atrophy concerns. All three US authorizations are valid and the drug is marketed, but label safety data are missing.
+The prediction for vulvar inverted follicular keratosis has no supporting clinical trials or literature (L5). The condition is normally managed by excision, and the vulvar site raises skin atrophy concerns.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

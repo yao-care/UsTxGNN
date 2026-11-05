@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1305
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "ZILEUTON"
 predicted_indications: ["bronchitis", "atopic eczema", "bronchial neoplasm (disease)", "Laubry-Pezzi syndrome", "heart disease", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome"]
 description: "Zileuton: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ However, there are currently **no clinical trials and no publications** for this
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of FDA Applications | 3 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 8) |
+| Number of FDA Applications | 8 (active: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -75,8 +75,6 @@ Currently no related literature available.
 | ANDA215742 | Zileuton (Camber Pharmaceuticals) | Tablet, film coated, extended release | Not specified; status valid |
 | ANDA212670 | Zileuton (Strides Pharma Science) | Tablet, multilayer, extended release | Not specified; status valid |
 | ANDA204929 | Zileuton (Rising Pharma Holdings) | Tablet, extended release | Not specified; status valid |
-
-All three licences are currently valid, and the drug is marketed in the United States.
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FERRIC CARBOXYMALTOSE"
 predicted_indications: ["bronchitis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Ferric Carboxymaltose: predicted new indication Bronchitis (evidence level L5). Approved use: Iron deficiency and iron deficiency anemia"
 ---
 
@@ -50,8 +50,8 @@ but **no clinical trials and no publications** currently support this direction,
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 0.9900 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 4) |
+| Number of FDA Applications | 4 (active: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

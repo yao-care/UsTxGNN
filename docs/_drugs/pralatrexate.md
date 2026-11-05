@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PRALATREXATE"
 predicted_indications: ["pleural adenomatoid tumor", "relapsing-remitting multiple sclerosis", "pleural biphasic mesothelioma", "pleural epithelioid mesothelioma", "lymphohistiocytoid mesothelioma", "pericardium cancer", "pleural sarcomatoid mesothelioma", "malignant peritoneal mesothelioma", "well differentiated papillary mesothelioma", "pleural mesothelioma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Pralatrexate: predicted new indication Pleural mesothelioma . The rank 1 prediction, pleural adenomatoid tumor, has no evidence. (pleural adenomatoid tumor) (evidence level L5). Approved use: Not rec…"
 ---
 
@@ -53,8 +53,8 @@ The TxGNN model's top-ranked prediction is *pleural adenomatoid tumor*, which ha
 | Predicted New Indication | Pleural mesothelioma (rank 10, best evidence). The rank 1 prediction, pleural adenomatoid tumor, has no evidence. (pleural adenomatoid tumor) |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 (one single-arm Phase II study and one review; details not verified) |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 2) |
+| Number of FDA Applications | 2 (active: 2) |
 | Recommended Decision | Hold |
 
 ---

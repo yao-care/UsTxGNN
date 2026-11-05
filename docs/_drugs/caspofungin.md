@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CASPOFUNGIN"
 predicted_indications: ["gastrin secretion abnormality"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Caspofungin: predicted new indication gastrin secretion abnormality (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ Currently there are **no clinical trials** and **no publications** in the compil
 | Predicted New Indication | gastrin secretion abnormality |
 | TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 3 of 5) |
-| Number of FDA Applications | 5 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 9) |
+| Number of FDA Applications | 9 (active: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

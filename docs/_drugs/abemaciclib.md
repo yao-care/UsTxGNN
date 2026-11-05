@@ -3,7 +3,7 @@ layout: default
 title: Abemaciclib
 parent: Known Uses Only (No New Predictions)
 nav_order: 43
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Abemaciclib: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0
@@ -45,8 +45,8 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Abemaciclib,
 | Item | Content |
 |------|------|
 | Known uses recorded for this drug | 1 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 2) |
+| Number of FDA Applications | 2 (active: 2) |
 
 ## Known uses recorded for this drug
 

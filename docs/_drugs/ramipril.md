@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1107
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "RAMIPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
 description: "Ramipril: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ but the evidence is thin: **0 clinical trials** and only **1 directly relevant p
 | Predicted New Indication | Pulmonary hypertension owing to lung disease and/or hypoxia |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | at least 6 |
+| US Market Status | Marketed (active FDA-approved applications: 8 of 20) |
+| Number of FDA Applications | 20 (active: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -82,8 +82,6 @@ Only the first paper below addresses ramipril in a hypoxic pulmonary setting. Th
 | [1650863](https://pubmed.ncbi.nlm.nih.gov/1650863/) | 1991 | Mechanistic review | Klin Wochenschr | Radical-scavenging properties of ACE inhibitors; ramipril lacks a sulfhydryl group and was inactive |
 
 ## US Market Information
-
-All six licences are valid, and no approved-indication text is recorded for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

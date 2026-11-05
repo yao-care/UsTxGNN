@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 680
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "ETEPLIRSEN"
 predicted_indications: ["Bethlem myopathy", "nebulin-related early-onset distal myopathy", "X-linked myopathy with postural muscle atrophy", "intellectual disability-hyperkinetic movement-truncal ataxia syndrome"]
 description: "Eteplirsen: predicted new indication Bethlem myopathy (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ The prediction is supported by **10 clinical trials** (including 2 Phase 3 studi
 | Predicted New Indication | Bethlem myopathy |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 (see note in the conclusion) |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

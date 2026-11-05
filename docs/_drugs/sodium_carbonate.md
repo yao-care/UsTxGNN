@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "SODIUM CARBONATE"
 predicted_indications: ["cauda equina syndrome", "anaphylaxis", "food-dependent exercise-induced anaphylaxis", "obsolete neurogenic bladder (disease)", "dry eye syndrome", "ventricular tachycardia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Sodium Carbonate: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: No approved indication text on record"
 ---
 
@@ -48,8 +48,8 @@ Sodium carbonate is an alkalinizing agent, and no approved indication is on reco
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 0 of 2; OTC monograph / unapproved listings: 97) |
+| Number of FDA Applications | 2 (active: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

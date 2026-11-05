@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "PHENTERMINE"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Phentermine: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but **0 clinical trials** and **0 publications** currently support this predicti
 | Predicted New Indication | Hypervitaminosis |
 | TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of FDA Applications | at least 11 |
+| US Market Status | Marketed (active FDA-approved applications: 24 of 103) |
+| Number of FDA Applications | 103 (active: 24) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

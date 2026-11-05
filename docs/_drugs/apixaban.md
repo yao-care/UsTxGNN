@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "APIXABAN"
 predicted_indications: ["migraine disorder"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Apixaban: predicted new indication Migraine disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be relevant for **migraine disorder**, but the e
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9902 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 3 of 5) |
-| Number of FDA Applications | 5 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 17) |
+| Number of FDA Applications | 17 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

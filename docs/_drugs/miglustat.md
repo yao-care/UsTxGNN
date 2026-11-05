@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MIGLUSTAT"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Miglustat: predicted new indication Autosomal ichthyosis syndrome with fatal disease course (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,8 +51,8 @@ Among the top 10 TxGNN predictions, the best-supported new indication is **Tay-S
 | Predicted New Indication | Autosomal ichthyosis syndrome with fatal disease course |
 | TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L5 (see note under Clinical Trial Evidence) |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of FDA Applications | 5 (valid: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 6) |
+| Number of FDA Applications | 6 (active: 5) |
 | Recommended Decision | Hold |
 
 ---
@@ -130,13 +130,13 @@ Please refer to the package insert for full warnings and contraindications, whic
 **Decision: Hold**
 
 **Rationale:**
-Tay-Sachs disease has a coherent mechanistic rationale, a randomized study in late-onset disease, a systematic review and four registered trials. However, the trials are small, pharmacokinetic or safety focused, or terminated early, and a case series showed no arrest of neurological decline in the infantile form. Safety label data are missing, although all five US licenses are valid. The other nine predictions have no supporting evidence and remain model predictions only (L5, Hold).
+Tay-Sachs disease has a coherent mechanistic rationale, a randomized study in late-onset disease, a systematic review and four registered trials. However, the trials are small, pharmacokinetic or safety focused, or terminated early, and a case series showed no arrest of neurological decline in the infantile form. Safety label data are missing. The other nine predictions have no supporting evidence and remain model predictions only (L5, Hold).
 
 **To proceed, the following is needed:**
 - The package insert (warnings and contraindications), which is a blocking gap for safety screening
 - Detailed mechanism of action data from DrugBank
 - Efficacy results from the late-onset Tay-Sachs RCT (PMID 19346952) and the GM2 systematic review (PMID 37209042), and the outcomes of the terminated trials NCT02030015 and NCT03822013
-- Clarification of the regulatory pathway, noting that all five US licenses are currently valid
+- Clarification of the regulatory pathway
 - Safety assessment for patients with peripheral neuropathy or renal impairment
 ## Disclaimer
 

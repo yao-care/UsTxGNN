@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "PLAZOMICIN"
 predicted_indications: ["gonococcal urethritis", "Ureaplasma urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Plazomicin: predicted new indication Gonococcal urethritis (evidence level L5). Approved use: Urinary tract infection"
 ---
 
@@ -51,7 +51,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L5 |
 | US Market Status | Not marketed (licenses canceled: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 0) |
+| Number of FDA Applications | 1 (active: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

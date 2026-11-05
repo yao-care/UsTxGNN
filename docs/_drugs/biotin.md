@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "BIOTIN"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Biotin: predicted new indication Dyspepsia (evidence level L5). Approved use: Nutritional biotin deficiency"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **dyspepsia**, but there are cu
 | Predicted New Indication | Dyspepsia |
 | TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | at least 3 |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 15; OTC monograph / unapproved listings: 86) |
+| Number of FDA Applications | 15 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -85,8 +85,6 @@ None of these studies tests biotin as a treatment for dyspepsia.
 | NDA nan | Biotin Drops | Liquid | Not specified (cancelled) |
 | M032 | AVEYA BIOTIN HAIR GROWTH | Liquid | Not specified (valid) |
 | 505G(a)(3) | 5% Minoxidil Hair Growth Foam with Biotin | Aerosol, foam | Not specified (valid) |
-
-All three authorizations are valid, and none lists an approved indication.
 
 ## Safety Considerations
 

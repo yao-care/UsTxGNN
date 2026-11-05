@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "PALBOCICLIB"
 predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Palbociclib: predicted new indication Hyperthyroidism (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Palbociclib is a CDK4/6 inhibitor used in HR-positive, HER2-negative breast canc
 | Predicted New Indication | Hyperthyroidism |
 | TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 (rheumatoid arthritis) |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 3) |
+| Number of FDA Applications | 3 (active: 2) |
 | Recommended Decision | Hold |
 
 **Note on the other predictions:** hyperthyroidism (0.9944), thrombotic disease (0.9932), and resistance to thyroid hormone due to a THRB mutation (0.9930) are all rated Hold. Thrombotic disease is a safety concern, not a therapeutic opportunity (see below).

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -42,7 +42,7 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 This four-component OTC combination (analgesic + antitussive + expectorant + decongestant) is a classic cold and flu symptom-relief product widely used globally.
 The TxGNN model **did not generate any new indication predictions** for this combination — most likely because TxGNN operates on single molecular entities, and this multi-ingredient compound lacks a unified DrugBank ID.
-Due to the absence of predictions, Taiwan regulatory data, and safety records, **no repurposing evaluation can be completed at this stage**.
+Due to the absence of predictions and safety records, **no repurposing evaluation can be completed at this stage**.
 
 ---
 
@@ -54,8 +54,8 @@ Due to the absence of predictions, Taiwan regulatory data, and safety records, *
 | Predicted New Indication | None (TxGNN returned no predictions) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction unavailable; no supporting studies identified |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | at least 5 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 2) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---
@@ -90,7 +90,7 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-TxGNN cannot process multi-ingredient combinations without individual DrugBank node identifiers; zero predictions were generated, and Taiwan regulatory and safety records are both absent, making a repurposing evaluation impossible at this stage.
+TxGNN cannot process multi-ingredient combinations without individual DrugBank node identifiers; zero predictions were generated, and safety records are absent, making a repurposing evaluation impossible at this stage.
 
 **To proceed, the following is needed:**
 
@@ -100,7 +100,6 @@ TxGNN cannot process multi-ingredient combinations without individual DrugBank n
   - Guaifenesin → DB00806
   - Pseudoephedrine → DB00852
 - **Aggregate component-level predictions**: Identify diseases that appear in the top predictions for two or more components simultaneously, as these represent the most actionable combinatorial repurposing signals
-- **Retrieve Taiwan regulatory status per component**: Each ingredient may have individual TFDA licenses even if the fixed-dose combination does not
 - **Obtain safety data**: Query DrugBank API per component to retrieve MOA, warnings, contraindications, and DDI profiles
 - **Determine regulatory pathway**: If a repurposing candidate is identified, clarify whether it requires a new NDA for the combination or whether individual component data is sufficient for bridging
 ## Disclaimer

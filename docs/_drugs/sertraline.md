@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1157
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "SERTRALINE"
 predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Sertraline: predicted new indication Paranoid personality disorder (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ Sertraline is an SSRI antidepressant that is marketed in the United States in se
 | Predicted New Indication | Paranoid personality disorder |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of FDA Applications | at least 8 |
+| US Market Status | Marketed (active FDA-approved applications: 24 of 39) |
+| Number of FDA Applications | 39 (active: 24) |
 | Recommended Decision | Hold |
 
 ---

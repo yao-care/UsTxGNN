@@ -5,7 +5,7 @@ layout: default
 title: Lebrikizumab
 parent: Known Uses Only (No New Predictions)
 nav_order: 841
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Lebrikizumab: known uses and market status in the United States; currently no new candidate indication"
 monitor_inn: "Lebrikizumab"
 predicted_indications: []
@@ -43,8 +43,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 
 ## US Market Information
 

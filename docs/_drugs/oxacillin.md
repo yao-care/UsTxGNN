@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "OXACILLIN"
 predicted_indications: ["epiglottitis", "laryngitis", "bacterial arthritis", "urinary tract infection (disease)"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Oxacillin: predicted new indication Epiglottitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **Epiglottitis**, but this pred
 | Predicted New Indication | Epiglottitis |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 8 of 8) |
-| Number of FDA Applications | 8 (valid: 8) |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 31) |
+| Number of FDA Applications | 31 (active: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -71,7 +71,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 8 US authorizations are valid, and the drug is marketed. No approved indication text is recorded for any of them.
+No approved indication text is recorded for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -103,7 +103,7 @@ The package insert's warnings and contraindications could not be retrieved, so p
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score, with no trials or literature for epiglottitis. Staphylococcal involvement is uncommon, and standard empirical therapy targets other organisms. All 8 US licenses are valid.
+The prediction is supported only by the model score, with no trials or literature for epiglottitis. Staphylococcal involvement is uncommon, and standard empirical therapy targets other organisms.
 
 **To proceed, the following is needed:**
 - Clinical or observational evidence of oxacillin use in staphylococcal epiglottitis

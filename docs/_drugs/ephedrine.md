@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 658
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Ephedrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, rhinitis…"
 monitor_inn: "EPHEDRINE"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
@@ -50,8 +50,8 @@ but the data compiled for this report contain **0 clinical trials** and only **2
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of FDA Applications | at least 14 |
+| US Market Status | Marketed (active FDA-approved applications: 20 of 24; OTC monograph / unapproved listings: 5) |
+| Number of FDA Applications | 24 (active: 20) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -77,7 +77,7 @@ Both publications are low-tier evidence. They involve combination products and d
 
 ## US Market Information
 
-All 14 licenses are valid, and no approved indication text is recorded for any of them. The five main entries are shown below.
+The five main entries are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

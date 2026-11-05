@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ATRACURIUM BESYLATE"
 predicted_indications: ["preeclampsia", "cauda equina syndrome", "blepharospasm", "migraine disorder", "obsolete neurogenic bladder (disease)", "thrombotic disease", "migraine with brainstem aura", "severe pre-eclampsia", "mild pre-eclampsia", "irritable bowel syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Atracurium Besylate: predicted new indication preeclampsia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be relevant to **preeclampsia**, but **no clinic
 | Predicted New Indication | preeclampsia |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 4 of 6) |
-| Number of FDA Applications | 6 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 23) |
+| Number of FDA Applications | 23 (active: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

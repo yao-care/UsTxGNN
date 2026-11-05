@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "AFLIBERCEPT"
 predicted_indications: ["esotropia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Aflibercept: predicted new indication Esotropia (evidence level L5). Approved use: Metastasis from malignant tumor of colon"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **esotropia**, but **no clinica
 | Predicted New Indication | Esotropia |
 | TxGNN Prediction Score | 0.9938 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of FDA Applications | 6 (valid: 6) |
+| US Market Status | Marketed (active FDA-approved applications: 8 of 8) |
+| Number of FDA Applications | 8 (active: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

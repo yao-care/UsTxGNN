@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SELENIUM"
 predicted_indications: ["sclerosing cholangitis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Selenium: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Selenium is an essential trace element, marketed in the US mainly as selenious a
 | Predicted New Indication | Sclerosing cholangitis |
 | TxGNN Prediction Score | 0.9904 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | at least 3 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 162) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

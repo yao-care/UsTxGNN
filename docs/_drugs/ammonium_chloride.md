@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "AMMONIUM CHLORIDE"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Ammonium Chloride: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Pharyngitis, common cold, nasopharyngitis"
 ---
 
@@ -50,8 +50,8 @@ There are currently **0 clinical trials** and **0 publications** supporting this
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | at least 3 |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 5; OTC monograph / unapproved listings: 48) |
+| Number of FDA Applications | 5 (active: 1) |
 | Number of approvals | At least 3 licences (the list may be partial) |
 | Recommended Decision | Hold |
 

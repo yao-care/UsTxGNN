@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 638
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "DYCLONINE"
 predicted_indications: ["bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "gastroduodenitis", "peptic ulcer disease", "irritable bowel syndrome"]
 description: "Dyclonine: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,8 +52,8 @@ The only indication with any supporting literature among the top 10 predictions 
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | at least 3 |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 2; OTC monograph / unapproved listings: 21) |
+| Number of FDA Applications | 2 (active: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -95,8 +95,6 @@ This study supports biological plausibility only and is not evidence of efficacy
 | ANDA200480 | DycloPro (Septodont Inc) | Solution | Not available (valid) |
 | M022 | Sucrets Sore Throat Wild Cherry (Insight Pharmaceuticals LLC) | Lozenge | Not available (valid) |
 | M003 | Leader Liquid Bandage (LEADER / Cardinal Health 110, Inc.) | Liquid | Not available (valid) |
-
-The drug is marketed in the US, with 3 valid licenses.
 
 ---
 

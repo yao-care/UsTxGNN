@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TRANEXAMIC ACID"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Tranexamic Acid: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and only **2 publications** (both 
 | Predicted New Indication | Amenorrhea (disease) |
 | TxGNN Prediction Score | 0.9919 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of FDA Applications | at least 13 |
+| US Market Status | Marketed (active FDA-approved applications: 27 of 36) |
+| Number of FDA Applications | 36 (active: 27) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -75,7 +75,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 13 licenses are valid, and none carries approved indication text in the data compiled. The first five are listed below.
+The first five are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

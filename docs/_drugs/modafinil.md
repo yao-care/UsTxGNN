@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MODAFINIL"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Modafinil: predicted new indication 失眠 (insomnia (disease)) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Modafinil is a wake-promoting agent that is mainly used to reduce excessive dayt
 | Predicted New Indication | 失眠 (insomnia (disease)) |
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of FDA Applications | at least 7 |
+| US Market Status | Marketed (active FDA-approved applications: 8 of 11) |
+| Number of FDA Applications | 11 (active: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

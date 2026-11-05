@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SILVER"
 predicted_indications: ["bone Paget disease"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Silver: predicted new indication Bone Paget disease (evidence level L5). Approved use: Not available"
 ---
 
@@ -49,8 +49,8 @@ The 5 retrieved papers use silver only as a staining reagent or concern unrelate
 | Predicted New Indication | Bone Paget disease |
 | TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 1) |
-| Number of FDA Applications | at least 1 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 397) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

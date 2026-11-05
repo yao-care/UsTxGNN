@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "REGORAFENIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "childhood kidney cell carcinoma", "vulva sarcoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Regorafenib: predicted new indication Liposarcoma (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ However, the randomized trial data in liposarcoma (REGOSARC and the SARC024 lipo
 | Predicted New Indication | Liposarcoma |
 | TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 3) |
+| Number of FDA Applications | 3 (active: 2) |
 | Recommended Decision | Hold (the compiled system output was "Proceed with Guardrails", but see rationale below) |
 
 ## Why is This Prediction Reasonable?

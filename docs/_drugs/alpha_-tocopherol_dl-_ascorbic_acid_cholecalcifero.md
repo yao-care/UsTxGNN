@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 255
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -36,15 +36,13 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 ## Alpha -Tocopherol Dl- Ascorbic Acid Cholecalcifero
 {: .text-alpha }
 
-
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
 | Original Indication | Not recorded in the local data |
-| US Market Status | Marketed (valid licenses on record: at least 4) |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of FDA Applications | at least 4 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 3) |
+| Number of FDA Applications | 0 |
 
 ---
 

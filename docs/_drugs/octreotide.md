@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "OCTREOTIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Octreotide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **Vulvar Inverted Follicular Ke
 | Predicted New Indication | Vulvar inverted follicular keratosis |
 | TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 14) |
-| Number of FDA Applications | at least 14 |
+| US Market Status | Marketed (active FDA-approved applications: 19 of 27) |
+| Number of FDA Applications | 27 (active: 19) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

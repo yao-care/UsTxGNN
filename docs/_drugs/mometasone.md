@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MOMETASONE"
 predicted_indications: ["primary cutaneous T-cell lymphoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Mometasone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L5). Approved use: Not stated in the US license records"
 ---
 
@@ -50,8 +50,8 @@ but there are currently **0 registered clinical trials** and only **2 case repor
 | Predicted New Indication | Primary cutaneous T-cell lymphoma |
 | TxGNN Prediction Score | 0.9936 |
 | Evidence Level | L5 (model prediction only; the only literature is two case reports, which does not meet L3 criteria) |
-| US Market Status | Marketed (valid licenses: 3 of 4) |
-| Number of FDA Applications | 4 (valid: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 20 of 35) |
+| Number of FDA Applications | 35 (active: 20) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -82,7 +82,7 @@ Currently no related clinical trials registered.
 | ANDA215878 | Mometasone Furoate Monohydrate | Metered spray | Not listed (valid) |
 | ANDA091161 | Mometasone Furoate | Metered spray | Not listed (valid) |
 
-The drug is marketed in the US, and all 4 licenses are valid. All are metered nasal sprays. No topical formulation is represented in the data compiled for this report.
+All are metered nasal sprays. No topical formulation is represented in the data compiled for this report.
 
 ## Safety Considerations
 

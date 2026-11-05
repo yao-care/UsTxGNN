@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "LOMUSTINE"
 predicted_indications: ["lymphosarcoma", "malignant tumor of meninges", "spinal cord cancer"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Lomustine: predicted new indication Lymphosarcoma (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Lomustine is an oral nitrosourea alkylating chemotherapy that crosses the blood-
 | Predicted New Indication | Lymphosarcoma |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 2) |
+| Number of FDA Applications | 2 (active: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

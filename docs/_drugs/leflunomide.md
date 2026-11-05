@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "LEFLUNOMIDE"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Leflunomide: predicted new indication Brachydactyly-Syndactyly Syndrome (evidence level L5). Approved use: Rheumatoid arthritis"
 ---
 
@@ -50,8 +50,8 @@ but currently **0 clinical trials** and **0 publications** support this directio
 | Predicted New Indication | Brachydactyly-Syndactyly Syndrome |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
-| Number of FDA Applications | at least 9 |
+| US Market Status | Marketed (active FDA-approved applications: 10 of 13) |
+| Number of FDA Applications | 13 (active: 10) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "STREPTOZOCIN"
 predicted_indications: ["relapsing-remitting multiple sclerosis", "small cell lung carcinoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung", "hereditary breast ovarian cancer syndrome", "primary pulmonary lymphoma", "lymphosarcoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Streptozocin: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -50,8 +50,8 @@ The second-ranked prediction, **small cell lung carcinoma**, has **2 publication
 | Predicted New Indication | Relapsing-remitting multiple sclerosis |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 0 of 1; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 1 (active: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

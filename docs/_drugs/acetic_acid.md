@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ACETIC ACID"
 predicted_indications: ["post-bacterial disorder", "postinfectious vasculitis", "post-infectious syndrome", "Chagas cardiomyopathy", "infective urethral stricture", "infection-related hemolytic uremic syndrome", "drug-induced osteoporosis", "pityriasis simplex", "tinea corporis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Acetic Acid: predicted new indication post-bacterial disorder (evidence level L5). Approved use: Otitis externa"
 ---
 
@@ -50,8 +50,8 @@ The top-scoring predictions (e.g., post-bacterial disorder) have no supporting s
 | Predicted New Indication | Tinea corporis (highest-ranked prediction by TxGNN is post-bacterial disorder, but it has no evidence, so tinea corporis is the focus here) |
 | TxGNN Prediction Score | 0.9925 (tinea corporis); 0.9998 (post-bacterial disorder, rank 1, no evidence) |
 | Evidence Level | L5 (tinea corporis); L5 for all other predictions |
-| US Market Status | Marketed (valid licenses: 4 of 6) |
-| Number of FDA Applications | 6 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 8 of 24; OTC monograph / unapproved listings: 35) |
+| Number of FDA Applications | 24 (active: 8) |
 | Recommended Decision | Hold (tinea corporis may be treated as a research question) |
 
 ## Why is This Prediction Reasonable?
@@ -88,7 +88,7 @@ For post-infectious syndrome, the only publication is [20848144](https://pubmed.
 
 ## US Market Information
 
-All six authorizations are valid and the drug is currently marketed. The data compiled for this report contains no approved indication text for any of them.
+The data compiled for this report contains no approved indication text for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
@@ -113,7 +113,7 @@ Please refer to the package insert for warnings and other safety information, as
 **Decision: Hold**
 
 **Rationale:**
-All predictions are supported only by model scores. Tinea corporis has the best indirect support (L4: historical reports and in vitro data, with plausible acidification-based antifungal activity), but it has no registered trials and no modern controlled studies. All six US authorizations are valid, but label-based safety data are missing. Tinea corporis may be pursued as a research question; the other predictions should not be pursued without new evidence.
+All predictions are supported only by model scores. Tinea corporis has the best indirect support (L4: historical reports and in vitro data, with plausible acidification-based antifungal activity), but it has no registered trials and no modern controlled studies. Tinea corporis may be pursued as a research question; the other predictions should not be pursued without new evidence.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

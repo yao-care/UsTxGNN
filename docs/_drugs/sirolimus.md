@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1166
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "SIROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
 description: "Sirolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,8 +52,8 @@ Evidence is thin: **1 clinical trial** (a Phase 2 study of sirolimus plus cyclop
 | Predicted New Indication | Liposarcoma |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of FDA Applications | at least 11 |
+| US Market Status | Marketed (active FDA-approved applications: 15 of 16) |
+| Number of FDA Applications | 16 (active: 15) |
 | Recommended Decision | Hold |
 
 ---
@@ -100,7 +100,7 @@ None of these publications reports sirolimus given to patients with liposarcoma.
 | ANDA214753 | Sirolimus (Ascend) | Tablet, film coated | Not available |
 | ANDA208691 | Sirolimus (Northstar Rx) | Tablet, film coated | Not available |
 
-All 11 licences on record are valid, and the list above shows only the first five. The records may be partial.
+The records may be partial.
 
 ---
 

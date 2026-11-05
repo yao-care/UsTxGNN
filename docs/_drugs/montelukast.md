@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 942
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "MONTELUKAST"
 predicted_indications: ["bronchitis", "atopic eczema"]
 description: "Montelukast: predicted new indication Bronchitis (evidence level L2). Approved use: Not recorded in the local data"
@@ -52,8 +52,8 @@ The data compiled for this report include **17 clinical trials** and **20 public
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of FDA Applications | at least 14 |
+| US Market Status | Marketed (active FDA-approved applications: 34 of 52) |
+| Number of FDA Applications | 52 (active: 34) |
 | Recommended Decision | Hold |
 
 ---

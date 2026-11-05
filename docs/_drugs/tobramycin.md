@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1237
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "TOBRAMYCIN"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
 description: "Tobramycin: predicted new indication Exposure keratitis (evidence level L4). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **Exposure Keratitis**, but **n
 | Predicted New Indication | Exposure keratitis |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses on record: at least 15) |
-| Number of FDA Applications | at least 15 |
+| US Market Status | Marketed (active FDA-approved applications: 41 of 73) |
+| Number of FDA Applications | 73 (active: 41) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

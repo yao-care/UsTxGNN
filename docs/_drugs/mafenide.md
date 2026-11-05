@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MAFENIDE"
 predicted_indications: ["irritable bowel syndrome", "cauda equina syndrome", "panuveitis (disease)", "iris disease", "uveitis", "acne (disease)", "isolated iridoschisis", "abnormal pupillary function (disease)", "benign neoplasm of iris", "iris cancer"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Mafenide: predicted new indication Irritable bowel syndrome (evidence level L5). Approved use: Not stated in the available regulatory data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **irritable bowel syndrome**, b
 | Predicted New Indication | Irritable bowel syndrome |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 4) |
+| Number of FDA Applications | 4 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1042
 evidence_level: L3
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "PHENYLEPHRINE"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Phenylephrine: predicted new indication Nasal cavity disease (evidence level L3). Approved use: Not recorded in the local data"
@@ -52,8 +52,8 @@ This is largely an extension of existing indications, and the evidence is still 
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of FDA Applications | at least 12 |
+| US Market Status | Marketed (active FDA-approved applications: 41 of 58; OTC monograph / unapproved listings: 1349) |
+| Number of FDA Applications | 58 (active: 41) |
 | Recommended Decision | Hold |
 
 ---
@@ -88,7 +88,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 12 US authorizations are valid. The records contain no approved-indication text. Main entries:
+The records contain no approved-indication text. Main entries:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "FELBAMATE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Felbamate: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy (partial epilepsy, Lennox-Gastaut syndrome)"
 ---
 
@@ -52,8 +52,8 @@ Support for trigeminal neuralgia is thin: **0 registered clinical trials** and *
 | Predicted New Indication | Trigeminal neuralgia (the top-ranked prediction, trigeminal nerve neoplasm, is discussed below) |
 | TxGNN Prediction Score | 0.9918 (trigeminal neuralgia); 0.9962 (trigeminal nerve neoplasm) |
 | Evidence Level | L5 (trigeminal neuralgia); L5 (trigeminal nerve neoplasm) |
-| US Market Status | Marketed (valid licenses on record: at least 8) |
-| Number of FDA Applications | at least 8 |
+| US Market Status | Marketed (active FDA-approved applications: 8 of 9) |
+| Number of FDA Applications | 9 (active: 8) |
 | Recommended Decision | Hold |
 
 ---

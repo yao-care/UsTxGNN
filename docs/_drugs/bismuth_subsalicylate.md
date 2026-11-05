@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BISMUTH SUBSALICYLATE"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "salmonellosis", "typhoid fever", "conjunctivitis", "relapsing fever", "acute contagious conjunctivitis", "gingivitis", "punctate epithelial keratoconjunctivitis", "otitis externa"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Bismuth Subsalicylate: predicted new indication Paratyphoid fever (evidence level L5). Approved use: Diarrheal disease, dyspepsia"
 ---
 
@@ -50,8 +50,8 @@ The data compiled for this report show the strongest (still only indirect) suppo
 | Predicted New Indication | Paratyphoid fever |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | at least 3 |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 2; OTC monograph / unapproved listings: 228) |
+| Number of FDA Applications | 2 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -100,8 +100,6 @@ For **gingivitis** (second supported prediction), the literature is preclinical 
 | M008 | Stomach Relief | Liquid | Not specified (valid) |
 | M002 | GNP Pink Bismuth | Chewable tablet | Not specified (valid) |
 
-The drug is marketed in the US, and all three authorizations are valid.
-
 ## Safety Considerations
 
 - **Contraindications (reported associations, not label text)**: The drug is associated with liver failure, liver disease, kidney disease, gallbladder disease, epilepsy, diabetes mellitus, diabetic ketoacidosis, neutropenia, agranulocytosis, gout, peripheral neuropathy and other peripheral nervous system disease, blood coagulation disease, brain disease, non-infectious meningitis, substance abuse/dependence, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, and pyoureter. These should be verified against official labeling.
@@ -117,7 +115,7 @@ Label-based warnings were not available for this report. Please refer to the pac
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, paratyphoid fever, rests on model score alone (L5) with no trials or literature, and a non-absorbed gut-acting agent is unlikely to treat a systemic infection. The drug is marketed in the US with three valid authorizations, and label safety data are missing. Salmonellosis and gingivitis are worth treating as research questions (L4), but their support is limited to in vitro, veterinary, and historical sources.
+The top-ranked prediction, paratyphoid fever, rests on model score alone (L5) with no trials or literature, and a non-absorbed gut-acting agent is unlikely to treat a systemic infection. Salmonellosis and gingivitis are worth treating as research questions (L4), but their support is limited to in vitro, veterinary, and historical sources.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
@@ -125,7 +123,7 @@ The top-ranked prediction, paratyphoid fever, rests on model score alone (L5) wi
 - Human clinical data for enteric infections such as salmonellosis, and for any systemic enteric fever, before further investment
 - For gingivitis, modern controlled studies and a suitable topical or oral-care formulation
 - Confirmation of the contraindication signals listed above against official labeling
-- Confirmation of current US regulatory status, given that the drug is marketed with three valid authorizations
+- Confirmation of current US regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

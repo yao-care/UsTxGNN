@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1098
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "PSEUDOEPHEDRINE"
 predicted_indications: ["nasal cavity disease", "allergic urticaria"]
 description: "Pseudoephedrine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,8 +52,8 @@ This is largely an extension of existing use rather than a true repurposing.
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | at least 3 |
+| US Market Status | Marketed (active FDA-approved applications: 57 of 128; OTC monograph / unapproved listings: 79) |
+| Number of FDA Applications | 128 (active: 57) |
 | Recommended Decision | Hold |
 
 ---
@@ -96,7 +96,7 @@ Currently no related clinical trials registered.
 | M012 | Nasal Decongestant (CVS Pharmacy) | Film-coated tablet | Not available (valid) |
 | ANDA077442 | Pseudoephedrine Hydrochloride (Publix Super Markets) | Film-coated extended-release tablet | Not available (valid) |
 
-All three authorizations are currently valid, and the drug is marketed. All listed forms are oral.
+All listed forms are oral.
 
 ---
 

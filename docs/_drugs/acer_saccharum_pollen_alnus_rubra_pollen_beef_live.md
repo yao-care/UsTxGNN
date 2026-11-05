@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 79
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -36,8 +36,6 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 ## Acer Saccharum Pollen Alnus Rubra Pollen Beef Live
 {: .text-alpha }
 
-
-
 ## Quick Overview
 
 | Item | Content |
@@ -45,9 +43,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Drug Name (INN) | 18-component allergen mixture (pollen extracts, bovine materials, corticotropin, histamine dihydrochloride) |
 | DrugBank ID | Not assigned |
 | Original Indication | Not recorded in the local data |
-| US Market Status | Marketed (valid licenses on record: at least 3) |
-| Number of FDA Applications | at least 3 |
-| Taiwan Market Status | Not marketed (0 licenses) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 
 ---
 

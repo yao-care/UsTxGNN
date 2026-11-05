@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ With no original indication on record, no predicted indication, and all safety d
 | Predicted New Indication | None identified by TxGNN |
 | TxGNN Prediction Score | Not available |
 | Evidence Level | Below L5 — no predictions generated |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | at least 5 |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 
 ---
@@ -106,7 +106,7 @@ Given the presence of **arsenic-containing ingredients**, the following general 
 - Hepatotoxicity and peripheral neuropathy have been reported with arsenic compounds
 - Sanguinaria canadensis (bloodroot) contains sanguinarine, which carries mucosal toxicity risk
 
-Formal safety profiling via DrugBank API, TFDA package insert review, and DDI screening should be completed before any further evaluation.
+Formal safety profiling via DrugBank API, package insert review, and DDI screening should be completed before any further evaluation.
 
 ---
 
@@ -122,7 +122,7 @@ This candidate is a multi-component mixture for which TxGNN cannot generate mean
 - **Clarify the product identity**: Determine whether this is a registered homeopathic product, a compounded preparation, or an experimental formulation; obtain a precise formulation with concentrations for each ingredient
 - **Decompose into individual components**: If repurposing research is the goal, evaluate arsenic trioxide separately (DrugBank: DB01169) as it has an established indication and active clinical trial record (APL and potentially other hematologic malignancies)
 - **Obtain DrugBank mapping**: At minimum for arsenic trioxide and sanguinaria canadensis, which have the highest pharmacological activity
-- **Safety baseline**: Complete TFDA package insert review (if any component is registered), toxicology literature review for arsenic compounds, and full DDI screening for each active ingredient individually
+- **Safety baseline**: Complete package insert review (if any component is registered), toxicology literature review for arsenic compounds, and full DDI screening for each active ingredient individually
 - **Regulatory classification**: Determine whether this compound is classified as a homeopathic medicine, traditional medicine, or compounded drug in the target jurisdiction — this determines which evidence standards apply
 ## Disclaimer
 

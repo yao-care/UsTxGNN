@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 6
 monitor_inn: "BUPRENORPHINE"
 predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "extrapyramidal and movement disease", "benign shuddering attacks"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Buprenorphine: predicted new indication Acute intermittent porphyria (evidence level L4). Approved use: Opioid dependence (also substance abuse/dependence and morphine depen…"
 ---
 
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and only **1 publication** (an ane
 | Predicted New Indication | Acute intermittent porphyria |
 | TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of FDA Applications | at least 11 |
+| US Market Status | Marketed (active FDA-approved applications: 41 of 53) |
+| Number of FDA Applications | 53 (active: 41) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

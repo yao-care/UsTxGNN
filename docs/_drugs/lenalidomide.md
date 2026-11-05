@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 844
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Lenalidomide: predicted new indication Myeloid leukemia (evidence level L2). Approved use: Plasma cell myeloma (also mantle cell lymphoma, B-cell neoplasm…"
 monitor_inn: "LENALIDOMIDE"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
@@ -50,8 +50,8 @@ with **47 clinical trials** and **20 publications** currently supporting this di
 | Predicted New Indication | Myeloid leukemia |
 | TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (valid licenses on record: at least 12) |
-| Number of FDA Applications | at least 12 |
+| US Market Status | Marketed (active FDA-approved applications: 20 of 21) |
+| Number of FDA Applications | 21 (active: 20) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

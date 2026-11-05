@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 663
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Eptifibatide: predicted new indication rheumatoid arthritis (evidence level L5). Approved use: Acute coronary syndrome"
 monitor_inn: "EPTIFIBATIDE"
 predicted_indications: ["rheumatoid arthritis", "sickle cell-hemoglobin E disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin d disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin c disease syndrome", "hemoglobinopathy", "female breast carcinoma", "beta-thalassemia with other manifestations", "partial deletion of the short arm of chromosome 16"]
@@ -54,8 +54,8 @@ The evidence is early and does not establish efficacy.
 | Predicted New Indication | Hemoglobinopathy (sickle cell disease); the top-ranked prediction by score is rheumatoid arthritis |
 | TxGNN Prediction Score | 0.9998 for hemoglobinopathy (rheumatoid arthritis: 0.9999) |
 | Evidence Level | L5 (hemoglobinopathy; the single Phase 1/2 trial was terminated and is underpowered) |
-| US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of FDA Applications | at least 7 |
+| US Market Status | Marketed (active FDA-approved applications: 8 of 15) |
+| Number of FDA Applications | 15 (active: 8) |
 | Recommended Decision | Hold |
 
 ---

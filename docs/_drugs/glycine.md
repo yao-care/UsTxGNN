@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 757
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "GLYCINE"
 predicted_indications: ["nasal cavity disease"]
 description: "Glycine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but t
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 7) |
-| Number of FDA Applications | at least 7 |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 5; OTC monograph / unapproved listings: 3) |
+| Number of FDA Applications | 5 (active: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -58,7 +58,6 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but t
 Currently, detailed mechanism of action data is not available. Based on known information, glycine is a simple amino acid used in irrigation solutions and parenteral nutrition products. The score from the TxGNN model (deep learning) may reflect similarities the model learned between related diseases, not biological evidence, so no mechanistic rationale can be established from the data compiled for this report.
 
 The most likely reason for the high prediction score is that the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Allergic rhinitis, vasomotor rhinitis, rhinitis and nasopharyngitis all involve the nasal passages, which overlap with "nasal cavity disease". This is not clinical or mechanistic evidence.
-
 
 ## Clinical Trial Evidence
 
@@ -103,7 +102,7 @@ These should be verified against official labeling before any use.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high, but there is no supporting clinical or mechanistic evidence. The only registered trial is unrelated to glycine, and the two publications do not evaluate it. The drug is marketed in the US, with seven valid licenses.
+The TxGNN score is very high, but there is no supporting clinical or mechanistic evidence. The only registered trial is unrelated to glycine, and the two publications do not evaluate it.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, to establish a plausible link to nasal cavity disease

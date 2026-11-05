@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ZINC CHLORIDE"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "Sjogren syndrome", "dry eye syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Zinc Chloride: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -50,8 +50,8 @@ Currently there are **0 clinical trials** and **0 publications** supporting this
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
-| Number of FDA Applications | at least 5 |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 4; OTC monograph / unapproved listings: 46) |
+| Number of FDA Applications | 4 (active: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

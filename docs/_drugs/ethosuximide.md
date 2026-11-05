@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ETHOSUXIMIDE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Ethosuximide: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but **no clinical trials and no publications** currently support this direction,
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 6 of 7) |
-| Number of FDA Applications | 7 (valid: 6) |
+| US Market Status | Marketed (active FDA-approved applications: 8 of 10) |
+| Number of FDA Applications | 10 (active: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -72,7 +72,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All seven US authorizations are valid. The data compiled for this report contains no approved-indication text for them.
+The data compiled for this report contains no approved-indication text for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -112,7 +112,7 @@ The prediction has only a model score behind it. The knowledge graph also flags 
 - FDA package insert warnings and contraindications, to complete the safety screening
 - Preclinical or mechanistic studies, such as renal cell or animal models of V2 receptor gain-of-function
 - A literature and trial registry search for any case reports linking ethosuximide to water balance or hyponatremia
-- Assessment of route compatibility and formulation availability, given that all seven US authorizations are valid
+- Assessment of route compatibility and formulation availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

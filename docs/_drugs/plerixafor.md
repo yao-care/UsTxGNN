@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1056
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "PLERIXAFOR"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
 description: "Plerixafor: predicted new indication CMM7 (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,8 +51,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 | Predicted New Indication | CMM7 |
 | TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 8 of 9) |
-| Number of FDA Applications | 9 (valid: 8) |
+| US Market Status | Marketed (active FDA-approved applications: 8 of 10) |
+| Number of FDA Applications | 10 (active: 8) |
 | Recommended Decision | Hold |
 
 ---

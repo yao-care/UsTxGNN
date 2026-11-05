@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 777
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "HYDROMORPHONE"
 predicted_indications: ["pharyngitis", "allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia"]
 description: "Hydromorphone: predicted new indication Pharyngitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,8 +52,8 @@ The strongest signal in the data is for **headache disorder**, where evidence ex
 | Predicted New Indication | Pharyngitis |
 | TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 10) |
-| Number of FDA Applications | at least 10 |
+| US Market Status | Marketed (active FDA-approved applications: 19 of 30; OTC monograph / unapproved listings: 2) |
+| Number of FDA Applications | 30 (active: 19) |
 | Recommended Decision | Hold |
 
 ---

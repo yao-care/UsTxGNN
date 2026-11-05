@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "MICONAZOLE"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Miconazole: predicted new indication 痤瘡 (acne (disease)) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Miconazole is a topical azole antifungal of the imidazole class. The TxGNN model
 | Predicted New Indication | 痤瘡 (acne (disease)) |
 | TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses on record: at least 6) |
-| Number of FDA Applications | at least 6 |
+| US Market Status | Marketed (active FDA-approved applications: 21 of 33; OTC monograph / unapproved listings: 163) |
+| Number of FDA Applications | 33 (active: 21) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DOXAPRAM"
 predicted_indications: ["vascular disease", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "angiodysplasia of stomach", "blue toe syndrome", "hemangioendothelioma", "atheroembolism of kidney", "neurogenic thoracic outlet syndrome", "visceral calciphylaxis", "lymphangiectasis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Doxapram: predicted new indication Vascular disease (evidence level L4). Approved use: Respiratory failure"
 ---
 
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **vascular disease**, but there
 | Predicted New Indication | Vascular disease |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 3) |
+| Number of FDA Applications | 3 (active: 2) |
 | Recommended Decision | Hold |
 
 ---

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 722
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "FLUOROMETHOLONE"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy", "glaucomatocyclitic crisis"]
 description: "Fluorometholone: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,8 +52,8 @@ but **no clinical trials and no publications** currently support this prediction
 | Predicted New Indication | Postinfectious vasculitis |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of FDA Applications | 4 (valid: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 10) |
+| Number of FDA Applications | 10 (active: 5) |
 | Recommended Decision | Hold |
 
 ---
@@ -106,8 +106,6 @@ For reference, two indirect papers were retrieved for the rank-6 prediction (pun
 | NDA016851 | FML (Allergan, Inc.) | Suspension/drops | Not available (valid) |
 | ANDA216348 | Fluorometholone ophthalmic suspension (Amneal Pharmaceuticals NY LLC) | Suspension/drops | Not available (valid) |
 
-All four US authorizations are currently valid, and the drug is marketed in the US.
-
 ---
 
 ## Safety Considerations
@@ -125,7 +123,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for postinfectious vasculitis is supported only by a model score (L5), with no trials or publications. A topical eye drop is also unlikely to treat a systemic vasculitis. The drug is marketed in the US, and all 4 of its 4 authorizations are valid.
+The prediction for postinfectious vasculitis is supported only by a model score (L5), with no trials or publications. A topical eye drop is also unlikely to treat a systemic vasculitis.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently missing and blocking safety screening)

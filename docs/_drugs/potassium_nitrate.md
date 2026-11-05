@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "POTASSIUM NITRATE"
 predicted_indications: ["meningococcal infection", "sclerosing cholangitis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Potassium Nitrate: predicted new indication Meningococcal infection (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ This is a model-only prediction, and the data compiled for this report do not su
 | Predicted New Indication | Meningococcal infection |
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of FDA Applications | 2 (valid: 2) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 150) |
+| Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

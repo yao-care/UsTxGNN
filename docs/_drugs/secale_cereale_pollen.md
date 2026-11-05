@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SECALE CEREALE POLLEN"
 predicted_indications: ["alopecia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Secale Cereale Pollen: predicted new indication Alopecia (evidence level L5). Approved use: Not recorded in the available data"
 ---
 
@@ -50,8 +50,8 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Alopecia |
 | TxGNN Prediction Score | 0.9901 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1; OTC monograph / unapproved listings: 5) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

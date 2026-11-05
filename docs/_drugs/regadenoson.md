@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "REGADENOSON"
 predicted_indications: ["anaphylaxis", "food-dependent exercise-induced anaphylaxis", "esotropia", "pseudoallergy"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Regadenoson: predicted new indication Anaphylaxis (evidence level L5). Approved use: Diagnostic agent for radionuclide myocardial perfusion imaging (MPI)"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be relevant to **anaphylaxis**, but **no clinica
 | Predicted New Indication | Anaphylaxis |
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 12 of 12) |
-| Number of FDA Applications | 12 (valid: 12) |
+| US Market Status | Marketed (active FDA-approved applications: 12 of 14) |
+| Number of FDA Applications | 14 (active: 12) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -77,7 +77,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 12 licenses are valid. Approved-indication text is not available for any of them. The main authorizations are:
+Approved-indication text is not available for any of them. The main authorizations are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -107,7 +107,7 @@ Please refer to the package insert for official warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a computational score (L5). No trials or publications exist, and the drug's vasodilatory and hypotensive effects work against the treatment needs of anaphylaxis. All 12 US licenses are valid.
+The prediction is supported only by a computational score (L5). No trials or publications exist, and the drug's vasodilatory and hypotensive effects work against the treatment needs of anaphylaxis.
 
 **To proceed, the following is needed:**
 - Preclinical evidence that A2A agonism can control mast cell activation or anaphylaxis without causing harmful hypotension

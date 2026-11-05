@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "MILTEFOSINE"
 predicted_indications: ["echinococcus granulosus infectious disease", "alveolar echinococcosis", "Smouldering systemic mastocytosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Miltefosine: predicted new indication Echinococcus granulosus infectious disease (evidence level L5). Approved use: Leishmaniasis (including mucocutaneous and visceral leishmaniasis)"
 ---
 
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and **0 publications** directly st
 | Predicted New Indication | Echinococcus granulosus infectious disease |
 | TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Number of approvals | 1 NDA |
 | Recommended Decision | Hold |
 

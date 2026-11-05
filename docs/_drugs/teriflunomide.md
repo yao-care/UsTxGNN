@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1214
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Teriflunomide: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ All candidates produced by the TxGNN model for Teriflunomide that can be traced 
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| US Market Status | Marketed (valid licenses on record: at least 11) |
-| Number of FDA Applications | at least 12 |
+| US Market Status | Marketed (active FDA-approved applications: 14 of 20) |
+| Number of FDA Applications | 20 (active: 14) |
 
 ## Known uses among the model's candidates
 

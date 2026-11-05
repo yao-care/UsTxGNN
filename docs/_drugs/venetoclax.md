@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1286
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "VENETOCLAX"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
 description: "Venetoclax: predicted new indication Hodgkins lymphoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 | Predicted New Indication | Hodgkins lymphoma |
 | TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L5 (top-ranked prediction); best among top-10 predictions: L1 for AML, with caveats |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of FDA Applications | 1 (valid: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 3) |
+| Number of FDA Applications | 3 (active: 3) |
 | Recommended Decision | Hold (top-ranked prediction); Proceed with Guardrails for AML |
 
 ---

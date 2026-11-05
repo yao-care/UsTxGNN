@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Rutin. 8 predicted indications."
 permalink: /news/rutin/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Rutin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>12 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>14 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,45 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (14)
+
+### [Swapping from dairy to plant-based milk, cheese and yoghurt ‘could lead to micronutrient deficiencies’ - The Guardian](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLUh5NjJpcHlHQzdUcEt3RllycVVmTWpuczcxamVIaVN2blphWnJlS0dtN2N2cDFBaFRPb1gxeFd3X2F4UGhrekxTQ1NDU1NZekFlTWlldlY0Sm44WmVaWFdZeE9OM1d4NTdCSUZQWkl1T08tYk45eUZXVHdKbVYtZFlzQlU4MVA0WTJFOGctV1dOYXNLUHB4QldnYl9CLXJUemRRQWNfZWtZVkVwYTJLdjVLTjB5TGRYLTBnWkIzSElTUUNCY2NnbllYWVJxS252cmdKWXYzZU83N3Y5RkswaGxR?oc=5)
+
+2026-11-04 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLUh5NjJpcHlHQzdUcEt3RllycVVmTWpuczcxamVIaVN2blphWnJlS0dtN2N2cDFBaFRPb1gxeFd3X2F4UGhrekxTQ1NDU1NZekFlTWlldlY0Sm44WmVaWFdZeE9OM1d4NTdCSUZQWkl1T08tYk45eUZXVHdKbVYtZFlzQlU4MVA0WTJFOGctV1dOYXNLUHB4QldnYl9CLXJUemRRQWNfZWtZVkVwYTJLdjVLTjB5TGRYLTBnWkIzSElTUUNCY2NnbllYWVJxS252cmdKWXYzZU83N3Y5RkswaGxR?oc=5)
+
+---
+
+### [The neural basis of flavour–nutrient learning](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RVFprazlFVnNudVlTM3hScnNVZHozTWE1Vm1yVlZYS3dYenpHUk9nemc1SkpockExaVVIUXdhVThGSGc4QXp6YW5nTWJELXRLY0tQSGpCQWVrNm1CbTNz?oc=5)
+
+2026-11-04 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RVFprazlFVnNudVlTM3hScnNVZHozTWE1Vm1yVlZYS3dYenpHUk9nemc1SkpockExaVVIUXdhVThGSGc4QXp6YW5nTWJELXRLY0tQSGpCQWVrNm1CbTNz?oc=5)
+
+---
+
+### [Multimodal X-ray imaging reveals hierarchical fibre mechanics](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEUXAyMnRtYWxxVzV4cjdfam5EQVZJR1o2NU9fcFVpWkplSThZMXpKNGJiWHN4c29rTlBUWWU2dWFoeHZnNTZMcmNsQTg2M19UV1NmNWhSR0FyNjFSWWE4?oc=5)
+
+2026-11-04 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEUXAyMnRtYWxxVzV4cjdfam5EQVZJR1o2NU9fcFVpWkplSThZMXpKNGJiWHN4c29rTlBUWWU2dWFoeHZnNTZMcmNsQTg2M19UV1NmNWhSR0FyNjFSWWE4?oc=5)
+
+---
 
 ### [Energy drinks linked to cardiac arrest in young adults, study finds - USA Today](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjNrT1J6NjdkY2ppZEFHRWVXMTlEVmJTNlN4cFdFQ3VUdEdqRVg2RXEyem93anF1MnhPbnp0TVFWeUpjckM2UUNkTDZUMzFkZUZta013Yl9MZjJWSzNzdlB3aTBmbnFzWTJnZEhNeEdlSkkzOENudDhuYi1zV2pXMnVxRExXdUNoM2Izd0N5dzVMMlpHTldNdlF6RG5TbHFHVTMwZjF2V3hjRVoyVlhwYk9KZDRuTVoyUVFKM0tPWFE3QVh0T0JhMQ?oc=5)
 
 2026-11-04 <span class="news-indication-tag">heart attack</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [USA Today](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjNrT1J6NjdkY2ppZEFHRWVXMTlEVmJTNlN4cFdFQ3VUdEdqRVg2RXEyem93anF1MnhPbnp0TVFWeUpjckM2UUNkTDZUMzFkZUZta013Yl9MZjJWSzNzdlB3aTBmbnFzWTJnZEhNeEdlSkkzOENudDhuYi1zV2pXMnVxRExXdUNoM2Izd0N5dzVMMlpHTldNdlF6RG5TbHFHVTMwZjF2V3hjRVoyVlhwYk9KZDRuTVoyUVFKM0tPWFE3QVh0T0JhMQ?oc=5)
+
+---
+
+### [Healthier salt could prevent millions of deaths from heart disease and stroke, study finds](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
+
+2026-11-04 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
 
 ---
 
@@ -90,19 +122,11 @@ Source: [Health.com](https://news.google.com/rss/articles/CBMiakFVX3lxTFBUck1BM0
 
 ---
 
-### [Too Much Exercise Could Change Your Brain Chemistry in Unexpected Ways](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVN2V3dzRlZCZ0NyaHotMlIyZUVnMEEwb3FOamtHb1hMUjF6Unc0X0RqT2R6dmd5UnFNZTVxR2FfU2Q1U1FVNHNNQm5jSUttemVINl8wc2FMQTVXaHhaby1sOUhMMHNraVIyZ0FCdzlRcW8wMnpmd3NEUHpQWEFveUZNM3Y5NkxMRXR6OHc5Q0JpdDJuWDk4cjdGSEY?oc=5)
+### [Huge Alzheimer's study uncovers dozens of risk factors scientists hadn't seen](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTWRBSjIwTkwyaXRMTnNpZFNXc3JDeXB1MWFzQ01qVUZiX2VqVXBwOC1KT09Zak9rRnliNlpXaFRmZVF4SjdYbXkyUUdPNzFpYkFWRUxXWnpKUUhEVDVadU5nZzFISXpuandkMFhlNzZnV0RGQm84UmxEUzkySG9IbU5pVkcwaURVU1RXOUZGNHJlT3hpV2dBaE5seVp0akxpTDNVNUdxOW8?oc=5)
 
 2026-11-03 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [SciTechDaily](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVN2V3dzRlZCZ0NyaHotMlIyZUVnMEEwb3FOamtHb1hMUjF6Unc0X0RqT2R6dmd5UnFNZTVxR2FfU2Q1U1FVNHNNQm5jSUttemVINl8wc2FMQTVXaHhaby1sOUhMMHNraVIyZ0FCdzlRcW8wMnpmd3NEUHpQWEFveUZNM3Y5NkxMRXR6OHc5Q0JpdDJuWDk4cjdGSEY?oc=5)
-
----
-
-### [AI cardiac MRI scans could improve prediction of patient survival - The Engineer](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVBWakFOMTF6aF8tZldpejhJM0ZMZHFVTno0ZkYzaXExNktibTczU3kxbllTRHlWUGN0SWl3LVo2VnA5Y1MxWWltWFJtWE9aOGxGQVV3UUc2SlU2V0VDUXBQNS04U1dTeVp1Z1ozdXBsdVBRSHFrLS1DaWRHZWVvVWRwRk5qUmZGSk9RMklaNHFPQnZ5dTBVUnM0VG1naGVhZHNoNg?oc=5)
-
-2026-11-03 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [The Engineer](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVBWakFOMTF6aF8tZldpejhJM0ZMZHFVTno0ZkYzaXExNktibTczU3kxbllTRHlWUGN0SWl3LVo2VnA5Y1MxWWltWFJtWE9aOGxGQVV3UUc2SlU2V0VDUXBQNS04U1dTeVp1Z1ozdXBsdVBRSHFrLS1DaWRHZWVvVWRwRk5qUmZGSk9RMklaNHFPQnZ5dTBVUnM0VG1naGVhZHNoNg?oc=5)
+Source: [Newsweek](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTWRBSjIwTkwyaXRMTnNpZFNXc3JDeXB1MWFzQ01qVUZiX2VqVXBwOC1KT09Zak9rRnliNlpXaFRmZVF4SjdYbXkyUUdPNzFpYkFWRUxXWnpKUUhEVDVadU5nZzFISXpuandkMFhlNzZnV0RGQm84UmxEUzkySG9IbU5pVkcwaURVU1RXOUZGNHJlT3hpV2dBaE5seVp0akxpTDNVNUdxOW8?oc=5)
 
 ---
 
@@ -119,14 +143,6 @@ Source: [EatingWell](https://news.google.com/rss/articles/CBMifEFVX3lxTFBfMWxQOV
 2026-11-02 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXR2RUtGWWZHUU45ODgyNF9IQm9BWlo0Q184UTlyenY5RjVVLWo2NmtKdWRkWDVCbmE5M2ZXOVZHTmN6YkFuSUtJbGc4aXItUkoxcGRmQ1lMazlWQ3RBVWlsVV9WaHp5SlcxV2tLOA?oc=5)
-
----
-
-### [The link between alcohol and breast cancer risk is strong. Here’s what to know. - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxORW4xZXF3SjdPZDZLNzZUN25yaFltR3JrTkxvUXRZWjZRT0pWY1VmOHpZTjF2X2tkQjk2cEoyM2hTb1FJUk9tQTY4UTh4X19IZ1pOWVJHYUplZVJqeHFjaFZka2tGekM5cVNlclNkWEdMWVNfM3RqVGk0TGdmQnNTenYyeUZYd0cyVU1OWFZrOEExdm5YaGJQRkxXS0IweG1aX0VKTHhlVnRxM3pWSGE5SE14Zw?oc=5)
-
-2026-10-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxORW4xZXF3SjdPZDZLNzZUN25yaFltR3JrTkxvUXRZWjZRT0pWY1VmOHpZTjF2X2tkQjk2cEoyM2hTb1FJUk9tQTY4UTh4X19IZ1pOWVJHYUplZVJqeHFjaFZka2tGekM5cVNlclNkWEdMWVNfM3RqVGk0TGdmQnNTenYyeUZYd0cyVU1OWFZrOEExdm5YaGJQRkxXS0IweG1aX0VKTHhlVnRxM3pWSGE5SE14Zw?oc=5)
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 last_modified_at: 2026-11-06
-description: "Finasteride: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L4). Approved use: Benign prostatic hyperplasia"
+description: "Finasteride: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Benign prostatic hyperplasia"
 ---
 
 # Finasteride

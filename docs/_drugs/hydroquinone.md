@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "HYDROQUINONE"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "exanthem (disease)", "lichen disease"]
 last_modified_at: 2026-11-06
-description: "Hydroquinone: predicted new indication Seborrheic keratosis (evidence level L4). Approved use: No approved indication text is available in the US license record"
+description: "Hydroquinone: predicted new indication Seborrheic keratosis (evidence level L5). Approved use: No approved indication text is available in the US license record"
 ---
 
 # Hydroquinone

@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "ISONIAZID"
 predicted_indications: ["conjunctivitis"]
 last_modified_at: 2026-11-06
-description: "Isoniazid: predicted new indication Conjunctivitis (evidence level L4). Approved use: Pulmonary tuberculosis"
+description: "Isoniazid: predicted new indication Conjunctivitis (evidence level L5). Approved use: Pulmonary tuberculosis"
 ---
 
 # Isoniazid

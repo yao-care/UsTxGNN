@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "NILOTINIB"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
 last_modified_at: 2026-11-06
-description: "Nilotinib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L4). Approved use: Chronic myelogenous leukemia, BCR-ABL1 positive"
+description: "Nilotinib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L5). Approved use: Chronic myelogenous leukemia, BCR-ABL1 positive"
 ---
 
 # Nilotinib

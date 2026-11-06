@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "DAPTOMYCIN"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
 last_modified_at: 2026-11-06
-description: "Daptomycin: predicted new indication Osteoarthritis (evidence level L4). Approved use: Not available in the compiled data (the retrieved literature describe…"
+description: "Daptomycin: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not available in the compiled data (the retrieved literature describe…"
 ---
 
 # Daptomycin

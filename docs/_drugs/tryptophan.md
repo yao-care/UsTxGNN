@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "TRYPTOPHAN"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
 last_modified_at: 2026-11-06
-description: "Tryptophan: predicted new indication Restless legs syndrome (evidence level L5). Approved use: Not available"
+description: "Tryptophan: predicted new indication Restless legs syndrome (evidence level L3). Approved use: Not available"
 ---
 
 # Tryptophan

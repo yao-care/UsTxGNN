@@ -24,7 +24,7 @@ Drug repurposing predictions for United States FDA-approved drugs using the TxGN
 | **Unique Drugs** | 1,666 |
 | **Unique Indications** | 17,041 |
 | **DDI Data** | 160,235 |
-| **FHIR Resources** | 1,171 MK / 6,338 CUD |
+| **FHIR Resources** | 1,165 MK / 6,338 CUD |
 
 ### Evidence Level Distribution
 

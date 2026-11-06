@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "BENRALIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
 last_modified_at: 2026-11-06
-description: "Benralizumab: predicted new indication thrombocytopenia due to immune destruction (evidence level L2). Approved use: Eosinophilic pneumonia"
+description: "Benralizumab: predicted new indication thrombocytopenia due to immune destruction (evidence level L5). Approved use: Eosinophilic pneumonia"
 ---
 
 # Benralizumab

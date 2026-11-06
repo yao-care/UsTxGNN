@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "GADODIAMIDE"
 predicted_indications: ["rheumatoid arthritis"]
 last_modified_at: 2026-11-06
-description: "Gadodiamide: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Not available in the data compiled for this report (a diagnostic MRI…"
+description: "Gadodiamide: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not available in the data compiled for this report (a diagnostic MRI…"
 ---
 
 # Gadodiamide

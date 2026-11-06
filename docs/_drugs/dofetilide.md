@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "DOFETILIDE"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "duodenal obstruction", "brain stem infarction", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cerebrovascular disorder"]
 last_modified_at: 2026-11-06
-description: "Dofetilide: predicted new indication Stroke disorder (evidence level L4). Approved use: Atrial fibrillation"
+description: "Dofetilide: predicted new indication Stroke disorder (evidence level L5). Approved use: Atrial fibrillation"
 ---
 
 # Dofetilide

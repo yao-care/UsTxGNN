@@ -81,7 +81,7 @@ For reference, the second-ranked prediction, seborrheic keratosis, has two indir
 
 ## US Market Information
 
-The drug is marketed, with 11 valid licenses. Approved indication text was not available. Five main authorizations:
+The drug is marketed. Approved indication text was not available. Five main authorizations:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -106,7 +106,7 @@ Not applicable. Tazarotene is not an antineoplastic drug, so this section is omi
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high (0.9979), but the evidence level is L5: there are no clinical trials and no literature for seborrheic dermatitis. In addition, the drug is marketed with 11 valid licenses, but package insert safety data and mechanism data are missing.
+The prediction score is high (0.9979), but the evidence level is L5: there are no clinical trials and no literature for seborrheic dermatitis. In addition, the drug is marketed, but package insert safety data and mechanism data are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

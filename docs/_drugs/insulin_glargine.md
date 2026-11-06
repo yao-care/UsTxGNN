@@ -94,13 +94,13 @@ For other safety information, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score. There are no clinical trials or publications for autoimmune oophoritis, and the likely driver is the shared autoimmune link with type 1 diabetes. In addition, the drug is marketed in the US with six valid licenses, and the package insert safety data have not been retrieved.
+The prediction is supported only by a model score. There are no clinical trials or publications for autoimmune oophoritis, and the likely driver is the shared autoimmune link with type 1 diabetes. In addition, the drug is marketed in the US, and the package insert safety data have not been retrieved.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are blocking for safety screening
 - Detailed mechanism of action data (MOA)
 - Preclinical or clinical evidence that insulin glargine affects ovarian autoimmune pathology
-- Confirmation of the current US regulatory status, since the drug is marketed with six valid licenses
+- Confirmation of the current US regulatory status, since the drug is marketed
 
 ## Other Predicted Indications (Reference)
 

@@ -125,7 +125,7 @@ No package-insert warnings or contraindications were available in the data compi
 **Decision: Hold**
 
 **Rationale:**
-The predictions come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The only supporting literature is four indirect, regimen-level nonhuman primate studies, and there are no clinical trials. SIV infection is a research model rather than a distinct human disease, and the other predictions are veterinary, mechanistically implausible, or obsolete. The drug is marketed, with 10 valid US licenses.
+The predictions come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The only supporting literature is four indirect, regimen-level nonhuman primate studies, and there are no clinical trials. SIV infection is a research model rather than a distinct human disease, and the other predictions are veterinary, mechanistically implausible, or obsolete. The drug is marketed.
 
 **To proceed, the following is needed:**
 - Package-insert warnings and contraindications (a blocking data gap for safety screening)

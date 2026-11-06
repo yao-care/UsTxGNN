@@ -129,7 +129,7 @@ None of the literature evaluates warfarin as a treatment in a controlled setting
 | ANDA040616 | Warfarin Sodium (PD-Rx Pharmaceuticals) | Tablet | Not available (status: valid) |
 | ANDA090935 | Warfarin Sodium (Golden State Medical Supply) | Tablet | Not available (status: valid) |
 
-Warfarin is marketed in the US, and the data compiled for this report show four valid licenses. Warfarin is available only as an oral tablet.
+Warfarin is marketed in the US. Warfarin is available only as an oral tablet.
 
 ---
 

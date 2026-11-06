@@ -94,7 +94,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no registered clinical trials or publications (Evidence Level L5). The proposed mechanism is hypothetical, because rosacea conjunctivitis is not primarily histamine-driven. The drug is marketed in the US with 12 valid authorizations, but package insert safety data are missing.
+The prediction is supported only by a model score, with no registered clinical trials or publications (Evidence Level L5). The proposed mechanism is hypothetical, because rosacea conjunctivitis is not primarily histamine-driven. The drug is marketed in the US, but package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from FDA labelling (a blocking gap for safety screening)

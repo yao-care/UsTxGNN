@@ -158,7 +158,7 @@ The top prediction, Prinzmetal angina, has only a model score (0.9998) with no t
 - Any clinical or mechanistic evidence for Prinzmetal angina
 - TRIDENT result details and any component-level analysis for intracerebral hemorrhage
 - A clinical (not animal) study of telmisartan alone in cerebral artery occlusion
-- A review of the regulatory position, since the drug is marketed and 10 licenses are valid
+- A review of the regulatory position, since the drug is marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -95,7 +95,7 @@ Note: the literature is mostly small case-level evidence with no randomized tria
 
 ## US Market Information
 
-The drug is marketed in the US, with 11 valid authorizations recorded. The approved indication text was not available in the data compiled for this report.
+The drug is marketed in the US. The approved indication text was not available in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -125,7 +125,7 @@ The literature suggests micafungin can clear Candida from the urinary tract in s
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are currently missing and block safety screening
-- Confirmation of current US marketing status, since 11 valid authorizations are recorded
+- Confirmation of current US marketing status
 - Mechanism-of-action data from a primary source such as DrugBank
 - Urinary pharmacokinetic data to confirm adequate active-drug concentrations at the infection site
 - Controlled or prospective studies in symptomatic Candida UTI, with attention to patients with kidney disease or urinary tract obstruction

@@ -93,7 +93,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-The drug is marketed in the US, with 13 valid licenses in the data. Approved-indication text is not available. Five representative entries:
+The drug is marketed in the US. Approved-indication text is not available. Five representative entries:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

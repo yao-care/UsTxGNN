@@ -107,7 +107,7 @@ For definitive safety information, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score and general vitamin reviews. There are no clinical trials and no direct evidence (Evidence Level L5). Folic acid does not substitute for biotin and would not correct the usual enzymatic causes of biotin metabolic disease. In addition, although the drug is marketed in the US with eight valid licenses, the package insert safety data are missing.
+The prediction is supported only by a model score and general vitamin reviews. There are no clinical trials and no direct evidence (Evidence Level L5). Folic acid does not substitute for biotin and would not correct the usual enzymatic causes of biotin metabolic disease. In addition, although the drug is marketed in the US, the package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the FDA label, which is currently a blocking gap for safety screening

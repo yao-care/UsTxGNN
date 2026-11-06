@@ -98,7 +98,7 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 - Mechanism of action data for ranolazine, and any experimental evidence of an effect on V2 receptor signaling, cAMP production, or aquaporin-2 trafficking
 - Preclinical studies (for example, cell-based AVPR2 gain-of-function models) to test the hypothesis
 - Package insert warnings and contraindications, to allow a proper safety screening, particularly for renal impairment and QT prolongation
-- Clarification of the original approved indication and of the regulatory status (the drug is marketed, with 9 valid licenses)
+- Clarification of the original approved indication and of the regulatory status (the drug is marketed)
 - Assessment of route and formulation compatibility, which is still pending
 ## Disclaimer
 

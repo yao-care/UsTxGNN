@@ -81,7 +81,7 @@ These sources are old, indirect or anecdotal. The only recent report (2026) desc
 
 ## US Market Information
 
-Fluorouracil is marketed, with 12 valid licenses. The approved indication text was not available in the data compiled for this report.
+Fluorouracil is marketed. The approved indication text was not available in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -127,7 +127,7 @@ Please refer to the package insert for complete safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high (0.9975), but the evidence is at the model-prediction-only level (L5). There are no clinical trials and no relevant literature for the top-ranked indication. Fluorouracil is not part of standard rhabdomyosarcoma regimens, and the drug is marketed with 12 valid US licenses.
+The prediction score is high (0.9975), but the evidence is at the model-prediction-only level (L5). There are no clinical trials and no relevant literature for the top-ranked indication. Fluorouracil is not part of standard rhabdomyosarcoma regimens, and the drug is marketed.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently a blocking gap for safety screening)

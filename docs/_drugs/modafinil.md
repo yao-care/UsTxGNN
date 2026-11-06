@@ -88,8 +88,6 @@ None of the publications below studies modafinil in insomnia directly. They conc
 | ANDA209966 | Modafinil (Golden State Medical Supply) | Tablet | Not available (valid) |
 | ANDA077667 | Modafinil (Apotex Corp.) | Tablet | Not available (valid) |
 
-The list may be partial; 7 valid single-ingredient licences are recorded, all for oral tablets.
-
 ## Safety Considerations
 
 - **Drug Interactions**: 100 interactions were found in the interaction database searched. Examples at Moderate level include rabeprazole, omeprazole, esomeprazole, dexamethasone, eliglustat, linagliptin and cisapride. Many others, such as hydrocortisone, pioglitazone, aprepitant, cimetidine and clarithromycin, are Minor.

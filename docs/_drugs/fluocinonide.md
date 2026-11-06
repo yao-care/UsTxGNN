@@ -109,7 +109,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, alopecia mucinosa, has only a computational score (L5), with no trials or literature. Alopecia areata has a more plausible mechanism but only tangential evidence (L4). The basic safety data needed for screening is also missing, although the drug is marketed in the US with 13 valid licenses.
+The top prediction, alopecia mucinosa, has only a computational score (L5), with no trials or literature. Alopecia areata has a more plausible mechanism but only tangential evidence (L4). The basic safety data needed for screening is also missing, although the drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from FDA (currently blocking for safety screening)

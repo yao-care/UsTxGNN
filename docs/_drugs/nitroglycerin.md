@@ -109,7 +109,7 @@ For label-based warnings and contraindications, please refer to the package inse
 **Decision: Hold**
 
 **Rationale:**
-The biological rationale is coherent and there are small randomized and hemodynamic studies, including a 2025 RCT in neonatal PPHN. However, there is no completed Phase 2/3 RCT, the main comparator trial is of unknown status, and the drug is marketed in the US with nine valid licenses. Label-based safety data are also missing. This is best treated as a research question rather than a candidate for advancement now.
+The biological rationale is coherent and there are small randomized and hemodynamic studies, including a 2025 RCT in neonatal PPHN. However, there is no completed Phase 2/3 RCT, the main comparator trial is of unknown status, and the drug is marketed in the US. Label-based safety data are also missing. This is best treated as a research question rather than a candidate for advancement now.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

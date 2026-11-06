@@ -116,7 +116,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-Two Phase 2 randomized, placebo-controlled studies exist in atopic dermatitis (evidence level L2), but the mechanism fits only partially because atopic dermatitis is mainly Th2-driven, and efficacy in these studies appears limited. "Dermatitis" is also too broad to define a specific indication. The drug is marketed in the US, with 11 valid licenses, and the package-insert safety data are missing.
+Two Phase 2 randomized, placebo-controlled studies exist in atopic dermatitis (evidence level L2), but the mechanism fits only partially because atopic dermatitis is mainly Th2-driven, and efficacy in these studies appears limited. "Dermatitis" is also too broad to define a specific indication. The drug is marketed in the US, and the package-insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Full results (primary endpoints, effect size) of NCT01945086 and NCT01806662, plus confirmation of the study populations

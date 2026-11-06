@@ -91,7 +91,7 @@ The abstracts available for this report state the study objectives but not the r
 
 ## US Market Information
 
-Nine valid US licenses are on record, and the drug is marketed. The records contain no approved-indication text.
+The drug is marketed. The records contain no approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -122,7 +122,7 @@ The TxGNN score is high (0.9909), and the mechanism is plausible. However, the l
 - Obtain detailed mechanism-of-action data from DrugBank
 - Review the full text of the four randomized studies (PMIDs 12764337, 11889661, 24822235, 20673246) to assess efficacy and quality
 - Confirm whether any trial directly tests cyclobenzaprine in myofascial pain syndrome, rather than fibromyalgia
-- Clarify the current US regulatory and market status, since the drug is marketed with 9 valid licenses
+- Clarify the current US regulatory and market status, since the drug is marketed
 - Assess the interaction and anticholinergic risks, especially for older patients and those with glaucoma, thyroid or cardiac conduction disease
 ## Disclaimer
 

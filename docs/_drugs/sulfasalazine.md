@@ -134,7 +134,7 @@ The high TxGNN scores are model predictions only. Eight of the ten top predictio
 - Detailed mechanism of action data
 - Further preclinical validation and, if warranted, early-phase trials of sulfasalazine, for example an intra-articular formulation, in osteoarthritis
 - Review of the TxGNN model (deep learning) disease predictions in the context of the target osteoarthritis population (for example, liver, kidney and blood disorders)
-- Clarification of the US regulatory and supply situation across the six valid licenses
+- Clarification of the US regulatory and supply situation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

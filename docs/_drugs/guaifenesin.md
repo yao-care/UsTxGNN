@@ -86,7 +86,7 @@ This is a narrative review with indirect relevance, not controlled evidence of e
 
 ## US Market Information
 
-The drug is marketed in the US, with 8 valid licences. Approved indication text is not available in the compiled data.
+The drug is marketed in the US. Approved indication text is not available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
@@ -115,7 +115,7 @@ The knowledge graph lists the following conditions as contraindication-related a
 **Decision: Hold**
 
 **Rationale:**
-The prediction is biologically plausible because guaifenesin is a mucus-thinning agent and nasal cavity disease is closely related to its original indications. However, there are no clinical trials, only one indirect narrative review, and no mechanism of action or label safety data. The drug is marketed in the US with 8 valid licences. The evidence does not yet support moving forward.
+The prediction is biologically plausible because guaifenesin is a mucus-thinning agent and nasal cavity disease is closely related to its original indications. However, there are no clinical trials, only one indirect narrative review, and no mechanism of action or label safety data. The drug is marketed in the US. The evidence does not yet support moving forward.
 
 **To proceed, the following is needed:**
 - Obtain the FDA package insert warnings and contraindications (a blocking gap for safety screening)

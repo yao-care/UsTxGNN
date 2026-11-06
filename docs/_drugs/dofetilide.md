@@ -115,7 +115,7 @@ Please refer to the package insert for full safety information.
 **Decision: Hold**
 
 **Rationale:**
-The stroke prediction comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases such as atrial fibrillation, not biological evidence. No trials exist, the literature contains no stroke-outcome data, and the drug carries a serious proarrhythmic risk. The drug is marketed, with 9 valid US authorizations. The other nine predicted indications are either unsupported by any evidence (L5) or biologically implausible, so none is a better candidate.
+The stroke prediction comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases such as atrial fibrillation, not biological evidence. No trials exist, the literature contains no stroke-outcome data, and the drug carries a serious proarrhythmic risk. The drug is marketed. The other nine predicted indications are either unsupported by any evidence (L5) or biologically implausible, so none is a better candidate.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a current blocking gap)

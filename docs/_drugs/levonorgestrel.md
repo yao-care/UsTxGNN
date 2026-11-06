@@ -84,7 +84,7 @@ Most of the remaining literature concerns contraception rather than acne.
 
 ## US Market Information
 
-13 US licenses for levonorgestrel are valid. The data compiled for this report contain no approved-indication text for them. Main authorizations:
+The data compiled for this report contain no approved-indication text. Main authorizations:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

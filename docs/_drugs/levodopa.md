@@ -103,7 +103,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model (deep learning) score (L5). There are no registered clinical trials or publications, no established mechanistic link, and no mechanism-of-action data. Levodopa also carries a knowledge-graph contraindication signal for epilepsy, the main manifestation of Rasmussen encephalitis. In addition, the drug is marketed in the US, with 12 valid authorizations.
+The prediction is supported only by the TxGNN model (deep learning) score (L5). There are no registered clinical trials or publications, no established mechanistic link, and no mechanism-of-action data. Levodopa also carries a knowledge-graph contraindication signal for epilepsy, the main manifestation of Rasmussen encephalitis. In addition, the drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

@@ -74,7 +74,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-The product listing shows no approved indication text. The drug is marketed, with 11 valid authorizations.
+The product listing shows no approved indication text. The drug is marketed.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -98,7 +98,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but no clinical trials exist and the only publication is an anesthetic case report with no efficacy signal. There is no clear mechanistic link, and the drug is marketed in the US with 11 valid authorizations. Safety in porphyria has not been established.
+The TxGNN score is high, but no clinical trials exist and the only publication is an anesthetic case report with no efficacy signal. There is no clear mechanistic link, and the drug is marketed in the US. Safety in porphyria has not been established.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (required for safety screening)

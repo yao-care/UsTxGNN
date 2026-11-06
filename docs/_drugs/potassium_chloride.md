@@ -110,7 +110,7 @@ Package insert warnings were not available for this report; please refer to the 
 **Decision: Hold**
 
 **Rationale:**
-The prediction mostly restates the drug's original use (correcting hypokalemia), and no clinical trials or controlled studies exist for renal tubular acidosis. Potassium chloride is not disease-modifying here, and alkali-potassium salts such as potassium citrate are generally better suited. In addition, the drug is marketed in the US with 15 valid authorizations in the data, and package insert safety data are missing.
+The prediction mostly restates the drug's original use (correcting hypokalemia), and no clinical trials or controlled studies exist for renal tubular acidosis. Potassium chloride is not disease-modifying here, and alkali-potassium salts such as potassium citrate are generally better suited. In addition, the drug is marketed in the US, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (currently unavailable)

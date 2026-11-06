@@ -93,7 +93,7 @@ For the other predictions, only two indications returned publications, and none 
 
 ## US Market Information
 
-The drug is marketed in the US, with 12 valid licences. Approved-indication text is not available in the licence records. Five representative entries:
+The drug is marketed in the US. Approved-indication text is not available in the licence records. Five representative entries:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -124,7 +124,7 @@ Please refer to the package insert for the official warnings and contraindicatio
 - Mechanism-of-action data from DrugBank
 - A review of whether the disease term is valid, since it is flagged as obsolete
 - If an alternative is pursued, the more plausible candidates are the hypertension-related predictions (malignant hypertensive renal disease, malignant renovascular hypertension), which would need dedicated literature and clinical evidence
-- Confirmation of the current US marketing status, since the drug is marketed with 12 valid licences
+- Confirmation of the current US marketing status, since the drug is marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

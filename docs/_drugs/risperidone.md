@@ -70,7 +70,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-10 licenses are valid. Indication text is not recorded for any of them. The five listed below are the main ones.
+Indication text is not recorded. The five listed below are the main ones.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|------|
@@ -101,7 +101,7 @@ The prediction has a very high model score but no clinical trials, no literature
 - A mechanistic rationale linking risperidone to ROBO3-related gaze palsy, or preclinical data supporting one.
 - Detailed mechanism of action data (MOA).
 - Label warnings and contraindications from the FDA package insert.
-- Clarification of the regulatory status, since the drug is marketed in the US with 10 valid licenses.
+- Clarification of the regulatory status, since the drug is marketed in the US.
 - Consideration of other predictions for this drug, which have more support in the data compiled for this report:
   - **Trichotillomania** has consistent case reports and case series (L3).
 ## Disclaimer

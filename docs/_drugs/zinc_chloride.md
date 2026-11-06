@@ -74,7 +74,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The drug is marketed, with five valid licenses. The data compiled for this report do not include approved indication text.
+The drug is marketed. The data compiled for this report do not include approved indication text.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
@@ -97,7 +97,7 @@ Please also refer to the package insert for full safety information, since label
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no clinical trials or literature (evidence level L5). The drug is marketed in the US with five valid licenses, the mechanism of action is undocumented, and the route and formulation for retinal or ocular use are undefined.
+The prediction is supported only by a model score, with no clinical trials or literature (evidence level L5). The drug is marketed in the US, the mechanism of action is undocumented, and the route and formulation for retinal or ocular use are undefined.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

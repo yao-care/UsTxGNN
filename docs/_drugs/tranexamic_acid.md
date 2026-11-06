@@ -111,7 +111,7 @@ Label-based warnings and contraindications were not available. Please refer to t
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a model score. There are no clinical trials, and the two reviews on menstrual bleeding do not show benefit in treating amenorrhea. The mechanism is indirect, since tranexamic acid reduces bleeding rather than restoring menses. The 13 US licenses are valid, and label safety data are missing.
+The prediction rests solely on a model score. There are no clinical trials, and the two reviews on menstrual bleeding do not show benefit in treating amenorrhea. The mechanism is indirect, since tranexamic acid reduces bleeding rather than restoring menses. Label safety data are missing.
 
 **To proceed, the following is needed:**
 - Clarify whether the intended use is treating amenorrhea or menses suppression (for example in haematology patients), as these are different questions

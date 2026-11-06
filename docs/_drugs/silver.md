@@ -83,7 +83,7 @@ None of these papers evaluates silver as a therapy for Paget disease of bone.
 |---------|------|------|-----------|
 | Not available | Colloidal Silver (BioActive Nutritional, Inc.) | Liquid | Not listed (status: cancelled) |
 
-Other silver dosage forms appear in the records (pellet, gel, spray, ointment), and 1 valid license is currently on record for this drug in this country.
+Other silver dosage forms appear in the records (pellet, gel, spray, ointment).
 
 ## Safety Considerations
 

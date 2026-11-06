@@ -114,7 +114,7 @@ Please refer to the package insert for label warnings, as these were not availab
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications for opsismodysplasia, no plausible mechanistic link to INPPL1/SHIP2 biology, and the drug is marketed in the US with 6 valid licenses. Evidence level is L5.
+The prediction is supported only by a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications for opsismodysplasia, no plausible mechanistic link to INPPL1/SHIP2 biology, and the drug is marketed in the US. Evidence level is L5.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) and a clear mechanistic hypothesis linking PPAR-gamma agonism to the INPPL1/PI3K pathway

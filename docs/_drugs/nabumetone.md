@@ -99,7 +99,7 @@ Please refer to the package insert for the full warnings, as label warnings were
 **Decision: Hold**
 
 **Rationale:**
-The prediction for acromesomelic dysplasia, Hunter-Thompson type, has no clinical trials or literature and no plausible mechanism (a BMP/GDF5 signaling defect that COX inhibition does not address). The drug is marketed in the US, with 4 valid licenses. Evidence is model prediction only (L5).
+The prediction for acromesomelic dysplasia, Hunter-Thompson type, has no clinical trials or literature and no plausible mechanism (a BMP/GDF5 signaling defect that COX inhibition does not address). The drug is marketed in the US. Evidence is model prediction only (L5).
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently a blocking gap for safety screening)

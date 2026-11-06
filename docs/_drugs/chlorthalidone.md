@@ -105,7 +105,7 @@ Please also refer to the package insert for full safety information, since label
 **Decision: Hold**
 
 **Rationale:**
-The prediction for primary hereditary glaucoma is supported only by a model score (Evidence Level L5). No trials or literature support it, and the mechanistic link is speculative. The drug is marketed in the US, with 9 valid licenses.
+The prediction for primary hereditary glaucoma is supported only by a model score (Evidence Level L5). No trials or literature support it, and the mechanistic link is speculative. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

@@ -72,7 +72,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The drug is marketed, with 10 valid authorizations. Only 5 of the 10 are shown below. Approved indication text was not available for any of them.
+The drug is marketed. Approved indication text was not available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -100,7 +100,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score from the TxGNN model (deep learning). There are no clinical trials or publications, the mechanistic link to a mainly viral, bacterial, toxic or dry-eye-related condition is weak, and the drug is marketed with 10 valid authorizations in this country.
+The prediction rests only on a model score from the TxGNN model (deep learning). There are no clinical trials or publications, the mechanistic link to a mainly viral, bacterial, toxic or dry-eye-related condition is weak, and the drug is marketed.
 
 **To proceed, the following is needed:**
 - Review the related-disease similarities the TxGNN model (deep learning) may have learned behind the prediction (e.g., a fungal keratitis link)

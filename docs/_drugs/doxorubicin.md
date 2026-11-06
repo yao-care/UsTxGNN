@@ -98,7 +98,7 @@ The data lists 28 trials; the 10 most relevant are shown below. Trials with a pe
 
 ## US Market Information
 
-The drug is marketed in the US, and 12 US authorizations are currently valid. Approved-indication text is not available for any of them. Five representative entries are listed.
+The drug is marketed in the US. Approved-indication text is not available. Five representative entries are listed.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

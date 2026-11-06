@@ -73,8 +73,6 @@ No clinical trials are registered for this indication, so the clinical trial sec
 
 ## US Market Information
 
-The compiled data lists nine valid authorizations, and approved indication text is not available for any of them.
-
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | NDA217569 | Vasopressin in 0.9% Sodium Chloride (Baxter Healthcare) | Injection | Valid |
@@ -105,7 +103,7 @@ The TxGNN score is high (0.9963), but there are no clinical trials and the liter
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which block safety screening
 - Mechanism of action data, such as from DrugBank
-- Original approved indication text, which is not available for the nine valid US authorizations
+- Original approved indication text, which is not available
 - Evidence of a direct biological link between vasopressin and prothrombin (factor II) levels or activity
 - Evidence specific to vasopressin, not desmopressin, in congenital prothrombin deficiency
 - A review of the full drug interaction list for the intended patient population

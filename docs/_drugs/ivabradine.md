@@ -108,7 +108,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is computational only (Evidence Level L5). There are no clinical trials or publications, no plausible mechanistic link between HCN channel inhibition and hair growth, and the drug is marketed with 7 valid licenses.
+The prediction is computational only (Evidence Level L5). There are no clinical trials or publications, no plausible mechanistic link between HCN channel inhibition and hair growth, and the drug is marketed.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

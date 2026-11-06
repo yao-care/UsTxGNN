@@ -96,7 +96,7 @@ For reference, the most relevant literature for the next-ranked prediction, **in
 
 ## US Market Information
 
-The drug is marketed in the US, with seven valid authorizations. Approved-indication text is not available in the records.
+The drug is marketed in the US. Approved-indication text is not available in the records.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -129,7 +129,7 @@ The following comes from the knowledge graph and is not label text.
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, trigeminal nerve neoplasm, has a very high model score but no trials, no literature and no plausible antitumor mechanism for lorazepam, so the evidence level is L5. The drug is marketed in the US with seven valid authorizations, and label safety data is missing.
+The top prediction, trigeminal nerve neoplasm, has a very high model score but no trials, no literature and no plausible antitumor mechanism for lorazepam, so the evidence level is L5. The drug is marketed in the US, and label safety data is missing.
 
 **To proceed, the following is needed:**
 - Package-insert warnings and contraindications (a blocking gap for safety screening)

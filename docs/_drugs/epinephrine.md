@@ -94,7 +94,7 @@ Two caveats apply. The Phase 3 evidence is for an inhaled HFA-MDI epinephrine fo
 
 ## US Market Information
 
-The drug is marketed in the US, with 11 valid licenses. The approved-indication text is not available for any of them.
+The drug is marketed in the US. The approved-indication text is not available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -116,10 +116,10 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Three completed Phase 3 trials of inhaled epinephrine (E004) in asthma support the prediction (L1), and asthma is already an established indication. However, the evidence is specific to one inhaled formulation, bronchiolitis data are mixed, and the drug is marketed with 11 valid US licenses.
+Three completed Phase 3 trials of inhaled epinephrine (E004) in asthma support the prediction (L1), and asthma is already an established indication. However, the evidence is specific to one inhaled formulation, bronchiolitis data are mixed, and the drug is marketed.
 
 **To proceed, the following is needed:**
-- Confirm current US regulatory status and formulation against the 11 valid licenses
+- Confirm current US regulatory status and formulation
 - Obtain the package insert warnings and contraindications
 - Obtain detailed mechanism-of-action data
 - Review the cardiovascular and drug-interaction risks for the intended population

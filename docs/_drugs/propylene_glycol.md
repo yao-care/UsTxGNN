@@ -110,7 +110,7 @@ Evidence from the diabetic retinopathy prediction (rank 3) is also not direct:
 | M003 | Instant Hand Sanitizeing Wipe (Valid) | Cloth | Not specified |
 | M031 | EGHMTW hair oil (Valid) | Liquid | Not specified |
 
-The drug is marketed, and 3 valid authorizations are on record.
+The drug is marketed.
 
 ---
 

@@ -121,7 +121,7 @@ Package insert warnings and contraindications were not available; please refer t
 **Rationale:**
 - The top-scoring prediction has no clinical or literature evidence and no established pharmacologic basis.
 - Chronic tic disorder has plausible biology and small uncontrolled pediatric reports, but no controlled trials. Movement-disorder indications also carry a safety signal, as cholinesterase inhibitors can cause or worsen extrapyramidal symptoms.
-- The drug is marketed in the US, with 13 valid licenses, which affects practical development.
+- The drug is marketed in the US, which affects practical development.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for donepezil

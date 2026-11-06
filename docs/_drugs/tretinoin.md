@@ -76,7 +76,7 @@ For reference, the only publications retrieved for any top-ranked prediction con
 
 ## US Market Information
 
-There are 16 valid US licenses and no approved-indication text is on record. The five main ones are:
+No approved-indication text is on record. The five main ones are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

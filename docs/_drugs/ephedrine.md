@@ -101,7 +101,7 @@ Label-based warnings and contraindications were not available. Please refer to t
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but the predicted indication largely overlaps with existing uses, so it adds little new. No clinical trials exist, the only literature is old or preliminary and involves combination products, and the drug is marketed with 14 valid US licenses. The available products are mostly injectables, which do not match a nasal indication.
+The prediction score is high, but the predicted indication largely overlaps with existing uses, so it adds little new. No clinical trials exist, the only literature is old or preliminary and involves combination products, and the drug is marketed. The available products are mostly injectables, which do not match a nasal indication.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which are required before any safety screening

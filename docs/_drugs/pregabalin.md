@@ -80,7 +80,7 @@ None of the retrieved papers tests pregabalin as a treatment for tendinitis. The
 
 ## US Market Information
 
-The drug is marketed in the US, with 11 valid licenses. The records list no approved indication text. The five main authorizations are shown below.
+The drug is marketed in the US. The records list no approved indication text. The five main authorizations are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -109,7 +109,7 @@ The muscle-related signals (myopathy, rhabdomyolysis) deserve attention in a mus
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but no trial or paper tests pregabalin for tendinitis, and there is no mechanism by which it would treat tendon pathology. It might help the pain symptoms at most. The drug is marketed in the US, with 11 valid licenses.
+The prediction score is very high, but no trial or paper tests pregabalin for tendinitis, and there is no mechanism by which it would treat tendon pathology. It might help the pain symptoms at most. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Direct clinical evidence, such as a pilot RCT of pregabalin for tendinitis pain against standard care.

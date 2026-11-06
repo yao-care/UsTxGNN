@@ -101,7 +101,7 @@ No drug-drug interaction records were found, and no contraindications were ident
 **Decision: Hold**
 
 **Rationale:**
-The top prediction (exostosis) rests only on a score from the TxGNN model (deep learning), with no clinical trials or literature and no plausible mechanistic link. In addition, the drug is marketed with 3 valid licenses, but the safety label data are missing. Tendinitis and rheumatoid arthritis are more plausible symptomatic-relief directions but are also prediction-only at this stage.
+The top prediction (exostosis) rests only on a score from the TxGNN model (deep learning), with no clinical trials or literature and no plausible mechanistic link. In addition, the drug is marketed, but the safety label data are missing. Tendinitis and rheumatoid arthritis are more plausible symptomatic-relief directions but are also prediction-only at this stage.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

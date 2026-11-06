@@ -117,7 +117,7 @@ The prediction is supported only by a model score. There are no clinical trials 
 - Preclinical or clinical evidence that a corticosteroid affects vocal cord polyps
 - A feasibility assessment of a delivery route suited to the larynx (for example, inhaled or injectable steroid formulations), since current topical products do not fit
 - Comparison against established treatments (voice therapy, surgery, and other corticosteroids with proven laryngeal or intranasal use)
-- Clarification of the regulatory status, given that 13 US authorizations are currently valid
+- Clarification of the regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

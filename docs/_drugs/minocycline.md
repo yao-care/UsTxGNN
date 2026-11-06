@@ -72,7 +72,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The drug is marketed in the US, with 8 valid licenses.
+The drug is marketed in the US.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -97,14 +97,14 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no clinical trials or literature behind it (Evidence Level L5). There is also no mechanism data. The drug is marketed in the US, with 8 valid licenses. There is not enough basis to move forward.
+The prediction has a high model score but no clinical trials or literature behind it (Evidence Level L5). There is also no mechanism data. The drug is marketed in the US. There is not enough basis to move forward.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, to allow safety screening
 - Detailed mechanism of action data
 - Preclinical or clinical evidence in punctate epithelial keratoconjunctivitis
 - An assessment of route and formulation, since an ocular formulation would be needed and none of the listed products is for the eye
-- Clarification of the regulatory status, since the drug is marketed in the US with 8 valid licenses
+- Clarification of the regulatory status, since the drug is marketed in the US
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

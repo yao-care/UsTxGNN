@@ -76,7 +76,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Nine US authorizations are valid. The data compiled for this report contain no approved-indication text for any of them.
+The data compiled for this report contain no approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -102,7 +102,7 @@ Please refer to the package insert for official warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The glaucoma prediction is mechanistically plausible and supported by one rabbit study, but there are no human data or registered trials, and the evidence level is L4. The high TxGNN score is not clinical evidence. Label safety data are also missing, although the drug is marketed in the US with nine valid licenses.
+The glaucoma prediction is mechanistically plausible and supported by one rabbit study, but there are no human data or registered trials, and the evidence level is L4. The high TxGNN score is not clinical evidence. Label safety data are also missing, although the drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

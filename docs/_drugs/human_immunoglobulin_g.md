@@ -74,7 +74,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The drug is marketed in the US with 11 valid licenses, and no approved indication text was available.
+The drug is marketed in the US, and no approved indication text was available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
@@ -95,7 +95,7 @@ Systemic immune globulin products carry general risks such as thrombosis and ren
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no literature, and no confirmed mechanism. The drug is marketed in the US with 11 valid licenses, and the safety data are incomplete, so the review cannot proceed to safety screening.
+The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no literature, and no confirmed mechanism. The drug is marketed in the US, and the safety data are incomplete, so the review cannot proceed to safety screening.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)

@@ -102,7 +102,7 @@ For package-insert warnings and contraindications, please refer to the current l
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no clinical trials, no literature and no plausible mechanistic link. The condition affects infants, and the drug may cause dystonic reactions that could worsen the symptoms. The drug is also currently marketed in the US, with 10 valid licenses.
+The prediction has a very high model score but no clinical trials, no literature and no plausible mechanistic link. The condition affects infants, and the drug may cause dystonic reactions that could worsen the symptoms. The drug is also currently marketed in the US.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for olanzapine, and any biological rationale linking it to this condition

@@ -112,7 +112,7 @@ Literature for the top-ranked prediction (punctate epithelial keratoconjunctivit
 
 ## US Market Information
 
-The drug is marketed in the US, with 15 valid licenses. The license records contain no approved-indication text. The main entries are:
+The drug is marketed in the US. The license records contain no approved-indication text. The main entries are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -148,7 +148,7 @@ Please refer to the package insert for full warnings and precautions.
 
 **Rationale:**
 - The highest-scoring prediction rests on a single 1992 case report, with no trials and no evidence of a treatment effect, so it cannot advance. Most other predictions (otitis externa, vasculitis, urethral stricture, Chagas cardiomyopathy, HUS, exposure keratitis) are likewise weak or carry safety concerns.
-- Post-bacterial disorder has multiple completed Phase 2/3 and Phase 4 trials, but the label actually corresponds to STI and relapsing-fever prophylaxis, which is an established antibiotic use rather than a new disease mechanism. The drug is marketed in the US, with 15 valid licenses.
+- Post-bacterial disorder has multiple completed Phase 2/3 and Phase 4 trials, but the label actually corresponds to STI and relapsing-fever prophylaxis, which is an established antibiotic use rather than a new disease mechanism. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

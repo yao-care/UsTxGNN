@@ -72,7 +72,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Six valid single-ingredient US authorizations are recorded. Approved indication text is not recorded in the local data.
+Approved indication text is not recorded in the local data.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|

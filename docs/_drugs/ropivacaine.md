@@ -119,14 +119,14 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The migraine signal is plausible mechanistically and has some supporting studies. However, the evidence is small and mostly observational (L3), and the only randomized trial enrolled 10 patients. The drug is marketed in the US with 8 valid licenses, but label safety data are missing, which blocks safety screening.
+The migraine signal is plausible mechanistically and has some supporting studies. However, the evidence is small and mostly observational (L3), and the only randomized trial enrolled 10 patients. The drug is marketed in the US, but label safety data are missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
 - Retrieve and review the FDA package insert (warnings, contraindications, approved indications).
 - Obtain detailed mechanism-of-action data from DrugBank.
 - Obtain results from NCT03666663 and NCT00680823, and confirm ropivacaine's role in the former.
 - Run adequately powered randomized, controlled trials of ropivacaine nerve blocks (SPG, occipital, or trigger point) specifically in migraine.
-- Confirm route compatibility and the current US regulatory pathway, given that the drug is marketed with 8 valid licenses.
+- Confirm route compatibility and the current US regulatory pathway, given that the drug is marketed.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

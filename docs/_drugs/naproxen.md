@@ -82,7 +82,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The drug is marketed, with 14 valid licenses. The approved-indication text is blank in the records. The five main authorizations are shown below.
+The drug is marketed. The approved-indication text is blank in the records. The five main authorizations are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -116,14 +116,14 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanistic link between COX inhibition and a congenital limb malformation. In addition, 14 US licenses are valid, and the safety data are incomplete.
+The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanistic link between COX inhibition and a congenital limb malformation. In addition, the safety data are incomplete.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA) and a biologically plausible link to the disease pathway
 - Package insert warnings and contraindications, which are needed before any safety screening
 - Preclinical or case-level evidence of benefit in brachydactyly-syndactyly syndrome
 - A review of NSAID safety in growing skeletal tissue and in the affected population
-- Clarification of the current US regulatory status, given that 14 licenses are valid
+- Clarification of the current US regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

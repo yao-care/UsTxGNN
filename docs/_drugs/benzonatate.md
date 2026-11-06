@@ -96,7 +96,7 @@ Please refer to the package insert for full warnings and contraindications, whic
 **Decision: Hold**
 
 **Rationale:**
-The predictions rest on a model score alone, with no clinical trials, no literature, and no mechanism data. The proposed targets (a mechanical compression syndrome and an obsolete disease term) have weak mechanistic fit. The drug is currently marketed in the US with 8 valid licenses.
+The predictions rest on a model score alone, with no clinical trials, no literature, and no mechanism data. The proposed targets (a mechanical compression syndrome and an obsolete disease term) have weak mechanistic fit. The drug is currently marketed in the US.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently blocking for safety screening)
@@ -104,7 +104,7 @@ The predictions rest on a model score alone, with no clinical trials, no literat
 - Mapping of "obsolete neurogenic bladder" to a current disease term
 - Preclinical or mechanistic evidence supporting sodium channel modulation in the proposed conditions
 - Route compatibility assessment (oral capsule versus the needs of the target conditions)
-- Assessment of the currently marketed products, given that 8 valid licenses exist
+- Assessment of the currently marketed products
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

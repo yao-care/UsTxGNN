@@ -115,7 +115,7 @@ The following come from the knowledge graph (not label text) and from drug-inter
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but there are no registered clinical trials and no literature testing itraconazole against Pneumocystis. *Pneumocystis* lacks the ergosterol target of azoles, so the mechanistic rationale is weak. Evidence stays at L5 (model prediction only), and the drug is marketed in the US with 9 valid licenses.
+The TxGNN score is high, but there are no registered clinical trials and no literature testing itraconazole against Pneumocystis. *Pneumocystis* lacks the ergosterol target of azoles, so the mechanistic rationale is weak. Evidence stays at L5 (model prediction only), and the drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Direct evidence of itraconazole activity against *Pneumocystis* (in vitro, animal, or clinical), with a plausible non-ergosterol mechanism

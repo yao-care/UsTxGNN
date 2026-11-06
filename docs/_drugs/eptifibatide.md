@@ -137,7 +137,7 @@ The only direct clinical evidence is a small, terminated Phase 1/2 trial (13 pat
 - Full results and the reason for early termination of NCT00834899, along with the efficacy and bleeding outcomes from the pilot study (PMID 23973010)
 - A bleeding-risk mitigation plan for sickle cell patients, especially those with thrombocytopenia, coagulation disorders, or renal impairment
 - Review of the route of administration (injectable only) for a chronic or recurrent condition
-- Clarification of the current US market and supply situation, since the drug is marketed with 7 valid licenses
+- Clarification of the current US market and supply situation, since the drug is marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

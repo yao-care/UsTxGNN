@@ -92,7 +92,7 @@ Please refer to the package insert for key warnings and label contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials or supporting literature, and the mechanistic link is weak because cauda equina syndrome requires urgent surgical decompression. The drug is marketed in the US with 8 valid licenses, and the label safety information could not be obtained.
+The prediction rests only on a model score. There are no clinical trials or supporting literature, and the mechanistic link is weak because cauda equina syndrome requires urgent surgical decompression. The drug is marketed in the US, and the label safety information could not be obtained.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

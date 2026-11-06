@@ -97,14 +97,14 @@ Please refer to the package insert for full warnings and contraindications, as l
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials, literature, or mechanistic rationale (Evidence Level L5). The drug is marketed in the US with 7 valid licenses. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The signals do not justify moving forward.
+The prediction has no supporting clinical trials, literature, or mechanistic rationale (Evidence Level L5). The drug is marketed in the US. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The signals do not justify moving forward.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible biological link between estrogen receptor modulation and duodenal ulcer pathophysiology
 - Preclinical or observational evidence in duodenal ulcer or related gastric mucosal models
 - Package insert warnings and contraindications to complete the safety screening
 - Severity grading for drug interactions, especially with agents commonly used in peptic ulcer disease (PPIs, sucralfate)
-- Clarification of regulatory status for the new indication, since the drug is marketed in the US with 7 valid licenses, and a review of the route and dosing needed for the new indication
+- Clarification of regulatory status for the new indication, since the drug is marketed in the US, and a review of the route and dosing needed for the new indication
 - A benefit-risk assessment in a population different from postmenopausal women, given the thromboembolic risk signals
 ## Disclaimer
 

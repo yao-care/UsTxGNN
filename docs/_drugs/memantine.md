@@ -121,7 +121,7 @@ Migraine has a plausible mechanism and a completed Phase 3 trial, which gives it
 **To proceed, the following is needed:**
 - The FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data from DrugBank
-- Confirmation of the approved original indication and current US market status, since the drug is marketed with 13 valid licenses
+- Confirmation of the approved original indication and current US market status, since the drug is marketed
 - Larger, adequately powered placebo-controlled trials of memantine in migraine prevention
 - A close reading of the meta-analysis and systematic reviews (PMIDs 33961371, 34352118) to judge the true effect size and safety
 ## Disclaimer

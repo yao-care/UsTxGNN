@@ -82,7 +82,7 @@ No literature is available for the rank 1 prediction. For trichotillomania, the 
 
 ## US Market Information
 
-The drug is marketed in the US, with nine valid authorizations. The data compiled for this report does not include approved-indication text.
+The drug is marketed in the US. The data compiled for this report does not include approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

@@ -107,7 +107,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no trials or publications (Evidence Level L5). The biological rationale is weak, and the signal may reflect an adverse-effect association (hypertrichosis from vasodilation) rather than a therapeutic one. The drug is marketed in the US with 11 valid licenses, but the official safety label data is missing.
+The prediction has no trials or publications (Evidence Level L5). The biological rationale is weak, and the signal may reflect an adverse-effect association (hypertrichosis from vasodilation) rather than a therapeutic one. The drug is marketed in the US, but the official safety label data is missing.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA)

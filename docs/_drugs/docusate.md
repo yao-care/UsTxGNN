@@ -79,7 +79,7 @@ Currently no related literature available.
 | M007 (cancelled) | Stool Softener | Capsule, liquid filled | Not specified |
 | M334 (cancelled) | Docusate Sodium | Liquid | Not specified |
 
-The drug is marketed in the US, and 2 licenses are currently valid.
+The drug is marketed in the US.
 
 ## Safety Considerations
 
@@ -97,7 +97,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials, no literature and no plausible mechanism. It most likely reflects shared anemia associations. Docusate is marketed in the US with 2 valid licenses, and the label safety review is blocked by missing package insert data.
+The prediction is supported only by a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials, no literature and no plausible mechanism. It most likely reflects shared anemia associations. Docusate is marketed in the US, and the label safety review is blocked by missing package insert data.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (for example from DrugBank)

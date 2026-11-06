@@ -81,7 +81,7 @@ No literature is available for the top-ranked prediction (hypertrichosis). The o
 
 ## US Market Information
 
-Seven licences are currently valid in the US market, and the drug is marketed. Approved-indication text was not available.
+The drug is marketed. Approved-indication text was not available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -113,7 +113,7 @@ The top-ranked prediction (hypertrichosis) and the other hair and genetic-disord
 - FDA package insert data (warnings, contraindications, approved indications), the blocking data gap for safety screening
 - Mechanism-of-action data from DrugBank
 - For PAH: direct clinical or preclinical studies of isosorbide mononitrate in PAH models, and a review of nitrate tolerance and PDE5 inhibitor co-use risks
-- Clarification of current US market status, since the facts list 7 valid licences
+- Clarification of current US market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

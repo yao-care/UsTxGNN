@@ -108,14 +108,14 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-The top TxGNN prediction (acute urate nephropathy) has no evidence and no plausible mechanism. The best-supported prediction, obstructive jaundice, rests on small, dated studies with mixed results, no registered trials, and a perioperative supportive rather than disease-treating role. The drug is marketed in the US with 8 valid licenses, and label safety data are missing. This is a research question rather than a development candidate.
+The top TxGNN prediction (acute urate nephropathy) has no evidence and no plausible mechanism. The best-supported prediction, obstructive jaundice, rests on small, dated studies with mixed results, no registered trials, and a perioperative supportive rather than disease-treating role. The drug is marketed in the US, and label safety data are missing. This is a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Full-text review of the 1991 multicentre study and the 1986 clinical study to confirm design and effect sizes
 - A modern, controlled trial of perioperative lactulose in obstructive jaundice with renal and infectious complication endpoints
-- Clarification of the licensing status (8 valid US licenses) and route compatibility assessment
+- Clarification of the licensing status and route compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -83,7 +83,7 @@ Currently no related literature available.
 | ANDA204770 | Metaxalone (Doc Rx) | Tablet | Not available | Valid |
 | ANDA203695 | Metaxalone (Sportpharm LLC) | Tablet | Not available | Valid |
 
-The drug is marketed, and four valid authorizations remain.
+The drug is marketed.
 
 ## Safety Considerations
 
@@ -108,7 +108,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, with no clinical trials, no literature, and no plausible mechanistic link to infectious otitis media. In addition, the drug is marketed with four valid US licenses and well-established standard therapies already exist, so there is no practical development pathway.
+The prediction is supported only by a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, with no clinical trials, no literature, and no plausible mechanistic link to infectious otitis media. In addition, the drug is marketed and well-established standard therapies already exist, so there is no practical development pathway.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

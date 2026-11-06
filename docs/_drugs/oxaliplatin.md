@@ -119,7 +119,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold (research question)**
 
 **Rationale:**
-Several Phase 2 studies show oxaliplatin-based combinations have some activity in pleural mesothelioma, but they are small and non-randomized. One second-line study found no objective responses. No Phase 3 trial shows an advantage over standard cisplatin/pemetrexed. Also, only some US oxaliplatin licenses are valid (9 valid licenses are currently marketed), which complicates any near-term development path.
+Several Phase 2 studies show oxaliplatin-based combinations have some activity in pleural mesothelioma, but they are small and non-randomized. One second-line study found no objective responses. No Phase 3 trial shows an advantage over standard cisplatin/pemetrexed. Also, only some US oxaliplatin licenses are valid, which complicates any near-term development path.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are currently missing and block safety screening

@@ -85,7 +85,7 @@ None of the publications below directly studies paranoid personality disorder, s
 
 ## US Market Information
 
-Eight valid US licences for single-ingredient sertraline are recorded. The list may be partial. Indication text is not recorded in the local data for these licences.
+The list may be partial. Indication text is not recorded in the local data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

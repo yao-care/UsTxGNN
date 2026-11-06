@@ -87,7 +87,7 @@ None of these publications shows a therapeutic benefit of nitrofurantoin in RA.
 
 ## US Market Information
 
-12 valid licenses are on the market in this country, and no approved indication text is available in the data.
+No approved indication text is available in the data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

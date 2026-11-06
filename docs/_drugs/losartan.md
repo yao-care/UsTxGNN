@@ -85,7 +85,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Nine valid licenses are listed below, and no approved indication text is available in the compiled data.
+No approved indication text is available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -117,7 +117,7 @@ The only support for malignant hypertensive renal disease is a high TxGNN score 
 - Detailed mechanism of action data from DrugBank
 - Clinical data in patients with malignant hypertensive nephrosclerosis, such as retrospective cohorts or a pilot trial
 - Safety assessment of ARB use in renovascular disease, particularly bilateral renal artery stenosis
-- Confirmation of current US marketing status, since the drug is marketed with nine valid licenses in the compiled data
+- Confirmation of current US marketing status, since the drug is marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

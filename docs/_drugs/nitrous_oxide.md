@@ -95,7 +95,7 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score is not supported by a plausible mechanism or by any study of BPH treatment. The one trial and one publication relate only to procedural anesthesia and anxiety. The drug is marketed in the US with three valid licenses, and the key safety labeling information could not be obtained.
+The high TxGNN score is not supported by a plausible mechanism or by any study of BPH treatment. The one trial and one publication relate only to procedural anesthesia and anxiety. The drug is marketed in the US, and the key safety labeling information could not be obtained.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a plausible pharmacological rationale for an effect on BPH

@@ -73,8 +73,6 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Eight US licence records are valid, and no approved-indication text is available for them.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA020793 | CAFCIT | Injection | Not available |
@@ -98,7 +96,7 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (0.9991), but it rests on model output alone, with no clinical trials and no literature showing caffeine treats nasal cavity disease. Because rhinitis is already among caffeine's original indications, the prediction adds little new information, and the drug is currently marketed in the US with 8 valid licences.
+The prediction score is very high (0.9991), but it rests on model output alone, with no clinical trials and no literature showing caffeine treats nasal cavity disease. Because rhinitis is already among caffeine's original indications, the prediction adds little new information, and the drug is currently marketed in the US.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

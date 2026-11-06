@@ -93,7 +93,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction for congenital prothrombin deficiency has no supporting trials or literature, and its biological rationale conflicts with known biology, since prothrombin synthesis is vitamin K-dependent. In addition, the drug is marketed in the US with four valid authorizations.
+The prediction for congenital prothrombin deficiency has no supporting trials or literature, and its biological rationale conflicts with known biology, since prothrombin synthesis is vitamin K-dependent. In addition, the drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence for any role of vitamin A in prothrombin expression or function.

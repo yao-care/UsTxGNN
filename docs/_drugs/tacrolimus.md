@@ -84,7 +84,7 @@ Atopic dermatitis and seborrheic dermatitis are both chronic, relapsing inflamma
 
 ## US Market Information
 
-There are currently 13 valid licenses. The main ones are:
+The main ones are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

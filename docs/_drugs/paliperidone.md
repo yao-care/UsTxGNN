@@ -114,7 +114,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no clinical trials or publications and no demonstrated mechanism linking paliperidone to retinal dystrophy. The drug is marketed, with 12 valid authorizations.
+The prediction is supported only by a model score, with no clinical trials or publications and no demonstrated mechanism linking paliperidone to retinal dystrophy. The drug is marketed.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a biological rationale connecting dopaminergic or serotonergic antagonism to retinal degeneration

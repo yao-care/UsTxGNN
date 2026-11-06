@@ -112,14 +112,14 @@ Please refer to the package insert for warnings and contraindications, which are
 **Decision: Hold**
 
 **Rationale:**
-The only direct evidence is one completed Phase 2 migraine prevention trial whose results were not available. The mechanism is plausible but unproven, and the supporting literature is indirect. The drug is marketed in the US, with 7 valid licenses.
+The only direct evidence is one completed Phase 2 migraine prevention trial whose results were not available. The mechanism is plausible but unproven, and the supporting literature is indirect. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Results of NCT01820559 (primary and secondary efficacy endpoints, safety), from the registry or publications
 - An explanation of why the drug was not developed further for migraine
 - FDA package insert warnings and contraindications
 - Mechanism of action data confirmed from DrugBank
-- Clarification of the US regulatory and availability status, since the drug is marketed with 7 valid licenses
+- Clarification of the US regulatory and availability status, since the drug is marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

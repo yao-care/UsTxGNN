@@ -98,7 +98,7 @@ Please refer to the package insert for full warnings and contraindications, whic
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high, but there are no clinical trials, and the four publications are indirect reviews and a methods paper. Hypertrichosis is not androgen-driven, so finasteride's DHT-lowering action has no clear mechanistic link to it. The drug is marketed in the US, with 10 valid licenses.
+The TxGNN score is very high, but there are no clinical trials, and the four publications are indirect reviews and a methods paper. Hypertrichosis is not androgen-driven, so finasteride's DHT-lowering action has no clear mechanistic link to it. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

@@ -118,6 +118,11 @@
   {
    "sentence": "All 10 licenses compiled for this report are valid; the table shows the first 5.",
    "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；整句都是許可證張數／狀態說法，子句刪除會留下殘句，整句刪"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 10 valid licenses.",
+   "cut": ", with 10 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 27 張，有效 17 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "folic_acid": [
@@ -133,6 +138,11 @@
    "sentence": "Clarification of the cancelled US market status and the route and formulation to be used",
    "cut": "the cancelled US market status and ",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 57 張，有效 17 張、停產 40 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "In addition, although the drug is marketed in the US with eight valid licenses, the package insert safety data are missing.",
+   "cut": " with eight valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 57 張，有效 17 張；句中的有效張數（8 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "levocarnitine": [
@@ -144,6 +154,11 @@
    "sentence": "Levocarnitine is a carnitine product that supports fatty acid transport into mitochondria, and its US licenses are currently all in cancelled status.",
    "cut": ", and its US licenses are currently all in cancelled status",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 15 張，有效 13 張、停產 2 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "Clarification of regulatory status across the 11 valid US licenses",
+   "cut": " across the 11 valid US licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 15 張，有效 13 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "sodium_fluoride": [
@@ -192,6 +207,11 @@
   {
    "sentence": "All 7 US authorizations are generic (ANDA) tablet products and all are valid.",
    "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；整句都是許可證張數／狀態說法，子句刪除會留下殘句，整句刪"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 7 valid licenses.",
+   "cut": ", with 7 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 64 張，有效 17 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "pitavastatin": [
@@ -1965,6 +1985,11 @@
   {
    "sentence": "There are 9 authorizations in total, and all are cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 31 張，有效 27 張、停產 4 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 9 valid authorizations, and because it is topical, a systemic biochemical target is unlikely to be reachable.",
+   "cut": " with 9 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 31 張，有效 27 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "albendazole": [
@@ -2018,6 +2043,19 @@
    "sentence": "Safety concerns (metabolic effects, akathisia, impulse control) and the cancelled US license status call for guardrails.",
    "cut": " and the cancelled US license status",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 46 張，有效 31 張、停產 15 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 11 valid licenses, and no approved indication text is recorded for any of them.",
+   "cut": [
+    " with 11 valid licenses",
+    " for any of them"
+   ],
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 46 張，有效 31 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Confirm the current US regulatory status, since the drug is marketed with 11 valid licenses.",
+   "cut": " with 11 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 46 張，有效 31 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "atomoxetine": [
@@ -2056,6 +2094,16 @@
   {
    "sentence": "Eight licenses in total are on record, all cancelled and all for single-ingredient oral products.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 17 張，有效 12 張、停產 5 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is currently marketed in the US with 8 valid licenses.",
+   "cut": " with 8 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 17 張，有效 12 張；句中的有效張數（8 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Assessment of the currently marketed products, given that 8 valid licenses exist",
+   "cut": ", given that 8 valid licenses exist",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 17 張，有效 12 張；句中的有效張數（8 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "brentuximab_vedotin": [
@@ -2083,6 +2131,16 @@
    "sentence": "Clarification of the cancelled US regulatory status and the approved indication text",
    "cut": "the cancelled US regulatory status and ",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 53 張，有效 41 張、停產 12 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed, with 11 valid authorizations.",
+   "cut": ", with 11 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 53 張，有效 41 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "There is no clear mechanistic link, and the drug is marketed in the US with 11 valid authorizations.",
+   "cut": " with 11 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 53 張，有效 41 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "bupropion": [
@@ -2093,6 +2151,11 @@
   {
    "sentence": "The US licences are all cancelled, so the drug's regulatory position needs clarification.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 73 張，有效 45 張、停產 28 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；後半句以錯誤前提為依據；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "Confirmation of the current US regulatory status, since 13 ANDAs are valid and the drug is marketed",
+   "cut": "13 ANDAs are valid and ",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 73 張，有效 45 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "carbamazepine": [
@@ -2143,6 +2206,11 @@
   {
    "sentence": "A total of 9 licenses are listed, and all are cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 84 張，有效 27 張、停產 57 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 9 valid licenses.",
+   "cut": ", with 9 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 84 張，有效 27 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "clobazam": [
@@ -2157,6 +2225,16 @@
    "cut": "US authorizations are all cancelled, and ",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 74 張，有效 33 張、停產 41 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）",
    "capitalize": true
+  },
+  {
+   "sentence": "The drug is marketed in this country, with 12 valid licenses.",
+   "cut": ", with 12 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 74 張，有效 33 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Confirmation of current market and route availability, since the drug is marketed with 12 valid licenses",
+   "cut": " with 12 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 74 張，有效 33 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "cyanocobalamin": [
@@ -2164,6 +2242,21 @@
    "sentence": "Six further ANDAs (all cancelled) cover injectable forms from other manufacturers.",
    "keep": true,
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 62 張，有效 23 張、停產 39 張；句子只說另有幾張已註銷，張數不超過事實的停產張數，不是「全部註銷」；保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 11 valid licenses.",
+   "cut": ", with 11 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 62 張，有效 23 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "In addition, standard biotin therapy already exists for biotin-related disorders, and the drug is marketed in the US with 11 valid licenses.",
+   "cut": " with 11 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 62 張，有效 23 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The data compiled for this report provides no approved indication text for any of them.",
+   "cut": " for any of them",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 62 張，有效 23 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
   }
  ],
  "dacarbazine": [
@@ -2205,6 +2298,11 @@
   {
    "sentence": "All 13 authorizations in the data are generic ANDAs for lyophilized powder for injection solution, and all are listed as cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 23 張，有效 17 張、停產 6 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 13 valid licenses, but the supplied data lack label safety information.",
+   "cut": " with 13 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 23 張，有效 17 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "deferasirox": [
@@ -2283,6 +2381,11 @@
   {
    "sentence": "All 13 licenses in the data compiled for this report are cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 58 張，有效 30 張、停產 28 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 13 valid licenses, which affects practical development.",
+   "cut": ", with 13 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 58 張，有效 30 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "doxorubicin": [
@@ -2295,6 +2398,16 @@
    "sentence": "However, those trials mostly test the regimen or an added agent rather than doxorubicin on its own, and all US listings are cancelled.",
    "cut": ", and all US listings are cancelled",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 30 張，有效 20 張、停產 10 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, and 12 US authorizations are currently valid.",
+   "cut": ", and 12 US authorizations are currently valid",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 30 張，有效 20 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Approved-indication text is not available for any of them.",
+   "cut": " for any of them",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 30 張，有效 20 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
   }
  ],
  "dupilumab": [
@@ -2462,6 +2575,11 @@
   {
    "sentence": "All 13 licences are generic applications and all are cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 47 張，有效 31 張、停產 16 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The basic safety data needed for screening is also missing, although the drug is marketed in the US with 13 valid licenses.",
+   "cut": " with 13 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 47 張，有效 31 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "fulvestrant": [
@@ -2501,6 +2619,11 @@
   {
    "sentence": "A sixth license (ANDA091220, Micro Labs Limited) is also cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 22 張，有效 10 張、停產 12 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；ANDA091220 有效；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "In addition, glimepiride is marketed in the US, with 6 valid licenses.",
+   "cut": ", with 6 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 22 張，有效 10 張；句中的有效張數（6 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "granisetron": [
@@ -2525,6 +2648,19 @@
    "sentence": "Assessment of the formulation and route needed for any new indication, including the implications of the cancelled US marketing status",
    "cut": ", including the implications of the cancelled US marketing status",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 22 張，有效 12 張、停產 10 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "Griseofulvin is marketed in the US, with 10 valid licenses, and no approved-indication text was recorded for them.",
+   "cut": [
+    ", with 10 valid licenses",
+    " for them"
+   ],
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 22 張，有效 12 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 10 valid licenses, and label safety data are missing.",
+   "cut": " with 10 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 22 張，有效 12 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "hydrocortisone": [
@@ -2570,6 +2706,11 @@
   {
    "sentence": "All five records are cancelled, and the data compiled contains no approved indication text for them.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 46 張，有效 14 張、停產 32 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；刪子句後只剩指涉不明的「for them」；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is also marketed in the US (5 valid licenses), and better-tolerated alternatives exist.",
+   "cut": " (5 valid licenses)",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 46 張，有效 14 張；句中的有效張數（5 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "indomethacin": [
@@ -2622,6 +2763,17 @@
    "sentence": "Clarification of why US licenses are cancelled and which formulation would be pursued",
    "cut": "why US licenses are cancelled and ",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 29 張，有效 19 張、停產 10 張；「已註銷」的說法與事實矛盾；留下「Clarification of which formulation would be pursued」；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The records list 9 valid US licenses, and no approved-indication text is available in the records.",
+   "cut": "The records list 9 valid US licenses, and ",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 29 張，有效 19 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）",
+   "capitalize": true
+  },
+  {
+   "sentence": "Official label safety data are also missing, although the drug is marketed in the US with 9 valid licenses.",
+   "cut": " with 9 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 29 張，有效 19 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "labetalol": [
@@ -2635,6 +2787,16 @@
   {
    "sentence": "All eight US authorizations are single-ingredient ANDAs and all are listed as cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 38 張，有效 14 張、停產 24 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 8 valid licenses, and label safety data are missing.",
+   "cut": " with 8 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 38 張，有效 14 張；句中的有效張數（8 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Clarification of the licensing status (8 valid US licenses) and route compatibility assessment",
+   "cut": " (8 valid US licenses)",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 38 張，有效 14 張；句中的有效張數（8 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "lamivudine": [
@@ -2647,12 +2809,22 @@
    "sentence": "Clarification of the cancelled US license status, and the current regulatory pathway if development is pursued.",
    "cut": "the cancelled US license status, and ",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 65 張，有效 34 張、停產 31 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in this country, with 13 valid licenses in the compiled data, and no approved indication text is available.",
+   "cut": ", with 13 valid licenses in the compiled data",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 65 張，有效 34 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "lamotrigine": [
   {
    "sentence": "All 13 US licenses for single-ingredient lamotrigine are cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 61 張，有效 44 張、停產 17 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed, with 13 valid licenses.",
+   "cut": ", with 13 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 61 張，有效 44 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "lansoprazole": [
@@ -2686,6 +2858,11 @@
   {
    "sentence": "All 12 authorizations are generic ANDAs for oral capsules and are currently cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 21 張，有效 20 張、停產 1 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 12 valid licenses, and label safety data are missing.",
+   "cut": " with 12 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 21 張，有效 20 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "letermovir": [
@@ -2711,6 +2888,11 @@
   {
    "sentence": "The data compiled for this report list 12 authorizations, all with cancelled status and no approved indication text.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 51 張，有效 29 張、停產 22 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；張數（12）也與事實（51）不符，刪子句後只剩殘句；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "In addition, the drug is marketed in the US, with 12 valid authorizations.",
+   "cut": ", with 12 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 51 張，有效 29 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "levofloxacin": [
@@ -2753,6 +2935,16 @@
   {
    "sentence": "Two further cancelled licenses are not shown: M002 (Motion Sickness Relief, film-coated tablet) and ANDA040659 (Meclizine Hydrochloride, tablet).",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 38 張，有效 11 張、停產 27 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；ANDA040659 有效；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 7 valid licenses, and effective alternatives already exist for urticaria.",
+   "cut": " with 7 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 38 張，有效 11 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Assessment of the current US market and regulatory pathway, given that the drug is marketed with 7 valid licenses",
+   "cut": " with 7 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 38 張，有效 11 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "meloxicam": [
@@ -2789,6 +2981,11 @@
   {
    "sentence": "All 13 US authorizations are generic applications (ANDAs) and all are listed as cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 52 張，有效 34 張、停產 18 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "Confirmation of the approved original indication and current US market status, since the drug is marketed with 13 valid licenses",
+   "cut": " with 13 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 52 張，有效 34 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "mepolizumab": [
@@ -2802,6 +2999,11 @@
   {
    "sentence": "Eight licenses are recorded in total, and all are cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 81 張，有效 21 張、停產 60 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 8 valid licenses, and the label safety information could not be obtained.",
+   "cut": " with 8 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 81 張，有效 21 張；句中的有效張數（8 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "methoxsalen": [
@@ -2866,6 +3068,11 @@
   {
    "sentence": "All five authorizations are single-ingredient ointments and all are cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 17 張，有效 12 張、停產 5 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 5 valid licenses.",
+   "cut": ", with 5 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 17 張，有效 12 張；句中的有效張數（5 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "nabumetone": [
@@ -2877,6 +3084,11 @@
    "sentence": "Route and formulation compatibility assessment and clarification of the cancelled market status",
    "cut": " and clarification of the cancelled market status",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 15 張，有效 8 張、停產 7 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 4 valid licenses.",
+   "cut": ", with 4 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 15 張，有效 8 張；句中的有效張數（4 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "naratriptan": [
@@ -2937,6 +3149,11 @@
   {
    "sentence": "All 10 US records are cancelled generic applications.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 57 張，有效 43 張、停產 14 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is also currently marketed in the US, with 10 valid licenses.",
+   "cut": ", with 10 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 57 張，有效 43 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "omadacycline": [
@@ -2984,6 +3201,11 @@
   {
    "sentence": "All 9 US licenses are ANDA generic applications, and all are cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 31 張，有效 13 張、停產 18 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "Also, only some US oxaliplatin licenses are valid (9 valid licenses are currently marketed), which complicates any near-term development path.",
+   "cut": " (9 valid licenses are currently marketed)",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 31 張，有效 13 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "palbociclib": [
@@ -3031,6 +3253,11 @@
   {
    "sentence": "All 11 US authorizations for phentermine hydrochloride are cancelled, and no approved indication text is available for them.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 103 張，有效 24 張、停產 79 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；刪子句後只剩指涉不明的「for them」；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 11 valid licenses, and its cardiovascular and psychiatric safety profile adds further caution.",
+   "cut": " with 11 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 103 張，有效 24 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "pioglitazone": [
@@ -3042,6 +3269,11 @@
    "sentence": "Review of the cancelled licensure status and the current availability of the drug",
    "cut": "the cancelled licensure status and ",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 27 張，有效 20 張、停產 7 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "There are no clinical trials or publications for opsismodysplasia, no plausible mechanistic link to INPPL1/SHIP2 biology, and the drug is marketed in the US with 6 valid licenses.",
+   "cut": " with 6 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 27 張，有效 20 張；句中的有效張數（6 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "piroxicam": [
@@ -3102,6 +3334,11 @@
   {
    "sentence": "There are 9 licenses in total, all listed as cancelled; the table shows the 5 main ones.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 14 張，有效 12 張、停產 2 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is currently marketed in the US with 9 valid licenses, and label safety data are missing.",
+   "cut": " with 9 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 14 張，有效 12 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "raloxifene": [
@@ -3112,12 +3349,27 @@
   {
    "sentence": "Two further cancelled ANDAs (ANDA211324 and ANDA206384) are not shown.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 10 張，有效 10 張、停產 0 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；ANDA211324、ANDA206384 有效；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 7 valid licenses.",
+   "cut": " with 7 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 10 張，有效 10 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Clarification of regulatory status for the new indication, since the drug is marketed in the US with 7 valid licenses, and a review of the route and dosing needed for the new indication",
+   "cut": " with 7 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 10 張，有效 10 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "ranolazine": [
   {
    "sentence": "Nine licenses are recorded in total, all cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 29 張，有效 19 張、停產 10 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "Clarification of the original approved indication and of the regulatory status (the drug is marketed, with 9 valid licenses)",
+   "cut": ", with 9 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 29 張，有效 19 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "remdesivir": [
@@ -3149,6 +3401,20 @@
    "sentence": "Evidence is at L5, and all US licenses for risperidone are currently cancelled.",
    "cut": ", and all US licenses for risperidone are currently cancelled",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 56 張，有效 33 張、停產 23 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "10 licenses are valid.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 56 張，有效 33 張；句中的有效張數（10 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
+  },
+  {
+   "sentence": "Clarification of the regulatory status, since the drug is marketed in the US with 10 valid licenses.",
+   "cut": " with 10 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 56 張，有效 33 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Indication text is not recorded for any of them.",
+   "cut": " for any of them",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 56 張，有效 33 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
   }
  ],
  "ropeginterferon_alfa-2b": [
@@ -3162,6 +3428,16 @@
   {
    "sentence": "All 8 records below are cancelled generic applications (single-ingredient injections).",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 17 張，有效 15 張、停產 2 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 8 valid licenses, but label safety data are missing, which blocks safety screening.",
+   "cut": " with 8 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 17 張，有效 15 張；句中的有效張數（8 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Confirm route compatibility and the current US regulatory pathway, given that the drug is marketed with 8 valid licenses.",
+   "cut": " with 8 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 17 張，有效 15 張；句中的有效張數（8 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "selpercatinib": [
@@ -3194,6 +3470,16 @@
   {
    "sentence": "All nine US authorizations are generic (ANDA) silodosin oral capsules and all are listed as cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 14 張，有效 10 張、停產 4 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is currently marketed in the US, with 9 valid licenses.",
+   "cut": ", with 9 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 14 張，有效 10 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Confirmation of the regulatory pathway, given that 9 US licenses are currently valid",
+   "cut": ", given that 9 US licenses are currently valid",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 14 張，有效 10 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "siponimod": [
@@ -3240,6 +3526,10 @@
    "cut": "The US licences are all cancelled, and ",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 26 張，有效 23 張、停產 3 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）",
    "capitalize": true
+  },
+  {
+   "sentence": "There are currently 13 valid licenses.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 26 張，有效 23 張；句中的有效張數（13 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
   }
  ],
  "talc": [
@@ -3295,6 +3585,11 @@
    "cut": "All 10 records are cancelled generic (ANDA) tablet products, and ",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 36 張，有效 22 張、停產 14 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）",
    "capitalize": true
+  },
+  {
+   "sentence": "A review of the regulatory position, since the drug is marketed and 10 licenses are valid",
+   "cut": " and 10 licenses are valid",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 36 張，有效 22 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "teprotumumab": [
@@ -3320,6 +3615,16 @@
   {
    "sentence": "Eight further ANDAs are on file, all cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 22 張，有效 21 張、停產 1 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed, with 13 valid licenses, and none has approved-indication text on file.",
+   "cut": ", with 13 valid licenses, and none has approved-indication text on file",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 22 張，有效 21 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Clarification of US regulatory status, since the drug is marketed with 13 valid licenses",
+   "cut": " with 13 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 22 張，有效 21 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "tobramycin": [
@@ -3327,6 +3632,17 @@
    "sentence": "The other 10 licenses are also cancelled generic ANDAs (solution, injection, and eye-drop forms).",
    "keep": true,
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 73 張，有效 41 張、停產 32 張；句子只說另有幾張已註銷，張數不超過事實的停產張數，不是「全部註銷」；保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "15 valid US licenses are on record, and the drug is marketed.",
+   "cut": "15 valid US licenses are on record, and ",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 73 張，有效 41 張；句中的有效張數（15 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）",
+   "capitalize": true
+  },
+  {
+   "sentence": "Current US market status for ophthalmic tobramycin, which is marketed with 15 valid licenses in the data",
+   "cut": " with 15 valid licenses in the data",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 73 張，有效 41 張；句中的有效張數（15 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "tocilizumab": [
@@ -3444,6 +3760,11 @@
   {
    "sentence": "The data list 11 BLAs in total (including the Stelara originator and several biosimilars), all with cancelled status.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 12 張，有效 12 張、停產 0 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 11 valid licenses, and the package-insert safety data are missing.",
+   "cut": ", with 11 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 12 張，有效 12 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "vestronidase_alfa": [
@@ -3499,6 +3820,11 @@
    "sentence": "Clarification of practical availability, given that the US market status is cancelled only",
    "cut": ", given that the US market status is cancelled only",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 22 張，有效 13 張、停產 9 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 9 valid licenses.",
+   "cut": ", with 9 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 22 張，有效 13 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "cocaine": [
@@ -3516,6 +3842,11 @@
   {
    "sentence": "Clarification of the cancelled US market status",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 16 張，有效 15 張、停產 1 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整個下一步項目以錯誤前提為內容；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed, with 10 valid US licenses.",
+   "cut": ", with 10 valid US licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 16 張，有效 15 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "deferiprone": [
@@ -3549,6 +3880,11 @@
   {
    "sentence": "No approved indication text is recorded for them.",
    "reason": "前一句（「All seven authorizations …」，事實 FDA 申請 15 張，張數不符）刪除後，本句的 them 失去指涉；懸空代名詞句整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "Clarification of the current US market and supply situation, since the drug is marketed with 7 valid licenses",
+   "cut": " with 7 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 15 張，有效 8 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "etoposide": [
@@ -3576,6 +3912,11 @@
    "cut": "Market status is cancelled only, and ",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 16 張，有效 13 張、停產 3 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）",
    "capitalize": true
+  },
+  {
+   "sentence": "The drug is marketed in the US with 10 valid authorizations, and the approved indication text was not available.",
+   "cut": " with 10 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 16 張，有效 13 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "fostamatinib": [
@@ -3612,6 +3953,16 @@
   {
    "sentence": "Three further cancelled licences are not listed here, including NDA021282 (Mucinex, Bryant Ranch Prepack).",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 29 張，有效 24 張、停產 5 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；NDA021282 有效；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 8 valid licences.",
+   "cut": ", with 8 valid licences",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 29 張，有效 24 張；句中的有效張數（8 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 8 valid licences.",
+   "cut": " with 8 valid licences",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 29 張，有效 24 張；句中的有效張數（8 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "guselkumab": [
@@ -3629,12 +3980,32 @@
   {
    "sentence": "Six further cancelled licenses are not shown: Gamunex-C, Alyglo, Flebogamma, Panzyga, GAMMAGARD Liquid, and Gammaplex.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 17 張，有效 17 張、停產 0 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；本藥沒有停產的申請；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 11 valid licenses, and no approved indication text was available.",
+   "cut": " with 11 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 17 張，有效 17 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 11 valid licenses, and the safety data are incomplete, so the review cannot proceed to safety screening.",
+   "cut": " with 11 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 17 張，有效 17 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "icosapent_ethyl": [
   {
    "sentence": "Five further authorizations (ANDA216811, ANDA217656, ANDA217844, ANDA218899, ANDA217919) are also cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 13 張，有效 13 張、停產 0 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；點名的 5 個 ANDA 都有效；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "Mechanism of action and package-insert safety data are also missing, and the drug is currently marketed in the US with 10 valid authorizations.",
+   "cut": " with 10 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 13 張，有效 13 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Clarification of the current US market status, given that the drug is marketed with 10 valid authorizations",
+   "cut": " with 10 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 13 張，有效 13 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "insulin_lispro": [
@@ -3658,6 +4029,11 @@
   {
    "sentence": "Four additional ANDA authorizations (Bryant Ranch Prepack, KVK-Tech, Alembic, Burel Pharmaceuticals) are also listed as cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 13 張，有效 10 張、停產 3 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 9 valid licenses.",
+   "cut": ", with 9 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 13 張，有效 10 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "leuprolide": [
@@ -3696,6 +4072,16 @@
   {
    "sentence": "Two further cancelled ANDAs (ANDA203572, Preferred Pharmaceuticals; ANDA076045, PD-Rx) are not shown.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 73 張，有效 21 張、停產 52 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；ANDA203572、ANDA076045 有效；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with seven valid authorizations.",
+   "cut": ", with seven valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 73 張，有效 21 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with seven valid authorizations, and label safety data is missing.",
+   "cut": " with seven valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 73 張，有效 21 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "methylphenidate": [
@@ -3716,12 +4102,32 @@
   {
    "sentence": "Six more ANDAs (Meitheal, Hisun, Glenmark, Zydus, Hikma, Biocon) are also recorded as cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 17 張，有效 13 張、停產 4 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 11 valid authorizations recorded.",
+   "cut": ", with 11 valid authorizations recorded",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 17 張，有效 13 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Confirmation of current US marketing status, since 11 valid authorizations are recorded",
+   "cut": ", since 11 valid authorizations are recorded",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 17 張，有效 13 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "minocycline": [
   {
    "sentence": "Three more cancelled ANDAs (ANDA063065, ANDA065436, ANDA091424) are not shown.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 41 張，有效 23 張、停產 18 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；點名的 3 個 ANDA 都有效；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 8 valid licenses.",
+   "cut": ", with 8 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 41 張，有效 23 張；句中的有效張數（8 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Clarification of the regulatory status, since the drug is marketed in the US with 8 valid licenses",
+   "cut": " with 8 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 41 張，有效 23 張；句中的有效張數（8 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "mycophenolic_acid": [
@@ -3765,12 +4171,32 @@
   {
    "sentence": "Three more cancelled licenses exist: ANDA070979 (solution), ANDA070221 (tablet), and ANDA078955 (tablet).",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 153 張，有效 30 張、停產 123 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；點名的 3 個 ANDA 都有效；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed, with 8 valid licenses.",
+   "cut": ", with 8 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 153 張，有效 30 張；句中的有效張數（8 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "In addition, the knowledge graph lists myopathy and skeletal muscle disease as contraindications for propranolol, and the drug is marketed with 8 valid licenses.",
+   "cut": " with 8 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 153 張，有效 30 張；句中的有效張數（8 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "prucalopride": [
   {
    "sentence": "Eight further ANDAs from Zydus, Apotex, Ajanta, Hikma, Sandoz, Cipla, ANI and SpecGx are also recorded as cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 20 張，有效 18 張、停產 2 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed, with 13 valid licenses.",
+   "cut": ", with 13 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 20 張，有效 18 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The drug is marketed, with 13 valid US licenses.",
+   "cut": ", with 13 valid US licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 20 張，有效 18 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "quinapril": [
@@ -3808,6 +4234,15 @@
   {
    "sentence": "Four additional cancelled authorizations are on record (Amneal, Civica, Amphastar, Long Grove).",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 14 張，有效 13 張、停產 1 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The compiled data lists nine valid authorizations, and approved indication text is not available for any of them.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 14 張，有效 13 張；句中的有效張數（9 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
+  },
+  {
+   "sentence": "Original approved indication text, which is not available for the nine valid US authorizations",
+   "cut": " for the nine valid US authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 14 張，有效 13 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "alectinib": [
@@ -3880,6 +4315,11 @@
   {
    "sentence": "All 9 authorizations are in valid status.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 15 張，有效 10 張、停產 5 張；句子的總數／張數說法與事實不符（checker 總數說法規則）；句子只有張數說法（或主詞就是錯的張數），整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed, with 9 valid US authorizations.",
+   "cut": ", with 9 valid US authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 15 張，有效 10 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "duvelisib": [
@@ -3900,6 +4340,21 @@
   {
    "sentence": "Clarification of the cancelled US market status",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 41 張，有效 33 張、停產 8 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整個下一步項目以錯誤前提為內容；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "14 US authorizations are valid (marketed), and no approved indication text is available.",
+   "cut": "14 US authorizations are valid (marketed), and ",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 41 張，有效 33 張；句中的有效張數（14 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）",
+   "capitalize": true
+  },
+  {
+   "sentence": "SIV does not infect humans, there are no registered trials, and the drug is marketed in the US with 14 valid authorizations.",
+   "cut": " with 14 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 41 張，有效 33 張；句中的有效張數（14 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The table lists 5 of them.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 41 張，有效 33 張；同段前一句的舊有效張數子句刪除後，本句的 them／the N 失去指涉（且「the N」也是舊張數），整句刪（2026-11-06）"
   }
  ],
  "fidaxomicin": [
@@ -3918,6 +4373,11 @@
    "sentence": "Its evidence is indirect (L4), no trials are registered, and the cancelled US market status limits practical development.",
    "cut": ", and the cancelled US market status limits practical development",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 53 張，有效 29 張、停產 24 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "In the US, 13 authorizations are currently valid and the drug is marketed.",
+   "cut": "13 authorizations are currently valid and ",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 53 張，有效 29 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "goserelin": [
@@ -3954,6 +4414,11 @@
    "sentence": "Review of the cancelled US market status and route compatibility",
    "cut": "the cancelled US market status and ",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 20 張，有效 12 張、停產 8 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "Evidence stays at L5 (model prediction only), and the drug is marketed in the US with 9 valid licenses.",
+   "cut": " with 9 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 20 張，有效 12 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "lebrikizumab": [
@@ -3967,12 +4432,31 @@
   {
    "sentence": "Review of the cancelled license status for any feasible regulatory pathway",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 111 張，有效 78 張、停產 33 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整個下一步項目以錯誤前提為內容；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "13 US licenses for levonorgestrel are valid.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 111 張，有效 78 張；句中的有效張數（13 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
+  },
+  {
+   "sentence": "The data compiled for this report contain no approved-indication text for them.",
+   "cut": " for them",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 111 張，有效 78 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
   }
  ],
  "montelukast": [
   {
    "sentence": "The cancelled-only status in this dataset should be checked against current FDA records before any development decision.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 52 張，有效 34 張、停產 18 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 14 valid authorizations.",
+   "cut": ", with 14 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 52 張，有效 34 張；句中的有效張數（14 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The neuropsychiatric boxed-warning risk is a particular concern for infants and children, and the drug is marketed in the US with 14 valid authorizations.",
+   "cut": " with 14 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 52 張，有效 34 張；句中的有效張數（14 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "naftifine": [
@@ -3994,12 +4478,27 @@
    "sentence": "Clarification of the cancelled US market status and any available formulations for a new indication",
    "cut": "the cancelled US market status and ",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 43 張，有效 25 張、停產 18 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 9 valid licenses.",
+   "cut": " with 9 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 43 張，有效 25 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The drug has a known anticholinergic burden, and it is marketed in the US with 9 valid licenses.",
+   "cut": " with 9 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 43 張，有效 25 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "paliperidone": [
   {
    "sentence": "Verification of the cancelled market status and its effect on development feasibility",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 20 張，有效 16 張、停產 4 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整個下一步項目以錯誤前提為內容；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed, with 12 valid authorizations.",
+   "cut": ", with 12 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 20 張，有效 16 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "panitumumab": [
@@ -4026,6 +4525,16 @@
   {
    "sentence": "Clarification of the cancelled US license status if a US development path is considered",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 25 張，有效 21 張、停產 4 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整個下一步項目以錯誤前提為內容；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 11 valid licenses.",
+   "cut": ", with 11 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 25 張，有效 21 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Approved indication text is not available for these records.",
+   "cut": " for these records",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 25 張，有效 21 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
   }
  ],
  "ramucirumab": [
@@ -4053,6 +4562,11 @@
   {
    "sentence": "Clarification of the cancelled US licensing status",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 29 張，有效 25 張、停產 4 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；整個下一步項目以錯誤前提為內容；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "In addition, the drug is marketed in the US with 9 valid licenses, but the package insert safety information is missing, which blocks progression to safety screening.",
+   "cut": " with 9 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 29 張，有效 25 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "rufinamide": [
@@ -4095,6 +4609,16 @@
    "sentence": "Clarification of the cancelled US market status and the current availability of the product",
    "cut": "the cancelled US market status and ",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 16 張，有效 14 張、停產 2 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed, with 11 valid licenses.",
+   "cut": ", with 11 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 16 張，有效 14 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "In addition, the drug is marketed with 11 valid licenses, but package insert safety data and mechanism data are missing.",
+   "cut": " with 11 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 16 張，有效 14 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "trandolapril": [
@@ -4118,6 +4642,11 @@
   {
    "sentence": "Three further cancelled licences are not shown: ANDA076126 (Carlsbad Technology), NDA019992 (Proficient Rx, solution/drops), and ANDA075939 (Amneal).",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 71 張，有效 39 張、停產 32 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；ANDA076126、NDA019992 有效；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "A decision on whether a re-listed US product is available, as the drug is marketed with 8 valid licenses",
+   "cut": " with 8 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 71 張，有效 39 張；句中的有效張數（8 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "latanoprost": [
@@ -4163,6 +4692,16 @@
    "cut": "All seven authorizations are valid, and ",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 10 張，有效 10 張、停產 0 張；句子的總數／張數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）",
    "capitalize": true
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 7 valid licenses.",
+   "cut": ", with 7 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 10 張，有效 10 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Clarification of the US regulatory and availability status, since the drug is marketed with 7 valid licenses",
+   "cut": " with 7 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 10 張，有效 10 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "fluorescein": [
@@ -4240,6 +4779,16 @@
   {
    "sentence": "These are 5 of 15 licenses (the others include oral capsules, gels and injectable solutions).",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 98 張，有效 53 張、停產 45 張；句子的總數／張數說法與事實不符（checker 總數說法規則）；句子只有張數說法（或主詞就是錯的張數），整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 15 valid licenses.",
+   "cut": ", with 15 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 98 張，有效 53 張；句中的有效張數（15 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Clarification of the current US regulatory status, since the drug is marketed with 15 valid licenses",
+   "cut": " with 15 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 98 張，有效 53 張；句中的有效張數（15 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "phenol": [
@@ -4303,6 +4852,11 @@
   {
    "sentence": "All three licenses are single-ingredient products and all are cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 0 張，有效 0 張、停產 0 張；句子的總數／張數說法與事實不符（checker 總數說法規則）；句子只有張數說法（或主詞就是錯的張數），整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "In addition, the drug is marketed with 3 valid licenses, but the safety label data are missing.",
+   "cut": " with 3 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 0 張，有效 0 張；句中的有效張數（3 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "tropicamide": [
@@ -4343,6 +4897,11 @@
   {
    "sentence": "All 7 licenses are oral tablets.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 21 張，有效 13 張、停產 8 張；句子的總數／張數說法與事實不符（checker 總數說法規則）；句子只有張數說法（或主詞就是錯的張數），整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 7 valid licenses.",
+   "cut": ", with 7 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 21 張，有效 13 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ],
  "ethambutol": [
@@ -4364,6 +4923,814 @@
    "sentence": "In addition, the drug is marketed in the US with 11 valid licenses out of 11, and the safety data are incomplete.",
    "cut": " with 11 valid licenses out of 11",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 26 張，有效 16 張、停產 10 張；「N valid licences of N」的總數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
+  }
+ ],
+ "amlodipine": [
+  {
+   "sentence": "The drug is marketed in the US, with 11 valid authorizations.",
+   "cut": ", with 11 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 116 張，有效 68 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "atropine": [
+  {
+   "sentence": "The drug is marketed in the US with 13 valid licenses, and the mechanistic direction is uncertain for the aura subtype.",
+   "cut": " with 13 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 76 張，有效 35 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "budesonide": [
+  {
+   "sentence": "The drug is marketed in the US, with 12 valid licenses.",
+   "cut": ", with 12 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 39 張，有效 32 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 12 valid licenses, and the label safety data are missing.",
+   "cut": ", with 12 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 39 張，有效 32 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "caffeine": [
+  {
+   "sentence": "Eight US licence records are valid, and no approved-indication text is available for them.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 128 張，有效 46 張；句中的有效張數（8 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
+  },
+  {
+   "sentence": "Because rhinitis is already among caffeine's original indications, the prediction adds little new information, and the drug is currently marketed in the US with 8 valid licences.",
+   "cut": " with 8 valid licences",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 128 張，有效 46 張；句中的有效張數（8 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "carvedilol": [
+  {
+   "sentence": "The drug is marketed with nine valid US licenses, but label safety data is missing, which blocks safety screening.",
+   "cut": " with nine valid US licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 21 張，有效 14 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "cefoxitin": [
+  {
+   "sentence": "Six valid single-ingredient US authorizations are recorded.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 18 張，有效 8 張；句中的有效張數（6 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
+  }
+ ],
+ "cyclobenzaprine": [
+  {
+   "sentence": "Nine valid US licenses are on record, and the drug is marketed.",
+   "cut": "Nine valid US licenses are on record, and ",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 26 張，有效 18 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）",
+   "capitalize": true
+  },
+  {
+   "sentence": "Clarify the current US regulatory and market status, since the drug is marketed with 9 valid licenses",
+   "cut": " with 9 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 26 張，有效 18 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "cyclosporine": [
+  {
+   "sentence": "No plausible mechanistic link between calcineurin inhibition and correcting the CGD defect is evident, and 13 US licenses are currently valid.",
+   "cut": ", and 13 US licenses are currently valid",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 38 張，有效 31 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "desmopressin": [
+  {
+   "sentence": "The drug is marketed in the US, with 11 valid authorizations.",
+   "cut": ", with 11 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 38 張，有效 19 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "desonide": [
+  {
+   "sentence": "Clarification of the regulatory status, given that 13 US authorizations are currently valid",
+   "cut": ", given that 13 US authorizations are currently valid",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 26 張，有效 14 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "dexmethylphenidate": [
+  {
+   "sentence": "The drug is marketed, with nine valid authorizations.",
+   "cut": ", with nine valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 24 張，有效 18 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with nine valid authorizations, and the knowledge graph flags several relevant safety conditions.",
+   "cut": " with nine valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 24 張，有效 18 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "No approved indication text is available for them.",
+   "cut": " for them",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 24 張，有效 18 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
+  }
+ ],
+ "dextroamphetamine": [
+  {
+   "sentence": "In the US, this drug is marketed, with 12 valid licenses.",
+   "cut": ", with 12 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 87 張，有效 47 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "diazepam": [
+  {
+   "sentence": "The US market status is **Marketed**, with 12 valid licences on record.",
+   "cut": ", with 12 valid licences on record",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 97 張，有效 31 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Approved-indication text is not recorded for these licences.",
+   "cut": " for these licences",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 97 張，有效 31 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
+  }
+ ],
+ "diclofenac": [
+  {
+   "sentence": "The drug is marketed in the US with 16 valid licenses, and no approved-indication text is available.",
+   "cut": " with 16 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 98 張，有效 65 張；句中的有效張數（16 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 16 valid licenses.",
+   "cut": ", with 16 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 98 張，有效 65 張；句中的有效張數（16 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The table lists 5 of them.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 98 張，有效 65 張；同段前一句的舊有效張數子句刪除後，本句的 them／the N 失去指涉（且「the N」也是舊張數），整句刪（2026-11-06）"
+  }
+ ],
+ "dicyclomine": [
+  {
+   "sentence": "The drug is marketed in the US, with 13 valid licenses.",
+   "cut": ", with 13 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 46 張，有效 31 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Approved indication text was not available for these entries.",
+   "cut": " for these entries",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 46 張，有效 31 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
+  }
+ ],
+ "diphenhydramine": [
+  {
+   "sentence": "The drug is marketed in the US, with 4 valid authorizations.",
+   "cut": ", with 4 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 109 張，有效 23 張；句中的有效張數（4 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "docusate": [
+  {
+   "sentence": "The drug is marketed in the US, and 2 licenses are currently valid.",
+   "cut": ", and 2 licenses are currently valid",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 0 張，有效 0 張；句中的有效張數（2 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Docusate is marketed in the US with 2 valid licenses, and the label safety review is blocked by missing package insert data.",
+   "cut": " with 2 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 0 張，有效 0 張；句中的有效張數（2 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "doxycycline": [
+  {
+   "sentence": "The drug is marketed in the US, with 15 valid licenses.",
+   "cut": ", with 15 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 146 張，有效 74 張；句中的有效張數（15 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "duloxetine": [
+  {
+   "sentence": "The drug is marketed in the US, with seven valid authorizations.",
+   "cut": ", with seven valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 29 張，有效 21 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with seven valid licenses.",
+   "cut": ", with seven valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 29 張，有效 21 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "No approved-indication text is recorded for any of them.",
+   "cut": " for any of them",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 29 張，有效 21 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
+  }
+ ],
+ "enoxaparin": [
+  {
+   "sentence": "The drug is marketed in the US, with 7 valid licenses.",
+   "cut": ", with 7 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 13 張，有效 13 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "There are no clinical trials or publications for this indication (evidence level L5), the mechanism-of-action data and label safety data are missing, and the drug is marketed in the US with 7 valid licenses.",
+   "cut": " with 7 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 13 張，有效 13 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "ephedrine": [
+  {
+   "sentence": "No clinical trials exist, the only literature is old or preliminary and involves combination products, and the drug is marketed with 14 valid US licenses.",
+   "cut": " with 14 valid US licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 24 張，有效 20 張；句中的有效張數（14 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "epinephrine": [
+  {
+   "sentence": "The drug is marketed in the US, with 11 valid licenses.",
+   "cut": ", with 11 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 96 張，有效 54 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "However, the evidence is specific to one inhaled formulation, bronchiolitis data are mixed, and the drug is marketed with 11 valid US licenses.",
+   "cut": " with 11 valid US licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 96 張，有效 54 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Confirm current US regulatory status and formulation against the 11 valid licenses",
+   "cut": " against the 11 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 96 張，有效 54 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The approved-indication text is not available for any of them.",
+   "cut": " for any of them",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 96 張，有效 54 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
+  }
+ ],
+ "felodipine": [
+  {
+   "sentence": "Six US authorizations are valid.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 15 張，有效 8 張；句中的有效張數（6 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
+  },
+  {
+   "sentence": "Six US licenses are valid.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 15 張，有效 8 張；句中的有效張數（6 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
+  },
+  {
+   "sentence": "No approved indication text is recorded for them.",
+   "cut": " for them",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 15 張，有效 8 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
+  }
+ ],
+ "fluconazole": [
+  {
+   "sentence": "The drug is marketed, with 10 valid authorizations.",
+   "cut": ", with 10 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 46 張，有效 21 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "There are no clinical trials or publications, the mechanistic link to a mainly viral, bacterial, toxic or dry-eye-related condition is weak, and the drug is marketed with 10 valid authorizations in this country.",
+   "cut": " with 10 valid authorizations in this country",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 46 張，有效 21 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Only 5 of the 10 are shown below.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 46 張，有效 21 張；同段前一句的舊有效張數子句刪除後，本句的 them／the N 失去指涉（且「the N」也是舊張數），整句刪（2026-11-06）"
+  },
+  {
+   "sentence": "Approved indication text was not available for any of them.",
+   "cut": " for any of them",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 46 張，有效 21 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
+  }
+ ],
+ "fluorouracil": [
+  {
+   "sentence": "Fluorouracil is marketed, with 12 valid licenses.",
+   "cut": ", with 12 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 52 張，有效 24 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Fluorouracil is not part of standard rhabdomyosarcoma regimens, and the drug is marketed with 12 valid US licenses.",
+   "cut": " with 12 valid US licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 52 張，有效 24 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "fluoxetine": [
+  {
+   "sentence": "Twelve valid single-ingredient ANDA records were listed, and the list may be partial.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 80 張，有效 38 張；句中的有效張數（12 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
+  }
+ ],
+ "guanfacine": [
+  {
+   "sentence": "There are 11 valid authorizations.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 27 張，有效 22 張；句中的有效張數（11 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 11 valid authorizations.",
+   "cut": ", with 11 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 27 張，有效 22 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "heparin": [
+  {
+   "sentence": "Heparin is marketed in the US with 13 valid licenses.",
+   "cut": " with 13 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 89 張，有效 33 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Confirmation of the current US market and licensing status (marketed, 13 valid licenses)",
+   "cut": ", 13 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 89 張，有效 33 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "hydromorphone": [
+  {
+   "sentence": "The drug is marketed in the US, with 10 valid authorizations.",
+   "cut": ", with 10 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 30 張，有效 19 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Confirmation of the current US regulatory status, since 10 valid licenses are listed",
+   "cut": ", since 10 valid licenses are listed",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 30 張，有效 19 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "No approved indication text is available for any of them.",
+   "cut": " for any of them",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 30 張，有效 19 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
+  }
+ ],
+ "ibuprofen": [
+  {
+   "sentence": "The drug is marketed in the US with 14 valid licenses, but label safety data are missing.",
+   "cut": " with 14 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 272 張，有效 121 張；句中的有效張數（14 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Clarification of the current regulatory and market status, since the drug is marketed with 14 valid licenses",
+   "cut": " with 14 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 272 張，有效 121 張；句中的有效張數（14 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "insulin_glargine": [
+  {
+   "sentence": "In addition, the drug is marketed in the US with six valid licenses, and the package insert safety data have not been retrieved.",
+   "cut": " with six valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 8 張，有效 8 張；句中的有效張數（6 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Confirmation of the current US regulatory status, since the drug is marketed with six valid licenses",
+   "cut": " with six valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 8 張，有效 8 張；句中的有效張數（6 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "isosorbide_mononitrate": [
+  {
+   "sentence": "Seven licences are currently valid in the US market, and the drug is marketed.",
+   "cut": "Seven licences are currently valid in the US market, and ",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 23 張，有效 12 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）",
+   "capitalize": true
+  },
+  {
+   "sentence": "Clarification of current US market status, since the facts list 7 valid licences",
+   "cut": ", since the facts list 7 valid licences",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 23 張，有效 12 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "ivabradine": [
+  {
+   "sentence": "There are no clinical trials or publications, no plausible mechanistic link between HCN channel inhibition and hair growth, and the drug is marketed with 7 valid licenses.",
+   "cut": " with 7 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 8 張，有效 6 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "ivermectin": [
+  {
+   "sentence": "The drug is marketed, with 10 valid authorizations.",
+   "cut": ", with 10 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 15 張，有效 14 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 10 valid authorizations.",
+   "cut": ", with 10 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 15 張，有效 14 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "ketoconazole": [
+  {
+   "sentence": "Systemic ketoconazole carries serious safety risks, and the drug is marketed in the US under 12 valid licenses.",
+   "cut": " under 12 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 28 張，有效 15 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "A decision on formulation (topical only is the realistic route) and a check of its current US regulatory and marketing status, given that the drug is marketed under 12 valid licenses",
+   "cut": " under 12 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 28 張，有效 15 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "liothyronine": [
+  {
+   "sentence": "The drug is currently marketed in the US, with 5 valid licenses.",
+   "cut": ", with 5 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 12 張，有效 8 張；句中的有效張數（5 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "loperamide": [
+  {
+   "sentence": "Also, the drug is marketed in the US, with 10 valid licenses.",
+   "cut": ", with 10 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 49 張，有效 27 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "losartan": [
+  {
+   "sentence": "Nine valid licenses are listed below, and no approved indication text is available in the compiled data.",
+   "cut": "Nine valid licenses are listed below, and ",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 46 張，有效 30 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）",
+   "capitalize": true
+  },
+  {
+   "sentence": "Confirmation of current US marketing status, since the drug is marketed with nine valid licenses in the compiled data",
+   "cut": " with nine valid licenses in the compiled data",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 46 張，有效 30 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "loteprednol_etabonate": [
+  {
+   "sentence": "The drug is marketed in the US, with 14 valid authorizations.",
+   "cut": ", with 14 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 23 張，有效 19 張；句中的有效張數（14 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "There are no trials or literature, the condition is largely benign and non-inflammatory, and the drug is marketed in the US with 14 valid licenses.",
+   "cut": " with 14 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 23 張，有效 19 張；句中的有效張數（14 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "magnesium_salicylate": [
+  {
+   "sentence": "All three are valid single-ingredient products.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 0 張，有效 0 張；句中的有效張數（3 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
+  }
+ ],
+ "mefenamic_acid": [
+  {
+   "sentence": "The data compiled for this report shows 3 valid single-ingredient oral capsule licences for mefenamic acid in the United States, held by different manufacturers.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 6 張，有效 4 張；句中的有效張數（3 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
+  },
+  {
+   "sentence": "No approved-indication text is recorded for them in the local data.",
+   "cut": " for them",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 6 張，有效 4 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
+  }
+ ],
+ "meropenem": [
+  {
+   "sentence": "The records show 9 valid licences, and the list may be partial.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 17 張，有效 13 張；句中的有效張數（9 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
+  }
+ ],
+ "metaxalone": [
+  {
+   "sentence": "The drug is marketed, and four valid authorizations remain.",
+   "cut": ", and four valid authorizations remain",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 10 張，有效 7 張；句中的有效張數（4 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "In addition, the drug is marketed with four valid US licenses and well-established standard therapies already exist, so there is no practical development pathway.",
+   "cut": " with four valid US licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 10 張，有效 7 張；句中的有效張數（4 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "methotrexate": [
+  {
+   "sentence": "The drug is marketed, with 13 valid authorizations, and the compiled records contain no approved indication text.",
+   "cut": ", with 13 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 66 張，有效 29 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "midazolam": [
+  {
+   "sentence": "Midazolam is marketed in the US with 12 valid licenses, and label-based safety data are not available.",
+   "cut": " with 12 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 46 張，有效 23 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "midodrine": [
+  {
+   "sentence": "Midodrine is currently marketed in the US, with 10 valid licenses.",
+   "cut": ", with 10 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 15 張，有效 12 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "modafinil": [
+  {
+   "sentence": "The list may be partial; 7 valid single-ingredient licences are recorded, all for oral tablets.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 11 張，有效 8 張；句中的有效張數（7 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
+  }
+ ],
+ "moxifloxacin": [
+  {
+   "sentence": "The drug is marketed in the US, with 10 valid authorizations.",
+   "cut": ", with 10 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 31 張，有效 23 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Approved indication text was not available for these entries.",
+   "cut": " for these entries",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 31 張，有效 23 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
+  }
+ ],
+ "naproxen": [
+  {
+   "sentence": "The drug is marketed, with 14 valid licenses.",
+   "cut": ", with 14 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 106 張，有效 58 張；句中的有效張數（14 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "In addition, 14 US licenses are valid, and the safety data are incomplete.",
+   "cut": "14 US licenses are valid, and ",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 106 張，有效 58 張；句中的有效張數（14 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Clarification of the current US regulatory status, given that 14 licenses are valid",
+   "cut": ", given that 14 licenses are valid",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 106 張，有效 58 張；句中的有效張數（14 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "nebivolol": [
+  {
+   "sentence": "The drug is marketed, with 11 valid licenses, and no approved indication text is available.",
+   "cut": ", with 11 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 21 張，有效 15 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The intended condition is an emergency setting where an oral beta-blocker is unlikely to be first-line, and the drug is marketed with 11 valid licenses.",
+   "cut": " with 11 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 21 張，有效 15 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "nitrofurantoin": [
+  {
+   "sentence": "12 valid licenses are on the market in this country, and no approved indication text is available in the data.",
+   "cut": "12 valid licenses are on the market in this country, and ",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 49 張，有效 26 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）",
+   "capitalize": true
+  }
+ ],
+ "nitroglycerin": [
+  {
+   "sentence": "However, there is no completed Phase 2/3 RCT, the main comparator trial is of unknown status, and the drug is marketed in the US with nine valid licenses.",
+   "cut": " with nine valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 63 張，有效 26 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "nitrous_oxide": [
+  {
+   "sentence": "The drug is marketed in the US with three valid licenses, and the key safety labeling information could not be obtained.",
+   "cut": " with three valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 7 張，有效 7 張；句中的有效張數（3 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "octreotide": [
+  {
+   "sentence": "Assessment of route compatibility (systemic injection versus topical or local treatment) and of regulatory status, given the 14 valid US authorizations",
+   "cut": ", given the 14 valid US authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 27 張，有效 19 張；句中的有效張數（14 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "ofloxacin": [
+  {
+   "sentence": "The drug is marketed in the US, with 12 valid licenses.",
+   "cut": ", with 12 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 34 張，有效 21 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 12 valid licenses, and the label safety data are missing.",
+   "cut": " with 12 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 34 張，有效 21 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Clarification of current US regulatory and market status, since the drug is marketed with 12 valid licenses",
+   "cut": " with 12 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 34 張，有效 21 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "olopatadine": [
+  {
+   "sentence": "The drug is marketed in the US with 12 valid authorizations, but package insert safety data are missing.",
+   "cut": " with 12 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 34 張，有效 26 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "paroxetine": [
+  {
+   "sentence": "In addition, paroxetine is currently marketed in the US, with 10 valid licenses.",
+   "cut": ", with 10 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 35 張，有效 23 張；句中的有效張數（10 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "phenylephrine": [
+  {
+   "sentence": "However, there are no registered clinical trials, the literature is mostly reviews or indirect studies (L3), and the drug is marketed with 12 valid US licenses.",
+   "cut": " with 12 valid US licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 58 張，有效 41 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "polyvinyl_alcohol": [
+  {
+   "sentence": "The drug is currently marketed in the US, with 1 valid license.",
+   "cut": ", with 1 valid license",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 0 張，有效 0 張；句中的有效張數（1 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "potassium_chloride": [
+  {
+   "sentence": "In addition, the drug is marketed in the US with 15 valid authorizations in the data, and package insert safety data are missing.",
+   "cut": " with 15 valid authorizations in the data",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 285 張，有效 145 張；句中的有效張數（15 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "prednisolone": [
+  {
+   "sentence": "The drug is marketed in the US, with 13 valid licenses in the data.",
+   "cut": ", with 13 valid licenses in the data",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 134 張，有效 26 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "pregabalin": [
+  {
+   "sentence": "The drug is marketed in the US, with 11 valid licenses.",
+   "cut": ", with 11 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 57 張，有效 34 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "prochlorperazine": [
+  {
+   "sentence": "The drug is marketed in the US with 11 valid authorizations, and none has approved indication text on record.",
+   "cut": " with 11 valid authorizations, and none has approved indication text on record",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 59 張，有效 21 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "propylene_glycol": [
+  {
+   "sentence": "The drug is marketed, and 3 valid authorizations are on record.",
+   "cut": ", and 3 valid authorizations are on record",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 0 張，有效 0 張；句中的有效張數（3 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "quetiapine": [
+  {
+   "sentence": "The drug is marketed in the US, with nine valid authorizations.",
+   "cut": ", with nine valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 41 張，有效 28 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "rivastigmine": [
+  {
+   "sentence": "Nine US authorizations are valid.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 19 張，有效 14 張；句中的有效張數（9 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
+  },
+  {
+   "sentence": "Label safety data are also missing, although the drug is marketed in the US with nine valid licenses.",
+   "cut": " with nine valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 19 張，有效 14 張；句中的有效張數（9 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The data compiled for this report contain no approved-indication text for any of them.",
+   "cut": " for any of them",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 19 張，有效 14 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
+  }
+ ],
+ "ropinirole": [
+  {
+   "sentence": "The drug is marketed in the US, with 7 valid authorizations.",
+   "cut": ", with 7 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 23 張，有效 15 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Assess pediatric safety, including impulse-control and gambling signals, and the regulatory path given that the drug is marketed in the US with 7 valid authorizations",
+   "cut": " with 7 valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 23 張，有效 15 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The data compiled for this report contains no approved indication text for any of them.",
+   "cut": " for any of them",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 23 張，有效 15 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
+  }
+ ],
+ "sertraline": [
+  {
+   "sentence": "Eight valid US licences for single-ingredient sertraline are recorded.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 39 張，有效 24 張；句中的有效張數（8 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
+  },
+  {
+   "sentence": "Indication text is not recorded in the local data for these licences.",
+   "cut": " for these licences",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 39 張，有效 24 張；同段前一句的舊有效張數子句刪除後，本句的代名詞片段失去指涉；只刪該片段，其餘保留（2026-11-06）"
+  }
+ ],
+ "silver": [
+  {
+   "sentence": "Other silver dosage forms appear in the records (pellet, gel, spray, ointment), and 1 valid license is currently on record for this drug in this country.",
+   "cut": ", and 1 valid license is currently on record for this drug in this country",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 0 張，有效 0 張；句中的有效張數（1 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "sulfasalazine": [
+  {
+   "sentence": "Clarification of the US regulatory and supply situation across the six valid licenses",
+   "cut": " across the six valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 16 張，有效 8 張；句中的有效張數（6 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "tadalafil": [
+  {
+   "sentence": "The drug is marketed in the US with 11 valid licenses, but the official safety label data is missing.",
+   "cut": " with 11 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 52 張，有效 44 張；句中的有效張數（11 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "tamsulosin": [
+  {
+   "sentence": "In addition, tamsulosin is marketed in the US with 6 valid licenses.",
+   "cut": " with 6 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 21 張，有效 14 張；句中的有效張數（6 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Clarification of current US marketing status, since 6 valid licenses are listed.",
+   "cut": ", since 6 valid licenses are listed",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 21 張，有效 14 張；句中的有效張數（6 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "tetracycline": [
+  {
+   "sentence": "The drug is marketed in the United States, with 7 valid licenses.",
+   "cut": ", with 7 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 61 張，有效 11 張；句中的有效張數（7 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "tranexamic_acid": [
+  {
+   "sentence": "The 13 US licenses are valid, and label safety data are missing.",
+   "cut": "The 13 US licenses are valid, and ",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 36 張，有效 27 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）",
+   "capitalize": true
+  }
+ ],
+ "tretinoin": [
+  {
+   "sentence": "There are 16 valid US licenses and no approved-indication text is on record.",
+   "cut": "There are 16 valid US licenses and ",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 55 張，有效 42 張；句中的有效張數（16 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）",
+   "capitalize": true
+  }
+ ],
+ "vancomycin": [
+  {
+   "sentence": "13 valid authorizations are on record, and none has approved indication text on record.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 68 張，有效 42 張；句中的有效張數（13 張）與事實不符，句子只剩張數說法（或刪完只剩懸空代名詞），整句刪（2026-11-06 用戶決定：有效張數說少了的句子只刪錯的張數子句）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 13 valid licenses.",
+   "cut": " with 13 valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 68 張，有效 42 張；句中的有效張數（13 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "verapamil": [
+  {
+   "sentence": "The drug is marketed in the US, with 12 valid licences.",
+   "cut": ", with 12 valid licences",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 79 張，有效 29 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "Confirmation of the current US marketing status, since the drug is marketed with 12 valid licences",
+   "cut": " with 12 valid licences",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 79 張，有效 29 張；句中的有效張數（12 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "vitamin_a": [
+  {
+   "sentence": "In addition, the drug is marketed in the US with four valid authorizations.",
+   "cut": " with four valid authorizations",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 46 張，有效 7 張；句中的有效張數（4 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "warfarin": [
+  {
+   "sentence": "Warfarin is marketed in the US, and the data compiled for this report show four valid licenses.",
+   "cut": ", and the data compiled for this report show four valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 21 張，有效 6 張；句中的有效張數（4 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "zinc_chloride": [
+  {
+   "sentence": "The drug is marketed, with five valid licenses.",
+   "cut": ", with five valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 4 張，有效 4 張；句中的有效張數（5 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with five valid licenses, the mechanism of action is undocumented, and the route and formulation for retinal or ocular use are undefined.",
+   "cut": " with five valid licenses",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 4 張，有效 4 張；句中的有效張數（5 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "zinc_gluconate": [
+  {
+   "sentence": "The drug is marketed in the US with 1 valid license, and the knowledge graph lists blood-related contraindication signals (sickle cell anemia, iron metabolism disease, blood coagulation disease), which need clarification before any use in preterm infants.",
+   "cut": " with 1 valid license",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 0 張，有效 0 張；句中的有效張數（1 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
  ]
 }

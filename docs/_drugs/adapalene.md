@@ -93,7 +93,7 @@ For label-based warnings and contraindications, please refer to the package inse
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or literature (evidence level L5). There is also no recognized mechanistic link between a topical retinoid and plasma zinc levels. The drug is marketed in the US with 9 valid authorizations, and because it is topical, a systemic biochemical target is unlikely to be reachable.
+The prediction has no supporting clinical trials or literature (evidence level L5). There is also no recognized mechanistic link between a topical retinoid and plasma zinc levels. The drug is marketed in the US, and because it is topical, a systemic biochemical target is unlikely to be reachable.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a plausible mechanistic link between retinoid receptor signaling and zinc homeostasis

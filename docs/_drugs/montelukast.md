@@ -108,7 +108,7 @@ The compiled literature contains no RCT reports for this indication. The list be
 
 ## US Market Information
 
-The drug is marketed in the US, with 14 valid authorizations. The license records contain no approved-indication text. The five main authorizations are listed below.
+The drug is marketed in the US. The license records contain no approved-indication text. The five main authorizations are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -137,7 +137,7 @@ Please refer to the package insert for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible and several randomized trials exist, including one large Phase 3 trial in RSV bronchiolitis. The compiled data contain no results showing clear efficacy, and the predicted "bronchitis" covers distinct diseases. The neuropsychiatric boxed-warning risk is a particular concern for infants and children, and the drug is marketed in the US with 14 valid authorizations.
+The mechanism is plausible and several randomized trials exist, including one large Phase 3 trial in RSV bronchiolitis. The compiled data contain no results showing clear efficacy, and the predicted "bronchitis" covers distinct diseases. The neuropsychiatric boxed-warning risk is a particular concern for infants and children, and the drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Published results of the Phase 3 RSV bronchiolitis trial (NCT00076973) and the placebo-controlled bronchiolitis trials, with the Cochrane review conclusions

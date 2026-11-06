@@ -92,7 +92,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a model score, with no clinical trials or literature behind it. Mupirocin's topical-only exposure and rapid inactivation make therapeutic levels in the pleural space implausible, and effective standard treatment already exists. The drug is marketed in the US, with 5 valid licenses.
+The prediction rests solely on a model score, with no clinical trials or literature behind it. Mupirocin's topical-only exposure and rapid inactivation make therapeutic levels in the pleural space implausible, and effective standard treatment already exists. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

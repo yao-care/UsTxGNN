@@ -89,8 +89,7 @@ Currently no related clinical trials registered.
 | ANDA091322 | Mefenamic Acid (Advanced Rx of Tennessee, LLC) | Capsule | Not recorded; status valid |
 | ANDA091608 | Mefenamic Acid (Misemer Pharmaceuticals, Inc) | Capsule | Not recorded; status valid |
 
-
-The data compiled for this report shows 3 valid single-ingredient oral capsule licences for mefenamic acid in the United States, held by different manufacturers. No approved-indication text is recorded for them in the local data.
+No approved-indication text is recorded in the local data.
 
 ## Safety Considerations
 

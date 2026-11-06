@@ -127,7 +127,7 @@ One completed Phase 3 randomised, placebo-controlled trial (NCT00048360) and one
 - Package insert warnings and contraindications (a blocking gap), especially seizure risk, the boxed warning, and the neuropsychiatric profile
 - Detailed mechanism of action data from DrugBank
 - Trial results for NCT00048360 and NCT00061087, including the comparator, randomisation and blinding, and efficacy and safety outcomes
-- Confirmation of the current US regulatory status, since 13 ANDAs are valid and the drug is marketed
+- Confirmation of the current US regulatory status, since the drug is marketed
 - A patient selection and monitoring plan covering seizure risk, hypertension, cardiovascular disease, eating disorders, and substance use comorbidity
 - A review of the major drug interactions, particularly with opioids and methylphenidate, before any combination use
 ## Disclaimer

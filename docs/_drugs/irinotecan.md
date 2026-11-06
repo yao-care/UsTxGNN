@@ -92,7 +92,7 @@ The high TxGNN score is a computational prediction and does not replace clinical
 
 ## US Market Information
 
-The records list 9 valid US licenses, and no approved-indication text is available in the records.
+No approved-indication text is available in the records.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -124,7 +124,7 @@ Official label warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but the only trial testing irinotecan directly in breast cancer is a 12-patient Phase 1 study. Supportive data come mostly from SN-38 conjugates and liposomal or PEGylated formulations, which do not validate free irinotecan. Older reviews describe marginal single-agent activity. Official label safety data are also missing, although the drug is marketed in the US with 9 valid licenses. At present this is a research question rather than a development candidate.
+The TxGNN score is high, but the only trial testing irinotecan directly in breast cancer is a 12-patient Phase 1 study. Supportive data come mostly from SN-38 conjugates and liposomal or PEGylated formulations, which do not validate free irinotecan. Older reviews describe marginal single-agent activity. Official label safety data are also missing, although the drug is marketed in the US. At present this is a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
 - Official FDA label warnings and contraindications, which block safety screening

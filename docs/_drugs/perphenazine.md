@@ -108,7 +108,7 @@ Please refer to the package insert for full safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5). No trials exist, and the single publication describes retinal harm from a related drug rather than benefit. No credible mechanism links perphenazine's receptor pharmacology to inherited retinal dystrophy. The drug is marketed in the US, with 7 valid licenses.
+The prediction rests on model output alone (L5). No trials exist, and the single publication describes retinal harm from a related drug rather than benefit. No credible mechanism links perphenazine's receptor pharmacology to inherited retinal dystrophy. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - A plausible mechanistic rationale and preclinical data supporting benefit in retinal dystrophy

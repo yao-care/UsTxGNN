@@ -79,7 +79,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The drug is marketed, with 13 valid authorizations, and the compiled records contain no approved indication text. The five main ones are listed below, with NDAs first.
+The drug is marketed, and the compiled records contain no approved indication text. The five main ones are listed below, with NDAs first.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|

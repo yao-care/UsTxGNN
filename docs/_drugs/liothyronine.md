@@ -118,7 +118,7 @@ Label warnings and contraindications were not available. Please refer to the pac
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model (deep learning) score. There are no clinical trials and no literature, and no credible biological mechanism for thyroid hormone replacement to correct a congenital kidney malformation. The drug is currently marketed in the US, with 5 valid licenses.
+The prediction rests only on a TxGNN model (deep learning) score. There are no clinical trials and no literature, and no credible biological mechanism for thyroid hormone replacement to correct a congenital kidney malformation. The drug is currently marketed in the US.
 
 **To proceed, the following is needed:**
 - A plausible mechanistic rationale, which requires the drug's mechanism of action data

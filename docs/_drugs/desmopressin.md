@@ -72,7 +72,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-The drug is marketed in the US, with 11 valid authorizations. The records contain no approved indication text. Up to 5 are listed below.
+The drug is marketed in the US. The records contain no approved indication text. Up to 5 are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

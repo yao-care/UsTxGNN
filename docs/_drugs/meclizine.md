@@ -107,14 +107,14 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction (score 0.9967) is supported only by class-level reasoning, with no clinical trials or publications for meclizine in this indication. The drug is marketed in the US with 7 valid licenses, and effective alternatives already exist for urticaria.
+The prediction (score 0.9967) is supported only by class-level reasoning, with no clinical trials or publications for meclizine in this indication. The drug is marketed in the US, and effective alternatives already exist for urticaria.
 
 **To proceed, the following is needed:**
 - Literature and trial searches specific to meclizine in urticaria (and the other predicted indications)
 - Mechanism of action data to support the mechanistic link
 - Package insert warnings and contraindications for formal safety screening
 - A comparison against established non-sedating antihistamines to show added value
-- Assessment of the current US market and regulatory pathway, given that the drug is marketed with 7 valid licenses
+- Assessment of the current US market and regulatory pathway, given that the drug is marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

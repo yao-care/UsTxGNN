@@ -96,7 +96,7 @@ Several other retrieved papers concern resistance mechanisms or other organisms 
 
 ## US Market Information
 
-The drug is marketed in the US, with 12 valid licenses. No approved-indication text is available. The first five are listed below.
+The drug is marketed in the US. No approved-indication text is available. The first five are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -124,14 +124,14 @@ The knowledge-graph contraindication of peripheral neuropathy argues against the
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, hyperamylasemia, has no clinical trials, no literature, and no plausible mechanistic link. The drug is marketed in the US with 12 valid licenses, and the label safety data are missing. Of the ten predictions, only septicemic plague has biologically coherent preclinical support (L4), and that remains a research question rather than a development-ready indication.
+The top prediction, hyperamylasemia, has no clinical trials, no literature, and no plausible mechanistic link. The drug is marketed in the US, and the label safety data are missing. Of the ten predictions, only septicemic plague has biologically coherent preclinical support (L4), and that remains a research question rather than a development-ready indication.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - For hyperamylasemia, a mechanistic hypothesis and any clinical or observational data. Without them, the prediction should not advance.
 - For septicemic plague, a review of current guideline-recommended therapies and of any human data
-- Clarification of current US regulatory and market status, since the drug is marketed with 12 valid licenses
+- Clarification of current US regulatory and market status, since the drug is marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

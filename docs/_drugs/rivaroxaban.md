@@ -96,7 +96,7 @@ Package insert warnings and contraindications are not available in the compiled 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but it is a model output only. There are no clinical trials and no literature showing that rivaroxaban affects rheumatoid arthritis. In addition, the drug is marketed in the US with 9 valid licenses, but the package insert safety information is missing, which blocks progression to safety screening.
+The prediction score is very high, but it is a model output only. There are no clinical trials and no literature showing that rivaroxaban affects rheumatoid arthritis. In addition, the drug is marketed in the US, but the package insert safety information is missing, which blocks progression to safety screening.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)

@@ -80,7 +80,7 @@ Currently no related literature available.
 | ANDA077857 | Enoxaparin Sodium (Cardinal Health 107, LLC) | Injection | Valid |
 | ANDA205660 | Enoxaparin Sodium (Hepalink USA Inc.) | Injection, solution | Valid |
 
-Two further ANDAs (ANDA214646, ANDA206834) are also on record. Approved indication text is not available in the license records. The drug is marketed in the US, with 7 valid licenses.
+Two further ANDAs (ANDA214646, ANDA206834) are also on record. Approved indication text is not available in the license records. The drug is marketed in the US.
 
 ## Safety Considerations
 
@@ -106,7 +106,7 @@ Package insert warnings and contraindications were not available in the compiled
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but it is the only support. There are no clinical trials or publications for this indication (evidence level L5), the mechanism-of-action data and label safety data are missing, and the drug is marketed in the US with 7 valid licenses.
+The prediction score is very high, but it is the only support. There are no clinical trials or publications for this indication (evidence level L5), the mechanism-of-action data and label safety data are missing, and the drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Systematic literature search on heparin or enoxaparin use in severe congenital protein C deficiency (case reports, registries, guidelines)

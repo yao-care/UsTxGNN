@@ -99,7 +99,7 @@ It is a model output that cannot be acted on in its current form.
 - Mechanistic evidence connecting carnitine metabolism to the pathology of this disease, such as preclinical or cell-model data
 - Detailed mechanism of action data for levocarnitine
 - Package insert warnings and contraindications, and a review of the interaction burden (especially anticoagulants)
-- Clarification of regulatory status across the 11 valid US licenses
+- Clarification of regulatory status
 
 **Note on other predicted indications:** The same prediction run produced candidates with far stronger support. **Congestive heart failure** (score 0.9947) has a completed Phase 2/3 randomized, placebo-controlled trial of L-carnitine injection (NCT01580553, 268 participants), a recruiting early-phase trial (NCT07201714), and supportive clinical literature. Its trial results still need to be verified. It would be a more productive candidate to evaluate first.
 ## Disclaimer

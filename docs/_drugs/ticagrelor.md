@@ -78,7 +78,7 @@ The evidence is still pending. The Phase 3 CAPTIVA trial is active but not recru
 
 ## US Market Information
 
-The drug is marketed, with 13 valid licenses, and none has approved-indication text on file.
+The drug is marketed.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -109,7 +109,7 @@ The mechanism is plausible, and a large Phase 3 trial (CAPTIVA, n=1683) directly
 - CAPTIVA results (expected completion January 2027) and the ticagrelor-specific arm outcomes
 - FDA package insert warnings and contraindications (currently unavailable and blocking for safety screening)
 - Detailed mechanism-of-action data
-- Clarification of US regulatory status, since the drug is marketed with 13 valid licenses
+- Clarification of US regulatory status, since the drug is marketed
 - A bleeding-risk management plan, including patient selection and treatment duration
 
 ## Other Predicted Indications (Brief)

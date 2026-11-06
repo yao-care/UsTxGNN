@@ -93,7 +93,7 @@ For warnings and contraindications, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no clinical trials or publications. The proposed mechanism (antihistamine action) does not address the main drivers of ocular rosacea, and the anticholinergic effect may worsen dry eye. The drug is marketed in the US, with 4 valid authorizations.
+The prediction is supported only by a model score, with no clinical trials or publications. The proposed mechanism (antihistamine action) does not address the main drivers of ocular rosacea, and the anticholinergic effect may worsen dry eye. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (needed for any safety screening)

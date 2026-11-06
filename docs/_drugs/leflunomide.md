@@ -104,7 +104,7 @@ Please refer to the package insert for complete warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has only a computational basis (L5), with no clinical trials, literature, or established mechanistic link. Leflunomide's known teratogenic risk and the rare congenital nature of the predicted conditions further weaken the case. The drug is marketed in the US, with 9 valid licenses.
+The prediction has only a computational basis (L5), with no clinical trials, literature, or established mechanistic link. Leflunomide's known teratogenic risk and the rare congenital nature of the predicted conditions further weaken the case. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

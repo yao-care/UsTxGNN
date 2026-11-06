@@ -76,7 +76,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-13 valid authorizations are on record, and none has approved indication text on record. The five below are representative.
+The five below are representative.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -111,7 +111,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-There is no mechanistic link, no clinical trial and no relevant literature supporting vancomycin in diffuse scleroderma, so the prediction is probably an artifact of the TxGNN model (deep learning). The drug is marketed in the US with 13 valid licenses.
+There is no mechanistic link, no clinical trial and no relevant literature supporting vancomycin in diffuse scleroderma, so the prediction is probably an artifact of the TxGNN model (deep learning). The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Do not pursue diffuse scleroderma without new mechanistic or preclinical evidence.

@@ -80,7 +80,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-There are 11 valid authorizations. The five main ones are listed below, and the approved indication text is not specified in the authorization records.
+The five main ones are listed below, and the approved indication text is not specified in the authorization records.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -106,7 +106,7 @@ Please refer to the package insert for authoritative warnings and contraindicati
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature, and no plausible biological link to alpha-2A agonism was found. The drug is marketed in the US, with 11 valid authorizations. The score alone is not enough to justify further investment.
+The prediction has no supporting trials or literature, and no plausible biological link to alpha-2A agonism was found. The drug is marketed in the US. The score alone is not enough to justify further investment.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible biological rationale linking guanfacine to this disorder

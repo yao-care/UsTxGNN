@@ -82,7 +82,7 @@ None of these studies directly tests tobramycin for exposure keratitis.
 
 ## US Market Information
 
-15 valid US licenses are on record, and the drug is marketed. Approved indication text is not available in the data compiled for this report. The main licenses are:
+The drug is marketed. Approved indication text is not available in the data compiled for this report. The main licenses are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -113,7 +113,7 @@ The prediction score is high, but exposure keratitis is mainly a non-infectious 
 - Clarification of the intended role (prophylaxis or treatment of secondary bacterial infection) versus standard care, such as lubrication and eyelid protection
 - Comparative clinical data on safety and efficacy of topical tobramycin in patients with compromised corneal epithelium
 - Mechanism of action data and package insert warnings and contraindications
-- Current US market status for ophthalmic tobramycin, which is marketed with 15 valid licenses in the data
+- Current US market status for ophthalmic tobramycin, which is marketed
 
 **Other predictions reviewed:** Otitis externa is the most plausible, with a mechanistic link through Pseudomonas aeruginosa and Staphylococcus aureus and historical case reports of tobramycin use in malignant otitis externa. However, it is closer to confirming an existing use than novel repurposing, and no controlled human trials were provided. Other predictions (post-bacterial disorder, infective urethral stricture, epidemic keratoconjunctivitis, and several non-bacterial conditions) have weak, indirect, or no evidence and are not recommended for advancement.
 ## Disclaimer

@@ -91,7 +91,7 @@ Two other lower-ranked predictions are mechanistically more coherent, although b
 
 ## US Market Information
 
-The drug is marketed in the US with 10 valid authorizations, and the approved indication text was not available.
+The drug is marketed in the US, and the approved indication text was not available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

@@ -115,7 +115,7 @@ Label-based warnings and contraindications were not compiled for this report. Pl
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model (deep learning) score is very high (0.9997), but there are no clinical trials and no literature showing lamotrigine activity against a trigeminal nerve neoplasm. The score comes from the TxGNN model and may reflect similarities the model learned between related diseases, not biological evidence. The prediction appears to be driven by the drug's association with trigeminal neuralgia, which is a different condition. The drug is marketed, with 13 valid licenses.
+The TxGNN model (deep learning) score is very high (0.9997), but there are no clinical trials and no literature showing lamotrigine activity against a trigeminal nerve neoplasm. The score comes from the TxGNN model and may reflect similarities the model learned between related diseases, not biological evidence. The prediction appears to be driven by the drug's association with trigeminal neuralgia, which is a different condition. The drug is marketed.
 
 **To proceed, the following is needed:**
 - Preclinical or clinical evidence that lamotrigine has anti-tumour activity or symptomatic benefit in trigeminal nerve tumours

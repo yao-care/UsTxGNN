@@ -99,7 +99,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The 0.9994 TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It has no supporting trials or publications (L5). The drug is marketed in the US with 1 valid license, and the knowledge graph lists blood-related contraindication signals (sickle cell anemia, iron metabolism disease, blood coagulation disease), which need clarification before any use in preterm infants.
+The 0.9994 TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It has no supporting trials or publications (L5). The drug is marketed in the US, and the knowledge graph lists blood-related contraindication signals (sickle cell anemia, iron metabolism disease, blood coagulation disease), which need clarification before any use in preterm infants.
 
 **To proceed, the following is needed:**
 - A literature and trial search specific to zinc and anemia of prematurity, including neonatal zinc, copper and iron status

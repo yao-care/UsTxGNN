@@ -80,7 +80,7 @@ Currently no related literature available.
 | part343 | Doans | Tablet | Not stated in the data compiled |
 | M027 | Diurex | Tablet, coated | Not stated in the data compiled |
 
-All three are valid single-ingredient products. Oral dosage forms recorded include coated tablets, coated capsules, film-coated tablets and tablets.
+Oral dosage forms recorded include coated tablets, coated capsules, film-coated tablets and tablets.
 
 ## Safety Considerations
 

@@ -105,7 +105,7 @@ The prediction has no clinical or literature support (evidence level L5) and onl
 - Mechanism of action data, including evidence of somatostatin receptor expression in keratinocytic lesions
 - Preclinical or early clinical evidence in vulvar inverted follicular keratosis or seborrheic keratosis
 - Official package insert warnings and contraindications for safety screening
-- Assessment of route compatibility (systemic injection versus topical or local treatment) and of regulatory status, given the 14 valid US authorizations
+- Assessment of route compatibility (systemic injection versus topical or local treatment) and of regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

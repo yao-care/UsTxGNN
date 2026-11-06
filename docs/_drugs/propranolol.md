@@ -89,7 +89,7 @@ For context, literature was found for two lower-ranked predictions:
 
 ## US Market Information
 
-The drug is marketed, with 8 valid licenses. The records contain no approved-indication text.
+The drug is marketed. The records contain no approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -121,7 +121,7 @@ Label warnings and contraindications were not available; please refer to the pac
 **Decision: Hold**
 
 **Rationale:**
-The prediction for distal myopathy, Tateyama type rests only on a TxGNN model (deep learning) score of 0.9940, with no clinical trials, no literature, and no mechanistic rationale. In addition, the knowledge graph lists myopathy and skeletal muscle disease as contraindications for propranolol, and the drug is marketed with 8 valid licenses.
+The prediction for distal myopathy, Tateyama type rests only on a TxGNN model (deep learning) score of 0.9940, with no clinical trials, no literature, and no mechanistic rationale. In addition, the knowledge graph lists myopathy and skeletal muscle disease as contraindications for propranolol, and the drug is marketed.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a plausible biological link between beta-blockade and this myopathy

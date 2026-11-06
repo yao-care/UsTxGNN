@@ -100,14 +100,14 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials, no supporting literature, and no plausible mechanistic link to the predicted condition. Evidence is at level L5 (model prediction only). In addition, tamsulosin is marketed in the US with 6 valid licenses.
+The prediction has no clinical trials, no supporting literature, and no plausible mechanistic link to the predicted condition. Evidence is at level L5 (model prediction only). In addition, tamsulosin is marketed in the US.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence connecting alpha-1A/1D blockade to the *TRPS1* or 8q22-related pathology of Ambras syndrome, or a rationale for choosing another prediction.
 - Detailed mechanism of action data (MOA).
 - Package insert warnings and contraindications, to allow safety screening.
 - Preclinical studies (for example in cell or animal models) before any clinical consideration.
-- Clarification of current US marketing status, since 6 valid licenses are listed.
+- Clarification of current US marketing status.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

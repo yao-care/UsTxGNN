@@ -117,7 +117,7 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication largely overlaps with existing rhinitis and nasopharyngitis uses and is mechanistically plausible. However, there are no registered clinical trials, the literature is mostly reviews or indirect studies (L3), and the drug is marketed with 12 valid US licenses. Label safety data are also missing.
+The predicted indication largely overlaps with existing rhinitis and nasopharyngitis uses and is mechanistically plausible. However, there are no registered clinical trials, the literature is mostly reviews or indirect studies (L3), and the drug is marketed. Label safety data are also missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

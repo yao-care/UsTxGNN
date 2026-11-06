@@ -89,7 +89,7 @@ Most of the 20 publications are macaque studies. The table lists the most releva
 
 ## US Market Information
 
-14 US authorizations are valid (marketed), and no approved indication text is available. The table lists 5 of them.
+No approved indication text is available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -114,7 +114,7 @@ For label warnings and contraindications, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score (0.9992) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The supporting evidence is entirely preclinical (macaque models) and supports the existing HIV indication and PrEP use rather than a new human therapy. SIV does not infect humans, there are no registered trials, and the drug is marketed in the US with 14 valid authorizations.
+The high TxGNN score (0.9992) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The supporting evidence is entirely preclinical (macaque models) and supports the existing HIV indication and PrEP use rather than a new human therapy. SIV does not infect humans, there are no registered trials, and the drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Confirmation that a human-relevant new indication exists (SIV and FIV are animal diseases)

@@ -110,7 +110,7 @@ No literature is available for pharyngitis. The literature below relates to the 
 
 ## US Market Information
 
-The drug is marketed in the US, with 10 valid authorizations. No approved indication text is available for any of them.
+The drug is marketed in the US. No approved indication text is available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -149,7 +149,7 @@ Package insert warnings and contraindications were not available in the data com
 - Mechanism of action data and FDA package insert warnings and contraindications (blocking gap for safety screening)
 - Trials of hydromorphone in pharyngitis itself, not postoperative pain
 - A comparison against standard non-opioid analgesics, with a benefit-risk analysis covering respiratory depression, dependence and medication-overuse headache
-- Confirmation of the current US regulatory status, since 10 valid licenses are listed
+- Confirmation of the current US regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

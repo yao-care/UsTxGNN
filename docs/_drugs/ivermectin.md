@@ -79,7 +79,7 @@ For the second-ranked prediction (esophageal candidiasis) and the seventh-ranked
 
 ## US Market Information
 
-The drug is marketed, with 10 valid authorizations. The data compiled for this report contain no approved indication text.
+The drug is marketed. The data compiled for this report contain no approved indication text.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -114,7 +114,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or supporting literature, and no plausible antifungal mechanism. Effective antifungals (azoles, echinocandins, amphotericin B) are already standard of care. The drug is marketed in the US, with 10 valid authorizations.
+The prediction rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or supporting literature, and no plausible antifungal mechanism. Effective antifungals (azoles, echinocandins, amphotericin B) are already standard of care. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, and in vitro evidence of activity against *Candida* species

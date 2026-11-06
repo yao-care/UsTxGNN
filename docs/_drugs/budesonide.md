@@ -84,7 +84,7 @@ No human efficacy trial of budesonide in atopic eczema was found among these pub
 
 ## US Market Information
 
-The drug is marketed in the US, with 12 valid licenses. Approved indication text is not available in the records. Up to 5 are listed below.
+The drug is marketed in the US. Approved indication text is not available in the records. Up to 5 are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -107,7 +107,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible, but there are no registered clinical trials and the literature is indirect or preclinical (evidence level L4). Topical corticosteroids are already standard care, so budesonide's added value is unproven. The drug is marketed in the US, with 12 valid licenses, and the label safety data are missing.
+The mechanism is plausible, but there are no registered clinical trials and the literature is indirect or preclinical (evidence level L4). Topical corticosteroids are already standard care, so budesonide's added value is unproven. The drug is marketed in the US, and the label safety data are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

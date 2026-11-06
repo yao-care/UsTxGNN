@@ -85,7 +85,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-The drug is marketed in this country, with 13 valid licenses in the compiled data, and no approved indication text is available.
+The drug is marketed in this country, and no approved indication text is available.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|

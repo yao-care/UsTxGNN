@@ -92,7 +92,7 @@ Please refer to the package insert for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no trials or publications. The drug's pharmacology (slowing the sinus rate and conduction) and its knowledge-graph contraindication in sick sinus syndrome argue against benefit and suggest potential harm. The drug is marketed in the US, with 7 valid licenses.
+The prediction is supported only by a model score, with no trials or publications. The drug's pharmacology (slowing the sinus rate and conduction) and its knowledge-graph contraindication in sick sinus syndrome argue against benefit and suggest potential harm. The drug is marketed in the US.
 
 Other predicted indications are also at Hold: Wildervanck syndrome, sarcoglycanopathy, macrocephaly with dysmorphic facies and psychomotor retardation, and the obsolete ischemic stroke susceptibility entry have no evidence (L5). Stroke (L4) and manic bipolar affective disorder (L5) show only indirect links. The stroke link runs through atrial fibrillation rhythm management, and the one trial retrieved (NCT00007605, a completed Phase 3 study of amiodarone and sotalol for sinus rhythm maintenance in atrial fibrillation) concerns the original indication. The bipolar disorder papers concern drug-interaction safety, not efficacy.
 

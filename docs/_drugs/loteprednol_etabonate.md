@@ -76,7 +76,7 @@ No literature was found for the top-ranked prediction, conjunctival folliculosis
 
 ## US Market Information
 
-The drug is marketed in the US, with 14 valid authorizations. Main entries:
+The drug is marketed in the US. Main entries:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -101,7 +101,7 @@ For label warnings and contraindications, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for conjunctival folliculosis rests on model score alone (L5). There are no trials or literature, the condition is largely benign and non-inflammatory, and the drug is marketed in the US with 14 valid licenses.
+The prediction for conjunctival folliculosis rests on model score alone (L5). There are no trials or literature, the condition is largely benign and non-inflammatory, and the drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

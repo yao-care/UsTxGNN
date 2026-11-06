@@ -81,7 +81,7 @@ For reference, the literature found for the third-ranked prediction (peptic ulce
 
 ## US Market Information
 
-The drug is marketed in the US with 9 valid licenses. No approved indication text is available.
+The drug is marketed in the US. No approved indication text is available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -108,7 +108,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The restless legs syndrome prediction has no registered trials or literature (Evidence Level L5) and no supporting mechanism. The drug has a known anticholinergic burden, and it is marketed in the US with 9 valid licenses. The high TxGNN score (0.9974) alone is not sufficient to justify advancement.
+The restless legs syndrome prediction has no registered trials or literature (Evidence Level L5) and no supporting mechanism. The drug has a known anticholinergic burden, and it is marketed in the US. The high TxGNN score (0.9974) alone is not sufficient to justify advancement.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, and a plausible biological rationale linking antimuscarinic activity to restless legs syndrome

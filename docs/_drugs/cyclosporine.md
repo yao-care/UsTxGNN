@@ -103,7 +103,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but there are no registered clinical trials, and the single publication is a transplantation cohort study that does not show a benefit from cyclosporine. No plausible mechanistic link between calcineurin inhibition and correcting the CGD defect is evident, and 13 US licenses are currently valid.
+The prediction score is very high, but there are no registered clinical trials, and the single publication is a transplantation cohort study that does not show a benefit from cyclosporine. No plausible mechanistic link between calcineurin inhibition and correcting the CGD defect is evident.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for cyclosporine

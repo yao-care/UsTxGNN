@@ -85,7 +85,7 @@ Currently no related literature available.
 |---------|------|------|-----------|
 | M018 (cancelled) | Polyvinyl Alcohol (A-S Medication Solutions) | Solution / drops | Not stated on the license record |
 
-The drug is currently marketed in the US, with 1 valid license.
+The drug is currently marketed in the US.
 
 ## Safety Considerations
 

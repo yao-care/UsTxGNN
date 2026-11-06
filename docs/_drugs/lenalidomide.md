@@ -132,7 +132,7 @@ Package insert warnings and contraindications were not available; please refer t
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible and there are many Phase 1/2 AML and MDS trials, but they are mostly small, single-arm or combination studies with no completed Phase 3 evidence in myeloid leukemia. The drug is marketed in the US with 12 valid licenses, and label safety data are missing. The high hematologic toxicity risk in an already cytopenic population further calls for caution.
+The mechanism is plausible and there are many Phase 1/2 AML and MDS trials, but they are mostly small, single-arm or combination studies with no completed Phase 3 evidence in myeloid leukemia. The drug is marketed in the US, and label safety data are missing. The high hematologic toxicity risk in an already cytopenic population further calls for caution.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap for safety screening)

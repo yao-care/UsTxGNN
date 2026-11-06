@@ -112,7 +112,7 @@ No literature was found for faciodigitogenital syndrome. Selected publications f
 
 ## US Market Information
 
-The drug is marketed in this country, with 12 valid licenses. No approved indication text was available. The first five are listed.
+The drug is marketed in this country. No approved indication text was available. The first five are listed.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -145,7 +145,7 @@ Package insert warnings and contraindications were not available for this report
 - Detailed mechanism of action data
 - For Tourette syndrome: confirmation of a controlled Phase 3 trial or equivalent, and a decision on whether it counts as a new indication
 - For the other predictions: controlled trial data (for mania, a larger controlled trial than the terminated n=5 study)
-- Confirmation of current market and route availability, since the drug is marketed with 12 valid licenses
+- Confirmation of current market and route availability, since the drug is marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

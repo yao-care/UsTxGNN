@@ -111,7 +111,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. There are no trials or literature for malignant hypertensive renal disease, and it largely overlaps with carvedilol's existing hypertension use. The drug is marketed with nine valid US licenses, but label safety data is missing, which blocks safety screening.
+The prediction comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. There are no trials or literature for malignant hypertensive renal disease, and it largely overlaps with carvedilol's existing hypertension use. The drug is marketed, but label safety data is missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently a blocking gap)

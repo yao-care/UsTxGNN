@@ -74,7 +74,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The drug is marketed in the US, with 13 valid licenses. Approved indication text was not available for these entries. The main ones are:
+The drug is marketed in the US. Approved indication text was not available. The main ones are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -102,7 +102,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no clinical trials or literature (Evidence Level L5). The drug would only address symptoms, not the cause of cauda equina syndrome, and its anticholinergic effect may worsen urinary retention. The drug is marketed in the US, with 13 valid licenses.
+The prediction has a high model score but no clinical trials or literature (Evidence Level L5). The drug would only address symptoms, not the cause of cauda equina syndrome, and its anticholinergic effect may worsen urinary retention. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications

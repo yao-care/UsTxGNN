@@ -95,13 +95,13 @@ Package insert warnings and contraindications were not available in the compiled
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN score (Evidence Level L5). There are no clinical trials or publications, and no plausible mechanism links COX inhibition to the GDF5/BMP defect. The drug is marketed in the US with 14 valid licenses, but label safety data are missing.
+The prediction is supported only by the TxGNN score (Evidence Level L5). There are no clinical trials or publications, and no plausible mechanism links COX inhibition to the GDF5/BMP defect. The drug is marketed in the US, but label safety data are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible mechanistic link between prostaglandin inhibition and GDF5/BMP signalling, or a clear rationale limited to symptomatic pain relief
 - Preclinical or observational evidence in acromesomelic dysplasia or related skeletal dysplasias
 - FDA package insert warnings and contraindications, to allow safety screening
-- Clarification of the current regulatory and market status, since the drug is marketed with 14 valid licenses
+- Clarification of the current regulatory and market status, since the drug is marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

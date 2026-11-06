@@ -84,7 +84,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-The drug is marketed in the US, with 11 valid licenses. The data compiled for this report provides no approved indication text for any of them.
+The drug is marketed in the US. The data compiled for this report provides no approved indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -111,7 +111,7 @@ Please refer to the package insert for warnings and contraindications, as this i
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high (0.9960), but there are no registered clinical trials, and the single publication is unrelated to treatment. The proposed mechanistic link is hypothetical. In addition, standard biotin therapy already exists for biotin-related disorders, and the drug is marketed in the US with 11 valid licenses.
+The TxGNN score is high (0.9960), but there are no registered clinical trials, and the single publication is unrelated to treatment. The proposed mechanistic link is hypothetical. In addition, standard biotin therapy already exists for biotin-related disorders, and the drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

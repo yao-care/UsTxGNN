@@ -93,13 +93,13 @@ No drug-interaction records were found in the data compiled for this report.
 **Decision: Hold**
 
 **Rationale:**
-The only support for this indication is a high TxGNN score, with no clinical trials or literature (evidence level L5). Mechanism of action and package-insert safety data are also missing, and the drug is currently marketed in the US with 10 valid authorizations.
+The only support for this indication is a high TxGNN score, with no clinical trials or literature (evidence level L5). Mechanism of action and package-insert safety data are also missing, and the drug is currently marketed in the US.
 
 **To proceed, the following is needed:**
 - Retrieval and verification of the literature on omega-3 fatty acids / EPA in sickle cell disease and other hemoglobinopathies
 - Mechanism of action data (e.g., from DrugBank)
 - FDA package insert warnings and contraindications, to allow safety screening
-- Clarification of the current US market status, given that the drug is marketed with 10 valid authorizations
+- Clarification of the current US market status, given that the drug is marketed
 - Assessment of which hemoglobinopathy subtypes are relevant, and of route and dosage-form compatibility
 ## Disclaimer
 

@@ -96,7 +96,7 @@ Please refer to the package insert for official warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (L5), with no clinical trials or literature, and no plausible mechanism links appetite suppression to hypervitaminosis. The drug is marketed in the US with 11 valid licenses, and its cardiovascular and psychiatric safety profile adds further caution.
+The prediction rests on a model score alone (L5), with no clinical trials or literature, and no plausible mechanism links appetite suppression to hypervitaminosis. The drug is marketed in the US, and its cardiovascular and psychiatric safety profile adds further caution.
 
 **To proceed, the following is needed:**
 - A documented mechanistic rationale for hypervitaminosis (or confirmation that the score only reflects similarities the TxGNN model learned between related diseases, not biological evidence)

@@ -91,7 +91,7 @@ Label-based warnings and contraindications were not available in the data compil
 **Decision: Hold**
 
 **Rationale:**
-The recommendation rests only on a computational prediction score. There are no clinical trials or publications, and no plausible mechanistic link to Ohdo syndrome. The evidence level is L5. In addition, paroxetine is currently marketed in the US, with 10 valid licenses.
+The recommendation rests only on a computational prediction score. There are no clinical trials or publications, and no plausible mechanistic link to Ohdo syndrome. The evidence level is L5. In addition, paroxetine is currently marketed in the US.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for paroxetine and a testable biological hypothesis connecting it to KAT6B or chromatin-regulation pathways

@@ -94,13 +94,13 @@ Official label warnings and contraindications were not available in the compiled
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible and close to heparin's existing use in purpura fulminans. However, there are no trials or publications for this indication, the evidence level is L5, and the label safety review is also incomplete. Heparin is marketed in the US with 13 valid licenses.
+The prediction is mechanistically plausible and close to heparin's existing use in purpura fulminans. However, there are no trials or publications for this indication, the evidence level is L5, and the label safety review is also incomplete. Heparin is marketed in the US.
 
 **To proceed, the following is needed:**
 - Download and review the FDA package insert for warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data from DrugBank
 - A targeted literature search on heparin in congenital protein C deficiency and purpura fulminans, compared with protein C concentrate
-- Confirmation of the current US market and licensing status (marketed, 13 valid licenses)
+- Confirmation of the current US market and licensing status (marketed)
 
 ---
 

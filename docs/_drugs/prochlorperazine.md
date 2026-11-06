@@ -86,7 +86,7 @@ None of these provides controlled efficacy data for prochlorperazine in mania.
 
 ## US Market Information
 
-The drug is marketed in the US with 11 valid authorizations, and none has approved indication text on record.
+The drug is marketed in the US.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

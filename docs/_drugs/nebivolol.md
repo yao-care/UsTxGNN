@@ -74,7 +74,7 @@ Currently no related literature available for malignant hypertensive renal disea
 
 ## US Market Information
 
-Oral tablets only. The drug is marketed, with 11 valid licenses, and no approved indication text is available.
+Oral tablets only. The drug is marketed, and no approved indication text is available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -96,7 +96,7 @@ Package insert warnings and contraindications were not available, so please refe
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score (Evidence Level L5), with no clinical trials or relevant publications. The score likely reflects similarity to the existing hypertension indication. The intended condition is an emergency setting where an oral beta-blocker is unlikely to be first-line, and the drug is marketed with 11 valid licenses.
+The prediction is supported only by a model score (Evidence Level L5), with no clinical trials or relevant publications. The score likely reflects similarity to the existing hypertension indication. The intended condition is an emergency setting where an oral beta-blocker is unlikely to be first-line, and the drug is marketed.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

@@ -121,7 +121,7 @@ The package insert warnings and contraindications were not available in the data
 **Decision: Hold**
 
 **Rationale:**
-The rank-1 prediction (acute contagious conjunctivitis) and the other ocular predictions come only from the TxGNN model (deep learning) (L5), with no trials, no literature and no plausible mechanism. The two predictions with literature (amebic dysentery and gastroduodenitis, L4) show safety signals rather than efficacy. Antimotility agents are generally avoided in invasive dysentery. Also, the drug is marketed in the US, with 10 valid licenses.
+The rank-1 prediction (acute contagious conjunctivitis) and the other ocular predictions come only from the TxGNN model (deep learning) (L5), with no trials, no literature and no plausible mechanism. The two predictions with literature (amebic dysentery and gastroduodenitis, L4) show safety signals rather than efficacy. Antimotility agents are generally avoided in invasive dysentery. Also, the drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

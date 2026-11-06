@@ -108,7 +108,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible, but evidence is limited to one likely-retrospective cohort and one case report (L4), with no registered trials. The drug is marketed in the US with 13 valid licenses, but the supplied data lack label safety information. In a pediatric population already affected by cytopenias, the drug's myelosuppressive potential also warrants caution.
+The prediction is mechanistically plausible, but evidence is limited to one likely-retrospective cohort and one case report (L4), with no registered trials. The drug is marketed in the US, but the supplied data lack label safety information. In a pediatric population already affected by cytopenias, the drug's myelosuppressive potential also warrants caution.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

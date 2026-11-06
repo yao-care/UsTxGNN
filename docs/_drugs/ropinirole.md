@@ -83,7 +83,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-The drug is marketed in the US, with 7 valid authorizations. The data compiled for this report contains no approved indication text for any of them.
+The drug is marketed in the US. The data compiled for this report contains no approved indication text.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
@@ -113,7 +113,7 @@ The prediction score is high and there is a plausible dopaminergic link, support
 - Obtain the FDA package insert warnings and contraindications to allow safety screening
 - Obtain detailed mechanism of action data
 - Search trial registries for registered or ongoing ADHD studies of ropinirole
-- Assess pediatric safety, including impulse-control and gambling signals, and the regulatory path given that the drug is marketed in the US with 7 valid authorizations
+- Assess pediatric safety, including impulse-control and gambling signals, and the regulatory path given that the drug is marketed in the US
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

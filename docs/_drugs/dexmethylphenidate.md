@@ -77,7 +77,7 @@ No literature was found for the top predicted indication (specific developmental
 
 ## US Market Information
 
-The drug is marketed, with nine valid authorizations. No approved indication text is available for them.
+The drug is marketed. No approved indication text is available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
@@ -109,7 +109,7 @@ Please refer to the package insert for warnings and contraindications, which wer
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score only (L5), with no trials or literature, and the score from the TxGNN model (deep learning) may reflect similarities the model learned between related diseases such as ADHD, not biological evidence. The drug is marketed in the US with nine valid authorizations, and the knowledge graph flags several relevant safety conditions.
+The prediction rests on the model score only (L5), with no trials or literature, and the score from the TxGNN model (deep learning) may reflect similarities the model learned between related diseases such as ADHD, not biological evidence. The drug is marketed in the US, and the knowledge graph flags several relevant safety conditions.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (for example from DrugBank) to assess the mechanistic link

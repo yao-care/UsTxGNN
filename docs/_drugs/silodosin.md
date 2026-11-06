@@ -114,14 +114,14 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trial or literature support (Evidence Level L5) and no plausible mechanistic link between alpha-1A adrenergic antagonism and a congenital hair disorder. The drug is currently marketed in the US, with 9 valid licenses.
+The prediction has no clinical trial or literature support (Evidence Level L5) and no plausible mechanistic link between alpha-1A adrenergic antagonism and a congenital hair disorder. The drug is currently marketed in the US.
 
 **To proceed, the following is needed:**
 - Complete mechanism of action data
 - FDA package insert warnings and contraindications, needed for safety screening
 - Preclinical or mechanistic evidence linking alpha-1A antagonism to hair follicle biology or *TRPS1* pathways
 - Clarification of whether the hypertrichosis signal reflects an adverse effect rather than a therapeutic opportunity
-- Confirmation of the regulatory pathway, given that 9 US licenses are currently valid
+- Confirmation of the regulatory pathway
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

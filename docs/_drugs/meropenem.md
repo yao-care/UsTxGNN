@@ -84,7 +84,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Meropenem is marketed in the United States. The records show 9 valid licences, and the list may be partial. Five are shown below.
+Meropenem is marketed in the United States. Five are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

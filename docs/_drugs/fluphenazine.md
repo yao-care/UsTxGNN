@@ -104,7 +104,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. No clinical trials or literature support it, no mechanism links D2 antagonism to retinal dystrophy, and phenothiazine retinal toxicity argues against the use. In the US, 13 authorizations are currently valid and the drug is marketed.
+The prediction rests only on a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. No clinical trials or literature support it, no mechanism links D2 antagonism to retinal dystrophy, and phenothiazine retinal toxicity argues against the use. In the US, the drug is marketed.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence, or preclinical data, showing a plausible effect in retinal dystrophy models

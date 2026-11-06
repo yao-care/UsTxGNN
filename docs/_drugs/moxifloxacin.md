@@ -69,7 +69,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The drug is marketed in the US, with 10 valid authorizations. The five main ones are listed below. Approved indication text was not available for these entries.
+The drug is marketed in the US. The five main ones are listed below. Approved indication text was not available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

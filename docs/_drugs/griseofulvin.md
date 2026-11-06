@@ -81,7 +81,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-Griseofulvin is marketed in the US, with 10 valid licenses, and no approved-indication text was recorded for them. The first five are listed below.
+Griseofulvin is marketed in the US, and no approved-indication text was recorded. The first five are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -110,7 +110,7 @@ Please refer to the package insert for label warnings and contraindications, as 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5), with no trials or publications and no plausible mechanism for activity against fly larvae. Established treatments already exist. The drug is marketed in the US with 10 valid licenses, and label safety data are missing.
+The prediction rests on a model score alone (Evidence Level L5), with no trials or publications and no plausible mechanism for activity against fly larvae. Established treatments already exist. The drug is marketed in the US, and label safety data are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for griseofulvin and a documented mechanistic rationale for myiasis

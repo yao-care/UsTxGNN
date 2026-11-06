@@ -107,7 +107,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high, but the evidence is model prediction plus indirect preclinical findings, with no clinical trials and no human data for atropine in migraine. The drug is marketed in the US with 13 valid licenses, and the mechanistic direction is uncertain for the aura subtype.
+The TxGNN score is very high, but the evidence is model prediction plus indirect preclinical findings, with no clinical trials and no human data for atropine in migraine. The drug is marketed in the US, and the mechanistic direction is uncertain for the aura subtype.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

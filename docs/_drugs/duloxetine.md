@@ -69,7 +69,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The drug is marketed in the US, with seven valid authorizations. No approved-indication text is recorded for any of them.
+The drug is marketed in the US. No approved-indication text is recorded.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
@@ -91,7 +91,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone. There are no clinical trials, no literature, and no plausible mechanism linking an SNRI to this pediatric channelopathy-associated disorder. The drug is marketed in the US, with seven valid licenses. Among the other predictions in the same analysis, obsessive-compulsive disorder has the strongest support (Level L2): a completed Phase 4 trial, a double-blind augmentation RCT and an open-label study, though all are small. It is a more promising direction to pursue instead.
+The prediction rests on the model score alone. There are no clinical trials, no literature, and no plausible mechanism linking an SNRI to this pediatric channelopathy-associated disorder. The drug is marketed in the US. Among the other predictions in the same analysis, obsessive-compulsive disorder has the strongest support (Level L2): a completed Phase 4 trial, a double-blind augmentation RCT and an open-label study, though all are small. It is a more promising direction to pursue instead.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a testable biological hypothesis linking duloxetine to this disorder

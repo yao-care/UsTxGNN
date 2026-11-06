@@ -90,7 +90,6 @@ The indication is not entirely new. Oral midazolam was studied as a hypnotic in 
 | ANDA203460 | Midazolam (Fresenius Kabi) | Injection, solution | Not available (valid) |
 | ANDA075873 | Midazolam Hydrochloride (American Health Packaging) | Syrup | Not available (valid) |
 
-
 ## Safety Considerations
 
 - **Disease-related cautions (from knowledge graph, not label text)**: Contraindication links are recorded for chronic obstructive pulmonary disease, liver cirrhosis, angle-closure glaucoma, and chronic kidney disease / end-stage renal failure.
@@ -104,7 +103,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The only direct evidence for midazolam as a hypnotic consists of older studies (1981–1990), and the registered trials are only indirectly related. Midazolam is marketed in the US with 12 valid licenses, and label-based safety data are not available. This is best treated as a research question rather than a candidate ready to advance.
+The only direct evidence for midazolam as a hypnotic consists of older studies (1981–1990), and the registered trials are only indirectly related. Midazolam is marketed in the US, and label-based safety data are not available. This is best treated as a research question rather than a candidate ready to advance.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

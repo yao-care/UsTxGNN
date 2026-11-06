@@ -96,7 +96,7 @@ Note: PMID 38669232 (an aripiprazole/bupropion meta-analysis) has been retracted
 
 ## US Market Information
 
-The drug is marketed in the US with 11 valid licenses, and no approved indication text is recorded for any of them.
+The drug is marketed in the US, and no approved indication text is recorded.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -129,7 +129,7 @@ Several completed Phase 3 placebo-controlled adjunctive trials (n=1200, 1151 and
 **To proceed, the following is needed:**
 - Obtain the FDA package insert warnings and contraindications. This blocks the safety screening step.
 - Obtain detailed mechanism of action data.
-- Confirm the current US regulatory status, since the drug is marketed with 11 valid licenses.
+- Confirm the current US regulatory status, since the drug is marketed.
 - Define a monitoring plan covering metabolic parameters, akathisia and impulse-control symptoms, with use restricted to adjunctive therapy after inadequate antidepressant response.
 - Check the Major bupropion interaction when planning combination regimens.
 

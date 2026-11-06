@@ -110,7 +110,7 @@ Please refer to the package insert for the full warnings and contraindications, 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Several randomized trials and systematic reviews support low-dose propofol for acute migraine in the emergency department, including pediatric populations. However, the trials are small, one was terminated early, and the evidence is mostly limited to monitored settings. The drug is currently marketed in the US with 9 valid licenses, and label safety data are missing.
+Several randomized trials and systematic reviews support low-dose propofol for acute migraine in the emergency department, including pediatric populations. However, the trials are small, one was terminated early, and the evidence is mostly limited to monitored settings. The drug is currently marketed in the US, and label safety data are missing.
 
 **To proceed, the following is needed:**
 - Obtain and review the FDA package insert warnings and contraindications (currently a blocking gap)

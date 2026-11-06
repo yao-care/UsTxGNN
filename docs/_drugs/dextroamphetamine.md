@@ -92,7 +92,7 @@ Please refer to the package insert for complete safety information, as label war
 **Decision: Hold**
 
 **Rationale:**
-The prediction for faciodigitogenital syndrome rests on a model score alone (TxGNN model, deep learning), with no clinical trials or literature. The score may reflect similarities the model learned between related diseases, not biological evidence. In the US, this drug is marketed, with 12 valid licenses. The TxGNN model's output also lists many cardiovascular and psychiatric contraindications.
+The prediction for faciodigitogenital syndrome rests on a model score alone (TxGNN model, deep learning), with no clinical trials or literature. The score may reflect similarities the model learned between related diseases, not biological evidence. In the US, this drug is marketed. The TxGNN model's output also lists many cardiovascular and psychiatric contraindications.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

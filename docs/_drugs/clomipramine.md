@@ -100,7 +100,7 @@ OCD is closely related to the anxiety disorders, and the same neurotransmitter s
 | ANDA211822 | Clomipramine Hydrochloride (Alembic) | Capsule | Not available; valid |
 | ANDA074694 | Clomipramine Hydrochloride (American Health Packaging) | Capsule | Not available; valid |
 
-The drug is marketed in the US, with 9 valid licenses.
+The drug is marketed in the US.
 
 ## Safety Considerations
 

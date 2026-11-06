@@ -94,7 +94,7 @@ Of the 14 publications retrieved, the table lists those most relevant to diclofe
 
 ## US Market Information
 
-The drug is marketed in the US with 16 valid licenses, and no approved-indication text is available. The table lists 5 of them.
+The drug is marketed in the US, and no approved-indication text is available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
@@ -135,7 +135,7 @@ Please refer to the package insert for official warnings, as label text was not 
 
 **Rationale:**
 - The JIA prediction has a clear mechanistic fit and a body of older pediatric studies on diclofenac. However, these are small and mostly uncontrolled or comparative, with no registered trials and no modern randomized evidence. Evidence is therefore L3, not L1 or L2.
-- The drug is marketed in the US, with 16 valid licenses.
+- The drug is marketed in the US.
 - The remaining predictions, including the highest-scoring one, rest on model scores alone (L5) and should be held.
 
 **To proceed, the following is needed:**

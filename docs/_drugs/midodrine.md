@@ -95,7 +95,7 @@ Please refer to the package insert for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for variably protease-sensitive prionopathy rests only on a TxGNN model (deep learning) score. There are no trials or publications, and no plausible mechanism links an alpha-1 agonist to a prion disease. Midodrine is currently marketed in the US, with 10 valid licenses.
+The prediction for variably protease-sensitive prionopathy rests only on a TxGNN model (deep learning) score. There are no trials or publications, and no plausible mechanism links an alpha-1 agonist to a prion disease. Midodrine is currently marketed in the US.
 
 **To proceed, the following is needed:**
 - A mechanistic hypothesis and preclinical data showing that midodrine affects prion disease biology, not just autonomic symptoms

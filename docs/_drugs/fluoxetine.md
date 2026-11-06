@@ -86,7 +86,7 @@ Neither publication directly studies the predicted disease.
 
 ## US Market Information
 
-Approved-indication text is not available in the records compiled for this report. Twelve valid single-ingredient ANDA records were listed, and the list may be partial. The five shown here are the main ones.
+Approved-indication text is not available in the records compiled for this report. The five shown here are the main ones.
 
 | Authorization Number | Product Name | Dosage Form |
 |---------|------|------|

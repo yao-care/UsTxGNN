@@ -92,7 +92,7 @@ The preclinical papers on hypoxia (rat aorta, atrial muscle, cerebral arteries a
 
 ## US Market Information
 
-Six US authorizations are valid. No approved indication text is recorded for them.
+No approved indication text is recorded.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -115,7 +115,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, pulmonary hypertension with unclear multifactorial mechanism, is supported only by the model score (L5). There are no trials or literature, and the heterogeneous cause makes a single mechanism unlikely to apply broadly. Six US licenses are valid.
+The top-ranked prediction, pulmonary hypertension with unclear multifactorial mechanism, is supported only by the model score (L5). There are no trials or literature, and the heterogeneous cause makes a single mechanism unlikely to apply broadly.
 
 **To proceed, the following is needed:**
 - Obtain the FDA package insert to confirm warnings, contraindications and approved indications (a blocking gap for safety screening)

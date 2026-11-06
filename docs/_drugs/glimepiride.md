@@ -109,7 +109,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is computational only (L5), with no clinical trials or relevant literature. No plausible mechanism links glimepiride to stiff person syndrome, and the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. In addition, glimepiride is marketed in the US, with 6 valid licenses.
+The prediction is computational only (L5), with no clinical trials or relevant literature. No plausible mechanism links glimepiride to stiff person syndrome, and the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. In addition, glimepiride is marketed in the US.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

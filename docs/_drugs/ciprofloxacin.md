@@ -114,7 +114,7 @@ The TxGNN score is very high, but no clinical trials exist, the supporting liter
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Clinical evidence for ciprofloxacin in systemic sclerosis small bowel bacterial overgrowth, in comparison with other antibiotics
 - A benefit-risk assessment, given the tendon, neuropathy, QT, and corticosteroid interaction risks
-- A decision on whether a re-listed US product is available, as the drug is marketed with 8 valid licenses
+- A decision on whether a re-listed US product is available, as the drug is marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

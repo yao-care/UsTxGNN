@@ -95,7 +95,7 @@ For reference, the closest-ranked prediction with literature is *fibroblastic ne
 
 ## US Market Information
 
-The drug is marketed in the US, with 11 valid licenses. Approved indication text is not available for these records.
+The drug is marketed in the US. Approved indication text is not available.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -131,7 +131,7 @@ Label-based warnings and contraindications are not available in the data compile
 **Decision: Hold**
 
 **Rationale:**
-The prediction for extracutaneous mastocytoma is supported only by a TxGNN model (deep learning) score (L5), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications, and no plausible mechanistic link: mast cell neoplasms are typically KIT-driven, which pirfenidone does not target. The drug is marketed in the US, with 11 valid licenses.
+The prediction for extracutaneous mastocytoma is supported only by a TxGNN model (deep learning) score (L5), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications, and no plausible mechanistic link: mast cell neoplasms are typically KIT-driven, which pirfenidone does not target. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for pirfenidone, to allow a proper mechanistic-link analysis

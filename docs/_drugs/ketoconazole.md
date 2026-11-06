@@ -114,13 +114,13 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is plausible, particularly for topical use, but supporting evidence is thin. There is one small, ongoing trial with an active comparator and no results, and the literature is laboratory-based or indirect. Systemic ketoconazole carries serious safety risks, and the drug is marketed in the US under 12 valid licenses. The evidence level is L4, and the TxGNN score alone does not justify advancing.
+The prediction is plausible, particularly for topical use, but supporting evidence is thin. There is one small, ongoing trial with an active comparator and no results, and the literature is laboratory-based or indirect. Systemic ketoconazole carries serious safety risks, and the drug is marketed in the US. The evidence level is L4, and the TxGNN score alone does not justify advancing.
 
 **To proceed, the following is needed:**
 - Results from NCT07237763, and ideally larger placebo-controlled or head-to-head Phase 2/3 trials of topical ketoconazole in acne
 - Confirmation of the mechanism of action and its link to acne, including the distinction between Malassezia folliculitis and true acne vulgaris
 - Package insert warnings and contraindications, which are currently missing and block formal safety screening
-- A decision on formulation (topical only is the realistic route) and a check of its current US regulatory and marketing status, given that the drug is marketed under 12 valid licenses
+- A decision on formulation (topical only is the realistic route) and a check of its current US regulatory and marketing status, given that the drug is marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

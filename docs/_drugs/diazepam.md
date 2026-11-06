@@ -91,7 +91,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-The US market status is **Marketed**, with 12 valid licences on record. The list may be partial. Approved-indication text is not recorded for these licences. Five representative licences:
+The US market status is **Marketed**. The list may be partial. Approved-indication text is not recorded. Five representative licences:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

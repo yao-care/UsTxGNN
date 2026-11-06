@@ -129,7 +129,7 @@ Label-based warnings and contraindications were not available. Please refer to t
 **Decision: Hold**
 
 **Rationale:**
-The prediction for brain stem infarction rests only on the TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no trials or publications for this subtype. The drug is marketed in the US, with 11 valid authorizations.
+The prediction for brain stem infarction rests only on the TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no trials or publications for this subtype. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Clinical or observational evidence specific to brain stem infarction

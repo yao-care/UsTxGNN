@@ -93,7 +93,7 @@ None of these papers reports metronidazole as a treatment for pneumocystosis.
 
 ## US Market Information
 
-The drug is marketed in the US, with 15 valid licenses.
+The drug is marketed in the US.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -129,7 +129,7 @@ The prediction rests on model score alone: there are no clinical trials, no supp
 **To proceed, the following is needed:**
 - Mechanism of action data and in vitro activity against *Pneumocystis*, or reprioritization toward cap polyposis
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Clarification of the current US regulatory status, since the drug is marketed with 15 valid licenses
+- Clarification of the current US regulatory status, since the drug is marketed
 - Any prospective clinical data before further consideration
 ## Disclaimer
 

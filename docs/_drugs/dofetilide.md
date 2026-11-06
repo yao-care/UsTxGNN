@@ -89,7 +89,7 @@ None of these studies uses stroke as an endpoint.
 | ANDA213220 | Dofetilide (Novadoz) | Capsule | Not listed (valid) |
 | ANDA210740 | Dofetilide (Aurobindo) | Capsule | Not listed (valid) |
 
-Four more ANDAs (Accord, Bionpharma, Sigmapharm, Exelan) are also valid. All 9 authorizations are in valid status.
+Four more ANDAs (Accord, Bionpharma, Sigmapharm, Exelan) are also valid.
 
 ## Safety Considerations
 

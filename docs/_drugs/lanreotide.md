@@ -101,7 +101,7 @@ The prediction is supported only by a model score (Evidence Level L5), with no t
 - Mechanism of action data (e.g., from DrugBank)
 - A literature and trial search for lanreotide or somatostatin analogs in hypertrichosis and hair disorders
 - Preclinical or mechanistic evidence linking GH/IGF-1 suppression to hair growth
-- Clarification of the current US regulatory and commercial status; the drug is marketed, with 3 of 3 licenses valid
+- Clarification of the current US regulatory and commercial status; the drug is marketed
 - A route and formulation compatibility assessment for the proposed indication
 ## Disclaimer
 

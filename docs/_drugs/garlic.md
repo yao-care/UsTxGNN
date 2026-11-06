@@ -104,8 +104,6 @@ For reference, the most relevant publications for the best-supported alternative
 
 ## US Market Information
 
-All three US licenses are valid, and none carries approved indication text.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | Not available | Allium Sativum (Hahnemann Laboratories) | Pellet | Not available |

@@ -85,7 +85,7 @@ No migraine-specific eslicarbazepine publication was found. The items below are 
 
 ## US Market Information
 
-All seven authorizations are valid, and no approved-indication text is available in the compiled data.
+No approved-indication text is available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|

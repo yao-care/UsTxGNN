@@ -92,7 +92,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Marketed in the US: 13 of 13 licences are valid. The data compiled for this report contain no approved-indication text.
+Marketed in the US. The data compiled for this report contain no approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -119,7 +119,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but support is limited to macaque and in vitro studies with no human trials, and the indication is an animal-model version of the drug's original HIV use. The drug is marketed in the US, with 13 of 13 licences valid.
+The prediction score is high, but support is limited to macaque and in vitro studies with no human trials, and the indication is an animal-model version of the drug's original HIV use. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Clarification of whether SIV infection has any translational purpose beyond serving as a research model

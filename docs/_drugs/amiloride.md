@@ -76,8 +76,6 @@ Currently no related literature available.
 | ANDA079133 | Amiloride Hydrochloride (Sigmapharm Laboratories, LLC) | Tablet | Not recorded |
 | ANDA070346 | Amiloride Hydrochloride (Bryant Ranch Prepack) | Tablet | Not recorded |
 
-All three records are single-ingredient oral tablets.
-
 ## Safety Considerations
 
 - **Drug Interactions**: 100 interactions were found in the interaction database. Examples at moderate level include hydrocortisone, betamethasone, dexamethasone, budesonide, metformin, bupropion, and the SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin). Minor-level examples include doxycycline, amoxicillin, and cimetidine.

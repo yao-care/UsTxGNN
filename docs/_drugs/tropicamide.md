@@ -98,7 +98,7 @@ Package insert warnings and contraindications were not available, so please refe
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score. There are no clinical trials or publications. Tropicamide is a topical ophthalmic drug with minimal systemic exposure, so reaching bladder, gut or nerve targets is implausible. In addition, the drug is marketed in the US (5 of 5 licenses valid), and the disease would be treated surgically, with any drug role limited to symptoms.
+The prediction is supported only by a model score. There are no clinical trials or publications. Tropicamide is a topical ophthalmic drug with minimal systemic exposure, so reaching bladder, gut or nerve targets is implausible. In addition, the drug is marketed in the US, and the disease would be treated surgically, with any drug role limited to symptoms.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

@@ -120,7 +120,7 @@ The only directly relevant trial is a small Phase 2 study (n=48) with no availab
 - Package insert warnings and contraindications
 - Mechanism of action data
 - A risk-benefit analysis covering respiratory depression, misuse and CNS-depressant interactions
-- Clarification of the current U.S. regulatory status, since the drug is marketed with 4 of 4 licenses valid
+- Clarification of the current U.S. regulatory status, since the drug is marketed
 - A larger Phase 2/3 randomized trial in insomnia with a safety plan that excludes sleep apnea and substance-use disorders
 ## Disclaimer
 

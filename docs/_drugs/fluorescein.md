@@ -107,7 +107,7 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials, no supporting literature, and no plausible mechanism linking a diagnostic dye to coronary vasospasm. The drug is marketed in the US, with 6 of 6 licenses valid, and package insert safety data are missing.
+The prediction rests only on a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials, no supporting literature, and no plausible mechanism linking a diagnostic dye to coronary vasospasm. The drug is marketed in the US, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (for example, from DrugBank)

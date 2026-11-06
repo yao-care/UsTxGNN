@@ -76,7 +76,7 @@ Currently no related literature available.
 | ANDA090372 (American Health Packaging) | Zafirlukast | Tablet, film coated | Not available |
 | ANDA212475 (Bryant Ranch Prepack) | Zafirlukast | Tablet, film coated | Not available |
 
-All four licences are currently valid, and all products are single-ingredient oral tablets.
+All products are single-ingredient oral tablets.
 
 ## Safety Considerations
 

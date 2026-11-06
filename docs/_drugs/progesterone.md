@@ -82,8 +82,6 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Of the licence records, 8 are valid and 1 (an injectable product) is cancelled.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA019781 | Prometrium | Capsule | Not available |

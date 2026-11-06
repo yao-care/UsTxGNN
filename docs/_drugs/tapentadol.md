@@ -106,7 +106,7 @@ Please refer to the package insert for warnings and contraindications, which wer
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-based only (L5), with no clinical trials and no literature showing tapentadol efficacy in migraine. Opioids are not recommended for routine migraine care, and the drug is marketed in the US (3 of 3 licenses valid). The serotonergic interaction signal adds further concern.
+The prediction is model-based only (L5), with no clinical trials and no literature showing tapentadol efficacy in migraine. Opioids are not recommended for routine migraine care, and the drug is marketed in the US. The serotonergic interaction signal adds further concern.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently a blocking gap for safety screening)

@@ -82,8 +82,6 @@ Currently no related clinical trials registered.
 | ANDA090612 | Chloroquine Phosphate | Tablet | Not recorded |
 | ANDA080880 | Chloroquine Phosphate | Tablet | Not recorded |
 
-The local data hold 6 licence records in total, and the list above shows 5 of them.
-
 ## Safety Considerations
 
 - **Drug Interactions**: 100 interactions were found in the interaction data; examples of those flagged as Major include agalsidase beta, bupropion, cisapride, clarithromycin, dolasetron and granisetron. Several others, such as famotidine, cimetidine, antacids (aluminium hydroxide, calcium carbonate), metronidazole and sulfonylurea or insulin products, are rated Moderate.

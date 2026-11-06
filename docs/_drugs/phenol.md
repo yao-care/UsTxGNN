@@ -88,7 +88,7 @@ For dry eye syndrome (rank 8), 20 publications were retrieved, but none involve 
 | nan (cancelled) | Carbolicum acidum | Pellet | Not listed |
 | M017 (cancelled) | Pain Relieving | Salve | Not listed |
 
-All three authorizations are valid, and the drug is currently marketed in the US.
+The drug is currently marketed in the US.
 
 ## Safety Considerations
 

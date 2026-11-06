@@ -101,7 +101,7 @@ The publications are mostly reviews of neurocysticercosis and none addresses coe
 
 ## US Market Information
 
-Of 7 US licence records, 5 are valid and 2 are cancelled. All are single-ingredient oral products; the records carry no approved-indication text.
+The records carry no approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

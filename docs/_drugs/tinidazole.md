@@ -111,7 +111,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has only model support (L5). Atrophic vaginitis is a hormone-deficiency condition with no clear antimicrobial rationale, and the high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trials or literature exist, and all four US licenses are valid.
+The prediction has only model support (L5). Atrophic vaginitis is a hormone-deficiency condition with no clear antimicrobial rationale, and the high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trials or literature exist.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a rationale for a non-infectious indication

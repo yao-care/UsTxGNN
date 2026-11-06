@@ -88,7 +88,7 @@ Currently no related literature available.
 | M017 | Arthritis Relief | Cream | Not stated | Valid |
 | part348 | Pain Relief Cream | Cream | Not stated | Valid |
 
-All three licenses are single-ingredient products and all are cancelled. The drug is also recorded in spray form.
+The drug is also recorded in spray form.
 
 ## Safety Considerations
 

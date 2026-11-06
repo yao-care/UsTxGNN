@@ -112,7 +112,7 @@ Please refer to the package insert for label warnings, as they were not availabl
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no supporting clinical trials or literature (evidence level L5). Cauda equina syndrome is a surgical emergency, so any drug effect would be symptomatic only. All nine US licenses are valid, and the data compiled for this report lack label safety information and mechanism data.
+The prediction has a very high model score but no supporting clinical trials or literature (evidence level L5). Cauda equina syndrome is a surgical emergency, so any drug effect would be symptomatic only. The data compiled for this report lack label safety information and mechanism data.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the FDA (a blocking gap for safety screening)

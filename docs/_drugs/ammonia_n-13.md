@@ -70,7 +70,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The local records list 20 US licences for single-ingredient Ammonia N-13 injection products (injection and injection solution), all held by academic or radiopharmacy manufacturers. The records carry no approved-indication text. Market status is recorded as marketed, and all 20 licences are counted as valid.
+The local records list 20 US licences for single-ingredient Ammonia N-13 injection products (injection and injection solution), all held by academic or radiopharmacy manufacturers. The records carry no approved-indication text. Market status is recorded as marketed.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

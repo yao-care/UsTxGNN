@@ -110,7 +110,7 @@ The prediction is mechanistically plausible, but direct evidence is limited to o
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - A systematic review of benzodiazepines, including oxazepam, for insomnia, and comparison against approved hypnotics
-- Confirmation of the current US market status (marketed, with 3 of 3 licenses valid)
+- Confirmation of the current US market status (marketed)
 - A risk assessment for dependence, respiratory depression, and use in older adults
 ## Disclaimer
 

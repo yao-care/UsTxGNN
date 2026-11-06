@@ -90,7 +90,6 @@ Currently no related literature available for gingival fibromatosis.
 | ANDA212827 | Gefitinib (Natco) | Tablet, film coated | Not listed; status valid |
 | ANDA208913 | Gefitinib (Teva) | Tablet, film coated | Not listed; status valid |
 
-
 ## Cytotoxicity
 
 | Item | Content |
@@ -117,14 +116,14 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score (L5). There are no trials or literature for gingival fibromatosis, the mechanistic link is speculative, the drug is marketed with 4 of 4 US licenses valid, and package insert safety data are missing. The other top-ranked predictions are likewise unsupported or only indirectly supported, mostly overlapping with the original lung cancer indication.
+The prediction is supported only by the model score (L5). There are no trials or literature for gingival fibromatosis, the mechanistic link is speculative, the drug is marketed, and package insert safety data are missing. The other top-ranked predictions are likewise unsupported or only indirectly supported, mostly overlapping with the original lung cancer indication.
 
 **To proceed, the following is needed:**
 - Obtain the FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Obtain detailed mechanism-of-action data (e.g., from DrugBank)
 - Preclinical or mechanistic studies showing that EGFR inhibition affects gingival fibroblast proliferation or fibrosis
 - Assessment of whether a systemic or local route is appropriate for a gingival condition, weighed against the known skin, lung, liver and QT-related safety signals
-- Clarify the US regulatory pathway, since 4 of 4 licenses are currently valid
+- Clarify the US regulatory pathway
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

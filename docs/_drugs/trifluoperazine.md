@@ -113,7 +113,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is plausible because D2 antagonism is shared with antipsychotics used in mania, but it rests on a model score alone (L4). There are no registered trials and no drug-specific mania data. The drug is marketed in the US, with 5 of 5 licenses valid. The knowledge-graph contraindication list is also broad.
+The prediction is plausible because D2 antagonism is shared with antipsychotics used in mania, but it rests on a model score alone (L4). There are no registered trials and no drug-specific mania data. The drug is marketed in the US. The knowledge-graph contraindication list is also broad.
 
 **To proceed, the following is needed:**
 - Official package insert warnings and contraindications (FDA)

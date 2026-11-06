@@ -92,7 +92,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no literature, no documented mechanism, and no plausible pharmacological link to the proposed indication. The drug is marketed in the US, with 3 of 3 licenses valid, and package insert safety data are missing.
+The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no literature, no documented mechanism, and no plausible pharmacological link to the proposed indication. The drug is marketed in the US, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for sorbitol, and a justification of any link to calcium-release dysregulation in skeletal muscle

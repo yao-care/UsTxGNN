@@ -95,7 +95,7 @@ Several other retrieved records were off-topic (for example, synthetic cathinone
 
 ## US Market Information
 
-All 18 authorizations are marked as valid, and the approved indication text is not available in the data compiled for this report. The main ones are:
+The approved indication text is not available in the data compiled for this report. The main ones are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

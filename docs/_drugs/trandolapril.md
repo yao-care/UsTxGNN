@@ -82,7 +82,7 @@ Please also refer to the package insert for official warnings and contraindicati
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. No clinical trials or literature were found for malignant hypertensive renal disease, and the drug is marketed in the US with 3 of 3 licenses valid. Official label safety information has not yet been reviewed.
+The prediction is supported only by a model score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. No clinical trials or literature were found for malignant hypertensive renal disease, and the drug is marketed in the US. Official label safety information has not yet been reviewed.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap for safety screening)

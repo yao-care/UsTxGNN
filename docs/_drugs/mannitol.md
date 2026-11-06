@@ -102,7 +102,7 @@ Please refer to the package insert for formal warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone, with no registered trials and no supportive literature. The mechanism is implausible, since osmotic diuresis does not correct the AVPR2 defect and may worsen hyponatremia. The drug is marketed in the US, with 7 of 7 licenses valid. The other nine predicted indications are no stronger: most are Hold with L4–L5 evidence, and several (hypokalemic periodic paralysis, nephrogenic diabetes insipidus, acute pulmonary heart disease) point to possible harm rather than benefit.
+The prediction rests on a model score alone, with no registered trials and no supportive literature. The mechanism is implausible, since osmotic diuresis does not correct the AVPR2 defect and may worsen hyponatremia. The drug is marketed in the US. The other nine predicted indications are no stronger: most are Hold with L4–L5 evidence, and several (hypokalemic periodic paralysis, nephrogenic diabetes insipidus, acute pulmonary heart disease) point to possible harm rather than benefit.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

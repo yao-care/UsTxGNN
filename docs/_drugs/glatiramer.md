@@ -72,7 +72,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-The drug is marketed in the US, with 9 of 9 licenses valid, and no approved indication text is available in the data compiled for this report.
+The drug is marketed in the US, and no approved indication text is available in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -100,7 +100,7 @@ The prediction rests only on a score from the TxGNN model (deep learning). There
 - Mechanism of action data (e.g., from DrugBank)
 - Preclinical or mechanistic evidence linking glatiramer's immunomodulation to hemoglobinopathy pathophysiology
 - Clarification of which hemoglobinopathy (sickle cell disease, thalassemia, etc.) is targeted, and of the route and formulation requirements
-- Confirmation of current regulatory and market status (9 of 9 US licenses are currently valid)
+- Confirmation of current regulatory and market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -70,7 +70,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-Mitomycin is marketed in the US only as an injectable (lyophilised powder for solution). Of the 8 licences in the records reviewed, 7 are valid and 1 is cancelled. The list may be partial. The approved indication text is not recorded in the local data. The table shows the first five licences.
+Mitomycin is marketed in the US only as an injectable (lyophilised powder for solution). The list may be partial. The approved indication text is not recorded in the local data. The table shows the first five licences.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

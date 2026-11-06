@@ -79,7 +79,7 @@ No literature was found for severe nonproliferative diabetic retinopathy. For th
 
 ## US Market Information
 
-The drug is marketed in the US, and all 10 of 10 authorizations are valid. Approved indication text was not available.
+The drug is marketed in the US. Approved indication text was not available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

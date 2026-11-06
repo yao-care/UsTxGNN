@@ -91,7 +91,7 @@ Currently no related clinical trials registered.
 | ANDA209440 | Clobazam (Taro) | Tablet | Not recorded |
 | ANDA210545 | Clobazam (Lupin) | Tablet | Not recorded |
 
-Of 15 recorded licences, 14 are valid and 1 is cancelled. The list may be partial.
+The list may be partial.
 
 ---
 

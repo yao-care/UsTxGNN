@@ -117,7 +117,7 @@ Please refer to the package insert for warnings and contraindications, which are
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5), with no clinical trials or publications. The mechanistic link is speculative, and the safety profile (serotonin syndrome, normeperidine neurotoxicity, abuse liability, many contraindication signals) is unfavorable for a chronic indication, although the drug is marketed in the US with 5 of 5 licenses valid. Tourette syndrome is a chronic condition, so these safety concerns weigh heavily.
+The prediction rests on a model score alone (Evidence Level L5), with no clinical trials or publications. The mechanistic link is speculative, and the safety profile (serotonin syndrome, normeperidine neurotoxicity, abuse liability, many contraindication signals) is unfavorable for a chronic indication, although the drug is marketed in the US. Tourette syndrome is a chronic condition, so these safety concerns weigh heavily.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

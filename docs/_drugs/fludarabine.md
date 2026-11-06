@@ -139,7 +139,7 @@ Fludarabine is firmly embedded in conditioning and lymphodepletion regimens for 
 - Mechanism-of-action data from DrugBank
 - Studies that separate fludarabine's own contribution from the rest of the conditioning or CAR-T regimen
 - A hematologic and neurotoxicity monitoring plan, with attention to fludarabine exposure and CAR-T toxicity
-- Clarification of current US availability: 4 of 4 licenses are valid, and the drug is marketed
+- Clarification of current US availability: the drug is marketed
 
 **Other predicted indications (for reference):**
 - **Indolent plasma cell myeloma** and **myelodysplastic syndrome** also carry L2 evidence and Proceed with Guardrails, with fludarabine again as a transplant conditioning component. Their evidence includes a randomized Phase 3 comparison of treosulfan vs busulfan, each with fludarabine, in older AML/MDS patients (PMID 31606445).

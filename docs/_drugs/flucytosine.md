@@ -78,8 +78,6 @@ Currently no related literature available.
 | ANDA204652 | Flucytosine (AvPAK) | Capsule | Not listed; status valid |
 | ANDA213665 | Flucytosine (Aurobindo) | Capsule | Not listed; status valid |
 
-All six licenses are for oral capsules.
-
 ## Safety Considerations
 
 - **Knowledge-graph contraindication signals** (from the TxGNN knowledge graph, not from label text): kidney disease, liver disease, gallbladder disease, pyoureter, potassium deficiency, thrombocytopenia, and a broad group of blood-cell disorders including leukopenia, agranulocytosis, neutropenia (acquired and congenital forms), and aplastic anemia. These point mainly to renal, hepatic, and bone marrow toxicity concerns.

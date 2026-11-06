@@ -101,8 +101,6 @@ The mechanistic link is plausible, but efficacy is not established. Bleeding ris
 
 ## US Market Information
 
-All seven authorizations are generic ANDAs with a valid status. No approved indication text is recorded for them.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA206127 (Eugia US LLC) | Eptifibatide | Injection | Not recorded |

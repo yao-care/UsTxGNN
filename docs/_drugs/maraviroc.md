@@ -79,8 +79,6 @@ Currently no related literature available for multiple endocrine neoplasia.
 | ANDA217114 | Maraviroc (i3 Pharmaceuticals, LLC) | Film-coated tablet | Not listed (valid) |
 | ANDA203347 | Maraviroc (Hetero Labs Limited) | Film-coated tablet | Not listed (valid) |
 
-All four licenses are currently valid.
-
 ## Safety Considerations
 
 - **Disease contraindication signals (knowledge graph, not label text)**: The TxGNN knowledge graph links maraviroc with contraindications in several conditions. These include:

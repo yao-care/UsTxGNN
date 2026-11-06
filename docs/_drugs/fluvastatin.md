@@ -96,7 +96,7 @@ Currently no related clinical trials registered.
 | ANDA079011 | Fluvastatin Sodium (Teva Pharmaceuticals USA, Inc.) | Tablet, film coated, extended release | Not stated in the data compiled |
 | ANDA209397 | Fluvastatin Sodium (Lannett Company, Inc.) | Tablet, film coated, extended release | Not stated in the data compiled |
 
-All five records are single-ingredient products. All forms are oral.
+All forms are oral.
 
 ## Safety Considerations
 

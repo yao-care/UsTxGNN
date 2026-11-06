@@ -86,7 +86,7 @@ Currently no related literature available.
 |---------|------|------|-----------|
 | M012 (cancelled) | BENZEDREX | Inhalant | Not available |
 
-The manufacturer was BF Ascher and Co Inc. 1 of 1 licenses is valid.
+The manufacturer was BF Ascher and Co Inc.
 
 ## Safety Considerations
 

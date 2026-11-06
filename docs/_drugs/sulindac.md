@@ -111,7 +111,7 @@ The prediction is supported only by the TxGNN model score.
 - Mechanism of action data for sulindac and a credible biological rationale linking it to GDF5/BMP signaling or skeletal development
 - Preclinical evidence (for example, cell or animal models of GDF5-related dysplasia)
 - Package insert warnings and contraindications to complete safety screening
-- Clarification of regulatory and commercial status, since the drug is marketed in the US with 6 of 6 licenses valid
+- Clarification of regulatory and commercial status, since the drug is marketed in the US
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

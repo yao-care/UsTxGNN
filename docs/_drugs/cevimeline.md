@@ -99,7 +99,7 @@ Label warnings and contraindications were not available in the data compiled for
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications and no plausible mechanistic link. The drug is currently marketed in the US (8 of 8 licenses valid). The evidence level is L5.
+The prediction rests only on a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications and no plausible mechanistic link. The drug is currently marketed in the US. The evidence level is L5.
 
 **To proceed, the following is needed:**
 - Label warnings and contraindications from the FDA package insert (a blocking gap for safety screening)

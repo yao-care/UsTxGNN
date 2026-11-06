@@ -92,7 +92,7 @@ The 20 retrieved publications consist of reviews, case reports and one animal st
 
 ## US Market Information
 
-All 16 US licenses are recorded as valid, and the records contain no approved indication text. The five main authorizations are listed below.
+The records contain no approved indication text. The five main authorizations are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

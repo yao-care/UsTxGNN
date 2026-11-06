@@ -133,7 +133,7 @@ Please refer to the package insert for full warnings and precautions, as label t
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (0.9992), but the supporting clinical data are weak: the only breast cancer trials are terminated, early-phase or combination studies, and the one relevant phase 2 publication found no evidence of increased efficacy. Evidence is mainly preclinical, review and indirect. With the drug marketed in the US (7 of 7 licenses valid) but label safety data missing, the prediction is best treated as a research question.
+The TxGNN score is very high (0.9992), but the supporting clinical data are weak: the only breast cancer trials are terminated, early-phase or combination studies, and the one relevant phase 2 publication found no evidence of increased efficacy. Evidence is mainly preclinical, review and indirect. With the drug marketed in the US but label safety data missing, the prediction is best treated as a research question.
 
 **To proceed, the following is needed:**
 - Dedicated, topotecan-specific clinical data in breast cancer, with attention to MYC-high and triple-negative subtypes

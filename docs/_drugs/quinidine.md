@@ -92,7 +92,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but no clinical trials, literature, or mechanistic data support it (Evidence Level L5). The drug is marketed in the US, with 5 of 5 authorizations valid. Quinidine also carries significant cardiac and interaction risks, and these matter for a condition like NSIAD, which is a rare disorder.
+The prediction score is very high, but no clinical trials, literature, or mechanistic data support it (Evidence Level L5). The drug is marketed in the US. Quinidine also carries significant cardiac and interaction risks, and these matter for a condition like NSIAD, which is a rare disorder.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) and an evaluation of a plausible link to AVPR2/GNAS signaling or renal water handling

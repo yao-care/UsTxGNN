@@ -79,7 +79,7 @@ Currently no related clinical trials registered.
 | ANDA076890 | Levofloxacin | Tablet | Chartwell RX, LLC | Valid |
 | ANDA090343 | Levofloxacin | Injection, solution | WG Critical Care, LLC | Valid |
 
-The list shows only the first five of the records available; the local records may be partial. In total, 10 licences are valid and 1 is cancelled. Dosage forms include oral tablets, injectable solutions and an oral solution.
+The list shows only the first five of the records available; the local records may be partial. Dosage forms include oral tablets, injectable solutions and an oral solution.
 
 ## Safety Considerations
 

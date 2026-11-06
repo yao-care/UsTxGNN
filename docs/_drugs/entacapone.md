@@ -121,14 +121,14 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The prediction for PLA2G6-associated neurodegeneration rests on model score alone (L5). No trials or literature exist, and a COMT inhibitor would at most give symptomatic benefit in the parkinsonian phenotype. The drug is marketed in the US, with 6 of 6 licenses valid.
+The prediction for PLA2G6-associated neurodegeneration rests on model score alone (L5). No trials or literature exist, and a COMT inhibitor would at most give symptomatic benefit in the parkinsonian phenotype. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Preclinical or case-level evidence of entacapone in PLA2G6-related dystonia-parkinsonism
 - Consideration of the juvenile parkinsonism and Lewy body dementia predictions as research questions, since both are closer to the approved indication
-- Clarification of the regulatory and supply situation (6 of 6 US licenses are valid)
+- Clarification of the regulatory and supply situation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

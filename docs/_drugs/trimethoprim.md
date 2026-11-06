@@ -81,7 +81,7 @@ Background literature for the existing conjunctivitis use (not evidence for the 
 
 ## US Market Information
 
-The drug is marketed in the US, with 7 of 7 licences valid. Approved-indication text was not available.
+The drug is marketed in the US. Approved-indication text was not available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
@@ -108,7 +108,7 @@ These apply mainly to systemic use; their relevance to topical ophthalmic use is
 **Decision: Hold**
 
 **Rationale:**
-The 0.9957 score is a computational prediction only, with no trials or literature for punctate epithelial keratoconjunctivitis. The condition is often viral or immune-mediated, so an antibacterial is mechanistically unlikely to address it. The drug is marketed in the US, with 7 of 7 licences valid.
+The 0.9957 score is a computational prediction only, with no trials or literature for punctate epithelial keratoconjunctivitis. The condition is often viral or immune-mediated, so an antibacterial is mechanistically unlikely to address it. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Evidence that bacterial infection plays a role in this condition, or any clinical or preclinical data in this setting

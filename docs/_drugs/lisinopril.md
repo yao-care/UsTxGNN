@@ -89,8 +89,6 @@ For context, the table below lists the most relevant publications retrieved for 
 | ANDA076164 | Lisinopril (A-S Medication Solutions) | Tablet | Not recorded; valid |
 | ANDA077321 | Lisinopril (RemedyRepack) | Tablet | Not recorded; valid |
 
-All seven licenses are oral tablets.
-
 ## Safety Considerations
 
 Package insert warnings and contraindications were not available in the data compiled for this report; please refer to the package insert for label information.

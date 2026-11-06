@@ -100,7 +100,7 @@ Official warnings and contraindications from the package insert were not availab
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model score, with no clinical trials or publications (Evidence Level L5). The mechanistic link is speculative, especially for a genetically driven condition such as primary hereditary glaucoma. In addition, the drug is marketed in the US (3 of 3 licenses valid) and systemic alpha blockade carries safety concerns.
+The prediction is supported only by the TxGNN model score, with no clinical trials or publications (Evidence Level L5). The mechanistic link is speculative, especially for a genetically driven condition such as primary hereditary glaucoma. In addition, the drug is marketed in the US and systemic alpha blockade carries safety concerns.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

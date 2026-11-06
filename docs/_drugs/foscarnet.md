@@ -100,7 +100,7 @@ Package insert warnings and contraindications were not available in the compiled
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no clinical trials, no relevant literature, and no plausible mechanism. Foscarnet is an antiviral, and the predicted condition is a non-viral genetic disorder. The drug is marketed in the US, with 6 of 6 licenses valid, and it carries significant renal and electrolyte toxicity.
+The prediction has a high model score but no clinical trials, no relevant literature, and no plausible mechanism. Foscarnet is an antiviral, and the predicted condition is a non-viral genetic disorder. The drug is marketed in the US, and it carries significant renal and electrolyte toxicity.
 
 **To proceed, the following is needed:**
 - Mechanism of action data from DrugBank

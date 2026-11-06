@@ -118,7 +118,7 @@ The prediction rests on a high model score and indirect literature from other tu
 - Review of the current FDA package insert for warnings and contraindications, since this safety data is missing
 - Detailed mechanism of action data
 - Direct preclinical or clinical evidence in upper aerodigestive tract tumours, in particular squamous cell carcinoma
-- Clarification of the regulatory pathway; the drug is marketed in the US, with 3 of 3 licenses valid
+- Clarification of the regulatory pathway; the drug is marketed in the US
 - Comparison with current standard therapies for this indication
 ## Disclaimer
 

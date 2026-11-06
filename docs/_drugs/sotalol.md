@@ -77,7 +77,7 @@ Currently no related literature available for the predicted indication.
 | ANDA075500 | Sotalol Hydrochloride (Bryant Ranch Prepack) | Tablet | Not available; status valid |
 | ANDA076140 | Sotalol Hydrochloride (Bryant Ranch Prepack) | Tablet | Not available; status valid |
 
-Two further cancelled ANDAs (Epic Pharma, Aphena Pharma Solutions) are not shown. All 7 licenses are oral tablets.
+Two further cancelled ANDAs (Epic Pharma, Aphena Pharma Solutions) are not shown.
 
 ## Safety Considerations
 

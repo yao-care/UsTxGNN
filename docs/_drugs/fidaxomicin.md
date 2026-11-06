@@ -101,7 +101,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score, but no trials or supporting publications back it. Fidaxomicin's minimal systemic absorption conflicts with the nature of staphylococcal scalded skin syndrome, a toxin-mediated systemic disease with effective standard treatments. The drug is marketed in the US, and all 5 of its 5 licenses are valid.
+The prediction has a very high model score, but no trials or supporting publications back it. Fidaxomicin's minimal systemic absorption conflicts with the nature of staphylococcal scalded skin syndrome, a toxin-mediated systemic disease with effective standard treatments. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (the missing safety data blocks safety screening)

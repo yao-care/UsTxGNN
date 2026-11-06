@@ -100,7 +100,7 @@ There is an important caveat. In the available Phase 3 trial, low-potency hydroc
 | ANDA089682 | Hydrocortisone (Proficient Rx) | Cream | Not available |
 | ANDA088799 | Proctosol-HC (Bryant Ranch Prepack) | Cream | Not available |
 
-Of the licence records compiled for this report, 8 are valid and 1 is cancelled. The list may be partial.
+The list may be partial.
 
 ---
 

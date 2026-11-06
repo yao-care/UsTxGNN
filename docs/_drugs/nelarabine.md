@@ -102,7 +102,7 @@ Approved indication text was not available in the compiled data.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or literature (evidence level L5). Nelarabine's known neurotoxicity, including demyelination, and the knowledge-graph contraindication with demyelinating disease run directly against use in multiple sclerosis. The drug is currently marketed in the US, with 10 of 10 licenses valid.
+The prediction has no supporting clinical trials or literature (evidence level L5). Nelarabine's known neurotoxicity, including demyelination, and the knowledge-graph contraindication with demyelinating disease run directly against use in multiple sclerosis. The drug is currently marketed in the US.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

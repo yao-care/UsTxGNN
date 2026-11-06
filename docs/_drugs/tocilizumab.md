@@ -106,7 +106,7 @@ The clinical record is less supportive. Two randomized placebo-controlled trials
 | BLA761449 | TYENNE (Fresenius Kabi) | Injection, solution | Not available (status: valid) |
 | BLA125276 | ACTEMRA (Genentech) | Injection, solution, concentrate | Not available (status: valid) |
 
-A sixth license, BLA761275 (TYENNE, injection solution concentrate, Fresenius Kabi), is also listed. All six licenses are valid, and the drug is marketed in this country.
+A sixth license, BLA761275 (TYENNE, injection solution concentrate, Fresenius Kabi), is also listed. The drug is marketed in this country.
 
 ---
 

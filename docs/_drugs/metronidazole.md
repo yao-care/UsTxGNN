@@ -103,8 +103,6 @@ The drug is marketed in the US, with 15 valid licenses.
 | ANDA203458 | Metronidazole (Redpharm Drug) | Tablet, film coated | Not available |
 | NDA216755 | LIKMEZ (Saptalis) | Suspension | Not available |
 
-These are 5 of 15 licenses (the others include oral capsules, gels and injectable solutions).
-
 ---
 
 ## Safety Considerations

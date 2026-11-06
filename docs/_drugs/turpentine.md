@@ -88,7 +88,7 @@ Currently no related literature available.
 | M017 | Ling Nam Hak Kwai Oil (Ling Nam Medicine Factory (H.K.) Ltd.) | Oil | Not recorded (valid) |
 | M014 | ARTREX (Bioved Pharmaceuticals) | Cream | Not recorded (valid) |
 
-The drug is marketed in this country, and all 3 licenses are valid.
+The drug is marketed in this country.
 
 ---
 

@@ -96,7 +96,7 @@ Package insert warnings and contraindications were not available in the compiled
 **Decision: Hold**
 
 **Rationale:**
-The only support is a very high model score (0.9989). There are no clinical trials or publications and no verifiable mechanism, although all seven US licenses are valid and the drug is marketed. G-CSF could plausibly help or harm in retinal vascular disease, so the direction of effect is unknown.
+The only support is a very high model score (0.9989). There are no clinical trials or publications and no verifiable mechanism, although the drug is marketed. G-CSF could plausibly help or harm in retinal vascular disease, so the direction of effect is unknown.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

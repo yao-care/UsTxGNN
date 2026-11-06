@@ -79,7 +79,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-Of the 8 licence records in the local data, 7 are valid and 1 is cancelled. The list below may be partial.
+The list below may be partial.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

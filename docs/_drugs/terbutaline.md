@@ -93,8 +93,6 @@ None of these studies directly examines terbutaline for respiratory malformation
 | ANDA077152 | Terbutaline Sulfate (Chartwell RX) | Tablet | Not available |
 | ANDA078630 | Terbutaline Sulfate (Henry Schein) | Injection | Not available |
 
-Five of the six licences are currently valid, and one is cancelled.
-
 ## Safety Considerations
 
 Label warnings and contraindications are not available in the data compiled for this report; please refer to the package insert.

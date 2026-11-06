@@ -19,7 +19,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/abaloparatide/"
     },
@@ -439,7 +439,7 @@
       "evidence_level": "L5",
       "indication_count": 9,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/amlodipine/"
     },
@@ -539,7 +539,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Glanzmann thrombasthenia",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/andexanet-alfa/"
     },
@@ -1309,7 +1309,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Predicted Disease",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/calaspargase-pegol/"
     },
@@ -1869,7 +1869,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Faciodigitogenital syndrome",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/clonidine/"
     },
@@ -1879,7 +1879,7 @@
       "evidence_level": "L5",
       "indication_count": 7,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/clopidogrel/"
     },
@@ -2139,7 +2139,7 @@
       "evidence_level": "L5",
       "indication_count": 7,
       "original_indication": "",
-      "predicted_indication": "Predicted Disease",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/dantrolene/"
     },
@@ -2309,7 +2309,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/desloratadine/"
     },
@@ -2509,7 +2509,7 @@
       "evidence_level": "L5",
       "indication_count": 8,
       "original_indication": "",
-      "predicted_indication": "Insomnia",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/diethyltoluamide/"
     },
@@ -2939,7 +2939,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Disease",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/emicizumab/"
     },
@@ -3049,7 +3049,7 @@
       "evidence_level": "L5",
       "indication_count": 3,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/epinephrine/"
     },
@@ -3299,7 +3299,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/etoposide/"
     },
@@ -3829,7 +3829,7 @@
       "evidence_level": "L5",
       "indication_count": 7,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/fosphenytoin/"
     },
@@ -4099,7 +4099,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Annular atrophic lichen planus",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/halcinonide/"
     },
@@ -4259,7 +4259,7 @@
       "evidence_level": "L5",
       "indication_count": 1,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/hydroxyzine/"
     },
@@ -4449,7 +4449,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/insulin-human/"
     },
@@ -5329,7 +5329,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/mecasermin/"
     },
@@ -5599,7 +5599,7 @@
       "evidence_level": "L5",
       "indication_count": 2,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/metoclopramide/"
     },
@@ -5919,7 +5919,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/nadolol/"
     },
@@ -6139,7 +6139,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/nitrogen/"
     },
@@ -6399,7 +6399,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/oxacillin/"
     },
@@ -6949,7 +6949,7 @@
       "evidence_level": "L1",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/platinum/"
     },
@@ -7279,7 +7279,7 @@
       "evidence_level": "L3",
       "indication_count": 5,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/procarbazine/"
     },
@@ -7319,7 +7319,7 @@
       "evidence_level": "L2",
       "indication_count": 5,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/propofol/"
     },
@@ -7369,7 +7369,7 @@
       "evidence_level": "L5",
       "indication_count": 5,
       "original_indication": "",
-      "predicted_indication": "ADHD, inattentive type",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/protriptyline/"
     },
@@ -7449,7 +7449,7 @@
       "evidence_level": "L5",
       "indication_count": 7,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/racepinephrine/"
     },
@@ -7839,7 +7839,7 @@
       "evidence_level": "L5",
       "indication_count": 9,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/salicylic-acid/"
     },
@@ -7859,7 +7859,7 @@
       "evidence_level": "L5",
       "indication_count": 6,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/scopolamine/"
     },
@@ -8259,7 +8259,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/sulfacetamide/"
     },
@@ -8689,7 +8689,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/tildrakizumab/"
     },
@@ -9159,7 +9159,7 @@
       "evidence_level": "L5",
       "indication_count": 3,
       "original_indication": "",
-      "predicted_indication": "Predicted indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/undecylenic-acid/"
     },
@@ -9489,7 +9489,7 @@
       "evidence_level": "L4",
       "indication_count": 5,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/zinc-oxide/"
     },
@@ -9529,7 +9529,7 @@
       "evidence_level": "L5",
       "indication_count": 9,
       "original_indication": "",
-      "predicted_indication": "Tourette syndrome",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/zonisamide/"
     }

@@ -21,7 +21,8 @@ ck = importlib.util.module_from_spec(_s); _s.loader.exec_module(ck)
 
 ABBR = [("e.g.", "e‧g‧"), ("i.e.", "i‧e‧"), ("vs.", "vs‧"), ("No.", "No‧"), ("et al.", "et al‧"), ("approx.", "approx‧"), ("Vet.", "Vet‧"),
         ("p. ej.", "p‧ ej‧"), ("aprox.", "aprox‧"), ("fx.", "fx‧"), ("bl.a.", "bl‧a‧"), ("mht.", "mht‧"), ("Inc.", "Inc‧"), ("Ltd.", "Ltd‧"),
-        ("S.A.", "S‧A‧"), ("U.S.", "U‧S‧"), ("Dr.", "Dr‧"), ("St.", "St‧"), ("Co.", "Co‧"), ("spp.", "spp‧"), ("Sdn.", "Sdn‧"), ("Bhd.", "Bhd‧")]
+        ("S.A.", "S‧A‧"), ("U.S.", "U‧S‧"), ("Dr.", "Dr‧"), ("St.", "St‧"), ("Co.", "Co‧"), ("spp.", "spp‧"), ("Sdn.", "Sdn‧"), ("Bhd.", "Bhd‧"),
+        ("S.r.l.", "S‧r‧l‧"), ("S.p.A.", "S‧p‧A‧"), ("B. Braun", "B‧ Braun"), ("F.C.", "F‧C‧"), ("B.P.", "B‧P‧")]  # 公司名、產品名裡的點（Sg 2026-11-06）
 DEPENDENT = {
     "en": re.compile(r"^\W*(It|Its|This|These|They|Their|Those|As noted above|See the note above|Without these|Under these)\b"),
     "es": re.compile(r"^\W*(Esto|Este|Esta|Estos|Estas|Ello|Por ello|Por lo tanto|Dicho|Dicha)\b"),

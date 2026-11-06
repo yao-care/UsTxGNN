@@ -23,6 +23,8 @@
   M2 事實是已註銷／過期／核准未上市，狀態列不得寫成上市中（kr 不查）
   M3 正文（非表格）說全部註銷／沒有有效許可證但事實有效數 >0，或事實全部註銷／未上市但正文說上市中（kr 不查；pm C1）
      M3 擴充（2026-11-05，英文站、M3X_SITES 啟用）：M3a 未上市卻寫有效、M3b 有效卻寫未註冊／查無註冊、M3c 有註銷卻寫全部有效／沒有註銷／有效張數過多
+D1 一頁只能有一份報告（2026-11-03 用戶決定）：報告標題＝H2 後一行是「{: .text-alpha }」；兩個以上就錯
+   （過去產生時殘留的第二份舊報告、或模型自己「更正標題」留下的第二個標題；修法見 drop_duplicate_reports_20261103.py）
 N1 noindex（--noindex 時才查）：no_pred_noindex 的頁要有 noindex: true，其他頁不得有
 用法（母目錄）：python3 .claude/check_drug_page.py [--selftest] [--noindex] [--pages site:page,...] [站 ...]
 輸出 .claude/audit_20261016/check/results.tsv（site, page, code, detail）；有錯 exit 1。
@@ -30,6 +32,7 @@ N1 noindex（--noindex 時才查）：no_pred_noindex 的頁要有 noindex: true
 import csv
 import importlib.util
 import json
+import os
 import re
 import sys
 from collections import Counter, defaultdict
@@ -37,7 +40,7 @@ from functools import lru_cache
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parents[1]
-OUT = BASE / ".claude/audit_20261016/check"
+OUT = Path(os.environ.get("CK_OUT", BASE / ".claude/audit_20261016/check"))  # CK_OUT：逐站在雲端跑時各自的輸出目錄（可平行）
 RULES = BASE / ".claude/check_rules"
 
 
@@ -329,6 +332,32 @@ SOURCE_STATUS = {
 # TH 2026-10-31 移出：原本的許可證號是程式編造的，改用 Thai FDA 查詢系統（pertento）的真實許可證，狀態列回到一般寫法
 
 
+# 狀態未知的許可（My 2026-11-05 用戶決定）：fc["unknown"]＝現行與撤銷清單都查不到、也還沒到期的登記號數，不算有效也不算註銷；
+# 狀態列與張數列另列一項。沒有有效許可、但有狀態未知的 → 市場狀態「Status unknown」（不寫成已註銷）
+UNKNOWN_ST = {"MyTxGNN": {"extra": "; status tidak dapat disahkan: {u}", "count": "{n} (sah: {v}; status tidak dapat disahkan: {u})",
+                          "only": "Status tidak dapat disahkan (pendaftaran: {n}; sah: 0; dibatalkan atau tamat tempoh: {c}; status tidak dapat disahkan: {u})"}}
+
+
+def unknown_status_text(site, lang, fc):
+    cfg = UNKNOWN_ST.get(site)
+    return cfg["only"].format(n=fc.get("total"), c=fc.get("cancelled") or 0, u=fc.get("unknown") or 0) if cfg else None
+
+
+# 狀態未經主管機關確認、但照樣算有效的許可（Za 2026-11-06 用戶決定）：fc["unconfirmed"]＝只在 MPR 價格登錄有、SAHPRA 匯出查不到的
+# 有效註冊數（含在 valid 裡，不是另一種狀態）。狀態列與張數列加註，許可證表該列狀態格寫「Valid (status not confirmed by SAHPRA)」
+UNCONFIRMED_ST = {"ZaTxGNN": {"extra": "; {u} of the valid not confirmed by SAHPRA", "count": "{n} (valid: {v}, of which {u} not confirmed by SAHPRA)"}}
+
+
+def _with_unknown(site, text, fc):
+    cfg = UNKNOWN_ST.get(site)
+    if cfg and fc and (fc.get("unknown") or 0) and text.endswith(")"):
+        return text[:-1] + cfg["extra"].format(u=fc["unknown"]) + ")"
+    cfg = UNCONFIRMED_ST.get(site)
+    if cfg and fc and (fc.get("unconfirmed") or 0) and not fc.get("partial") and text.endswith(")"):
+        return text[:-1] + cfg["extra"].format(u=fc["unconfirmed"]) + ")"
+    return text
+
+
 def marketed_text(site, lang, v, n, partial, fc=None):
     """事實是 Marketed 時的狀態列：來源不是許可證資料的站用 SOURCE_STATUS，SPLIT_STATUS 的站分開寫核准未上市／註銷，其他站用 mv2.T"""
     if site in SPLIT_STATUS:
@@ -339,7 +368,7 @@ def marketed_text(site, lang, v, n, partial, fc=None):
     if site in SOURCE_STATUS:
         return SOURCE_STATUS[site][1 if partial else 0].format(v=v, n=n)
     tl = mv2.T.get(lang) or mv2.T["en"]
-    return (tl[1] if partial else tl[0]).format(v=v, n=n)
+    return _with_unknown(site, (tl[1] if partial else tl[0]).format(v=v, n=n), fc)
 
 
 # 2026-10-30（pm）：概覽表本站狀態列／張數列的標準欄位名（各站主流寫法；主流寫法不準確的修正：US 不只 NDA、
@@ -506,7 +535,7 @@ AT_LEAST = re.compile(r"at least|al menos|pelo menos|mindestens|mindst|vähintä
 #       data retrieval failure 這類「查無結果」說法）
 #   M3c 事實有註銷張數（非部分紀錄），正文寫全部有效／沒有註銷，或正文寫的有效張數多於事實
 # 只在 M3X_SITES 的站啟用：新規則上線前，該站頁面要先清到 0（否則許可證排程的 checker 會擋下整批）；selftest 一律測。
-M3X_SITES = {"UsTxGNN", "ZaTxGNN"}
+M3X_SITES = {"COTxGNN", "CaTxGNN", "DkTxGNN", "ESTxGNN", "KrTxGNN", "MyTxGNN", "SgTxGNN", "UsTxGNN", "ZaTxGNN"}
 M3X_LANGS = ("en", "en-us")
 VALID_CLAIM = re.compile(r"\bvalid status\b|\b(is|are|remains?) (currently |still )?valid\b|\bcurrently valid\b|"
                          r"\bvalid (single[\w-]*|registrations?|licen[cs]es?|authori[sz]ations?|approvals?|SAHPRA|products?|records?|entr(y|ies))\b|"
@@ -550,7 +579,7 @@ def m3x(lang, s, fc, site=None):
     c = fc.get("cancelled") or 0
     if ms in ("Cancelled only", "Not marketed") and VALID_CLAIM.search(s) and not mv2.NEG.search(s):
         return "M3a"
-    if v > 0 and NOREG_CLAIM.search(s) and not POS_VALID.search(s) and REG_WORD.search(s):
+    if v > 0 and (NOREG_CLAIM.search(s) or (site in NOREG_EXTRA and NOREG_EXTRA[site].search(s))) and not POS_VALID.search(s) and REG_WORD.search(s):
         return "M3b"
     if c > 0 and (not fc.get("partial") or site in M3X_PARTIAL):
         if NONE_CANCEL.search(s) or (ALL_VALID.search(s) and not re.search(r"cancel", s, re.I)):
@@ -599,6 +628,14 @@ NOREG_EXTRA = {"COTxGNN": re.compile(
     r"\bno (cuenta|tiene|dispone) (actualmente |hoy )?(con )?(ning[uú]n |un )?registros?( sanitarios?)? vigentes?|"
     r"\b(est[aá]n?|es|son) (\w+\s+){0,2}(cancelad[oa]s?)\b(?![^.;]{0,30}vigente)|\bno hay (\w+ ){0,2}presentaciones (\w+ )?vigentes|\bno existe (\w+ ){0,2}(comercializaci\w+|registros?)( sanitarios?)? vigentes?|"
     r"\((actualmente |hoy )?cancelad[oa]s?\)|\b(hoy|actualmente|ya) cancelad[oa]s?\b|\bfigura (hoy )?como cancelad", re.I)}
+# SG（2026-11-06，英文）：舊版 Evidence Pack 頁的「查無註冊」寫法（no registered products、0 registered products、
+# registration records are absent、currently unregistered、total_licenses: 0…）；只在本站有有效註冊時判（m3x 的 M3b）
+NOREG_EXTRA["SgTxGNN"] = re.compile(
+    r"\bno (Singapore |HSA |local )?(registered products?|approval records?|licen[cs]e records?)\b|\b0 registered products?\b|"
+    r"\bno (Singapore )?(HSA )?(regulatory )?registrations?\b(?! (are|were|is|was) (cancel|revok))|\bno Singapore (regulatory |registration |market )+(records?|data|registrations?)\b|"
+    r"\b(registration|regulatory) (registration )?records? (are|is) absent\b|\bcurrently unregistered\b|\bunregistered in Singapore\b|"
+    r"\bregulatory data returned zero\b|\bnot present in regulatory data\b|\btotal_licen[cs]es\W{0,3}[:=]\s*0\b|\bno local regulatory data\b|"
+    r"\bno approved registration\b|\bno Singapore market registration\b|\bno Singapore regulatory\b", re.I)
 # CO：沒有任何註銷許可（c＝0）時，提到「registro cancelado／estado cancelado／solo cancelados」就是 2026-10-03 誤判留下的錯句
 CANC_NOUN = {"COTxGNN": re.compile(r"\b(registros?|productos?|presentaci\w+)( sanitarios?)?( \w+){0,3} cancelad[oa]s?\b|\bregistros?,? (también |hoy |todos )?cancelad|\bestado( de mercado)? cancelado\b|\bsolo cancelad|"
                                    r"\bcancelad[oa]s?\b(?=[^.;]{0,40}\b(registro|INVIMA|Colombia))", re.I)}
@@ -606,7 +643,7 @@ CANC_NOUN = {"COTxGNN": re.compile(r"\b(registros?|productos?|presentaci\w+)( sa
 CTX_NARROW = {"COTxGNN": re.compile(r"NCT\d|registro de ensayos?|EudraCT|REEC|ClinicalTrials", re.I)}
 
 # 判定前先拿掉 Markdown 粗體／斜體記號的站（「están **cancelados**」原本對不上；只在新上線的站啟用，已上線的站維持原判定）
-EMPH_STRIP = {"COTxGNN"}
+EMPH_STRIP = {"COTxGNN", "SgTxGNN"}
 
 
 def m3_verdict(site, lang, s, fc):
@@ -679,6 +716,13 @@ def count_text(site, lang, fc):
     """張數列應有的值（M4 與各寫入程式共用）"""
     tl = mv2.T.get(lang) or mv2.T["en"]
     n, v, partial = fc.get("total"), fc.get("valid") or 0, fc.get("partial")
+    ex = _export_text(site, fc, "count")
+    if ex:
+        return ex
+    if UNKNOWN_ST.get(site) and (fc.get("unknown") or 0) and not fc.get("partial"):
+        return UNKNOWN_ST[site]["count"].format(n=fc.get("total"), v=fc.get("valid") or 0, u=fc["unknown"])
+    if UNCONFIRMED_ST.get(site) and (fc.get("unconfirmed") or 0) and not fc.get("partial"):
+        return UNCONFIRMED_ST[site]["count"].format(n=fc.get("total"), v=fc.get("valid") or 0, u=fc["unconfirmed"])
     cfg = SPLIT_STATUS.get(site)
     if cfg and "count_fn" in cfg:
         return cfg["count_fn"](fc)
@@ -688,8 +732,25 @@ def count_text(site, lang, fc):
     return (cfg["count_full"] if cfg else tl[2]).format(n=n, v=v)
 
 
+# 有效許可全部是只供出口的品目（Kr 수출용，2026-11-05 用戶決定）：核准未上市，張數列分開寫國內與出口。
+# fc 的 export_only／export_total／export_valid／domestic_total 由該站 reviewer._local_regulatory 算（非部分紀錄才套用）
+EXPORT_ONLY = {"KrTxGNN": {"status": "허가되었으나 미시판 (수출용 허가만 유효: {v}건 / 전체 {n}건)",
+                           "count": "{n}건 (국내 {d}건 · 유효 0건 / 수출용 {e}건 · 유효 {v}건)"}}
+
+
+def _export_text(site, fc, key):
+    cfg = EXPORT_ONLY.get(site)
+    if not cfg or not fc or not fc.get("export_only"):
+        return None
+    return cfg[key].format(v=fc.get("export_valid") or fc.get("valid") or 0, n=fc.get("total"), d=fc.get("domestic_total") or 0,
+                           e=fc.get("export_total") or 0)
+
+
 def not_marketed_text(site, lang, fc):
     """核准未上市的狀態列；部分紀錄（total 為空）時寫「至少 N」（2026-11-05 修 CO「registros: None」）"""
+    ex = _export_text(site, fc, "status")
+    if ex:
+        return ex
     n = fc.get("total")
     if n is None:
         k = len(fc.get("licenses") or {})
@@ -913,7 +974,7 @@ def search_index(site):
     return {}
 
 
-LOCAL_EN = re.compile(r"^\**(.+?)\**\s*[（(]\s*\**([A-Za-z][^()（）]*?(?:\([^()]*\)[^()（）]*?)?)\**\s*[)）]\s*\**$")
+LOCAL_EN = re.compile(r"^\**(.+?)\**\s*[（(]\s*\**([A-Za-z0-9][^()（）]*?(?:\([^()]*\)[^()（）]*?)?)\**\s*[)）]\s*\**$")
 
 
 @lru_cache(maxsize=None)
@@ -971,12 +1032,20 @@ def _loc2en(site):
 
 
 def index_english(site, name):
+    if LANG.get(site, "en") in ("en", "en-us"):
+        # 英文站沒有「當地名 (English)」對照：「amenorrhea (disease)」的括號是 TxGNN 病名的一部分
+        #（2026-11-03 Us：198 頁 search-index 因此被誤判 P7，與 local_names 的英文站處理一致）
+        return norm_name(name)
     m = LOCAL_EN.match(str(name).strip())
-    if m:
+    if m and norm_name(m.group(2)) not in ("disease", "disorder"):
         return norm_name(m.group(2))
+    # 「transient ischemic attack (disease)」：括號裡只是 TxGNN 病名的限定詞，整串就是英文病名（2026-11-03 非英文站同一誤判）
+    m2 = None if m else re.match(r"^(.*[^\x00-\x7f].*?)\s*[（(]\s*([^（）()]*[A-Za-z][^（）()]*)\s*[)）]\s*$", str(name).strip())
+    if m2:  # 當地名本身含全形括號、英文名以數字開頭（Hk「46,XY 性發育異常（睪丸類固醇合成缺陷） (46,XY disorder …)」，2026-11-03）
+        return norm_name(m2.group(2))
     n = norm_name(name)
-    if n in local_names(site):
-        return n  # 本身就是英文病名
+    if n in local_names(site) or kf._n(name) in kf._graph()[0]:
+        return n  # 本身就是英文病名（含 TxGNN 疾病節點名稱：站內對照偶有反向或縮寫，例 Nl「kattenaids」、SE「DFSP」，2026-11-03）
     return _loc2en(site).get(n, n)
 
 
@@ -1033,6 +1102,14 @@ MAIN_BY_SCORE = []  # 主預測只靠「概覽分數唯一等於 kept[0]」放�
 MANAGED = re.compile(r"<!-- (review:begin \S+|brand-names:start) -->.*?<!-- (review:end \S+|brand-names:end) -->", re.S)
 
 
+REPORT_TITLE = re.compile(r"^(## .*)\n\{: \.text-alpha \}[ \t]*$", re.M)
+
+
+def report_titles(body):
+    """D1：報告標題（H2 下一行是 {: .text-alpha }）的標題文字清單"""
+    return [m.group(1) for m in REPORT_TITLE.finditer(body)]
+
+
 def strip_managed(body):
     """人工查核框（Tw drug_reviews）與販売名區塊（Jp brand_names）是另外維護的內容，P5／M3 不查（2026-10-29）"""
     return MANAGED.sub("", body)
@@ -1046,9 +1123,12 @@ def check_page(site, f, cls, want_noindex):
         return []
     fm, _, body = t[4:].partition("\n---")
     lang = LANG.get(site, "en")
+    rt = report_titles(body)
+    if len(rt) > 1:  # D1：不需要證據包，先查
+        E("D1", f"一頁 {len(rt)} 份報告標題，第二個：{rt[1][:60]}")
     b = amf.load_bundle(BASE / site, f.stem)
     if b is None:
-        return [("P1", "找不到證據包")]
+        return errs + [("P1", "找不到證據包")]
     d = b.get("drug") or {}
     preds = {norm_name(p["disease_name"]): p for p in d.get("predicted_indications") or [] if p.get("disease_name")}
     top = [p["disease_name"] for p in d.get("predicted_indications") or [] if (p.get("txgnn_score") or 0) >= kf.SCORE_MIN][:10]
@@ -1305,6 +1385,10 @@ def check_page(site, f, cls, want_noindex):
                 want_s = not_marketed_text(site, lang, fc)
                 if st[1] != want_s:
                     E("M1", f"狀態列「{st[1][:40]}」≠「{want_s}」")
+            elif ms == "Status unknown" and site in UNKNOWN_ST:
+                want_s = unknown_status_text(site, lang, fc)
+                if st[1] != want_s:
+                    E("M1", f"狀態列「{st[1][:40]}」≠「{want_s}」")
             elif ms == "Not marketed" and site in VET_ONLY:
                 want_s = not_reg_text(site, lang, fc)
                 if st[1] != want_s:
@@ -1413,6 +1497,8 @@ def selftest():
         elif code == "INDEX_EN":  # text＝「站|search-index 病名」，note＝應得的英文病名
             site, name = text.split("|", 1)
             got = index_english(site, name) == note
+        elif code == "D1":  # text 裡的「\\n」是換行：兩個以上報告標題（H2＋{: .text-alpha }）才算
+            got = len(report_titles(text.replace("\\n", "\n"))) > 1
         elif code == "STATUS_ROW":  # text＝「站|列標題1;列標題2」，note＝應選中的列標題
             site, labels = text.split("|", 1)
             pick = status_row(site, [[l, "x"] for l in labels.split(";")])

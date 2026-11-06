@@ -7,7 +7,7 @@ OTC monograph／未核准類別的列名產品另外計數（2026-11-06 起用 o
 2. scripts/rebuild_licenses_by_ingredient.py：依成分重建 data/bundles 的許可證紀錄。
 3. 事實層（dump_license_facts）→ 許可證表狀態格（license_table_sync.apply，用語取 .claude/license_labels/<站>.json）→
    概覽表狀態列、張數列（sync_market_rows；US 寫成「FDA 核准申請 X／N；OTC monograph／未核准列名 K」）→
-   許可證表依證據包重排（scripts/sync_license_tables.py：表裡有不屬於本藥的申請號、或已是程式產生的表；2026-11-06 起）→
+   許可證表依證據包重排（scripts/sync_license_tables.py：表裡有不屬於本藥的申請號、表格列的狀態跟事實相反、或已是程式產生的表；2026-11-06 起）→
    刪掉跟新事實矛盾的句子（.claude/delete_license_sentences.py，
    人工核對清單 scripts/license_sentence_fixes.json）→ lastmod（正文有變才換日期）。
 5. 停損（任一條不過就把 docs 還原、exit 非 0，workflow 開 issue）：

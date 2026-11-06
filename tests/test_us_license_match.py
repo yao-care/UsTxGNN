@@ -76,3 +76,20 @@ def test_mthf_is_not_levomefolate():
     # GSRS：5-METHYLTETRAHYDROFOLIC ACID（TYK22LML8F，差向異構物混合物）≠ LEVOMEFOLATE CALCIUM（A9R10K3F2F）
     idx = lm.LicenseIndex([], "", [_ndc("75854-313", ["FOLIC ACID", "LEVOMEFOLATE CALCIUM"], cat="UNAPPROVED DRUG OTHER", appl="")], "")
     assert not idx.match("FOLIC ACID; 5-METHYLTETRAHYDROFOLIC ACID")[0]["found"]
+
+
+def test_salts_and_names_of_same_active_moiety_2026_11_06():
+    # GSRS ACTIVE MOIETY 是母藥：ethylsuccinate／lactobionate（erythromycin）、diolamine（treprostinil）、D-tartrate（nilotinib）；
+    # ziv-aflibercept＝aflibercept；MECASERMIN RECOMBINANT＝mecasermin；DEXTROMETHORPHAN POLISTIREX＝dextromethorphan
+    idx = lm.LicenseIndex([_app("NDA050207", ["ERYTHROMYCIN ETHYLSUCCINATE"]), _app("NDA050609", ["ERYTHROMYCIN LACTOBIONATE"]),
+                           _app("NDA203496", ["TREPROSTINIL DIOLAMINE"]), _app("NDA218922", ["NILOTINIB D-TARTRATE"]),
+                           _app("BLA125418", ["ZIV-AFLIBERCEPT"]), _app("BLA021839", ["MECASERMIN RECOMBINANT"]),
+                           _app("NDA018658", ["DEXTROMETHORPHAN POLISTIREX"]), _app("NDA000099", ["MECASERMIN RINFABATE"]),
+                           _app("NDA019111", ["CHLORPHENIRAMINE POLISTIREX; HYDROCODONE POLISTIREX"])], "", [], "")
+    ids = lambda inn: {r["license_id"] for r in idx.match(inn)[0]["records"]}  # noqa: E731
+    assert ids("ERYTHROMYCIN") == {"NDA050207", "NDA050609"}
+    assert ids("TREPROSTINIL") == {"NDA203496"} and ids("NILOTINIB") == {"NDA218922"}
+    assert ids("AFLIBERCEPT") == {"BLA125418"} and ids("MECASERMIN") == {"BLA021839"}  # rinfabate 不併
+    assert ids("DEXTROMETHORPHAN") == {"NDA018658"}
+    assert ids("CHLORPHENIRAMINE") == set()  # 其他藥的 polistirex 沒查證，不併
+    assert ids("ERYTHROMYCIN LACTOBIONATE") == {"NDA050609"}  # 名稱帶鹽類時只收同一個鹽

@@ -18,7 +18,9 @@
   1. 表格已經是本程式產生的（表頭＝HEAD）——每次重建都照新資料重排；
   2. 表格裡有不屬於本藥的申請號（NDA／ANDA／BLA＋6 碼，不在證據包的申請號裡）；
   3. 段落正文點名本藥的申請號、但那個號碼不屬於本藥（只算沒有「另一個藥名＋as a standalone／standalone drug」這類
-     明說是別的藥的句子；例：soybean_oil 頁「three allergenic-extract BLAs」、aflibercept 頁「A sixth license, BLA125418 (ZALTRAP…)」）。
+     明說是別的藥的句子；例：soybean_oil 頁「three allergenic-extract BLAs」）；
+  4. 表格列寫的狀態跟事實層相反（號碼格夾著狀態字「NDA208743 (cancelled)」、或別欄「Not specified (valid)」；2026-11-06 起，
+     判斷用 checker .claude/check_drug_page.py 的 row_status_conflicts，checker 的 M1 也擋同一種寫法）。
 每週許可證更新（scripts/license_adapter.py 的 sync_tables）：狀態有變的藥照同一套重排（resync_tables），只改表格與 SHOW 句。
 表格重排後，正文跟新事實矛盾的句子由 .claude/delete_license_sentences.py（規則＋人工清單 scripts/license_sentence_fixes.json）刪，
 本程式不刪句。
@@ -128,8 +130,8 @@ def own_apps(tf):
     return {str(r.get("license_id") or "").strip() for r in tf.get("records") or [] if not r.get("listing")}
 
 
-def needs_resync(lines, tf):
-    """重建時要重排的理由（空字串＝不用）"""
+def needs_resync(lines, tf, conflicts=None):
+    """重建時要重排的理由（空字串＝不用）。conflicts：表格列 → [(代碼, 說明)]，用 checker 的 row_status_conflicts（同一套判斷）"""
     a, b, x, y = section(lines)
     if x is None:
         return ""
@@ -139,6 +141,11 @@ def needs_resync(lines, tf):
     bad = sorted({m.group(1) + m.group(2) for l in lines[x:y + 1] for m in APPL.finditer(l)} - own)
     if bad:
         return "表格列了不屬於本藥的申請號：" + ", ".join(bad[:8])
+    if conflicts:
+        rows = [[c.strip() for c in l.strip().strip("|").split("|")] for l in lines[x + 2:y + 1]]
+        hit = conflicts(rows)
+        if hit:
+            return "表格列的狀態字跟事實層不一致：" + "；".join(d for _, d in hit[:3])
     for l in lines[a:b]:
         if l.startswith("|") or OTHER_DRUG.search(l):
             continue
@@ -168,6 +175,18 @@ def render(lines, tf, fc):
     if total > nrows:
         after = ["", SHOW.format(n=min(nrows, len(rows)), m=total)] + after
     return lines[:x] + table + after + lines[b:]
+
+
+def _load_checker(ws):
+    """工作目錄的 .claude/check_drug_page.py（row_status_conflicts：checker 擋「表格列狀態字跟事實相反」的同一套判斷）；舊版沒有就不查"""
+    import importlib.util
+    p = Path(ws) / ".claude/check_drug_page.py"
+    if not p.exists():
+        return None
+    s = importlib.util.spec_from_file_location("check_drug_page", p)
+    m = importlib.util.module_from_spec(s)
+    s.loader.exec_module(m)
+    return m if hasattr(m, "row_status_conflicts") else None
 
 
 def resync_page(page, tf, fc):
@@ -215,6 +234,7 @@ def main(argv):
     rep = argv[argv.index("--report") + 1] if "--report" in argv else None
     only = {a for a in argv if not a.startswith("--") and a not in (str(ws), rep)}
     fs = facts(ws)
+    ck = _load_checker(ws)
     log, n = [], 0
     for page in sorted((ROOT / "docs/_drugs").glob("*.md")):
         if only and page.stem not in only:
@@ -226,7 +246,9 @@ def main(argv):
         t = page.read_bytes().decode("utf-8").replace("\r\n", "\n")
         if "layout: id_redirect" in t[:3000] or 'http-equiv="refresh"' in t[:3000]:
             continue
-        why = needs_resync(t.split("\n"), tf)
+        fc = fs.get(key) or fs.get(page.stem) or {}
+        lic = {ck.mv2.norm_id(k): s for k, s in (fc.get("licenses") or {}).items()} if ck else {}
+        why = needs_resync(t.split("\n"), tf, (lambda rows: ck.row_status_conflicts(SITE, rows, lic)) if ck else None)
         if not why:
             continue
         new, crlf = resync_page(page, tf, fs.get(key) or fs.get(page.stem))

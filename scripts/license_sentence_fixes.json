@@ -40,6 +40,10 @@
    "sentence": "Assessment of route compatibility and formulation availability, given that all seven US authorizations are valid",
    "cut": ", given that all seven US authorizations are valid",
    "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；下一步項目本身保留"
+  },
+  {
+   "sentence": "Two further cancelled authorizations are not listed here: ANDA211928 (Strides Pharma, capsule) and ANDA040430 (Bryant Ranch Prepack, liquid-filled capsule)",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），ANDA211928、ANDA040430 在 Drugs@FDA 都有效，不是註銷"
   }
  ],
  "isoflurane": [
@@ -89,6 +93,11 @@
   {
    "sentence": "Both US authorizations for enalaprilat are valid, and the drug is marketed.",
    "reason": "依成分重建後（Drugs@FDA 2026-11-05）本藥申請號有已停產者，「全部有效／N 張」與事實矛盾；整句都是許可證張數／狀態說法，子句刪除會留下殘句，整句刪"
+  },
+  {
+   "sentence": "- Clarification of current US marketing status, since both authorizations are cancelled",
+   "cut": ", since both authorizations are cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 7 張申請有 3 張有效，「兩張都註銷」與事實矛盾"
   }
  ],
  "finasteride": [
@@ -612,6 +621,1272 @@
    "sentence": "- A route and formulation compatibility assessment, since the only known product is an injection and ocular use would likely need a different route",
    "cut": ", since the only known product is an injection and ocular use would likely need a different route",
    "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥的列名產品有眼藥水，「唯一產品是注射劑」與事實不符；評估項目本身保留"
+  }
+ ],
+ "acetaminophen_codeine": [
+  {
+   "sentence": "Acetaminophen + Codeine products are widely marketed internationally (e.g., Tylenol with Codeine No. 3/4 in the US under NDA 022450 and others), but this system did not retrieve those records",
+   "cut": " (e.g., Tylenol with Codeine No. 3/4 in the US under NDA 022450 and others), but this system did not retrieve those records",
+   "reason": "2026-11-06 用戶決定。NDA022450 在 Drugs@FDA 是 Ofirmev（acetaminophen 注射劑），不是 Tylenol with Codeine；依成分比對本藥有 108 張 FDA 申請（Drugs@FDA 2026-11-05），「系統沒抓到」與事實矛盾。只刪這個子句，「Acetaminophen + Codeine products are widely marketed internationally」與下一句建議保留"
+  }
+ ],
+ "alitretinoin": [
+  {
+   "sentence": "The US marketing authorisation is also cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效（Drugs@FDA），「許可已註銷」與事實矛盾"
+  }
+ ],
+ "amifampridine": [
+  {
+   "sentence": "The only US authorization on record is also cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 2 張申請都有效，「唯一一張且已註銷」與事實矛盾"
+  }
+ ],
+ "aminocaproic_acid": [
+  {
+   "sentence": "13 valid licenses are on record for this drug in the US market, which is marketed",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 31 張申請有 20 張有效，「13 張有效」與事實不符（整句是張數說法，刪後只剩懸空的 which 子句）"
+  },
+  {
+   "sentence": "In addition, this drug is marketed in the US with 13 valid licenses",
+   "cut": " with 13 valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 20 張有效申請，「13 張」與事實不符；上市說法保留"
+  }
+ ],
+ "amiodarone": [
+  {
+   "sentence": "Among the 12 licences listed, 11 are valid and 1 is cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 35 張申請（17 有效、18 停產），「12 張中 11 有效 1 註銷」與事實不符"
+  },
+  {
+   "sentence": "The list may be partial",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），依成分比對的申請號是完整清單，不是部分紀錄"
+  }
+ ],
+ "anagrelide": [
+  {
+   "sentence": "The drug's cardiovascular and other safety signals, and the cancellation of all US licenses, add further caution",
+   "cut": ", and the cancellation of all US licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 10 張申請有 5 張有效，「全部註銷」與事實矛盾；安全訊號說法保留"
+  }
+ ],
+ "andexanet_alfa": [
+  {
+   "sentence": "The product's license is also cancelled in the US, and it carries a boxed thrombotic warning",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾；刪掉矛盾子句後只剩失去指涉的代名詞「it」，整句刪"
+  }
+ ],
+ "asfotase_alfa": [
+  {
+   "sentence": "In addition, the only US authorization is listed as cancelled, and safety label data is missing",
+   "cut": "the only US authorization is listed as cancelled, and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾；缺安全資料的說法保留"
+  }
+ ],
+ "avapritinib": [
+  {
+   "sentence": "The sole US NDA is also cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾"
+  },
+  {
+   "sentence": "- Confirmation of current US regulatory and supply status, given the cancelled NDA",
+   "cut": ", given the cancelled NDA",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 NDA 有效，「已註銷」與事實矛盾；下一步項目本身保留"
+  }
+ ],
+ "belinostat": [
+  {
+   "sentence": "The US NDA is cancelled, and label safety information is missing",
+   "cut": "The US NDA is cancelled, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 NDA 有效，「已註銷」與事實矛盾；缺仿單資料的說法保留"
+  },
+  {
+   "sentence": "- Clarification of the regulatory and commercial availability given the cancelled NDA",
+   "cut": " given the cancelled NDA",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 NDA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "benralizumab": [
+  {
+   "sentence": "- Clarification of the US license status, since the data list the BLA as cancelled while pharmacology data describe approved uses",
+   "cut": ", since the data list the BLA as cancelled while pharmacology data describe approved uses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 BLA 有效，「資料列為註銷」與事實矛盾"
+  }
+ ],
+ "brolucizumab": [
+  {
+   "sentence": "The US license is cancelled, and the product is an intravitreal agent with limited systemic exposure, which makes the predicted systemic indications doubtful",
+   "cut": "The US license is cancelled, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾；給藥途徑說法保留"
+  }
+ ],
+ "carfilzomib": [
+  {
+   "sentence": "The registered product is also cancelled in the US, and the drug interaction burden is large",
+   "cut": "The registered product is also cancelled in the US, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 7 張申請有 4 張有效，「已註銷」與事實矛盾；交互作用說法保留"
+  },
+  {
+   "sentence": "- Clarification of the cancelled US market status and the availability of current products",
+   "cut": "the cancelled US market status and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥有 4 張有效申請，「市場狀態已註銷」與事實矛盾"
+  }
+ ],
+ "cefuroxime": [
+  {
+   "sentence": "Of these licences, four are valid and one (NDA050780) is cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），重排後表上 5 列都有效（本藥 33 張申請、6 張有效），「4 有效 1 註銷」與事實不符"
+  },
+  {
+   "sentence": "The list may be partial",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），依成分比對的申請號是完整清單，不是部分紀錄"
+  }
+ ],
+ "cladribine": [
+  {
+   "sentence": "All five authorizations are listed as valid in the data compiled for this report",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 8 張申請（6 有效、2 停產），「5 張都有效」與事實不符"
+  }
+ ],
+ "cupric_chloride": [
+  {
+   "sentence": "All five authorizations are single-ingredient injectables with cancelled status",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 5 張申請有 4 張有效，「全部註銷」與事實矛盾"
+  }
+ ],
+ "cycloserine": [
+  {
+   "sentence": "The neuropsychiatric toxicity profile and the cancelled US license further weaken the case for a non-life-threatening functional bowel disorder",
+   "cut": " and the cancelled US license",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾；神經精神毒性的說法保留"
+  }
+ ],
+ "darolutamide": [
+  {
+   "sentence": "The US market status is also \"Cancelled only\", and the package insert safety data has not been obtained, which blocks safety screening",
+   "cut": "The US market status is also \"Cancelled only\", and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「只有註銷」與事實矛盾；缺仿單資料的說法保留"
+  },
+  {
+   "sentence": "- Clarification of the cancelled NDA status",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 NDA 有效，「已註銷」與事實矛盾（整項就是這件事）"
+  }
+ ],
+ "demeclocycline": [
+  {
+   "sentence": "Both authorizations are cancelled, which limits practical feasibility for any repurposing effort",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 8 張申請有 3 張有效，「兩張都註銷」與事實矛盾"
+  }
+ ],
+ "deoxycholic_acid": [
+  {
+   "sentence": "Deoxycholic acid is a secondary bile acid that was marketed in the US as an injectable (KYBELLA), but its US authorization is now cancelled and the approved indication text is not available in the data compiled for this report",
+   "cut": "its US authorization is now cancelled and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 2 張申請都有效，「已註銷」與事實矛盾；缺適應症文字的說法保留"
+  },
+  {
+   "sentence": "Diabetic nephropathy has only indirect, preclinical or biomarker-level evidence, with no study of deoxycholic acid itself, and the product's US authorization is cancelled",
+   "cut": ", and the product's US authorization is cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 2 張申請都有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "desipramine": [
+  {
+   "sentence": "- A review of how the cancelled market status affects practical feasibility",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 18 張申請有 8 張有效，「市場狀態已註銷」與事實矛盾（整項就是這件事）"
+  }
+ ],
+ "desvenlafaxine": [
+  {
+   "sentence": "- Clarification of the commercial and regulatory status of desvenlafaxine, given the cancelled license",
+   "cut": ", given the cancelled license",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 17 張申請有 13 張有效，「已註銷」與事實矛盾；下一步項目本身保留"
+  }
+ ],
+ "dexrazoxane": [
+  {
+   "sentence": "- Confirmation of the original approved indication and a review of the current US market status (marketed; all 3 of 3 authorizations valid)",
+   "cut": " (marketed; all 3 of 3 authorizations valid)",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 6 張申請（4 有效、2 停產），「3 張都有效」與事實不符"
+  }
+ ],
+ "difluprednate": [
+  {
+   "sentence": "Three more authorizations (Mylan, Amneal and Dr. Reddy's) are also cancelled, for a total of 8",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 9 張申請有 8 張有效，「另 3 張註銷、共 8 張」與事實不符"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with all 8 of 8 licenses valid",
+   "cut": ", with all 8 of 8 licenses valid",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 9 張申請有 8 張有效，「8 張中 8 張」與事實不符"
+  }
+ ],
+ "diroximel_fumarate": [
+  {
+   "sentence": "There are no trials or publications, the mechanism data are incomplete, and the US license is cancelled",
+   "cut": ", and the US license is cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 2 張申請都有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "dronabinol": [
+  {
+   "sentence": "Of the records listed, 2 are valid and 2 are cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），重排後表上 5 列（2 有效、3 停產），本藥共 7 張；「2 有效 2 註銷」與事實不符"
+  },
+  {
+   "sentence": "This list may be partial",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），依成分比對的申請號是完整清單，不是部分紀錄"
+  }
+ ],
+ "dronedarone": [
+  {
+   "sentence": "Conflicting safety signals from PALLAS, a cancelled US NDA, and missing label safety data add to the uncertainty",
+   "cut": ", a cancelled US NDA",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），Multaq 的 NDA022425 有效（本藥 2 張申請 1 張有效），「NDA 已註銷」與事實矛盾"
+  },
+  {
+   "sentence": "- Clarification of why the US NDA is cancelled and the current market status",
+   "cut": "why the US NDA is cancelled and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），Multaq 的 NDA 有效，「NDA 已註銷」與事實矛盾"
+  }
+ ],
+ "droxidopa": [
+  {
+   "sentence": "Ten authorizations are listed in total (all oral capsules, all cancelled); the five above are shown as the main ones",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 17 張申請有 12 張有效，「共 10 張、全部註銷」與事實不符"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 10 valid licenses, but package insert safety data are missing",
+   "cut": " with 10 valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 12 張有效申請，「10 張」與事實不符"
+  }
+ ],
+ "dutasteride": [
+  {
+   "sentence": "Two more cancelled ANDAs (ANDA209909 and ANDA202660, both A-S Medication Solutions) are also on record",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），ANDA209909、ANDA202660 在 Drugs@FDA 都有效，不是註銷"
+  },
+  {
+   "sentence": "The drug is marketed, with 7 valid authorizations",
+   "cut": ", with 7 valid authorizations",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 25 張申請有 14 張有效，「7 張」與事實不符"
+  },
+  {
+   "sentence": "Dutasteride is currently marketed in the US, with 7 valid authorizations",
+   "cut": ", with 7 valid authorizations",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 14 張有效申請，「7 張」與事實不符"
+  },
+  {
+   "sentence": "- Clarification of the regulatory and market status of the 7 valid US licenses",
+   "cut": " of the 7 valid US licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 14 張有效申請，「7 張」與事實不符"
+  }
+ ],
+ "edaravone": [
+  {
+   "sentence": "All four authorizations are injectable products and all are currently cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 9 張申請有 5 張有效，「4 張全部註銷」與事實不符"
+  },
+  {
+   "sentence": "In addition, the drug is marketed in the US with all 4 of 4 authorizations valid, and package insert safety data could not be obtained",
+   "cut": " with all 4 of 4 authorizations valid",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 9 張申請有 5 張有效，「4 張中 4 張」與事實不符"
+  }
+ ],
+ "erdafitinib": [
+  {
+   "sentence": "- Clarification of the cancelled US market status",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「市場狀態已註銷」與事實矛盾（整項就是這件事）"
+  }
+ ],
+ "esketamine": [
+  {
+   "sentence": "The US license is cancelled, and label safety data and mechanism data are missing",
+   "cut": "The US license is cancelled, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾"
+  },
+  {
+   "sentence": "- Clarification of the cancelled US license status and the approved indication",
+   "cut": "the cancelled US license status and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥申請有效，「已註銷」與事實矛盾；適應症項目保留"
+  }
+ ],
+ "estradiol_cypionate": [
+  {
+   "sentence": "The drug is also cancelled-only in the US market",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 6 張申請有 1 張有效，「只有註銷」與事實矛盾"
+  },
+  {
+   "sentence": "- Confirmation of an available marketed estradiol product and route, since this license is cancelled",
+   "cut": ", since this license is cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥有 1 張有效申請，「已註銷」與事實矛盾"
+  }
+ ],
+ "eteplirsen": [
+  {
+   "sentence": "- Clarification of the cancelled NDA206488 status and the current US marketing position",
+   "cut": "the cancelled NDA206488 status and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），NDA206488 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "evolocumab": [
+  {
+   "sentence": "The US BLA is also listed as cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），BLA125522 有效，「已註銷」與事實矛盾"
+  },
+  {
+   "sentence": "- Clarification of the cancelled US regulatory status of BLA125522",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），BLA125522 有效（整項就是這件事）"
+  }
+ ],
+ "fedratinib": [
+  {
+   "sentence": "The prediction is supported only by the TxGNN model score (evidence level L5), with no clinical trials or publications, a weak mechanistic link to mTOR-driven PEComa biology, and a cancelled US NDA",
+   "cut": ", and a cancelled US NDA",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「NDA 已註銷」與事實矛盾"
+  }
+ ],
+ "fenfluramine": [
+  {
+   "sentence": "- Clarification of the cancelled NDA status and the current regulatory pathway",
+   "cut": "the cancelled NDA status and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 2 張申請都有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "fentanyl": [
+  {
+   "sentence": "Fentanyl also carries high risks of respiratory depression, dependence and abuse, and it is marketed in the US with six valid authorizations",
+   "cut": " with six valid authorizations",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 39 張申請有 9 張有效，「6 張」與事實不符"
+  },
+  {
+   "sentence": "- A risk-benefit assessment given the abuse liability and the cancelled market status",
+   "cut": " and the cancelled market status",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥有 9 張有效申請，「市場狀態已註銷」與事實矛盾"
+  }
+ ],
+ "fexofenadine": [
+  {
+   "sentence": "Five valid licenses are on record in the compiled data, and the drug is marketed",
+   "cut": "Five valid licenses are on record in the compiled data, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 36 張申請有 26 張有效，「5 張」與事實不符；上市說法保留"
+  },
+  {
+   "sentence": "There are no clinical trials or publications, the mechanistic link to rosacea-associated conjunctivitis is weak, and the drug is marketed with five valid US licenses in the data",
+   "cut": " with five valid US licenses in the data",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 26 張有效申請，「5 張」與事實不符"
+  }
+ ],
+ "flavoxate": [
+  {
+   "sentence": "The US license is cancelled, and key safety and mechanism data are missing",
+   "cut": "The US license is cancelled, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 4 張申請有 2 張有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "flecainide": [
+  {
+   "sentence": "The list may be partial",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），依成分比對的申請號是完整清單，不是部分紀錄"
+  }
+ ],
+ "floxuridine": [
+  {
+   "sentence": "Both US ANDAs are cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 5 張申請有 2 張有效，「兩張 ANDA 都註銷」與事實矛盾"
+  },
+  {
+   "sentence": "- Confirmation of the current availability of floxuridine in the US, since both ANDAs are cancelled",
+   "cut": ", since both ANDAs are cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥有 2 張有效申請，「都註銷」與事實矛盾"
+  }
+ ],
+ "fludrocortisone": [
+  {
+   "sentence": "The US market status is \"Cancelled only\", and key label safety data are missing",
+   "cut": "The US market status is \"Cancelled only\", and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 8 張申請有 4 張有效，「只有註銷」與事實矛盾"
+  }
+ ],
+ "fluocinolone_acetonide": [
+  {
+   "sentence": "At least 17 US authorizations are recorded, and the list below may be partial",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 80 張申請（完整，不是部分紀錄），「至少 17 張、可能不完整」與事實不符"
+  },
+  {
+   "sentence": "Of these, 15 are valid and 2 are cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 80 張申請有 34 張有效，「15 有效 2 註銷」與事實不符"
+  }
+ ],
+ "fomepizole": [
+  {
+   "sentence": "The drug is marketed in the US, with 4 of 4 licenses valid",
+   "cut": ", with 4 of 4 licenses valid",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 6 張申請（4 有效、2 停產），「4 張中 4 張」與事實不符"
+  }
+ ],
+ "fosinopril": [
+  {
+   "sentence": "All four authorizations are single-ingredient oral tablets and all are cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 22 張申請有 8 張有效，「4 張全部註銷」與事實不符"
+  },
+  {
+   "sentence": "- Clarification of the regulatory status, since the drug is marketed and 4 US licenses are valid",
+   "cut": ", since the drug is marketed and 4 US licenses are valid",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 8 張有效申請，「4 張」與事實不符"
+  }
+ ],
+ "fremanezumab": [
+  {
+   "sentence": "The US license record is cancelled, and package-insert safety information is missing, so safety screening cannot proceed yet",
+   "cut": "The US license record is cancelled, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "givosiran": [
+  {
+   "sentence": "The US NDA is also listed as cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 NDA 有效，「已註銷」與事實矛盾"
+  },
+  {
+   "sentence": "- Clarification of the cancelled NDA status and the current availability of the product",
+   "cut": "the cancelled NDA status and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 NDA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "hemin": [
+  {
+   "sentence": "The product's US license is cancelled, and hemin's known coagulation effects raise safety concerns for bleeding and platelet disorders",
+   "cut": "The product's US license is cancelled, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾；凝血作用的安全說法保留"
+  }
+ ],
+ "iloperidone": [
+  {
+   "sentence": "The licence data shows both authorizations as cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 4 張申請有 1 張有效，「兩張都註銷」與事實不符"
+  },
+  {
+   "sentence": "This conflict should be reconciled against the current FDA record",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），指的是被刪掉的「許可資料顯示兩張都已註銷」；本藥 4 張申請有 1 張有效，該矛盾已不存在，一併刪除"
+  },
+  {
+   "sentence": "However, the 2026 literature describes iloperidone as approved in the USA for schizophrenia (2009) and acute bipolar I disorder (2024)",
+   "cut": "However, ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），「However」對比的是被刪掉的「兩張都已註銷」；只刪這個轉折詞，文獻說法保留"
+  },
+  {
+   "sentence": "This is subject to the licence-status discrepancy and the evidence-level check",
+   "cut": "the licence-status discrepancy and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），許可狀態的矛盾來自舊資料（本藥有有效申請），只刪這個子句，證據等級檢查保留"
+  }
+ ],
+ "imiglucerase": [
+  {
+   "sentence": "An approved, disease-specific therapy (laronidase) already exists, and the US license for Cerezyme is listed as cancelled",
+   "cut": ", and the US license for Cerezyme is listed as cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），Cerezyme 的 BLA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "insulin_detemir": [
+  {
+   "sentence": "- Confirmation of the reason for cancellation and of current product availability in the US",
+   "cut": "the reason for cancellation and of ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 2 張申請都有效，沒有「註銷」"
+  }
+ ],
+ "insulin_glulisine": [
+  {
+   "sentence": "Note that the US market status is \"Cancelled only,\" so product availability should be verified before any recommendation",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「只有註銷」與事實矛盾；刪後只剩懸空的 so 子句，整句刪"
+  }
+ ],
+ "interferon_gamma-1b": [
+  {
+   "sentence": "In addition, the US licenses are cancelled and label safety information is missing",
+   "cut": "the US licenses are cancelled and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "isoniazid": [
+  {
+   "sentence": "Two more cancelled authorizations are not shown: ANDA040648 (Sandoz, injection solution) and ANDA089776 (Chartwell RX, tablet)",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 48 張申請有 43 張停產；句中點名的 ANDA040648 有效，「另 2 張註銷」與事實不符"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 7 of 7 licenses valid",
+   "cut": ", with 7 of 7 licenses valid",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 48 張申請有 5 張有效，「7 張中 7 張」與事實不符"
+  },
+  {
+   "sentence": "- Confirmation of current US market availability (7 of 7 licenses are valid)",
+   "cut": " (7 of 7 licenses are valid)",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 5 張有效申請，「7 張中 7 張」與事實不符"
+  }
+ ],
+ "istradefylline": [
+  {
+   "sentence": "- Clarification of the NDA cancellation status and of the route and formulation needs for this patient population (an oral tablet is the only known form)",
+   "cut": "the NDA cancellation status and of ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 NDA 有效，沒有「註銷」"
+  }
+ ],
+ "ketamine": [
+  {
+   "sentence": "Ketamine is an injectable drug marketed in the United States under the brand Ketalar and several generic labels, but all six U.S. authorizations in the data compiled for this report are now listed as cancelled",
+   "cut": ", but all six U.S. authorizations in the data compiled for this report are now listed as cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 12 張申請有 8 張有效，「6 張全部註銷」與事實不符"
+  },
+  {
+   "sentence": "The drug is marketed in the U.S., and all six authorizations are listed as valid in the data compiled for this report",
+   "cut": ", and all six authorizations are listed as valid in the data compiled for this report.",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 12 張申請（8 有效、4 停產），「6 張都有效」與事實不符（連句號一起刪，句子留「in the U.S.」的縮寫句點收尾）"
+  },
+  {
+   "sentence": "In addition, all U.S. authorizations are cancelled and the package insert safety data is missing, which blocks safety screening",
+   "cut": "all U.S. authorizations are cancelled and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥有 8 張有效申請，「全部註銷」與事實矛盾"
+  },
+  {
+   "sentence": "- Clarification of the current U.S. regulatory and supply status, given that the drug is marketed with 6 valid authorizations",
+   "cut": ", given that the drug is marketed with 6 valid authorizations",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 8 張有效申請，「6 張」與事實不符"
+  }
+ ],
+ "ketoprofen": [
+  {
+   "sentence": "Both products are oral formulations, and neither has a currently valid license",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 15 張申請有 3 張有效，「兩個產品都沒有有效許可」與事實不符"
+  },
+  {
+   "sentence": "- A review of regulatory and commercial feasibility, given that the drug is currently marketed in the US (2 of 2 licenses valid)",
+   "cut": " (2 of 2 licenses valid)",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 15 張申請有 3 張有效，「2 張中 2 張」與事實不符"
+  }
+ ],
+ "laronidase": [
+  {
+   "sentence": "The US license is also listed as cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "lifitegrast": [
+  {
+   "sentence": "The topical ocular formulation has no clear delivery route to fibrotic tissue, and both US licenses are currently cancelled",
+   "cut": ", and both US licenses are currently cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 4 張申請有 1 張有效，「兩張都註銷」與事實不符"
+  }
+ ],
+ "linaclotide": [
+  {
+   "sentence": "The marketed US product is also listed as cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），Linzess 的 NDA202811 有效，「已註銷」與事實矛盾"
+  },
+  {
+   "sentence": "- Clarification of the current US regulatory status of linaclotide, since the listed NDA is cancelled",
+   "cut": ", since the listed NDA is cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），Linzess 的 NDA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "lonafarnib": [
+  {
+   "sentence": "The US license is also cancelled, and the package insert safety data is missing, which blocks safety screening",
+   "cut": "The US license is also cancelled, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），Zokinvy 的 NDA213969 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "lorlatinib": [
+  {
+   "sentence": "- Clarification of the cancelled NDA status and the approved indication text",
+   "cut": "the cancelled NDA status and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 NDA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "lubiprostone": [
+  {
+   "sentence": "The drug is marketed in the US, with 4 valid licenses",
+   "cut": ", with 4 valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 8 張申請有 7 張有效，「4 張」與事實不符"
+  }
+ ],
+ "lurbinectedin": [
+  {
+   "sentence": "- Clarification of the cancelled license status",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥申請有效（整項就是這件事）"
+  },
+  {
+   "sentence": "There are no clinical trials or publications, the original indication and mechanism data are missing, and the US license is cancelled",
+   "cut": ", and the US license is cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "lusutrombopag": [
+  {
+   "sentence": "- Confirm whether the drug can be obtained, given the cancelled US authorization",
+   "cut": ", given the cancelled US authorization",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "metformin": [
+  {
+   "sentence": "The drug is marketed, with 14 valid authorizations, and the data compiled for this report contains no approved-indication text",
+   "cut": ", with 14 valid authorizations",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 174 張申請有 102 張有效，「14 張」與事實不符"
+  },
+  {
+   "sentence": "- Confirmation of current US marketing status, since the data lists 14 valid authorizations",
+   "cut": ", since the data lists 14 valid authorizations",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 102 張有效申請，「14 張」與事實不符"
+  }
+ ],
+ "methohexital": [
+  {
+   "sentence": "In addition, no US license for methohexital is currently valid, and label safety information is missing",
+   "cut": "no US license for methohexital is currently valid, and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 2 張申請都有效，「沒有有效許可」與事實矛盾"
+  },
+  {
+   "sentence": "- Clarification of the original approved indication and the cancelled license status",
+   "cut": " and the cancelled license status",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 2 張申請都有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "methoxy_polyethylene_glycol-epoetin_beta": [
+  {
+   "sentence": "- Clarification of the regulatory and supply status given the cancelled license",
+   "cut": " given the cancelled license",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），Mircera 的 BLA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "metreleptin": [
+  {
+   "sentence": "The US license is also cancelled, and package-insert safety data are missing",
+   "cut": "The US license is also cancelled, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾"
+  },
+  {
+   "sentence": "- Clarification of the cancelled US license status and its implications for access and development",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥申請有效；刪掉矛盾子句後只剩失去指涉的「its」，整項刪"
+  }
+ ],
+ "mirtazapine": [
+  {
+   "sentence": "Seven licenses were found in total; the five above are shown",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 26 張申請，「共 7 張」與事實不符"
+  },
+  {
+   "sentence": "All are oral products, and all are cancelled",
+   "cut": ", and all are cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），重排後表上 5 列都有效，「全部註銷」與事實矛盾；口服劑型說法保留"
+  },
+  {
+   "sentence": "In addition, mirtazapine is marketed in the US with 7 valid licenses, and the safety data are incomplete",
+   "cut": " with 7 valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 26 張申請有 14 張有效，「7 張」與事實不符"
+  }
+ ],
+ "misoprostol": [
+  {
+   "sentence": "The drug is marketed in the US with five valid licenses, but mechanism and label safety data are missing",
+   "cut": " with five valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 13 張申請有 8 張有效，「5 張」與事實不符"
+  },
+  {
+   "sentence": "- Confirmation of current US availability and licensing status, given that the drug is marketed with five valid licenses",
+   "cut": ", given that the drug is marketed with five valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 8 張有效申請，「5 張」與事實不符"
+  }
+ ],
+ "molindone": [
+  {
+   "sentence": "- Assessment of reformulation or re-marketing feasibility given the cancelled license",
+   "cut": " given the cancelled license",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 3 張申請有 1 張有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "mometasone": [
+  {
+   "sentence": "The drug is marketed in the US with 4 valid licenses, but the available products are nasal sprays, which are not suited to skin-directed therapy",
+   "cut": [
+    " with 4 valid licenses",
+    ", but the available products are nasal sprays, which are not suited to skin-directed therapy"
+   ],
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 35 張申請有 20 張有效，且含乳膏、軟膏、乳液等外用劑型；「4 張」「只有鼻噴劑」與事實不符"
+  },
+  {
+   "sentence": "- Assessment of route and formulation compatibility (topical versus the nasal spray forms in the data) and of the regulatory and commercial implications of the cancelled status",
+   "cut": [
+    " (topical versus the nasal spray forms in the data)",
+    " and of the regulatory and commercial implications of the cancelled status"
+   ],
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥有外用劑型、20 張有效申請；「資料裡只有鼻噴劑」「已註銷」與事實不符；評估項目本身保留"
+  }
+ ],
+ "nadolol": [
+  {
+   "sentence": "Six valid licenses are currently on record, and the drug is marketed",
+   "cut": "Six valid licenses are currently on record, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 18 張申請有 10 張有效，「6 張」與事實不符"
+  },
+  {
+   "sentence": "Acute management of malignant hypertension relies on other agents, and nadolol is currently marketed in the US with 6 valid licenses",
+   "cut": " with 6 valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 10 張有效申請，「6 張」與事實不符"
+  },
+  {
+   "sentence": "- Clarification of the US regulatory status, given that the drug is marketed with 6 valid licenses",
+   "cut": ", given that the drug is marketed with 6 valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 10 張有效申請，「6 張」與事實不符"
+  }
+ ],
+ "nafarelin": [
+  {
+   "sentence": "- Confirmation of current regulatory and supply status, given that the NDA is cancelled",
+   "cut": ", given that the NDA is cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 NDA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "nortriptyline": [
+  {
+   "sentence": "- Regulatory pathway assessment, since the drug is marketed in the US with 4 valid licenses",
+   "cut": " with 4 valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 15 張申請有 5 張有效，「4 張」與事實不符"
+  }
+ ],
+ "obiltoxaximab": [
+  {
+   "sentence": "- Clarification of the cancelled US regulatory status and the route of administration needed for the new indication",
+   "cut": "the cancelled US regulatory status and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 BLA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "omidenepag_isopropyl": [
+  {
+   "sentence": "- Clarification of the cancelled NDA status and the reasons for it",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 NDA 有效（整項就是這件事）"
+  }
+ ],
+ "palonosetron": [
+  {
+   "sentence": "The drug is marketed in the US, with 14 valid licenses in the data",
+   "cut": ", with 14 valid licenses in the data",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 25 張申請有 17 張有效，「14 張」與事實不符"
+  }
+ ],
+ "parathyroid_hormone": [
+  {
+   "sentence": "Parathyroid hormone (PTH) is a recombinant hormone product (NATPARA) that was formerly marketed as an injectable in the United States",
+   "cut": " that was formerly marketed as an injectable in the United States",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），NATPARA 的 BLA125511 在 Drugs@FDA 有效，「過去曾上市」與事實不符；產品名稱保留"
+  }
+ ],
+ "peginterferon_alfa-2a": [
+  {
+   "sentence": "The only US license on record (Pegasys, BLA103964) is cancelled, so product availability and local regulatory status must be confirmed before any use",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），Pegasys 的 BLA103964 有效，「已註銷」與事實矛盾；刪後只剩懸空的 so 子句，整句刪"
+  },
+  {
+   "sentence": "The main caution is regulatory",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），這句是被刪掉的「唯一許可 BLA103964 已註銷」一句的引言，該句刪除後失去指涉，一併刪除（Pegasys 的 BLA 有效）"
+  }
+ ],
+ "pegloticase": [
+  {
+   "sentence": "- Clarification of current availability, given the cancelled US license status",
+   "cut": ", given the cancelled US license status",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 BLA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "pegvaliase": [
+  {
+   "sentence": "- Clarification of the regulatory status of the cancelled BLA and its approved indication text",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 BLA 有效；刪掉矛盾子句後只剩失去指涉的「its」，整項刪"
+  }
+ ],
+ "pemetrexed": [
+  {
+   "sentence": "Both listed NDAs are cancelled, so availability depends on other pemetrexed products not captured in these records",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 30 張申請有 22 張有效，「兩張 NDA 都註銷」與事實矛盾"
+  },
+  {
+   "sentence": "- Confirmation of a currently marketed US pemetrexed product, since both listed NDAs are cancelled",
+   "cut": ", since both listed NDAs are cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥有 22 張有效申請，「都註銷」與事實矛盾"
+  }
+ ],
+ "pentostatin": [
+  {
+   "sentence": "The US license is cancelled, and the knowledge graph shows substantial hematologic, hepatic, and renal safety concerns",
+   "cut": "The US license is cancelled, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 3 張申請有 2 張有效，「已註銷」與事實矛盾"
+  },
+  {
+   "sentence": "- Clarification of whether the cancelled US status affects drug supply or formulation availability, and of route compatibility, which is currently pending",
+   "cut": "whether the cancelled US status affects drug supply or formulation availability, and of ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥有有效申請，「已註銷」與事實矛盾；給藥途徑項目保留"
+  }
+ ],
+ "pertuzumab": [
+  {
+   "sentence": "In addition, the US license is listed as cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 3 張申請都有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "pexidartinib": [
+  {
+   "sentence": "The evidence level is L5, and the US license is cancelled-only",
+   "cut": ", and the US license is cancelled-only",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「只有註銷」與事實矛盾"
+  },
+  {
+   "sentence": "- A review of regulatory and REMS availability, given the cancelled-only market status",
+   "cut": ", given the cancelled-only market status",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥申請有效，「只有註銷」與事實矛盾"
+  }
+ ],
+ "phenytoin": [
+  {
+   "sentence": "The drug is marketed in the US with 8 valid licenses; the table shows the first 5",
+   "cut": " with 8 valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 43 張申請有 13 張有效，「8 張」與事實不符"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 8 valid licenses",
+   "cut": " with 8 valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 43 張申請有 13 張有效，「8 張」與事實不符"
+  },
+  {
+   "sentence": "- Clarification of current US marketing status, since 8 valid licenses are listed",
+   "cut": ", since 8 valid licenses are listed",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 13 張有效申請，「8 張」與事實不符"
+  }
+ ],
+ "pimozide": [
+  {
+   "sentence": "The US product is cancelled, and pimozide carries significant QT-related cardiac risk and a heavy interaction burden",
+   "cut": "The US product is cancelled, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 3 張申請有 2 張有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "pitolisant": [
+  {
+   "sentence": "- Clarification of why the US Wakix licence (NDA211150) is recorded as cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），Wakix 的 NDA211150 有效（整項就是這件事）"
+  }
+ ],
+ "plecanatide": [
+  {
+   "sentence": "The US license is also recorded as cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），Trulance 的 NDA 有效，「已註銷」與事實矛盾"
+  },
+  {
+   "sentence": "- Clarification of the cancelled NDA status and the approved indication text",
+   "cut": "the cancelled NDA status and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 NDA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "plerixafor": [
+  {
+   "sentence": "The five shown are the original brand NDA and four generic ANDAs",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），重排後表上 5 列都是 ANDA（有效在前），「1 張原廠 NDA＋4 張 ANDA」與表格不符"
+  }
+ ],
+ "polidocanol": [
+  {
+   "sentence": "- Clarification of product availability, given the cancelled US license",
+   "cut": ", given the cancelled US license",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 2 張申請都有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "posaconazole": [
+  {
+   "sentence": "The drug is marketed in the US, with 14 valid licenses",
+   "cut": ", with 14 valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 26 張申請有 23 張有效，「14 張」與事實不符"
+  },
+  {
+   "sentence": "- Confirmation of the regulatory status of the 14 valid US licenses",
+   "cut": " of the 14 valid US licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 23 張有效申請，「14 張」與事實不符"
+  }
+ ],
+ "pralatrexate": [
+  {
+   "sentence": "- Clarification of the regulatory and commercial status of the cancelled US licenses",
+   "cut": " of the cancelled US licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 2 張申請都有效，沒有「註銷的許可」"
+  }
+ ],
+ "pretomanid": [
+  {
+   "sentence": "In addition, the US NDA is recorded as cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 NDA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "prilocaine": [
+  {
+   "sentence": "Its only US authorization on record is a dental injectable",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 16 張申請（9 有效），「唯一一張」與事實不符"
+  }
+ ],
+ "primidone": [
+  {
+   "sentence": "Three more cancelled ANDAs (083551, 218366, 084903) are not shown",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 12 張申請（8 有效、4 停產），重排後表格已依新資料列出，「另 3 張註銷未列」與事實不符"
+  },
+  {
+   "sentence": "All 8 authorizations in the data compiled for this report are cancelled, and none contains approved indication text",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 8 張有效申請，「8 張全部註銷」與事實矛盾；刪後只剩失去指涉的「none」，整句刪"
+  }
+ ],
+ "procainamide": [
+  {
+   "sentence": "Procainamide also carries significant safety signals (QT prolongation, blood dyscrasias, drug-induced lupus), and it is marketed in the US with 5 valid licenses of 5",
+   "cut": " with 5 valid licenses of 5",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 78 張申請有 5 張有效，「5 張中 5 張」與事實不符"
+  },
+  {
+   "sentence": "- A review of the commercial availability of the drug, which is marketed in the US (5 valid licenses of 5)",
+   "cut": " (5 valid licenses of 5)",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 78 張申請有 5 張有效，「5 張中 5 張」與事實不符"
+  }
+ ],
+ "procarbazine": [
+  {
+   "sentence": "The US license is cancelled, the mechanism of action is unavailable, and the safety profile (myelosuppression, carcinogenicity, interactions) calls for caution",
+   "cut": "The US license is cancelled, ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "propylthiouracil": [
+  {
+   "sentence": "All five authorizations are oral tablets and all are listed as cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 16 張申請有 4 張有效，「5 張全部註銷」與事實不符"
+  }
+ ],
+ "protriptyline": [
+  {
+   "sentence": "Limited safety data, a heavy interaction burden, and cancelled-only US market status further limit feasibility",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 6 張申請有 2 張有效，「只有註銷」與事實矛盾；只刪這個子句會留下不成句的列舉，整句刪"
+  },
+  {
+   "sentence": "- A plan for drug supply and regulatory pathway, given that both US authorizations are cancelled",
+   "cut": ", given that both US authorizations are cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥有 2 張有效申請，「兩張都註銷」與事實矛盾"
+  }
+ ],
+ "ramipril": [
+  {
+   "sentence": "- Assessment of whether a pulmonary vascular indication is feasible given the current market status (marketed, 6 valid licences)",
+   "cut": " (marketed, 6 valid licences)",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 20 張申請有 8 張有效，「6 張」與事實不符"
+  },
+  {
+   "sentence": "There are no clinical trials, no ramipril-specific human evidence in pulmonary hypertension, and the drug is marketed with 6 valid licences",
+   "cut": " with 6 valid licences",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 8 張有效申請，「6 張」與事實不符"
+  }
+ ],
+ "raxibacumab": [
+  {
+   "sentence": "- Clarification of the cancelled US license status and product availability",
+   "cut": "the cancelled US license status and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 BLA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "regorafenib": [
+  {
+   "sentence": "The US NDA is also recorded as cancelled, and label warnings are unavailable",
+   "cut": "The US NDA is also recorded as cancelled, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 3 張申請有 2 張有效，「NDA 已註銷」與事實矛盾"
+  }
+ ],
+ "reslizumab": [
+  {
+   "sentence": "- Clarification of current regulatory status, given the cancelled US license, and route compatibility (injectable only)",
+   "cut": ", given the cancelled US license,",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 BLA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "rimegepant": [
+  {
+   "sentence": "- Verify the current US market status of NURTEC ODT (NDA212728) and the reason it is recorded as cancelled",
+   "cut": " and the reason it is recorded as cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），NURTEC ODT 的 NDA212728 有效，「已註銷」與事實矛盾"
+  },
+  {
+   "sentence": "No trial or publication addresses brainstem aura specifically, and the US NDA is recorded as cancelled, which needs verification",
+   "cut": ", and the US NDA is recorded as cancelled, which needs verification",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），NDA212728 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "rotigotine": [
+  {
+   "sentence": "- Clarification of the regulatory and formulation situation, given the cancelled US license",
+   "cut": ", given the cancelled US license",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "selinexor": [
+  {
+   "sentence": "- Confirmation of the original approved indication and the reason for the NDA cancellation",
+   "cut": " and the reason for the NDA cancellation",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 NDA 有效，沒有「註銷」"
+  }
+ ],
+ "siltuximab": [
+  {
+   "sentence": "- A decision on product availability, since the Sylvant license is cancelled",
+   "cut": ", since the Sylvant license is cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），Sylvant 的 BLA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "sincalide": [
+  {
+   "sentence": "Both US licenses are cancelled, and safety and mechanism data are incomplete",
+   "cut": "Both US licenses are cancelled, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 2 張申請都有效，「兩張都註銷」與事實矛盾"
+  }
+ ],
+ "sonidegib": [
+  {
+   "sentence": "The US authorization is cancelled, and the pediatric safety and brain-penetration concerns are significant",
+   "cut": "The US authorization is cancelled, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "spironolactone": [
+  {
+   "sentence": "Eight US authorizations are listed as valid, and no approved indication text was available for them",
+   "cut": "Eight US authorizations are listed as valid, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 48 張申請有 18 張有效，「8 張」與事實不符；缺適應症文字的說法保留"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 8 valid licenses",
+   "cut": ", with 8 valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 18 張有效申請，「8 張」與事實不符"
+  },
+  {
+   "sentence": "- Clarification of current US marketing status, since the drug is marketed with 8 valid licenses",
+   "cut": ", since the drug is marketed with 8 valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 18 張有效申請，「8 張」與事實不符"
+  }
+ ],
+ "sucralfate": [
+  {
+   "sentence": "The drug is marketed in the US with 9 valid licenses",
+   "cut": " with 9 valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 17 張申請有 14 張有效，「9 張」與事實不符"
+  },
+  {
+   "sentence": "- Clarification of the regulatory and marketing status in the US, where the drug is marketed with 9 valid licenses",
+   "cut": ", where the drug is marketed with 9 valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 14 張有效申請，「9 張」與事實不符"
+  }
+ ],
+ "sulfadiazine": [
+  {
+   "sentence": "Established alternatives already exist, and both US licenses are cancelled, which limits practical availability",
+   "cut": ", and both US licenses are cancelled, which limits practical availability",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 8 張申請有 1 張有效，「兩張都註銷」與事實不符"
+  },
+  {
+   "sentence": "- Assessment of current US availability, given that both licenses are cancelled",
+   "cut": ", given that both licenses are cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥有 1 張有效申請，「兩張都註銷」與事實不符"
+  }
+ ],
+ "tafenoquine": [
+  {
+   "sentence": "In addition, no US license for tafenoquine is currently valid, and label safety data are missing",
+   "cut": "no US license for tafenoquine is currently valid, and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 2 張申請都有效，「沒有有效許可」與事實矛盾"
+  },
+  {
+   "sentence": "- Clarification of the regulatory and commercial status of the cancelled NDAs",
+   "cut": " of the cancelled NDAs",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 2 張 NDA 都有效，沒有「註銷的 NDA」"
+  }
+ ],
+ "taliglucerase_alfa": [
+  {
+   "sentence": "The only US authorization is Pfizer's ELELYSO, and it has a cancelled status",
+   "cut": ", and it has a cancelled status",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），ELELYSO 的 BLA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "technetium_tc-99m_sestamibi": [
+  {
+   "sentence": "- Confirmation of whether other marketed sestamibi products exist beyond the three valid US licenses",
+   "cut": " beyond the three valid US licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 5 張申請有 4 張有效，「3 張」與事實不符"
+  }
+ ],
+ "telotristat_ethyl": [
+  {
+   "sentence": "- Clarification of the cancelled US market status and route compatibility for the new indication",
+   "cut": "the cancelled US market status and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），Xermelo 的 NDA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "thioridazine": [
+  {
+   "sentence": "Thioridazine is a phenothiazine antipsychotic whose US licences are now all cancelled",
+   "cut": " whose US licences are now all cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 81 張申請有 1 張有效，「全部註銷」與事實不符"
+  },
+  {
+   "sentence": "All six licences are oral single-ingredient products",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 81 張申請，「共 6 張」與事實不符"
+  }
+ ],
+ "thyrotropin_alfa": [
+  {
+   "sentence": "- Clarification of the current regulatory status of the cancelled BLA and its original approved indication",
+   "cut": " of the cancelled BLA and its original approved indication",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 BLA 有效，「已註銷」與事實矛盾；下一步項目本身保留"
+  }
+ ],
+ "tildrakizumab": [
+  {
+   "sentence": "- Clarification of the route of administration, since a systemic antibody may not suit an ocular indication, and of the regulatory implications of the cancelled license status",
+   "cut": ", and of the regulatory implications of the cancelled license status",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），ILUMYA 的 BLA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "tivozanib": [
+  {
+   "sentence": "The NDA is currently listed as cancelled in the compiled data, so its present marketing status should be confirmed",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 NDA 有效，「已註銷」與事實矛盾；刪後只剩懸空的 so 子句，整句刪"
+  }
+ ],
+ "toremifene": [
+  {
+   "sentence": "- Clarification of the original approved indication and of the commercial availability of toremifene, which is marketed in the US with 3 of 3 licenses valid",
+   "cut": " with 3 of 3 licenses valid",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 3 張申請有 2 張有效，「3 張中 3 張」與事實不符"
+  },
+  {
+   "sentence": "There are no clinical trials, the evidence level is L5, and the drug is marketed in the US with 3 of 3 licenses valid",
+   "cut": " with 3 of 3 licenses valid",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 3 張申請有 2 張有效，「3 張中 3 張」與事實不符"
+  }
+ ],
+ "trabectedin": [
+  {
+   "sentence": "The US NDA is cancelled, and the FDA label safety review is missing, which blocks safety screening",
+   "cut": "The US NDA is cancelled, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 3 張申請都有效，「NDA 已註銷」與事實矛盾"
+  },
+  {
+   "sentence": "- Clarification of why the US NDA was cancelled, and of route and regulatory feasibility",
+   "cut": "why the US NDA was cancelled, and of ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 NDA 有效，「已註銷」與事實矛盾；給藥途徑與法規可行性項目保留"
+  }
+ ],
+ "triheptanoin": [
+  {
+   "sentence": "The US license is also cancelled, and the key safety labeling is missing",
+   "cut": "The US license is also cancelled, and ",
+   "capitalize": true,
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），DOJOLVI 的 NDA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "valproic_acid": [
+  {
+   "sentence": "Two further cancelled authorizations (ANDA070868, ANDA073229) are not listed",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），句中點名的 ANDA073229 在 Drugs@FDA 有效，不是註銷"
+  },
+  {
+   "sentence": "7 authorizations are currently valid in the compiled data",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 23 張申請有 9 張有效，「7 張」與事實不符"
+  },
+  {
+   "sentence": "Valproic acid is currently marketed in the US, with 7 valid authorizations in the compiled data, but label safety information is missing",
+   "cut": ", with 7 valid authorizations in the compiled data",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 9 張有效申請，「7 張」與事實不符"
+  },
+  {
+   "sentence": "- Confirmation of current US marketing status, since the compiled data lists 7 valid authorizations",
+   "cut": ", since the compiled data lists 7 valid authorizations",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 9 張有效申請，「7 張」與事實不符"
+  }
+ ],
+ "valrubicin": [
+  {
+   "sentence": "Valrubicin's local-delivery design with minimal systemic exposure offers no clear route to colonic disease, and its US authorizations are cancelled",
+   "cut": ", and its US authorizations are cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 2 張申請都有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "venetoclax": [
+  {
+   "sentence": "- Current FDA label information (warnings, contraindications, approved indications) and verification of the \"cancelled\" licence status",
+   "cut": " and verification of the \"cancelled\" licence status",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 3 張申請都有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "viloxazine": [
+  {
+   "sentence": "- Confirmation of the current US marketing and licence status of Qelbree, given that the licence record shows \"cancelled\" while the literature describes it as FDA-approved",
+   "cut": ", given that the licence record shows \"cancelled\" while the literature describes it as FDA-approved",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），Qelbree 的 NDA 有效，「許可紀錄寫已註銷」與事實矛盾"
+  }
+ ],
+ "vismodegib": [
+  {
+   "sentence": "- Confirmation of current drug availability, since the US license is cancelled",
+   "cut": ", since the US license is cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 NDA 有效，「已註銷」與事實矛盾"
+  }
+ ],
+ "zanubrutinib": [
+  {
+   "sentence": "Both US NDAs are also listed as cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 2 張 NDA 有 1 張有效，「兩張都註銷」與事實矛盾"
+  },
+  {
+   "sentence": "- Clarification of the cancelled US NDA status and the approved indication text",
+   "cut": "the cancelled US NDA status and ",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥有有效 NDA，「已註銷」與事實矛盾"
+  }
+ ],
+ "zonisamide": [
+  {
+   "sentence": "Two further generic authorizations (ANDA214492, Unichem; ANDA077869, Exelan) are also cancelled",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），ANDA214492、ANDA077869 在 Drugs@FDA 都有效，不是註銷"
+  },
+  {
+   "sentence": "The drug is marketed in the US with seven valid authorizations",
+   "cut": " with seven valid authorizations",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 21 張申請有 9 張有效，「7 張」與事實不符"
+  },
+  {
+   "sentence": "- Clarification of the US regulatory status, given that the drug is marketed with seven valid licenses",
+   "cut": ", given that the drug is marketed with seven valid licenses",
+   "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 9 張有效申請，「7 張」與事實不符"
   }
  ]
 }

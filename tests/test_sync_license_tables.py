@@ -42,3 +42,11 @@ def test_other_drug_standalone_note_is_not_a_trigger():
     page = PAGE[:2] + ["Arsenic Trioxide as a standalone drug is marketed in the US (Trisenox, NDA 021248)."] + PAGE[1:]
     page = [l for l in page if "NDA050138" not in l]
     assert st.needs_resync(page, TF) == ""
+
+
+def test_row_status_conflict_triggers_resync():
+    page = PAGE[:4] + ["| NDA000002 (cancelled) | NOVOCAIN | Injection | Not specified |"] + PAGE[5:]
+    tf = dict(TF)
+    hits = lambda rows: [("M1", r[0]) for r in rows if "(cancelled)" in r[0]]  # noqa: E731（checker 的 row_status_conflicts 代用）
+    assert st.needs_resync(page, tf) == ""
+    assert st.needs_resync(page, tf, hits).startswith("表格列的狀態字跟事實層不一致")

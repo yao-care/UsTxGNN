@@ -43,7 +43,13 @@ SALT = (r"hydrochloride|hcl|hydrobromide|besylate|besilate|maleate|mesylate|mesi
         r"tosylate|edisylate|pamoate|embonate|stearate|oleate|mandelate|camsylate|xinafoate|furoate|aceponate|hyclate|trometamol|tromethamine|"
         r"arginine|lysine|meglumine|olamine|erbumine|tert butylamine|benzathine|procaine|esylate|napadisilate|hemisulfate|bisulfate|"
         r"monosodium|trisodium|usp|nf|decanoate|enanthate|cypionate|undecanoate|oxalate|dimeglumine|diphosphate|"
-        r"macrocrystalline|microcrystalline|ultramicrocrystalline|microsize|ultramicrosize|micronized|glacial|kit")
+        r"macrocrystalline|microcrystalline|ultramicrocrystalline|microsize|ultramicrosize|micronized|glacial|kit|"
+        # 2026-11-06 補（用戶核准，逐筆查 FDA GSRS；GSRS 的 ACTIVE MOIETY 都是母藥）：
+        # ERYTHROMYCIN ETHYLSUCCINATE（UNII 1014KSJ86F）、ERYTHROMYCIN LACTOBIONATE（33H58I7GLQ）→ Erythromycin 63937KV33D（E.E.S.、Erythrocin）；
+        # Treprostinil Diolamine（H1FKG90039）→ Treprostinil RUM6K67ESG（Orenitram）；
+        # Nilotinib D-tartrate（8URQ2WD9KN）→ Nilotinib F41401512X（NDA218922，NDC 列名成分寫 NILOTINIB）。
+        # 「d tartrate」是 D-tartrate 經 norm() 去連字號後的寫法。polistirex 不放這裡，見 SAME_SUBSTANCE。
+        r"ethylsuccinate|lactobionate|diolamine|d tartrate")
 SALT_RX = re.compile(r"\b(" + SALT + r")\b")
 HYD_RX = re.compile(r"\b(hydrate|monohydrate|dihydrate|trihydrate|tetrahydrate|pentahydrate|hexahydrate|heptahydrate|sesquihydrate|hemihydrate|"
                     r"anhydrous|hydrous|usp|nf|macrocrystalline|microcrystalline|ultramicrocrystalline|microsize|ultramicrosize|micronized|glacial)\b")
@@ -73,6 +79,15 @@ SAME_SUBSTANCE = {
     "anemone pulsatilla": "pulsatilla vulgaris whole", "anemone pulsatilla l": "pulsatilla vulgaris whole",
     "anemone pulsatilla whole": "pulsatilla vulgaris whole", "pulsatilla vulgaris": "pulsatilla vulgaris whole",
     "pulsatilla vulgaris mill": "pulsatilla vulgaris whole",
+    # Drugs@FDA 把 Increlex（BLA021839）的成分寫成 MECASERMIN RECOMBINANT；它的 openFDA unii＝7GR9I2683O（GSRS MECASERMIN），
+    # NDC 列名（15054-1040、71863-216）與 DailyMed（setid a8b27a1b-a611-4f91-ad22-76d4b390c3ae）成分都寫 MECASERMIN（2026-11-06 查）。
+    # MECASERMIN RINFABATE（UNII NZ8M50KKRG，Iplex）是另一個物質，不併。
+    "mecasermin recombinant": "mecasermin",
+    # DEXTROMETHORPHAN POLISTIREX（Delsym NDA018658、ANDA091135 等）：GSRS 是 concept，SUBSTANCE->SUB_CONCEPT Dextromethorphan
+    # （UNII 7355X3ROTS）；Delsym 的 openFDA substance_name＝DEXTROMETHORPHAN（DailyMed setid e3e1d126-76c2-4776-8ce0-449625b7e6ba）。
+    # 只收用戶核准查證的 dextromethorphan；chlorpheniramine／codeine／hydrocodone／pseudoephedrine／phenylpropanolamine 的 polistirex
+    # （Tussionex、Tuzistra、Pseudo-12 等）沒有查證，不併（2026-11-06）。
+    "dextromethorphan polistirex": "dextromethorphan",
 }
 # 不是同一物質（查證過、不要再併）：
 # - 5-METHYLTETRAHYDROFOLIC ACID（UNII TYK22LML8F）≠ LEVOMEFOLATE CALCIUM（UNII A9R10K3F2F）（2026-11-06 查 GSRS）：
@@ -92,7 +107,9 @@ QUAL = re.compile(r"^(dibasic|monobasic|tribasic|conjugated|esterified|glacial|c
 def norm(x):
     t = re.sub(r"\([^)]*\)", " ", str(x or "").lower())  # CAMPHOR (NATURAL)、HYALURONIDASE (HUMAN RECOMBINANT)
     t = re.sub(r"(?<=[a-z0-9]{2})-[a-z]{4}\s*$", "", t)  # 生物相似藥的 4 字母字尾（ustekinumab-auub、ropeginterferon alfa-2b-njft）
-    t = re.sub(r"^(fam|ado)-", "", t)  # fam-trastuzumab deruxtecan、ado-trastuzumab emtansine
+    # fam-trastuzumab deruxtecan、ado-trastuzumab emtansine、ziv-aflibercept（2026-11-06：GSRS 的 ZIV-AFLIBERCEPT 是 Aflibercept
+    # UNII 15C2VL427D 的 SUB_CONCEPT；Zaltrap BLA125418 的 openFDA unii＝15C2VL427D，NDC 列名成分寫 AFLIBERCEPT）
+    t = re.sub(r"^(fam|ado|ziv)-", "", t)
     t = re.sub(r"\bhcl\b", "hydrochloride", t)
     t = " ".join(re.sub(r"[^a-z0-9]+", " ", t).split())
     if t.startswith("insulin "):  # INSULIN SUSP ISOPHANE RECOMBINANT HUMAN → insulin human

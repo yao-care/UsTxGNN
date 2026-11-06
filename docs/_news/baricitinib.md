@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Baricitinib?">
-<strong>Baricitinib</strong> currently has <strong>59 news articles</strong>, with 2 predicted indications.
+<strong>Baricitinib</strong> currently has <strong>57 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page combines the AI-predicted indications for Baricitinib with the latest 
 <p><a href="{{ '/drugs/baricitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (59)
+## Related News (57)
 
 ### [Fitness influencer's vacation getaway takes scary turn after headache leads to ICU - Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxONFBiU09TR0NRYk1KRDlhYklaRHRNN0FOTzhoWklGTUZ3dEktbFhKUDl5RmJQTHdOaTFOUHRGWFpxWm5jV0laSVFMTG83RDlrQS1xYjZKbTF3S2VzWXhsTVd6VE5SdnJnYTRvdTNncnQ5UFBtaC1VVTVTeFNBUWtxeG96MkgtQmpUVWlwbXEwZEFjOE5La1RtRGkyanVKV0RZTHZtTNIBqgFBVV95cUxNeF9MMXBVQjd4eEdnRDZURFJHQXhtcS1lVmF0UVBuR2J1UmpRU1NZMHpwTFBLN1VQcnBhZzR2cUkyXzZDUXNsMnRyRENnTWEyeU5BdUNpOEJpSGtkRDhHckRlMW1Fc3MtQ1ZMNnVBc1ctLUdOdlhaMnc3MzJjZmJ1LWdSNzc2SVVRN0R2MU83NTBhZnJpb25xTWU2V0JrZnllVnhBMGlzdzNEQQ?oc=5)
 
@@ -113,14 +113,6 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMivgFBVV95cUxPbl8w
 2026-11-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjNDSWlLR2pQamhlQW9zSXF4Mm8tOHZQcUFwb1dPVlVTeHlja0NKTVZrdGJweGptNXcxWVVqT1dGeFQycXlONVhWbUt6S3R2ajVNQW1NT1JSbkd6YThWSTVLWXNGYTBXQV9OYW9keTluNlhSdzJxRFRoR1dwRmxma0ZIUQ?oc=5)
-
----
-
-### [NEWSLETTER: New blood test matches gold standard for liver disease diagnosis](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUV3QnBUd2xDX01KQ2JDMGNnZXV4R2NQVFY0ZVRScGRnZ0NaQV9WLS1KY196VnpwRmgteW1LV1FPVFNQbnZhVWRELTQ4OTZEUVc2QTJtd0JNNENORE5iOV9aeGU3TkJmNTJGazUybUpBYWZLZ2M1U01HX3JhTnIxOEVaNGk0QVNaSlBpdzBMSFU4bjJOanVoaGE3TVJEaFdVamFsRFBTaWpZQWxsSXY1RE40V0tPWjBBWHoxc1RsN0k3WTRUMDl3eEFQYjY?oc=5)
-
-2026-11-06 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUV3QnBUd2xDX01KQ2JDMGNnZXV4R2NQVFY0ZVRScGRnZ0NaQV9WLS1KY196VnpwRmgteW1LV1FPVFNQbnZhVWRELTQ4OTZEUVc2QTJtd0JNNENORE5iOV9aeGU3TkJmNTJGazUybUpBYWZLZ2M1U01HX3JhTnIxOEVaNGk0QVNaSlBpdzBMSFU4bjJOanVoaGE3TVJEaFdVamFsRFBTaWpZQWxsSXY1RE40V0tPWjBBWHoxc1RsN0k3WTRUMDl3eEFQYjY?oc=5)
 
 ---
 
@@ -332,6 +324,14 @@ Source: [HuffPost](https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0RlY25J
 
 ---
 
+### [My mom was diagnosed with Alzheimer's at 58. I helped care for her for 20 years and learned 3 important lessons. - Business Insider](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdnFyU0l2T1paOXV5R1BzOTUxWVV3Y0ZTWEgtX0xGamdpOW9DM2pMOUNsRE40SXlvVW5yaVA4eV9aUkpMN1ZSVnBDa3pxcklaaTZqS2I0ZkxOWkJXQU5ZQWdPY1A4NnBHXzJzYzBvM0hGeGRrNFdmRFFiaEw4TU45X1dMR1MxcFpjSFhWVE14RVZKVlZv?oc=5)
+
+2026-11-05 <span class="news-indication-tag">RA</span>
+
+Source: [Business Insider](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdnFyU0l2T1paOXV5R1BzOTUxWVV3Y0ZTWEgtX0xGamdpOW9DM2pMOUNsRE40SXlvVW5yaVA4eV9aUkpMN1ZSVnBDa3pxcklaaTZqS2I0ZkxOWkJXQU5ZQWdPY1A4NnBHXzJzYzBvM0hGeGRrNFdmRFFiaEw4TU45X1dMR1MxcFpjSFhWVE14RVZKVlZv?oc=5)
+
+---
+
 ### [Scientists grow ‘human lens’ that could help treat eye diseases - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdHREX1p4T2lLLXhrWU9fZGFndEQ5LUE4MFQtWTRmN29rdHlidEtWeC02OGRXRDdQS0RVTkZPYm05Zlhxa1hBYmtOc0FYYWN6dm5EY01vMENzaElQaVk2UWRuaWZEdVBiWVVYd1BzdXlaZmlNajNPVExKZ2hPTk1BcWlhY1NRXzhnbExJU0lvT2pwb05OeGJqblFlLXVwcjF2ZVpndk16Yw?oc=5)
 
 2026-11-05 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
@@ -345,14 +345,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdHR
 2026-11-05 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xdVprV3pDSFNwNHNPV2RYVHJmRTFfck1kYm9kcTdaa2FaZ0FzUllMb0ZCMlppLVFIVEk1QnhaZGdBeWEzamw1aEQ0MUo1X3FBYmtCOFRGOVA5S0F2aE9N?oc=5)
-
----
-
-### [Venousization enables angiogenesis in the absence of VEGFR signalling](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mNWVhdVkyM2c2LUFnQjFJYWNNT0FYNXAzQmwydG1vYUpBdXlPWk5wTEtUTUFNNE5aVnczSFkwS1lCamRUM0pLSW5nX0ZmUlgtU0k1ZXA3bnA0Q0JkUTI4?oc=5)
-
-2026-11-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">RA</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mNWVhdVkyM2c2LUFnQjFJYWNNT0FYNXAzQmwydG1vYUpBdXlPWk5wTEtUTUFNNE5aVnczSFkwS1lCamRUM0pLSW5nX0ZmUlgtU0k1ZXA3bnA0Q0JkUTI4?oc=5)
 
 ---
 
@@ -372,17 +364,9 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEUXAyMnRtYW
 
 ---
 
-### [Muscle health is key to longevity. Here’s how to measure yours. - NBC News](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1dsUE1FSlFleEhjZDBPVEgzSS05SFNsODZkcVFVZmEwdnZNNGZHbG1zMHBtNHFiVDlfWWVJZFNCYnBDZmZUUDd6ejFWRHk2SUhsNnNNWjlhamFHWXpCX01SXzZBUlhZZXY5dXg5RW5RMDRRcmY0Z2xRRDJtTjNjeFZicjNKcC1qc1hsREtaakpzNk85djl2aTBWOUg2NFlKZFE?oc=5)
-
-2026-11-04 <span class="news-indication-tag">RA</span>
-
-Source: [NBC News](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1dsUE1FSlFleEhjZDBPVEgzSS05SFNsODZkcVFVZmEwdnZNNGZHbG1zMHBtNHFiVDlfWWVJZFNCYnBDZmZUUDd6ejFWRHk2SUhsNnNNWjlhamFHWXpCX01SXzZBUlhZZXY5dXg5RW5RMDRRcmY0Z2xRRDJtTjNjeFZicjNKcC1qc1hsREtaakpzNk85djl2aTBWOUg2NFlKZFE?oc=5)
-
----
-
 ### [Parkinson’s: beyond the brain](https://news.google.com/rss/articles/CBMiX0FVX3lxTE05eHJMOFd1aWFGNloyMHNqbDdUZkxMMHhOajlTNndFLTIyWmhYOHEyUEZlMEIyaUR6VzRMWS02ZU1yX0JaWnlhbUliZXNRdDlnYWxHMktNeExCYWJJVHdV?oc=5)
 
-2026-11-04 <span class="news-indication-tag">RA</span>
+2026-11-04 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE05eHJMOFd1aWFGNloyMHNqbDdUZkxMMHhOajlTNndFLTIyWmhYOHEyUEZlMEIyaUR6VzRMWS02ZU1yX0JaWnlhbUliZXNRdDlnYWxHMktNeExCYWJJVHdV?oc=5)
 

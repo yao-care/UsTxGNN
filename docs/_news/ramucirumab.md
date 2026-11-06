@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [As Hormone Use Increases, Some Doctors Warn Slight Cancer Risk Is Being Overlooked - The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjNDSWlLR2pQamhlQW9zSXF4Mm8tOHZQcUFwb1dPVlVTeHlja0NKTVZrdGJweGptNXcxWVVqT1dGeFQycXlONVhWbUt6S3R2ajVNQW1NT1JSbkd6YThWSTVLWXNGYTBXQV9OYW9keTluNlhSdzJxRFRoR1dwRmxma0ZIUQ?oc=5)
 
@@ -57,14 +57,6 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cU
 2026-11-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [Boston.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRXZQeUxXbW5BeVFyQ0J3OThXOVpkX0cwTUFVWUZ2WHd5SUNIZmJjdjhEZnJqMkNScTZNZllEQTZ6bzFVWS1QX1RfZnpEMzJrOHMwYk16VWtUeTlyeVJVNmx4dlpOVlpiSXhoRE9LX2RfeVpUeDVJNzh3ZllidGstRVFBYzc2Wmc5UTV1THM5ajN3aF9sY0lRNjVYYWZvSm9wODlLWnllUHN0RnQyQk1iSnpHRS1IdEJYX0g0ZUxMVHp0Q1F6MmxPNlRjVDFvYUpvTEdWc2lRcDUwd2huSG9GRkdZejVZVi1sLTVndXRZQQ?oc=5)
-
----
-
-### [Venousization enables angiogenesis in the absence of VEGFR signalling](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mNWVhdVkyM2c2LUFnQjFJYWNNT0FYNXAzQmwydG1vYUpBdXlPWk5wTEtUTUFNNE5aVnczSFkwS1lCamRUM0pLSW5nX0ZmUlgtU0k1ZXA3bnA0Q0JkUTI4?oc=5)
-
-2026-11-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">RA</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mNWVhdVkyM2c2LUFnQjFJYWNNT0FYNXAzQmwydG1vYUpBdXlPWk5wTEtUTUFNNE5aVnczSFkwS1lCamRUM0pLSW5nX0ZmUlgtU0k1ZXA3bnA0Q0JkUTI4?oc=5)
 
 ---
 

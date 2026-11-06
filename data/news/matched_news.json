@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-06T22:37:25.694699+00:00",
-  "total_count": 74,
-  "matched_count": 60,
+  "last_updated": "2026-11-06T22:50:43.836321+00:00",
+  "total_count": 72,
+  "matched_count": 58,
   "news": [
     {
       "id": "2fb2c75c4bbc",
       "title": "Fitness influencer's vacation getaway takes scary turn after headache leads to ICU - Fox News",
       "published": "2026-11-06T21:14:45+00:00",
-      "summary": "Fitness influencer's vacation getaway takes scary turn after headache leads to ICU&nbsp;&nbsp;Fox NewsAussie fitness influencer hospitalised in Bali after contracting deadly brain infection&nbsp;&nbsp;cedarnews.netKhiana Smith health update: Fitness influencer hospitalised in ICU with bacterial meningitis, reveals memo&nbsp;&nbsp;The Economic Times",
+      "summary": "Fitness influencer's vacation getaway takes scary turn after headache leads to ICU&nbsp;&nbsp;Fox NewsKhiana Smith health update: Fitness influencer hospitalised in ICU with bacterial meningitis, reveals memo&nbsp;&nbsp;The Economic TimesAustralian fitness influencer, 23, hospitalised in Bali after contracting life-threatening brain infection&nbsp;&nbsp;Hindustan Times",
       "sources": [
         {
           "name": "Fox News",
@@ -132,7 +132,7 @@
       "id": "63b93e0b7980",
       "title": "One popular fruit may support brain and heart health as you age, experts say - Fox News",
       "published": "2026-11-06T20:30:04+00:00",
-      "summary": "One popular fruit may support brain and heart health as you age, experts say&nbsp;&nbsp;Fox NewsEating Blueberries Every Day Could Reduce Depressive Symptoms in Older Adults&nbsp;&nbsp;ScienceAlertWhat Happens to Your Body When You Eat Blueberries Every Day, According to Dietitians&nbsp;&nbsp;Real Simple",
+      "summary": "One popular fruit may support brain and heart health as you age, experts say&nbsp;&nbsp;Fox NewsEating Blueberries Every Day Could Reduce Depressive Symptoms in Older Adults&nbsp;&nbsp;ScienceAlertWhat Happens to Your Body When You Eat Blueberries Every Day, According to Dietitians&nbsp;&nbsp;Real SimpleBlueberries may support heart and brain health, experts say&nbsp;&nbsp;Mezha.net",
       "sources": [
         {
           "name": "Fox News",
@@ -857,99 +857,6 @@
       ]
     },
     {
-      "id": "4a6cbd3e7d79",
-      "title": "NEWSLETTER: New blood test matches gold standard for liver disease diagnosis",
-      "published": "2026-11-06T12:32:09+00:00",
-      "summary": "NEWSLETTER: New blood test matches gold standard for liver disease diagnosis&nbsp;&nbsp;ReutersSingle blood protein stands out among 30 tests for assessing fatty liver disease&nbsp;&nbsp;Medical XpressAI-Based Blood Test Matches MRE in Identifying MASH Treatment Candidates&nbsp;&nbsp;Clinical Lab ProductsHepta's AI Reads Liver Biology From a Routine Blood Draw, Achieving MRE-Level Accuracy at Finding Patients for Newly Approved MASH Drugs&nbsp;&nbsp;Business WireGlobal Liver Institute Convenes N",
-      "sources": [
-        {
-          "name": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUV3QnBUd2xDX01KQ2JDMGNnZXV4R2NQVFY0ZVRScGRnZ0NaQV9WLS1KY196VnpwRmgteW1LV1FPVFNQbnZhVWRELTQ4OTZEUVc2QTJtd0JNNENORE5iOV9aeGU3TkJmNTJGazUybUpBYWZLZ2M1U01HX3JhTnIxOEVaNGk0QVNaSlBpdzBMSFU4bjJOanVoaGE3TVJEaFdVamFsRFBTaWpZQWxsSXY1RE40V0tPWjBBWHoxc1RsN0k3WTRUMDl3eEFQYjY?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "inflammatory bowel disease",
-          "keyword": "UC",
-          "related_drugs": [
-            {
-              "slug": "rutin",
-              "name": "Rutin",
-              "url": "/drugs/rutin/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "902cfeb6f900",
       "title": "Two Crows Named Iggy and Lemmy Just Outsmarted Humans in a Surprising Brain Test - ZME Science",
       "published": "2026-11-06T12:06:36+00:00",
@@ -1315,7 +1222,7 @@
       "id": "1f47b56e3863",
       "title": "Orem teen fights for life as state data shows youth e-bike crashes surge",
       "published": "2026-11-06T04:55:51+00:00",
-      "summary": "Orem teen fights for life as state data shows youth e-bike crashes surge&nbsp;&nbsp;KUTVE-Bike and E-Scooter Accidents Are Skyrocketing Among Children&nbsp;&nbsp;Time MagazineE-bike injuries are getting more serious, Metro Detroit doctors warn&nbsp;&nbsp;AxiosCautionary tale about e-bikes&nbsp;&nbsp;The AcornPromoting E-Bike and E-Scooter Safety: A Call to Action for Children’s Hospitals&nbsp;&nbsp;Children's Hospital Association",
+      "summary": "Orem teen fights for life as state data shows youth e-bike crashes surge&nbsp;&nbsp;KUTVE-Bike and E-Scooter Accidents Are Skyrocketing Among Children&nbsp;&nbsp;Time MagazineE-bike injuries are getting more serious, Metro Detroit doctors warn&nbsp;&nbsp;AxiosCautionary tale about e-bikes&nbsp;&nbsp;The AcornE-Bike and E-Scooter Safety: A Call to Action&nbsp;&nbsp;Children's Hospital Association",
       "sources": [
         {
           "name": "KUTV",
@@ -2112,7 +2019,7 @@
       "id": "95b67a522473",
       "title": "UK doctor with Ebola returns from Congo to London for treatment",
       "published": "2026-11-05T21:52:36+00:00",
-      "summary": "UK doctor with Ebola returns from Congo to London for treatment&nbsp;&nbsp;ReutersBritish Ebola patient evacuated from DR Congo arrives at London hospital&nbsp;&nbsp;The GuardianUK doctor infected with Ebola being treated at London hospital&nbsp;&nbsp;BBCCan the UK handle an Ebola infection?&nbsp;&nbsp;The TelegraphBritish Citizen Infected With Ebola in Congo to Be Evacuated to UK, BBC Reports&nbsp;&nbsp;The New York Times",
+      "summary": "UK doctor with Ebola returns from Congo to London for treatment&nbsp;&nbsp;ReutersBritish Citizen Infected With Ebola in Congo to Be Evacuated to UK, BBC Reports&nbsp;&nbsp;The New York TimesBritish Ebola patient evacuated from DR Congo arrives at London hospital&nbsp;&nbsp;The GuardianCan the UK handle an Ebola infection?&nbsp;&nbsp;The TelegraphUK doctor infected with Ebola being treated at London hospital&nbsp;&nbsp;BBC",
       "sources": [
         {
           "name": "Reuters",
@@ -3211,6 +3118,62 @@
       ]
     },
     {
+      "id": "9ad44fb372ba",
+      "title": "My mom was diagnosed with Alzheimer's at 58. I helped care for her for 20 years and learned 3 important lessons. - Business Insider",
+      "published": "2026-11-05T11:50:00+00:00",
+      "summary": "My mom was diagnosed with Alzheimer's at 58. I helped care for her for 20 years and learned 3 important lessons.&nbsp;&nbsp;Business InsiderAlzheimer’s Whisperer: Beyond forgetfulness, understanding the many faces of dementia&nbsp;&nbsp;Daily BreezeLosing someone to dementia&nbsp;&nbsp;Inquirer.netAfter losing her mom to dementia, a senior living executive shares her tools to cope with the disease&nbsp;&nbsp;WFAA",
+      "sources": [
+        {
+          "name": "Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdnFyU0l2T1paOXV5R1BzOTUxWVV3Y0ZTWEgtX0xGamdpOW9DM2pMOUNsRE40SXlvVW5yaVA4eV9aUkpMN1ZSVnBDa3pxcklaaTZqS2I0ZkxOWkJXQU5ZQWdPY1A4NnBHXzJzYzBvM0hGeGRrNFdmRFFiaEw4TU45X1dMR1MxcFpjSFhWVE14RVZKVlZv?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "7128ab5e0647",
       "title": "Scientists grow ‘human lens’ that could help treat eye diseases - The Telegraph",
       "published": "2026-11-05T07:00:00+00:00",
@@ -3477,74 +3440,6 @@
       ]
     },
     {
-      "id": "99739a69df01",
-      "title": "Venousization enables angiogenesis in the absence of VEGFR signalling",
-      "published": "2026-11-04T23:33:08+00:00",
-      "summary": "Venousization enables angiogenesis in the absence of VEGFR signalling&nbsp;&nbsp;NatureAlternative pathways for blood vessel growth could become targets against drug-resistant tumors&nbsp;&nbsp;Medical XpressPhoto (IMAGE)&nbsp;&nbsp;EurekAlert!They reveal how blood vessels manage to grow without one of their key signals&nbsp;&nbsp;DemócrataImage&nbsp;&nbsp;EurekAlert!",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mNWVhdVkyM2c2LUFnQjFJYWNNT0FYNXAzQmwydG1vYUpBdXlPWk5wTEtUTUFNNE5aVnczSFkwS1lCamRUM0pLSW5nX0ZmUlgtU0k1ZXA3bnA0Q0JkUTI4?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cancer",
-          "keyword": "tumor",
-          "related_drugs": [
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab",
-              "url": "/drugs/ramucirumab/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4d893abba5c9",
       "title": "Doctors in England launch primary-care trial of blood tests for spotting cancer early",
       "published": "2026-11-04T22:31:02+00:00",
@@ -3758,22 +3653,27 @@
       ]
     },
     {
-      "id": "a159b68477d7",
-      "title": "Muscle health is key to longevity. Here’s how to measure yours. - NBC News",
-      "published": "2026-11-04T21:34:15+00:00",
-      "summary": "Muscle health is key to longevity. Here’s how to measure yours.&nbsp;&nbsp;NBC NewsScientists reveal the hidden factor that could make your muscles less healthy&nbsp;&nbsp;NewsweekMuscle health matters for longevity. Here’s how to assess yours&nbsp;&nbsp;Mezha.net‘Low muscle mass is linked to insulin resistance’: Doctor explains strength training dos and don’ts&nbsp;&nbsp;The Indian ExpressMuscle loss increases type 2 diabetes risk: Doctor explains why strength matters more than you think&nbsp;&",
+      "id": "dadac563cb1f",
+      "title": "Parkinson’s: beyond the brain",
+      "published": "2026-11-04T21:28:44+00:00",
+      "summary": "Parkinson’s: beyond the brain&nbsp;&nbsp;NatureStudy in India links gut bacteria differences to Parkinson’s disease&nbsp;&nbsp;Parkinson's News TodayResearchers Think Gut Supplements Could Have Anti-Dementia Benefits&nbsp;&nbsp;HuffPost UKGut Microbiome Studies Probe Links to Variety of Neurologic Diseases&nbsp;&nbsp;Neurology TodayGut, Immune and Brain Signals May Link COVID-19 to Parkinson’s Risk&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1dsUE1FSlFleEhjZDBPVEgzSS05SFNsODZkcVFVZmEwdnZNNGZHbG1zMHBtNHFiVDlfWWVJZFNCYnBDZmZUUDd6ejFWRHk2SUhsNnNNWjlhamFHWXpCX01SXzZBUlhZZXY5dXg5RW5RMDRRcmY0Z2xRRDJtTjNjeFZicjNKcC1qc1hsREtaakpzNk85djl2aTBWOUg2NFlKZFE?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05eHJMOFd1aWFGNloyMHNqbDdUZkxMMHhOajlTNndFLTIyWmhYOHEyUEZlMEIyaUR6VzRMWS02ZU1yX0JaWnlhbUliZXNRdDlnYWxHMktNeExCYWJJVHdV?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
+          "name": "myocardial infarction",
+          "keyword": "MI",
           "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
             {
               "slug": "insulin_lispro",
               "name": "Insulin lispro",
@@ -3785,14 +3685,19 @@
               "url": "/drugs/baricitinib/"
             },
             {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
               "slug": "teriparatide",
               "name": "Teriparatide",
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
@@ -3810,21 +3715,7 @@
               "url": "/drugs/insulin-human/"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "dadac563cb1f",
-      "title": "Parkinson’s: beyond the brain",
-      "published": "2026-11-04T21:28:44+00:00",
-      "summary": "Parkinson’s: beyond the brain&nbsp;&nbsp;NatureGut bacteria may impact cognitive status in Parkinson’s, study finds&nbsp;&nbsp;Parkinson's News TodayResearchers Think Gut Supplements Could Have Anti-Dementia Benefits&nbsp;&nbsp;HuffPost UKConstipation years before tremors: Doctor explains how the gut-brain connection could reveal early signs of Parkinson’s disease&nbsp;&nbsp;The Times of IndiaGut, Immune and Brain Signals May Link COVID-19 to Parkinson’s Risk&nbsp;&nbsp;Bioengineer.org",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05eHJMOFd1aWFGNloyMHNqbDdUZkxMMHhOajlTNndFLTIyWmhYOHEyUEZlMEIyaUR6VzRMWS02ZU1yX0JaWnlhbUliZXNRdDlnYWxHMktNeExCYWJJVHdV?oc=5"
-        }
-      ],
-      "matched_keywords": [
+        },
         {
           "type": "indication",
           "name": "arthritis",

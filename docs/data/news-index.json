@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T22:37:25.717522+00:00",
-  "count": 60,
+  "generated": "2026-11-06T22:50:43.867957+00:00",
+  "count": 58,
   "news": [
     {
       "id": "2fb2c75c4bbc",
@@ -764,98 +764,6 @@
               "slug": "tadalafil",
               "name": "Tadalafil",
               "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin-glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin-human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4a6cbd3e7d79",
-      "title": "NEWSLETTER: New blood test matches gold standard for liver disease diagnosis",
-      "published": "2026-11-06T12:32:09+00:00",
-      "sources": [
-        {
-          "name": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUV3QnBUd2xDX01KQ2JDMGNnZXV4R2NQVFY0ZVRScGRnZ0NaQV9WLS1KY196VnpwRmgteW1LV1FPVFNQbnZhVWRELTQ4OTZEUVc2QTJtd0JNNENORE5iOV9aeGU3TkJmNTJGazUybUpBYWZLZ2M1U01HX3JhTnIxOEVaNGk0QVNaSlBpdzBMSFU4bjJOanVoaGE3TVJEaFdVamFsRFBTaWpZQWxsSXY1RE40V0tPWjBBWHoxc1RsN0k3WTRUMDl3eEFQYjY?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin-lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium-acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin-glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin-human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "inflammatory bowel disease",
-          "keyword": "UC",
-          "related_drugs": [
-            {
-              "slug": "rutin",
-              "name": "Rutin",
-              "url": "/drugs/rutin/"
-            },
-            {
-              "slug": "insulin-lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "insulin-glargine",
@@ -3042,6 +2950,61 @@
       ]
     },
     {
+      "id": "9ad44fb372ba",
+      "title": "My mom was diagnosed with Alzheimer's at 58. I helped care for her for 20 years and learned 3 important lessons. - Business Insider",
+      "published": "2026-11-05T11:50:00+00:00",
+      "sources": [
+        {
+          "name": "Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdnFyU0l2T1paOXV5R1BzOTUxWVV3Y0ZTWEgtX0xGamdpOW9DM2pMOUNsRE40SXlvVW5yaVA4eV9aUkpMN1ZSVnBDa3pxcklaaTZqS2I0ZkxOWkJXQU5ZQWdPY1A4NnBHXzJzYzBvM0hGeGRrNFdmRFFiaEw4TU45X1dMR1MxcFpjSFhWVE14RVZKVlZv?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin-lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium-acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin-glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin-human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "7128ab5e0647",
       "title": "Scientists grow ‘human lens’ that could help treat eye diseases - The Telegraph",
       "published": "2026-11-05T07:00:00+00:00",
@@ -3293,73 +3256,6 @@
       ]
     },
     {
-      "id": "99739a69df01",
-      "title": "Venousization enables angiogenesis in the absence of VEGFR signalling",
-      "published": "2026-11-04T23:33:08+00:00",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mNWVhdVkyM2c2LUFnQjFJYWNNT0FYNXAzQmwydG1vYUpBdXlPWk5wTEtUTUFNNE5aVnczSFkwS1lCamRUM0pLSW5nX0ZmUlgtU0k1ZXA3bnA0Q0JkUTI4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cancer",
-          "keyword": "tumor",
-          "related_drugs": [
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab",
-              "url": "/drugs/ramucirumab/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin-lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium-acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin-glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin-human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4d893abba5c9",
       "title": "Doctors in England launch primary-care trial of blood tests for spotting cancer early",
       "published": "2026-11-04T22:31:02+00:00",
@@ -3571,21 +3467,26 @@
       ]
     },
     {
-      "id": "a159b68477d7",
-      "title": "Muscle health is key to longevity. Here’s how to measure yours. - NBC News",
-      "published": "2026-11-04T21:34:15+00:00",
+      "id": "dadac563cb1f",
+      "title": "Parkinson’s: beyond the brain",
+      "published": "2026-11-04T21:28:44+00:00",
       "sources": [
         {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1dsUE1FSlFleEhjZDBPVEgzSS05SFNsODZkcVFVZmEwdnZNNGZHbG1zMHBtNHFiVDlfWWVJZFNCYnBDZmZUUDd6ejFWRHk2SUhsNnNNWjlhamFHWXpCX01SXzZBUlhZZXY5dXg5RW5RMDRRcmY0Z2xRRDJtTjNjeFZicjNKcC1qc1hsREtaakpzNk85djl2aTBWOUg2NFlKZFE?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05eHJMOFd1aWFGNloyMHNqbDdUZkxMMHhOajlTNndFLTIyWmhYOHEyUEZlMEIyaUR6VzRMWS02ZU1yX0JaWnlhbUliZXNRdDlnYWxHMktNeExCYWJJVHdV?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
+          "name": "myocardial infarction",
+          "keyword": "MI",
           "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
             {
               "slug": "insulin-lispro",
               "name": "Insulin lispro",
@@ -3597,14 +3498,19 @@
               "url": "/drugs/baricitinib/"
             },
             {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
               "slug": "teriparatide",
               "name": "Teriparatide",
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium-acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
@@ -3622,20 +3528,7 @@
               "url": "/drugs/insulin-human/"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "dadac563cb1f",
-      "title": "Parkinson’s: beyond the brain",
-      "published": "2026-11-04T21:28:44+00:00",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05eHJMOFd1aWFGNloyMHNqbDdUZkxMMHhOajlTNndFLTIyWmhYOHEyUEZlMEIyaUR6VzRMWS02ZU1yX0JaWnlhbUliZXNRdDlnYWxHMktNeExCYWJJVHdV?oc=5"
-        }
-      ],
-      "keywords": [
+        },
         {
           "type": "indication",
           "name": "arthritis",

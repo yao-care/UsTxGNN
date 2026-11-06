@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>12 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>11 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (11)
 
 ### [One popular fruit may support brain and heart health as you age, experts say - Fox News](https://news.google.com/rss/articles/CBMipgFBVV95cUxOT01UWjJXc2xhNzFVd1p1ellmSzBOYVFZNDlsWEd1NUgyVzM5LWhWcVQ5cDRhSW1zaUk2TTFLVlg2bWExa19TQ3FuTGdwMWp4SmN1N1ZMXzZFem92VTZWd05fQ2ZYczgxamhqek5lTTVUOGNYemJhQjRRQWhZWUxsRVRaemRqYW5leV9icEMtXzRoemNvZjN1cGdxelI3d0tkRHhtS0J30gGrAUFVX3lxTE8ySlNnell5UlFSbzdKV3g0TkF2aldScUUtTkMxdG9oUl9VUHFFZ29MeDk3MDNDUHVUeGpzbGwzZHRucGRpU1NLNXNkeS1aMm1FUC13akVGYkVneG5hbnViQlVyWlFnODhIaXAyM25lMTVLa2EzRlItbzlKUFM4RE95MDlfTERvd0QyYll3NzJLc3M4OUwtTWZPa2ZySjVzMmFpMENMYWEzLTZsRQ?oc=5)
 
 2026-11-06 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMipgFBVV95cUxOT01UWjJXc2xhNzFVd1p1ellmSzBOYVFZNDlsWEd1NUgyVzM5LWhWcVQ5cDRhSW1zaUk2TTFLVlg2bWExa19TQ3FuTGdwMWp4SmN1N1ZMXzZFem92VTZWd05fQ2ZYczgxamhqek5lTTVUOGNYemJhQjRRQWhZWUxsRVRaemRqYW5leV9icEMtXzRoemNvZjN1cGdxelI3d0tkRHhtS0J30gGrAUFVX3lxTE8ySlNnell5UlFSbzdKV3g0TkF2aldScUUtTkMxdG9oUl9VUHFFZ29MeDk3MDNDUHVUeGpzbGwzZHRucGRpU1NLNXNkeS1aMm1FUC13akVGYkVneG5hbnViQlVyWlFnODhIaXAyM25lMTVLa2EzRlItbzlKUFM4RE95MDlfTERvd0QyYll3NzJLc3M4OUwtTWZPa2ZySjVzMmFpMENMYWEzLTZsRQ?oc=5)
-
----
-
-### [NEWSLETTER: New blood test matches gold standard for liver disease diagnosis](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUV3QnBUd2xDX01KQ2JDMGNnZXV4R2NQVFY0ZVRScGRnZ0NaQV9WLS1KY196VnpwRmgteW1LV1FPVFNQbnZhVWRELTQ4OTZEUVc2QTJtd0JNNENORE5iOV9aeGU3TkJmNTJGazUybUpBYWZLZ2M1U01HX3JhTnIxOEVaNGk0QVNaSlBpdzBMSFU4bjJOanVoaGE3TVJEaFdVamFsRFBTaWpZQWxsSXY1RE40V0tPWjBBWHoxc1RsN0k3WTRUMDl3eEFQYjY?oc=5)
-
-2026-11-06 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUV3QnBUd2xDX01KQ2JDMGNnZXV4R2NQVFY0ZVRScGRnZ0NaQV9WLS1KY196VnpwRmgteW1LV1FPVFNQbnZhVWRELTQ4OTZEUVc2QTJtd0JNNENORE5iOV9aeGU3TkJmNTJGazUybUpBYWZLZ2M1U01HX3JhTnIxOEVaNGk0QVNaSlBpdzBMSFU4bjJOanVoaGE3TVJEaFdVamFsRFBTaWpZQWxsSXY1RE40V0tPWjBBWHoxc1RsN0k3WTRUMDl3eEFQYjY?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "MI (myocardial infarction) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about MI (myocardial infarction). 31 articles, 9 related drugs."
+description: "Health news about MI (myocardial infarction). 32 articles, 9 related drugs."
 permalink: /news/myocardial-infarction/
 last_modified_at: 2026-11-06
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about MI (myocardial infarction)?">
-<strong>MI (myocardial infarction)</strong> currently has <strong>31 news articles</strong> and 9 related drugs.
+<strong>MI (myocardial infarction)</strong> currently has <strong>32 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page brings together the latest health news about “MI” and lists the dr
 </ul>
 </div>
 
-## Related News (31)
+## Related News (32)
 
 ### [Fitness influencer's vacation getaway takes scary turn after headache leads to ICU - Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxONFBiU09TR0NRYk1KRDlhYklaRHRNN0FOTzhoWklGTUZ3dEktbFhKUDl5RmJQTHdOaTFOUHRGWFpxWm5jV0laSVFMTG83RDlrQS1xYjZKbTF3S2VzWXhsTVd6VE5SdnJnYTRvdTNncnQ5UFBtaC1VVTVTeFNBUWtxeG96MkgtQmpUVWlwbXEwZEFjOE5La1RtRGkyanVKV0RZTHZtTNIBqgFBVV95cUxNeF9MMXBVQjd4eEdnRDZURFJHQXhtcS1lVmF0UVBuR2J1UmpRU1NZMHpwTFBLN1VQcnBhZzR2cUkyXzZDUXNsMnRyRENnTWEyeU5BdUNpOEJpSGtkRDhHckRlMW1Fc3MtQ1ZMNnVBc1ctLUdOdlhaMnc3MzJjZmJ1LWdSNzc2SVVRN0R2MU83NTBhZnJpb25xTWU2V0JrZnllVnhBMGlzdzNEQQ?oc=5)
 
@@ -213,6 +213,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xdVprV3pDSF
 2026-11-04
 
 Source: [Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
+
+---
+
+### [Parkinson’s: beyond the brain](https://news.google.com/rss/articles/CBMiX0FVX3lxTE05eHJMOFd1aWFGNloyMHNqbDdUZkxMMHhOajlTNndFLTIyWmhYOHEyUEZlMEIyaUR6VzRMWS02ZU1yX0JaWnlhbUliZXNRdDlnYWxHMktNeExCYWJJVHdV?oc=5)
+
+2026-11-04
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE05eHJMOFd1aWFGNloyMHNqbDdUZkxMMHhOajlTNndFLTIyWmhYOHEyUEZlMEIyaUR6VzRMWS02ZU1yX0JaWnlhbUliZXNRdDlnYWxHMktNeExCYWJJVHdV?oc=5)
 
 ---
 

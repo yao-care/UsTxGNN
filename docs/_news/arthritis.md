@@ -3,7 +3,7 @@ layout: default
 title: "RA (arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about RA (arthritis). 48 articles, 7 related drugs."
+description: "Health news about RA (arthritis). 46 articles, 7 related drugs."
 permalink: /news/arthritis/
 last_modified_at: 2026-11-06
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about RA (arthritis)?">
-<strong>RA (arthritis)</strong> currently has <strong>48 news articles</strong> and 7 related drugs.
+<strong>RA (arthritis)</strong> currently has <strong>46 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page brings together the latest health news about “RA” and lists the dr
 </ul>
 </div>
 
-## Related News (48)
+## Related News (46)
 
 ### [Fitness influencer's vacation getaway takes scary turn after headache leads to ICU - Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxONFBiU09TR0NRYk1KRDlhYklaRHRNN0FOTzhoWklGTUZ3dEktbFhKUDl5RmJQTHdOaTFOUHRGWFpxWm5jV0laSVFMTG83RDlrQS1xYjZKbTF3S2VzWXhsTVd6VE5SdnJnYTRvdTNncnQ5UFBtaC1VVTVTeFNBUWtxeG96MkgtQmpUVWlwbXEwZEFjOE5La1RtRGkyanVKV0RZTHZtTNIBqgFBVV95cUxNeF9MMXBVQjd4eEdnRDZURFJHQXhtcS1lVmF0UVBuR2J1UmpRU1NZMHpwTFBLN1VQcnBhZzR2cUkyXzZDUXNsMnRyRENnTWEyeU5BdUNpOEJpSGtkRDhHckRlMW1Fc3MtQ1ZMNnVBc1ctLUdOdlhaMnc3MzJjZmJ1LWdSNzc2SVVRN0R2MU83NTBhZnJpb25xTWU2V0JrZnllVnhBMGlzdzNEQQ?oc=5)
 
@@ -99,14 +99,6 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMivgFBVV95cUxPbl8w
 2026-11-06
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjNDSWlLR2pQamhlQW9zSXF4Mm8tOHZQcUFwb1dPVlVTeHlja0NKTVZrdGJweGptNXcxWVVqT1dGeFQycXlONVhWbUt6S3R2ajVNQW1NT1JSbkd6YThWSTVLWXNGYTBXQV9OYW9keTluNlhSdzJxRFRoR1dwRmxma0ZIUQ?oc=5)
-
----
-
-### [NEWSLETTER: New blood test matches gold standard for liver disease diagnosis](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUV3QnBUd2xDX01KQ2JDMGNnZXV4R2NQVFY0ZVRScGRnZ0NaQV9WLS1KY196VnpwRmgteW1LV1FPVFNQbnZhVWRELTQ4OTZEUVc2QTJtd0JNNENORE5iOV9aeGU3TkJmNTJGazUybUpBYWZLZ2M1U01HX3JhTnIxOEVaNGk0QVNaSlBpdzBMSFU4bjJOanVoaGE3TVJEaFdVamFsRFBTaWpZQWxsSXY1RE40V0tPWjBBWHoxc1RsN0k3WTRUMDl3eEFQYjY?oc=5)
-
-2026-11-06
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUV3QnBUd2xDX01KQ2JDMGNnZXV4R2NQVFY0ZVRScGRnZ0NaQV9WLS1KY196VnpwRmgteW1LV1FPVFNQbnZhVWRELTQ4OTZEUVc2QTJtd0JNNENORE5iOV9aeGU3TkJmNTJGazUybUpBYWZLZ2M1U01HX3JhTnIxOEVaNGk0QVNaSlBpdzBMSFU4bjJOanVoaGE3TVJEaFdVamFsRFBTaWpZQWxsSXY1RE40V0tPWjBBWHoxc1RsN0k3WTRUMDl3eEFQYjY?oc=5)
 
 ---
 
@@ -262,6 +254,14 @@ Source: [HuffPost](https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0RlY25J
 
 ---
 
+### [My mom was diagnosed with Alzheimer's at 58. I helped care for her for 20 years and learned 3 important lessons. - Business Insider](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdnFyU0l2T1paOXV5R1BzOTUxWVV3Y0ZTWEgtX0xGamdpOW9DM2pMOUNsRE40SXlvVW5yaVA4eV9aUkpMN1ZSVnBDa3pxcklaaTZqS2I0ZkxOWkJXQU5ZQWdPY1A4NnBHXzJzYzBvM0hGeGRrNFdmRFFiaEw4TU45X1dMR1MxcFpjSFhWVE14RVZKVlZv?oc=5)
+
+2026-11-05
+
+Source: [Business Insider](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdnFyU0l2T1paOXV5R1BzOTUxWVV3Y0ZTWEgtX0xGamdpOW9DM2pMOUNsRE40SXlvVW5yaVA4eV9aUkpMN1ZSVnBDa3pxcklaaTZqS2I0ZkxOWkJXQU5ZQWdPY1A4NnBHXzJzYzBvM0hGeGRrNFdmRFFiaEw4TU45X1dMR1MxcFpjSFhWVE14RVZKVlZv?oc=5)
+
+---
+
 ### [Scientists grow ‘human lens’ that could help treat eye diseases - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdHREX1p4T2lLLXhrWU9fZGFndEQ5LUE4MFQtWTRmN29rdHlidEtWeC02OGRXRDdQS0RVTkZPYm05Zlhxa1hBYmtOc0FYYWN6dm5EY01vMENzaElQaVk2UWRuaWZEdVBiWVVYd1BzdXlaZmlNajNPVExKZ2hPTk1BcWlhY1NRXzhnbExJU0lvT2pwb05OeGJqblFlLXVwcjF2ZVpndk16Yw?oc=5)
 
 2026-11-05
@@ -278,14 +278,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xdVprV3pDSF
 
 ---
 
-### [Venousization enables angiogenesis in the absence of VEGFR signalling](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mNWVhdVkyM2c2LUFnQjFJYWNNT0FYNXAzQmwydG1vYUpBdXlPWk5wTEtUTUFNNE5aVnczSFkwS1lCamRUM0pLSW5nX0ZmUlgtU0k1ZXA3bnA0Q0JkUTI4?oc=5)
-
-2026-11-04
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mNWVhdVkyM2c2LUFnQjFJYWNNT0FYNXAzQmwydG1vYUpBdXlPWk5wTEtUTUFNNE5aVnczSFkwS1lCamRUM0pLSW5nX0ZmUlgtU0k1ZXA3bnA0Q0JkUTI4?oc=5)
-
----
-
 ### [Doctors in England launch primary-care trial of blood tests for spotting cancer early](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
 
 2026-11-04
@@ -299,14 +291,6 @@ Source: [Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N
 2026-11-04
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEUXAyMnRtYWxxVzV4cjdfam5EQVZJR1o2NU9fcFVpWkplSThZMXpKNGJiWHN4c29rTlBUWWU2dWFoeHZnNTZMcmNsQTg2M19UV1NmNWhSR0FyNjFSWWE4?oc=5)
-
----
-
-### [Muscle health is key to longevity. Here’s how to measure yours. - NBC News](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1dsUE1FSlFleEhjZDBPVEgzSS05SFNsODZkcVFVZmEwdnZNNGZHbG1zMHBtNHFiVDlfWWVJZFNCYnBDZmZUUDd6ejFWRHk2SUhsNnNNWjlhamFHWXpCX01SXzZBUlhZZXY5dXg5RW5RMDRRcmY0Z2xRRDJtTjNjeFZicjNKcC1qc1hsREtaakpzNk85djl2aTBWOUg2NFlKZFE?oc=5)
-
-2026-11-04
-
-Source: [NBC News](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1dsUE1FSlFleEhjZDBPVEgzSS05SFNsODZkcVFVZmEwdnZNNGZHbG1zMHBtNHFiVDlfWWVJZFNCYnBDZmZUUDd6ejFWRHk2SUhsNnNNWjlhamFHWXpCX01SXzZBUlhZZXY5dXg5RW5RMDRRcmY0Z2xRRDJtTjNjeFZicjNKcC1qc1hsREtaakpzNk85djl2aTBWOUg2NFlKZFE?oc=5)
 
 ---
 

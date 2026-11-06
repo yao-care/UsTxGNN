@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "tumor (cancer) News"
+title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 6 articles, 1 related drugs."
+description: "Health news about cancer. 5 articles, 1 related drugs."
 permalink: /news/cancer/
 last_modified_at: 2026-11-06
 ---
 
-# tumor (cancer) News
+# cancer News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about cancer?">
+<strong>cancer</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “tumor” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “cancer” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [As Hormone Use Increases, Some Doctors Warn Slight Cancer Risk Is Being Overlooked - The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjNDSWlLR2pQamhlQW9zSXF4Mm8tOHZQcUFwb1dPVlVTeHlja0NKTVZrdGJweGptNXcxWVVqT1dGeFQycXlONVhWbUt6S3R2ajVNQW1NT1JSbkd6YThWSTVLWXNGYTBXQV9OYW9keTluNlhSdzJxRFRoR1dwRmxma0ZIUQ?oc=5)
 
@@ -45,14 +45,6 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cU
 2026-11-05
 
 Source: [Boston.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRXZQeUxXbW5BeVFyQ0J3OThXOVpkX0cwTUFVWUZ2WHd5SUNIZmJjdjhEZnJqMkNScTZNZllEQTZ6bzFVWS1QX1RfZnpEMzJrOHMwYk16VWtUeTlyeVJVNmx4dlpOVlpiSXhoRE9LX2RfeVpUeDVJNzh3ZllidGstRVFBYzc2Wmc5UTV1THM5ajN3aF9sY0lRNjVYYWZvSm9wODlLWnllUHN0RnQyQk1iSnpHRS1IdEJYX0g0ZUxMVHp0Q1F6MmxPNlRjVDFvYUpvTEdWc2lRcDUwd2huSG9GRkdZejVZVi1sLTVndXRZQQ?oc=5)
-
----
-
-### [Venousization enables angiogenesis in the absence of VEGFR signalling](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mNWVhdVkyM2c2LUFnQjFJYWNNT0FYNXAzQmwydG1vYUpBdXlPWk5wTEtUTUFNNE5aVnczSFkwS1lCamRUM0pLSW5nX0ZmUlgtU0k1ZXA3bnA0Q0JkUTI4?oc=5)
-
-2026-11-04
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mNWVhdVkyM2c2LUFnQjFJYWNNT0FYNXAzQmwydG1vYUpBdXlPWk5wTEtUTUFNNE5aVnczSFkwS1lCamRUM0pLSW5nX0ZmUlgtU0k1ZXA3bnA0Q0JkUTI4?oc=5)
 
 ---
 

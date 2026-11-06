@@ -78,14 +78,6 @@ Source: [USA Today](https://news.google.com/rss/articles/CBMimAFBVV95cUxOek9qQUh
 
 ---
 
-### [NEWSLETTER: New blood test matches gold standard for liver disease diagnosis](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUV3QnBUd2xDX01KQ2JDMGNnZXV4R2NQVFY0ZVRScGRnZ0NaQV9WLS1KY196VnpwRmgteW1LV1FPVFNQbnZhVWRELTQ4OTZEUVc2QTJtd0JNNENORE5iOV9aeGU3TkJmNTJGazUybUpBYWZLZ2M1U01HX3JhTnIxOEVaNGk0QVNaSlBpdzBMSFU4bjJOanVoaGE3TVJEaFdVamFsRFBTaWpZQWxsSXY1RE40V0tPWjBBWHoxc1RsN0k3WTRUMDl3eEFQYjY?oc=5)
-
-2026-11-06 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUV3QnBUd2xDX01KQ2JDMGNnZXV4R2NQVFY0ZVRScGRnZ0NaQV9WLS1KY196VnpwRmgteW1LV1FPVFNQbnZhVWRELTQ4OTZEUVc2QTJtd0JNNENORE5iOV9aeGU3TkJmNTJGazUybUpBYWZLZ2M1U01HX3JhTnIxOEVaNGk0QVNaSlBpdzBMSFU4bjJOanVoaGE3TVJEaFdVamFsRFBTaWpZQWxsSXY1RE40V0tPWjBBWHoxc1RsN0k3WTRUMDl3eEFQYjY?oc=5)
-
----
-
 ### [What a new study reveals about reversing type 2 diabetes](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlg0dllnRGNQTHppV1JiSmZWZl9pQU1EYW9lakoydElQUkctVXpDUE5UR1EwZUNYS2h3X0FaaDRDWUhtcmtldzNqMWhzUTJ1LVBZYXpnUkZLUy01NVVGV0YtX0VUMG9qc1BNX0R4NDdnaV9PQU51cHMzd0dad3pFdHdrdGhSVnZDTDJzcXU5Y1BsUU9C?oc=5)
 
 2026-11-06 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
@@ -243,6 +235,14 @@ Source: [Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N
 2026-11-04 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEUXAyMnRtYWxxVzV4cjdfam5EQVZJR1o2NU9fcFVpWkplSThZMXpKNGJiWHN4c29rTlBUWWU2dWFoeHZnNTZMcmNsQTg2M19UV1NmNWhSR0FyNjFSWWE4?oc=5)
+
+---
+
+### [Parkinson’s: beyond the brain](https://news.google.com/rss/articles/CBMiX0FVX3lxTE05eHJMOFd1aWFGNloyMHNqbDdUZkxMMHhOajlTNndFLTIyWmhYOHEyUEZlMEIyaUR6VzRMWS02ZU1yX0JaWnlhbUliZXNRdDlnYWxHMktNeExCYWJJVHdV?oc=5)
+
+2026-11-04 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE05eHJMOFd1aWFGNloyMHNqbDdUZkxMMHhOajlTNndFLTIyWmhYOHEyUEZlMEIyaUR6VzRMWS02ZU1yX0JaWnlhbUliZXNRdDlnYWxHMktNeExCYWJJVHdV?oc=5)
 
 ---
 

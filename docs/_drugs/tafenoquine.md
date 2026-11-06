@@ -50,7 +50,7 @@ but **no clinical trials and no publications** currently support this direction,
 | Predicted New Indication | Smouldering systemic mastocytosis |
 | TxGNN Prediction Score | 0.9905 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 2 of 2) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 2; OTC monograph / unapproved listings: 1) |
 | Number of FDA Applications | 2 (active: 2) |
 | Recommended Decision | Hold |
 

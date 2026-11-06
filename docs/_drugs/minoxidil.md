@@ -50,7 +50,7 @@ Currently **no clinical trials** are registered, and support comes from **3 publ
 | Predicted New Indication | Hypotrichosis simplex of the scalp |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (active FDA-approved applications: 23 of 38; OTC monograph / unapproved listings: 98) |
+| US Market Status | Marketed (active FDA-approved applications: 23 of 38; OTC monograph / unapproved listings: 175) |
 | Number of FDA Applications | 38 (active: 23) |
 | Recommended Decision | Hold |
 

@@ -50,7 +50,7 @@ but currently there are **0 clinical trials** and only **1 publication** (a phar
 | Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 1 of 9; OTC monograph / unapproved listings: 29) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 9; OTC monograph / unapproved listings: 33) |
 | Number of FDA Applications | 9 (active: 1) |
 | Recommended Decision | Hold |
 

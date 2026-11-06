@@ -50,7 +50,7 @@ The evidence is early-phase and the trials are mostly small, terminated or of un
 | Predicted New Indication | Female breast carcinoma |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 (per the compiled assessment; Phase 2 studies only, with no Phase 3 RCT for breast cancer) |
-| US Market Status | Marketed (active FDA-approved applications: 4 of 7) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 7; OTC monograph / unapproved listings: 1) |
 | Number of FDA Applications | 7 (active: 4) |
 | Recommended Decision | Hold |
 

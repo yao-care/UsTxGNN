@@ -52,7 +52,7 @@ The only indication with any supporting literature among the top 10 predictions 
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Marketed (active FDA-approved applications: 1 of 2; OTC monograph / unapproved listings: 21) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 2; OTC monograph / unapproved listings: 25) |
 | Number of FDA Applications | 2 (active: 1) |
 | Recommended Decision | Hold |
 

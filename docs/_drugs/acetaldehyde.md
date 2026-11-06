@@ -52,7 +52,7 @@ This report cannot advance to a standard repurposing evaluation without foundati
 | Predicted New Indication | No prediction available |
 | TxGNN Prediction Score | — |
 | Evidence Level | L5 (no predictions returned) |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 20) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 23) |
 | Number of FDA Applications | 0 |
 | Number of Approvals | 0 |
 | Recommended Decision | Hold |

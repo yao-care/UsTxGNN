@@ -48,7 +48,7 @@ Sodium carbonate is an alkalinizing agent, and no approved indication is on reco
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 0 of 2; OTC monograph / unapproved listings: 97) |
+| US Market Status | Marketed (active FDA-approved applications: 0 of 2; OTC monograph / unapproved listings: 108) |
 | Number of FDA Applications | 2 (active: 0) |
 | Recommended Decision | Hold |
 

@@ -41,7 +41,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|---------|
 | Originally Approved Indications | Not recorded in the local data |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 9) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 10) |
 | Number of FDA Applications | 0 |
 
 ---

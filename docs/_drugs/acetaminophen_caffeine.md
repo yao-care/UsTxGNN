@@ -52,7 +52,7 @@ Acetaminophen + Caffeine is a fixed-dose analgesic combination in which caffeine
 | Predicted New Indication | No predictions generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction only; no supporting studies |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 26) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 28) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 

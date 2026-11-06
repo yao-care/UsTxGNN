@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **primary hereditary glaucoma**
 | Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 5) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 3) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

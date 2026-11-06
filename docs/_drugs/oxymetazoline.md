@@ -50,7 +50,7 @@ but there are currently **0 registered clinical trials** and only **5 indirect p
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 5 of 6; OTC monograph / unapproved listings: 194) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 6; OTC monograph / unapproved listings: 213) |
 | Number of FDA Applications | 6 (active: 5) |
 | Recommended Decision | Hold |
 

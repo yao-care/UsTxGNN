@@ -50,7 +50,7 @@ Acetaminophen, Aspirin, and Diphenhydramine is a fixed-dose combination commonly
 | Predicted New Indication | None (no TxGNN predictions returned) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Not assessable |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 2) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 3) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

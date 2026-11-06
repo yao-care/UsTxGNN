@@ -52,7 +52,7 @@ and **no regulatory authorizations** are on record, preventing a standard repurp
 | Predicted New Indication | No predictions available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — no model predictions returned |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 213) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 226) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 

@@ -52,7 +52,7 @@ Without a mappable pharmacological entity and a prediction target, no evidence-b
 | Predicted New Indication | None — no TxGNN predictions generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — evaluation not possible |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 2) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 

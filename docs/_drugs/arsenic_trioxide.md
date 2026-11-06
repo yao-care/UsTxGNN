@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **unclassified myelodysplastic 
 | Predicted New Indication | unclassified myelodysplastic syndrome |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 11 of 12; OTC monograph / unapproved listings: 655) |
+| US Market Status | Marketed (active FDA-approved applications: 11 of 12; OTC monograph / unapproved listings: 720) |
 | Number of FDA Applications | 12 (active: 11) |
 | Recommended Decision | Hold |
 

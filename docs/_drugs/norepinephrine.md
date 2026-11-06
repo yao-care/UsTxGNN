@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **obstructive lung disease**, b
 | Predicted New Indication | Obstructive lung disease |
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (active FDA-approved applications: 22 of 27; OTC monograph / unapproved listings: 17) |
+| US Market Status | Marketed (active FDA-approved applications: 22 of 27; OTC monograph / unapproved listings: 18) |
 | Number of FDA Applications | 27 (active: 22) |
 | Recommended Decision | Hold |
 

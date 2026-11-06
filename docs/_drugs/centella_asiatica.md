@@ -50,7 +50,7 @@ but the only supporting study is **1 preclinical zebrafish publication**, with *
 | Predicted New Indication | insomnia (disease) |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 41) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 36) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

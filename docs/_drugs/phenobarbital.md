@@ -52,7 +52,7 @@ The prediction is best read as a likely model artifact. The score comes from the
 | Predicted New Indication | Trigeminal nerve neoplasm |
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 1 of 1; OTC monograph / unapproved listings: 187) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1; OTC monograph / unapproved listings: 190) |
 | Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 

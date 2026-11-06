@@ -50,7 +50,7 @@ The top-scoring predictions (e.g., post-bacterial disorder) have no supporting s
 | Predicted New Indication | Tinea corporis (highest-ranked prediction by TxGNN is post-bacterial disorder, but it has no evidence, so tinea corporis is the focus here) |
 | TxGNN Prediction Score | 0.9925 (tinea corporis); 0.9998 (post-bacterial disorder, rank 1, no evidence) |
 | Evidence Level | L5 (tinea corporis); L5 for all other predictions |
-| US Market Status | Marketed (active FDA-approved applications: 8 of 24; OTC monograph / unapproved listings: 35) |
+| US Market Status | Marketed (active FDA-approved applications: 8 of 24; OTC monograph / unapproved listings: 46) |
 | Number of FDA Applications | 24 (active: 8) |
 | Recommended Decision | Hold (tinea corporis may be treated as a research question) |
 

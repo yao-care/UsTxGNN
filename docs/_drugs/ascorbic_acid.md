@@ -51,7 +51,7 @@ The TxGNN model predicts it may be related to **non-syndromic esophageal malform
 | Predicted New Indication | non-syndromic esophageal malformation |
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 12 of 23; OTC monograph / unapproved listings: 203) |
+| US Market Status | Marketed (active FDA-approved applications: 12 of 23; OTC monograph / unapproved listings: 215) |
 | Number of FDA Applications | 23 (active: 12) |
 | Recommended Decision | Hold |
 

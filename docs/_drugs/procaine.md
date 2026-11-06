@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **methemoglobinemia**, but ther
 | Predicted New Indication | Methemoglobinemia |
 | TxGNN Prediction Score | 0.9950 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 4) |
-| Number of FDA Applications | 0 |
+| US Market Status | Not marketed (licenses canceled: 17 of 17) |
+| Number of FDA Applications | 17 (active: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **acne (disease)**, but there a
 | Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 11) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 17) |
 | Number of FDA Applications | 0 |
 | Number of approvals | 1 license (listed as a single-ingredient product; the license number is not recorded) |
 | Recommended Decision | Hold |

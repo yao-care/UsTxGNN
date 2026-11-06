@@ -52,7 +52,7 @@ The strongest signal in the data is for **headache disorder**, where evidence ex
 | Predicted New Indication | Pharyngitis |
 | TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 19 of 30; OTC monograph / unapproved listings: 2) |
+| US Market Status | Marketed (active FDA-approved applications: 19 of 30; OTC monograph / unapproved listings: 3) |
 | Number of FDA Applications | 30 (active: 19) |
 | Recommended Decision | Hold |
 

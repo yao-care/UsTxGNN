@@ -49,7 +49,7 @@ The TxGNN model predicts it may be useful for **breast fibrocystic disease**, bu
 | Predicted New Indication | Breast fibrocystic disease |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (active FDA-approved applications: 20 of 27; OTC monograph / unapproved listings: 43) |
+| US Market Status | Marketed (active FDA-approved applications: 20 of 27; OTC monograph / unapproved listings: 45) |
 | Number of FDA Applications | 27 (active: 20) |
 | Recommended Decision | Hold |
 

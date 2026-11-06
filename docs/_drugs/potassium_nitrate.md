@@ -50,7 +50,7 @@ This is a model-only prediction, and the data compiled for this report do not su
 | Predicted New Indication | Meningococcal infection |
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 150) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 173) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

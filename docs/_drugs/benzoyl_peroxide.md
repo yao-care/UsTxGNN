@@ -48,7 +48,7 @@ Benzoyl peroxide is a topical agent used for skin conditions, mainly acne. The T
 | Predicted New Indication | Vulvar inverted follicular keratosis |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 34 of 41; OTC monograph / unapproved listings: 195) |
+| US Market Status | Marketed (active FDA-approved applications: 34 of 41; OTC monograph / unapproved listings: 225) |
 | Number of FDA Applications | 41 (active: 34) |
 | Recommended Decision | Hold |
 

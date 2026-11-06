@@ -50,7 +50,7 @@ Currently there are **0 clinical trials** and **0 publications** supporting this
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 4 of 4; OTC monograph / unapproved listings: 46) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 4; OTC monograph / unapproved listings: 52) |
 | Number of FDA Applications | 4 (active: 4) |
 | Recommended Decision | Hold |
 

@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **congenital prothrombin defici
 | Predicted New Indication | Congenital prothrombin deficiency |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 7 of 46; OTC monograph / unapproved listings: 87) |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 46; OTC monograph / unapproved listings: 92) |
 | Number of FDA Applications | 46 (active: 7) |
 | Recommended Decision | Hold |
 

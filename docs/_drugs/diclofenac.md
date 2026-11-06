@@ -52,7 +52,7 @@ There are currently **0 clinical trials** and **14 publications** on this direct
 | Predicted New Indication | Hypotrichosis simplex of the scalp |
 | TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 65 of 98; OTC monograph / unapproved listings: 9) |
+| US Market Status | Marketed (active FDA-approved applications: 65 of 98; OTC monograph / unapproved listings: 10) |
 | Number of FDA Applications | 98 (active: 65) |
 | Recommended Decision | Proceed with Guardrails |
 

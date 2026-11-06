@@ -50,7 +50,7 @@ with **1 clinical trial** (a small, ongoing, non-placebo-controlled study) and a
 | Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (active FDA-approved applications: 15 of 28; OTC monograph / unapproved listings: 11) |
+| US Market Status | Marketed (active FDA-approved applications: 15 of 28; OTC monograph / unapproved listings: 16) |
 | Number of FDA Applications | 28 (active: 15) |
 | Recommended Decision | Hold |
 

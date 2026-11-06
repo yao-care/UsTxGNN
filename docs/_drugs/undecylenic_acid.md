@@ -50,7 +50,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Ectothrix infectious disease |
 | TxGNN Prediction Score | 0.9908 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 88) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 180) |
 | Number of FDA Applications | 0 |
 | Number of approvals | At least 3 licences (the list may be partial) |
 | Recommended Decision | Hold |

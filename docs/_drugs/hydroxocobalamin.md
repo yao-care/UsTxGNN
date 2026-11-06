@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **esophageal varices with bleed
 | Predicted New Indication | Esophageal varices with bleeding |
 | TxGNN Prediction Score | 0.9923 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 2 of 6) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 6; OTC monograph / unapproved listings: 1) |
 | Number of FDA Applications | 6 (active: 2) |
 | Recommended Decision | Hold |
 

@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **elevated plasma zinc**, but t
 | Predicted New Indication | Elevated plasma zinc |
 | TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 27 of 31; OTC monograph / unapproved listings: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 27 of 31; OTC monograph / unapproved listings: 1) |
 | Number of FDA Applications | 31 (active: 27) |
 | Recommended Decision | Hold |
 

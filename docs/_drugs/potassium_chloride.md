@@ -49,7 +49,7 @@ The TxGNN model predicts it may be useful for **Renal Tubular Acidosis**, but th
 | Predicted New Indication | Renal tubular acidosis |
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (active FDA-approved applications: 145 of 285; OTC monograph / unapproved listings: 186) |
+| US Market Status | Marketed (active FDA-approved applications: 145 of 285; OTC monograph / unapproved listings: 172) |
 | Number of FDA Applications | 285 (active: 145) |
 | Recommended Decision | Hold |
 

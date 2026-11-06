@@ -50,7 +50,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Rosacea conjunctivitis |
 | TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 23 of 109; OTC monograph / unapproved listings: 916) |
+| US Market Status | Marketed (active FDA-approved applications: 23 of 109; OTC monograph / unapproved listings: 990) |
 | Number of FDA Applications | 109 (active: 23) |
 | Recommended Decision | Hold |
 

@@ -49,7 +49,7 @@ The 5 retrieved papers use silver only as a staining reagent or concern unrelate
 | Predicted New Indication | Bone Paget disease |
 | TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 397) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 424) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

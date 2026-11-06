@@ -48,7 +48,7 @@ Black cohosh (*Cimicifuga racemosa*) is a botanical product, and the data compil
 | Predicted New Indication | Heart disease |
 | TxGNN Prediction Score | 0.9919 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 148) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 163) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

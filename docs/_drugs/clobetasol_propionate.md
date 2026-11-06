@@ -49,7 +49,7 @@ The TxGNN model predicts it may be relevant for **vulvar inverted follicular ker
 | Predicted New Indication | vulvar inverted follicular keratosis |
 | TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 57 of 100; OTC monograph / unapproved listings: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 57 of 100) |
 | Number of FDA Applications | 100 (active: 57) |
 | Recommended Decision | Hold |
 

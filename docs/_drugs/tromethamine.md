@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **Allergic Urticaria**, but the
 | Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 3 of 3) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 3; OTC monograph / unapproved listings: 2) |
 | Number of FDA Applications | 3 (active: 3) |
 | Recommended Decision | Hold |
 

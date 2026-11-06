@@ -50,7 +50,7 @@ There are currently **no clinical trials and no publications** supporting this d
 | Predicted New Indication | papillary conjunctivitis |
 | TxGNN Prediction Score | 0.9938 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 529) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 590) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

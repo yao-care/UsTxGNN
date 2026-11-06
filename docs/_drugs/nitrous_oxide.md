@@ -48,7 +48,7 @@ Nitrous oxide is an inhaled gas widely used as an anesthetic and analgesic. The 
 | Predicted New Indication | Benign prostatic hyperplasia |
 | TxGNN Prediction Score | 0.9952 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 7 of 7; OTC monograph / unapproved listings: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 7; OTC monograph / unapproved listings: 6) |
 | Number of FDA Applications | 7 (active: 7) |
 | Recommended Decision | Hold |
 

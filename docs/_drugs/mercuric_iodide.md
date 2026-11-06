@@ -50,7 +50,7 @@ It is a purely computational result, and mercury compounds are known to be cardi
 | Predicted New Indication | Ventricular tachycardia |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 23) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 24) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

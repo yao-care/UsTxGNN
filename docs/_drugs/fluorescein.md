@@ -52,7 +52,7 @@ The prediction comes only from the TxGNN model (deep learning) score, which may 
 | Predicted New Indication | Prinzmetal angina |
 | TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 7 of 8; OTC monograph / unapproved listings: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 8; OTC monograph / unapproved listings: 4) |
 | Number of FDA Applications | 8 (active: 7) |
 | Recommended Decision | Hold |
 

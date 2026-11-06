@@ -52,7 +52,7 @@ The data compiled for this report include **2 clinical studies in Sjogren patien
 | Predicted New Indication | Sjogren syndrome |
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 35) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 26) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Proceed with Guardrails |
 

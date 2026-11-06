@@ -52,7 +52,7 @@ However, there are **0 clinical trials** and **0 relevant publications** support
 | Predicted New Indication | Drug-induced osteoporosis |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 2 of 2; OTC monograph / unapproved listings: 2467) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 2; OTC monograph / unapproved listings: 2726) |
 | Number of FDA Applications | 2 (active: 2) |
 | Recommended Decision | Hold |
 

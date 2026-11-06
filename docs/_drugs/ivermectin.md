@@ -50,7 +50,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Vulvovaginal candidiasis |
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 14 of 15; OTC monograph / unapproved listings: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 14 of 15; OTC monograph / unapproved listings: 6) |
 | Number of FDA Applications | 15 (active: 14) |
 | Recommended Decision | Hold |
 

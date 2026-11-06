@@ -50,7 +50,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Plummer-Vinson syndrome |
 | TxGNN Prediction Score | 0.9918 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 312) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 335) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

@@ -47,7 +47,7 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Silicon D
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 4 |
 | Evidence level | Not applicable |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 512) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 578) |
 | Number of FDA Applications | 0 |
 
 ## Known uses among the model's candidates

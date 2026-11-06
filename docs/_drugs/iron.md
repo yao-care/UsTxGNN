@@ -50,7 +50,7 @@ but **no clinical trials and no publications** were found for this disease, so t
 | Predicted New Indication | Vitamin B12- and folate-independent constitutional megaloblastic anemia |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 140) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 164) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

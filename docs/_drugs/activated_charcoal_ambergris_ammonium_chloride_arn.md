@@ -52,7 +52,7 @@ Without a defined single active ingredient, DrugBank mapping, or TxGNN output, a
 | Predicted New Indication | No prediction generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction only; in this case, no output at all |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| US Market Status | Not marketed (no license on record) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 

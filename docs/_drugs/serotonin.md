@@ -50,7 +50,7 @@ The prediction is a network-based signal, not clinical evidence.
 | Predicted New Indication | Insomnia (disease) |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 51) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 62) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

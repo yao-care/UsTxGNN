@@ -50,7 +50,7 @@ but currently there are **0 registered clinical trials** and only **1 publicatio
 | Predicted New Indication | Gastroduodenitis |
 | TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 73) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 77) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

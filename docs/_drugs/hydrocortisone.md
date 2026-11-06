@@ -52,7 +52,7 @@ with **1 Phase 3 clinical trial** (where hydrocortisone served as the comparator
 | Predicted New Indication | Alopecia areata |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (active FDA-approved applications: 72 of 292; OTC monograph / unapproved listings: 409) |
+| US Market Status | Marketed (active FDA-approved applications: 72 of 292; OTC monograph / unapproved listings: 479) |
 | Number of FDA Applications | 292 (active: 72) |
 | Recommended Decision | Hold |
 

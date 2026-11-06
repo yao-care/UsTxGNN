@@ -48,7 +48,7 @@ Prasterone (DHEA) is a sex-steroid precursor whose original indications in the d
 | Predicted New Indication | Heparin cofactor 2 deficiency |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 1 of 1; OTC monograph / unapproved listings: 23) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1; OTC monograph / unapproved listings: 25) |
 | Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 

@@ -52,7 +52,7 @@ The model score is very high, but the evidence is weak and the biological ration
 | Predicted New Indication | Pneumocystosis |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 53 of 98; OTC monograph / unapproved listings: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 53 of 98; OTC monograph / unapproved listings: 2) |
 | Number of FDA Applications | 98 (active: 53) |
 | Recommended Decision | Hold |
 

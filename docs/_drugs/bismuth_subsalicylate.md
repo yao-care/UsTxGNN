@@ -50,7 +50,7 @@ The data compiled for this report show the strongest (still only indirect) suppo
 | Predicted New Indication | Paratyphoid fever |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 1 of 2; OTC monograph / unapproved listings: 228) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 2; OTC monograph / unapproved listings: 246) |
 | Number of FDA Applications | 2 (active: 1) |
 | Recommended Decision | Hold |
 

@@ -48,8 +48,8 @@ Dexamethasone is a systemic corticosteroid that is widely marketed in the United
 | Predicted New Indication | Alopecia mucinosa |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 64 of 158; OTC monograph / unapproved listings: 3) |
-| Number of FDA Applications | 158 (active: 64) |
+| US Market Status | Marketed (active FDA-approved applications: 65 of 159; OTC monograph / unapproved listings: 3) |
+| Number of FDA Applications | 159 (active: 65) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

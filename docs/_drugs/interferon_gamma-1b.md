@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **heart disease**, but there ar
 | Predicted New Indication | Heart disease |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 1 of 1; OTC monograph / unapproved listings: 9) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1; OTC monograph / unapproved listings: 10) |
 | Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 

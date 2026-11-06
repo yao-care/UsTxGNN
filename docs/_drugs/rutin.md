@@ -50,7 +50,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Breast fibrocystic disease |
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 12) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 16) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

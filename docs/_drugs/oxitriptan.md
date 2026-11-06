@@ -50,7 +50,7 @@ Currently there are **0 clinical trials** and **0 publications** supporting this
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 3) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 4) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

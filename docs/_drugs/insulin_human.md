@@ -50,7 +50,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Autoimmune oophoritis |
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 8 of 8; OTC monograph / unapproved listings: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 8 of 8; OTC monograph / unapproved listings: 11) |
 | Number of FDA Applications | 8 (active: 8) |
 | Recommended Decision | Hold |
 

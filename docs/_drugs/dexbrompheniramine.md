@@ -49,7 +49,7 @@ Allergic urticaria is a subtype of an already established indication (urticaria)
 | Predicted New Indication | Recalcitrant atopic dermatitis |
 | TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 0 of 8; OTC monograph / unapproved listings: 23) |
+| US Market Status | Marketed (active FDA-approved applications: 0 of 8; OTC monograph / unapproved listings: 22) |
 | Number of FDA Applications | 8 (active: 0) |
 | Recommended Decision | Hold |
 

@@ -48,7 +48,7 @@ Miconazole is a topical azole antifungal of the imidazole class. The TxGNN model
 | Predicted New Indication | 痤瘡 (acne (disease)) |
 | TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (active FDA-approved applications: 21 of 33; OTC monograph / unapproved listings: 163) |
+| US Market Status | Marketed (active FDA-approved applications: 21 of 33; OTC monograph / unapproved listings: 210) |
 | Number of FDA Applications | 33 (active: 21) |
 | Recommended Decision | Hold |
 

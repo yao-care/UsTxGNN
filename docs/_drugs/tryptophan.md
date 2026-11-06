@@ -52,7 +52,7 @@ Restless legs syndrome, the top-ranked prediction, has **no registered clinical 
 | Predicted New Indication | Restless legs syndrome (rank 1 prediction); insomnia is the best-supported candidate (rank 4) |
 | TxGNN Prediction Score | 0.9972 (restless legs syndrome); 0.9947 (insomnia) |
 | Evidence Level | L3 (restless legs syndrome and insomnia); L4–L5 for the other candidates |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 18) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 20) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

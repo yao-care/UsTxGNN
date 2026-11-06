@@ -50,7 +50,7 @@ There are currently **no registered clinical trials** and **no publications** su
 | Predicted New Indication | endothrix infectious disease |
 | TxGNN Prediction Score | 0.9902 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 3 of 5; OTC monograph / unapproved listings: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 5) |
 | Number of FDA Applications | 5 (active: 3) |
 | Recommended Decision | Hold |
 

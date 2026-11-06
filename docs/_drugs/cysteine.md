@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **dry eye syndrome**, but there
 | Predicted New Indication | Dry eye syndrome |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L4 (preclinical and mechanism studies only) |
-| US Market Status | Marketed (active FDA-approved applications: 2 of 4; OTC monograph / unapproved listings: 26) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 4; OTC monograph / unapproved listings: 32) |
 | Number of FDA Applications | 4 (active: 2) |
 | Recommended Decision | Hold |
 

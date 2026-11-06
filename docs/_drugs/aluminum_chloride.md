@@ -52,7 +52,7 @@ The evidence is mostly reviews and early-phase studies, and it does not demonstr
 | Predicted New Indication | Skin disease (best-supported candidate; the top TxGNN-ranked prediction is seborrheic keratosis, which has no supporting evidence) |
 | TxGNN Prediction Score | 0.9935 (skin disease); 0.9968 (seborrheic keratosis, rank 1) |
 | Evidence Level | L5 (skin disease); L5 for the other nine predictions, except as noted below |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 38) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 42) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold (research question: re-define the target as hyperhidrosis) |
 

@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and only **9 publications**, all p
 | Predicted New Indication | Gastroparesis |
 | TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 29) |
-| Number of FDA Applications | 0 |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1; OTC monograph / unapproved listings: 30) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -52,7 +52,7 @@ Those publications point toward possible airway harm from inhaled propylene glyc
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 101) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 98) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

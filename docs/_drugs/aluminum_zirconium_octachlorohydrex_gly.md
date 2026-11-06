@@ -52,7 +52,7 @@ As a result, no supporting clinical trial or literature evidence for a new indic
 | Predicted New Indication | None — no TxGNN prediction available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 51) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 61) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

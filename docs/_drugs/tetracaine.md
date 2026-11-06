@@ -50,7 +50,7 @@ The high score comes from the TxGNN model (deep learning) and may reflect simila
 | Predicted New Indication | Acrodermatitis chronica atrophicans |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 5 of 6; OTC monograph / unapproved listings: 18) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 6; OTC monograph / unapproved listings: 16) |
 | Number of FDA Applications | 6 (active: 5) |
 | Recommended Decision | Hold |
 

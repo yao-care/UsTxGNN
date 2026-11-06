@@ -50,7 +50,7 @@ The prediction rests on a computational score alone and has no direct clinical s
 | Predicted New Indication | Zinc, elevated plasma |
 | TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 0 of 5; OTC monograph / unapproved listings: 47) |
+| US Market Status | Marketed (active FDA-approved applications: 0 of 5; OTC monograph / unapproved listings: 59) |
 | Number of FDA Applications | 5 (active: 0) |
 | Recommended Decision | Hold |
 

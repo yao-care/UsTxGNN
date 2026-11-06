@@ -50,7 +50,7 @@ Currently there are **0 registered clinical trials** and **20 publications** (mo
 | Predicted New Indication | Stomach disease |
 | TxGNN Prediction Score | 0.9923 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 2 of 5; OTC monograph / unapproved listings: 239) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 5; OTC monograph / unapproved listings: 258) |
 | Number of FDA Applications | 5 (active: 2) |
 | Number of approvals | At least 3 licences (the list may be partial) |
 | Recommended Decision | Hold |

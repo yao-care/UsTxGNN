@@ -49,7 +49,7 @@ The TxGNN model predicts it may be relevant to **acromesomelic dysplasia, Campai
 | Predicted New Indication | acromesomelic dysplasia, Campailla Martinelli type |
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 7 of 7; OTC monograph / unapproved listings: 94) |
+| US Market Status | Marketed (active FDA-approved applications: 7 of 7; OTC monograph / unapproved listings: 102) |
 | Number of FDA Applications | 7 (active: 7) |
 | Recommended Decision | Hold |
 

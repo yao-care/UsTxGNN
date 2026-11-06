@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **epiglottitis**, but this rest
 | Predicted New Indication | Epiglottitis |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 0 of 1; OTC monograph / unapproved listings: 1056) |
+| US Market Status | Marketed (active FDA-approved applications: 0 of 1; OTC monograph / unapproved listings: 1131) |
 | Number of FDA Applications | 1 (active: 0) |
 | Recommended Decision | Hold |
 

@@ -50,7 +50,7 @@ but **no clinical trials and no publications** directly support this prediction 
 | Predicted New Indication | punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 0 of 14; OTC monograph / unapproved listings: 34) |
+| US Market Status | Marketed (active FDA-approved applications: 0 of 14; OTC monograph / unapproved listings: 36) |
 | Number of FDA Applications | 14 (active: 0) |
 | Recommended Decision | Hold |
 

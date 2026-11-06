@@ -50,7 +50,7 @@ The prediction is a computational hypothesis only.
 | Predicted New Indication | Exercise-induced malignant hyperthermia |
 | TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 3 of 6; OTC monograph / unapproved listings: 11) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 6; OTC monograph / unapproved listings: 12) |
 | Number of FDA Applications | 6 (active: 3) |
 | Recommended Decision | Hold |
 

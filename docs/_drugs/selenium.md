@@ -48,7 +48,7 @@ Selenium is an essential trace element, marketed in the US mainly as selenious a
 | Predicted New Indication | Sclerosing cholangitis |
 | TxGNN Prediction Score | 0.9904 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 162) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 196) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

@@ -48,7 +48,7 @@ Lidocaine is a local anesthetic and sodium channel blocker. The TxGNN model's to
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 93 of 205; OTC monograph / unapproved listings: 1136) |
+| US Market Status | Marketed (active FDA-approved applications: 93 of 205; OTC monograph / unapproved listings: 1331) |
 | Number of FDA Applications | 205 (active: 93) |
 | Number of approvals | At least 9 (the list may be partial) |
 | Recommended Decision | Hold |

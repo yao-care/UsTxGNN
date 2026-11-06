@@ -50,7 +50,7 @@ The score comes from the TxGNN model (deep learning) and may reflect similaritie
 | Predicted New Indication | Postinfectious vasculitis |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 6 of 55; OTC monograph / unapproved listings: 116) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 55; OTC monograph / unapproved listings: 113) |
 | Number of FDA Applications | 55 (active: 6) |
 | Recommended Decision | Hold |
 

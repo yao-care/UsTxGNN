@@ -47,7 +47,7 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Acetamino
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 0 |
 | Evidence level | Not applicable |
-| US Market Status | Marketed (active FDA-approved applications: 135 of 534; OTC monograph / unapproved listings: 2370) |
+| US Market Status | Marketed (active FDA-approved applications: 135 of 534; OTC monograph / unapproved listings: 2647) |
 | Number of FDA Applications | 534 (active: 135) |
 
 ## Known uses among the model's candidates

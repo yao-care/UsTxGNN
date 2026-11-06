@@ -50,8 +50,8 @@ The TxGNN model predicts it may be relevant to **vertebral anomalies and variabl
 | Predicted New Indication | Vertebral anomalies and variable endocrine and T-cell dysfunction |
 | TxGNN Prediction Score | 0.9938 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 22 of 31) |
-| Number of FDA Applications | 31 (active: 22) |
+| US Market Status | Marketed (active FDA-approved applications: 23 of 32) |
+| Number of FDA Applications | 32 (active: 23) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -50,7 +50,7 @@ Clotrimazole is a topical azole antifungal marketed in the United States as crea
 | Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 24 of 43; OTC monograph / unapproved listings: 158) |
+| US Market Status | Marketed (active FDA-approved applications: 24 of 43; OTC monograph / unapproved listings: 195) |
 | Number of FDA Applications | 43 (active: 24) |
 | Recommended Decision | Hold |
 

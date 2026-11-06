@@ -52,7 +52,7 @@ but currently there are **0 clinical trials** and only **1 publication** (a gene
 | Predicted New Indication | Biotin metabolic disease |
 | TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 23 of 62; OTC monograph / unapproved listings: 96) |
+| US Market Status | Marketed (active FDA-approved applications: 23 of 62; OTC monograph / unapproved listings: 106) |
 | Number of FDA Applications | 62 (active: 23) |
 | Recommended Decision | Hold |
 

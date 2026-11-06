@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **amenorrhea**, with **0 regist
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 0.9918 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 19) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 23) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

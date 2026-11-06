@@ -52,7 +52,7 @@ This direction is supported by **25 registered clinical trials** (only a few dir
 | Predicted New Indication | Hypertensive disorder |
 | TxGNN Prediction Score | 0.9916 |
 | Evidence Level | L1 (per the compiled scoring; see the note below) |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 4) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 5) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Proceed with Guardrails |
 

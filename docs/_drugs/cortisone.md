@@ -50,7 +50,7 @@ Cortisone is a corticosteroid that the body converts into its active form, corti
 | Predicted New Indication | Primary cutaneous T-cell lymphoma |
 | TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (active FDA-approved applications: 0 of 20; OTC monograph / unapproved listings: 47) |
+| US Market Status | Marketed (active FDA-approved applications: 0 of 20; OTC monograph / unapproved listings: 65) |
 | Number of FDA Applications | 20 (active: 0) |
 | Recommended Decision | Hold |
 

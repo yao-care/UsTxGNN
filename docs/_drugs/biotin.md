@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **dyspepsia**, but there are cu
 | Predicted New Indication | Dyspepsia |
 | TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 6 of 15; OTC monograph / unapproved listings: 86) |
+| US Market Status | Marketed (active FDA-approved applications: 6 of 15; OTC monograph / unapproved listings: 117) |
 | Number of FDA Applications | 15 (active: 6) |
 | Recommended Decision | Hold |
 

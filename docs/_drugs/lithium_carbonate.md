@@ -52,7 +52,7 @@ This is a model-only prediction with no direct supporting evidence.
 | Predicted New Indication | Pseudoachondroplasia |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 13 of 36; OTC monograph / unapproved listings: 52) |
+| US Market Status | Marketed (active FDA-approved applications: 13 of 36; OTC monograph / unapproved listings: 71) |
 | Number of FDA Applications | 36 (active: 13) |
 | Recommended Decision | Hold |
 

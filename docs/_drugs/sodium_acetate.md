@@ -50,7 +50,7 @@ The high score comes from the TxGNN model (deep learning) and may reflect simila
 | Predicted New Indication | Congenital prothrombin deficiency |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 21 of 55; OTC monograph / unapproved listings: 14) |
+| US Market Status | Marketed (active FDA-approved applications: 21 of 55; OTC monograph / unapproved listings: 13) |
 | Number of FDA Applications | 55 (active: 21) |
 | Recommended Decision | Hold |
 

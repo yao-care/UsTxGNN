@@ -52,7 +52,7 @@ Current data is insufficient to support a repurposing evaluation.
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (TxGNN model (deep learning) prediction stage not reached) |
-| US Market Status | Not marketed (no license on record) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

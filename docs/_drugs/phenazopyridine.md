@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **bronchitis**, but this rests 
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 0.9923 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 0 of 3; OTC monograph / unapproved listings: 109) |
+| US Market Status | Marketed (active FDA-approved applications: 0 of 3; OTC monograph / unapproved listings: 117) |
 | Number of FDA Applications | 3 (active: 0) |
 | Recommended Decision | Hold |
 

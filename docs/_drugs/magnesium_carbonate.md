@@ -49,7 +49,7 @@ The prediction largely overlaps with the drug's existing indications, so it is n
 | Predicted New Indication | Gastroduodenitis |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 1 of 1; OTC monograph / unapproved listings: 87) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1; OTC monograph / unapproved listings: 92) |
 | Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 

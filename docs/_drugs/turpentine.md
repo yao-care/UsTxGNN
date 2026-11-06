@@ -52,7 +52,7 @@ The prediction rests solely on a computational score.
 | Predicted New Indication | Multiple endocrine neoplasia |
 | TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 5) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 4) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

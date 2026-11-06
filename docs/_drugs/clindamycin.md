@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **punctate epithelial keratocon
 | Predicted New Indication | punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 85 of 141; OTC monograph / unapproved listings: 1) |
+| US Market Status | Marketed (active FDA-approved applications: 85 of 141) |
 | Number of FDA Applications | 141 (active: 85) |
 | Recommended Decision | Hold |
 

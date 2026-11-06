@@ -51,7 +51,7 @@ The TxGNN model predicts it may be relevant to **rheumatoid arthritis (rheumatoi
 | Predicted New Indication | rheumatoid arthritis |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 77) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 86) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

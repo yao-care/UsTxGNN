@@ -47,7 +47,7 @@ The TxGNN model (score ≥ 0.99) produced candidates for Niacin. Every candidate
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 0 |
 | Evidence level | Not applicable |
-| US Market Status | Marketed (active FDA-approved applications: 15 of 36; OTC monograph / unapproved listings: 44) |
+| US Market Status | Marketed (active FDA-approved applications: 15 of 36; OTC monograph / unapproved listings: 41) |
 | Number of FDA Applications | 36 (active: 15) |
 
 ## Known uses among the model's candidates

@@ -52,7 +52,7 @@ Without regulatory baseline data or model output, this evaluation cannot progres
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — but no output generated) |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
+| US Market Status | Not marketed (no license on record) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 

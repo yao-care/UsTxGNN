@@ -52,7 +52,7 @@ Overall evidence is weak, and none of the top 10 predictions is supported by a d
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 for cauda equina syndrome; L4 for open-angle glaucoma |
-| US Market Status | Marketed (active FDA-approved applications: 1 of 2; OTC monograph / unapproved listings: 306) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 2; OTC monograph / unapproved listings: 324) |
 | Number of FDA Applications | 2 (active: 1) |
 | Recommended Decision | Hold |
 

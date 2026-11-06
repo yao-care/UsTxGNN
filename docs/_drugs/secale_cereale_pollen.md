@@ -50,7 +50,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Alopecia |
 | TxGNN Prediction Score | 0.9901 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 1 of 1; OTC monograph / unapproved listings: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1; OTC monograph / unapproved listings: 6) |
 | Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 

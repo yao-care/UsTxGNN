@@ -50,7 +50,7 @@ Thiamine (vitamin B1) is marketed in the United States as injectable products, b
 | Predicted New Indication | Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (top-ranked); other predictions: primary hereditary glaucoma, open-angle glaucoma |
 | TxGNN Prediction Score | 0.9943 (top-ranked prediction) |
 | Evidence Level | L5 (top-ranked prediction) |
-| US Market Status | Marketed (active FDA-approved applications: 18 of 38; OTC monograph / unapproved listings: 62) |
+| US Market Status | Marketed (active FDA-approved applications: 18 of 38; OTC monograph / unapproved listings: 69) |
 | Number of FDA Applications | 38 (active: 18) |
 | Number of approvals | At least 11 ANDAs or similar records (the list may be partial) |
 | Recommended Decision | Hold |

@@ -52,7 +52,7 @@ No plausible mechanism links thyroid hormone replacement to this congenital kidn
 | Predicted New Indication | Renal hypodysplasia/aplasia |
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 8 of 12; OTC monograph / unapproved listings: 50) |
+| US Market Status | Marketed (active FDA-approved applications: 8 of 12; OTC monograph / unapproved listings: 53) |
 | Number of FDA Applications | 12 (active: 8) |
 | Recommended Decision | Hold |
 

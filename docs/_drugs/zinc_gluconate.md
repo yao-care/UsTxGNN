@@ -49,7 +49,7 @@ The TxGNN model predicts it may be useful for **anemia of prematurity**, but **n
 | Predicted New Indication | Anemia of prematurity |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 78) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 86) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

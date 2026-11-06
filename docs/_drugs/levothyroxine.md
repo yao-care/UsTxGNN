@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **renal hypodysplasia/aplasia**
 | Predicted New Indication | Renal hypodysplasia/aplasia |
 | TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 22 of 34; OTC monograph / unapproved listings: 57) |
+| US Market Status | Marketed (active FDA-approved applications: 22 of 34; OTC monograph / unapproved listings: 62) |
 | Number of FDA Applications | 34 (active: 22) |
 | Number of approvals | At least 11 (NDAs and ANDAs; the list may be partial) |
 | Recommended Decision | Hold |

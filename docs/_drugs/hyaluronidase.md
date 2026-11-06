@@ -54,7 +54,7 @@ The top-ranked prediction (esotropia) has no supporting evidence. This report th
 | Predicted New Indication | Esotropia |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | Esotropia L5 (adverse-event reports only); diabetic retinopathy L5 (nominal, outcomes unverified) |
-| US Market Status | Marketed (active FDA-approved applications: 13 of 14; OTC monograph / unapproved listings: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 13 of 14; OTC monograph / unapproved listings: 6) |
 | Number of FDA Applications | 14 (active: 13) |
 | Recommended Decision | Hold (esotropia); Hold, with a research question for diabetic retinopathy |
 

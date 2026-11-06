@@ -48,7 +48,7 @@ Magnesium salicylate is a salicylate-type pain reliever and anti-inflammatory ag
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 8) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 7) |
 | Number of FDA Applications | 0 |
 | Number of approvals | 3 licences (single-ingredient products) |
 | Recommended Decision | Hold |

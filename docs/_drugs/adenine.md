@@ -48,7 +48,7 @@ Adenine is a purine base that takes part in nucleotide metabolism. The TxGNN mod
 | Predicted New Indication | drug-induced osteoporosis |
 | TxGNN Prediction Score | 0.9916 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 21) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 23) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

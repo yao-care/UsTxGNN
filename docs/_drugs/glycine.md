@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but t
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 3 of 5; OTC monograph / unapproved listings: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 5; OTC monograph / unapproved listings: 4) |
 | Number of FDA Applications | 5 (active: 3) |
 | Recommended Decision | Hold |
 

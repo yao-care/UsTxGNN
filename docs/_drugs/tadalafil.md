@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **Ambras type hypertrichosis un
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 44 of 52; OTC monograph / unapproved listings: 12) |
+| US Market Status | Marketed (active FDA-approved applications: 44 of 52; OTC monograph / unapproved listings: 1) |
 | Number of FDA Applications | 52 (active: 44) |
 | Recommended Decision | Hold |
 

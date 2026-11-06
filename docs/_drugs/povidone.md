@@ -50,7 +50,7 @@ but currently **0 clinical trials** and **0 publications** support this directio
 | Predicted New Indication | Congenital ichthyosiform erythroderma |
 | TxGNN Prediction Score | 0.9911 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 53) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 48) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

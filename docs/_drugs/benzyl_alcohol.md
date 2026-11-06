@@ -48,7 +48,7 @@ Benzyl alcohol is a topical and preservative agent used in dermatological and pa
 | Predicted New Indication | bronchitis |
 | TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 0 of 1; OTC monograph / unapproved listings: 22) |
+| US Market Status | Marketed (active FDA-approved applications: 0 of 1; OTC monograph / unapproved listings: 30) |
 | Number of FDA Applications | 1 (active: 0) |
 | Recommended Decision | Hold |
 

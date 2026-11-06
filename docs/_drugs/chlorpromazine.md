@@ -51,7 +51,7 @@ The TxGNN model predicts it may be relevant to **retinal dystrophy with or witho
 | Predicted New Indication | retinal dystrophy with or without extraocular anomalies |
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 28 of 84) |
+| US Market Status | Marketed (active FDA-approved applications: 28 of 84; OTC monograph / unapproved listings: 2) |
 | Number of FDA Applications | 84 (active: 28) |
 | Recommended Decision | Hold |
 

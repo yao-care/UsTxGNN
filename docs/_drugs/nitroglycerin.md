@@ -50,7 +50,7 @@ with **3 clinical trials** (1 completed, 1 of unknown status, 1 not yet recruiti
 | Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (active FDA-approved applications: 26 of 63; OTC monograph / unapproved listings: 90) |
+| US Market Status | Marketed (active FDA-approved applications: 26 of 63; OTC monograph / unapproved listings: 94) |
 | Number of FDA Applications | 63 (active: 26) |
 | Recommended Decision | Hold |
 

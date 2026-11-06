@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **papillary conjunctivitis**, b
 | Predicted New Indication | Papillary conjunctivitis |
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1366) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1659) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

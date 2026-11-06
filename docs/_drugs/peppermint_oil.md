@@ -51,7 +51,7 @@ That prediction has **1 completed small trial** and **2 directly relevant public
 | Predicted New Indication | Leprosy |
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 11) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 9) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold (research question only) |
 

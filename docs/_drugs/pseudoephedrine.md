@@ -52,7 +52,7 @@ This is largely an extension of existing use rather than a true repurposing.
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 57 of 128; OTC monograph / unapproved listings: 79) |
+| US Market Status | Marketed (active FDA-approved applications: 57 of 128; OTC monograph / unapproved listings: 83) |
 | Number of FDA Applications | 128 (active: 57) |
 | Recommended Decision | Hold |
 

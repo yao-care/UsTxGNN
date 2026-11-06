@@ -50,7 +50,7 @@ with **15 clinical trials** and **20 publications** currently supporting this di
 | Predicted New Indication | Obstructive lung disease |
 | TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 54 of 96; OTC monograph / unapproved listings: 118) |
+| US Market Status | Marketed (active FDA-approved applications: 54 of 96; OTC monograph / unapproved listings: 143) |
 | Number of FDA Applications | 96 (active: 54) |
 | Recommended Decision | Proceed with Guardrails |
 

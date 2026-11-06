@@ -52,7 +52,7 @@ The evidence mostly reflects platinum-class drugs (cisplatin, carboplatin) rathe
 | Predicted New Indication | Urinary bladder carcinoma |
 | TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L1 (as assigned in the data compiled for this report; see note below) |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 50) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 62) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Proceed with Guardrails |
 

@@ -49,7 +49,7 @@ The TxGNN model predicts it may be relevant to **obsolete bundle branch block**,
 | Predicted New Indication | obsolete bundle branch block |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 14 of 23; OTC monograph / unapproved listings: 75) |
+| US Market Status | Marketed (active FDA-approved applications: 14 of 23; OTC monograph / unapproved listings: 74) |
 | Number of FDA Applications | 23 (active: 14) |
 | Recommended Decision | Hold |
 

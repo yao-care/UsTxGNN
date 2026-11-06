@@ -48,7 +48,7 @@ Trolamine salicylate is a topical salicylate used in over-the-counter pain relie
 | Predicted New Indication | Exostosis |
 | TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 26) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 25) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

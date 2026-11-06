@@ -50,7 +50,7 @@ The TxGNN model **did not generate any predicted new indications** for this comp
 | Predicted New Indication | None generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (Model prediction only — no prediction produced) |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 363) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 432) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 

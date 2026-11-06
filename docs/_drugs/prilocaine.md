@@ -52,7 +52,7 @@ The evidence is early-stage: small, uncontrolled studies, mostly of the lidocain
 | Predicted New Indication | Papillary conjunctivitis |
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 9 of 16; OTC monograph / unapproved listings: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 16; OTC monograph / unapproved listings: 3) |
 | Number of FDA Applications | 16 (active: 9) |
 | Recommended Decision | Hold |
 

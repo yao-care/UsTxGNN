@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but
 | Predicted New Indication | Sclerosing cholangitis |
 | TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 12) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 13) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

@@ -52,7 +52,7 @@ The TxGNN model returned **no predicted new indications** for this combination q
 | Predicted New Indication | None (TxGNN returned no predictions) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction not available; no supporting studies identified |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 14) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 16) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | **Hold** |
 

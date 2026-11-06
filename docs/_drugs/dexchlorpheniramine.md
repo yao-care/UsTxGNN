@@ -47,7 +47,7 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Dexchlorp
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 2 |
 | Evidence level | Not applicable |
-| US Market Status | Marketed (active FDA-approved applications: 1 of 5; OTC monograph / unapproved listings: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 5; OTC monograph / unapproved listings: 5) |
 | Number of FDA Applications | 5 (active: 1) |
 
 ## Known uses among the model's candidates

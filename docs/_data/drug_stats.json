@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-04",
-  "total_drugs": 954,
+  "generated": "2026-11-06",
+  "total_drugs": 953,
   "level_counts": {
     "L1": 14,
     "L2": 38,
     "L3": 32,
     "L4": 59,
-    "L5": 778
+    "L5": 777
   },
   "all_drugs": [
     {
@@ -4214,12 +4214,6 @@
       "slug": "polidocanol",
       "level": "L1",
       "indication_count": 10
-    },
-    {
-      "name": "Polyethylene Glycol 3500",
-      "slug": "polyethylene_glycol_3500",
-      "level": "L5",
-      "indication_count": 3
     },
     {
       "name": "Polyethylene Glycol 400",

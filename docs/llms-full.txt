@@ -14,7 +14,7 @@ Evidence levels range from L1 (stronger clinical evidence) to L5 (model predicti
 ## Site data
 
 - Drug dataset: FDA National Drug Code (NDC) Directory — https://www.accessdata.fda.gov/cder/ndctext.zip; marketing status: Drugs@FDA full file via openFDA — https://download.open.fda.gov/drug/drugsfda/drug-drugsfda-0001-of-0001.json.zip
-- Evidence levels of the 954 drug reports: L1 14 · L2 38 · L3 32 · L4 59 · L5 778 · N/A 33 (N/A = Known Uses Only (No New Predictions))
+- Evidence levels of the 953 drug reports: L1 14 · L2 38 · L3 32 · L4 59 · L5 777 · N/A 33 (N/A = Known Uses Only (No New Predictions))
 <!-- site-data:end -->
 
 ## Main content

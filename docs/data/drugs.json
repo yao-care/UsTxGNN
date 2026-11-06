@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-17",
-  "total_count": 957,
+  "total_count": 956,
   "source": "UsTxGNN",
   "drugs": [
     {
@@ -7042,16 +7042,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/polidocanol/"
-    },
-    {
-      "slug": "polyethylene-glycol-3500",
-      "name": "Polyethylene Glycol 3500",
-      "evidence_level": "L5",
-      "indication_count": 3,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/polyethylene-glycol-3500/"
     },
     {
       "slug": "polyethylene-glycol-400",

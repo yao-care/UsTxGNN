@@ -19,12 +19,12 @@ Drug repurposing predictions for United States FDA-approved drugs using the TxGN
 
 | Item | Count |
 |------|------|
-| **Drug Reports** | 954 |
+| **Drug Reports** | 953 |
 | **Total Predictions** | 3,749,899 |
 | **Unique Drugs** | 1,666 |
 | **Unique Indications** | 17,041 |
 | **DDI Data** | 160,235 |
-| **FHIR Resources** | 1,172 MK / 6,341 CUD |
+| **FHIR Resources** | 1,171 MK / 6,338 CUD |
 
 ### Evidence Level Distribution
 
@@ -34,7 +34,7 @@ Drug repurposing predictions for United States FDA-approved drugs using the TxGN
 | **L2** | 38 | Single RCT or multiple Phase 2 |
 | **L3** | 32 | Observational studies |
 | **L4** | 59 | Preclinical / mechanistic studies |
-| **L5** | 778 | Computational prediction only |
+| **L5** | 777 | Computational prediction only |
 | **N/A** | 33 | Known uses only (no new prediction) |
 
 ### By Source

@@ -1,0 +1,6 @@
+{
+ "_note": "一律 noindex＋sitemap: false 的藥物頁（scripts/sync_notes_to_docs.py 產頁時套用，跟 keep_indexed.json 相反；checker N1 也認這份）。每頁附依據，用戶核准才加。",
+ "pages": {
+  "polyethylene_glycol_3500": "2026-11-06 用戶決定下架（noindex）。本頁唯一的來源是 Mylan NDC 51079-306 的 SPL 把成分編成 POLYETHYLENE GLYCOL 3500（UNII FVS1AZD90Y），但該產品的品名、標籤文字都寫 Polyethylene Glycol 3350, USP（DailyMed setid 219bcbc4-b84a-4209-9f34-ef2b0ef0d273，2026-04-08 版），申請號 ANDA078915 在 Drugs@FDA 的成分也是 PEG 3350：仿單成分錯編，美國沒有真正的 PEG 3500 產品。站上沒有 PEG 3350 頁可轉址。"
+ }
+}

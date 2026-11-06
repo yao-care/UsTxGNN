@@ -173,7 +173,11 @@ def extra_front_matter(bundle_path: Path, evidence_level: str, indication_count:
         no_new = not mon and not cites
     else:
         no_new = not names
-    if bundle is not None and no_new and evidence_level == "L5" and bundle_path.parent.name not in keep:
+    # 2026-11-06：docs/_data/force_noindex.json 列的頁一律 noindex（用戶核准、每頁附依據；例：PEG 3500 頁來源是仿單成分錯編）
+    forced = bundle_path.parents[3] / "docs" / "_data" / "force_noindex.json"
+    force = set(json.loads(forced.read_text(encoding="utf-8")).get("pages", {})) if forced.exists() else set()
+    if (bundle is not None and no_new and evidence_level == "L5" and bundle_path.parent.name not in keep) \
+            or bundle_path.parent.name in force:
         lines += ["noindex: true", "sitemap: false"]
     return "".join(l + "\n" for l in lines)
 

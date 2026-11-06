@@ -3,6 +3,8 @@ layout: default
 title: Polyethylene Glycol 3500
 parent: Model Prediction Only (L5)
 nav_order: 1060
+noindex: true
+sitemap: false
 evidence_level: L5
 indication_count: 3
 monitor_inn: "POLYETHYLENE GLYCOL 3500"

@@ -5,7 +5,9 @@
 # （含 TwTxGNN 模板殘留的 Taiwan 狀態列）→ checker／gate → 通過才 commit 頁面、發新 data Release（舊 tag 不動）。
 # 全程不用 AI。停損（checker 新錯誤、gate、h1、改太多頁、資料下載失敗）一律不推、開 issue。
 # 觸發：push 修改 .github/license-rebuild.request（雲端 session 沒有 workflow_dispatch 權限時用），或手動。
-#   request 檔內容：mode=dry（只跑、上傳結果，不 commit）或 mode=apply；max_pages=<停損頁數>
+#   request 檔內容：mode=dry（只跑、上傳結果，不 commit）或 mode=apply；max_pages=<停損頁數>；
+#   baseline=<data-* tag>（選填，2026-11-06 起）：另下載該 Release 的 data/bundles 當比較基準，申請號集合跟它（或跟重建前）不同的藥，
+#   許可證表一律重排（補前幾次重建漏排的頁；規則見 scripts/sync_license_tables.py 的規則 5）
 # 規則見 scripts/license_rebuild_run.py、scripts/rebuild_licenses_by_ingredient.py、tools/txgnn/.claude/delete_license_sentences.py。
 name: License rebuild by ingredient
 
@@ -43,15 +45,17 @@ jobs:
       - name: Read request
         run: |
           set -euo pipefail
-          MODE="${{ inputs.mode }}"; MAXP="${{ inputs.max_pages }}"
+          MODE="${{ inputs.mode }}"; MAXP="${{ inputs.max_pages }}"; BASE_TAG=""
           if [ "${{ github.event_name }}" = "push" ]; then
             MODE=$(sed -n 's/^mode=//p' .github/license-rebuild.request | tr -d '[:space:]')
             MAXP=$(sed -n 's/^max_pages=//p' .github/license-rebuild.request | tr -d '[:space:]')
+            BASE_TAG=$(sed -n 's/^baseline=//p' .github/license-rebuild.request | tr -d '[:space:]')
           fi
           [[ "$MODE" =~ ^(dry|apply)$ ]] || { echo "mode 只能是 dry 或 apply" >&2; exit 1; }
           [[ -z "$MAXP" || "$MAXP" =~ ^[0-9]+$ ]] || { echo "max_pages 要是數字" >&2; exit 1; }
-          echo "MODE=$MODE" >> "$GITHUB_ENV"; echo "MAXP=$MAXP" >> "$GITHUB_ENV"
-          echo "mode=$MODE max_pages=${MAXP:-預設}" >> "$GITHUB_STEP_SUMMARY"
+          [[ -z "$BASE_TAG" || "$BASE_TAG" =~ ^data-[0-9]{8}(-[0-9]{6})?[a-z]?$ ]] || { echo "baseline 要是 data-* tag" >&2; exit 1; }
+          echo "MODE=$MODE" >> "$GITHUB_ENV"; echo "MAXP=$MAXP" >> "$GITHUB_ENV"; echo "BASE_TAG=$BASE_TAG" >> "$GITHUB_ENV"
+          echo "mode=$MODE max_pages=${MAXP:-預設} baseline=${BASE_TAG:-無}" >> "$GITHUB_STEP_SUMMARY"
 
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
@@ -65,12 +69,26 @@ jobs:
       - name: Restore data from Release
         run: bash scripts/restore_data.sh
 
+      - name: Download baseline bundles
+        if: env.BASE_TAG != ''
+        run: |
+          set -euo pipefail
+          SITE=$(cat tools/txgnn/SITE)
+          D=$(mktemp -d); OUTB="$RUNNER_TEMP/baseline"
+          gh release download "$BASE_TAG" -D "$D" -p "$SITE-data.*"
+          (cd "$D" && sha256sum -c "$SITE-data.sha256")
+          mkdir -p "$OUTB"
+          cat "$D/$SITE-data".tar.gz.part-* | tar xzf - -C "$OUTB" --wildcards "$SITE/data/bundles/*/drug_bundle.json"
+          rm -rf "$D"
+          echo "BASE_BUNDLES=$OUTB/$SITE/data/bundles" >> "$GITHUB_ENV"
+          echo "baseline 證據包：$(ls "$OUTB/$SITE/data/bundles" | wc -l) 個（$BASE_TAG）" >> "$GITHUB_STEP_SUMMARY"
+
       - name: Rebuild licenses
         id: rebuild
         run: |
           WS=$(bash scripts/txgnn_ws.sh)
           set +e
-          "$GITHUB_WORKSPACE/.venv/bin/python" scripts/license_rebuild_run.py --ws "$WS" ${MAXP:+--max-pages "$MAXP"}
+          "$GITHUB_WORKSPACE/.venv/bin/python" scripts/license_rebuild_run.py --ws "$WS" ${MAXP:+--max-pages "$MAXP"} ${BASE_BUNDLES:+--baseline-bundles "$BASE_BUNDLES"}
           code=$?
           set -e
           echo "code=$code" >> "$GITHUB_OUTPUT"

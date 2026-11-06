@@ -7,15 +7,17 @@ OTC monograph／未核准類別的列名產品另外計數（2026-11-06 起用 o
 2. scripts/rebuild_licenses_by_ingredient.py：依成分重建 data/bundles 的許可證紀錄。
 3. 事實層（dump_license_facts）→ 許可證表狀態格（license_table_sync.apply，用語取 .claude/license_labels/<站>.json）→
    概覽表狀態列、張數列（sync_market_rows；US 寫成「FDA 核准申請 X／N；OTC monograph／未核准列名 K」）→
-   許可證表依證據包重排（scripts/sync_license_tables.py：表裡有不屬於本藥的申請號、表格列的狀態跟事實相反、或已是程式產生的表；2026-11-06 起）→
+   許可證表依證據包重排（scripts/sync_license_tables.py：表裡有不屬於本藥的申請號、表格列的狀態跟事實相反、或已是程式產生的表；2026-11-06 起；
+   另加「這次重建申請號集合有變的藥」：重建前後的證據包比對，結果寫 apps_changed.json；--baseline-bundles <目錄> 可另給一份
+   較舊的證據包（例：上一個 data Release 的 data/bundles）一起比，補上前幾次重建漏排的頁）→
    刪掉跟新事實矛盾的句子（.claude/delete_license_sentences.py，
    人工核對清單 scripts/license_sentence_fixes.json）→ lastmod（正文有變才換日期）。
 5. 停損（任一條不過就把 docs 還原、exit 非 0，workflow 開 issue）：
    - checker：任何 M 類（市場狀態）錯誤，或出現基準以外的新錯誤
    - gate（scripts/check_seo_docs.py）沒過；改到的頁 h1 不是恰好 1 個
    - 改到的頁數超過 --max-pages（預設 min(200, 5%)；這次一次性重建由 request 檔指定）
-結果寫 .license_rebuild/（summary.md、rebuild.tsv、rebuild.excluded.tsv、tables.tsv、deletions.tsv、pages.diff）。
-用法（repo 根目錄）：python3 scripts/license_rebuild_run.py --ws <工作目錄> [--max-pages N] [--skip-download]
+結果寫 .license_rebuild/（summary.md、rebuild.tsv、rebuild.excluded.tsv、apps_changed.json、tables.tsv、deletions.tsv、pages.diff）。
+用法（repo 根目錄）：python3 scripts/license_rebuild_run.py --ws <工作目錄> [--max-pages N] [--skip-download] [--baseline-bundles <目錄>]
 """
 import importlib.util
 import json
@@ -87,12 +89,22 @@ def main(argv):
     lts = _load("lts", ws / ".claude/license_table_sync_20261029.py")
     lf = ws / ".claude/license_labels" / f"{SITE}.json"
     labels = json.loads(lf.read_text(encoding="utf-8")) if lf.exists() else lts.learn(SITE)  # 用重建前的事實學
-    # 2. 重建證據包
+    # 2. 重建證據包（重建前先記下各藥的申請號集合，重建後比對：集合有變的藥，許可證表一律重排）
+    sl = _load("slt", ROOT / "scripts/sync_license_tables.py")
+    apps_before = sl.app_sets(ROOT / "data/bundles")
+    bl = Path(argv[argv.index("--baseline-bundles") + 1]) if "--baseline-bundles" in argv else None
+    apps_base = sl.app_sets(bl) if bl else None
+    if bl and not apps_base:
+        stop(2, f"--baseline-bundles {bl} 沒有證據包")
     dl = ["--skip-download"] if "--skip-download" in argv else []  # Drugs@FDA：重建前重新下載
     r = run([PY, "scripts/rebuild_licenses_by_ingredient.py", *dl, "--report", str(OUT / "rebuild.tsv")], check=False)
     if r.returncode != 0:
         stop(2, "許可清單下載或重建失敗：" + (r.stderr or r.stdout)[-300:])
     S.append("- 重建：" + r.stdout.strip().split("\n")[-1])
+    chg = sl.apps_changed(sl.app_sets(ROOT / "data/bundles"), apps_before, apps_base)
+    (OUT / "apps_changed.json").write_text(json.dumps(chg, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    S.append(f"- 申請號集合有變的證據包：{len(chg)} 個（比對重建前" + (f"與 {bl}" if bl else "") + "）"
+             + ("：" + "、".join(list(chg)[:12]) + ("…" if len(chg) > 12 else "") if chg else ""))
     # 4. 事實層、概覽表、許可證表、刪句、lastmod
     run([PY, ".claude/dump_license_facts_20261021.py", SITE], cwd=ws)
     tch, uns = lts.apply(SITE, labels)
@@ -100,7 +112,7 @@ def main(argv):
     rows = lts.sync_market_rows(SITE)
     S.append(f"- 概覽表狀態／張數列改 {sum(len(v) for v in rows.values())} 格（{len(rows)} 頁）")
     # 2026-11-06（用戶決定）：許可證表列了不屬於本藥的申請號、或已是程式產生的表 → 依證據包整張重排（規則見 scripts/sync_license_tables.py）
-    r = run([PY, "scripts/sync_license_tables.py", "--ws", str(ws), "--report", str(OUT / "tables.tsv")])
+    r = run([PY, "scripts/sync_license_tables.py", "--ws", str(ws), "--report", str(OUT / "tables.tsv"), "--changed", str(OUT / "apps_changed.json")])
     S.append("- " + r.stdout.strip().split("\n")[-1])
     r = run([PY, ".claude/delete_license_sentences.py", SITE, "--log", str(OUT / "deletions.tsv")], cwd=ws)
     S.append("- 矛盾句：" + r.stdout.strip().split("\n")[-1])

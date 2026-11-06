@@ -20,13 +20,16 @@
   3. 段落正文點名本藥的申請號、但那個號碼不屬於本藥（只算沒有「另一個藥名＋as a standalone／standalone drug」這類
      明說是別的藥的句子；例：soybean_oil 頁「three allergenic-extract BLAs」）；
   4. 表格列寫的狀態跟事實層相反（號碼格夾著狀態字「NDA208743 (cancelled)」、或別欄「Not specified (valid)」；2026-11-06 起，
-     判斷用 checker .claude/check_drug_page.py 的 row_status_conflicts，checker 的 M1 也擋同一種寫法）。
+     判斷用 checker .claude/check_drug_page.py 的 row_status_conflicts，checker 的 M1 也擋同一種寫法）；
+  5. 這次重建跟上次的證據包相比，申請號集合有變（2026-11-06，用戶決定；例 chlorpheniramine、codeine、pseudoephedrine
+     多了申請號，表格卻沒觸發 1–4 而留著舊寫法）。--changed <json> 由 scripts/license_rebuild_run.py 依重建前後的證據包產生
+     （{證據包鍵: {"added": [...], "dropped": [...]}}）；每次依成分重建都照這條比。
 每週許可證更新（scripts/license_adapter.py 的 sync_tables）：狀態有變的藥照同一套重排（resync_tables），只改表格與 SHOW 句。
 表格重排後，正文跟新事實矛盾的句子由 .claude/delete_license_sentences.py（規則＋人工清單 scripts/license_sentence_fixes.json）刪，
 本程式不刪句。
 
 用法（repo 根目錄，先在工作目錄跑 dump_license_facts）：
-  python3 scripts/sync_license_tables.py --ws <工作目錄> [--dry-run] [--report out.tsv] [頁 ...]
+  python3 scripts/sync_license_tables.py --ws <工作目錄> [--dry-run] [--report out.tsv] [--changed apps_changed.json] [頁 ...]
 """
 import difflib
 import json
@@ -130,13 +133,41 @@ def own_apps(tf):
     return {str(r.get("license_id") or "").strip() for r in tf.get("records") or [] if not r.get("listing")}
 
 
-def needs_resync(lines, tf, conflicts=None):
-    """重建時要重排的理由（空字串＝不用）。conflicts：表格列 → [(代碼, 說明)]，用 checker 的 row_status_conflicts（同一套判斷）"""
+def app_sets(bundles_dir):
+    """證據包目錄 → {證據包鍵: 申請號集合}（tfda.records 裡的 NDA／ANDA／BLA；列名產品不算）。重建前後各取一次比對（規則 5）"""
+    out = {}
+    for f in sorted(Path(bundles_dir).glob("*/drug_bundle.json")):
+        tf = json.loads(f.read_text(encoding="utf-8")).get("tfda") or {}
+        out[f.parent.name] = sorted(i for i in own_apps(tf) if APPL.fullmatch(i))
+    return out
+
+
+def apps_changed(after, *befores):
+    """重建後的申請號集合跟（任一個）比較基準不同的證據包 → {鍵: {"added", "dropped"}}；基準裡沒有的鍵（新藥）不算"""
+    out = {}
+    for k, now in after.items():
+        for before in befores:
+            if before is None or k not in before or set(before[k]) == set(now):
+                continue
+            d = out.setdefault(k, {"added": set(), "dropped": set()})
+            d["added"] |= set(now) - set(before[k])
+            d["dropped"] |= set(before[k]) - set(now)
+    return {k: {"added": sorted(v["added"]), "dropped": sorted(v["dropped"])} for k, v in sorted(out.items())}
+
+
+def needs_resync(lines, tf, conflicts=None, changed=None):
+    """重建時要重排的理由（空字串＝不用）。conflicts：表格列 → [(代碼, 說明)]，用 checker 的 row_status_conflicts（同一套判斷）；
+    changed：這次重建申請號集合有變時為 {"added": [...], "dropped": [...]}（規則 5）"""
     a, b, x, y = section(lines)
     if x is None:
         return ""
     if lines[x].strip() == HEAD:
         return "程式產生的表格"
+    if changed is not None:
+        add, drop = changed.get("added") or [], changed.get("dropped") or []
+        return "重建時申請號有變：" + "；".join(x for x in (
+            ("新增 " + ", ".join(add[:8]) + (f" 等 {len(add)} 個" if len(add) > 8 else "")) if add else "",
+            ("移除 " + ", ".join(drop[:8]) + (f" 等 {len(drop)} 個" if len(drop) > 8 else "")) if drop else "") if x)
     own = own_apps(tf)
     bad = sorted({m.group(1) + m.group(2) for l in lines[x:y + 1] for m in APPL.finditer(l)} - own)
     if bad:
@@ -232,7 +263,9 @@ def main(argv):
     ws = Path(argv[argv.index("--ws") + 1])
     dry = "--dry-run" in argv
     rep = argv[argv.index("--report") + 1] if "--report" in argv else None
-    only = {a for a in argv if not a.startswith("--") and a not in (str(ws), rep)}
+    chg_f = argv[argv.index("--changed") + 1] if "--changed" in argv else None
+    only = {a for a in argv if not a.startswith("--") and a not in (str(ws), rep, chg_f)}
+    changed = json.loads(Path(chg_f).read_text(encoding="utf-8")) if chg_f else {}
     fs = facts(ws)
     ck = _load_checker(ws)
     log, n = [], 0
@@ -248,7 +281,7 @@ def main(argv):
             continue
         fc = fs.get(key) or fs.get(page.stem) or {}
         lic = {ck.mv2.norm_id(k): s for k, s in (fc.get("licenses") or {}).items()} if ck else {}
-        why = needs_resync(t.split("\n"), tf, (lambda rows: ck.row_status_conflicts(SITE, rows, lic)) if ck else None)
+        why = needs_resync(t.split("\n"), tf, (lambda rows: ck.row_status_conflicts(SITE, rows, lic)) if ck else None, changed.get(key))
         if not why:
             continue
         new, crlf = resync_page(page, tf, fs.get(key) or fs.get(page.stem))

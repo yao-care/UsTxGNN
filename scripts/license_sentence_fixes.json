@@ -463,6 +463,15 @@
    "sentence": "- The drug is marketed in the US, with 10 of 10 licenses valid, and the package insert's warnings and contraindications are missing from the data",
    "cut": ", with 10 of 10 licenses valid",
    "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥 14 張申請有 13 張有效，「10 張都有效」與事實不符；上市與缺仿單資料的說法保留"
+  },
+  {
+   "sentence": "Most of the products are subcutaneous biologic formulations in which hyaluronidase is a component",
+   "reason": "比對規則更新後（2026-11-06，用戶決定；Drugs@FDA／NDC 2026-11-06），含重組人類玻尿酸酶（GSRS 743QUY4VD8）的皮下組合產品不再算本藥；本藥現在是 Vitrase、Amphadase 等單方與列名產品，「多數是皮下生物製劑組合」與事實不符"
+  },
+  {
+   "sentence": "It is used mainly to help other injected drugs spread through tissue, and it is part of several subcutaneous biologic formulations",
+   "cut": ", and it is part of several subcutaneous biologic formulations",
+   "reason": "比對規則更新後（2026-11-06，用戶決定；Drugs@FDA／NDC 2026-11-06），皮下生物製劑組合用的是重組人類玻尿酸酶（GSRS 743QUY4VD8），跟本藥（8KOG53Z5EM）不是同一物質；只刪這個子句，擴散劑用途保留"
   }
  ],
  "iron": [
@@ -1887,6 +1896,19 @@
    "sentence": "- Clarification of the US regulatory status, given that the drug is marketed with seven valid licenses",
    "cut": ", given that the drug is marketed with seven valid licenses",
    "reason": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 9 張有效申請，「7 張」與事實不符"
+  }
+ ],
+ "chlorpheniramine": [
+  {
+   "sentence": "Three US licence records are in the local data, and the list may be partial",
+   "reason": "比對規則更新後（2026-11-06，用戶決定；Drugs@FDA／NDC 2026-11-06），本藥依成分比對有 70 張 FDA 申請（6 張有效）＋267 筆列名產品，是完整清單，「3 筆、可能不完整」與事實不符"
+  }
+ ],
+ "pseudoephedrine": [
+  {
+   "sentence": "The drug is marketed in the US with 3 valid licenses, and label safety data are missing",
+   "cut": " with 3 valid licenses",
+   "reason": "比對規則更新後（2026-11-06，用戶決定；Drugs@FDA／NDC 2026-11-06），本藥 129 張 FDA 申請有 57 張有效，「3 張」與事實不符；上市與缺仿單資料的說法保留"
   }
  ]
 }

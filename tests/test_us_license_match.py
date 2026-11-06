@@ -91,5 +91,23 @@ def test_salts_and_names_of_same_active_moiety_2026_11_06():
     assert ids("TREPROSTINIL") == {"NDA203496"} and ids("NILOTINIB") == {"NDA218922"}
     assert ids("AFLIBERCEPT") == {"BLA125418"} and ids("MECASERMIN") == {"BLA021839"}  # rinfabate 不併
     assert ids("DEXTROMETHORPHAN") == {"NDA018658"}
-    assert ids("CHLORPHENIRAMINE") == set()  # 其他藥的 polistirex 沒查證，不併
+    assert ids("CHLORPHENIRAMINE") == {"NDA019111"}  # 2026-11-06 查證後併（GSRS SUB_CONCEPT）
     assert ids("ERYTHROMYCIN LACTOBIONATE") == {"NDA050609"}  # 名稱帶鹽類時只收同一個鹽
+
+
+def test_recombinant_hyaluronidase_is_not_hyaluronidase():
+    # GSRS：Hyaluronidase (Human Recombinant) 743QUY4VD8（含 hyaluronidase-oysk 等）≠ HYALURONIDASE 8KOG53Z5EM（2026-11-06 用戶決定）
+    idx = lm.LicenseIndex([_app("BLA021665", ["HYALURONIDASE"]), _app("BLA021859", ["HYALURONIDASE RECOMBINANT HUMAN"]),
+                           _app("BLA761106", ["TRASTUZUMAB AND HYALURONIDASE-OYSK"]),
+                           _app("BLA761064", ["HYALURONIDASE (HUMAN RECOMBINANT)", "RITUXIMAB"])], "", [], "")
+    ids = lambda inn: {r["license_id"] for r in idx.match(inn)[0]["records"]}  # noqa: E731
+    assert ids("HYALURONIDASE") == {"BLA021665"}
+    assert ids("TRASTUZUMAB") == {"BLA761106"}  # 組合產品仍算 trastuzumab
+    assert ids("HYALURONIDASE (HUMAN RECOMBINANT); RITUXIMAB") == {"BLA761064"}
+
+
+def test_zinc_sulfate_is_unspecified_form():
+    # GSRS：ZINC SULFATE 是 89DS0H96TB（ZINC SULFATE, UNSPECIFIED FORM）的名稱
+    idx = lm.LicenseIndex([_app("ANDA218059", ["ZINC SULFATE"])], "", [_ndc("2-2", ["ZINC SULFATE, UNSPECIFIED FORM", "TETRAHYDROZOLINE HYDROCHLORIDE"])], "")
+    assert {r["license_id"] for r in idx.match("ZINC SULFATE, UNSPECIFIED FORM")[0]["records"] if not r.get("listing")} == {"ANDA218059"}
+    assert idx.match("TETRAHYDROZOLINE HYDROCHLORIDE; ZINC SULFATE")[0]["listed_total"] == 1

@@ -85,9 +85,25 @@ SAME_SUBSTANCE = {
     "mecasermin recombinant": "mecasermin",
     # DEXTROMETHORPHAN POLISTIREX（Delsym NDA018658、ANDA091135 等）：GSRS 是 concept，SUBSTANCE->SUB_CONCEPT Dextromethorphan
     # （UNII 7355X3ROTS）；Delsym 的 openFDA substance_name＝DEXTROMETHORPHAN（DailyMed setid e3e1d126-76c2-4776-8ce0-449625b7e6ba）。
-    # 只收用戶核准查證的 dextromethorphan；chlorpheniramine／codeine／hydrocodone／pseudoephedrine／phenylpropanolamine 的 polistirex
-    # （Tussionex、Tuzistra、Pseudo-12 等）沒有查證，不併（2026-11-06）。
     "dextromethorphan polistirex": "dextromethorphan",
+    # 其他藥的 polistirex（樹脂複合物，2026-11-06 用戶決定查證後併；逐藥別名，不做成通用鹽類字）。FDA GSRS 都是 concept，
+    # SUBSTANCE->SUB_CONCEPT 指向母藥：
+    #   CHLORPHENIRAMINE POLISTIREX → Chlorpheniramine（UNII 3U6IO1965U）
+    #   HYDROCODONE POLISTIREX → HYDROCODONE（6YKS4Y3WQ7）
+    #   CODEINE POLISTIREX → Codeine anhydrous（UX6OWY2V7J）
+    #   PSEUDOEPHEDRINE POLISTIREX → Pseudoephedrine（7CUC9DDI9F）
+    # 另：hydrocodone／chlorpheniramine polistirex 緩釋懸液 ANDA091632 的 openFDA substance_name＝HYDROCODONE BITARTRATE、CHLORPHENIRAMINE
+    # MALEATE（unii NO70W886KK、V1Q0O9OJ9Z），NDC 列名（63629-2303 等）同；DailyMed setid 25f400d9-1d6e-4d38-8f0d-98d471eba73b。
+    # Tussionex、Tuzistra XR、Penntuss、Codeprex、Pseudo-12 在 Drugs@FDA 都已停產，openFDA／DailyMed 沒有成分資料，依 GSRS 判定。
+    # PHENYLPROPANOLAMINE POLISTIREX（Corsym NDA018050，已停產）：GSRS 查無此物質、openFDA／DailyMed 也沒有，查證不了，不併。
+    "chlorpheniramine polistirex": "chlorpheniramine", "hydrocodone polistirex": "hydrocodone",
+    "codeine polistirex": "codeine", "pseudoephedrine polistirex": "pseudoephedrine",
+    # ZINC SULFATE＝ZINC SULFATE, UNSPECIFIED FORM（2026-11-06，用戶決定）：FDA GSRS 的「ZINC SULFATE」是 UNII 89DS0H96TB
+    # （ZINC SULFATE, UNSPECIFIED FORM，mixture）底下的名稱；Apotex 的 zinc sulfate 注射劑 ANDA218059 在 Drugs@FDA 成分寫 ZINC SULFATE，
+    # 同一申請的 NDC 列名（60505-6260、60505-6261）寫 ZINC SULFATE, UNSPECIFIED FORM。
+    # https://gsrs.ncats.nih.gov/ginas/app/beta/substances/89DS0H96TB
+    # 換成「zinc sulfate」（不是反過來）：base() 會把 sulfate 當鹽類字拿掉，換成 zinc sulfate 才跟其他鋅鹽的單方比對規則一致。
+    "zinc sulfate unspecified form": "zinc sulfate",
 }
 # 不是同一物質（查證過、不要再併）：
 # - 5-METHYLTETRAHYDROFOLIC ACID（UNII TYK22LML8F）≠ LEVOMEFOLATE CALCIUM（UNII A9R10K3F2F）（2026-11-06 查 GSRS）：
@@ -104,8 +120,24 @@ QUAL = re.compile(r"^(dibasic|monobasic|tribasic|conjugated|esterified|glacial|c
                   r"microsize|ultramicrosize|micronized|heptahydrate|anhydrous|monohydrate|dihydrate|usp|nf|c-14|kr-81m|fe-59)\b", re.I)
 
 
+# 重組人類玻尿酸酶（2026-11-06，用戶決定）：FDA GSRS UNII 743QUY4VD8「Hyaluronidase (Human Recombinant)」（名稱含 HYALURONIDASE RECOMBINANT
+# HUMAN；hyaluronidase-oysk／-fihj／-qvfc／-tqjs／-ocsq／-nvhy／-lpuj／-zzxf 等是它的 SUB_CONCEPT）跟 Amphadase 的 HYALURONIDASE
+# （UNII 8KOG53Z5EM，牛源）不是同一物質：Hylenex（BLA021859，openFDA unii 743QUY4VD8）與含重組酶的組合產品（Herceptin Hylecta、
+# Rituxan Hycela、Darzalex Faspro…）都不算 hyaluronidase 頁。這些寫法一律換成同一個鍵 RECOMBINANT_HYALURONIDASE，
+# 不能經括號刪除或 4 字母字尾刪除變回「hyaluronidase」。https://gsrs.ncats.nih.gov/ginas/app/beta/substances/743QUY4VD8 、
+# https://gsrs.ncats.nih.gov/ginas/app/beta/substances/8KOG53Z5EM （2026-11-06 查）
+RECOMBINANT_HYALURONIDASE = "hyaluronidase human recombinant"
+_RECOMB_HYAL = re.compile(r"hyaluronidase(\s*\(\s*human\s+recombinant\s*\)|\s+recombinant\s+human|\s+human\s+recombinant|-[a-z]{4})")
+
+
+def _recomb_hyal(x):
+    return bool(_RECOMB_HYAL.fullmatch(" ".join(str(x or "").lower().split())))
+
+
 def norm(x):
-    t = re.sub(r"\([^)]*\)", " ", str(x or "").lower())  # CAMPHOR (NATURAL)、HYALURONIDASE (HUMAN RECOMBINANT)
+    if _recomb_hyal(x):
+        return RECOMBINANT_HYALURONIDASE
+    t = re.sub(r"\([^)]*\)", " ", str(x or "").lower())  # CAMPHOR (NATURAL)
     t = re.sub(r"(?<=[a-z0-9]{2})-[a-z]{4}\s*$", "", t)  # 生物相似藥的 4 字母字尾（ustekinumab-auub、ropeginterferon alfa-2b-njft）
     # fam-trastuzumab deruxtecan、ado-trastuzumab emtansine、ziv-aflibercept（2026-11-06：GSRS 的 ZIV-AFLIBERCEPT 是 Aflibercept
     # UNII 15C2VL427D 的 SUB_CONCEPT；Zaltrap BLA125418 的 openFDA unii＝15C2VL427D，NDC 列名成分寫 AFLIBERCEPT）
@@ -173,6 +205,8 @@ def split_ings(s, fda_name=False):
 def loose(c):
     """寬鬆比對鍵（精確比不到時才用）：拿掉所有括號內容（含巢狀、不成對的括號）、鹽類字，只留字母與數字
     （1,3-BISUREA＝1,3-BIS-UREA、BENZOPYRENE＝BENZO(A)PYRENE 類寫法差異）"""
+    if _recomb_hyal(c):
+        return re.sub(r"[^a-z0-9]", "", RECOMBINANT_HYALURONIDASE)
     t = str(c or "").lower()
     while re.search(r"\([^()]*\)", t):
         t = re.sub(r"\([^()]*\)", " ", t)

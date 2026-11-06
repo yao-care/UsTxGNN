@@ -92,9 +92,11 @@ No literature is available for the top-ranked prediction (retinal dystrophy). Th
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA090453 (cancelled) | Molindone Hydrochloride (Epic Pharma, LLC) | Tablet (oral) | Not listed |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090453 | MOLINDONE HYDROCHLORIDE | EPIC PHARMA LLC | Tablet; oral | Valid |
+| NDA017111 | MOBAN | CHARTWELL RX | Tablet; oral | Discontinued in Drugs@FDA |
+| NDA017938 | MOBAN | ENDO PHARMS | Concentrate; oral | Discontinued in Drugs@FDA |
 
 ---
 
@@ -124,7 +126,7 @@ Please refer to the package insert for label warnings and contraindications, whi
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Direct comparative or molindone-specific data in mania, if that direction is pursued
-- Assessment of reformulation or re-marketing feasibility given the cancelled license
+- Assessment of reformulation or re-marketing feasibility
 - A review of the knowledge-graph contraindications (especially neutropenia and seizure risk) against any target population
 ## Disclaimer
 

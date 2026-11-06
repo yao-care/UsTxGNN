@@ -78,9 +78,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761125 (cancelled) | BEOVU (Novartis Pharmaceuticals Corporation) | Injection, solution | Not listed in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761125 | BEOVU | NOVARTIS PHARMS CORP | Injectable; intravitreal | Valid |
 
 ## Safety Considerations
 
@@ -93,7 +93,7 @@ No drug interaction records were found. For other warnings and contraindications
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a model score, with no clinical trials, no publications, and no identified mechanistic link. The US license is cancelled, and the product is an intravitreal agent with limited systemic exposure, which makes the predicted systemic indications doubtful.
+The prediction rests solely on a model score, with no clinical trials, no publications, and no identified mechanistic link. The product is an intravitreal agent with limited systemic exposure, which makes the predicted systemic indications doubtful.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

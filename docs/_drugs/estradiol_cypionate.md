@@ -78,9 +78,15 @@ No literature was found for the top predicted indication. The only literature co
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA085470 (cancelled) | Depo-Estradiol (Pharmacia & Upjohn Company LLC) | Injection | Not stated in the available record |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA085470 | DEPO-ESTRADIOL | PFIZER | Injectable; injection | Valid |
+| ANDA085620 | ESTRADIOL CYPIONATE | DR REDDYS | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA089310 | ESTRADIOL CYPIONATE | QUAD PHARMS | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA085603 | TESTOSTERONE CYPIONATE-ESTRADIOL CYPIONATE | WATSON LABS | Injectable; injection | Discontinued in Drugs@FDA |
+| NDA017968 | DEPO-TESTADIOL | PHARMACIA AND UPJOHN | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -99,14 +105,14 @@ The drug-disease knowledge graph lists a number of conditions associated with co
 **Decision: Hold**
 
 **Rationale:**
-The prediction is biologically plausible for the ovarian insufficiency component of fragile X premutation carriers, but it is supported only by a model score. There are no clinical trials or human literature, and the original mechanism data and label safety data are missing. The drug is also cancelled-only in the US market.
+The prediction is biologically plausible for the ovarian insufficiency component of fragile X premutation carriers, but it is supported only by a model score. There are no clinical trials or human literature, and the original mechanism data and label safety data are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which are blocking for safety screening
 - Mechanism of action data (for example, from DrugBank)
 - A literature search on estrogen replacement in FXPOI and FMR1 premutation carriers
 - A clear definition of the target outcome (ovarian insufficiency symptoms versus other fragile X features)
-- Confirmation of an available marketed estradiol product and route, since this license is cancelled
+- Confirmation of an available marketed estradiol product and route
 - Review of the knowledge graph contraindication list against the official label
 ## Disclaimer
 

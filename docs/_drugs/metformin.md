@@ -80,15 +80,17 @@ Currently no related literature available.
 
 ## US Market Information
 
-The drug is marketed, with 14 valid authorizations, and the data compiled for this report contains no approved-indication text. The five below are shown as examples.
+The drug is marketed, and the data compiled for this report contains no approved-indication text. The five below are shown as examples.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA201991 | Metformin Hydrochloride (Northwind Health Company) | Tablet, extended release | Not available (valid) |
-| ANDA077078 | Metformin Hydrochloride (Zydus Lifesciences) | Tablet, extended release | Not available (valid) |
-| ANDA211052 | Metformin Hydrochloride (Epic Pharma) | Tablet, extended release | Not available (valid) |
-| ANDA202917 | Metformin Hydrochloride (Sun Pharmaceutical) | Tablet, film coated, extended release | Not available (valid) |
-| ANDA075972 | Metformin Hydrochloride (Chartwell RX) | Tablet | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075965 | METFORMIN HYDROCHLORIDE | EPIC PHARMA LLC | Tablet; oral | Valid |
+| ANDA075972 | METFORMIN HYDROCHLORIDE | CHARTWELL | Tablet; oral | Valid |
+| ANDA075973 | METFORMIN HYDROCHLORIDE | MYLAN | Tablet; oral | Valid |
+| ANDA076033 | METFORMIN HYDROCHLORIDE | PHARMAZONE | Tablet; oral | Valid |
+| ANDA076269 | METFORMIN HYDROCHLORIDE | TEVA | Tablet, extended release; oral | Valid |
+
+Showing 5 of 174 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 All dosage forms are oral (tablet, film-coated tablet, and extended-release versions).
 
@@ -123,7 +125,7 @@ The prediction is supported only by a model score, with no clinical trials or li
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data for metformin
 - A targeted literature and trial search for stiff person syndrome and metformin, including the neuroimmunological rationale
-- Confirmation of current US marketing status, since the data lists 14 valid authorizations
+- Confirmation of current US marketing status
 - Route and formulation compatibility assessment for the new indication
 ## Disclaimer
 

@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Deoxycholic acid is a secondary bile acid that was marketed in the US as an injectable (KYBELLA), but its US authorization is now cancelled and the approved indication text is not available in the data compiled for this report.
+Deoxycholic acid is a secondary bile acid that was marketed in the US as an injectable (KYBELLA), but the approved indication text is not available in the data compiled for this report.
 The TxGNN model predicts it may be relevant to **diabetic nephropathy** (the highest-scoring prediction with any supporting literature), but there are **0 clinical trials** and only **4 publications**, all indirect (preclinical or bile acid profiling studies).
 
 ## Quick Overview
@@ -81,9 +81,10 @@ The following publications relate to diabetic nephropathy. None tests deoxycholi
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA206333 (cancelled) | KYBELLA | Injection, solution | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA212296 | DEOXYCHOLIC ACID | WILSHIRE PHARMS INC | Solution; subcutaneous | Valid |
+| NDA206333 | KYBELLA | ABBVIE | Solution; subcutaneous | Valid |
 
 ## Safety Considerations
 
@@ -100,7 +101,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-All predictions rest on model scores alone. The two highest-scoring rare disorders have no supporting evidence or biological rationale. Diabetic nephropathy has only indirect, preclinical or biomarker-level evidence, with no study of deoxycholic acid itself, and the product's US authorization is cancelled. Its cytotoxic nature raises the possibility of harm.
+All predictions rest on model scores alone. The two highest-scoring rare disorders have no supporting evidence or biological rationale. Diabetic nephropathy has only indirect, preclinical or biomarker-level evidence, with no study of deoxycholic acid itself. Its cytotoxic nature raises the possibility of harm.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for deoxycholic acid

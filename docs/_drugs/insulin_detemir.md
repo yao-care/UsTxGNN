@@ -107,10 +107,10 @@ At least six completed Phase 3 trials involve insulin detemir directly. Large ob
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA021536 (cancelled) | Levemir (A-S Medication Solutions) | Injection, solution | Not available |
-
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA021536 | LEVEMIR FLEXTOUCH | NOVO NORDISK INC | Injectable; subcutaneous | Valid |
+| BLA021878 | LEVEMIR | NOVO NORDISK | Injectable; injection | Valid |
 
 ---
 
@@ -137,7 +137,7 @@ Multiple completed Phase 3 trials, together with systematic reviews and a random
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (currently missing and rated blocking for safety screening)
 - Mechanism-of-action data from DrugBank
-- Confirmation of the reason for cancellation and of current product availability in the US
+- Confirmation of current product availability in the US
 - For the other predicted conditions (such as pancreatic agenesis), supporting clinical evidence before any further evaluation; at present they remain Hold or research questions
 ## Disclaimer
 

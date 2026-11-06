@@ -89,9 +89,9 @@ No literature was found for Glanzmann thrombasthenia. The only predicted indicat
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125586 (cancelled) | ANDEXXA | Injection, powder, lyophilized, for solution | Not listed in the compiled record |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125586 | ANDEXXA | AstraZeneca Pharmaceuticals LP | Injection, powder, lyophilized, for solution; intravenous | Valid |
 
 ## Safety Considerations
 
@@ -105,7 +105,7 @@ Detailed warnings and contraindications from the package insert were not availab
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score (L5). There are no clinical trials or relevant literature, and there is no plausible mechanism linking a factor Xa-inhibitor reversal agent to platelet function disorders. The product's license is also cancelled in the US, and it carries a boxed thrombotic warning.
+The prediction is supported only by a model score (L5). There are no clinical trials or relevant literature, and there is no plausible mechanism linking a factor Xa-inhibitor reversal agent to platelet function disorders.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

@@ -83,13 +83,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA018333 | Sucralfate (Bryant Ranch Prepack) | Tablet | Not available (valid) |
-| NDA019183 | Carafate (Allergan) | Suspension | Not available (valid) |
-| ANDA074415 | Sucralfate (Bryant Ranch Prepack) | Tablet | Not available (valid) |
-| ANDA215705 | Sucralfate (Zydus Lifesciences) | Tablet | Not available (valid) |
-| ANDA070848 | Sucralfate (Cardinal Health 107) | Tablet | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070848 | SUCRALFATE | TEVA | Tablet; oral | Valid |
+| ANDA074415 | SUCRALFATE | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA209356 | SUCRALFATE | AMNEAL | Suspension; oral | Valid |
+| ANDA211780 | SUCRALFATE | CHARTWELL RX | Suspension; oral | Valid |
+| ANDA211884 | SUCRALFATE | VISTAPHARM LLC | Suspension; oral | Valid |
+
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -107,14 +109,14 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-Two small, older randomized trials in alkaline reflux gastritis support the idea, and the mechanism is plausible. However, there are no registered clinical trials and the evidence is dated. The drug is marketed in the US with 9 valid licenses. Package insert safety data were also not available, so safety screening cannot yet proceed.
+Two small, older randomized trials in alkaline reflux gastritis support the idea, and the mechanism is plausible. However, there are no registered clinical trials and the evidence is dated. The drug is marketed in the US. Package insert safety data were also not available, so safety screening cannot yet proceed.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Confirmed mechanism of action data from DrugBank
 - A critical appraisal of the two randomized trials, followed by a modern, adequately powered trial in duodenogastric reflux
 - A plan for managing absorption-related drug interactions (such as dose separation) and for patients with renal impairment or diabetes
-- Clarification of the regulatory and marketing status in the US, where the drug is marketed with 9 valid licenses
+- Clarification of the regulatory and marketing status in the US
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

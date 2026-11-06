@@ -81,9 +81,9 @@ For reference, the only literature in the data relates to the second-ranked pred
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020886 (cancelled) | PANRETIN | Gel (topical) | Not stated in the license record |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA020886 | PANRETIN | ADVANZ PHARMA | Gel; topical | Valid |
 
 ## Cytotoxicity
 
@@ -108,7 +108,7 @@ The package insert warnings and contraindications were not available. Please ref
 **Decision: Hold**
 
 **Rationale:**
-The amenorrhea prediction rests on a model score alone (L5). There are no trials or publications, the mechanistic link is weak, and teratogenicity is a major safety obstacle. The US marketing authorisation is also cancelled.
+The amenorrhea prediction rests on a model score alone (L5). There are no trials or publications, the mechanistic link is weak, and teratogenicity is a major safety obstacle.
 
 **To proceed, the following is needed:**
 - Any primary clinical or preclinical evidence linking alitretinoin to amenorrhea

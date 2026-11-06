@@ -84,15 +84,17 @@ None of the publications below tests flecainide for stroke treatment or preventi
 
 ## US Market Information
 
-The licences below are single-ingredient flecainide acetate tablets. The list may be partial. No indication text is recorded in the local data.
+The licences below are single-ingredient flecainide acetate tablets. No indication text is recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA075882 | Flecainide Acetate (Golden State Medical Supply) | Tablet | Not available (valid) |
-| ANDA202821 | Flecainide Acetate (Aurobindo Pharma) | Tablet | Not available (valid) |
-| ANDA075442 | Flecainide Acetate (Amneal Pharmaceuticals) | Tablet | Not available (valid) |
-| ANDA079164 | Flecainide Acetate (Chartwell RX) | Tablet | Not available (valid) |
-| ANDA210683 | Flecainide Acetate (Unichem Pharmaceuticals USA) | Tablet | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075442 | FLECAINIDE ACETATE | AMNEAL PHARM | Tablet; oral | Valid |
+| ANDA075882 | FLECAINIDE ACETATE | ANI PHARMS | Tablet; oral | Valid |
+| ANDA076278 | FLECAINIDE ACETATE | HIKMA | Tablet; oral | Valid |
+| ANDA076421 | FLECAINIDE ACETATE | SUN PHARM INDS LTD | Tablet; oral | Valid |
+| ANDA202821 | FLECAINIDE ACETATE | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

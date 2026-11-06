@@ -89,9 +89,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761115 (cancelled) | TRODELVY (Gilead Sciences, Inc.) | Powder, for solution | Not recorded in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761115 | TRODELVY | IMMUNOMEDICS INC | Injectable; injection | Valid |
 
 ---
 

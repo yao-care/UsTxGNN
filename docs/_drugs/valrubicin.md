@@ -72,10 +72,10 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020892 (Cancelled) | Valstar (Endo USA, Inc.) | Solution, concentrate | Not listed in the compiled data |
-| ANDA206430 (Cancelled) | Valrubicin Intravesical Solution (Hikma Pharmaceuticals USA Inc.) | Solution, concentrate | Not listed in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA206430 | VALRUBICIN | HIKMA | Solution; intravesical | Valid |
+| NDA020892 | VALSTAR PRESERVATIVE FREE | ENDO OPERATIONS | Solution; intravesical | Valid |
 
 ## Cytotoxicity
 
@@ -101,7 +101,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical or literature support (Evidence Level L5). Valrubicin's local-delivery design with minimal systemic exposure offers no clear route to colonic disease, and its US authorizations are cancelled. Safety label data is also missing.
+The prediction has no clinical or literature support (Evidence Level L5). Valrubicin's local-delivery design with minimal systemic exposure offers no clear route to colonic disease. Safety label data is also missing.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data

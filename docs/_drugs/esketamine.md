@@ -74,9 +74,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA211243 (cancelled) | Spravato (Janssen Pharmaceuticals Inc.) | Solution | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA211243 | SPRAVATO | JANSSEN PHARMS | Spray; nasal | Valid |
 
 ## Safety Considerations
 
@@ -90,13 +90,13 @@ Please refer to the package insert for warnings and contraindications, as label-
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no registered trials or publications. The US license is cancelled, and label safety data and mechanism data are missing. The knowledge-graph contraindication with vascular disease and the many major interactions with stimulant-type drugs also call for caution.
+The prediction rests only on a model score, with no registered trials or publications. Label safety data and mechanism data are missing. The knowledge-graph contraindication with vascular disease and the many major interactions with stimulant-type drugs also call for caution.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Confirmed mechanism-of-action data (e.g., from DrugBank)
 - A literature and trial search specific to esketamine in agoraphobia and panic-related disorders
-- Clarification of the cancelled US license status and the approved indication
+- Clarification of the approved indication
 - Assessment of route compatibility, which is still pending
 ## Disclaimer
 

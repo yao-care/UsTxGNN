@@ -98,10 +98,9 @@ One further trial, NCT04179409 (Phase 2, n=3, patients with single-exon duplicat
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA206488 (cancelled) | Exondys 51 (Sarepta Therapeutics, Inc.) | Injection | No indication text available |
-
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA206488 | EXONDYS 51 | SAREPTA THERAPS INC | Solution; intravenous | Valid |
 
 ## Cytotoxicity
 
@@ -122,7 +121,7 @@ The top prediction (DMD) is the drug's established indication, backed by one com
 - Safety information from the current package insert, because the warnings and contraindications data are missing. This is a blocking gap for safety screening.
 - Structured mechanism-of-action data from DrugBank.
 - Results from the Phase 3 high-dose trial (NCT03992430), expected to complete around October 2026, to confirm clinical benefit.
-- Clarification of the cancelled NDA206488 status and the current US marketing position.
+- Clarification of the current US marketing position.
 - Genotype restriction (exon 51-amenable mutations) built into any further development plan.
 ## Disclaimer
 

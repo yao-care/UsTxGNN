@@ -77,15 +77,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA216113 | Cupric Chloride (Somerset Therapeutics) | Injection | Not listed (valid) |
-| ANDA212071 | Cupric Chloride (Exela Pharma Sciences) | Injection, solution | Not listed (valid) |
-| ANDA217626 | Cupric Chloride (Archis Pharma) | Injection, solution | Not listed (valid) |
-| ANDA217287 | Cupric Chloride (Amneal Pharmaceuticals) | Injection, solution | Not listed (valid) |
-| NDA018960 | Copper (Hospira) | Injection, solution | Not listed (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA212071 | CUPRIC CHLORIDE | EXELA PHARMA | Injectable; injection | Valid |
+| ANDA216113 | CUPRIC CHLORIDE | SOMERSET | Injectable; injection | Valid |
+| ANDA217626 | CUPRIC CHLORIDE | STIRA | Injectable; injection | Valid |
+| NDA018960 | CUPRIC CHLORIDE IN PLASTIC CONTAINER | HOSPIRA | Injectable; injection | Valid |
+| ANDA217287 | CUPRIC CHLORIDE | AMNEAL | Injectable; injection | Discontinued in Drugs@FDA |
 
-All five authorizations are single-ingredient injectables with cancelled status.
+Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

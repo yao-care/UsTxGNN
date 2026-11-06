@@ -81,15 +81,17 @@ Currently no related literature available for indolent plasma cell myeloma.
 
 ## US Market Information
 
-The data did not include approved-indication text. The five shown are the original brand NDA and four generic ANDAs.
+The data did not include approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022311 | Mozobil (Sanofi-Aventis U.S. LLC) | Injection, solution | Not provided (valid) |
-| ANDA215334 | Plerixafor (Amneal) | Injection, solution | Not provided (valid) |
-| ANDA217560 | Plerixafor (Camber) | Injection, solution | Not provided (valid) |
-| ANDA205182 | Plerixafor (Dr. Reddy's) | Solution | Not provided (valid) |
-| ANDA208980 | Plerixafor (Zydus) | Injection | Not provided (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA205182 | PLERIXAFOR | DR REDDYS | Solution; subcutaneous | Valid |
+| ANDA206644 | PLERIXAFOR | GLAND | Solution; subcutaneous | Valid |
+| ANDA211901 | PLERIXAFOR | MSN | Solution; subcutaneous | Valid |
+| ANDA213672 | PLERIXAFOR | EUGIA PHARMA | Solution; subcutaneous | Valid |
+| ANDA215334 | PLERIXAFOR | AMNEAL | Solution; subcutaneous | Valid |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 

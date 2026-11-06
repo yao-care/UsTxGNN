@@ -48,9 +48,10 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA203108 (cancelled) | Striverdi Respimat (Boehringer Ingelheim) | Metered spray | Not specified in the available data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA203108 | STRIVERDI RESPIMAT | BOEHRINGER INGELHEIM | Spray, metered; inhalation | Valid |
+| NDA206756 | STIOLTO RESPIMAT | BOEHRINGER INGELHEIM | Spray, metered; inhalation | Valid |
 
 ---
 

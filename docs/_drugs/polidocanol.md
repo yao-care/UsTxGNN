@@ -83,9 +83,10 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021201 (cancelled) | Asclera (Methapharm, Inc) | Injection, solution | Not stated in the available record |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA021201 | ASCLERA | CHEMISCH FBRK KRSSLR | Solution; intravenous | Valid |
+| NDA205098 | VARITHENA | BOSTON | Solution; intravenous | Valid |
 
 ## Safety Considerations
 
@@ -107,7 +108,7 @@ The predicted indication has a plausible mechanism and multiple published studie
 - Full-text verification of the RCTs and the evidence level
 - A comparison against current standard care (band ligation, beta-blockers)
 - A plan for stricture, dysphagia and ulceration monitoring
-- Clarification of product availability, given the cancelled US license
+- Clarification of product availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

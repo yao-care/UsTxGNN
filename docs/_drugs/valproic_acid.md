@@ -104,15 +104,15 @@ Currently no related clinical trials are registered for the top predicted indica
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA075782 (cancelled) | Valproic Acid (Chartwell RX) | Solution | Not available |
-| ANDA073178 (cancelled) | Valproic Acid (ANI Pharmaceuticals) | Solution | Not available |
-| ANDA075379 (cancelled) | Valproic Acid (PAI Pharma) | Solution | Not available |
-| ANDA073484 (cancelled) | Valproic Acid (Vangard Labs) | Capsule, liquid filled | Not available |
-| ANDA077960 (cancelled) | Valproic Acid (Lannett) | Solution | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA073178 | VALPROIC ACID | ANI PHARMS | Syrup; oral | Valid |
+| ANDA073229 | VALPROIC ACID | CATALENT | Capsule; oral | Valid |
+| ANDA073484 | VALPROIC ACID | BIONPHARMA | Capsule; oral | Valid |
+| ANDA075379 | VALPROIC ACID | PHARM ASSOC | Syrup; oral | Valid |
+| ANDA075782 | VALPROIC ACID | CHARTWELL RX | Syrup; oral | Valid |
 
-Two further cancelled authorizations (ANDA070868, ANDA073229) are not listed. 7 authorizations are currently valid in the compiled data.
+Showing 5 of 39 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 
@@ -136,13 +136,13 @@ Please refer to the package insert for the full key warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, trigeminal nerve neoplasm, has no trials and no supporting literature. Its very high score (0.9997) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Valproic acid is currently marketed in the US, with 7 valid authorizations in the compiled data, but label safety information is missing.
+The top prediction, trigeminal nerve neoplasm, has no trials and no supporting literature. Its very high score (0.9997) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Valproic acid is currently marketed in the US, but label safety information is missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking for safety screening)
 - Mechanism of action data to support analysis of the mechanistic link
 - Direct preclinical or clinical evidence for valproate in trigeminal nerve tumours (for example HDAC-inhibitor antitumour data)
-- Confirmation of current US marketing status, since the compiled data lists 7 valid authorizations
+- Confirmation of current US marketing status
 - Consideration of startle epilepsy or trigeminal neuralgia as more evidence-supported alternatives, ideally with a controlled study
 - A safety plan addressing hepatotoxicity, pregnancy and women of childbearing potential, and the major and moderate interactions listed above
 ## Disclaimer

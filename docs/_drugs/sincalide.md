@@ -72,10 +72,10 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA017697 (cancelled) | KINEVAC (Bracco Diagnostics Inc.) | Lyophilized powder for injection | Not available |
-| NDA210850 (cancelled) | Sincalide (Fosun Pharma USA Inc.) | Lyophilized powder for injection | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA017697 | KINEVAC | BRACCO | Powder; intravenous | Valid |
+| NDA210850 | SINCALIDE | MAIA PHARMS INC | Powder; intravenous | Valid |
 
 ## Safety Considerations
 
@@ -88,7 +88,7 @@ No drug-drug interaction records were found, and no disease contraindications we
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score. There are no clinical trials or publications, no plausible mechanism, and the predicted condition is a veterinary viral disease. Both US licenses are cancelled, and safety and mechanism data are incomplete.
+The prediction is supported only by a model score. There are no clinical trials or publications, no plausible mechanism, and the predicted condition is a veterinary viral disease. Safety and mechanism data are incomplete.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap that prevents safety screening)

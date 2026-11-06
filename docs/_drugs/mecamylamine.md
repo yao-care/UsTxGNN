@@ -69,7 +69,6 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-
 For the fourth prediction (pulmonary hypertension owing to lung disease and/or hypoxia), 20 publications were retrieved. All are preclinical or in vitro studies, and none evaluates mecamylamine in pulmonary hypertension. Representative examples:
 
 | PMID | Year | Type | Journal | Key Findings |
@@ -89,9 +88,10 @@ These studies offer plausible biology for nicotinic involvement in hypoxic respo
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA204054 (cancelled) | Vecamyl (TILDE Sciences LLC) | Tablet (oral) | Not listed in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA204054 | MECAMYLAMINE HYDROCHLORIDE | LGM PHARMA | Tablet; oral | Valid |
+| NDA010251 | INVERSINE | TARGACEPT | Tablet; oral | Discontinued in Drugs@FDA |
 
 ## Safety Considerations
 

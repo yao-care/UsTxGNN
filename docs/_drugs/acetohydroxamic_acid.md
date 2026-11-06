@@ -78,9 +78,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA018749 (cancelled) | Lithostat | Tablet (oral) | Not stated |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA018749 | LITHOSTAT | MISSION PHARMA | Tablet; oral | Valid |
 
 The drug is marketed in the US, and the one US license, held by Mission Pharmacal Company, is valid.
 

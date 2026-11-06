@@ -74,15 +74,15 @@ For reference, the only publication linked to the broader prediction set is [152
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA210856 (Hisun Pharmaceuticals USA) | Cladribine | Injection, solution | Not available (cancelled) |
-| ANDA218425 (Genvion Corporation) | Cladribine | Tablet | Not available (cancelled) |
-| ANDA076571 (Fresenius Kabi USA) | Cladribine | Injection | Not available (cancelled) |
-| ANDA075405 (Hikma Pharmaceuticals USA) | Cladribine | Injection | Not available (cancelled) |
-| NDA022561 (EMD Serono) | Mavenclad | Tablet | Not available (cancelled) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075405 | CLADRIBINE | HIKMA | Injectable; injection | Valid |
+| ANDA076571 | CLADRIBINE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA210856 | CLADRIBINE | HISUN PHARM HANGZHOU | Injectable; injection | Valid |
+| ANDA215547 | CLADRIBINE | HOPEWELL PHARMA | Tablet; oral | Valid |
+| ANDA218425 | CLADRIBINE | APOTEX | Tablet; oral | Valid |
 
-All five authorizations are listed as valid in the data compiled for this report.
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Cytotoxicity
 

@@ -78,15 +78,17 @@ For context, the only publication retrieved across the top 10 predictions concer
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021319 | AVODART (Waylis Therapeutics LLC) | Capsule, liquid filled | Not listed (valid) |
-| ANDA203118 | Dutasteride (Amneal Pharmaceuticals LLC) | Capsule | Not listed (valid) |
-| ANDA204376 | Dutasteride (Marksans Pharma Limited) | Capsule, liquid filled | Not listed (valid) |
-| ANDA204705 | Dutasteride (Banyan Pharma LLC) | Capsule | Not listed (valid) |
-| ANDA206574 | Dutasteride (Bryant Ranch Prepack) | Capsule, liquid filled | Not listed (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090095 | DUTASTERIDE | BARR | Capsule; oral | Valid |
+| ANDA200899 | DUTASTERIDE | CHARTWELL | Capsule; oral | Valid |
+| ANDA202660 | DUTASTERIDE | AUROBINDO PHARMA LTD | Capsule; oral | Valid |
+| ANDA203118 | DUTASTERIDE | AMNEAL PHARMS | Capsule; oral | Valid |
+| ANDA204262 | DUTASTERIDE | ONESOURCE | Capsule; oral | Valid |
 
-Two more cancelled ANDAs (ANDA209909 and ANDA202660, both A-S Medication Solutions) are also on record. The drug is marketed, with 7 valid authorizations.
+Showing 5 of 25 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+The drug is marketed.
 
 ## Safety Considerations
 
@@ -101,14 +103,14 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials and no literature (Evidence Level L5). The mechanistic link is speculative, because Ambras syndrome is genetic and not androgen-driven. Dutasteride is currently marketed in the US, with 7 valid authorizations.
+The prediction has no clinical trials and no literature (Evidence Level L5). The mechanistic link is speculative, because Ambras syndrome is genetic and not androgen-driven. Dutasteride is currently marketed in the US.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Preclinical or mechanistic evidence linking DHT suppression to the pathology of Ambras syndrome
 - A review of the other top predictions for any with a stronger rationale, such as androgen-related hair disorders, before committing resources
-- Clarification of the regulatory and market status of the 7 valid US licenses
+- Clarification of the regulatory and market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **esotropia**, but **no clinica
 | Predicted New Indication | Esotropia |
 | TxGNN Prediction Score | 0.9938 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 8 of 8) |
-| Number of FDA Applications | 8 (active: 8) |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 9) |
+| Number of FDA Applications | 9 (active: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -74,12 +74,12 @@ Currently no related literature available.
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA125387 | EYLEA | REGENERON PHARMACEUTICALS | Injectable; injection | Valid |
+| BLA125418 | ZALTRAP | SANOFI AVENTIS US | Injectable; injection | Valid |
 | BLA761274 | YESAFILI | BIOCON BIOLOGICS INC | Injectable; injection | Valid |
 | BLA761298 | PAVBLU | AMGEN INC | Injectable; injection | Valid |
 | BLA761350 | OPUVIZ | SAMSUNG BIOEPIS CO LTD | Injectable; injection | Valid |
-| BLA761355 | EYLEA HD | REGENERON PHARMACEUTICALS | Injectable; injection | Valid |
 
-Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Cytotoxicity
 

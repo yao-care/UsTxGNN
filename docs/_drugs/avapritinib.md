@@ -70,9 +70,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212608 (cancelled) | Ayvakit (Blueprint Medicines Corporation) | Tablet, film coated | Not listed in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA212608 | AYVAKIT | BLUEPRINT MEDICINES | Tablet; oral | Valid |
 
 ## Cytotoxicity
 
@@ -109,14 +109,14 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5), with no clinical trials, no literature, and no plausible mechanistic link to axial spondylometaphyseal dysplasia. The sole US NDA is also cancelled.
+The prediction rests on a model score alone (Evidence Level L5), with no clinical trials, no literature, and no plausible mechanistic link to axial spondylometaphyseal dysplasia.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for avapritinib
 - Package insert warnings and contraindications, needed before any safety screening
 - Biological evidence connecting KIT/PDGFRA signalling to the pathogenesis of the predicted disease
 - Preclinical or mechanistic studies in a relevant disease model
-- Confirmation of current US regulatory and supply status, given the cancelled NDA
+- Confirmation of current US regulatory and supply status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

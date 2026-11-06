@@ -74,9 +74,9 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA020367 (cancelled) | Cerezyme (Genzyme Corporation) | Injection, powder, lyophilized, for solution | Not specified in the data compiled |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA020367 | CEREZYME | GENZYME | Injectable; injection | Valid |
 
 ## Safety Considerations
 
@@ -89,7 +89,7 @@ For other safety information, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-No clinical trials exist, the only literature is a general class-level review, and the mechanism is not supported because imiglucerase targets glucosylceramide rather than the glycosaminoglycans accumulating in MPS I. An approved, disease-specific therapy (laronidase) already exists, and the US license for Cerezyme is listed as cancelled.
+No clinical trials exist, the only literature is a general class-level review, and the mechanism is not supported because imiglucerase targets glucosylceramide rather than the glycosaminoglycans accumulating in MPS I. An approved, disease-specific therapy (laronidase) already exists.
 
 Other predictions show the same picture, with no trials or literature:
 - **Scheie syndrome** (0.9929, L4): same reasoning as Hurler syndrome.

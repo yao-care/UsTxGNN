@@ -94,9 +94,13 @@ None of these publications studies pitolisant as a treatment for insomnia. They 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA211150 (cancelled) | Wakix (Harmony Biosciences, LLC) | Film-coated tablet (oral) | Not listed in the licence record |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA218495 | PITOLISANT HYDROCHLORIDE | NOVITIUM PHARMA | Tablet; oral | Valid |
+| ANDA218832 | PITOLISANT HYDROCHLORIDE | ANNORA PHARMA | Tablet; oral | Valid |
+| ANDA218846 | PITOLISANT HYDROCHLORIDE | LUPIN | Tablet; oral | Valid |
+| ANDA218873 | PITOLISANT HYDROCHLORIDE | MSN | Tablet; oral | Valid |
+| NDA211150 | WAKIX | HARMONY | Tablet; oral | Valid |
 
 ---
 
@@ -121,7 +125,6 @@ The prediction is supported only by a model score. There are no clinical trials 
 - Any preclinical or clinical data on pitolisant in insomnia populations
 - The FDA package insert warnings and contraindications, to complete safety screening
 - Detailed mechanism-of-action data from DrugBank
-- Clarification of why the US Wakix licence (NDA211150) is recorded as cancelled
 
 ---
 

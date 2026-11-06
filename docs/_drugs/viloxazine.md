@@ -98,9 +98,9 @@ The strongest support is direct clinical evidence: a placebo-controlled, flexibl
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA211964 (cancelled) | QELBREE (Supernus Pharmaceuticals) | Capsule, extended release (oral) | Not stated in the licence record |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA211964 | QELBREE | SUPERNUS PHARMS | Capsule, extended release; oral | Valid |
 
 ---
 
@@ -121,7 +121,7 @@ A completed Phase 3 randomized placebo-controlled trial, several long-term exten
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Confirmation of the current US marketing and licence status of Qelbree, given that the licence record shows "cancelled" while the literature describes it as FDA-approved
+- Confirmation of the current US marketing and licence status of Qelbree
 - Detailed mechanism of action data from DrugBank
 - Clarification of the link between the original narcolepsy indications and ADHD, since the original indication record does not explain the relationship
 ## Disclaimer

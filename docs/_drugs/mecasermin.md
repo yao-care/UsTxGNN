@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Monosomy X |
 | TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 1) |
-| Number of FDA Applications | 0 |
+| US Market Status | Marketed (active FDA-approved applications: 1 of 1; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 1 (active: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -80,6 +80,7 @@ Currently no related literature available.
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
+| BLA021839 | INCRELEX | IPSEN INC | Injectable; subcutaneous | Valid |
 | NDC 17089-376 | GUNA-IGF | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
 
 ## Safety Considerations

@@ -72,9 +72,9 @@ Currently no related literature available for this predicted indication.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA203388 (cancelled) | ERIVEDGE (Genentech, Inc.) | Capsule (oral) | Not listed in the data compiled for this report |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA203388 | ERIVEDGE | GENENTECH | Capsule; oral | Valid |
 
 ## Cytotoxicity
 
@@ -105,7 +105,7 @@ The Hedgehog-pathway rationale for medulloblastoma is plausible, but the predict
 - Molecular and subgroup analysis to define which patients would have pathway-driven disease
 - Detailed mechanism-of-action data and the FDA package insert (warnings and contraindications)
 - A safety plan covering embryo-fetal toxicity and the drug interaction with clarithromycin
-- Confirmation of current drug availability, since the US license is cancelled
+- Confirmation of current drug availability
 
 **Note on other predictions:** In the same analysis, the prediction for **skin cancer** has the strongest support (Evidence Level L2, with several Phase 2 trials, a registry study, and European guidelines). That is largely the drug's original use rather than true repurposing, and it is rated "Proceed with Guardrails". Among the other predictions, xeroderma pigmentosum is supported only by case reports (L4), and the rest have no clinical evidence.
 ## Disclaimer

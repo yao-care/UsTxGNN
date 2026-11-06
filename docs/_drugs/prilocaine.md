@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Prilocaine is an amide local anesthetic. Its only US authorization on record is a dental injectable.
+Prilocaine is an amide local anesthetic.
 The TxGNN model predicts it may be effective for **Neuralgia** (the most evidence-supported of 10 predictions), with **2 clinical trials** and **14 publications** currently supporting this direction.
 The evidence is early-stage: small, uncontrolled studies, mostly of the lidocaine/prilocaine combination (EMLA), and no Phase 3 RCT.
 
@@ -98,9 +98,15 @@ Of the 14 publications listed in the data, 10 are shown here. The 4 omitted are 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA079235 (cancelled) | Citanest Plain (Dentsply Pharmaceutical Inc.) | Injection, solution | No indication text available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA079235 | PRILOCAINE HYDROCHLORIDE | SEPTODONT INC | Injectable; injection | Valid |
+| ANDA076320 | LIDOCAINE AND PRILOCAINE | ENCUBE | Cream; topical | Valid |
+| ANDA076453 | LIDOCAINE AND PRILOCAINE | FOUGERA PHARMS | Cream; topical | Valid |
+| ANDA078959 | PRILOCAINE HYDROCHLORIDE AND EPINEPHRINE BITARTRATE | SEPTODONT INC | Injectable; injection | Valid |
+| ANDA212482 | LIDOCAINE AND PRILOCAINE | PADAGIS US | Cream; topical | Valid |
+
+Showing 5 of 19 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 

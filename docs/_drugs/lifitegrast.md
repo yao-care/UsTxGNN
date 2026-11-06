@@ -91,10 +91,12 @@ For the related prediction of diabetic retinopathy, one publication was retrieve
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA208073 (cancelled) | Xiidra (Bausch & Lomb Incorporated) | Solution/drops | Not listed in the data compiled; originally approved by the FDA in July 2016 for dry eye disease |
-| ANDA215063 (cancelled) | Lifitegrast (Aurobindo Pharma Limited) | For solution | Not listed in the data compiled |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA208073 | XIIDRA | BAUSCH AND LOMB INC | Solution/drops; ophthalmic | Valid |
+| ANDA215058 | LIFITEGRAST | INGENUS PHARMS LLC | Solution/drops; ophthalmic | Discontinued in Drugs@FDA |
+| ANDA215063 | LIFITEGRAST | EUGIA PHARMA | Solution/drops; ophthalmic | Discontinued in Drugs@FDA |
+| ANDA215081 | LIFITEGRAST | MICRO LABS | Solution/drops; ophthalmic | Discontinued in Drugs@FDA |
 
 ---
 
@@ -111,7 +113,7 @@ One pharmacology record is available: lifitegrast acts on its target LFA-1 (ITGA
 **Decision: Hold**
 
 **Rationale:**
-All predicted indications rest on model scores alone, with no clinical trials and no supporting literature for the leading candidates. The topical ocular formulation has no clear delivery route to fibrotic tissue, and both US licenses are currently cancelled.
+All predicted indications rest on model scores alone, with no clinical trials and no supporting literature for the leading candidates. The topical ocular formulation has no clear delivery route to fibrotic tissue.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking data gap for safety screening)

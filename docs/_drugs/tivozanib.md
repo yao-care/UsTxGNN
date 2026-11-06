@@ -72,11 +72,11 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212904 (cancelled) | FOTIVDA (AVEO Pharmaceuticals, Inc.) | Capsule | Indication text not available in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA212904 | FOTIVDA | AVEO PHARMS | Capsule; oral | Valid |
 
-Note: Other regulatory sources describe an FDA approval in March 2021 for advanced renal cell carcinoma that has relapsed or is refractory after two or more prior systemic therapies. The NDA is currently listed as cancelled in the compiled data, so its present marketing status should be confirmed.
+Note: Other regulatory sources describe an FDA approval in March 2021 for advanced renal cell carcinoma that has relapsed or is refractory after two or more prior systemic therapies.
 
 ## Cytotoxicity
 

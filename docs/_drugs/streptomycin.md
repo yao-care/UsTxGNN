@@ -86,9 +86,15 @@ The remaining papers are veterinary, microbiology or unrelated reports and offer
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA064210 (cancelled) | Streptomycin (XGen Pharmaceuticals DJB, Inc.) | Injection, powder, lyophilized, for solution | Not stated in the data compiled |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA064210 | STREPTOMYCIN SULFATE | XGEN PHARMS | Injectable; injection | Valid |
+| ANDA060076 | STREPTOMYCIN SULFATE | PFIZER | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA060107 | STREPTOMYCIN SULFATE | LILLY | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA060111 | STREPTOMYCIN SULFATE | PFIZER | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA060404 | STREPTOMYCIN SULFATE | LILLY | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Cytotoxicity
 

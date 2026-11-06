@@ -74,9 +74,9 @@ Currently no related literature available for gingival fibromatosis.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA210868 (Cancelled) | Lorbrena (Pfizer Laboratories Div Pfizer Inc) | Tablet, film coated (oral) | Not listed in the available record |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA210868 | LORBRENA | PFIZER | Tablet; oral | Valid |
 
 ## Cytotoxicity
 
@@ -106,7 +106,7 @@ The top prediction, gingival fibromatosis, has no clinical trials, no literature
 - The FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Any biological evidence that ALK/ROS1 signaling plays a role in gingival fibromatosis
-- Clarification of the cancelled NDA status and the approved indication text
+- Clarification of the approved indication text
 - If a repurposing direction is pursued, a better-supported alternative would be ALK-driven tumors outside NSCLC (for example neuroblastoma), where Phase 1 data exist, rather than the highest-scoring predictions.
 ## Disclaimer
 

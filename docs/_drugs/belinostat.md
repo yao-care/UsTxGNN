@@ -97,9 +97,9 @@ The very high TxGNN score fits this picture. However, single-agent activity in A
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA206256 (cancelled) | Beleodaq (Acrotech Biopharma Inc) | Lyophilized powder for injection solution | Not listed in the data compiled for this report |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA206256 | BELEODAQ | ACROTECH BIOPHARMA | Powder; intravenous | Valid |
 
 ## Cytotoxicity
 
@@ -128,14 +128,14 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high and there is a sound mechanistic rationale, but clinical evidence is limited to small, early-phase studies (one single-agent Phase 2 study with n=12 and limited activity, plus Phase 1 combination studies, two of them terminated early). No randomized trial exists. The US NDA is cancelled, and label safety information is missing.
+The TxGNN score is very high and there is a sound mechanistic rationale, but clinical evidence is limited to small, early-phase studies (one single-agent Phase 2 study with n=12 and limited activity, plus Phase 1 combination studies, two of them terminated early). No randomized trial exists. Label safety information is missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Efficacy outcomes (response rates) from the combination studies, to identify the most promising partner
 - Randomized or larger Phase 2 evidence for a specific combination
-- Clarification of the regulatory and commercial availability given the cancelled NDA
+- Clarification of the regulatory and commercial availability
 
 *Other predicted indications:* plasma cell myeloma (score 0.9927, L3, no registered trials, literature mainly class reviews; Research Question) and indolent plasma cell myeloma (score 0.9908, L5, no trials or literature; Hold) have even weaker support than myeloid leukemia.
 ## Disclaimer

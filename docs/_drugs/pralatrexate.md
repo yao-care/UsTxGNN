@@ -89,10 +89,10 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA206183 (Dr. Reddy's Laboratories; cancelled) | Pralatrexate | Injection | Not available |
-| NDA022468 (Fresenius Kabi USA; cancelled) | Pralatrexate | Injection | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA206183 | PRALATREXATE | DR REDDYS | Solution; intravenous | Valid |
+| NDA022468 | FOLOTYN | ACROTECH BIOPHARMA | Solution; intravenous | Valid |
 
 ---
 
@@ -129,7 +129,7 @@ The only direct evidence is a 2007 single-arm Phase II study in pleural mesothel
 - Full text of the Phase II study (PMID 17409804): response rate, survival, histology breakdown, and toxicity
 - Current mesothelioma standard-of-care comparison (e.g., pemetrexed-based regimens) to define a possible niche
 - Mechanism of action data and FDA package insert warnings and contraindications
-- Clarification of the regulatory and commercial status of the cancelled US licenses
+- Clarification of the regulatory and commercial status
 - Any later trials or preclinical data for pralatrexate in mesothelioma
 ## Disclaimer
 

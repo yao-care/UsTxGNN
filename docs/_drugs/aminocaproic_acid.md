@@ -70,15 +70,17 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA015197 (cancelled) | Aminocaproic Acid (Hikma Pharmaceuticals USA Inc.) | Tablet | Not stated |
-| ANDA212492 (cancelled) | Aminocaproic acid (Major Pharmaceuticals) | Tablet | Not stated |
-| ANDA213928 (cancelled) | Aminocaproic Acid (Carnegie Pharmaceuticals, LLC) | Tablet | Not stated |
-| ANDA071192 (cancelled) | Aminocaproic Acid (Medical Purchasing Solutions, LLC) | Injection, solution | Not stated |
-| ANDA216464 (cancelled) | Aminocaproic Acid (Camber Pharmaceuticals, Inc.) | Solution | Not stated |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070010 | AMINOCAPROIC ACID IN PLASTIC CONTAINER | HOSPIRA | Injectable; injection | Valid |
+| ANDA071192 | AMINOCAPROIC ACID | LUITPOLD | Injectable; injection | Valid |
+| ANDA209060 | AMINOCAPROIC ACID | SUNNY | Tablet; oral | Valid |
+| ANDA212492 | AMINOCAPROIC ACID | AMNEAL | Tablet; oral | Valid |
+| ANDA212494 | AMINOCAPROIC ACID | TP ANDA HOLDINGS | Solution; oral | Valid |
 
-13 valid licenses are on record for this drug in the US market, which is marketed. Available dosage forms were oral tablets, injectable solutions, and other solutions.
+Showing 5 of 31 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+Available dosage forms were oral tablets, injectable solutions, and other solutions.
 
 ## Safety Considerations
 
@@ -96,7 +98,7 @@ Please refer to the package insert for warnings and contraindications from the l
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a high model score (L5). No trials or publications support it, the mechanistic link is hypothetical, and the thrombotic risk is a particular concern in diabetic patients. In addition, this drug is marketed in the US with 13 valid licenses.
+The prediction rests solely on a high model score (L5). No trials or publications support it, the mechanistic link is hypothetical, and the thrombotic risk is a particular concern in diabetic patients. In addition, this drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

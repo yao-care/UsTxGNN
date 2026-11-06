@@ -79,8 +79,6 @@ Currently no related literature available.
 
 ---
 
-
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [38236020](https://pubmed.ncbi.nlm.nih.gov/38236020/) | 2024 | RCT | J Clin Psychiatry | Phase 3, randomized, double-blind, placebo-controlled study in adults with bipolar mania. Iloperidone (up to 24 mg/day) was compared with placebo for 4 weeks, with change in Young Mania Rating Scale as the primary endpoint. |
@@ -99,12 +97,14 @@ No registered clinical trials were supplied for this indication.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022192 | FANAPT (Vanda Pharmaceuticals) | Tablet | Not listed in the compiled data; status valid |
-| ANDA207231 | Iloperidone (Mylan Pharmaceuticals) | Tablet | Not listed in the compiled data; status valid |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA022192 | FANAPT | VANDA PHARMS INC | Tablet; oral | Valid |
+| ANDA206890 | ILOPERIDONE | LUPIN | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA207098 | ILOPERIDONE | TARO | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA207231 | ILOPERIDONE | ADAPTIS | Tablet; oral | Discontinued in Drugs@FDA |
 
-The licence data shows both authorizations as cancelled. However, the 2026 literature describes iloperidone as approved in the USA for schizophrenia (2009) and acute bipolar I disorder (2024). This conflict should be reconciled against the current FDA record.
+The 2026 literature describes iloperidone as approved in the USA for schizophrenia (2009) and acute bipolar I disorder (2024).
 
 ---
 
@@ -129,7 +129,7 @@ Label warnings and contraindications were not available in the compiled data, so
 
 **Rationale:**
 - The prediction rests only on a TxGNN model (deep learning) score. There are no trials or publications, and no plausible mechanism links an antipsychotic to inherited retinal degeneration.
-- If the goal is a practical repurposing direction, manic bipolar affective disorder has Phase 3 RCT support and may merit **Proceed with Guardrails**. This is subject to the licence-status discrepancy and the evidence-level check.
+- If the goal is a practical repurposing direction, manic bipolar affective disorder has Phase 3 RCT support and may merit **Proceed with Guardrails**. This is subject to the evidence-level check.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA) from DrugBank.

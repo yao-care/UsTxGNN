@@ -71,13 +71,15 @@ Currently no related literature available for Tourette syndrome.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA018655 | Norpace CR (Pfizer) | Capsule, extended release | Not provided (valid) |
-| NDA017447 | Norpace (Pfizer) | Capsule, gelatin coated | Not provided (valid) |
-| ANDA070102 | Disopyramide Phosphate (Teva) | Capsule | Not provided (valid) |
-| ANDA070173 | Disopyramide Phosphate (Dr. Reddy's) | Capsule | Not provided (valid) |
-| ANDA070101 | Disopyramide Phosphate (Teva) | Capsule | Not provided (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA070101 | DISOPYRAMIDE PHOSPHATE | TEVA | Capsule; oral | Valid |
+| ANDA070102 | DISOPYRAMIDE PHOSPHATE | TEVA | Capsule; oral | Valid |
+| ANDA070173 | DISOPYRAMIDE PHOSPHATE | DR REDDYS LABS SA | Capsule; oral | Valid |
+| NDA017447 | NORPACE | PFIZER | Capsule; oral | Valid |
+| ANDA070138 | DISOPYRAMIDE PHOSPHATE | MYLAN | Capsule; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

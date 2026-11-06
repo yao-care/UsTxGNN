@@ -87,10 +87,9 @@ Currently no related literature available for medulloblastoma with extensive nod
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA205266 (cancelled) | Odomzo (Sun Pharmaceutical Industries, Inc.) | Capsule | Not specified in the compiled data |
-
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA205266 | ODOMZO | SUN PHARM | Capsule; oral | Valid |
 
 ---
 
@@ -123,7 +122,7 @@ Please refer to the package insert for the full warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible because medulloblastoma is Hedgehog-driven. However, there is no clinical or published evidence for this indication (Evidence Level L5). The US authorization is cancelled, and the pediatric safety and brain-penetration concerns are significant.
+The prediction is mechanistically plausible because medulloblastoma is Hedgehog-driven. However, there is no clinical or published evidence for this indication (Evidence Level L5). The pediatric safety and brain-penetration concerns are significant.
 
 **To proceed, the following is needed:**
 - Preclinical or clinical evidence of sonidegib activity in SHH-subgroup and nodular/desmoplastic medulloblastoma

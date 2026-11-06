@@ -80,11 +80,11 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA022458 (cancelled) | ELELYSO | Injection, powder, lyophilized, for solution | Not listed in the data compiled for this report |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA022458 | ELELYSO | PFIZER | Powder; intravenous | Valid |
 
-The only US authorization is Pfizer's ELELYSO, and it has a cancelled status.
+The only US authorization is Pfizer's ELELYSO.
 
 ## Safety Considerations
 

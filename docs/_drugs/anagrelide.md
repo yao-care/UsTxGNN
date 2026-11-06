@@ -89,12 +89,15 @@ The publications below are mostly reviews that discuss reactive thrombocytosis a
 
 The data compiled for this report does not include approved indication text. The product is an oral capsule.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020333 | Agrylin (Takeda Pharmaceuticals America) | Capsule | Not available (valid) |
-| ANDA076683 | Anagrelide (Chartwell RX) | Capsule | Not available (valid) |
-| ANDA076811 | Anagrelide (ANI Pharmaceuticals) | Capsule | Not available (valid) |
-| ANDA209151 | Anagrelide (Torrent Pharmaceuticals) | Capsule | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076468 | ANAGRELIDE HYDROCHLORIDE | CIPLA | Capsule; oral | Valid |
+| ANDA076811 | ANAGRELIDE HYDROCHLORIDE | NOVITIUM PHARMA | Capsule; oral | Valid |
+| ANDA076910 | ANAGRELIDE HYDROCHLORIDE | IMPAX LABS | Capsule; oral | Valid |
+| ANDA209151 | ANAGRELIDE HYDROCHLORIDE | TORRENT | Capsule; oral | Valid |
+| NDA020333 | AGRYLIN | TAKEDA PHARMS USA | Capsule; oral | Valid |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -110,7 +113,7 @@ The Major interactions appear to be mainly QT-prolongation-related combinations,
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score and general pharmacology, with no registered trials and no controlled studies in reactive thrombocytosis. Reactive thrombocytosis is usually self-limited with low thrombotic risk, so cytoreductive therapy is generally not indicated. The drug's cardiovascular and other safety signals, and the cancellation of all US licenses, add further caution.
+The prediction rests on a model score and general pharmacology, with no registered trials and no controlled studies in reactive thrombocytosis. Reactive thrombocytosis is usually self-limited with low thrombotic risk, so cytoreductive therapy is generally not indicated. The drug's cardiovascular and other safety signals, add further caution.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

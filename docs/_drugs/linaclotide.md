@@ -76,9 +76,12 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA202811 (cancelled) | Linzess (Allergan, Inc.) | Capsule, gelatin coated (oral) | Not listed |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA211255 | LINACLOTIDE | ACTAVIS LABS FL | Capsule; oral | Valid |
+| NDA202811 | LINZESS | ABBVIE | Capsule; oral | Valid |
+| ANDA209564 | LINACLOTIDE | MYLAN | Capsule; oral | Discontinued in Drugs@FDA |
+| ANDA209611 | LINACLOTIDE | AUROBINDO PHARMA | Capsule; oral | Discontinued in Drugs@FDA |
 
 ## Safety Considerations
 
@@ -98,13 +101,13 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials or publications behind it, and no credible mechanistic link to cauda equina syndrome. The marketed US product is also listed as cancelled. A high model score alone is not enough to justify moving forward.
+The prediction has no clinical trials or publications behind it, and no credible mechanistic link to cauda equina syndrome. A high model score alone is not enough to justify moving forward.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are required before any safety screening
 - Detailed mechanism of action data
 - Preclinical or clinical evidence supporting any benefit in cauda equina syndrome, or in neurogenic bowel dysfunction as a symptom-level target
-- Clarification of the current US regulatory status of linaclotide, since the listed NDA is cancelled
+- Clarification of the current US regulatory status of linaclotide
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -74,15 +74,15 @@ Currently no related literature available.
 
 The data compiled for this report contains no approved-indication text for them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA210654 | Ethosuximide (Epic Pharma) | Capsule | Not available (valid) |
-| ANDA200892 | Ethosuximide (Chartwell RX) | Capsule | Not available (valid) |
-| NDA012380 | Zarontin (Parke-Davis/Pfizer) | Capsule | Not available (valid) |
-| ANDA080258 | Zarontin (Parke-Davis/Pfizer) | Solution | Not available (valid) |
-| ANDA040253 | Ethosuximide (PAI Pharma) | Solution | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040253 | ETHOSUXIMIDE | PHARM ASSOC | Syrup; oral | Valid |
+| ANDA040430 | ETHOSUXIMIDE | BIONPHARMA | Capsule; oral | Valid |
+| ANDA040506 | ETHOSUXIMIDE | CHARTWELL RX | Syrup; oral | Valid |
+| ANDA040686 | ETHOSUXIMIDE | EPIC PHARMA LLC | Capsule; oral | Valid |
+| ANDA080258 | ZARONTIN | PARKE-DAVIS | Syrup; oral | Valid |
 
-Two further cancelled authorizations are not listed here: ANDA211928 (Strides Pharma, capsule) and ANDA040430 (Bryant Ranch Prepack, liquid-filled capsule).
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022075 (cancelled) | NOURIANZ (Kyowa Kirin, Inc.) | Film-coated tablet | Not specified in the available data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA022075 | NOURIANZ | KYOWA KIRIN | Tablet; oral | Valid |
 
 ## Safety Considerations
 
@@ -99,7 +99,7 @@ The prediction has the lowest evidence level (L5). It has no registered trials o
 - A literature and trial search for A2A antagonists in autoimmune or inflammatory encephalitis
 - FDA package insert warnings and contraindications
 - Confirmed mechanism of action data from DrugBank
-- Clarification of the NDA cancellation status and of the route and formulation needs for this patient population (an oral tablet is the only known form)
+- Clarification of the route and formulation needs for this patient population (an oral tablet is the only known form)
 - A review of the major drug interactions, particularly with strong CYP3A4 inhibitors, in patients likely to be on antiepileptic or immunotherapy regimens
 ## Disclaimer
 

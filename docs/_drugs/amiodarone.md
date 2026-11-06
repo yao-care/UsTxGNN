@@ -82,15 +82,17 @@ None of the publications below tests amiodarone in this disease. They describe t
 
 ## US Market Information
 
-Among the 12 licences listed, 11 are valid and 1 is cancelled. The list may be partial. Approved-indication text is not recorded in the local data. Main licences:
+Approved-indication text is not recorded in the local data. Main licences:
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022325 | Nexterone (Baxter Healthcare) | Injection, solution | Not recorded (valid) |
-| ANDA204550 | Amiodarone Hydrochloride (AuroMedics) | Injection, solution | Not recorded (valid) |
-| ANDA218253 | Amiodarone Hydrochloride (Zhejiang Poly Pharm.) | Injection, solution | Not recorded (valid) |
-| ANDA079029 | Amiodarone Hydrochloride (Zydus) | Tablet | Not recorded (valid) |
-| ANDA075389 | Amiodarone Hydrochloride (Dr. Reddy's) | Tablet | Not recorded (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074739 | AMIODARONE HYDROCHLORIDE | TEVA PHARMS | Tablet; oral | Valid |
+| ANDA075135 | PACERONE | UPSHER SMITH LABS | Tablet; oral | Valid |
+| ANDA075389 | AMIODARONE HYDROCHLORIDE | DR REDDYS LABS SA | Tablet; oral | Valid |
+| ANDA075424 | AMIODARONE HYDROCHLORIDE | TARO | Tablet; oral | Valid |
+| ANDA075761 | AMIODARONE HYDROCHLORIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
+
+Showing 5 of 35 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 Available forms include oral tablets and injectable solutions.
 

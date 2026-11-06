@@ -80,14 +80,15 @@ No literature was found for the top predicted indication. For the third-ranked i
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA076466 | Metolazone (Sandoz Inc) | Tablet | Not available (valid) |
-| ANDA217563 | Metolazone (Micro Labs Limited) | Tablet | Not available (valid) |
-| ANDA213827 | Metolazone (American Health Packaging) | Tablet | Not available (valid) |
-| ANDA214799 | Metolazone (Unichem Pharmaceuticals (USA), Inc.) | Tablet | Not available (valid) |
-| ANDA076698 | Metolazone (Mylan Pharmaceuticals Inc.) | Tablet | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076466 | METOLAZONE | SANDOZ | Tablet; oral | Valid |
+| ANDA076482 | METOLAZONE | ROXANE | Tablet; oral | Valid |
+| ANDA076698 | METOLAZONE | MYLAN | Tablet; oral | Valid |
+| ANDA076732 | METOLAZONE | SANDOZ | Tablet; oral | Valid |
+| ANDA213251 | METOLAZONE | ALEMBIC | Tablet; oral | Valid |
 
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

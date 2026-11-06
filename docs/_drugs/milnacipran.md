@@ -93,9 +93,15 @@ Other retrieved items (a pharmacovigilance methodology paper, a thunderclap head
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022256 (cancelled) | Savella (Allergan, Inc.) | Film-coated tablet | Not available in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA205071 | MILNACIPRAN HYDROCHLORIDE | BRECKENRIDGE | Tablet; oral | Valid |
+| ANDA205081 | MILNACIPRAN HYDROCHLORIDE | AMNEAL PHARMS | Tablet; oral | Valid |
+| ANDA205147 | MILNACIPRAN HYDROCHLORIDE | HETERO LABS LTD V | Tablet; oral | Valid |
+| ANDA207399 | MILNACIPRAN HYDROCHLORIDE | STRIDES PHARMA | Tablet; oral | Valid |
+| ANDA210944 | MILNACIPRAN HYDROCHLORIDE | MACLEODS PHARMS | Tablet; oral | Valid |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 

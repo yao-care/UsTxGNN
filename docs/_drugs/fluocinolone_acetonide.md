@@ -69,15 +69,17 @@ Currently no related literature available.
 
 ## US Market Information
 
-At least 17 US authorizations are recorded, and the list below may be partial. Of these, 15 are valid and 2 are cancelled. Approved-indication text is not recorded in the local data.
+Approved-indication text is not recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA013960 | Synalar | Ointment | Not stated (valid) |
-| NDA019452 | Derma-Smoothe/FS | Oil | Not stated (valid) |
-| NDA201923 | Iluvien | Implant | Not stated (valid) |
-| NDA210331 | YUTIQ | Implant | Not stated (valid) |
-| ANDA089526 | Fluocinolone Acetonide | Cream | Not stated (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA088167 | FLUOCINOLONE ACETONIDE | FOUGERA PHARMS INC | Solution; topical | Valid |
+| ANDA088168 | FLUOCINOLONE ACETONIDE | FOUGERA PHARMS INC | Ointment; topical | Valid |
+| ANDA088169 | FLUOCINOLONE ACETONIDE | FOUGERA PHARMS INC | Cream; topical | Valid |
+| ANDA088170 | FLUOCINOLONE ACETONIDE | FOUGERA PHARMS INC | Cream; topical | Valid |
+| ANDA089124 | FLUOCINOLONE ACETONIDE | SUN PHARMA CANADA | Solution; topical | Valid |
+
+Showing 5 of 80 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

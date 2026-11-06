@@ -82,13 +82,15 @@ For context, literature was retrieved for other lower-ranked predictions, but it
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA206332 (cancelled) | Procainamide Hydrochloride (Nexus Pharmaceuticals) | Injection | Not available |
-| ANDA218674 (cancelled) | Procainamide Hydrochloride (Caplin Steriles) | Injection, solution | Not available |
-| ANDA218135 (cancelled) | Procainamide Hydrochloride (Sagent) | Injection, solution | Not available |
-| ANDA088636 (cancelled) | Procainamide Hydrochloride (ProPharma Distribution) | Injection | Not available |
-| ANDA089069 (cancelled) | Procainamide HCl (HF Acquisition Co, HealthFirst) | Injection, solution | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA088636 | PROCAINAMIDE HYDROCHLORIDE | INTL MEDICATION | Injectable; injection | Valid |
+| ANDA089069 | PROCAINAMIDE HYDROCHLORIDE | HOSPIRA | Injectable; injection | Valid |
+| ANDA206332 | PROCAINAMIDE HYDROCHLORIDE | NEXUS | Injectable; injection | Valid |
+| ANDA218135 | PROCAINAMIDE HYDROCHLORIDE | GLAND | Injectable; injection | Valid |
+| ANDA218674 | PROCAINAMIDE HYDROCHLORIDE | CAPLIN | Injectable; injection | Valid |
+
+Showing 5 of 78 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -118,7 +120,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The Tourette syndrome prediction rests solely on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials, no literature, and no plausible mechanism. Procainamide also carries significant safety signals (QT prolongation, blood dyscrasias, drug-induced lupus), and it is marketed in the US with 5 valid licenses of 5.
+The Tourette syndrome prediction rests solely on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials, no literature, and no plausible mechanism. Procainamide also carries significant safety signals (QT prolongation, blood dyscrasias, drug-induced lupus), and it is marketed in the US.
 
 **To proceed, the following is needed:**
 - A documented mechanistic hypothesis linking sodium channel blockade to Tourette syndrome pathophysiology
@@ -126,7 +128,7 @@ The Tourette syndrome prediction rests solely on a score from the TxGNN model (d
 - Package insert warnings and contraindications, and approved indication text
 - Mechanism of action data from DrugBank
 - A risk-benefit analysis addressing proarrhythmic, haematological, and autoimmune risks, particularly in a younger Tourette population
-- A review of the commercial availability of the drug, which is marketed in the US (5 valid licenses of 5)
+- A review of the commercial availability of the drug, which is marketed in the US
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -96,9 +96,9 @@ The other predictions are weaker. Immune thrombocytopenia (rank 1), acne keloida
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761070 (cancelled) | FASENRA | Injection, solution | Indication text not available in the compiled data. Pharmacology data indicate US approval for severe eosinophilic asthma (add-on maintenance, age 12 and older) in November 2017, and for eosinophilic granulomatosis with polyangiitis in September 2024. |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761070 | FASENRA | ASTRAZENECA AB | Injectable; injection | Valid |
 
 ---
 
@@ -121,7 +121,7 @@ The best-supported prediction (dermatitis) has only one terminated Phase 2 place
 - Detailed mechanism of action data
 - The reason the HILLIER trial was terminated and its full results
 - Results from the DRESS trial (NCT06734884), a more eosinophil-dependent condition than atopic dermatitis, once available
-- Clarification of the US license status, since the data list the BLA as cancelled while pharmacology data describe approved uses
+- Clarification of the US license status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

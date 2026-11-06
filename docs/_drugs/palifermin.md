@@ -80,9 +80,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA 125103 (cancelled) | KEPIVANCE | Injection, powder, lyophilized, for solution | Not listed in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125103 | KEPIVANCE | BIOVITRUM AB | Injectable; injection | Valid |
 
 The manufacturer is Swedish Orphan Biovitrum AB (publ).
 

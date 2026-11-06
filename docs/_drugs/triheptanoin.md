@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA213687 (cancelled) | DOJOLVI (Ultragenyx Pharmaceutical Inc.) | Liquid | Not listed in the available data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA213687 | DOJOLVI | ULTRAGENYX PHARM INC | Liquid; oral | Valid |
 
 ## Safety Considerations
 
@@ -87,7 +87,7 @@ Please refer to the package insert for warnings and contraindications, which are
 **Decision: Hold**
 
 **Rationale:**
-The prediction for tetanic cataract is supported only by a model score, with no clinical trials, literature or plausible mechanism. The US license is also cancelled, and the key safety labeling is missing. The evidence level is L5.
+The prediction for tetanic cataract is supported only by a model score, with no clinical trials, literature or plausible mechanism. The key safety labeling is missing. The evidence level is L5.
 
 **To proceed, the following is needed:**
 - The FDA package insert (warnings, contraindications and approved indication), which is a blocking gap for safety screening

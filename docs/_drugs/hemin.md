@@ -74,9 +74,9 @@ For the second-ranked prediction (hemophilia), three publications were retrieved
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA101246 (cancelled) | Panhematin (Recordati Rare Diseases, Inc.) | Powder, for solution | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA101246 | Panhematin | Recordati Rare Diseases, Inc. | Powder, for solution; intravenous | Valid |
 
 ## Safety Considerations
 
@@ -93,7 +93,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no relevant literature, and no mechanistic link to thrombocytopenic purpura. The product's US license is cancelled, and hemin's known coagulation effects raise safety concerns for bleeding and platelet disorders.
+The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no relevant literature, and no mechanistic link to thrombocytopenic purpura. Hemin's known coagulation effects raise safety concerns for bleeding and platelet disorders.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

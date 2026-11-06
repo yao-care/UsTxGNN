@@ -83,12 +83,15 @@ There are no clinical trials for heart failure. The third prediction (acute pulm
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA207438 (Bausch & Lomb) | Methazolamide | Tablet | Not available; status: cancelled |
-| ANDA040001 (Bryant Ranch Prepack) | Methazolamide | Tablet | Not available; status: cancelled |
-| ANDA217408 (Ajanta Pharma USA) | Methazolamide | Tablet | Not available; status: cancelled |
-| ANDA215615 (Precision Dose) | Methazolamide | Tablet | Not available; status: cancelled |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040001 | METHAZOLAMIDE | ANI PHARMS | Tablet; oral | Valid |
+| ANDA040036 | METHAZOLAMIDE | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA040062 | METHAZOLAMIDE | PHARMOBEDIENT | Tablet; oral | Valid |
+| ANDA207438 | METHAZOLAMIDE | BAUSCH AND LOMB INC | Tablet; oral | Valid |
+| ANDA215615 | METHAZOLAMIDE | TAGI | Tablet; oral | Valid |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

@@ -74,9 +74,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA 125293 (cancelled) | Krystexxa (Horizon Therapeutics USA, Inc.) | Injection, solution | Not listed in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125293 | KRYSTEXXA | HORIZON PHARMA | Injectable; injection | Valid |
 
 ## Safety Considerations
 
@@ -103,7 +103,7 @@ The only support for this prediction is a high TxGNN score. There are no clinica
 - Mechanism of action data
 - Preclinical or mechanistic evidence linking urate lowering or uricase activity to diabetic retinopathy
 - Assessment of route compatibility (systemic IV versus ocular delivery) and immunogenicity risk
-- Clarification of current availability, given the cancelled US license status
+- Clarification of current availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

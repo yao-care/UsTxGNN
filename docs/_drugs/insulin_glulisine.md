@@ -59,8 +59,6 @@ Detailed mechanism of action data is not currently available in the data compile
 
 Type 1 diabetes is a core form of diabetes mellitus, which is already the drug's original indication. The prediction is therefore consistent with the drug's established use. Because type 1 diabetes involves absolute insulin deficiency, exogenous insulin replacement is mechanistically sound.
 
-Note that the US market status is "Cancelled only," so product availability should be verified before any recommendation.
-
 ## Clinical Trial Evidence
 
 The data compiled for this report contain 29 trials for type 1 diabetes. The 10 most relevant are listed below, prioritizing completed Phase 3 trials and directly relevant efficacy studies.
@@ -97,9 +95,13 @@ Other registered trials include pediatric studies in Russia and Poland, basal-bo
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA021629 (cancelled) | Apidra SoloStar (sanofi-aventis U.S. LLC) | Injection, solution | Not stated in the available data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA021629 | APIDRA SOLOSTAR | SANOFI AVENTIS US | Injectable; subcutaneous | Valid |
+| NDC 63083-2019 | DNA Insulin Drops 2019 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 63083-3037 | Pancreas DB Liquescence 3037 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 63083-2146 | Attention Deficit Mild Drops 2146 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 63083-2147 | Attention Deficit Severe Drops 2147 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
 
 ## Safety Considerations
 

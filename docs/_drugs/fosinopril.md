@@ -85,14 +85,15 @@ No literature is available for the top-ranked indication. For the rank 4 indicat
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA077222 (Cipla USA Inc.) | Fosinopril Sodium | Tablet | Not listed (cancelled) |
-| ANDA091163 (Aurobindo Pharma Limited) | Fosinopril Sodium | Tablet | Not listed (cancelled) |
-| ANDA205670 (Bryant Ranch Prepack) | Fosinopril sodium | Tablet | Not listed (cancelled) |
-| ANDA076483 (Chartwell RX, LLC) | Fosinopril Sodium | Tablet | Not listed (cancelled) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076139 | FOSINOPRIL SODIUM | TEVA | Tablet; oral | Valid |
+| ANDA076483 | FOSINOPRIL SODIUM | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA077222 | FOSINOPRIL SODIUM | INVAGEN PHARMS | Tablet; oral | Valid |
+| ANDA091163 | FOSINOPRIL SODIUM | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+| ANDA205670 | FOSINOPRIL SODIUM | PRINSTON | Tablet; oral | Valid |
 
-All four authorizations are single-ingredient oral tablets and all are cancelled.
+Showing 5 of 22 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -127,7 +128,7 @@ The prediction is supported only by a high model score (0.9987), with no clinica
 - Mechanism of action data from DrugBank
 - Clinical or observational evidence for ACE inhibitors in malignant hypertensive nephropathy
 - Review of renal safety, especially in renovascular disease
-- Clarification of the regulatory status, since the drug is marketed and 4 US licenses are valid
+- Clarification of the regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

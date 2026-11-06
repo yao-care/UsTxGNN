@@ -82,9 +82,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125522 (cancelled) | REPATHA (Amgen USA Inc.) | Injection, solution | Not listed in the data compiled |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125522 | REPATHA | AMGEN INC | Injectable; injection | Valid |
 
 ## Safety Considerations
 
@@ -97,13 +97,12 @@ For other safety information (warnings and contraindications), please refer to t
 **Decision: Hold**
 
 **Rationale:**
-The predictions rest solely on model scores. There are no clinical trials or publications, and the mechanistic review found no plausible link for the top-ranked bleeding or coagulation indications. The only weak, indirect link is for familial apolipoprotein C-II deficiency, and its benefit is speculative. The US BLA is also listed as cancelled.
+The predictions rest solely on model scores. There are no clinical trials or publications, and the mechanistic review found no plausible link for the top-ranked bleeding or coagulation indications. The only weak, indirect link is for familial apolipoprotein C-II deficiency, and its benefit is speculative.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank to support mechanistic analysis
 - Any preclinical or clinical evidence for the predicted indications, with priority on familial apolipoprotein C-II deficiency, the only prediction with a plausible lipid-related link
-- Clarification of the cancelled US regulatory status of BLA125522
 - Route compatibility and similarity-to-original-indication assessments, currently pending
 ## Disclaimer
 

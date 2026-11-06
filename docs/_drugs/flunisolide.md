@@ -74,10 +74,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA074805 (cancelled) | Flunisolide (Oceanside Pharmaceuticals) | Solution | Not listed |
-| ANDA207802 (cancelled) | Flunisolide (Ingenus Pharmaceuticals, LLC) | Solution | Not listed |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074805 | FLUNISOLIDE | BAUSCH | Spray, metered; nasal | Valid |
+| ANDA077704 | FLUNISOLIDE | RISING | Spray, metered; nasal | Valid |
+| ANDA207802 | FLUNISOLIDE | RICONPHARMA LLC | Spray, metered; nasal | Valid |
+| ANDA077436 | FLUNISOLIDE | APOTEX | Spray, metered; nasal | Discontinued in Drugs@FDA |
+| NDA018148 | NASALIDE | IVAX RES | Spray, metered; nasal | Discontinued in Drugs@FDA |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

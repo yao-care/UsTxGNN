@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but *
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 29 of 38; OTC monograph / unapproved listings: 1754) |
-| Number of FDA Applications | 38 (active: 29) |
+| US Market Status | Marketed (active FDA-approved applications: 33 of 42; OTC monograph / unapproved listings: 1754) |
+| Number of FDA Applications | 42 (active: 33) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -79,13 +79,13 @@ Currently no related literature available.
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
+| ANDA091135 | DEXTROMETHORPHAN POLISTIREX | TRIS PHARMA INC | Suspension, extended release; oral | Valid |
+| ANDA203133 | DEXTROMETHORPHAN POLISTIREX | AMNEAL | Suspension, extended release; oral | Valid |
+| ANDA218417 | DEXTROMETHORPHAN POLISTIREX | AUROBINDO PHARMA LTD | Suspension, extended release; oral | Valid |
+| NDA018658 | DELSYM | RECKITT BENCKISER | Suspension, extended release; oral | Valid |
 | ANDA040649 | PROMETHAZINE DM | PAI HOLDINGS | Syrup; oral | Valid |
-| ANDA088864 | PROMETHAZINE W/ DEXTROMETHORPHAN | PHARMOBEDIENT | Syrup; oral | Valid |
-| ANDA090575 | PROMETHAZINE HYDROCHLORIDE AND DEXTROMETHORPHAN HYDROBROMIDE | AMNEAL PHARMS | Syrup; oral | Valid |
-| ANDA091070 | GUAIFENESIN AND DEXTROMETHORPHAN HYDROBROMIDE | ACTAVIS LABS FL | Tablet, extended release; oral | Valid |
-| ANDA091687 | PROMETHAZINE HYDROCHLORIDE AND DEXTROMETHORPHAN HYDROBROMIDE | COSETTE PHARMS NC | Syrup; oral | Valid |
 
-Showing 5 of 1792 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+Showing 5 of 1796 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

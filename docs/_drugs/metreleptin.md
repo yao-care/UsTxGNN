@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125390 (cancelled) | Myalept | Lyophilized powder for injection | Not specified in the data compiled |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125390 | MYALEPT | CHIESI FARMACEUTICI SPA | Injectable; injection | Valid |
 
 Manufacturer: Amryt Pharmaceuticals Designated Activity Company. The product is injectable only.
 
@@ -92,13 +92,12 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or literature (evidence level L5) and no identifiable mechanistic link between leptin replacement and a pigmentation disorder. The US license is also cancelled, and package-insert safety data are missing.
+The prediction has no supporting clinical trials or literature (evidence level L5) and no identifiable mechanistic link between leptin replacement and a pigmentation disorder. Package-insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for metreleptin, to assess any biological link to the predicted indication
 - A mechanistic or preclinical rationale connecting leptin signaling to familial generalized lentiginosis
 - FDA package insert warnings and contraindications for a safety review
-- Clarification of the cancelled US license status and its implications for access and development
 - Evaluation of other candidates with more plausible links, such as insulin-resistance-related conditions, if the goal is a viable repurposing path
 ## Disclaimer
 

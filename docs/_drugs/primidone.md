@@ -84,15 +84,15 @@ For reference, the strongest literature attached to the other predicted indicati
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA009170 | Mysoline (Bausch Health US, LLC) | Tablet | Valid |
-| ANDA040862 | Primidone (Dr. Reddy's Laboratories Limited) | Tablet | Valid |
-| ANDA040866 | Primidone (Bryant Ranch Prepack) | Tablet | Valid |
-| ANDA214896 | Primidone (Advagen Pharma Limited) | Tablet | Valid |
-| ANDA040586 | Primidone (Bryant Ranch Prepack) | Tablet | Valid |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040586 | PRIMIDONE | OXFORD PHARMS | Tablet; oral | Valid |
+| ANDA040626 | PRIMIDONE | TP ANDA HOLDINGS | Tablet; oral | Valid |
+| ANDA040866 | PRIMIDONE | AMNEAL PHARM | Tablet; oral | Valid |
+| ANDA083551 | PRIMIDONE | WATSON LABS | Tablet; oral | Valid |
+| ANDA084903 | PRIMIDONE | LANNETT | Tablet; oral | Valid |
 
-Three more cancelled ANDAs (083551, 218366, 084903) are not shown. All 8 authorizations in the data compiled for this report are cancelled, and none contains approved indication text.
+Showing 5 of 12 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

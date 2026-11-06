@@ -53,7 +53,6 @@ The TxGNN model predicts it may be effective for **insomnia**, but **no clinical
 | Number of FDA Applications | 2 (active: 2) |
 | Recommended Decision | Hold |
 
-
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general pharmacological knowledge, methsuximide is a succinimide anticonvulsant thought to act mainly by inhibiting T-type calcium channels in thalamic neurons. These channels help shape thalamocortical rhythms and sedation, so an effect on sleep is plausible.
@@ -82,10 +81,10 @@ No literature is available for the lead prediction (insomnia). The only publicat
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA217213 (cancelled) | Methsuximide (ANI Pharmaceuticals) | Capsule | Not stated in the available records |
-| NDA010596 (cancelled) | Celontin (Parke-Davis, Pfizer) | Capsule | Not stated in the available records |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA217213 | METHSUXIMIDE | NOVITIUM PHARMA | Capsule; oral | Valid |
+| NDA010596 | CELONTIN | PARKE DAVIS | Capsule; oral | Valid |
 
 ## Safety Considerations
 

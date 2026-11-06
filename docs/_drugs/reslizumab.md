@@ -78,9 +78,9 @@ For the second prediction (primary release disorder of platelets), one publicati
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761033 (cancelled) | CINQAIR (Teva Respiratory, LLC) | Injection, solution, concentrate | Indication text not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761033 | CINQAIR | TEVA RESPIRATORY LLC | Injectable; injection | Valid |
 
 ## Safety Considerations
 
@@ -97,7 +97,7 @@ The prediction has a high model score but no clinical trials and no directly rel
 - Package insert warnings and contraindications (FDA label), a blocking gap for safety screening
 - Mechanism of action data (e.g., from DrugBank) to assess any link between IL-5/eosinophil biology and immune thrombocytopenia
 - A targeted literature search on anti-IL-5 therapy and immune thrombocytopenia or platelet function disorders
-- Clarification of current regulatory status, given the cancelled US license, and route compatibility (injectable only)
+- Clarification of current regulatory status and route compatibility (injectable only)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

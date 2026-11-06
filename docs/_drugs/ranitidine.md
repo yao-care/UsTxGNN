@@ -83,13 +83,15 @@ The publications below are the most relevant ones retrieved. None tests ranitidi
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA077824 | Ranitidine (Amneal) | Tablet | Not available (valid) |
-| ANDA211289 | Ranitidine (Rising Pharma) | Tablet | Not available (valid) |
-| ANDA078192 | Ranitidine (Dr. Reddy's) | Coated tablet | Not available (valid) |
-| ANDA210243 | Ranitidine (Granules India) | Tablet | Not available (valid) |
-| ANDA209859 | Ranitidine (Ajanta Pharma) | Capsule | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074467 | RANITIDINE HYDROCHLORIDE | SANDOZ | Tablet; oral | Valid |
+| ANDA074655 | RANITIDINE HYDROCHLORIDE | SANDOZ | Capsule; oral | Valid |
+| ANDA075294 | RANITIDINE HYDROCHLORIDE | DR REDDYS LABS LTD | Tablet; oral | Valid |
+| ANDA075742 | RANITIDINE HYDROCHLORIDE | DR REDDYS LABS LTD | Capsule; oral | Valid |
+| ANDA076705 | RANITIDINE HYDROCHLORIDE | DR REDDYS LABS INC | Tablet; oral | Valid |
+
+Showing 5 of 84 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

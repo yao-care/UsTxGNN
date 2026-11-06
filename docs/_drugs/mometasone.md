@@ -75,12 +75,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA215712 | Nasonex | Metered spray | Not listed (valid) |
-| ANDA217498 | Mometasone Furoate | Metered spray | Not listed (valid) |
-| ANDA215878 | Mometasone Furoate Monohydrate | Metered spray | Not listed (valid) |
-| ANDA091161 | Mometasone Furoate | Metered spray | Not listed (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075919 | MOMETASONE FUROATE | FOUGERA PHARMS | Lotion; topical | Valid |
+| ANDA076067 | MOMETASONE FUROATE | PADAGIS US | Ointment; topical | Valid |
+| ANDA076481 | MOMETASONE FUROATE | ENCUBE | Ointment; topical | Valid |
+| ANDA076499 | MOMETASONE FUROATE | ENCUBE | Lotion; topical | Valid |
+| ANDA076679 | MOMETASONE FUROATE | SUN PHARMA CANADA | Cream; topical | Valid |
+
+Showing 5 of 35 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 All are metered nasal sprays. No topical formulation is represented in the data compiled for this report.
 
@@ -95,14 +98,14 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction (primary cutaneous T-cell lymphoma, score 0.9936) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It rests on a plausible class-level mechanism (topical corticosteroids in early mycosis fungoides). There are no clinical trials and no supportive mometasone-specific literature; one case report even describes treatment failure in a benign mimic. The drug is marketed in the US with 4 valid licenses, but the available products are nasal sprays, which are not suited to skin-directed therapy.
+The prediction (primary cutaneous T-cell lymphoma, score 0.9936) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It rests on a plausible class-level mechanism (topical corticosteroids in early mycosis fungoides). There are no clinical trials and no supportive mometasone-specific literature; one case report even describes treatment failure in a benign mimic. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Mometasone-specific clinical or observational data in mycosis fungoides or other cutaneous T-cell lymphoma
 - Comparison with established topical corticosteroids already used in this setting
-- Assessment of route and formulation compatibility (topical versus the nasal spray forms in the data) and of the regulatory and commercial implications of the cancelled status
+- Assessment of route and formulation compatibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

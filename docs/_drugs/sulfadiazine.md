@@ -85,11 +85,15 @@ None of these publications is a randomized trial; all are reviews, case reports 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA080084 (cancelled) | sulfADIAZINE (Chartwell RX, LLC) | Tablet | Not available |
-| ANDA040091 (cancelled) | SULFADIAZINE (Epic Pharma, LLC) | Tablet | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040091 | SULFADIAZINE | EPIC PHARMA LLC | Tablet; oral | Valid |
+| ANDA080081 | SULFADIAZINE | IMPAX LABS | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA080084 | SULFADIAZINE | CHARTWELL MOLECULAR | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA080088 | SULFADIAZINE | EVERYLIFE | Tablet; oral | Discontinued in Drugs@FDA |
+| NDA004054 | SULFADIAZINE | LEDERLE | Tablet; oral | Discontinued in Drugs@FDA |
 
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -105,13 +109,13 @@ Package insert warnings and contraindications were not available; please refer t
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic link (folate pathway inhibition, class-level precedent with trimethoprim-sulfamethoxazole) is plausible, but there are no clinical trials and no direct literature for sulfadiazine in pneumocystosis. Established alternatives already exist, and both US licenses are cancelled, which limits practical availability.
+The mechanistic link (folate pathway inhibition, class-level precedent with trimethoprim-sulfamethoxazole) is plausible, but there are no clinical trials and no direct literature for sulfadiazine in pneumocystosis. Established alternatives already exist.
 
 **To proceed, the following is needed:**
 - Direct clinical or comparative data for sulfadiazine in Pneumocystis pneumonia
 - Package insert warnings and contraindications (FDA label)
 - Mechanism of action data confirmed from DrugBank
-- Assessment of current US availability, given that both licenses are cancelled
+- Assessment of current US availability
 - Safety review for the hematologic, renal and G6PD-related risks listed above
 
 ---

@@ -79,15 +79,17 @@ None of these publications tests posaconazole for pneumocystosis.
 
 ## US Market Information
 
-The drug is marketed in the US, with 14 valid licenses. The data compiled for this report contains no approved indication text. The main authorizations are:
+The drug is marketed in the US. The data compiled for this report contains no approved indication text. The main authorizations are:
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA205596 | NOXAFIL (Merck Sharp & Dohme LLC) | Solution | Not available (valid) |
-| NDA205053 | Posaconazole (Bryant Ranch Prepack) | Tablet, coated | Not available (valid) |
-| ANDA214842 | Posaconazole (Eugia US LLC) | Injection | Not available (valid) |
-| ANDA212226 | Posaconazole (Golden State Medical Supply) | Tablet, delayed release | Not available (valid) |
-| ANDA219057 | Posaconazole (Camber Pharmaceuticals) | Solution | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208768 | POSACONAZOLE | PH HEALTH | Solution; intravenous | Valid |
+| ANDA208773 | POSACONAZOLE | HIKMA | Suspension; oral | Valid |
+| ANDA209983 | POSACONAZOLE | FRESENIUS KABI USA | Solution; intravenous | Valid |
+| ANDA211500 | POSACONAZOLE | MYLAN LABS LTD | Solution; intravenous | Valid |
+| ANDA212226 | POSACONAZOLE | SPECGX LLC | Tablet, delayed release; oral | Valid |
+
+Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 Available dosage forms include injectable, oral (delayed-release and coated tablets) and solution.
 
@@ -110,7 +112,7 @@ The high TxGNN score is not backed by a plausible mechanism, because *Pneumocyst
 - Mechanism of action data, plus evidence that posaconazole has activity against *Pneumocystis*
 - Preclinical or clinical studies of posaconazole in pneumocystosis, or a review of any posaconazole-containing prophylaxis trials that report *Pneumocystis* outcomes
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Confirmation of the regulatory status of the 14 valid US licenses
+- Confirmation of the regulatory status
 - Comparison against trimethoprim-sulfamethoxazole, the standard of care
 ## Disclaimer
 

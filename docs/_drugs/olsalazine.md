@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019715 (cancelled) | Dipentum (Viatris Specialty LLC) | Capsule, gelatin coated (oral) | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA019715 | DIPENTUM | MYLAN SPCLT VIATRIS | Capsule; oral | Valid |
 
 ## Safety Considerations
 

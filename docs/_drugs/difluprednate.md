@@ -77,15 +77,15 @@ For reference, the only publication found among the top 10 predictions relates t
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022212 | DUREZOL (Sandoz Inc) | Emulsion | Not stated in the data (valid) |
-| ANDA211776 | Difluprednate (Cipla USA Inc.) | Emulsion | Not stated in the data (valid) |
-| ANDA219441 | Difluprednate (Leading Pharma, LLC) | Emulsion | Not stated in the data (valid) |
-| ANDA213774 | Difluprednate (Alembic Pharmaceuticals Limited) | Emulsion | Not stated in the data (valid) |
-| ANDA218191 | Difluprednate (Upsher-Smith Laboratories, LLC) | Emulsion | Not stated in the data (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA207284 | DIFLUPREDNATE | EPIC PHARMA LLC | Emulsion; ophthalmic | Valid |
+| ANDA211526 | DIFLUPREDNATE | AMNEAL | Emulsion; ophthalmic | Valid |
+| ANDA212566 | DIFLUPREDNATE | MYLAN LABS LTD | Emulsion; ophthalmic | Valid |
+| ANDA213774 | DIFLUPREDNATE | ALEMBIC | Emulsion; ophthalmic | Valid |
+| ANDA214894 | DIFLUPREDNATE | DR REDDYS | Emulsion; ophthalmic | Valid |
 
-Three more authorizations (Mylan, Amneal and Dr. Reddy's) are also cancelled, for a total of 8.
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -99,7 +99,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score (L5). There are no clinical trials or publications, and a potent topical ophthalmic steroid is not a suitable replacement therapy for a congenital adrenal and gonadotropin deficiency. The drug is marketed in the US, with all 8 of 8 licenses valid.
+The prediction is supported only by the model score (L5). There are no clinical trials or publications, and a potent topical ophthalmic steroid is not a suitable replacement therapy for a congenital adrenal and gonadotropin deficiency. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings, contraindications and approved indications

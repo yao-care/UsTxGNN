@@ -87,12 +87,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA073556 | Nortriptyline Hydrochloride (Asclemed USA) | Capsule | Not listed (valid) |
-| ANDA074132 | Nortriptyline Hydrochloride (Preferred Pharmaceuticals) | Capsule | Not listed (valid) |
-| ANDA075520 | Nortriptyline Hydrochloride (St. Mary's Medical Park Pharmacy) | Capsule | Not listed (valid) |
-| ANDA213441 | Nortriptyline Hydrochloride (Zydus Pharmaceuticals) | Capsule | Not listed (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA073556 | NORTRIPTYLINE HYDROCHLORIDE | DR REDDYS LABS SA | Capsule; oral | Valid |
+| ANDA074132 | NORTRIPTYLINE HYDROCHLORIDE | TEVA | Capsule; oral | Valid |
+| ANDA075520 | NORTRIPTYLINE HYDROCHLORIDE | TARO | Capsule; oral | Valid |
+| ANDA075606 | NORTRIPTYLINE HYDROCHLORIDE | PHARM ASSOC | Solution; oral | Valid |
+| ANDA217731 | NORTRIPTYLINE HYDROCHLORIDE | RUBICON RESEARCH | Solution; oral | Valid |
+
+Showing 5 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -114,7 +117,7 @@ The literature includes a controlled pediatric study, a Cochrane review of tricy
 - Mechanism of action data from DrugBank
 - Appraisal of the RCT (PMID 11052409) and the Cochrane review for effect size and safety
 - An ECG and serum-level monitoring plan, plus a co-medication review given the large interaction burden
-- Regulatory pathway assessment, since the drug is marketed in the US with 4 valid licenses
+- Regulatory pathway assessment, since the drug is marketed in the US
 - Combined review of the ADHD and ADHD inattentive-type entries as one indication
 ## Disclaimer
 

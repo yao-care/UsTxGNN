@@ -83,9 +83,9 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA211810 (cancelled) | Turalio (Daiichi Sankyo Inc.) | Capsule (oral) | Indication text not provided in the data compiled |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA211810 | TURALIO | DAIICHI SANKYO INC | Capsule; oral | Valid |
 
 ---
 
@@ -118,13 +118,13 @@ Currently no related clinical trials registered.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for HER2-positive breast carcinoma has no clinical trials and only one general preclinical paper in a different breast cancer subtype (HR+/HER2-). The evidence level is L5, and the US license is cancelled-only. The boxed hepatotoxicity warning also raises the bar for any new oncology use.
+The prediction for HER2-positive breast carcinoma has no clinical trials and only one general preclinical paper in a different breast cancer subtype (HR+/HER2-). The evidence level is L5. The boxed hepatotoxicity warning also raises the bar for any new oncology use.
 
 **To proceed, the following is needed:**
 - Pexidartinib-specific preclinical data in HER2-positive breast cancer models, alone and combined with HER2-targeted therapy
 - Detailed mechanism-of-action data (MOA) and a clear rationale for the CSF1R/macrophage link in HER2-positive disease
 - Full package insert warnings and contraindications, including the hepatotoxicity risk-benefit assessment for a non-TGCT population
-- A review of regulatory and REMS availability, given the cancelled-only market status
+- A review of regulatory and REMS availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

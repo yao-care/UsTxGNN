@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125349 (cancelled) | Raxibacumab (Emergent Manufacturing Operations Baltimore LLC) | Injection | Not listed in the data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125349 | RAXIBACUMAB | HUMAN GENOME SCIENCES INC. | Injectable; iv (infusion) | Valid |
 
 ## Safety Considerations
 
@@ -93,7 +93,7 @@ The prediction has no clinical trials or literature behind it (evidence level L5
 - A mechanistic rationale connecting anti-PA toxin neutralization to vasculitis pathophysiology
 - Preclinical or literature evidence supporting the indication
 - Route and dosage compatibility assessment for the new indication
-- Clarification of the cancelled US license status and product availability
+- Clarification of product availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

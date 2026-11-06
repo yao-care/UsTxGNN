@@ -38,7 +38,7 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-Parathyroid hormone (PTH) is a recombinant hormone product (NATPARA) that was formerly marketed as an injectable in the United States.
+Parathyroid hormone (PTH) is a recombinant hormone product (NATPARA).
 The TxGNN model predicts it may be effective for **migraine disorder**, but there are **no registered clinical trials** and only **5 publications**, all observational or genetic-association studies, and none tests PTH as a migraine treatment.
 
 ## Quick Overview
@@ -77,9 +77,12 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125511 (cancelled) | NATPARA (parathyroid hormone), Takeda Pharmaceuticals America | Injection, powder, lyophilized, for solution | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125511 | NATPARA | NPS PHARMS INC | Injectable; injection | Valid |
+| NDC 44911-0370 | Parathyropar | Energique, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 75053-0009 | Oxaltem | Nucleic Products, LLC | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 75053-0012 | Oxaltem | Nucleic Products, LLC | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
 
 ## Safety Considerations
 

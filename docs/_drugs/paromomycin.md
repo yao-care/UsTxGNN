@@ -74,9 +74,13 @@ For context, the next-ranked prediction, peritonitis, has 16 associated publicat
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA065173 (cancelled) | Humatin | Capsule (oral) | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA065173 | PAROMOMYCIN SULFATE | HERITAGE | Capsule; oral | Valid |
+| ANDA060521 | HUMATIN | PARKEDALE | Capsule; oral | Discontinued in Drugs@FDA |
+| ANDA060522 | HUMATIN | PARKE DAVIS | Syrup; oral | Discontinued in Drugs@FDA |
+| ANDA062310 | HUMATIN | KING PFIZER | Capsule; oral | Discontinued in Drugs@FDA |
+| ANDA064171 | PAROMOMYCIN SULFATE | SUN PHARM INDS INC | Capsule; oral | Discontinued in Drugs@FDA |
 
 ## Safety Considerations
 

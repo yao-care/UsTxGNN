@@ -77,9 +77,10 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212102 (cancelled) | Fintepla (UCB, Inc.) | Solution | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA216108 | FENFLURAMINE | APOTEX INC | Solution; oral | Valid |
+| NDA212102 | FINTEPLA | UCB INC | Solution; oral | Valid |
 
 ## Safety Considerations
 
@@ -108,7 +109,7 @@ The prediction has a high model score and a plausible serotonergic link to the a
 - Mechanism of action data
 - Preclinical or clinical evidence in 16p11.2 microdeletion syndrome
 - A cardiac and pulmonary safety monitoring plan (for example, echocardiography)
-- Clarification of the cancelled NDA status and the current regulatory pathway
+- Clarification of the current regulatory pathway
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -72,11 +72,11 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA210795 (Cancelled) | Krintafel (GlaxoSmithKline LLC) | Film-coated tablet | Not listed in the data compiled |
-| NDA210607 (Cancelled) | Arakoda (60 Degrees Pharmaceuticals, Inc.) | Film-coated tablet | Not listed in the data compiled |
-
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA210607 | ARAKODA | 60 DEGREES PHARMS | Tablet; oral | Valid |
+| NDA210795 | KRINTAFEL | GLAXOSMITHKLINE | Tablet; oral | Valid |
+| NDC 71475-258 | Kodatef | 60 Degrees Pharmaceuticals, INC | Tablet, film coated | NDC listing, no FDA application (unapproved drug for use in drug shortage) |
 
 ## Cytotoxicity
 
@@ -95,14 +95,14 @@ Please refer to the package insert for warnings and contraindications, as these 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score (Evidence Level L5), with no clinical trials, no literature, no mechanism of action data, and no clear biological connection between malaria and smouldering systemic mastocytosis. In addition, no US license for tafenoquine is currently valid, and label safety data are missing.
+The prediction is supported only by a model score (Evidence Level L5), with no clinical trials, no literature, no mechanism of action data, and no clear biological connection between malaria and smouldering systemic mastocytosis. In addition, label safety data are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for tafenoquine, and an analysis of any plausible link to mast cell biology
 - Preclinical validation (in vitro mast cell assays, KIT D816V models)
 - FDA package insert warnings and contraindications for a formal safety screening
 - A literature and trial search specific to tafenoquine and mastocytosis
-- Clarification of the regulatory and commercial status of the cancelled NDAs
+- Clarification of the regulatory and commercial status
 - Review of the major drug interactions for relevance to the target patient population
 ## Disclaimer
 

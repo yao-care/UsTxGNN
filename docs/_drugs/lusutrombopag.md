@@ -82,9 +82,9 @@ The model also returned nine other predictions, all at evidence level L5 with no
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA210923 (Cancelled) | Mulpleta | Film-coated tablet (oral) | Not available in the data compiled for this report |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA210923 | MULPLETA | VANCOCIN ITALIA | Tablet; oral | Valid |
 
 This limits practical access.
 
@@ -113,7 +113,7 @@ The prediction has a high model score but no clinical trials or literature (L5).
 - Check the predicted disease entry against the ontology and clarify the "with normal platelets" wording
 - Search for preclinical or clinical evidence in inherited thrombocytopenias, and define which genetic subtypes could respond
 - Assess safety in pediatric and neonatal populations if that direction is pursued
-- Confirm whether the drug can be obtained, given the cancelled US authorization
+- Confirm whether the drug can be obtained
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

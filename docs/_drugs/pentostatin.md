@@ -72,9 +72,11 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020122 (cancelled) | Nipent (Hospira, Inc.) | Injection, powder, lyophilized, for solution | Not stated in the available record |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077841 | PENTOSTATIN | WEST-WARD PHARMS INT | Injectable; injection | Valid |
+| NDA020122 | NIPENT | HOSPIRA INC | Injectable; injection | Valid |
+| ANDA203554 | PENTOSTATIN | RISING | Injectable; injection | Discontinued in Drugs@FDA |
 
 ## Cytotoxicity
 
@@ -102,14 +104,14 @@ Package insert warnings and contraindications were not available, so please refe
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no supporting trials, literature, or verified mechanism (Evidence Level L5). The US license is cancelled, and the knowledge graph shows substantial hematologic, hepatic, and renal safety concerns. There is no basis to advance.
+The prediction has a high model score but no supporting trials, literature, or verified mechanism (Evidence Level L5). The knowledge graph shows substantial hematologic, hepatic, and renal safety concerns. There is no basis to advance.
 
 **To proceed, the following is needed:**
 - Preclinical evidence of ADA or purine-metabolism dependence in rhabdomyosarcoma models
 - Mechanism-of-action data from DrugBank to allow a verifiable mechanistic link
 - Package insert warnings and contraindications, so that safety screening can proceed
 - A literature and trial search specific to pentostatin in rhabdomyosarcoma or other soft-tissue sarcomas
-- Clarification of whether the cancelled US status affects drug supply or formulation availability, and of route compatibility, which is currently pending
+- Clarification of route compatibility, which is currently pending
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

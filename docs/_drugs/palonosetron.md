@@ -76,15 +76,17 @@ A 2026 review of antiemetic-associated QT prolongation (PMID 42748473, *European
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA215861 | Palonosetron Hydrochloride (Meitheal) | Injection, solution | Not available (valid) |
-| ANDA206916 | Palonosetron Hydrochloride (Baxter) | Injection | Not available (valid) |
-| ANDA205648 | Palonosetron (Apotex) | Injection | Not available (valid) |
-| NDA203050 | Posfrea (Avyxa Pharma) | Injection, solution | Not available (valid) |
-| NDA021372 | Palonosetron Hydrochloride (Cipla) | Injection | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090713 | PALONOSETRON HYDROCHLORIDE | TEVA PHARMS USA | Injectable; intravenous | Valid |
+| ANDA201533 | PALONOSETRON HYDROCHLORIDE | DR REDDYS | Injectable; intravenous | Valid |
+| ANDA202521 | PALONOSETRON HYDROCHLORIDE | SANDOZ | Injectable; intravenous | Valid |
+| ANDA202951 | PALONOSETRON HYDROCHLORIDE | AVET LIFESCIENCES | Injectable; intravenous | Valid |
+| ANDA204289 | PALONOSETRON HYDROCHLORIDE | SAGENT PHARMS INC | Injectable; intravenous | Valid |
 
-The drug is marketed in the US, with 14 valid licenses in the data. Only the 5 main authorizations are shown here. Only injectable forms are listed.
+Showing 5 of 25 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+The drug is marketed in the US. Only the 5 main authorizations are shown here. Only injectable forms are listed.
 
 ## Cytotoxicity
 

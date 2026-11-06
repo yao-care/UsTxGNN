@@ -84,9 +84,9 @@ No randomized controlled trial specific to this subtype was found. The most rele
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761089 (cancelled) | AJOVY (Teva Pharmaceuticals USA, Inc.) | Injection | No indication text available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761089 | AJOVY | TEVA PHARMS USA | Injectable; injection | Valid |
 
 ## Safety Considerations
 
@@ -99,7 +99,7 @@ Observational reports on cerebrovascular risk (PMID 42390441) and glaucoma risk 
 **Decision: Hold**
 
 **Rationale:**
-The CGRP-pathway rationale is plausible, and observational data in aura-related migraine are encouraging. However, there are no registered clinical trials, the evidence level is L4, and a preclinical study suggests the drug may not act on the aura mechanism. The US license record is cancelled, and package-insert safety information is missing, so safety screening cannot proceed yet.
+The CGRP-pathway rationale is plausible, and observational data in aura-related migraine are encouraging. However, there are no registered clinical trials, the evidence level is L4, and a preclinical study suggests the drug may not act on the aura mechanism. Package-insert safety information is missing, so safety screening cannot proceed yet.
 
 **To proceed, the following is needed:**
 - Package-insert warnings and contraindications, which block safety screening

@@ -85,9 +85,11 @@ The very high TxGNN score is a model prediction only. The mechanistic link above
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA207953 (cancelled) | YONDELIS (Janssen Products, LP) | Lyophilized powder for injection | Indication text not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA207953 | YONDELIS | JANSSEN PRODS | Powder; intravenous | Valid |
+| NDA219617 | TRABECTEDIN | EVER | Powder; intravenous | Valid |
+| NDA220837 | EVDI | APOTEX | Solution; intravenous | Valid |
 
 ## Cytotoxicity
 
@@ -110,14 +112,14 @@ For warnings and contraindications, please refer to the package insert. The FDA 
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible, especially for BRCA-mutated breast cancer, and several Phase 2 breast cancer studies exist. However, the only registered trial in the data is a QT safety study, and the Phase 2 publications do not by themselves establish efficacy. The US NDA is cancelled, and the FDA label safety review is missing, which blocks safety screening. The data support the recommendation "Research Question" rather than advancing the drug.
+The mechanism is plausible, especially for BRCA-mutated breast cancer, and several Phase 2 breast cancer studies exist. However, the only registered trial in the data is a QT safety study, and the Phase 2 publications do not by themselves establish efficacy. The FDA label safety review is missing, which blocks safety screening. The data support the recommendation "Research Question" rather than advancing the drug.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Full review of the Phase 2 breast cancer results (PMIDs 25239225, 24692579, 27266804) for response rates and survival outcomes
 - Identification of a target subgroup (for example BRCA1/2-mutated or triple-negative breast cancer) and any registered efficacy trials
-- Clarification of why the US NDA was cancelled, and of route and regulatory feasibility
+- Clarification of route and regulatory feasibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

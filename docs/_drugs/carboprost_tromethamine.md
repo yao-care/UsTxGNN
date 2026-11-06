@@ -86,13 +86,15 @@ Currently no related literature available.
 
 The drug is marketed, with 13 valid licenses. No approved indication text is available in the data compiled for this report. Up to 5 main authorizations are shown:
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA017989 | Hemabate (Pharmacia & Upjohn) | Injection, solution | Not available (valid) |
-| ANDA217198 | Carboprost Tromethamine (Alembic) | Injection, solution | Not available (valid) |
-| ANDA216939 | Carboprost Tromethamine (Eugia US) | Injection, solution | Not available (valid) |
-| ANDA215901 | Carboprost Tromethamine (ANI Pharmaceuticals) | Injection | Not available (valid) |
-| ANDA211941 | Carboprost Tromethamine (Dr. Reddy's) | Injection, solution | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA211941 | CARBOPROST TROMETHAMINE | DR REDDYS | Injectable; injection | Valid |
+| ANDA213118 | CARBOPROST TROMETHAMINE | SUNNY | Injectable; injection | Valid |
+| ANDA214499 | CARBOPROST TROMETHAMINE | LONG GROVE PHARMS | Injectable; injection | Valid |
+| ANDA215337 | CARBOPROST TROMETHAMINE | AMNEAL | Injectable; injection | Valid |
+| ANDA216824 | CARBOPROST TROMETHAMINE | SOLA PHARMS | Injectable; injection | Valid |
+
+Showing 5 of 14 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

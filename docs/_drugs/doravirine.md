@@ -81,9 +81,11 @@ For the second-ranked prediction (simian immunodeficiency virus infection), one 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA210806 (cancelled) | PIFELTRO (Merck Sharp & Dohme LLC) | Film-coated tablet (oral) | Not specified in the data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA210806 | PIFELTRO | MSD MERCK CO | Tablet; oral | Valid |
+| NDA216964 | IDVYNSO | MSD | Tablet; oral | Valid |
+| NDA210807 | DELSTRIGO | MSD MERCK CO | Tablet; oral | Valid |
 
 ## Safety Considerations
 

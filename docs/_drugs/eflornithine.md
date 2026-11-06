@@ -70,9 +70,11 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA215500 (cancelled) | Iwilfin (USWM, LLC) | Tablet (oral) | Not listed in the data compiled |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA215500 | IWILFIN | USWM | Tablet; oral | Valid |
+| NDA019879 | ORNIDYL | SANOFI AVENTIS US | Injectable; injection | Discontinued in Drugs@FDA |
+| NDA021145 | VANIQA | ABBVIE | Cream; topical | Discontinued in Drugs@FDA |
 
 ## Safety Considerations
 

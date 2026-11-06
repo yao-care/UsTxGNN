@@ -87,10 +87,10 @@ None of these publications reports zanubrutinib efficacy in myeloid leukemia.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA218785 | BRUKINSA | Film-coated tablet | Not available (status: valid) |
-| NDA213217 | BRUKINSA | Capsule | Not available (status: valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA218785 | BRUKINSA | BEONE MEDICINES USA | Capsule; oral | Valid |
+| NDA213217 | BRUKINSA | BEONE MEDICINES USA | Capsule; oral | Discontinued in Drugs@FDA |
 
 ## Cytotoxicity
 
@@ -114,14 +114,14 @@ For other safety information, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests mainly on a high model score. The only trial is an early Phase 1 study in which zanubrutinib is a combination partner, and all supporting literature concerns B-cell malignancies rather than myeloid leukemia. Both US NDAs are also listed as cancelled.
+The prediction rests mainly on a high model score. The only trial is an early Phase 1 study in which zanubrutinib is a combination partner, and all supporting literature concerns B-cell malignancies rather than myeloid leukemia.
 
 **To proceed, the following is needed:**
 - Detailed mechanism-of-action data and a mechanistic rationale for BTK dependence in myeloid leukemia
 - Preclinical data in myeloid leukemia models
 - Results or subgroup data from NCT05665530 relevant to myeloid disease
 - Package insert warnings and contraindications for safety screening
-- Clarification of the cancelled US NDA status and the approved indication text
+- Clarification of the approved indication text
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -81,9 +81,10 @@ Currently no related literature available for focal stiff limb syndrome.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA203965 (Westminster Pharmaceuticals, LLC; cancelled) | Miglitol | Tablet, coated (oral) | Not listed in the record |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA203965 | MIGLITOL | ORIENT PHARMA | Tablet; oral | Valid |
+| NDA020682 | GLYSET | PFIZER | Tablet; oral | Discontinued in Drugs@FDA |
 
 ---
 

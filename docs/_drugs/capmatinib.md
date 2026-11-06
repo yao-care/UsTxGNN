@@ -76,9 +76,9 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA213591 (cancelled) | TABRECTA (Novartis Pharmaceuticals Corporation) | Film-coated tablet (oral) | Not available in the data compiled |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA213591 | TABRECTA | NOVARTIS PHARM | Tablet; oral | Valid |
 
 ## Cytotoxicity
 

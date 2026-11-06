@@ -74,9 +74,9 @@ Currently no related literature available for pulmonary hypertension.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212018 (cancelled) | BALVERSA (Janssen Products LP) | Tablet, film coated (oral) | Not listed in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA212018 | BALVERSA | JANSSEN BIOTECH | Tablet; oral | Valid |
 
 ## Cytotoxicity
 
@@ -109,7 +109,6 @@ The prediction rests only on a computational score, with no clinical trials or r
 - The original approved indication text
 - Preclinical evidence for FGFR inhibition in pulmonary vascular remodeling
 - Assessment of the safety risks of FGFR inhibition (hyperphosphatemia, ocular toxicity) in a vascular disease setting
-- Clarification of the cancelled US market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

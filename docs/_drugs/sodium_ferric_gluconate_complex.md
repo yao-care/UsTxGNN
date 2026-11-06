@@ -74,10 +74,10 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020955 (cancelled) | Ferrlecit (sanofi-aventis U.S. LLC) | Injection | Not recorded |
-| ANDA078215 (cancelled) | Sodium Ferric Gluconate Complex in Sucrose (Hikma Pharmaceuticals USA Inc.) | Injection | Not recorded |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078215 | SODIUM FERRIC GLUCONATE COMPLEX IN SUCROSE | HIKMA | Injectable; injection | Valid |
+| NDA020955 | FERRLECIT | SANOFI AVENTIS US | Injectable; injection | Valid |
 
 ## Safety Considerations
 

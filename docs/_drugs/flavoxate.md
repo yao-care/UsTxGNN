@@ -83,9 +83,12 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA076835 (cancelled) | Flavoxate Hydrochloride (Epic Pharma, LLC) | Tablet (oral) | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076831 | FLAVOXATE HYDROCHLORIDE | PADAGIS US | Tablet; oral | Valid |
+| ANDA076835 | FLAVOXATE HYDROCHLORIDE | EPIC PHARMA | Tablet; oral | Valid |
+| ANDA076234 | FLAVOXATE HYDROCHLORIDE | IMPAX PHARMS | Tablet; oral | Discontinued in Drugs@FDA |
+| NDA016769 | URISPAS | ORTHO MCNEIL JANSSEN | Tablet; oral | Discontinued in Drugs@FDA |
 
 ## Safety Considerations
 
@@ -99,7 +102,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-All eight predictions are supported only by model scores (L5), with no clinical trials or literature. The top-ranked ADHD predictions lack biological plausibility and conflict with flavoxate's anticholinergic profile. The US license is cancelled, and key safety and mechanism data are missing.
+All eight predictions are supported only by model scores (L5), with no clinical trials or literature. The top-ranked ADHD predictions lack biological plausibility and conflict with flavoxate's anticholinergic profile. Key safety and mechanism data are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

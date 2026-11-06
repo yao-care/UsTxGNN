@@ -96,9 +96,9 @@ The papers below concern rimegepant in migraine in general. None is specific to 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212728 (cancelled) | NURTEC ODT | Orally disintegrating tablet | No indication text recorded |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA212728 | NURTEC ODT | PFIZER | Tablet, orally disintegrating; oral | Valid |
 
 ---
 
@@ -119,10 +119,10 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is plausible, but it is essentially a subtype of the approved migraine indication rather than a new use. No trial or publication addresses brainstem aura specifically, and the US NDA is recorded as cancelled, which needs verification.
+The prediction is plausible, but it is essentially a subtype of the approved migraine indication rather than a new use. No trial or publication addresses brainstem aura specifically.
 
 **To proceed, the following is needed:**
-- Verify the current US market status of NURTEC ODT (NDA212728) and the reason it is recorded as cancelled
+- Verify the current US market status of NURTEC ODT (NDA212728)
 - Obtain the FDA package insert warnings and contraindications, which are currently missing and block safety screening
 - Obtain detailed mechanism of action data (for example from DrugBank)
 - Find or generate evidence specific to migraine with brainstem aura, such as subgroup analyses of the existing Phase 3 trials or a dedicated study

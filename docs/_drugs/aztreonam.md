@@ -105,11 +105,15 @@ Indirect evidence for other predictions:
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA050580 (cancelled) | AZACTAM | Injection, powder, for solution | Not available |
-| ANDA206517 (cancelled) | Aztreonam (Hospira, Inc.) | Injection, powder, lyophilized, for solution | Not available |
-| ANDA065439 (cancelled) | Aztreonam (Fresenius Kabi USA, LLC) | Injection, powder, lyophilized, for solution | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA065439 | AZTREONAM | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA206517 | AZTREONAM | HOSPIRA | Injectable; injection | Valid |
+| NDA050580 | AZACTAM | LABS DELBERT | Injectable; injection | Valid |
+| NDA050814 | CAYSTON | GILEAD | For solution; inhalation | Valid |
+| NDA217906 | EMBLAVEO | ABBVIE | Powder; intravenous | Valid |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 

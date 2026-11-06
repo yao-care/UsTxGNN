@@ -86,9 +86,10 @@ The table lists the most relevant publications, prioritizing randomized trials a
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022425 (cancelled) | Multaq | Tablet, film coated | Not available in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA022425 | MULTAQ | SANOFI AVENTIS US | Tablet; oral | Valid |
+| ANDA205904 | DRONEDARONE HYDROCHLORIDE | LUPIN | Tablet; oral | Discontinued in Drugs@FDA |
 
 ## Cytotoxicity
 
@@ -107,12 +108,12 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold (research question only)**
 
 **Rationale:**
-The stroke prediction has a high model score, but support is indirect. It rests on post hoc and secondary analyses, reviews and a preclinical study, with no dedicated stroke-prevention trial. Conflicting safety signals from PALLAS, a cancelled US NDA, and missing label safety data add to the uncertainty. Evidence level is L4. The other nine predictions have no supporting evidence and should not be pursued.
+The stroke prediction has a high model score, but support is indirect. It rests on post hoc and secondary analyses, reviews and a preclinical study, with no dedicated stroke-prevention trial. Conflicting safety signals from PALLAS, and missing label safety data add to the uncertainty. Evidence level is L4. The other nine predictions have no supporting evidence and should not be pursued.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
-- Clarification of why the US NDA is cancelled and the current market status
+- Clarification of the current market status
 - A dedicated stroke-endpoint study, or a prespecified analysis, restricted to paroxysmal or persistent AF
 - A plan for managing interactions with anticoagulants and QT-prolonging drugs, and exclusion of permanent AF and heart failure populations
 ## Disclaimer

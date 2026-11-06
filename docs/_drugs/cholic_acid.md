@@ -78,9 +78,9 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA205750 (cancelled) | CHOLBAM (Mirum Pharmaceuticals Inc.) | Capsule | Not listed in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA205750 | CHOLBAM | MIRUM | Capsule; oral | Valid |
 
 ## Safety Considerations
 

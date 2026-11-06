@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212123 (Cancelled) | TAUVID (Eli Lilly and Company) | Injection, solution | Not available in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA212123 | TAUVID | AVID RADIOPHARMS INC | Solution; intravenous | Valid |
 
 ## Safety Considerations
 

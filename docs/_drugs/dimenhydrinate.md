@@ -76,10 +76,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M009 (cancelled) | Motion Sickness Relief | Tablet | Not specified |
-| ANDA040519 (cancelled) | Dimenhydrinate | Injection, solution | Not specified |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040519 | DIMENHYDRINATE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA080615 | DIMENHYDRINATE | WATSON LABS TEVA | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA080715 | DIMENHYDRINATE | ALRA | Liquid; oral | Discontinued in Drugs@FDA |
+| ANDA080841 | DIMENHYDRINATE | HEATHER | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA083531 | DIMENHYDRINATE | WATSON LABS | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 42 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

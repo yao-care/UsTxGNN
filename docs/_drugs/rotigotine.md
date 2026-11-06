@@ -78,9 +78,9 @@ None of these publications tests rotigotine in ADHD.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021829 (cancelled) | Neupro (UCB, Inc.) | Patch, extended release | Not stated in the license record |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA021829 | NEUPRO | UCB INC | Film, extended release; transdermal | Valid |
 
 ## Safety Considerations
 
@@ -105,7 +105,7 @@ The TxGNN score is very high (1.0000), but there are no clinical trials and the 
 - Detailed mechanism of action data, especially for D4 and α2 receptor activity
 - FDA package insert warnings and contraindications
 - Review of the knowledge-graph contraindication signals (hypertension, orthostatic hypotension) and the moderate drug interactions, particularly for a paediatric ADHD population
-- Clarification of the regulatory and formulation situation, given the cancelled US license
+- Clarification of the regulatory and formulation situation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

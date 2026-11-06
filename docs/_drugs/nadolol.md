@@ -93,15 +93,17 @@ The remaining retrieved papers cover myocardial ischemia and arrhythmia models a
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA212856 (cancelled) | Nadolol (VGYAAN Pharmaceuticals) | Tablet | Not available |
-| ANDA210955 (cancelled) | Nadolol (Unichem Pharmaceuticals) | Tablet | Not available |
-| ANDA203455 (cancelled) | Nadolol (BluePoint Laboratories) | Tablet | Not available |
-| ANDA207761 (cancelled) | Nadolol (Zydus Lifesciences) | Tablet | Not available |
-| ANDA201893 (cancelled) | Nadolol (BluePoint Laboratories) | Tablet | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074172 | NADOLOL | RISING | Tablet; oral | Valid |
+| ANDA074501 | NADOLOL | SANDOZ | Tablet; oral | Valid |
+| ANDA201893 | NADOLOL | AUROBINDO PHARMA | Tablet; oral | Valid |
+| ANDA203455 | NADOLOL | INVAGEN PHARMS | Tablet; oral | Valid |
+| ANDA207761 | NADOLOL | ZYDUS PHARMS | Tablet; oral | Valid |
 
-A sixth license (ANDA208832, Amneal Pharmaceuticals NY LLC, tablet) is also valid. Six valid licenses are currently on record, and the drug is marketed.
+Showing 5 of 18 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+A sixth license (ANDA208832, Amneal Pharmaceuticals NY LLC, tablet) is also valid. The drug is marketed.
 
 ## Safety Considerations
 
@@ -126,13 +128,13 @@ Package insert warnings were not available, so please refer to the package inser
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible but has no supporting trials or literature (L5). Acute management of malignant hypertension relies on other agents, and nadolol is currently marketed in the US with 6 valid licenses. Package insert safety data are also missing, and the knowledge graph flags kidney disease as a contraindication.
+The prediction is mechanistically plausible but has no supporting trials or literature (L5). Acute management of malignant hypertension relies on other agents, and nadolol is currently marketed in the US. Package insert safety data are also missing, and the knowledge graph flags kidney disease as a contraindication.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - Clinical evidence (trials, cohort studies or systematic reviews) of oral beta-blockers in malignant hypertensive nephropathy
-- Clarification of the US regulatory status, given that the drug is marketed with 6 valid licenses
+- Clarification of the US regulatory status
 - Safety assessment for renal impairment and for the pulmonary hypertension predictions
 ## Disclaimer
 

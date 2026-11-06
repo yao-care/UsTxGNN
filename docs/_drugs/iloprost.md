@@ -84,9 +84,11 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA217933 (cancelled) | AURLUMYN | Injection, solution | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA214997 | ILOPROST | REGCON HOLDINGS | Solution; inhalation | Valid |
+| NDA217933 | AURLUMYN | BTG INTL | Solution; intravenous | Valid |
+| NDA021779 | VENTAVIS | ACTELION | Solution; inhalation | Discontinued in Drugs@FDA |
 
 ## Safety Considerations
 

@@ -70,9 +70,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212306 (cancelled) | XPOVIO (Karyopharm Therapeutics Inc.) | Film-coated tablet (oral) | Not listed in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA212306 | XPOVIO | KARYOPHARM THERAPS | Tablet; oral | Valid |
 
 ## Cytotoxicity
 
@@ -110,7 +110,7 @@ The prediction is supported only by a model score, with no clinical trials or pu
 - FDA package insert warnings and contraindications (blocking for safety screening)
 - Mechanism of action data (for example from DrugBank) to assess any biological link to bone remodeling
 - Preclinical or observational evidence on selinexor's effect on bone
-- Confirmation of the original approved indication and the reason for the NDA cancellation
+- Confirmation of the original approved indication
 - Route and formulation compatibility assessment for the proposed indication
 ## Disclaimer
 

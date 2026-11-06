@@ -81,7 +81,7 @@ Currently no related literature available (no predicted indication target to que
 
 ## US Market Information
 
-> **Note**: Acetaminophen + Codeine products are widely marketed internationally (e.g., Tylenol with Codeine No. 3/4 in the US under NDA 022450 and others), but this system did not retrieve those records. A direct US FDA query is recommended.
+> **Note**: Acetaminophen + Codeine products are widely marketed internationally. A direct US FDA query is recommended.
 
 ---
 

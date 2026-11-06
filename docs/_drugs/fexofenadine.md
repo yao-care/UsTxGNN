@@ -70,15 +70,17 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA204507 (cancelled) | Fexofenadine HCl | Tablet, film coated | Not listed |
-| ANDA211075 (cancelled) | Allergy relief | Tablet | Not listed |
-| ANDA204097 (cancelled) | Fexofenadine HCL | Tablet | Not listed |
-| ANDA212971 (cancelled) | Fexofenadine Hydrochloride | Tablet, film coated | Not listed |
-| ANDA076502 (cancelled) | Allergy Relief | Tablet | Not listed |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076447 | FEXOFENADINE HYDROCHLORIDE HIVES | TEVA | Tablet; oral | Valid |
+| ANDA076502 | FEXOFENADINE HYDROCHLORIDE ALLERGY | DR REDDYS LABS LTD | Tablet; oral | Valid |
+| ANDA079112 | FEXOFENADINE HYDROCHLORIDE ALLERGY | PHARMAZONE | Tablet; oral | Valid |
+| ANDA091567 | FEXOFENADINE HYDROCHLORIDE ALLERGY | SUN PHARM INDS | Tablet; oral | Valid |
+| ANDA202039 | FEXOFENADINE HYDROCHLORIDE ALLERGY | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
 
-Five valid licenses are on record in the compiled data, and the drug is marketed.
+Showing 5 of 37 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+The drug is marketed.
 
 ## Safety Considerations
 
@@ -95,7 +97,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials or publications, the mechanistic link to rosacea-associated conjunctivitis is weak, and the drug is marketed with five valid US licenses in the data.
+The prediction rests only on a model score. There are no clinical trials or publications, the mechanistic link to rosacea-associated conjunctivitis is weak, and the drug is marketed.
 
 **To proceed, the following is needed:**
 - Retrieval and review of the FDA package insert warnings and contraindications

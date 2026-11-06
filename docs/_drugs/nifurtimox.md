@@ -90,9 +90,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA213464 (cancelled) | LAMPIT (Bayer Healthcare Pharmaceuticals Inc.) | Film-coated tablet (oral) | Not listed in the data compiled for this report |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA213464 | LAMPIT | BAYER HEALTHCARE | Tablet; oral | Valid |
 
 ---
 

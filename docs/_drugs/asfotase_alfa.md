@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA 125513 (cancelled) | STRENSIQ (Alexion Pharmaceuticals, Inc.) | Solution | Not listed in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125513 | STRENSIQ | ALEXION PHARM | Solution; injection | Valid |
 
 ## Safety Considerations
 
@@ -87,7 +87,7 @@ No drug-drug interaction records were found, and no disease contraindications we
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or literature (evidence level L5), and no plausible mechanistic link between TNSALP replacement and mitochondrial oxidative phosphorylation defects. In addition, the only US authorization is listed as cancelled, and safety label data is missing.
+The prediction has no supporting clinical trials or literature (evidence level L5), and no plausible mechanistic link between TNSALP replacement and mitochondrial oxidative phosphorylation defects. In addition, safety label data is missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are required before any safety screening

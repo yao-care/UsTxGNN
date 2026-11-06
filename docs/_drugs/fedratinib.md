@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212327 (cancelled) | Inrebic (Celgene Corporation) | Capsule | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA212327 | INREBIC | BRISTOL-MYERS | Capsule; oral | Valid |
 
 ## Cytotoxicity
 
@@ -105,7 +105,7 @@ The package insert warnings and contraindications were not available and must be
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model score (evidence level L5), with no clinical trials or publications, a weak mechanistic link to mTOR-driven PEComa biology, and a cancelled US NDA.
+The prediction is supported only by the TxGNN model score (evidence level L5), with no clinical trials or publications, a weak mechanistic link to mTOR-driven PEComa biology.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

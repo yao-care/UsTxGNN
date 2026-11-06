@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125469 (cancelled) | TRULICITY (A-S Medication Solutions) | Injection, solution | Not listed in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125469 | TRULICITY | ELI LILLY AND CO | Injectable; injection | Valid |
 
 ## Safety Considerations
 

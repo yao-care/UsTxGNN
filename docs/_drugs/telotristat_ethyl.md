@@ -74,9 +74,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA208794 (cancelled) | Xermelo (Lexicon Pharmaceuticals, Inc.) | Tablet (oral) | Not listed |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA208794 | XERMELO | TERSERA | Tablet; oral | Valid |
 
 ## Safety Considerations
 
@@ -99,7 +99,7 @@ The prediction has no supporting clinical trials or literature (evidence level L
 - Package insert warnings and contraindications (currently missing, which blocks safety screening)
 - Any preclinical or clinical evidence in the predicted indication
 - For the neurogenic bladder prediction, remapping to a current disease term and a fresh evidence search
-- Clarification of the cancelled US market status and route compatibility for the new indication
+- Clarification of route compatibility for the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

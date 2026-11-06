@@ -74,13 +74,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019101 (Hikma), cancelled | Fentanyl Citrate | Injection | Not listed |
-| ANDA077449 (Ingenus), cancelled | Fentanyl | Extended-release patch | Not listed |
-| ANDA210762 (Fresenius Kabi), cancelled | Fentanyl Citrate | Injection, solution | Not listed |
-| ANDA076258 (Mylan), cancelled | Fentanyl | Patch | Not listed |
-| ANDA077154 (SpecGx), cancelled | Fentanyl Transdermal | Extended-release patch | Not listed |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076258 | FENTANYL-37 | MYLAN TECHNOLOGIES | Film, extended release; transdermal | Valid |
+| ANDA077154 | FENTANYL-75 | SPECGX LLC | Film, extended release; transdermal | Valid |
+| ANDA077449 | FENTANYL-75 | DIFGEN PHARMS | Film, extended release; transdermal | Valid |
+| ANDA202097 | FENTANYL-100 | KINDEVA | Film, extended release; transdermal | Valid |
+| ANDA210762 | FENTANYL CITRATE PRESERVATIVE FREE | FRESENIUS KABI USA | Injectable; injection | Valid |
+
+Showing 5 of 39 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 One further authorization (ANDA212086, Fresenius Kabi, injection solution) is also valid.
 
@@ -104,7 +106,7 @@ Please refer to the package insert for formal warnings and contraindications. Th
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5). No clinical trials or literature support it, and the proposed mechanism is not plausible. NSIAD is a receptor-level defect in the kidney, and opioid-related antidiuresis would be an adverse effect. Fentanyl also carries high risks of respiratory depression, dependence and abuse, and it is marketed in the US with six valid authorizations.
+The prediction rests on a model score alone (Evidence Level L5). No clinical trials or literature support it, and the proposed mechanism is not plausible. NSIAD is a receptor-level defect in the kidney, and opioid-related antidiuresis would be an adverse effect. Fentanyl also carries high risks of respiratory depression, dependence and abuse, and it is marketed in the US.
 
 The second prediction, Tourette syndrome, is also held. The link there is speculative. Small studies have explored opioid antagonists or partial agonists, not full mu agonists like fentanyl, and no supporting trials or literature were provided.
 
@@ -113,7 +115,7 @@ The second prediction, Tourette syndrome, is also held. The link there is specul
 - Detailed mechanism of action data (for example, from DrugBank)
 - Any preclinical or clinical evidence linking fentanyl to NSIAD, such as AVPR2 or GNAS signaling studies
 - A clear original indication from the approval records
-- A risk-benefit assessment given the abuse liability and the cancelled market status
+- A risk-benefit assessment given the abuse liability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

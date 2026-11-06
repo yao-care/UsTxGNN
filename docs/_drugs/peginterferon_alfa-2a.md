@@ -59,8 +59,6 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Chronic hepatitis B is already listed among the drug's original indications, so the prediction mostly confirms existing use. The many HBV trials and publications on file are consistent with this.
 
-The main caution is regulatory. The only US license on record (Pegasys, BLA103964) is cancelled, so product availability and local regulatory status must be confirmed before any use.
-
 ## Clinical Trial Evidence
 
 The 10 most relevant of the 19 trials registered for this indication are listed below. Trials are ordered by relevance grade, then enrollment.
@@ -95,9 +93,9 @@ The 10 most relevant of the 19 trials registered for this indication are listed 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA103964 (cancelled) | Pegasys | Injection, solution | Indication text not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA103964 | PEGASYS | Pharmaand GmbH | Syringe | Valid |
 
 ## Safety Considerations
 

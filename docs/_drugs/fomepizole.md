@@ -72,12 +72,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA078537 (Cancelled) | Fomepizole (Navinta LLC) | Injection, solution | Not specified |
-| ANDA078368 (Cancelled) | Fomepizole (American Regent, Inc.) | Injection, solution | Not specified |
-| ANDA216791 (Cancelled) | Fomepizole (Gland Pharma Limited) | Injection | Not specified |
-| ANDA078639 (Cancelled) | Fomepizole (Mylan Institutional LLC) | Injection, solution | Not specified |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078368 | FOMEPIZOLE | AM REGENT | Injectable; injection | Valid |
+| ANDA078537 | FOMEPIZOLE | NAVINTA LLC | Injectable; injection | Valid |
+| ANDA078639 | FOMEPIZOLE | MYLAN INSTITUTIONAL | Injectable; injection | Valid |
+| ANDA216791 | FOMEPIZOLE | GLAND | Injectable; injection | Valid |
+| ANDA079033 | FOMEPIZOLE | MYLAN INSTITUTIONAL | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -91,7 +94,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The only support is a computational prediction score. There are no clinical trials or publications, no mechanism data, and no plausible mechanistic link to sclerosing cholangitis. The drug is marketed in the US, with 4 of 4 licenses valid.
+The only support is a computational prediction score. There are no clinical trials or publications, no mechanism data, and no plausible mechanistic link to sclerosing cholangitis. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

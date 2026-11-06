@@ -74,15 +74,17 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA076921 (cancelled) | Mirtazapine (Aurobindo Pharma Limited) | Tablet, film coated | Not specified |
-| ANDA076541 (cancelled) | Mirtazapine (Bryant Ranch Prepack) | Tablet | Not specified |
-| ANDA076122 (cancelled) | Mirtazapine (Mylan Pharmaceuticals Inc.) | Tablet, film coated | Not specified |
-| ANDA205798 (cancelled) | Mirtazapine (Viona Pharmaceuticals Inc.) | Tablet, orally disintegrating | Not specified |
-| ANDA216751 (cancelled) | Mirtazapine (Aphena Pharma Solutions - Tennessee, LLC) | Tablet, film coated | Not specified |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076119 | MIRTAZAPINE | TEVA | Tablet; oral | Valid |
+| ANDA076122 | MIRTAZAPINE | MYLAN | Tablet; oral | Valid |
+| ANDA076219 | MIRTAZAPINE | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA076541 | MIRTAZAPINE | SUN PHARM INDS INC | Tablet; oral | Valid |
+| ANDA076921 | MIRTAZAPINE | AUROBINDO | Tablet; oral | Valid |
 
-Seven licenses were found in total; the five above are shown. All are oral products, and all are cancelled.
+Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+All are oral products.
 
 ## Safety Considerations
 
@@ -107,7 +109,7 @@ Moderate-level interactions include famotidine, loperamide, aprepitant, morphine
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no clinical trials, no literature and no supported mechanistic link (Evidence Level L5). The second prediction is likely a duplicate of the first. The third would involve infant use with no pediatric data. In addition, mirtazapine is marketed in the US with 7 valid licenses, and the safety data are incomplete.
+The prediction has a high model score but no clinical trials, no literature and no supported mechanistic link (Evidence Level L5). The second prediction is likely a duplicate of the first. The third would involve infant use with no pediatric data. In addition, mirtazapine is marketed in the US, and the safety data are incomplete.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for mirtazapine, to assess any plausible link to KAT6B-related or paroxysmal movement disorders

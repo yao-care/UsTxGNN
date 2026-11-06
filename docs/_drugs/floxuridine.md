@@ -93,10 +93,13 @@ For **melanoma** (rank 6), the main literature consists of a review of isolated 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA075387 (Cancelled) | Floxuridine (Hikma Pharmaceuticals USA Inc.) | Injection, powder, lyophilized, for solution | Not listed |
-| ANDA075837 (Cancelled) | Floxuridine (Fresenius Kabi USA, LLC) | Injection, powder, lyophilized, for solution | Not listed |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075387 | FLOXURIDINE | HIKMA | Injectable; injection | Valid |
+| ANDA075837 | FLOXURIDINE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA071055 | FLOXURIDINE | QUAD PHARMS | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA203008 | FLOXURIDINE | AM REGENT | Injectable; injection | Discontinued in Drugs@FDA |
+| NDA016929 | FUDR | HOSPIRA | Injectable; injection | Discontinued in Drugs@FDA |
 
 ## Cytotoxicity
 
@@ -121,13 +124,13 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, hereditary breast ovarian cancer syndrome, has no trials or literature and no plausible mechanism, since it is a germline predisposition rather than a treatable tumor. Both US ANDAs are cancelled. The best-supported alternatives (breast cancer liver metastases and melanoma liver-directed therapy) rest on small retrospective series and preclinical work. They are better framed as research questions than as repurposing candidates.
+The top-ranked prediction, hereditary breast ovarian cancer syndrome, has no trials or literature and no plausible mechanism, since it is a germline predisposition rather than a treatable tumor. The best-supported alternatives (breast cancer liver metastases and melanoma liver-directed therapy) rest on small retrospective series and preclinical work. They are better framed as research questions than as repurposing candidates.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which block safety screening
 - Mechanism of action data from DrugBank
 - Reframing the question toward liver-directed use in breast cancer or uveal melanoma liver metastases, with a systematic review of hepatic arterial infusion evidence
-- Confirmation of the current availability of floxuridine in the US, since both ANDAs are cancelled
+- Confirmation of the current availability of floxuridine in the US
 - A route and formulation assessment, since hepatic arterial infusion requires specialised delivery and the route compatibility analysis is still pending
 - A monitoring plan for myelosuppression, hepatobiliary toxicity and gastrointestinal toxicity
 ## Disclaimer

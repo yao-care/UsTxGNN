@@ -101,13 +101,15 @@ For the manic bipolar affective disorder prediction, one publication was identif
 
 Approved indication text is not available for these entries.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020450 | CEREBYX (Pfizer) | Injection, solution | Not available (valid) |
-| ANDA214926 | Fosphenytoin sodium (Glenmark) | Injection, solution | Not available (valid) |
-| ANDA078765 | Fosphenytoin sodium (West-Ward) | Injection, solution | Not available (valid) |
-| ANDA077989 | Fosphenytoin sodium (Hikma) | Injection | Not available (valid) |
-| ANDA078476 | Fosphenytoin sodium (Amneal) | Injection | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077481 | FOSPHENYTOIN SODIUM | HIKMA | Injectable; injection | Valid |
+| ANDA077989 | FOSPHENYTOIN SODIUM | HIKMA | Injectable; injection | Valid |
+| ANDA078052 | FOSPHENYTOIN SODIUM | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA078137 | FOSPHENYTOIN SODIUM | WOCKHARDT BIO AG | Injectable; injection | Valid |
+| ANDA078417 | FOSPHENYTOIN SODIUM | SUN PHARM | Injectable; injection | Valid |
+
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 

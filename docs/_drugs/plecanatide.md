@@ -82,9 +82,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA208745 (cancelled) | Trulance (Salix Pharmaceuticals Inc.) | Tablet (oral) | Not stated in the license record |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA208745 | TRULANCE | SALIX | Tablet; oral | Valid |
 
 ## Safety Considerations
 
@@ -97,13 +97,13 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score. No trials or publications exist, and there is no plausible mechanism linking a locally acting intestinal GC-C agonist to hair growth. The US license is also recorded as cancelled.
+The prediction is supported only by the model score. No trials or publications exist, and there is no plausible mechanism linking a locally acting intestinal GC-C agonist to hair growth.
 
 **To proceed, the following is needed:**
 - The FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data from DrugBank
 - Any preclinical or clinical evidence for a hair or follicle effect of GC-C/cGMP signaling
-- Clarification of the cancelled NDA status and the approved indication text
+- Clarification of the approved indication text
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

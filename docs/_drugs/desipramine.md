@@ -86,13 +86,15 @@ No literature was retrieved for the inattentive subtype itself. The table below 
 
 The records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA014399 | Norpramin | Tablet, sugar coated | Not available (valid) |
-| ANDA208105 | Desipramine Hydrochloride | Tablet, film coated | Not available (valid) |
-| ANDA207433 | Desipramine Hydrochloride | Tablet | Not available (valid) |
-| ANDA204963 | Desipramine Hydrochloride | Tablet | Not available (valid) |
-| ANDA074430 | Desipramine Hydrochloride | Tablet, film coated | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA071588 | DESIPRAMINE HYDROCHLORIDE | ACTAVIS TOTOWA | Tablet; oral | Valid |
+| ANDA071601 | DESIPRAMINE HYDROCHLORIDE | ACTAVIS TOTOWA | Tablet; oral | Valid |
+| ANDA071602 | DESIPRAMINE HYDROCHLORIDE | ACTAVIS TOTOWA | Tablet; oral | Valid |
+| ANDA071766 | DESIPRAMINE HYDROCHLORIDE | ACTAVIS TOTOWA | Tablet; oral | Valid |
+| ANDA072103 | DESIPRAMINE HYDROCHLORIDE | CHARTWELL RX | Tablet; oral | Valid |
+
+Showing 5 of 18 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -114,7 +116,6 @@ The inattentive-subtype prediction rests on a model score alone, with no trials 
 - Detailed mechanism of action data
 - Controlled trial evidence of desipramine in ADHD, ideally including the inattentive subtype
 - A cardiovascular (ECG) safety assessment for the target population, especially children
-- A review of how the cancelled market status affects practical feasibility
 
 ### Other Predictions Noted
 

@@ -79,15 +79,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA065048 | Cefuroxime (Hikma) | Injection, powder, for solution | Not available (valid) |
-| ANDA065308 | Cefuroxime Axetil (NorthStar Rx) | Tablet | Not available (valid) |
-| ANDA065496 | Cefuroxime axetil (A-S Medication Solutions) | Tablet, film coated | Not available (valid) |
-| ANDA064125 | Cefuroxime sodium (Sagent) | Injection, powder, for solution | Not available (valid) |
-| NDA050780 | Cefuroxime and Dextrose (B. Braun) | Injection, solution | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA064125 | CEFUROXIME SODIUM | ACS DOBFAR SPA | Injectable; intramuscular, intravenous | Valid |
+| ANDA065048 | CEFUROXIME | HIKMA | Injectable; injection | Valid |
+| ANDA065166 | CEFUROXIME AXETIL | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA065308 | CEFUROXIME AXETIL | AUROBINDO PHARMA | Tablet; oral | Valid |
+| ANDA065359 | CEFUROXIME AXETIL | ANDA REPOSITORY | Tablet; oral | Valid |
 
-The list may be partial. Of these licences, four are valid and one (NDA050780) is cancelled.
+Showing 5 of 33 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 

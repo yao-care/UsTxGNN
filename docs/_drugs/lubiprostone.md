@@ -72,12 +72,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021908 (cancelled) | Amitiza (SpecGx LLC) | Capsule, gelatin coated | Not available in the compiled data |
-| ANDA218640 (cancelled) | Lubiprostone (Northstar Rx LLC) | Capsule | Not available in the compiled data |
-| ANDA214131 (cancelled) | Lubiprostone (Zydus Pharmaceuticals USA Inc.) | Capsule | Not available in the compiled data |
-| ANDA209920 (cancelled) | Lubiprostone (Teva Pharmaceuticals, Inc.) | Capsule, gelatin coated | Not available in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA206994 | LUBIPROSTONE | DR REDDYS | Capsule; oral | Valid |
+| ANDA209450 | LUBIPROSTONE | AMNEAL | Capsule; oral | Valid |
+| ANDA209920 | LUBIPROSTONE | TEVA PHARMS USA INC | Capsule; oral | Valid |
+| ANDA214131 | LUBIPROSTONE | ZYDUS PHARMS | Capsule; oral | Valid |
+| ANDA218640 | LUBIPROSTONE | ASCENT PHARMS INC | Capsule; oral | Valid |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 All products are oral formulations.
 
@@ -94,7 +97,7 @@ For other safety information, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model (deep learning) score. There are no clinical trials or publications, and no plausible mechanism links ClC-2 activation to hair growth or to the other predicted conditions. The drug is marketed in the US, with 4 valid licenses.
+The prediction rests only on a TxGNN model (deep learning) score. There are no clinical trials or publications, and no plausible mechanism links ClC-2 activation to hair growth or to the other predicted conditions. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence for a plausible link between ClC-2 activation (or prostone pharmacology) and hair follicle biology

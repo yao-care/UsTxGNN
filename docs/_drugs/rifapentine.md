@@ -114,9 +114,10 @@ For reference, the second-best-supported prediction, HIV-associated tuberculosis
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021024 (cancelled) | Priftin (sanofi-aventis U.S. LLC) | Film-coated tablet (oral) | Not listed in the data compiled for this report |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA217042 | RIFAPENTINE | MACLEODS PHARMS | Tablet; oral | Valid |
+| NDA021024 | PRIFTIN | SANOFI AVENTIS US | Tablet; oral | Valid |
 
 ---
 

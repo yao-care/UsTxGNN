@@ -71,13 +71,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020629 | Denavir (Mylan Pharmaceuticals Inc.) | Cream | Not listed (valid) |
-| ANDA214100 | Penciclovir (Amneal Pharmaceuticals NY LLC) | Cream | Not listed (valid) |
-| ANDA216981 | Penciclovir (Torrent Pharmaceuticals Limited) | Cream | Not listed (valid) |
-| ANDA212710 | Penciclovir (Teva Pharmaceuticals USA, Inc.) | Cream | Not listed (valid) |
-| ANDA212368 | Penciclovir (Padagis Israel Pharmaceuticals Ltd) | Cream | Not listed (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA212368 | PENCICLOVIR | PADAGIS ISRAEL | Cream; topical | Valid |
+| ANDA212710 | PENCICLOVIR | TEVA PHARMS USA | Cream; topical | Valid |
+| ANDA214100 | PENCICLOVIR | AMNEAL | Cream; topical | Valid |
+| NDA020629 | DENAVIR | MYLAN | Cream; topical | Valid |
+| ANDA216981 | PENCICLOVIR | TORRENT | Cream; topical | Discontinued in Drugs@FDA |
 
 ## Safety Considerations
 

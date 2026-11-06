@@ -96,9 +96,11 @@ Note: this is a biosimilar equivalence trial in a hormone-receptor-negative popu
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125409 (status: cancelled) | PERJETA (Genentech, Inc.) | Injection, solution, concentrate | Not listed in the data compiled for this report |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125409 | PERJETA | GENENTECH | Vial; single-use | Valid |
+| BLA761450 | POHERDY | SHANGHAI HENLIUS BIOTECH | Injectable; intravenous | Valid |
+| BLA761170 | PHESGO | GENENTECH INC | Injectable; subcutaneous | Valid |
 
 ---
 
@@ -127,7 +129,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Several randomized trials, including the completed Phase 3 trial, the WSG-TP-II trial and the PERTAIN trial, support pertuzumab-based regimens across HER2-positive disease, including HR+/HER2+ tumors. However, the prediction is largely an extension within the already approved HER2-positive indication, and the only registered trial in the data focuses on the ER/PR-negative population. In addition, the US license is listed as cancelled.
+Several randomized trials, including the completed Phase 3 trial, the WSG-TP-II trial and the PERTAIN trial, support pertuzumab-based regimens across HER2-positive disease, including HR+/HER2+ tumors. However, the prediction is largely an extension within the already approved HER2-positive indication, and the only registered trial in the data focuses on the ER/PR-negative population.
 
 **To proceed, the following is needed:**
 - PR-status-specific subgroup efficacy data (e.g., from NeoSphere, PERTAIN and WSG-TP-II)

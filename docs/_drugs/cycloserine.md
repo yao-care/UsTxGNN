@@ -69,9 +69,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA060593 (cancelled) | Cycloserine | Capsule (oral) | Not specified |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA060593 | SEROMYCIN | PHARMAZONE | Capsule; oral | Valid |
 
 ## Safety Considerations
 
@@ -88,7 +88,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score, with no clinical trials or literature for irritable bowel syndrome and no plausible mechanistic link. The neuropsychiatric toxicity profile and the cancelled US license further weaken the case for a non-life-threatening functional bowel disorder.
+The prediction is supported only by the model score, with no clinical trials or literature for irritable bowel syndrome and no plausible mechanistic link. The neuropsychiatric toxicity profile further weaken the case for a non-life-threatening functional bowel disorder.
 
 **To proceed, the following is needed:**
 - Mechanism-of-action data and a plausible biological link to IBS

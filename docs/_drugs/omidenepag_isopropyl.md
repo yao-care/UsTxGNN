@@ -80,9 +80,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA215092 (cancelled) | Omlonti (Ocuvex Therapeutics, Inc.) | Solution/drops | Not specified in the available data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA215092 | OMLONTI | OCUVEX THERAP | Solution; ophthalmic | Valid |
 
 ## Safety Considerations
 
@@ -100,7 +100,6 @@ The pancreatitis prediction is supported only by a model score, with no clinical
 - Detailed mechanism-of-action data for the active metabolite
 - Preclinical evidence (in vitro or animal models) that EP2 agonism affects pancreatic inflammation
 - Assessment of route compatibility, since a systemic formulation would likely be needed and none exists
-- Clarification of the cancelled NDA status and the reasons for it
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

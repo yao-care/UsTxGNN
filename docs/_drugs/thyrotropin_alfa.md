@@ -84,9 +84,11 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA020898 (Cancelled) | Thyrogen (Genzyme Corporation) | Injection, powder, lyophilized, for solution | Not available in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA020898 | THYROGEN | GENZYME | Injectable; injection | Valid |
+| NDC 17089-349 | GUNA-GERIATRICS | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 17089-350 | GUNA-AWARENESS | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
 
 ---
 
@@ -113,7 +115,7 @@ The prediction rests on a TxGNN model (deep learning) score alone, with no clini
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (for example, from DrugBank)
 - A mechanistic hypothesis connecting TSH receptor signaling to migraine, followed by a literature and preclinical review
-- Clarification of the current regulatory status of the cancelled BLA and its original approved indication
+- Clarification of the current regulatory status
 - Route compatibility assessment for any new indication
 ## Disclaimer
 

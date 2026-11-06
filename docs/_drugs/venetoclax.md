@@ -38,7 +38,6 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-
 ---
 
 ## Quick Overview
@@ -113,9 +112,11 @@ For Ewing sarcoma, only preclinical work exists (for example PMID 30348635, BCL-
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA208573 (status: cancelled) | Venclexta (AbbVie Inc.) | Tablet, film coated (oral) | Indication text not available in the data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA214733 | VENETOCLAX | DR REDDYS | Tablet; oral | Valid |
+| ANDA214747 | VENETOCLAX | ALEMBIC | Tablet; oral | Valid |
+| NDA208573 | VENCLEXTA | ABBVIE | Tablet; oral | Valid |
 
 This should be verified against current FDA records before any decision, since venetoclax is described in the literature as FDA-approved for CLL and AML.
 
@@ -164,7 +165,7 @@ Label warnings and contraindications were not available. Please refer to the pac
 
 **To proceed, the following is needed:**
 - Subtype-specific data (trials or analyses) for mutated-IGHV CLL/SLL, or confirmation that the established CLL evidence can be applied
-- Current FDA label information (warnings, contraindications, approved indications) and verification of the "cancelled" licence status
+- Current FDA label information (warnings, contraindications, approved indications)
 - Detailed mechanism-of-action data
 - For AML: results from the ongoing Phase 3 trials
 - A monitoring plan covering tumour lysis syndrome, myelosuppression, infections, and CYP3A/azole interactions

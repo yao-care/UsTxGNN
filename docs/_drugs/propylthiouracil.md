@@ -77,15 +77,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA080016 | Propylthiouracil (Chartwell RX, LLC) | Tablet | Not available (valid) |
-| ANDA080154 | Propylthiouracil (Quagen Pharmaceuticals LLC) | Tablet | Not available (valid) |
-| ANDA080172 | Propylthiouracil (Teva Pharmaceuticals, Inc.) | Tablet | Not available (valid) |
-| ANDA208867 | Propylthiouracil (Macleods Pharmaceuticals Limited) | Tablet | Not available (valid) |
-| NDA006188 | Propylthiouracil (American Health Packaging) | Tablet | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA080154 | PROPYLTHIOURACIL | QUAGEN | Tablet; oral | Valid |
+| ANDA080172 | PROPYLTHIOURACIL | ACTAVIS ELIZABETH | Tablet; oral | Valid |
+| ANDA208867 | PROPYLTHIOURACIL | MACLEODS PHARMS | Tablet; oral | Valid |
+| NDA006188 | PROPYLTHIOURACIL | PH HEALTH | Tablet; oral | Valid |
+| ANDA080015 | PROPYLTHIOURACIL | HALSEY | Tablet; oral | Discontinued in Drugs@FDA |
 
-All five authorizations are oral tablets and all are listed as cancelled.
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

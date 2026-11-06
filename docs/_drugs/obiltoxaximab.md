@@ -82,9 +82,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125509 (cancelled) | Anthim | Solution | Not specified in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125509 | ANTHIM | ELUSYS THERAPEUTICS INC | Injectable; injection | Valid |
 
 ## Safety Considerations
 
@@ -104,7 +104,7 @@ The prediction has no clinical trials or literature behind it (evidence level L5
 - Supporting preclinical or clinical evidence
 - Package insert warnings and contraindications, which are required before any safety screening
 - Detailed mechanism-of-action data
-- Clarification of the cancelled US regulatory status and the route of administration needed for the new indication
+- Clarification of the route of administration needed for the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

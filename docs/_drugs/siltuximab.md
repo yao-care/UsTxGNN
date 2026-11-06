@@ -71,9 +71,9 @@ Currently no related literature available for extracutaneous mastocytoma.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125496 (cancelled) | Sylvant (Recordati Rare Diseases, Inc.) | Injection, powder, for solution | Not listed in the data compiled for this report |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125496 | SYLVANT | RECORDATI RARE DISEASES, INC. | Injectable; injection | Valid |
 
 ## Cytotoxicity
 
@@ -107,7 +107,7 @@ The prediction rests only on a model score (0.9964), with no clinical trials or 
 - Mechanism of action data and a review of IL-6 involvement in mast cell disease
 - Preclinical or literature evidence for IL-6 blockade in mastocytoma
 - FDA package insert warnings and contraindications, which are required before safety screening
-- A decision on product availability, since the Sylvant license is cancelled
+- A decision on product availability
 
 **Note on other predictions:** Kaposi's sarcoma is the most promising alternative (L4, "Research Question"). It shares pathogenic features with HHV-8-associated Castleman disease, including viral and human IL-6 dysregulation. The only publication retrieved (PMID [39970477](https://pubmed.ncbi.nlm.nih.gov/39970477/), a 2024 review in AIDS Reviews on Castleman disease) is indirect and does not study siltuximab in Kaposi's sarcoma. The remaining predictions (hepatic infarction, hepatic veno-occlusive disease, peliosis hepatis, familial Mediterranean fever, aggressive systemic mastocytosis, autosomal dominant familial periodic fever) have no supporting evidence and remain on Hold.
 ## Disclaimer

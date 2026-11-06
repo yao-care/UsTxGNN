@@ -78,9 +78,11 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA204521 (cancelled) | Pimozide (Endo USA, Inc.) | Tablet (oral) | Not listed |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA204521 | PIMOZIDE | PH HEALTH | Tablet; oral | Valid |
+| ANDA219897 | PIMOZIDE | NOVITIUM PHARMA | Tablet; oral | Valid |
+| NDA017473 | ORAP | TEVA | Tablet; oral | Discontinued in Drugs@FDA |
 
 ## Safety Considerations
 
@@ -95,7 +97,7 @@ No package insert warnings or contraindications were available in the data compi
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible, but the only direct evidence is one small 1992 study and general reviews, with no registered trials. The US product is cancelled, and pimozide carries significant QT-related cardiac risk and a heavy interaction burden.
+The prediction is mechanistically plausible, but the only direct evidence is one small 1992 study and general reviews, with no registered trials. Pimozide carries significant QT-related cardiac risk and a heavy interaction burden.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and FDA package insert warnings and contraindications (currently missing; the missing label safety data is a blocking gap for safety screening)

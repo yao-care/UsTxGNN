@@ -87,11 +87,13 @@ Both study designs are presumed from truncated titles, and MEN-specific cohort s
 
 No approved indication text was available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA079157 | Kit for the Preparation of Technetium Tc99m Sestamibi (Sun Pharmaceutical Industries) | Injection | Not available (valid) |
-| ANDA078809 | Kit for the Preparation of Technetium Tc99m Sestamibi (Cardinal Health 414) | Injection, powder, lyophilized, for solution | Not available (valid) |
-| ANDA078806 | Technetium Tc 99m Sestamibi (Jubilant Draximage) | Injection, powder, for solution | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078098 | TECHNETIUM TC 99M SESTAMIBI | CURIUM | Injectable; injection | Valid |
+| ANDA078806 | TECHNETIUM TC 99M SESTAMIBI | JUBILANT DRAXIMAGE | Injectable; injection | Valid |
+| ANDA078809 | TECHNETIUM TC 99M SESTAMIBI | CARDINAL HEALTH 414 | Injectable; injection | Valid |
+| NDA019785 | CARDIOLITE | SHINE | Injectable; injection | Valid |
+| ANDA079157 | TECHNETIUM TC 99M SESTAMIBI | SUN PHARM INDS INC | Injectable; injection | Discontinued in Drugs@FDA |
 
 ## Safety Considerations
 
@@ -108,7 +110,7 @@ The top-ranked prediction has no clinical, literature or mechanistic support. Th
 - The FDA package insert (warnings, contraindications and approved indications), which is a blocking gap for safety screening
 - Mechanism of action data, for example from DrugBank
 - For MEN, full-text review of the two studies to confirm design and MEN-specific cohort sizes, and a decision on whether a diagnostic-use question is in scope
-- Confirmation of whether other marketed sestamibi products exist beyond the three valid US licenses
+- Confirmation of whether other marketed sestamibi products exist
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

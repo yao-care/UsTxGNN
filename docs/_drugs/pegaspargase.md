@@ -95,9 +95,9 @@ Almost all trials test pegaspargase-containing regimens, and in many the randomi
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA103411 (cancelled) | ONCASPAR (Servier Pharmaceuticals LLC) | Injection, solution | Not listed in the data compiled for this report |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA103411 | ONCASPAR | SIGMA TAU | Vial | Valid |
 
 ## Cytotoxicity
 

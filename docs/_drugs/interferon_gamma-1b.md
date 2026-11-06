@@ -91,10 +91,15 @@ None of these publications evaluates interferon gamma-1b in heart disease.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA103836 (cancelled) | ACTIMMUNE | Injection, solution | Not available |
-| Not available (cancelled) | GUNA-INF GAMMA | Solution/drops | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA103836 | ACTIMMUNE | HORIZON THERAPEUTICS IRELAND DAC | Vial; single-use | Valid |
+| NDC 17089-378 | GUNA-INF GAMMA | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 17089-405 | GAMMA -12 | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 17089-076 | CITOMIX | Guna spa | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 17089-237 | GUNA-REACT | Guna spa | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 
@@ -113,7 +118,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials and no literature that tests interferon gamma-1b in heart disease. The high TxGNN score is not supported by mechanistic or clinical evidence. In addition, the US licenses are cancelled and label safety information is missing.
+The prediction has no clinical trials and no literature that tests interferon gamma-1b in heart disease. The high TxGNN score is not supported by mechanistic or clinical evidence. In addition, label safety information is missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening).

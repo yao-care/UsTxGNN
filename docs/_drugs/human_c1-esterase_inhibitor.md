@@ -92,9 +92,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125267 (cancelled) | Cinryze (Takeda Pharmaceuticals America, Inc.) | Injection, powder, lyophilized, for solution | Not stated in the available data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125267 | Cinryze | Takeda Pharmaceuticals America, Inc. | Injection, powder, lyophilized, for solution; intravenous | Valid |
 
 ---
 

@@ -91,9 +91,15 @@ The table below covers melanoma (the only prediction with literature). The other
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA202714 (cancelled) | KYPROLIS (Onyx Pharmaceuticals, Inc.) | Lyophilized powder for injection solution | Not listed in the data compiled for this report |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA209422 | CARFILZOMIB | DR REDDYS | Powder; intravenous | Valid |
+| ANDA209526 | CARFILZOMIB | MSN | Powder; intravenous | Valid |
+| NDA202714 | KYPROLIS | ONYX PHARMS AMGEN | Powder; intravenous | Valid |
+| NDA220712 | KITPROZY | AMNEAL PHARMS NY | Vial; single-use | Valid |
+| ANDA209330 | CARFILZOMIB | BRECKENRIDGE | Powder; intravenous | Discontinued in Drugs@FDA |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 
@@ -124,14 +130,14 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The predictions are supported only by a very high model score. For melanoma, the evidence is limited to preclinical and computational studies (L4), and there are no human efficacy or safety data. The registered product is also cancelled in the US, and the drug interaction burden is large.
+The predictions are supported only by a very high model score. For melanoma, the evidence is limited to preclinical and computational studies (L4), and there are no human efficacy or safety data. The drug interaction burden is large.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Dedicated preclinical studies in the specific melanoma subtype (cutaneous, uveal, mucosal), including in vivo models
 - For the leptomeningeal indication, data on CNS penetration
-- Clarification of the cancelled US market status and the availability of current products
+- Clarification of the availability of current products
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

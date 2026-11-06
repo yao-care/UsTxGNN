@@ -83,13 +83,15 @@ Only the first paper below addresses ramipril in a hypoxic pulmonary setting. Th
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA091604 | Ramipril (A-S Medication Solutions) | Capsule | Not available (valid) |
-| ANDA078832 | Ramipril (Zydus Lifesciences) | Capsule | Not available (valid) |
-| NDA219757 | Vostally (Metacel Pharmaceuticals) | Solution | Not available (valid) |
-| ANDA078745 | Ramipril (Chartwell RX) | Capsule | Not available (valid) |
-| ANDA077900 | Ramipril (Hikma Pharmaceuticals USA) | Capsule | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076549 | RAMIPRIL | WATSON LABS | Capsule; oral | Valid |
+| ANDA077626 | RAMIPRIL | LUPIN | Capsule; oral | Valid |
+| ANDA077900 | RAMIPRIL | HIKMA | Capsule; oral | Valid |
+| ANDA078191 | RAMIPRIL | PHARMAZONE | Capsule; oral | Valid |
+| ANDA078745 | RAMIPRIL | CHARTWELL MOLECULAR | Capsule; oral | Valid |
+
+Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -101,14 +103,14 @@ Only the first paper below addresses ramipril in a hypoxic pulmonary setting. Th
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (0.9993), but the support is limited to a single 1996 animal study. There are no clinical trials, no ramipril-specific human evidence in pulmonary hypertension, and the drug is marketed with 6 valid licences. Ramipril is also not an established therapy in this disease.
+The TxGNN score is very high (0.9993), but the support is limited to a single 1996 animal study. There are no clinical trials, no ramipril-specific human evidence in pulmonary hypertension, and the drug is marketed. Ramipril is also not an established therapy in this disease.
 
 **To proceed, the following is needed:**
 - Mechanism-of-action data and package-insert warnings and contraindications (both currently missing)
 - Confirmation of the original approved indications, since US licence records contain no indication text
 - Replication of the preclinical hypoxic pulmonary hypertension findings in modern animal models
 - Review of the safety of ACE inhibition in patients with pulmonary hypertension, including blood pressure and renal effects
-- Assessment of whether a pulmonary vascular indication is feasible given the current market status (marketed, 6 valid licences)
+- Assessment of whether a pulmonary vascular indication is feasible given the current market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

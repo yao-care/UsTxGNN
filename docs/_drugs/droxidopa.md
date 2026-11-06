@@ -72,15 +72,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA211652 | DROXIDOPA (Lupin Pharmaceuticals) | Capsule | Not available; status valid |
-| ANDA214387 | Droxidopa (Aurobindo Pharma) | Capsule | Not available; status valid |
-| ANDA211818 | Droxidopa (Zydus Lifesciences) | Capsule | Not available; status valid |
-| ANDA214017 | Droxidopa (ScieGen Pharmaceuticals) | Capsule | Not available; status valid |
-| ANDA213911 | Droxidopa (Ascend Laboratories) | Capsule | Not available; status valid |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA211726 | DROXIDOPA | ANNORA | Capsule; oral | Valid |
+| ANDA211741 | DROXIDOPA | MSN PHARMS INC | Capsule; oral | Valid |
+| ANDA211818 | DROXIDOPA | ZYDUS PHARMS | Capsule; oral | Valid |
+| ANDA213033 | DROXIDOPA | BIONPHARMA | Capsule; oral | Valid |
+| ANDA213911 | DROXIDOPA | ALKEM LABS LTD | Capsule; oral | Valid |
 
-Ten authorizations are listed in total (all oral capsules, all cancelled); the five above are shown as the main ones.
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -95,7 +95,7 @@ Please refer to the package insert for warnings and contraindications, which wer
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-only (evidence level L5) with no clinical trials or publications, and no plausible mechanistic link between noradrenergic replacement and prion protein pathology. The high TxGNN score alone is not enough to justify further investment. The drug is marketed in the US with 10 valid licenses, but package insert safety data are missing.
+The prediction is model-only (evidence level L5) with no clinical trials or publications, and no plausible mechanistic link between noradrenergic replacement and prion protein pathology. The high TxGNN score alone is not enough to justify further investment. The drug is marketed in the US, but package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) and a credible hypothesis linking droxidopa to VPSPr pathology

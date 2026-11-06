@@ -83,11 +83,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA016455 | CORDRAN (Almirall, LLC) | Tape | Not available (valid) |
-| NDA012806 | CORDRAN (INA Pharmaceutics, Inc) | Cream | Not available (valid) |
-| ANDA207133 | Flurandrenolide (Bryant Ranch Prepack) | Lotion | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA207133 | FLURANDRENOLIDE | PADAGIS ISRAEL | Lotion; topical | Valid |
+| ANDA207851 | FLURANDRENOLIDE | TELIGENT | Ointment; topical | Valid |
+| NDA016455 | CORDRAN | ALMIRALL | Tape; topical | Valid |
+| ANDA087203 | FLURANDRENOLIDE | ALPHARMA US PHARMS | Lotion; topical | Discontinued in Drugs@FDA |
+| ANDA205342 | FLURANDRENOLIDE | CHARTWELL RX | Cream; topical | Discontinued in Drugs@FDA |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

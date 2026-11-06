@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Thioridazine is a phenothiazine antipsychotic whose US licences are now all cancelled. The data compiled for this report contain no approved-indication text for it.
+Thioridazine is a phenothiazine antipsychotic. The data compiled for this report contain no approved-indication text for it.
 The TxGNN model predicts it may be effective for **manic bipolar affective disorder**, but **no clinical trials** are registered for this indication and the **20 publications** retrieved are mostly general reviews, safety reports and old case reports.
 The evidence is weak, and thioridazine carries a serious cardiac (QTc) safety concern.
 
@@ -97,15 +97,17 @@ Several older reports in the retrieved set are safety warnings rather than effic
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA088004 | Thioridazine Hydrochloride (Mylan Institutional) | Film-coated tablet | Not available (valid) |
-| ANDA089953 | Thioridazine Hydrochloride (Sun Pharmaceutical) | Film-coated tablet | Not available (valid) |
-| ANDA088135 | Thioridazine Hydrochloride (Chartwell RX) | Film-coated tablet | Not available (valid) |
-| ANDA088134 | Thioridazine Hydrochloride (Chartwell RX) | Film-coated tablet | Not available (valid) |
-| ANDA088133 | Thioridazine Hydrochloride (Chartwell RX) | Film-coated tablet | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA088004 | THIORIDAZINE HYDROCHLORIDE | MYLAN | Tablet; oral | Valid |
+| ANDA040125 | THIORIDAZINE HYDROCHLORIDE | EPIC PHARMA LLC | Concentrate; oral | Discontinued in Drugs@FDA |
+| ANDA040126 | THIORIDAZINE HYDROCHLORIDE | EPIC PHARMA LLC | Concentrate; oral | Discontinued in Drugs@FDA |
+| ANDA040187 | THIORIDAZINE HYDROCHLORIDE | PHARM ASSOC | Concentrate; oral | Discontinued in Drugs@FDA |
+| ANDA040213 | THIORIDAZINE HYDROCHLORIDE | PHARM ASSOC | Concentrate; oral | Discontinued in Drugs@FDA |
 
-A sixth licence, ANDA088131 (Chartwell RX), is also cancelled. All six licences are oral single-ingredient products.
+Showing 5 of 81 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+A sixth licence, ANDA088131 (Chartwell RX), is also cancelled.
 
 ## Safety Considerations
 

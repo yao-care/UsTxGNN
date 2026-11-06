@@ -50,8 +50,8 @@ but there are currently **no registered clinical trials** and only **1 publicati
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 23 of 93; OTC monograph / unapproved listings: 1) |
-| Number of FDA Applications | 93 (active: 23) |
+| US Market Status | Marketed (active FDA-approved applications: 33 of 130; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 130 (active: 33) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -77,12 +77,12 @@ The approved-indication text is not recorded in the local data. Main authorizati
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA061621 | ERYTHROMYCIN | CARNEGIE | Tablet; oral | Valid |
+| ANDA061904 | ERYTHROMYCIN ETHYLSUCCINATE | CARNEGIE | Tablet; oral | Valid |
+| ANDA061905 | E.E.S. 400 | PHARMOBEDIENT | Tablet; oral | Valid |
+| ANDA062055 | ERYTHROMYCIN ETHYLSUCCINATE | ANI PHARMS | Granule; oral | Valid |
 | ANDA062298 | ERY-TAB | PHARMOBEDIENT | Tablet, delayed release; oral | Valid |
-| ANDA062687 | ERYTHRA-DERM | MICRO LABS | Solution; topical | Valid |
-| ANDA062746 | ERYTHROMYCIN | PHARMOBEDIENT | Capsule, delayed rel pellets; oral | Valid |
-| ANDA063038 | ERYTHROMYCIN | PADAGIS US | Solution; topical | Valid |
 
-Showing 5 of 94 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+Showing 5 of 131 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA214759 (cancelled) | GRAFAPEX (Medexus Pharma, Inc.) | Injection, powder, lyophilized, for solution | Not listed in the available data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA214759 | GRAFAPEX | MEDEXUS | Powder; intravenous | Valid |
 
 ## Cytotoxicity
 

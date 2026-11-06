@@ -96,12 +96,15 @@ Most other retrieved papers concern orthostatic hypotension, adrenal insufficien
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA040431 | Fludrocortisone Acetate (NCS HealthCare of KY, Vangard Labs) | Tablet | Not available (valid) |
-| ANDA215279 | Fludrocortisone Acetate (Novitium Pharma) | Tablet | Not available (valid) |
-| ANDA219251 | Fludrocortisone Acetate (Viona Pharmaceuticals) | Tablet | Not available (valid) |
-| ANDA040425 | Fludrocortisone Acetate (Bryant Ranch Prepack) | Tablet | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040431 | FLUDROCORTISONE ACETATE | IMPAX LABS | Tablet; oral | Valid |
+| ANDA215279 | FLUDROCORTISONE ACETATE | NOVITIUM PHARMA | Tablet; oral | Valid |
+| ANDA219251 | FLUDROCORTISONE ACETATE | ZYDUS LIFESCIENCES | Tablet; oral | Valid |
+| ANDA220308 | FLUDROCORTISONE ACETATE | ADAPTIS | Tablet; oral | Valid |
+| ANDA040425 | FLUDROCORTISONE ACETATE | BARR | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 
@@ -120,7 +123,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication is supported only by a model score, with no clinical trials or literature (Evidence Level L5). The mechanistic link is weak, because the drug is mainly mineralocorticoid. The US market status is "Cancelled only", and key label safety data are missing.
+The predicted indication is supported only by a model score, with no clinical trials or literature (Evidence Level L5). The mechanistic link is weak, because the drug is mainly mineralocorticoid. Key label safety data are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking for safety screening)

@@ -78,10 +78,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA208197 (Hikma Pharmaceuticals USA Inc.) | Droperidol | Injection, solution | Not listed; status cancelled |
-| ANDA072123 (American Regent, Inc.) | Droperidol | Injection, solution | Not listed; status cancelled |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA072123 | DROPERIDOL | AM REGENT | Injectable; injection | Valid |
+| ANDA208197 | DROPERIDOL | HIKMA | Injectable; injection | Valid |
+| ANDA070992 | DROPERIDOL | ABRAXIS PHARM | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA070993 | DROPERIDOL | ABRAXIS PHARM | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA071645 | DROPERIDOL | HOSPIRA | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 Only injectable solutions are on record. No oral formulation appears in the data.
 

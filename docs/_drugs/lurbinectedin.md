@@ -74,9 +74,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA213702 (cancelled) | ZEPZELCA (Jazz Pharmaceuticals, Inc.) | Injection, powder, lyophilized, for solution | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA213702 | ZEPZELCA | JAZZ | Powder; intravenous | Valid |
 
 ## Cytotoxicity
 
@@ -104,13 +104,12 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials or publications, the original indication and mechanism data are missing, and the US license is cancelled. The evidence level is L5.
+The prediction rests only on a model score. There are no clinical trials or publications, the original indication and mechanism data are missing. The evidence level is L5.
 
 **To proceed, the following is needed:**
 - The FDA package insert, including approved indication, warnings and contraindications
 - Detailed mechanism of action data (for example from DrugBank)
 - A literature and trial search for lurbinectedin in neuroendocrine tumours and MEN syndromes
-- Clarification of the cancelled license status
 - A risk-benefit assessment of cytotoxicity and the major drug interactions for the target population
 ## Disclaimer
 

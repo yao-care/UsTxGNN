@@ -102,9 +102,9 @@ For reference, the eight publications retrieved for the second-ranked prediction
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212862 (cancelled) | Pretomanid (Viatris Specialty LLC) | Tablet | Not available in the record |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA212862 | PRETOMANID | MYLAN IRELAND LTD | Tablet; oral | Valid |
 
 ---
 
@@ -123,7 +123,7 @@ Please refer to the package insert for warnings and contraindications, because t
 **Decision: Hold**
 
 **Rationale:**
-The candidiasis prediction rests on a model score alone, with no trials, no literature, and no known antifungal activity of pretomanid. The only biologically plausible alternative, leprosy, is still an untested research question (L4) supported only by indirect tuberculosis literature. The cardiovascular predictions have no plausible rationale. In addition, the US NDA is recorded as cancelled.
+The candidiasis prediction rests on a model score alone, with no trials, no literature, and no known antifungal activity of pretomanid. The only biologically plausible alternative, leprosy, is still an untested research question (L4) supported only by indirect tuberculosis literature. The cardiovascular predictions have no plausible rationale.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

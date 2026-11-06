@@ -76,10 +76,15 @@ Two other retrieved papers (PMIDs 19007502 and 22112053) are urine assay methods
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA202220 (cancelled) | Protriptyline Hydrochloride (Epic Pharma, LLC) | Film-coated tablet | Not available |
-| ANDA090462 (cancelled) | Protriptyline Hydrochloride (Sigmapharm Laboratories, LLC) | Film-coated tablet | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090462 | PROTRIPTYLINE HYDROCHLORIDE | SIGMAPHARM LABS LLC | Tablet; oral | Valid |
+| ANDA202220 | PROTRIPTYLINE HYDROCHLORIDE | EPIC PHARMA LLC | Tablet; oral | Valid |
+| ANDA073644 | VIVACTIL | CHARTWELL RX | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA073645 | VIVACTIL | CHARTWELL RX | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA078913 | PROTRIPTYLINE HYDROCHLORIDE | HIKMA | Tablet; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 Any development would need a new supply or approval pathway.
 
@@ -96,14 +101,14 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The only support for ADHD is a single uncontrolled 1996 observational study and a mechanistic inference, with no registered trials. Limited safety data, a heavy interaction burden, and cancelled-only US market status further limit feasibility. The decision stage remains at S0 (initial screening).
+The only support for ADHD is a single uncontrolled 1996 observational study and a mechanistic inference, with no registered trials. The decision stage remains at S0 (initial screening).
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Full text and results of the 1996 naturalistic study, plus a search for further observational or controlled studies
 - A pediatric and adult safety assessment, including cardiac risk, against existing ADHD therapies
-- A plan for drug supply and regulatory pathway, given that both US authorizations are cancelled
+- A plan for drug supply and regulatory pathway
 
 ## Other Predicted Indications (for reference)
 

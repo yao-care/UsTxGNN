@@ -104,12 +104,15 @@ For the pleural site, the pivotal Phase 3 trial (PMID [12860938](https://pubmed.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA210661 (cancelled) | Pemetrexed dipotassium (Avyxa Pharma) | Injection, powder, lyophilized, for solution | Not recorded |
-| NDA208419 (cancelled) | Pemetrexed (Teva) | Solution, concentrate | Not recorded |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA090384 | PEMETREXED DISODIUM | FRESENIUS KABI USA | Powder; intravenous | Valid |
+| ANDA202596 | PEMETREXED DISODIUM | DR REDDYS | Powder; intravenous | Valid |
+| ANDA203485 | PEMETREXED DISODIUM | ACCORD HLTHCARE | Powder; intravenous | Valid |
+| ANDA203774 | PEMETREXED DISODIUM | APOTEX | Powder; intravenous | Valid |
+| ANDA204890 | PEMETREXED DISODIUM | QILU PHARM HAINAN | Powder; intravenous | Valid |
 
-Both listed NDAs are cancelled, so availability depends on other pemetrexed products not captured in these records.
+Showing 5 of 30 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 
@@ -150,7 +153,7 @@ Pemetrexed-platinum is an established backbone in pleural mesothelioma, and the 
 - FDA package insert warnings and contraindications (currently missing and blocking safety screening)
 - Mechanism of action data from DrugBank
 - Results from the ongoing peritoneal mesothelioma trials (NCT05001880, NCT06543069), and the peritoneal-specific outcomes from NCT00061477
-- Confirmation of a currently marketed US pemetrexed product, since both listed NDAs are cancelled
+- Confirmation of a currently marketed US pemetrexed product
 - A monitoring plan for renal function and blood counts, with attention to the nephrotoxic and NSAID interactions
 - Not recommended at this stage: pleural adenomatoid tumor, lymphohistiocytoid mesothelioma, and iminoglycinuria (no evidence or mechanism)
 ## Disclaimer

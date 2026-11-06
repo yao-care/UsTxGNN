@@ -72,15 +72,17 @@ Currently no related literature available.
 
 ## US Market Information
 
-Eight US authorizations are listed as valid, and no approved indication text was available for them.
+No approved indication text was available for them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA202187 (NorthStar Rx) | Spironolactone | Tablet | Not available (cancelled) |
-| ANDA040750 (Proficient Rx) | Spironolactone | Tablet, coated | Not available (cancelled) |
-| ANDA205936 (RemedyRepack) | Spironolactone | Tablet, film coated | Not available (cancelled) |
-| ANDA091426 (Amneal) | Spironolactone | Tablet | Not available (cancelled) |
-| NDA209478 (Padagis) | Spironolactone | Suspension | Not available (cancelled) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040424 | SPIRONOLACTONE | MYLAN | Tablet; oral | Valid |
+| ANDA040750 | SPIRONOLACTONE | OXFORD PHARMS | Tablet; oral | Valid |
+| ANDA089424 | SPIRONOLACTONE | SUN PHARM INDUSTRIES | Tablet; oral | Valid |
+| ANDA091426 | SPIRONOLACTONE | AMNEAL PHARMS | Tablet; oral | Valid |
+| ANDA202187 | SPIRONOLACTONE | AUROBINDO PHARMA | Tablet; oral | Valid |
+
+Showing 5 of 49 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -97,7 +99,7 @@ Please refer to the package insert for full warnings and label contraindications
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials or publications, and the proposed mechanism (anti-androgen effect) does not fit the genetic, non-androgen-driven biology of this disorder. The drug is marketed in the US, with 8 valid licenses.
+The prediction rests only on a model score. There are no clinical trials or publications, and the proposed mechanism (anti-androgen effect) does not fit the genetic, non-androgen-driven biology of this disorder. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for spironolactone
@@ -105,7 +107,7 @@ The prediction rests only on a model score. There are no clinical trials or publ
 - Evidence that links the genetic causes of hypotrichosis simplex (CDSN, APCDD1, RPL21) to a spironolactone-responsive pathway, such as preclinical or follicle model studies
 - Any case reports, trials, or literature in this indication
 - Route compatibility and similarity-to-original-indication assessments, which are still pending
-- Clarification of current US marketing status, since the drug is marketed with 8 valid licenses
+- Clarification of current US marketing status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

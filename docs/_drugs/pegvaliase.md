@@ -73,9 +73,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761079 (cancelled) | Palynziq (BioMarin Pharmaceutical Inc.) | Injection, solution | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761079 | PALYNZIQ | BIOMARIN PHARM | Injectable; injection | Valid |
 
 ## Safety Considerations
 
@@ -97,7 +97,6 @@ The prediction rests only on a TxGNN model (deep learning) score, with no clinic
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data, and a plausible biological rationale linking phenylalanine degradation to diabetic retinopathy
 - Preclinical or mechanistic studies in retinal or diabetic models
-- Clarification of the regulatory status of the cancelled BLA and its approved indication text
 - A benefit-risk assessment against existing diabetic retinopathy therapies, given the anaphylaxis risk
 ## Disclaimer
 

@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA213969 (Cancelled) | Zokinvy (Sentynl Therapeutics, Inc.) | Capsule (oral) | Not listed in the compiled record |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA213969 | ZOKINVY | SENTYNL THERAPS INC | Capsule; oral | Valid |
 
 ## Cytotoxicity
 
@@ -93,7 +93,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The leprosy prediction has no supporting clinical trials or literature (evidence level L5), and no mechanistic link to *M. leprae* is established. The US license is also cancelled, and the package insert safety data is missing, which blocks safety screening.
+The leprosy prediction has no supporting clinical trials or literature (evidence level L5), and no mechanistic link to *M. leprae* is established. The package insert safety data is missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (download from the FDA website)

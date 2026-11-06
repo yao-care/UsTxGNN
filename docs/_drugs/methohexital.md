@@ -81,10 +81,10 @@ No literature is available for insomnia. The literature below relates to the low
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA215488 (cancelled) | Methohexital Sodium | Injection | Not stated |
-| NDA011559 (cancelled) | Brevital Sodium | Injection, powder, lyophilized, for solution | Not stated |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA215488 | METHOHEXITAL SODIUM | ONESOURCE SPECIALTY | Injectable; injection | Valid |
+| NDA011559 | BREVITAL SODIUM | PH HEALTH | Injectable; injection | Valid |
 
 ## Safety Considerations
 
@@ -101,14 +101,14 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The insomnia prediction rests on model score alone, with no trials or literature. Barbiturates are poorly suited to chronic insomnia because of dependence, respiratory depression, and a very short duration of action. In addition, no US license for methohexital is currently valid, and label safety information is missing.
+The insomnia prediction rests on model score alone, with no trials or literature. Barbiturates are poorly suited to chronic insomnia because of dependence, respiratory depression, and a very short duration of action. In addition, label safety information is missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (required for safety screening)
 - Mechanism of action data
 - A mechanistic and clinical rationale for insomnia, including comparison with established hypnotics
 - Any clinical or preclinical studies of methohexital for sleep disorders
-- Clarification of the original approved indication and the cancelled license status
+- Clarification of the original approved indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

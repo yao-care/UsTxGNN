@@ -90,15 +90,17 @@ No literature supports an anti-tumour effect of phenytoin.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA213834 | Phenytoin Sodium | Capsule, extended release | Not recorded; status valid |
-| ANDA040684 | Phenytoin Sodium | Capsule, extended release | Not recorded; status valid |
-| ANDA084307 | Phenytoin Sodium | Injection | Not recorded; status valid |
-| ANDA084349 | DILANTIN | Capsule, extended release | Not recorded; status valid |
-| ANDA200565 | Phenytoin | Chewable tablet | Not recorded; status valid |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040298 | PHENYTEK | MYLAN | Capsule; oral | Valid |
+| ANDA040521 | PHENYTOIN | TARO | Suspension; oral | Valid |
+| ANDA040573 | PHENYTOIN SODIUM | ACELLA | Injectable; injection | Valid |
+| ANDA040684 | EXTENDED PHENYTOIN SODIUM | TARO | Capsule; oral | Valid |
+| ANDA040765 | EXTENDED PHENYTOIN SODIUM | AMNEAL PHARMS NY | Capsule; oral | Valid |
 
-The drug is marketed in the US with 8 valid licenses; the table shows the first 5.
+Showing 5 of 43 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+The drug is marketed in the US; the table shows the first 5.
 
 ## Safety Considerations
 
@@ -115,14 +117,14 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for trigeminal nerve neoplasm is a model output only. It has no clinical trials, no supporting literature on tumours, and no plausible link between sodium channel blockade and tumour biology. Trigeminal neuralgia has meaningful literature, but phenytoin is a second-line option behind carbamazepine and oxcarbazepine. The drug is marketed in the US with 8 valid licenses.
+The prediction for trigeminal nerve neoplasm is a model output only. It has no clinical trials, no supporting literature on tumours, and no plausible link between sodium channel blockade and tumour biology. Trigeminal neuralgia has meaningful literature, but phenytoin is a second-line option behind carbamazepine and oxcarbazepine. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Re-scope the question from trigeminal nerve neoplasm to trigeminal neuralgia, with a focus on IV phenytoin for acute exacerbations
 - A controlled study comparing phenytoin with carbamazepine, oxcarbazepine or lacosamide in trigeminal neuralgia
 - The package insert warnings and contraindications, which are currently missing and block safety screening
 - Detailed mechanism of action data
-- Clarification of current US marketing status, since 8 valid licenses are listed
+- Clarification of current US marketing status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

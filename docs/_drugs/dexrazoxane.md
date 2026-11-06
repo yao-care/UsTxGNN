@@ -71,11 +71,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA207321 (Fosun Pharma USA Inc.) | Dexrazoxane | Lyophilized powder for injection | Not available (cancelled) |
-| ANDA076068 (Hikma Pharmaceuticals USA Inc.) | Dexrazoxane | Lyophilized powder for injection | Not available (cancelled) |
-| ANDA216748 (Novadoz Pharmaceuticals LLC) | Dexrazoxane | Lyophilized powder for injection | Not available (cancelled) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076068 | DEXRAZOXANE HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA200752 | DEXRAZOXANE HYDROCHLORIDE | EUGIA PHARMA | Injectable; injection | Valid |
+| ANDA207321 | DEXRAZOXANE HYDROCHLORIDE | GLAND | Injectable; injection | Valid |
+| ANDA216748 | DEXRAZOXANE HYDROCHLORIDE | MSN | Injectable; injection | Valid |
+| NDA020212 | ZINECARD | PFIZER | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Cytotoxicity
 
@@ -101,7 +105,7 @@ The prediction for sclerosing cholangitis has no supporting clinical trials or l
 - Package insert warnings and contraindications, which are currently a blocking gap for safety screening
 - Detailed mechanism of action data
 - Preclinical evidence, such as cholestasis or bile duct injury models, testing whether iron chelation or ferroptosis inhibition is protective
-- Confirmation of the original approved indication and a review of the current US market status (marketed; all 3 of 3 authorizations valid)
+- Confirmation of the original approved indication and a review of the current US market status
 - Assessment of route compatibility (the available form is injectable only) and of renal-function-related safety
 ## Disclaimer
 

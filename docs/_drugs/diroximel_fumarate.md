@@ -76,9 +76,10 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA211855 (cancelled) | Vumerity (Biogen Inc.) | Capsule (oral) | Not listed in the available data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA218596 | DIROXIMEL FUMARATE | ZYDUS | Capsule, delayed release; oral | Valid |
+| NDA211855 | VUMERITY | BIOGEN | Capsule, delayed release; oral | Valid |
 
 ## Safety Considerations
 
@@ -96,7 +97,7 @@ Please refer to the package insert for warnings and contraindications, which are
 **Decision: Hold**
 
 **Rationale:**
-The only support for diabetic cataract (and the other predicted eye conditions) is a model score. There are no trials or publications, the mechanism data are incomplete, and the US license is cancelled. The evidence level is L5.
+The only support for diabetic cataract (and the other predicted eye conditions) is a model score. There are no trials or publications, the mechanism data are incomplete. The evidence level is L5.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

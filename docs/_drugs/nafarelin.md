@@ -86,9 +86,9 @@ Currently no related literature available for the lead prediction.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019886 (cancelled) | Synarel (Pfizer Laboratories Div Pfizer Inc) | Metered spray | Not listed in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA019886 | SYNAREL | PFIZER | Spray, metered; nasal | Valid |
 
 ---
 
@@ -113,7 +113,7 @@ The prediction rests only on a network-based score, with no clinical trials, no 
 - Preclinical or case-level data in hypertrichosis or related hair disorders
 - Official FDA package insert warnings and contraindications for a full safety review
 - Mechanism of action data from DrugBank
-- Confirmation of current regulatory and supply status, given that the NDA is cancelled
+- Confirmation of current regulatory and supply status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -82,13 +82,15 @@ None of these papers tests misoprostol as a treatment for amenorrhea.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019268 | Cytotec (Pfizer) | Tablet | Not available; license valid |
-| ANDA076095 | Misoprostol (GenBioPro) | Tablet | Not available; license valid |
-| ANDA091667 | Misoprostol (Novel Laboratories) | Tablet | Not available; license valid |
-| ANDA210201 | Misoprostol (AvPAK) | Tablet | Not available; license valid |
-| ANDA216872 | Misoprostol (Micro Labs) | Tablet | Not available; license valid |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076095 | MISOPROSTOL | ANI PHARMS | Tablet; oral | Valid |
+| ANDA210201 | MISOPROSTOL | ACQ PHARMA | Tablet; oral | Valid |
+| NDA019268 | CYTOTEC | PFIZER | Tablet; oral | Valid |
+| ANDA201089 | DICLOFENAC SODIUM AND MISOPROSTOL | ACTAVIS LABS FL INC | Tablet, delayed release; oral | Valid |
+| ANDA203995 | DICLOFENAC SODIUM AND MISOPROSTOL | AMNEAL PHARMS | Tablet, delayed release; oral | Valid |
+
+Showing 5 of 14 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -111,7 +113,7 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone. No clinical trials exist, and the literature concerns pregnancy termination rather than treating amenorrhea. The drug is marketed in the US with five valid licenses, but mechanism and label safety data are missing.
+The prediction rests on a model score alone. No clinical trials exist, and the literature concerns pregnancy termination rather than treating amenorrhea. The drug is marketed in the US, but mechanism and label safety data are missing.
 
 The second predicted indication, atypical coarctation of aorta, has no supporting trials or literature (Evidence Level L5). It is also not recommended.
 
@@ -120,7 +122,7 @@ The second predicted indication, atypical coarctation of aorta, has no supportin
 - Mechanism of action data (for example, from DrugBank) to support the mechanistic link.
 - A focused literature review for misoprostol in amenorrhea of non-pregnancy causes (for example, a cervical-stenosis or hysteroscopy-related setting).
 - A pregnancy-exclusion and teratogenicity risk assessment for any amenorrhea population.
-- Confirmation of current US availability and licensing status, given that the drug is marketed with five valid licenses.
+- Confirmation of current US availability and licensing status.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

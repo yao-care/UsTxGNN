@@ -49,8 +49,8 @@ The TxGNN model's top-ranked prediction is **pulmonary arteriovenous malformatio
 | Predicted New Indication | Pulmonary arteriovenous malformation (top-ranked prediction) |
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 (top prediction); best among the top 10 predictions is L3 (PAH associated with connective tissue disease) |
-| US Market Status | Marketed (active FDA-approved applications: 8 of 10) |
-| Number of FDA Applications | 10 (active: 8) |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 11) |
+| Number of FDA Applications | 11 (active: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -93,7 +93,7 @@ Approved indication text was not available in the data.
 | ANDA211574 | TREPROSTINIL | ALEMBIC GLOBAL | Injectable; intravenous, subcutaneous | Valid |
 | NDA021272 | REMODULIN | UNITED THERAP | Injectable; intravenous, subcutaneous | Valid |
 
-Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

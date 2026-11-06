@@ -135,15 +135,15 @@ The most relevant publications for the other candidate indications are listed be
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020789 | Zonegran (Advanz Pharma (US) Corp.) | Capsule | Not available (valid) |
-| ANDA077651 | Zonisamide (Glenmark Pharmaceuticals Inc., USA) | Capsule | Not available (valid) |
-| ANDA077634 | Zonisamide (Sun Pharmaceutical Industries, Inc.) | Capsule | Not available (valid) |
-| ANDA077645 | Zonisamide (Aurobindo Pharma Limited) | Capsule | Not available (valid) |
-| ANDA077625 | Zonisamide (Zydus Lifesciences Limited) | Capsule | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077625 | ZONISAMIDE | ZYDUS LIFESCIENCES | Capsule; oral | Valid |
+| ANDA077636 | ZONISAMIDE | GRANULES | Capsule; oral | Valid |
+| ANDA077645 | ZONISAMIDE | AUROBINDO PHARMA LTD | Capsule; oral | Valid |
+| ANDA077651 | ZONISAMIDE | GLENMARK PHARMS | Capsule; oral | Valid |
+| ANDA077813 | ZONISAMIDE | BIONPHARMA | Capsule; oral | Valid |
 
-Two further generic authorizations (ANDA214492, Unichem; ANDA077869, Exelan) are also cancelled.
+Showing 5 of 21 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 
@@ -164,7 +164,7 @@ Package insert warnings and contraindications were not available in the compiled
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, Tourette syndrome, rests on a model score alone (L5) with no trials or literature, and the available literature points to a tic-induction risk rather than benefit. Bipolar mania evidence is indirect and mixed, including a case of zonisamide-induced mania. The drug is marketed in the US with seven valid authorizations.
+The top-ranked prediction, Tourette syndrome, rests on a model score alone (L5) with no trials or literature, and the available literature points to a tic-induction risk rather than benefit. Bipolar mania evidence is indirect and mixed, including a case of zonisamide-induced mania. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
@@ -172,7 +172,7 @@ The top-ranked prediction, Tourette syndrome, rests on a model score alone (L5) 
 - Full-text review of the absence epilepsy and juvenile myoclonic epilepsy studies to confirm study design (retrospective versus prospective) and whether the evidence can reach L3
 - Controlled trial data for any indication under consideration; none is currently registered except one withdrawn fibromyalgia trial
 - A safety assessment of the tic, OCD, mania and methemoglobinemia signals before any psychiatric repurposing is considered
-- Clarification of the US regulatory status, given that the drug is marketed with seven valid licenses
+- Clarification of the US regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -77,9 +77,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761067 (cancelled) | ILUMYA (Sun Pharmaceutical Industries, Inc.) | Injection, solution | Not listed in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA761067 | ILUMYA | SUN PHARMA GLOBAL | Injectable; injection | Valid |
 
 ## Safety Considerations
 
@@ -102,7 +102,7 @@ All four predictions are supported only by model scores (L5), with no registered
 - Mechanism of action data from DrugBank, to support mechanistic-link analysis
 - Preclinical evidence of IL-23/IL-17 involvement in retinal disease (ocular models)
 - A literature and trial search specific to diabetic retinopathy and IL-23 blockade
-- Clarification of the route of administration, since a systemic antibody may not suit an ocular indication, and of the regulatory implications of the cancelled license status
+- Clarification of the route of administration, since a systemic antibody may not suit an ocular indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

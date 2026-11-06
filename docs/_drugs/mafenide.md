@@ -71,9 +71,12 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA016763 (cancelled) | SULFAMYLON (Rising Pharma Holdings, Inc.) | Cream | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA016763 | SULFAMYLON | RISING | Cream; topical | Valid |
+| ANDA201511 | MAFENIDE ACETATE | PH HEALTH | For solution; topical | Discontinued in Drugs@FDA |
+| ANDA206716 | MAFENIDE ACETATE | INGENUS PHARMS LLC | For solution; topical | Discontinued in Drugs@FDA |
+| NDA019832 | SULFAMYLON | MYLAN INSTITUTIONAL | For solution; topical | Discontinued in Drugs@FDA |
 
 ## Safety Considerations
 

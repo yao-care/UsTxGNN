@@ -77,9 +77,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA214012 (cancelled) | LEQVIO (Novartis Pharmaceuticals Corporation) | Injection, solution | Not recorded |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA214012 | LEQVIO | NOVARTIS | Solution; subcutaneous | Valid |
 
 ## Safety Considerations
 

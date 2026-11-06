@@ -70,9 +70,11 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212887 (cancelled) | Vocabria (ViiV Healthcare Company) | Tablet, film coated (oral) | Not stated |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA212887 | VOCABRIA | VIIV HLTHCARE | Tablet; oral | Valid |
+| NDA215499 | APRETUDE | VIIV HLTHCARE | Suspension, extended release; intramuscular | Valid |
+| NDA212888 | CABENUVA KIT | VIIV HLTHCARE | Suspension, extended release; intramuscular | Valid |
 
 ## Safety Considerations
 

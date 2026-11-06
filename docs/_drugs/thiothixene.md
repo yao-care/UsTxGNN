@@ -81,11 +81,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA211642 (cancelled) | Thiothixene (ANI Pharmaceuticals, Inc.) | Capsule | Not listed |
-| ANDA215456 (cancelled) | Thiothixene (Amneal Pharmaceuticals NY LLC) | Capsule | Not listed |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA071093 | THIOTHIXENE | RISING | Capsule; oral | Valid |
+| ANDA211642 | THIOTHIXENE | NOVITIUM PHARMA | Capsule; oral | Valid |
+| ANDA215456 | THIOTHIXENE | AMNEAL | Capsule; oral | Valid |
+| ANDA070600 | THIOTHIXENE | CHARTWELL RX | Capsule; oral | Discontinued in Drugs@FDA |
+| ANDA070601 | THIOTHIXENE | CHARTWELL RX | Capsule; oral | Discontinued in Drugs@FDA |
 
+Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 

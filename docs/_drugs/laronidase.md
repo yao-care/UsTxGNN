@@ -76,9 +76,9 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125058 (cancelled) | ALDURAZYME (Genzyme Corporation) | Injection, solution, concentrate | Not stated in the data compiled for this report |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125058 | ALDURAZYME | BIOMARIN | Vial | Valid |
 
 ## Safety Considerations
 
@@ -91,7 +91,7 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication is essentially a manifestation of the already-approved MPS I indication rather than a new disease. No trials exist, clinical evidence is limited to one case report and general reviews, and intravenous enzyme replacement is known to have limited effect on bone. The US license is also listed as cancelled.
+The predicted indication is essentially a manifestation of the already-approved MPS I indication rather than a new disease. No trials exist, clinical evidence is limited to one case report and general reviews, and intravenous enzyme replacement is known to have limited effect on bone.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

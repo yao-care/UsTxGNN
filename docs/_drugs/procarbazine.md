@@ -86,9 +86,9 @@ The remaining retrieved papers cover mitoxantrone, fludarabine myelotoxicity, lo
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA016785 (cancelled) | Matulane (Leadiant Biosciences, Inc.) | Capsule | Not listed in the data compiled for this report |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA016785 | MATULANE | LEADIANT BIOSCI INC | Capsule; oral | Valid |
 
 ## Cytotoxicity
 
@@ -113,7 +113,7 @@ Please also refer to the package insert for full safety information, as label wa
 **Decision: Hold**
 
 **Rationale:**
-The evidence is limited to a small case report, a cohort description of the PEP-C regimen and background literature. The two registered trials either terminated early (6 patients) or do not test procarbazine. The US license is cancelled, the mechanism of action is unavailable, and the safety profile (myelosuppression, carcinogenicity, interactions) calls for caution. Safety screening cannot proceed without the package insert.
+The evidence is limited to a small case report, a cohort description of the PEP-C regimen and background literature. The two registered trials either terminated early (6 patients) or do not test procarbazine. The mechanism of action is unavailable, and the safety profile (myelosuppression, carcinogenicity, interactions) calls for caution. Safety screening cannot proceed without the package insert.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

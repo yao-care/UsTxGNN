@@ -38,7 +38,7 @@ Evidence Level: **L2** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Ketamine is an injectable drug marketed in the United States under the brand Ketalar and several generic labels, but all six U.S. authorizations in the data compiled for this report are now listed as cancelled.
+Ketamine is an injectable drug marketed in the United States under the brand Ketalar and several generic labels.
 The TxGNN model predicts it may be effective for **headache disorder**, with **9 clinical trials** and **20 publications** currently supporting this direction.
 The evidence includes one completed Phase 3 trial (THINK), but no trial results are available in the data, so efficacy cannot yet be confirmed.
 
@@ -107,15 +107,17 @@ Many other retrieved papers concern ketamine in depression, which is not the tar
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA016812 (cancelled) | Ketalar | Injection | Not specified |
-| ANDA074549 (cancelled) | Ketamine Hydrochloride | Injection, solution, concentrate | Not specified |
-| ANDA216809 (cancelled) | Ketamine Hydrochloride | Injection, solution | Not specified |
-| ANDA074524 (cancelled) | Ketamine Hydrochloride | Injection | Not specified |
-| ANDA215808 (cancelled) | Ketamine hydrochloride | Injection | Not specified |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074524 | KETAMINE HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
+| ANDA074549 | KETAMINE HYDROCHLORIDE | HOSPIRA | Injectable; injection | Valid |
+| ANDA076092 | KETAMINE HYDROCHLORIDE | EUGIA PHARMA | Injectable; injection | Valid |
+| ANDA215808 | KETAMINE HYDROCHLORIDE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA216809 | KETAMINE HYDROCHLORIDE | GLAND | Injectable; injection | Valid |
 
-A sixth authorization, ANDA076092 (Eugia US LLC, injection), is also valid. The drug is marketed in the U.S., and all six authorizations are listed as valid in the data compiled for this report.
+Showing 5 of 12 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+A sixth authorization, ANDA076092 (Eugia US LLC, injection), is also valid. The drug is marketed in the U.S.
 
 ---
 
@@ -144,13 +146,13 @@ Please refer to the package insert for key warnings and contraindications; this 
 **Decision: Hold**
 
 **Rationale:**
-Several trials directly test ketamine in headache, and the mechanistic rationale is plausible. However, no trial results are available, the one completed Phase 3 trial is small (n=80), and the other Phase 3 trial is still recruiting. In addition, all U.S. authorizations are cancelled and the package insert safety data is missing, which blocks safety screening. Ketamine also carries a substantial set of cardiovascular and neurological contraindication signals.
+Several trials directly test ketamine in headache, and the mechanistic rationale is plausible. However, no trial results are available, the one completed Phase 3 trial is small (n=80), and the other Phase 3 trial is still recruiting. In addition, the package insert safety data is missing, which blocks safety screening. Ketamine also carries a substantial set of cardiovascular and neurological contraindication signals.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap for safety screening)
 - Results from THINK (NCT03081416) and other completed trials, plus the outcome of KetHead (NCT05306899, expected 2027)
 - Mechanism of action data from DrugBank
-- Clarification of the current U.S. regulatory and supply status, given that the drug is marketed with 6 valid authorizations
+- Clarification of the current U.S. regulatory and supply status
 - Route and formulation assessment (IV vs intranasal vs oral) for the headache setting
 - A safety plan for patients with cardiovascular or cerebrovascular disease, raised intracranial pressure, or substance-use history
 ## Disclaimer

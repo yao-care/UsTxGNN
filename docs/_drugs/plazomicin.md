@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA210303 | Zemdri (plazomicin) (Achaogen, Inc.; status: valid) | Injection | Not specified |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA210303 | ZEMDRI | CIPLA USA | Solution; intravenous | Discontinued in Drugs@FDA |
 
 ## Safety Considerations
 

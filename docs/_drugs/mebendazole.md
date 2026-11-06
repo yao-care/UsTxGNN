@@ -83,9 +83,11 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA208398 | VERMOX (Janssen Pharmaceuticals, Inc.) | Chewable tablet (oral) | Not recorded; license status: valid |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA073580 | EMVERM | IMPAX LABS INC | Tablet, chewable; oral | Valid |
+| NDA017481 | VERMOX | JANSSEN PHARMS | Tablet, chewable; oral | Discontinued in Drugs@FDA |
+| NDA208398 | VERMOX | JANSSEN PHARMS | Tablet, chewable; oral | Discontinued in Drugs@FDA |
 
 ---
 

@@ -96,9 +96,9 @@ For reference, the only prediction with literature is ADP porphyria (rank 9):
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212194 (cancelled) | GIVLAARI | Injection, solution | Not listed in the data compiled for this report |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA212194 | GIVLAARI | ALNYLAM PHARMS INC | Solution; subcutaneous | Valid |
 
 ---
 
@@ -115,13 +115,13 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-Hepatoportal sclerosis is supported only by a model score, with no trials, no literature and no plausible mechanistic link to ALAS1 silencing. The US NDA is also listed as cancelled. The one prediction with literature, ADP porphyria, is essentially an extension of the approved indication, and its evidence is limited to mixed case reports.
+Hepatoportal sclerosis is supported only by a model score, with no trials, no literature and no plausible mechanistic link to ALAS1 silencing. The one prediction with literature, ADP porphyria, is essentially an extension of the approved indication, and its evidence is limited to mixed case reports.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - A mechanistic hypothesis linking ALAS1 suppression to obliterative portal venopathy, with preclinical support
-- Clarification of the cancelled NDA status and the current availability of the product
+- Clarification of the current availability of the product
 - If the team wants to pursue the best-supported prediction instead, a focused review of ADP porphyria cases, given the mixed responses reported
 ## Disclaimer
 

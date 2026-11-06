@@ -76,12 +76,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA065425 (cancelled) | Demeclocycline Hydrochloride (American Health Packaging) | Tablet | Not available |
-| ANDA065447 (cancelled) | Demeclocycline Hydrochloride (Epic Pharma, LLC) | Tablet, film coated | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA065389 | DEMECLOCYCLINE HYDROCHLORIDE | EPIC PHARMA LLC | Tablet; oral | Valid |
+| ANDA065425 | DEMECLOCYCLINE HYDROCHLORIDE | AMNEAL PHARM | Tablet; oral | Valid |
+| ANDA065447 | DEMECLOCYCLINE HYDROCHLORIDE | EPIC PHARMA LLC | Tablet; oral | Valid |
+| ANDA065094 | DEMECLOCYCLINE HYDROCHLORIDE | IMPAX LABS | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA065171 | DEMECLOCYCLINE HYDROCHLORIDE | BARR | Tablet; oral | Discontinued in Drugs@FDA |
 
-Both authorizations are cancelled, which limits practical feasibility for any repurposing effort.
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

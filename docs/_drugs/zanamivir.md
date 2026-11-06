@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021036 (cancelled) | RELENZA (GlaxoSmithKline LLC) | Powder | Not listed in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA021036 | RELENZA | GLAXOSMITHKLINE | Powder; inhalation | Valid |
 
 ## Safety Considerations
 

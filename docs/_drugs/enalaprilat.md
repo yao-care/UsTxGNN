@@ -72,10 +72,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA075578 (cancelled) | Enalaprilat (Dr. Reddys Laboratories Inc) | Injection | Not specified |
-| ANDA078687 (cancelled) | Enalaprilat (HF Acquisition Co LLC, DBA HealthFirst) | Injection | Not specified |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075578 | ENALAPRILAT | DR REDDYS | Injectable; injection | Valid |
+| ANDA075634 | ENALAPRILAT | CHARTWELL INJECTABLE | Injectable; injection | Valid |
+| ANDA078687 | ENALAPRILAT | HIKMA FARMACEUTICA | Injectable; injection | Valid |
+| ANDA075456 | ENALAPRILAT | HOSPIRA | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA075458 | ENALAPRILAT | HOSPIRA | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -96,7 +101,7 @@ The prediction is supported only by a model score, with no clinical trials or li
 - Detailed mechanism of action data
 - Preclinical or literature evidence that ACE inhibition lowers intraocular pressure or affects the pathways involved in hereditary glaucoma
 - Assessment of route compatibility, since enalaprilat is injection-only and glaucoma treatment would typically need ocular or oral delivery
-- Clarification of current US marketing status, since both authorizations are cancelled
+- Clarification of current US marketing status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

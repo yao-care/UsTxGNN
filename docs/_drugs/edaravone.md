@@ -74,14 +74,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA209176 | RADICAVA | Injection | Not listed (valid) |
-| ANDA217565 | Edaravone (XGen Pharmaceuticals DJB) | Injection, solution | Not listed (valid) |
-| ANDA216199 | Edaravone (Gland Pharma) | Injection, solution | Not listed (valid) |
-| ANDA216902 | Edaravone (Sandoz) | Injection | Not listed (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA215508 | EDARAVONE | HIKMA | Solution; intravenous | Valid |
+| ANDA216199 | EDARAVONE | GLAND | Solution; intravenous | Valid |
+| ANDA216902 | EDARAVONE | SANDOZ | Solution; intravenous | Valid |
+| ANDA218349 | EDARAVONE | ZYDUS PHARMS | Solution; intravenous | Valid |
+| NDA215446 | RADICAVA ORS | SHIONOGI | Suspension; oral | Valid |
 
-All four authorizations are injectable products and all are currently cancelled.
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -94,7 +95,7 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model score (0.9947), with no clinical trials, no publications, and no direct mechanistic link between edaravone and the heparin cofactor 2 / thrombin axis. In addition, the drug is marketed in the US with all 4 of 4 authorizations valid, and package insert safety data could not be obtained.
+The prediction is supported only by the TxGNN model score (0.9947), with no clinical trials, no publications, and no direct mechanistic link between edaravone and the heparin cofactor 2 / thrombin axis. In addition, the drug is marketed in the US, and package insert safety data could not be obtained.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (obtained from the FDA website) to allow safety screening

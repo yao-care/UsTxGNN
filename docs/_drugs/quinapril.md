@@ -95,14 +95,15 @@ For the closest related prediction (pulmonary hypertension owing to lung disease
 
 ## US Market Information
 
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076803 | QUINAPRIL HYDROCHLORIDE | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA202725 | QUINAPRIL HYDROCHLORIDE | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+| ANDA205823 | QUINAPRIL HYDROCHLORIDE | PRINSTON | Tablet; oral | Valid |
+| ANDA076374 | QUINAPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE | CHARTWELL RX | Tablet; oral | Valid |
+| ANDA078450 | QUINAPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE | AUROBINDO PHARMA | Tablet; oral | Valid |
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA078457 (Cipla USA) | Quinapril | Tablet | Not available (cancelled) |
-| ANDA077690 (Lupin) | Quinapril | Tablet | Not available (cancelled) |
-| ANDA205823 (Solco Healthcare) | Quinapril | Tablet | Not available (cancelled) |
-| ANDA202725 (Aurobindo) | Quinapril | Tablet, film coated | Not available (cancelled) |
-| ANDA076803 (Chartwell RX) | Quinapril | Tablet, film coated | Not available (cancelled) |
+Showing 5 of 21 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 

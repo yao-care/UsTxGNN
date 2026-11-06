@@ -72,13 +72,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021287 | Uroxatral (Advanz Pharma (US) Corp.) | Extended-release tablet | Valid |
-| ANDA079013 | Alfuzosin Hydrochloride (Apotex Corp.) | Extended-release tablet | Valid |
-| ANDA079057 | Alfuzosin Hydrochloride (Northwind Health Company, LLC) | Extended-release tablet | Valid |
-| ANDA079060 | Alfuzosin Hydrochloride (Rising Pharma Holdings, Inc.) | Film-coated extended-release tablet | Valid |
-| ANDA090284 | Alfuzosin hydrochloride (Aphena Pharma Solutions - Tennessee, LLC) | Extended-release tablet | Valid |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA079013 | ALFUZOSIN HYDROCHLORIDE | APOTEX INC | Tablet, extended release; oral | Valid |
+| ANDA079060 | ALFUZOSIN HYDROCHLORIDE | AUROBINDO PHARMA LTD | Tablet, extended release; oral | Valid |
+| ANDA090284 | ALFUZOSIN HYDROCHLORIDE | INVAGEN PHARMS | Tablet, extended release; oral | Valid |
+| ANDA203192 | ALFUZOSIN HYDROCHLORIDE | UNICHEM | Tablet, extended release; oral | Valid |
+| NDA021287 | UROXATRAL | ADVANZ PHARMA | Tablet, extended release; oral | Valid |
+
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 Approved indication text was not available for any of them.
 

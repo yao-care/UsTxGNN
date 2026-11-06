@@ -50,8 +50,8 @@ but currently there are **0 registered clinical trials** and **1 publication** (
 | Predicted New Indication | Dermatofibrosarcoma protuberans |
 | TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 9 of 9) |
-| Number of FDA Applications | 9 (active: 9) |
+| US Market Status | Marketed (active FDA-approved applications: 9 of 10) |
+| Number of FDA Applications | 10 (active: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -84,7 +84,7 @@ Approved indication text was not available for any of them.
 | ANDA218532 | NILOTINIB HYDROCHLORIDE | TORRENT | Capsule; oral | Valid |
 | ANDA218544 | NILOTINIB HYDROCHLORIDE | MSN | Capsule; oral | Valid |
 
-Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Cytotoxicity
 

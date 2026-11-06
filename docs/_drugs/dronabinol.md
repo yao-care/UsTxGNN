@@ -76,14 +76,15 @@ The very high TxGNN score is a computational result only. It does not by itself 
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA018651 | Dronabinol (Major Pharmaceuticals) | Capsule | Not available (valid) |
-| ANDA078292 | Dronabinol (Rhodes Pharmaceuticals) | Capsule | Not available (valid) |
-| NDA205525 | SYNDROS (Benuvia Operations) | Solution | Not available (valid) |
-| ANDA207421 | Dronabinol (Camber Pharmaceuticals) | Capsule | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA207421 | DRONABINOL | ASCENT PHARMS INC | Capsule; oral | Valid |
+| NDA018651 | MARINOL | ALKEM LABS LTD | Capsule; oral | Valid |
+| ANDA078292 | DRONABINOL | RHODES | Capsule; oral | Discontinued in Drugs@FDA |
+| ANDA078501 | DRONABINOL | INSYS THERAP | Capsule; oral | Discontinued in Drugs@FDA |
+| ANDA079217 | DRONABINOL | HIKMA | Capsule; oral | Discontinued in Drugs@FDA |
 
-This list may be partial. Of the records listed, 2 are valid and 2 are cancelled.
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

@@ -72,9 +72,10 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA208078 (Cancelled) | Firdapse (Catalyst Pharmaceuticals, Inc.) | Tablet (oral) | Not listed in the data compiled for this report |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA217996 | AMIFAMPRIDINE PHOSPHATE | LUPIN | Tablet; oral | Valid |
+| NDA208078 | FIRDAPSE | CATALYST PHARMS | Tablet; oral | Valid |
 
 ## Safety Considerations
 
@@ -88,7 +89,7 @@ Currently no related literature available.
 **Decision: Hold**
 
 **Rationale:**
-The glaucoma prediction has a high model score but no clinical trials, no literature, and only a speculative mechanism (Evidence Level L5). The effect of potassium channel blockade on ocular tissue is unclear. The only US authorization on record is also cancelled.
+The glaucoma prediction has a high model score but no clinical trials, no literature, and only a speculative mechanism (Evidence Level L5). The effect of potassium channel blockade on ocular tissue is unclear.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are required for safety screening

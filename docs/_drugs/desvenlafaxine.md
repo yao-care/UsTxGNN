@@ -86,9 +86,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA204150 (Alembic Pharmaceuticals Limited, status: cancelled) | Desvenlafaxine | Extended-release tablet (oral) | Not listed in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA204003 | DESVENLAFAXINE SUCCINATE | ALEMBIC | Tablet, extended release; oral | Valid |
+| ANDA204020 | DESVENLAFAXINE SUCCINATE | ZYDUS PHARMS | Tablet, extended release; oral | Valid |
+| ANDA204028 | DESVENLAFAXINE SUCCINATE | RUBICON RESEARCH | Tablet, extended release; oral | Valid |
+| ANDA204065 | DESVENLAFAXINE SUCCINATE | ACTAVIS LABS FL | Tablet, extended release; oral | Valid |
+| ANDA204082 | Desvenlafaxine | Bryant Ranch Prepack | Tablet, film coated, extended release; oral | Valid |
+
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 
@@ -114,7 +120,7 @@ For reference, **dysthymic disorder** has much stronger support in the compiled 
 - Desvenlafaxine-specific OCD evidence, such as a pilot trial or a systematic review of SNRIs in OCD
 - Detailed mechanism of action data
 - FDA package insert warnings and contraindications to complete the safety screen
-- Clarification of the commercial and regulatory status of desvenlafaxine, given the cancelled license
+- Clarification of the commercial and regulatory status of desvenlafaxine
 - A safety plan addressing the interaction and comorbidity risks listed above
 ## Disclaimer
 

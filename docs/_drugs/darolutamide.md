@@ -91,9 +91,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212099 (cancelled) | NUBEQA (Bayer HealthCare Pharmaceuticals Inc.) | Film-coated tablet (oral) | Not available in the data compiled |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA212099 | NUBEQA | BAYER HEALTHCARE | Tablet; oral | Valid |
 
 ---
 
@@ -127,13 +127,12 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials, no literature, and no plausible mechanism linking androgen receptor antagonism to homozygous familial hypercholesterolemia. The US market status is also "Cancelled only", and the package insert safety data has not been obtained, which blocks safety screening.
+The prediction rests only on a model score, with no clinical trials, no literature, and no plausible mechanism linking androgen receptor antagonism to homozygous familial hypercholesterolemia. The package insert safety data has not been obtained, which blocks safety screening.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (for example, from DrugBank) to assess any biological link
 - Approved indication text, to confirm the original indication
-- Clarification of the cancelled NDA status
 - Preclinical or mechanistic evidence linking androgen receptor signalling to LDL receptor function or lipid metabolism before any clinical investigation
 - Review of the statin interactions if lipid-lowering use is ever pursued
 ## Disclaimer

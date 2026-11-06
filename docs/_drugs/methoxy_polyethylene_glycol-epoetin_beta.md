@@ -81,9 +81,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA 125164 (cancelled) | Mircera | Injection, solution | Not listed in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125164 | MIRCERA | HOFFMAN-LA ROCHE | Solution; injection | Valid |
 
 ## Safety Considerations
 
@@ -103,7 +103,7 @@ The prediction rests on a model score alone, with no clinical or literature supp
 - Mechanism of action data
 - Original approved indication text
 - Preclinical or mechanistic evidence for any predicted indication, with a prior safety review for the thrombotic and retinopathy candidates
-- Clarification of the regulatory and supply status given the cancelled license
+- Clarification of the regulatory and supply status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -94,11 +94,15 @@ None of the publications tests pentobarbital as a treatment for obesity. The tab
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA206404 (cancelled) | Pentobarbital sodium (Sagent Pharmaceuticals) | Injection, solution | Not listed |
-| ANDA203619 (cancelled) | Pentobarbital Sodium (Hikma Pharmaceuticals USA Inc., dba Leucadia Pharmaceuticals) | Injection, solution | Not listed |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA083246 | NEMBUTAL SODIUM | RISING | Injectable; injection | Valid |
+| ANDA203619 | PENTOBARBITAL SODIUM | HIKMA | Injectable; injection | Valid |
+| ANDA206404 | PENTOBARBITAL SODIUM | SAGENT PHARMS INC | Injectable; injection | Valid |
+| ANDA206677 | PENTOBARBITAL SODIUM | BPI LABS | Injectable; injection | Valid |
+| ANDA083239 | SODIUM PENTOBARBITAL | WYETH AYERST | Capsule; oral | Discontinued in Drugs@FDA |
 
+Showing 5 of 28 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 

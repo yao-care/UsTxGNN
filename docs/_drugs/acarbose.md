@@ -73,11 +73,15 @@ For reference, the literature retrieved for the lower-ranked prediction of pancr
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA090912 (cancelled) | Acarbose | Tablet | Not available |
-| ANDA202271 (cancelled) | Acarbose | Tablet | Not available |
-| ANDA078470 (cancelled) | Acarbose | Tablet | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077532 | ACARBOSE | WATSON LABS | Tablet; oral | Valid |
+| ANDA078441 | ACARBOSE | IMPAX LABS | Tablet; oral | Valid |
+| ANDA078470 | ACARBOSE | HIKMA | Tablet; oral | Valid |
+| ANDA090912 | ACARBOSE | STRIDES PHARMA | Tablet; oral | Valid |
+| ANDA091343 | ACARBOSE | SOMERSET THERAPS LLC | Tablet; oral | Valid |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

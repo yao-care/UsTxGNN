@@ -72,10 +72,10 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA216157 | OXBRYTA (Global Blood Therapeutics, a subsidiary of Pfizer) | Tablet, for suspension (oral) | Not listed; status: valid |
-| NDA213137 | OXBRYTA (Global Blood Therapeutics, a subsidiary of Pfizer) | Tablet, film coated (oral) | Not listed; status: valid |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA213137 | OXBRYTA | GLOBAL BLOOD THERAPS | Tablet; oral | Discontinued in Drugs@FDA |
+| NDA216157 | OXBRYTA | GLOBAL BLOOD THERAPS | Tablet, for suspension; oral | Discontinued in Drugs@FDA |
 
 Both authorizations are cancelled, so there is currently no actively marketed voxelotor product in the US. This limits the practical feasibility of any repurposing effort.
 

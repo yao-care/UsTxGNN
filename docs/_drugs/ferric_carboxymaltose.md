@@ -72,9 +72,12 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA203565 (cancelled) | Injectafer (American Regent, Inc.) | Injection, solution | Not recorded in the compiled data |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA212572 | FERRIC CARBOXYMALTOSE | MYLAN LABS LTD | Solution; intravenous | Valid |
+| ANDA217076 | FERRIC CARBOXYMALTOSE | MYLAN | Solution; intravenous | Valid |
+| ANDA217769 | FERRIC CARBOXYMALTOSE | MYLAN | Solution; intravenous | Valid |
+| NDA203565 | INJECTAFER | AM REGENT | Solution; intravenous | Valid |
 
 ## Safety Considerations
 

@@ -74,12 +74,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA074014 (cancelled) | Orudis (Allegis Pharmaceuticals, Inc.) | Capsule | Not available |
-| ANDA075679 (cancelled) | Ketoprofen (Mylan Pharmaceuticals Inc.) | Extended-release capsule | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA073516 | KETOPROFEN | TEVA | Capsule; oral | Valid |
+| ANDA074014 | KETOPROFEN | MISEMER | Capsule; oral | Valid |
+| ANDA075679 | KETOPROFEN | MYLAN | Capsule, extended release; oral | Valid |
+| ANDA073515 | KETOPROFEN | TEVA | Capsule; oral | Discontinued in Drugs@FDA |
+| ANDA073517 | KETOPROFEN | TEVA | Capsule; oral | Discontinued in Drugs@FDA |
 
-Both products are oral formulations, and neither has a currently valid license.
+Showing 5 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -106,7 +109,7 @@ The top prediction has no clinical trials, no literature, and no credible mechan
 - Detailed mechanism of action data (MOA)
 - Preclinical or mechanistic evidence for a link between COX inhibition and GDF5/BMP signaling or the disease phenotype
 - If a repurposing direction is pursued, consider the lower-ranked, mechanistically more plausible symptom-management candidates (spondyloarthropathy, juvenile arthritis) as research questions, supported by a literature and trial search for ketoprofen or NSAID-class evidence
-- A review of regulatory and commercial feasibility, given that the drug is currently marketed in the US (2 of 2 licenses valid)
+- A review of regulatory and commercial feasibility, given that the drug is currently marketed in the US
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -111,7 +111,7 @@ The top prediction has no clinical or literature support and no plausible mechan
 - FDA package insert warnings and contraindications
 - Any preclinical or clinical evidence in the predicted disease
 - If pursuing a more plausible direction (rheumatoid nodulosis, polyarticular JIA, spondyloarthropathy), evidence on whether tolmetin offers any advantage over current standard care
-- Confirmation of product availability, given that the drug is marketed with 2 valid licenses of 2
+- Confirmation of product availability, given that the drug is marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

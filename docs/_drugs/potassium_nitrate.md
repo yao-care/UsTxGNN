@@ -91,7 +91,7 @@ Please refer to the package insert for any further safety information. Label war
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials, no literature, no mechanism of action data and no recorded original indication. The biological rationale for treating meningococcal infection with a nitrate salt is implausible, and the drug is marketed in the US, with 2 valid licenses of 2.
+The prediction rests only on a model score, with no clinical trials, no literature, no mechanism of action data and no recorded original indication. The biological rationale for treating meningococcal infection with a nitrate salt is implausible, and the drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (for example, from DrugBank)

@@ -83,8 +83,6 @@ Currently no related clinical trials registered.
 | NDA213983 | Tivicay PD | Tablet, for suspension | Not available (status: valid) |
 | NDA204790 | Tivicay | Tablet, film coated | Not available (status: valid) |
 
-Both authorizations are held by ViiV Healthcare Company and are currently valid; the drug is marketed, with 2 valid licenses out of 2.
-
 ## Safety Considerations
 
 - **Drug Interactions**: The interaction screening completed and found **62 interacting drugs**. Of these, 20 are shown in the data compiled for this report. The main ones are:

@@ -110,7 +110,7 @@ The prediction is supported only by a model score, with no clinical trials, no l
 - Official package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data for lincomycin
 - A biological hypothesis connecting lincosamide pharmacology to immunoglobulin-driven hyperviscosity, followed by preclinical or observational evidence
-- Clarification of the current regulatory and supply status, since the drug is marketed in the US with 6 valid licenses of 6
+- Clarification of the current regulatory and supply status, since the drug is marketed in the US
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

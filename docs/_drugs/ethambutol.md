@@ -97,7 +97,7 @@ The only supporting evidence is a single case series on laryngeal tuberculosis, 
 - Detailed mechanism of action data
 - A clear case definition separating tuberculous epiglottitis from bacterial epiglottitis
 - Clinical data isolating ethambutol's contribution, beyond combination regimens
-- Clarification of the regulatory and market status, given that the drug is marketed with 3 valid US licenses out of 3
+- Clarification of the regulatory and market status, given that the drug is marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

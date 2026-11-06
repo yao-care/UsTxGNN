@@ -113,7 +113,7 @@ The package insert warnings and contraindications were not available for this re
 **Decision: Hold**
 
 **Rationale:**
-The top prediction (feline AIDS) is a veterinary indication with no clinical trials and no literature, so its evidence level is L5. Its score of 0.9992 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The related SIV prediction has only preclinical support (L4), and the third prediction has no identifiable mechanistic link. In addition, the drug is marketed in the US with 11 valid licenses out of 11, and the safety data are incomplete.
+The top prediction (feline AIDS) is a veterinary indication with no clinical trials and no literature, so its evidence level is L5. Its score of 0.9992 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The related SIV prediction has only preclinical support (L4), and the third prediction has no identifiable mechanistic link. In addition, the drug is marketed in the US, and the safety data are incomplete.
 
 **To proceed, the following is needed:**
 - FIV protease inhibition data for ritonavir (in vitro susceptibility and in vivo studies in cats)

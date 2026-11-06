@@ -2273,6 +2273,10 @@
    "sentence": "The indication is also non-human, and both US authorizations are cancelled, which limits any practical repurposing path.",
    "cut": ", and both US authorizations are cancelled",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 7 張，有效 7 張、停產 0 張；「已註銷」的說法與事實矛盾；只刪該子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "Both authorizations are held by ViiV Healthcare Company and are currently valid; the drug is marketed, with 2 valid licenses out of 2.",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 7 張，有效 7 張、停產 0 張；句子是許可張數與持有人的說法（「Both authorizations」「2 valid licenses out of 2」），總數與事實不符（checker 總數說法規則「N valid … of N」）；整句都是張數說法，整句刪（2026-11-06 逐句核對）"
   }
  ],
  "donepezil": [
@@ -2504,6 +2508,11 @@
    "sentence": "Five more licenses (all cancelled) are on file, covering tablets, film-coated tablets and additional injections.",
    "keep": true,
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 53 張，有效 26 張、停產 27 張；句子只說另有幾張已註銷，張數不超過事實的停產張數，不是「全部註銷」；保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "The drug is marketed in the US, with 10 valid licenses out of 10, and the mechanistic link is speculative.",
+   "cut": ", with 10 valid licenses out of 10",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 53 張，有效 26 張、停產 27 張；「N valid licences of N」的總數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
   }
  ],
  "griseofulvin": [
@@ -3337,6 +3346,11 @@
   {
    "sentence": "Both authorizations, held by Atland Pharmaceuticals, LLC, are cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 16 張，有效 2 張、停產 14 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；Atland 不在本藥的申請紀錄裡；本藥 16 張申請有 2 張有效；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "given that the drug is marketed with 2 valid licenses of 2",
+   "cut": " with 2 valid licenses of 2",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 16 張，有效 2 張、停產 14 張；「N valid licences of N」的總數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
   }
  ],
  "tolvaptan": [
@@ -3661,6 +3675,11 @@
   {
    "sentence": "One further licence (ANDA215082, Armas Pharmaceuticals, injection solution) is also cancelled.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 9 張，有效 6 張、停產 3 張；句子說全部（或唯一、或點名的）許可已註銷，與事實矛盾；ANDA215082 有效；整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "since the drug is marketed in the US with 6 valid licenses of 6",
+   "cut": " with 6 valid licenses of 6",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 9 張，有效 6 張、停產 3 張；「N valid licences of N」的總數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
   }
  ],
  "lisinopril": [
@@ -4324,6 +4343,27 @@
   {
    "sentence": "All 7 licenses are oral tablets.",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 21 張，有效 13 張、停產 8 張；句子的總數／張數說法與事實不符（checker 總數說法規則）；句子只有張數說法（或主詞就是錯的張數），整句刪（2026-11-06 逐句核對）"
+  }
+ ],
+ "ethambutol": [
+  {
+   "sentence": "given that the drug is marketed with 3 valid US licenses out of 3",
+   "cut": " with 3 valid US licenses out of 3",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 4 張，有效 3 張、停產 1 張；「N valid licences of N」的總數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
+  }
+ ],
+ "potassium_nitrate": [
+  {
+   "sentence": "and the drug is marketed in the US, with 2 valid licenses of 2.",
+   "cut": ", with 2 valid licenses of 2",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 0 張，有效 0 張、停產 0 張；「N valid licences of N」的總數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
+  }
+ ],
+ "ritonavir": [
+  {
+   "sentence": "In addition, the drug is marketed in the US with 11 valid licenses out of 11, and the safety data are incomplete.",
+   "cut": " with 11 valid licenses out of 11",
+   "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 26 張，有效 16 張、停產 10 張；「N valid licences of N」的總數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
   }
  ]
 }

@@ -54,6 +54,7 @@ def generate_capability_statement() -> dict:
         "url": f"{BASE_URL}/fhir/metadata",
         "version": "1.0.0",
         "name": "UsTxGNNFHIRServer",
+        "title": "UsTxGNN Drug Repurposing Reports - FHIR Server",
         "status": "active",
         "date": datetime.now().strftime("%Y-%m-%d"),
         "publisher": "UsTxGNN Project",

@@ -49,8 +49,8 @@ Currently there are **0 clinical trials** and **0 publications** supporting this
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 5) |
-| Number of FDA Applications | 0 |
+| US Market Status | Marketed (active FDA-approved applications: 10 of 11; OTC monograph / unapproved listings: 48) |
+| Number of FDA Applications | 11 (active: 10) |
 | Recommended Decision | Hold |
 
 Other predicted indications, all at evidence level L5 and Hold:
@@ -82,11 +82,13 @@ Currently no related literature available.
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
-| NDC 69968-0366 | Visine A.C. Itchy Eye Relief | Kenvue Brands LLC | Solution/ drops | NDC listing, no FDA application (OTC monograph drug) |
-| NDC 10742-8146 | Rohto All-In-One | The Mentholatum Company | Liquid | NDC listing, no FDA application (OTC monograph drug) |
-| NDC 69968-0360 | Visine Red Eye Total Comfort Multi-Symptom | Kenvue Brands LLC | Solution/ drops | NDC listing, no FDA application (OTC monograph drug) |
-| NDC 52747-620 | Concept OB | U.S. Pharmaceutical Corporation | Capsule | NDC listing, no FDA application (unapproved drug other) |
-| NDC 52747-621 | Concept DHA | U.S. Pharmaceutical Corporation | Capsule, liquid filled | NDC listing, no FDA application (unapproved drug other) |
+| ANDA214597 | ZINC SULFATE | NIVAGEN | Solution; intravenous | Valid |
+| ANDA216135 | ZINC SULFATE | SOMERSET THERAPS LLC | Solution; intravenous | Valid |
+| ANDA216145 | ZINC SULFATE | FRESENIUS KABI USA | Solution; intravenous | Valid |
+| ANDA216249 | ZINC SULFATE | GLAND | Solution; intravenous | Valid |
+| ANDA217074 | ZINC SULFATE | ZYDUS PHARMS | Solution; intravenous | Valid |
+
+Showing 5 of 59 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

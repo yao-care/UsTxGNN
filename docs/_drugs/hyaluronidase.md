@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Hyaluronidase is an enzyme that breaks down hyaluronan. It is used mainly to help other injected drugs spread through tissue, and it is part of several subcutaneous biologic formulations.
+Hyaluronidase is an enzyme that breaks down hyaluronan. It is used mainly to help other injected drugs spread through tissue.
 The TxGNN model's top-ranked prediction is esotropia, but the best-supported direction is **Diabetic Retinopathy** (ranked 6th), where **3 clinical trials** (including 2 completed Phase 3 trials) and **18 publications** exist.
 Most of the other top-10 predictions have little or no supporting evidence.
 
@@ -54,8 +54,8 @@ The top-ranked prediction (esotropia) has no supporting evidence. This report th
 | Predicted New Indication | Esotropia |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | Esotropia L5 (adverse-event reports only); diabetic retinopathy L5 (nominal, outcomes unverified) |
-| US Market Status | Marketed (active FDA-approved applications: 13 of 14; OTC monograph / unapproved listings: 6) |
-| Number of FDA Applications | 14 (active: 13) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 3; OTC monograph / unapproved listings: 6) |
+| Number of FDA Applications | 3 (active: 2) |
 | Recommended Decision | Hold (esotropia); Hold, with a research question for diabetic retinopathy |
 
 ---
@@ -121,17 +121,17 @@ Other predictions:
 
 ## US Market Information
 
-The indication text is not recorded for any of them. Most of the products are subcutaneous biologic formulations in which hyaluronidase is a component.
+The indication text is not recorded for any of them.
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA021640 | VITRASE | BAUSCH AND LOMB | Injectable; injection | Valid |
 | BLA021665 | AMPHADASE | AMPHASTAR PHARM | Injectable; injection | Valid |
-| BLA761064 | RITUXAN HYCELA | GENENTECH INC | Solution; subcutaneous | Valid |
-| BLA761106 | HERCEPTIN HYLECTA | GENENTECH INC | Injectable; subcutaneous | Valid |
-| BLA761145 | DARZALEX FASPRO | JANSSEN BIOTECH | Injectable; injection | Valid |
+| BLA021716 | HYDASE | AKORN INC | Injectable; injection | Discontinued in Drugs@FDA |
+| NDC 43742-2223 | Pest and Dustmite Formula | Deseret Biologicals, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 43742-1548 | Pest and Dustmite Formula | Deseret Biologicals, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
 
-Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 

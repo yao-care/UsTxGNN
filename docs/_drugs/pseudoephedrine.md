@@ -52,8 +52,8 @@ This is largely an extension of existing use rather than a true repurposing.
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 57 of 128; OTC monograph / unapproved listings: 83) |
-| Number of FDA Applications | 128 (active: 57) |
+| US Market Status | Marketed (active FDA-approved applications: 57 of 129; OTC monograph / unapproved listings: 83) |
+| Number of FDA Applications | 129 (active: 57) |
 | Recommended Decision | Hold |
 
 ---
@@ -114,7 +114,7 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The top prediction (nasal cavity disease) is biologically plausible but overlaps with existing indications, so it adds little new value. Evidence is limited to preclinical models, one review and one comparative clinical study, with no registered trials. The drug is marketed in the US with 3 valid licenses, and label safety data are missing. The other prediction (urticaria) lacks supporting evidence.
+The top prediction (nasal cavity disease) is biologically plausible but overlaps with existing indications, so it adds little new value. Evidence is limited to preclinical models, one review and one comparative clinical study, with no registered trials. The drug is marketed in the US, and label safety data are missing. The other prediction (urticaria) lacks supporting evidence.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (safety screening cannot proceed without them)

@@ -68,7 +68,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-Fifteen US licences are recorded as valid, and the list may be partial. All are single-ingredient generic products (ANDA). The five shown below are examples, and approved-indication text is not recorded in the local data.
+Fifteen US licences are recorded as valid, and the list may be partial. All are generic products (ANDA). The five shown below are examples, and approved-indication text is not recorded in the local data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

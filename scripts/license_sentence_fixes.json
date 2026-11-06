@@ -5732,5 +5732,25 @@
    "cut": " with 1 valid license",
    "reason": "依成分重建後（Drugs@FDA／NDC 2026-11-06）本藥 FDA 申請 0 張，有效 0 張；句中的有效張數（1 張）與事實不符，只刪張數子句（刪完失去指涉的代名詞片段一併刪），其餘保留（2026-11-06 用戶決定）"
   }
+ ],
+ "dexamethasone": [
+  {
+   "sentence": "All are single-ingredient generic products (ANDA).",
+   "cut": "single-ingredient ",
+   "reason": "依 Drugs@FDA／NDC 的 active ingredients（修正後依成分數判單方／複方）本藥 FDA 有效申請 65 張，其中單方 48 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "lidocaine": [
+  {
+   "sentence": "All are single-ingredient products.",
+   "reason": "依 Drugs@FDA／NDC 的 active ingredients（修正後依成分數判單方／複方）本藥 FDA 有效申請 93 張，其中單方 76 張；句子說全部是單方，與事實不符，刪掉「單方」後句子沒有內容，整句刪（2026-11-06 用戶決定：單方／複方說法只刪錯的詞或子句）"
+  }
+ ],
+ "thiamine": [
+  {
+   "sentence": "All are single-ingredient injectable products.",
+   "cut": "single-ingredient ",
+   "reason": "依 Drugs@FDA／NDC 的 active ingredients（修正後依成分數判單方／複方）本藥 FDA 有效申請 18 張，其中單方 12 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
  ]
 }

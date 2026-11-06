@@ -92,7 +92,7 @@ The only literature in the compiled data concerns open-angle glaucoma, the third
 
 ## US Market Information
 
-The compiled data list at least 11 records, and the list may be partial. None includes approved indication text. All are single-ingredient injectable products.
+The compiled data list at least 11 records, and the list may be partial. None includes approved indication text. All are injectable products.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

@@ -121,7 +121,7 @@ class DrugEvidencePackGenerator:
             if not lid or lid in seen:
                 continue
             seen.add(lid)
-            ings = [i for i in (r.get("ingredients") or r.get("主成分略述") or "").split(";;") if i.strip()]
+            ings = [i for i in re.split(r";;?", r.get("ingredients") or r.get("主成分略述") or "") if i.strip()]  # 2026-11-06：Drugs@FDA／NDC active_ingredients 以「; 」分隔，成分數＞1 是複方（原本只認「;;」，一律算成單方）
             status = r.get("license_status") or ("cancelled" if _CANCELLED.search(str(r.get("status") or "") + str(r.get("registration_status") or "") + str(r.get("註銷狀態") or "")) else "valid")
             # 2026-10-21：沒有狀態欄、但有效期已過（Tw 795 筆空白狀態）→ 視為過期失效
             _exp = re.sub(r"[^0-9]", "", str(r.get("expiry_date") or r.get("有效日期") or ""))[:8]

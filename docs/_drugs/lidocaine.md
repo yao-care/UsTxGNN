@@ -107,7 +107,7 @@ For reference, the following papers relate to lower-ranked ocular predictions. N
 
 ## US Market Information
 
-Nine US licences are listed; the list may be partial. All are single-ingredient products. No approved indication text was available in the licence records.
+Nine US licences are listed; the list may be partial. No approved indication text was available in the licence records.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

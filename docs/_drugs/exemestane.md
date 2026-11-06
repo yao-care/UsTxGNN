@@ -86,7 +86,7 @@ Currently no related clinical trials registered.
 | ANDA216454 | Exemestane (NorthStar Rx) | Film-coated tablet | Not available |
 | ANDA213547 | Exemestane (Florida Pharmaceutical Products) | Film-coated tablet | Not available |
 
-All 7 listings are cancelled. Two further ANDAs (Zydus, Breckenridge) are not shown above.
+Two further ANDAs (Zydus, Breckenridge) are not shown above.
 
 ## Cytotoxicity
 

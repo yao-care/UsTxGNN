@@ -124,7 +124,7 @@ The package insert warnings and contraindications were not available in the comp
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Several completed Phase 3 placebo-controlled adjunctive trials (n=1200, 1151 and others), the large VAST-D trial and multiple meta-analyses support aripiprazole as an adjunct in MDD, which gives evidence level L1. Safety concerns (metabolic effects, akathisia, impulse control) and the cancelled US license status call for guardrails.
+Several completed Phase 3 placebo-controlled adjunctive trials (n=1200, 1151 and others), the large VAST-D trial and multiple meta-analyses support aripiprazole as an adjunct in MDD, which gives evidence level L1. Safety concerns (metabolic effects, akathisia, impulse control) call for guardrails.
 
 **To proceed, the following is needed:**
 - Obtain the FDA package insert warnings and contraindications. This blocks the safety screening step.

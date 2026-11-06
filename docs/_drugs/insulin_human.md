@@ -94,7 +94,7 @@ Currently no related literature available.
 | BLA019717 | Humulin (Eli Lilly and Company) | Injection, suspension | Not recorded; status valid |
 | BLA022472 | AFREZZA (Mannkind Corporation) | Powder, metered | Not recorded; status valid |
 
-The compiled data lists 8 authorizations in total, all with cancelled status. Only the first 5 are shown above. The other three are Novolin (BLA019938 and BLA019991, Novo Nordisk) and MYXREDLIN (BLA208157, Baxter Healthcare Corporation).
+Only the first 5 are shown above. The other three are Novolin (BLA019938 and BLA019991, Novo Nordisk) and MYXREDLIN (BLA208157, Baxter Healthcare Corporation).
 
 ## Safety Considerations
 

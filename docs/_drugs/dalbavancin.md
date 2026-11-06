@@ -105,7 +105,7 @@ Please refer to the package insert for warnings and contraindications, which are
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature (L5), and the mechanistic link is speculative because postinfectious vasculitis is immune-mediated rather than an active bacterial infection. The US license records are all cancelled, and the package insert safety data are missing.
+The prediction has no supporting trials or literature (L5), and the mechanistic link is speculative because postinfectious vasculitis is immune-mediated rather than an active bacterial infection. The package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

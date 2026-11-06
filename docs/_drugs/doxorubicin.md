@@ -133,12 +133,12 @@ Package insert warnings and contraindications were not available in the compiled
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Doxorubicin is already a component of standard Ewing sarcoma regimens, supported by multiple randomized Phase 3 trials and RCT publications. However, those trials mostly test the regimen or an added agent rather than doxorubicin on its own, and all US listings are cancelled.
+Doxorubicin is already a component of standard Ewing sarcoma regimens, supported by multiple randomized Phase 3 trials and RCT publications. However, those trials mostly test the regimen or an added agent rather than doxorubicin on its own.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap)
 - Mechanism of action data from DrugBank
-- Confirmation of current US availability, since all 12 listings are cancelled
+- Confirmation of current US availability
 - A cardiac monitoring plan with cumulative-dose limits and dexrazoxane use, especially in children and young adults
 - Review of major drug interactions, particularly QT-prolonging agents
 

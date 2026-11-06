@@ -96,7 +96,7 @@ The prediction rests on model score alone. There are no clinical trials and no r
 - Detailed mechanism of action data (MOA)
 - Preclinical or mechanistic evidence showing that terminal complement activity contributes to cyclic hematopoiesis or neutropenia pathology
 - Targeted literature and trial searches by disease rather than by drug name
-- Clarification of the cancelled status of all three US licenses and the current marketing situation
+- Clarification of the current marketing situation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -111,7 +111,7 @@ The prediction has only a model score (L5) behind it, with no clinical trials or
 - A systematic search of clinical trials and literature for rufinamide in FIRES and the other predicted epilepsy syndromes
 - Detailed mechanism-of-action data, and an assessment of whether sodium channel modulation is relevant to neuroinflammatory epilepsy
 - The package insert warnings and contraindications, for a formal safety screen
-- Clarification of the cancelled US license status and the commercial availability of rufinamide
+- Clarification of the commercial availability of rufinamide
 - A seizure-aggravation risk review for the absence-type and atypical epilepsy predictions
 ## Disclaimer
 

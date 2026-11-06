@@ -81,7 +81,7 @@ Currently no related clinical trials registered.
 | ANDA205868 | Lansoprazole (Preferred Pharmaceuticals) | Delayed-release capsule | Not available (status: valid) |
 | ANDA207394 | Lansoprazole (Medcore) | Delayed-release capsule | Not available (status: valid) |
 
-Five more authorizations (all cancelled, 10 in total) are on record and not listed here.
+Five more authorizations (all cancelled) are on record and not listed here.
 
 ## Safety Considerations
 
@@ -101,7 +101,7 @@ Mechanistically, acid suppression would at best relieve symptoms rather than tre
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (for example, from DrugBank)
 - A targeted literature search on PPIs in bile or duodenogastric reflux, and a check of trial registries
-- Confirmation of the current US marketing status of lansoprazole products, since all 10 records are marked cancelled
+- Confirmation of the current US marketing status of lansoprazole products
 - Assessment of route and formulation compatibility, which is still pending
 ## Disclaimer
 

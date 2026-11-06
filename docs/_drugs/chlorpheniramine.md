@@ -78,13 +78,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-They are single-ingredient products with no indication text recorded.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040829 | CHLORPHENIRAMINE MALEATE | AVANTHI INC | Tablet, extended release; oral | Valid |
+| ANDA091632 | HYDROCODONE POLISTIREX AND CHLORPHENIRAMINE POLISTIREX | TRIS PHARMA INC | Suspension, extended release; oral | Valid |
+| NDA206323 | TUXARIN ER | MAINPOINTE | Tablet, extended release; oral | Valid |
+| NDA021441 | ADVIL ALLERGY SINUS | HALEON US HOLDINGS | Tablet; oral | Valid |
+| NDA021587 | CHILDREN'S ADVIL ALLERGY SINUS | HALEON US HOLDINGS | Suspension; oral | Valid |
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA040829 | Chlorphen-12 | Extended-release film-coated tablet | Not recorded in the local data |
-| M012 | Pharbechlor | Tablet | Not recorded in the local data |
-| nan | ED CHLORPED JR | Liquid | Not recorded in the local data |
+Showing 5 of 337 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

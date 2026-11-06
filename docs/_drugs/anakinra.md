@@ -74,7 +74,7 @@ Currently no related literature available.
 |---------|------|------|-----------|
 | BLA103950 | Kineret | Injection, solution | Not recorded in the local data |
 
-The available record lists one authorization, and it is marked as cancelled in the licence details, while the overall market status is reported as marketed. The status should be verified against current FDA listings.
+The status should be verified against current FDA listings.
 
 ## Safety Considerations
 

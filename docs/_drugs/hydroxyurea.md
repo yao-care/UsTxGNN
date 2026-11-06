@@ -101,7 +101,7 @@ Several other retrieved papers are only loosely related, such as cervical cancer
 | ANDA075340 | Hydroxyurea | Capsule | Endo USA, Inc. | Valid |
 | ANDA075143 | Hydroxyurea | Capsule | AvKARE | Valid |
 
-Two further generic capsule authorizations (ANDA218021, ANDA213438) are also cancelled. Approved-indication text is not available for these entries.
+Approved-indication text is not available for these entries.
 
 ---
 

@@ -89,8 +89,6 @@ Currently no related clinical trials registered.
 |---------|------|------|-----------|
 | Not recorded | Acidum Benzoicum (Hahnemann Laboratories, INC.) | Pellet | Not recorded |
 
-The one record on file is a single-ingredient product whose status is listed as cancelled.
-
 ---
 
 ## Safety Considerations

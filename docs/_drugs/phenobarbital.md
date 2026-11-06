@@ -105,7 +105,7 @@ No literature was found for orgasm-induced seizures or beta-ketothiolase deficie
 |---------|------|------|-----------|
 | Not available | Phenobarbital (WINDER LABORATORIES, LLC) | Tablet | Not available (license status: cancelled) |
 
-Phenobarbital is also recorded in oral tablet, injection and solution forms. The only US license in the compiled data is cancelled.
+Phenobarbital is also recorded in oral tablet, injection and solution forms.
 
 ---
 
@@ -139,7 +139,7 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, trigeminal nerve neoplasm, has no clinical trials, no relevant literature and no plausible mechanism (Evidence Level L5). The score looks like a TxGNN model (deep learning) artifact. Among the other predictions, the seizure-related ones have plausible mechanisms but only indirect evidence (L4), and trigeminal neuralgia is better served by established agents such as carbamazepine. The US licence is cancelled and the safety profile is substantial (many contraindications, strong CYP induction, neurodevelopmental concerns).
+The top prediction, trigeminal nerve neoplasm, has no clinical trials, no relevant literature and no plausible mechanism (Evidence Level L5). The score looks like a TxGNN model (deep learning) artifact. Among the other predictions, the seizure-related ones have plausible mechanisms but only indirect evidence (L4), and trigeminal neuralgia is better served by established agents such as carbamazepine. The safety profile is substantial (many contraindications, strong CYP induction, neurodevelopmental concerns).
 
 **To proceed, the following is needed:**
 - Re-prioritise away from trigeminal nerve neoplasm. Consider the seizure-related and trigeminal neuralgia predictions as research questions instead.

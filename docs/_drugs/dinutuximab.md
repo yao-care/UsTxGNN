@@ -105,7 +105,7 @@ Please refer to the package insert for warnings and contraindications. Label-bas
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction has no supporting trials or literature and no plausible mechanistic link to GD2 targeting. The high TxGNN score is a model output only. In addition, the only US license for dinutuximab is listed as cancelled, and label-based safety data is missing.
+The top-ranked prediction has no supporting trials or literature and no plausible mechanistic link to GD2 targeting. The high TxGNN score is a model output only. In addition, label-based safety data is missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, since safety screening cannot proceed without them

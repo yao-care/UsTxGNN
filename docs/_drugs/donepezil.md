@@ -93,7 +93,7 @@ Other predictions with relevant publications:
 
 ## US Market Information
 
-All 13 licenses in the data compiled for this report are cancelled. Approved indication text was not available. Main entries:
+Approved indication text was not available. Main entries:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

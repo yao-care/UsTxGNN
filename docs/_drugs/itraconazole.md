@@ -122,7 +122,7 @@ The TxGNN score is high, but there are no registered clinical trials and no lite
 - Mechanism-of-action data for itraconazole
 - US package insert warnings and contraindications for a safety screen, given the cardiac, hepatic and interaction concerns above
 - Comparison against established Pneumocystis therapy and prophylaxis (e.g. trimethoprim-sulfamethoxazole)
-- Review of the cancelled US market status and route compatibility
+- Review of route compatibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

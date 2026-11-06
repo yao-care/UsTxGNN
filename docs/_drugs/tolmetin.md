@@ -90,8 +90,6 @@ Currently no related literature available.
 | ANDA074473 | Tolmetin Sodium | Tablet, film coated (oral) | Not available (valid) |
 | ANDA073393 | Tolmetin Sodium | Capsule (oral) | Not available (valid) |
 
-Both authorizations, held by Atland Pharmaceuticals, LLC, are cancelled.
-
 ## Safety Considerations
 
 - **Contraindication-related conditions (from the knowledge graph, not label text)**: hypertension and hypertensive disorder, liver failure and liver disease, kidney disease, gallbladder disease, peptic ulcer disease (including active), blood coagulation disease, myocardial infarction, coronary thrombosis, cardiovascular and heart disease, hemoglobinopathy, pyoureter.

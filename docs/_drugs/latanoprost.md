@@ -83,8 +83,6 @@ No approved-indication text was available for any of them.
 | ANDA201786 | Latanoprost (Somerset Therapeutics) | Solution/drops | Valid |
 | NDA020597 | Latanoprost (Mylan Pharmaceuticals) | Solution | Valid |
 
-Other cancelled authorizations include NDA216472 (IYUZEH, Thea Pharma) and NDA206185 (XELPROS, Sun Pharmaceutical), plus three further ANDAs.
-
 ## Safety Considerations
 
 - **Disease associations flagged in the knowledge graph (not label text):** uveitis, iris disease, ciliary body disease, panuveitis, macular retinal edema, cystoid macular edema, iritis, conjunctivitis, and acute contagious conjunctivitis. These should be treated as potential cautions or contraindications for use in patients with such conditions.

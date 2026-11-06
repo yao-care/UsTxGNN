@@ -90,11 +90,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA075153 | Leader 12 Hour Sinus Nasal Decongestant (Cardinal Health) | Film-coated extended-release tablet | Not available (valid) |
-| M012 | Nasal Decongestant (CVS Pharmacy) | Film-coated tablet | Not available (valid) |
-| ANDA077442 | Pseudoephedrine Hydrochloride (Publix Super Markets) | Film-coated extended-release tablet | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075153 | PSEUDOEPHEDRINE HYDROCHLORIDE | L PERRIGO CO | Tablet, extended release; oral | Valid |
+| ANDA077442 | PSEUDOEPHEDRINE HYDROCHLORIDE | SUN PHARM INDS LTD | Tablet, extended release; oral | Valid |
+| ANDA209008 | PSEUDOEPHEDRINE HYDROCHLORIDE | AUROBINDO PHARMA | Tablet, extended release; oral | Valid |
+| ANDA218854 | PSEUDOEPHEDRINE HYDROCHLORIDE | AUROBINDO PHARMA LTD | Tablet, extended release; oral | Valid |
+| ANDA075706 | LORATADINE AND PSEUDOEPHEDRINE SULFATE | P AND L | Tablet, extended release; oral | Valid |
+
+Showing 5 of 212 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 All listed forms are oral.
 

@@ -93,7 +93,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a high model score. There are no clinical trials or publications, the mechanism link to amenorrhea is speculative, and the drug's US license is listed as cancelled. Safety label data is also missing, and the class-level reproductive concerns make the direction of effect uncertain.
+The prediction is supported only by a high model score. There are no clinical trials or publications, the mechanism link to amenorrhea is speculative. Safety label data is also missing, and the class-level reproductive concerns make the direction of effect uncertain.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (FDA label), which are required before safety screening

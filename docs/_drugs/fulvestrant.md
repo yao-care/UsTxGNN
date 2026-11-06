@@ -75,7 +75,7 @@ Currently no related clinical trials registered for HIV infectious disease.
 
 ## US Market Information
 
-The data compiled for this report list 12 US authorizations, all cancelled. Approved indication text was not available.
+Approved indication text was not available.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|

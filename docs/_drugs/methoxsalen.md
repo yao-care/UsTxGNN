@@ -79,7 +79,6 @@ No literature was found for localized pagetoid reticulosis itself. For the secon
 | NDA020969 | UVADEX (Therakos LLC) | Injection, solution | Not listed (valid) |
 | ANDA202687 | Methoxsalen (Strides Pharma Science Limited) | Capsule, liquid filled | Not listed (valid) |
 
-
 ## Safety Considerations
 
 Package insert warnings and contraindications were not available. The following come from knowledge-graph contraindication links and drug interaction screening.
@@ -111,7 +110,7 @@ The prediction is mechanistically plausible because it lies within the cutaneous
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - A targeted literature search for PUVA in localized pagetoid reticulosis or mycosis fungoides (case series, guidelines)
-- Review of the regulatory pathway, since both US authorizations are cancelled
+- Review of the regulatory pathway
 - Assessment of long-term PUVA risks, particularly photocarcinogenicity, in the target population
 ## Disclaimer
 

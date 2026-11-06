@@ -88,7 +88,6 @@ The prediction is supported only by a model score from the TxGNN model (deep lea
 - FDA package insert warnings and contraindications (blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - A literature and trial search specific to ACE inhibitors in malignant hypertensive nephropathy
-- Clarification of the cancelled US market status, including whether the cancellations are commercial or safety-related
 - Assessment of renal safety, especially in renal artery stenosis, and hyperkalaemia monitoring
 ## Disclaimer
 

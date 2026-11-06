@@ -82,8 +82,6 @@ All 10 authorizations below are listed as valid. No approved indication text was
 | ANDA209437 | Icosapent Ethyl | Capsule | Apotex Corp | Valid |
 | ANDA209499 | Icosapent Ethyl | Capsule | Dr. Reddy's Laboratories, Inc. | Valid |
 
-Five further authorizations (ANDA216811, ANDA217656, ANDA217844, ANDA218899, ANDA217919) are also cancelled.
-
 ## Safety Considerations
 
 Please refer to the package insert for safety information.

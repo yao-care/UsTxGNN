@@ -99,7 +99,7 @@ The prediction is mechanistically plausible but has no registered trials and onl
 - The full text of the two reflux publications, to confirm actual outcomes
 - A controlled trial in duodenogastric reflux with clear endpoints
 - Official package insert warnings and contraindications, and detailed mechanism-of-action data
-- Clarification of current US marketing status, since all listings in the data compiled are cancelled
+- Clarification of current US marketing status
 - Renal function and gastric cancer considerations in trial design
 
 It largely overlaps famotidine's existing uses, and famotidine was inferior to pantoprazole for preventing recurrent aspirin-related ulcers.

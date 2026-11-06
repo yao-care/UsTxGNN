@@ -99,7 +99,7 @@ The prediction has no clinical trials, no literature, and no identifiable mechan
 - Preclinical or mechanistic studies in a relevant model
 - Package insert warnings and contraindications, which are missing from the compiled data
 - Detailed mechanism of action data from DrugBank
-- Clarification of the regulatory status of the cancelled US authorizations
+- Clarification of the regulatory status
 
 **Note:** Among the other predictions for this drug, **insomnia** has the strongest support. It has a Phase 3, double-blind, placebo-controlled pediatric trial ([NCT06953869](https://clinicaltrials.gov/study/NCT06953869), 420 participants, currently recruiting, no results yet) and a clear mechanistic link through circadian sleep regulation. It would be a more suitable candidate for a dedicated evaluation than the indication assessed here.
 ## Disclaimer

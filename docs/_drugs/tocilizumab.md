@@ -134,7 +134,7 @@ The IL-6 rationale for ankylosing spondylitis is plausible, but both dedicated P
 - Review of the BUILDER-1/2 results and the reasons for termination to determine whether it reflected lack of efficacy or feasibility
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (MOA)
-- Verification of the US license status, since all six BLAs show as cancelled
+- Verification of the US license status
 - If pursuing a different direction, a dedicated plan for polyarticular JIA (guardrails: monitor infections, neutrophil counts, liver enzymes and lipids; screen for tuberculosis) or a prospective study in rheumatoid vasculitis
 ## Disclaimer
 

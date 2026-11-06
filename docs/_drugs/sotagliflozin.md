@@ -85,7 +85,7 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical, literature, or mechanistic support (Evidence Level L5). The biology of opsismodysplasia (*INPPL1*/SHIP2 deficiency) has no known connection to SGLT1/SGLT2 inhibition. The only US authorization is also listed as cancelled.
+The prediction has no clinical, literature, or mechanistic support (Evidence Level L5). The biology of opsismodysplasia (*INPPL1*/SHIP2 deficiency) has no known connection to SGLT1/SGLT2 inhibition.
 
 **To proceed, the following is needed:**
 - Preclinical evidence, such as cell or animal models, showing that SGLT inhibition affects the SHIP2/INPPL1 pathway or skeletal development

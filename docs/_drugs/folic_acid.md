@@ -93,8 +93,6 @@ None of the retrieved publications tests folic acid in biotin metabolic disease.
 | ANDA202437 | Folic Acid (Cadila Pharmaceuticals) | Tablet | Not recorded |
 | NDA216395 | Folic Acid (Ayurax) | Solution | Not recorded |
 
-Three further cancelled authorizations are not listed here: two injection solutions (ANDA089202, Fresenius Kabi; ANDA202522, XGen) and one tablet (ANDA204418, Sunrise Pharmaceutical).
-
 ## Safety Considerations
 
 No package insert warnings or contraindications are available in the data compiled for this report.
@@ -116,7 +114,7 @@ The prediction is supported only by a model score and general vitamin reviews. T
 - Mechanism of action data (for example from DrugBank)
 - A clear definition of which biotin-related disorder is meant (biotinidase deficiency, holocarboxylase synthetase deficiency, or another) and a mechanistic case for any role of folic acid
 - Preclinical or clinical evidence specific to folic acid in biotin metabolic disease
-- Clarification of the cancelled US market status and the route and formulation to be used
+- Clarification of the route and formulation to be used
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -116,14 +116,14 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The biological rationale (TNF-alpha blockade) is plausible, but there is no direct clinical evidence for golimumab in rheumatoid vasculitis. The only registered trial is unrelated, and the literature consists of reviews and case reports. Anti-TNF-associated vasculitis has also been reported. The market status is "Cancelled only".
+The biological rationale (TNF-alpha blockade) is plausible, but there is no direct clinical evidence for golimumab in rheumatoid vasculitis. The only registered trial is unrelated, and the literature consists of reviews and case reports. Anti-TNF-associated vasculitis has also been reported.
 
 **To proceed, the following is needed:**
 - Direct clinical data, such as case series, observational studies or trials of golimumab (or anti-TNF agents) in rheumatoid vasculitis
 - Mechanism of action data and a clearer account of the link to rheumatoid arthritis pathology
 - Package insert warnings and contraindications, to allow a safety screen
 - A safety assessment of paradoxical vasculitis under anti-TNF therapy
-- Confirmation of current US regulatory and product availability, given the cancelled licenses
+- Confirmation of current US regulatory and product availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

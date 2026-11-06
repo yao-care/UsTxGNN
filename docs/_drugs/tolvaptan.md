@@ -90,8 +90,6 @@ Currently no related clinical trials registered for this predicted indication.
 | ANDA216949 | Tolvaptan (Novadoz) | Tablet | Not available (status: valid) |
 | ANDA207605 | Tolvaptan (Apotex) | Tablet | Not available (status: valid) |
 
-Three more generic ANDAs (Camber, Ascend and Lupin) are also listed, all with cancelled status.
-
 ## Safety Considerations
 
 - **Contraindications flagged in the knowledge graph** (not taken from label text): liver failure, cirrhosis of liver, substance abuse/dependence, active peptic ulcer disease, demyelinating disease.

@@ -111,7 +111,6 @@ The top prediction (feline AIDS) has no clinical or literature support, and its 
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - In vitro activity data of etravirine against FIV reverse transcriptase before any further consideration
-- Confirmation of why the US licenses were cancelled (commercial or safety reasons)
 - If an HIV-related extension is of interest, controlled efficacy data for the perinatal and pediatric setting
 ## Disclaimer
 

@@ -80,7 +80,7 @@ Currently no related literature available.
 | NDA208470 | Intrarosa (Millicent US, Inc.) | Insert | Status: valid |
 | Not available | DHEA (Deseret Biologicals, Inc.) | Liquid | Status: cancelled |
 
-Pharmacology data indicate that prasterone (Intrarosa) was FDA approved for moderate to severe pain during sexual intercourse (dyspareunia) as a symptom of vulvar and vaginal atrophy in women. Both authorizations are now cancelled.
+Pharmacology data indicate that prasterone (Intrarosa) was FDA approved for moderate to severe pain during sexual intercourse (dyspareunia) as a symptom of vulvar and vaginal atrophy in women.
 
 ## Safety Considerations
 
@@ -94,7 +94,7 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no trials, no literature, and no plausible mechanism. The coagulation-related predictions also raise a safety concern, since sex-steroid precursors may increase rather than reduce thrombotic risk. Both US authorizations are cancelled.
+The prediction rests only on a model score, with no trials, no literature, and no plausible mechanism. The coagulation-related predictions also raise a safety concern, since sex-steroid precursors may increase rather than reduce thrombotic risk.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (FDA label)

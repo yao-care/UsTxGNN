@@ -111,7 +111,7 @@ No literature is available for the other four predicted indications.
 
 ## US Market Information
 
-All 13 listings are cancelled, and none has approved indication text in the compiled data. The five main listings are:
+The five main listings are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -145,7 +145,7 @@ Please refer to the package insert for key warnings and formal contraindications
 **Decision: Hold**
 
 **Rationale:**
-The strongest signal is for PDPH, a secondary headache: one completed Phase 3 trial (n=90), two completed RCT-type studies, and a 2025 meta-analysis. The trials are small, mostly single-center, mostly labeled NA, and the Phase 3 trial used an active comparator, so evidence is rated L2. Migraine has only one ongoing trial without results. The highest-scoring prediction, nephrogenic SIAD, has no evidence and a mechanism that conflicts with its cause. All US listings are cancelled, and the label safety data are missing.
+The strongest signal is for PDPH, a secondary headache: one completed Phase 3 trial (n=90), two completed RCT-type studies, and a 2025 meta-analysis. The trials are small, mostly single-center, mostly labeled NA, and the Phase 3 trial used an active comparator, so evidence is rated L2. Migraine has only one ongoing trial without results. The highest-scoring prediction, nephrogenic SIAD, has no evidence and a mechanism that conflicts with its cause. The label safety data are missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking data gap), and the approved indications

@@ -90,8 +90,6 @@ Currently no related literature available.
 | ANDA091276 | Indomethacin | Capsule | DIRECT RX | Valid |
 | NDA018829 | Indomethacin | Capsule | Chartwell RX, LLC | Valid |
 
-Two further cancelled entries (ANDA079175, extended-release capsule; ANDA216184, suppository) are not shown.
-
 ---
 
 ## Safety Considerations
@@ -110,7 +108,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for brachydactyly-syndactyly syndrome rests only on a model score, with no trials, no literature, and no plausible mechanistic link. All US licenses in the compiled data are also cancelled. This candidate is not suitable for advancement.
+The prediction for brachydactyly-syndactyly syndrome rests only on a model score, with no trials, no literature, and no plausible mechanistic link. This candidate is not suitable for advancement.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence connecting COX inhibition or prostaglandin signaling to the pathophysiology of this syndrome

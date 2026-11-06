@@ -125,7 +125,7 @@ The breast cancer evidence consists only of Phase 1/2 trials (several terminated
 - The current FDA package insert (indications, warnings, contraindications), since the safety data gap blocks safety screening
 - Detailed mechanism-of-action data
 - A comparison with current standard breast cancer regimens, including a randomized trial or a systematic review of ifosfamide combinations
-- Clarification of the cancelled US status and whether any marketed ifosfamide product is available
+- Clarification of whether any marketed ifosfamide product is available
 - A safety monitoring plan covering urotoxicity (mesna), nephrotoxicity, neurotoxicity, myelosuppression and secondary myeloid neoplasm risk
 
 ---

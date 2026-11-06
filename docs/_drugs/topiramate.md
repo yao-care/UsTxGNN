@@ -90,7 +90,7 @@ For reference, the strongest literature found for the top-ranked epilepsy-relate
 
 ## US Market Information
 
-All 10 US authorizations in the compiled records are generic applications (ANDAs) with status "cancelled". No approved indication text is available in these records.
+No approved indication text is available in these records.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -119,7 +119,7 @@ The top prediction, trigeminal nerve neoplasm, has a very high model score but n
 - Mechanism of action data and package insert warnings and contraindications (both are currently missing)
 - For trigeminal nerve neoplasm: any biological rationale or preclinical data; otherwise deprioritise
 - For the reflex epilepsies: indication-specific case series or trials, and consideration of whether these are clinically distinct enough from already-approved epilepsy indications to merit a separate development path
-- Clarification of current US marketing status, since all licenses in the compiled records are listed as cancelled
+- Clarification of current US marketing status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

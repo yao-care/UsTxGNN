@@ -114,7 +114,7 @@ The prediction for visceral calciphylaxis rests on model output alone (L5), with
 - Package insert warnings and contraindications (currently missing, and a blocking gap for safety screening)
 - Preclinical evidence that this drug affects calcification or calciphylaxis models
 - Evidence that a systemic route or formulation could achieve relevant exposure, since only an ophthalmic solution exists
-- Clarification of the regulatory status, since both US licenses are cancelled
+- Clarification of the regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

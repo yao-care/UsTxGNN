@@ -109,7 +109,6 @@ Acid suppression is a well-established mechanism for ulcer healing, and this ind
 - FDA package insert warnings and contraindications
 - Mechanism of action data confirmed from DrugBank
 - A review of the 100 known drug interactions, especially the Major ones
-- Clarification of the cancelled US market status and any re-licensing plan
 
 ---
 

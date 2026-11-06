@@ -98,7 +98,7 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-The only supporting evidence is a single veterinary study of a multi-drug regimen, with no registered clinical trials, so this is effectively a model-level prediction (L4). The indication is also non-human, and both US authorizations are cancelled, which limits any practical repurposing path.
+The only supporting evidence is a single veterinary study of a multi-drug regimen, with no registered clinical trials, so this is effectively a model-level prediction (L4). The indication is also non-human, which limits any practical repurposing path.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are currently missing and block safety screening

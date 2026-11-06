@@ -110,7 +110,7 @@ The prediction rests only on a TxGNN model (deep learning) score, which may refl
 - Mechanistic evidence, or preclinical data, showing a plausible effect in retinal dystrophy models
 - Package insert warnings and contraindications, and detailed MOA data
 - An assessment of retinal toxicity risk at therapeutic doses
-- Consideration of redirecting effort to **manic bipolar affective disorder** (rank 10). It is the only prediction with a plausible mechanism and literature, namely long-acting injectable antipsychotic reviews. Its evidence is indirect (L4), no trials are registered, and the cancelled US market status limits practical development.
+- Consideration of redirecting effort to **manic bipolar affective disorder** (rank 10). It is the only prediction with a plausible mechanism and literature, namely long-acting injectable antipsychotic reviews. Its evidence is indirect (L4), no trials are registered.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -94,7 +94,7 @@ Currently no related literature available for opsismodysplasia.
 | ANDA202467 | Pioglitazone (Macleods Pharmaceuticals Limited) | Tablet | Valid |
 | ANDA077210 | Pioglitazone (Bryant Ranch Prepack) | Tablet | Valid |
 
-All six authorizations in the data compiled are listed as cancelled. Indication text was not available.
+Indication text was not available.
 
 ---
 
@@ -120,7 +120,7 @@ The prediction is supported only by a TxGNN model (deep learning) score, which m
 - Mechanism of action data (MOA) and a clear mechanistic hypothesis linking PPAR-gamma agonism to the INPPL1/PI3K pathway
 - Preclinical evidence (cell or animal models of opsismodysplasia)
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Review of the cancelled licensure status and the current availability of the drug
+- Review of the current availability of the drug
 - Consideration of better-supported alternatives among the other predictions (for example, the lipodystrophy indications), which would still require supporting data
 ## Disclaimer
 

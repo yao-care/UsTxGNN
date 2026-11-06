@@ -112,7 +112,7 @@ The prediction is supported only by the model score (L5). There are no clinical 
 - Detailed mechanism-of-action data from DrugBank
 - Preclinical evidence on PI3K-alpha inhibition in pulmonary hypertension models
 - Evaluation of the interstitial lung disease signal and whether it conflicts with use in pulmonary disease
-- Confirmation of the original approved indications and the reasons for the NDA cancellations
+- Confirmation of the original approved indications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

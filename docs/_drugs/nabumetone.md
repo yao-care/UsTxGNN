@@ -81,8 +81,6 @@ Currently no related literature available.
 | ANDA091083 | Nabumetone (Proficient Rx LP) | Film-coated tablet | Not available (valid) |
 | ANDA203166 | Nabumetone 500 mg (LGM Pharma Solutions, LLC) | Film-coated tablet | Not available (valid) |
 
-All four authorizations are for oral products and all are cancelled.
-
 ## Safety Considerations
 
 - **Contraindications (not label text):** hypertension and hypertensive disorders, kidney disease, liver disease, gallbladder disease, peptic ulcer disease (including active), substance abuse/dependence, blood coagulation disease, myocardial infarction, coronary thrombosis, hemoglobinopathy, cardiovascular disease and heart disease. These are consistent with the known risks of NSAIDs.
@@ -108,7 +106,7 @@ The prediction for acromesomelic dysplasia, Hunter-Thompson type, has no clinica
 - Mechanism of action data from DrugBank
 - Preclinical or mechanistic evidence for any link between COX-2 inhibition and GDF5/BMP signaling or chondrogenesis
 - If a symptom-focused route is pursued, shift attention to the L4 candidates (spondyloarthropathy, rheumatoid nodulosis) and look for nabumetone-specific studies
-- Route and formulation compatibility assessment and clarification of the cancelled market status
+- Route and formulation compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

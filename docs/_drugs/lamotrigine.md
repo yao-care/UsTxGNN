@@ -87,7 +87,7 @@ Both papers are only tangentially related to the predicted indication.
 
 ## US Market Information
 
-All 13 US licenses for single-ingredient lamotrigine are cancelled. The records contain no approved-indication text. Five representative entries are shown.
+The records contain no approved-indication text. Five representative entries are shown.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|

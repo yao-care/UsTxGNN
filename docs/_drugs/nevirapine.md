@@ -87,7 +87,7 @@ These are the most relevant of the 13 publications retrieved. The remainder conc
 
 ## US Market Information
 
-All nine authorizations are generic applications (ANDA) with cancelled status. No approved indication text is available for them.
+No approved indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

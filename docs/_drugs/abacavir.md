@@ -92,8 +92,6 @@ Related literature for the feline prediction:
 | ANDA078119 | Abacavir (Cipla USA) | Tablet, film coated | Not listed (valid) |
 | ANDA091560 | Abacavir (Coupler) | Tablet | Not listed (valid) |
 
-Two further cancelled solution ANDAs (Camber ANDA201107, Rising ANDA077950) are not shown.
-
 ## Safety Considerations
 
 - **Disease associations flagged in the knowledge graph (not label text):** liver failure, liver disease, fatty liver disease, non-alcoholic steatohepatitis, kidney disease, pancreatitis, gallbladder disease, lactic acidosis, neutropenia, agranulocytosis, anemia (including macrocytic anemia), hypertriglyceridemia, obesity disorder, myopathy, myositis, dermatomyositis, and other muscle disorders.

@@ -102,7 +102,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical or published support (L5) and no credible mechanistic link. Choroideremia is a genetic, non-immune retinal degeneration, and ipilimumab's immune activation could harm the eye. The US licence is cancelled only.
+The prediction has no clinical or published support (L5) and no credible mechanistic link. Choroideremia is a genetic, non-immune retinal degeneration, and ipilimumab's immune activation could harm the eye.
 
 **To proceed, the following is needed:**
 - Any preclinical or mechanistic evidence linking CTLA-4 blockade to choroideremia pathology

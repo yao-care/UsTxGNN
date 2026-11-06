@@ -91,7 +91,7 @@ All of these concern side-effect management or pharmacology, not treatment of sc
 
 ## US Market Information
 
-All five US authorisations are generic applications (ANDAs) and all are cancelled. No approved indication text is available.
+No approved indication text is available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

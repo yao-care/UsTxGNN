@@ -140,7 +140,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Randomized Phase 3 evidence, including NSABP B-24, the placebo-controlled TAM-01 trial, and IBIS-II, supports tamoxifen in DCIS and breast intraepithelial neoplasia, and the use extends the established breast cancer indication. The evidence supports the decision, but the safety label data are missing and the US licenses are cancelled.
+Randomized Phase 3 evidence, including NSABP B-24, the placebo-controlled TAM-01 trial, and IBIS-II, supports tamoxifen in DCIS and breast intraepithelial neoplasia, and the use extends the established breast cancer indication. The evidence supports the decision, but the safety label data are missing.
 
 **To proceed, the following is needed:**
 - Restrict use to ER-positive disease.

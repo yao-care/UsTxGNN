@@ -116,7 +116,7 @@ No literature is available for drug-induced osteoporosis. The table below shows 
 |---------|------|------|-----------|
 | BLA761061 | TREMFYA (Janssen Biotech, Inc.) | Injection | Not listed in the compiled record |
 
-The record shows the single license as "cancelled", giving a market status of "Cancelled only". This conflicts with the literature, which describes guselkumab as approved for psoriasis, psoriatic arthritis, Crohn's disease and UC. Treat it as a probable data gap and verify against the FDA database before any decision.
+This conflicts with the literature, which describes guselkumab as approved for psoriasis, psoriatic arthritis, Crohn's disease and UC. Treat it as a probable data gap and verify against the FDA database before any decision.
 
 ---
 
@@ -139,7 +139,7 @@ Please refer to the package insert for warnings and contraindications, because t
 - Psoriasis is already well established, so it is not a repurposing opportunity.
 
 **To proceed, the following is needed:**
-- Verify the US regulatory status and approved indications (the record shows "Cancelled only" and no indication text).
+- Verify the US regulatory status and approved indications.
 - Obtain package insert warnings and contraindications (a blocking data gap).
 - Obtain DrugBank mechanism of action data.
 - For ulcerative colitis, confirm approval in the target market and set up infection monitoring.

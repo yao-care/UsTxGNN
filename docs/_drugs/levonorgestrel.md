@@ -115,7 +115,6 @@ The other predictions (Worth syndrome, pregnancy-associated osteoporosis, autoso
 - Mechanism of action data for levonorgestrel
 - FDA package insert warnings and contraindications
 - Evidence separating the effect of levonorgestrel alone from that of the estrogen component in acne
-- Review of the cancelled license status for any feasible regulatory pathway
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

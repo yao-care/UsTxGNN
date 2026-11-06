@@ -92,7 +92,7 @@ The ten most relevant of the 20 retrieved publications are listed below. Systema
 
 ## US Market Information
 
-All 13 US licences found are generic applications (ANDAs), and all are cancelled. The records contain no approved-indication text. The five main authorisations are listed below.
+The records contain no approved-indication text. The five main authorisations are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -121,7 +121,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-One completed Phase 3 randomised, placebo-controlled trial (NCT00048360) and one completed Phase 2/3 trial (NCT00061087) support bupropion in adult ADHD. A Cochrane review and several network meta-analyses also address this use. The mechanism is plausible, but the data compiled for this report contain no mechanism-of-action record and no label safety data. The US licences are all cancelled, so the drug's regulatory position needs clarification.
+One completed Phase 3 randomised, placebo-controlled trial (NCT00048360) and one completed Phase 2/3 trial (NCT00061087) support bupropion in adult ADHD. A Cochrane review and several network meta-analyses also address this use. The mechanism is plausible, but the data compiled for this report contain no mechanism-of-action record and no label safety data.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap), especially seizure risk, the boxed warning, and the neuropsychiatric profile

@@ -99,7 +99,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Ubrogepant has strong Phase 3 evidence in acute migraine with or without aura, and brainstem aura is a closely related subtype with shared pathophysiology. However, no subtype-specific trials exist, so the evidence is indirect (L3). The US market status is listed as cancelled and should be verified.
+Ubrogepant has strong Phase 3 evidence in acute migraine with or without aura, and brainstem aura is a closely related subtype with shared pathophysiology. However, no subtype-specific trials exist, so the evidence is indirect (L3).
 
 **To proceed, the following is needed:**
 - Subtype-specific data (post hoc analyses or a dedicated study) in migraine with brainstem aura

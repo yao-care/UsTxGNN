@@ -80,8 +80,6 @@ Currently no related literature available.
 | ANDA213652 | Leflunomide (Aurobindo Pharma) | Tablet, film coated | Not specified; status valid |
 | ANDA077090 | Leflunomide (AvPAK) | Tablet | Not specified; status valid |
 
-Four additional ANDA authorizations (Bryant Ranch Prepack, KVK-Tech, Alembic, Burel Pharmaceuticals) are also listed as cancelled.
-
 ## Safety Considerations
 
 - **Contraindication-related conditions (knowledge graph, not label text)**: The knowledge graph links leflunomide to contraindications in the following groups:

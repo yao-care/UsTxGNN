@@ -108,7 +108,7 @@ Please also refer to the package insert for full safety information.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-A completed Phase 3 trial and a completed Phase 4 study in facial seborrheic dermatitis, plus a published double-blind randomized trial, directly support the prediction. The mechanism is plausible and shared with the approved atopic dermatitis use. Evidence is rated L1 per the project criteria, but only one Phase 3 trial is listed, so confirmation is advisable. The US licences are all cancelled, and label-level safety data is missing.
+A completed Phase 3 trial and a completed Phase 4 study in facial seborrheic dermatitis, plus a published double-blind randomized trial, directly support the prediction. The mechanism is plausible and shared with the approved atopic dermatitis use. Evidence is rated L1 per the project criteria, but only one Phase 3 trial is listed, so confirmation is advisable. Label-level safety data is missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently missing)

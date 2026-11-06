@@ -98,7 +98,7 @@ The literature set is dominated by reviews on MDS and AML. Direct lenalidomide-s
 
 ## US Market Information
 
-All 12 authorizations are generic ANDAs for oral capsules and are currently cancelled. The data compiled for this report contain no approved indication text. The first five are listed.
+The data compiled for this report contain no approved indication text. The first five are listed.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

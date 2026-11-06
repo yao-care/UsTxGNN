@@ -74,7 +74,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All eight US authorisations are oral capsules and all are listed as cancelled. The approved-indication text is not available in the compiled data.
+The approved-indication text is not available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

@@ -81,7 +81,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All seven licenses in the data compiled for this report are cancelled. No approved indication text is recorded for any of them.
+No approved indication text is recorded for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
@@ -91,7 +91,7 @@ All seven licenses in the data compiled for this report are cancelled. No approv
 | part336 | Motion Sickness Relief | Chewable tablet | Valid |
 | ANDA201451 | Meclizine Hydrochloride | Tablet | Valid |
 
-Two further cancelled licenses are not shown: M002 (Motion Sickness Relief, film-coated tablet) and ANDA040659 (Meclizine Hydrochloride, tablet). All available forms are oral.
+All available forms are oral.
 
 ## Safety Considerations
 

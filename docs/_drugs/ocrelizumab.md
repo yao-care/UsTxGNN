@@ -108,14 +108,14 @@ For key warnings and contraindications, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials or breast-cancer-specific publications, and no supported mechanistic link between CD20 B-cell depletion and HER2-positive breast carcinoma. All US licences for the drug are also listed as cancelled.
+The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials or breast-cancer-specific publications, and no supported mechanistic link between CD20 B-cell depletion and HER2-positive breast carcinoma.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - A mechanistic rationale connecting CD20-targeted B-cell depletion to HER2-positive breast cancer, for example the role of tumour-infiltrating B cells
 - Preclinical or early-phase clinical evidence in breast cancer
-- Clarification of the current US marketing status, since both BLA records show as cancelled
+- Clarification of the current US marketing status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

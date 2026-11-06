@@ -149,7 +149,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-- The highest TxGNN scores (about 0.9995) fall on conditions with no trials or literature and no EGFR-driven rationale, so the scores alone do not justify moving forward. Evidence for the best candidates (pre-malignant neoplasm, cystic neoplasm) is limited to small Phase I/II studies. Their disease labels are broad, and the US license is cancelled.
+- The highest TxGNN scores (about 0.9995) fall on conditions with no trials or literature and no EGFR-driven rationale, so the scores alone do not justify moving forward. Evidence for the best candidates (pre-malignant neoplasm, cystic neoplasm) is limited to small Phase I/II studies. Their disease labels are broad.
 - Pre-malignant neoplasm and cystic neoplasm can be kept as research questions, not development candidates.
 
 **To proceed, the following is needed:**

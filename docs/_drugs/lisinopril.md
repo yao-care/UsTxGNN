@@ -89,7 +89,7 @@ For context, the table below lists the most relevant publications retrieved for 
 | ANDA076164 | Lisinopril (A-S Medication Solutions) | Tablet | Not recorded; valid |
 | ANDA077321 | Lisinopril (RemedyRepack) | Tablet | Not recorded; valid |
 
-Two further ANDAs (ANDA076102, Bryant Ranch Prepack; ANDA203508, Exelan) are also cancelled. All seven licenses are oral tablets.
+All seven licenses are oral tablets.
 
 ## Safety Considerations
 

@@ -94,7 +94,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-Both predictions are supported only by the model score (evidence level L5), with no clinical trials or literature. The SYK-inhibition mechanism has no clear link to either a heritable platelet disorder or a congenital esophageal malformation. The US market status is also "Cancelled only".
+Both predictions are supported only by the model score (evidence level L5), with no clinical trials or literature. The SYK-inhibition mechanism has no clear link to either a heritable platelet disorder or a congenital esophageal malformation.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

@@ -113,7 +113,7 @@ The prediction score is high (0.9979), but the evidence level is L5: there are n
 - Detailed mechanism of action data (MOA) from DrugBank
 - Literature and trial searches specific to tazarotene in seborrheic dermatitis
 - Review of the full text of the seborrheic keratosis publications to confirm whether tazarotene was evaluated
-- Clarification of the cancelled US market status and the current availability of the product
+- Clarification of the current availability of the product
 - A tolerability assessment for topical retinoid use on facial seborrheic skin
 ## Disclaimer
 

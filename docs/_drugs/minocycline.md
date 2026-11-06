@@ -82,8 +82,6 @@ The drug is marketed in the US, with 8 valid licenses.
 | ANDA204453 | Minocycline Hydrochloride (Bryant Ranch Prepack) | Film-coated extended-release tablet | Not available |
 | NDA213690 | ZILXI (Journey Medical) | Foam aerosol | Not available |
 
-Three more cancelled ANDAs (ANDA063065, ANDA065436, ANDA091424) are not shown.
-
 ## Safety Considerations
 
 - **Contraindications flagged in the knowledge graph** (these are model-graph associations, not package insert text): kidney disease, pyoureter, liver disease, gallbladder disease, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, pseudotumor cerebri, intracranial hypertension, and dyskinesia of esophagus.

@@ -81,8 +81,6 @@ No approved indication text is recorded for any of them.
 | ANDA201538 | Oxacillin (Eugia US) | Powder, for solution | Not recorded |
 | ANDA207148 | Oxacillin (Wockhardt USA) | Injection, powder, for solution | Not recorded |
 
-Three more authorizations (ANDA207147, ANDA206199 and NDA050640, the Baxter injectable solution) are also cancelled.
-
 ## Safety Considerations
 
 - **Knowledge-graph contraindication signals** (not label text): kidney disease, pyoureter, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, infectious mononucleosis, chronic Epstein-Barr virus infection syndrome.

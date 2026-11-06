@@ -130,7 +130,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale is weak because follicular lymphoma is generally CD30-low or negative. The only directly relevant trial (NCT04587687) is small, single-arm, and has no results, and the other linked trials were withdrawn or terminated early. The literature does not address follicular lymphoma. In addition, the single US license (BLA125388) is listed as cancelled in the compiled data, and package-insert safety data is missing.
+The mechanistic rationale is weak because follicular lymphoma is generally CD30-low or negative. The only directly relevant trial (NCT04587687) is small, single-arm, and has no results, and the other linked trials were withdrawn or terminated early. The literature does not address follicular lymphoma. In addition, package-insert safety data is missing.
 
 **To proceed, the following is needed:**
 - Results from NCT04587687, plus data on CD30 expression in follicular lymphoma to define any responsive subset

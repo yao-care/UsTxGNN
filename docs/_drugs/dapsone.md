@@ -119,7 +119,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Four completed Phase 3 trials (700, 600, 400 and 290 participants) evaluated dapsone-containing regimens for PCP prophylaxis or treatment, and two recent network meta-analyses address these regimens. Guidelines still favor TMP-SMX as first choice, so dapsone fits as an alternative for patients intolerant of sulfonamides. Its known hematologic risks and the cancellation of all US authorizations call for guardrails.
+Four completed Phase 3 trials (700, 600, 400 and 290 participants) evaluated dapsone-containing regimens for PCP prophylaxis or treatment, and two recent network meta-analyses address these regimens. Guidelines still favor TMP-SMX as first choice, so dapsone fits as an alternative for patients intolerant of sulfonamides. Its known hematologic risks call for guardrails.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking data gap), obtained from the FDA website

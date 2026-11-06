@@ -100,7 +100,7 @@ Please refer to the package insert for the full warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is purely computational. It has no clinical trials, no literature, and no plausible mechanistic link between VMAT2 inhibition and polycystic kidney/liver disease. In addition, all U.S. authorizations for tetrabenazine are cancelled, and label safety data are missing.
+The prediction is purely computational. It has no clinical trials, no literature, and no plausible mechanistic link between VMAT2 inhibition and polycystic kidney/liver disease. In addition, label safety data are missing.
 
 **To proceed, the following is needed:**
 - Preclinical or mechanistic evidence connecting monoamine/VMAT2 pathways to ciliary or cystogenesis biology

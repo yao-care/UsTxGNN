@@ -98,7 +98,7 @@ The very high TxGNN score should be read with caution. "Dermatitis" covers heter
 | BLA761343 | Selarsdi | Injection, solution | Not available in compiled data (status: valid) |
 | BLA761406 | YESINTEK | Solution | Not available in compiled data (status: valid) |
 
-The data list 11 BLAs in total (including the Stelara originator and several biosimilars), all with cancelled status. This should be verified against current FDA records.
+This should be verified against current FDA records.
 
 ## Safety Considerations
 

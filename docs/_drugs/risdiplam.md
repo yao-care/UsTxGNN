@@ -77,7 +77,7 @@ Currently no related literature available.
 | NDA213535 | EVRYSDI | Powder, for solution | Not listed in the records (status: valid) |
 | NDA219285 | EVRYSDI | Tablet | Not listed in the records (status: valid) |
 
-Both authorizations are held by Genentech, Inc. and are recorded as cancelled. The records should be checked against the current FDA database before any conclusion is drawn about market availability.
+Both authorizations are held by Genentech, Inc.. The records should be checked against the current FDA database before any conclusion is drawn about market availability.
 
 ## Cytotoxicity
 
@@ -101,7 +101,7 @@ The prediction is supported only by a model score, with no clinical trials, no l
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (for example from DrugBank) to test whether any link to acne biology exists
-- Confirmation of current US marketing status, since both NDAs are recorded as cancelled
+- Confirmation of current US marketing status
 - Preclinical or mechanistic evidence that risdiplam acts on acne-relevant pathways
 - A route-of-administration assessment for acne, since oral and solution forms are the only forms recorded
 ## Disclaimer

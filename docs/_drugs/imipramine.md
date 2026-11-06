@@ -92,8 +92,6 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All five records are cancelled, and the data compiled contains no approved indication text for them.
-
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | ANDA040903 | Imipramine Hydrochloride (PD-Rx Pharmaceuticals) | Film-coated tablet | Valid |

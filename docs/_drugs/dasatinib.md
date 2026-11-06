@@ -94,8 +94,6 @@ The drug is marketed in this country, and all eight licenses are listed as valid
 | ANDA213383 | Dasatinib (Dr. Reddy's) | Film-coated tablet | Not available |
 | ANDA217217 | Dasatinib (BluePoint) | Film-coated tablet | Not available |
 
-Three more ANDAs (AvKARE, Aurobindo, Zydus) are also listed as cancelled.
-
 ## Cytotoxicity
 
 | Item | Content |
@@ -128,7 +126,6 @@ The preclinical rationale (SRC dependence of Ewing sarcoma) is plausible, but th
 - Prospective data on dasatinib-containing combinations (such as RIST) in relapsed Ewing sarcoma
 - Official package insert warnings and contraindications, together with the mechanism of action data
 - A cardiac, pleural and hematologic safety monitoring plan, plus a review of acid-suppressant interactions
-- Clarification of the cancelled US market status, to confirm product availability
 
 *Other predictions (for context):* Myeloid leukemia (rank 2) has the strongest evidence (L1), but dasatinib is already approved for BCR-ABL1-positive CML, so this is largely an existing indication rather than repurposing. A Phase 3 trial in core-binding factor AML (PMID 41490515) suggests a possible subset-specific signal. Liposarcoma and dermatofibrosarcoma protuberans have only preclinical or review support, and the remaining predictions have no supporting evidence.
 ## Disclaimer

@@ -106,12 +106,12 @@ Official package insert warnings and contraindications were not available, so pl
 **Decision: Hold**
 
 **Rationale:**
-Melphalan has plausible biology in chemosensitive germ cell tumors, and a completed Phase 2 trial exists in relapsed germ cell tumors. However, melphalan is only one component of a combination regimen, the supporting literature is minimal, and efficacy results are not in the compiled data. Both US NDAs are cancelled, and the label safety data are missing. A hold fits until these gaps are closed.
+Melphalan has plausible biology in chemosensitive germ cell tumors, and a completed Phase 2 trial exists in relapsed germ cell tumors. However, melphalan is only one component of a combination regimen, the supporting literature is minimal, and efficacy results are not in the compiled data. The label safety data are missing. A hold fits until these gaps are closed.
 
 **To proceed, the following is needed:**
 - Efficacy and safety results from NCT00936936, with the specific contribution of melphalan assessed
 - Detailed mechanism of action data (MOA) and the FDA package insert warnings and contraindications
-- Clarification of the current US regulatory and supply status, since both NDAs are cancelled
+- Clarification of the current US regulatory and supply status
 - A focused literature review of high-dose melphalan regimens in germ cell tumors
 - A safety monitoring plan for myelosuppression, and for renal and pulmonary risk
 ## Disclaimer

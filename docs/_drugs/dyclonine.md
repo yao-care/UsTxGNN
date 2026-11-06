@@ -112,7 +112,7 @@ Please refer to the package insert for further safety information, including war
 **Decision: Hold**
 
 **Rationale:**
-The bronchitis prediction rests on a model score alone, with no clinical trials, no literature, and only a speculative mechanistic link. The drug's US licenses are all cancelled, and mechanism-of-action and label safety data are missing. Of the top 10 predictions, only irritable bowel syndrome has any supporting study, and it is a single 1996 mechanistic study that does not demonstrate efficacy.
+The bronchitis prediction rests on a model score alone, with no clinical trials, no literature, and only a speculative mechanistic link. Mechanism-of-action and label safety data are missing. Of the top 10 predictions, only irritable bowel syndrome has any supporting study, and it is a single 1996 mechanistic study that does not demonstrate efficacy.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

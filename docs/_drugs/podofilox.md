@@ -88,7 +88,7 @@ Currently no related clinical trials registered.
 | ANDA075600 | Podofilox | Solution | Valid |
 | ANDA211871 | Podofilox | Gel | Valid |
 
-Both authorizations are held by Padagis US LLC. No approved indication text was available for either one. Neither product is currently active, so availability would need to be verified.
+Both authorizations are held by Padagis US LLC. No approved indication text was available for either one.
 
 ---
 
@@ -103,13 +103,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone, with no clinical trials and no supporting literature. There is also no plausible mechanism linking an antimitotic wart treatment to a fungal infection, and established antifungal therapies already exist. Both US licenses are cancelled.
+The prediction rests on model output alone, with no clinical trials and no supporting literature. There is also no plausible mechanism linking an antimitotic wart treatment to a fungal infection, and established antifungal therapies already exist.
 
 **To proceed, the following is needed:**
 - Any preclinical or clinical evidence of antifungal activity against *Candida* species (none identified so far)
 - Detailed mechanism of action data
 - Review of the FDA package insert for warnings and contraindications, especially for application to vaginal mucosa
-- Confirmation of current product availability, since both US licenses are cancelled
+- Confirmation of current product availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

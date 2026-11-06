@@ -100,7 +100,7 @@ Other predictions in the same data are better supported, though they largely ext
 - Preclinical or clinical rationale for any non-infectious benefit in atrophic vaginitis, compared against standard estrogen-based therapy
 - Package insert warnings and contraindications
 - Detailed mechanism of action data
-- Confirmation of product availability, given the cancelled US license
+- Confirmation of product availability
 - A DDI screening plan, including the alcohol and disulfiram-type precautions common to nitroimidazoles
 ## Disclaimer
 

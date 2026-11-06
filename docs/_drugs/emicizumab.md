@@ -137,10 +137,10 @@ All the following have no clinical trials, and their mechanistic rationale is we
 **Decision: Proceed with Guardrails** (for acquired hemophilia A only; **Hold** for all other predicted indications)
 
 **Rationale:**
-Several prospective open-label studies (Japanese phase III, GTH-AHA-EMI, AGEHA) and real-world cohorts support emicizumab prophylaxis in acquired hemophilia A, and the mechanism fits the disease. However, no randomized phase 3 evidence exists, and the US license is recorded as cancelled.
+Several prospective open-label studies (Japanese phase III, GTH-AHA-EMI, AGEHA) and real-world cohorts support emicizumab prophylaxis in acquired hemophilia A, and the mechanism fits the disease. However, no randomized phase 3 evidence exists.
 
 **To proceed, the following is needed:**
-- Verify the regulatory and access status of the US license (BLA761083), which is listed as cancelled
+- Verify the regulatory and access status of the US license (BLA761083)
 - Obtain the package insert warnings and contraindications (currently a blocking data gap) and detailed mechanism-of-action data
 - Define the scope as acquired hemophilia A rather than all acquired factor deficiencies
 - Establish a thrombosis and thrombotic microangiopathy risk plan, particularly avoiding concurrent aPCC

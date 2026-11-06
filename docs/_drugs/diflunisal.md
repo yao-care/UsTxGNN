@@ -126,7 +126,7 @@ The only credible new indication is ankylosing spondylitis. It rests on a class 
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - A confirmed design for the 1986 diflunisal vs phenylbutazone study, and a comparison against current first-line NSAIDs
-- A rationale for why diflunisal would be preferred over naproxen or diclofenac, and a plan for the cancelled market status
+- A rationale for why diflunisal would be preferred over naproxen or diclofenac
 - Review of the cardiovascular, renal, hepatic and gastrointestinal contraindication signals for the target population
 ## Disclaimer
 

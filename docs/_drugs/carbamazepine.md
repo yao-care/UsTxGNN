@@ -123,7 +123,7 @@ The prediction for trigeminal nerve neoplasm has no clinical trials, and the lit
 **To proceed, the following is needed:**
 - Mechanism of action data and any preclinical evidence of antitumour activity
 - FDA package insert warnings and contraindications (these were flagged as a blocking gap for safety screening)
-- Confirmation of current US market status, since all records show cancelled licenses
+- Confirmation of current US market status
 - If pursuing reflex epilepsy indications, a targeted review of startle epilepsy as a research question
 ## Disclaimer
 

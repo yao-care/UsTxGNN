@@ -103,7 +103,7 @@ These findings are indirect: they come mostly from cardiac or high-altitude anim
 | ANDA091236 | Irbesartan (Alembic Pharmaceuticals Inc.) | Tablet | Not available (valid) |
 | ANDA202254 | Irbesartan (Macleods Pharmaceuticals Limited) | Tablet | Not available (valid) |
 
-Nine licenses are on record in total (1 NDA, 8 ANDAs), and all are cancelled. Only the first five are listed above.
+Only the first five are listed above.
 
 ## Safety Considerations
 

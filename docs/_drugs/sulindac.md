@@ -79,7 +79,7 @@ Currently no related literature available.
 | ANDA072710 | SULINDAC (PuraCap Laboratories / Blu Pharmaceuticals) | Tablet | Not available (valid) |
 | ANDA071795 | Sulindac (PD-Rx Pharmaceuticals) | Tablet | Not available (valid) |
 
-All six records are cancelled; only the first five are shown. The only dosage form is oral tablet.
+The only dosage form is oral tablet.
 
 ## Safety Considerations
 

@@ -123,7 +123,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical, registry or literature support and no plausible mechanism. Metyrapone's CYP11B1 inhibition is unrelated to the RYR1-driven calcium dysregulation underlying malignant hyperthermia. The US license is also cancelled, and adrenal-insufficiency-related safety signals add concern.
+The prediction has no clinical, registry or literature support and no plausible mechanism. Metyrapone's CYP11B1 inhibition is unrelated to the RYR1-driven calcium dysregulation underlying malignant hyperthermia. Adrenal-insufficiency-related safety signals add concern.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

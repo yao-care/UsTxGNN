@@ -78,7 +78,7 @@ Currently no related literature available.
 | ANDA204652 | Flucytosine (AvPAK) | Capsule | Not listed; status valid |
 | ANDA213665 | Flucytosine (Aurobindo) | Capsule | Not listed; status valid |
 
-One further license (ANDA218005, Laurus Labs, capsule) is also cancelled. All six licenses are for oral capsules.
+All six licenses are for oral capsules.
 
 ## Safety Considerations
 

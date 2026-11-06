@@ -107,7 +107,7 @@ The prediction score is very high, but there are no clinical trials or publicati
 - Mechanism of action data (for example from DrugBank) and a mechanistic analysis of EGFR in bone biology
 - Package insert warnings and contraindications from the FDA, since safety screening cannot proceed without them
 - Preclinical or observational evidence on bone outcomes in patients treated with EGFR inhibitors
-- Clarification of the cancelled BLA status and of the route and dosing that would suit a chronic bone indication
+- Clarification of the route and dosing that would suit a chronic bone indication
 
 ---
 

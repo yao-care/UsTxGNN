@@ -103,7 +103,7 @@ The prediction is supported only by a model score, with no trials or literature.
 - Detailed mechanism of action data
 - Preclinical or mechanistic evidence that the drug affects platelet release or function in a beneficial direction
 - A bleeding-risk assessment for patients with platelet function disorders
-- Clarification of regulatory and route-of-administration feasibility, given the cancelled license
+- Clarification of regulatory and route-of-administration feasibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

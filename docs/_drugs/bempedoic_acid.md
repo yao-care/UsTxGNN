@@ -73,8 +73,6 @@ Currently no related literature available.
 | NDA211616 | Nexletol | Tablet, film coated | Not recorded in the local data |
 | NDA211617 | Nexlizet | Tablet, film coated | Not recorded in the local data |
 
-The licence records compiled for this report show both licences with a cancelled status, while the overall market status is recorded as marketed. These records conflict, so the current market status should be checked against the FDA database before any decision.
-
 ## Safety Considerations
 
 - **Drug Interactions**: 23 interactions were recorded; the list below shows the 20 detailed entries.

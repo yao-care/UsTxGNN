@@ -108,7 +108,7 @@ For reference, the two papers linked to other predicted indications report safet
 **Decision: Hold**
 
 **Rationale:**
-The leprosy prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanism. The cytotoxic payload also raises safety concerns for an infectious disease. The US license record is cancelled, and the package insert safety data is missing.
+The leprosy prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanism. The cytotoxic payload also raises safety concerns for an infectious disease. The package insert safety data is missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (blocking gap for safety screening)

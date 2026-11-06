@@ -131,7 +131,7 @@ The TxGNN score is high, but the only trial testing irinotecan directly in breas
 - Mechanism of action data from DrugBank
 - Review of the PHENOMENAL study (liposomal irinotecan in HER2-negative breast cancer with brain metastases) and related data to judge whether irinotecan formulations show breast cancer efficacy
 - A defined breast cancer subtype and combination strategy, such as triple-negative disease or brain metastases
-- Clarification of why US licenses are cancelled and which formulation would be pursued
+- Clarification of which formulation would be pursued
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

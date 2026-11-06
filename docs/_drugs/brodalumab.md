@@ -107,7 +107,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials or literature, and the mechanism argues against benefit: IL-17 blockade could weaken anti-helminth defence and increase the risk of hyperinfection. The US license is cancelled, and the original indication and mechanism data are missing.
+The prediction rests only on a model score. There are no clinical trials or literature, and the mechanism argues against benefit: IL-17 blockade could weaken anti-helminth defence and increase the risk of hyperinfection. The original indication and mechanism data are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

@@ -109,7 +109,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-- The prediction rests on model score alone (L5), with no clinical trials or literature. Hyperamylasemia is a laboratory finding rather than a treatable disease, and no mechanistic link to telavancin exists. The drug's nephrotoxicity and QT-prolongation risks add to the unfavorable risk-benefit picture. The US license is also cancelled.
+- The prediction rests on model score alone (L5), with no clinical trials or literature. Hyperamylasemia is a laboratory finding rather than a treatable disease, and no mechanistic link to telavancin exists. The drug's nephrotoxicity and QT-prolongation risks add to the unfavorable risk-benefit picture.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA)

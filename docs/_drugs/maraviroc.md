@@ -97,7 +97,7 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score for multiple endocrine neoplasia is very high, but there are no clinical trials or publications, and no mechanistic link to MEN pathways has been established. The drug's US authorizations are all cancelled, and the official safety information was not available.
+The TxGNN score for multiple endocrine neoplasia is very high, but there are no clinical trials or publications, and no mechanistic link to MEN pathways has been established. The official safety information was not available.
 
 **To proceed, the following is needed:**
 - Retrieve the FDA package insert warnings and contraindications, which is a blocking gap for safety screening

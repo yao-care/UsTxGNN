@@ -118,8 +118,6 @@ No literature was found specific to bronchitis. The publications below are the m
 |---------|------|------|-----------|
 | NDA210598 | YUPELRI (Viatris Specialty LLC) | Solution | Status: valid; indication text not available |
 
-The only US authorization is recorded as cancelled, so commercial availability should be verified before any action.
-
 ---
 
 ## Safety Considerations

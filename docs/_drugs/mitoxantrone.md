@@ -93,7 +93,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All three US licenses are generic injectables and all are cancelled. The compiled data do not include approved indication text for them.
+The compiled data do not include approved indication text for them.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|

@@ -83,7 +83,7 @@ No randomised trial directly tests dacarbazine in this indication. The most rele
 
 ## US Market Information
 
-All three US authorisations for single-agent dacarbazine are cancelled. Approved indication text is not available in the records.
+Approved indication text is not available in the records.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

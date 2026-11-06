@@ -117,7 +117,7 @@ The mechanism (TLR7 agonism) is well established and consistent with pre-maligna
 - Package insert warnings and contraindications to support safety screening
 - Formal mechanism of action data in the drug record
 - A review of the unclassified drug interaction signals
-- Clarification of the cancelled US market status and whether a product remains available for development
+- Clarification of whether a product remains available for development
 
 ## Other Predicted Indications (Lower Priority)
 

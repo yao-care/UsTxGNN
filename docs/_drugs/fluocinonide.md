@@ -87,7 +87,7 @@ The only publication found among the top predictions relates to alopecia areata 
 
 ## US Market Information
 
-All 13 licences are generic applications and all are cancelled. No approved indication text is recorded. Up to 5 are listed below.
+No approved indication text is recorded. Up to 5 are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

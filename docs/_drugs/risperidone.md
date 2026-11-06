@@ -95,7 +95,7 @@ Label warnings and contraindications were not available in the data compiled for
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no clinical trials, no literature and no plausible mechanism. Evidence is at L5, and all US licenses for risperidone are currently cancelled.
+The prediction has a very high model score but no clinical trials, no literature and no plausible mechanism. Evidence is at L5.
 
 **To proceed, the following is needed:**
 - A mechanistic rationale linking risperidone to ROBO3-related gaze palsy, or preclinical data supporting one.

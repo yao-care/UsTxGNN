@@ -102,7 +102,6 @@ The prediction score is very high, but it is a model output only. There are no c
 - FDA package insert warnings and contraindications (a blocking gap)
 - Mechanism of action data and the original approved indications
 - Preclinical or exploratory clinical evidence that factor Xa inhibition modifies rheumatoid arthritis activity
-- Clarification of the cancelled US licensing status
 
 ---
 

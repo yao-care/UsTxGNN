@@ -120,12 +120,12 @@ One point from the prediction analysis is worth noting: insulin injections are a
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple completed Phase 3 trials and several systematic reviews support insulin aspart in type 1 diabetes, giving an L1 evidence level. However, this is essentially an existing core use rather than new repurposing. The safety label data is missing and the US licenses are all listed as cancelled, so the drug's regulatory status needs clarifying before proceeding.
+Multiple completed Phase 3 trials and several systematic reviews support insulin aspart in type 1 diabetes, giving an L1 evidence level. However, this is essentially an existing core use rather than new repurposing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank
-- Confirmation of current US marketing status, since the compiled licenses are all cancelled
+- Confirmation of current US marketing status
 - Clarification of whether any true repurposing opportunity exists beyond type 1 diabetes; permanent neonatal diabetes and pancreatic agenesis are the only plausible candidates and would need aspart-specific evidence
 ## Disclaimer
 

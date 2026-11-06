@@ -99,7 +99,7 @@ The prediction rests only on a TxGNN model (deep learning) score (Evidence Level
 - Mechanism of action data for benznidazole
 - Preclinical or mechanistic evidence connecting benznidazole to albumin biology
 - A review of the clinical rationale for each predicted indication, given that albumin deficiency is a genetic disorder not expected to respond to an antiparasitic
-- Clarification of regulatory and supply status given the cancelled US license
+- Clarification of regulatory and supply status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

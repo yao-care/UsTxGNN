@@ -90,8 +90,6 @@ The drug is marketed, with 13 valid licenses. The data compiled for this report 
 | ANDA218177 | Prucalopride (Novadoz) | Film-coated tablet | Not available |
 | ANDA219078 | Prucalopride succinate (Somerset) | Tablet | Not available |
 
-Eight further ANDAs from Zydus, Apotex, Ajanta, Hikma, Sandoz, Cipla, ANI and SpecGx are also recorded as cancelled.
-
 ## Safety Considerations
 
 - **Contraindications suggested by the knowledge graph** (not label text): ulcerative colitis, inflammatory bowel disease and intestinal perforation.

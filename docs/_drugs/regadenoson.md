@@ -87,7 +87,7 @@ Approved-indication text is not available for any of them. The main authorizatio
 | ANDA216437 | Regadenoson (Eugia US LLC) | Injection | Not available (status: valid) |
 | ANDA207604 | Regadenoson (Apotex Corp.) | Injection, solution | Not available (status: valid) |
 
-The remaining seven ANDAs (International Medication Systems, Hikma, Baxter, Gland Pharma, Accord, Meitheal, Hospira) are also cancelled. All products are injectable.
+All products are injectable.
 
 ## Safety Considerations
 

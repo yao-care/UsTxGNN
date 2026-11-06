@@ -80,8 +80,6 @@ Currently no related literature available.
 | ANDA090480 | Mupirocin (Preferred Pharmaceuticals Inc.) | Ointment | Not stated; license valid |
 | ANDA217943 | Mupirocin (Encube Ethicals, Inc.) | Ointment | Not stated; license valid |
 
-All five authorizations are single-ingredient ointments and all are cancelled.
-
 ## Safety Considerations
 
 - **Disease-level contraindication signal (knowledge graph, not label text)**: dermatitis.

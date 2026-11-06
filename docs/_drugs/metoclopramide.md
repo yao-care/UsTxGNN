@@ -106,7 +106,7 @@ Most retrieved publications are general reviews of dyspepsia, gastroparesis, ref
 
 ## US Market Information
 
-All 10 US authorizations are generic applications (ANDAs) with a cancelled status, and no approved indication text is recorded. The first 5 are listed below.
+No approved indication text is recorded. The first 5 are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -126,7 +126,6 @@ All 10 US authorizations are generic applications (ANDAs) with a cancelled statu
 - Gastrointestinal: active peptic ulcer disease, duodenum cancer, small intestine cancer
 - Metabolic and organ-related: porphyria (inherited porphyria, porphyrin metabolism disease), cirrhosis of liver, impaired renal function, pyruvate dehydrogenase E3 deficiency, methemoglobinemia due to methemoglobin reductase deficiency
 - Psychiatric: anxiety disorder, neurotic disorder, dysthymic disorder
-
 
 **Drug Interactions:** 100 interactions were found; the first 20 retrieved are summarized here.
 - **Major:** Tramadol, Amisulpride

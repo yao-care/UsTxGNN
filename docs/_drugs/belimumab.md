@@ -87,8 +87,6 @@ Currently no related literature available.
 | BLA125370 | BENLYSTA | Injection, powder, lyophilized, for solution | Not listed (status: valid) |
 | BLA761043 | BENLYSTA | Solution | Not listed (status: valid) |
 
-Both authorizations are held by GlaxoSmithKline LLC and are recorded as cancelled in the data compiled for this report.
-
 ## Safety Considerations
 
 - **Drug Interactions**: 69 interactions were identified. Examples include:
@@ -109,7 +107,6 @@ All six predictions rest on model scores alone, with no clinical trials or liter
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data from DrugBank
 - Preclinical or mechanistic evidence for any predicted indication. Fetal and neonatal alloimmune thrombocytopenia is the most plausible one to examine first, together with an assessment of pregnancy safety and placental transfer.
-- Clarification of why both US BLAs are recorded as cancelled, since this affects feasibility of development
 - Route compatibility and similarity-to-original-indication assessments, which are still pending
 ## Disclaimer
 

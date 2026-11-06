@@ -71,7 +71,7 @@ Currently no related literature available for polyclonal hyperviscosity syndrome
 
 ## US Market Information
 
-All 11 US authorizations are generic applications (ANDAs) with cancelled status. The data compiled for this report do not include approved indication text. The first five are listed below.
+The data compiled for this report do not include approved indication text. The first five are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -96,7 +96,7 @@ Please refer to the package insert for warnings and label contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (L5), with no clinical trials, no literature, and no plausible mechanistic link between an antibacterial and a non-infectious immunoglobulin disorder. In addition, all US authorizations for amoxicillin are currently cancelled.
+The prediction rests on a model score alone (L5), with no clinical trials, no literature, and no plausible mechanistic link between an antibacterial and a non-infectious immunoglobulin disorder.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible biological rationale linking amoxicillin to hyperviscosity

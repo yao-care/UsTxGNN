@@ -107,7 +107,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-All predicted indications are supported by model scores only, with no relevant trials or literature (L5). The only trial found is unrelated to the predicted indication. Several predictions (platelet and von Willebrand disorders) are potentially harmful given dalteparin's bleeding risk. The US license is also cancelled.
+All predicted indications are supported by model scores only, with no relevant trials or literature (L5). The only trial found is unrelated to the predicted indication. Several predictions (platelet and von Willebrand disorders) are potentially harmful given dalteparin's bleeding risk.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

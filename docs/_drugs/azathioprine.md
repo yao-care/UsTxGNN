@@ -89,8 +89,6 @@ Currently no related literature available.
 | ANDA208687 | Azathioprine (Ascend Laboratories) | Tablet | Not specified (valid) |
 | ANDA075252 | Azasan (Salix Pharmaceuticals) | Tablet | Not specified (valid) |
 
-All four authorizations are single-ingredient oral tablets, and all are cancelled.
-
 ---
 
 ## Safety Considerations
@@ -109,7 +107,6 @@ Please refer to the package insert for full warnings and contraindications.
 
 **Rationale:**
 The prediction has a very high model score but no trials, no literature, and no plausible mechanism. The toxicity profile of immunosuppression is hard to justify in a developmental disorder.
-
 
 **To proceed, the following is needed:**
 - Mechanistic evidence linking purine antimetabolite immunosuppression to the pathology of this syndrome

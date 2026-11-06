@@ -80,13 +80,13 @@ For other safety information, such as warnings and contraindications, please ref
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN score, with no clinical trials or literature (Evidence Level L5). Mechanism of action data is missing, and both US licenses are cancelled. The proposed link to hemoglobinopathy is speculative.
+The prediction rests only on a TxGNN score, with no clinical trials or literature (Evidence Level L5). Mechanism of action data is missing. The proposed link to hemoglobinopathy is speculative.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a clear rationale for hemoglobinopathy
 - Literature and clinical trial searches targeting fibrinogen use in hemoglobinopathy-related bleeding
 - FDA package insert warnings and contraindications, which are required before safety screening
-- Clarification of the cancelled license status and the original approved indications
+- Clarification of the original approved indications
 - Route and formulation compatibility assessment for the proposed use
 - Review of the Major interaction with Carfilzomib
 ## Disclaimer

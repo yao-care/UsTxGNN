@@ -99,13 +99,12 @@ Please refer to the package insert for warnings and contraindications, as these 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale is strong and the TxGNN score is very high. However, the supporting evidence is limited to retrospective studies, a pharmacokinetic evaluation, case reports and reviews, with no registered clinical trials. Both US NDAs are cancelled, and label warnings and contraindications were not available, so safety screening cannot yet proceed. The other nine predicted indications (for example drug-induced osteoporosis, orbital cellulitis and ophthalmic herpes zoster) have no clinical evidence and are also on Hold. Infection-related hemolytic uremic syndrome carries a specific safety concern, because antibiotics may increase toxin release.
+The mechanistic rationale is strong and the TxGNN score is very high. However, the supporting evidence is limited to retrospective studies, a pharmacokinetic evaluation, case reports and reviews, with no registered clinical trials. Label warnings and contraindications were not available, so safety screening cannot yet proceed. The other nine predicted indications (for example drug-induced osteoporosis, orbital cellulitis and ophthalmic herpes zoster) have no clinical evidence and are also on Hold. Infection-related hemolytic uremic syndrome carries a specific safety concern, because antibiotics may increase toxin release.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank
 - Full-text review of the two 2026 clinical studies (PMIDs 42559097 and 42370222) to confirm design, sample size and outcomes
-- Clarification of the cancelled NDA status and its commercial availability
 - A prospective controlled trial in macrolide-resistant *M. pneumoniae* pneumonia, with pediatric safety monitoring
 - Review of the anticardiolipin and hypercoagulability signal
 ## Disclaimer

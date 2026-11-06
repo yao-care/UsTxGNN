@@ -73,7 +73,7 @@ Currently no related literature available.
 |---------|------|------|-----------|
 | BLA761107 | GAMIFANT (Swedish Orphan Biovitrum AB) | Injection | — (no indication text in the data; the drug's original indication is HLH) |
 
-The only authorization is listed with a **cancelled** status. This should be verified against the current FDA record before any decision relies on it.
+This should be verified against the current FDA record before any decision relies on it.
 
 ## Safety Considerations
 

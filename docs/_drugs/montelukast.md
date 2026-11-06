@@ -118,7 +118,7 @@ The drug is marketed in the US, with 14 valid authorizations. The license record
 | ANDA209012 | Montelukast Sodium (Rising Pharma Holdings, Inc.) | Tablet | Not listed in the compiled records |
 | ANDA205107 | Montelukast Sodium (Amneal Pharmaceuticals LLC) | Chewable tablet | Not listed in the compiled records |
 
-All available forms are oral (chewable tablet, film-coated tablet, tablet). The cancelled-only status in this dataset should be checked against current FDA records before any development decision.
+All available forms are oral (chewable tablet, film-coated tablet, tablet).
 
 ---
 

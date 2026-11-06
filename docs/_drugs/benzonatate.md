@@ -82,7 +82,7 @@ Currently no related literature available.
 | ANDA040597 | Benzonatate (A-S Medication Solutions) | Capsule | Not specified (valid) |
 | ANDA040749 | Benzonatate (Proficient Rx LP) | Capsule | Not specified (valid) |
 
-Eight licenses in total are on record, all cancelled and all for single-ingredient oral products. The table shows the first five.
+The table shows the first five.
 
 ## Safety Considerations
 

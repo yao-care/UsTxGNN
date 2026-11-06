@@ -89,7 +89,7 @@ For the rank 8 prediction, one publication was found:
 
 ## US Market Information
 
-All 8 US authorizations are generic tablets and are currently cancelled. The records contain no approved indication text.
+The records contain no approved indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -119,14 +119,14 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction has no clinical trials or literature and no plausible mechanism. Its high score appears to be a TxGNN model (deep learning) artifact. All nine other top predictions are also at L4-L5, and the most plausible ones largely overlap with meloxicam's existing indications. The cancelled US license status and missing label safety data further limit progress.
+The top-ranked prediction has no clinical trials or literature and no plausible mechanism. Its high score appears to be a TxGNN model (deep learning) artifact. All nine other top predictions are also at L4-L5, and the most plausible ones largely overlap with meloxicam's existing indications. Missing label safety data further limit progress.
 
 **To proceed, the following is needed:**
 - Mechanism-of-action data for meloxicam, to support any mechanistic-link analysis
 - FDA package insert warnings and contraindications, to allow safety screening
 - A biological rationale connecting COX inhibition to GDF5-related skeletal development, or reprioritization toward predictions with real support (for example, rank 8, RF-positive polyarticular JIA)
 - Meloxicam-specific efficacy data for any selected indication
-- Clarification of the cancelled US market status and the current availability of the drug
+- Clarification of the current availability of the drug
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

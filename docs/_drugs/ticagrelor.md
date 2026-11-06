@@ -88,8 +88,6 @@ The drug is marketed, with 13 valid licenses, and none has approved-indication t
 | ANDA208596 | Ticagrelor (Novadoz) | Tablet | Not listed |
 | ANDA208390 | Ticagrelor (Teva) | Tablet, film coated | Not listed |
 
-Eight further ANDAs are on file, all cancelled.
-
 ## Safety Considerations
 
 - **Contraindication-related conditions** (from knowledge-graph drug-disease links, not label text): liver failure, liver disease, gallbladder disease, intracranial hemorrhage. Intracranial hemorrhage is especially relevant to an intracranial vascular indication.

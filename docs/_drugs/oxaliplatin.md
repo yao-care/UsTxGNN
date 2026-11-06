@@ -87,7 +87,7 @@ Two related predictions (epithelioid and sarcomatoid mesothelioma) and a viscera
 
 ## US Market Information
 
-All 9 US licenses are ANDA generic applications, and all are cancelled. Approved indication text is not available in the license records.
+Approved indication text is not available in the license records.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|

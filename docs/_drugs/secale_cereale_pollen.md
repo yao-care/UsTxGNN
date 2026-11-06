@@ -88,7 +88,7 @@ The prediction has no clinical, literature, or mechanistic support (Evidence Lev
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank) and a plausible biological link to alopecia
 - FDA package insert warnings and contraindications, to allow safety screening
-- Confirmation of the original indication and a review of the cancelled license's history
+- Confirmation of the original indication
 - Preclinical or literature evidence for hair-loss effects
 - Assessment of route compatibility (the only known form is a solution, a non-topical allergenic extract) and of allergenicity risk for any new use
 ## Disclaimer

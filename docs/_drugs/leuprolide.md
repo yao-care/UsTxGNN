@@ -86,8 +86,6 @@ Approved-indication text is not available in the records.
 | NDA021731 | Vabrinty (Uronova) | Extended-release injectable suspension | Not available |
 | NDA211488 | CAMCEVI (Accord BioPharma) | Injectable emulsion | Not available |
 
-A sixth licence, NDA213150 (Fensolvi, Tolmar, extended-release injectable suspension), is also cancelled.
-
 ## Safety Considerations
 
 - **Contraindication-related conditions (from the knowledge graph, not label text)**: hypertension, hyperglycemia, diabetes mellitus and diabetic ketoacidosis, obesity (including monogenic obesity), stroke and other cerebrovascular disorders, cerebral infarction, myocardial infarction and coronary thrombosis, hemoglobinopathy, and urinary tract obstruction.
@@ -106,7 +104,7 @@ The prediction rests on a model score alone (evidence level L5). There are no re
 - Detailed mechanism of action data (MOA)
 - FDA package insert warnings and contraindications
 - A plausible mechanistic rationale, plus preclinical or observational data, linking GnRH agonism to joint or cartilage outcomes
-- Review of the cancelled licence status and approved-indication text
+- Review of approved-indication text
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

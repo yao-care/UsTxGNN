@@ -118,7 +118,7 @@ The evidence for cutaneous candidiasis is clinical but old (1980s), with no regi
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
-- Confirmation of why the US licences were cancelled (commercial versus safety or regulatory reasons) and whether the product remains available
+- Confirmation of whether the product remains available
 - A modern, controlled study comparing naftifine with current standard azole therapy in cutaneous candidiasis
 - Confirmation that the 1980s study results hold under current diagnostic standards
 

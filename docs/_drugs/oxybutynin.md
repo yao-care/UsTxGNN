@@ -114,7 +114,7 @@ The restless legs syndrome prediction has no registered trials or literature (Ev
 - Mechanism of action data, and a plausible biological rationale linking antimuscarinic activity to restless legs syndrome
 - Package insert warnings and contraindications (currently a blocking data gap for safety screening)
 - Preclinical or clinical signals in restless legs syndrome from literature or trial searches
-- Clarification of the cancelled US market status and any available formulations for a new indication
+- Clarification of any available formulations for a new indication
 - A review of whether the anticholinergic effects on sleep and cognition would be acceptable in this population
 ## Disclaimer
 

@@ -76,7 +76,6 @@ Currently no related literature available.
 | ANDA085998 | Hydroxocobalamin (Actavis Pharma, Inc.) | Injection, solution | Not listed; status: valid |
 | NDA022041 | Cyanokit (BTG International Inc.) | Injection, powder, lyophilized, for solution | Not listed; status: valid |
 
-
 ## Safety Considerations
 
 - **Knowledge-graph contraindications**: The knowledge graph links hydroxocobalamin to a contraindication with hypertensive disorder / hypertension. This comes from graph edges, not from label text, and should be verified against the package insert. It is also relevant here because portal hypertension management often involves blood pressure and hemodynamic considerations.
@@ -101,7 +100,7 @@ The prediction has a high model score (0.9923) but no clinical trials, no litera
 - Detailed mechanism of action data, and a mechanistic assessment of the nitric oxide scavenging hypothesis in portal hypertension
 - A literature and trial search specific to hydroxocobalamin in portal hypertension and esophageal varices, as well as preclinical studies
 - Package insert warnings and contraindications (including the hypertension-related signal)
-- Review of the regulatory pathway, given that both US authorizations are cancelled
+- Review of the regulatory pathway
 - Route compatibility assessment (currently only injectable forms exist)
 - Evidence of an unmet need relative to current standard care (beta-blockers, endoscopic band ligation)
 ## Disclaimer

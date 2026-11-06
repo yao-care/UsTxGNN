@@ -108,8 +108,6 @@ The data compiled for this report contain no approved-indication text.
 | ANDA206803 | Selegiline Hydrochloride | Capsule | Valid |
 | ANDA074871 | Selegiline Hydrochloride | Tablet | Valid |
 
-Three further abbreviated applications (ANDA075352, ANDA075321, ANDA074565; capsules and tablets) are also cancelled.
-
 ---
 
 ## Safety Considerations

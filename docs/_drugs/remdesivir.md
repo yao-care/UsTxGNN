@@ -99,7 +99,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for multiple endocrine neoplasia is supported only by the model score. There are no clinical trials, no literature, and no plausible mechanistic link between a viral RdRp inhibitor and a hereditary tumor syndrome. The US authorization is also listed as cancelled.
+The prediction for multiple endocrine neoplasia is supported only by the model score. There are no clinical trials, no literature, and no plausible mechanistic link between a viral RdRp inhibitor and a hereditary tumor syndrome.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a documented biological rationale linking remdesivir to MEN1/RET-driven disease

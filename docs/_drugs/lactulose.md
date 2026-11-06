@@ -86,7 +86,7 @@ The evidence is mixed: some studies show reduced endotoxaemia, but one animal st
 
 ## US Market Information
 
-All eight US authorizations are single-ingredient ANDAs and all are listed as cancelled. Approved indication text was not available.
+Approved indication text was not available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

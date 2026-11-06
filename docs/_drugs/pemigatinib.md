@@ -114,7 +114,6 @@ The safety review also cannot proceed without the label warnings and contraindic
 - Mechanism of action data from DrugBank
 - Original approved indication text
 - A mechanistic rationale, or preclinical data, linking FGFR signaling to multiple endocrine neoplasia
-- Review of the cancelled NDA status and its implications for any development path
 - Consideration of better-supported alternatives, such as HER2-positive breast carcinoma, where FGFR-mediated resistance is biologically plausible, though disease-specific evidence is still lacking
 ## Disclaimer
 

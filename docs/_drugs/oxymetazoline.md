@@ -97,7 +97,7 @@ Please refer to the package insert for complete safety information, as label-bas
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible but largely overlaps with oxymetazoline's existing use. Supporting evidence is indirect (an animal study, case reports and non-efficacy papers), and no clinical trials are registered. The US product record is cancelled, and label safety data are missing, so a decision to advance is not yet justified.
+The prediction is mechanistically plausible but largely overlaps with oxymetazoline's existing use. Supporting evidence is indirect (an animal study, case reports and non-efficacy papers), and no clinical trials are registered. Label safety data are missing, so a decision to advance is not yet justified.
 
 **To proceed, the following is needed:**
 - A specific, well-defined nasal condition to target instead of the broad "nasal cavity disease" category

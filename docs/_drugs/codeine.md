@@ -81,13 +81,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA203046 | Codeine Sulfate | Tablet | Not recorded |
-| NDA022402 | Codeine sulfate | Tablet | Not recorded |
-| M012 | Codeine-Guaifenesin | Solution | Not recorded |
-| MO12 | Guaifenesin and Codeine Phosphate | Solution | Not recorded |
-| M013 | Codeine-Guaifenesin | Solution | Not recorded |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA203046 | CODEINE SULFATE | LANNETT CO INC | Tablet; oral | Valid |
+| NDA022402 | CODEINE SULFATE | HIKMA | Tablet; oral | Valid |
+| ANDA040419 | ACETAMINOPHEN AND CODEINE PHOSPHATE | SPECGX LLC | Tablet; oral | Valid |
+| ANDA040779 | ACETAMINOPHEN AND CODEINE PHOSPHATE | AMNEAL PHARMS NY | Tablet; oral | Valid |
+| ANDA087083 | ACETAMINOPHEN AND CODEINE PHOSPHATE | SUN PHARM INDS LTD | Tablet; oral | Valid |
+
+Showing 5 of 179 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 

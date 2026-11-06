@@ -103,7 +103,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Two completed randomized, double-blind Phase 4 trials and three published RCTs directly study desloratadine in cold urticaria, and the dose-escalation approach is guideline-endorsed. The trials are small (30 to 33 patients), and the product's US licenses are all cancelled, so the evidence is promising but not definitive.
+Two completed randomized, double-blind Phase 4 trials and three published RCTs directly study desloratadine in cold urticaria, and the dose-escalation approach is guideline-endorsed. The trials are small (30 to 33 patients), so the evidence is promising but not definitive.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

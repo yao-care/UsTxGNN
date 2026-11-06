@@ -122,7 +122,7 @@ The top prediction (bronchitis) rests on a model score alone, with no trials or 
 - Package insert warnings and contraindications (currently a blocking gap for safety screening)
 - Mechanism of action data
 - Preclinical or clinical data supporting benefit in the predicted indication
-- Clarification of why both US licenses are listed as cancelled, and of the current regulatory status
+- Clarification of the current regulatory status
 - A benefit-risk assessment that addresses the PML and opportunistic infection risk
 ## Disclaimer
 

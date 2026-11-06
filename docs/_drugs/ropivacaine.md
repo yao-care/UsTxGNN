@@ -92,7 +92,7 @@ The other predictions for this drug are weak:
 
 ## US Market Information
 
-All 8 records below are cancelled generic applications (single-ingredient injections). The data compiled for this report contain no approved indication text for any of them.
+The data compiled for this report contain no approved indication text for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

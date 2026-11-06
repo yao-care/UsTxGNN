@@ -91,8 +91,6 @@ The 1992 placebo-controlled study is the strongest item, but the data compiled f
 | ANDA071196 | Trazodone Hydrochloride (RemedyRepack) | Tablet | Not stated (valid) |
 | ANDA204852 | Trazodone Hydrochloride (Bryant Ranch Prepack) | Tablet | Not stated (valid) |
 
-Nine licenses are listed in total, all cancelled, and all are oral tablets.
-
 ## Safety Considerations
 
 - **Disease-level cautions from the knowledge graph** (these are not package insert text): cardiac and haemodynamic conditions (long QT syndrome, familial long QT syndrome, torsades de pointes, heart disease, cardiovascular disease, orthostatic hypotension, postural orthostatic tachycardia syndrome, multiple system atrophy), potassium deficiency, blood coagulation disease, benign prostatic hyperplasia, priapism, and inappropriate ADH syndrome (including nephrogenic syndrome of inappropriate antidiuresis).
@@ -105,7 +103,7 @@ Please refer to the package insert for formal warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic link is plausible and one placebo-controlled study exists, but there are no registered trials, the literature is old and mostly uncontrolled, and trazodone is not an established OCD agent. The US licenses are all cancelled, and the package insert safety data are missing.
+The mechanistic link is plausible and one placebo-controlled study exists, but there are no registered trials, the literature is old and mostly uncontrolled, and trazodone is not an established OCD agent. The package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Full results and critical appraisal of the 1992 placebo-controlled study (PMID 1629380)

@@ -143,7 +143,7 @@ Moderate interactions include corticosteroids (hydrocortisone, dexamethasone, be
 **Decision: Hold**
 
 **Rationale:**
-The mantle cell lymphoma evidence consists of early-phase combination studies (one terminated), plus preclinical and review literature, with no confirmatory randomized trial. Idelalisib's sole US license is cancelled, and it carries serious toxicity concerns (hepatotoxicity, colitis, pneumonitis, infections). Newer BTK inhibitors are already established in mantle cell lymphoma (e.g., ibrutinib), which weakens the case for a PI3K-delta inhibitor with this safety profile.
+The mantle cell lymphoma evidence consists of early-phase combination studies (one terminated), plus preclinical and review literature, with no confirmatory randomized trial. Idelalisib carries serious toxicity concerns (hepatotoxicity, colitis, pneumonitis, infections). Newer BTK inhibitors are already established in mantle cell lymphoma (e.g., ibrutinib), which weakens the case for a PI3K-delta inhibitor with this safety profile.
 
 **To proceed, the following is needed:**
 - The FDA package insert warnings and contraindications (a blocking gap for safety screening)
@@ -151,7 +151,7 @@ The mantle cell lymphoma evidence consists of early-phase combination studies (o
 - Efficacy and response-rate results from the MCL-specific trials (NCT01838434 in particular)
 - A comparison against current standard MCL therapies, including BTK inhibitors
 - A risk-benefit assessment given the withdrawal history and serious toxicity profile
-- Regulatory feasibility review, since the NDA is cancelled
+- Regulatory feasibility review
 
 **Other predictions in this analysis (for reference):**
 - **B-cell neoplasm** has the strongest evidence (multiple Phase 3 trials, including ASCEND and BRUIN CLL-321, which used idelalisib plus rituximab as a comparator). However, this is largely the drug's original indication class, so it is not true repurposing.

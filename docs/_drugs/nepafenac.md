@@ -107,7 +107,6 @@ Other registered trials cover diabetic macular edema, epiretinal membrane surger
 | NDA203491 | ILEVRO (Harrow Eye, LLC) | Suspension/drops | Not listed; status: valid |
 | NDA021862 | NEVANAC (Harrow Eye, LLC) | Suspension/drops | Not listed; status: valid |
 
-
 ## Safety Considerations
 
 - **Knowledge-graph contraindication signals** (from drug-disease links in the TxGNN knowledge graph, not from label text): rheumatoid arthritis, diabetes mellitus, diabetic ketoacidosis, blood coagulation disease, keratitis, keratoconjunctivitis, dry eye syndrome, xerophthalmia, and corneal ulcer.
@@ -120,13 +119,13 @@ Please refer to the package insert for the full warnings, contraindications and 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Several large Phase 3 trials (for example NCT01109173, NCT01853072 and NCT01872611) and a systematic review support nepafenac for inflammation and macular edema after cataract surgery, giving Evidence Level L1. However, "eye disease" is a broad prediction, and the evidence mostly confirms an existing use rather than a new one. The US licenses are currently cancelled, and label safety data was not available.
+Several large Phase 3 trials (for example NCT01109173, NCT01853072 and NCT01872611) and a systematic review support nepafenac for inflammation and macular edema after cataract surgery, giving Evidence Level L1. However, "eye disease" is a broad prediction, and the evidence mostly confirms an existing use rather than a new one. Label safety data was not available.
 
 **To proceed, the following is needed:**
 - Retrieve and review the FDA package insert for warnings, contraindications and approved indications (a blocking gap for safety screening)
 - Confirm detailed mechanism of action data from DrugBank
 - Narrow the target to specific conditions, such as pseudophakic or diabetic macular edema, rather than the broad "eye disease" label
-- Clarify the commercial and regulatory status given that both US NDAs are cancelled
+- Clarify the commercial and regulatory status
 - Define corneal safety guardrails for patients with ocular surface disease, diabetes, or autoimmune conditions
 - Treat the optic papillitis and vitreous detachment predictions as research questions only. Do not pursue the dermatologic and rare-syndrome predictions without a new mechanistic rationale.
 ## Disclaimer

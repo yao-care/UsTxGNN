@@ -63,7 +63,6 @@ Detailed mechanism-of-action data for methylene blue is not available in the dat
 
 Its established use is in methemoglobinemia, where it is reduced to leucomethylene blue and then converts methemoglobin back to hemoglobin. This mechanism has no obvious link to bronchitis, a respiratory tract inflammatory or infectious condition. The TxGNN score is very high, but none of the retrieved literature tests methylene blue as a treatment for bronchitis. The prediction therefore cannot be grounded in the data supplied and should be treated as a model-generated hypothesis.
 
-
 ---
 
 ## Clinical Trial Evidence
@@ -101,7 +100,7 @@ All 10 US authorizations are listed as valid, the drug is marketed, and no appro
 | ANDA215636 | Methylene blue (Zydus) | Injection | Not recorded |
 | ANDA216955 | Methylene blue (Steriscience) | Injection, solution | Not recorded |
 
-Five further authorizations (including ANDA219550, ANDA219363, ANDA217380, and 505G(a)(3)) are also cancelled. All available forms are injectable or topical solution, which may not suit a respiratory indication such as bronchitis.
+All available forms are injectable or topical solution, which may not suit a respiratory indication such as bronchitis.
 
 ---
 
@@ -120,7 +119,7 @@ Package insert warnings were not available in the data compiled for this report,
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score for bronchitis is very high, but there are no clinical trials, no therapeutic literature, and no clear mechanistic link. The evidence level is L5, and the US licenses are all cancelled with injectable-only forms.
+The TxGNN score for bronchitis is very high, but there are no clinical trials, no therapeutic literature, and no clear mechanistic link. The evidence level is L5.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a clear rationale linking methylene blue to airway disease

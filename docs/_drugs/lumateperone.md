@@ -102,7 +102,7 @@ The prediction is supported only by a model score. There are no clinical trials 
 - FDA package insert warnings and contraindications, which are required for safety screening
 - Preclinical evidence (for example, retinal disease models) showing a biological effect
 - A clear mechanistic hypothesis connecting dopaminergic, serotonergic or glutamatergic modulation to the retinal dystrophy mechanism
-- Assessment of route and delivery feasibility, since only an oral capsule exists and the product's US authorization is cancelled
+- Assessment of route and delivery feasibility, since only an oral capsule exists
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

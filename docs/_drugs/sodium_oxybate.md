@@ -113,7 +113,7 @@ Please refer to the package insert for full warnings and contraindications. The 
 **Decision: Hold**
 
 **Rationale:**
-The only directly relevant trial is a small Phase 2 study (n=48) with no available results, so evidence supports L2 at most. Sodium oxybate also carries serious respiratory-depression, misuse and drug-interaction risks. All U.S. authorizations are currently cancelled, and the drug-disease contraindication list includes sleep apnea and respiratory failure, which are common in patients with insomnia. The other predicted indications (neurogenic bladder, cauda equina syndrome, Wernicke-Korsakoff syndrome, restless legs syndrome) have no supporting evidence or point to potential harm. They are not recommended for further work.
+The only directly relevant trial is a small Phase 2 study (n=48) with no available results, so evidence supports L2 at most. Sodium oxybate also carries serious respiratory-depression, misuse and drug-interaction risks. The drug-disease contraindication list includes sleep apnea and respiratory failure, which are common in patients with insomnia. The other predicted indications (neurogenic bladder, cauda equina syndrome, Wernicke-Korsakoff syndrome, restless legs syndrome) have no supporting evidence or point to potential harm. They are not recommended for further work.
 
 **To proceed, the following is needed:**
 - Results of NCT00383643 (sodium oxybate vs. zolpidem in chronic insomnia)

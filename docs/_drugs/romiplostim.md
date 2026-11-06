@@ -137,7 +137,7 @@ The top prediction has no clinical trials, and its only publication concerns a d
 - Mechanism of action data from DrugBank
 - Disease-specific evidence (case series or trials) for the top predictions, or a decision to prioritize the fetal and neonatal alloimmune thrombocytopenia question
 - Subtype-specific evaluation if inherited thrombocytopenias are pursued
-- Clarification of the US marketing status, since the licence record shows "Cancelled only"
+- Clarification of the US marketing status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

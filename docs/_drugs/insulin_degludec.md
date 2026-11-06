@@ -63,7 +63,7 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 
 Type 1 diabetes is characterised by absolute insulin deficiency, so basal insulin replacement is the direct therapeutic mechanism. Type 1 diabetes falls within the drug's original diabetes mellitus indication, which explains the very high TxGNN score.
 
-The market status of the single US licence is listed as "Cancelled only". Availability and regulatory status of the specific product or formulation should therefore be confirmed before any use.
+Availability and regulatory status of the specific product or formulation should therefore be confirmed before any use.
 
 ---
 

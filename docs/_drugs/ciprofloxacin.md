@@ -85,8 +85,6 @@ Currently no related clinical trials registered.
 | ANDA076558 | Ciprofloxacin (Bryant Ranch Prepack) | Tablet, film coated | Not recorded |
 | ANDA208921 | Ciprofloxacin (Bryant Ranch Prepack) | Tablet | Not recorded |
 
-Three further cancelled licences are not shown: ANDA076126 (Carlsbad Technology), NDA019992 (Proficient Rx, solution/drops), and ANDA075939 (Amneal).
-
 ## Safety Considerations
 
 Safety information is based on drug-disease relationships from a knowledge graph, not package insert text, and should be confirmed against the label.

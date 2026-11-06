@@ -119,7 +119,7 @@ Please refer to the package insert for authoritative warnings and contraindicati
 **Decision: Hold**
 
 **Rationale:**
-The evidence is L4, and the retrieved literature concerns other seizure settings. The US licenses are all cancelled, and the package insert safety data are missing.
+The evidence is L4, and the retrieved literature concerns other seizure settings. The package insert safety data are missing.
 
 It has Phase 3 RCT evidence, including ESETT (NCT01960075, n=478, PMID 31774955) and an IV levetiracetam plus clonazepam trial (NCT01150331, n=203). **Startle epilepsy** has small open-label and case-report evidence.
 

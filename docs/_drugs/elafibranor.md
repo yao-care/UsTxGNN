@@ -86,7 +86,7 @@ For warnings and contraindications, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The only support for amenorrhea is a model score, with no clinical trials, no literature and Evidence Level L5. The mechanistic link is speculative, and package-insert safety information is missing. The drug's US license record is also listed as cancelled.
+The only support for amenorrhea is a model score, with no clinical trials, no literature and Evidence Level L5. The mechanistic link is speculative, and package-insert safety information is missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

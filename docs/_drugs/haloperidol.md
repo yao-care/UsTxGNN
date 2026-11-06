@@ -108,7 +108,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model (deep learning) score. There are no trials, no literature, and no plausible mechanistic link. The US licenses are all cancelled, and the drug has notable safety burdens (QT prolongation, seizure threshold, extrapyramidal effects, many interactions).
+The prediction rests only on a TxGNN model (deep learning) score. There are no trials, no literature, and no plausible mechanistic link. The drug has notable safety burdens (QT prolongation, seizure threshold, extrapyramidal effects, many interactions).
 
 **To proceed, the following is needed:**
 - A biological rationale connecting haloperidol to fucosylation or glycosylation pathways, along with its mechanism of action data

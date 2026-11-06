@@ -78,7 +78,7 @@ Currently no related literature available for autoimmune oophoritis.
 | BLA209196 | ADMELOG | Injection, solution | Sanofi-Aventis U.S. LLC | Valid |
 | BLA205747 | Humalog | Injection, solution | Eli Lilly and Company | Valid |
 
-One additional cancelled license (BLA761109, LYUMJEV, injection solution, A-S Medication Solutions) is also on record. Approved indication text was not available for these entries.
+Approved indication text was not available for these entries.
 
 ## Safety Considerations
 

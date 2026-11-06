@@ -102,7 +102,6 @@ Several other retrieved papers on thrombosis are tangential or unrelated and are
 | NDA212436 | Ibrance (Pfizer) | Film-coated tablet | Not available; status: valid |
 | NDA207103 | Ibrance (Pfizer) | Capsule | Not available; status: valid |
 
-
 ## Cytotoxicity
 
 | Item | Content |
@@ -135,7 +134,7 @@ Moderate-level interactions include aprepitant, dexamethasone, cimetidine, saxag
 **Decision: Hold**
 
 **Rationale:**
-- All four predictions rest mainly on TxGNN model (deep learning) scores. Rheumatoid arthritis has the most support (L4: preclinical studies, one case report, one observational study) but no registered trial. Hyperthyroidism and thyroid hormone resistance have no evidence, and thrombotic disease points to a safety risk. Both US NDAs are cancelled, and label safety data is missing.
+- All four predictions rest mainly on TxGNN model (deep learning) scores. Rheumatoid arthritis has the most support (L4: preclinical studies, one case report, one observational study) but no registered trial. Hyperthyroidism and thyroid hormone resistance have no evidence, and thrombotic disease points to a safety risk. Label safety data is missing.
 - Rheumatoid arthritis can be treated as a research question to pursue, not a candidate ready to advance.
 
 **To proceed, the following is needed:**
@@ -143,7 +142,7 @@ Moderate-level interactions include aprepitant, dexamethasone, cimetidine, saxag
 - Mechanism of action data
 - The original approved indication text
 - For rheumatoid arthritis: review of the full findings of PMID 40504547, and a case for a controlled study that weighs the myelosuppression and thromboembolism risks of palbociclib against existing RA therapies
-- Clarification of why the US NDAs are cancelled and of the current regulatory status of the product
+- Clarification of the current regulatory status of the product
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

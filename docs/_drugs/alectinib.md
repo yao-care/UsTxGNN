@@ -104,7 +104,7 @@ The prediction is model-only (L5), with no trials, no literature, and no plausib
 - A mechanistic rationale showing ALK or RET involvement in gingival fibromatosis, or a related fibroproliferative pathway
 - Mechanism of action data (MOA) and FDA package insert warnings and contraindications
 - Preclinical evidence in a relevant model
-- Clarification of the cancelled US regulatory status and of available formulations
+- Clarification of available formulations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

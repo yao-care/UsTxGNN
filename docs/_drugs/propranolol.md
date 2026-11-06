@@ -99,8 +99,6 @@ The drug is marketed, with 8 valid licenses. The records contain no approved-ind
 | ANDA070322 | Propranolol Hydrochloride (Amici Pharmaceuticals) | Tablet | Not available |
 | ANDA071972 | Propranolol Hydrochloride (Amneal Pharmaceuticals NY) | Tablet | Not available |
 
-Three more cancelled licenses exist: ANDA070979 (solution), ANDA070221 (tablet), and ANDA078955 (tablet).
-
 ## Safety Considerations
 
 - **Contraindications (from the knowledge graph, not label text)**: The knowledge graph lists many disease-level contraindications. The most relevant to a muscle-disease prediction are myopathy, muscular disease, skeletal muscle disease, familial periodic paralysis, and myasthenia gravis. Others include:

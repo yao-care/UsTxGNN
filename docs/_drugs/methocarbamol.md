@@ -78,7 +78,7 @@ Currently no related literature available for cauda equina syndrome.
 | ANDA211504 | Methocarbamol (Sagent Pharmaceuticals) | Injection, solution | Not listed (valid) |
 | ANDA212707 | Tanlor (Forte Bio-Pharma) | Tablet, film coated | Not listed (valid) |
 
-Eight licenses are recorded in total, and all are cancelled. Only the first five are shown above. Available forms include oral tablets (plain, coated and film coated) and an injectable solution.
+Only the first five are shown above. Available forms include oral tablets (plain, coated and film coated) and an injectable solution.
 
 ## Safety Considerations
 

@@ -120,7 +120,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score for faciodigitogenital syndrome is very high, but there are no clinical trials or publications, and the only plausible link is indirect (treating ADHD-like symptoms). The other predictions are also unsupported: chondromyxoid fibroma has no plausible mechanism and is likely a TxGNN model (deep learning) artifact, while specific developmental disorder and dysthymic disorder rely on indirect ADHD evidence. The US market status is also "cancelled only", and the safety profile includes many cardiovascular and psychiatric concerns.
+The TxGNN score for faciodigitogenital syndrome is very high, but there are no clinical trials or publications, and the only plausible link is indirect (treating ADHD-like symptoms). The other predictions are also unsupported: chondromyxoid fibroma has no plausible mechanism and is likely a TxGNN model (deep learning) artifact, while specific developmental disorder and dysthymic disorder rely on indirect ADHD evidence. The safety profile includes many cardiovascular and psychiatric concerns.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

@@ -90,8 +90,6 @@ These studies concern heart failure in general, not cor pulmonale or triamterene
 | ANDA211581 | Triamterene (Bryant Ranch Prepack) | Capsule | Not stated in the available data (valid) |
 | ANDA214768 | Triamterene (Biocon Pharma Inc.) | Capsule | Not stated in the available data (valid) |
 
-All three authorizations are single-ingredient oral capsules and all are cancelled.
-
 ## Safety Considerations
 
 **Contraindications (from knowledge-graph drug-disease contraindication links, not package-insert text):**

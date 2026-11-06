@@ -84,7 +84,7 @@ The table lists publications retrieved for this prediction. None is a randomized
 
 ## US Market Information
 
-All six US authorizations are generic (abbreviated) applications for oral capsules, and all have been cancelled. The approved indication text is not specified in the compiled data.
+The approved indication text is not specified in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
@@ -93,8 +93,6 @@ All six US authorizations are generic (abbreviated) applications for oral capsul
 | ANDA078983 | Atomoxetine Hydrochloride | Capsule | Golden State Medical Supply, Inc. | Valid |
 | ANDA202682 | Atomoxetine | Capsule | Camber Pharmaceuticals, Inc. | Valid |
 | ANDA079019 | Atomoxetine | Capsule | Glenmark Pharmaceuticals Inc., USA | Valid |
-
-One further cancelled authorization (ANDA090609, Major Pharmaceuticals) is not shown, to keep within the five-row limit.
 
 ## Safety Considerations
 

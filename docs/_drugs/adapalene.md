@@ -79,7 +79,7 @@ Currently no related literature available.
 | ANDA090962 | Adapalene (YYBA CORP) | Gel | Valid |
 | ANDA091314 | Adapalene (Glenmark Therapeutics Inc., USA) | Gel | Valid |
 
-Approved indication text is not available for these authorizations. There are 9 authorizations in total, and all are cancelled. Only the first 5 are listed here. All forms are topical or swab formulations.
+Approved indication text is not available for these authorizations. Only the first 5 are listed here. All forms are topical or swab formulations.
 
 ## Safety Considerations
 

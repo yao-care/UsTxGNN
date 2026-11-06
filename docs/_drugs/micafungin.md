@@ -105,8 +105,6 @@ The drug is marketed in the US, with 11 valid authorizations recorded. The appro
 | ANDA207344 | Micafungin (Fresenius Kabi USA) | Injection, powder, lyophilized, for solution | Not available |
 | ANDA213363 | Micafungin (Sagent Pharmaceuticals) | Injection, powder, lyophilized, for solution | Not available |
 
-Six more ANDAs (Meitheal, Hisun, Glenmark, Zydus, Hikma, Biocon) are also recorded as cancelled.
-
 ---
 
 ## Safety Considerations

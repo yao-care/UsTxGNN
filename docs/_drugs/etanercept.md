@@ -105,7 +105,7 @@ There are important counter-signals, however:
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic link is plausible, since TNF-alpha drives both rheumatoid arthritis and its vasculitic complication. However, there is no direct clinical evidence for etanercept in rheumatoid vasculitis (L4). The literature repeatedly reports etanercept-induced vasculitis, and the one registered trial is unrelated to efficacy. The US license for ENBREL is also listed as cancelled.
+The mechanistic link is plausible, since TNF-alpha drives both rheumatoid arthritis and its vasculitic complication. However, there is no direct clinical evidence for etanercept in rheumatoid vasculitis (L4). The literature repeatedly reports etanercept-induced vasculitis, and the one registered trial is unrelated to efficacy.
 
 **To proceed, the following is needed:**
 - Etanercept-specific clinical data in rheumatoid vasculitis, such as case series, cohort studies or a controlled trial, rather than class-level biologic data

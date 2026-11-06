@@ -89,8 +89,6 @@ The drug is marketed in the US, and all 10 of 10 authorizations are valid. Appro
 | BLA761404 | Denosumab-BMWO | Injection | Not available |
 | BLA761444 | BILDYOS | Injection, solution | Not available |
 
-Five further authorizations are also cancelled: XGEVA (BLA125320), OSPOMYV (BLA761392), BOSAYA (BLA761436), Oziltus (BLA761457) and Boncresa (BLA761456).
-
 ## Safety Considerations
 
 - **Drug Interactions**: 100 interactions were identified in total. The 20 retrieved are all rated Moderate. The main groups are:
@@ -106,7 +104,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-Both predictions have high TxGNN scores (0.9963 and 0.9923) but no clinical trials and no literature that directly shows a benefit on retinopathy. The mechanistic link is speculative, and the drug's US authorizations are all cancelled. Evidence is insufficient to advance.
+Both predictions have high TxGNN scores (0.9963 and 0.9923) but no clinical trials and no literature that directly shows a benefit on retinopathy. The mechanistic link is speculative. Evidence is insufficient to advance.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, and preclinical evidence on whether RANKL/RANK signaling affects retinal microvasculature

@@ -96,8 +96,6 @@ The drug is marketed in the US, with 8 valid licences. Approved indication text 
 | ANDA217780 | Guaifenesin 1200 mg (Marksans Pharma) | Tablet | Valid |
 | ANDA078912 | Mucus and Chest Congestion (CVS) | Tablet, multilayer, extended release | Valid |
 
-Three further cancelled licences are not listed here, including NDA021282 (Mucinex, Bryant Ranch Prepack).
-
 ## Safety Considerations
 
 Package insert warnings, contraindications and drug interaction data are not available in the compiled data. Please refer to the package insert for safety information.

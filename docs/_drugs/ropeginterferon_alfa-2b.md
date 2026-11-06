@@ -100,7 +100,7 @@ The prediction rests only on a model score. There are no clinical trials or lite
 - Package insert warnings and contraindications from the FDA (a blocking gap for safety screening)
 - Detailed mechanism of action data (MOA) from DrugBank
 - Any biological or preclinical evidence linking interferon signaling to the pathology of Laubry-Pezzi syndrome
-- Clarification of the current US regulatory status of BESREMi (the BLA is listed as cancelled)
+- Clarification of the current US regulatory status of BESREMi
 - Evaluation of whether the drug's injectable route and its safety in the relevant (often pediatric) populations are compatible with the predicted indication
 ## Disclaimer
 

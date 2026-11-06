@@ -110,7 +110,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The pulmonary hypertension prediction has a high model score but no trials, no literature and an uncertain direction of effect. The evidence level is L5. The US license is cancelled, and warnings and contraindications have not been reviewed.
+The pulmonary hypertension prediction has a high model score but no trials, no literature and an uncertain direction of effect. The evidence level is L5. Warnings and contraindications have not been reviewed.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

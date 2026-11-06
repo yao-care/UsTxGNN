@@ -84,7 +84,7 @@ Currently no related literature available.
 | ANDA214996 | Ganirelix Acetate (Meitheal) | Injection, solution | Valid |
 | ANDA215658 | Ganirelix Acetate (Gland Pharma) | Injection, solution | Valid |
 
-Two further cancelled ANDAs (ANDA216075, Lupin; ANDA218855, Qilu) are also on record. The license records contain no approved-indication text. All products are injectables.
+The license records contain no approved-indication text. All products are injectables.
 
 ## Safety Considerations
 

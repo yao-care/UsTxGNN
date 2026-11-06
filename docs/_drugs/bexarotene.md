@@ -126,7 +126,7 @@ The high TxGNN score is not backed by any trial or B-cell-specific study. The li
 - Case series or early-phase clinical data in cutaneous B-cell lymphoma
 - A decision on the route of administration (oral capsule vs. topical gel) suited to skin-limited B-cell disease
 - Current package insert safety information (warnings and contraindications), including a thyroid, lipid and liver monitoring plan
-- Verification of current US commercial availability, given the cancelled status of all authorizations
+- Verification of current US commercial availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

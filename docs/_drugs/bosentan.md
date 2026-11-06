@@ -89,8 +89,6 @@ Currently no related clinical trials registered.
 | ANDA209324 | Bosentan (Sun Pharmaceutical) | Tablet, film coated | Not available (status: valid) |
 | ANDA207760 | Bosentan (Zydus Lifesciences) | Tablet | Not available (status: valid) |
 
-Two further licenses (ANDA207110, Actavis; ANDA213981, Zydus Pharmaceuticals USA) are also cancelled.
-
 ## Safety Considerations
 
 - **Disease contraindications flagged in the knowledge graph** (not taken from label text): liver failure, liver disease, drug-induced liver injury, gallbladder disease, hyperbilirubinemia (including hereditary forms and Gilbert syndrome), thrombocytopenia, anaemia (including macrocytic anaemia), congestive heart failure, pulmonary oedema and pulmonary veno-occlusive disease.

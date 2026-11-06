@@ -84,8 +84,6 @@ The publications below concern migraine and naratriptan in general. None directl
 
 ## US Market Information
 
-All three US authorizations are generic applications that are now cancelled, and no approved indication text is recorded for them.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA200502 | Naratriptan (Avet Pharmaceuticals) | Tablet | Not recorded (valid) |

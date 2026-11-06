@@ -52,7 +52,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |---------|------|------|-----------|
 | BLA761306 | EBGLYSS (Eli Lilly and Company) | Injection, solution | Not listed in the compiled data |
 
-**Caution:** The compiled regulatory data shows this license as "cancelled" and lists no indication text. Recent publications and trial records describe lebrikizumab as FDA-approved for atopic dermatitis. This discrepancy is probably a data issue and should be checked against current FDA records before any decision relies on it.
+**Caution:** The compiled regulatory data lists no indication text. Recent publications and trial records describe lebrikizumab as FDA-approved for atopic dermatitis. This discrepancy is probably a data issue and should be checked against current FDA records before any decision relies on it.
 
 ## Safety Considerations
 

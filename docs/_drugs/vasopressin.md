@@ -83,8 +83,6 @@ The compiled data lists nine valid authorizations, and approved indication text 
 | ANDA216963 | Vasopressin (Gland Pharma) | Injection | Valid |
 | NDA204485 | Vasostrict (Par Health USA) | Injection | Valid |
 
-Four additional cancelled authorizations are on record (Amneal, Civica, Amphastar, Long Grove).
-
 ## Safety Considerations
 
 - **Drug Interactions**: 100 interactions were identified in total, and 20 are in the data compiled for this report. Most are Moderate. Major-level interactions include:

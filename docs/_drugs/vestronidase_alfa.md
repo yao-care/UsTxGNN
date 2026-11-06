@@ -106,13 +106,13 @@ Please refer to the package insert for safety information. No drug interaction r
 **Decision: Hold**
 
 **Rationale:**
-The Scheie syndrome prediction rests on model output alone (L5). The enzyme deficiency differs from that treated by vestronidase alfa, and no trials or publications address this use. The US biologics license is also listed as cancelled.
+The Scheie syndrome prediction rests on model output alone (L5). The enzyme deficiency differs from that treated by vestronidase alfa, and no trials or publications address this use.
 
 **To proceed, the following is needed:**
 - Preclinical data (e.g., cell or animal models) testing whether beta-glucuronidase can reduce GAG accumulation in alpha-L-iduronidase deficiency
 - Detailed mechanism-of-action data
 - FDA package insert warnings and contraindications to enable safety screening
-- Clarification of the current regulatory and supply status, given that the license is cancelled
+- Clarification of the current regulatory and supply status
 - Route and dosing compatibility assessment for the proposed indication
 ## Disclaimer
 

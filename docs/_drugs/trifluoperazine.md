@@ -83,7 +83,7 @@ None of the publications below tests trifluoperazine in mania directly. They pro
 
 ## US Market Information
 
-All five US licenses are single-ingredient oral tablets and are cancelled. No approved indication text is recorded for them.
+No approved indication text is recorded for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

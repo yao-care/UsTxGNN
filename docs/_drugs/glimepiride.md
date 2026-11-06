@@ -89,8 +89,6 @@ Currently no relevant literature is available for the top prediction. The only p
 | ANDA077911 | Glimepiride (Carlsbad Technology) | Tablet | Not available; status valid |
 | ANDA078181 | Glimepiride (Proficient Rx) | Tablet | Not available; status valid |
 
-A sixth license (ANDA091220, Micro Labs Limited) is also cancelled.
-
 ## Safety Considerations
 
 - **Drug Interactions**: 100 interactions were identified. Most listed ones are Moderate, including:

@@ -108,7 +108,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-Gadodiamide is a diagnostic contrast agent with no known therapeutic mechanism. The available literature supports only an imaging role in rheumatoid arthritis, there are no clinical trials, and the license is cancelled. The high TxGNN score is probably a TxGNN model (deep learning) artifact.
+Gadodiamide is a diagnostic contrast agent with no known therapeutic mechanism. The available literature supports only an imaging role in rheumatoid arthritis, there are no clinical trials. The high TxGNN score is probably a TxGNN model (deep learning) artifact.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

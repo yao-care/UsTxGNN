@@ -114,7 +114,7 @@ The prediction is model-based only (L5), with no clinical trials and no literatu
 - Original approved indication, which is missing from the authorization records
 - Preclinical or clinical evidence of tapentadol efficacy in migraine
 - Assessment of medication-overuse headache and dependence risk against existing migraine therapies
-- Route and formulation compatibility assessment, since all current oral products are cancelled
+- Route and formulation compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -82,8 +82,6 @@ For context, the second-ranked prediction (galactosemia) and the fifth-ranked pr
 | ANDA211041 | Nitisinone (Endo USA) | Capsule | Not specified (status: valid) |
 | NDA206356 | ORFADIN | Suspension | Not specified (status: valid) |
 
-A sixth entry, ANDA212390 (Nitisinone, Analog Pharma, capsule), is also cancelled.
-
 ## Safety Considerations
 
 - **Knowledge-graph contraindication signals** (not from label text): kidney disease, pyoureter, thrombocytopenia, leukopenia, hypophosphatemia, and tyrosinemia. These should be verified against the official label. The kidney-related signal deserves particular attention given the predicted renal indication.

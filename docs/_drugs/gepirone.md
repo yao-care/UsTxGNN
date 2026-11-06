@@ -100,7 +100,7 @@ Please refer to the package insert for safety information. No drug interaction r
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high, but there are no clinical trials, no literature, and only a speculative mechanistic link for benign paroxysmal torticollis of infancy. The condition is a self-limiting pediatric disorder, and the lack of infant safety data makes the case for further development weak. The U.S. licence is also cancelled.
+The TxGNN score is very high, but there are no clinical trials, no literature, and only a speculative mechanistic link for benign paroxysmal torticollis of infancy. The condition is a self-limiting pediatric disorder, and the lack of infant safety data makes the case for further development weak.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (needed for safety screening)

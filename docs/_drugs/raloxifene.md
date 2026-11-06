@@ -85,8 +85,6 @@ Currently no related literature available.
 | ANDA204310 | Raloxifene Hydrochloride (Aurobindo) | Tablet, film coated | Not listed (valid) |
 | ANDA208206 | Raloxifene Hydrochloride (AvPAK) | Tablet, film coated | Not listed (valid) |
 
-Two further cancelled ANDAs (ANDA211324 and ANDA206384) are not shown. All 7 records are oral dosage forms and all are cancelled.
-
 ## Safety Considerations
 
 - **Contraindication signals from the knowledge graph** (these come from model graph edges, not package insert text): hypertension and hypertensive disorder, liver disease, gallbladder disease, atrial fibrillation, hypertriglyceridemia, thrombophlebitis, coronary artery disease, stroke and cerebrovascular disorders, cerebral infarction, transient ischemic attack, vertebrobasilar insufficiency, pulmonary embolism, retinal artery occlusion, thrombophilia, antiphospholipid syndrome, and impaired renal function. The theme is mainly thromboembolic and cardiovascular risk.

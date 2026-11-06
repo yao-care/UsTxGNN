@@ -109,8 +109,6 @@ No approved indication text was available for any of them.
 | ANDA213812 | Eplerenone (Camber Pharmaceuticals, Inc.) | Tablet, film coated | Not available |
 | ANDA206922 | Eplerenone (Accord Healthcare, Inc.) | Tablet, film coated | Not available |
 
-One further authorization (ANDA208283, American Health Packaging, tablet, film coated) is also cancelled.
-
 ---
 
 ## Safety Considerations

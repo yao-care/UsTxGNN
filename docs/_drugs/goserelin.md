@@ -118,7 +118,7 @@ Amenorrhea is mainly an expected pharmacological effect of goserelin, not a dist
 - A clear therapeutic framing, such as menstrual suppression or ovarian protection during chemotherapy, rather than treatment of pathological amenorrhea.
 - FDA package insert warnings and contraindications.
 - Mechanism-of-action data from DrugBank.
-- Clarification of the regulatory status of the cancelled Zoladex NDAs and confirmation of the approved indications.
+- Confirmation of the approved indications.
 - Direct clinical evidence (trials with amenorrhea or ovarian protection as the primary endpoint).
 ## Disclaimer
 

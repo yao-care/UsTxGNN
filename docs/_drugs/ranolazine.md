@@ -78,7 +78,7 @@ Currently no related literature available.
 | ANDA211829 | Ranolazine (ScieGen Pharmaceuticals) | Film-coated extended-release tablet | Not provided | Valid |
 | ANDA209953 | Ranolazine (Ascend Laboratories) | Film-coated extended-release tablet | Not provided | Valid |
 
-Nine licenses are recorded in total, all cancelled. Only the first five are listed here.
+Only the first five are listed here.
 
 ## Safety Considerations
 

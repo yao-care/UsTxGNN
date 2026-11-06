@@ -84,8 +84,6 @@ The drug is marketed in the US with 11 valid licenses, and no approved indicatio
 | BLA125201 | Privigen | Liquid | Valid |
 | BLA125062 | Octagam Immune Globulin (Human) | Solution | Valid |
 
-Six further cancelled licenses are not shown: Gamunex-C, Alyglo, Flebogamma, Panzyga, GAMMAGARD Liquid, and Gammaplex.
-
 ## Safety Considerations
 
 Please refer to the package insert for safety information.

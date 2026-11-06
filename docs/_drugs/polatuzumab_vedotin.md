@@ -96,7 +96,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score. There are no registered trials and no literature, and the mechanism is not credible: CD79b is not a recognized target in HER2-positive breast cancer, and HER2-directed ADCs already cover this space with targeted delivery. The US license is also listed as cancelled, and package insert safety data are missing.
+The prediction is supported only by a model score. There are no registered trials and no literature, and the mechanism is not credible: CD79b is not a recognized target in HER2-positive breast cancer, and HER2-directed ADCs already cover this space with targeted delivery. Package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (FDA label)

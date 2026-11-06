@@ -138,7 +138,6 @@ The prediction for extracutaneous mastocytoma is supported only by a TxGNN model
 - Package insert warnings and contraindications, which are required before any safety screening
 - Preclinical evidence (for example, mast cell line or KIT-mutant model data) showing any activity in mast cell neoplasia
 - Review of alternative candidates among the top predictions (such as dermatofibrosarcoma protuberans or fibroblastic neoplasm), which have somewhat more plausible fibroblast-related rationale, while weighing the reported sarcoma and dermatofibroma safety signals
-- Clarification of the cancelled US license status if a US development path is considered
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

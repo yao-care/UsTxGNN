@@ -109,7 +109,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no clinical trials or literature (Evidence Level L5). No plausible mechanistic link exists, and IGF-1R blockade would be expected to work against growth in Turner syndrome. The US license is also listed as cancelled.
+The prediction is supported only by a model score, with no clinical trials or literature (Evidence Level L5). No plausible mechanistic link exists, and IGF-1R blockade would be expected to work against growth in Turner syndrome.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking data gap for safety screening)

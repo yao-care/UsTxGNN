@@ -74,7 +74,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 11 US authorizations for phentermine hydrochloride are cancelled, and no approved indication text is available for them. Five of them are listed below.
+Five of them are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

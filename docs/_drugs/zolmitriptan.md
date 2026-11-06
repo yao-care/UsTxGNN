@@ -90,7 +90,7 @@ Currently no related clinical trials registered.
 | ANDA201779 | Zolmitriptan | Film-coated tablet | Not available (status: valid) |
 | ANDA204041 | Zolmitriptan | Tablet | Not available (status: valid) |
 
-Only 5 of the 11 authorizations are shown. All 11 are listed as cancelled.
+Only 5 of the 11 authorizations are shown.
 
 ## Safety Considerations
 
@@ -107,7 +107,7 @@ Only 5 of the 11 authorizations are shown. All 11 are listed as cancelled.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is biologically plausible because brainstem aura is a migraine subtype, but the evidence is at L4: no clinical trials, and no literature that specifically addresses brainstem aura. Triptans have historically carried precautions in this subtype because of vasoconstrictive risk, and the US licenses are all cancelled. Label-based safety data are also missing.
+The prediction is biologically plausible because brainstem aura is a migraine subtype, but the evidence is at L4: no clinical trials, and no literature that specifically addresses brainstem aura. Triptans have historically carried precautions in this subtype because of vasoconstrictive risk. Label-based safety data are also missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, especially regarding brainstem aura and hemiplegic migraine

@@ -128,7 +128,7 @@ The 0.9986 TxGNN score is not backed by any clinical trial or publication, and t
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (for example from DrugBank)
 - Clinical or observational evidence of quinapril in renovascular or malignant hypertension, especially renal safety in renal artery stenosis
-- Clarification of why US authorizations were cancelled, and the route and formulation requirements
+- Clarification of the route and formulation requirements
 - If pursuing the pulmonary hypertension direction, human data to supplement the animal-only evidence
 ## Disclaimer
 

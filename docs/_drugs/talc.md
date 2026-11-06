@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Talc (a mineral, magnesium silicate) has no approved indication recorded in the US regulatory data compiled for this report, and both of its US licenses are cancelled.
+Talc (a mineral, magnesium silicate) has no approved indication recorded in the US regulatory data compiled for this report.
 The TxGNN model predicts it may be effective for **thrombotic disease**, but there are **0 clinical trials** and only **11 publications**, and those publications describe talc as a *cause* of thrombosis and embolism, not a treatment.
 This is a model-association artifact rather than a credible repurposing signal.
 

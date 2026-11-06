@@ -98,7 +98,7 @@ The TxGNN knowledge graph also links hydroquinone to the following conditions as
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but there are no clinical trials for seborrheic keratosis. The only literature is indirect, and hydroquinone could at most lighten pigmentation rather than treat the lesion. The US license is cancelled, and safety data from the package insert are missing.
+The prediction score is high, but there are no clinical trials for seborrheic keratosis. The only literature is indirect, and hydroquinone could at most lighten pigmentation rather than treat the lesion. Safety data from the package insert are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, to complete the safety screening

@@ -125,13 +125,13 @@ Please refer to the package insert for safety information. No warnings, contrain
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, Scheie syndrome, has no clinical trial or literature support (evidence level L5). Its biology is also mismatched: the enzyme deficiency and stored substrates differ from those elosulfase alfa addresses. The literature linked to other predictions concerns the original Morquio A indication, so it does not constitute repurposing evidence. The US market status is also listed as cancelled only.
+The top prediction, Scheie syndrome, has no clinical trial or literature support (evidence level L5). Its biology is also mismatched: the enzyme deficiency and stored substrates differ from those elosulfase alfa addresses. The literature linked to other predictions concerns the original Morquio A indication, so it does not constitute repurposing evidence.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, including any evidence of activity against dermatan or heparan sulfate substrates
 - Preclinical or in vitro evidence that elosulfase alfa has any effect in alpha-L-iduronidase deficiency models
 - FDA package insert warnings and contraindications to enable safety screening (currently a blocking gap)
-- Clarification of the US regulatory status, since the license is recorded as cancelled
+- Clarification of the US regulatory status
 - Confirmation of the approved indication text for BLA125460
 ## Disclaimer
 

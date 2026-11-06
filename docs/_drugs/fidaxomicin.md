@@ -108,7 +108,6 @@ The prediction has a very high model score, but no trials or supporting publicat
 - Detailed mechanism-of-action data
 - Preclinical evidence that fidaxomicin can reach effective concentrations at the site of infection, such as skin or blood
 - A feasibility assessment of a topical or systemic formulation, since only oral forms exist
-- Clarification of the cancelled US market status
 - A review of whether other candidates, such as toxin-independent *S. aureus* infections or intestinal botulism colonization, have a better mechanistic fit
 ## Disclaimer
 

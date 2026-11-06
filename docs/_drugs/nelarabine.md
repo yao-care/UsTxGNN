@@ -72,7 +72,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The 10 US authorizations are all injectable products and all currently have cancelled status. Approved indication text was not available in the compiled data.
+Approved indication text was not available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|

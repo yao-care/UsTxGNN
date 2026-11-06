@@ -121,7 +121,7 @@ No publications are available for Prinzmetal angina. The tables below show the m
 
 ## US Market Information
 
-All 10 records are cancelled generic (ANDA) tablet products, and the approved indication text is not available.
+The approved indication text is not available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

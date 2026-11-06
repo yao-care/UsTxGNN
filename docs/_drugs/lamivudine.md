@@ -107,13 +107,13 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication, SIV infection, is a non-human research-model disease with no clinical trials and only preclinical macaque evidence (Evidence Level L4). It offers no human repurposing opportunity, and lamivudine's US licenses are all cancelled.
+The predicted indication, SIV infection, is a non-human research-model disease with no clinical trials and only preclinical macaque evidence (Evidence Level L4). It offers no human repurposing opportunity.
 
 **To proceed, the following is needed:**
 - Confirmation that a human indication is actually being targeted. The current top predictions are animal-model or veterinary diseases, and the human-relevant ones are not supported.
 - Official package insert warnings and contraindications, which are currently missing and block safety screening.
 - Detailed mechanism of action data from DrugBank.
-- Clarification of the cancelled US license status, and the current regulatory pathway if development is pursued.
+- Clarification of the current regulatory pathway if development is pursued.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

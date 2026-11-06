@@ -91,7 +91,7 @@ PR status does not change this mechanism. Tumours that are both HER2-positive an
 
 ## US Market Information
 
-All nine US listings for trastuzumab products are marked as cancelled. The data compiled for this report do not include approved indication text for any of them.
+The data compiled for this report do not include approved indication text for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -130,7 +130,7 @@ A completed Phase 3 adjuvant trial with 3,270 patients (NCT01275677), plus rando
 **To proceed, the following is needed:**
 - Mechanism of action data
 - Package insert warnings and contraindications, which are a blocking gap for safety screening
-- Confirmation of current US marketing status, since all listings show as cancelled
+- Confirmation of current US marketing status
 - A cardiac monitoring plan and a HER2 testing requirement for patient selection
 
 ---

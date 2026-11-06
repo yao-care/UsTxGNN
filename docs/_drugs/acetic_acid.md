@@ -98,7 +98,7 @@ The data compiled for this report contains no approved indication text for any o
 | NDA018161 | Acetic Acid | Irrigant | B. Braun Medical Inc. | Valid |
 | NDA018523 | Acetic Acid | Irrigant | Baxter Healthcare Corporation | Valid |
 
-A sixth entry (Aceticum acidum, pellet, Boiron) has no authorization number and is also cancelled.
+A sixth entry (Aceticum acidum, pellet, Boiron) has no authorization number.
 
 ## Safety Considerations
 

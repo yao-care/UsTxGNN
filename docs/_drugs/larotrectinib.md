@@ -105,7 +105,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The only supporting trial is a non-specific basket study, and the literature is a review and a resistance-mechanism report, with no efficacy data in multiple endocrine neoplasia. The mechanistic link (TRK inhibitor in a RET-driven disease) is indirect, and the high TxGNN score is a prediction only. Both US licences are cancelled, and package-insert safety data are missing.
+The only supporting trial is a non-specific basket study, and the literature is a review and a resistance-mechanism report, with no efficacy data in multiple endocrine neoplasia. The mechanistic link (TRK inhibitor in a RET-driven disease) is indirect, and the high TxGNN score is a prediction only. Package-insert safety data are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

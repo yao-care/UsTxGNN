@@ -84,8 +84,6 @@ Currently no related literature available.
 | ANDA216662 | Lincomycin (Slate Run) | Injection, solution | Valid |
 | ANDA201746 | Lincomycin (Henry Schein) | Injection, solution | Valid |
 
-One further licence (ANDA215082, Armas Pharmaceuticals, injection solution) is also cancelled.
-
 ## Safety Considerations
 
 - **Contraindication-related conditions (knowledge-graph data, not label text)**: liver failure, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, colitis, digestive system disease, and intestinal disease. This suggests caution in patients with gastrointestinal or hepatic disease.

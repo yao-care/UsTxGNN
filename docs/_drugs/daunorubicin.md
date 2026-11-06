@@ -131,7 +131,7 @@ Note: none of the retrieved studies directly evaluates daunorubicin in Hodgkin's
 **Decision: Hold**
 
 **Rationale:**
-The evidence is only Phase 2 combination protocols and non-Hodgkin lymphoma or liposomal-formulation studies, with no direct daunorubicin data in Hodgkin's lymphoma. Doxorubicin already fills the anthracycline role in standard Hodgkin regimens. Safety data are incomplete, the drug's US licenses are all cancelled, and the cardiac and myelosuppression risks are significant.
+The evidence is only Phase 2 combination protocols and non-Hodgkin lymphoma or liposomal-formulation studies, with no direct daunorubicin data in Hodgkin's lymphoma. Doxorubicin already fills the anthracycline role in standard Hodgkin regimens. Safety data are incomplete, and the cardiac and myelosuppression risks are significant.
 
 **To proceed, the following is needed:**
 - FDA package-insert warnings and contraindications (a blocking gap for safety screening)

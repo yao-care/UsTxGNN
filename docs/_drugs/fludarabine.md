@@ -100,7 +100,7 @@ The 19 publications are mostly cohort studies and CAR-T reports, with no RCT foc
 
 ## US Market Information
 
-All four US records are generic (ANDA) injectables, and all have been cancelled. No indication text is recorded for them.
+No indication text is recorded for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

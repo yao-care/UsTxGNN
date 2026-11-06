@@ -76,7 +76,7 @@ For the third-ranked prediction, pulmonary hypertension, one publication was aut
 
 ## US Market Information
 
-The compiled data list 14 US authorizations, all with cancelled status and no indication text. The main ones are shown below.
+The main ones are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

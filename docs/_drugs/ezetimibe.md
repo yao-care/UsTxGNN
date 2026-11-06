@@ -97,7 +97,6 @@ The table lists the most relevant trials for the top prediction (up to 10).
 
 ## US Market Information
 
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021445 | Zetia (Organon LLC) | Tablet | Not available |
@@ -124,7 +123,7 @@ Please refer to the package insert for key warnings and contraindication text.
 **Decision: Hold**
 
 **Rationale:**
-Hyperlipoproteinemia substantially overlaps with ezetimibe's existing indications, and the supporting Phase 3/4 trials mostly use ezetimibe as background or comparator therapy. There is no new repurposing decision to advance, and the current US market status ("Cancelled only") needs verification.
+Hyperlipoproteinemia substantially overlaps with ezetimibe's existing indications, and the supporting Phase 3/4 trials mostly use ezetimibe as background or comparator therapy. There is no new repurposing decision to advance.
 
 **To proceed, the following is needed:**
 - Verify the current US marketing and availability status of ezetimibe products

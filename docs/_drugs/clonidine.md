@@ -138,7 +138,7 @@ Package insert warnings and contraindications were not available for this report
 **Rationale:**
 - The top prediction has a very high model score but no trials, no literature and no plausible mechanism, so it is evidence level L5.
 - Among the other predictions, Tourette syndrome has the strongest support (L2, Proceed with Guardrails). However, it rests on small Phase 4 trials, systematic reviews and guidelines, and is already a recognised use rather than a new repurposing finding. Obesity, migraine and manic bipolar disorder are research questions (L3). Specific developmental disorder and trichotillomania are L4, and the rest are L5.
-- US authorizations are all cancelled, and label safety data is missing.
+- Label safety data is missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which currently block safety screening

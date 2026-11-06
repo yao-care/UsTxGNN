@@ -143,7 +143,7 @@ The high prediction score is not backed by any Hodgkin lymphoma-specific trial o
 - Hodgkin lymphoma-specific preclinical or early clinical data (for example, a small Phase 1/2 study in relapsed or refractory classical Hodgkin lymphoma)
 - Mechanism of action data and a clearer mechanistic link to Hodgkin lymphoma biology
 - Package insert warnings and contraindications for a full safety review
-- Clarification of the cancelled US market status and the availability of the product
+- Clarification of the availability of the product
 - A risk-benefit assessment against existing Hodgkin lymphoma therapies, given the class toxicity profile
 ## Disclaimer
 

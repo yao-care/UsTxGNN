@@ -118,7 +118,7 @@ The prediction for postinfectious vasculitis has no clinical trials or literatur
 - Mechanism of action data from DrugBank
 - A more testable hypothesis. Of the predicted indications, otitis externa is the most plausible, though it would need comparison against existing topical agents.
 - Evidence that links sulfacetamide to vasculitis or other immune-mediated post-infectious conditions, or a decision to deprioritise this prediction
-- Review of the cancelled license status and available formulations if development is pursued
+- Review of available formulations if development is pursued
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

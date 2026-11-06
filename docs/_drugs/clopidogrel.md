@@ -104,7 +104,6 @@ No clinical trials are registered for the top-ranked prediction (migraine with b
 
 ## US Market Information
 
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA020839 | Plavix (Sanofi-Aventis U.S. LLC) | Film-coated tablet | Not available |
@@ -154,7 +153,7 @@ Migraine disorder has the strongest support, with a completed Phase 4 randomized
 - Full results of NCT02938182 and NCT05546320 (COMPETE), and clopidogrel-specific analysis of the BMJ 2026 trial
 - A dedicated Phase 3 trial of clopidogrel in PFO-related migraine
 - A bleeding-risk and drug-interaction management plan for the target population (for example, proton pump inhibitor co-prescription)
-- Clarification of the regulatory pathway given the cancelled US market status
+- Clarification of the regulatory pathway
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

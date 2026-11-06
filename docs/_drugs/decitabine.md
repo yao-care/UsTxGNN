@@ -73,7 +73,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 13 authorizations in the data are generic ANDAs for lyophilized powder for injection solution, and all are listed as cancelled. Approved indication text is not available. The five main entries are shown below.
+Approved indication text is not available. The five main entries are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|

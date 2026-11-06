@@ -74,7 +74,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All five US licenses are generic tablets and are now cancelled. The compiled data do not list approved-indication text for them.
+The compiled data do not list approved-indication text for them.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
@@ -98,7 +98,7 @@ Please refer to the package insert for formal warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but support is limited to animal and mechanistic studies, with no registered human trials. Gemfibrozil also has substantial interaction and hepatobiliary safety concerns, and its US licenses are all cancelled. This is a hypothesis, not yet a development candidate.
+The prediction score is very high, but support is limited to animal and mechanistic studies, with no registered human trials. Gemfibrozil also has substantial interaction and hepatobiliary safety concerns. This is a hypothesis, not yet a development candidate.
 
 For context, two other predicted indications for gemfibrozil have more human evidence. These are protease inhibitor-associated hypertriglyceridemia in HIV patients (randomized double-blind data, though this is largely an extension of its original lipid indication) and hypoalphalipoproteinemia (small older crossover studies using lipid surrogate endpoints).
 

@@ -108,12 +108,12 @@ Please refer to the package insert for warnings and contraindications, as these 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale is plausible, but no trial has tested dupilumab in bronchitis. The only listed trial is in chronic rhinosinusitis, and the literature is largely asthma and COPD, so the evidence is indirect (L3). The US BLA is also recorded as cancelled, and package-insert safety data is missing.
+The mechanistic rationale is plausible, but no trial has tested dupilumab in bronchitis. The only listed trial is in chronic rhinosinusitis, and the literature is largely asthma and COPD, so the evidence is indirect (L3). Package-insert safety data is missing.
 
 **To proceed, the following is needed:**
 - Bronchitis-specific evidence, such as a trial in eosinophilic or type 2 chronic bronchitis, or analyses of the chronic bronchitis subgroup in the COPD trials (BOREAS and NOTUS)
 - Detailed mechanism-of-action data (MOA)
-- Package insert warnings and contraindications, and clarification of the US regulatory status (cancelled BLA record)
+- Package insert warnings and contraindications, and clarification of the US regulatory status
 - A definition of the target bronchitis phenotype (eosinophilic or type 2) and a biomarker-based patient selection strategy
 - A monitoring plan for ocular and cutaneous adverse events and for interactions with other immunomodulators
 ## Disclaimer

@@ -131,13 +131,13 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic basis is strong and selumetinib is established in the related NF1 plexiform neurofibroma setting. However, direct evidence in schwannoma is limited to one small terminated Phase 2 trial (10 patients), a case report, and two trials that have not started recruiting. The US NDAs are listed as cancelled, and the package insert safety data could not be retrieved. Evidence level is L3 at best, and the other nine predictions are L5 or indirect.
+The mechanistic basis is strong and selumetinib is established in the related NF1 plexiform neurofibroma setting. However, direct evidence in schwannoma is limited to one small terminated Phase 2 trial (10 patients), a case report, and two trials that have not started recruiting. The package insert safety data could not be retrieved. Evidence level is L3 at best, and the other nine predictions are L5 or indirect.
 
 **To proceed, the following is needed:**
 - Results or publication from the terminated NCT03095248 trial
 - Early data from NCT07707947 and confirmation of selumetinib's role in PRIME-NF2
 - Mechanism of action data and FDA package insert warnings and contraindications
-- Clarification of the regulatory status of the cancelled NDAs
+- Clarification of the regulatory status
 - A review of the major drug interactions for the likely patient population
 ## Disclaimer
 

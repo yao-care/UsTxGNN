@@ -107,7 +107,7 @@ The prediction is supported only by the TxGNN score (Evidence Level L5), with no
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Preclinical or clinical evidence in uterine ligament or related gynaecological adenocarcinomas, such as a literature and trial registry search
-- Clarification of the cancelled US licence status and current availability
+- Clarification of current availability
 - A bleeding-risk management plan given the many major interactions with anticoagulant and antiplatelet drugs
 ## Disclaimer
 

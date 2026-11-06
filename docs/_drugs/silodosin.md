@@ -80,7 +80,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All nine US authorizations are generic (ANDA) silodosin oral capsules and all are listed as cancelled. The approved indication text is not available in the data compiled for this report.
+The approved indication text is not available in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|

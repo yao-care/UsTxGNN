@@ -117,7 +117,7 @@ The mechanistic link is plausible, but the evidence is limited to old preclinica
 - FDA package insert warnings and contraindications, which are currently missing and block safety screening
 - Mechanism of action data (for example, from DrugBank)
 - Clinical evidence in pulmonary hypertension, ideally human hemodynamic or controlled studies, addressing the risk of worsened V/Q mismatch and hypotension
-- Review of the drug's cancelled market status and the availability of the extended-release formulation
+- Review of the availability of the extended-release formulation
 - A comparison against current standard therapy for pulmonary hypertension associated with lung disease
 ## Disclaimer
 

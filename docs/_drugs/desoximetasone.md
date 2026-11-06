@@ -75,7 +75,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 12 U.S. licenses are cancelled, and no indication text is recorded. The five main authorizations are listed below.
+No indication text is recorded. The five main authorizations are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -97,7 +97,7 @@ Please refer to the package insert for warnings and contraindications, which wer
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale for alopecia areata is reasonable and one placebo-controlled RCT exists. However, its details could not be verified, no trials are registered, and all U.S. licenses are cancelled. The evidence is not yet enough to advance beyond a research question.
+The mechanistic rationale for alopecia areata is reasonable and one placebo-controlled RCT exists. However, its details could not be verified, no trials are registered. The evidence is not yet enough to advance beyond a research question.
 
 **To proceed, the following is needed:**
 - Retrieve the full text of PMID 11030789 and verify sample size, endpoints, efficacy and safety results

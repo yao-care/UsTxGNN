@@ -59,7 +59,6 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 The link to punctate epithelial keratoconjunctivitis is weak. This condition is frequently viral (for example adenoviral) or immune-mediated, so an antibacterial would not be expected to address the primary cause. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between this disease and the already-listed conjunctivitis indications, not biological evidence. Bacterial superinfection prophylaxis is a theoretical role only and is not supported by any evidence provided.
 
-
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered for punctate epithelial keratoconjunctivitis. No trials were found for the conjunctivitis prediction either.
@@ -91,8 +90,6 @@ The drug is marketed in the US, with 7 of 7 licences valid. Approved-indication 
 | ANDA216393 | Trimethoprim (Novitium) | Tablet | Valid |
 | ANDA064120 | Polymyxin B Sulfate and Trimethoprim (Proficient Rx) | Solution/drops | Valid |
 | ANDA064211 | Polymyxin B Sulfate and Trimethoprim (NuCare) | Solution | Valid |
-
-Two further cancelled licences (ANDA211572 and ANDA065006) are polymyxin B/trimethoprim ophthalmic solutions.
 
 ## Safety Considerations
 

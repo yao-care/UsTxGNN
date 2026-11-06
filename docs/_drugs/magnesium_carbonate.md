@@ -102,7 +102,7 @@ The predicted indication is essentially the drug's existing antacid use. There i
 - Mechanism of action data
 - Clinical evidence in a genuinely new indication, since the current predictions mostly restate existing antacid uses
 - Review of the major interaction with dolutegravir and the mineral-binding interactions (tetracyclines, bisphosphonates) in any dosing plan
-- Clarification of regulatory status, since both US licenses are cancelled
+- Clarification of regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

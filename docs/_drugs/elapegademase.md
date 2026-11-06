@@ -86,7 +86,7 @@ No drug interaction records were found for this drug, and no contraindication ed
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score (Evidence Level L5). There are no clinical trials, no publications, and no verified mechanism linking ADA enzyme replacement to diabetic retinopathy or cataract. The US license is also listed as cancelled, and package insert safety data are missing, so the candidate cannot move to safety screening.
+The prediction is supported only by a model score (Evidence Level L5). There are no clinical trials, no publications, and no verified mechanism linking ADA enzyme replacement to diabetic retinopathy or cataract. Package insert safety data are missing, so the candidate cannot move to safety screening.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap for safety screening)

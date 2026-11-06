@@ -95,7 +95,6 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | NDA012342 | PARNATE (Advanz Pharma) | Tablet, film coated | Valid |
@@ -120,7 +119,7 @@ Please also refer to the package insert, as label warnings were not available fo
 **Decision: Hold**
 
 **Rationale:**
-The US licenses are all cancelled, and the MAOI safety burden is substantial (hypertensive crisis, extensive interactions).
+The MAOI safety burden is substantial (hypertensive crisis, extensive interactions).
 
 **Status of other candidates:**
 - **Agoraphobia (rank 4, L4):** Research question. Evidence includes a 2010 case report of tranylcypromine in treatment-resistant agoraphobia with panic and older MAOI reviews. It is close to the original anxiety indication.

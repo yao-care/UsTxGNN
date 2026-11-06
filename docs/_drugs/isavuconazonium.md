@@ -93,7 +93,6 @@ For the second prediction, mycetoma, one indirect item was found:
 | NDA207500 | CRESEMBA (Astellas Pharma US, Inc.) | Capsule | Not available (status: valid) |
 | NDA207501 | CRESEMBA (Astellas Pharma US, Inc.) | Lyophilized powder for injection solution | Not available (status: valid) |
 
-
 ---
 
 ## Safety Considerations
@@ -121,7 +120,7 @@ The pneumocystosis prediction rests on model score alone (L5). There are no clin
 - Mechanism of action data from DrugBank
 - For mycetoma: in vitro susceptibility data for *Madurella mycetomatis* and other eumycetoma pathogens, and animal or clinical studies of isavuconazole
 - For pneumocystosis: independent evidence of activity against *Pneumocystis*, otherwise deprioritize
-- Confirmation of current US regulatory status and the approved indications of the cancelled NDAs
+- Confirmation of current US regulatory status and the approved indications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

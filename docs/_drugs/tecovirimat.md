@@ -86,7 +86,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-Both authorizations are listed as cancelled in the data compiled for this report. The records contain no approved-indication text.
+The records contain no approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -106,14 +106,14 @@ Please refer to the package insert for safety information. No drug-interaction r
 **Decision: Hold**
 
 **Rationale:**
-The hordeolum prediction has no trials, no literature and no plausible mechanism. Tecovirimat acts on an orthopoxvirus-specific protein, and hordeolum is a bacterial infection. Both US NDAs are also currently cancelled.
+The hordeolum prediction has no trials, no literature and no plausible mechanism. Tecovirimat acts on an orthopoxvirus-specific protein, and hordeolum is a bacterial infection.
 
 **To proceed, the following is needed:**
 - Redirect the evaluation to the orthopoxvirus-related predictions (mpox), which are better supported but largely overlap with the drug's existing indication class.
 - For mpox, review primary randomized trial publications to verify efficacy. The current evidence consists mostly of reviews and case reports.
 - Obtain the FDA package insert to complete the safety assessment (warnings, contraindications, interactions).
 - Obtain formal mechanism-of-action data from DrugBank.
-- Clarify the regulatory status of the cancelled NDAs.
+- Clarify the regulatory status.
 - Do not pursue hordeolum or the other bacterial and non-poxvirus predictions unless new in vitro or clinical evidence emerges.
 ## Disclaimer
 

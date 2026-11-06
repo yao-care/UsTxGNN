@@ -84,7 +84,7 @@ The table covers the juvenile idiopathic arthritis prediction, the only one with
 
 ## US Market Information
 
-All seven authorizations are generic capsules and all are now cancelled. No approved-indication text is available for them.
+No approved-indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -93,8 +93,6 @@ All seven authorizations are generic capsules and all are now cancelled. No appr
 | ANDA208340 (Unichem Pharmaceuticals) | Piroxicam | Capsule | Not available |
 | ANDA074131 (Teva Pharmaceuticals USA) | Piroxicam | Capsule | Not available |
 | ANDA206152 (Micro Labs Limited) | Piroxicam | Capsule | Not available |
-
-Two further cancelled authorizations are not shown: ANDA206136 (Proficient Rx) and ANDA074118 (Bryant Ranch Prepack).
 
 ## Safety Considerations
 

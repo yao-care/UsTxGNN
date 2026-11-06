@@ -120,7 +120,6 @@ The prediction is supported only by a model score, with no clinical trials or pu
 - Mechanism of action data and a biological rationale connecting dopaminergic or serotonergic antagonism to retinal degeneration
 - Preclinical evidence (for example, retinal disease models) before any clinical consideration
 - Package insert warnings and contraindications to complete the safety review
-- Verification of the cancelled market status and its effect on development feasibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

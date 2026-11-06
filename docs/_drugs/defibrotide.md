@@ -110,7 +110,7 @@ The top prediction (pseudo-von Willebrand disease) rests on a model score alone,
 - Detailed mechanism-of-action data
 - For any follow-up, a narrowed research question focused on TA-TMA, not classical autoimmune TTP or the bleeding disorders
 - A review of the 1994 report of TTP after defibrotide, and a bleeding-risk assessment
-- Clarification of why the US license was cancelled and whether a route and formulation are still available
+- Clarification of whether a route and formulation are still available
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -105,7 +105,7 @@ The TxGNN score is high, but no clinical trials exist and the only publication i
 - Mechanism of action data
 - Assessment of porphyrinogenic potential of buprenorphine
 - Evidence of efficacy beyond pain management in acute intermittent porphyria, or reconsideration of other predicted indications with stronger rationale
-- Clarification of the cancelled US regulatory status and the approved indication text
+- Clarification of the approved indication text
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

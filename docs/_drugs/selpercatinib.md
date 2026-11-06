@@ -106,13 +106,13 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials and no relevant literature, and the mechanistic link to pulmonary hypertension is speculative. Both US NDAs are cancelled, and package insert safety data are missing.
+The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials and no relevant literature, and the mechanistic link to pulmonary hypertension is speculative. Package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, and a mechanistic rationale for RET inhibition in pulmonary vascular disease
 - Preclinical studies in pulmonary hypertension models
 - Package insert warnings and contraindications, in particular any pulmonary vascular or cardiovascular toxicity
-- Clarification of the original approved indications and the reasons for the NDA cancellations
+- Clarification of the original approved indications
 - A review of the drug interaction burden for the intended patient population
 ## Disclaimer
 

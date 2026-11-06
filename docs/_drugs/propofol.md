@@ -97,8 +97,6 @@ Another trial, a double-blind randomized trial of propofol versus placebo in adu
 | ANDA205067 | Propofol Injectable Emulsion (Dr. Reddy's) | Injectable emulsion | Not stated; license valid |
 | ANDA205576 | Propofol (Pfizer) | Injectable emulsion | Not stated; license valid |
 
-There are 9 licenses in total, all listed as cancelled; the table shows the 5 main ones.
-
 ## Safety Considerations
 
 - **Disease-level contraindication signals (knowledge graph, not label text)**: epilepsy, hypotensive disorder, respiratory failure, intracranial arteriosclerosis, inherited lipid metabolism disorder and familial hyperlipidemia.

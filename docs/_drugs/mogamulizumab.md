@@ -104,7 +104,7 @@ For warnings and contraindications, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or publications (evidence level L5). The mechanistic link is a generic Treg-depletion hypothesis, and the high score is shared across several closely related urothelial entities. The US BLA is also listed as cancelled.
+The prediction has no supporting clinical trials or publications (evidence level L5). The mechanistic link is a generic Treg-depletion hypothesis, and the high score is shared across several closely related urothelial entities.
 
 **To proceed, the following is needed:**
 - Confirmation of CCR4 expression and Treg involvement in urothelial carcinoma tissue (preclinical or translational data)

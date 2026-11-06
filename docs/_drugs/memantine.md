@@ -89,7 +89,7 @@ A placebo-controlled RCT in migraine without aura ([PMID 26638119](https://pubme
 
 ## US Market Information
 
-All 13 US authorizations are generic applications (ANDAs) and all are listed as cancelled. No approved-indication text was recorded. The first five are shown below.
+No approved-indication text was recorded. The first five are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

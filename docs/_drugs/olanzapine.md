@@ -72,7 +72,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 10 US records are cancelled generic applications. No approved-indication text was available.
+No approved-indication text was available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

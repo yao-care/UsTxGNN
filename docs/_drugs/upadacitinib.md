@@ -76,8 +76,6 @@ Currently no related literature available.
 | NDA211675 | Rinvoq (AbbVie Inc.) | Tablet, extended release | Not available |
 | NDA218347 | Rinvoq (AbbVie Inc.) | Solution | Not available |
 
-Both authorizations are listed as cancelled in the data compiled for this report.
-
 ## Safety Considerations
 
 - **Drug Interactions**: The interaction screening returned 100 interacting drugs in total; the 20 reviewed here show the following pattern:
@@ -91,13 +89,12 @@ Both authorizations are listed as cancelled in the data compiled for this report
 **Decision: Hold**
 
 **Rationale:**
-The only support is a high TxGNN model (deep learning) score. There are no clinical trials or publications, no plausible mechanistic link to JAK1 signaling, and the product's US authorizations are cancelled. A benefit-risk case cannot be made for a congenital structural condition given the known JAK inhibitor safety profile.
+The only support is a high TxGNN model (deep learning) score. There are no clinical trials or publications, no plausible mechanistic link to JAK1 signaling. A benefit-risk case cannot be made for a congenital structural condition given the known JAK inhibitor safety profile.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (required before any safety screening)
 - Mechanism of action data to assess whether any biological link exists
 - Evidence of a JAK-STAT or inflammatory component in the predicted condition (e.g., preclinical or genetic studies)
-- Clarification of the cancelled US authorization status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

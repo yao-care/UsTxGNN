@@ -94,7 +94,7 @@ The prediction has no clinical trial or literature support (Evidence Level L5), 
 - Mechanistic evidence for complement involvement in G6PC3-deficiency neutropenia, such as preclinical or biomarker studies
 - Detailed mechanism-of-action data for ravulizumab
 - The full package insert, to review warnings and contraindications
-- Clarification of the US regulatory status and the reason for cancellation
+- Clarification of the US regulatory status
 - A risk-benefit assessment of infection risk (including meningococcal vaccination and prophylaxis) in neutropenic patients
 ## Disclaimer
 

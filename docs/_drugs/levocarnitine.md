@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Levocarnitine is a carnitine product that supports fatty acid transport into mitochondria, and its US licenses are currently all in cancelled status.
+Levocarnitine is a carnitine product that supports fatty acid transport into mitochondria.
 The TxGNN model predicts it may be effective for **autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome**, an ultra-rare vascular and basement-membrane disorder.
 This prediction has **0 clinical trials** and **0 publications** behind it, so it rests on the model score alone.
 

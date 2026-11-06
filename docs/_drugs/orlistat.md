@@ -96,7 +96,7 @@ For package-insert warnings, please refer to the official label.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials or literature (Evidence Level L5). The proposed mechanism, reduced fat-soluble vitamin absorption, is a known adverse effect of orlistat rather than an established benefit. Both US authorizations are cancelled.
+The prediction rests only on a model score, with no clinical trials or literature (Evidence Level L5). The proposed mechanism, reduced fat-soluble vitamin absorption, is a known adverse effect of orlistat rather than an established benefit.
 
 **To proceed, the following is needed:**
 - Clinical or literature evidence for orlistat in fat-soluble vitamin excess

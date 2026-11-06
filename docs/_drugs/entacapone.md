@@ -99,8 +99,6 @@ Two preclinical publications relate to the Lewy body dementia prediction (rank 7
 | ANDA205792 | Entacapone (Ajanta Pharma USA) | Tablet | Not specified; valid |
 | ANDA207210 | Entacapone (Macleods Pharmaceuticals) | Tablet | Not specified; valid |
 
-One further cancelled license is not shown: ANDA206669 (Lannett Company, tablet, film coated). All six licenses are for oral tablets and all are cancelled.
-
 ## Safety Considerations
 
 - **Contraindication signals from the knowledge graph** (these are graph-derived associations, not package insert text): multiple system atrophy, orthostatic hypotension, postural orthostatic tachycardia syndrome, drug-induced dyskinesia, epilepsy, peptic ulcer disease, anxiety and other mental disorders (including psychotic disorders and schizophreniform and schizoaffective disorders), kidney disease, liver disease, gallbladder disease, open-angle and angle-closure glaucoma, diabetes mellitus and diabetic ketoacidosis, melanoma, myocardial infarction and coronary thrombosis, sudden cardiac arrest, heart conduction disease, hemoglobinopathy, and diarrheal disease.

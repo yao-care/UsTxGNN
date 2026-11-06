@@ -99,7 +99,7 @@ No publications were found for trigeminal nerve neoplasm.
 | ANDA207093 | Felbamate (Taro Pharmaceuticals U.S.A.) | Tablet | Not listed (valid) |
 | ANDA211333 | Felbamate (Novitium Pharma) | Suspension | Not listed (valid) |
 
-Eight authorizations are on record in total, and all are cancelled. The table shows five of them.
+The table shows five of them.
 
 ---
 

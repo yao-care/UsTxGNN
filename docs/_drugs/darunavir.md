@@ -105,8 +105,6 @@ All 10 authorizations listed below are in valid status. The data compiled for th
 | ANDA206288 | Darunavir 600 and 800 mg (Cipla USA) | Tablet | Not available in the data |
 | ANDA202073 | Darunavir (Lupin Pharmaceuticals) | Tablet, film coated | Not available in the data |
 
-Five further generic ANDAs (Viona, Amneal, Dr. Reddy's, a second Camber, and NuCare) are also cancelled.
-
 ---
 
 ## Safety Considerations
@@ -134,7 +132,6 @@ The predictions come from the TxGNN model (deep learning) and may reflect simila
 - Detailed mechanism-of-action data
 - Evidence of darunavir's individual contribution in the SIV studies, and any direct data on activity against FIV protease
 - A clear definition of the target population and the added value beyond the existing HIV indication
-- Clarification of the cancelled US market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

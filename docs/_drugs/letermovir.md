@@ -78,7 +78,7 @@ Currently no related literature available.
 | NDA219104 | PREVYMIS | Pellet | Indication text not available (status: valid) |
 | NDA209940 | PREVYMIS | Injection, solution | Indication text not available (status: valid) |
 
-All three authorizations (manufacturer: Merck Sharp & Dohme LLC) are listed as cancelled in the compiled data. This status should be verified against current FDA records before any planning.
+This status should be verified against current FDA records before any planning.
 
 ## Safety Considerations
 
@@ -100,7 +100,7 @@ The prediction has only a model score behind it. There are no clinical trials or
 **To proceed, the following is needed:**
 - Confirmation of the mechanism of action and any plausible link to *Candida* biology
 - In vitro antifungal activity data against *Candida* species
-- Package insert warnings and contraindications (not yet available), plus clarification of the cancelled US authorization status
+- Package insert warnings and contraindications (not yet available)
 - Assessment of route compatibility for a vaginal or other local formulation, since current dosage forms are oral, injectable, and pellet
 - Review of the major drug interactions for the intended patient population
 ## Disclaimer

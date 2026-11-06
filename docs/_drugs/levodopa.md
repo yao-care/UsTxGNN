@@ -72,7 +72,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The data compiled for this report list 12 authorizations, all with cancelled status and no approved indication text. The main ones are shown below.
+The main ones are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

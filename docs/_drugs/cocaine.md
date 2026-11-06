@@ -90,7 +90,7 @@ Please refer to the package insert for full warnings, contraindications and drug
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score. There are no clinical trials, the single paper does not involve cocaine, no plausible mechanism links cocaine to cauda equina syndrome, and both US licenses are cancelled. The safety profile (cardiovascular risk, abuse potential, mucosal toxicity) is also unfavorable.
+The prediction is supported only by the model score. There are no clinical trials, the single paper does not involve cocaine, no plausible mechanism links cocaine to cauda equina syndrome. The safety profile (cardiovascular risk, abuse potential, mucosal toxicity) is also unfavorable.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

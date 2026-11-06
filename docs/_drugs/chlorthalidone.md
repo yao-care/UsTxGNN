@@ -90,8 +90,6 @@ For reference, the literature linked to the related prediction of chronic pulmon
 | ANDA214129 | Chlorthalidone (Ajanta Pharma USA Inc.) | Tablet | Not available (valid) |
 | ANDA207813 | Chlorthalidone (Zydus Lifesciences Limited) | Tablet | Not available (valid) |
 
-A total of 9 licenses are listed, and all are cancelled.
-
 ## Safety Considerations
 
 - **Contraindications / conditions of concern (from a drug-disease knowledge graph, not label text)**: liver failure, kidney disease, anuria, gout and hyperuricemia, potassium deficiency, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease, type 2 diabetes mellitus, systemic lupus erythematosus, asthma, pancreatitis, peptic ulcer disease, psoriasis, myocardial infarction, sudden cardiac arrest, epilepsy, anxiety and related disorders, and hemoglobinopathy.

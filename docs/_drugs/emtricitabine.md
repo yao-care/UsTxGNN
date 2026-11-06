@@ -120,7 +120,6 @@ The high TxGNN score (0.9992) comes from the TxGNN model (deep learning) and may
 - Confirmation that a human-relevant new indication exists (SIV and FIV are animal diseases)
 - Mechanism of action data
 - FDA package insert warnings and contraindications
-- Clarification of the cancelled US market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

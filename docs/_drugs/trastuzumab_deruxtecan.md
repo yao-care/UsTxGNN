@@ -110,7 +110,7 @@ The prediction rests only on a model score (evidence level L5), with no clinical
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (MOA) to evaluate any link to bone metabolism
 - Preclinical or mechanistic evidence supporting an effect on bone turnover
-- Confirmation of the original approved indications and the reason the US license is recorded as cancelled
+- Confirmation of the original approved indications
 - A comparison with established treatments for drug-induced osteoporosis, and a risk-benefit assessment
 ## Disclaimer
 

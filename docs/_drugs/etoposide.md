@@ -122,8 +122,6 @@ Approved indication text was not available.
 | NDA020457 | Etopophos (H2-Pharma) | Lyophilised powder for injection | Not available |
 | ANDA074529 | Etoposide (BluePoint) | Concentrated injection solution | Not available |
 
-Two further cancelled authorisations are not shown: NDA220200 (Avopef, Avyxa Pharma) and ANDA074983 (Etoposide, Fresenius Kabi).
-
 ## Cytotoxicity
 
 | Item | Content |

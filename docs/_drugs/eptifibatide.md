@@ -111,8 +111,6 @@ All seven authorizations are generic ANDAs with a valid status. No approved indi
 | ANDA213081 (Avenacy Inc.) | Eptifibatide | Injection, solution | Not recorded |
 | ANDA213599 (Meitheal Pharmaceuticals) | Eptifibatide | Injection, solution | Not recorded |
 
-*Two further cancelled ANDAs (Sagent, ANDA204693; Slate Run, ANDA209864) are not shown.*
-
 ---
 
 ## Safety Considerations

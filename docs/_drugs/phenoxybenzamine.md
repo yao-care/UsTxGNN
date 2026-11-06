@@ -81,7 +81,7 @@ Currently no related literature available.
 | ANDA215042 | Phenoxybenzamine Hydrochloride (Novitium Pharma LLC) | Capsule | Not listed (license valid) |
 | ANDA215600 | Phenoxybenzamine Hydrochloride (Aurobindo Pharma Limited) | Capsule | Not listed (license valid) |
 
-All three licenses are for single-ingredient oral capsules, and all are cancelled. Availability of the drug in the US is therefore limited.
+Availability of the drug in the US is therefore limited.
 
 ## Safety Considerations
 
@@ -107,7 +107,7 @@ The prediction is supported only by the TxGNN model score, with no clinical tria
 - Detailed mechanism-of-action data
 - Preclinical or literature evidence on the effect of phenoxybenzamine on intraocular pressure and aqueous humor dynamics
 - Assessment of ocular perfusion risk and a feasibility review of the route of administration (for example, a topical ophthalmic formulation versus systemic oral use)
-- Clarification of drug supply, given that the US market status is cancelled
+- Clarification of drug supply
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -93,8 +93,6 @@ The records contain no approved indication text.
 | NDA021951 | Isotretinoin (Sun Pharmaceutical) | Capsule | Not available (valid) |
 | ANDA076135 | Claravis (Teva) | Capsule, liquid filled | Not available (valid) |
 
-Five more cancelled authorizations are on record, including ZENATANE (Dr. Reddy's) and products from Amneal and Mayne Pharma.
-
 ---
 
 ## Cytotoxicity
@@ -130,7 +128,7 @@ The prediction rests only on a TxGNN model (deep learning) score, with no clinic
 - Verification of the original indication, to confirm whether hypertension is an artifact
 - Preclinical or mechanistic evidence linking retinoid signaling to malignant renovascular hypertension or malignant hypertensive renal disease
 - A review of whether the two predictions are independent
-- An assessment of the teratogenicity risk management and the practical feasibility of development, given the cancelled market status
+- An assessment of the teratogenicity risk management and the practical feasibility of development
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

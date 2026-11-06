@@ -121,7 +121,6 @@ The stroke prediction comes from the TxGNN model (deep learning) and may reflect
 - Package insert warnings and contraindications (a current blocking gap)
 - Mechanism of action data to support a mechanistic-link analysis
 - Evidence that dofetilide-based rhythm control reduces stroke or cerebrovascular events beyond anticoagulation
-- A review of whether the cancelled US market status limits practical development
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

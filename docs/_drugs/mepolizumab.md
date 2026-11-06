@@ -93,7 +93,7 @@ The prediction rests on a single case report confounded by concomitant therapy, 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently blocking safety screening)
 - Detailed mechanism of action data
-- Clarification of current US market status, as both listed BLAs are cancelled
+- Clarification of current US market status
 - Further clinical evidence, such as case series or prospective studies in hypereosinophilia-associated immune thrombocytopenia
 - Assessment of whether the other predicted indications (primary release disorder of platelets, pseudo-von Willebrand disease, autoimmune thrombocytopenic, Glanzmann thrombasthenia) have any plausible rationale; at present they are supported only by model scores, and no mechanistic link is evident
 ## Disclaimer

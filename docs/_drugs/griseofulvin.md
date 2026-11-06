@@ -117,7 +117,7 @@ The prediction rests on a model score alone (Evidence Level L5), with no trials 
 - FDA package insert warnings and contraindications, needed for safety screening
 - In vitro or animal data showing larvicidal activity (for myiasis), or protoscolicidal or cyst-model data (for echinococcosis, the most conceivable alternative)
 - A review of whether the identical subtype scores reflect an ontology artefact
-- Assessment of the formulation and route needed for any new indication, including the implications of the cancelled US marketing status
+- Assessment of the formulation and route needed for any new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

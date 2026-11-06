@@ -94,8 +94,6 @@ All six US authorizations are valid, and no approved-indication text is availabl
 | ANDA213239 | Deferiprone (Hikma) | Tablet, coated | Not available |
 | ANDA208800 | Deferiprone (Sun Pharmaceutical) | Tablet | Not available |
 
-One further authorization, ANDA220132 (Dr. Reddy's, coated tablet), is also cancelled.
-
 ---
 
 ## Safety Considerations

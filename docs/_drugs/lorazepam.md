@@ -106,8 +106,6 @@ The drug is marketed in the US, with seven valid authorizations. Approved-indica
 | ANDA078203 | Lorazepam (Proficient Rx) | Tablet | Not available |
 | ANDA072928 | Lorazepam (Golden State Medical Supply) | Tablet | Not available |
 
-Two further cancelled ANDAs (ANDA203572, Preferred Pharmaceuticals; ANDA076045, PD-Rx) are not shown.
-
 ---
 
 ## Safety Considerations

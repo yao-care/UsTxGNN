@@ -82,8 +82,6 @@ Currently no related clinical trials registered.
 | ANDA213374 | Deferasirox oral (Ascend) | Granule | Not listed (valid) |
 | ANDA207124 | Deferasirox (Teva) | Tablet for suspension | Not listed (valid) |
 
-All 15 US authorizations compiled for this report are in cancelled status.
-
 ## Safety Considerations
 
 - **Contraindication-related conditions (not from label text)**: liver failure, liver disease, cirrhosis, kidney disease, impaired renal function, thrombocytopenia, neutropenia and other severe neutropenia syndromes, agranulocytosis, anemia, hyperbilirubinemia (including Gilbert syndrome), gallbladder disease, active peptic ulcer disease, ocular hypertension, multiple organ dysfunction syndrome, and cancer.

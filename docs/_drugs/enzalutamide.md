@@ -112,7 +112,7 @@ For other safety information (warnings, contraindications), please refer to the 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or publications (L5). It also overlaps with enzalutamide's existing prostate cancer indication, and there is no known androgen-receptor-driven mechanism in brain cancer. Both US NDAs are currently listed as cancelled.
+The prediction has no supporting trials or publications (L5). It also overlaps with enzalutamide's existing prostate cancer indication, and there is no known androgen-receptor-driven mechanism in brain cancer.
 
 That evidence is almost entirely in prostate cancer, so it largely rediscovers the existing use rather than showing a new indication.
 
@@ -120,7 +120,7 @@ That evidence is almost entirely in prostate cancer, so it largely rediscovers t
 - Clarification of whether the "prostate cancer/brain cancer susceptibility" category represents a distinct, treatable disease.
 - Any trial or mechanistic evidence of androgen receptor involvement in the predicted condition.
 - Detailed mechanism of action data and the full package insert warnings and contraindications.
-- Verification of the current US market status, since both NDAs are listed as cancelled.
+- Verification of the current US market status.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

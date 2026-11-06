@@ -117,7 +117,7 @@ Evidence is limited to one case report and narrative reviews, with no registered
 - Confirmed original indication and mechanism of action from DrugBank or the label
 - Controlled clinical data, or at least a systematic case series, in refractory chronic migraine
 - An assessment of route feasibility (intrathecal delivery) and of whether a less invasive formulation is realistic
-- Confirmation of the current US regulatory and supply status, given that the NDA is cancelled
+- Confirmation of the current US regulatory and supply status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

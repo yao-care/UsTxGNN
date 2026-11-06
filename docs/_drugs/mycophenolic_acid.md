@@ -106,7 +106,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The 0.9960 TxGNN score is a computational prediction. The only supporting material is indirect: a trial of a different drug (basiliximab) and a pharmacokinetic dosing paper. No efficacy data show that mycophenolic acid treats hemoglobinopathy itself. The US product is also cancelled.
+The 0.9960 TxGNN score is a computational prediction. The only supporting material is indirect: a trial of a different drug (basiliximab) and a pharmacokinetic dosing paper. No efficacy data show that mycophenolic acid treats hemoglobinopathy itself.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

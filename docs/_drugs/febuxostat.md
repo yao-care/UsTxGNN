@@ -124,7 +124,7 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-Further urate lowering in renal hypouricemia is mechanistically counterproductive. The only supporting evidence is a single hypothesis-level case report, and the one registered trial is unrelated to the condition. The data are limited to the model prediction plus weak literature (L4). Market status is cancelled only, and the knowledge graph flags cardiovascular and cerebrovascular contraindication signals.
+Further urate lowering in renal hypouricemia is mechanistically counterproductive. The only supporting evidence is a single hypothesis-level case report, and the one registered trial is unrelated to the condition. The data are limited to the model prediction plus weak literature (L4). The knowledge graph flags cardiovascular and cerebrovascular contraindication signals.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

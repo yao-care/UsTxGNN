@@ -108,8 +108,6 @@ Note: the literature shows that treosulfan compared favorably with reduced-inten
 | ANDA210931 | Busulfan (Armas) | Injection, solution | Not available |
 | ANDA212127 | Busulfan (Meitheal) | Injection, solution | Not available |
 
-Four more ANDAs (Amneal, Sagent, Eugia, Hospira) are also listed as cancelled.
-
 ## Cytotoxicity
 
 | Item | Content |

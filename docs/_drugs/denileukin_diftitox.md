@@ -118,7 +118,7 @@ Many of the major and moderate interactions involve immunosuppressive or immunom
 **Decision: Hold**
 
 **Rationale:**
-The only supporting evidence for metastatic neoplasm is early-phase (mostly Phase 1/2) studies where the drug serves as a Treg-depleting adjunct, with inconsistent results and no Phase 3 trial. The three top-scoring predictions have no study evidence at all, and the product's US market status is "Cancelled only". The package insert safety information is also missing, so safety screening cannot proceed.
+The only supporting evidence for metastatic neoplasm is early-phase (mostly Phase 1/2) studies where the drug serves as a Treg-depleting adjunct, with inconsistent results and no Phase 3 trial. The three top-scoring predictions have no study evidence at all. The package insert safety information is also missing, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)

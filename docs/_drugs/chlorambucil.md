@@ -121,14 +121,14 @@ Please refer to the package insert for full safety information, as label warning
 **Decision: Hold**
 
 **Rationale:**
-The top prediction has no trials and no subtype-specific literature, and chlorambucil has largely been replaced by BTK and BCL2 inhibitors in CLL/SLL. The US license is cancelled, and the safety profile includes significant myelosuppression and second-malignancy risk. Primary pulmonary lymphoma (indolent MALT type) is the most promising secondary lead (L3), but even there the evidence is retrospective or case-level.
+The top prediction has no trials and no subtype-specific literature, and chlorambucil has largely been replaced by BTK and BCL2 inhibitors in CLL/SLL. The safety profile includes significant myelosuppression and second-malignancy risk. Primary pulmonary lymphoma (indolent MALT type) is the most promising secondary lead (L3), but even there the evidence is retrospective or case-level.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (for example from DrugBank)
 - For the top prediction: evidence that chlorambucil offers a benefit in IGHV-mutated CLL/SLL over current targeted therapies, such as a comparative analysis of existing CLL trial data by IGHV status
 - For primary pulmonary lymphoma: a structured review of chlorambucil use in MALT/marginal zone lymphoma, and a decision on whether a prospective study is justified
-- A clear regulatory and availability assessment, given that the US NDA is cancelled
+- A clear regulatory and availability assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

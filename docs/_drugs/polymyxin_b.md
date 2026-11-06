@@ -106,7 +106,7 @@ No literature is available for laryngotracheitis.
 
 ## US Market Information
 
-All five US authorizations are generic (ANDA) injectable products and are listed as cancelled. Approved indication text is not available in the data compiled for this report.
+Approved indication text is not available in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -148,7 +148,7 @@ For bronchitis, the evidence is limited to indirect, small, or old studies and a
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data and the original approved indication text
 - For bronchitis: controlled clinical data on inhaled polymyxin B with a respiratory safety assessment (bronchospasm risk), and a clear distinction between bronchitis and ventilator-associated pneumonia or tracheobronchitis
-- For conjunctivitis: confirmation of the current US status of polymyxin B ophthalmic products, since the injectable licenses listed are all cancelled, and evaluation of polymyxin B alone versus the combination
+- For conjunctivitis: confirmation of the current US status of polymyxin B ophthalmic products, and evaluation of polymyxin B alone versus the combination
 - Route and formulation compatibility assessment (currently only injectable forms are listed)
 ## Disclaimer
 

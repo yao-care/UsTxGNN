@@ -133,7 +133,7 @@ Clomipramine has a plausible serotonergic mechanism and supportive older studies
 - Detailed mechanism of action data
 - A dedicated randomised trial in a defined anxiety disorder (for example, panic disorder)
 - A safety monitoring plan covering cardiac, seizure and anticholinergic risks, and a drug interaction review
-- Clarification of practical availability, given that the US market status is cancelled only
+- Clarification of practical availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

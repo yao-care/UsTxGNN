@@ -79,8 +79,6 @@ Currently no related literature available.
 | NDA214155 | Kimyrsa | Lyophilized powder for injection solution | Not available (status: valid) |
 | NDA206334 | Orbactiv | Lyophilized powder for injection solution | Not available (status: valid) |
 
-Both authorizations are held by Melinta Therapeutics, LLC and are currently listed as cancelled.
-
 ## Safety Considerations
 
 - **Drug Interactions**: 38 interactions were identified in total. The first 20 retrieved include one Major interaction and mostly Moderate ones.
@@ -97,14 +95,14 @@ Please refer to the package insert for warnings and contraindications, as these 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trial or literature support (Evidence Level L5). Known pharmacology also argues against it: glycopeptides are poorly active against Gram-negative anaerobes because of the outer membrane. Both US authorizations are cancelled, and safety label data are missing.
+The prediction has no clinical trial or literature support (Evidence Level L5). Known pharmacology also argues against it: glycopeptides are poorly active against Gram-negative anaerobes because of the outer membrane. Safety label data are missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the FDA
 - Detailed mechanism of action data (MOA)
 - In vitro susceptibility data for oritavancin against Bacteroidaceae (e.g., Bacteroides species)
 - Review of why the model gives high scores to mechanistically implausible indications (viral and cell-wall-deficient pathogens)
-- Clarification of the reasons for the authorization cancellations and of the current US availability
+- Clarification of the current US availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

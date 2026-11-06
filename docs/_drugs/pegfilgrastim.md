@@ -81,8 +81,6 @@ All seven US biologics licenses for pegfilgrastim are valid, and the approved-in
 | BLA761075 | Fulphila (Biocon Biologics Inc.) | Injection | Not available |
 | BLA761084 | FYLNETRA (Amneal Pharmaceuticals LLC) | Injection | Not available |
 
-Two further licenses, NYVEPRIA (BLA761111, Pfizer) and STIMUFEND (BLA761173, Northstar Rx), are also cancelled.
-
 ## Safety Considerations
 
 - **Drug Interactions**: The interaction screen returned 100 potential interactions, all of the ones listed being Moderate severity. Examples include:

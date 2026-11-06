@@ -38,7 +38,7 @@ Evidence Level: **L1** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Potassium is an essential mineral and electrolyte. The data compiled for this report list no approved original indication for it, and it is marketed in the US with 7 valid licenses.
+Potassium is an essential mineral and electrolyte. The data compiled for this report list no approved original indication for it, and it is marketed in the US.
 The TxGNN model predicts it may be effective for **hypertensive disorder**.
 This direction is supported by **25 registered clinical trials** (only a few directly test potassium) and **20 publications**, including **2 meta-analyses of randomized trials**.
 
@@ -70,7 +70,7 @@ Currently, detailed mechanism of action data is not available in the drug record
 
 Two meta-analyses of randomized trials (a dose-response analysis, PMID 32500831, and a systematic review, PMID 23558164) show a consistent blood pressure reduction with higher potassium intake. This gives the prediction a plausible biological basis and human evidence.
 
-Because no original indication is recorded, the link to an existing use cannot be assessed. The product form and dose must also be defined, either dietary or supplement, because the US market records are cancelled and mix potassium citrate with unrelated products.
+Because no original indication is recorded, the link to an existing use cannot be assessed. The product form and dose must also be defined, either dietary or supplement.
 
 **Other predicted indications** have much weaker support and are all rated Hold:
 - *Pulmonary hypertension owing to lung disease and/or hypoxia* (0.9905, L4): the literature is basic science on oxygen-sensitive potassium channels, which does not show that potassium supplementation treats the disease.
@@ -117,15 +117,15 @@ The other registered trials are mostly losartan potassium or similar potassium-s
 
 ## US Market Information
 
-The drug is marketed, with 7 valid licenses, and no approved indication text is recorded. Some entries are unrelated products (for example, a homeopathic pellet and a clorazepate salt) that match the name only.
+The drug is marketed, and no approved indication text is recorded.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA212779 | Potassium Citrate | Tablet, extended release | Not recorded (valid) |
-| ANDA203546 | Potassium Citrate | Tablet, extended release | Not recorded (valid) |
-| ANDA214420 | Potassium Citrate | Tablet, extended release | Not recorded (valid) |
-| ANDA209758 | Potassium Citrate | Tablet, extended release | Not recorded (valid) |
-| ANDA206813 | Potassium Citrate | Tablet | Not recorded (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 13411-868 | JBA ATIV ELECTROLYTE ORS LAVENDER LEMONADE | Advanced Pharmaceutical Services, Inc. Dba Affordable… | Powder | NDC listing, no FDA application (unapproved drug other) |
+| NDC 13411-848 | JBA Collagen-Electrolyte Mocktail | Advanced Pharmaceutical Services, Inc. Dba Affordable… | Powder | NDC listing, no FDA application (unapproved drug other) |
+| NDC 44911-0263 | Trace Mineral Cord | Energique, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 61657-0526 | Met-Tox | wHITE mANUFACTURING INC DBA MICRO-WEST | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 44911-0266 | Pituistat | Energique, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
 
 ---
 
@@ -144,7 +144,7 @@ Based on the literature and trial review, the main risk is **hyperkalemia**, wit
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-For hypertension, two meta-analyses of randomized trials show a consistent blood pressure reduction with higher potassium intake, and the mechanism is plausible. Direct potassium-specific trials are small or old, the market records are cancelled with no recorded indication, and safety label data are missing, so progress should be conditional. The other four predicted indications are not supported and should remain on Hold.
+For hypertension, two meta-analyses of randomized trials show a consistent blood pressure reduction with higher potassium intake, and the mechanism is plausible. Direct potassium-specific trials are small or old, and safety label data are missing, so progress should be conditional. The other four predicted indications are not supported and should remain on Hold.
 
 **To proceed, the following is needed:**
 - Define the product form and dose (dietary vs. supplement)

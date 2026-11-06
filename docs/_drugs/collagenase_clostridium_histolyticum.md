@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-Collagenase Clostridium histolyticum is a collagen-degrading enzyme product that is marketed in the United States as a topical ointment. The TxGNN model predicts it may be relevant to **primary release disorder of platelets**, but **no clinical trials and no publications** were found for this disease. The prediction rests on model output alone, and the mechanistic review found no plausible therapeutic rationale.
+Collagenase Clostridium histolyticum is a collagen-degrading enzyme product that is marketed in the United States. The TxGNN model predicts it may be relevant to **primary release disorder of platelets**, but **no clinical trials and no publications** were found for this disease. The prediction rests on model output alone, and the mechanistic review found no plausible therapeutic rationale.
 
 ## Quick Overview
 
@@ -70,11 +70,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA101995 | COLLAGENASE SANTYL (Smith & Nephew) | Ointment | Not stated; status valid |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125338 | XIAFLEX | AUXILIUM PHARMS | Solution; injection | Valid |
+| BLA761146 | QWO | ENDO GLOBAL AESTHETICS LTD | Solution; subcutaneous | Valid |
+| NDC 85212-0011 | NOAVIA Retinol Moisturizer | Beijing JUNGE Technology Co., Ltd. | Cream | NDC listing, no FDA application (OTC monograph drug) |
 
-At least one valid licence exists, so the drug is currently marketed in the United States. The manufacturer is Smith & Nephew, Inc.
+At least one valid licence exists, so the drug is currently marketed in the United States.
 
 ## Safety Considerations
 

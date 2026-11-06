@@ -38,7 +38,6 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Zinc sulfate is an injectable zinc product.
 The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**.
 Currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
@@ -81,9 +80,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA218059 (cancelled) | Zinc Sulfate (Apotex Corp) | Injection | Not stated |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 69968-0366 | Visine A.C. Itchy Eye Relief | Kenvue Brands LLC | Solution/ drops | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 10742-8146 | Rohto All-In-One | The Mentholatum Company | Liquid | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 69968-0360 | Visine Red Eye Total Comfort Multi-Symptom | Kenvue Brands LLC | Solution/ drops | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 52747-620 | Concept OB | U.S. Pharmaceutical Corporation | Capsule | NDC listing, no FDA application (unapproved drug other) |
+| NDC 52747-621 | Concept DHA | U.S. Pharmaceutical Corporation | Capsule, liquid filled | NDC listing, no FDA application (unapproved drug other) |
 
 ## Safety Considerations
 
@@ -100,8 +103,8 @@ The prediction has a high model score (0.9984) but no clinical trials or publica
 - A systematic literature and trial registry search for zinc in diabetic retinopathy and the other predicted indications
 - Mechanism of action data, for example from DrugBank
 - FDA package insert warnings and contraindications, which are required before any safety screening
-- Confirmation of the original approved indication and the reason for the cancelled authorization
-- A route and formulation compatibility assessment, since the only known product is an injection and ocular use would likely need a different route
+- Confirmation of the original approved indication
+- A route and formulation compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Selenium is an essential trace element, marketed in the US mainly as selenious acid injection (trace-element supplementation) and as a homeopathic pellet. The label-derived indication text was not available in the data compiled for this report. The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but there are currently **0 clinical trials** and only **5 publications**, all observational, preclinical or indirect, so the evidence is very limited.
+Selenium is an essential trace element, marketed in the US as a homeopathic pellet. The label-derived indication text was not available in the data compiled for this report. The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but there are currently **0 clinical trials** and only **5 publications**, all observational, preclinical or indirect, so the evidence is very limited.
 
 ## Quick Overview
 
@@ -74,11 +74,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA209379 (cancelled) | Selenious Acid (American Regent) | Injection, solution | Not available |
-| ANDA219629 (cancelled) | Selenious Acid (Gland Pharma) | Injection, solution | Not available |
-| Not numbered (cancelled) | Selenium Metallicum (Hahnemann Laboratories) | Pellet | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0220-4622 | Selenium metallicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-4628 | Selenium metallicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-4631 | Selenium metallicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-4632 | Selenium metallicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-4639 | Selenium metallicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 196 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

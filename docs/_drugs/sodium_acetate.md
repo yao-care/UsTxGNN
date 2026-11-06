@@ -74,15 +74,17 @@ Literature retrieved for lower-ranked predictions does not support a therapeutic
 
 ## US Market Information
 
-The products below are those in the compiled data, and many contain sodium acetate as a component or excipient rather than as the active ingredient.
+The products below are those in the compiled data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA204890 | Pemetrexed | Lyophilized powder for injection | Not specified |
-| ANDA211899 | Pemetrexed | Lyophilized powder for injection | Not specified |
-| NDA209387 | NIPRIDE RTU | Injection, solution | Not specified |
-| ANDA204071 | Sodium Polystyrene Sulfonate | Powder for suspension | Not specified |
-| ANDA087859 | Sodium Polystyrene Sulfonate | Suspension | Not specified |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA206687 | SODIUM ACETATE | FRESENIUS KABI USA | Solution; intravenous | Valid |
+| ANDA214805 | SODIUM ACETATE | MILLA PHARMS | Solution; intravenous | Valid |
+| ANDA216920 | SODIUM ACETATE | HIKMA | Solution; intravenous | Valid |
+| ANDA218469 | SODIUM ACETATE | AMNEAL | Solution; intravenous | Valid |
+| ANDA219826 | SODIUM ACETATE | SOMERSET THERAPS LLC | Solution; intravenous | Valid |
+
+Showing 5 of 68 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -102,7 +104,7 @@ Please refer to the package insert for label-based warnings and contraindication
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (L5), with no clinical trials or supporting literature and no plausible mechanistic link to prothrombin deficiency. Standard treatment is factor replacement, and the market status is cancelled only.
+The prediction rests on a model score alone (L5), with no clinical trials or supporting literature and no plausible mechanistic link to prothrombin deficiency. Standard treatment is factor replacement.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

@@ -72,15 +72,17 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-At least 15 US licence records are listed, and the list may be partial. Of these, 14 are valid and 1 is cancelled. The approved-indication text is not recorded in the local data. Main authorizations:
+The approved-indication text is not recorded in the local data. Main authorizations:
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA050207 | E.E.S (Carnegie Pharmaceuticals) | Granule, for suspension | Not available |
-| NDA050609 | Erythrocin Lactobionate (Hospira) | Lyophilized powder for injection | Not available |
-| ANDA061905 | E.E.S (Carnegie Pharmaceuticals) | Tablet | Not available |
-| ANDA062447 | Erythromycin (Asclemed USA) | Ointment | Not available |
-| ANDA063211 | Erythromycin (Bryant Ranch Prepack) | Gel | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA061621 | ERYTHROMYCIN | CARNEGIE | Tablet; oral | Valid |
+| ANDA062298 | ERY-TAB | PHARMOBEDIENT | Tablet, delayed release; oral | Valid |
+| ANDA062687 | ERYTHRA-DERM | MICRO LABS | Solution; topical | Valid |
+| ANDA062746 | ERYTHROMYCIN | PHARMOBEDIENT | Capsule, delayed rel pellets; oral | Valid |
+| ANDA063038 | ERYTHROMYCIN | PADAGIS US | Solution; topical | Valid |
+
+Showing 5 of 94 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

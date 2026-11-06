@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm**, 
 | Predicted New Indication | Trigeminal nerve neoplasm |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 34 of 51) |
-| Number of FDA Applications | 51 (active: 34) |
+| US Market Status | Marketed (active FDA-approved applications: 35 of 52) |
+| Number of FDA Applications | 52 (active: 35) |
 | Recommended Decision | Hold |
 
 ---

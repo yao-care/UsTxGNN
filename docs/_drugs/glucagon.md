@@ -93,15 +93,15 @@ This link is indirect. The clinical and literature evidence concerns GLP-1 recep
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA201849 | Glucagon (Fresenius Kabi USA) | Lyophilized powder for injection | Not available (valid) |
-| NDA212097 | Gvoke HypoPen (Xeris) | Injection, solution | Not available (valid) |
-| NDA214231 | Zegalogue (Novo Nordisk) | Injection, solution | Not available (valid) |
-| NDA210134 | Baqsimi (Amphastar) | Powder | Not available (valid) |
-| Not numbered | Glucagon (Professional Complementary Health Formulas) | Liquid | Not available (cancelled) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA204468 | GLUCAGON | MYLAN LABS LTD | Injectable; injection | Valid |
+| ANDA208086 | GLUCAGON | AMPHASTAR PHARMS INC | Injectable; injection | Valid |
+| ANDA214457 | GLUCAGON | LUPIN | Injectable; injection | Valid |
+| ANDA218813 | GLUCAGON | CIPLA | Injectable; injection | Valid |
+| NDA201849 | GLUCAGON | FRESENIUS KABI USA | Powder; intramuscular, intravenous, subcutaneous | Valid |
 
-Of the 5 licence records, 4 are valid and 1 is cancelled.
+Showing 5 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 

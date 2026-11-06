@@ -100,15 +100,15 @@ However, the evidence is mixed. Benefit appears modest, and the drug carries imm
 
 ## US Market Information
 
-The compiled data lists 17 valid licenses, and none includes approved indication text.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA065379 | MYCOPHENOLATE MOFETIL | SANDOZ | Capsule; oral | Valid |
+| ANDA065416 | MYCOPHENOLATE MOFETIL | ACCORD HLTHCARE | Tablet; oral | Valid |
+| ANDA065451 | MYCOPHENOLATE MOFETIL | SANDOZ | Tablet; oral | Valid |
+| ANDA065491 | MYCOPHENOLATE MOFETIL | TEVA PHARMS | Capsule; oral | Valid |
+| ANDA090055 | MYCOPHENOLATE MOFETIL | STRIDES PHARMA | Capsule; oral | Valid |
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA050759 | CellCept | Powder, for suspension | Not recorded |
-| NDA050791 | Myfortic | Tablet, delayed release | Not recorded |
-| NDA216482 | MYHIBBIN | Suspension | Not recorded |
-| ANDA065416 | Mycophenolate mofetil | Tablet | Not recorded |
-| ANDA203859 | Mycophenolate mofetil | Injection, powder, lyophilized | Not recorded |
+Showing 5 of 55 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 
@@ -137,7 +137,7 @@ The HIV prediction has a high model score and a plausible IMPDH and abacavir-pot
 - Mechanism of action data from a curated source such as DrugBank
 - Review of the existing small RCT results (PMID 15353978) and any follow-up showing durable effects on viral load or the latent reservoir
 - A safety plan covering opportunistic infection, malignancy and bone-marrow suppression in HIV patients
-- Clarification of the regulatory status, since 17 listed US licenses are valid
+- Clarification of the regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

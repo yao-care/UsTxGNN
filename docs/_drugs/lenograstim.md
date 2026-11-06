@@ -80,11 +80,12 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | GUNA-GCSF (Guna spa) | Solution / drops | Not available (cancelled) |
-| BLA761134 | RYZNEUTA (Acrotech Biopharma Inc) | Injection | Not available (valid) |
-
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 17089-375 | GUNA-GCSF | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 17089-235 | GUNA-TONSILS | Guna spa | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 17089-076 | CITOMIX | Guna spa | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 17089-067 | ANTI AGE STRESS | Guna spa | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
 
 ## Safety Considerations
 

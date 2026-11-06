@@ -72,9 +72,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA078915 (cancelled) | Polyethylene Glycol (3350), Mylan Institutional Inc. | Powder, for solution | Not specified |
+No FDA application or NDC Directory listing matching this drug was found in the data compiled for this report.
 
 ## Safety Considerations
 

@@ -49,7 +49,7 @@ The TxGNN model predicts it may be relevant to **migraine disorder**, but there 
 | Predicted New Indication | migraine disorder |
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 727) |
+| US Market Status | Marketed (no FDA-approved application; OTC monograph / unapproved listings: 726) |
 | Number of FDA Applications | 0 |
 | Recommended Decision | Hold |
 

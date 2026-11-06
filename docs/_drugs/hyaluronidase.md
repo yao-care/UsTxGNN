@@ -121,17 +121,17 @@ Other predictions:
 
 ## US Market Information
 
-10 of 10 licenses are valid, and the indication text is not recorded for any of them. Most of the products are subcutaneous biologic formulations in which hyaluronidase is a component.
+The indication text is not recorded for any of them. Most of the products are subcutaneous biologic formulations in which hyaluronidase is a component.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA021665 | AMPHADASE | Injection | Not recorded |
-| BLA021640 | VITRASE | Injection, solution | Not recorded |
-| BLA021859 | HYALURONIDASE (HealthFirst) | Injection, solution | Not recorded |
-| BLA761145 | Darzalex Faspro | Injection | Not recorded |
-| BLA761467 | KEYTRUDA QLEX | Injection, solution | Not recorded |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA021640 | VITRASE | BAUSCH AND LOMB | Injectable; injection | Valid |
+| BLA021665 | AMPHADASE | AMPHASTAR PHARM | Injectable; injection | Valid |
+| BLA761064 | RITUXAN HYCELA | GENENTECH INC | Solution; subcutaneous | Valid |
+| BLA761106 | HERCEPTIN HYLECTA | GENENTECH INC | Injectable; subcutaneous | Valid |
+| BLA761145 | DARZALEX FASPRO | JANSSEN BIOTECH | Injectable; injection | Valid |
 
-Five further cancelled BLAs are on record: Opdivo Qvantig, Rybrevant Faspro (two entries), Vyvgart Hytrulo, and Tecentriq Hybreza.
+Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ---
 
@@ -152,7 +152,7 @@ Please refer to the package insert for the full warnings and contraindications.
 **Rationale:**
 - The top-ranked prediction, esotropia, rests on a model score alone, and its only publication describes a complication rather than a treatment.
 - Diabetic retinopathy is the only direction with real clinical-trial history, two completed Phase 3 trials. However, their efficacy outcomes were not available, and the program is historical. Anti-VEGF drugs and laser are now standard care. This direction is best treated as a research question rather than a Go.
-- The drug is marketed in the US, with 10 of 10 licenses valid, and the package insert's warnings and contraindications are missing from the data.
+- The drug is marketed in the US, and the package insert's warnings and contraindications are missing from the data.
 
 **To proceed, the following is needed:**
 - The efficacy and safety results of NCT00198497 and NCT00198510 (published papers or registry results).

@@ -85,15 +85,15 @@ For PAH associated with congenital heart disease (rank 2), supporting data are l
 
 Approved indication text was not available in the data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021272 | Remodulin | Injection, solution | Not available |
-| NDA022387 | Tyvaso | Inhalant | Not available |
-| NDA214324 | Tyvaso DPI | Inhalant | Not available |
-| NDA203496 | Orenitram | Tablet, extended release | Not available |
-| NDA213005 | Yutrepia | Capsule | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA203649 | TREPROSTINIL | SANDOZ | Injectable; intravenous, subcutaneous | Valid |
+| ANDA206648 | TREPROSTINIL | TEVA PHARMS USA | Injectable; intravenous, subcutaneous | Valid |
+| ANDA210214 | TREPROSTINIL | DR REDDYS | Injectable; intravenous, subcutaneous | Valid |
+| ANDA211574 | TREPROSTINIL | ALEMBIC GLOBAL | Injectable; intravenous, subcutaneous | Valid |
+| NDA021272 | REMODULIN | UNITED THERAP | Injectable; intravenous, subcutaneous | Valid |
 
-Four generic injection ANDAs (Dr. Reddy's, Alembic, Sandoz, Teva) are also listed as cancelled.
+Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

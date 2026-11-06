@@ -50,8 +50,8 @@ with **3 clinical trials** and **20 publications** currently supporting this dir
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (active FDA-approved applications: 11 of 13) |
-| Number of FDA Applications | 13 (active: 11) |
+| US Market Status | Marketed (active FDA-approved applications: 12 of 14) |
+| Number of FDA Applications | 14 (active: 12) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

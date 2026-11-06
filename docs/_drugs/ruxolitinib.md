@@ -79,11 +79,11 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|------|
-| NDA215309 | OPZELURA | Cream | Incyte Corporation | Valid |
-| NDA202192 | JAKAFI | Tablet | Incyte Corporation | Valid |
-| NDA217900 | LEQSELVI | Tablet, film coated | Sun Pharmaceutical Industries, Inc. | Valid |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA202192 | JAKAFI | INCYTE CORP | Tablet; oral | Valid |
+| NDA215309 | OPZELURA | INCYTE CORP | Cream; topical | Valid |
+| NDA217180 | JAKAFI XR | INCYTE CORP | Tablet, extended release; oral | Valid |
 
 ---
 

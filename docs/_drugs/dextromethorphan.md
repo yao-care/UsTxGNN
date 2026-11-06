@@ -77,13 +77,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M012 | Childrens Giltuss Honey DM Cough | Liquid | Not stated (valid) |
-| M010 | RoboCough | Liquid | Not stated (valid) |
-| ANDA091135 | cough dm | Suspension | Not stated (valid) |
-| M013 | Dextabs | Tablet | Not stated (valid) |
-| NDA018658 | DELSYM | Suspension, extended release | Not stated (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA040649 | PROMETHAZINE DM | PAI HOLDINGS | Syrup; oral | Valid |
+| ANDA088864 | PROMETHAZINE W/ DEXTROMETHORPHAN | PHARMOBEDIENT | Syrup; oral | Valid |
+| ANDA090575 | PROMETHAZINE HYDROCHLORIDE AND DEXTROMETHORPHAN HYDROBROMIDE | AMNEAL PHARMS | Syrup; oral | Valid |
+| ANDA091070 | GUAIFENESIN AND DEXTROMETHORPHAN HYDROBROMIDE | ACTAVIS LABS FL | Tablet, extended release; oral | Valid |
+| ANDA091687 | PROMETHAZINE HYDROCHLORIDE AND DEXTROMETHORPHAN HYDROBROMIDE | COSETTE PHARMS NC | Syrup; oral | Valid |
+
+Showing 5 of 1792 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -113,7 +115,7 @@ The prediction has the highest model score but no clinical trial or literature s
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data to assess a plausible link to nasal mucosal disease
 - A literature and trial search specific to nasal cavity disease, to determine whether any real-world evidence exists
-- Clarification of the cancelled regulatory status and of route compatibility for any intranasal or other new formulation
+- Clarification of route compatibility for any intranasal or other new formulation
 - A safety assessment covering the knowledge-graph contraindications (cardiac QT risk in particular) and serotonergic interactions
 ## Disclaimer
 

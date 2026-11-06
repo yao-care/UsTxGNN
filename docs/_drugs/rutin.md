@@ -72,13 +72,17 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA219685 | WAYRILZ | Tablet, film coated | Not specified (status: valid) |
-| NDA216059 | JAYPIRCA | Tablet, coated | Not specified (status: valid) |
-| Not available | Rutin (Professional Complementary Health Formulas) | Liquid | Not specified (status: cancelled) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 63083-1541 | Rutin 1541 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 87650-002 | JinXianLian Hepato-Enzyme Regulating Agent | Jiangxi Linyao Ecology Agriculture & Forestry Development… | Extract | NDC listing, no FDA application (unapproved drug other) |
+| NDC 13411-861 | St. Paul Brands Verestor | Advanced Pharmaceutical Services, Inc. Dba Affordable… | Capsule | NDC listing, no FDA application (unapproved drug other) |
+| NDC 13411-862 | JBA Verestor Mega Fiber Powder | Advanced Pharmaceutical Services, Inc. Dba Affordable… | Powder | NDC listing, no FDA application (unapproved drug other) |
+| NDC 59088-003 | Bruselix Bruising | Puretek Corporation | Tablet | NDC listing, no FDA application (unapproved drug other) |
 
-All three authorizations are valid, and no approved indication text is recorded for any of them.
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+No approved indication text is recorded for any of them.
 
 ## Safety Considerations
 
@@ -91,7 +95,7 @@ Please refer to the package insert for further safety information, including war
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model score (L5). There are no clinical trials or relevant publications, the mechanism of action is unavailable, and all US authorizations are valid. Label-based safety information is also missing, which blocks safety screening.
+The prediction is supported only by the TxGNN model score (L5). There are no clinical trials or relevant publications, the mechanism of action is unavailable. Label-based safety information is also missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (download and parse the label)

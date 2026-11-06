@@ -70,12 +70,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not listed | Ferrum Metallicum (Hahnemann Laboratories, Inc.) | Pellet | Not listed (cancelled) |
-| NDA217347 | Sofdra (Botanix SB Inc.) | Gel | Not listed (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 0220-2046 | Ferrum metallicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-2047 | Ferrum metallicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-2050 | Ferrum metallicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-2051 | Ferrum metallicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 0220-2054 | Ferrum metallicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
 
-The licence records may be partial.
+Showing 5 of 164 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

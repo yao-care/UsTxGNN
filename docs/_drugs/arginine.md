@@ -86,13 +86,17 @@ All publications below are preclinical studies or a case report; none is a human
 
 ## US Market Information
 
-All three US authorizations are valid, and no approved indication text is available for them.
+No approved indication text is available for them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA016931 | R-Gene | Injection, solution | Not specified |
-| NDA216956 | Velsipity | Tablet, film coated | Not specified |
-| Not available | L-Arginine High | Liquid | Not specified |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA016931 | R-GENE 10 | PHARMACIA AND UPJOHN | Injectable; injection | Valid |
+| NDC 63083-7401 | L-Arginine 7401 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 63083-7402 | L-Arginine High 7402 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 85551-123 | Non-proprietary name | Xseer Pharmaceuticals | Injection | NDC listing, no FDA application (unapproved drug other) |
+| NDC 63083-2082 | A-L-O Liquid Drops 2082 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+
+Showing 5 of 31 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -114,7 +118,7 @@ Several of these are relevant to the target population, since gastroparesis is o
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible, because arginine is the substrate for nitric oxide production involved in gastric motility. However, the evidence is limited to animal studies and a case report (Evidence Level L4), there are no registered clinical trials, no approved indication is on record, all three US licenses are valid, and package insert safety data are missing.
+The prediction is mechanistically plausible, because arginine is the substrate for nitric oxide production involved in gastric motility. However, the evidence is limited to animal studies and a case report (Evidence Level L4), there are no registered clinical trials, no approved indication is on record, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

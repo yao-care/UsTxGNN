@@ -78,10 +78,9 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA021839 | Increlex (Eton Pharmaceuticals, Inc.) | Injection | Not listed (status: valid) |
-| Not listed | GUNA-IGF (Guna spa) | Solution/drops | Not listed (status: cancelled) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 17089-376 | GUNA-IGF | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
 
 ## Safety Considerations
 
@@ -97,13 +96,13 @@ Please refer to the package insert for other safety information, such as warning
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model (L5). There are no clinical trials or publications, the mechanistic link to Turner syndrome is indirect (GH is the standard therapy), and the US authorizations are cancelled.
+The prediction is supported only by the TxGNN model (L5). There are no clinical trials or publications, the mechanistic link to Turner syndrome is indirect (GH is the standard therapy).
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the FDA (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Literature and trial searches specific to IGF-1 in Turner syndrome, including comparison with standard GH therapy
-- Review of the cancelled market status and route/formulation feasibility
+- Review of route/formulation feasibility
 - A hypoglycemia monitoring plan, given the interactions with glucose-lowering agents
 ## Disclaimer
 

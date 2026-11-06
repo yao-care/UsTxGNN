@@ -69,14 +69,16 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA211097 | Teriparatide | Injection, solution | Apotex Corp. |
-| NDA216490 | Yorvipath | Injection, solution | Ascendis Pharma, Endocrinology, Inc. |
-| NDA021318 | Teriparatide | Injection, solution | Prasco Laboratories |
-| NDA211939 | Teriparatide | Injection, solution | Alvogen, Inc. |
-| ANDA213641 | Teriparatide | Injection | Amphastar Pharmaceuticals, Inc. |
-| ANDA208569 | Teriparatide | Injection, solution | Teva Pharmaceuticals USA, Inc. |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA208569 | TERIPARATIDE | TEVA PHARMS USA | Solution; subcutaneous | Valid |
+| ANDA211097 | TERIPARATIDE | APOTEX | Solution; subcutaneous | Valid |
+| ANDA213641 | TERIPARATIDE | AMPHASTAR PHARMS INC | Solution; subcutaneous | Valid |
+| ANDA214412 | TERIPARATIDE | DR REDDYS | Solution; subcutaneous | Valid |
+| NDA021318 | FORTEO | LILLY | Solution; subcutaneous | Valid |
+| NDA211939 | BONSITY | ALVOGEN | Solution; subcutaneous | Valid |
+
+Showing 6 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

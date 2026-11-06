@@ -78,12 +78,12 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125291 | Lumizyme (Genzyme Corporation) | Injection, powder, for solution | Not available (status: valid) |
-| BLA761194 | Nexviazyme (Genzyme Corporation) | Injection, powder, lyophilized, for solution | Not available (status: valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125141 | MYOZYME | GENZYME | Injectable; iv (infusion) | Valid |
+| BLA125291 | LUMIZYME | GENZYME | Powder; iv (infusion) | Valid |
 
-Both licenses are listed as cancelled in the data compiled for this report, and the dosage forms are injectable only.
+The dosage forms are injectable only.
 
 ## Safety Considerations
 
@@ -96,7 +96,7 @@ No drug interaction records were found, and no knowledge-graph contraindications
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score. There are no clinical trials or publications, and the mechanism is weak: the enzyme targets lysosomal acid alpha-glucosidase, not GBE1 deficiency, and it has limited CNS penetration. The US market status (both licenses cancelled) and the lack of safety label data add further uncertainty.
+The prediction is supported only by a model score. There are no clinical trials or publications, and the mechanism is weak: the enzyme targets lysosomal acid alpha-glucosidase, not GBE1 deficiency, and it has limited CNS penetration. The US market status and the lack of safety label data add further uncertainty.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

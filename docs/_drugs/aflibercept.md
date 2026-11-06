@@ -71,15 +71,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA761378 | AHZANTIVE | Injection, solution | Not available (status: valid) |
-| BLA761377 | EYDENZELT | Injection | Not available (status: valid) |
-| BLA125387 | EYLEA | Injection, solution | Not available (status: valid) |
-| BLA761355 | EYLEA HD | Injection, solution | Not available (status: valid) |
-| BLA761298 | PAVBLU | Injection, solution | Not available (status: valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA125387 | EYLEA | REGENERON PHARMACEUTICALS | Injectable; injection | Valid |
+| BLA761274 | YESAFILI | BIOCON BIOLOGICS INC | Injectable; injection | Valid |
+| BLA761298 | PAVBLU | AMGEN INC | Injectable; injection | Valid |
+| BLA761350 | OPUVIZ | SAMSUNG BIOEPIS CO LTD | Injectable; injection | Valid |
+| BLA761355 | EYLEA HD | REGENERON PHARMACEUTICALS | Injectable; injection | Valid |
 
-A sixth license, BLA125418 (ZALTRAP, solution concentrate, sanofi-aventis U.S. LLC), is also listed as valid. All 6 licenses are valid in the compiled data.
+Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Cytotoxicity
 
@@ -111,7 +111,7 @@ Only a subset of the 78 interactions is shown here. Please refer to the package 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. No clinical trials or publications support aflibercept for esotropia, and no direct mechanistic link between VEGF inhibition and esotropia is established. In addition, the drug is marketed in the US with all 6 licenses valid, and label-based safety data are missing.
+The prediction rests only on a model score. No clinical trials or publications support aflibercept for esotropia, and no direct mechanistic link between VEGF inhibition and esotropia is established. In addition, the drug is marketed in the US, and label-based safety data are missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

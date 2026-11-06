@@ -83,17 +83,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All nine US licenses are valid. No approved-indication text is available in the data compiled for this report.
+No approved-indication text is available in the data compiled for this report.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA013025 | THAM | Injection, solution | Not available |
-| ANDA211558 | Tromethamine | Injection, solution | Not available |
-| ANDA213116 | Tromethamine | Injection, solution | Not available |
-| ANDA217608 | Fosfomycin tromethamine | Granule, for solution | Not available |
-| ANDA214554 | Fosfomycin tromethamine | Granule, for solution | Not available |
-
-Four further licenses (all fosfomycin tromethamine, also cancelled) are not shown.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA211558 | TROMETHAMINE | B BRAUN MEDICAL | Solution; injection | Valid |
+| ANDA213116 | TROMETHAMINE | MILLA PHARMS | Solution; injection | Valid |
+| NDA013025 | THAM | HOSPIRA | Solution; injection | Valid |
+| NDC 83021-686 | Anubis Barcelona Protective Line | ANUBIS COSMETICS SL | Cream | NDC listing, no FDA application (OTC monograph final) |
+| NDC 83021-551 | AnubisMed | ANUBIS COSMETICS SL | Cream | NDC listing, no FDA application (OTC monograph final) |
 
 ---
 
@@ -111,7 +109,7 @@ Package insert warnings and contraindications were not available, so please refe
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5). There are no clinical trials, and the single publication is an adverse-event report about a different drug, so it does not support efficacy. All nine US licenses are valid, and the mechanism and package insert safety data are missing.
+The prediction rests on model output alone (L5). There are no clinical trials, and the single publication is an adverse-event report about a different drug, so it does not support efficacy. The mechanism and package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for tromethamine, and a plausible link to allergic urticaria

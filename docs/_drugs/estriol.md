@@ -78,12 +78,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| nan | LMNOOP Feminine Cream | Cream | Not specified (valid) |
-| M016 | JARDIENT | Cream | Not specified (valid) |
-| ANDA075357 | Arthcal ESTROGEN | Cream | Not specified (valid) |
-| 505G(a)(3) | Vigority Estriol Cream | Cream | Not specified (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDC 73076-207 | LMNOOP Feminine Cream | Shenzhen Ishan Technology Co., Ltd | Cream | NDC listing, no FDA application (unapproved homeopathic) |
+| NDC 82018-0010 | Estriol 5.0 Cream | SHYNE BRANDS | Cream | NDC listing, no FDA application (unapproved drug other) |
+| NDC 84763-013 | Estriol Cream | Yunqi Cosmetics (Shenzhen) Co., Ltd | Cream | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 84867-024 | BUNUSS Estriol Face | Jiashen International Trade Limited | Cream | NDC listing, no FDA application (OTC monograph drug) |
+| NDC 85248-055 | Flocean INTIMATE COMFORT | Jiangxi Yudexi Pharmaceutical Co., LTD | Cream | NDC listing, no FDA application (unapproved drug other) |
+
+Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -96,7 +99,7 @@ Please refer to the package insert for other safety information.
 **Decision: Hold**
 
 **Rationale:**
-The only direct support is one small physiological study and one narrative review, and no clinical trials are registered. The drug is marketed in the US, with 4 of 4 licenses valid, but the safety and mechanism data are incomplete. The high TxGNN score alone (0.9918) is not enough to justify advancing. At this stage it is best treated as a research question.
+The only direct support is one small physiological study and one narrative review, and no clinical trials are registered. The drug is marketed in the US, but the safety and mechanism data are incomplete. The high TxGNN score alone (0.9918) is not enough to justify advancing. At this stage it is best treated as a research question.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

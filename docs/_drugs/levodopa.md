@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Rasmussen subacute encephalitis |
 | TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 28 of 50; OTC monograph / unapproved listings: 19) |
-| Number of FDA Applications | 50 (active: 28) |
+| US Market Status | Marketed (active FDA-approved applications: 29 of 51; OTC monograph / unapproved listings: 19) |
+| Number of FDA Applications | 51 (active: 29) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

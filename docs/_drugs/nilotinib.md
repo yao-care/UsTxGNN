@@ -74,15 +74,17 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Eight valid authorizations are listed. Approved indication text was not available for any of them.
+Approved indication text was not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA022068 | Tasigna (Novartis) | Capsule | Not available |
-| NDA219293 | DANZITEN (Azurity) | Tablet | Not available |
-| NDA218922 | Nilotinib (Cipla USA) | Capsule | Not available |
-| ANDA209651 | Nilotinib (Camber) | Capsule | Not available |
-| ANDA218544 | Nilotinib (Novadoz) | Capsule | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA203640 | NILOTINIB HYDROCHLORIDE | APOTEX | Capsule; oral | Valid |
+| ANDA209651 | NILOTINIB HYDROCHLORIDE | HETERO LABS LTD V | Capsule; oral | Valid |
+| ANDA218350 | NILOTINIB HYDROCHLORIDE | DR REDDYS | Capsule; oral | Valid |
+| ANDA218532 | NILOTINIB HYDROCHLORIDE | TORRENT | Capsule; oral | Valid |
+| ANDA218544 | NILOTINIB HYDROCHLORIDE | MSN | Capsule; oral | Valid |
+
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Cytotoxicity
 
@@ -108,13 +110,13 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale (PDGFR inhibition, analogous to imatinib in DFSP) is plausible and the TxGNN model (deep learning) score is high (0.9931). However, there are no registered clinical trials, only one general review, no nilotinib-specific DFSP data, and no available label safety data. The evidence is L4. The drug is marketed in the US with 8 valid authorizations.
+The mechanistic rationale (PDGFR inhibition, analogous to imatinib in DFSP) is plausible and the TxGNN model (deep learning) score is high (0.9931). However, there are no registered clinical trials, only one general review, no nilotinib-specific DFSP data, and no available label safety data. The evidence is L4. The drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - Obtain and review the FDA package insert (warnings, contraindications, indications), which is a blocking gap for safety screening
 - Obtain detailed mechanism of action data from DrugBank
 - Search for nilotinib-specific DFSP evidence (case series, preclinical PDGFRB-fusion models, imatinib-resistant DFSP)
-- Clarify the approved indications for the 8 valid US authorizations
+- Clarify the approved indications
 - Assess the QT-prolongation, hepatic, and metabolic risks, and the major DDIs, for the target DFSP population
 ## Disclaimer
 

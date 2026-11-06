@@ -72,15 +72,15 @@ Currently no related literature available.
 
 No approved indication text is recorded for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020248 | Intralipid (Fresenius Kabi USA) | Emulsion | Not recorded |
-| NDA018449 | Intralipid (Fresenius Kabi USA) | Emulsion | Not recorded |
-| NDA017643 | Intralipid (Baxter Healthcare) | Emulsion | Not recorded |
-| NDA019942 | Intralipid (Baxter Healthcare) | Emulsion | Not recorded |
-| NDA019531 | NutriLipid I.V. Fat Emulsion (B. Braun) | Injection, solution | Not recorded |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA018449 | INTRALIPID 20% | FRESENIUS | Injectable; injection | Valid |
+| NDA019531 | NUTRILIPID 20% | B BRAUN | Injectable; injection | Valid |
+| NDA019942 | INTRALIPID 30% | FRESENIUS | Injectable; injection | Valid |
+| NDA020248 | INTRALIPID 20% | FRESENIUS | Injectable; injection | Valid |
+| NDA204508 | CLINOLIPID 20% | BAXTER HLTHCARE CORP | Emulsion; intravenous | Valid |
 
-Four further cancelled authorizations are not shown: NDA204508 (Clinolipid, Baxter) and three allergenic-extract BLAs (BLA103888, BLA103753, BLA101833; soybean food allergen products).
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

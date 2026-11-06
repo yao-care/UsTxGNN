@@ -77,10 +77,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M017 | TXTK NUMB | Ointment | Not specified (valid) |
-| NDA050138 | BICILLIN C-R 900/300 | Injection, suspension | Not specified (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA080384 | PROCAINE HYDROCHLORIDE | ABRAXIS PHARM | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA080415 | PROCAINE HYDROCHLORIDE | MILES | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA080416 | PROCAINE HYDROCHLORIDE | HOSPIRA | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA080421 | PROCAINE HYDROCHLORIDE | ABRAXIS PHARM | Injectable; injection | Discontinued in Drugs@FDA |
+| ANDA080658 | PROCAINE HYDROCHLORIDE | WATSON LABS | Injectable; injection | Discontinued in Drugs@FDA |
+
+Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 

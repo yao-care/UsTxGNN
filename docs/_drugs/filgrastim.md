@@ -91,15 +91,15 @@ Currently no related literature available.
 
 The approved indication text is not available in the data compiled for this report. All six licenses are listed as valid.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA103353 | NEUPOGEN (Amgen) | Injection, solution | Not available |
-| BLA125553 | ZARXIO (Sandoz) | Injection, solution | Not available |
-| BLA761080 | Nivestym (Pfizer) | Injection, solution | Not available |
-| BLA125294 | GRANIX (Cephalon) | Injection, solution | Not available |
-| BLA761126 | NYPOZI (Cipla) | Injection | Not available |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| BLA103353 | NEUPOGEN | AMGEN | Syringe | Valid |
+| BLA125553 | ZARXIO | SANDOZ INC | Injectable; injection | Valid |
+| BLA761027 | FILKRI | ACCORD BIOPHARMA INC. | Injectable; injection | Valid |
+| BLA761080 | NIVESTYM | HOSPIRA INC | Injectable; injection | Valid |
+| BLA761082 | RELEUKO | KASHIV BIOSCIENCES LLC | Solution; subcutaneous | Valid |
 
-One further license, BLA761082 (RELEUKO, Amneal, injection, solution), is also listed as cancelled.
+Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -122,7 +122,6 @@ The prediction is supported only by the model score. No trials or literature add
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data, and a biological argument linking G-CSF to platelet function
 - Preclinical or clinical evidence specific to platelet disorders
-- Clarification of the cancelled status of all six US licenses and their approved indication text
 - A review of whether a more plausible prediction should be prioritized, such as constitutional thrombocytopenia in the setting of stem cell mobilization
 ## Disclaimer
 

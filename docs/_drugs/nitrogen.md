@@ -72,15 +72,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-Nine US authorizations are valid and the drug is marketed, but none carries approved indication text.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA205738 | NITROGEN, NF | AIR LIQUIDE LARGE INDUSTRIES US LP | Gas; inhalation | Valid |
+| NDA205766 | NITROGEN, NF | LINDE NORTH AMERICA INC | Gas; inhalation | Valid |
+| NDA205805 | NITROGEN, NF | NORCO INC | Gas; inhalation | Valid |
+| NDA205816 | NITROGEN, NF | LINDE GAS PUERTO RICO INC | Gas; inhalation | Valid |
+| NDA205829 | NITROGEN, NF | AIR LIQUIDE AMERICA LP | Gas; inhalation | Valid |
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA205766 | NITROGEN (Keen Compressed Gas Co. Inc.) | Gas | Not stated; valid |
-| NDA205866 | NITROGEN (Air Source Industries Inc) | Gas | Not stated; valid |
-| NDA205850 | Nitrogen (NexAir, LLC) | Gas | Not stated; valid |
-| NDA205713 | Nitrogen (Arcet Equipment Company dba Arc3 Gases North) | Gas | Not stated; valid |
-| NDA205891 | Nitrogen (TIMS SOUTH TEXAS LLC) | Gas | Not stated; valid |
+Showing 5 of 25 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -104,7 +104,7 @@ The model also ranked three further predictions. All have Evidence Level L5, no 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on the TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications and no mechanism of action data. The drug is marketed with 9 valid US authorizations. Nitrogen is an inert gas and cannot correct the FOXF1-related genetic defect.
+The prediction rests only on the TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications and no mechanism of action data. The drug is marketed. Nitrogen is an inert gas and cannot correct the FOXF1-related genetic defect.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are required before any safety screening

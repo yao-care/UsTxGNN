@@ -76,15 +76,12 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA205625 | Fluticasone Furoate Ellipta (Prasco Laboratories) | Powder | Not stated (valid) |
-| NDA022051 | FLONASE SENSIMIST (A-S Medication Solutions) | Metered spray | Not stated (valid) |
-| BLA101833 | Oat Food (Greer Laboratories) | Solution | Not stated (valid) |
-| NDA204275 | Fluticasone Furoate and Vilanterol (Prasco Laboratories) | Powder | Not stated (valid) |
-| NDA209482 | Trelegy Ellipta (GlaxoSmithKline LLC) | Powder | Not stated (valid) |
-
-Five of five authorizations are currently valid in the US market, as a single-ingredient or combination product, in the data compiled for this report.
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA022051 | FLONASE SENSIMIST ALLERGY RELIEF | HALEON US HOLDINGS | Spray, metered; nasal | Valid |
+| NDA205625 | ARNUITY ELLIPTA | GLAXOSMITHKLINE | Powder; inhalation | Valid |
+| NDA204275 | BREO ELLIPTA | GLAXO GRP LTD | Powder; inhalation | Valid |
+| NDA209482 | TRELEGY ELLIPTA | GLAXOSMITHKLINE | Powder; inhalation | Valid |
 
 ## Safety Considerations
 
@@ -99,14 +96,14 @@ Please refer to the package insert for official warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The atopic eczema prediction is mechanistically plausible through the corticosteroid class, but there are no clinical trials and no literature evaluating fluticasone furoate for this condition. The drug is marketed in the US with 5 valid authorizations of 5, but the package insert safety data are missing, so the evidence stays at L4.
+The atopic eczema prediction is mechanistically plausible through the corticosteroid class, but there are no clinical trials and no literature evaluating fluticasone furoate for this condition. The drug is marketed in the US, but the package insert safety data are missing, so the evidence stays at L4.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data from DrugBank
 - Evidence of fluticasone furoate use in atopic eczema, such as trials or comparative studies against established topical corticosteroids
 - Assessment of a suitable topical formulation and route, since current products are inhaled or intranasal
-- Verification of the regulatory and commercial path, given that the drug is marketed with 5 valid US authorizations of 5
+- Verification of the regulatory and commercial path
 - Consideration of bronchitis (L3) as a more evidence-supported alternative research question
 ## Disclaimer
 

@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Glycine is an amino acid that appears in US-listed products such as irrigation solutions and parenteral nutrition. The TxGNN model (deep learning) predicts nasal cavity disease with a score of 0.9985, which may reflect similarities the model learned between related diseases, not biological evidence.
+Glycine is an amino acid that appears in US-listed products such as irrigation solutions. The TxGNN model (deep learning) predicts nasal cavity disease with a score of 0.9985, which may reflect similarities the model learned between related diseases, not biological evidence.
 The TxGNN model predicts it may be effective for **nasal cavity disease**, but the evidence is very thin: **1 clinical trial** (unrelated to glycine) and **2 publications** (neither evaluating glycine) are on record, so this remains a model prediction only.
 
 ## Quick Overview
@@ -74,15 +74,15 @@ The most likely reason for the high prediction score is that the score comes fro
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA018315 | Glycine (ICU Medical Inc.) | Irrigant | Not available (valid) |
-| NDA017865 | Glycine (Baxter Healthcare Corporation) | Solution | Not available (valid) |
-| NDA016784 | Glycine (B. Braun Medical Inc.) | Irrigant | Not available (valid) |
-| NDA018931 | Travasol (Baxter Healthcare Corporation) | Injection | Not available (valid) |
-| NDA020734 | CLINIMIX (Baxter Healthcare Corporation) | Injection | Not available (valid) |
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| NDA016784 | GLYCINE 1.5% IN PLASTIC CONTAINER | B BRAUN | Solution; irrigation | Valid |
+| NDA017865 | AMINOACETIC ACID 1.5% IN PLASTIC CONTAINER | BAXTER HLTHCARE | Solution; irrigation | Valid |
+| NDA018315 | GLYCINE 1.5% IN PLASTIC CONTAINER | OTSUKA ICU MEDCL | Solution; irrigation | Valid |
+| NDA017633 | GLYCINE 1.5% IN PLASTIC CONTAINER | HOSPIRA | Solution; irrigation | Discontinued in Drugs@FDA |
+| NDA018522 | GLYCINE 1.5% IN PLASTIC CONTAINER | BAXTER HLTHCARE | Solution; irrigation | Discontinued in Drugs@FDA |
 
-Two further cancelled entries exist (OUHOE Bean Sunscreen cream and HGH COMPLEX spray), for 7 licenses in total.
+Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
 ## Safety Considerations
 
@@ -110,7 +110,7 @@ The TxGNN score is very high, but there is no supporting clinical or mechanistic
 - Drug interaction data
 - Direct clinical or preclinical studies of glycine in nasal or upper respiratory disease
 - Route and formulation compatibility assessment (e.g., whether a nasal or topical formulation is feasible), since no route data is available
-- Clarification of the regulatory pathway, given that market status is cancelled only
+- Clarification of the regulatory pathway
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

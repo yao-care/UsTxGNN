@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,21 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (6)
 
-### [Drinking 2-3 Cups of Coffee Daily Linked to 43% Lower Risk of Liver Cancer](https://news.google.com/rss/articles/CBMid0FVX3lxTE5MVjJYU0pwMHdjS2hqSkJYaEViY3hob1dqRnlIWk14VVByNzhZdThrOFZ6QnNId2pHeWVtYWdYTzNjT0Zmck9WUGxqTzJEYTFuZHJXRnJMODFMaVZpNzhjbUc4X3hMVXFxV1hWOXE1ZWdpbWlybTdj?oc=5)
+### [As Hormone Use Increases, Some Doctors Warn Slight Cancer Risk Is Being Overlooked - The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjNDSWlLR2pQamhlQW9zSXF4Mm8tOHZQcUFwb1dPVlVTeHlja0NKTVZrdGJweGptNXcxWVVqT1dGeFQycXlONVhWbUt6S3R2ajVNQW1NT1JSbkd6YThWSTVLWXNGYTBXQV9OYW9keTluNlhSdzJxRFRoR1dwRmxma0ZIUQ?oc=5)
 
-2026-11-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
+2026-11-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [AOL.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE5MVjJYU0pwMHdjS2hqSkJYaEViY3hob1dqRnlIWk14VVByNzhZdThrOFZ6QnNId2pHeWVtYWdYTzNjT0Zmck9WUGxqTzJEYTFuZHJXRnJMODFMaVZpNzhjbUc4X3hMVXFxV1hWOXE1ZWdpbWlybTdj?oc=5)
-
----
-
-### [Prostate cancer cases rose 2,000 in year after Chris Hoy’s diagnosis - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSk41NkZtcktNRXpoUGlKR2pmMVlmTVY2ejJBLXI5RmgxRVU0YkItbi1sYVprdHl2Um1DTE5ac1B5c2E3QXRIa1M3WGJHUXMwMnk4M3JZcG1lUlN4MnVxSkY5SG5KeG9ad3ZVWjBZZGMzZzkwVm95NlV0SzI5Tm9jSGlDbjZqakhqZWZLQ3B2djBOZHpCcVBGZi1hNGZUel9uWW55Ng?oc=5)
-
-2026-11-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSk41NkZtcktNRXpoUGlKR2pmMVlmTVY2ejJBLXI5RmgxRVU0YkItbi1sYVprdHl2Um1DTE5ac1B5c2E3QXRIa1M3WGJHUXMwMnk4M3JZcG1lUlN4MnVxSkY5SG5KeG9ad3ZVWjBZZGMzZzkwVm95NlV0SzI5Tm9jSGlDbjZqakhqZWZLQ3B2djBOZHpCcVBGZi1hNGZUel9uWW55Ng?oc=5)
+Source: [The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjNDSWlLR2pQamhlQW9zSXF4Mm8tOHZQcUFwb1dPVlVTeHlja0NKTVZrdGJweGptNXcxWVVqT1dGeFQycXlONVhWbUt6S3R2ajVNQW1NT1JSbkd6YThWSTVLWXNGYTBXQV9OYW9keTluNlhSdzJxRFRoR1dwRmxma0ZIUQ?oc=5)
 
 ---
 
-### [The Teenagers Taking a Cancer Drug to Get Taller - Rolling Stone](https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXlTTkhHOEpPUXUxeldQckkwODB0OHNvLWJtblQ0ZTZjNlZJU0Y1SGszUGpzYkRVNElGd19YNE5zUFk3UUEtSVo4bER4MWJXYmp2bmRGT2c0Ui03d2lkYUtiZng0eDE1NHNzMVFTV3ZNeHRXN05fLVJiQlBfMUR0U2dWLU5WWVYzMm83YzdydWh3OVN2SXJhWTBlVW9tRWo1LTU0?oc=5)
+### [The rise of colon cancer among young people has been a mystery. Boston experts say they now have clues.](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRXZQeUxXbW5BeVFyQ0J3OThXOVpkX0cwTUFVWUZ2WHd5SUNIZmJjdjhEZnJqMkNScTZNZllEQTZ6bzFVWS1QX1RfZnpEMzJrOHMwYk16VWtUeTlyeVJVNmx4dlpOVlpiSXhoRE9LX2RfeVpUeDVJNzh3ZllidGstRVFBYzc2Wmc5UTV1THM5ajN3aF9sY0lRNjVYYWZvSm9wODlLWnllUHN0RnQyQk1iSnpHRS1IdEJYX0g0ZUxMVHp0Q1F6MmxPNlRjVDFvYUpvTEdWc2lRcDUwd2huSG9GRkdZejVZVi1sLTVndXRZQQ?oc=5)
 
-2026-11-05 <span class="news-indication-tag">cancer</span>
+2026-11-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
-Source: [Rolling Stone](https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXlTTkhHOEpPUXUxeldQckkwODB0OHNvLWJtblQ0ZTZjNlZJU0Y1SGszUGpzYkRVNElGd19YNE5zUFk3UUEtSVo4bER4MWJXYmp2bmRGT2c0Ui03d2lkYUtiZng0eDE1NHNzMVFTV3ZNeHRXN05fLVJiQlBfMUR0U2dWLU5WWVYzMm83YzdydWh3OVN2SXJhWTBlVW9tRWo1LTU0?oc=5)
+Source: [Boston.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRXZQeUxXbW5BeVFyQ0J3OThXOVpkX0cwTUFVWUZ2WHd5SUNIZmJjdjhEZnJqMkNScTZNZllEQTZ6bzFVWS1QX1RfZnpEMzJrOHMwYk16VWtUeTlyeVJVNmx4dlpOVlpiSXhoRE9LX2RfeVpUeDVJNzh3ZllidGstRVFBYzc2Wmc5UTV1THM5ajN3aF9sY0lRNjVYYWZvSm9wODlLWnllUHN0RnQyQk1iSnpHRS1IdEJYX0g0ZUxMVHp0Q1F6MmxPNlRjVDFvYUpvTEdWc2lRcDUwd2huSG9GRkdZejVZVi1sLTVndXRZQQ?oc=5)
 
 ---
 
@@ -84,33 +76,17 @@ Source: [Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N
 
 ---
 
-### [Decoding the regulatory programs governing glioblastoma plasticity](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSVjREOWM1TGdqb1hZMmpIUlpsTW1OMG9HbzhuYVJaVHpiTzZlRUF0QVdVSGpCMnlXZzhJa3VFenRIOW13RVByR3Z2WVRSY0l5S1A2bEJPdTQ4anhGZFVR?oc=5)
+### [Drinking 2-3 Cups of Coffee Daily Linked to 43% Lower Risk of Liver Cancer](https://news.google.com/rss/articles/CBMid0FVX3lxTE5MVjJYU0pwMHdjS2hqSkJYaEViY3hob1dqRnlIWk14VVByNzhZdThrOFZ6QnNId2pHeWVtYWdYTzNjT0Zmck9WUGxqTzJEYTFuZHJXRnJMODFMaVZpNzhjbUc4X3hMVXFxV1hWOXE1ZWdpbWlybTdj?oc=5)
 
-2026-11-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-11-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSVjREOWM1TGdqb1hZMmpIUlpsTW1OMG9HbzhuYVJaVHpiTzZlRUF0QVdVSGpCMnlXZzhJa3VFenRIOW13RVByR3Z2WVRSY0l5S1A2bEJPdTQ4anhGZFVR?oc=5)
-
----
-
-### [This woman defied lethal cancer. Can mRNA vaccines make that possible for others?](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMzgyQTRjcGxWUWpBOEwyTVFhOS1teFUyZmNpc2w5YUVuNWxibmlnUlB1TFVKbVFWRWMtSWxjbTdhQTFlNTBvYU94cVpVMjJQQ241QW1YM2N5d3IwMDZPQlhQV3FTUGhRQ296R0dBOERnSkVNU1NFcGFlMjZIeWttaU1IOTl5bUk?oc=5)
-
-2026-11-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
-
-Source: [NPR](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMzgyQTRjcGxWUWpBOEwyTVFhOS1teFUyZmNpc2w5YUVuNWxibmlnUlB1TFVKbVFWRWMtSWxjbTdhQTFlNTBvYU94cVpVMjJQQ241QW1YM2N5d3IwMDZPQlhQV3FTUGhRQ296R0dBOERnSkVNU1NFcGFlMjZIeWttaU1IOTl5bUk?oc=5)
-
----
-
-### [Clues emerge on why colon cancer may be harder to treat in young people - The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUVzclJHUHdVdE8yYk9WYXJtR0J0ZXYzRDNIWjZWUmN2MnhWRmNPOUxsNy1JT1hra2NfZTR5VjVOSG9hcG1CUVc3X183WEpSZjBsVUdpNmQta0RZOGFGbGZKOWJ0bHo0OGt6cEhNbWo2eVhNNS1BVUdUZVRKY0o1UUJkckdDS2RlNFQySmdHWVBUMVB3VWVHbzY2RWE3RnJoZUp6SW1Sdko5MmlqM194V0l3?oc=5)
-
-2026-11-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUVzclJHUHdVdE8yYk9WYXJtR0J0ZXYzRDNIWjZWUmN2MnhWRmNPOUxsNy1JT1hra2NfZTR5VjVOSG9hcG1CUVc3X183WEpSZjBsVUdpNmQta0RZOGFGbGZKOWJ0bHo0OGt6cEhNbWo2eVhNNS1BVUdUZVRKY0o1UUJkckdDS2RlNFQySmdHWVBUMVB3VWVHbzY2RWE3RnJoZUp6SW1Sdko5MmlqM194V0l3?oc=5)
+Source: [AOL.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE5MVjJYU0pwMHdjS2hqSkJYaEViY3hob1dqRnlIWk14VVByNzhZdThrOFZ6QnNId2pHeWVtYWdYTzNjT0Zmck9WUGxqTzJEYTFuZHJXRnJMODFMaVZpNzhjbUc4X3hMVXFxV1hWOXE1ZWdpbWlybTdj?oc=5)
 
 ---
 
 ### [The link between alcohol and breast cancer risk is strong. Here’s what to know. - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxORW4xZXF3SjdPZDZLNzZUN25yaFltR3JrTkxvUXRZWjZRT0pWY1VmOHpZTjF2X2tkQjk2cEoyM2hTb1FJUk9tQTY4UTh4X19IZ1pOWVJHYUplZVJqeHFjaFZka2tGekM5cVNlclNkWEdMWVNfM3RqVGk0TGdmQnNTenYyeUZYd0cyVU1OWFZrOEExdm5YaGJQRkxXS0IweG1aX0VKTHhlVnRxM3pWSGE5SE14Zw?oc=5)
 
-2026-10-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxORW4xZXF3SjdPZDZLNzZUN25yaFltR3JrTkxvUXRZWjZRT0pWY1VmOHpZTjF2X2tkQjk2cEoyM2hTb1FJUk9tQTY4UTh4X19IZ1pOWVJHYUplZVJqeHFjaFZka2tGekM5cVNlclNkWEdMWVNfM3RqVGk0TGdmQnNTenYyeUZYd0cyVU1OWFZrOEExdm5YaGJQRkxXS0IweG1aX0VKTHhlVnRxM3pWSGE5SE14Zw?oc=5)
 

@@ -33,9 +33,17 @@ This page brings together the latest health news about “flu” and lists the d
 
 ## Related News (3)
 
-### [Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times](https://news.google.com/rss/articles/CBMickFVX3lxTE44cjdWNzNadlY3Q1E3UTRtYkh1WUxiY1JGbUJGYmd4czVidHRubWVuV1NLTzJFbXlxUng5NXpZMXM2VHdnSHhlTF9zejJyeHVZdkdadG93aXgwVXM0bE5Hc0FuV1NBYnVpZHdDajVrdGdCUQ?oc=5)
+### [Fitness influencer's vacation getaway takes scary turn after headache leads to ICU - Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxONFBiU09TR0NRYk1KRDlhYklaRHRNN0FOTzhoWklGTUZ3dEktbFhKUDl5RmJQTHdOaTFOUHRGWFpxWm5jV0laSVFMTG83RDlrQS1xYjZKbTF3S2VzWXhsTVd6VE5SdnJnYTRvdTNncnQ5UFBtaC1VVTVTeFNBUWtxeG96MkgtQmpUVWlwbXEwZEFjOE5La1RtRGkyanVKV0RZTHZtTNIBqgFBVV95cUxNeF9MMXBVQjd4eEdnRDZURFJHQXhtcS1lVmF0UVBuR2J1UmpRU1NZMHpwTFBLN1VQcnBhZzR2cUkyXzZDUXNsMnRyRENnTWEyeU5BdUNpOEJpSGtkRDhHckRlMW1Fc3MtQ1ZMNnVBc1ctLUdOdlhaMnc3MzJjZmJ1LWdSNzc2SVVRN0R2MU83NTBhZnJpb25xTWU2V0JrZnllVnhBMGlzdzNEQQ?oc=5)
 
 2026-11-06
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxONFBiU09TR0NRYk1KRDlhYklaRHRNN0FOTzhoWklGTUZ3dEktbFhKUDl5RmJQTHdOaTFOUHRGWFpxWm5jV0laSVFMTG83RDlrQS1xYjZKbTF3S2VzWXhsTVd6VE5SdnJnYTRvdTNncnQ5UFBtaC1VVTVTeFNBUWtxeG96MkgtQmpUVWlwbXEwZEFjOE5La1RtRGkyanVKV0RZTHZtTNIBqgFBVV95cUxNeF9MMXBVQjd4eEdnRDZURFJHQXhtcS1lVmF0UVBuR2J1UmpRU1NZMHpwTFBLN1VQcnBhZzR2cUkyXzZDUXNsMnRyRENnTWEyeU5BdUNpOEJpSGtkRDhHckRlMW1Fc3MtQ1ZMNnVBc1ctLUdOdlhaMnc3MzJjZmJ1LWdSNzc2SVVRN0R2MU83NTBhZnJpb25xTWU2V0JrZnllVnhBMGlzdzNEQQ?oc=5)
+
+---
+
+### [Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times](https://news.google.com/rss/articles/CBMickFVX3lxTE44cjdWNzNadlY3Q1E3UTRtYkh1WUxiY1JGbUJGYmd4czVidHRubWVuV1NLTzJFbXlxUng5NXpZMXM2VHdnSHhlTF9zejJyeHVZdkdadG93aXgwVXM0bE5Hc0FuV1NBYnVpZHdDajVrdGdCUQ?oc=5)
+
+2026-11-05
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMickFVX3lxTE44cjdWNzNadlY3Q1E3UTRtYkh1WUxiY1JGbUJGYmd4czVidHRubWVuV1NLTzJFbXlxUng5NXpZMXM2VHdnSHhlTF9zejJyeHVZdkdadG93aXgwVXM0bE5Hc0FuV1NBYnVpZHdDajVrdGdCUQ?oc=5)
 
@@ -46,14 +54,6 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMickFVX3lxTE
 2026-11-05
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2dTUUcwcndvby1Gb1ZFY0N2Mmdmby00OG5scXVKYlg1ajZLc2ZpNGpjSlNUb1htOTJjSUFUalRtWUtWT3pUcUNwNFNkU1diWlhMVk55dzUydTJ4bkl5ajVTdERXT20yY2p5N3NEZmpiTHpyZkFKUGNpaUlGZDd0YXFsVTYwRFJwWk1aZ0RuQS1kQVAwczltMS03dVJkdnR6aThvNFVMbmVlYzZhbWJXcFZQVEszNVNEU0o4?oc=5)
-
----
-
-### [Aussie fitness influencer hospitalised in Bali after contracting deadly brain infection](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTBSeFNIRktHLUZ5LWc5a3FDLTkwZXRINHRFRnFhMEMxWWducGlDQ1BxNlNfcTBzdUlBdUJWMVoyNGpURlE1dDh2WkhjOEl4M1VRTU0xeE1EQy1wLUxGSkVQZXNjZEkxTWJGT2V4ZjNZQW9RU1BUdGgxekxlaExZbW9HUEhKWEV6dzdpUDFXSEpwQlF4clRmSzFLa19PaVVTbi01RHZB?oc=5)
-
-2026-11-01
-
-Source: [cedarnews.net](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTBSeFNIRktHLUZ5LWc5a3FDLTkwZXRINHRFRnFhMEMxWWducGlDQ1BxNlNfcTBzdUlBdUJWMVoyNGpURlE1dDh2WkhjOEl4M1VRTU0xeE1EQy1wLUxGSkVQZXNjZEkxTWJGT2V4ZjNZQW9RU1BUdGgxekxlaExZbW9HUEhKWEV6dzdpUDFXSEpwQlF4clRmSzFLa19PaVVTbi01RHZB?oc=5)
 
 ---
 

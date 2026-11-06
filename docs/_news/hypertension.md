@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about high blood pressure (hypertension). 2 articles, 1 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # high blood pressure (hypertension) News
@@ -32,19 +32,19 @@ This page brings together the latest health news about “high blood pressure”
 
 ## Related News (2)
 
-### [Healthier salt could prevent millions of deaths from heart disease and stroke, study finds](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
+### [Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LUm5PVW9xZzhiVzRCXzdObnBIdnF3bm14REZVaGd3WWVxX2ZUWGFsUU1IY0tqUkprX2VBSi0xV0prWlZocmZiT3BCSjVpcGMtNG8zVE9nV2lEeEZ3MVFZ?oc=5)
 
-2026-11-04
+2026-11-05
 
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LUm5PVW9xZzhiVzRCXzdObnBIdnF3bm14REZVaGd3WWVxX2ZUWGFsUU1IY0tqUkprX2VBSi0xV0prWlZocmZiT3BCSjVpcGMtNG8zVE9nV2lEeEZ3MVFZ?oc=5)
 
 ---
 
-### [More people are having strokes before 55. Here’s what experts know. - The Washington Post](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWc2Y0pRVHVnaTNoM1ZYOXVhbkhYdE43bkF3UlNPWEhoRTN1VDZVZ2ZRWWljODhUZlppemFVR1lQcXJTRW9pbkVGVW9DbWJHbkVtdnduWWg5TzZQbEdtSlBZd19XOTJRM19YU3pqdTRMSjVMTWdXZ0lSb2FJbVpYY1o4QXZRT2hRUlhtTHlvQV9Bem1MVGRGNmM4bE5hdU1hQ0J2WVB4QzAxSG5NclUtUEgyVFFKWUU?oc=5)
+### [A Simple Salt Switch Could Save Millions of Lives Annually](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWgyaHN3TTJnN2JhN2tlTTBtNzFwZW5tR0h0U2hXTVhVa2ZjMndXNkVLTmNDNDFpUUVITlpWNGZWVkVxOUJXRVhnQWFMMEVGakU2aGRPRmUyWFhub2dJU3ZNc3BGaHJSVVZvZ2x5TGZvYlJKMTBhWkk3SDkwRnYxV1ZtZmVPbUlkZEtDLXlCOWJDbm9Oa1BNdFp3?oc=5)
 
-2026-11-03
+2026-11-05
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWc2Y0pRVHVnaTNoM1ZYOXVhbkhYdE43bkF3UlNPWEhoRTN1VDZVZ2ZRWWljODhUZlppemFVR1lQcXJTRW9pbkVGVW9DbWJHbkVtdnduWWg5TzZQbEdtSlBZd19XOTJRM19YU3pqdTRMSjVMTWdXZ0lSb2FJbVpYY1o4QXZRT2hRUlhtTHlvQV9Bem1MVGRGNmM4bE5hdU1hQ0J2WVB4QzAxSG5NclUtUEgyVFFKWUU?oc=5)
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWgyaHN3TTJnN2JhN2tlTTBtNzFwZW5tR0h0U2hXTVhVa2ZjMndXNkVLTmNDNDFpUUVITlpWNGZWVkVxOUJXRVhnQWFMMEVGakU2aGRPRmUyWFhub2dJU3ZNc3BGaHJSVVZvZ2x5TGZvYlJKMTBhWkk3SDkwRnYxV1ZtZmVPbUlkZEtDLXlCOWJDbm9Oa1BNdFp3?oc=5)
 
 ---
 

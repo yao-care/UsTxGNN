@@ -3,9 +3,9 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 4 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 5 articles, 1 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # CAD (heart disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,29 +30,37 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
-### [NASA's Swift space telescope crashes back to Earth after failed rescue attempt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNemItWFFQRDR6YjVhX3ByNWpVTW5fdHVsNE10blo0MDg5SnRQak5JZDdicDZncnBndkZ4X2hYeHl4cS0yaGpoWjJVVFhqQnNnWnpfYndwcHB2eWdmaHZ4Z2N6OUp6dlVDZzIyMlNUcS1mNXJDRmNLR245S0Q0bnRFekNNMWtqSERWWEZWZmp3X1o5X0tJTDhZ?oc=5)
+### [Measles count in Minnesota surges to highest in decades - Star Tribune](https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2szLXByelNtdVIzOF9sMTZzUFBCTGx2Uzl2eVZFUTdHZVhLTnJtc3FXZ1RBRk9UZjJkbDhheTY4dE1PVHZCUjIxZmZrcW8yZEVfUUxWZVd5X0ZKVk5yWXE0ZDlNaDlEbmhQY2RBSm1iZ21ZTjc3X0Y0VDlMQ01WNXd4aHB6QWZLT05hQVNGWnhzeFk3TURGQnhCeXBRRmh0?oc=5)
 
 2026-11-05
 
-Source: [Space](https://news.google.com/rss/articles/CBMilwFBVV95cUxNemItWFFQRDR6YjVhX3ByNWpVTW5fdHVsNE10blo0MDg5SnRQak5JZDdicDZncnBndkZ4X2hYeHl4cS0yaGpoWjJVVFhqQnNnWnpfYndwcHB2eWdmaHZ4Z2N6OUp6dlVDZzIyMlNUcS1mNXJDRmNLR245S0Q0bnRFekNNMWtqSERWWEZWZmp3X1o5X0tJTDhZ?oc=5)
+Source: [Star Tribune](https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2szLXByelNtdVIzOF9sMTZzUFBCTGx2Uzl2eVZFUTdHZVhLTnJtc3FXZ1RBRk9UZjJkbDhheTY4dE1PVHZCUjIxZmZrcW8yZEVfUUxWZVd5X0ZKVk5yWXE0ZDlNaDlEbmhQY2RBSm1iZ21ZTjc3X0Y0VDlMQ01WNXd4aHB6QWZLT05hQVNGWnhzeFk3TURGQnhCeXBRRmh0?oc=5)
 
 ---
 
-### [Healthier salt could prevent millions of deaths from heart disease and stroke, study finds](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
+### [A Simple Salt Switch Could Save Millions of Lives Annually](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWgyaHN3TTJnN2JhN2tlTTBtNzFwZW5tR0h0U2hXTVhVa2ZjMndXNkVLTmNDNDFpUUVITlpWNGZWVkVxOUJXRVhnQWFMMEVGakU2aGRPRmUyWFhub2dJU3ZNc3BGaHJSVVZvZ2x5TGZvYlJKMTBhWkk3SDkwRnYxV1ZtZmVPbUlkZEtDLXlCOWJDbm9Oa1BNdFp3?oc=5)
 
-2026-11-04
+2026-11-05
 
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWgyaHN3TTJnN2JhN2tlTTBtNzFwZW5tR0h0U2hXTVhVa2ZjMndXNkVLTmNDNDFpUUVITlpWNGZWVkVxOUJXRVhnQWFMMEVGakU2aGRPRmUyWFhub2dJU3ZNc3BGaHJSVVZvZ2x5TGZvYlJKMTBhWkk3SDkwRnYxV1ZtZmVPbUlkZEtDLXlCOWJDbm9Oa1BNdFp3?oc=5)
 
 ---
 
-### [Dangerous mosquito-borne virus surges in popular US state as cases reach highest levels in decades](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaU5Sa3dfcmttUl94bW1sMlpKbVZnVXVfN1EwQUYzWnpqaFZmeDdDUTFSdXJSYURCTGM3ZUpZejM1cml3NjdUa002TEt6b05rVl91OTBKamRFejEwb0pvWnRNWTUzVV9EOFYtb2xSdmxPSWdNZEkwaV9INzJoQmt1S0ZMY2hQQ0V1?oc=5)
+### [‘Natural’ habit tied to higher heart disease, stroke risk: study - New York Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdVlsekZVVExHa2xsUUZaSTczSHhNSTczdmROYmFpTXJ0TlRGR3ZUdThlTk1iYjdoaFc2aDlRd2tsTUo1dWVLclNZZW93Sk1ZRmw3MUtoNGxEb0ZWTG9ybVZBVVg1Sjc4NTEyVkEwMHAyekpjX0dTQjZMSlhkNUVXYjgzTTF0ekpWams5cEJPeVdMbEhxSXRsMXlUcW1WM1U?oc=5)
 
-2026-11-02
+2026-11-05
 
-Source: [AOL.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaU5Sa3dfcmttUl94bW1sMlpKbVZnVXVfN1EwQUYzWnpqaFZmeDdDUTFSdXJSYURCTGM3ZUpZejM1cml3NjdUa002TEt6b05rVl91OTBKamRFejEwb0pvWnRNWTUzVV9EOFYtb2xSdmxPSWdNZEkwaV9INzJoQmt1S0ZMY2hQQ0V1?oc=5)
+Source: [New York Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdVlsekZVVExHa2xsUUZaSTczSHhNSTczdmROYmFpTXJ0TlRGR3ZUdThlTk1iYjdoaFc2aDlRd2tsTUo1dWVLclNZZW93Sk1ZRmw3MUtoNGxEb0ZWTG9ybVZBVVg1Sjc4NTEyVkEwMHAyekpjX0dTQjZMSlhkNUVXYjgzTTF0ekpWams5cEJPeVdMbEhxSXRsMXlUcW1WM1U?oc=5)
+
+---
+
+### [NASA's Swift space telescope plunges back to Earth in fiery demise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOblREV256dXdGanA4LVNkczh3VS1iZ01YXzFsVjBBTk9Vc1MzOHl2cHBMbGlNLWFCTVpheVE5RXNpZzByQkZHZURXTGJrUzcwSFBMNTlfUk5yV2c0SzRsa2NxLUNCUU8yQ3ZYMTlzVndmaEhrQXB6R2xfVkhIVlZiUzBodnRtT3d0TThCRHRHUVVtdEl5MUdQZTJRQi1lMEnSAZ8BQVVfeXFMUE04bEROazBMVHNrcHZ6cHdRMDduUnhHdTBQYm1aWnR1NG1qbThZOFVGNjE4Zmo3T2FDOHJKNTB3Q1piR1Fvd2Vnc2tWVWtYdjVhcnJvN0RIeXJtWEVld1g1UlNrdmxGSWxabklXOE9ZV2dVbmw0VzE5aVlaNUNvckpCRGZZWU5ENEZhQktfNFJsTHdpdTBYUFhmbkduS3Yw?oc=5)
+
+2026-11-05
+
+Source: [DW.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxOblREV256dXdGanA4LVNkczh3VS1iZ01YXzFsVjBBTk9Vc1MzOHl2cHBMbGlNLWFCTVpheVE5RXNpZzByQkZHZURXTGJrUzcwSFBMNTlfUk5yV2c0SzRsa2NxLUNCUU8yQ3ZYMTlzVndmaEhrQXB6R2xfVkhIVlZiUzBodnRtT3d0TThCRHRHUVVtdEl5MUdQZTJRQi1lMEnSAZ8BQVVfeXFMUE04bEROazBMVHNrcHZ6cHdRMDduUnhHdTBQYm1aWnR1NG1qbThZOFVGNjE4Zmo3T2FDOHJKNTB3Q1piR1Fvd2Vnc2tWVWtYdjVhcnJvN0RIeXJtWEVld1g1UlNrdmxGSWxabklXOE9ZV2dVbmw0VzE5aVlaNUNvckpCRGZZWU5ENEZhQktfNFJsTHdpdTBYUFhmbkduS3Yw?oc=5)
 
 ---
 

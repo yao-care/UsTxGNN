@@ -1,6 +1,6 @@
 """依成分重建許可證的整套流程（2026-11-05，用戶核准；給 .github/workflows/license-rebuild.yml 用，全程不用 AI）。
-做法比照 ZaTxGNN／MyTxGNN 的同名腳本；openFDA 的 Drugs@FDA 全量檔重建前重新下載（--skip-download 用 data/raw 裡已存的檔），
-OTC monograph／未核准類別的列名產品用本站 NDC 產品清單（data/raw/us_fda_drugs.json）。
+做法比照 ZaTxGNN／MyTxGNN 的同名腳本；openFDA 的 Drugs@FDA 與 NDC 全量檔重建前重新下載（--skip-download 用 data/raw 裡已存的檔），
+OTC monograph／未核准類別的列名產品另外計數（2026-11-06 起用 openFDA NDC，不再用 2026-03 的 data/raw/us_fda_drugs.json）。
 
 步驟：
 1. 重建前先跑一次 checker 當基準（既存的非 M 類錯誤與許可證無關，不在這次處理）。

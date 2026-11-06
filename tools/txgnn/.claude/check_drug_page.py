@@ -510,7 +510,8 @@ M3X_SITES = {"UsTxGNN", "ZaTxGNN"}
 M3X_LANGS = ("en", "en-us")
 VALID_CLAIM = re.compile(r"\bvalid status\b|\b(is|are|remains?) (currently |still )?valid\b|\bcurrently valid\b|"
                          r"\bvalid (single[\w-]*|registrations?|licen[cs]es?|authori[sz]ations?|approvals?|SAHPRA|products?|records?|entr(y|ies))\b|"
-                         r"\(\s*[^()]*\bvalid\s*\)|\bmarketed in\b|\bis (widely )?(registered|marketed)\b", re.I)
+                         r"\(\s*[^()]*\bvalid\s*\)|\bmarketed in\b(?! other (jurisdictions?|countries|markets|regions)\b)|(?<!indication )\bis (widely )?(registered|marketed)\b", re.I)
+# 2026-11-06（Us 依成分重建後續）：「may be marketed in other jurisdictions」不是講本國、「no original indication is registered」是適應症登記，都不是有效許可的說法
 NOREG_CLAIM = re.compile(r"\bnot (currently )?registered\b|\bno (SAHPRA|local|South African|national)[- ](registrations?|licen[cs]es?|registered (products?|medicines?|formulations?))\b|"
                          r"\bholds? no (\w+ ){0,3}(registrations?|licen[cs]es?|marketing authori[sz]ations?)\b|"
                          r"\bzero (\w+ ){0,3}(registrations?|licen[cs]es?)\b|\bzero[- ](registration|licen[cs]e) (result|finding)|"

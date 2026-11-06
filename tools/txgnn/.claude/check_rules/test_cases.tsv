@@ -226,3 +226,7 @@ M3V	es	Además, la única autorización en España está cancelada.	hit	site=EST
 M5	en	| Number of Taiwan Licenses | 0 |	hit	Us 2026-11-05
 M5	en	The query returned 0 results from the TFDA database.	hit	Us 2026-11-05
 M5	en	| Number of FDA Applications | 3 (active: 1) |	miss	Us 2026-11-05
+M3X	en	This profile is consistent with a branded prenatal multivitamin that may be marketed in other jurisdictions but has not been registered here.	miss	ms=Not marketed;valid=0;cancelled=0
+M3X	en	The TxGNN pipeline returned no predicted indications, no original indication is registered, and the product holds no US market authorization.	miss	ms=Not marketed;valid=0;cancelled=0
+M3X	en	The product is registered and marketed in the US as an OTC tablet.	hit	ms=Not marketed;valid=0;cancelled=0
+M3X	en	The drug is widely marketed as a cough syrup.	hit	ms=Not marketed;valid=0;cancelled=0

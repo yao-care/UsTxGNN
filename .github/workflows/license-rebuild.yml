@@ -1,5 +1,6 @@
 # 依成分重建許可證（2026-11-05，用戶核准，一次性；做法比照 ZaTxGNN／MyTxGNN）：重新下載 openFDA Drugs@FDA，
 # 證據包 tfda 改成依成分比對的全部 FDA 申請號（複方頁要成分組合完全相同），OTC monograph／未核准類別的 NDC 列名產品另外計數
+# （2026-11-06 起 NDC 列名也改用重建當下下載的 openFDA NDC 全量檔，不再用 2026-03 的 us_fda_drugs.json）
 # → 程式改概覽表狀態／張數列（「FDA 核准申請 X／N；OTC monograph／未核准列名 K」），刪掉跟新事實矛盾的句子
 # （含 TwTxGNN 模板殘留的 Taiwan 狀態列）→ checker／gate → 通過才 commit 頁面、發新 data Release（舊 tag 不動）。
 # 全程不用 AI。停損（checker 新錯誤、gate、h1、改太多頁、資料下載失敗）一律不推、開 issue。
@@ -91,7 +92,7 @@ jobs:
           git add docs
           if git diff --cached --quiet; then echo "頁面沒有變化"; exit 0; fi
           git commit -m "fix(license): 依成分重建許可證並刪除與新事實矛盾的句子（$(git diff --cached --name-only -- docs/_drugs | wc -l | tr -d ' ') 個藥物頁）" \
-            -m "來源：openFDA Drugs@FDA（data/raw/drugsfda_openfda.zip）與 NDC 產品清單（data/raw/us_fda_drugs.json）；刪句清單見 workflow artifact license-rebuild-apply 的 deletions.tsv。"
+            -m "來源：openFDA Drugs@FDA（data/raw/drugsfda_openfda.zip）與 openFDA NDC（data/raw/ndc_openfda.zip），重建前重新下載；刪句清單見 workflow artifact license-rebuild-apply 的 deletions.tsv。"
           git pull --rebase
           git push
           gh workflow run pages.yml --ref main
@@ -110,7 +111,7 @@ jobs:
           (cd "$STAGE" && sha256sum "$SITE-data".tar.gz.part-* > "$SITE-data.sha256")
           if gh release view "$TAG" >/dev/null 2>&1; then echo "tag $TAG 已存在，不覆蓋" >&2; exit 1; fi
           gh release create "$TAG" --title "$SITE 成果資料（$TAG，依成分重建許可證）" \
-            --notes "依成分重建許可證後的完整 data/（data/bundles 的 tfda 紀錄改成依成分比對的全部 FDA 申請號，狀態依 openFDA Drugs@FDA；複方頁成分組合要完全相同；OTC monograph／未核准類別的 NDC 列名產品另計 listed_total，最多列 20 筆）。還原：bash scripts/restore_data.sh（預設取最新建立的 data-* tag）。" \
+            --notes "依成分重建許可證後的完整 data/（data/bundles 的 tfda 紀錄改成依成分比對的全部 FDA 申請號，狀態依 openFDA Drugs@FDA；複方頁成分組合要完全相同；OTC monograph／未核准類別的 NDC 列名產品另計 listed_total，最多列 20 筆；NDC 用重建當下下載的 openFDA NDC 全量檔 data/raw/ndc_openfda.zip）。還原：bash scripts/restore_data.sh（預設取最新建立的 data-* tag）。" \
             "$STAGE/$SITE-data".tar.gz.part-* "$STAGE/$SITE-data.sha256"
           echo "Release：$TAG" >> "$GITHUB_STEP_SUMMARY"
 

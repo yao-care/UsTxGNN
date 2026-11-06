@@ -60,3 +60,19 @@ def test_organic_base_single_page_matches_its_salts_only():
                            _app("NDA000011", ["PENICILLIN G PROCAINE"])], "", [], "")
     d, _ = idx.match("PROCAINE")
     assert [r["license_id"] for r in d["records"]] == ["ANDA000010"]
+
+
+def test_same_substance_alias_matches_combo_both_ways():
+    # FDA GSRS UNII I76KB35JEV：ANEMONE PULSATILLA＝PULSATILLA VULGARIS WHOLE（2026-11-06）
+    idx = lm.LicenseIndex([], "", [_ndc("43857-0341", ["ACTIVATED CHARCOAL", "PULSATILLA VULGARIS WHOLE", "ZINC"], cat="UNAPPROVED HOMEOPATHIC", appl="")], "")
+    d, mode = idx.match("ACTIVATED CHARCOAL; ANEMONE PULSATILLA; ZINC")
+    assert mode == "combo" and d["listed_total"] == 1
+    # 不同部位（PULSATILLA VULGARIS TOP，UNII 4F1D271XW0）不併
+    idx = lm.LicenseIndex([], "", [_ndc("2-1", ["ACTIVATED CHARCOAL", "PULSATILLA VULGARIS TOP", "ZINC"], cat="UNAPPROVED HOMEOPATHIC", appl="")], "")
+    assert not idx.match("ACTIVATED CHARCOAL; ANEMONE PULSATILLA; ZINC")[0]["found"]
+
+
+def test_mthf_is_not_levomefolate():
+    # GSRS：5-METHYLTETRAHYDROFOLIC ACID（TYK22LML8F，差向異構物混合物）≠ LEVOMEFOLATE CALCIUM（A9R10K3F2F）
+    idx = lm.LicenseIndex([], "", [_ndc("75854-313", ["FOLIC ACID", "LEVOMEFOLATE CALCIUM"], cat="UNAPPROVED DRUG OTHER", appl="")], "")
+    assert not idx.match("FOLIC ACID; 5-METHYLTETRAHYDROFOLIC ACID")[0]["found"]

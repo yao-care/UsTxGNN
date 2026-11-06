@@ -18,7 +18,7 @@ scripts/rebuild_licenses_by_ingredient.py（整批重建證據包）與 collecto
    - 複方（drug.inn 以「;」分隔多個成分）：產品的成分組合要跟本頁完全相同才收。
    - 單方：產品成分含本藥就收（含複方產品）；「-ic acid」與「-ate」視為同一成分
      （mycophenolic acid＝mycophenolate sodium、valproic acid＝valproate）。名稱本身帶鹽類時只收同一個鹽。
-   - 別名只收同一個物質的不同寫法（SYN，每筆附依據）。
+   - 別名只收同一個物質的不同寫法（SYN：單方的藥名別名；SAME_SUBSTANCE：同一個 FDA UNII 的成分寫法，單方與複方都適用；每筆附依據）。
 3. 結果：records＝全部申請號（每個申請號一筆，有效的排前面、單方產品排前面）＋最多 20 筆列名產品（listing: true）；
    listed_total＝列名產品數（不重複 NDC 產品碼）；applications_total＝申請號數；total_matches＝兩者相加。
    reviewer._local_regulatory 依 listing 欄位把申請號與列名分開算（概覽「FDA 核准申請 X／N；OTC monograph／未核准列名 K」）。
@@ -61,6 +61,28 @@ SYN = {"acetaminophen": ["paracetamol"], "paracetamol": ["acetaminophen"], "epin
 #   NDC 裡唯一把成分編成 PEG 3500（UNII FVS1AZD90Y）的是 Mylan 的 51079-306（DailyMed setid 219bcbc4-b84a-4209-9f34-ef2b0ef0d273，
 #   2026-04-08 版）；它的品名、標籤文字都寫 Polyethylene Glycol 3350, USP，申請號 ANDA078915 在 Drugs@FDA 的成分也是 PEG 3350。
 #   這是該仿單的成分編碼跟品名不一致，不是同物異名；照規則仍不併（申請號以 Drugs@FDA 的成分為準）。
+# 同一物質（同一個 FDA UNII）的不同成分寫法，單方與複方都適用（norm() 最後一步換成同一個寫法；2026-11-06，用戶核准，逐筆查 FDA GSRS）。
+# 只收 GSRS 同一筆物質紀錄裡列出的名稱；不同 UNII（例：同屬不同部位、不同立體異構物）不收。
+SAME_SUBSTANCE = {
+    # FDA GSRS UNII I76KB35JEV（PULSATILLA VULGARIS WHOLE，Ranunculaceae Pulsatilla vulgaris Mill.，部位 whole）的名稱裡有
+    # ANEMONE PULSATILLA、ANEMONE PULSATILLA L.、ANEMONE PULSATILLA WHOLE、PULSATILLA VULGARIS、PULSATILLA VULGARIS MILL.：
+    # 植物學同物異名（Anemone pulsatilla L.＝Pulsatilla vulgaris Mill.），同一個 UNII。
+    # https://gsrs.ncats.nih.gov/ginas/app/beta/substances/I76KB35JEV （2026-11-06 查）。
+    # 例：VARICO HP（NDC 43857-0341）2026-03 的 NDC 列名寫 ANEMONE PULSATILLA，現行列名寫 PULSATILLA VULGARIS WHOLE（openFDA unii 欄同為 I76KB35JEV）。
+    # PULSATILLA VULGARIS TOP（UNII 4F1D271XW0，部位 top）是另一個物質，不併。
+    "anemone pulsatilla": "pulsatilla vulgaris whole", "anemone pulsatilla l": "pulsatilla vulgaris whole",
+    "anemone pulsatilla whole": "pulsatilla vulgaris whole", "pulsatilla vulgaris": "pulsatilla vulgaris whole",
+    "pulsatilla vulgaris mill": "pulsatilla vulgaris whole",
+}
+# 不是同一物質（查證過、不要再併）：
+# - 5-METHYLTETRAHYDROFOLIC ACID（UNII TYK22LML8F）≠ LEVOMEFOLATE CALCIUM（UNII A9R10K3F2F）（2026-11-06 查 GSRS）：
+#   TYK22LML8F 是 6 位未定構型的差向異構物混合物（stereochemistry EPIMERIC，2 個立體中心只定 1 個），活性部分是它自己；
+#   levomefolate calcium 是 (6S) 單一異構物的鈣鹽，活性部分是 LEVOMEFOLIC ACID（UNII 8S95DH25XC）；
+#   GSRS 還把 TYK22LML8F 登記成 levomefolate calcium 的雜質（PARENT->IMPURITY）。不是同一活性部分的鹽類。
+#   https://gsrs.ncats.nih.gov/ginas/app/beta/substances/TYK22LML8F 、https://gsrs.ncats.nih.gov/ginas/app/beta/substances/A9R10K3F2F
+#   影響：Prenate Essential（NDC 75854-313）、Prenate Elite（75854-314）現行列名把 5-MTHF 改寫成 LEVOMEFOLATE CALCIUM，對應的
+#   alpha-tocopherol 複方頁維持查無列名；Prenate Elite 另把 .BETA.-CAROTENE（UNII 01YAE03M7J）改成 VITAMIN A（UNII 81G40H8B0T，也不同）。
+#   Prenate DHA（75854-312）現行列名多了 LEVOMEFOLATE CALCIUM 一個成分，不是改寫法，成分組合不同。
 LISTING_CAT = re.compile(r"^(OTC MONOGRAPH|UNAPPROVED|EMERGENCY USE)", re.I)
 MAX_LISTING_RECORDS = 20
 QUAL = re.compile(r"^(dibasic|monobasic|tribasic|conjugated|esterified|glacial|chorionic|macrocrystalline|microcrystalline|ultramicrocrystalline|"
@@ -75,7 +97,7 @@ def norm(x):
     t = " ".join(re.sub(r"[^a-z0-9]+", " ", t).split())
     if t.startswith("insulin "):  # INSULIN SUSP ISOPHANE RECOMBINANT HUMAN → insulin human
         t = " ".join(w for w in t.split() if w not in ("recombinant", "susp", "isophane"))
-    return t
+    return SAME_SUBSTANCE.get(t, t)
 
 
 def base(x, keep_salt=False):

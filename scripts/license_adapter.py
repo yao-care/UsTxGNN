@@ -73,3 +73,21 @@ def update(rec, new):
         return False
     rec["status"] = want
     return True
+
+
+# 每週許可證更新（license_refresh_20261029.py 3b 自我檢查）另外允許改的非表格行：許可證表下程式產生的「Showing N of M entries …」
+# （狀態有變、表格重排後要跟著改）與它前後的空行。寫法與 scripts/sync_license_tables.py 的 SHOW 相同。
+PAGE_NOTE = (r"^Showing \d+ of \d+ entries \(FDA applications first, active before discontinued; "
+             r"NDC listings without an FDA application last\)\.$")
+
+
+def sync_tables(site_root, bundles):
+    """狀態有變的藥：「US Market Information」的許可證表依證據包重排（有效在前），狀態照事實層；SHOW 句跟著改
+    （2026-11-06，用戶決定；規則見 scripts/sync_license_tables.py 的 resync_tables）。回傳 [(頁, 欄位, 前值, 後值)]"""
+    import importlib.util
+    from pathlib import Path
+    p = Path(site_root) / "scripts/sync_license_tables.py"
+    s = importlib.util.spec_from_file_location("sync_license_tables", p)
+    m = importlib.util.module_from_spec(s)
+    s.loader.exec_module(m)
+    return m.resync_tables(bundles, ws=Path(site_root).parent)

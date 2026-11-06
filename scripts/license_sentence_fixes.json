@@ -314,5 +314,304 @@
    "cut": " (TFDA query returned 0 results, total_licenses = 0)",
    "reason": "TwTxGNN 模板殘留的台灣（TFDA）查詢說法，與本站無關；前半句（美國查無核准申請，與事實一致）保留"
   }
+ ],
+ "aflibercept": [
+  {
+   "sentence": "A sixth license, BLA125418 (ZALTRAP, solution concentrate, sanofi-aventis U.S. LLC), is also listed as valid",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），BLA125418 的成分是 ziv-aflibercept，不在本藥的比對結果裡；本藥是 8 張有效申請"
+  },
+  {
+   "sentence": "All 6 licenses are valid in the compiled data",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥是 8 張申請、8 張有效，「6 張」與事實不符"
+  },
+  {
+   "sentence": "In addition, the drug is marketed in the US with all 6 licenses valid, and label-based safety data are missing",
+   "cut": " with all 6 licenses valid",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥是 8 張有效申請，「6 張」與事實不符；上市與缺安全資料的說法保留"
+  }
+ ],
+ "alglucosidase_alfa": [
+  {
+   "sentence": "Both licenses are listed as cancelled in the data compiled for this report, and the dosage forms are injectable only",
+   "cut": "Both licenses are listed as cancelled in the data compiled for this report, and ",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥 2 張申請（Myozyme、Lumizyme）都有效，「都已註銷」與事實矛盾；劑型說法保留",
+   "capitalize": true
+  },
+  {
+   "sentence": "The US market status (both licenses cancelled) and the lack of safety label data add further uncertainty",
+   "cut": " (both licenses cancelled)",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥 2 張申請都有效，「都已註銷」與事實矛盾"
+  }
+ ],
+ "arginine": [
+  {
+   "sentence": "All three US authorizations are valid, and no approved indication text is available for them",
+   "cut": "All three US authorizations are valid, and ",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥只有 1 張 FDA 申請（另 30 筆列名產品），「3 張都有效」與事實不符；缺適應症文字的說法保留",
+   "capitalize": true
+  },
+  {
+   "sentence": "However, the evidence is limited to animal studies and a case report (Evidence Level L4), there are no registered clinical trials, no approved indication is on record, all three US licenses are valid, and package insert safety data are missing",
+   "cut": ", all three US licenses are valid",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥只有 1 張 FDA 申請，「3 張都有效」與事實不符"
+  }
+ ],
+ "collagenase_clostridium_histolyticum": [
+  {
+   "sentence": "Collagenase Clostridium histolyticum is a collagen-degrading enzyme product that is marketed in the United States as a topical ointment",
+   "cut": " as a topical ointment",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥的申請是 Xiaflex、QWO（注射劑）；外用軟膏 Santyl（BLA101995，成分 collagenase）不在本藥的比對結果裡"
+  },
+  {
+   "sentence": "The manufacturer is Smith & Nephew, Inc",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），Smith & Nephew 是 Santyl（BLA101995）的廠商，不在本藥的比對結果裡；本藥申請的持有者是 Auxilium／Endo"
+  }
+ ],
+ "dextromethorphan": [
+  {
+   "sentence": "- Clarification of the cancelled regulatory status and of route compatibility for any intranasal or other new formulation",
+   "cut": "the cancelled regulatory status and of ",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥 38 張申請有 29 張有效（另有 1754 筆列名產品），「已註銷」與事實矛盾；給藥途徑的下一步保留"
+  }
+ ],
+ "erythromycin": [
+  {
+   "sentence": "At least 15 US licence records are listed, and the list may be partial",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥是 93 張申請（完整，不是部分紀錄），「至少 15 筆、可能不完整」與事實不符"
+  },
+  {
+   "sentence": "Of these, 14 are valid and 1 is cancelled",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥 93 張申請有 23 張有效、70 張停產，「14 有效 1 註銷」與事實不符"
+  }
+ ],
+ "estriol": [
+  {
+   "sentence": "The drug is marketed in the US, with 4 of 4 licenses valid, but the safety and mechanism data are incomplete",
+   "cut": ", with 4 of 4 licenses valid",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥沒有 FDA 申請（只有 23 筆 OTC monograph／未核准列名），「4 張都有效」與事實不符；上市與資料不完整的說法保留"
+  }
+ ],
+ "filgrastim": [
+  {
+   "sentence": "One further license, BLA761082 (RELEUKO, Amneal, injection, solution), is also listed as cancelled",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），BLA761082（Releuko）在本藥 6 張申請裡，狀態有效，不是另一張已註銷的許可"
+  },
+  {
+   "sentence": "- Clarification of the cancelled status of all six US licenses and their approved indication text",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥 6 張申請都有效，「6 張都已註銷」與事實矛盾；刪掉矛盾子句後只剩失去指涉的「their」，整項刪"
+  }
+ ],
+ "fluticasone_furoate": [
+  {
+   "sentence": "Five of five authorizations are currently valid in the US market, as a single-ingredient or combination product, in the data compiled for this report",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥是 4 張申請、4 張有效，「5 張」與事實不符（整句是張數說法）"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 5 valid authorizations of 5, but the package insert safety data are missing, so the evidence stays at L4",
+   "cut": " with 5 valid authorizations of 5",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥是 4 張有效申請，「5 張」與事實不符；其餘說法保留"
+  },
+  {
+   "sentence": "- Verification of the regulatory and commercial path, given that the drug is marketed with 5 valid US authorizations of 5",
+   "cut": ", given that the drug is marketed with 5 valid US authorizations of 5",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥是 4 張有效申請，「5 張」與事實不符；下一步項目本身保留"
+  }
+ ],
+ "glucagon": [
+  {
+   "sentence": "Of the 5 licence records, 4 are valid and 1 is cancelled",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥 12 張申請有 7 張有效、5 張停產（另 3 筆列名），重排後表上 5 列都有效，「5 筆中 4 有效 1 註銷」與事實不符"
+  }
+ ],
+ "glycine": [
+  {
+   "sentence": "Glycine is an amino acid that appears in US-listed products such as irrigation solutions and parenteral nutrition",
+   "cut": " and parenteral nutrition",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），靜脈營養產品（Travasol、Clinimix，成分 amino acids）不在本藥的比對結果裡；沖洗液說法保留"
+  },
+  {
+   "sentence": "Two further cancelled entries exist (OUHOE Bean Sunscreen cream and HGH COMPLEX spray), for 7 licenses in total",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥是 5 張申請（3 有效、2 停產）＋4 筆列名產品；HGH COMPLEX 是列名產品不是註銷的許可，「共 7 張」與事實不符"
+  },
+  {
+   "sentence": "- Clarification of the regulatory pathway, given that market status is cancelled only",
+   "cut": ", given that market status is cancelled only",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥有 3 張有效申請，「只有註銷」與事實矛盾；下一步項目本身保留"
+  }
+ ],
+ "hyaluronidase": [
+  {
+   "sentence": "10 of 10 licenses are valid, and the indication text is not recorded for any of them",
+   "cut": "10 of 10 licenses are valid, and ",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥 14 張申請有 13 張有效，「10 張都有效」與事實不符；缺適應症文字的說法保留",
+   "capitalize": true
+  },
+  {
+   "sentence": "Five further cancelled BLAs are on record: Opdivo Qvantig, Rybrevant Faspro (two entries), Vyvgart Hytrulo, and Tecentriq Hybreza",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），這幾張 BLA 在 Drugs@FDA 都有處方產品（有效），不是已註銷"
+  },
+  {
+   "sentence": "- The drug is marketed in the US, with 10 of 10 licenses valid, and the package insert's warnings and contraindications are missing from the data",
+   "cut": ", with 10 of 10 licenses valid",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥 14 張申請有 13 張有效，「10 張都有效」與事實不符；上市與缺仿單資料的說法保留"
+  }
+ ],
+ "iron": [
+  {
+   "sentence": "The licence records may be partial",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥依成分比對的結果是完整清單（沒有 FDA 申請、164 筆列名產品），不是部分紀錄"
+  }
+ ],
+ "mecasermin": [
+  {
+   "sentence": "There are no clinical trials or publications, the mechanistic link to Turner syndrome is indirect (GH is the standard therapy), and the US authorizations are cancelled",
+   "cut": ", and the US authorizations are cancelled",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），依成分比對本藥沒有 FDA 申請（只有 1 筆未核准列名），沒有「已註銷的許可」；其餘說法保留"
+  },
+  {
+   "sentence": "- Review of the cancelled market status and route/formulation feasibility",
+   "cut": "the cancelled market status and ",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），依成分比對本藥沒有 FDA 申請、有 1 筆列名產品，「已註銷」與事實不符；劑型評估保留"
+  }
+ ],
+ "mycophenolate_mofetil": [
+  {
+   "sentence": "The compiled data lists 17 valid licenses, and none includes approved indication text",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥 55 張申請有 38 張有效，「17 張有效」與事實不符；刪掉後只剩失去指涉的「none」，整句刪"
+  },
+  {
+   "sentence": "- Clarification of the regulatory status, since 17 listed US licenses are valid",
+   "cut": ", since 17 listed US licenses are valid",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥 55 張申請有 38 張有效，「17 張」與事實不符；下一步項目本身保留"
+  }
+ ],
+ "nilotinib": [
+  {
+   "sentence": "Eight valid authorizations are listed",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥是 9 張有效申請，「8 張」與事實不符"
+  },
+  {
+   "sentence": "The drug is marketed in the US with 8 valid authorizations",
+   "cut": " with 8 valid authorizations",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥是 9 張有效申請，「8 張」與事實不符"
+  },
+  {
+   "sentence": "- Clarify the approved indications for the 8 valid US authorizations",
+   "cut": " for the 8 valid US authorizations",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥是 9 張有效申請，「8 張」與事實不符；下一步項目本身保留"
+  }
+ ],
+ "nitrogen": [
+  {
+   "sentence": "Nine US authorizations are valid and the drug is marketed, but none carries approved indication text",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥是 16 張有效申請（另 9 筆列名），「9 張」與事實不符；刪掉後只剩失去指涉的「none」，整句刪"
+  },
+  {
+   "sentence": "The drug is marketed with 9 valid US authorizations",
+   "cut": " with 9 valid US authorizations",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥是 16 張有效申請，「9 張」與事實不符"
+  }
+ ],
+ "potassium": [
+  {
+   "sentence": "The data compiled for this report list no approved original indication for it, and it is marketed in the US with 7 valid licenses",
+   "cut": " with 7 valid licenses",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），依成分比對本藥沒有 FDA 申請（只有 5 筆列名產品），「7 張有效」與事實不符；上市說法保留"
+  },
+  {
+   "sentence": "The product form and dose must also be defined, either dietary or supplement, because the US market records are cancelled and mix potassium citrate with unrelated products",
+   "cut": ", because the US market records are cancelled and mix potassium citrate with unrelated products",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），列名產品沒有註銷，potassium citrate 的 ANDA 也不在本藥的比對結果裡"
+  },
+  {
+   "sentence": "The drug is marketed, with 7 valid licenses, and no approved indication text is recorded",
+   "cut": ", with 7 valid licenses",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），依成分比對本藥沒有 FDA 申請，「7 張有效」與事實不符"
+  },
+  {
+   "sentence": "Some entries are unrelated products (for example, a homeopathic pellet and a clorazepate salt) that match the name only",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），重排後的表只收成分含 potassium 的產品，舊表裡只是名稱相符的產品（clorazepate 鹽等）已不在比對結果裡"
+  },
+  {
+   "sentence": "Direct potassium-specific trials are small or old, the market records are cancelled with no recorded indication, and safety label data are missing, so progress should be conditional",
+   "cut": "the market records are cancelled with no recorded indication, ",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），列名產品沒有註銷，「市場紀錄已註銷」與事實矛盾；試驗與安全資料的說法保留"
+  }
+ ],
+ "rutin": [
+  {
+   "sentence": "All three authorizations are valid, and no approved indication text is recorded for any of them",
+   "cut": "All three authorizations are valid, and ",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），依成分比對本藥沒有 FDA 申請（只有 16 筆列名產品），舊表的 Wayrilz、Jaypirca 不是本藥；缺適應症文字的說法保留",
+   "capitalize": true
+  },
+  {
+   "sentence": "There are no clinical trials or relevant publications, the mechanism of action is unavailable, and all US authorizations are valid",
+   "cut": ", and all US authorizations are valid",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），依成分比對本藥沒有 FDA 申請，「全部許可有效」與事實不符"
+  }
+ ],
+ "selenium": [
+  {
+   "sentence": "Selenium is an essential trace element, marketed in the US mainly as selenious acid injection (trace-element supplementation) and as a homeopathic pellet",
+   "cut": "mainly as selenious acid injection (trace-element supplementation) and ",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），selenious acid（亞硒酸）注射劑不在本藥的比對結果裡；本藥只有 196 筆列名產品（順勢療法等）"
+  }
+ ],
+ "sodium_acetate": [
+  {
+   "sentence": "The products below are those in the compiled data, and many contain sodium acetate as a component or excipient rather than as the active ingredient",
+   "cut": ", and many contain sodium acetate as a component or excipient rather than as the active ingredient",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），重排後的表只收 sodium acetate 是有效成分的產品，「多半只是賦形劑」與事實不符"
+  },
+  {
+   "sentence": "Standard treatment is factor replacement, and the market status is cancelled only",
+   "cut": ", and the market status is cancelled only",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥 55 張申請有 21 張有效，「只有註銷」與事實矛盾"
+  }
+ ],
+ "soybean_oil": [
+  {
+   "sentence": "Four further cancelled authorizations are not shown: NDA204508 (Clinolipid, Baxter) and three allergenic-extract BLAs (BLA103888, BLA103753, BLA101833; soybean food allergen products)",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），NDA204508（Clinolipid）在本藥申請裡、狀態有效；三張過敏原萃取 BLA 不在本藥的比對結果裡"
+  }
+ ],
+ "tromethamine": [
+  {
+   "sentence": "All nine US licenses are valid",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥是 3 張有效申請（另 2 筆列名），「9 張」與事實不符"
+  },
+  {
+   "sentence": "Four further licenses (all fosfomycin tromethamine, also cancelled) are not shown",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），fosfomycin tromethamine 的申請不在本藥的比對結果裡"
+  },
+  {
+   "sentence": "All nine US licenses are valid, and the mechanism and package insert safety data are missing",
+   "cut": "All nine US licenses are valid, and ",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥是 3 張有效申請，「9 張」與事實不符；缺機轉與仿單資料的說法保留",
+   "capitalize": true
+  }
+ ],
+ "treprostinil": [
+  {
+   "sentence": "Four generic injection ANDAs (Dr. Reddy's, Alembic, Sandoz, Teva) are also listed as cancelled",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），這 4 張學名藥 ANDA 在本藥申請裡、Drugs@FDA 狀態有效"
+  }
+ ],
+ "zinc_sulfate_unspecified_form": [
+  {
+   "sentence": "Zinc sulfate is an injectable zinc product",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），依成分比對本藥只有 5 筆列名產品（眼藥水、膠囊），zinc sulfate 注射劑（ANDA218059，成分 zinc sulfate）不在本藥的比對結果裡"
+  },
+  {
+   "sentence": "- Confirmation of the original approved indication and the reason for the cancelled authorization",
+   "cut": " and the reason for the cancelled authorization",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），依成分比對本藥沒有 FDA 申請，沒有「已註銷的許可」；下一步項目本身保留"
+  },
+  {
+   "sentence": "- A route and formulation compatibility assessment, since the only known product is an injection and ocular use would likely need a different route",
+   "cut": ", since the only known product is an injection and ocular use would likely need a different route",
+   "reason": "許可證表依成分比對結果重排後（2026-11-06，Drugs@FDA／NDC 2026-11-05），本藥的列名產品有眼藥水，「唯一產品是注射劑」與事實不符；評估項目本身保留"
+  }
  ]
 }

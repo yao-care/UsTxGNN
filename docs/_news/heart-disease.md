@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 5 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 6 articles, 1 related drugs."
 permalink: /news/heart-disease/
 last_modified_at: 2026-11-07
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
 
 ### [Alzheimer's warning signs could emerge years before memory loss, study finds - Fox News](https://news.google.com/rss/articles/CBMioAFBVV95cUxOR0E3bXVVQ2pFZU9hcFA0dXd1N3BXdE1NbS1pQVY2Nlc3UmNPYm1MM05LN2NRbXlxMzBsS0NSUlV5VzV0OFdxN19CaWNTSnAxcW1MWWV4U1hrVUtKZ2g1bnNfbWwyWndEZ1VzTEhBZEJDTU9HSzZlWThsWXJRM1AybWZENnVxS0twVnA5N1BUNHJZRHdXV1ZYRFFwX3BpRmVM0gGmAUFVX3lxTFBVWVRwM0NrZ2VzcWo3WUJFbDVoLVloMG5rTEsxdVJFWTJnZDVVVWxaMzlpWFlfbHVSSkRUWTBsSDRUOVhCajZDXzlSVVdOOWpiN2pHZmRBTzAySzk3TVFmV04yNlpSOU5UQjFJV0o0bmszVEZpNzI0VnFZNjRQa0JnRHRhaHFBaXZZeC1JSzdxcGZ5VGxiMS1oTG1pRzVNczFDMklncGc?oc=5)
 
@@ -45,6 +45,14 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMioAFBVV95cUxOR0E3bXVV
 2026-11-06
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxNTWVNcGFjVnhoQ3daa1d0eVF3TldhUkRpc1cyb29QVnEwbjVsdHk1aWNSRjVJUjlmQ2dDd3FrNEttZ05JTUlNVkNiVkdNajBMOVZ6cVdnbi1lWExkNDVUMWdndXNNb2dDOE9zTmxfM2FoLTJOdzlSMlJKWnJYTTRuQUZ3dHI4aFlVWWxpRkhxZ3VSMGxJT3d1ZDlxUnZvakY5WlBkQnZTTFVGTXhoN25ZR2dn?oc=5)
+
+---
+
+### [Florida dengue outbreak reaches 524 cases, here's where, how to avoid - Sarasota Herald](https://news.google.com/rss/articles/CBMingFBVV95cUxNYW5WdHJRWHA1QVVMN21aekZzV1didXhBcmhsZlltUzAwQURzcDF0bWlFYUpaNGxsSDUyQTQ2M2U2VzlSSjBhTGRFQS1EeWcxeE5SWHkxeVZqa1VZc1BIc2Y1LVA2eVA1SGQ0amN3M240SzIyWTJzQWh3M08wajFrS2NDRHowUFFOOGlPRUJvcjh0VkM5cmNwSVpFcEtNUQ?oc=5)
+
+2026-11-06
+
+Source: [Sarasota Herald-Tribune](https://news.google.com/rss/articles/CBMingFBVV95cUxNYW5WdHJRWHA1QVVMN21aekZzV1didXhBcmhsZlltUzAwQURzcDF0bWlFYUpaNGxsSDUyQTQ2M2U2VzlSSjBhTGRFQS1EeWcxeE5SWHkxeVZqa1VZc1BIc2Y1LVA2eVA1SGQ0amN3M240SzIyWTJzQWh3M08wajFrS2NDRHowUFFOOGlPRUJvcjh0VkM5cmNwSVpFcEtNUQ?oc=5)
 
 ---
 

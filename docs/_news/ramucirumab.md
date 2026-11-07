@@ -44,6 +44,14 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 
 ## Related News (3)
 
+### [Experimental pancreatic cancer vaccine shows promise in clinical trial - Medical News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3lpNGZIeldDYkpoVGZ5X3dJUFZKaTNLNEdGLTNRek1UNDAzRS1lMEZVWGxianJmdDBlY1VSMDBfQXppUkZHbW81WXc5ZkJsT19GbjlYSlRUV0hzYnZHYmtjUzdHa1FxOXJuVTBJMjE4LTF1OGFVdDBoNGo0dGF5TEluQmZtNHVZQTBCdUNvODRjOTF6RHBfdmdqWmd5aUJmbVcwTUY3X0oxaWwyc25weE5B?oc=5)
+
+2026-11-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
+
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3lpNGZIeldDYkpoVGZ5X3dJUFZKaTNLNEdGLTNRek1UNDAzRS1lMEZVWGxianJmdDBlY1VSMDBfQXppUkZHbW81WXc5ZkJsT19GbjlYSlRUV0hzYnZHYmtjUzdHa1FxOXJuVTBJMjE4LTF1OGFVdDBoNGo0dGF5TEluQmZtNHVZQTBCdUNvODRjOTF6RHBfdmdqWmd5aUJmbVcwTUY3X0oxaWwyc25weE5B?oc=5)
+
+---
+
 ### [As menopause hormones gain favor, experts say ‘keep cancer in the conversation’ - The Seattle Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQak9wZnFSUHZpX2RuRGRHNVZvdUxSTzVXcWprS2c5Qkd5QXRXeXR1OGtuN2xzQTlmcDdTN2g3bG9LdFlkaWY4YjRJSUt6M3VfSDJHcjNYMGZDV19uOEx2Q09PZFB5NDFBQWlQLUNuSlAyb0RLVm5rVFZnQW9xR2gwUDNMYmxTZjVFeFJBT1NhZzN3Nmx2OWo3THlhOF9XalljX0FNMXkyOFZxZ2x6QVdnWmJZYWk4bXk0SjhN?oc=5)
 
 2026-11-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
@@ -52,19 +60,11 @@ Source: [The Seattle Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUx
 
 ---
 
-### [The rise of colon cancer among young people has been a mystery. Boston experts say they now have clues.](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRXZQeUxXbW5BeVFyQ0J3OThXOVpkX0cwTUFVWUZ2WHd5SUNIZmJjdjhEZnJqMkNScTZNZllEQTZ6bzFVWS1QX1RfZnpEMzJrOHMwYk16VWtUeTlyeVJVNmx4dlpOVlpiSXhoRE9LX2RfeVpUeDVJNzh3ZllidGstRVFBYzc2Wmc5UTV1THM5ajN3aF9sY0lRNjVYYWZvSm9wODlLWnllUHN0RnQyQk1iSnpHRS1IdEJYX0g0ZUxMVHp0Q1F6MmxPNlRjVDFvYUpvTEdWc2lRcDUwd2huSG9GRkdZejVZVi1sLTVndXRZQQ?oc=5)
+### [Local woman starts groundbreaking new pancreatic cancer treatment - Fox 59](https://news.google.com/rss/articles/CBMingFBVV95cUxOMFRXRWdwSzBZTnhGVTdvUDFrc05naDVDSC1Pdm5qV05sTnBCWjlYaFgydGVQU2h3R1RiU2FGeHlrMmlyQm5BS0V0ODhWX2s0eU5hYnRZSG5NYjZFMHlQME9OSXNnRkgzNzNiOUFHcjZ2YlpRamhpVXRxRmhxX2J0RnlHN3VlUGJQMzZlQVFKTFhKUjRUaXhVTWstUXpJQdIBowFBVV95cUxOWmxscnBOZWFXRVNzc2FRVVVvdzNNNUVMbXIwc3JkUWFzYVhyR19ocmUzMlFCQmtzeDN3N1F0Vkl5dXdjbU9qc2Y1RTVOMzNBdTR0MHJKSHBUdnRFV1c3TktOOE1qT29oeEJ4cl9Cc0RHRDMzZVNKOGlTM3VVbWRpMjJzeGl4YW5TcVAweUhpX0tzM1NJSmVzeUh4a2lnN3RRMFZn?oc=5)
 
-2026-11-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+2026-11-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [Boston.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRXZQeUxXbW5BeVFyQ0J3OThXOVpkX0cwTUFVWUZ2WHd5SUNIZmJjdjhEZnJqMkNScTZNZllEQTZ6bzFVWS1QX1RfZnpEMzJrOHMwYk16VWtUeTlyeVJVNmx4dlpOVlpiSXhoRE9LX2RfeVpUeDVJNzh3ZllidGstRVFBYzc2Wmc5UTV1THM5ajN3aF9sY0lRNjVYYWZvSm9wODlLWnllUHN0RnQyQk1iSnpHRS1IdEJYX0g0ZUxMVHp0Q1F6MmxPNlRjVDFvYUpvTEdWc2lRcDUwd2huSG9GRkdZejVZVi1sLTVndXRZQQ?oc=5)
-
----
-
-### [Drinking 2-3 Cups of Coffee Daily Linked to 43% Lower Risk of Liver Cancer](https://news.google.com/rss/articles/CBMid0FVX3lxTE5MVjJYU0pwMHdjS2hqSkJYaEViY3hob1dqRnlIWk14VVByNzhZdThrOFZ6QnNId2pHeWVtYWdYTzNjT0Zmck9WUGxqTzJEYTFuZHJXRnJMODFMaVZpNzhjbUc4X3hMVXFxV1hWOXE1ZWdpbWlybTdj?oc=5)
-
-2026-11-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
-
-Source: [AOL.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE5MVjJYU0pwMHdjS2hqSkJYaEViY3hob1dqRnlIWk14VVByNzhZdThrOFZ6QnNId2pHeWVtYWdYTzNjT0Zmck9WUGxqTzJEYTFuZHJXRnJMODFMaVZpNzhjbUc4X3hMVXFxV1hWOXE1ZWdpbWlybTdj?oc=5)
+Source: [Fox 59](https://news.google.com/rss/articles/CBMingFBVV95cUxOMFRXRWdwSzBZTnhGVTdvUDFrc05naDVDSC1Pdm5qV05sTnBCWjlYaFgydGVQU2h3R1RiU2FGeHlrMmlyQm5BS0V0ODhWX2s0eU5hYnRZSG5NYjZFMHlQME9OSXNnRkgzNzNiOUFHcjZ2YlpRamhpVXRxRmhxX2J0RnlHN3VlUGJQMzZlQVFKTFhKUjRUaXhVTWstUXpJQdIBowFBVV95cUxOWmxscnBOZWFXRVNzc2FRVVVvdzNNNUVMbXIwc3JkUWFzYVhyR19ocmUzMlFCQmtzeDN3N1F0Vkl5dXdjbU9qc2Y1RTVOMzNBdTR0MHJKSHBUdnRFV1c3TktOOE1qT29oeEJ4cl9Cc0RHRDMzZVNKOGlTM3VVbWRpMjJzeGl4YW5TcVAweUhpX0tzM1NJSmVzeUh4a2lnN3RRMFZn?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 6 articles, 2 related drugs."
+description: "Health news about flu (influenza). 7 articles, 2 related drugs."
 permalink: /news/influenza/
 last_modified_at: 2026-11-07
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>6 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>7 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [The flu strain driving this season's unusually early spread - USA Today](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNTR6Z0FiSW85Y2VqZXNrcjNaY1J5b3A0dzc3bWZrLU5NTkR4YXFVaWM0bHc1aG91aFhSZW1zWmRTVHQwZmtMajNYS1pkQjRhMTJfZS1Sektub3FTWFlKUF82X3E0YTJUazBjc3F2WExQWHNBRVpqX0NIUHBWa2VxVDVjV09SUHY3MGFFTjhPdGs0NVpuT29aN2o3bHZwZDhaT3F2QjBJZ0RsaUJo?oc=5)
+
+2026-11-07
+
+Source: [USA Today](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNTR6Z0FiSW85Y2VqZXNrcjNaY1J5b3A0dzc3bWZrLU5NTkR4YXFVaWM0bHc1aG91aFhSZW1zWmRTVHQwZmtMajNYS1pkQjRhMTJfZS1Sektub3FTWFlKUF82X3E0YTJUazBjc3F2WExQWHNBRVpqX0NIUHBWa2VxVDVjV09SUHY3MGFFTjhPdGs0NVpuT29aN2o3bHZwZDhaT3F2QjBJZ0RsaUJo?oc=5)
+
+---
 
 ### [What’s making you sick? Pittsburgh doctors explain the viruses circulating this fall](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM21lelRRMGZpZ2lBZlBKaFhHeGo0STBrREVZVUU3X09ta1BNNjBMXzlQSFdXcVN5cFB6SnhmU3dTNzlIS3Jzb0ZONzE4RW1pYXgzRHVTMHhyTnhxTjgzZ19OSk55YnZFeVhfZmhuUVp0VzlMczJfZUhoVi1Ia0Npa0NDZERhREVRSnFPb0NuczFFeWhsaE1FRGdCdFJrX0o4ZkF5OW9qblZDNGxRSFFHMWpkRXdpMzdZSXY0?oc=5)
 
@@ -41,19 +49,19 @@ Source: [TribLIVE.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM21l
 
 ---
 
-### [Aggressive H1N1 flu strain drives rising respiratory cases across Ohio - WHIO TV](https://news.google.com/rss/articles/CBMiygFBVV95cUxPREFjRF9KSGZqNlRqRXJPYTNWbHdTRTk0bzl2NnBtalMtUm9lRDg4WVhkUU1QcGJOSm53SXpNbmx3UDRHZDZPNXQ1aGt5eXh5UHBDTnhBUWZJWHVQY1BORnRsVXR5NWFTaVpMSDNQaW5qdWJkM0p3NzVGMkgxOHFId2FFangzbjVmd1lEM3gtR2tQQUI0enQ5MjZWTktPbHhyZWc3c3dZTFpKT3BjNS1mdEk3M3FiNmhncnRONFBMa0p0YnBxNlFpYkFR0gHeAUFVX3lxTFBhLW9xUUxnbDk3bUhtSDczYXFhN1VXNWd3MndNLUNLNGw4N3phX2QwSFNuWml3RWZ1OWI4d3NhWnNfU0hybGlZMDZ2bTFPcmprLU9RTzdBUUpuYldxNzFaa3VXZmxlTDV5bzVIeUYybDNUZTlZSTl3blhpTWp4ZlZZMWtMbi1jaUVkZ1hOZW0zTHAyR2p5OTg4aG9iZzlTR0tEMW9odE9faEpSOHdnYmFUd1RNYkh4S0RHSVd3QTJFczlSTUdORmR5UTNPeGlvN0RNbWpPYmFjZS05VlJtZw?oc=5)
-
-2026-11-06
-
-Source: [WHIO TV](https://news.google.com/rss/articles/CBMiygFBVV95cUxPREFjRF9KSGZqNlRqRXJPYTNWbHdTRTk0bzl2NnBtalMtUm9lRDg4WVhkUU1QcGJOSm53SXpNbmx3UDRHZDZPNXQ1aGt5eXh5UHBDTnhBUWZJWHVQY1BORnRsVXR5NWFTaVpMSDNQaW5qdWJkM0p3NzVGMkgxOHFId2FFangzbjVmd1lEM3gtR2tQQUI0enQ5MjZWTktPbHhyZWc3c3dZTFpKT3BjNS1mdEk3M3FiNmhncnRONFBMa0p0YnBxNlFpYkFR0gHeAUFVX3lxTFBhLW9xUUxnbDk3bUhtSDczYXFhN1VXNWd3MndNLUNLNGw4N3phX2QwSFNuWml3RWZ1OWI4d3NhWnNfU0hybGlZMDZ2bTFPcmprLU9RTzdBUUpuYldxNzFaa3VXZmxlTDV5bzVIeUYybDNUZTlZSTl3blhpTWp4ZlZZMWtMbi1jaUVkZ1hOZW0zTHAyR2p5OTg4aG9iZzlTR0tEMW9odE9faEpSOHdnYmFUd1RNYkh4S0RHSVd3QTJFczlSTUdORmR5UTNPeGlvN0RNbWpPYmFjZS05VlJtZw?oc=5)
-
----
-
 ### [Fitness influencer's vacation getaway takes scary turn after headache leads to ICU - Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxONFBiU09TR0NRYk1KRDlhYklaRHRNN0FOTzhoWklGTUZ3dEktbFhKUDl5RmJQTHdOaTFOUHRGWFpxWm5jV0laSVFMTG83RDlrQS1xYjZKbTF3S2VzWXhsTVd6VE5SdnJnYTRvdTNncnQ5UFBtaC1VVTVTeFNBUWtxeG96MkgtQmpUVWlwbXEwZEFjOE5La1RtRGkyanVKV0RZTHZtTNIBqgFBVV95cUxNeF9MMXBVQjd4eEdnRDZURFJHQXhtcS1lVmF0UVBuR2J1UmpRU1NZMHpwTFBLN1VQcnBhZzR2cUkyXzZDUXNsMnRyRENnTWEyeU5BdUNpOEJpSGtkRDhHckRlMW1Fc3MtQ1ZMNnVBc1ctLUdOdlhaMnc3MzJjZmJ1LWdSNzc2SVVRN0R2MU83NTBhZnJpb25xTWU2V0JrZnllVnhBMGlzdzNEQQ?oc=5)
 
 2026-11-06
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxONFBiU09TR0NRYk1KRDlhYklaRHRNN0FOTzhoWklGTUZ3dEktbFhKUDl5RmJQTHdOaTFOUHRGWFpxWm5jV0laSVFMTG83RDlrQS1xYjZKbTF3S2VzWXhsTVd6VE5SdnJnYTRvdTNncnQ5UFBtaC1VVTVTeFNBUWtxeG96MkgtQmpUVWlwbXEwZEFjOE5La1RtRGkyanVKV0RZTHZtTNIBqgFBVV95cUxNeF9MMXBVQjd4eEdnRDZURFJHQXhtcS1lVmF0UVBuR2J1UmpRU1NZMHpwTFBLN1VQcnBhZzR2cUkyXzZDUXNsMnRyRENnTWEyeU5BdUNpOEJpSGtkRDhHckRlMW1Fc3MtQ1ZMNnVBc1ctLUdOdlhaMnc3MzJjZmJ1LWdSNzc2SVVRN0R2MU83NTBhZnJpb25xTWU2V0JrZnllVnhBMGlzdzNEQQ?oc=5)
+
+---
+
+### [Earth’s churning mantle may have created the Great Unconformity - Ars Technica](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ0xOT1hpSU9yeWg1RDRwb2E4N1ZTemZNdWN3Y1AyMGFkRXZ6WnR1aExVb2l3V2kyUkdBaEZxOGFINjdBdVJSeG9DSnlMRFREdFh5ZWozRGpCMktuVW9naHdlclhYZmZwZng0YnVtLWlKYXFZelYwdEJkSnJZZk1ucDVhNEJuR2cwLTV3RUE3aHY1STFTZVBJbDM0Nk52eG8zNXBOQmJn?oc=5)
+
+2026-11-06
+
+Source: [Ars Technica](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ0xOT1hpSU9yeWg1RDRwb2E4N1ZTemZNdWN3Y1AyMGFkRXZ6WnR1aExVb2l3V2kyUkdBaEZxOGFINjdBdVJSeG9DSnlMRFREdFh5ZWozRGpCMktuVW9naHdlclhYZmZwZng0YnVtLWlKYXFZelYwdEJkSnJZZk1ucDVhNEJuR2cwLTV3RUE3aHY1STFTZVBJbDM0Nk52eG8zNXBOQmJn?oc=5)
 
 ---
 

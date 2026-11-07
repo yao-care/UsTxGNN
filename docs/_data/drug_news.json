@@ -3,12 +3,12 @@
     {
       "url": "/news/baricitinib/",
       "title": "Baricitinib News",
-      "count": 56
+      "count": 57
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 48
+      "count": 46
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -20,12 +20,12 @@
     {
       "url": "/news/insulin_glargine/",
       "title": "Insulin glargine News",
-      "count": 59
+      "count": 57
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 48
+      "count": 46
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -35,19 +35,19 @@
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 15
+      "count": 9
     }
   ],
   "/drugs/insulin-human/": [
     {
       "url": "/news/insulin_human/",
       "title": "Insulin human News",
-      "count": 59
+      "count": 57
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 48
+      "count": 46
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -57,19 +57,19 @@
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 15
+      "count": 9
     }
   ],
   "/drugs/insulin-lispro/": [
     {
       "url": "/news/insulin_lispro/",
       "title": "Insulin lispro News",
-      "count": 59
+      "count": 57
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 48
+      "count": 46
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -79,7 +79,7 @@
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 15
+      "count": 9
     }
   ],
   "/drugs/lasmiditan/": [
@@ -98,7 +98,7 @@
     {
       "url": "/news/raloxifene/",
       "title": "Raloxifene News",
-      "count": 44
+      "count": 41
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -108,12 +108,12 @@
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 15
+      "count": 9
     },
     {
       "url": "/news/influenza/",
       "title": "flu (influenza) News",
-      "count": 6
+      "count": 7
     }
   ],
   "/drugs/ramucirumab/": [
@@ -132,19 +132,19 @@
     {
       "url": "/news/rutin/",
       "title": "Rutin News",
-      "count": 15
+      "count": 9
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 15
+      "count": 9
     }
   ],
   "/drugs/selpercatinib/": [
     {
       "url": "/news/selpercatinib/",
       "title": "Selpercatinib News",
-      "count": 32
+      "count": 33
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -154,31 +154,31 @@
     {
       "url": "/news/hypertension/",
       "title": "high blood pressure (hypertension) News",
-      "count": 2
+      "count": 3
     }
   ],
   "/drugs/sodium-acetate/": [
     {
       "url": "/news/sodium_acetate/",
       "title": "Sodium acetate News",
-      "count": 48
+      "count": 46
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 48
+      "count": 46
     }
   ],
   "/drugs/tadalafil/": [
     {
       "url": "/news/tadalafil/",
       "title": "Tadalafil News",
-      "count": 57
+      "count": 58
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 48
+      "count": 46
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -195,12 +195,12 @@
     {
       "url": "/news/teriparatide/",
       "title": "Teriparatide News",
-      "count": 60
+      "count": 58
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 48
+      "count": 46
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -210,12 +210,12 @@
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 15
+      "count": 9
     },
     {
       "url": "/news/influenza/",
       "title": "flu (influenza) News",
-      "count": 6
+      "count": 7
     }
   ]
 }

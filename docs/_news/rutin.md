@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Rutin. 8 predicted indications."
 permalink: /news/rutin/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Rutin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>11 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>14 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (14)
 
 ### [One popular fruit may support brain and heart health as you age, experts say - Fox News](https://news.google.com/rss/articles/CBMipgFBVV95cUxOT01UWjJXc2xhNzFVd1p1ellmSzBOYVFZNDlsWEd1NUgyVzM5LWhWcVQ5cDRhSW1zaUk2TTFLVlg2bWExa19TQ3FuTGdwMWp4SmN1N1ZMXzZFem92VTZWd05fQ2ZYczgxamhqek5lTTVUOGNYemJhQjRRQWhZWUxsRVRaemRqYW5leV9icEMtXzRoemNvZjN1cGdxelI3d0tkRHhtS0J30gGrAUFVX3lxTE8ySlNnell5UlFSbzdKV3g0TkF2aldScUUtTkMxdG9oUl9VUHFFZ29MeDk3MDNDUHVUeGpzbGwzZHRucGRpU1NLNXNkeS1aMm1FUC13akVGYkVneG5hbnViQlVyWlFnODhIaXAyM25lMTVLa2EzRlItbzlKUFM4RE95MDlfTERvd0QyYll3NzJLc3M4OUwtTWZPa2ZySjVzMmFpMENMYWEzLTZsRQ?oc=5)
 
@@ -50,11 +50,35 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMipgFBVV95cUxOT01UWjJX
 
 ---
 
+### [Herbal supplement linked to decline in excessive alcohol consumption - The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxPekJPZUw5bXBkVVptY09wTHNqS0ozZWF6VEg2TDdkby0wYWlSdjFFN0tWcW1lZzVfcWJPaGVZNkEtMXJUc0VtTEt5UXUyNjc0UTByY0gzZDRwYXBwRFQ2dk1xbldsbmVPLVU2a3ZETlNCbEFzSHpFSW10cmFFNUdJNS1FQ0JNcVNRbS1zcUFDM0RGQQ?oc=5)
+
+2026-11-06 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxPekJPZUw5bXBkVVptY09wTHNqS0ozZWF6VEg2TDdkby0wYWlSdjFFN0tWcW1lZzVfcWJPaGVZNkEtMXJUc0VtTEt5UXUyNjc0UTByY0gzZDRwYXBwRFQ2dk1xbldsbmVPLVU2a3ZETlNCbEFzSHpFSW10cmFFNUdJNS1FQ0JNcVNRbS1zcUFDM0RGQQ?oc=5)
+
+---
+
 ### [What a new study reveals about reversing type 2 diabetes](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlg0dllnRGNQTHppV1JiSmZWZl9pQU1EYW9lakoydElQUkctVXpDUE5UR1EwZUNYS2h3X0FaaDRDWUhtcmtldzNqMWhzUTJ1LVBZYXpnUkZLUy01NVVGV0YtX0VUMG9qc1BNX0R4NDdnaV9PQU51cHMzd0dad3pFdHdrdGhSVnZDTDJzcXU5Y1BsUU9C?oc=5)
 
 2026-11-06 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [CNN](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlg0dllnRGNQTHppV1JiSmZWZl9pQU1EYW9lakoydElQUkctVXpDUE5UR1EwZUNYS2h3X0FaaDRDWUhtcmtldzNqMWhzUTJ1LVBZYXpnUkZLUy01NVVGV0YtX0VUMG9qc1BNX0R4NDdnaV9PQU51cHMzd0dad3pFdHdrdGhSVnZDTDJzcXU5Y1BsUU9C?oc=5)
+
+---
+
+### [Utah women raise awareness about heart health through personal stories, quilting](https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEN3NENwcGNpWFgxcXVBQ2FkdTh0NENVYmdLdldzVVVhS3o5b2M4M0oxQktPT2Q4SHNyVGlWMHQ0c0RlcUpFTjNXVHd2X202UWxmaEtyczZDV0Jyc05zXzNBNENUMkxlUmdqMmYyWllvTVQ5QmNYb0toWVFRLVZ3SzQ2bGlXLUE4T240d09oSmF5TTNKYnMxTEM2OWhrVkJsamh1Nl8ybm10SFk1Tk9DRWxaRzZLRVU?oc=5)
+
+2026-11-06 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [KSL](https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEN3NENwcGNpWFgxcXVBQ2FkdTh0NENVYmdLdldzVVVhS3o5b2M4M0oxQktPT2Q4SHNyVGlWMHQ0c0RlcUpFTjNXVHd2X202UWxmaEtyczZDV0Jyc05zXzNBNENUMkxlUmdqMmYyWllvTVQ5QmNYb0toWVFRLVZ3SzQ2bGlXLUE4T240d09oSmF5TTNKYnMxTEM2OWhrVkJsamh1Nl8ybm10SFk1Tk9DRWxaRzZLRVU?oc=5)
+
+---
+
+### [New estrogen research may change how scientists think about women’s aging brains - The Washington Post](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVR0aTFCWWs4bFA5a0V6R0ltTFgxZ0hGSDJCaEkzcDRFZUhIVURrekNYdktoN0JYVWZwUEc3bmszLUloSjZmeUJkRmRXQmx5R2hhandkMXRjSl9LVzhYVHJTdEpWWXQxS01wTEZJRmlhQ1BPdjVpZWxZeTFUVTdNaWRHT3R1QzFsZGNMN2xoNXVIY2xRLUw1dXNhSW1CdUxOZXc?oc=5)
+
+2026-11-05 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVR0aTFCWWs4bFA5a0V6R0ltTFgxZ0hGSDJCaEkzcDRFZUhIVURrekNYdktoN0JYVWZwUEc3bmszLUloSjZmeUJkRmRXQmx5R2hhandkMXRjSl9LVzhYVHJTdEpWWXQxS01wTEZJRmlhQ1BPdjVpZWxZeTFUVTdNaWRHT3R1QzFsZGNMN2xoNXVIY2xRLUw1dXNhSW1CdUxOZXc?oc=5)
 
 ---
 
@@ -71,14 +95,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1
 2026-11-05 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjhtbGU2ZGdFMUpQSFFLZXd0N01PNmJrRzMzRVhwYnpvNnJDSnZadjZmSVhkSm52MXFUdjZyS04waHBqdUdTRHdrdXZTdEI1MmtiTWJlLWdmcnBhbUVRYlR0WDM1OGpUZzNXSTMwVzZPV01JbEFvMV9VUVcxNVk2d05JTnNpVEk5STVBZGpiZkdiN0JzU255MUxTZS1EQUNK?oc=5)
-
----
-
-### [Longer Estrogen Exposure Linked to Less Blood Vessel Damage in Women's Brains Later in Life](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2dTUUcwcndvby1Gb1ZFY0N2Mmdmby00OG5scXVKYlg1ajZLc2ZpNGpjSlNUb1htOTJjSUFUalRtWUtWT3pUcUNwNFNkU1diWlhMVk55dzUydTJ4bkl5ajVTdERXT20yY2p5N3NEZmpiTHpyZkFKUGNpaUlGZDd0YXFsVTYwRFJwWk1aZ0RuQS1kQVAwczltMS03dVJkdnR6aThvNFVMbmVlYzZhbWJXcFZQVEszNVNEU0o4?oc=5)
-
-2026-11-05 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2dTUUcwcndvby1Gb1ZFY0N2Mmdmby00OG5scXVKYlg1ajZLc2ZpNGpjSlNUb1htOTJjSUFUalRtWUtWT3pUcUNwNFNkU1diWlhMVk55dzUydTJ4bkl5ajVTdERXT20yY2p5N3NEZmpiTHpyZkFKUGNpaUlGZDd0YXFsVTYwRFJwWk1aZ0RuQS1kQVAwczltMS03dVJkdnR6aThvNFVMbmVlYzZhbWJXcFZQVEszNVNEU0o4?oc=5)
 
 ---
 
@@ -108,7 +124,7 @@ Source: [USA Today](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjNrT1J
 
 ### [Drinking 2-3 Cups of Coffee Daily Linked to 43% Lower Risk of Liver Cancer](https://news.google.com/rss/articles/CBMid0FVX3lxTE5MVjJYU0pwMHdjS2hqSkJYaEViY3hob1dqRnlIWk14VVByNzhZdThrOFZ6QnNId2pHeWVtYWdYTzNjT0Zmck9WUGxqTzJEYTFuZHJXRnJMODFMaVZpNzhjbUc4X3hMVXFxV1hWOXE1ZWdpbWlybTdj?oc=5)
 
-2026-11-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-11-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
 
 Source: [AOL.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE5MVjJYU0pwMHdjS2hqSkJYaEViY3hob1dqRnlIWk14VVByNzhZdThrOFZ6QnNId2pHeWVtYWdYTzNjT0Zmck9WUGxqTzJEYTFuZHJXRnJMODFMaVZpNzhjbUc4X3hMVXFxV1hWOXE1ZWdpbWlybTdj?oc=5)
 
@@ -119,6 +135,14 @@ Source: [AOL.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE5MVjJYU0pwM
 2026-11-03 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [Yahoo](https://news.google.com/rss/articles/CBMipAFBVV95cUxNREotekMtRHNaN21fOHpPdEZUM1RiQmZwV2FFUEpSTEdjYjJNdk9YaFh5Z0xBVlg1VGlKNk5PQ0pZVGxLWlZncTRVNjh3QzhRZ1RvNWhJSkNmemZmVWtVYjFydldMcWY4UnpKY3JWRkZjMnBocHlQdXhFWHNhTTdtdkp3ZDFMMVozWFhvNDVXOVRYUnVLUGtjekt3V1d1LUtQbm51LQ?oc=5)
+
+---
+
+### [Child in New York dies after contracting measles, the state’s first such death in 30 years](https://news.google.com/rss/articles/CBMibEFVX3lxTE5PQVo5eVZwaENLQXpldXB6YzUxQXhvVEFkUnhlckJQd3BPZHlZMzc5OXJDZWtrbUZTOVdFT2JVQXhtYVh2RzVHN1NOcEx2a0pFTTE4RDdLbFFzTzFLWm9veTRlOE5DMzUxMFMyYg?oc=5)
+
+2026-11-02 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [CNN](https://news.google.com/rss/articles/CBMibEFVX3lxTE5PQVo5eVZwaENLQXpldXB6YzUxQXhvVEFkUnhlckJQd3BPZHlZMzc5OXJDZWtrbUZTOVdFT2JVQXhtYVh2RzVHN1NOcEx2a0pFTTE4RDdLbFFzTzFLWm9veTRlOE5DMzUxMFMyYg?oc=5)
 
 ---
 

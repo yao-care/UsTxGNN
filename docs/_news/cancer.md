@@ -3,9 +3,9 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 5 articles, 1 related drugs."
+description: "Health news about cancer. 4 articles, 1 related drugs."
 permalink: /news/cancer/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # cancer News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [As Hormone Use Increases, Some Doctors Warn Slight Cancer Risk Is Being Overlooked - The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjNDSWlLR2pQamhlQW9zSXF4Mm8tOHZQcUFwb1dPVlVTeHlja0NKTVZrdGJweGptNXcxWVVqT1dGeFQycXlONVhWbUt6S3R2ajVNQW1NT1JSbkd6YThWSTVLWXNGYTBXQV9OYW9keTluNlhSdzJxRFRoR1dwRmxma0ZIUQ?oc=5)
 
@@ -45,14 +45,6 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cU
 2026-11-05
 
 Source: [Boston.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRXZQeUxXbW5BeVFyQ0J3OThXOVpkX0cwTUFVWUZ2WHd5SUNIZmJjdjhEZnJqMkNScTZNZllEQTZ6bzFVWS1QX1RfZnpEMzJrOHMwYk16VWtUeTlyeVJVNmx4dlpOVlpiSXhoRE9LX2RfeVpUeDVJNzh3ZllidGstRVFBYzc2Wmc5UTV1THM5ajN3aF9sY0lRNjVYYWZvSm9wODlLWnllUHN0RnQyQk1iSnpHRS1IdEJYX0g0ZUxMVHp0Q1F6MmxPNlRjVDFvYUpvTEdWc2lRcDUwd2huSG9GRkdZejVZVi1sLTVndXRZQQ?oc=5)
-
----
-
-### [Doctors in England launch primary-care trial of blood tests for spotting cancer early](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
-
-2026-11-04
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
 
 ---
 

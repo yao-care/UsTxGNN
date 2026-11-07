@@ -3,9 +3,9 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 11 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 14 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # UC (inflammatory bowel disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>11 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>14 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (11)
+## Related News (14)
 
 ### [One popular fruit may support brain and heart health as you age, experts say - Fox News](https://news.google.com/rss/articles/CBMipgFBVV95cUxOT01UWjJXc2xhNzFVd1p1ellmSzBOYVFZNDlsWEd1NUgyVzM5LWhWcVQ5cDRhSW1zaUk2TTFLVlg2bWExa19TQ3FuTGdwMWp4SmN1N1ZMXzZFem92VTZWd05fQ2ZYczgxamhqek5lTTVUOGNYemJhQjRRQWhZWUxsRVRaemRqYW5leV9icEMtXzRoemNvZjN1cGdxelI3d0tkRHhtS0J30gGrAUFVX3lxTE8ySlNnell5UlFSbzdKV3g0TkF2aldScUUtTkMxdG9oUl9VUHFFZ29MeDk3MDNDUHVUeGpzbGwzZHRucGRpU1NLNXNkeS1aMm1FUC13akVGYkVneG5hbnViQlVyWlFnODhIaXAyM25lMTVLa2EzRlItbzlKUFM4RE95MDlfTERvd0QyYll3NzJLc3M4OUwtTWZPa2ZySjVzMmFpMENMYWEzLTZsRQ?oc=5)
 
@@ -45,11 +45,35 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMipgFBVV95cUxOT01UWjJX
 
 ---
 
+### [Herbal supplement linked to decline in excessive alcohol consumption - The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxPekJPZUw5bXBkVVptY09wTHNqS0ozZWF6VEg2TDdkby0wYWlSdjFFN0tWcW1lZzVfcWJPaGVZNkEtMXJUc0VtTEt5UXUyNjc0UTByY0gzZDRwYXBwRFQ2dk1xbldsbmVPLVU2a3ZETlNCbEFzSHpFSW10cmFFNUdJNS1FQ0JNcVNRbS1zcUFDM0RGQQ?oc=5)
+
+2026-11-06
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxPekJPZUw5bXBkVVptY09wTHNqS0ozZWF6VEg2TDdkby0wYWlSdjFFN0tWcW1lZzVfcWJPaGVZNkEtMXJUc0VtTEt5UXUyNjc0UTByY0gzZDRwYXBwRFQ2dk1xbldsbmVPLVU2a3ZETlNCbEFzSHpFSW10cmFFNUdJNS1FQ0JNcVNRbS1zcUFDM0RGQQ?oc=5)
+
+---
+
 ### [What a new study reveals about reversing type 2 diabetes](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlg0dllnRGNQTHppV1JiSmZWZl9pQU1EYW9lakoydElQUkctVXpDUE5UR1EwZUNYS2h3X0FaaDRDWUhtcmtldzNqMWhzUTJ1LVBZYXpnUkZLUy01NVVGV0YtX0VUMG9qc1BNX0R4NDdnaV9PQU51cHMzd0dad3pFdHdrdGhSVnZDTDJzcXU5Y1BsUU9C?oc=5)
 
 2026-11-06
 
 Source: [CNN](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlg0dllnRGNQTHppV1JiSmZWZl9pQU1EYW9lakoydElQUkctVXpDUE5UR1EwZUNYS2h3X0FaaDRDWUhtcmtldzNqMWhzUTJ1LVBZYXpnUkZLUy01NVVGV0YtX0VUMG9qc1BNX0R4NDdnaV9PQU51cHMzd0dad3pFdHdrdGhSVnZDTDJzcXU5Y1BsUU9C?oc=5)
+
+---
+
+### [Utah women raise awareness about heart health through personal stories, quilting](https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEN3NENwcGNpWFgxcXVBQ2FkdTh0NENVYmdLdldzVVVhS3o5b2M4M0oxQktPT2Q4SHNyVGlWMHQ0c0RlcUpFTjNXVHd2X202UWxmaEtyczZDV0Jyc05zXzNBNENUMkxlUmdqMmYyWllvTVQ5QmNYb0toWVFRLVZ3SzQ2bGlXLUE4T240d09oSmF5TTNKYnMxTEM2OWhrVkJsamh1Nl8ybm10SFk1Tk9DRWxaRzZLRVU?oc=5)
+
+2026-11-06
+
+Source: [KSL](https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEN3NENwcGNpWFgxcXVBQ2FkdTh0NENVYmdLdldzVVVhS3o5b2M4M0oxQktPT2Q4SHNyVGlWMHQ0c0RlcUpFTjNXVHd2X202UWxmaEtyczZDV0Jyc05zXzNBNENUMkxlUmdqMmYyWllvTVQ5QmNYb0toWVFRLVZ3SzQ2bGlXLUE4T240d09oSmF5TTNKYnMxTEM2OWhrVkJsamh1Nl8ybm10SFk1Tk9DRWxaRzZLRVU?oc=5)
+
+---
+
+### [New estrogen research may change how scientists think about women’s aging brains - The Washington Post](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVR0aTFCWWs4bFA5a0V6R0ltTFgxZ0hGSDJCaEkzcDRFZUhIVURrekNYdktoN0JYVWZwUEc3bmszLUloSjZmeUJkRmRXQmx5R2hhandkMXRjSl9LVzhYVHJTdEpWWXQxS01wTEZJRmlhQ1BPdjVpZWxZeTFUVTdNaWRHT3R1QzFsZGNMN2xoNXVIY2xRLUw1dXNhSW1CdUxOZXc?oc=5)
+
+2026-11-05
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVR0aTFCWWs4bFA5a0V6R0ltTFgxZ0hGSDJCaEkzcDRFZUhIVURrekNYdktoN0JYVWZwUEc3bmszLUloSjZmeUJkRmRXQmx5R2hhandkMXRjSl9LVzhYVHJTdEpWWXQxS01wTEZJRmlhQ1BPdjVpZWxZeTFUVTdNaWRHT3R1QzFsZGNMN2xoNXVIY2xRLUw1dXNhSW1CdUxOZXc?oc=5)
 
 ---
 
@@ -66,14 +90,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1
 2026-11-05
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjhtbGU2ZGdFMUpQSFFLZXd0N01PNmJrRzMzRVhwYnpvNnJDSnZadjZmSVhkSm52MXFUdjZyS04waHBqdUdTRHdrdXZTdEI1MmtiTWJlLWdmcnBhbUVRYlR0WDM1OGpUZzNXSTMwVzZPV01JbEFvMV9VUVcxNVk2d05JTnNpVEk5STVBZGpiZkdiN0JzU255MUxTZS1EQUNK?oc=5)
-
----
-
-### [Longer Estrogen Exposure Linked to Less Blood Vessel Damage in Women's Brains Later in Life](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2dTUUcwcndvby1Gb1ZFY0N2Mmdmby00OG5scXVKYlg1ajZLc2ZpNGpjSlNUb1htOTJjSUFUalRtWUtWT3pUcUNwNFNkU1diWlhMVk55dzUydTJ4bkl5ajVTdERXT20yY2p5N3NEZmpiTHpyZkFKUGNpaUlGZDd0YXFsVTYwRFJwWk1aZ0RuQS1kQVAwczltMS03dVJkdnR6aThvNFVMbmVlYzZhbWJXcFZQVEszNVNEU0o4?oc=5)
-
-2026-11-05
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2dTUUcwcndvby1Gb1ZFY0N2Mmdmby00OG5scXVKYlg1ajZLc2ZpNGpjSlNUb1htOTJjSUFUalRtWUtWT3pUcUNwNFNkU1diWlhMVk55dzUydTJ4bkl5ajVTdERXT20yY2p5N3NEZmpiTHpyZkFKUGNpaUlGZDd0YXFsVTYwRFJwWk1aZ0RuQS1kQVAwczltMS03dVJkdnR6aThvNFVMbmVlYzZhbWJXcFZQVEszNVNEU0o4?oc=5)
 
 ---
 
@@ -114,6 +130,14 @@ Source: [AOL.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE5MVjJYU0pwM
 2026-11-03
 
 Source: [Yahoo](https://news.google.com/rss/articles/CBMipAFBVV95cUxNREotekMtRHNaN21fOHpPdEZUM1RiQmZwV2FFUEpSTEdjYjJNdk9YaFh5Z0xBVlg1VGlKNk5PQ0pZVGxLWlZncTRVNjh3QzhRZ1RvNWhJSkNmemZmVWtVYjFydldMcWY4UnpKY3JWRkZjMnBocHlQdXhFWHNhTTdtdkp3ZDFMMVozWFhvNDVXOVRYUnVLUGtjekt3V1d1LUtQbm51LQ?oc=5)
+
+---
+
+### [Child in New York dies after contracting measles, the state’s first such death in 30 years](https://news.google.com/rss/articles/CBMibEFVX3lxTE5PQVo5eVZwaENLQXpldXB6YzUxQXhvVEFkUnhlckJQd3BPZHlZMzc5OXJDZWtrbUZTOVdFT2JVQXhtYVh2RzVHN1NOcEx2a0pFTTE4RDdLbFFzTzFLWm9veTRlOE5DMzUxMFMyYg?oc=5)
+
+2026-11-02
+
+Source: [CNN](https://news.google.com/rss/articles/CBMibEFVX3lxTE5PQVo5eVZwaENLQXpldXB6YzUxQXhvVEFkUnhlckJQd3BPZHlZMzc5OXJDZWtrbUZTOVdFT2JVQXhtYVh2RzVHN1NOcEx2a0pFTTE4RDdLbFFzTzFLWm9veTRlOE5DMzUxMFMyYg?oc=5)
 
 ---
 

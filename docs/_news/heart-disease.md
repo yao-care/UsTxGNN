@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about CAD (heart disease). 5 articles, 1 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # CAD (heart disease) News
@@ -56,19 +56,19 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMimAFBVV95cUxPamUxOFgt
 
 ---
 
-### [NASA's Swift space telescope plunges back to Earth in fiery demise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOblREV256dXdGanA4LVNkczh3VS1iZ01YXzFsVjBBTk9Vc1MzOHl2cHBMbGlNLWFCTVpheVE5RXNpZzByQkZHZURXTGJrUzcwSFBMNTlfUk5yV2c0SzRsa2NxLUNCUU8yQ3ZYMTlzVndmaEhrQXB6R2xfVkhIVlZiUzBodnRtT3d0TThCRHRHUVVtdEl5MUdQZTJRQi1lMEnSAZ8BQVVfeXFMUE04bEROazBMVHNrcHZ6cHdRMDduUnhHdTBQYm1aWnR1NG1qbThZOFVGNjE4Zmo3T2FDOHJKNTB3Q1piR1Fvd2Vnc2tWVWtYdjVhcnJvN0RIeXJtWEVld1g1UlNrdmxGSWxabklXOE9ZV2dVbmw0VzE5aVlaNUNvckpCRGZZWU5ENEZhQktfNFJsTHdpdTBYUFhmbkduS3Yw?oc=5)
-
-2026-11-06
-
-Source: [DW.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxOblREV256dXdGanA4LVNkczh3VS1iZ01YXzFsVjBBTk9Vc1MzOHl2cHBMbGlNLWFCTVpheVE5RXNpZzByQkZHZURXTGJrUzcwSFBMNTlfUk5yV2c0SzRsa2NxLUNCUU8yQ3ZYMTlzVndmaEhrQXB6R2xfVkhIVlZiUzBodnRtT3d0TThCRHRHUVVtdEl5MUdQZTJRQi1lMEnSAZ8BQVVfeXFMUE04bEROazBMVHNrcHZ6cHdRMDduUnhHdTBQYm1aWnR1NG1qbThZOFVGNjE4Zmo3T2FDOHJKNTB3Q1piR1Fvd2Vnc2tWVWtYdjVhcnJvN0RIeXJtWEVld1g1UlNrdmxGSWxabklXOE9ZV2dVbmw0VzE5aVlaNUNvckpCRGZZWU5ENEZhQktfNFJsTHdpdTBYUFhmbkduS3Yw?oc=5)
-
----
-
 ### [The rise of colon cancer among young people has been a mystery. Boston experts say they now have clues.](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRXZQeUxXbW5BeVFyQ0J3OThXOVpkX0cwTUFVWUZ2WHd5SUNIZmJjdjhEZnJqMkNScTZNZllEQTZ6bzFVWS1QX1RfZnpEMzJrOHMwYk16VWtUeTlyeVJVNmx4dlpOVlpiSXhoRE9LX2RfeVpUeDVJNzh3ZllidGstRVFBYzc2Wmc5UTV1THM5ajN3aF9sY0lRNjVYYWZvSm9wODlLWnllUHN0RnQyQk1iSnpHRS1IdEJYX0g0ZUxMVHp0Q1F6MmxPNlRjVDFvYUpvTEdWc2lRcDUwd2huSG9GRkdZejVZVi1sLTVndXRZQQ?oc=5)
 
 2026-11-05
 
 Source: [Boston.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRXZQeUxXbW5BeVFyQ0J3OThXOVpkX0cwTUFVWUZ2WHd5SUNIZmJjdjhEZnJqMkNScTZNZllEQTZ6bzFVWS1QX1RfZnpEMzJrOHMwYk16VWtUeTlyeVJVNmx4dlpOVlpiSXhoRE9LX2RfeVpUeDVJNzh3ZllidGstRVFBYzc2Wmc5UTV1THM5ajN3aF9sY0lRNjVYYWZvSm9wODlLWnllUHN0RnQyQk1iSnpHRS1IdEJYX0g0ZUxMVHp0Q1F6MmxPNlRjVDFvYUpvTEdWc2lRcDUwd2huSG9GRkdZejVZVi1sLTVndXRZQQ?oc=5)
+
+---
+
+### [NASA space telescope plunges to Earth after two decades studying cosmic explosions - AP News](https://news.google.com/rss/articles/CBMimgFBVV95cUxNY09VZGZ6VW5RWnBqTktLTE9vSUhlVklrVXY1X09WNHJVbFdBT3VXU01ZYTlUb2JsdnlGODBfeFlLTGlFcWFjdEEtQ2FNSnJqMXlheEpHQWxNR2lzdlhTQUlDVWhKYVltbHQzZ2M4T1RBVkFCUzlWc3p1SjVHVlZQUC1BOWtVYXhSdEs3dGw3MHJCTDdZZkNJc0Nn?oc=5)
+
+2026-11-04
+
+Source: [AP News](https://news.google.com/rss/articles/CBMimgFBVV95cUxNY09VZGZ6VW5RWnBqTktLTE9vSUhlVklrVXY1X09WNHJVbFdBT3VXU01ZYTlUb2JsdnlGODBfeFlLTGlFcWFjdEEtQ2FNSnJqMXlheEpHQWxNR2lzdlhTQUlDVWhKYVltbHQzZ2M4T1RBVkFCUzlWc3p1SjVHVlZQUC1BOWtVYXhSdEs3dGw3MHJCTDdZZkNJc0Nn?oc=5)
 
 ---
 

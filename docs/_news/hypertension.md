@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about high blood pressure (hypertension). 2 articles, 1 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # high blood pressure (hypertension) News
@@ -32,11 +32,11 @@ This page brings together the latest health news about “high blood pressure”
 
 ## Related News (2)
 
-### [Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LUm5PVW9xZzhiVzRCXzdObnBIdnF3bm14REZVaGd3WWVxX2ZUWGFsUU1IY0tqUkprX2VBSi0xV0prWlZocmZiT3BCSjVpcGMtNG8zVE9nV2lEeEZ3MVFZ?oc=5)
+### [AI-powered smartwatch detects high blood pressure with sensitivity similar to office screening - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxOX2pkdDVETWc3NENVSUVDbUV2Y3dFODZNZ3ZrRU11RkZJMUE5ODh4N0dIaVA3cmhWUHB2UFE3enJVN3VBYzZKRWd2dkFIUW03d3R0UUVCX0VGSk9VeEl2blVRS2poVGMxRFNJMWVIV1Q0SEtobEQ4aTBnRHJyLVBubVZR?oc=5)
 
-2026-11-05
+2026-11-06
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LUm5PVW9xZzhiVzRCXzdObnBIdnF3bm14REZVaGd3WWVxX2ZUWGFsUU1IY0tqUkprX2VBSi0xV0prWlZocmZiT3BCSjVpcGMtNG8zVE9nV2lEeEZ3MVFZ?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxOX2pkdDVETWc3NENVSUVDbUV2Y3dFODZNZ3ZrRU11RkZJMUE5ODh4N0dIaVA3cmhWUHB2UFE3enJVN3VBYzZKRWd2dkFIUW03d3R0UUVCX0VGSk9VeEl2blVRS2poVGMxRFNJMWVIV1Q0SEtobEQ4aTBnRHJyLVBubVZR?oc=5)
 
 ---
 

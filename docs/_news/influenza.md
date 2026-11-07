@@ -3,9 +3,9 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 3 articles, 2 related drugs."
+description: "Health news about flu (influenza). 5 articles, 2 related drugs."
 permalink: /news/influenza/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # flu (influenza) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>3 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>5 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,13 +31,29 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [What’s making you sick? Pittsburgh doctors explain the viruses circulating this fall](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM21lelRRMGZpZ2lBZlBKaFhHeGo0STBrREVZVUU3X09ta1BNNjBMXzlQSFdXcVN5cFB6SnhmU3dTNzlIS3Jzb0ZONzE4RW1pYXgzRHVTMHhyTnhxTjgzZ19OSk55YnZFeVhfZmhuUVp0VzlMczJfZUhoVi1Ia0Npa0NDZERhREVRSnFPb0NuczFFeWhsaE1FRGdCdFJrX0o4ZkF5OW9qblZDNGxRSFFHMWpkRXdpMzdZSXY0?oc=5)
+
+2026-11-07
+
+Source: [TribLIVE.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM21lelRRMGZpZ2lBZlBKaFhHeGo0STBrREVZVUU3X09ta1BNNjBMXzlQSFdXcVN5cFB6SnhmU3dTNzlIS3Jzb0ZONzE4RW1pYXgzRHVTMHhyTnhxTjgzZ19OSk55YnZFeVhfZmhuUVp0VzlMczJfZUhoVi1Ia0Npa0NDZERhREVRSnFPb0NuczFFeWhsaE1FRGdCdFJrX0o4ZkF5OW9qblZDNGxRSFFHMWpkRXdpMzdZSXY0?oc=5)
+
+---
 
 ### [Fitness influencer's vacation getaway takes scary turn after headache leads to ICU - Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxONFBiU09TR0NRYk1KRDlhYklaRHRNN0FOTzhoWklGTUZ3dEktbFhKUDl5RmJQTHdOaTFOUHRGWFpxWm5jV0laSVFMTG83RDlrQS1xYjZKbTF3S2VzWXhsTVd6VE5SdnJnYTRvdTNncnQ5UFBtaC1VVTVTeFNBUWtxeG96MkgtQmpUVWlwbXEwZEFjOE5La1RtRGkyanVKV0RZTHZtTNIBqgFBVV95cUxNeF9MMXBVQjd4eEdnRDZURFJHQXhtcS1lVmF0UVBuR2J1UmpRU1NZMHpwTFBLN1VQcnBhZzR2cUkyXzZDUXNsMnRyRENnTWEyeU5BdUNpOEJpSGtkRDhHckRlMW1Fc3MtQ1ZMNnVBc1ctLUdOdlhaMnc3MzJjZmJ1LWdSNzc2SVVRN0R2MU83NTBhZnJpb25xTWU2V0JrZnllVnhBMGlzdzNEQQ?oc=5)
 
 2026-11-06
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxONFBiU09TR0NRYk1KRDlhYklaRHRNN0FOTzhoWklGTUZ3dEktbFhKUDl5RmJQTHdOaTFOUHRGWFpxWm5jV0laSVFMTG83RDlrQS1xYjZKbTF3S2VzWXhsTVd6VE5SdnJnYTRvdTNncnQ5UFBtaC1VVTVTeFNBUWtxeG96MkgtQmpUVWlwbXEwZEFjOE5La1RtRGkyanVKV0RZTHZtTNIBqgFBVV95cUxNeF9MMXBVQjd4eEdnRDZURFJHQXhtcS1lVmF0UVBuR2J1UmpRU1NZMHpwTFBLN1VQcnBhZzR2cUkyXzZDUXNsMnRyRENnTWEyeU5BdUNpOEJpSGtkRDhHckRlMW1Fc3MtQ1ZMNnVBc1ctLUdOdlhaMnc3MzJjZmJ1LWdSNzc2SVVRN0R2MU83NTBhZnJpb25xTWU2V0JrZnllVnhBMGlzdzNEQQ?oc=5)
+
+---
+
+### [Health Canada approves Moderna’s combined COVID, flu shot for some - Global News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOT1dGS3JlVXkxMHhrTlNVN01icXBRTVpQemQxNlVHVTM4RmVPTmxiNlFKM1hJcVY2NnBRVzhhdlMyRm0yekhkTml1ajFPQ2doTkJxa2Y5NHlLUkI3MFk5emEta0U3RjBWWTdKQkcxbDR3dWpPMU1BYkNJOFI4NEdxNmtR?oc=5)
+
+2026-11-06
+
+Source: [Global News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOT1dGS3JlVXkxMHhrTlNVN01icXBRTVpQemQxNlVHVTM4RmVPTmxiNlFKM1hJcVY2NnBRVzhhdlMyRm0yekhkTml1ajFPQ2doTkJxa2Y5NHlLUkI3MFk5emEta0U3RjBWWTdKQkcxbDR3dWpPMU1BYkNJOFI4NEdxNmtR?oc=5)
 
 ---
 
@@ -49,11 +65,11 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMickFVX3lxTE
 
 ---
 
-### [Longer Estrogen Exposure Linked to Less Blood Vessel Damage in Women's Brains Later in Life](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2dTUUcwcndvby1Gb1ZFY0N2Mmdmby00OG5scXVKYlg1ajZLc2ZpNGpjSlNUb1htOTJjSUFUalRtWUtWT3pUcUNwNFNkU1diWlhMVk55dzUydTJ4bkl5ajVTdERXT20yY2p5N3NEZmpiTHpyZkFKUGNpaUlGZDd0YXFsVTYwRFJwWk1aZ0RuQS1kQVAwczltMS03dVJkdnR6aThvNFVMbmVlYzZhbWJXcFZQVEszNVNEU0o4?oc=5)
+### [New estrogen research may change how scientists think about women’s aging brains - The Washington Post](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVR0aTFCWWs4bFA5a0V6R0ltTFgxZ0hGSDJCaEkzcDRFZUhIVURrekNYdktoN0JYVWZwUEc3bmszLUloSjZmeUJkRmRXQmx5R2hhandkMXRjSl9LVzhYVHJTdEpWWXQxS01wTEZJRmlhQ1BPdjVpZWxZeTFUVTdNaWRHT3R1QzFsZGNMN2xoNXVIY2xRLUw1dXNhSW1CdUxOZXc?oc=5)
 
 2026-11-05
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2dTUUcwcndvby1Gb1ZFY0N2Mmdmby00OG5scXVKYlg1ajZLc2ZpNGpjSlNUb1htOTJjSUFUalRtWUtWT3pUcUNwNFNkU1diWlhMVk55dzUydTJ4bkl5ajVTdERXT20yY2p5N3NEZmpiTHpyZkFKUGNpaUlGZDd0YXFsVTYwRFJwWk1aZ0RuQS1kQVAwczltMS03dVJkdnR6aThvNFVMbmVlYzZhbWJXcFZQVEszNVNEU0o4?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVR0aTFCWWs4bFA5a0V6R0ltTFgxZ0hGSDJCaEkzcDRFZUhIVURrekNYdktoN0JYVWZwUEc3bmszLUloSjZmeUJkRmRXQmx5R2hhandkMXRjSl9LVzhYVHJTdEpWWXQxS01wTEZJRmlhQ1BPdjVpZWxZeTFUVTdNaWRHT3R1QzFsZGNMN2xoNXVIY2xRLUw1dXNhSW1CdUxOZXc?oc=5)
 
 ---
 

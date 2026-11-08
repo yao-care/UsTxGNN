@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Rutin. 8 predicted indications."
 permalink: /news/rutin/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # Rutin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>9 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>12 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (12)
+
+### [Utah veteran's post-traumatic stress reduced after magnetic treatment](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmY5V3o1NWlrZVRIUXQwMGp2WW9pN3pvNUQ1d3Ytb1RiaEhLZmFCMjJtWTVjZXJZamtPeG1QaUNjaEhvRjdJaVhFUTRUTEVRMllkN1FrWHc5YTlyOUNZWXV3bndyamU5SWVSVlBHbFN0RlJUMzFscnB3YWhITUl3UnJ5d19BcjFQT2xVek44X002LW8wTGxpeVFUVWVia2wtYWZRYnJiYmI?oc=5)
+
+2026-11-07 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [KSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmY5V3o1NWlrZVRIUXQwMGp2WW9pN3pvNUQ1d3Ytb1RiaEhLZmFCMjJtWTVjZXJZamtPeG1QaUNjaEhvRjdJaVhFUTRUTEVRMllkN1FrWHc5YTlyOUNZWXV3bndyamU5SWVSVlBHbFN0RlJUMzFscnB3YWhITUl3UnJ5d19BcjFQT2xVek44X002LW8wTGxpeVFUVWVia2wtYWZRYnJiYmI?oc=5)
+
+---
+
+### [The healthier salt that could reduce risk of heart disease death - New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaU8yTURGOUlTamZXRnFrT3Bmczd4cHVaRXJsWGw4Rnh1dXJmZ1BFcDkzZzRFeUc4VXVJMEM4eDNXdjBrdFRGcGl6MXc2MGRtdHV6R3daZVBUdFc5TkotTlJzV2JnRnYxdkRVREZ0dUpTN1phQlotN0VlY3RiLXV5LVpPT3VWTFh1UVd1OVB4SGEwWW1KbTRROA?oc=5)
+
+2026-11-07 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaU8yTURGOUlTamZXRnFrT3Bmczd4cHVaRXJsWGw4Rnh1dXJmZ1BFcDkzZzRFeUc4VXVJMEM4eDNXdjBrdFRGcGl6MXc2MGRtdHV6R3daZVBUdFc5TkotTlJzV2JnRnYxdkRVREZ0dUpTN1phQlotN0VlY3RiLXV5LVpPT3VWTFh1UVd1OVB4SGEwWW1KbTRROA?oc=5)
+
+---
 
 ### [The daily sweet snack that could help with depression in older adults - New York Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY3Z4SjJxdW1uTVpEYXR0Y1M2WVpRcU9jZmYzMlZMV3lURFdzRElNZFRHTkg1WU9NcUN4a2JGeU1BZmlZcFRrcnFUMzBxOG1reVgzSGh0LWowRDZkdGZUYmsxQnlBYU9tRVBROFdERVFCTm10OWxCaU5pOGZlYTNMbEVlZ01iMVlXM1BZUDNGdUlXclZ6b2otLWxlTFVWeFpfbjFOR1dWUmVrVE0?oc=5)
 
@@ -50,19 +66,19 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY3Z
 
 ---
 
-### [Popular drinks linked to heart attacks, cardiac arrest in young adults, study finds - Fox News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOenVqaUg0dmZPdTAxT3daVHpJZjJzcm94b2hJX1ExaUpXVGRtbHRJLWUxbGlPSkJCZnhwZkNWWVY2X2hmVzVTeFA4YnJCYkNrZ0xiX3hTUHBtSEh2SF9UNnhmYVdfRmpMQ3ZlN2lnOUVYb2FnWjNqTXdCa0tnekJKbDBBRzlQek9oWTJXLVdYX3Y1ZWJsX1FDMzdiOU1KMmhkTElJRGttVjlJUdIBrwFBVV95cUxPQkxCdVd1U21hbENLcFdnUm04dGhTZFZWWGI5UHpQZzI2OVg3ZldMRDdRcjFzLTA1MVRfODRDQmVPSkl5c0R6S292WTh6VHpOV20xTUJpR3NOUVJYM0V5SDVsTEhpTlktR1RvcFFfWnkxclJRX1NjdlNmS0VQbnJ3UHpvdVlUZENfaGRTcGo3SWIybTVTOGJOVlNUQTA5QVJHUDlvUDYwblhvRVkyYmhZ?oc=5)
+### [Energy drinks linked to heart attacks in young adults in new AHA study findings - FOX 13 Tampa Bay](https://news.google.com/rss/articles/CBMiowFBVV95cUxPb3h2OGs3QXh6WVhlWW1TaHByOUFyV2JsSVAyVXNHbXdVWFBRaHpkT2d5QjBuRE9JQW10Nkk5ZU82bklCYmRHZnlGcThreXkxTG9KSEQ4aVVxQmt3WldWOU9LNlFTRC1KQ2IzSHo4ZTZLa1gyMm5sTzNFNVp1V2RaMU1mZVdYNmJaOXNYdTF2Y2FSem5yLWwzUU9GeEVKcGdUQ1Mw?oc=5)
 
 2026-11-07 <span class="news-indication-tag">heart attack</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Fox News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOenVqaUg0dmZPdTAxT3daVHpJZjJzcm94b2hJX1ExaUpXVGRtbHRJLWUxbGlPSkJCZnhwZkNWWVY2X2hmVzVTeFA4YnJCYkNrZ0xiX3hTUHBtSEh2SF9UNnhmYVdfRmpMQ3ZlN2lnOUVYb2FnWjNqTXdCa0tnekJKbDBBRzlQek9oWTJXLVdYX3Y1ZWJsX1FDMzdiOU1KMmhkTElJRGttVjlJUdIBrwFBVV95cUxPQkxCdVd1U21hbENLcFdnUm04dGhTZFZWWGI5UHpQZzI2OVg3ZldMRDdRcjFzLTA1MVRfODRDQmVPSkl5c0R6S292WTh6VHpOV20xTUJpR3NOUVJYM0V5SDVsTEhpTlktR1RvcFFfWnkxclJRX1NjdlNmS0VQbnJ3UHpvdVlUZENfaGRTcGo3SWIybTVTOGJOVlNUQTA5QVJHUDlvUDYwblhvRVkyYmhZ?oc=5)
+Source: [FOX 13 Tampa Bay](https://news.google.com/rss/articles/CBMiowFBVV95cUxPb3h2OGs3QXh6WVhlWW1TaHByOUFyV2JsSVAyVXNHbXdVWFBRaHpkT2d5QjBuRE9JQW10Nkk5ZU82bklCYmRHZnlGcThreXkxTG9KSEQ4aVVxQmt3WldWOU9LNlFTRC1KQ2IzSHo4ZTZLa1gyMm5sTzNFNVp1V2RaMU1mZVdYNmJaOXNYdTF2Y2FSem5yLWwzUU9GeEVKcGdUQ1Mw?oc=5)
 
 ---
 
-### [Earth’s churning mantle may have created the Great Unconformity - Ars Technica](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ0xOT1hpSU9yeWg1RDRwb2E4N1ZTemZNdWN3Y1AyMGFkRXZ6WnR1aExVb2l3V2kyUkdBaEZxOGFINjdBdVJSeG9DSnlMRFREdFh5ZWozRGpCMktuVW9naHdlclhYZmZwZng0YnVtLWlKYXFZelYwdEJkSnJZZk1ucDVhNEJuR2cwLTV3RUE3aHY1STFTZVBJbDM0Nk52eG8zNXBOQmJn?oc=5)
+### [Obesity drugs may help protect memory and cognitive abilities](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnA2M2UyWHdtX1ctZHp6Z3AwWkRnUnNobXc1ZDRsaTZLRzdGTjhZQVNocUplTzZMMVF0d25UUV9UU0N4Y21aaFFzOWxKclZsX2p2ZUI3T09ndFFrcVcwSTBveS1MY3VYRGN4cHpuTVduT1k1WVJMZTV2SDdmeTR2YmxGbFZPZG1uMUN0N00zbzlONkxWYUM4cktwR0hQMkxDeUxHX2JaVjlRcXU5NVE?oc=5)
 
-2026-11-06 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
+2026-11-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Ars Technica](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ0xOT1hpSU9yeWg1RDRwb2E4N1ZTemZNdWN3Y1AyMGFkRXZ6WnR1aExVb2l3V2kyUkdBaEZxOGFINjdBdVJSeG9DSnlMRFREdFh5ZWozRGpCMktuVW9naHdlclhYZmZwZng0YnVtLWlKYXFZelYwdEJkSnJZZk1ucDVhNEJuR2cwLTV3RUE3aHY1STFTZVBJbDM0Nk52eG8zNXBOQmJn?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnA2M2UyWHdtX1ctZHp6Z3AwWkRnUnNobXc1ZDRsaTZLRzdGTjhZQVNocUplTzZMMVF0d25UUV9UU0N4Y21aaFFzOWxKclZsX2p2ZUI3T09ndFFrcVcwSTBveS1MY3VYRGN4cHpuTVduT1k1WVJMZTV2SDdmeTR2YmxGbFZPZG1uMUN0N00zbzlONkxWYUM4cktwR0hQMkxDeUxHX2JaVjlRcXU5NVE?oc=5)
 
 ---
 
@@ -76,17 +92,17 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQnhm
 
 ### [Herbal supplement linked to decline in excessive alcohol consumption - The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxPekJPZUw5bXBkVVptY09wTHNqS0ozZWF6VEg2TDdkby0wYWlSdjFFN0tWcW1lZzVfcWJPaGVZNkEtMXJUc0VtTEt5UXUyNjc0UTByY0gzZDRwYXBwRFQ2dk1xbldsbmVPLVU2a3ZETlNCbEFzSHpFSW10cmFFNUdJNS1FQ0JNcVNRbS1zcUFDM0RGQQ?oc=5)
 
-2026-11-06 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-06 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxPekJPZUw5bXBkVVptY09wTHNqS0ozZWF6VEg2TDdkby0wYWlSdjFFN0tWcW1lZzVfcWJPaGVZNkEtMXJUc0VtTEt5UXUyNjc0UTByY0gzZDRwYXBwRFQ2dk1xbldsbmVPLVU2a3ZETlNCbEFzSHpFSW10cmFFNUdJNS1FQ0JNcVNRbS1zcUFDM0RGQQ?oc=5)
 
 ---
 
-### [Utah women raise awareness about heart health through personal stories, quilting](https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEN3NENwcGNpWFgxcXVBQ2FkdTh0NENVYmdLdldzVVVhS3o5b2M4M0oxQktPT2Q4SHNyVGlWMHQ0c0RlcUpFTjNXVHd2X202UWxmaEtyczZDV0Jyc05zXzNBNENUMkxlUmdqMmYyWllvTVQ5QmNYb0toWVFRLVZ3SzQ2bGlXLUE4T240d09oSmF5TTNKYnMxTEM2OWhrVkJsamh1Nl8ybm10SFk1Tk9DRWxaRzZLRVU?oc=5)
+### [New microscopy method reveals tiny cell structures and their molecular surroundings](https://news.google.com/rss/articles/CBMiekFVX3lxTE84dzhkU1NTeE5aY2ZYVUZMc3dIVWs3SjVqYUpKR05FNTRremIzRWhHUUlUQWpPQVFXckpGR3Z1eUFXVXBmaWJSQ24xTE5EeENmMFpTMkZhTVZZRk1zRFI3TWc2eVlvNFpFUEN4N1l6WlhReTUzM3dRd3F3?oc=5)
 
-2026-11-06 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-05 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [KSL](https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEN3NENwcGNpWFgxcXVBQ2FkdTh0NENVYmdLdldzVVVhS3o5b2M4M0oxQktPT2Q4SHNyVGlWMHQ0c0RlcUpFTjNXVHd2X202UWxmaEtyczZDV0Jyc05zXzNBNENUMkxlUmdqMmYyWllvTVQ5QmNYb0toWVFRLVZ3SzQ2bGlXLUE4T240d09oSmF5TTNKYnMxTEM2OWhrVkJsamh1Nl8ybm10SFk1Tk9DRWxaRzZLRVU?oc=5)
+Source: [Phys.org](https://news.google.com/rss/articles/CBMiekFVX3lxTE84dzhkU1NTeE5aY2ZYVUZMc3dIVWs3SjVqYUpKR05FNTRremIzRWhHUUlUQWpPQVFXckpGR3Z1eUFXVXBmaWJSQ24xTE5EeENmMFpTMkZhTVZZRk1zRFI3TWc2eVlvNFpFUEN4N1l6WlhReTUzM3dRd3F3?oc=5)
 
 ---
 
@@ -98,11 +114,19 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiogFBVV95c
 
 ---
 
-### [Exposure to This 1 Thing at Night May Damage Your Heart, Research Shows](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSnAxTnpqYjQ2VjFCWmRCZzhlcE9pREpVNmVqbE1xdDlpTXlCeE9Cb0FsTFpkdjNqT1NaaU11dFBNOEdJODlxNUVnNFFFNGw5c2VqOVNxYm5UWWtkMUJMbFVHS3pzNHRuVTZMVDA5RDFkek5xWS1hUWtHWjRpcTVTVE9yRjZBZEtIVmNHb2pvSUpmaWoyUjhrRE91c19ISHBLaXREaG5aZG5aVk0?oc=5)
+### [Drinking 2-3 Cups of Coffee Daily Linked to 43% Lower Risk of Liver Cancer](https://news.google.com/rss/articles/CBMid0FVX3lxTE5MVjJYU0pwMHdjS2hqSkJYaEViY3hob1dqRnlIWk14VVByNzhZdThrOFZ6QnNId2pHeWVtYWdYTzNjT0Zmck9WUGxqTzJEYTFuZHJXRnJMODFMaVZpNzhjbUc4X3hMVXFxV1hWOXE1ZWdpbWlybTdj?oc=5)
 
-2026-11-05 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
 
-Source: [TODAY.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSnAxTnpqYjQ2VjFCWmRCZzhlcE9pREpVNmVqbE1xdDlpTXlCeE9Cb0FsTFpkdjNqT1NaaU11dFBNOEdJODlxNUVnNFFFNGw5c2VqOVNxYm5UWWtkMUJMbFVHS3pzNHRuVTZMVDA5RDFkek5xWS1hUWtHWjRpcTVTVE9yRjZBZEtIVmNHb2pvSUpmaWoyUjhrRE91c19ISHBLaXREaG5aZG5aVk0?oc=5)
+Source: [AOL.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE5MVjJYU0pwMHdjS2hqSkJYaEViY3hob1dqRnlIWk14VVByNzhZdThrOFZ6QnNId2pHeWVtYWdYTzNjT0Zmck9WUGxqTzJEYTFuZHJXRnJMODFMaVZpNzhjbUc4X3hMVXFxV1hWOXE1ZWdpbWlybTdj?oc=5)
+
+---
+
+### [All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5WU2FVT3lpVXI0eUFiSG9kNng3LXpYVjhHUkhMNk9zUkxEdk83a3VxUXlVSm1rc2ZZWUhfWGI3ZWYzOHBJN2RhQXd1NWRDSVdUby1zZHBlemh2Y1ozb2stRUxTS1pLMW9fSHpUcnFiWQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5WU2FVT3lpVXI0eUFiSG9kNng3LXpYVjhHUkhMNk9zUkxEdk83a3VxUXlVSm1rc2ZZWUhfWGI3ZWYzOHBJN2RhQXd1NWRDSVdUby1zZHBlemh2Y1ozb2stRUxTS1pLMW9fSHpUcnFiWQ?oc=5)
 
 ---
 

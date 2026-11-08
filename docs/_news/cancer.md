@@ -3,9 +3,9 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 3 articles, 1 related drugs."
+description: "Health news about cancer. 4 articles, 1 related drugs."
 permalink: /news/cancer/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # cancer News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [Experimental pancreatic cancer vaccine shows promise in clinical trial - Medical News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3lpNGZIeldDYkpoVGZ5X3dJUFZKaTNLNEdGLTNRek1UNDAzRS1lMEZVWGxianJmdDBlY1VSMDBfQXppUkZHbW81WXc5ZkJsT19GbjlYSlRUV0hzYnZHYmtjUzdHa1FxOXJuVTBJMjE4LTF1OGFVdDBoNGo0dGF5TEluQmZtNHVZQTBCdUNvODRjOTF6RHBfdmdqWmd5aUJmbVcwTUY3X0oxaWwyc25weE5B?oc=5)
 
@@ -48,11 +48,19 @@ Source: [The Seattle Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUx
 
 ---
 
-### [Local woman starts groundbreaking new pancreatic cancer treatment - Fox 59](https://news.google.com/rss/articles/CBMingFBVV95cUxOMFRXRWdwSzBZTnhGVTdvUDFrc05naDVDSC1Pdm5qV05sTnBCWjlYaFgydGVQU2h3R1RiU2FGeHlrMmlyQm5BS0V0ODhWX2s0eU5hYnRZSG5NYjZFMHlQME9OSXNnRkgzNzNiOUFHcjZ2YlpRamhpVXRxRmhxX2J0RnlHN3VlUGJQMzZlQVFKTFhKUjRUaXhVTWstUXpJQdIBowFBVV95cUxOWmxscnBOZWFXRVNzc2FRVVVvdzNNNUVMbXIwc3JkUWFzYVhyR19ocmUzMlFCQmtzeDN3N1F0Vkl5dXdjbU9qc2Y1RTVOMzNBdTR0MHJKSHBUdnRFV1c3TktOOE1qT29oeEJ4cl9Cc0RHRDMzZVNKOGlTM3VVbWRpMjJzeGl4YW5TcVAweUhpX0tzM1NJSmVzeUh4a2lnN3RRMFZn?oc=5)
+### [Obesity drugs may help protect memory and cognitive abilities](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnA2M2UyWHdtX1ctZHp6Z3AwWkRnUnNobXc1ZDRsaTZLRzdGTjhZQVNocUplTzZMMVF0d25UUV9UU0N4Y21aaFFzOWxKclZsX2p2ZUI3T09ndFFrcVcwSTBveS1MY3VYRGN4cHpuTVduT1k1WVJMZTV2SDdmeTR2YmxGbFZPZG1uMUN0N00zbzlONkxWYUM4cktwR0hQMkxDeUxHX2JaVjlRcXU5NVE?oc=5)
 
 2026-11-06
 
-Source: [Fox 59](https://news.google.com/rss/articles/CBMingFBVV95cUxOMFRXRWdwSzBZTnhGVTdvUDFrc05naDVDSC1Pdm5qV05sTnBCWjlYaFgydGVQU2h3R1RiU2FGeHlrMmlyQm5BS0V0ODhWX2s0eU5hYnRZSG5NYjZFMHlQME9OSXNnRkgzNzNiOUFHcjZ2YlpRamhpVXRxRmhxX2J0RnlHN3VlUGJQMzZlQVFKTFhKUjRUaXhVTWstUXpJQdIBowFBVV95cUxOWmxscnBOZWFXRVNzc2FRVVVvdzNNNUVMbXIwc3JkUWFzYVhyR19ocmUzMlFCQmtzeDN3N1F0Vkl5dXdjbU9qc2Y1RTVOMzNBdTR0MHJKSHBUdnRFV1c3TktOOE1qT29oeEJ4cl9Cc0RHRDMzZVNKOGlTM3VVbWRpMjJzeGl4YW5TcVAweUhpX0tzM1NJSmVzeUh4a2lnN3RRMFZn?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnA2M2UyWHdtX1ctZHp6Z3AwWkRnUnNobXc1ZDRsaTZLRzdGTjhZQVNocUplTzZMMVF0d25UUV9UU0N4Y21aaFFzOWxKclZsX2p2ZUI3T09ndFFrcVcwSTBveS1MY3VYRGN4cHpuTVduT1k1WVJMZTV2SDdmeTR2YmxGbFZPZG1uMUN0N00zbzlONkxWYUM4cktwR0hQMkxDeUxHX2JaVjlRcXU5NVE?oc=5)
+
+---
+
+### [Drinking 2-3 Cups of Coffee Daily Linked to 43% Lower Risk of Liver Cancer](https://news.google.com/rss/articles/CBMid0FVX3lxTE5MVjJYU0pwMHdjS2hqSkJYaEViY3hob1dqRnlIWk14VVByNzhZdThrOFZ6QnNId2pHeWVtYWdYTzNjT0Zmck9WUGxqTzJEYTFuZHJXRnJMODFMaVZpNzhjbUc4X3hMVXFxV1hWOXE1ZWdpbWlybTdj?oc=5)
+
+2026-11-04
+
+Source: [AOL.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE5MVjJYU0pwMHdjS2hqSkJYaEViY3hob1dqRnlIWk14VVByNzhZdThrOFZ6QnNId2pHeWVtYWdYTzNjT0Zmck9WUGxqTzJEYTFuZHJXRnJMODFMaVZpNzhjbUc4X3hMVXFxV1hWOXE1ZWdpbWlybTdj?oc=5)
 
 ---
 

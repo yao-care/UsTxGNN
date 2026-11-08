@@ -3,9 +3,9 @@ layout: default
 title: "high blood pressure (hypertension) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about high blood pressure (hypertension). 3 articles, 1 related drugs."
+description: "Health news about high blood pressure (hypertension). 4 articles, 1 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # high blood pressure (hypertension) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
-<strong>high blood pressure (hypertension)</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
+<strong>high blood pressure (hypertension)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,29 @@ This page brings together the latest health news about “high blood pressure”
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Sen. Chris Murphy's stroke at 53 highlights a trend: Strokes among younger adults have risen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS0dFQlY4dUhsbWhoUGs2c0xua1FEVzlJQjR6b1JVcWQyS2xuOTBybWFnMF9URXduekVtV0t1d1RzNDZwUFZlZVNYd2otYlRhWTBsV2V2blY3R3hLa1V0Rzdidnd2bTVpdHB1YnVmT2NCQ0FZQzdQY21DVVEyQmhvb1NRQVNRbTg0bFk2R1k0OWYwTU4xMWRwSmdjTGNBNFVnLXR3czdaZHFTZGRMVVhGMWFLS1RFMlZmSjdnNXdRUWRUMU0?oc=5)
+
+2026-11-07
+
+Source: [PBS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS0dFQlY4dUhsbWhoUGs2c0xua1FEVzlJQjR6b1JVcWQyS2xuOTBybWFnMF9URXduekVtV0t1d1RzNDZwUFZlZVNYd2otYlRhWTBsV2V2blY3R3hLa1V0Rzdidnd2bTVpdHB1YnVmT2NCQ0FZQzdQY21DVVEyQmhvb1NRQVNRbTg0bFk2R1k0OWYwTU4xMWRwSmdjTGNBNFVnLXR3czdaZHFTZGRMVVhGMWFLS1RFMlZmSjdnNXdRUWRUMU0?oc=5)
+
+---
+
+### [The healthier salt that could reduce risk of heart disease death - New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaU8yTURGOUlTamZXRnFrT3Bmczd4cHVaRXJsWGw4Rnh1dXJmZ1BFcDkzZzRFeUc4VXVJMEM4eDNXdjBrdFRGcGl6MXc2MGRtdHV6R3daZVBUdFc5TkotTlJzV2JnRnYxdkRVREZ0dUpTN1phQlotN0VlY3RiLXV5LVpPT3VWTFh1UVd1OVB4SGEwWW1KbTRROA?oc=5)
+
+2026-11-07
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaU8yTURGOUlTamZXRnFrT3Bmczd4cHVaRXJsWGw4Rnh1dXJmZ1BFcDkzZzRFeUc4VXVJMEM4eDNXdjBrdFRGcGl6MXc2MGRtdHV6R3daZVBUdFc5TkotTlJzV2JnRnYxdkRVREZ0dUpTN1phQlotN0VlY3RiLXV5LVpPT3VWTFh1UVd1OVB4SGEwWW1KbTRROA?oc=5)
+
+---
 
 ### [How nocturnal hypertension can have a sneaky impact on your heart - The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU29rdTNPeVdkVlZjaW5PSkVkQVBleXp1N3pCbVN4V0ZscE9VSVB1dzVnWkw5WUJDRDF5enlDMnIwVTdvVGNNT1h0c3lPbjY0ampGMy1ZYUFkcHZEUGFQcFNIaHpJRC12a0FaZVQ4dkZCNlBGdlhjcDItaVhMbVlwNUVRRWx3eDBiTzhxV2N1Z2FKU2ZnUWZoRnNGUkRZdkZaNmxZZ215Yy1sODZkQzc5eVJ3?oc=5)
 
 2026-11-07
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU29rdTNPeVdkVlZjaW5PSkVkQVBleXp1N3pCbVN4V0ZscE9VSVB1dzVnWkw5WUJDRDF5enlDMnIwVTdvVGNNT1h0c3lPbjY0ampGMy1ZYUFkcHZEUGFQcFNIaHpJRC12a0FaZVQ4dkZCNlBGdlhjcDItaVhMbVlwNUVRRWx3eDBiTzhxV2N1Z2FKU2ZnUWZoRnNGUkRZdkZaNmxZZ215Yy1sODZkQzc5eVJ3?oc=5)
-
----
-
-### [This type of salt could prevent millions of deaths each year](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzVmdWlnWDJMTURuV2pqSHZwMkNjaTdMZGp4a1pYd3V4ZHQ2a2VnSFZ1WHpvMVBFOWxucEJGaVVHbjUxdXZQaF8yNTZ3cXY4M0pXZ2dxVDRGd2wtUEVLQlcxNTJBcFV3bHphdGpxSWo3aFowSkpFZ0lFVmFCajNHVnBDNnc3T3ItWHliTzJVRkRRQm5TWWJMaFRPSQ?oc=5)
-
-2026-11-06
-
-Source: [Newsweek](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzVmdWlnWDJMTURuV2pqSHZwMkNjaTdMZGp4a1pYd3V4ZHQ2a2VnSFZ1WHpvMVBFOWxucEJGaVVHbjUxdXZQaF8yNTZ3cXY4M0pXZ2dxVDRGd2wtUEVLQlcxNTJBcFV3bHphdGpxSWo3aFowSkpFZ0lFVmFCajNHVnBDNnc3T3ItWHliTzJVRkRRQm5TWWJMaFRPSQ?oc=5)
 
 ---
 

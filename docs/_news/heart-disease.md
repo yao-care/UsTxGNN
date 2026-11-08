@@ -72,11 +72,11 @@ Source: [Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU9V
 
 ---
 
-### [A 3,200-pound telescope plunged out of orbit. How it unfolded](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMmV5d0luVzdWUVhpSzR6RUR2all2X1QxRl9LVFlkS2E3aDRFR2d0QXJYTUlyVGdPaE9GQjBJMHpVSVNjdmRSTkdtSkJsTVhjaTFLNVF2SFJUNGFobWw4aTVaX2N4MDdhWXlYaHdQb295VmIzcUprLVNlTkdUOTQyY3JXTHRxT0tB?oc=5)
+### [NASA's Swift space telescope crashes back to Earth after failed rescue attempt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNemItWFFQRDR6YjVhX3ByNWpVTW5fdHVsNE10blo0MDg5SnRQak5JZDdicDZncnBndkZ4X2hYeHl4cS0yaGpoWjJVVFhqQnNnWnpfYndwcHB2eWdmaHZ4Z2N6OUp6dlVDZzIyMlNUcS1mNXJDRmNLR245S0Q0bnRFekNNMWtqSERWWEZWZmp3X1o5X0tJTDhZ?oc=5)
 
-2026-11-04
+2026-11-05
 
-Source: [CNN](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMmV5d0luVzdWUVhpSzR6RUR2all2X1QxRl9LVFlkS2E3aDRFR2d0QXJYTUlyVGdPaE9GQjBJMHpVSVNjdmRSTkdtSkJsTVhjaTFLNVF2SFJUNGFobWw4aTVaX2N4MDdhWXlYaHdQb295VmIzcUprLVNlTkdUOTQyY3JXTHRxT0tB?oc=5)
+Source: [Space](https://news.google.com/rss/articles/CBMilwFBVV95cUxNemItWFFQRDR6YjVhX3ByNWpVTW5fdHVsNE10blo0MDg5SnRQak5JZDdicDZncnBndkZ4X2hYeHl4cS0yaGpoWjJVVFhqQnNnWnpfYndwcHB2eWdmaHZ4Z2N6OUp6dlVDZzIyMlNUcS1mNXJDRmNLR245S0Q0bnRFekNNMWtqSERWWEZWZmp3X1o5X0tJTDhZ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 4 articles, 1 related drugs."
+description: "Health news about cancer. 5 articles, 1 related drugs."
 permalink: /news/cancer/
 last_modified_at: 2026-11-08
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Why the simple flu shot could be a surprise weapon against cancer - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5)
+
+2026-11-08
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5)
+
+---
 
 ### [Experimental pancreatic cancer vaccine shows promise in clinical trial - Medical News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3lpNGZIeldDYkpoVGZ5X3dJUFZKaTNLNEdGLTNRek1UNDAzRS1lMEZVWGxianJmdDBlY1VSMDBfQXppUkZHbW81WXc5ZkJsT19GbjlYSlRUV0hzYnZHYmtjUzdHa1FxOXJuVTBJMjE4LTF1OGFVdDBoNGo0dGF5TEluQmZtNHVZQTBCdUNvODRjOTF6RHBfdmdqWmd5aUJmbVcwTUY3X0oxaWwyc25weE5B?oc=5)
 
@@ -40,19 +48,19 @@ Source: [Medical News Today](https://news.google.com/rss/articles/CBMisgFBVV95cU
 
 ---
 
-### [As menopause hormones gain favor, experts say ‘keep cancer in the conversation’ - The Seattle Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQak9wZnFSUHZpX2RuRGRHNVZvdUxSTzVXcWprS2c5Qkd5QXRXeXR1OGtuN2xzQTlmcDdTN2g3bG9LdFlkaWY4YjRJSUt6M3VfSDJHcjNYMGZDV19uOEx2Q09PZFB5NDFBQWlQLUNuSlAyb0RLVm5rVFZnQW9xR2gwUDNMYmxTZjVFeFJBT1NhZzN3Nmx2OWo3THlhOF9XalljX0FNMXkyOFZxZ2x6QVdnWmJZYWk4bXk0SjhN?oc=5)
+### [2 ‘forever chemicals’ associated with higher risk of breast cancer: Study - LiveNOW from FOX](https://news.google.com/rss/articles/CBMimgFBVV95cUxOX1JQSDZtOFFRUF9naktobmtaU3NicUJ2ZEVMYkI4cmkzZTAyZ0FwdHQzclhBRWlzODdzNWRoVUxEQnUwSEMzcHVXQ3pGUUplZThGVW9rdGpQUFNDaUd6d1BBV0Y5QXRyM0p0T3hKdXhxOGtRSkJhSXZpdTNzOE9HZUw1eE1lMktaeEgxN2dHdGFZd3BaWWJKLXhR?oc=5)
 
 2026-11-07
 
-Source: [The Seattle Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQak9wZnFSUHZpX2RuRGRHNVZvdUxSTzVXcWprS2c5Qkd5QXRXeXR1OGtuN2xzQTlmcDdTN2g3bG9LdFlkaWY4YjRJSUt6M3VfSDJHcjNYMGZDV19uOEx2Q09PZFB5NDFBQWlQLUNuSlAyb0RLVm5rVFZnQW9xR2gwUDNMYmxTZjVFeFJBT1NhZzN3Nmx2OWo3THlhOF9XalljX0FNMXkyOFZxZ2x6QVdnWmJZYWk4bXk0SjhN?oc=5)
+Source: [LiveNOW from FOX](https://news.google.com/rss/articles/CBMimgFBVV95cUxOX1JQSDZtOFFRUF9naktobmtaU3NicUJ2ZEVMYkI4cmkzZTAyZ0FwdHQzclhBRWlzODdzNWRoVUxEQnUwSEMzcHVXQ3pGUUplZThGVW9rdGpQUFNDaUd6d1BBV0Y5QXRyM0p0T3hKdXhxOGtRSkJhSXZpdTNzOE9HZUw1eE1lMktaeEgxN2dHdGFZd3BaWWJKLXhR?oc=5)
 
 ---
 
-### [Obesity drugs may help protect memory and cognitive abilities](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnA2M2UyWHdtX1ctZHp6Z3AwWkRnUnNobXc1ZDRsaTZLRzdGTjhZQVNocUplTzZMMVF0d25UUV9UU0N4Y21aaFFzOWxKclZsX2p2ZUI3T09ndFFrcVcwSTBveS1MY3VYRGN4cHpuTVduT1k1WVJMZTV2SDdmeTR2YmxGbFZPZG1uMUN0N00zbzlONkxWYUM4cktwR0hQMkxDeUxHX2JaVjlRcXU5NVE?oc=5)
+### [As Hormone Use Increases, Some Doctors Warn Slight Cancer Risk Is Being Overlooked - The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjNDSWlLR2pQamhlQW9zSXF4Mm8tOHZQcUFwb1dPVlVTeHlja0NKTVZrdGJweGptNXcxWVVqT1dGeFQycXlONVhWbUt6S3R2ajVNQW1NT1JSbkd6YThWSTVLWXNGYTBXQV9OYW9keTluNlhSdzJxRFRoR1dwRmxma0ZIUQ?oc=5)
 
 2026-11-06
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnA2M2UyWHdtX1ctZHp6Z3AwWkRnUnNobXc1ZDRsaTZLRzdGTjhZQVNocUplTzZMMVF0d25UUV9UU0N4Y21aaFFzOWxKclZsX2p2ZUI3T09ndFFrcVcwSTBveS1MY3VYRGN4cHpuTVduT1k1WVJMZTV2SDdmeTR2YmxGbFZPZG1uMUN0N00zbzlONkxWYUM4cktwR0hQMkxDeUxHX2JaVjlRcXU5NVE?oc=5)
+Source: [The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjNDSWlLR2pQamhlQW9zSXF4Mm8tOHZQcUFwb1dPVlVTeHlja0NKTVZrdGJweGptNXcxWVVqT1dGeFQycXlONVhWbUt6S3R2ajVNQW1NT1JSbkd6YThWSTVLWXNGYTBXQV9OYW9keTluNlhSdzJxRFRoR1dwRmxma0ZIUQ?oc=5)
 
 ---
 

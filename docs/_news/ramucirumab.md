@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [Why the simple flu shot could be a surprise weapon against cancer - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5)
 
 2026-11-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">flu</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5)
-
----
-
-### [Cancer breakthrough at BYU: Researchers point to a promising treatment - The Salt Lake Tribune](https://news.google.com/rss/articles/CBMifkFVX3lxTFB0TDhrZER6YVRQeTZpaEZwSThjZy1KcXhlekl3VGFldUhIQm9YTmdnRjZPanlOWUt0SVlWZ0VRLW5Bck5tQ1pzdi1QdVFpLXlBQkhFOFNEQ2JfZVJDdU5nemlycWlnTGV1YnRnMTR4dk5KeGRZTE43dEctREhBZw?oc=5)
-
-2026-11-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
-
-Source: [The Salt Lake Tribune](https://news.google.com/rss/articles/CBMifkFVX3lxTFB0TDhrZER6YVRQeTZpaEZwSThjZy1KcXhlekl3VGFldUhIQm9YTmdnRjZPanlOWUt0SVlWZ0VRLW5Bck5tQ1pzdi1QdVFpLXlBQkhFOFNEQ2JfZVJDdU5nemlycWlnTGV1YnRnMTR4dk5KeGRZTE43dEctREhBZw?oc=5)
 
 ---
 
@@ -76,11 +68,11 @@ Source: [Medical News Today](https://news.google.com/rss/articles/CBMisgFBVV95cU
 
 ---
 
-### [2 ‘forever chemicals’ associated with higher risk of breast cancer: Study - FOX 13 Tampa Bay](https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDZ1aXM5amJFcl9RNG5ZVktlaHBBcmZsWkVKTEotY21ZM3lneTUxclViMFc1bHY1cW1ZVFp1YWtaYVJDdHFNamhNTzN2UU1ERzJ4VFRMUW9fQ1lPbkhJaWR0dnBwdXhEclR6QkJnMlZSa3R4X2dyQUJERkxUMUFDemFIOXp6ZEVlQy1xdl9ySlAxLW1VR1h2dA?oc=5)
+### [Gastroenterologist Warns: Indigestion After Meals May Signal Early Pancreatic Cancer](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMDZmanFtVlpaaWpVcy1aZ2FWTjhsTDVxQUtsRXBSY3JCQWs3T0dYX0h3d3FubFdTTTVhSC1qU0ZqVWM0aUk5Qm9IMmNIWEJpbXIzQjBGT2swNzVLMmVKd0s5NFRjVm5RQk43VUxSZ2IzMkxadWRRdTFERm9BWXd1b1ptRjZXT1ZHRkEteGFFUzB4Q3N0?oc=5)
 
-2026-11-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+2026-11-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [FOX 13 Tampa Bay](https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDZ1aXM5amJFcl9RNG5ZVktlaHBBcmZsWkVKTEotY21ZM3lneTUxclViMFc1bHY1cW1ZVFp1YWtaYVJDdHFNamhNTzN2UU1ERzJ4VFRMUW9fQ1lPbkhJaWR0dnBwdXhEclR6QkJnMlZSa3R4X2dyQUJERkxUMUFDemFIOXp6ZEVlQy1xdl9ySlAxLW1VR1h2dA?oc=5)
+Source: [AOL.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMDZmanFtVlpaaWpVcy1aZ2FWTjhsTDVxQUtsRXBSY3JCQWs3T0dYX0h3d3FubFdTTTVhSC1qU0ZqVWM0aUk5Qm9IMmNIWEJpbXIzQjBGT2swNzVLMmVKd0s5NFRjVm5RQk43VUxSZ2IzMkxadWRRdTFERm9BWXd1b1ptRjZXT1ZHRkEteGFFUzB4Q3N0?oc=5)
 
 ---
 

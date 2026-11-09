@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 5 articles, 2 related drugs."
+description: "Health news about flu (influenza). 7 articles, 2 related drugs."
 permalink: /news/influenza/
 last_modified_at: 2026-11-09
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>5 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>7 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (5)
+## Related News (7)
+
+### [It’s not too late to get it: what to know about getting the flu vaccine this year - The Guardian](https://news.google.com/rss/articles/CBMifkFVX3lxTE55S09RYVJNUzc0dWw1Mm1QWWlhU2Vja1BybFI0bm40WS1GQzhlUUk0am1ta2FkWlhoTklDTFVBcmNtWV9JbHZvaWZlVnVkMTRmekk1NUVDcldsUjZ5UVRkSVJoZ0RKMVAwR2ZydW42bmJQWENOeGlsOXFkMHdEZw?oc=5)
+
+2026-11-09
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMifkFVX3lxTE55S09RYVJNUzc0dWw1Mm1QWWlhU2Vja1BybFI0bm40WS1GQzhlUUk0am1ta2FkWlhoTklDTFVBcmNtWV9JbHZvaWZlVnVkMTRmekk1NUVDcldsUjZ5UVRkSVJoZ0RKMVAwR2ZydW42bmJQWENOeGlsOXFkMHdEZw?oc=5)
+
+---
 
 ### [Why the simple flu shot could be a surprise weapon against cancer - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5)
 
@@ -49,27 +57,35 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTdzVT
 
 ---
 
-### [Two measles cases confirmed in St. Joseph County; exposure sites listed](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNURicllFcDdhTEJQdWFYRHlEM205XzJZM2s3MkoxM3JybmlfaHk0TER3YUdzS0RfMi1yMzYxTF9nNmp2S0pFQWVnN0JpUzRCOXlPbUJPSDJNUDNwSFVPMXRoN0Jyc2h2TGd5di1ZN3hDMzN2WGNrMjF6djBhcUVlR3RmWk4yLXgtTmZyUklQa29YM19SUVdUNnY3cUFSaWxrSEM1SmI2Y0ozbENUTUxjMVBkd2hZNUx3VUd4LTZ5RzZFdjJvMjdYYXFDOHVQMXczTTZUOFZxbDFWVlJyazIxOUNyaXdXbDBicnlYc1NKQ0VHZXQ2bHc?oc=5)
+### [Western Washington farmers brace for impacts after bird flu detected in Pierce County](https://news.google.com/rss/articles/CBMikgJBVV95cUxPbUpmNjcwNGQwUGpGRW81dnM3Z1JseVBJcFBYVlVHRWlmNjdYbV9UUk9OcWVMNFltZ1pXdGlOUHE5a1M1dXVJaHNSanhhTUZPM3hzS2RMYlRXcDNqb01ISmRjRVA1UEhRekRHRlVQYlduSDBvM2tYQUtLOGJpNkt6Um1iaVVEbXlaZ0JmYXJBMmFoZTV0eElnakJ2UFI5aGJNdlBnVlFfMFRwN25WX1A1aktkYUZ0YllFdWsyWmhWeGtmOV85aFhqc2dpbTYxd013bExVTGhJcjdHUU9SOHdmN0pVMzZIZjZxTHM0YURtVGdoYS1aN2V2MDd3Q1pYWWxyODdZdGVJc3drdmZadklkb0hn?oc=5)
 
 2026-11-07
 
-Source: [WWMT](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNURicllFcDdhTEJQdWFYRHlEM205XzJZM2s3MkoxM3JybmlfaHk0TER3YUdzS0RfMi1yMzYxTF9nNmp2S0pFQWVnN0JpUzRCOXlPbUJPSDJNUDNwSFVPMXRoN0Jyc2h2TGd5di1ZN3hDMzN2WGNrMjF6djBhcUVlR3RmWk4yLXgtTmZyUklQa29YM19SUVdUNnY3cUFSaWxrSEM1SmI2Y0ozbENUTUxjMVBkd2hZNUx3VUd4LTZ5RzZFdjJvMjdYYXFDOHVQMXczTTZUOFZxbDFWVlJyazIxOUNyaXdXbDBicnlYc1NKQ0VHZXQ2bHc?oc=5)
+Source: [KOMO](https://news.google.com/rss/articles/CBMikgJBVV95cUxPbUpmNjcwNGQwUGpGRW81dnM3Z1JseVBJcFBYVlVHRWlmNjdYbV9UUk9OcWVMNFltZ1pXdGlOUHE5a1M1dXVJaHNSanhhTUZPM3hzS2RMYlRXcDNqb01ISmRjRVA1UEhRekRHRlVQYlduSDBvM2tYQUtLOGJpNkt6Um1iaVVEbXlaZ0JmYXJBMmFoZTV0eElnakJ2UFI5aGJNdlBnVlFfMFRwN25WX1A1aktkYUZ0YllFdWsyWmhWeGtmOV85aFhqc2dpbTYxd013bExVTGhJcjdHUU9SOHdmN0pVMzZIZjZxTHM0YURtVGdoYS1aN2V2MDd3Q1pYWWxyODdZdGVJc3drdmZadklkb0hn?oc=5)
 
 ---
 
-### [Washington reports first US bird flu death of 2026; health officials say risk to the public is low](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VaENkNHpqVUYzUnRGcDU3UWw0SS1vR3NzTmJ3VWxOenhrOFN6UWx0N3hPSEtKUEg5WFNDVGw5Z0R0X1ZMb3ZUaTF4OUxvUEJhaGlfTVpTbDMtdGRSaEx5UkJ0SWR0Wnli?oc=5)
+### [Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZSW9neWwwRFlrOXlydDR4YlhtLVdNdVVBMjMzV1B5MU55TTFFTjhUTUFWXzJfckJQYXFuemVyTFpDM2pYcEY5UkF3LXpEeGh5RjNreExkNUZmMmU0aW8xTGpVM1lQWFppUTZNVzdpMA?oc=5)
 
-2026-11-02
+2026-11-07
 
-Source: [CNN](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VaENkNHpqVUYzUnRGcDU3UWw0SS1vR3NzTmJ3VWxOenhrOFN6UWx0N3hPSEtKUEg5WFNDVGw5Z0R0X1ZMb3ZUaTF4OUxvUEJhaGlfTVpTbDMtdGRSaEx5UkJ0SWR0Wnli?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZSW9neWwwRFlrOXlydDR4YlhtLVdNdVVBMjMzV1B5MU55TTFFTjhUTUFWXzJfckJQYXFuemVyTFpDM2pYcEY5UkF3LXpEeGh5RjNreExkNUZmMmU0aW8xTGpVM1lQWFppUTZNVzdpMA?oc=5)
 
 ---
 
-### [Australian fitness influencer, 23, hospitalised in Bali after contracting life-threatening brain infection - Hindustan Times](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdjN6OUlGMGQzaHZnblV5YWlZYUFiN2ptM2RZZ01JRlJCdTZnVXVYRTF6VlJER3Z6WEhxOHFTTjJVblNnWWUxTERwR3g5QTdZV1ZGdEUxOEJ6TWlvMFFESF9DY25kcU52RDhHWnpBMi1Jci16eDdaMmtVUElEenZMTzhJYlFhWG1GU2VURWVza25lWDVETFJmUzk4aG9DYkNReGowUDNDalR3ZVNxcFpNSXRNbUFmb1dtcWxyRXdua0tMc0RvRzc4cUZuS0tITVBUa2hxSkJtXzBOMm9fRjNpdlpXcnpGajBRN0xtbHhpejBienlLa1M0WA?oc=5)
+### [What’s making you sick? Pittsburgh doctors explain the viruses circulating this fall](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM21lelRRMGZpZ2lBZlBKaFhHeGo0STBrREVZVUU3X09ta1BNNjBMXzlQSFdXcVN5cFB6SnhmU3dTNzlIS3Jzb0ZONzE4RW1pYXgzRHVTMHhyTnhxTjgzZ19OSk55YnZFeVhfZmhuUVp0VzlMczJfZUhoVi1Ia0Npa0NDZERhREVRSnFPb0NuczFFeWhsaE1FRGdCdFJrX0o4ZkF5OW9qblZDNGxRSFFHMWpkRXdpMzdZSXY0?oc=5)
 
-2026-11-02
+2026-11-07
 
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdjN6OUlGMGQzaHZnblV5YWlZYUFiN2ptM2RZZ01JRlJCdTZnVXVYRTF6VlJER3Z6WEhxOHFTTjJVblNnWWUxTERwR3g5QTdZV1ZGdEUxOEJ6TWlvMFFESF9DY25kcU52RDhHWnpBMi1Jci16eDdaMmtVUElEenZMTzhJYlFhWG1GU2VURWVza25lWDVETFJmUzk4aG9DYkNReGowUDNDalR3ZVNxcFpNSXRNbUFmb1dtcWxyRXdua0tMc0RvRzc4cUZuS0tITVBUa2hxSkJtXzBOMm9fRjNpdlpXcnpGajBRN0xtbHhpejBienlLa1M0WA?oc=5)
+Source: [TribLIVE.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM21lelRRMGZpZ2lBZlBKaFhHeGo0STBrREVZVUU3X09ta1BNNjBMXzlQSFdXcVN5cFB6SnhmU3dTNzlIS3Jzb0ZONzE4RW1pYXgzRHVTMHhyTnhxTjgzZ19OSk55YnZFeVhfZmhuUVp0VzlMczJfZUhoVi1Ia0Npa0NDZERhREVRSnFPb0NuczFFeWhsaE1FRGdCdFJrX0o4ZkF5OW9qblZDNGxRSFFHMWpkRXdpMzdZSXY0?oc=5)
+
+---
+
+### [Weekly US Influenza Surveillance Report: Key Updates for Week 43, ending October 31, 2026 | FluView - Centers for Disease Control and Prevention | CDC (.gov)](https://news.google.com/rss/articles/CBMiakFVX3lxTFBkRi1iNEQ1ZHJmSDBlM1JYWEMzQWY0M3ZWa3FFQ21pU3QxTVhWbnVjXy1oT0loSkFTSnhWdTFycG5aMl8yTjhiZkM4MzZkMjdBT29rN3U4ZzRqRHNKdjczbFAyRzh0RG1ia3c?oc=5)
+
+2026-11-06
+
+Source: [Centers for Disease Control and Prevention | CDC (.gov)](https://news.google.com/rss/articles/CBMiakFVX3lxTFBkRi1iNEQ1ZHJmSDBlM1JYWEMzQWY0M3ZWa3FFQ21pU3QxTVhWbnVjXy1oT0loSkFTSnhWdTFycG5aMl8yTjhiZkM4MzZkMjdBT29rN3U4ZzRqRHNKdjczbFAyRzh0RG1ia3c?oc=5)
 
 ---
 

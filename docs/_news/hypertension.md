@@ -32,19 +32,19 @@ This page brings together the latest health news about “high blood pressure”
 
 ## Related News (2)
 
-### [How nocturnal hypertension can have a sneaky impact on your heart - The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU29rdTNPeVdkVlZjaW5PSkVkQVBleXp1N3pCbVN4V0ZscE9VSVB1dzVnWkw5WUJDRDF5enlDMnIwVTdvVGNNT1h0c3lPbjY0ampGMy1ZYUFkcHZEUGFQcFNIaHpJRC12a0FaZVQ4dkZCNlBGdlhjcDItaVhMbVlwNUVRRWx3eDBiTzhxV2N1Z2FKU2ZnUWZoRnNGUkRZdkZaNmxZZ215Yy1sODZkQzc5eVJ3?oc=5)
-
-2026-11-07
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU29rdTNPeVdkVlZjaW5PSkVkQVBleXp1N3pCbVN4V0ZscE9VSVB1dzVnWkw5WUJDRDF5enlDMnIwVTdvVGNNT1h0c3lPbjY0ampGMy1ZYUFkcHZEUGFQcFNIaHpJRC12a0FaZVQ4dkZCNlBGdlhjcDItaVhMbVlwNUVRRWx3eDBiTzhxV2N1Z2FKU2ZnUWZoRnNGUkRZdkZaNmxZZ215Yy1sODZkQzc5eVJ3?oc=5)
-
----
-
 ### [New treatment may cure common hormonal cause of high blood pressure - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQdDEtSF9vaFhBVy0xYzRWREp4U2xrbndTYnE2VDB1SzAtN0w1LUtyd0pzZlRmbmhhdk9CbHFfc2g5cjF0UVIzTW5NZEs2TEdoaXR5STlhY2RncnFTWnRzendhOTFjTGtNS3hhSWR4ZDVtZ2g3cGMwZjdsZGJvOU9hWWFUZW9obU0?oc=5)
 
 2026-11-07
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQdDEtSF9vaFhBVy0xYzRWREp4U2xrbndTYnE2VDB1SzAtN0w1LUtyd0pzZlRmbmhhdk9CbHFfc2g5cjF0UVIzTW5NZEs2TEdoaXR5STlhY2RncnFTWnRzendhOTFjTGtNS3hhSWR4ZDVtZ2g3cGMwZjdsZGJvOU9hWWFUZW9obU0?oc=5)
+
+---
+
+### [AI-powered smartwatch detects high blood pressure with sensitivity similar to office screening - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxOX2pkdDVETWc3NENVSUVDbUV2Y3dFODZNZ3ZrRU11RkZJMUE5ODh4N0dIaVA3cmhWUHB2UFE3enJVN3VBYzZKRWd2dkFIUW03d3R0UUVCX0VGSk9VeEl2blVRS2poVGMxRFNJMWVIV1Q0SEtobEQ4aTBnRHJyLVBubVZR?oc=5)
+
+2026-11-06
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxOX2pkdDVETWc3NENVSUVDbUV2Y3dFODZNZ3ZrRU11RkZJMUE5ODh4N0dIaVA3cmhWUHB2UFE3enJVN3VBYzZKRWd2dkFIUW03d3R0UUVCX0VGSk9VeEl2blVRS2poVGMxRFNJMWVIV1Q0SEtobEQ4aTBnRHJyLVBubVZR?oc=5)
 
 ---
 

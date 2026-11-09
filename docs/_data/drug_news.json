@@ -13,7 +13,7 @@
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 32
+      "count": 31
     }
   ],
   "/drugs/insulin-glargine/": [
@@ -30,12 +30,12 @@
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 32
+      "count": 31
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 13
+      "count": 10
     }
   ],
   "/drugs/insulin-human/": [
@@ -52,12 +52,12 @@
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 32
+      "count": 31
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 13
+      "count": 10
     }
   ],
   "/drugs/insulin-lispro/": [
@@ -74,82 +74,82 @@
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 32
+      "count": 31
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 13
+      "count": 10
     }
   ],
   "/drugs/lasmiditan/": [
     {
       "url": "/news/lasmiditan/",
       "title": "Lasmiditan News",
-      "count": 32
+      "count": 31
     },
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 32
+      "count": 31
     }
   ],
   "/drugs/raloxifene/": [
     {
       "url": "/news/raloxifene/",
       "title": "Raloxifene News",
-      "count": 41
+      "count": 39
     },
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 32
+      "count": 31
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 13
+      "count": 10
     },
     {
       "url": "/news/influenza/",
       "title": "flu (influenza) News",
-      "count": 5
+      "count": 7
     }
   ],
   "/drugs/ramucirumab/": [
     {
       "url": "/news/ramucirumab/",
       "title": "Ramucirumab News",
-      "count": 6
+      "count": 5
     },
     {
       "url": "/news/cancer/",
       "title": "cancer News",
-      "count": 6
+      "count": 5
     }
   ],
   "/drugs/rutin/": [
     {
       "url": "/news/rutin/",
       "title": "Rutin News",
-      "count": 13
+      "count": 10
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 13
+      "count": 10
     }
   ],
   "/drugs/selpercatinib/": [
     {
       "url": "/news/selpercatinib/",
       "title": "Selpercatinib News",
-      "count": 33
+      "count": 31
     },
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 32
+      "count": 31
     },
     {
       "url": "/news/hypertension/",
@@ -173,7 +173,7 @@
     {
       "url": "/news/tadalafil/",
       "title": "Tadalafil News",
-      "count": 56
+      "count": 57
     },
     {
       "url": "/news/arthritis/",
@@ -183,19 +183,19 @@
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 32
+      "count": 31
     },
     {
       "url": "/news/heart-disease/",
-      "title": "heart disease News",
-      "count": 4
+      "title": "CAD (heart disease) News",
+      "count": 7
     }
   ],
   "/drugs/teriparatide/": [
     {
       "url": "/news/teriparatide/",
       "title": "Teriparatide News",
-      "count": 58
+      "count": 59
     },
     {
       "url": "/news/arthritis/",
@@ -205,17 +205,17 @@
     {
       "url": "/news/myocardial-infarction/",
       "title": "MI (myocardial infarction) News",
-      "count": 32
+      "count": 31
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
       "title": "UC (inflammatory bowel disease) News",
-      "count": 13
+      "count": 10
     },
     {
       "url": "/news/influenza/",
       "title": "flu (influenza) News",
-      "count": 5
+      "count": 7
     }
   ]
 }

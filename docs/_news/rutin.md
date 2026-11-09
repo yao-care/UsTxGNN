@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>13 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>10 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,29 +40,13 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (10)
 
 ### [Pancreatic Cancer Risk May Be Reduced by Eating This Food, According to Dietitians](https://news.google.com/rss/articles/CBMihgFBVV95cUxOaHBNQTlhRURRcmRFVWFvbVFyNUN2YjNGXzZrMG5lUm5uczZsejJqUFoteDdUUnFEQk9RMDFad2ZzZnhsQ1ZEZEpkX2tqRENnZl9PMXdHZ1ZsVVZUblBGWU10WXNYYzlBTmllY3RzVlJ4Q1Y5b1g0T0k0Sldad0RhZlc4SVBxdw?oc=5)
 
 2026-11-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
 
 Source: [EatingWell](https://news.google.com/rss/articles/CBMihgFBVV95cUxOaHBNQTlhRURRcmRFVWFvbVFyNUN2YjNGXzZrMG5lUm5uczZsejJqUFoteDdUUnFEQk9RMDFad2ZzZnhsQ1ZEZEpkX2tqRENnZl9PMXdHZ1ZsVVZUblBGWU10WXNYYzlBTmllY3RzVlJ4Q1Y5b1g0T0k0Sldad0RhZlc4SVBxdw?oc=5)
-
----
-
-### [Physicists listened to electrical noise to crack a superconductor mystery - Ars Technica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjMxbXR4SnMxRnNYZnBnU2NGWFdxNUVpMzZrdGpGbWVUSUlHTFlOSDZnSnNGeEYyRDNWUE5xVGRkUDlTOHF3Wk9aVEZneDBYN1hGTEZBR1liN2NaVmFub19yZ1QycUNSV0Z4MGpqRkxreHRfSk5jMXRDZkdZX2o4SUppVGhFeTFVZGZCRWY4LWJfb0Nqb0NieENOdjRUSnVldnpIdzY1Z3BiaHN3WklBWDZuRFA?oc=5)
-
-2026-11-08 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Ars Technica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjMxbXR4SnMxRnNYZnBnU2NGWFdxNUVpMzZrdGpGbWVUSUlHTFlOSDZnSnNGeEYyRDNWUE5xVGRkUDlTOHF3Wk9aVEZneDBYN1hGTEZBR1liN2NaVmFub19yZ1QycUNSV0Z4MGpqRkxreHRfSk5jMXRDZkdZX2o4SUppVGhFeTFVZGZCRWY4LWJfb0Nqb0NieENOdjRUSnVldnpIdzY1Z3BiaHN3WklBWDZuRFA?oc=5)
-
----
-
-### [Scientists Identified a Biological Signature of Tinnitus, And It's in Your Blood](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc1dTU2lUQ25GZDhLOGV2aERIT19PRWRlaDJvNTF2WEhVSDdLcGtQcnZ4QVVRUG9SZ2JRWk1TSjJBWEtGeW01aG96eU1yNVVOeW03VW8tQ3VwYTFIa0pQNmVSelVJR0pOVXlTU1lXN0lwb0liY0dUTmhvR05LRW1yRFJvV2tKZXVPTVZRWEtjRzhsYkZGT2JvWEU0MUVVSktNbkQxdlNGN3dqU00?oc=5)
-
-2026-11-08 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc1dTU2lUQ25GZDhLOGV2aERIT19PRWRlaDJvNTF2WEhVSDdLcGtQcnZ4QVVRUG9SZ2JRWk1TSjJBWEtGeW01aG96eU1yNVVOeW03VW8tQ3VwYTFIa0pQNmVSelVJR0pOVXlTU1lXN0lwb0liY0dUTmhvR05LRW1yRFJvV2tKZXVPTVZRWEtjRzhsYkZGT2JvWEU0MUVVSktNbkQxdlNGN3dqU00?oc=5)
 
 ---
 
@@ -90,22 +74,6 @@ Source: [LiveNOW from FOX](https://news.google.com/rss/articles/CBMiqwFBVV95cUxP
 
 ---
 
-### [The daily sweet snack that could help with depression in older adults - New York Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY3Z4SjJxdW1uTVpEYXR0Y1M2WVpRcU9jZmYzMlZMV3lURFdzRElNZFRHTkg1WU9NcUN4a2JGeU1BZmlZcFRrcnFUMzBxOG1reVgzSGh0LWowRDZkdGZUYmsxQnlBYU9tRVBROFdERVFCTm10OWxCaU5pOGZlYTNMbEVlZ01iMVlXM1BZUDNGdUlXclZ6b2otLWxlTFVWeFpfbjFOR1dWUmVrVE0?oc=5)
-
-2026-11-07 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [New York Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY3Z4SjJxdW1uTVpEYXR0Y1M2WVpRcU9jZmYzMlZMV3lURFdzRElNZFRHTkg1WU9NcUN4a2JGeU1BZmlZcFRrcnFUMzBxOG1reVgzSGh0LWowRDZkdGZUYmsxQnlBYU9tRVBROFdERVFCTm10OWxCaU5pOGZlYTNMbEVlZ01iMVlXM1BZUDNGdUlXclZ6b2otLWxlTFVWeFpfbjFOR1dWUmVrVE0?oc=5)
-
----
-
-### [Weekend habits that are wrecking your heart health - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPXy1vTHFDX1AwbkxHYkJlRm85a1NzOXMtYzBPZGxUMnAxLUNQTWNTQmROTHlSZVVVdFdXWUhkaS0yTzd6OHNWLS1md2RMSXZUY2JIamdWNk55MFBwdE5ySjcxbFhHQkRFNWMxenE2a0xIV2lnWlRuOXF5UUFWRWJzTUV1SkhlbmxzMVB5VVlWeUg0VDVmUTJDcTliLUs4eU13RWFJeGRybw?oc=5)
-
-2026-11-07 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPXy1vTHFDX1AwbkxHYkJlRm85a1NzOXMtYzBPZGxUMnAxLUNQTWNTQmROTHlSZVVVdFdXWUhkaS0yTzd6OHNWLS1md2RMSXZUY2JIamdWNk55MFBwdE5ySjcxbFhHQkRFNWMxenE2a0xIV2lnWlRuOXF5UUFWRWJzTUV1SkhlbmxzMVB5VVlWeUg0VDVmUTJDcTliLUs4eU13RWFJeGRybw?oc=5)
-
----
-
 ### [Climate Scientists Found A Surprise Hiding Under A Cold War Military Base](https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWk0RVhvVlpSYl9VTWp0LVVKLU0zbnFzb0RWSGU5UXhwbi1ZQUxYYUpQV2JRekxMQmhLS3pOQXRIaElsN1dUZFhEaXZnaTBQMGlwNVNGUlFxQzhNT3R1M0tCSmVFRGktengzdlF2NDJkVlh6ajZlMEFVd0oydUp6ZTQyVnoxdTl4bTdhLQ?oc=5)
 
 2026-11-07 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
@@ -122,9 +90,17 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnA2
 
 ---
 
+### [Could Type 2 Diabetes Be Reversed? 14-Year Study Reveals Remarkable Results](https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNhSVdkTHRJcVhXb3JtMEcyZEM0VzRrd0V1TXRiNndsa3VIY20xcHJyN2dYTHNWTDRxQWJKMVRaajNwX0JmazVPaFYzcnd5NTV1Tmpob241aXBHaWpjUkpFRlhYdzhsX0lFYlR3bGlhZ0ZOeTQ5b2VQSVRPQ096MnJxeEYyQ0RGa0lzUERhVHFXb1U4Q1kyZHNVb3BSUmtOVmc?oc=5)
+
+2026-11-06 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNhSVdkTHRJcVhXb3JtMEcyZEM0VzRrd0V1TXRiNndsa3VIY20xcHJyN2dYTHNWTDRxQWJKMVRaajNwX0JmazVPaFYzcnd5NTV1Tmpob241aXBHaWpjUkpFRlhYdzhsX0lFYlR3bGlhZ0ZOeTQ5b2VQSVRPQ096MnJxeEYyQ0RGa0lzUERhVHFXb1U4Q1kyZHNVb3BSUmtOVmc?oc=5)
+
+---
+
 ### [Wisconsin Reports Its First Infant Death Linked To Measles In 36 Years](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEZhNFpPM2pGY01YdTBYVkZDOEJaM0VsUjM5RVMwcjRPZ3ZBUEs2bkV3a3FLNXM0UmtBbzNvR1hjZkRsQ1c0RVNjODlYZHVOOEtqTnNMWWptSTV2UmhJOTE5T1RSSEZmeE40RXVZQjRGeldERzBObllkVEllaW1rc25vdkp6STZYU3lpN0tnVU55Z9IBlwFBVV95cUxQQlh6VktsaFRpczBCZTUwanhZeGZmN0k0dVVOTVFvbEE4eUFEOVRuMURaSGxuX3A2U0phYXYwbHBDY0JnY292ZG1fb3hhYW80OTRualJqNkZhTnUwdzRiejFEclAzaWtCeW5mV2pvVm1QSGhOWlpKN2xBaXdRWEljNi02SDhuTTJhdnVDdzBMNG1xeU5xYXBF?oc=5)
 
-2026-11-06 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-06 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [HuffPost](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEZhNFpPM2pGY01YdTBYVkZDOEJaM0VsUjM5RVMwcjRPZ3ZBUEs2bkV3a3FLNXM0UmtBbzNvR1hjZkRsQ1c0RVNjODlYZHVOOEtqTnNMWWptSTV2UmhJOTE5T1RSSEZmeE40RXVZQjRGeldERzBObllkVEllaW1rc25vdkp6STZYU3lpN0tnVU55Z9IBlwFBVV95cUxQQlh6VktsaFRpczBCZTUwanhZeGZmN0k0dVVOTVFvbEE4eUFEOVRuMURaSGxuX3A2U0phYXYwbHBDY0JnY292ZG1fb3hhYW80OTRualJqNkZhTnUwdzRiejFEclAzaWtCeW5mV2pvVm1QSGhOWlpKN2xBaXdRWEljNi02SDhuTTJhdnVDdzBMNG1xeU5xYXBF?oc=5)
 

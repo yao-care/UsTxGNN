@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about high blood pressure (hypertension). 2 articles, 1 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # high blood pressure (hypertension) News
@@ -32,11 +32,11 @@ This page brings together the latest health news about “high blood pressure”
 
 ## Related News (2)
 
-### [New treatment may cure common hormonal cause of high blood pressure - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQdDEtSF9vaFhBVy0xYzRWREp4U2xrbndTYnE2VDB1SzAtN0w1LUtyd0pzZlRmbmhhdk9CbHFfc2g5cjF0UVIzTW5NZEs2TEdoaXR5STlhY2RncnFTWnRzendhOTFjTGtNS3hhSWR4ZDVtZ2g3cGMwZjdsZGJvOU9hWWFUZW9obU0?oc=5)
+### [New drug could be cure for common cause of high blood pressure - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
 
-2026-11-07
+2026-11-08
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQdDEtSF9vaFhBVy0xYzRWREp4U2xrbndTYnE2VDB1SzAtN0w1LUtyd0pzZlRmbmhhdk9CbHFfc2g5cjF0UVIzTW5NZEs2TEdoaXR5STlhY2RncnFTWnRzendhOTFjTGtNS3hhSWR4ZDVtZ2g3cGMwZjdsZGJvOU9hWWFUZW9obU0?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
 
 ---
 

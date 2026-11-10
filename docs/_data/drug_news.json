@@ -8,7 +8,7 @@
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 42
+      "count": 48
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -20,12 +20,12 @@
     {
       "url": "/news/insulin_glargine/",
       "title": "Insulin glargine News",
-      "count": 57
+      "count": 56
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 42
+      "count": 48
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -34,20 +34,20 @@
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
-      "title": "UC (inflammatory bowel disease) News",
-      "count": 10
+      "title": "IBD (inflammatory bowel disease) News",
+      "count": 9
     }
   ],
   "/drugs/insulin-human/": [
     {
       "url": "/news/insulin_human/",
       "title": "Insulin human News",
-      "count": 57
+      "count": 56
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 42
+      "count": 48
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -56,20 +56,20 @@
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
-      "title": "UC (inflammatory bowel disease) News",
-      "count": 10
+      "title": "IBD (inflammatory bowel disease) News",
+      "count": 9
     }
   ],
   "/drugs/insulin-lispro/": [
     {
       "url": "/news/insulin_lispro/",
       "title": "Insulin lispro News",
-      "count": 57
+      "count": 56
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 42
+      "count": 48
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -78,8 +78,8 @@
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
-      "title": "UC (inflammatory bowel disease) News",
-      "count": 10
+      "title": "IBD (inflammatory bowel disease) News",
+      "count": 9
     }
   ],
   "/drugs/lasmiditan/": [
@@ -107,37 +107,37 @@
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
-      "title": "UC (inflammatory bowel disease) News",
-      "count": 10
+      "title": "IBD (inflammatory bowel disease) News",
+      "count": 9
     },
     {
       "url": "/news/influenza/",
       "title": "flu (influenza) News",
-      "count": 7
+      "count": 8
     }
   ],
   "/drugs/ramucirumab/": [
     {
       "url": "/news/ramucirumab/",
       "title": "Ramucirumab News",
-      "count": 5
+      "count": 8
     },
     {
       "url": "/news/cancer/",
       "title": "cancer News",
-      "count": 5
+      "count": 8
     }
   ],
   "/drugs/rutin/": [
     {
       "url": "/news/rutin/",
       "title": "Rutin News",
-      "count": 10
+      "count": 9
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
-      "title": "UC (inflammatory bowel disease) News",
-      "count": 10
+      "title": "IBD (inflammatory bowel disease) News",
+      "count": 9
     }
   ],
   "/drugs/selpercatinib/": [
@@ -161,12 +161,12 @@
     {
       "url": "/news/sodium_acetate/",
       "title": "Sodium acetate News",
-      "count": 42
+      "count": 48
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 42
+      "count": 48
     }
   ],
   "/drugs/tadalafil/": [
@@ -178,7 +178,7 @@
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 42
+      "count": 48
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -188,7 +188,7 @@
     {
       "url": "/news/heart-disease/",
       "title": "CAD (heart disease) News",
-      "count": 7
+      "count": 4
     }
   ],
   "/drugs/teriparatide/": [
@@ -200,7 +200,7 @@
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 42
+      "count": 48
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -209,13 +209,13 @@
     },
     {
       "url": "/news/inflammatory-bowel-disease/",
-      "title": "UC (inflammatory bowel disease) News",
-      "count": 10
+      "title": "IBD (inflammatory bowel disease) News",
+      "count": 9
     },
     {
       "url": "/news/influenza/",
       "title": "flu (influenza) News",
-      "count": 7
+      "count": 8
     }
   ]
 }

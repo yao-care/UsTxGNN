@@ -3,9 +3,9 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 7 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 4 articles, 1 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # CAD (heart disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>7 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,7 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (7)
-
-### [As Dengue Cases Rise, a Florida Woman’s Death Raises Alarms - The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTBUSlFhMDlCZjZ0TFlhTG01Q1NrNjB3dFh6ZzBVclVYUlZrNktlVkVVMnpwN3FIblVyZnoycTFZTFVYVnk3VGJDVzdCa1FQZDhWSHk1VUMtZHQtYWxQamRpa0xUSzAxUDFNal9MNVdLQk1Pcm5uYUM0aTJsQWFkM0ZPV2pPWFVa?oc=5)
-
-2026-11-09
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTBUSlFhMDlCZjZ0TFlhTG01Q1NrNjB3dFh6ZzBVclVYUlZrNktlVkVVMnpwN3FIblVyZnoycTFZTFVYVnk3VGJDVzdCa1FQZDhWSHk1VUMtZHQtYWxQamRpa0xUSzAxUDFNal9MNVdLQk1Pcm5uYUM0aTJsQWFkM0ZPV2pPWFVa?oc=5)
-
----
+## Related News (4)
 
 ### [Cardiologist Reveals High LDL Cholesterol as Top Risk Factor for Heart Disease](https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUZWSmVLTTUtRGMzVFJoOU5uWWdXTE5ja0dYaUN3MEhzQmU0dzRiX2ZmNFNHTlJ0aFZXU3ZBVW5fdFU0cy1LY3Z4RUtDQzZNeG9jY1huTlBxbHBfLTdPR0NDb2ZYYlRleTBxRWI3MHk3TFk2OXVKV3VBOUJKeTZvRlJJaXVJRE9kZ2pERjFB?oc=5)
 
@@ -48,19 +40,11 @@ Source: [AOL.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUZWSmVLT
 
 ---
 
-### [A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1JjOWhQZ1hGLUJuUW16RkM1WC1ST0hhdlpyd192QWFtWWdmNkE2YUlWOHo0N1FQb1lGSjRwZ1drYjAwaDQ4YVNrMS1EVjZVNzJJd0c0Z1ZXUm5uSWpMdl81Z3cxZzFpTlpiTC04Um9ZdXJNZnFsTDdaLWRmSFhQRy1UcDltMmFhM0d5UU10blZIM2RyX3VYWkhVcmZPZ3REYWRGZTQ2NUVVN1RBWG5UODRROVc?oc=5)
+### [NASA's destroyed Swift Observatory took one of the best-ever photos of bright Andromeda — Space photo of the week - Live Science](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaGhjS0s0SHlCaC1VYlBHWmJKQjRVaTZiTUNzLWZBMXN3VTBiVWJrYVhCOFRjUGhuUmlhVW1QLUdSV3RncDM2d2xPMk1IWC1WTXBiaWlCOHpPYWRCdUYtMktvM0Y0V0hnY1NYVHRzaWtsckJ1c2VpWEFlOUE0Tk02aUdSQVdkaGlUanVUdDlqYzZobUwzSzJUaFhRSmFBMzJTbjFCN0U4ZERKRVNPTkRQZ2hoVkI3Zk54ZFRuYmJLNnJNT2pXYjVTbGVOd0tmVS13MzI1d2RER1RyTS1TQl90YUtXM1FCaXdmalE?oc=5)
 
-2026-11-07
+2026-11-08
 
-Source: [SciTechDaily](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1JjOWhQZ1hGLUJuUW16RkM1WC1ST0hhdlpyd192QWFtWWdmNkE2YUlWOHo0N1FQb1lGSjRwZ1drYjAwaDQ4YVNrMS1EVjZVNzJJd0c0Z1ZXUm5uSWpMdl81Z3cxZzFpTlpiTC04Um9ZdXJNZnFsTDdaLWRmSFhQRy1UcDltMmFhM0d5UU10blZIM2RyX3VYWkhVcmZPZ3REYWRGZTQ2NUVVN1RBWG5UODRROVc?oc=5)
-
----
-
-### [Certain sleep habits could offer clues to hidden type of depression, scientists say - Fox News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRF9feUJuOWgzZExXaURwcnhOU3NOa3hUY3lmNFJLSkZoSVh0MHc1cTkzdm5UZGFwRnRubzF1RHljT3ZOc2ptLWtxY1NxbmFSZ1RYZDRmMWh3ZWZ1RHJlSHUtT1RldU1RcVBLVVBISkROTFdXcWplSFp6aFNkNTZKa3NSdGlmZzBLZGo3aC04SlZoYW1ZR0xNNzdMZnRTRmdZSUN4OTJaQmZwc1XSAbABQVVfeXFMT3ZjcHptbkE3SHFwYnQxWmtoeFRvM09MNV9Pcld4VDNMVDVGMmZZUjMzS1JLZzdPUnFmcXpvLW1kMWVLcms5ZFRtVHJwc2pxZmFwYnhhY3QzcXVlUWRRakNiMV84azZiR19XN3EtTF96b1Z5NmZwWl9MV25ZRjBrNlVOU1JFQXpvRmd5b1BiVXZ3a2EycWJnNU5Ia256LWZyRTc1c2pMNE00SGI0TUJRcUs?oc=5)
-
-2026-11-07
-
-Source: [Fox News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRF9feUJuOWgzZExXaURwcnhOU3NOa3hUY3lmNFJLSkZoSVh0MHc1cTkzdm5UZGFwRnRubzF1RHljT3ZOc2ptLWtxY1NxbmFSZ1RYZDRmMWh3ZWZ1RHJlSHUtT1RldU1RcVBLVVBISkROTFdXcWplSFp6aFNkNTZKa3NSdGlmZzBLZGo3aC04SlZoYW1ZR0xNNzdMZnRTRmdZSUN4OTJaQmZwc1XSAbABQVVfeXFMT3ZjcHptbkE3SHFwYnQxWmtoeFRvM09MNV9Pcld4VDNMVDVGMmZZUjMzS1JLZzdPUnFmcXpvLW1kMWVLcms5ZFRtVHJwc2pxZmFwYnhhY3QzcXVlUWRRakNiMV84azZiR19XN3EtTF96b1Z5NmZwWl9MV25ZRjBrNlVOU1JFQXpvRmd5b1BiVXZ3a2EycWJnNU5Ia256LWZyRTc1c2pMNE00SGI0TUJRcUs?oc=5)
+Source: [Live Science](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaGhjS0s0SHlCaC1VYlBHWmJKQjRVaTZiTUNzLWZBMXN3VTBiVWJrYVhCOFRjUGhuUmlhVW1QLUdSV3RncDM2d2xPMk1IWC1WTXBiaWlCOHpPYWRCdUYtMktvM0Y0V0hnY1NYVHRzaWtsckJ1c2VpWEFlOUE0Tk02aUdSQVdkaGlUanVUdDlqYzZobUwzSzJUaFhRSmFBMzJTbjFCN0U4ZERKRVNPTkRQZ2hoVkI3Zk54ZFRuYmJLNnJNT2pXYjVTbGVOd0tmVS13MzI1d2RER1RyTS1TQl90YUtXM1FCaXdmalE?oc=5)
 
 ---
 
@@ -77,14 +61,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNk
 2026-11-06
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxNTWVNcGFjVnhoQ3daa1d0eVF3TldhUkRpc1cyb29QVnEwbjVsdHk1aWNSRjVJUjlmQ2dDd3FrNEttZ05JTUlNVkNiVkdNajBMOVZ6cVdnbi1lWExkNDVUMWdndXNNb2dDOE9zTmxfM2FoLTJOdzlSMlJKWnJYTTRuQUZ3dHI4aFlVWWxpRkhxZ3VSMGxJT3d1ZDlxUnZvakY5WlBkQnZTTFVGTXhoN25ZR2dn?oc=5)
-
----
-
-### [Wisconsin Reports Its First Infant Death Linked To Measles In 36 Years](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEZhNFpPM2pGY01YdTBYVkZDOEJaM0VsUjM5RVMwcjRPZ3ZBUEs2bkV3a3FLNXM0UmtBbzNvR1hjZkRsQ1c0RVNjODlYZHVOOEtqTnNMWWptSTV2UmhJOTE5T1RSSEZmeE40RXVZQjRGeldERzBObllkVEllaW1rc25vdkp6STZYU3lpN0tnVU55Z9IBlwFBVV95cUxQQlh6VktsaFRpczBCZTUwanhZeGZmN0k0dVVOTVFvbEE4eUFEOVRuMURaSGxuX3A2U0phYXYwbHBDY0JnY292ZG1fb3hhYW80OTRualJqNkZhTnUwdzRiejFEclAzaWtCeW5mV2pvVm1QSGhOWlpKN2xBaXdRWEljNi02SDhuTTJhdnVDdzBMNG1xeU5xYXBF?oc=5)
-
-2026-11-06
-
-Source: [HuffPost](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEZhNFpPM2pGY01YdTBYVkZDOEJaM0VsUjM5RVMwcjRPZ3ZBUEs2bkV3a3FLNXM0UmtBbzNvR1hjZkRsQ1c0RVNjODlYZHVOOEtqTnNMWWptSTV2UmhJOTE5T1RSSEZmeE40RXVZQjRGeldERzBObllkVEllaW1rc25vdkp6STZYU3lpN0tnVU55Z9IBlwFBVV95cUxQQlh6VktsaFRpczBCZTUwanhZeGZmN0k0dVVOTVFvbEE4eUFEOVRuMURaSGxuX3A2U0phYXYwbHBDY0JnY292ZG1fb3hhYW80OTRualJqNkZhTnUwdzRiejFEclAzaWtCeW5mV2pvVm1QSGhOWlpKN2xBaXdRWEljNi02SDhuTTJhdnVDdzBMNG1xeU5xYXBF?oc=5)
 
 ---
 

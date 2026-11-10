@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Rutin. 8 predicted indications."
 permalink: /news/rutin/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Rutin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>10 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>9 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,37 +40,21 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (9)
 
-### [Pancreatic Cancer Risk May Be Reduced by Eating This Food, According to Dietitians](https://news.google.com/rss/articles/CBMihgFBVV95cUxOaHBNQTlhRURRcmRFVWFvbVFyNUN2YjNGXzZrMG5lUm5uczZsejJqUFoteDdUUnFEQk9RMDFad2ZzZnhsQ1ZEZEpkX2tqRENnZl9PMXdHZ1ZsVVZUblBGWU10WXNYYzlBTmllY3RzVlJ4Q1Y5b1g0T0k0Sldad0RhZlc4SVBxdw?oc=5)
+### [This NBC correspondent hid her bowel disease for years. Now she's sharing her story - USA Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2dTcGI2SFVReFNoODFESk1DRWpfUjNhQW8tSS0zaU95NzVORUwzcUtRZjFUb3hSNjFhaktkMjAwem95ZEx1NVRCWlVkSVZFQ2dvMzNreFozRVAtRDI0U0hrQTM2UnRUWEF2SkxpaHZTMU85ZC1BclhENVBZNi1ndTNYUkU1cGViblFGVml6aS1YWkVQenktYUlHY2xHR0dCZG4wSmF2Z0k?oc=5)
 
-2026-11-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
+2026-11-09 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">IBD</span>
 
-Source: [EatingWell](https://news.google.com/rss/articles/CBMihgFBVV95cUxOaHBNQTlhRURRcmRFVWFvbVFyNUN2YjNGXzZrMG5lUm5uczZsejJqUFoteDdUUnFEQk9RMDFad2ZzZnhsQ1ZEZEpkX2tqRENnZl9PMXdHZ1ZsVVZUblBGWU10WXNYYzlBTmllY3RzVlJ4Q1Y5b1g0T0k0Sldad0RhZlc4SVBxdw?oc=5)
-
----
-
-### [New dementia study reveals unexpected medication link to better brain health - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTdzVTJFYlNYM2d6WkRsNzdIaWVRRDFnN0txeU1rUklhSTBzVklIVDB4bDM2aHNHeW90ZW9iRTBYTkJJUHd5Q0U2S2lqMGM2OUQ4QXJDZFZUdWFfbmNCUUFXUTY1UEZJRzVfZWdQWERzbkVLOU96cW1EaEpvS2xnV0hGdGszM1A5czZz0gGQAUFVX3lxTE80TU43YjYyLTc5MW5Hak5xQV9CVV95eEZhRDFhUkpzNV9HZG1oTnZpVG5oekRvbEtRc1pZVWlHMDBLOEgyaUNoaDdXX3ZaOTRmWWVtQ3BGalI0T2dHYmE3c0gxNE5DT0Uxc1Y4S2RhSmVieHgtQUVwa2ZDNmVjekszRmg1bDhPZkVxWnBWeWdvQw?oc=5)
-
-2026-11-08 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
-
-Source: [The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTdzVTJFYlNYM2d6WkRsNzdIaWVRRDFnN0txeU1rUklhSTBzVklIVDB4bDM2aHNHeW90ZW9iRTBYTkJJUHd5Q0U2S2lqMGM2OUQ4QXJDZFZUdWFfbmNCUUFXUTY1UEZJRzVfZWdQWERzbkVLOU96cW1EaEpvS2xnV0hGdGszM1A5czZz0gGQAUFVX3lxTE80TU43YjYyLTc5MW5Hak5xQV9CVV95eEZhRDFhUkpzNV9HZG1oTnZpVG5oekRvbEtRc1pZVWlHMDBLOEgyaUNoaDdXX3ZaOTRmWWVtQ3BGalI0T2dHYmE3c0gxNE5DT0Uxc1Y4S2RhSmVieHgtQUVwa2ZDNmVjekszRmg1bDhPZkVxWnBWeWdvQw?oc=5)
+Source: [USA Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2dTcGI2SFVReFNoODFESk1DRWpfUjNhQW8tSS0zaU95NzVORUwzcUtRZjFUb3hSNjFhaktkMjAwem95ZEx1NVRCWlVkSVZFQ2dvMzNreFozRVAtRDI0U0hrQTM2UnRUWEF2SkxpaHZTMU85ZC1BclhENVBZNi1ndTNYUkU1cGViblFGVml6aS1YWkVQenktYUlHY2xHR0dCZG4wSmF2Z0k?oc=5)
 
 ---
 
-### [A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1JjOWhQZ1hGLUJuUW16RkM1WC1ST0hhdlpyd192QWFtWWdmNkE2YUlWOHo0N1FQb1lGSjRwZ1drYjAwaDQ4YVNrMS1EVjZVNzJJd0c0Z1ZXUm5uSWpMdl81Z3cxZzFpTlpiTC04Um9ZdXJNZnFsTDdaLWRmSFhQRy1UcDltMmFhM0d5UU10blZIM2RyX3VYWkhVcmZPZ3REYWRGZTQ2NUVVN1RBWG5UODRROVc?oc=5)
+### [Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders](https://news.google.com/rss/articles/CBMimwFBVV95cUxPR3NTLTR3TG52WkRpc3JsSDh3Yk1PcFZXYU53NDJXeTd3SWc3UWFXNEJzT19IYnU0bUxsRDd2cXhJdEFGSTFWSkZGWUtOcXFfTEo4TVZCblVrNkJVcGJzcnYtYVkzQWE3UTBqX1dPT2Y5c2tpZmtmOGNhYzltTV9yMFBkMzFuejg1M1VEeWk5VUtSR3BadkVXV3pwWQ?oc=5)
 
-2026-11-07 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-11-08 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [SciTechDaily](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1JjOWhQZ1hGLUJuUW16RkM1WC1ST0hhdlpyd192QWFtWWdmNkE2YUlWOHo0N1FQb1lGSjRwZ1drYjAwaDQ4YVNrMS1EVjZVNzJJd0c0Z1ZXUm5uSWpMdl81Z3cxZzFpTlpiTC04Um9ZdXJNZnFsTDdaLWRmSFhQRy1UcDltMmFhM0d5UU10blZIM2RyX3VYWkhVcmZPZ3REYWRGZTQ2NUVVN1RBWG5UODRROVc?oc=5)
-
----
-
-### [Popular drinks linked to heart attacks, cardiac arrest in young adults, study finds - LiveNOW from FOX](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTjg4aU9SS3VVOUFHWm1lYWFiV3VuSzFDX3BycFlzbTVMa0RxWmtvaVdUSDVfVmhjZmJoVy1mRlBGSUE1SmdUN05BNmsyNnRrUEdmZ1hUclJYM2t2b3BVdFpMeEFGR1pjdzdoMFVRS0kwZWFFLWowRGZIcFJDWXBMMDRNZGZHMUhZOXdEV1NHZzZoWEVRQTZ3d2lLUU1BTmlEOWxEd2UzcVVaYkE?oc=5)
-
-2026-11-07 <span class="news-indication-tag">heart attack</span> <span class="news-indication-tag">UC</span>
-
-Source: [LiveNOW from FOX](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTjg4aU9SS3VVOUFHWm1lYWFiV3VuSzFDX3BycFlzbTVMa0RxWmtvaVdUSDVfVmhjZmJoVy1mRlBGSUE1SmdUN05BNmsyNnRrUEdmZ1hUclJYM2t2b3BVdFpMeEFGR1pjdzdoMFVRS0kwZWFFLWowRGZIcFJDWXBMMDRNZGZHMUhZOXdEV1NHZzZoWEVRQTZ3d2lLUU1BTmlEOWxEd2UzcVVaYkE?oc=5)
+Source: [STAT](https://news.google.com/rss/articles/CBMimwFBVV95cUxPR3NTLTR3TG52WkRpc3JsSDh3Yk1PcFZXYU53NDJXeTd3SWc3UWFXNEJzT19IYnU0bUxsRDd2cXhJdEFGSTFWSkZGWUtOcXFfTEo4TVZCblVrNkJVcGJzcnYtYVkzQWE3UTBqX1dPT2Y5c2tpZmtmOGNhYzltTV9yMFBkMzFuejg1M1VEeWk5VUtSR3BadkVXV3pwWQ?oc=5)
 
 ---
 
@@ -90,35 +74,43 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnA2
 
 ---
 
-### [Could Type 2 Diabetes Be Reversed? 14-Year Study Reveals Remarkable Results](https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNhSVdkTHRJcVhXb3JtMEcyZEM0VzRrd0V1TXRiNndsa3VIY20xcHJyN2dYTHNWTDRxQWJKMVRaajNwX0JmazVPaFYzcnd5NTV1Tmpob241aXBHaWpjUkpFRlhYdzhsX0lFYlR3bGlhZ0ZOeTQ5b2VQSVRPQ096MnJxeEYyQ0RGa0lzUERhVHFXb1U4Q1kyZHNVb3BSUmtOVmc?oc=5)
+### [A once almost-forgotten disease is spiking in the US. See latest numbers - USA Today](https://news.google.com/rss/articles/CBMimAFBVV95cUxOek9qQUhnX2FVMFZBaEhkUVVCeC13a2VldUJvRkNFUzFLVHNlUEJlNDJ4eV80dklCS2JRc045c3pUY2c5cnZuUnZaUnk2VTJHcjdtU0wyendPN3d3dUt4czJFZ0JyRjVMQ0JWNWNJN3Q3ZHNKa3F2RU5wd1hpanpBZVd0RlkyTWo1VmFUVDJJakc0bmR2S3YxLQ?oc=5)
+
+2026-11-06 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [USA Today](https://news.google.com/rss/articles/CBMimAFBVV95cUxOek9qQUhnX2FVMFZBaEhkUVVCeC13a2VldUJvRkNFUzFLVHNlUEJlNDJ4eV80dklCS2JRc045c3pUY2c5cnZuUnZaUnk2VTJHcjdtU0wyendPN3d3dUt4czJFZ0JyRjVMQ0JWNWNJN3Q3ZHNKa3F2RU5wd1hpanpBZVd0RlkyTWo1VmFUVDJJakc0bmR2S3YxLQ?oc=5)
+
+---
+
+### [Can diet and exercise reverse type 2 diabetes? What a new study found](https://news.google.com/rss/articles/CBMijwFBVV95cUxOTDE3WDZTcXhuQ2ZPM1hYNFVHUm1MaEdRbU9fdGlGTE1JdWItMnozSVJjZGpHeDRhYUtkTk5vOW0xWTNlaFg0TjNxOXFDc1BsaWlBVTFIS2JWMDljN2hxUktKZjRPaU9mTXA5SkZ4MUV0U1Z6LUp2WHptQzhDRGxEdmN3dG1ZLW9xYTl6NkdJcw?oc=5)
 
 2026-11-06 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNhSVdkTHRJcVhXb3JtMEcyZEM0VzRrd0V1TXRiNndsa3VIY20xcHJyN2dYTHNWTDRxQWJKMVRaajNwX0JmazVPaFYzcnd5NTV1Tmpob241aXBHaWpjUkpFRlhYdzhsX0lFYlR3bGlhZ0ZOeTQ5b2VQSVRPQ096MnJxeEYyQ0RGa0lzUERhVHFXb1U4Q1kyZHNVb3BSUmtOVmc?oc=5)
+Source: [CNN](https://news.google.com/rss/articles/CBMijwFBVV95cUxOTDE3WDZTcXhuQ2ZPM1hYNFVHUm1MaEdRbU9fdGlGTE1JdWItMnozSVJjZGpHeDRhYUtkTk5vOW0xWTNlaFg0TjNxOXFDc1BsaWlBVTFIS2JWMDljN2hxUktKZjRPaU9mTXA5SkZ4MUV0U1Z6LUp2WHptQzhDRGxEdmN3dG1ZLW9xYTl6NkdJcw?oc=5)
 
 ---
 
-### [Wisconsin Reports Its First Infant Death Linked To Measles In 36 Years](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEZhNFpPM2pGY01YdTBYVkZDOEJaM0VsUjM5RVMwcjRPZ3ZBUEs2bkV3a3FLNXM0UmtBbzNvR1hjZkRsQ1c0RVNjODlYZHVOOEtqTnNMWWptSTV2UmhJOTE5T1RSSEZmeE40RXVZQjRGeldERzBObllkVEllaW1rc25vdkp6STZYU3lpN0tnVU55Z9IBlwFBVV95cUxQQlh6VktsaFRpczBCZTUwanhZeGZmN0k0dVVOTVFvbEE4eUFEOVRuMURaSGxuX3A2U0phYXYwbHBDY0JnY292ZG1fb3hhYW80OTRualJqNkZhTnUwdzRiejFEclAzaWtCeW5mV2pvVm1QSGhOWlpKN2xBaXdRWEljNi02SDhuTTJhdnVDdzBMNG1xeU5xYXBF?oc=5)
+### [Scientists May Be Closer to Explaining a Long-Standing Autism Mystery](https://news.google.com/rss/articles/CBMikAFBVV95cUxNNUpTNXN3WE8wNmtVUnJseEVnalM2aWg0N2hWNXYwMjRaSkxxem5sanJ3SExPV3ppNGZrak1WWWljZk5XdWdaOFBTM1p0NlpGcjhiT3h2QXdtR0NoYjliV3JRdF9mQ3BwLVRSRlVZSjUtSDY3WktMaTd5cWdMVUhBbHR1RHdpZDR4YzhDVGFFeXc?oc=5)
 
-2026-11-06 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-06 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [HuffPost](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEZhNFpPM2pGY01YdTBYVkZDOEJaM0VsUjM5RVMwcjRPZ3ZBUEs2bkV3a3FLNXM0UmtBbzNvR1hjZkRsQ1c0RVNjODlYZHVOOEtqTnNMWWptSTV2UmhJOTE5T1RSSEZmeE40RXVZQjRGeldERzBObllkVEllaW1rc25vdkp6STZYU3lpN0tnVU55Z9IBlwFBVV95cUxQQlh6VktsaFRpczBCZTUwanhZeGZmN0k0dVVOTVFvbEE4eUFEOVRuMURaSGxuX3A2U0phYXYwbHBDY0JnY292ZG1fb3hhYW80OTRualJqNkZhTnUwdzRiejFEclAzaWtCeW5mV2pvVm1QSGhOWlpKN2xBaXdRWEljNi02SDhuTTJhdnVDdzBMNG1xeU5xYXBF?oc=5)
-
----
-
-### [Toothbrush zaps bacteria with electricity that’s made when bristles move](https://news.google.com/rss/articles/CBMiX0FVX3lxTE81SndUMUYxSWZIcUFoLXZRa1gzbTlxSGhTWFdpMk9CRFpOX1ctanNXNEtfWTZVZ2V6Wmt3LWNsNUp1NlFGekd0OGhybVZXdkdYRVFVWDlnR3VYdkpoLVY0?oc=5)
-
-2026-11-04 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE81SndUMUYxSWZIcUFoLXZRa1gzbTlxSGhTWFdpMk9CRFpOX1ctanNXNEtfWTZVZ2V6Wmt3LWNsNUp1NlFGekd0OGhybVZXdkdYRVFVWDlnR3VYdkpoLVY0?oc=5)
+Source: [Newsweek](https://news.google.com/rss/articles/CBMikAFBVV95cUxNNUpTNXN3WE8wNmtVUnJseEVnalM2aWg0N2hWNXYwMjRaSkxxem5sanJ3SExPV3ppNGZrak1WWWljZk5XdWdaOFBTM1p0NlpGcjhiT3h2QXdtR0NoYjliV3JRdF9mQ3BwLVRSRlVZSjUtSDY3WktMaTd5cWdMVUhBbHR1RHdpZDR4YzhDVGFFeXc?oc=5)
 
 ---
 
-### [Child in New York dies after contracting measles, the state’s first such death in 30 years](https://news.google.com/rss/articles/CBMibEFVX3lxTE5PQVo5eVZwaENLQXpldXB6YzUxQXhvVEFkUnhlckJQd3BPZHlZMzc5OXJDZWtrbUZTOVdFT2JVQXhtYVh2RzVHN1NOcEx2a0pFTTE4RDdLbFFzTzFLWm9veTRlOE5DMzUxMFMyYg?oc=5)
+### [New Food Pyramid: What It Recommends Eating](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUDVPbGpXYThBbXJteGlYRnhzYTdUNzFKaGFha3NWWU13RjhoUHpjLUlSa2pUaXk4M05YcEVwU3FuVGxXeG9waDVJaFpzem1NenBiaHV6UDlzaERKUHdvak02VXNHSTQ5SzJ5ci0zaTZRY044TS1aSzB2bEl5NTNqZE0wSEd6YW16Uzd3X25NMWdXLWtpZ2padnJWSm5BcFE?oc=5)
 
-2026-11-02 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-05 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [CNN](https://news.google.com/rss/articles/CBMibEFVX3lxTE5PQVo5eVZwaENLQXpldXB6YzUxQXhvVEFkUnhlckJQd3BPZHlZMzc5OXJDZWtrbUZTOVdFT2JVQXhtYVh2RzVHN1NOcEx2a0pFTTE4RDdLbFFzTzFLWm9veTRlOE5DMzUxMFMyYg?oc=5)
+Source: [Healthline](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUDVPbGpXYThBbXJteGlYRnhzYTdUNzFKaGFha3NWWU13RjhoUHpjLUlSa2pUaXk4M05YcEVwU3FuVGxXeG9waDVJaFpzem1NenBiaHV6UDlzaERKUHdvak02VXNHSTQ5SzJ5ci0zaTZRY044TS1aSzB2bEl5NTNqZE0wSEd6YW16Uzd3X25NMWdXLWtpZ2padnJWSm5BcFE?oc=5)
+
+---
+
+### [New estrogen research may change how scientists think about women’s aging brains - The Washington Post](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVR0aTFCWWs4bFA5a0V6R0ltTFgxZ0hGSDJCaEkzcDRFZUhIVURrekNYdktoN0JYVWZwUEc3bmszLUloSjZmeUJkRmRXQmx5R2hhandkMXRjSl9LVzhYVHJTdEpWWXQxS01wTEZJRmlhQ1BPdjVpZWxZeTFUVTdNaWRHT3R1QzFsZGNMN2xoNXVIY2xRLUw1dXNhSW1CdUxOZXc?oc=5)
+
+2026-11-05 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVR0aTFCWWs4bFA5a0V6R0ltTFgxZ0hGSDJCaEkzcDRFZUhIVURrekNYdktoN0JYVWZwUEc3bmszLUloSjZmeUJkRmRXQmx5R2hhandkMXRjSl9LVzhYVHJTdEpWWXQxS01wTEZJRmlhQ1BPdjVpZWxZeTFUVTdNaWRHT3R1QzFsZGNMN2xoNXVIY2xRLUw1dXNhSW1CdUxOZXc?oc=5)
 
 ---
 

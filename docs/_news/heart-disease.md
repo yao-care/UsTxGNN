@@ -32,27 +32,11 @@ This page brings together the latest health news about “CAD” and lists the d
 
 ## Related News (4)
 
-### [Cardiologist Reveals High LDL Cholesterol as Top Risk Factor for Heart Disease](https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUZWSmVLTTUtRGMzVFJoOU5uWWdXTE5ja0dYaUN3MEhzQmU0dzRiX2ZmNFNHTlJ0aFZXU3ZBVW5fdFU0cy1LY3Z4RUtDQzZNeG9jY1huTlBxbHBfLTdPR0NDb2ZYYlRleTBxRWI3MHk3TFk2OXVKV3VBOUJKeTZvRlJJaXVJRE9kZ2pERjFB?oc=5)
+### [Her Death From Dengue May Signal That the Disease Is Here to Stay - The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTBUSlFhMDlCZjZ0TFlhTG01Q1NrNjB3dFh6ZzBVclVYUlZrNktlVkVVMnpwN3FIblVyZnoycTFZTFVYVnk3VGJDVzdCa1FQZDhWSHk1VUMtZHQtYWxQamRpa0xUSzAxUDFNal9MNVdLQk1Pcm5uYUM0aTJsQWFkM0ZPV2pPWFVa?oc=5)
 
-2026-11-08
+2026-11-09
 
-Source: [AOL.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUZWSmVLTTUtRGMzVFJoOU5uWWdXTE5ja0dYaUN3MEhzQmU0dzRiX2ZmNFNHTlJ0aFZXU3ZBVW5fdFU0cy1LY3Z4RUtDQzZNeG9jY1huTlBxbHBfLTdPR0NDb2ZYYlRleTBxRWI3MHk3TFk2OXVKV3VBOUJKeTZvRlJJaXVJRE9kZ2pERjFB?oc=5)
-
----
-
-### [NASA's destroyed Swift Observatory took one of the best-ever photos of bright Andromeda — Space photo of the week - Live Science](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaGhjS0s0SHlCaC1VYlBHWmJKQjRVaTZiTUNzLWZBMXN3VTBiVWJrYVhCOFRjUGhuUmlhVW1QLUdSV3RncDM2d2xPMk1IWC1WTXBiaWlCOHpPYWRCdUYtMktvM0Y0V0hnY1NYVHRzaWtsckJ1c2VpWEFlOUE0Tk02aUdSQVdkaGlUanVUdDlqYzZobUwzSzJUaFhRSmFBMzJTbjFCN0U4ZERKRVNPTkRQZ2hoVkI3Zk54ZFRuYmJLNnJNT2pXYjVTbGVOd0tmVS13MzI1d2RER1RyTS1TQl90YUtXM1FCaXdmalE?oc=5)
-
-2026-11-08
-
-Source: [Live Science](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaGhjS0s0SHlCaC1VYlBHWmJKQjRVaTZiTUNzLWZBMXN3VTBiVWJrYVhCOFRjUGhuUmlhVW1QLUdSV3RncDM2d2xPMk1IWC1WTXBiaWlCOHpPYWRCdUYtMktvM0Y0V0hnY1NYVHRzaWtsckJ1c2VpWEFlOUE0Tk02aUdSQVdkaGlUanVUdDlqYzZobUwzSzJUaFhRSmFBMzJTbjFCN0U4ZERKRVNPTkRQZ2hoVkI3Zk54ZFRuYmJLNnJNT2pXYjVTbGVOd0tmVS13MzI1d2RER1RyTS1TQl90YUtXM1FCaXdmalE?oc=5)
-
----
-
-### [Heart researchers unpack neutral findings from ZEUS, an anti-inflammatory clinical trial - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNktrR3B3bWlpZVhUZEZSbUVQdm5BVExDTE1TZWJaTWt1MmpNVTlKZ3M4cWkwZXRkbm8zNHlLa3l0ZFNkMU12Q1RITXVEZjR3N2tkdXpuM1pRM1dUOExLREd1NTZEc2lwbVk2Z2hKRlNKemlqb3AyYXk0SXZqZmhabEpEMHBuYnc?oc=5)
-
-2026-11-07
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNktrR3B3bWlpZVhUZEZSbUVQdm5BVExDTE1TZWJaTWt1MmpNVTlKZ3M4cWkwZXRkbm8zNHlLa3l0ZFNkMU12Q1RITXVEZjR3N2tkdXpuM1pRM1dUOExLREd1NTZEc2lwbVk2Z2hKRlNKemlqb3AyYXk0SXZqZmhabEpEMHBuYnc?oc=5)
+Source: [The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTBUSlFhMDlCZjZ0TFlhTG01Q1NrNjB3dFh6ZzBVclVYUlZrNktlVkVVMnpwN3FIblVyZnoycTFZTFVYVnk3VGJDVzdCa1FQZDhWSHk1VUMtZHQtYWxQamRpa0xUSzAxUDFNal9MNVdLQk1Pcm5uYUM0aTJsQWFkM0ZPV2pPWFVa?oc=5)
 
 ---
 
@@ -61,6 +45,22 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNk
 2026-11-06
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxNTWVNcGFjVnhoQ3daa1d0eVF3TldhUkRpc1cyb29QVnEwbjVsdHk1aWNSRjVJUjlmQ2dDd3FrNEttZ05JTUlNVkNiVkdNajBMOVZ6cVdnbi1lWExkNDVUMWdndXNNb2dDOE9zTmxfM2FoLTJOdzlSMlJKWnJYTTRuQUZ3dHI4aFlVWWxpRkhxZ3VSMGxJT3d1ZDlxUnZvakY5WlBkQnZTTFVGTXhoN25ZR2dn?oc=5)
+
+---
+
+### [NASA space telescope plunges to Earth after two decades studying cosmic explosions - AP News](https://news.google.com/rss/articles/CBMimgFBVV95cUxNY09VZGZ6VW5RWnBqTktLTE9vSUhlVklrVXY1X09WNHJVbFdBT3VXU01ZYTlUb2JsdnlGODBfeFlLTGlFcWFjdEEtQ2FNSnJqMXlheEpHQWxNR2lzdlhTQUlDVWhKYVltbHQzZ2M4T1RBVkFCUzlWc3p1SjVHVlZQUC1BOWtVYXhSdEs3dGw3MHJCTDdZZkNJc0Nn?oc=5)
+
+2026-11-04
+
+Source: [AP News](https://news.google.com/rss/articles/CBMimgFBVV95cUxNY09VZGZ6VW5RWnBqTktLTE9vSUhlVklrVXY1X09WNHJVbFdBT3VXU01ZYTlUb2JsdnlGODBfeFlLTGlFcWFjdEEtQ2FNSnJqMXlheEpHQWxNR2lzdlhTQUlDVWhKYVltbHQzZ2M4T1RBVkFCUzlWc3p1SjVHVlZQUC1BOWtVYXhSdEs3dGw3MHJCTDdZZkNJc0Nn?oc=5)
+
+---
+
+### [A healthier form of salt could prevent millions of deaths a year, researchers say - The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxPa1FvRUtRbGdqd3VHNHNhS2NnMTNuZ2syTjhBSGRpTVZLN1VTRFlyWUFIY202VnhUZ2VoV2ZXT2xiTU5oSFFTV3h0VE5RQk9aZVNDMndmVEZuV0c5RTR4Smw5SUY5dDRMd2dJOGdnRnhHaHVMa2hwNnNYcjVEVTZiT1FIOHBPTEJPWWVCbzl2Wm05eU43ZHI2MkpBdnNodw?oc=5)
+
+2026-11-04
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxPa1FvRUtRbGdqd3VHNHNhS2NnMTNuZ2syTjhBSGRpTVZLN1VTRFlyWUFIY202VnhUZ2VoV2ZXT2xiTU5oSFFTV3h0VE5RQk9aZVNDMndmVEZuV0c5RTR4Smw5SUY5dDRMd2dJOGdnRnhHaHVMa2hwNnNYcjVEVTZiT1FIOHBPTEJPWWVCbzl2Wm05eU43ZHI2MkpBdnNodw?oc=5)
 
 ---
 

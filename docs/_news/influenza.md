@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 8 articles, 2 related drugs."
+description: "Health news about flu (influenza). 9 articles, 2 related drugs."
 permalink: /news/influenza/
 last_modified_at: 2026-11-10
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>8 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>9 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,23 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [Does it feel like everyone is sick right now? Here's which viruses are circulating - NBC 5 Chicago](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQamlSNUpta0I5R1laR2ZjRDBVTW5rSHdyR1BvVGNBcFFDd0dlcUpaMVcwUXoydkJ3OExJMGJFWlkycVc3RDRDaEh4OG1fVEk0XzNkaWRCMENOV0dkZzdoM1JUQmpUOXVNTmN1NDhDU3Z2UkltTy1TbDVQeTVnbk9LbWxFZmgwX1U2OGEzWnZqamtMUFZranFIU1ZOWjdlZFotSlFYd1JrZGduZVNucktDYndDNG92N0NXalVEQmxkckNOMDVicEJHX3BnSy1QRVJWUk1oNlpreG15MkRIQXk0dlRWLVNwRGphUEFkS3BR0gH2AUFVX3lxTE04VUJZU19vMFU5TkI1c3BmMXYtTjFsX055d3FYcWsxTEc5SlI4ZVE4RFBBWU1faUxYWnJpdWZvV2JSYThTTHVGdDhjMGJ2QjlBZThxS0lIdXdia3ZCelp5MHpRT2ZlSDJ6OGJhcGxheGhmRGJTMGZ1NkdRXzhNR182UDdVazRJRG9TajdwcHV3dEtOektkTVZEMWVzWGR6Y21WMk9ueEtCb0Z4OXJxX2ZRTGp5R2lqT1JDNEJCWmhlclR0VUZoRVFIcW5QQXF0djdxYUdEMnktcXhLRzlTcVFtYXg1eUE5VVhnWW13WnUxSS0tR2VvZw?oc=5)
+
+2026-11-10
+
+Source: [NBC 5 Chicago](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQamlSNUpta0I5R1laR2ZjRDBVTW5rSHdyR1BvVGNBcFFDd0dlcUpaMVcwUXoydkJ3OExJMGJFWlkycVc3RDRDaEh4OG1fVEk0XzNkaWRCMENOV0dkZzdoM1JUQmpUOXVNTmN1NDhDU3Z2UkltTy1TbDVQeTVnbk9LbWxFZmgwX1U2OGEzWnZqamtMUFZranFIU1ZOWjdlZFotSlFYd1JrZGduZVNucktDYndDNG92N0NXalVEQmxkckNOMDVicEJHX3BnSy1QRVJWUk1oNlpreG15MkRIQXk0dlRWLVNwRGphUEFkS3BR0gH2AUFVX3lxTE04VUJZU19vMFU5TkI1c3BmMXYtTjFsX055d3FYcWsxTEc5SlI4ZVE4RFBBWU1faUxYWnJpdWZvV2JSYThTTHVGdDhjMGJ2QjlBZThxS0lIdXdia3ZCelp5MHpRT2ZlSDJ6OGJhcGxheGhmRGJTMGZ1NkdRXzhNR182UDdVazRJRG9TajdwcHV3dEtOektkTVZEMWVzWGR6Y21WMk9ueEtCb0Z4OXJxX2ZRTGp5R2lqT1JDNEJCWmhlclR0VUZoRVFIcW5QQXF0djdxYUdEMnktcXhLRzlTcVFtYXg1eUE5VVhnWW13WnUxSS0tR2VvZw?oc=5)
+
+---
+
+### [Flu, other respiratory illnesses lead hospital system to temporarily restrict visitors](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWFvaDJhWllQbkNwMFV3WDg2REJ1VEY5elNJY1dMOFYxWGp4aWVXaWZRNzdyQWhUX1p4NmZLb2cxVVBhTmQxdHE3MHlfdWtkU0w3eXJMSWVBOXNtTWRwQUFydUk5NzRDcHpRSjRuaGlwMG0yOTd1Ukd6bGltQ0pBYU5tRmlITGNCMjA0WC0ycXpkcUtUbGc5T2k5VU5fdHlvV2FEbkw4cGRkUzIwSjdKLWNZanBBeVpkTXM5aHk0Yy1xdw?oc=5)
+
+2026-11-10
+
+Source: [WYFF](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWFvaDJhWllQbkNwMFV3WDg2REJ1VEY5elNJY1dMOFYxWGp4aWVXaWZRNzdyQWhUX1p4NmZLb2cxVVBhTmQxdHE3MHlfdWtkU0w3eXJMSWVBOXNtTWRwQUFydUk5NzRDcHpRSjRuaGlwMG0yOTd1Ukd6bGltQ0pBYU5tRmlITGNCMjA0WC0ycXpkcUtUbGc5T2k5VU5fdHlvV2FEbkw4cGRkUzIwSjdKLWNZanBBeVpkTXM5aHk0Yy1xdw?oc=5)
+
+---
 
 ### [John Cryan, neuroscientist: “Coffee, whether caffeinated or decaffeinated, can influence health in distinct but complementary ways”](https://news.google.com/rss/articles/CBMirgFBVV95cUxOdnRzVlF4RnVaTXlYUXJPT0cxa044b2J5NEM3bDdNWDZuZ3ZKWExqU3pmaW5vUDZUZzZvUTkwSnp6TnFtSTZnMlpiYmllNzF4YV93UDg4QUhMZFpuOF9zUTZmNUxNYkJWOG5fYlZPSE9GY3ViSXBzbmt5MElzS09mOThaVHl0M2NZYXo5cUM5QThwQVEyV2toNjNVY1pqRUtqZWg4OTh4ZUxPcjlLdWc?oc=5)
 
@@ -70,14 +86,6 @@ Source: [NBC News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWRkMGRG
 2026-11-08
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5)
-
----
-
-### [What’s making you sick? Pittsburgh doctors explain the viruses circulating this fall](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM21lelRRMGZpZ2lBZlBKaFhHeGo0STBrREVZVUU3X09ta1BNNjBMXzlQSFdXcVN5cFB6SnhmU3dTNzlIS3Jzb0ZONzE4RW1pYXgzRHVTMHhyTnhxTjgzZ19OSk55YnZFeVhfZmhuUVp0VzlMczJfZUhoVi1Ia0Npa0NDZERhREVRSnFPb0NuczFFeWhsaE1FRGdCdFJrX0o4ZkF5OW9qblZDNGxRSFFHMWpkRXdpMzdZSXY0?oc=5)
-
-2026-11-07
-
-Source: [TribLIVE.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM21lelRRMGZpZ2lBZlBKaFhHeGo0STBrREVZVUU3X09ta1BNNjBMXzlQSFdXcVN5cFB6SnhmU3dTNzlIS3Jzb0ZONzE4RW1pYXgzRHVTMHhyTnhxTjgzZ19OSk55YnZFeVhfZmhuUVp0VzlMczJfZUhoVi1Ia0Npa0NDZERhREVRSnFPb0NuczFFeWhsaE1FRGdCdFJrX0o4ZkF5OW9qblZDNGxRSFFHMWpkRXdpMzdZSXY0?oc=5)
 
 ---
 

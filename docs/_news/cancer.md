@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 8 articles, 1 related drugs."
+description: "Health news about cancer. 7 articles, 1 related drugs."
 permalink: /news/cancer/
 last_modified_at: 2026-11-10
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>8 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>7 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,13 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (8)
+## Related News (7)
 
-### [GoFundMe account set up to help former Wilson Elementary teacher fighting cancer - Hays Post](https://news.google.com/rss/articles/CBMicEFVX3lxTE1iUjZfVENyZktOblgzRGhkejNVTC1zdVU3Ry1QU1pjWl84d2o2aXpEbkdDXzB1X3cyVUtwYmxybW4xVFB3eTFrSGF3eTJxS3JHVmdIQzJzOFg5eG9IUG0xcFdBSWExbHh5WGk5eWJ1anY?oc=5)
+### [Aggressive cancer type linked to common chemical exposure in new study - Fox News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZG1IUnVOd01yd1NBUmRJellHVHptNGc1bU44cTV1YU54Q0VONDhJQVR6dlczZ2pacFl2RTN2RVZLNDhXbHQxOGRTYXBRMnRQYl9OVWtEYmoxYmplNGpDaUgwQWRqWHFGUXV6WlF4WG1ZRFo5SXMzWFVPanl0Vkd5clpLU0drd3BGbGNnamF0VjhyaWJiTjYxc2E0d9IBoAFBVV95cUxOTWtWV3RfZzR1eVRUcGV6OVRjRVkzRWJvOVJtclBHTEw5cUhHcElzRmZYVmRaX1llRE5IYkVIS2NhVFRZQUNHdjZrTUltcFdHNUg0SG5BWExFenEtSDYwTkpkR2Q1TGsyYW93bW9UOVp4ZlBwMzZSYXZqUWNPbXJSajBFdE0yLXBKVEtENWRJSVR6d2ROZEZzSjJGZkRFRk1q?oc=5)
 
-2026-11-09
+2026-11-10
 
-Source: [Hays Post](https://news.google.com/rss/articles/CBMicEFVX3lxTE1iUjZfVENyZktOblgzRGhkejNVTC1zdVU3Ry1QU1pjWl84d2o2aXpEbkdDXzB1X3cyVUtwYmxybW4xVFB3eTFrSGF3eTJxS3JHVmdIQzJzOFg5eG9IUG0xcFdBSWExbHh5WGk5eWJ1anY?oc=5)
+Source: [Fox News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZG1IUnVOd01yd1NBUmRJellHVHptNGc1bU44cTV1YU54Q0VONDhJQVR6dlczZ2pacFl2RTN2RVZLNDhXbHQxOGRTYXBRMnRQYl9OVWtEYmoxYmplNGpDaUgwQWRqWHFGUXV6WlF4WG1ZRFo5SXMzWFVPanl0Vkd5clpLU0drd3BGbGNnamF0VjhyaWJiTjYxc2E0d9IBoAFBVV95cUxOTWtWV3RfZzR1eVRUcGV6OVRjRVkzRWJvOVJtclBHTEw5cUhHcElzRmZYVmRaX1llRE5IYkVIS2NhVFRZQUNHdjZrTUltcFdHNUg0SG5BWExFenEtSDYwTkpkR2Q1TGsyYW93bW9UOVp4ZlBwMzZSYXZqUWNPbXJSajBFdE0yLXBKVEtENWRJSVR6d2ROZEZzSjJGZkRFRk1q?oc=5)
 
 ---
 
@@ -53,14 +53,6 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE11ZjN
 2026-11-09
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZTmozN09adzhiblM5bmRtcDgwb3Uwd0t2WldINUR2Z2d5eXY1QWtpUjRhNDltZlJRSkx4dWxQODZlMkwxaXc2OUNqSkt0XzMtWTRycXVkVUtwaGxLdnp3?oc=5)
-
----
-
-### [Common ‘forever chemicals’ linked to aggressive breast cancer in new study](https://news.google.com/rss/articles/CBMilAFBVV95cUxNNUp6MGMwN2JZaF9TQTRMVkRPS1hLTk15TEVUbGpsLUZjei1TTG5neFBib25WTUpqcmJBRnF0X20tNVVmc0JWWXBrUjZpOEdyRHEwTWdXX1VyMTE3NWhJUEdtU3ZWNHBEa0FBSnBMajE5Mm5XcERRM0Fkay1UcXYwYVNpUGxqS1NPVUc3UmdHTUczSDhv0gGaAUFVX3lxTE5TY2hhWnBxX2FDMURSVWJVM0pFRFpXNXcwajFwZVpEdkhnM21wV2RraFpmNmNVWl9UajdfM0Y3U2JtLWNUam5KTklKcWJpQTJucnZ2dVVLUEQ5WmROQkx2TG11RENJWjhLVl9xc01DU1N2N0FRYWV3RkdRS01Ra0d2TVctczVFUkhRTzR2aU9nQk5wSGZVbVlTNEE?oc=5)
-
-2026-11-08
-
-Source: [NewsNation](https://news.google.com/rss/articles/CBMilAFBVV95cUxNNUp6MGMwN2JZaF9TQTRMVkRPS1hLTk15TEVUbGpsLUZjei1TTG5neFBib25WTUpqcmJBRnF0X20tNVVmc0JWWXBrUjZpOEdyRHEwTWdXX1VyMTE3NWhJUEdtU3ZWNHBEa0FBSnBMajE5Mm5XcERRM0Fkay1UcXYwYVNpUGxqS1NPVUc3UmdHTUczSDhv0gGaAUFVX3lxTE5TY2hhWnBxX2FDMURSVWJVM0pFRFpXNXcwajFwZVpEdkhnM21wV2RraFpmNmNVWl9UajdfM0Y3U2JtLWNUam5KTklKcWJpQTJucnZ2dVVLUEQ5WmROQkx2TG11RENJWjhLVl9xc01DU1N2N0FRYWV3RkdRS01Ra0d2TVctczVFUkhRTzR2aU9nQk5wSGZVbVlTNEE?oc=5)
 
 ---
 

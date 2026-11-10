@@ -13,6 +13,13 @@ description: "UsTxGNN user guide: how to look up drugs, read evidence levels and
 Check the evidence level first, then the recommendation, then read the source literature.
 </div>
 
+<p class="key-answer" data-question="Which medicines approved by the FDA have clinical trial evidence for a new indication?">
+See the <a href="{{ '/evidence-high/' | relative_url }}">high</a> and
+<a href="{{ '/evidence-medium/' | relative_url }}">moderate</a> evidence-level lists, or browse the full
+<a href="{{ '/drugs/' | relative_url }}">All Drugs</a> directory. Each entry links to the NCT and PMID
+records behind the evidence level.
+</p>
+
 ---
 
 ## Looking up a drug

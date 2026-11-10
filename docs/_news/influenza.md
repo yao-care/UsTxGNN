@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 9 articles, 2 related drugs."
+description: "Health news about flu (influenza). 11 articles, 2 related drugs."
 permalink: /news/influenza/
 last_modified_at: 2026-11-10
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>9 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>11 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,31 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (9)
+## Related News (11)
+
+### [SC ranks 2nd highest in country for flu activity, CDC data shows](https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcXJTSUdZUXRTSHZtRWM1SmVHeWlqM3VUVlhvbkszMkRnemdiT2tyQUNGaFVYcFBVdnp2M0ZjQVpEaHo1OUhQZEo1dzBSMHpkU0dtTzZfektraHBjeFBjT2dEeGV4cV9FV252SWN1Ml9MZWVPbFRF?oc=5)
+
+2026-11-10
+
+Source: [WYFF](https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcXJTSUdZUXRTSHZtRWM1SmVHeWlqM3VUVlhvbkszMkRnemdiT2tyQUNGaFVYcFBVdnp2M0ZjQVpEaHo1OUhQZEo1dzBSMHpkU0dtTzZfektraHBjeFBjT2dEeGV4cV9FV252SWN1Ml9MZWVPbFRF?oc=5)
+
+---
+
+### [Here's why North Texas is experiencing an earlier flu season - Dallas News](https://news.google.com/rss/articles/CBMirAFBVV95cUxON20xUmJlOVJLLTFZMy1GRktLblpqdVdzb2J2MEM0ZDBSQzUtYktRMmozQktPUE5BRV9vM0ZxX2NhR1BiajlCS0l6SklMdU9mSU9aYkkwVXhFclBTamhxR0xTdFlvU21vMnIybFhjY0hWS1MxVGZMRHJTQXdaclB2U2xCQmViUHdqb3hkbFh6OTBwamZqN1puTGo1S25vYTV0RjJ1NXo1TDZTVkVt?oc=5)
+
+2026-11-10
+
+Source: [Dallas News](https://news.google.com/rss/articles/CBMirAFBVV95cUxON20xUmJlOVJLLTFZMy1GRktLblpqdVdzb2J2MEM0ZDBSQzUtYktRMmozQktPUE5BRV9vM0ZxX2NhR1BiajlCS0l6SklMdU9mSU9aYkkwVXhFclBTamhxR0xTdFlvU21vMnIybFhjY0hWS1MxVGZMRHJTQXdaclB2U2xCQmViUHdqb3hkbFh6OTBwamZqN1puTGo1S25vYTV0RjJ1NXo1TDZTVkVt?oc=5)
+
+---
+
+### [Dead birds in Snohomish County test positive for bird flu; officials say low public risk](https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlRDS1pNZ0Q2OEJpX0FhY1piTjdBMWZRSW5ST3VuUVd0YzNORnJGal9KSVJrZkhiUmIzcE1LV29BQlZlWkVVN1NpN3RKR2Vyb3FfWVZVaXV4UUJ5dnA5QlZpUUVpQ0VoaTdWMWJZSk5qRlByY29ndWs3NFlzWXhILUxHcXNHQS0yaXlNbWF5clQxa2pSQ1pWMGlRRXM1TlVoSVZHY3Zqa29sT3hBbWxTdVo4R0JkZ3BrSjNpOWFVMUNCWHZQQjh5dTZyYmw3dFRIc2U5U25Ud1BxWFppMFptb2JPcEhRc0hhV0xzcVFiaG5nTzlLMndpMGhJMjhwLVhtMmFzNXZhcldqX2xqdnlGdWREN2IyZDRnbFp5THUtU3hoQVBXR1M4OTZnVHVLeHMwUGRocU5R?oc=5)
+
+2026-11-10
+
+Source: [KOMO](https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlRDS1pNZ0Q2OEJpX0FhY1piTjdBMWZRSW5ST3VuUVd0YzNORnJGal9KSVJrZkhiUmIzcE1LV29BQlZlWkVVN1NpN3RKR2Vyb3FfWVZVaXV4UUJ5dnA5QlZpUUVpQ0VoaTdWMWJZSk5qRlByY29ndWs3NFlzWXhILUxHcXNHQS0yaXlNbWF5clQxa2pSQ1pWMGlRRXM1TlVoSVZHY3Zqa29sT3hBbWxTdVo4R0JkZ3BrSjNpOWFVMUNCWHZQQjh5dTZyYmw3dFRIc2U5U25Ud1BxWFppMFptb2JPcEhRc0hhV0xzcVFiaG5nTzlLMndpMGhJMjhwLVhtMmFzNXZhcldqX2xqdnlGdWREN2IyZDRnbFp5THUtU3hoQVBXR1M4OTZnVHVLeHMwUGRocU5R?oc=5)
+
+---
 
 ### [Does it feel like everyone is sick right now? Here's which viruses are circulating - NBC 5 Chicago](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQamlSNUpta0I5R1laR2ZjRDBVTW5rSHdyR1BvVGNBcFFDd0dlcUpaMVcwUXoydkJ3OExJMGJFWlkycVc3RDRDaEh4OG1fVEk0XzNkaWRCMENOV0dkZzdoM1JUQmpUOXVNTmN1NDhDU3Z2UkltTy1TbDVQeTVnbk9LbWxFZmgwX1U2OGEzWnZqamtMUFZranFIU1ZOWjdlZFotSlFYd1JrZGduZVNucktDYndDNG92N0NXalVEQmxkckNOMDVicEJHX3BnSy1QRVJWUk1oNlpreG15MkRIQXk0dlRWLVNwRGphUEFkS3BR0gH2AUFVX3lxTE04VUJZU19vMFU5TkI1c3BmMXYtTjFsX055d3FYcWsxTEc5SlI4ZVE4RFBBWU1faUxYWnJpdWZvV2JSYThTTHVGdDhjMGJ2QjlBZThxS0lIdXdia3ZCelp5MHpRT2ZlSDJ6OGJhcGxheGhmRGJTMGZ1NkdRXzhNR182UDdVazRJRG9TajdwcHV3dEtOektkTVZEMWVzWGR6Y21WMk9ueEtCb0Z4OXJxX2ZRTGp5R2lqT1JDNEJCWmhlclR0VUZoRVFIcW5QQXF0djdxYUdEMnktcXhLRzlTcVFtYXg1eUE5VVhnWW13WnUxSS0tR2VvZw?oc=5)
 
@@ -41,19 +65,11 @@ Source: [NBC 5 Chicago](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaml
 
 ---
 
-### [Flu, other respiratory illnesses lead hospital system to temporarily restrict visitors](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWFvaDJhWllQbkNwMFV3WDg2REJ1VEY5elNJY1dMOFYxWGp4aWVXaWZRNzdyQWhUX1p4NmZLb2cxVVBhTmQxdHE3MHlfdWtkU0w3eXJMSWVBOXNtTWRwQUFydUk5NzRDcHpRSjRuaGlwMG0yOTd1Ukd6bGltQ0pBYU5tRmlITGNCMjA0WC0ycXpkcUtUbGc5T2k5VU5fdHlvV2FEbkw4cGRkUzIwSjdKLWNZanBBeVpkTXM5aHk0Yy1xdw?oc=5)
-
-2026-11-10
-
-Source: [WYFF](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWFvaDJhWllQbkNwMFV3WDg2REJ1VEY5elNJY1dMOFYxWGp4aWVXaWZRNzdyQWhUX1p4NmZLb2cxVVBhTmQxdHE3MHlfdWtkU0w3eXJMSWVBOXNtTWRwQUFydUk5NzRDcHpRSjRuaGlwMG0yOTd1Ukd6bGltQ0pBYU5tRmlITGNCMjA0WC0ycXpkcUtUbGc5T2k5VU5fdHlvV2FEbkw4cGRkUzIwSjdKLWNZanBBeVpkTXM5aHk0Yy1xdw?oc=5)
-
----
-
-### [John Cryan, neuroscientist: “Coffee, whether caffeinated or decaffeinated, can influence health in distinct but complementary ways”](https://news.google.com/rss/articles/CBMirgFBVV95cUxOdnRzVlF4RnVaTXlYUXJPT0cxa044b2J5NEM3bDdNWDZuZ3ZKWExqU3pmaW5vUDZUZzZvUTkwSnp6TnFtSTZnMlpiYmllNzF4YV93UDg4QUhMZFpuOF9zUTZmNUxNYkJWOG5fYlZPSE9GY3ViSXBzbmt5MElzS09mOThaVHl0M2NZYXo5cUM5QThwQVEyV2toNjNVY1pqRUtqZWg4OTh4ZUxPcjlLdWc?oc=5)
+### [The deadly morning hour when your stroke risk suddenly spikes - The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVNMYS1OS3FiaC1VUlRCTFFCSXJQaHVIa3A5WDc2QUF1V0J6RHhDUzk4VUZMeTQ0THpKS0NWUzFvQjZ4OHlPNmFVOWZxSTNQMHJEUHczb1p4Sml0dXdhaTdGVnRRSlp3MThtU21ZZDFQMUYxLWZPV3dGcG1wOVRyUmV4cjBycHQ4cUEwTk1QQzRtN3hKZTNj?oc=5)
 
 2026-11-09
 
-Source: [TheCoolist](https://news.google.com/rss/articles/CBMirgFBVV95cUxOdnRzVlF4RnVaTXlYUXJPT0cxa044b2J5NEM3bDdNWDZuZ3ZKWExqU3pmaW5vUDZUZzZvUTkwSnp6TnFtSTZnMlpiYmllNzF4YV93UDg4QUhMZFpuOF9zUTZmNUxNYkJWOG5fYlZPSE9GY3ViSXBzbmt5MElzS09mOThaVHl0M2NZYXo5cUM5QThwQVEyV2toNjNVY1pqRUtqZWg4OTh4ZUxPcjlLdWc?oc=5)
+Source: [The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVNMYS1OS3FiaC1VUlRCTFFCSXJQaHVIa3A5WDc2QUF1V0J6RHhDUzk4VUZMeTQ0THpKS0NWUzFvQjZ4OHlPNmFVOWZxSTNQMHJEUHczb1p4Sml0dXdhaTdGVnRRSlp3MThtU21ZZDFQMUYxLWZPV3dGcG1wOVRyUmV4cjBycHQ4cUEwTk1QQzRtN3hKZTNj?oc=5)
 
 ---
 
@@ -73,19 +89,19 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMifkFVX3lxTE55S09R
 
 ---
 
-### [Does an early flu season mean a bad flu season? - NBC News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWRkMGRGeE1UcE91dmEzbmNTTUpqWDBDazE0OFlxTDhDX1ZDc0pCS0o2WnRMY2FVVWl4OWwtXy1NVFlmd09QVUw5eTlhVnRObU5YdnJWbm1rOVJ5TWY1azk2cEVaV2JHbU96ZTlpVFMxZ3NLcERSbmxRRHhOcENsbnZqdkk1QmVjTXJtNHhkTTBDQWNGUkE?oc=5)
-
-2026-11-09
-
-Source: [NBC News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWRkMGRGeE1UcE91dmEzbmNTTUpqWDBDazE0OFlxTDhDX1ZDc0pCS0o2WnRMY2FVVWl4OWwtXy1NVFlmd09QVUw5eTlhVnRObU5YdnJWbm1rOVJ5TWY1azk2cEVaV2JHbU96ZTlpVFMxZ3NLcERSbmxRRHhOcENsbnZqdkk1QmVjTXJtNHhkTTBDQWNGUkE?oc=5)
-
----
-
 ### [Why the simple flu shot could be a surprise weapon against cancer - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5)
 
 2026-11-08
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5)
+
+---
+
+### [Stronger flu shot linked to nearly 55% lower Alzheimer's risk - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBzQ0NzLVZtcThGLXh4d3ZwNE5SUzB4LVoxdnA0aXdBaU1BUXNxZzRqVl9KSlU2Z1Z2RzVLYmFCa3cyd29LRjNicmJRX01oYkJqM2xFTm1UcjdrdUlmRFJ1bVNqbEt3QWxpT09IYW9kYw?oc=5)
+
+2026-11-08
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBzQ0NzLVZtcThGLXh4d3ZwNE5SUzB4LVoxdnA0aXdBaU1BUXNxZzRqVl9KSlU2Z1Z2RzVLYmFCa3cyd29LRjNicmJRX01oYkJqM2xFTm1UcjdrdUlmRFJ1bVNqbEt3QWxpT09IYW9kYw?oc=5)
 
 ---
 

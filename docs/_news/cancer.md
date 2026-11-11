@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about cancer. 7 articles, 1 related drugs."
 permalink: /news/cancer/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # cancer News
@@ -40,6 +40,14 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORXNORG0z
 
 ---
 
+### [Manosphere obsession is linked to 18% higher risk of dying from cancer - New York Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFhlWXBqTmJ5RWFSdEVWRkNERl9JMzFMSHpiTllMYnNEb3NicEVFbWNSdEw1Q1p0NGhjTGxVekNJY2MzZG9UUEhXMEo4RVJlNTFBa1g5dHI3dEJqYlFwS2kxd0pPeHJXNHNheUE4cWdCaENvVUZtVDZ4bDlQTGhTUTNLUjhpNGVuNHMyR2NVTmZBd1RFR0twUEtoUTV0N3BjeWUyQ0FKUUlvdmc?oc=5)
+
+2026-11-10
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFhlWXBqTmJ5RWFSdEVWRkNERl9JMzFMSHpiTllMYnNEb3NicEVFbWNSdEw1Q1p0NGhjTGxVekNJY2MzZG9UUEhXMEo4RVJlNTFBa1g5dHI3dEJqYlFwS2kxd0pPeHJXNHNheUE4cWdCaENvVUZtVDZ4bDlQTGhTUTNLUjhpNGVuNHMyR2NVTmZBd1RFR0twUEtoUTV0N3BjeWUyQ0FKUUlvdmc?oc=5)
+
+---
+
 ### [Strong immune system can prevent prostate cancer, Oxford study finds - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUZmMVUyenU0NUFybmNIckM4bW9iZWpiWkE4RzVNQ2xoVmtXZW9jVkxncThpakVzR2h6cjRzVzVWNVYwTWtYYlBvSl9YbGo2U1dGOEVySmhyTXVSSGU3cVVCQkdvOGp2SFhwUXl2Vmh3UFdmVEJYY1ZaWmFnVVp6cHB0UVZvMjlLNW81dkZPbGJrVi1EMnhNN0xiam1RM25yV1NPWg?oc=5)
 
 2026-11-10
@@ -69,14 +77,6 @@ Source: [Hays Post](https://news.google.com/rss/articles/CBMicEFVX3lxTE1iUjZfVEN
 2026-11-08
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5)
-
----
-
-### [Low testosterone linked to 18% higher risk of dying from cancer - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE12YkpTNTByN2NYSUdLcDlRWG5SbGs4WmV6Um1zVi1Mblhwc3pjUEFubTdmelJ2MkREaHltMEtpV1RrQnloQWtMa1M1YWNaRHVjSlBFVEhlUnFQcWpnSFF1R28ydGg5MXhEUTlldzl3QQ?oc=5)
-
-2026-11-08
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE12YkpTNTByN2NYSUdLcDlRWG5SbGs4WmV6Um1zVi1Mblhwc3pjUEFubTdmelJ2MkREaHltMEtpV1RrQnloQWtMa1M1YWNaRHVjSlBFVEhlUnFQcWpnSFF1R28ydGg5MXhEUTlldzl3QQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 7 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 11 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-11-11
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>7 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>11 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (7)
+## Related News (11)
+
+### [New study suggests bedroom air purifier may support healthy blood sugar - The Washington Post](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOFNPNDFjNHdkSmdXVUtnckNwU3NSNEVHSklxdlc2VEU2Rk5IMGNMVlkta01HemE4M0J4WDlZWGdjV19ac2dBVWRDWXp2cmdaT0JhSWhlY3N1SGpjRUJoTXJjeXVfb3VKMlc1NGp6T2xaWmxuRmppZVNLWmh4SlNUZ0RSSDllMC11T0NNLXl5RU5RdkdGZkVBeHNBZmZKMnFzV01aV2JzUXJHUEVUbElPcmJfVlNhelhodmdXREtMUHQ?oc=5)
+
+2026-11-11
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOFNPNDFjNHdkSmdXVUtnckNwU3NSNEVHSklxdlc2VEU2Rk5IMGNMVlkta01HemE4M0J4WDlZWGdjV19ac2dBVWRDWXp2cmdaT0JhSWhlY3N1SGpjRUJoTXJjeXVfb3VKMlc1NGp6T2xaWmxuRmppZVNLWmh4SlNUZ0RSSDllMC11T0NNLXl5RU5RdkdGZkVBeHNBZmZKMnFzV01aV2JzUXJHUEVUbElPcmJfVlNhelhodmdXREtMUHQ?oc=5)
+
+---
 
 ### [Measles cases grow among pregnant women in Pennsylvania: What to know about risks - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0NEQlZVejBJWGN2UUwyc09hYmNqX3NEemhXamFaRDNCUWsxMElOS19nMEd4RWJ2ZnVpaG14SVBINHVoUUFFcVpXeEYxZkx2NkI3eWd6X18tRFNENng5ZXBld3I4SmZZbzVDS0RiTUJEMU1pdHhidmU2ek8zVF9sdEJ4STQ5YmIza0hidkJNVmFiWktoMWJCV3d5ZmxLeDg?oc=5)
 
@@ -53,11 +61,11 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMihgFBVV95cUxORmszTXpI
 
 ---
 
-### [An unexpected bedroom tool could help stabilize blood sugar: study - New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRWxaUGZBMUVsSmN6cE1oYlBLbWZoRjBjaTRhdHhHcW5xZm5EY3hUclQwU1ZGNGZSemtGMFFtLWZmcTNfTnNVMnRmS2hFY1lsRTAxTEQ3SGtIQkhORmp0RldPVDlyYUl3NlpvMmJ6cXd3Zmp5Q3pPMXVfMG5zbmY4ZmtFVHl3N01oSTZtTHBfNi02YnNXMVpCMVFuQmIzSHQyTHBncQ?oc=5)
+### [Robot builds structure in space for the first time in technological breakthrough - New York Post](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmh5bEZUOUdYd2pWTVBzQk1CY2c1d3J5MWtSQ0gwMzFZV3J6ZzF3NkdsdUd6VlBvam9EMWZZT0dnbDg4eFZkQkk1UjBqNlB4WjcwRlZnMW9YamptbW41UnR0eU9jR3B4amxpVkpLUHhLenRxaXNCRkh2LWszN0lOaTFoU2s5bUhESjlvaGlqYw?oc=5)
 
 2026-11-10
 
-Source: [New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRWxaUGZBMUVsSmN6cE1oYlBLbWZoRjBjaTRhdHhHcW5xZm5EY3hUclQwU1ZGNGZSemtGMFFtLWZmcTNfTnNVMnRmS2hFY1lsRTAxTEQ3SGtIQkhORmp0RldPVDlyYUl3NlpvMmJ6cXd3Zmp5Q3pPMXVfMG5zbmY4ZmtFVHl3N01oSTZtTHBfNi02YnNXMVpCMVFuQmIzSHQyTHBncQ?oc=5)
+Source: [New York Post](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmh5bEZUOUdYd2pWTVBzQk1CY2c1d3J5MWtSQ0gwMzFZV3J6ZzF3NkdsdUd6VlBvam9EMWZZT0dnbDg4eFZkQkk1UjBqNlB4WjcwRlZnMW9YamptbW41UnR0eU9jR3B4amxpVkpLUHhLenRxaXNCRkh2LWszN0lOaTFoU2s5bUhESjlvaGlqYw?oc=5)
 
 ---
 
@@ -69,6 +77,22 @@ Source: [USA Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2dTcGI
 
 ---
 
+### [Eating less protein could slow aging, review of 350 studies finds - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE54S05QNXZCdF9HX2t3eS1SRThzajdRd3pXTFVDRjdzU3BLZlB1NFVPd1ZjR1UyREo4RFhzRkdTdEFkblF6S0x5Y0tpU1BsRi1xZWwtREQxcHpQRTN6TnBnQjc5Yy03QXpmMXJqdnhjSQ?oc=5)
+
+2026-11-10
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE54S05QNXZCdF9HX2t3eS1SRThzajdRd3pXTFVDRjdzU3BLZlB1NFVPd1ZjR1UyREo4RFhzRkdTdEFkblF6S0x5Y0tpU1BsRi1xZWwtREQxcHpQRTN6TnBnQjc5Yy03QXpmMXJqdnhjSQ?oc=5)
+
+---
+
+### [A mysterious 93-billion-mile cosmic structure may be the wreckage of colliding worlds - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZMFV3bXhDRDI0OTNNREZXV0dCVVpUMC04WnZuMzQ5aWUtRVBmNnRVV3phSlZpRXQySGtSSy1jdWRkWGttbnZmMS04cl96clBzZDRObllrS2NsTXF0MDJhWFdjSWhmb291bFcxVWR0NA?oc=5)
+
+2026-11-10
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZMFV3bXhDRDI0OTNNREZXV0dCVVpUMC04WnZuMzQ5aWUtRVBmNnRVV3phSlZpRXQySGtSSy1jdWRkWGttbnZmMS04cl96clBzZDRObllrS2NsTXF0MDJhWFdjSWhmb291bFcxVWR0NA?oc=5)
+
+---
+
 ### [Accidental discovery enables room-temperature recrystallization of molybdenum](https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFVycHI5TjdFN3Q3WXJYTEtlR0Y0RjkzLWI3cjVDRDM5LWRRX19jODRMNy1reVRsR2s5aDdVSVhCVjBDc2RrOVlWWWhTb1F0TUp0d1VSQ1pVaTFra1ZqempHUnF2amNDUllKTDVHWVFqdnc3d1dlbW9jYVpHY2dFU0RTMGdzcG8?oc=5)
 
 2026-11-10
@@ -77,11 +101,19 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFVycHI5
 
 ---
 
-### [When your gut bacteria run out of fiber, they may start eating your gut lining - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5YWkZCN2laMGM2Sk8yZjFjNDZNeG5DSUlwZDJvTUNFN2FwYnkwM0NWM3hpRlNKNjlnM3VBQjRBaE5BWTVWLV9qQ0JNa2JXS0wtTlBnYUpqSVRjYmx4S1V3MENXbVlKelFFV2tXWk9xNA?oc=5)
+### [Scientists finally discover why we learn to love bitter coffee - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1EcTNBeHRZcFlpS3k0amlXTmVVRWpUeFh3TlpvdFZDcWJNV0IzWjNCS3gwQXFvd0JIaFR6U0J1WmdBc3pFZDFLUGRNM18tRWdSUWgxbDJMSVBRQ05aRklwdVNZMWlGSkxKdEpuSDlISQ?oc=5)
 
 2026-11-09
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5YWkZCN2laMGM2Sk8yZjFjNDZNeG5DSUlwZDJvTUNFN2FwYnkwM0NWM3hpRlNKNjlnM3VBQjRBaE5BWTVWLV9qQ0JNa2JXS0wtTlBnYUpqSVRjYmx4S1V3MENXbVlKelFFV2tXWk9xNA?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1EcTNBeHRZcFlpS3k0amlXTmVVRWpUeFh3TlpvdFZDcWJNV0IzWjNCS3gwQXFvd0JIaFR6U0J1WmdBc3pFZDFLUGRNM18tRWdSUWgxbDJMSVBRQ05aRklwdVNZMWlGSkxKdEpuSDlISQ?oc=5)
+
+---
+
+### [Men and women who smoke marijuana may experience different effects, study suggests](https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3d5anhMb3JZZGpIbXdYenU0WFJwcEd5Ukl6Ml9fMnlUZks0OTlQM2F3VDdjdnQzQlRkSTBMY3hWcHpJSVlOVGRFNTN3cEdCRFdQSlZXNU9BOGkybTNVcnNOMlZKS1hpaV8tQ2g4Q0x4eUJkek1sZGRLdWdLd19DUjM0YU54dFFxNERzWVJuVlZBQQ?oc=5)
+
+2026-11-09
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3d5anhMb3JZZGpIbXdYenU0WFJwcEd5Ukl6Ml9fMnlUZks0OTlQM2F3VDdjdnQzQlRkSTBMY3hWcHpJSVlOVGRFNTN3cEdCRFdQSlZXNU9BOGkybTNVcnNOMlZKS1hpaV8tQ2g4Q0x4eUJkek1sZGRLdWdLd19DUjM0YU54dFFxNERzWVJuVlZBQQ?oc=5)
 
 ---
 

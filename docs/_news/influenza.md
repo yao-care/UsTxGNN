@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 9 articles, 2 related drugs."
+description: "Health news about flu (influenza). 8 articles, 2 related drugs."
 permalink: /news/influenza/
 last_modified_at: 2026-11-11
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>9 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>8 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,13 +31,21 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (9)
+## Related News (8)
 
 ### [SC ranks 2nd highest in country for flu activity, CDC data shows](https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcXJTSUdZUXRTSHZtRWM1SmVHeWlqM3VUVlhvbkszMkRnemdiT2tyQUNGaFVYcFBVdnp2M0ZjQVpEaHo1OUhQZEo1dzBSMHpkU0dtTzZfektraHBjeFBjT2dEeGV4cV9FV252SWN1Ml9MZWVPbFRF?oc=5)
 
 2026-11-10
 
 Source: [WYFF](https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcXJTSUdZUXRTSHZtRWM1SmVHeWlqM3VUVlhvbkszMkRnemdiT2tyQUNGaFVYcFBVdnp2M0ZjQVpEaHo1OUhQZEo1dzBSMHpkU0dtTzZfektraHBjeFBjT2dEeGV4cV9FV252SWN1Ml9MZWVPbFRF?oc=5)
+
+---
+
+### [Regular coffee consumption alters gut bacteria and digestive physiology](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1FhdkhsTjR3YVhyR29VSU9GU1M1NlI1MmsyS2hSNDlmU3V1ZEdwN3Fpc2Z4VVF1U2RxWFExREcyeDFuQkFMODU3enNuZVBXb2hiUXBlNGNES19PaVpieFdoOFlLYWpfaVRlWTZtZVhFNDY4dUZJaHUtemZiSTdlcUEyM0NvNHZpcEdQYkpXd0JOOWl5bzZjbVhfWTVXLWhrNmRlNll4T1M4eDcwcjB4NFdSeUVVY3lBT0w4?oc=5)
+
+2026-11-10
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1FhdkhsTjR3YVhyR29VSU9GU1M1NlI1MmsyS2hSNDlmU3V1ZEdwN3Fpc2Z4VVF1U2RxWFExREcyeDFuQkFMODU3enNuZVBXb2hiUXBlNGNES19PaVpieFdoOFlLYWpfaVRlWTZtZVhFNDY4dUZJaHUtemZiSTdlcUEyM0NvNHZpcEdQYkpXd0JOOWl5bzZjbVhfWTVXLWhrNmRlNll4T1M4eDcwcjB4NFdSeUVVY3lBT0w4?oc=5)
 
 ---
 
@@ -65,27 +73,11 @@ Source: [NBC 5 Chicago](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaml
 
 ---
 
-### [Meteorite that landed in Cape Cod was a 'lone wolf' from the outer solar system, scientists find](https://news.google.com/rss/articles/CBMizgFBVV95cUxOeG5KeDhham9IY0xyUmlTc0RwR0VRbjUwaTFTU0JvR0c3V1ZzYUstelV6c1lfYU52aV9yeU9PazV0Y00xeEVIamJ5Ml9oY2JyQ3lLam5wLVRtaUtzbE81a2swMU9ZdjRfMG5JZEFZVUtmWE1aeFZSVk5hVGZ6dHZsSTU2OTZhTTRWNERtZU5SS3J5OWo3Y0l5MnRSeTlvaXEzLTFKbVRKekpwNkFCZGp0NExnRlVhUUhaQUNIaFc2cUlLQV9ya0l5RFdMenNsZw?oc=5)
-
-2026-11-09
-
-Source: [Space](https://news.google.com/rss/articles/CBMizgFBVV95cUxOeG5KeDhham9IY0xyUmlTc0RwR0VRbjUwaTFTU0JvR0c3V1ZzYUstelV6c1lfYU52aV9yeU9PazV0Y00xeEVIamJ5Ml9oY2JyQ3lLam5wLVRtaUtzbE81a2swMU9ZdjRfMG5JZEFZVUtmWE1aeFZSVk5hVGZ6dHZsSTU2OTZhTTRWNERtZU5SS3J5OWo3Y0l5MnRSeTlvaXEzLTFKbVRKekpwNkFCZGp0NExnRlVhUUhaQUNIaFc2cUlLQV9ya0l5RFdMenNsZw?oc=5)
-
----
-
 ### [It’s not too late to get it: what to know about getting the flu vaccine this year - The Guardian](https://news.google.com/rss/articles/CBMifkFVX3lxTE55S09RYVJNUzc0dWw1Mm1QWWlhU2Vja1BybFI0bm40WS1GQzhlUUk0am1ta2FkWlhoTklDTFVBcmNtWV9JbHZvaWZlVnVkMTRmekk1NUVDcldsUjZ5UVRkSVJoZ0RKMVAwR2ZydW42bmJQWENOeGlsOXFkMHdEZw?oc=5)
 
 2026-11-09
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMifkFVX3lxTE55S09RYVJNUzc0dWw1Mm1QWWlhU2Vja1BybFI0bm40WS1GQzhlUUk0am1ta2FkWlhoTklDTFVBcmNtWV9JbHZvaWZlVnVkMTRmekk1NUVDcldsUjZ5UVRkSVJoZ0RKMVAwR2ZydW42bmJQWENOeGlsOXFkMHdEZw?oc=5)
-
----
-
-### [Why the simple flu shot could be a surprise weapon against cancer - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5)
-
-2026-11-08
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5)
 
 ---
 

@@ -72,11 +72,11 @@ Source: [Hays Post](https://news.google.com/rss/articles/CBMicEFVX3lxTE1iUjZfVEN
 
 ---
 
-### [Why the simple flu shot could be a surprise weapon against cancer - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5)
+### [4 Early Cancer Symptoms Doctors Say You Shouldn’t Ignore](https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1I5WFZhS0pCcFNuM1R2eDFLUUNGOGVBV1MtZ3JoQWl1TUhqNThyaHJ6QjlNamEyWXZ2Yy1hd2VnTFBXV3lZamdvb0VTUGt0djB6ODJreTBfV2JBSy1EWHBJNEFaelU5SU14RmxoV2FhT0x1U1NoUGV5R0xHcnJZS2dLbjRkaU42cUlvTVpn?oc=5)
 
-2026-11-08
+2026-11-09
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1I5WFZhS0pCcFNuM1R2eDFLUUNGOGVBV1MtZ3JoQWl1TUhqNThyaHJ6QjlNamEyWXZ2Yy1hd2VnTFBXV3lZamdvb0VTUGt0djB6ODJreTBfV2JBSy1EWHBJNEFaelU5SU14RmxoV2FhT0x1U1NoUGV5R0xHcnJZS2dLbjRkaU42cUlvTVpn?oc=5)
 
 ---
 

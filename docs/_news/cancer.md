@@ -32,6 +32,30 @@ This page brings together the latest health news about “cancer” and lists th
 
 ## Related News (13)
 
+### [New prostate cancer screening guidelines include regular testing for most older men - NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUjBTVHlQeFdIYzhwOXdNWWNxNVBOUEdadFRfR2thajQ5eWxHUWE4ZVVEUVhPZWhsTzR3TmlZLWREc21kS0dFeHlpbEdkVFBrY0t5ZTlXeGNWdDczWk1IazhycFZBX1FfNTBQeTdrOC1hVk9jTDh1a3JYVDJkclZXd1hLbFVSdjZUZjIyNkJaaTZ4d2xUWHBrRG5zWkJOd0tITTNvUUZQSGZvQQ?oc=5)
+
+2026-11-12
+
+Source: [NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUjBTVHlQeFdIYzhwOXdNWWNxNVBOUEdadFRfR2thajQ5eWxHUWE4ZVVEUVhPZWhsTzR3TmlZLWREc21kS0dFeHlpbEdkVFBrY0t5ZTlXeGNWdDczWk1IazhycFZBX1FfNTBQeTdrOC1hVk9jTDh1a3JYVDJkclZXd1hLbFVSdjZUZjIyNkJaaTZ4d2xUWHBrRG5zWkJOd0tITTNvUUZQSGZvQQ?oc=5)
+
+---
+
+### [Scientists discover a common sugar may help cancer cells break free and spread - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1xMGJNaXlhUjNTaTRaaEtCd01JOFQ1bk01N1VDVXlGYVVUU3lLUmJSb2RaS3BwSUd5aHgtS3FldGFoV0xQMm1ZcjAxY3ZiNjVNUWZQVExNaG8zYWlScWF2MGNaRHZkQWUybFM4MF91Zw?oc=5)
+
+2026-11-12
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1xMGJNaXlhUjNTaTRaaEtCd01JOFQ1bk01N1VDVXlGYVVUU3lLUmJSb2RaS3BwSUd5aHgtS3FldGFoV0xQMm1ZcjAxY3ZiNjVNUWZQVExNaG8zYWlScWF2MGNaRHZkQWUybFM4MF91Zw?oc=5)
+
+---
+
+### [New computer tool could spare tens of thousands of men from needless prostate cancer treatment - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1pRVlJManMtUDRWZnUybzFRSDgwcW1zNmR1SEYzSVJoSDRDYzJHdHBQZ3F4QlVyODN4UTdRX1dVN2NNUHFZWFliUHRXdnJqcjZCSGtsdldtVzd5Rkd3MldkbXNkYlpGNnphSkRINzA3ejlTRk05dnV0Ty01eGdsOTRxZGRXT0U2T3FqY3dnSGhKaWFJWVM4bDdqVVRVNGdMVC1DNVp1eUxCUQ?oc=5)
+
+2026-11-12
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1pRVlJManMtUDRWZnUybzFRSDgwcW1zNmR1SEYzSVJoSDRDYzJHdHBQZ3F4QlVyODN4UTdRX1dVN2NNUHFZWFliUHRXdnJqcjZCSGtsdldtVzd5Rkd3MldkbXNkYlpGNnphSkRINzA3ejlTRk05dnV0Ty01eGdsOTRxZGRXT0U2T3FqY3dnSGhKaWFJWVM4bDdqVVRVNGdMVC1DNVp1eUxCUQ?oc=5)
+
+---
+
 ### [Domain-alteration chimeras rewire oncogenic complexes in prostate cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GSmEzX1R3QUtDNjM3OGlEUTd1WVFmdllEZS0zNmxoMWFjYVNMaFl5UktXNGZFQ2VJbVhqa1hvR09TaFktZExoVkJqX3dQTW5WUHBwbDltbVVMZi04ZUs0?oc=5)
 
 2026-11-11
@@ -40,11 +64,27 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GSmEzX1R3QU
 
 ---
 
-### [Israeli blood test detects early breast cancer with 95% accuracy - The Times of Israel](https://news.google.com/rss/articles/CBMimgFBVV95cUxORXlYTXBmcmxQdjdsX1RRamlHU2hadUMtRlkwSGphWC03NGwybF9GVXFuUlZ4WG1tNml1WS01XzF3NjlFLTJaWjZJTms5aWJZbjJTQWRobmU2UV94TUZyTUF6aFBmekRtcXdXZXUwWmYwcWgxWlBQSVplRTJNWmpjR24zdTF5Z0Zuc1JIUEZwUU91bHFuTERSLWZ30gGfAUFVX3lxTE5Gamo3QXhZRnl2SlBYVmE1UFRIdFY4bnZpRENQR2ZPT2V4MjZJT2VEN2NaVG1SQVEtZFpOTmdvNUFoTU8xaWdzN2RBYlR4VVBiQVFZc0NmLXhEdzVKdHIyLU5Zc1ZLVW9uMGJtR3BTY2Q1NDZ3bTY5dDlXM3djc1E3dEVLakpiV3AxNEhjdmdrZ3J4cnVmbDNMRi0tZktacw?oc=5)
+### [Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmd0xfSDVzcU1HNk5SOG9BVmk3TTdreWpCNzh5b2U1WTVfWHpTQms3bV9BOHEzM1ZzU2VIc0xnNmhTRHJwQWxORk1xWUdkaXl3SHV2OURmcGNld2pvTXdJ?oc=5)
 
 2026-11-11
 
-Source: [The Times of Israel](https://news.google.com/rss/articles/CBMimgFBVV95cUxORXlYTXBmcmxQdjdsX1RRamlHU2hadUMtRlkwSGphWC03NGwybF9GVXFuUlZ4WG1tNml1WS01XzF3NjlFLTJaWjZJTms5aWJZbjJTQWRobmU2UV94TUZyTUF6aFBmekRtcXdXZXUwWmYwcWgxWlBQSVplRTJNWmpjR24zdTF5Z0Zuc1JIUEZwUU91bHFuTERSLWZ30gGfAUFVX3lxTE5Gamo3QXhZRnl2SlBYVmE1UFRIdFY4bnZpRENQR2ZPT2V4MjZJT2VEN2NaVG1SQVEtZFpOTmdvNUFoTU8xaWdzN2RBYlR4VVBiQVFZc0NmLXhEdzVKdHIyLU5Zc1ZLVW9uMGJtR3BTY2Q1NDZ3bTY5dDlXM3djc1E3dEVLakpiV3AxNEhjdmdrZ3J4cnVmbDNMRi0tZktacw?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmd0xfSDVzcU1HNk5SOG9BVmk3TTdreWpCNzh5b2U1WTVfWHpTQms3bV9BOHEzM1ZzU2VIc0xnNmhTRHJwQWxORk1xWUdkaXl3SHV2OURmcGNld2pvTXdJ?oc=5)
+
+---
+
+### [Evolutionary dynamics in the years preceding acute myeloid leukaemia](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FMTdnbDhmS19TdUNXMThNWmMwb3JrOWZtVDJNaTVVV1VyOHJza1VWckxIaTBpeFpwcUNqeFRycEZSTEVnYkF4dE01SnJodmdJUVN3cl9SVzhkVml1X3Mw?oc=5)
+
+2026-11-11
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FMTdnbDhmS19TdUNXMThNWmMwb3JrOWZtVDJNaTVVV1VyOHJza1VWckxIaTBpeFpwcUNqeFRycEZSTEVnYkF4dE01SnJodmdJUVN3cl9SVzhkVml1X3Mw?oc=5)
+
+---
+
+### [Saturation genome editing of BRCA1 across cell types improves interpretation of variant pathogenicity](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xdGl4SXQ5X3J6VG5vSzFxa0JDM3UybzFsMFU1VmdiTzBQdmZOVmFQelpwVWMwazBOTklUQk9qR3pYeHptV3p0V0plZXpmLXNFcDFOdkdRejBSNmtpY2ZJ?oc=5)
+
+2026-11-11
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xdGl4SXQ5X3J6VG5vSzFxa0JDM3UybzFsMFU1VmdiTzBQdmZOVmFQelpwVWMwazBOTklUQk9qR3pYeHptV3p0V0plZXpmLXNFcDFOdkdRejBSNmtpY2ZJ?oc=5)
 
 ---
 
@@ -72,14 +112,6 @@ Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.c
 
 ---
 
-### [Ebola tops 11,000 cases in Congo's deadliest outbreak](https://news.google.com/rss/articles/CBMic0FVX3lxTE51N250eUlqeDFJZElKOHFCTktKcW9XbXdxeHBlMV9XNnhXRzczUFh0REVEQ1d0TTRwRm9zdXpxaXJnakJfcjJWelB6dzdCVXd5TGFJTHc3SUgwQVpxSmU2V2JENkhoN1RDcHQ5eXZmY1pRMXM?oc=5)
-
-2026-11-11
-
-Source: [NPR](https://news.google.com/rss/articles/CBMic0FVX3lxTE51N250eUlqeDFJZElKOHFCTktKcW9XbXdxeHBlMV9XNnhXRzczUFh0REVEQ1d0TTRwRm9zdXpxaXJnakJfcjJWelB6dzdCVXd5TGFJTHc3SUgwQVpxSmU2V2JENkhoN1RDcHQ5eXZmY1pRMXM?oc=5)
-
----
-
 ### [Cancer-fighting chewing gum slashes HPV levels by up to 93% - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9ldU54V3pZb19Ra1dpYlJKSlZWN3lKelFLOUhNaFhPNTZIZVNaeWFXQlVQczYxQkhzRzNKVnZhVTNqaE1fLWRRNnczcTd6ZzQ2QTBxVkk4SWF2aXFQU0djaFVTQThYV3RwdXY3QUR3NA?oc=5)
 
 2026-11-11
@@ -96,43 +128,11 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTDdxNFF0UG1
 
 ---
 
-### [Strong immune system can prevent prostate cancer, Oxford study finds - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUZmMVUyenU0NUFybmNIckM4bW9iZWpiWkE4RzVNQ2xoVmtXZW9jVkxncThpakVzR2h6cjRzVzVWNVYwTWtYYlBvSl9YbGo2U1dGOEVySmhyTXVSSGU3cVVCQkdvOGp2SFhwUXl2Vmh3UFdmVEJYY1ZaWmFnVVp6cHB0UVZvMjlLNW81dkZPbGJrVi1EMnhNN0xiam1RM25yV1NPWg?oc=5)
+### [Aggressive cancer type linked to common chemical exposure in new study - New York Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxObi12NU1DYVlBb24wWHBCTTlCUm92WWxneU5QSFVLcWRRRmpXQVpBak1RTTJ6NEJHV0stdGxRa3hlNmZsaEQ2TmxkZkdTT2w4Q0ZIV0pESXVucy1HY0dvU0xrSGVoTEFySDlnVGhGVHVOd21RVlBNeE1RQTRFYnpGckM0TnBMWkk4TDlRZUlSTkVmM2U3WHRnWFByQlNNbjdBWm9qVHdsbXAzdlZH?oc=5)
 
 2026-11-10
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUZmMVUyenU0NUFybmNIckM4bW9iZWpiWkE4RzVNQ2xoVmtXZW9jVkxncThpakVzR2h6cjRzVzVWNVYwTWtYYlBvSl9YbGo2U1dGOEVySmhyTXVSSGU3cVVCQkdvOGp2SFhwUXl2Vmh3UFdmVEJYY1ZaWmFnVVp6cHB0UVZvMjlLNW81dkZPbGJrVi1EMnhNN0xiam1RM25yV1NPWg?oc=5)
-
----
-
-### [Aggressive cancer type linked to common chemical exposure in new study - Fox News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZG1IUnVOd01yd1NBUmRJellHVHptNGc1bU44cTV1YU54Q0VONDhJQVR6dlczZ2pacFl2RTN2RVZLNDhXbHQxOGRTYXBRMnRQYl9OVWtEYmoxYmplNGpDaUgwQWRqWHFGUXV6WlF4WG1ZRFo5SXMzWFVPanl0Vkd5clpLU0drd3BGbGNnamF0VjhyaWJiTjYxc2E0d9IBoAFBVV95cUxOTWtWV3RfZzR1eVRUcGV6OVRjRVkzRWJvOVJtclBHTEw5cUhHcElzRmZYVmRaX1llRE5IYkVIS2NhVFRZQUNHdjZrTUltcFdHNUg0SG5BWExFenEtSDYwTkpkR2Q1TGsyYW93bW9UOVp4ZlBwMzZSYXZqUWNPbXJSajBFdE0yLXBKVEtENWRJSVR6d2ROZEZzSjJGZkRFRk1q?oc=5)
-
-2026-11-10
-
-Source: [Fox News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZG1IUnVOd01yd1NBUmRJellHVHptNGc1bU44cTV1YU54Q0VONDhJQVR6dlczZ2pacFl2RTN2RVZLNDhXbHQxOGRTYXBRMnRQYl9OVWtEYmoxYmplNGpDaUgwQWRqWHFGUXV6WlF4WG1ZRFo5SXMzWFVPanl0Vkd5clpLU0drd3BGbGNnamF0VjhyaWJiTjYxc2E0d9IBoAFBVV95cUxOTWtWV3RfZzR1eVRUcGV6OVRjRVkzRWJvOVJtclBHTEw5cUhHcElzRmZYVmRaX1llRE5IYkVIS2NhVFRZQUNHdjZrTUltcFdHNUg0SG5BWExFenEtSDYwTkpkR2Q1TGsyYW93bW9UOVp4ZlBwMzZSYXZqUWNPbXJSajBFdE0yLXBKVEtENWRJSVR6d2ROZEZzSjJGZkRFRk1q?oc=5)
-
----
-
-### [Scientists turn protein-making errors in cancer cells into a targeted kill switch - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxPUzJMZkd2SmJ3NElPajVyNzhnci1nMjlPbUwwZ0FxR0EwREJHWVFxTUpGcHFrUDY5Tm9yaHR1RGM0cU56dVRMMUdGejBVSWY3NDZEZ3p6UFlJX0wtN1VXYzlDdHdfMDdHQWduWUMxLXI4aUYtYTZLSGFPblhCaUNvVEJFU2FEcFdNdFE?oc=5)
-
-2026-11-09
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxPUzJMZkd2SmJ3NElPajVyNzhnci1nMjlPbUwwZ0FxR0EwREJHWVFxTUpGcHFrUDY5Tm9yaHR1RGM0cU56dVRMMUdGejBVSWY3NDZEZ3p6UFlJX0wtN1VXYzlDdHdfMDdHQWduWUMxLXI4aUYtYTZLSGFPblhCaUNvVEJFU2FEcFdNdFE?oc=5)
-
----
-
-### [GoFundMe account set up to help former Wilson Elementary teacher fighting cancer - Hays Post](https://news.google.com/rss/articles/CBMicEFVX3lxTE1iUjZfVENyZktOblgzRGhkejNVTC1zdVU3Ry1QU1pjWl84d2o2aXpEbkdDXzB1X3cyVUtwYmxybW4xVFB3eTFrSGF3eTJxS3JHVmdIQzJzOFg5eG9IUG0xcFdBSWExbHh5WGk5eWJ1anY?oc=5)
-
-2026-11-09
-
-Source: [Hays Post](https://news.google.com/rss/articles/CBMicEFVX3lxTE1iUjZfVENyZktOblgzRGhkejNVTC1zdVU3Ry1QU1pjWl84d2o2aXpEbkdDXzB1X3cyVUtwYmxybW4xVFB3eTFrSGF3eTJxS3JHVmdIQzJzOFg5eG9IUG0xcFdBSWExbHh5WGk5eWJ1anY?oc=5)
-
----
-
-### [4 Early Cancer Symptoms Doctors Say You Shouldn’t Ignore](https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1I5WFZhS0pCcFNuM1R2eDFLUUNGOGVBV1MtZ3JoQWl1TUhqNThyaHJ6QjlNamEyWXZ2Yy1hd2VnTFBXV3lZamdvb0VTUGt0djB6ODJreTBfV2JBSy1EWHBJNEFaelU5SU14RmxoV2FhT0x1U1NoUGV5R0xHcnJZS2dLbjRkaU42cUlvTVpn?oc=5)
-
-2026-11-09
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1I5WFZhS0pCcFNuM1R2eDFLUUNGOGVBV1MtZ3JoQWl1TUhqNThyaHJ6QjlNamEyWXZ2Yy1hd2VnTFBXV3lZamdvb0VTUGt0djB6ODJreTBfV2JBSy1EWHBJNEFaelU5SU14RmxoV2FhT0x1U1NoUGV5R0xHcnJZS2dLbjRkaU42cUlvTVpn?oc=5)
+Source: [New York Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxObi12NU1DYVlBb24wWHBCTTlCUm92WWxneU5QSFVLcWRRRmpXQVpBak1RTTJ6NEJHV0stdGxRa3hlNmZsaEQ2TmxkZkdTT2w4Q0ZIV0pESXVucy1HY0dvU0xrSGVoTEFySDlnVGhGVHVOd21RVlBNeE1RQTRFYnpGckM0TnBMWkk4TDlRZUlSTkVmM2U3WHRnWFByQlNNbjdBWm9qVHdsbXAzdlZH?oc=5)
 
 ---
 

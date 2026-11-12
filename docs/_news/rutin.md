@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Rutin. 8 predicted indications."
 permalink: /news/rutin/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Rutin News
@@ -42,11 +42,19 @@ This page combines the AI-predicted indications for Rutin with the latest health
 
 ## Related News (12)
 
-### [New study suggests bedroom air purifier may support healthy blood sugar - The Washington Post](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOFNPNDFjNHdkSmdXVUtnckNwU3NSNEVHSklxdlc2VEU2Rk5IMGNMVlkta01HemE4M0J4WDlZWGdjV19ac2dBVWRDWXp2cmdaT0JhSWhlY3N1SGpjRUJoTXJjeXVfb3VKMlc1NGp6T2xaWmxuRmppZVNLWmh4SlNUZ0RSSDllMC11T0NNLXl5RU5RdkdGZkVBeHNBZmZKMnFzV01aV2JzUXJHUEVUbElPcmJfVlNhelhodmdXREtMUHQ?oc=5)
+### [UNC13A splice correction rescues synaptic dysfunction induced by TDP-43 loss](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3UnExZVllS1RydGlGYUlhc0ZWVVBTTkNUaG9Ea1BiZ0tzaUhKaXIwcE5GelJlWG9ucTVvYTRpWnNmOFBWQ2tPZWFQSUFUalNtRi1rZHlmUEF3ekNmX3Rv?oc=5)
 
-2026-11-11 <span class="news-indication-tag">UC</span>
+2026-11-11 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOFNPNDFjNHdkSmdXVUtnckNwU3NSNEVHSklxdlc2VEU2Rk5IMGNMVlkta01HemE4M0J4WDlZWGdjV19ac2dBVWRDWXp2cmdaT0JhSWhlY3N1SGpjRUJoTXJjeXVfb3VKMlc1NGp6T2xaWmxuRmppZVNLWmh4SlNUZ0RSSDllMC11T0NNLXl5RU5RdkdGZkVBeHNBZmZKMnFzV01aV2JzUXJHUEVUbElPcmJfVlNhelhodmdXREtMUHQ?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3UnExZVllS1RydGlGYUlhc0ZWVVBTTkNUaG9Ea1BiZ0tzaUhKaXIwcE5GelJlWG9ucTVvYTRpWnNmOFBWQ2tPZWFQSUFUalNtRi1rZHlmUEF3ekNmX3Rv?oc=5)
+
+---
+
+### [Some GLP-1 patients suffer hallucinations, other psychotic symptoms after stopping drugs - New York Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZWVyeFJ2ek5iQTBBc1dwTFNnMWFiT2tIY2lwcUZWaVJIRlVGN1RsVnBHRjk4ZXBLQ1lqU2RjcUE2Y2pja2o5Vi00ZkRzc3VoclIyVGxjLU56UGh4cVhleVU2aXh0Zk1BSk1VbWNvUGZOMWJzS3lDY0JZWW1fdW5vYzBLY1hPTVpqNmJUdEpkR2RBSDJmNmZER2NuT084YVNJb2R6Um00d0E?oc=5)
+
+2026-11-11 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZWVyeFJ2ek5iQTBBc1dwTFNnMWFiT2tIY2lwcUZWaVJIRlVGN1RsVnBHRjk4ZXBLQ1lqU2RjcUE2Y2pja2o5Vi00ZkRzc3VoclIyVGxjLU56UGh4cVhleVU2aXh0Zk1BSk1VbWNvUGZOMWJzS3lDY0JZWW1fdW5vYzBLY1hPTVpqNmJUdEpkR2RBSDJmNmZER2NuT084YVNJb2R6Um00d0E?oc=5)
 
 ---
 
@@ -58,11 +66,11 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnlCNDUy
 
 ---
 
-### [Measles cases grow among pregnant women in Pennsylvania: What to know about risks - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0NEQlZVejBJWGN2UUwyc09hYmNqX3NEemhXamFaRDNCUWsxMElOS19nMEd4RWJ2ZnVpaG14SVBINHVoUUFFcVpXeEYxZkx2NkI3eWd6X18tRFNENng5ZXBld3I4SmZZbzVDS0RiTUJEMU1pdHhidmU2ek8zVF9sdEJ4STQ5YmIza0hidkJNVmFiWktoMWJCV3d5ZmxLeDg?oc=5)
+### [Here's Why The Dire Wolf Really Wasn't Brought Back From Extinction, Scientists Argue](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQktCRjdrQXBPLVJWQjllaWVrdkRiSThUQTJIejRLRDFkY1BiUFoyQm5SeURSVmExS0ZpU1owOGhHVWo0OGF1Y0hDcE5rSTRWaFN2anVkV01vN190X2g5TzM3ekp1RUNJSS1VRm1uRmR1M3hsQlhRMmhzdUNsUVg5N3VIZWI2cjgzRTBkR0JqOWstbl9lSUZHTkpLSXN2NkhFRTNYZGY3VFJmaHR1WE56Mw?oc=5)
 
-2026-11-10 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-11-11 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0NEQlZVejBJWGN2UUwyc09hYmNqX3NEemhXamFaRDNCUWsxMElOS19nMEd4RWJ2ZnVpaG14SVBINHVoUUFFcVpXeEYxZkx2NkI3eWd6X18tRFNENng5ZXBld3I4SmZZbzVDS0RiTUJEMU1pdHhidmU2ek8zVF9sdEJ4STQ5YmIza0hidkJNVmFiWktoMWJCV3d5ZmxLeDg?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQktCRjdrQXBPLVJWQjllaWVrdkRiSThUQTJIejRLRDFkY1BiUFoyQm5SeURSVmExS0ZpU1owOGhHVWo0OGF1Y0hDcE5rSTRWaFN2anVkV01vN190X2g5TzM3ekp1RUNJSS1VRm1uRmR1M3hsQlhRMmhzdUNsUVg5N3VIZWI2cjgzRTBkR0JqOWstbl9lSUZHTkpLSXN2NkhFRTNYZGY3VFJmaHR1WE56Mw?oc=5)
 
 ---
 
@@ -82,27 +90,19 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmh
 
 ---
 
-### [This NBC correspondent hid her bowel disease for years. Now she's sharing her story - USA Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2dTcGI2SFVReFNoODFESk1DRWpfUjNhQW8tSS0zaU95NzVORUwzcUtRZjFUb3hSNjFhaktkMjAwem95ZEx1NVRCWlVkSVZFQ2dvMzNreFozRVAtRDI0U0hrQTM2UnRUWEF2SkxpaHZTMU85ZC1BclhENVBZNi1ndTNYUkU1cGViblFGVml6aS1YWkVQenktYUlHY2xHR0dCZG4wSmF2Z0k?oc=5)
-
-2026-11-10 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">inflammatory bowel disease</span>
-
-Source: [USA Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2dTcGI2SFVReFNoODFESk1DRWpfUjNhQW8tSS0zaU95NzVORUwzcUtRZjFUb3hSNjFhaktkMjAwem95ZEx1NVRCWlVkSVZFQ2dvMzNreFozRVAtRDI0U0hrQTM2UnRUWEF2SkxpaHZTMU85ZC1BclhENVBZNi1ndTNYUkU1cGViblFGVml6aS1YWkVQenktYUlHY2xHR0dCZG4wSmF2Z0k?oc=5)
-
----
-
-### [Eating less protein could slow aging, review of 350 studies finds - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE54S05QNXZCdF9HX2t3eS1SRThzajdRd3pXTFVDRjdzU3BLZlB1NFVPd1ZjR1UyREo4RFhzRkdTdEFkblF6S0x5Y0tpU1BsRi1xZWwtREQxcHpQRTN6TnBnQjc5Yy03QXpmMXJqdnhjSQ?oc=5)
-
-2026-11-10 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE54S05QNXZCdF9HX2t3eS1SRThzajdRd3pXTFVDRjdzU3BLZlB1NFVPd1ZjR1UyREo4RFhzRkdTdEFkblF6S0x5Y0tpU1BsRi1xZWwtREQxcHpQRTN6TnBnQjc5Yy03QXpmMXJqdnhjSQ?oc=5)
-
----
-
 ### [A mysterious 93-billion-mile cosmic structure may be the wreckage of colliding worlds - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZMFV3bXhDRDI0OTNNREZXV0dCVVpUMC04WnZuMzQ5aWUtRVBmNnRVV3phSlZpRXQySGtSSy1jdWRkWGttbnZmMS04cl96clBzZDRObllrS2NsTXF0MDJhWFdjSWhmb291bFcxVWR0NA?oc=5)
 
 2026-11-10 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZMFV3bXhDRDI0OTNNREZXV0dCVVpUMC04WnZuMzQ5aWUtRVBmNnRVV3phSlZpRXQySGtSSy1jdWRkWGttbnZmMS04cl96clBzZDRObllrS2NsTXF0MDJhWFdjSWhmb291bFcxVWR0NA?oc=5)
+
+---
+
+### [‘Smartphone pinkie’ and other signs you may be using your phone too much](https://news.google.com/rss/articles/CBMidkFVX3lxTFBRbXlwa1BjaEdkNmJTSFN6a01oeTE4WXBmeWJYM251a09MWmtJS0wxOW5XOTBSc0JnaDkxNkVrOGxFSjNCZmpBck94WlpPMmpQWVY3OEZ3akhjMXUwUGRIbGlQMExJZmpXX1AwMVFtMFNNN3VBR0E?oc=5)
+
+2026-11-10 <span class="news-indication-tag">UC</span>
+
+Source: [CNN](https://news.google.com/rss/articles/CBMidkFVX3lxTFBRbXlwa1BjaEdkNmJTSFN6a01oeTE4WXBmeWJYM251a09MWmtJS0wxOW5XOTBSc0JnaDkxNkVrOGxFSjNCZmpBck94WlpPMmpQWVY3OEZ3akhjMXUwUGRIbGlQMExJZmpXX1AwMVFtMFNNN3VBR0E?oc=5)
 
 ---
 
@@ -114,27 +114,27 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFVycHI5
 
 ---
 
-### [Scientists finally discover why we learn to love bitter coffee - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1EcTNBeHRZcFlpS3k0amlXTmVVRWpUeFh3TlpvdFZDcWJNV0IzWjNCS3gwQXFvd0JIaFR6U0J1WmdBc3pFZDFLUGRNM18tRWdSUWgxbDJMSVBRQ05aRklwdVNZMWlGSkxKdEpuSDlISQ?oc=5)
+### [Go For Orbit](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kQzl1R0xIWEFvcTRFWkdmM2dhUVJQUklNQzBiaWFOeUJzdDhDeDcwWFJsdEtLYmZrTzBUc1ZJb2VRczlkdEZaVzU2Qy1RY21VdWFrYTM1TXdXRmJocEFkVFNB?oc=5)
 
-2026-11-09 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-06 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1EcTNBeHRZcFlpS3k0amlXTmVVRWpUeFh3TlpvdFZDcWJNV0IzWjNCS3gwQXFvd0JIaFR6U0J1WmdBc3pFZDFLUGRNM18tRWdSUWgxbDJMSVBRQ05aRklwdVNZMWlGSkxKdEpuSDlISQ?oc=5)
-
----
-
-### [Men and women who smoke marijuana may experience different effects, study suggests](https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3d5anhMb3JZZGpIbXdYenU0WFJwcEd5Ukl6Ml9fMnlUZks0OTlQM2F3VDdjdnQzQlRkSTBMY3hWcHpJSVlOVGRFNTN3cEdCRFdQSlZXNU9BOGkybTNVcnNOMlZKS1hpaV8tQ2g4Q0x4eUJkek1sZGRLdWdLd19DUjM0YU54dFFxNERzWVJuVlZBQQ?oc=5)
-
-2026-11-09 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Yahoo](https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3d5anhMb3JZZGpIbXdYenU0WFJwcEd5Ukl6Ml9fMnlUZks0OTlQM2F3VDdjdnQzQlRkSTBMY3hWcHpJSVlOVGRFNTN3cEdCRFdQSlZXNU9BOGkybTNVcnNOMlZKS1hpaV8tQ2g4Q0x4eUJkek1sZGRLdWdLd19DUjM0YU54dFFxNERzWVJuVlZBQQ?oc=5)
+Source: [SpaceX](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kQzl1R0xIWEFvcTRFWkdmM2dhUVJQUklNQzBiaWFOeUJzdDhDeDcwWFJsdEtLYmZrTzBUc1ZJb2VRczlkdEZaVzU2Qy1RY21VdWFrYTM1TXdXRmJocEFkVFNB?oc=5)
 
 ---
 
-### [Can diet and exercise reverse type 2 diabetes? What a new study found](https://news.google.com/rss/articles/CBMijwFBVV95cUxOTDE3WDZTcXhuQ2ZPM1hYNFVHUm1MaEdRbU9fdGlGTE1JdWItMnozSVJjZGpHeDRhYUtkTk5vOW0xWTNlaFg0TjNxOXFDc1BsaWlBVTFIS2JWMDljN2hxUktKZjRPaU9mTXA5SkZ4MUV0U1Z6LUp2WHptQzhDRGxEdmN3dG1ZLW9xYTl6NkdJcw?oc=5)
+### [Occasional male cannabis users experience stronger effects than women](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmhpUXk4eTdDc2lqZjhvNjlReXBVc0h1OG1yS2FpcGNPbVVvZ2k3aVJTbC0yZlRXQ3RxT25vVzl6VkkxQmlfZkx1TjJfWmhDcF85OGRtbVdkR1oxOTlETE1sdUN4NGZsXzA2LVFTVEh3OUVkVFFXbERIejRRNS1naGU5QmtJQ0RFTXA1RFFlMU1yaXdDZGx0SDl3ZHViTDBnSzU5X2ZKbVVPak55Mnl6RUtFY1d2VC05?oc=5)
+
+2026-11-06 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmhpUXk4eTdDc2lqZjhvNjlReXBVc0h1OG1yS2FpcGNPbVVvZ2k3aVJTbC0yZlRXQ3RxT25vVzl6VkkxQmlfZkx1TjJfWmhDcF85OGRtbVdkR1oxOTlETE1sdUN4NGZsXzA2LVFTVEh3OUVkVFFXbERIejRRNS1naGU5QmtJQ0RFTXA1RFFlMU1yaXdDZGx0SDl3ZHViTDBnSzU5X2ZKbVVPak55Mnl6RUtFY1d2VC05?oc=5)
+
+---
+
+### [Wisconsin Reports Its First Infant Death Linked To Measles In 36 Years](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEZhNFpPM2pGY01YdTBYVkZDOEJaM0VsUjM5RVMwcjRPZ3ZBUEs2bkV3a3FLNXM0UmtBbzNvR1hjZkRsQ1c0RVNjODlYZHVOOEtqTnNMWWptSTV2UmhJOTE5T1RSSEZmeE40RXVZQjRGeldERzBObllkVEllaW1rc25vdkp6STZYU3lpN0tnVU55Z9IBlwFBVV95cUxQQlh6VktsaFRpczBCZTUwanhZeGZmN0k0dVVOTVFvbEE4eUFEOVRuMURaSGxuX3A2U0phYXYwbHBDY0JnY292ZG1fb3hhYW80OTRualJqNkZhTnUwdzRiejFEclAzaWtCeW5mV2pvVm1QSGhOWlpKN2xBaXdRWEljNi02SDhuTTJhdnVDdzBMNG1xeU5xYXBF?oc=5)
 
 2026-11-06 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [CNN](https://news.google.com/rss/articles/CBMijwFBVV95cUxOTDE3WDZTcXhuQ2ZPM1hYNFVHUm1MaEdRbU9fdGlGTE1JdWItMnozSVJjZGpHeDRhYUtkTk5vOW0xWTNlaFg0TjNxOXFDc1BsaWlBVTFIS2JWMDljN2hxUktKZjRPaU9mTXA5SkZ4MUV0U1Z6LUp2WHptQzhDRGxEdmN3dG1ZLW9xYTl6NkdJcw?oc=5)
+Source: [HuffPost](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEZhNFpPM2pGY01YdTBYVkZDOEJaM0VsUjM5RVMwcjRPZ3ZBUEs2bkV3a3FLNXM0UmtBbzNvR1hjZkRsQ1c0RVNjODlYZHVOOEtqTnNMWWptSTV2UmhJOTE5T1RSSEZmeE40RXVZQjRGeldERzBObllkVEllaW1rc25vdkp6STZYU3lpN0tnVU55Z9IBlwFBVV95cUxQQlh6VktsaFRpczBCZTUwanhZeGZmN0k0dVVOTVFvbEE4eUFEOVRuMURaSGxuX3A2U0phYXYwbHBDY0JnY292ZG1fb3hhYW80OTRualJqNkZhTnUwdzRiejFEclAzaWtCeW5mV2pvVm1QSGhOWlpKN2xBaXdRWEljNi02SDhuTTJhdnVDdzBMNG1xeU5xYXBF?oc=5)
 
 ---
 

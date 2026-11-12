@@ -3,9 +3,9 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 5 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 4 articles, 1 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # CAD (heart disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,21 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
+
+### [‘A tremendous step backwards’: US could lose measles elimination status under RFK Jr’s leadership - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlJTZU90X3plSHJFUlZnYjRPZkRQNGFPX2R6MDNzTWhRVG1ackVYUVNVazVnZlNzQTF6LVZ6R0JaQ0s3bG9PRUwxZlZ1bm9Sb0VoYlk0ZmpQNk9GdG8zdmZYcDRWdlhtallrWWF5Yld0ajdjUUxKTC1NTzdxdGw4OGtMc0JYc2hmR2dHOHNPUEtMcVk?oc=5)
+
+2026-11-11
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlJTZU90X3plSHJFUlZnYjRPZkRQNGFPX2R6MDNzTWhRVG1ackVYUVNVazVnZlNzQTF6LVZ6R0JaQ0s3bG9PRUwxZlZ1bm9Sb0VoYlk0ZmpQNk9GdG8zdmZYcDRWdlhtallrWWF5Yld0ajdjUUxKTC1NTzdxdGw4OGtMc0JYc2hmR2dHOHNPUEtMcVk?oc=5)
+
+---
 
 ### [What to do if you, or someone around you, might be having a heart attack - The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHY4NEJfR0xmZlFrS2pLVVZiSEpSa2xLV0p5OFo1M0I0RVUtTmtFcElhOTZwa1NsbTdIVFBOTFJRc2hhc3hMcDdYbFNEYXpzcTFKQWIxVi0yaGVCbUlKYVpBVEpxMGNoanFzM1lTeHQwRDlGWlBCUjRjSk1RZ2w2dkZuWjRGSUxHbHBwLVNIWXZ4Z1dGS0NvaHFGT1A1bFdVUFZmM0Z1aEh4Ym9EeGRSUEViTml5Zw?oc=5)
 
 2026-11-11
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHY4NEJfR0xmZlFrS2pLVVZiSEpSa2xLV0p5OFo1M0I0RVUtTmtFcElhOTZwa1NsbTdIVFBOTFJRc2hhc3hMcDdYbFNEYXpzcTFKQWIxVi0yaGVCbUlKYVpBVEpxMGNoanFzM1lTeHQwRDlGWlBCUjRjSk1RZ2w2dkZuWjRGSUxHbHBwLVNIWXZ4Z1dGS0NvaHFGT1A1bFdVUFZmM0Z1aEh4Ym9EeGRSUEViTml5Zw?oc=5)
-
----
-
-### [U.S. on verge of losing measles-free status and Democrats brace for Stephen Miller clashes: Morning Rundown - NBC News](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVF9tVWd5YlFSaS1lYlpydWIzRzlIbHNkRHExVlNvNXZqbjJVZHNyMGpnb0dEVmhHM08zbFBHblI2OWNRMlkxLW56dGhlamRsWVUtN243a0t1eUQ2QVh4UlV1d0NUSS1KOEUtOGFfVEtNaUtUWXF6REFMSHhrZVpaNWMwT1gxbzVJUVBia1RyaGdoVDV1R3EyMVVITEwwdXVsYlVfQQ?oc=5)
-
-2026-11-11
-
-Source: [NBC News](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVF9tVWd5YlFSaS1lYlpydWIzRzlIbHNkRHExVlNvNXZqbjJVZHNyMGpnb0dEVmhHM08zbFBHblI2OWNRMlkxLW56dGhlamRsWVUtN243a0t1eUQ2QVh4UlV1d0NUSS1KOEUtOGFfVEtNaUtUWXF6REFMSHhrZVpaNWMwT1gxbzVJUVBia1RyaGdoVDV1R3EyMVVITEwwdXVsYlVfQQ?oc=5)
 
 ---
 
@@ -61,14 +61,6 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnlCNDUy
 2026-11-10
 
 Source: [CTV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaXdHME1tSk5MUmNLZzVwZ0xGc3gxRlZ6X0MzUWVwdzlXTVFiYnFNQl9OazhWaHZ0WGdCOVRmZ2U1ZHF3ZnRSSTlleUQ5Wmg0OVFSNUtFSWUzQ2VwNi1uNUF2M3VKWXhRcGpSdVlGc3pJc1NOME9Jc2xfNWdsUkRUWm1FUkFaQmp6R0k0eEVRaWxPa3NwYWoxR2RXRk0wVXVhMzlFaEVYTzRMOFU?oc=5)
-
----
-
-### [NASA space telescope plunges to Earth after two decades studying cosmic explosions - AP News](https://news.google.com/rss/articles/CBMimgFBVV95cUxNY09VZGZ6VW5RWnBqTktLTE9vSUhlVklrVXY1X09WNHJVbFdBT3VXU01ZYTlUb2JsdnlGODBfeFlLTGlFcWFjdEEtQ2FNSnJqMXlheEpHQWxNR2lzdlhTQUlDVWhKYVltbHQzZ2M4T1RBVkFCUzlWc3p1SjVHVlZQUC1BOWtVYXhSdEs3dGw3MHJCTDdZZkNJc0Nn?oc=5)
-
-2026-11-04
-
-Source: [AP News](https://news.google.com/rss/articles/CBMimgFBVV95cUxNY09VZGZ6VW5RWnBqTktLTE9vSUhlVklrVXY1X09WNHJVbFdBT3VXU01ZYTlUb2JsdnlGODBfeFlLTGlFcWFjdEEtQ2FNSnJqMXlheEpHQWxNR2lzdlhTQUlDVWhKYVltbHQzZ2M4T1RBVkFCUzlWc3p1SjVHVlZQUC1BOWtVYXhSdEs3dGw3MHJCTDdZZkNJc0Nn?oc=5)
 
 ---
 

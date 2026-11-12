@@ -127,7 +127,7 @@ The prediction rests on a model score and general pharmacology, with no register
 
 <!-- review:begin us-lic-20261106-anagrelide-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The drug's cardiovascular and other safety signals, and the cancellation of all US licenses, add further caution." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "The drug's cardiovascular and other safety signals, and the cancellation of all US licenses, add further caution." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-anagrelide-2 -->
 

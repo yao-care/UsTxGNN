@@ -120,7 +120,7 @@ The only directly relevant controlled trial (Phase 2, n=172) did not show a clea
 
 <!-- review:begin us-lic-20261031-risankizumab-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Paradoxical eczema reports add a safety concern, and the current US licence records show only cancelled entries. This supports an L2 research question, not a development recommendation." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The only directly relevant controlled trial (Phase 2, n=172) did not show a clear benefit in atopic dermatitis, and the mechanistic overlap is partial because Th2 signalling dominates. Paradoxical eczema reports add a safety concern, and the current US licence records show only cancelled entries." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-risankizumab-1 -->
 

@@ -129,7 +129,7 @@ All predictions are supported only by model scores. Tinea corporis has the best 
 
 <!-- review:begin us-lic-20261105-acetic_acid-2 -->
 
-> **Review correction (2026-11-05)**: Originally stated: "All six US authorizations are valid, but label-based safety data are missing. Tinea corporis may be pursued as a research question; the other predictions should not be pursued without new evidence." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 24 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-05)**: Originally stated: "Tinea corporis has the best indirect support (L4: historical reports and in vitro data, with plausible acidification-based antifungal activity), but it has no registered trials and no modern controlled studies. All six US authorizations are valid, but label-based safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 24 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261105-acetic_acid-2 -->
 

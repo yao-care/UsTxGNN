@@ -90,7 +90,7 @@ Approved indication text was not available.
 
 <!-- review:begin us-lic-20261106-lactulose-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All eight US authorizations are single-ingredient ANDAs and all are listed as cancelled. Approved indication text was not available." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "All eight US authorizations are single-ingredient ANDAs and all are listed as cancelled. Approved indication text was not available." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 38 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-lactulose-1 -->
 

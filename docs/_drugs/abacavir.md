@@ -78,17 +78,17 @@ Currently no related clinical trials registered.
 
 Related literature for the feline prediction:
 
-<!-- review:begin us-lic-20261105-abacavir-1 -->
-
-> **Review correction (2026-11-06)**: Originally stated: "All 7 licenses are valid. Two further cancelled solution ANDAs (Camber ANDA201107, Rising ANDA077950) are not shown." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 25 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
-
-<!-- review:end us-lic-20261105-abacavir-1 -->
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [11684314](https://pubmed.ncbi.nlm.nih.gov/11684314/) | 2002 | Animal study (combination therapy) | Antiviral Research | Zidovudine, lamivudine and abacavir combination suppressed FIV replication in vitro; FIV in cats is a model for HIV |
 
 ## US Market Information
+
+<!-- review:begin us-lic-20261105-abacavir-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 7 licenses are valid. Two further cancelled solution ANDAs (Camber ANDA201107, Rising ANDA077950) are not shown." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 25 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-abacavir-1 -->
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

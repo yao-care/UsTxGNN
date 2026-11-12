@@ -80,7 +80,7 @@ No literature is available for the top-ranked indication. For the rank 4 indicat
 
 <!-- review:begin us-lic-20261106-fosinopril-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All four authorizations are single-ingredient oral tablets and all are cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "All four authorizations are single-ingredient oral tablets and all are cancelled." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 22 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-fosinopril-1 -->
 

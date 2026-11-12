@@ -44,7 +44,7 @@ The evidence mostly reflects platinum-class drugs (cisplatin, carboplatin) rathe
 
 <!-- review:begin us-lic-20261031-platinum-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Its only US record is a cancelled homeopathic pellet product, and no approved indication is on file. / The TxGNN model predicts it may be effective for **Urinary Bladder Carcinoma**, with **5 clinical trials** and **20 publications** currently supporting this direction." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "Platinum (DrugBank DB12257) is a generic or elemental entry. Its only US record is a cancelled homeopathic pellet product, and no approved indication is on file." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-platinum-1 -->
 

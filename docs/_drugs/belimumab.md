@@ -82,7 +82,7 @@ Currently no related literature available.
 
 <!-- review:begin us-lic-20261106-belimumab-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Both authorizations are held by GlaxoSmithKline LLC and are recorded as cancelled in the data compiled for this report." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Both authorizations are held by GlaxoSmithKline LLC and are recorded as cancelled in the data compiled for this report." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-belimumab-1 -->
 
@@ -117,7 +117,7 @@ All six predictions rest on model scores alone, with no clinical trials or liter
 
 <!-- review:begin us-lic-20261106-belimumab-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of why both US BLAs are recorded as cancelled, since this affects feasibility of development / Route compatibility and similarity-to-original-indication assessments, which are still pending" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Fetal and neonatal alloimmune thrombocytopenia is the most plausible one to examine first, together with an assessment of pregnancy safety and placental transfer. / Clarification of why both US BLAs are recorded as cancelled, since this affects feasibility of development" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-belimumab-2 -->
 

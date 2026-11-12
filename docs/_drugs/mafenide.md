@@ -98,7 +98,7 @@ The prediction rests only on a model score, with no trials, no literature and no
 
 <!-- review:begin us-lic-20261031-mafenide-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The only US license is cancelled, and mafenide is a topical product with notable tissue toxicity and metabolic acidosis risk. This makes it poorly suited to a gastrointestinal indication." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 4 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests only on a model score, with no trials, no literature and no mechanistic rationale. The only US license is cancelled, and mafenide is a topical product with notable tissue toxicity and metabolic acidosis risk." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 4 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-mafenide-1 -->
 

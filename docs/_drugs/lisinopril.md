@@ -71,12 +71,6 @@ Currently no related literature available for posterolateral myocardial infarcti
 
 For context, the table below lists the most relevant publications retrieved for the other predicted indications.
 
-<!-- review:begin us-lic-20261106-lisinopril-1 -->
-
-> **Review correction (2026-11-06)**: Originally stated: "Two further ANDAs (ANDA076102, Bryant Ranch Prepack; ANDA203508, Exelan) are also cancelled. All seven licenses are oral tablets." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 39 FDA applications or NDC listings for this drug, 26 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
-
-<!-- review:end us-lic-20261106-lisinopril-1 -->
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [17047621](https://pubmed.ncbi.nlm.nih.gov/17047621/) | 2006 | Clinical study (design unconfirmed) | Kardiologiia | Lisinopril 10 mg/day reduced pulmonary hypertension and improved right ventricular systolic function in heart failure patients with ischemic heart disease and COPD (chronic pulmonary heart disease) |
@@ -86,6 +80,12 @@ For context, the table below lists the most relevant publications retrieved for 
 | [26895877](https://pubmed.ncbi.nlm.nih.gov/26895877/) | 2016 | Review/Commentary | Eur J Pediatr | Discusses ACE inhibitor use in pediatric chronic heart failure despite limited data |
 
 ## US Market Information
+
+<!-- review:begin us-lic-20261106-lisinopril-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two further ANDAs (ANDA076102, Bryant Ranch Prepack; ANDA203508, Exelan) are also cancelled. All seven licenses are oral tablets." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 39 FDA applications or NDC listings for this drug, 26 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lisinopril-1 -->
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

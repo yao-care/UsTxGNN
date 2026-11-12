@@ -93,7 +93,7 @@ Note: none of the retrieved studies directly evaluates daunorubicin in Hodgkin's
 
 <!-- review:begin us-lic-20261105-daunorubicin-1 -->
 
-> **Review correction (2026-11-05)**: Originally stated: "All three authorizations are valid, so valid single-agent or combination licenses are currently listed." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-05). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-05)**: Originally stated: "All three authorizations are valid, so valid single-agent or combination licenses are currently listed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 12 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261105-daunorubicin-1 -->
 
@@ -141,7 +141,7 @@ The evidence is only Phase 2 combination protocols and non-Hodgkin lymphoma or l
 
 <!-- review:begin us-lic-20261106-daunorubicin-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Safety data are incomplete, the drug's US licenses are all cancelled, and the cardiac and myelosuppression risks are significant." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 12 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Safety data are incomplete, the drug's US licenses are all cancelled, and the cardiac and myelosuppression risks are significant." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 12 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-daunorubicin-3 -->
 

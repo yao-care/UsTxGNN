@@ -126,7 +126,7 @@ All four predictions are L5: high model scores with no clinical or literature su
 
 <!-- review:begin us-lic-20261031-human_c1-esterase_inhibitor-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The only US license is cancelled, and the label's warnings and mechanism data are missing. The platelet-related predictions in particular have no plausible mechanistic basis." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "All four predictions are L5: high model scores with no clinical or literature support. The only US license is cancelled, and the label's warnings and mechanism data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-human_c1-esterase_inhibitor-1 -->
 

@@ -102,7 +102,7 @@ The prediction is supported only by a model score. The evidence level is L5.
 
 <!-- review:begin us-lic-20261031-ceritinib-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "No clinical trials or literature address gingival fibromatosis, no mechanistic link to ceritinib's targets is known, and the only US license is cancelled. The evidence level is L5." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The prediction is supported only by a model score. No clinical trials or literature address gingival fibromatosis, no mechanistic link to ceritinib's targets is known, and the only US license is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-ceritinib-1 -->
 

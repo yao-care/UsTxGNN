@@ -112,7 +112,7 @@ The prediction is supported only by a model score, with no clinical trials or pu
 
 <!-- review:begin us-lic-20261031-selinexor-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The only US NDA is cancelled. Package insert safety data and mechanism data are missing, and the drug's known adverse effects could plausibly worsen bone health." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The prediction is supported only by a model score, with no clinical trials or publications. The only US NDA is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-selinexor-1 -->
 

@@ -88,13 +88,13 @@ The approved indication text is not specified in the compiled data.
 
 <!-- review:begin us-lic-20261106-atomoxetine-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All six US authorizations are generic (abbreviated) applications for oral capsules, and all have been cancelled. The approved indication text is not specified in the compiled data." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "All six US authorizations are generic (abbreviated) applications for oral capsules, and all have been cancelled. The approved indication text is not specified in the compiled data." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-atomoxetine-2 -->
 
 <!-- review:begin us-lic-20261106-atomoxetine-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "One further cancelled authorization (ANDA090609, Major Pharmaceuticals) is not shown, to keep within the five-row limit." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "One further cancelled authorization (ANDA090609, Major Pharmaceuticals) is not shown, to keep within the five-row limit." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-atomoxetine-3 -->
 

@@ -90,7 +90,7 @@ The records contain no approved-indication text.
 
 <!-- review:begin us-lic-20261106-tecovirimat-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Both authorizations are listed as cancelled in the data compiled for this report. The records contain no approved-indication text." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Both authorizations are listed as cancelled in the data compiled for this report. The records contain no approved-indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-tecovirimat-1 -->
 
@@ -116,7 +116,7 @@ The hordeolum prediction has no trials, no literature and no plausible mechanism
 
 <!-- review:begin us-lic-20261106-tecovirimat-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Tecovirimat acts on an orthopoxvirus-specific protein, and hordeolum is a bacterial infection. Both US NDAs are also currently cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Tecovirimat acts on an orthopoxvirus-specific protein, and hordeolum is a bacterial infection. Both US NDAs are also currently cancelled." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-tecovirimat-2 -->
 

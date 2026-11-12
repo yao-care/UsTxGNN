@@ -83,7 +83,7 @@ The list below may be partial.
 
 <!-- review:begin us-lic-20261106-methylprednisolone-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Of the 8 licence records in the local data, 7 are valid and 1 is cancelled. The list below may be partial." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 99 FDA applications or NDC listings for this drug, 28 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Of the 8 licence records in the local data, 7 are valid and 1 is cancelled. The list below may be partial." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 99 FDA applications or NDC listings for this drug, 28 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-methylprednisolone-1 -->
 

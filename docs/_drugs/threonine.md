@@ -95,7 +95,7 @@ The prediction rests only on a model score. This evidence is at L5, the lowest l
 
 <!-- review:begin us-lic-20261031-threonine-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Route and formulation compatibility assessment, since only one cancelled liquid product exists / A review of the knowledge-graph contraindication signals (phenylketonuria and phenylalanine metabolism disorders) for any target population" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "A literature and trial search specific to threonine and gastroparesis, including preclinical studies / Route and formulation compatibility assessment, since only one cancelled liquid product exists" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-threonine-1 -->
 

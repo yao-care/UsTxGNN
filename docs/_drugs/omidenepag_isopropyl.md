@@ -101,7 +101,7 @@ The pancreatitis prediction is supported only by a model score, with no clinical
 
 <!-- review:begin us-lic-20261031-omidenepag_isopropyl-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The drug is a topical ocular product with minimal systemic exposure, and its only US authorization is cancelled. Safety and mechanism data are also incomplete, so the evaluation cannot move beyond the earliest screening stage." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The pancreatitis prediction is supported only by a model score, with no clinical trials or publications (Evidence Level L5). The drug is a topical ocular product with minimal systemic exposure, and its only US authorization is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-omidenepag_isopropyl-1 -->
 

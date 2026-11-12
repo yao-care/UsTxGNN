@@ -112,7 +112,7 @@ The prediction has no clinical trial or literature support (evidence level L5), 
 
 <!-- review:begin us-lic-20261031-acetohydroxamic_acid-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The only US product is cancelled, and the hematologic safety signals are notable. Effective antibiotic therapy also already exists for these conditions." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The prediction has no clinical trial or literature support (evidence level L5), and the mechanistic link to a lower genital tract mucosal infection is weak. The only US product is cancelled, and the hematologic safety signals are notable." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-acetohydroxamic_acid-1 -->
 

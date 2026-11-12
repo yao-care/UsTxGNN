@@ -119,7 +119,7 @@ The predicted entry is a genetic susceptibility label with no supporting trials 
 
 <!-- review:begin us-lic-20261031-flutamide-2 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Re-verification of US regulatory status, since only a cancelled license is on record / Consideration of the better-supported alternative predictions (male reproductive organ cancer, benign reproductive system neoplasm) as separate evaluations" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 6 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The full package insert warnings and contraindications, especially hepatotoxicity / Re-verification of US regulatory status, since only a cancelled license is on record" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 6 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-flutamide-2 -->
 

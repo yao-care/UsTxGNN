@@ -141,7 +141,7 @@ The high prediction score is not backed by any Hodgkin lymphoma-specific trial o
 
 <!-- review:begin us-lic-20261031-duvelisib-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The supporting evidence is from related lymphomas, several trials were withdrawn or terminated, and the only US license is cancelled. Known PI3K-class toxicities add to the caution." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The high prediction score is not backed by any Hodgkin lymphoma-specific trial or publication. The supporting evidence is from related lymphomas, several trials were withdrawn or terminated, and the only US license is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-duvelisib-1 -->
 

@@ -93,7 +93,7 @@ The approved indication text is not available in the data compiled for this repo
 
 <!-- review:begin us-lic-20261106-filgrastim-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "One further license, BLA761082 (RELEUKO, Amneal, injection, solution), is also listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "One further license, BLA761082 (RELEUKO, Amneal, injection, solution), is also listed as cancelled." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-filgrastim-1 -->
 
@@ -136,7 +136,7 @@ The prediction is supported only by the model score. No trials or literature add
 
 <!-- review:begin us-lic-20261106-filgrastim-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled status of all six US licenses and their approved indication text / A review of whether a more plausible prediction should be prioritized, such as constitutional thrombocytopenia in the setting of stem cell mobilization" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Preclinical or clinical evidence specific to platelet disorders / Clarification of the cancelled status of all six US licenses and their approved indication text" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-filgrastim-2 -->
 

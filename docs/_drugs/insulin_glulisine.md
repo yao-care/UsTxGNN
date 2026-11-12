@@ -141,7 +141,7 @@ Multiple completed Phase 3 trials and randomized studies support insulin glulisi
 
 <!-- review:begin us-lic-20261031-insulin_glulisine-2 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Confirm current US availability and licensing status (the only BLA is cancelled) / FDA package insert warnings and contraindications (a blocking data gap for safety screening)" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "**To proceed, the following is needed:** / Confirm current US availability and licensing status (the only BLA is cancelled)" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-insulin_glulisine-2 -->
 

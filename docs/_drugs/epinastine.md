@@ -120,7 +120,7 @@ The prediction for rosacea conjunctivitis rests only on a model score, with no r
 
 <!-- review:begin us-lic-20261031-epinastine-3 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Confirmation of current US availability, since the only license is cancelled / Consideration of the second-ranked prediction, **allergic urticaria** (score 0.9928, evidence level L3)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 7 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "Targeted literature and trial searches on antihistamines or mast-cell stabilizers in ocular rosacea / Confirmation of current US availability, since the only license is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 7 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-epinastine-3 -->
 

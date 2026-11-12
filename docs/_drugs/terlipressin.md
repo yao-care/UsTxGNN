@@ -116,7 +116,7 @@ The pulmonary hypertension prediction is the only one with any supporting human 
 
 <!-- review:begin us-lic-20261031-terlipressin-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Clarification of the US market status, since the only license is cancelled / Route and dosage compatibility assessment for pulmonary hypertension" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "Controlled studies of pulmonary hemodynamics and safety in pulmonary hypertension, outside the portopulmonary and neonatal settings / Clarification of the US market status, since the only license is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-terlipressin-1 -->
 

@@ -74,7 +74,7 @@ Cyclophosphamide is marketed in the United States. The list below shows 5 of the
 
 <!-- review:begin us-lic-20261105-cyclophosphamide-1 -->
 
-> **Review correction (2026-11-05)**: Originally stated: "All 12 licences on record are currently valid. The list below shows 5 of them and may be partial." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 32 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-05)**: Originally stated: "Cyclophosphamide is marketed in the United States. All 12 licences on record are currently valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 32 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261105-cyclophosphamide-1 -->
 

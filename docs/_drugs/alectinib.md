@@ -102,7 +102,7 @@ The prediction is model-only (L5), with no trials, no literature, and no plausib
 
 <!-- review:begin us-lic-20261031-alectinib-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The only NDA on record is cancelled, and the interaction burden is substantial. None of the other top-10 predictions offers a stronger signal." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The prediction is model-only (L5), with no trials, no literature, and no plausible ALK/RET-related mechanism in gingival fibromatosis. The only NDA on record is cancelled, and the interaction burden is substantial." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-alectinib-1 -->
 

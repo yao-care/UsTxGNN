@@ -86,7 +86,7 @@ Currently no related literature available.
 
 <!-- review:begin us-lic-20261106-indomethacin-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Two further cancelled entries (ANDA079175, extended-release capsule; ANDA216184, suppository) are not shown." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 75 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Two further cancelled entries (ANDA079175, extended-release capsule; ANDA216184, suppository) are not shown." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 75 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-indomethacin-2 -->
 
@@ -124,7 +124,7 @@ The prediction for brachydactyly-syndactyly syndrome rests only on a model score
 
 <!-- review:begin us-lic-20261106-indomethacin-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All US licenses in the compiled data are also cancelled. This candidate is not suitable for advancement." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 75 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "The prediction for brachydactyly-syndactyly syndrome rests only on a model score, with no trials, no literature, and no plausible mechanistic link. All US licenses in the compiled data are also cancelled." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 75 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-indomethacin-3 -->
 

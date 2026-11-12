@@ -103,7 +103,7 @@ The mechanistic rationale is strong and the TxGNN score is very high. However, t
 
 <!-- review:begin us-lic-20261106-omadacycline-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Both US NDAs are cancelled, and label warnings and contraindications were not available, so safety screening cannot yet proceed." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Both US NDAs are cancelled, and label warnings and contraindications were not available, so safety screening cannot yet proceed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-omadacycline-1 -->
 
@@ -116,7 +116,7 @@ The mechanistic rationale is strong and the TxGNN score is very high. However, t
 
 <!-- review:begin us-lic-20261106-omadacycline-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled NDA status and its commercial availability / A prospective controlled trial in macrolide-resistant *M. pneumoniae* pneumonia, with pediatric safety monitoring" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Full-text review of the two 2026 clinical studies (PMIDs 42559097 and 42370222) to confirm design, sample size and outcomes / Clarification of the cancelled NDA status and its commercial availability" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-omadacycline-2 -->
 

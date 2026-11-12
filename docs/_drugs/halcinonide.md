@@ -138,7 +138,7 @@ The prediction score is very high (0.9993), and a topical corticosteroid for lic
 
 <!-- review:begin us-lic-20261105-halcinonide-2 -->
 
-> **Review correction (2026-11-05)**: Originally stated: "The drug is marketed in the US, with all four licenses valid. Of the candidates, hypertrophic lichen planus is the most clinically plausible, and alopecia areata is the only one with any published report (1977, title only)." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 9 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-05)**: Originally stated: "However, there are no trials or literature for annular atrophic lichen planus, and skin atrophy is a listed contraindication. The drug is marketed in the US, with all four licenses valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 9 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261105-halcinonide-2 -->
 

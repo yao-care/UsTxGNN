@@ -28,6 +28,24 @@ NONE_RE = re.compile(r"^\s*(not (recorded|available|listed)|none|n/a|no (approve
 SPLIT_RE = re.compile(r"[;,/()]+|\band\b|\bor\b", re.I)
 REVIEW_RE = re.compile(r"<!-- review:begin (\S+) -->.*?<!-- review:end \1 -->", re.S)
 
+STOP = {"with", "and", "the", "for", "from", "that", "this", "other", "patients", "adults", "adult", "years", "aged", "older",
+        "treatment", "therapy", "combination", "used", "indicated", "disease", "medicinal", "products", "product", "who", "are",
+        "first", "line", "second", "third", "prior", "after", "before", "previously", "monotherapy", "alone"}
+
+
+def covered(phrase, text):
+    """英文措辭常跟仿單不同（「HIV-1 infection in adults」對「HIV-1 infected adults」）：詞組的實詞（4 字母以上、不在 STOP）
+    有七成以上出現在 text 就算有；整個詞組原樣出現也算（2026-11-12，Eu 實測整句比對 4 頁全是誤判）"""
+    if phrase in text:
+        return True
+    tok = set(re.sub(r"[^a-z0-9]+", " ", text).split())  # 仿單常把連字號存成「?」（「ALK)?positive」）、「HIV-1」寫成「HIV 1」
+    tok |= set(re.sub(r"[^a-z0-9 ]+", " ", re.sub(r"(?<=[a-z])[-?\u00a0](?=[a-z])", "", text)).split())  # 「anti-retroviral」＝antiretroviral
+    words = [w for w in re.sub(r"[^a-z0-9]+", " ", phrase).split() if len(w) >= 4 and w not in STOP]
+    if not words:
+        return True
+    stems = {x[:6] for x in tok if len(x) >= 6}  # 詞形不同（infection／infected）：前 6 個字母相同算同一詞
+    return sum(1 for w in words if w in tok or (len(w) >= 6 and w[:6] in stems)) / len(words) >= 0.7
+
 
 def phrases(cell):
     cell = re.sub(r"\*\*|\[[^\]]*\]\([^)]*\)", "", cell)
@@ -61,7 +79,7 @@ def main():
             continue
         pages += 1
         ph = phrases(m.group(1))
-        foreign = [p for p in ph if p not in own and any(p in v for k, v in bundles.items() if k != page.stem)]
+        foreign = [p for p in ph if not covered(p, own) and any(covered(p, v) for k, v in bundles.items() if k != page.stem)]
         if ph and len(foreign) * 2 >= len(ph):
             items.append({"source": SOURCE, "drug": page.stem, "file": page.name, "status": "open",
                           "claim": m.group(1).strip(), "foreign_phrases": foreign,

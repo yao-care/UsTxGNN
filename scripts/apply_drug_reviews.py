@@ -115,7 +115,8 @@ def display(s):
     s = s.strip()
     if s.startswith("|"):
         s = " / ".join(c.strip() for c in s.strip("|").split("|"))
-    s = re.sub(r"\s*\n\s*(?:[-*+]\s+|\d+\.\s+)?", " / ", s)
+    s = re.sub(r"\s*\n\s*(?:[-*+]\s+|\d+\.\s+)", " / ", s)  # 換行後是清單項目：用「 / 」接
+    s = re.sub(r"\s*\n\s*", " ", s)  # 段落內的軟換行：空格
     s = re.sub(r"^(?:[-*+]\s+|\d+\.\s+)", "", s)
     return s.replace("|", "&#124;")
 

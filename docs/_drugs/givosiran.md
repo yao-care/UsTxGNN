@@ -123,7 +123,7 @@ Hepatoportal sclerosis is supported only by a model score, with no trials, no li
 
 <!-- review:begin us-lic-20261106-givosiran-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The US NDA is also listed as cancelled. The one prediction with literature, ADP porphyria, is essentially an extension of the approved indication, and its evidence is limited to mixed case reports." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Hepatoportal sclerosis is supported only by a model score, with no trials, no literature and no plausible mechanistic link to ALAS1 silencing. The US NDA is also listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-givosiran-1 -->
 

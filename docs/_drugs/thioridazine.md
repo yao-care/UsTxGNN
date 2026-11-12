@@ -44,7 +44,7 @@ The evidence is weak, and thioridazine carries a serious cardiac (QTc) safety co
 
 <!-- review:begin us-lic-20261106-thioridazine-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Thioridazine is a phenothiazine antipsychotic whose US licences are now all cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 81 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Thioridazine is a phenothiazine antipsychotic whose US licences are now all cancelled." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 81 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-thioridazine-2 -->
 
@@ -121,7 +121,7 @@ A sixth licence, ANDA088131 (Chartwell RX), is also cancelled.
 
 <!-- review:begin us-lic-20261106-thioridazine-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "A sixth licence, ANDA088131 (Chartwell RX), is also cancelled. All six licences are oral single-ingredient products." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "A sixth licence, ANDA088131 (Chartwell RX), is also cancelled. All six licences are oral single-ingredient products." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 81 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-thioridazine-3 -->
 

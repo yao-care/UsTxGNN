@@ -63,12 +63,6 @@ The retrieved literature, however, does not study "nasal cavity disease" as a de
 
 Currently no related clinical trials registered.
 
-<!-- review:begin us-lic-20261106-chlorpheniramine-1 -->
-
-> **Review correction (2026-11-06)**: Originally stated: "Three US licence records are in the local data, and the list may be partial. They are single-ingredient products with no indication text recorded." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
-
-<!-- review:end us-lic-20261106-chlorpheniramine-1 -->
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
@@ -83,6 +77,12 @@ Currently no related clinical trials registered.
 | [2923378](https://pubmed.ncbi.nlm.nih.gov/2923378/) | 1989 | Mechanistic study | Am Rev Respir Dis | Histamine applied to the nose produced protein-rich secretions in atopic and nonatopic subjects |
 
 ## US Market Information
+
+<!-- review:begin us-lic-20261106-chlorpheniramine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Three US licence records are in the local data, and the list may be partial. They are single-ingredient products with no indication text recorded." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 70 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-chlorpheniramine-1 -->
 
 <!-- licenses:begin -->
 

@@ -98,7 +98,7 @@ The prediction rests only on a high model score. The score is likely a TxGNN mod
 
 <!-- review:begin us-lic-20261031-zanamivir-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials or literature, no plausible mechanism against bacterial pyelonephritis, and the only US license is cancelled. The score is likely a TxGNN model (deep learning) artifact." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests only on a high model score. There are no clinical trials or literature, no plausible mechanism against bacterial pyelonephritis, and the only US license is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-zanamivir-1 -->
 

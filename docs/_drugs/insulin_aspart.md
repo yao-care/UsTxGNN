@@ -124,7 +124,7 @@ Multiple completed Phase 3 trials and several systematic reviews support insulin
 
 <!-- review:begin us-lic-20261106-insulin_aspart-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "However, this is essentially an existing core use rather than new repurposing. The safety label data is missing and the US licenses are all listed as cancelled, so the drug's regulatory status needs clarifying before proceeding." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "However, this is essentially an existing core use rather than new repurposing. The safety label data is missing and the US licenses are all listed as cancelled, so the drug's regulatory status needs clarifying before proceeding." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-insulin_aspart-1 -->
 
@@ -136,7 +136,7 @@ Multiple completed Phase 3 trials and several systematic reviews support insulin
 
 <!-- review:begin us-lic-20261106-insulin_aspart-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current US marketing status, since the compiled licenses are all cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current US marketing status, since the compiled licenses are all cancelled" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-insulin_aspart-2 -->
 

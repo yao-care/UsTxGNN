@@ -156,7 +156,7 @@ Package insert warnings and contraindications were not available. Please refer t
 
 <!-- review:begin us-lic-20261031-rifapentine-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Clarification of US regulatory status, since the only NDA on record is cancelled. / A drug-interaction management plan, especially for antiretrovirals and the major-level interactions." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "Package insert warnings and contraindications from the FDA. / Clarification of US regulatory status, since the only NDA on record is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-rifapentine-1 -->
 

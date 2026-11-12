@@ -100,7 +100,7 @@ The bronchitis prediction rests only on a model score, with no clinical trials, 
 
 <!-- review:begin us-lic-20261031-polyethylene_glycol_400-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "PEG 400 is mainly an excipient or vehicle, and its only US authorization has been cancelled. The evidence is not sufficient to justify further development at this time." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The bronchitis prediction rests only on a model score, with no clinical trials, no literature, and no documented mechanism of action. PEG 400 is mainly an excipient or vehicle, and its only US authorization has been cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-polyethylene_glycol_400-1 -->
 

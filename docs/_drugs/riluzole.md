@@ -117,7 +117,7 @@ The prediction for bilateral parasagittal parieto-occipital polymicrogyria is su
 
 <!-- review:begin us-lic-20261105-riluzole-2 -->
 
-> **Review correction (2026-11-05)**: Originally stated: "All US authorizations are valid. The more plausible candidates are the ALS-related motor neuron conditions, which could be framed as research questions." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 12 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-05)**: Originally stated: "There are no trials or literature, and the mechanistic link is speculative. All US authorizations are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 12 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261105-riluzole-2 -->
 

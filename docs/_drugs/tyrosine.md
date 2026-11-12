@@ -113,7 +113,7 @@ The top prediction, cauda equina syndrome, is supported only by the model score,
 
 <!-- review:begin us-lic-20261031-tyrosine-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The only drug license on record is cancelled. POTS is the sole prediction that merits follow-up, as a research question rather than a candidate for development." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The same is true of the other predictions, and several (hyperthyroidism, hyperthyroxinemia, THRB resistance) run against known biology. The only drug license on record is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-tyrosine-1 -->
 

@@ -96,7 +96,7 @@ The records contain no approved-indication text. The five main authorisations ar
 
 <!-- review:begin us-lic-20261106-bupropion-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All 13 US licences found are generic applications (ANDAs), and all are cancelled. The records contain no approved-indication text." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 73 FDA applications or NDC listings for this drug, 45 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "All 13 US licences found are generic applications (ANDAs), and all are cancelled. The records contain no approved-indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 73 FDA applications or NDC listings for this drug, 45 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-bupropion-1 -->
 
@@ -131,7 +131,7 @@ One completed Phase 3 randomised, placebo-controlled trial (NCT00048360) and one
 
 <!-- review:begin us-lic-20261106-bupropion-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The mechanism is plausible, but the data compiled for this report contain no mechanism-of-action record and no label safety data. The US licences are all cancelled, so the drug's regulatory position needs clarification." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 73 FDA applications or NDC listings for this drug, 45 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "The mechanism is plausible, but the data compiled for this report contain no mechanism-of-action record and no label safety data. The US licences are all cancelled, so the drug's regulatory position needs clarification." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 73 FDA applications or NDC listings for this drug, 45 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-bupropion-2 -->
 

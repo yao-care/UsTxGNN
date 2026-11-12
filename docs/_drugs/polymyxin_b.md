@@ -110,7 +110,7 @@ Approved indication text is not available in the data compiled for this report.
 
 <!-- review:begin us-lic-20261106-polymyxin_b-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All five US authorizations are generic (ANDA) injectable products and are listed as cancelled. Approved indication text is not available in the data compiled for this report." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 97 FDA applications or NDC listings for this drug, 32 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "All five US authorizations are generic (ANDA) injectable products and are listed as cancelled. Approved indication text is not available in the data compiled for this report." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 97 FDA applications or NDC listings for this drug, 32 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-polymyxin_b-1 -->
 
@@ -159,7 +159,7 @@ For bronchitis, the evidence is limited to indirect, small, or old studies and a
 
 <!-- review:begin us-lic-20261106-polymyxin_b-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "For conjunctivitis: confirmation of the current US status of polymyxin B ophthalmic products, since the injectable licenses listed are all cancelled, and evaluation of polymyxin B alone versus the combination" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 97 FDA applications or NDC listings for this drug, 32 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "For conjunctivitis: confirmation of the current US status of polymyxin B ophthalmic products, since the injectable licenses listed are all cancelled, and evaluation of polymyxin B alone versus the combination" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 97 FDA applications or NDC listings for this drug, 32 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-polymyxin_b-2 -->
 

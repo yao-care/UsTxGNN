@@ -97,7 +97,7 @@ The mechanism is plausible and the existing literature (mostly procedural nasal 
 
 <!-- review:begin us-lic-20261031-xylometazoline-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "However, no clinical trials are registered, the evidence is largely indirect, and the only US licence is cancelled. Label safety data are also missing, which blocks the safety screening step." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The mechanism is plausible and the existing literature (mostly procedural nasal preparation and rhinomanometry studies) is consistent with a decongestant effect. However, no clinical trials are registered, the evidence is largely indirect, and the only US licence is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-xylometazoline-1 -->
 

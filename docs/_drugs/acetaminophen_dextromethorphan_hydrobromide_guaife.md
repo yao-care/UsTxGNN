@@ -117,7 +117,7 @@ TxGNN cannot process multi-ingredient combinations without individual DrugBank n
 
 <!-- review:begin us-lic-20261105-acetaminophen_dextromethorphan_hydrobromide_guaife-3 -->
 
-> **Review correction (2026-11-05)**: Originally stated: "**Retrieve Taiwan regulatory status per component**: Each ingredient may have individual TFDA licenses even if the fixed-dose combination does not / **Obtain safety data**: Query DrugBank API per component to retrieve MOA, warnings, contraindications, and DDI profiles" Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-05)**: Originally stated: "**Aggregate component-level predictions**: Identify diseases that appear in the top predictions for two or more components simultaneously, as these represent the most actionable combinatorial repurposing signals / **Retrieve Taiwan regulatory status per component**: Each ingredient may have individual TFDA licenses even if the fixed-dose combination does not" Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261105-acetaminophen_dextromethorphan_hydrobromide_guaife-3 -->
 

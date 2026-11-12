@@ -128,7 +128,7 @@ The high TxGNN score is not backed by any trial or B-cell-specific study. The li
 
 <!-- review:begin us-lic-20261105-bexarotene-2 -->
 
-> **Review correction (2026-11-05)**: Originally stated: "All 9 US authorizations are valid, and the drug is marketed. The same data show that Sézary syndrome (a T-cell variant) has far stronger bexarotene evidence, including a terminated Phase 3 trial." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 11 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-05)**: Originally stated: "The literature mentions bexarotene only for T-cell disease, and the RXR mechanism cannot be assumed to apply to B-cell lymphoma. All 9 US authorizations are valid, and the drug is marketed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 11 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261105-bexarotene-2 -->
 
@@ -142,7 +142,7 @@ The high TxGNN score is not backed by any trial or B-cell-specific study. The li
 
 <!-- review:begin us-lic-20261106-bexarotene-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Verification of current US commercial availability, given the cancelled status of all authorizations" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Verification of current US commercial availability, given the cancelled status of all authorizations" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-bexarotene-3 -->
 

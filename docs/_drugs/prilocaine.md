@@ -44,7 +44,7 @@ The evidence is early-stage: small, uncontrolled studies, mostly of the lidocain
 
 <!-- review:begin us-lic-20261106-prilocaine-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Its only US authorization on record is a dental injectable. / The TxGNN model predicts it may be effective for **Neuralgia** (the most evidence-supported of 10 predictions), with **2 clinical trials** and **14 publications** currently supporting this direction." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 16 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "Prilocaine is an amide local anesthetic. Its only US authorization on record is a dental injectable." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 16 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-prilocaine-2 -->
 
@@ -141,7 +141,7 @@ Neuralgia is the best-supported prediction (L3), but the evidence consists of sm
 
 <!-- review:begin us-lic-20261031-prilocaine-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The only US authorization is cancelled, and no mechanism or label safety data were available. The other nine predictions have either no evidence (L5) or only indirect or safety-oriented evidence (L4)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 16 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "Neuralgia is the best-supported prediction (L3), but the evidence consists of small, early, uncontrolled studies of the lidocaine/prilocaine combination, and the open trial only tested pre-treatment tolerability. The only US authorization is cancelled, and no mechanism or label safety data were available." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 16 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-prilocaine-1 -->
 

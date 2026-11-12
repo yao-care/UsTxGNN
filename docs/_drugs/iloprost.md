@@ -129,7 +129,7 @@ The mechanism is the same as in the approved PAH indication, and several cohort 
 
 <!-- review:begin us-lic-20261031-iloprost-2 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Confirmation of a currently marketed US iloprost product, since the only NDA listed is cancelled / Patient selection criteria, hemodynamic monitoring, and attention to shunt physiology" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "Detailed mechanism of action data (MOA) from DrugBank / Confirmation of a currently marketed US iloprost product, since the only NDA listed is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-iloprost-2 -->
 

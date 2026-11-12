@@ -101,7 +101,7 @@ The bronchitis prediction rests only on a model score, with no trials or literat
 
 <!-- review:begin us-lic-20261031-besifloxacin-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The drug is available only as an ophthalmic suspension with minimal systemic exposure, and its only US license is cancelled. Most bronchitis is viral." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The bronchitis prediction rests only on a model score, with no trials or literature. The drug is available only as an ophthalmic suspension with minimal systemic exposure, and its only US license is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-besifloxacin-1 -->
 

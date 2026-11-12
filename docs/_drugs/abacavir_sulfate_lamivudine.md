@@ -72,7 +72,7 @@ The TxGNN pipeline requires a valid DrugBank ID and a mapped drug node in the kn
 
 <!-- review:begin us-lic-20261105-abacavir_sulfate_lamivudine-2 -->
 
-> **Review correction (2026-11-05)**: Originally stated: "**No Taiwan TFDA registration**: TFDA query returned 0 results (query ID 1), meaning this combination is not approved or registered in Taiwan's drug database. / **DDI data not found**: No drug-drug interaction data was retrievable under this combined query string." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-05)**: Originally stated: "Each component (Abacavir: DB01048; Lamivudine: DB00709) has individual DrugBank records, but the combination query failed. / **No Taiwan TFDA registration**: TFDA query returned 0 results (query ID 1), meaning this combination is not approved or registered in Taiwan's drug database." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261105-abacavir_sulfate_lamivudine-2 -->
 
@@ -145,7 +145,7 @@ The TxGNN pipeline was unable to generate any repurposing predictions for this d
 
 <!-- review:begin us-lic-20261105-abacavir_sulfate_lamivudine-5 -->
 
-> **Review correction (2026-11-05)**: Originally stated: "**Confirm Taiwan regulatory status**: Verify whether any generics or branded combinations are pending TFDA registration. / **Populate MOA data**: Query DrugBank API for mechanism of action entries for each component to enable mechanistic plausibility analysis." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-05)**: Originally stated: "Submit individual INN names to DrugBank API to retrieve DrugBank IDs. / **Confirm Taiwan regulatory status**: Verify whether any generics or branded combinations are pending TFDA registration." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261105-abacavir_sulfate_lamivudine-5 -->
 

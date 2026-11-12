@@ -109,7 +109,7 @@ The prediction rests only on a computational score, with no clinical trials or r
 
 <!-- review:begin us-lic-20261031-erdafitinib-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The only US license is cancelled, and the label warnings and original indication data are missing. Safety screening cannot proceed without the package insert." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests only on a computational score, with no clinical trials or relevant literature, and the evidence level is L5. The only US license is cancelled, and the label warnings and original indication data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-erdafitinib-1 -->
 

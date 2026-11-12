@@ -109,7 +109,7 @@ The only support for ADHD is a single uncontrolled 1996 observational study and 
 
 <!-- review:begin us-lic-20261106-protriptyline-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Limited safety data, a heavy interaction burden, and cancelled-only US market status further limit feasibility. The decision stage remains at S0 (initial screening)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "The only support for ADHD is a single uncontrolled 1996 observational study and a mechanistic inference, with no registered trials. Limited safety data, a heavy interaction burden, and cancelled-only US market status further limit feasibility." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-protriptyline-1 -->
 
@@ -122,7 +122,7 @@ The only support for ADHD is a single uncontrolled 1996 observational study and 
 
 <!-- review:begin us-lic-20261106-protriptyline-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "A plan for drug supply and regulatory pathway, given that both US authorizations are cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-06)**: Originally stated: "A plan for drug supply and regulatory pathway, given that both US authorizations are cancelled" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-protriptyline-2 -->
 

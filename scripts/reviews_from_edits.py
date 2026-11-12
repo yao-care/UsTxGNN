@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""把藥物頁正文的刪改轉成查核紀錄（docs/_data/drug_reviews.json 的 action: correct）（2026-11-12 建，本站查核機制）。
+"""把藥物頁正文的刪改轉成查核紀錄（docs/_data/drug_reviews.json 的 action: correct）（2026-11-12 建，本站查核機制；推廣到其他站時補的修正 2026-11-12 收回，以 SgTxGNN 版為準）。
 
 為什麼要有這支：
-  2026-10-31 與 2026-11-05～06 依成分重建許可證後，正文裡跟新事實矛盾的句子是直接刪掉（只刪矛盾子句）的，
+  2026-10-31～11-06 許可證修正時，正文裡跟新事實矛盾的句子是直接刪掉（只刪矛盾子句）的，
   頁面上看不出改過什麼，下次 scripts/sync_notes_to_docs.py 依 notes 重寫整頁時也會被蓋回去。
   用戶 2026-11-12 決定：這些刪改轉成查核紀錄（頁面上顯示 Review correction 框與 Review Log），以後的刪句也一樣。
   兩種用法共用同一套抽取規則：
@@ -24,7 +24,8 @@
   - 其他找不到的 → 不寫入，列在輸出，交人工判斷。
 
 用法（repo 根目錄）：
-  python3 scripts/reviews_from_edits.py --git [--write]            # 歷史的 12 次刪改（COMMITS）
+  python3 scripts/reviews_from_edits.py --git [--write]            # 歷史的刪改（COMMITS）
+  python3 scripts/reviews_from_edits.py --git --also-dirs 前目錄 YYYY-MM-DD 說明 [--write]   # 歷史＋還沒 commit 的刪改一起合併
   python3 scripts/reviews_from_edits.py --dirs 前目錄 後目錄 --date YYYY-MM-DD --commit 說明 [--write]
 沒有 --write 只列出結果，不寫檔。寫入後跑 python3 scripts/apply_drug_reviews.py。
 """
@@ -43,9 +44,15 @@ DATA = ROOT / "docs" / "_data" / "drug_reviews.json"
 FIXES = ROOT / "scripts" / "license_sentence_fixes.json"
 SNAP = ROOT / "snapshots" / "us_licenses.json.gz"
 sys.path.insert(0, str(ROOT / "scripts"))
-import sync_license_tables as S  # noqa: E402
+try:
+    import sync_license_tables as S  # noqa: E402  有程式許可證表的站才有
+except ImportError:
+    S = None
+BEGIN, END = "<!-- licenses:begin -->", "<!-- licenses:end -->"
+PROGRAM_TEXT = [S.SHOW_RX, re.compile("^" + re.escape(S.NONE_LINE) + "$")] if S else []  # 程式產生、不算正文的整行文字（表下說明句等）
 
 # 歷史的許可證刪改（git log docs/_drugs，2026-10-31～11-06；排程狀態格、排除表、AI 重產、description、noindex、表格空行不算）
+# 本站逐筆確認：10-31 cf6f7083b、11-06 c5383d8fd／454913d87／2a67edbd9／ce4c83d64／de5ee6aba／9fc1fd322
 COMMITS = ["e9e48938", "9438c3e5", "9f0285b5", "cbf579b6", "583162a5", "d484ac0c", "0b718c59", "89049662",
            "6ae3e49c", "1c604098", "dbfac67a", "d7cfcd0b"]
 # 期間內以 AI 整份重產報告的提交：之前的刪改在這些頁上可能已因重產而消失
@@ -66,12 +73,12 @@ def body(t):
         e = t.find("\n---", 3)
         t = t[e + 4:] if e >= 0 else t
     t = BLOCK_RE.sub("", t)
-    return t.replace(S.BEGIN, "").replace(S.END, "")
+    return t.replace(BEGIN, "").replace(END, "")
 
 
 def is_prose(p):
     s = p.strip()
-    return bool(s) and not s.startswith("|") and not s.startswith("{:") and not S.SHOW_RX.match(s) and s != S.NONE_LINE \
+    return bool(s) and not s.startswith("|") and not s.startswith("{:") and not any(r.match(s) for r in PROGRAM_TEXT) \
         and not s.startswith("<!--") and not s.startswith("#")
 
 
@@ -118,7 +125,12 @@ def in_para(a, b):
                 x1, x2, y1, y2 = i1 - k1, i2 + k2, j1 - k1, j2 + k2
                 if x1 < 0 or y1 < 0 or x2 > len(ta) or y2 > len(tb) or y2 == y1:
                     continue
-                cands.append((k1 + k2, (a[sa[x1][0]:sa[x2 - 1][1]] if x2 > x1 else "", b[sb[y1][0]:sb[y2 - 1][1]])))
+                ca0, ca1 = (sa[x1][0], sa[x2 - 1][1]) if x2 > x1 else (sa[x1][0], sa[x1][0]) if x1 < len(sa) else (len(a), len(a))
+                cb0, cb1 = sb[y1][0], sb[y2 - 1][1]
+                # 替換要剛好把 a 變成 b：claim 與 replacement 兩端緊鄰的字元要一樣（往後帶一句時，原句前的空格會留下、
+                # 句後的換行被吃掉，套用後清單少一個換行；2026-11-12 Eu brigatinib）
+                exact = a[ca0 - 1:ca0] == b[cb0 - 1:cb0] and a[ca1:ca1 + 1] == b[cb1:cb1 + 1]
+                cands.append(((0 if exact else 1, k1 + k2, k2), (a[ca0:ca1], b[cb0:cb1])))
         if not cands:
             continue  # 段落只剩這句又整句刪：由段落層級處理
         cands = [c for _, c in sorted(cands, key=lambda x: x[0])]
@@ -131,10 +143,21 @@ def changes(before, after):
     """兩版頁面 → [(claim, replacement, anchor)]"""
     pa, pb = paras(body(before)), paras(body(after))
     out = []
+    rb = body(before)
+
+    def heading_of(p):
+        """原段落所在章節的標題行（「## …」）；整段刪完、段落裡只剩程式表時當錨點（框放在標題下；2026-11-12 NZ cyclizine_lactate）"""
+        k = rb.find(p)
+        if k < 0:
+            return ""
+        hs = [m.group(0) for m in re.finditer(r"^#{2,3} .+$", rb[:k], re.M)]
+        return hs[-1] if hs else ""
+
     def deleted(i, j1):
-        """整段刪掉：錨點候選＝新版前後各三段（定稿時取第一個在頁面上唯一的）"""
+        """整段刪掉：錨點候選＝新版前後各三段，最後是所屬章節的標題（定稿時取第一個在頁面上唯一的）"""
         near = [pb[j] for j in (j1 - 1, j1, j1 - 2, j1 + 1, j1 - 3, j1 + 2) if 0 <= j < len(pb)]
-        out.append([(pa[i], "", x) for x in near] or [(pa[i], "", "")])
+        h = heading_of(pa[i])
+        out.append([(pa[i], "", x) for x in near + ([h] if h else [])] or [(pa[i], "", "")])
 
     for op, i1, i2, j1, j2 in difflib.SequenceMatcher(None, pa, pb, autojunk=False).get_opcodes():
         if op == "equal" or op == "insert":
@@ -179,18 +202,21 @@ def removed_text(claim, repl):
     return " ".join(claim[i1:i2] for op, i1, i2, j1, j2 in sm.get_opcodes() if op in ("delete", "replace"))
 
 
-NUMW = r"(?:\d+|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|both|all)"
-LIC = r"(?:licen[cs]es?|authori[sz]ations?|applications?|registrations?|ANDAs?|NDAs?|BLAs?|products?|approvals?)"
+NUMW = r"(?:\d+|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|several|multiple|both|all)"
+LIC = r"(?:licen[cs]es?|authori[sz]ations?|applications?|registrations?|ANDAs?|NDAs?|BLAs?|products?|approvals?|items?|listings?|DINs?|entries|records?)"
 
 
 def classify(rm):
     if re.search(r"Taiwan|TFDA", rm, re.I):
         return "tw"
+    # 有數字＋許可字（「with 20 valid single-ingredient licences」）先判張數：錯的是張數，單方字樣只是附帶（2026-11-12 Ca）
+    if re.search(rf"\b{NUMW}\b[^.;]{{0,40}}\b{LIC}|\b{LIC}\b[^.;]{{0,30}}\b{NUMW}\b", rm, re.I):
+        return "count"
     if re.search(r"single[- ]ingredient|combination|combo|multi-ingredient", rm, re.I):
         return "combo"
     if re.search(r"cancel|discontinu|withdrawn|revoked|no (?:valid|active|current)|not (?:currently )?(?:marketed|approved|valid|active)|only cancel", rm, re.I):
         return "cancel"
-    if re.search(rf"\b{NUMW}\b[^.;]{{0,40}}\b{LIC}|\b{LIC}\b[^.;]{{0,30}}\b{NUMW}\b|\bvalid\b", rm, re.I):
+    if re.search(r"\bvalid\b", rm, re.I):
         return "count"
     if re.search(r"\b(?:as an?|available as|dosage form|topical|oral|inject|tablet|capsule|marketed)\b", rm, re.I):
         return "product"
@@ -234,12 +260,17 @@ def manual_reason(fixes, stem, claim):
 def compose(recs, cands, meta):
     """同一處前後改過多次 → 合併成一筆（claim＝最早原句、replacement＝最新版）。回傳是否已併入既有紀錄。
     合併用最小的候選比對；合併後候選只剩合併結果（再往外帶句子的候選要依新頁面重算，這裡不做）"""
-    claim, repl, anchor = cands[0]
+    # 最小候選的 claim 是空的＝純新增（例 Ca 343992d0e 補回前一次連帶刪掉的簡介）：拿第一個有 claim 的候選來比
+    claim, repl, anchor = next((c for c in cands if c[0]), cands[0])
     for r in recs:
         old = r["cands"][0][1]
         if old and claim and claim in old:
             new = [(c0, old.replace(claim, repl, 1), a0 or anchor) for c0, r0, a0 in r["cands"] if r0 == old] or \
                   [(r["cands"][0][0], old.replace(claim, repl, 1), anchor)]
+            if not new[0][1]:  # 合成後整段刪光：錨點用這次刪除的全部錨點候選（含章節標題；2026-11-12 NZ cyclizine_lactate）
+                anchors = list(dict.fromkeys([a for _, _, a in new if a] + [a for _, _, a in cands if a]))
+                anchors.sort(key=lambda a: not a.startswith("#"))  # 章節標題優先：段落刪光時框放回原章節
+                new = [(new[0][0], "", a) for a in anchors] or new
         elif old and claim and old in claim:
             new = [(c.replace(old, r["cands"][0][0], 1), rp, a) for c, rp, a in cands if old in c]
         else:
@@ -278,6 +309,8 @@ def build(pairs):
         for cands in changes(before, after):
             meta = {"date": date, "commit": commit}
             if not compose(recs, cands, meta):
+                if not cands[0][0]:
+                    continue  # 純新增、又不是補在既有紀錄上：不是更正，不轉成紀錄
                 recs.append({"cands": cands, "_meta": [meta]})
     return by
 
@@ -377,6 +410,11 @@ def main(argv):
                 b, a = show(f"{h}^", f), show(h, f)
                 if b and a:
                     pairs.append((Path(f).name, b, a, d, h))
+        if "--also-dirs" in argv:  # 還沒 commit 的刪改（改寫前目錄 → 目前頁面），接在歷史提交後面一起合併（同一處前後改過時合成一筆）
+            i = argv.index("--also-dirs")
+            bd, d, lab = Path(argv[i + 1]), argv[i + 2], argv[i + 3]
+            pairs += [(f.name, f.read_text(encoding="utf-8"), (ROOT / "docs/_drugs" / f.name).read_text(encoding="utf-8"), d, lab)
+                      for f in sorted(bd.glob("*.md")) if (ROOT / "docs/_drugs" / f.name).exists()]
         by = build(pairs)
         current = lambda fn: (ROOT / "docs/_drugs" / fn).read_text(encoding="utf-8") if (ROOT / "docs/_drugs" / fn).exists() else None
         recs, lost = finalize(by, current, regen_pages(), fixes, facts, existing)

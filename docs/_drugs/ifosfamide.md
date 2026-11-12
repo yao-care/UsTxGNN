@@ -129,7 +129,7 @@ The breast cancer evidence consists only of Phase 1/2 trials (several terminated
 
 <!-- review:begin us-lic-20261105-ifosfamide-2 -->
 
-> **Review correction (2026-11-05)**: Originally stated: "All 3 US licenses are valid, but the label indications and warnings are not available. The compiled assessment rates this as a research question rather than a candidate ready to advance." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 7 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-05)**: Originally stated: "The breast cancer evidence consists only of Phase 1/2 trials (several terminated or of unknown status) and small single-arm studies, with no Phase 3 RCT. All 3 US licenses are valid, but the label indications and warnings are not available." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 7 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261105-ifosfamide-2 -->
 

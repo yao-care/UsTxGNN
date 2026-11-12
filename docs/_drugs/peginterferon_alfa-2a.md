@@ -135,7 +135,7 @@ Peginterferon alfa-2a is an established therapy for chronic hepatitis B, with su
 
 <!-- review:begin us-lic-20261031-peginterferon_alfa-2a-2 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Confirm product availability and current regulatory status, since the only US license is cancelled / Obtain and review the package insert for warnings and contraindications (a blocking gap for safety screening)" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "**To proceed, the following is needed:** / Confirm product availability and current regulatory status, since the only US license is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-peginterferon_alfa-2a-2 -->
 

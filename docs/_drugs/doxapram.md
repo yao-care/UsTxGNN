@@ -119,7 +119,7 @@ The high TxGNN score is not backed by any clinical trial or relevant literature,
 
 <!-- review:begin us-lic-20261031-doxapram-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Several vascular conditions appear among the knowledge-graph cautions, and the only US license is cancelled. Evidence is limited to indirect, mostly preclinical or safety-related findings (L4)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "The high TxGNN score is not backed by any clinical trial or relevant literature, and the mechanism does not plausibly fit vascular disease. Several vascular conditions appear among the knowledge-graph cautions, and the only US license is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-doxapram-1 -->
 

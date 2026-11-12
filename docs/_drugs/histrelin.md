@@ -107,7 +107,7 @@ The prediction for Ambras type hypertrichosis universalis congenita has no clini
 
 <!-- review:begin us-lic-20261031-histrelin-2 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Confirmation of current regulatory and supply status, since the only NDA is cancelled / If the goal is a real use of the drug, a shift in focus to central precocious puberty, with monitoring of growth velocity, bone age and LH suppression, and follow-up for implant removal and recovery of the reproductive axis" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-10-31)**: Originally stated: "FDA package insert warnings and contraindications, to allow safety screening / Confirmation of current regulatory and supply status, since the only NDA is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261031-histrelin-2 -->
 

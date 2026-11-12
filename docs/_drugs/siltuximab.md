@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "SILTUXIMAB"
 predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "Kaposi's sarcoma (disease)", "autosomal recessive familial Mediterranean fever", "aggressive systemic mastocytosis", "autosomal dominant familial periodic fever"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Siltuximab: predicted new indication Extracutaneous mastocytoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -71,9 +71,13 @@ Currently no related literature available for extracutaneous mastocytoma.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA125496 | SYLVANT | RECORDATI RARE DISEASES, INC. | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -103,13 +107,39 @@ For other safety information, such as warnings and contraindications, please ref
 **Rationale:**
 The prediction rests only on a model score (0.9964), with no clinical trials or publications for extracutaneous mastocytoma.
 
+<!-- review:begin us-lic-20261031-siltuximab-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests only on a model score (0.9964), with no clinical trials or publications for extracutaneous mastocytoma. The mechanistic link is speculative, mastocytosis-type diseases are driven mainly by KIT signaling, and the only US license has been cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-siltuximab-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a review of IL-6 involvement in mast cell disease
 - Preclinical or literature evidence for IL-6 blockade in mastocytoma
 - FDA package insert warnings and contraindications, which are required before safety screening
 - A decision on product availability
 
+<!-- review:begin us-lic-20261106-siltuximab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A decision on product availability, since the Sylvant license is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-siltuximab-2 -->
+
 **Note on other predictions:** Kaposi's sarcoma is the most promising alternative (L4, "Research Question"). It shares pathogenic features with HHV-8-associated Castleman disease, including viral and human IL-6 dysregulation. The only publication retrieved (PMID [39970477](https://pubmed.ncbi.nlm.nih.gov/39970477/), a 2024 review in AIDS Reviews on Castleman disease) is indirect and does not study siltuximab in Kaposi's sarcoma. The remaining predictions (hepatic infarction, hepatic veno-occlusive disease, peliosis hepatis, familial Mediterranean fever, aggressive systemic mastocytosis, autosomal dominant familial periodic fever) have no supporting evidence and remain on Hold.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The mechanistic link is speculative, mastocytosis-type diseases are driven mainly by KIT signaling, and the only US license has been cancell" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since the Sylvant license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

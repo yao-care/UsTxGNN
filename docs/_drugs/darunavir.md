@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "DARUNAVIR"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Darunavir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -97,6 +97,12 @@ All four publications are nonhuman primate (SIV/rhesus macaque) studies of combi
 
 All 10 authorizations listed below are in valid status. The data compiled for this report contains no approved-indication text for any of them.
 
+<!-- review:begin us-lic-20261106-darunavir-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Five further generic ANDAs (Viona, Amneal, Dr. Reddy's, a second Camber, and NuCare) are also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 16 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-darunavir-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021976 | PREZISTA (Janssen Products LP) | Tablet, film coated | Not available in the data |
@@ -127,11 +133,38 @@ No package-insert warnings or contraindications were available in the data compi
 **Rationale:**
 The predictions come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The only supporting literature is four indirect, regimen-level nonhuman primate studies, and there are no clinical trials. SIV infection is a research model rather than a distinct human disease, and the other predictions are veterinary, mechanistically implausible, or obsolete. The drug is marketed.
 
+<!-- review:begin us-lic-20261106-darunavir-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 10 valid US licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 16 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-darunavir-3 -->
+
 **To proceed, the following is needed:**
 - Package-insert warnings and contraindications (a blocking data gap for safety screening)
 - Detailed mechanism-of-action data
 - Evidence of darunavir's individual contribution in the SIV studies, and any direct data on activity against FIV protease
 - A clear definition of the target population and the added value beyond the existing HIV indication
+
+<!-- review:begin us-lic-20261106-darunavir-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A clear definition of the target population and the added value beyond the existing HIV indication / Clarification of the cancelled US market status" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 16 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-darunavir-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Five further generic ANDAs (Viona, Amneal, Dr. Reddy's, a second Camber, and NuCare) are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Clarification of the cancelled US market status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 10 valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

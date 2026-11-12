@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1274
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "UBROGEPANT"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Ubrogepant: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
@@ -101,6 +101,12 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 Ubrogepant has strong Phase 3 evidence in acute migraine with or without aura, and brainstem aura is a closely related subtype with shared pathophysiology. However, no subtype-specific trials exist, so the evidence is indirect (L3).
 
+<!-- review:begin us-lic-20261106-ubrogepant-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, no subtype-specific trials exist, so the evidence is indirect (L3). The US market status is listed as cancelled and should be verified." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ubrogepant-1 -->
+
 **To proceed, the following is needed:**
 - Subtype-specific data (post hoc analyses or a dedicated study) in migraine with brainstem aura
 - Package insert warnings and contraindications (not yet reviewed)
@@ -109,6 +115,19 @@ Ubrogepant has strong Phase 3 evidence in acute migraine with or without aura, a
 - A review of the major CYP3A4-related drug interactions for patients on concomitant therapy
 
 **Other predictions (not recommended to advance):** Atrophoderma vermiculata (score 0.9940) and ulerythema ophryogenesis (score 0.9923) are supported only by the model prediction (L5). No trials or publications were found, and no plausible mechanistic link to CGRP receptor antagonism is evident. Decision: **Hold**.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US market status is listed as cancelled and should be verified" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

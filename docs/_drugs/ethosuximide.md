@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ETHOSUXIMIDE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ethosuximide: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -74,6 +74,20 @@ Currently no related literature available.
 
 The data compiled for this report contains no approved-indication text for them.
 
+<!-- review:begin us-lic-20261105-ethosuximide-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All seven US authorizations are valid. The data compiled for this report contains no approved-indication text for them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 10 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-ethosuximide-1 -->
+
+<!-- review:begin us-lic-20261106-ethosuximide-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two further cancelled authorizations are not listed here: ANDA211928 (Strides Pharma, capsule) and ANDA040430 (Bryant Ranch Prepack, liquid-filled capsule)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ethosuximide-3 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA040253 | ETHOSUXIMIDE | PHARM ASSOC | Syrup; oral | Valid |
@@ -83,6 +97,8 @@ The data compiled for this report contains no approved-indication text for them.
 | ANDA080258 | ZARONTIN | PARKE-DAVIS | Syrup; oral | Valid |
 
 Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -113,6 +129,27 @@ The prediction has only a model score behind it. The knowledge graph also flags 
 - Preclinical or mechanistic studies, such as renal cell or animal models of V2 receptor gain-of-function
 - A literature and trial registry search for any case reports linking ethosuximide to water balance or hyponatremia
 - Assessment of route compatibility and formulation availability
+
+<!-- review:begin us-lic-20261105-ethosuximide-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Assessment of route compatibility and formulation availability, given that all seven US authorizations are valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 10 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-ethosuximide-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All seven US authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "given that all seven US authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Two further cancelled authorizations are not listed here: ANDA211928 (Strides Pharma, capsule) and ANDA040430 (Bryant Ranch Prepack, liquid-" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

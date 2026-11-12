@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 759
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "GOLODIRSEN"
 predicted_indications: ["distal myopathy, Welander type", "nebulin-related early-onset distal myopathy", "X-linked myopathy with postural muscle atrophy"]
 description: "Golodirsen: predicted new indication Distal myopathy, Welander type (evidence level L5). Approved use: Not recorded in the local data"
@@ -90,11 +90,30 @@ Please refer to the package insert for safety information.
 **Rationale:**
 The prediction has no supporting clinical trials or literature (evidence level L5), and the mechanism of golodirsen, which is specific to dystrophin exon 53 skipping, does not apply to the TIA1-related Welander distal myopathy.
 
+<!-- review:begin us-lic-20261031-golodirsen-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction has no supporting clinical trials or literature (evidence level L5), and the mechanism of golodirsen, which is specific to dystrophin exon 53 skipping, does not apply to the TIA1-related Welander distal myopathy. In addition, the only US license is cancelled, and the package insert safety data has not been obtained." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-golodirsen-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Any preclinical or mechanistic evidence showing that an exon 53-skipping oligomer could affect TIA1-related pathology
 - Confirmation of the current US marketing status of Vyondys 53
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "In addition, the only US license is cancelled, and the package insert safety data has not been obtained" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

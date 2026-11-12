@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SELENIUM"
 predicted_indications: ["sclerosing cholangitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Selenium: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -39,6 +39,12 @@ Evidence Level: **L5** | Predicted Indications: **1**
 ## One-Sentence Summary
 
 Selenium is an essential trace element, marketed in the US as a homeopathic pellet. The label-derived indication text was not available in the data compiled for this report. The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but there are currently **0 clinical trials** and only **5 publications**, all observational, preclinical or indirect, so the evidence is very limited.
+
+<!-- review:begin us-lic-20261106-selenium-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Selenium is an essential trace element, marketed in the US mainly as selenious acid injection (trace-element supplementation) and as a homeopathic pellet." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-selenium-1 -->
 
 ## Quick Overview
 
@@ -74,6 +80,8 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDC 0220-4622 | Selenium metallicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
@@ -83,6 +91,8 @@ Currently no related clinical trials registered.
 | NDC 0220-4639 | Selenium metallicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
 
 Showing 5 of 196 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -104,6 +114,19 @@ The prediction rests only on a model score. There are no registered clinical tri
 - Mechanism-of-action data (for example, from DrugBank) to assess a mechanistic link to sclerosing cholangitis
 - Preclinical or early clinical evidence that selenium supplementation changes the course of cholestatic liver disease
 - Confirmation of the current US regulatory and supply status, and of route and dosage-form compatibility
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "mainly as selenious acid injection (trace-element supplementation) and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

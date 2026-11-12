@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "RESLIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Reslizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -78,9 +78,13 @@ For the second prediction (primary release disorder of platelets), one publicati
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA761033 | CINQAIR | TEVA RESPIRATORY LLC | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -93,11 +97,37 @@ No drug-interaction records were found, and no knowledge-graph contraindications
 **Rationale:**
 The prediction has a high model score but no clinical trials and no directly relevant literature, so the evidence level is L5.
 
+<!-- review:begin us-lic-20261031-reslizumab-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction has a high model score but no clinical trials and no directly relevant literature, so the evidence level is L5. The only US license is cancelled, and the mechanism and label safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-reslizumab-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (FDA label), a blocking gap for safety screening
 - Mechanism of action data (e.g., from DrugBank) to assess any link between IL-5/eosinophil biology and immune thrombocytopenia
 - A targeted literature search on anti-IL-5 therapy and immune thrombocytopenia or platelet function disorders
 - Clarification of current regulatory status and route compatibility (injectable only)
+
+<!-- review:begin us-lic-20261106-reslizumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of current regulatory status, given the cancelled US license, and route compatibility (injectable only)" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-reslizumab-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, and the mechanism and label safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given the cancelled US license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

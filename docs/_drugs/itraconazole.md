@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ITRACONAZOLE"
 predicted_indications: ["pneumocystosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Itraconazole: predicted new indication Pneumocystosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -69,6 +69,12 @@ Currently no related clinical trials registered.
 
 No study listed below tests itraconazole for Pneumocystis treatment. Study types are those assigned in the compiled data; "Not classified" means no type was assigned.
 
+<!-- review:begin us-lic-20261105-itraconazole-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 9 US licenses are valid, and no approved-indication text is available for them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 20 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-itraconazole-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [11737382](https://pubmed.ncbi.nlm.nih.gov/11737382/) | 2001 | Randomized, double-blind, placebo-controlled phase III trial (per title) | HIV Medicine | Itraconazole capsules for preventing deep fungal infections in HIV patients; the abstract excerpt does not report Pneumocystis outcomes |
@@ -117,12 +123,39 @@ The following come from the knowledge graph (not label text) and from drug-inter
 **Rationale:**
 The TxGNN score is high, but there are no registered clinical trials and no literature testing itraconazole against Pneumocystis. *Pneumocystis* lacks the ergosterol target of azoles, so the mechanistic rationale is weak. Evidence stays at L5 (model prediction only), and the drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-itraconazole-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Evidence stays at L5 (model prediction only), and the drug is marketed in the US with 9 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 20 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-itraconazole-3 -->
+
 **To proceed, the following is needed:**
 - Direct evidence of itraconazole activity against *Pneumocystis* (in vitro, animal, or clinical), with a plausible non-ergosterol mechanism
 - Mechanism-of-action data for itraconazole
 - US package insert warnings and contraindications for a safety screen, given the cardiac, hepatic and interaction concerns above
 - Comparison against established Pneumocystis therapy and prophylaxis (e.g. trimethoprim-sulfamethoxazole)
 - Review of route compatibility
+
+<!-- review:begin us-lic-20261106-itraconazole-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Review of the cancelled US market status and route compatibility" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 20 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-itraconazole-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 9 US licenses are valid, and no approved-indication text is available for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled US market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

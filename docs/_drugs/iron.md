@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "IRON"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Iron: predicted new indication Vitamin B12- and folate-independent constitutional megaloblastic anemia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -68,7 +68,15 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261106-iron-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The licence records may be partial." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-iron-1 -->
+
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -79,6 +87,8 @@ Currently no related literature available.
 | NDC 0220-2054 | Ferrum metallicum | Boiron | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
 
 Showing 5 of 164 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -96,6 +106,18 @@ The prediction has only a model score. No trials or publications address this di
 - Mechanism-of-action data for iron
 - Package-insert warnings and contraindications
 - A review of the major interactions with integrase inhibitors
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The licence records may be partial" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

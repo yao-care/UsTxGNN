@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "SILODOSIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Silodosin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Benign prostatic hyperplasia"
 ---
 
@@ -82,6 +82,12 @@ Currently no related literature available.
 
 The approved indication text is not available in the data compiled for this report.
 
+<!-- review:begin us-lic-20261106-silodosin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All nine US authorizations are generic (ANDA) silodosin oral capsules and all are listed as cancelled. The approved indication text is not available in the data compiled for this report." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 14 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-silodosin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | ANDA209745 | Silodosin | Capsule | AvKARE |
@@ -116,12 +122,39 @@ Please refer to the package insert for label warnings and contraindications.
 **Rationale:**
 The prediction has no clinical trial or literature support (Evidence Level L5) and no plausible mechanistic link between alpha-1A adrenergic antagonism and a congenital hair disorder. The drug is currently marketed in the US.
 
+<!-- review:begin us-lic-20261106-silodosin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is currently marketed in the US, with 9 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 14 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-silodosin-2 -->
+
 **To proceed, the following is needed:**
 - Complete mechanism of action data
 - FDA package insert warnings and contraindications, needed for safety screening
 - Preclinical or mechanistic evidence linking alpha-1A antagonism to hair follicle biology or *TRPS1* pathways
 - Clarification of whether the hypertrichosis signal reflects an adverse effect rather than a therapeutic opportunity
 - Confirmation of the regulatory pathway
+
+<!-- review:begin us-lic-20261106-silodosin-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the regulatory pathway, given that 9 US licenses are currently valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 14 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-silodosin-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All nine US authorizations are generic (ANDA) silodosin oral capsules and all are listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that 9 US licenses are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

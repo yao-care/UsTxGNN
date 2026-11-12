@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 495
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Carbamazepine: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy"
 monitor_inn: "CARBAMAZEPINE"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
@@ -94,6 +94,12 @@ The 20 retrieved publications consist of reviews, case reports and one animal st
 
 The records contain no approved indication text. The five main authorizations are listed below.
 
+<!-- review:begin us-lic-20261106-carbamazepine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 16 US licenses are recorded as valid, and the records contain no approved indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 52 FDA applications or NDC listings for this drug, 35 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-carbamazepine-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021710 | EQUETRO | Capsule, extended release | Not listed in the records |
@@ -125,6 +131,26 @@ The prediction for trigeminal nerve neoplasm has no clinical trials, and the lit
 - FDA package insert warnings and contraindications (these were flagged as a blocking gap for safety screening)
 - Confirmation of current US market status
 - If pursuing reflex epilepsy indications, a targeted review of startle epilepsy as a research question
+
+<!-- review:begin us-lic-20261106-carbamazepine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current US market status, since all records show cancelled licenses" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 52 FDA applications or NDC listings for this drug, 35 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-carbamazepine-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "since all records show cancelled licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "All 16 US licenses are recorded as valid, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

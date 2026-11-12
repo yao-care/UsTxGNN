@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "SODIUM CARBONATE"
 predicted_indications: ["cauda equina syndrome", "anaphylaxis", "food-dependent exercise-induced anaphylaxis", "obsolete neurogenic bladder (disease)", "dry eye syndrome", "ventricular tachycardia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Sodium Carbonate: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: No approved indication text on record"
 ---
 
@@ -102,12 +102,31 @@ No drug interaction records were found. Please refer to the package insert for o
 **Rationale:**
 All six predictions are supported only by the model score, with no clinical trials. The few papers retrieved are indirect, and no mechanistic link is identified for any indication.
 
+<!-- review:begin us-lic-20261031-sodium_carbonate-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The few papers retrieved are indirect, and no mechanistic link is identified for any indication. The only US license is cancelled and has no recorded indication, and package insert safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-sodium_carbonate-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for sodium carbonate
 - Package insert warnings and contraindications, to allow safety screening
 - A clearly documented original indication, to support similarity analysis
 - Route-of-administration compatibility assessment for any candidate indication
 - Direct clinical or preclinical evidence in a specific indication. Dry eye syndrome has the most indirect support so far, and the oral hygiene data would need to be confirmed and extended to the ocular setting.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled and has no recorded indication, and package insert safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

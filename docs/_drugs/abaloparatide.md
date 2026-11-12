@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "ABALOPARATIDE"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "amenorrhea (disease)", "esophageal ulcer"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Abaloparatide: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Postmenopausal osteoporosis at high risk for fracture"
 ---
 
@@ -77,9 +77,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA208743 | TYMLOS | RADIUS | Solution; subcutaneous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -97,12 +101,31 @@ Please refer to the package insert for warnings and contraindications. The knowl
 **Rationale:**
 All four predictions rest on model scores alone, with no trials or literature and no plausible biological link between PTH1R agonism and the predicted conditions.
 
+<!-- review:begin us-lic-20261031-abaloparatide-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "All four predictions rest on model scores alone, with no trials or literature and no plausible biological link between PTH1R agonism and the predicted conditions. The only US license is cancelled, and warnings and contraindications are not available." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-abaloparatide-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking for safety screening)
 - Detailed mechanism of action data
 - A mechanistic rationale connecting PTH1R signaling to the predicted esophageal or gynecologic conditions
 - Any preclinical or clinical evidence in the predicted indications
 - Route and formulation compatibility assessment (the drug is available only as an injection)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, and warnings and contraindications are not available" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

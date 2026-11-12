@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -74,6 +74,12 @@ Ingredient-level inspection suggests this may be a **homeopathic cardiac remedy*
 
 No US market authorizations are on record for this combination product.
 
+<!-- review:begin us-lic-20261105-activated_charcoal_arnica_montana_whole_arsenic_tr-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "No US market authorizations are on record for this combination product. The TFDA query on 2026-03-24 returned zero results." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-activated_charcoal_arnica_montana_whole_arsenic_tr-1 -->
+
 ---
 
 ## Safety Considerations
@@ -104,6 +110,26 @@ The TxGNN pipeline could not generate any repurposing prediction because the inp
 - **Obtain TFDA/NDA records**: If a regulatory filing exists in any jurisdiction, provide the authorization number so approval status and labeled indications can be confirmed.
 - **Resolve MOA data**: Mechanism of action data (DG002) is missing. For any individual component taken forward, DrugBank API lookup is the recommended source.
 - **Safety package**: package insert warnings and contraindications (DG001) are blocking. These must be retrieved before any clinical feasibility assessment.
+
+<!-- review:begin us-lic-20261105-activated_charcoal_arnica_montana_whole_arsenic_tr-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "**Safety package**: TFDA package insert warnings and contraindications (DG001) are blocking." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-activated_charcoal_arnica_montana_whole_arsenic_tr-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The TFDA query on 2026-03-24 returned zero results" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "TFDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

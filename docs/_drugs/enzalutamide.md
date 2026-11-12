@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 657
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "ENZALUTAMIDE"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
 description: "Enzalutamide: predicted new indication Prostate leiomyoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -114,6 +114,12 @@ For other safety information (warnings, contraindications), please refer to the 
 **Rationale:**
 The prediction has no supporting trials or publications (L5). It also overlaps with enzalutamide's existing prostate cancer indication, and there is no known androgen-receptor-driven mechanism in brain cancer.
 
+<!-- review:begin us-lic-20261106-enzalutamide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "It also overlaps with enzalutamide's existing prostate cancer indication, and there is no known androgen-receptor-driven mechanism in brain cancer. Both US NDAs are currently listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-enzalutamide-1 -->
+
 That evidence is almost entirely in prostate cancer, so it largely rediscovers the existing use rather than showing a new indication.
 
 **To proceed, the following is needed:**
@@ -121,6 +127,26 @@ That evidence is almost entirely in prostate cancer, so it largely rediscovers t
 - Any trial or mechanistic evidence of androgen receptor involvement in the predicted condition.
 - Detailed mechanism of action data and the full package insert warnings and contraindications.
 - Verification of the current US market status.
+
+<!-- review:begin us-lic-20261106-enzalutamide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Verification of the current US market status, since both NDAs are listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-enzalutamide-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both US NDAs are currently listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since both NDAs are listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

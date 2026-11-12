@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SELINEXOR"
 predicted_indications: ["drug-induced osteoporosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Selinexor: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -70,9 +70,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA212306 | XPOVIO | KARYOPHARM THERAPS | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -106,12 +110,38 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction is supported only by a model score, with no clinical trials or publications. Package insert safety data and mechanism data are missing, and the drug's known adverse effects could plausibly worsen bone health.
 
+<!-- review:begin us-lic-20261031-selinexor-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only US NDA is cancelled. Package insert safety data and mechanism data are missing, and the drug's known adverse effects could plausibly worsen bone health." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-selinexor-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking for safety screening)
 - Mechanism of action data (for example from DrugBank) to assess any biological link to bone remodeling
 - Preclinical or observational evidence on selinexor's effect on bone
 - Confirmation of the original approved indication
 - Route and formulation compatibility assessment for the proposed indication
+
+<!-- review:begin us-lic-20261106-selinexor-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the original approved indication and the reason for the NDA cancellation" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-selinexor-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and the reason for the NDA cancellation" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

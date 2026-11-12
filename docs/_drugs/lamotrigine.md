@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 831
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "LAMOTRIGINE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Lamotrigine: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Not recorded in the local data"
@@ -89,6 +89,12 @@ Both papers are only tangentially related to the predicted indication.
 
 The records contain no approved-indication text. Five representative entries are shown.
 
+<!-- review:begin us-lic-20261106-lamotrigine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 13 US licenses for single-ingredient lamotrigine are cancelled. The records contain no approved-indication text." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lamotrigine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | NDA 020764 | LAMICTAL | Tablet, for suspension | Valid |
@@ -117,12 +123,32 @@ Label-based warnings and contraindications were not compiled for this report. Pl
 **Rationale:**
 The TxGNN model (deep learning) score is very high (0.9997), but there are no clinical trials and no literature showing lamotrigine activity against a trigeminal nerve neoplasm. The score comes from the TxGNN model and may reflect similarities the model learned between related diseases, not biological evidence. The prediction appears to be driven by the drug's association with trigeminal neuralgia, which is a different condition. The drug is marketed.
 
+<!-- review:begin us-lic-20261106-lamotrigine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 13 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 61 FDA applications or NDC listings for this drug, 44 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lamotrigine-2 -->
+
 **To proceed, the following is needed:**
 - Preclinical or clinical evidence that lamotrigine has anti-tumour activity or symptomatic benefit in trigeminal nerve tumours
 - Detailed mechanism-of-action data
 - FDA package insert warnings and contraindications for a full safety screen
 
 **Note on other predictions for this drug:** The second-ranked prediction, **trigeminal neuralgia** (score 0.9989), has far stronger support. It has two completed small trials, NCT00913107 (Phase 2/3 versus carbamazepine, n=21) and NCT00203229 (placebo-controlled add-on study, n=20). Guidelines list lamotrigine as an alternative or add-on when carbamazepine fails or is not tolerated. This is a better candidate for follow-up. **Startle epilepsy** also has small case-series support for lamotrigine (Level L3).
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 13 US licenses for single-ingredient lamotrigine are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

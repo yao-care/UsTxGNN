@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "LURBINECTEDIN"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "cytomegalovirus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "malignant catarrh", "infectious bovine rhinotracheitis", "Mills syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Lurbinectedin: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -74,9 +74,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA213702 | ZEPZELCA | JAZZ | Powder; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -106,11 +110,37 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction rests only on a model score. There are no clinical trials or publications, the original indication and mechanism data are missing. The evidence level is L5.
 
+<!-- review:begin us-lic-20261106-lurbinectedin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials or publications, the original indication and mechanism data are missing, and the US license is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lurbinectedin-1 -->
+
 **To proceed, the following is needed:**
 - The FDA package insert, including approved indication, warnings and contraindications
 - Detailed mechanism of action data (for example from DrugBank)
 - A literature and trial search for lurbinectedin in neuroendocrine tumours and MEN syndromes
 - A risk-benefit assessment of cytotoxicity and the major drug interactions for the target population
+
+<!-- review:begin us-lic-20261106-lurbinectedin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled license status / A risk-benefit assessment of cytotoxicity and the major drug interactions for the target population" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lurbinectedin-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Clarification of the cancelled license status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

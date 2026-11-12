@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ZINC SULFATE, UNSPECIFIED FORM"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "bronchitis", "diabetic cataract", "dermatitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Zinc Sulfate Unspecified Form: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not stated in the available data"
 ---
 
@@ -40,6 +40,12 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**.
 Currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
+
+<!-- review:begin us-lic-20261031-zinc_sulfate_unspecified_form-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Zinc sulfate is an injectable zinc product. / The US approval record compiled for this report does not state an approved indication, and the only authorization on file is cancelled. / The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-zinc_sulfate_unspecified_form-1 -->
 
 ## Quick Overview
 
@@ -80,6 +86,8 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA214597 | ZINC SULFATE | NIVAGEN | Solution; intravenous | Valid |
@@ -89,6 +97,8 @@ Currently no related literature available.
 | ANDA217074 | ZINC SULFATE | ZYDUS PHARMS | Solution; intravenous | Valid |
 
 Showing 5 of 59 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -101,12 +111,39 @@ Please refer to the package insert for safety information. No warnings, contrain
 **Rationale:**
 The prediction has a high model score (0.9984) but no clinical trials or publications behind it, so the evidence level is L5.
 
+<!-- review:begin us-lic-20261031-zinc_sulfate_unspecified_form-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction has a high model score (0.9984) but no clinical trials or publications behind it, so the evidence level is L5. The only US authorization is cancelled, and safety information and mechanism of action are both missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 11 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-zinc_sulfate_unspecified_form-2 -->
+
 **To proceed, the following is needed:**
 - A systematic literature and trial registry search for zinc in diabetic retinopathy and the other predicted indications
 - Mechanism of action data, for example from DrugBank
 - FDA package insert warnings and contraindications, which are required before any safety screening
 - Confirmation of the original approved indication
 - A route and formulation compatibility assessment
+
+<!-- review:begin us-lic-20261106-zinc_sulfate_unspecified_form-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the original approved indication and the reason for the cancelled authorization / A route and formulation compatibility assessment, since the only known product is an injection and ocular use would likely need a different route" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-zinc_sulfate_unspecified_form-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Zinc sulfate is an injectable zinc product. The US approval record compiled for this report does not state an approved indication, and the o" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "The only US authorization is cancelled, and safety information and mechanism of action are both missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "ation and the reason for the cancelled authoriz , since the only known product is an injection and ocular use would likely need a different " | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

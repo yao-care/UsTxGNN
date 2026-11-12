@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "PHENOXYBENZAMINE"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Phenoxybenzamine: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -83,6 +83,12 @@ Currently no related literature available.
 
 Availability of the drug in the US is therefore limited.
 
+<!-- review:begin us-lic-20261106-phenoxybenzamine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All three licenses are for single-ingredient oral capsules, and all are cancelled. Availability of the drug in the US is therefore limited." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-phenoxybenzamine-1 -->
+
 ## Safety Considerations
 
 - **Contraindications flagged in the knowledge graph** (model-derived, not from label text): kidney disease, pyoureter, hypotensive disorder, coronary artery disease.
@@ -102,12 +108,39 @@ Official warnings and contraindications from the package insert were not availab
 **Rationale:**
 The prediction is supported only by the TxGNN model score, with no clinical trials or publications (Evidence Level L5). The mechanistic link is speculative, especially for a genetically driven condition such as primary hereditary glaucoma. In addition, the drug is marketed in the US and systemic alpha blockade carries safety concerns.
 
+<!-- review:begin us-lic-20261106-phenoxybenzamine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the drug is marketed in the US (3 of 3 licenses valid) and systemic alpha blockade carries safety concerns." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-phenoxybenzamine-3 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism-of-action data
 - Preclinical or literature evidence on the effect of phenoxybenzamine on intraocular pressure and aqueous humor dynamics
 - Assessment of ocular perfusion risk and a feasibility review of the route of administration (for example, a topical ophthalmic formulation versus systemic oral use)
 - Clarification of drug supply
+
+<!-- review:begin us-lic-20261106-phenoxybenzamine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of drug supply, given that the US market status is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-phenoxybenzamine-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All three licenses are for single-ingredient oral capsules, and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that the US market status is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(3 of 3 licenses valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

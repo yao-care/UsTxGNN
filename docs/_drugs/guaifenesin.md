@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 763
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "GUAIFENESIN"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
 description: "Guaifenesin: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -88,6 +88,12 @@ This is a narrative review with indirect relevance, not controlled evidence of e
 
 The drug is marketed in the US. Approved indication text is not available in the compiled data.
 
+<!-- review:begin us-lic-20261106-guaifenesin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 8 valid licences. Approved indication text is not available in the compiled data." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 29 FDA applications or NDC listings for this drug, 24 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-guaifenesin-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | ANDA213420 | Mucus Relief (NUVICARE LLC) | Tablet, extended release | Valid |
@@ -99,6 +105,12 @@ The drug is marketed in the US. Approved indication text is not available in the
 ## Safety Considerations
 
 Package insert warnings, contraindications and drug interaction data are not available in the compiled data. Please refer to the package insert for safety information.
+
+<!-- review:begin us-lic-20261106-guaifenesin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Three further cancelled licences are not listed here, including NDA021282 (Mucinex, Bryant Ranch Prepack)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 29 FDA applications or NDC listings for this drug, 24 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-guaifenesin-1 -->
 
 The knowledge graph lists the following conditions as contraindication-related associations for guaifenesin. These come from graph edges, not label text, and should be verified against the official label before any use:
 - **Cardiovascular:** hypertension
@@ -117,12 +129,33 @@ The knowledge graph lists the following conditions as contraindication-related a
 **Rationale:**
 The prediction is biologically plausible because guaifenesin is a mucus-thinning agent and nasal cavity disease is closely related to its original indications. However, there are no clinical trials, only one indirect narrative review, and no mechanism of action or label safety data. The drug is marketed in the US. The evidence does not yet support moving forward.
 
+<!-- review:begin us-lic-20261106-guaifenesin-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 8 valid licences. The evidence does not yet support moving forward." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 29 FDA applications or NDC listings for this drug, 24 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-guaifenesin-3 -->
+
 **To proceed, the following is needed:**
 - Obtain the FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Obtain mechanism of action data from DrugBank
 - Clarify which specific nasal cavity conditions are targeted, and search for controlled studies in them
 - Clarify the reasons for licence cancellation and the current regulatory pathway (e.g., OTC availability)
 - Verify the knowledge-graph contraindication associations against the official label
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Three further cancelled licences are not listed here, including NDA021282 (Mucinex, Bryant Ranch Prepack)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 8 valid licences" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 8 valid licences" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

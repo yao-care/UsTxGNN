@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 880
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "LUSUTROMBOPAG"
 predicted_indications: ["hereditary thrombocytopenia with normal platelets", "marcothrombocytopenia with mitral valve insufficiency", "transient neonatal thrombocytopenia", "dense granule disease", "platelet storage pool deficiency", "amyotrophic lateral sclerosis", "lower motor neuron syndrome with late-adult onset", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia"]
 description: "Lusutrombopag: predicted new indication Hereditary thrombocytopenia with normal platelets (evidence level L5). Approved use: Not recorded in the local data"
@@ -82,9 +82,13 @@ The model also returned nine other predictions, all at evidence level L5 with no
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA210923 | MULPLETA | VANCOCIN ITALIA | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 This limits practical access.
 
@@ -107,6 +111,12 @@ Please refer to the package insert for warnings and contraindications. That labe
 **Rationale:**
 The prediction has a high model score but no clinical trials or literature (L5). Label safety data and mechanism data are also missing.
 
+<!-- review:begin us-lic-20261031-lusutrombopag-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The disease name is internally inconsistent, and the only US authorization is cancelled. Label safety data and mechanism data are also missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-lusutrombopag-1 -->
+
 **To proceed, the following is needed:**
 - Retrieve the FDA package insert warnings and contraindications, which block safety screening
 - Obtain detailed mechanism of action data
@@ -114,6 +124,26 @@ The prediction has a high model score but no clinical trials or literature (L5).
 - Search for preclinical or clinical evidence in inherited thrombocytopenias, and define which genetic subtypes could respond
 - Assess safety in pediatric and neonatal populations if that direction is pursued
 - Confirm whether the drug can be obtained
+
+<!-- review:begin us-lic-20261106-lusutrombopag-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirm whether the drug can be obtained, given the cancelled US authorization" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lusutrombopag-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The disease name is internally inconsistent, and the only US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given the cancelled US authorization" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

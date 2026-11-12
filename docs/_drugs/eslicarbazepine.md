@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "ESLICARBAZEPINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Eslicarbazepine: predicted new indication Migraine disorder (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -87,6 +87,12 @@ No migraine-specific eslicarbazepine publication was found. The items below are 
 
 No approved-indication text is available in the compiled data.
 
+<!-- review:begin us-lic-20261106-eslicarbazepine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All seven authorizations are valid, and no approved-indication text is available in the compiled data." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-eslicarbazepine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | NDA022416 | Aptiom | Tablet | Sumitomo Pharma America, Inc. |
@@ -114,12 +120,39 @@ Please refer to the package insert for warnings and contraindications, which are
 **Rationale:**
 The only direct evidence is one completed Phase 2 migraine prevention trial whose results were not available. The mechanism is plausible but unproven, and the supporting literature is indirect. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-eslicarbazepine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 7 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-eslicarbazepine-2 -->
+
 **To proceed, the following is needed:**
 - Results of NCT01820559 (primary and secondary efficacy endpoints, safety), from the registry or publications
 - An explanation of why the drug was not developed further for migraine
 - FDA package insert warnings and contraindications
 - Mechanism of action data confirmed from DrugBank
 - Clarification of the US regulatory and availability status, since the drug is marketed
+
+<!-- review:begin us-lic-20261106-eslicarbazepine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the US regulatory and availability status, since the drug is marketed with 7 valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-eslicarbazepine-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All seven authorizations are valid, and n" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

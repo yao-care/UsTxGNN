@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "VANDETANIB"
 predicted_indications: ["renal cell carcinoma (disease)", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Vandetanib: predicted new indication Renal cell carcinoma (disease) (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
@@ -115,6 +115,18 @@ The mechanistic rationale is plausible, but the evidence is thin: one completed 
 - Mechanism-of-action data and the full package insert warnings and contraindications
 - A comparison against current standard VEGFR inhibitors for renal cell carcinoma
 - A cardiac and QT monitoring plan, and review of interacting medications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Vandetanib carries a notable QT and cardiovascular risk profile, and its only US license is cancelled" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

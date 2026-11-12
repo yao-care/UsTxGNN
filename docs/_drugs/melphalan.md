@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 896
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "MELPHALAN"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
 description: "Melphalan: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -108,12 +108,38 @@ Official package insert warnings and contraindications were not available, so pl
 **Rationale:**
 Melphalan has plausible biology in chemosensitive germ cell tumors, and a completed Phase 2 trial exists in relapsed germ cell tumors. However, melphalan is only one component of a combination regimen, the supporting literature is minimal, and efficacy results are not in the compiled data. The label safety data are missing. A hold fits until these gaps are closed.
 
+<!-- review:begin us-lic-20261106-melphalan-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both US NDAs are cancelled, and the label safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 24 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-melphalan-1 -->
+
 **To proceed, the following is needed:**
 - Efficacy and safety results from NCT00936936, with the specific contribution of melphalan assessed
 - Detailed mechanism of action data (MOA) and the FDA package insert warnings and contraindications
 - Clarification of the current US regulatory and supply status
 - A focused literature review of high-dose melphalan regimens in germ cell tumors
 - A safety monitoring plan for myelosuppression, and for renal and pulmonary risk
+
+<!-- review:begin us-lic-20261106-melphalan-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current US regulatory and supply status, since both NDAs are cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 24 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-melphalan-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both US NDAs are cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since both NDAs are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

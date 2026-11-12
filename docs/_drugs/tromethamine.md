@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1268
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TROMETHAMINE"
 predicted_indications: ["allergic urticaria", "rosacea conjunctivitis", "recalcitrant atopic dermatitis", "post-bacterial disorder", "otitis externa", "postinfectious vasculitis", "infective urethral stricture", "post-infectious syndrome", "Chagas cardiomyopathy", "IgE responsiveness, atopic"]
 description: "Tromethamine: predicted new indication Allergic urticaria (evidence level L5). Approved use: Not recorded in the local data"
@@ -85,6 +85,20 @@ Currently no related clinical trials registered.
 
 No approved-indication text is available in the data compiled for this report.
 
+<!-- review:begin us-lic-20261106-tromethamine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All nine US licenses are valid. No approved-indication text is available in the data compiled for this report." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tromethamine-1 -->
+
+<!-- review:begin us-lic-20261106-tromethamine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Four further licenses (all fosfomycin tromethamine, also cancelled) are not shown." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tromethamine-2 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA211558 | TROMETHAMINE | B BRAUN MEDICAL | Solution; injection | Valid |
@@ -92,6 +106,8 @@ No approved-indication text is available in the data compiled for this report.
 | NDA013025 | THAM | HOSPIRA | Solution; injection | Valid |
 | NDC 83021-686 | Anubis Barcelona Protective Line | ANUBIS COSMETICS SL | Cream | NDC listing, no FDA application (OTC monograph final) |
 | NDC 83021-551 | AnubisMed | ANUBIS COSMETICS SL | Cream | NDC listing, no FDA application (OTC monograph final) |
+
+<!-- licenses:end -->
 
 ---
 
@@ -111,6 +127,12 @@ Package insert warnings and contraindications were not available, so please refe
 **Rationale:**
 The prediction rests on model output alone (L5). There are no clinical trials, and the single publication is an adverse-event report about a different drug, so it does not support efficacy. The mechanism and package insert safety data are missing.
 
+<!-- review:begin us-lic-20261106-tromethamine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All nine US licenses are valid, and the mechanism and package insert safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tromethamine-3 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for tromethamine, and a plausible link to allergic urticaria
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
@@ -118,6 +140,21 @@ The prediction rests on model output alone (L5). There are no clinical trials, a
 - Clarification of which formulation and route would be relevant to the new indication
 
 **Other predictions worth noting:** Among the other predictions, only **otitis externa** has indirect support, at L4 (research question). It is based on in vitro and canine studies of Tris-EDTA, in which tromethamine acts as a buffer or adjuvant alongside EDTA to permeabilize Gram-negative bacteria and potentiate antibiotics. This evidence is veterinary, and human validation would be required.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All nine US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Four further licenses (all fosfomycin tromethamine, also cancelled) are not shown" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "All nine US licenses are valid, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

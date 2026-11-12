@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "DONEPEZIL"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Donepezil: predicted new indication Top-ranked by score: psychogenic movement disorders . Best-supported:… (evidence level L5). Approved use: Alzheimer disease (also listed: Alzheimer disease without…"
 ---
 
@@ -95,6 +95,12 @@ Other predictions with relevant publications:
 
 Approved indication text was not available. Main entries:
 
+<!-- review:begin us-lic-20261106-donepezil-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 13 licenses in the data compiled for this report are cancelled. Approved indication text was not available." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 58 FDA applications or NDC listings for this drug, 30 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-donepezil-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA020690 | Aricept (Eisai Inc.) | Tablet, film coated | Not available |
@@ -123,12 +129,32 @@ Package insert warnings and contraindications were not available; please refer t
 - Chronic tic disorder has plausible biology and small uncontrolled pediatric reports, but no controlled trials. Movement-disorder indications also carry a safety signal, as cholinesterase inhibitors can cause or worsen extrapyramidal symptoms.
 - The drug is marketed in the US, which affects practical development.
 
+<!-- review:begin us-lic-20261106-donepezil-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 13 valid licenses, which affects practical development." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 58 FDA applications or NDC listings for this drug, 30 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-donepezil-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for donepezil
 - Package insert warnings and contraindications
 - A properly powered, randomized controlled trial in chronic tic disorder (children and adolescents)
 - Review of the movement-disorder safety signal before any further development
 - Assessment of route compatibility and the market and licensing situation
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 13 licenses in the data compiled for this report are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

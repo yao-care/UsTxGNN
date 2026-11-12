@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "PARATHYROID HORMONE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "amenorrhea (disease)", "Raynaud disease", "non-syndromic esophageal malformation", "esophageal disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "erectile dysfunction (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Parathyroid Hormone: predicted new indication Migraine disorder (evidence level L4). Approved use: Not available"
 ---
 
@@ -40,6 +40,12 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 Parathyroid hormone (PTH) is a recombinant hormone product (NATPARA).
 The TxGNN model predicts it may be effective for **migraine disorder**, but there are **no registered clinical trials** and only **5 publications**, all observational or genetic-association studies, and none tests PTH as a migraine treatment.
+
+<!-- review:begin us-lic-20261106-parathyroid_hormone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Parathyroid hormone (PTH) is a recombinant hormone product (NATPARA) that was formerly marketed as an injectable in the United States." Removed: its description of the US products did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-parathyroid_hormone-2 -->
 
 ## Quick Overview
 
@@ -77,12 +83,16 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA125511 | NATPARA | NPS PHARMS INC | Injectable; injection | Valid |
 | NDC 44911-0370 | Parathyropar | Energique, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
 | NDC 75053-0009 | Oxaltem | Nucleic Products, LLC | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
 | NDC 75053-0012 | Oxaltem | Nucleic Products, LLC | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -99,12 +109,32 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The migraine prediction has a high model score, but there are no clinical trials, and the literature shows only association and an indirect genetic hint. No study tests PTH as a migraine treatment.
 
+<!-- review:begin us-lic-20261031-parathyroid_hormone-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "No study tests PTH as a migraine treatment. The only US license is cancelled, and the label's warnings, contraindications and indication text are missing, so safety screening cannot proceed." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-parathyroid_hormone-1 -->
+
 **To proceed, the following is needed:**
 - The FDA package insert (warnings, contraindications, approved indication) for NATPARA
 - Mechanism of action data, for example from DrugBank
 - Preclinical or mechanistic studies on whether PTH or PTHrP receptor signalling can be modulated for migraine
 - Evaluation of the calcium-raising effect of PTH and its Major interactions with digoxin and digitoxin before any study in migraine patients
 - Confirmation of the feasibility of an injectable route for a chronic condition such as migraine
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, and the label's warnings, contraindications and indication text are missing, so safety screening cannot pr" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "that was formerly marketed as an injectable in the United States" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

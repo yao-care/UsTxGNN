@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ZAFIRLUKAST"
 predicted_indications: ["bronchitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Zafirlukast: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -78,6 +78,12 @@ Currently no related literature available.
 
 All products are single-ingredient oral tablets.
 
+<!-- review:begin us-lic-20261106-zafirlukast-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All four licences are currently valid, and all products are single-ingredient oral tablets." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 5 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-zafirlukast-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: 100 interactions were found in the interaction screen. Examples at Moderate level include aprepitant, acetylsalicylic acid, metronidazole, budesonide (including nasal), saxagliptin, eliglustat, naltrexone, nateglinide, nitisinone, repaglinide, rosuvastatin, simvastatin and tinidazole. Sibutramine is rated Minor. Pantoprazole, mesalazine, morphine, metformin and omeprazole are of unknown level.
@@ -97,6 +103,18 @@ The prediction is supported only by the model score (0.9993), with no trials or 
 - Search for clinical or observational studies of zafirlukast in bronchitis
 - Assess similarity to the original use and route compatibility
 - Review the drug-interaction list for relevance to the intended patient population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "ll four licences are currently valid, and a" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

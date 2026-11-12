@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "COCAINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "papillary conjunctivitis", "rhinitis", "irritable bowel syndrome", "anaphylaxis", "neurocirculatory asthenia", "atopic conjunctivitis", "food-dependent exercise-induced anaphylaxis", "pharyngitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cocaine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not listed in the US license data"
 ---
 
@@ -92,12 +92,31 @@ Please refer to the package insert for full warnings, contraindications and drug
 **Rationale:**
 The prediction is supported only by the model score. There are no clinical trials, the single paper does not involve cocaine, no plausible mechanism links cocaine to cauda equina syndrome. The safety profile (cardiovascular risk, abuse potential, mucosal toxicity) is also unfavorable.
 
+<!-- review:begin us-lic-20261106-cocaine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials, the single paper does not involve cocaine, no plausible mechanism links cocaine to cauda equina syndrome, and both US licenses are cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-cocaine-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - A credible preclinical or mechanistic rationale for cauda equina syndrome
 - Evidence of benefit over existing treatments, with a risk-benefit assessment given cocaine's abuse potential and cardiovascular toxicity
 - Route and formulation compatibility assessment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and both US licenses are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

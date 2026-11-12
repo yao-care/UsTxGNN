@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "SELUMETINIB"
 predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "rhabdoid tumor", "acromelanosis", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "Moynahan syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "peripheral nerve schwannoma", "microcystic/reticular schwannoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Selumetinib: predicted new indication Familial generalized lentiginosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -133,12 +133,38 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The mechanistic basis is strong and selumetinib is established in the related NF1 plexiform neurofibroma setting. However, direct evidence in schwannoma is limited to one small terminated Phase 2 trial (10 patients), a case report, and two trials that have not started recruiting. The package insert safety data could not be retrieved. Evidence level is L3 at best, and the other nine predictions are L5 or indirect.
 
+<!-- review:begin us-lic-20261106-selumetinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US NDAs are listed as cancelled, and the package insert safety data could not be retrieved." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-selumetinib-1 -->
+
 **To proceed, the following is needed:**
 - Results or publication from the terminated NCT03095248 trial
 - Early data from NCT07707947 and confirmation of selumetinib's role in PRIME-NF2
 - Mechanism of action data and FDA package insert warnings and contraindications
 - Clarification of the regulatory status
 - A review of the major drug interactions for the likely patient population
+
+<!-- review:begin us-lic-20261106-selumetinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory status of the cancelled NDAs" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-selumetinib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he US NDAs are listed as cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "of the cancelled NDAs" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

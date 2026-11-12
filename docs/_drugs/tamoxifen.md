@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1198
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TAMOXIFEN"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Tamoxifen: predicted new indication Mammary Paget disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -107,6 +107,12 @@ The table lists the most relevant of the 35 registered trials, prioritizing thos
 
 The label may differ by region or in other sources.
 
+<!-- review:begin us-lic-20261105-tamoxifen-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All five licenses in the dataset are valid. The label may differ by region or in other sources." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 14 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-tamoxifen-1 -->
+
 ## Cytotoxicity
 
 | Item | Content |
@@ -142,12 +148,24 @@ Package insert warnings and contraindications were not available. Please refer t
 **Rationale:**
 Randomized Phase 3 evidence, including NSABP B-24, the placebo-controlled TAM-01 trial, and IBIS-II, supports tamoxifen in DCIS and breast intraepithelial neoplasia, and the use extends the established breast cancer indication. The evidence supports the decision, but the safety label data are missing.
 
+<!-- review:begin us-lic-20261106-tamoxifen-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The evidence supports the decision, but the safety label data are missing and the US licenses are cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 14 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tamoxifen-3 -->
+
 **To proceed, the following is needed:**
 - Restrict use to ER-positive disease.
 - Obtain the FDA package insert warnings and contraindications (a blocking data gap).
 - Obtain detailed mechanism-of-action data from DrugBank.
 - Set up monitoring for endometrial and thromboembolic risk, and review CYP2D6 status and the drug interaction burden.
 - Confirm the regulatory status.
+
+<!-- review:begin us-lic-20261105-tamoxifen-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Confirm the regulatory status; all five US licenses in the dataset are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 14 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-tamoxifen-2 -->
 
 **Other predictions (all Hold, except where noted):**
 - **Mammary Paget disease** (L4): evidence is indirect, from case reports and surgical series.
@@ -157,6 +175,21 @@ Randomized Phase 3 evidence, including NSABP B-24, the placebo-controlled TAM-01
 - **Invasive tubular breast carcinoma**: plausible mechanism, but no tubular-specific trial.
 - **Ehrlich tumor carcinoma**: a murine research model, not a human indication.
 - **Intraductal cribriform breast adenocarcinoma, sebaceous breast carcinoma, and botryoid-type embryonal rhabdomyosarcoma of the vagina**: computational predictions only, with no trials or literature.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All five licenses in the dataset are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "all five US licenses in the dataset are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and the US licenses are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

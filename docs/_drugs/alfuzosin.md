@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ALFUZOSIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "allergic urticaria", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Alfuzosin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Benign prostatic hyperplasia"
 ---
 
@@ -72,6 +72,8 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA079013 | ALFUZOSIN HYDROCHLORIDE | APOTEX INC | Tablet, extended release; oral | Valid |
@@ -82,7 +84,15 @@ Currently no related literature available.
 
 Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
+<!-- licenses:end -->
+
 Approved indication text was not available for any of them.
+
+<!-- review:begin us-lic-20261105-alfuzosin-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 6 US authorizations are valid (one further generic, ANDA203192 from Unichem, is not shown). Approved indication text was not available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 10 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-alfuzosin-1 -->
 
 ## Safety Considerations
 
@@ -112,11 +122,31 @@ Package insert warnings and contraindications were not available. Please refer t
 **Rationale:**
 The prediction has no clinical trials and no literature behind it, so it sits at evidence level L5 despite the very high model score. No plausible mechanism links alpha-1 blockade to Ambras syndrome, and the signal may reflect an adverse-effect association instead of a therapeutic one.
 
+<!-- review:begin us-lic-20261105-alfuzosin-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "No plausible mechanism links alpha-1 blockade to Ambras syndrome, and the signal may reflect an adverse-effect association instead of a therapeutic one. The drug is marketed in the US, with all 6 licenses valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 10 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-alfuzosin-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications for safety screening
 - Mechanism of action data to test whether any biological link to the *TRPS1* or hair-follicle pathway exists
 - Preclinical or mechanistic evidence, such as hair-follicle models, showing a therapeutic rather than adverse direction of effect
 - A review of whether any other predicted indication has more plausible support, since the other nine predictions are also at L5 and rated Hold
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 6 US authorizations are valid (one further generic, ANDA203192 from Unichem, is not shown)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "The drug is marketed in the US, with all 6 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

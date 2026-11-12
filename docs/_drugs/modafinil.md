@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MODAFINIL"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Modafinil: predicted new indication 失眠 (insomnia (disease)) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -69,6 +69,12 @@ The high score (0.9985) most likely reflects the drug's closeness to sleep-wake 
 
 None of the publications below studies modafinil in insomnia directly. They concern related conditions: daytime sleepiness, fatigue, narcolepsy, shift work disorder and Parkinson's disease.
 
+<!-- review:begin us-lic-20261106-modafinil-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The list may be partial; 7 valid single-ingredient licences are recorded, all for oral tablets." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-modafinil-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [24312590](https://pubmed.ncbi.nlm.nih.gov/24312590/) | 2013 | Systematic review/meta-analysis | PLoS One | Efficacy and safety of modafinil for fatigue and excessive daytime sleepiness in neurological disorders; earlier trials gave inconsistent results. |
@@ -105,6 +111,18 @@ The evidence level is L5. The only completed trial in primary insomnia (NCT00124
 - Results from NCT00124384, or a new controlled trial in insomnia
 - Detailed mechanism of action data, and an assessment of whether wake promotion could worsen insomnia
 - Warnings and contraindications from the package insert, for a formal safety screen
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The list may be partial; 7 valid single-ingredient licences are recorded, all for oral tablets" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

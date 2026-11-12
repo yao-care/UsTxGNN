@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "METHOHEXITAL"
 predicted_indications: ["insomnia (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Methohexital: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -81,10 +81,14 @@ No literature is available for insomnia. The literature below relates to the low
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA215488 | METHOHEXITAL SODIUM | ONESOURCE SPECIALTY | Injectable; injection | Valid |
 | NDA011559 | BREVITAL SODIUM | PH HEALTH | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -103,12 +107,38 @@ Please refer to the package insert for label warnings and contraindications.
 **Rationale:**
 The insomnia prediction rests on model score alone, with no trials or literature. Barbiturates are poorly suited to chronic insomnia because of dependence, respiratory depression, and a very short duration of action. In addition, label safety information is missing.
 
+<!-- review:begin us-lic-20261106-methohexital-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, no US license for methohexital is currently valid, and label safety information is missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-methohexital-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (required for safety screening)
 - Mechanism of action data
 - A mechanistic and clinical rationale for insomnia, including comparison with established hypnotics
 - Any clinical or preclinical studies of methohexital for sleep disorders
 - Clarification of the original approved indication
+
+<!-- review:begin us-lic-20261106-methohexital-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the original approved indication and the cancelled license status" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-methohexital-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "no US license for methohexital is currently valid, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and the cancelled license status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

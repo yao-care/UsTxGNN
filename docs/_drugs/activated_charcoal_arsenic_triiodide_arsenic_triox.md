@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -108,6 +108,12 @@ Given the presence of **arsenic-containing ingredients**, the following general 
 
 Formal safety profiling via DrugBank API, package insert review, and DDI screening should be completed before any further evaluation.
 
+<!-- review:begin us-lic-20261105-activated_charcoal_arsenic_triiodide_arsenic_triox-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Formal safety profiling via DrugBank API, TFDA package insert review, and DDI screening should be completed before any further evaluation." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-activated_charcoal_arsenic_triiodide_arsenic_triox-1 -->
+
 ---
 
 ## Conclusion and Next Steps
@@ -124,6 +130,26 @@ This candidate is a multi-component mixture for which TxGNN cannot generate mean
 - **Obtain DrugBank mapping**: At minimum for arsenic trioxide and sanguinaria canadensis, which have the highest pharmacological activity
 - **Safety baseline**: Complete package insert review (if any component is registered), toxicology literature review for arsenic compounds, and full DDI screening for each active ingredient individually
 - **Regulatory classification**: Determine whether this compound is classified as a homeopathic medicine, traditional medicine, or compounded drug in the target jurisdiction — this determines which evidence standards apply
+
+<!-- review:begin us-lic-20261105-activated_charcoal_arsenic_triiodide_arsenic_triox-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "**Safety baseline**: Complete TFDA package insert review (if any component is registered), toxicology literature review for arsenic compounds, and full DDI screening for each active ingredient individually" Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-activated_charcoal_arsenic_triiodide_arsenic_triox-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "TFDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "TFDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

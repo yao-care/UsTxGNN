@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 424
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Atomoxetine: predicted new indication Specific developmental disorder (evidence level L4). Approved use: Attention deficit hyperactivity disorder (including the inattentive t…"
 monitor_inn: "ATOMOXETINE"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
@@ -86,6 +86,18 @@ The table lists publications retrieved for this prediction. None is a randomized
 
 The approved indication text is not specified in the compiled data.
 
+<!-- review:begin us-lic-20261106-atomoxetine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All six US authorizations are generic (abbreviated) applications for oral capsules, and all have been cancelled. The approved indication text is not specified in the compiled data." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-atomoxetine-2 -->
+
+<!-- review:begin us-lic-20261106-atomoxetine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "One further cancelled authorization (ANDA090609, Major Pharmaceuticals) is not shown, to keep within the five-row limit." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-atomoxetine-3 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
 | ANDA079021 | Atomoxetine | Capsule | Bryant Ranch Prepack | Valid |
@@ -110,6 +122,12 @@ Label warnings and contraindications were not available in the data compiled for
 **Rationale:**
 The prediction rests almost entirely on the model score. No clinical trials exist, and the literature addresses ADHD symptoms in comorbid populations rather than specific developmental disorder itself.
 
+<!-- review:begin us-lic-20261105-atomoxetine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "No clinical trials exist, and the literature addresses ADHD symptoms in comorbid populations rather than specific developmental disorder itself. All six US authorizations are valid, and the drug is marketed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 11 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-atomoxetine-1 -->
+
 **To proceed, the following is needed:**
 - Direct clinical evidence in specific developmental disorder, such as a controlled trial with developmental or learning outcomes as the primary endpoint
 - Clear definition of the target condition, since "specific developmental disorder" is broad and overlaps with ADHD
@@ -117,6 +135,21 @@ The prediction rests almost entirely on the model score. No clinical trials exis
 - Package insert warnings and contraindications, so safety screening can proceed
 - A review of the cardiovascular and psychiatric contraindication signals for the intended pediatric population
 - Consideration of other predicted indications with stronger support, such as Tourette syndrome (L3, one terminated pilot trial plus clinical studies of ADHD with comorbid tics), if the goal is to prioritize this drug's repurposing candidates
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All six US authorizations are valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "All six US authorizations are generic (abbreviated) applications for oral capsules, and all have been cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "One further cancelled authorization (ANDA090609, Major Pharmaceuticals) is not shown, to keep within the five-row limit" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -77,9 +77,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA214012 | LEQVIO | NOVARTIS | Solution; subcutaneous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

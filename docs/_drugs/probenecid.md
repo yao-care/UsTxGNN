@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "PROBENECID"
 predicted_indications: ["hypouricemia, renal", "Lesch-Nyhan syndrome", "hypoxanthine guanine phosphoribosyltransferase partial deficiency"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Probenecid: predicted new indication Hypouricemia, renal (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -69,6 +69,12 @@ Currently no related clinical trials registered.
 
 The compiled literature consists of reviews, case reports and genetic or mechanistic studies. There are no RCTs, and none evaluates probenecid as a treatment.
 
+<!-- review:begin us-lic-20261105-probenecid-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All seven authorizations are valid, and no approved-indication text is available." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 25 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-probenecid-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [16678460](https://pubmed.ncbi.nlm.nih.gov/16678460/) | 2006 | Review | Molecular Genetics and Metabolism | Hereditary renal hypouricemia is mostly caused by loss-of-function SLC22A12 (URAT1) mutations |
@@ -112,6 +118,12 @@ The compiled literature consists of reviews, case reports and genetic or mechani
 **Rationale:**
 The prediction rests on a computational score alone. No clinical trials exist, and the literature never supports therapeutic use. The mechanism suggests probenecid would worsen a condition already marked by excessive urate excretion.
 
+<!-- review:begin us-lic-20261105-probenecid-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The mechanism suggests probenecid would worsen a condition already marked by excessive urate excretion. All seven US licenses are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 25 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-probenecid-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank
@@ -121,6 +133,20 @@ The prediction rests on a computational score alone. No clinical trials exist, a
 **Other predictions (both Hold, L5):**
 - **Lesch-Nyhan syndrome** (score 0.9939): There is no clinical evidence. Probenecid would not address the neurobehavioral features, and it could raise the risk of urate stones in patients who already overexcrete urate. Xanthine oxidase inhibitors are the standard of care.
 - **Partial HPRT deficiency** (score 0.9937): There are no trials or literature. The mechanism overlaps with gout, but the risk of uric acid nephrolithiasis in overproducers makes xanthine oxidase inhibitors preferable.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All seven authorizations are valid, and no approved-indication text is available" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "All seven US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

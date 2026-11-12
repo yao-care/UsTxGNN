@@ -74,10 +74,14 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA078215 | SODIUM FERRIC GLUCONATE COMPLEX IN SUCROSE | HIKMA | Injectable; injection | Valid |
 | NDA020955 | FERRLECIT | SANOFI AVENTIS US | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

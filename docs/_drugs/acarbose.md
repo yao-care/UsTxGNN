@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ACARBOSE"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Acarbose: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus"
 ---
 
@@ -73,6 +73,8 @@ For reference, the literature retrieved for the lower-ranked prediction of pancr
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA077532 | ACARBOSE | WATSON LABS | Tablet; oral | Valid |
@@ -82,6 +84,8 @@ For reference, the literature retrieved for the lower-ranked prediction of pancr
 | ANDA091343 | ACARBOSE | SOMERSET THERAPS LLC | Tablet; oral | Valid |
 
 Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -97,11 +101,30 @@ Please refer to the package insert for label warnings and contraindications, as 
 **Rationale:**
 The prediction rests on model output alone (evidence level L5), with no clinical trials or literature. There is no plausible pharmacological link between an intestinal alpha-glucosidase inhibitor and an autoimmune neurological disorder.
 
+<!-- review:begin us-lic-20261105-acarbose-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "There is no plausible pharmacological link between an intestinal alpha-glucosidase inhibitor and an autoimmune neurological disorder. The drug is marketed in the US, and all 3 licenses are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 9 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-acarbose-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, and a plausible mechanistic hypothesis for stiff person syndrome
 - FDA package insert warnings and contraindications, to enable safety screening
 - Any preclinical or clinical evidence in stiff person syndrome or related conditions
 - Clarification of current US market and supply status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The drug is marketed in the US, and all 3 licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

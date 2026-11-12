@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 864
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "LISINOPRIL"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
 description: "Lisinopril: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Not recorded in the local data"
@@ -71,6 +71,12 @@ Currently no related literature available for posterolateral myocardial infarcti
 
 For context, the table below lists the most relevant publications retrieved for the other predicted indications.
 
+<!-- review:begin us-lic-20261106-lisinopril-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two further ANDAs (ANDA076102, Bryant Ranch Prepack; ANDA203508, Exelan) are also cancelled. All seven licenses are oral tablets." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 39 FDA applications or NDC listings for this drug, 26 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lisinopril-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [17047621](https://pubmed.ncbi.nlm.nih.gov/17047621/) | 2006 | Clinical study (design unconfirmed) | Kardiologiia | Lisinopril 10 mg/day reduced pulmonary hypertension and improved right ventricular systolic function in heart failure patients with ischemic heart disease and COPD (chronic pulmonary heart disease) |
@@ -110,6 +116,19 @@ Lisinopril is already used for myocardial infarction, and posterolateral MI is a
 - Clarification of whether the myocardial infarction subtypes need separate evaluation at all, given that the parent indication is already covered
 - Controlled clinical evidence in chronic pulmonary heart disease, if that indication is pursued, because the existing studies are old and their design is unconfirmed
 - Clarification of the reason for the cancelled US licenses and the current market availability of lisinopril products
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Two further ANDAs (ANDA076102, Bryant Ranch Prepack; ANDA203508, Exelan) are also cancelled. All seven licenses are oral tablets" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

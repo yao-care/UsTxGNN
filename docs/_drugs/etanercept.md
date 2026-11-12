@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 678
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "ETANERCEPT"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
 description: "Etanercept: predicted new indication Hypermobility of coccyx (evidence level L5). Approved use: Not recorded in the local data"
@@ -107,12 +107,31 @@ There are important counter-signals, however:
 **Rationale:**
 The mechanistic link is plausible, since TNF-alpha drives both rheumatoid arthritis and its vasculitic complication. However, there is no direct clinical evidence for etanercept in rheumatoid vasculitis (L4). The literature repeatedly reports etanercept-induced vasculitis, and the one registered trial is unrelated to efficacy.
 
+<!-- review:begin us-lic-20261106-etanercept-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The literature repeatedly reports etanercept-induced vasculitis, and the one registered trial is unrelated to efficacy. The US license for ENBREL is also listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-etanercept-1 -->
+
 **To proceed, the following is needed:**
 - Etanercept-specific clinical data in rheumatoid vasculitis, such as case series, cohort studies or a controlled trial, rather than class-level biologic data
 - A risk-benefit analysis addressing the paradoxical vasculitis signal
 - Mechanism-of-action data and label-based warnings and contraindications
 - Clarification of the current US regulatory and commercial status of etanercept products
 - Comparison against established rheumatoid vasculitis treatments (corticosteroids and immunosuppressants)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US license for ENBREL is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

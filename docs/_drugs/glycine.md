@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 757
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "GLYCINE"
 predicted_indications: ["nasal cavity disease"]
 description: "Glycine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -41,6 +41,12 @@ Evidence Level: **L5** | Predicted Indications: **1**
 Glycine is an amino acid that appears in US-listed products such as irrigation solutions. The TxGNN model (deep learning) predicts nasal cavity disease with a score of 0.9985, which may reflect similarities the model learned between related diseases, not biological evidence.
 The TxGNN model predicts it may be effective for **nasal cavity disease**, but the evidence is very thin: **1 clinical trial** (unrelated to glycine) and **2 publications** (neither evaluating glycine) are on record, so this remains a model prediction only.
 
+<!-- review:begin us-lic-20261106-glycine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Glycine is an amino acid that appears in US-listed products such as irrigation solutions and parenteral nutrition." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 5 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-glycine-2 -->
+
 ## Quick Overview
 
 | Item | Content |
@@ -59,6 +65,12 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 The most likely reason for the high prediction score is that the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Allergic rhinitis, vasomotor rhinitis, rhinitis and nasopharyngitis all involve the nasal passages, which overlap with "nasal cavity disease". This is not clinical or mechanistic evidence.
 
+<!-- review:begin us-lic-20261106-glycine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two further cancelled entries exist (OUHOE Bean Sunscreen cream and HGH COMPLEX spray), for 7 licenses in total." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 5 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-glycine-3 -->
+
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
@@ -74,6 +86,8 @@ The most likely reason for the high prediction score is that the score comes fro
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA016784 | GLYCINE 1.5% IN PLASTIC CONTAINER | B BRAUN | Solution; irrigation | Valid |
@@ -83,6 +97,8 @@ The most likely reason for the high prediction score is that the score comes fro
 | NDA018522 | GLYCINE 1.5% IN PLASTIC CONTAINER | BAXTER HLTHCARE | Solution; irrigation | Discontinued in Drugs@FDA |
 
 Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -104,6 +120,12 @@ These should be verified against official labeling before any use.
 **Rationale:**
 The TxGNN score is very high, but there is no supporting clinical or mechanistic evidence. The only registered trial is unrelated to glycine, and the two publications do not evaluate it.
 
+<!-- review:begin us-lic-20261105-glycine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The only registered trial is unrelated to glycine, and the two publications do not evaluate it. The drug is marketed in the US, with seven valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 5 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-glycine-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, to establish a plausible link to nasal cavity disease
 - FDA package insert warnings and contraindications, which are a blocking gap for safety screening
@@ -111,6 +133,28 @@ The TxGNN score is very high, but there is no supporting clinical or mechanistic
 - Direct clinical or preclinical studies of glycine in nasal or upper respiratory disease
 - Route and formulation compatibility assessment (e.g., whether a nasal or topical formulation is feasible), since no route data is available
 - Clarification of the regulatory pathway
+
+<!-- review:begin us-lic-20261106-glycine-4 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory pathway, given that market status is cancelled only" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 5 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-glycine-4 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The drug is marketed in the US, with seven valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and parenteral nutrition" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Two further cancelled entries exist (OUHOE Bean Sunscreen cream and HGH COMPLEX spray), for 7 licenses in total" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that market status is cancelled only" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

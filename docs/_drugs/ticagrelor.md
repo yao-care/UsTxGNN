@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1227
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "fibrocartilaginous embolism"]
 description: "Ticagrelor: predicted new indication Intracranial arteriosclerosis (evidence level L5). Approved use: Not recorded in the local data"
@@ -80,6 +80,12 @@ The evidence is still pending. The Phase 3 CAPTIVA trial is active but not recru
 
 The drug is marketed.
 
+<!-- review:begin us-lic-20261106-ticagrelor-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 13 valid licenses, and none has approved-indication text on file." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 22 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ticagrelor-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA022433 | BRILINTA (AstraZeneca) | Tablet | Not listed |
@@ -95,6 +101,12 @@ The drug is marketed.
   - **Major**: clarithromycin
   - **Moderate**: acetylsalicylic acid (aspirin), simvastatin, morphine, dexamethasone, budesonide, aprepitant, miconazole, saxagliptin, among others
   - **Minor**: naloxegol, prucalopride
+
+<!-- review:begin us-lic-20261106-ticagrelor-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Eight further ANDAs are on file, all cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 22 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ticagrelor-1 -->
 
 Please refer to the package insert for key warnings and contraindications.
 
@@ -112,12 +124,32 @@ The mechanism is plausible, and a large Phase 3 trial (CAPTIVA, n=1683) directly
 - Clarification of US regulatory status, since the drug is marketed
 - A bleeding-risk management plan, including patient selection and treatment duration
 
+<!-- review:begin us-lic-20261106-ticagrelor-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of US regulatory status, since the drug is marketed with 13 valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 22 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ticagrelor-3 -->
+
 ## Other Predicted Indications (Brief)
 
 | Rank | Predicted Indication | Score | Evidence Level | Decision | Note |
 |------|------|------|------|------|------|
 | 4 | Ischemic disease | 0.9964 | L1 | Proceed with Guardrails | Largely overlaps the existing acute coronary syndrome use (e.g., TWILIGHT, PEGASUS, and 2021 stroke/TIA RCTs), so it confirms an existing use rather than novel repurposing |
 | 8 | Vascular ectasia | 0.9947 | L5 | Research Question | Only an indirect review on coronary ectasia; bleeding concern |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Eight further ANDAs are on file, all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 13 valid licenses, and none has approved-indication text on file" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

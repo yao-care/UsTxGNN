@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ETOPOSIDE"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Etoposide: predicted new indication Well-differentiated fetal adenocarcinoma of the lung (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -114,6 +114,12 @@ A further Phase III trial (NCT00334867) was withdrawn with 0 participants, and N
 
 Approved indication text was not available.
 
+<!-- review:begin us-lic-20261106-etoposide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two further cancelled authorisations are not shown: NDA220200 (Avopef, Avyxa Pharma) and ANDA074983 (Etoposide, Fresenius Kabi)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 21 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-etoposide-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA075635 | Etoposide (Mylan) | Capsule | Not available |
@@ -152,6 +158,19 @@ Package insert warnings and contraindications were not available in the data com
 - Detailed mechanism of action data
 - A monitoring plan for myelosuppression and secondary malignancy risk, with paediatric dosing considerations
 - For the Hold predictions, prospective or at least systematically collected data before any further consideration
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Two further cancelled authorisations are not shown: NDA220200 (Avopef, Avyxa Pharma) and ANDA074983 (Etoposide, Fresenius Kabi)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

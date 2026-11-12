@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "CHOLIC ACID"
 predicted_indications: ["HIV infectious disease", "obsolete familial combined hyperlipidemia", "homozygous familial hypercholesterolemia", "biotin metabolic disease", "vitamin deficiency disorder", "hereditary hemochromatosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hemosiderosis", "disorder of phenylalanine metabolism", "bone Paget disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cholic Acid: predicted new indication HIV infectious disease (evidence level L4). Approved use: Bile acid synthesis disorders and biliary conditions (constipation di…"
 ---
 
@@ -78,9 +78,13 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA205750 | CHOLBAM | MIRUM | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -105,12 +109,31 @@ For label-based warnings and contraindications, please refer to the package inse
 **Rationale:**
 The prediction rests on a high model score alone. There are no clinical trials, the only direct antiviral data are old in vitro results, and a cholic acid derivative study showed enhanced HIV-1 replication.
 
+<!-- review:begin us-lic-20261031-cholic_acid-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials, the only direct antiviral data are old in vitro results, and a cholic acid derivative study showed enhanced HIV-1 replication. The product's only US NDA is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-cholic_acid-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, to assess whether any plausible antiviral pathway exists
 - Label-based warnings and contraindications from the FDA package insert
 - Modern in vitro antiviral studies on cholic acid itself (not derivatives), including its effect on viral replication
 - Review of the tipranavir interaction and other antiretroviral co-medication concerns
 - If pursuing a different direction, note that the better-supported lead in the compiled predictions is **vitamin deficiency disorder** (L3), where cholic acid treats the underlying bile acid synthesis disorder. This is evidence of an indirect benefit, based on case series and retrospective cohorts rather than RCTs.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The product's only US NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

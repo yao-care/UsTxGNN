@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TAMSULOSIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tamsulosin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Benign prostatic hyperplasia"
 ---
 
@@ -78,6 +78,12 @@ Currently no related literature available for the top-ranked prediction.
 
 No approved indication text is available for them.
 
+<!-- review:begin us-lic-20261105-tamsulosin-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All six US authorizations are valid generic applications for oral capsules. No approved indication text is available for them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 21 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-tamsulosin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
 | ANDA202433 | Tamsulosin Hydrochloride | Capsule | Cardinal Health 107, LLC | Valid |
@@ -102,12 +108,39 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction has no clinical trials, no supporting literature, and no plausible mechanistic link to the predicted condition. Evidence is at level L5 (model prediction only). In addition, tamsulosin is marketed in the US.
 
+<!-- review:begin us-lic-20261106-tamsulosin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, tamsulosin is marketed in the US with 6 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 21 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tamsulosin-2 -->
+
 **To proceed, the following is needed:**
 - Mechanistic evidence connecting alpha-1A/1D blockade to the *TRPS1* or 8q22-related pathology of Ambras syndrome, or a rationale for choosing another prediction.
 - Detailed mechanism of action data (MOA).
 - Package insert warnings and contraindications, to allow safety screening.
 - Preclinical studies (for example in cell or animal models) before any clinical consideration.
 - Clarification of current US marketing status.
+
+<!-- review:begin us-lic-20261106-tamsulosin-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of current US marketing status, since 6 valid licenses are listed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 21 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tamsulosin-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All six US authorizations are valid generic applications for oral capsules" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 6 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since 6 valid licenses are listed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

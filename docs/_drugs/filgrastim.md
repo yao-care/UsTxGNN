@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FILGRASTIM"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Filgrastim: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -91,6 +91,14 @@ Currently no related literature available.
 
 The approved indication text is not available in the data compiled for this report. All six licenses are listed as valid.
 
+<!-- review:begin us-lic-20261106-filgrastim-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "One further license, BLA761082 (RELEUKO, Amneal, injection, solution), is also listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-filgrastim-1 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA103353 | NEUPOGEN | AMGEN | Syringe | Valid |
@@ -100,6 +108,8 @@ The approved indication text is not available in the data compiled for this repo
 | BLA761082 | RELEUKO | KASHIV BIOSCIENCES LLC | Solution; subcutaneous | Valid |
 
 Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -123,6 +133,26 @@ The prediction is supported only by the model score. No trials or literature add
 - Detailed mechanism of action data, and a biological argument linking G-CSF to platelet function
 - Preclinical or clinical evidence specific to platelet disorders
 - A review of whether a more plausible prediction should be prioritized, such as constitutional thrombocytopenia in the setting of stem cell mobilization
+
+<!-- review:begin us-lic-20261106-filgrastim-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled status of all six US licenses and their approved indication text / A review of whether a more plausible prediction should be prioritized, such as constitutional thrombocytopenia in the setting of stem cell mobilization" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-filgrastim-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "One further license, BLA761082 (RELEUKO, Amneal, injection, solution), is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Clarification of the cancelled status of all six US licenses and their approved indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

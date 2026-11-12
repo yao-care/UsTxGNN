@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ISTRADEFYLLINE"
 predicted_indications: ["Rasmussen subacute encephalitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Istradefylline: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Parkinson disease (and related parkinsonian syndromes)"
 ---
 
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA022075 | NOURIANZ | KYOWA KIRIN | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -94,6 +98,12 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction has the lowest evidence level (L5). It has no registered trials or publications, and the mechanistic link is theoretical and possibly contradictory.
 
+<!-- review:begin us-lic-20261031-istradefylline-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "It has no registered trials or publications, and the mechanistic link is theoretical and possibly contradictory. The only US NDA is cancelled, and package insert safety data is missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-istradefylline-1 -->
+
 **To proceed, the following is needed:**
 - Preclinical evidence (for example, A2A modulation in neuroinflammation or epilepsy models relevant to Rasmussen encephalitis)
 - A literature and trial search for A2A antagonists in autoimmune or inflammatory encephalitis
@@ -101,6 +111,26 @@ The prediction has the lowest evidence level (L5). It has no registered trials o
 - Confirmed mechanism of action data from DrugBank
 - Clarification of the route and formulation needs for this patient population (an oral tablet is the only known form)
 - A review of the major drug interactions, particularly with strong CYP3A4 inhibitors, in patients likely to be on antiepileptic or immunotherapy regimens
+
+<!-- review:begin us-lic-20261106-istradefylline-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the NDA cancellation status and of the route and formulation needs for this patient population (an oral tablet is the only known form)" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-istradefylline-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US NDA is cancelled, and package insert safety data is missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "of the NDA cancellation status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

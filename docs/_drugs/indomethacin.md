@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 795
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Indomethacin: predicted new indication Brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Bursitis, synovitis, tenosynovitis, rheumatoid arthritis…"
 monitor_inn: "INDOMETHACIN"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
@@ -78,6 +78,18 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261105-indomethacin-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The drug is marketed, and all seven US authorizations in the compiled data are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 75 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-indomethacin-1 -->
+
+<!-- review:begin us-lic-20261106-indomethacin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two further cancelled entries (ANDA079175, extended-release capsule; ANDA216184, suppository) are not shown." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 75 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-indomethacin-2 -->
+
 ---
 
 ## US Market Information
@@ -110,12 +122,33 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction for brachydactyly-syndactyly syndrome rests only on a model score, with no trials, no literature, and no plausible mechanistic link. This candidate is not suitable for advancement.
 
+<!-- review:begin us-lic-20261106-indomethacin-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All US licenses in the compiled data are also cancelled. This candidate is not suitable for advancement." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 75 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-indomethacin-3 -->
+
 **To proceed, the following is needed:**
 - Mechanistic evidence connecting COX inhibition or prostaglandin signaling to the pathophysiology of this syndrome
 - Preclinical data (cell or animal models) supporting any biological effect
 - Package insert warnings and contraindications to complete safety screening
 - Detailed mechanism of action data
 - Consideration of redirecting effort to juvenile idiopathic arthritis, the better-supported prediction, bearing in mind that NSAIDs are only symptomatic therapy there
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The drug is marketed, and all seven US authorizations in the compiled data are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Two further cancelled entries (ANDA079175, extended-release capsule; ANDA216184, suppository) are not shown" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "All US licenses in the compiled data are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

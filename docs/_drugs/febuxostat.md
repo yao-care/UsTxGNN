@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Febuxostat: predicted new indication Hypouricemia, renal (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -93,6 +93,12 @@ Two other lower-ranked predictions are mechanistically more coherent, although b
 
 The drug is marketed in the US, and the approved indication text was not available.
 
+<!-- review:begin us-lic-20261106-febuxostat-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 10 valid authorizations, and the approved indication text was not available." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 16 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-febuxostat-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021856 | ULORIC (Takeda Pharmaceuticals America) | Tablet | Not available |
@@ -126,12 +132,32 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Rationale:**
 Further urate lowering in renal hypouricemia is mechanistically counterproductive. The only supporting evidence is a single hypothesis-level case report, and the one registered trial is unrelated to the condition. The data are limited to the model prediction plus weak literature (L4). The knowledge graph flags cardiovascular and cerebrovascular contraindication signals.
 
+<!-- review:begin us-lic-20261106-febuxostat-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Market status is cancelled only, and the knowledge graph flags cardiovascular and cerebrovascular contraindication signals." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 16 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-febuxostat-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank
 - Evidence beyond single case reports that xanthine oxidase inhibition prevents exercise-induced acute kidney injury in renal hypouricemia
 - Safety assessment, including cardiovascular risk, for this population
 - Consideration of the HPRT deficiency or Lesch-Nyhan indications as alternative research questions, where the mechanism is more coherent, though pediatric safety and access (cancelled licenses) must be resolved first
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Market status is cancelled only, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 10 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

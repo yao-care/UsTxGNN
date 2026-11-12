@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "LACTULOSE"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Lactulose: predicted new indication acute urate nephropathy (evidence level L5). Approved use: Hepatic encephalopathy, hepatic coma…"
 ---
 
@@ -88,6 +88,12 @@ The evidence is mixed: some studies show reduced endotoxaemia, but one animal st
 
 Approved indication text was not available.
 
+<!-- review:begin us-lic-20261106-lactulose-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All eight US authorizations are single-ingredient ANDAs and all are listed as cancelled. Approved indication text was not available." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lactulose-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA074712 | KRISTALOSE | Powder, for solution | Not available |
@@ -110,12 +116,39 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Rationale:**
 The top TxGNN prediction (acute urate nephropathy) has no evidence and no plausible mechanism. The best-supported prediction, obstructive jaundice, rests on small, dated studies with mixed results, no registered trials, and a perioperative supportive rather than disease-treating role. The drug is marketed in the US, and label safety data are missing. This is a research question rather than a development candidate.
 
+<!-- review:begin us-lic-20261106-lactulose-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 8 valid licenses, and label safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 38 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lactulose-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Full-text review of the 1991 multicentre study and the 1986 clinical study to confirm design and effect sizes
 - A modern, controlled trial of perioperative lactulose in obstructive jaundice with renal and infectious complication endpoints
 - Clarification of the licensing status and route compatibility assessment
+
+<!-- review:begin us-lic-20261106-lactulose-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the licensing status (8 valid US licenses) and route compatibility assessment" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 38 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lactulose-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All eight US authorizations are single-ingredient ANDAs and all are listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(8 valid US licenses)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "ERDAFITINIB"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "amenorrhea (disease)", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Erdafitinib: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -74,9 +74,13 @@ Currently no related literature available for pulmonary hypertension.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA212018 | BALVERSA | JANSSEN BIOTECH | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -103,12 +107,38 @@ Label warnings and contraindications were not available in the compiled data. Pl
 **Rationale:**
 The prediction rests only on a computational score, with no clinical trials or relevant literature, and the evidence level is L5. Safety screening cannot proceed without the package insert.
 
+<!-- review:begin us-lic-20261031-erdafitinib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only US license is cancelled, and the label warnings and original indication data are missing. Safety screening cannot proceed without the package insert." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-erdafitinib-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)
 - Mechanism of action data from DrugBank
 - The original approved indication text
 - Preclinical evidence for FGFR inhibition in pulmonary vascular remodeling
 - Assessment of the safety risks of FGFR inhibition (hyperphosphatemia, ocular toxicity) in a vascular disease setting
+
+<!-- review:begin us-lic-20261106-erdafitinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Assessment of the safety risks of FGFR inhibition (hyperphosphatemia, ocular toxicity) in a vascular disease setting / Clarification of the cancelled US market status" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-erdafitinib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, and the label warnings and original indication data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Clarification of the cancelled US market status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

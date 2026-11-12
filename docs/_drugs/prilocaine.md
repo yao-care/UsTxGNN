@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PRILOCAINE"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Prilocaine: predicted new indication Papillary conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -41,6 +41,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 Prilocaine is an amide local anesthetic.
 The TxGNN model predicts it may be effective for **Neuralgia** (the most evidence-supported of 10 predictions), with **2 clinical trials** and **14 publications** currently supporting this direction.
 The evidence is early-stage: small, uncontrolled studies, mostly of the lidocaine/prilocaine combination (EMLA), and no Phase 3 RCT.
+
+<!-- review:begin us-lic-20261106-prilocaine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Its only US authorization on record is a dental injectable. / The TxGNN model predicts it may be effective for **Neuralgia** (the most evidence-supported of 10 predictions), with **2 clinical trials** and **14 publications** currently supporting this direction." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 16 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-prilocaine-2 -->
 
 ---
 
@@ -98,6 +104,8 @@ Of the 14 publications listed in the data, 10 are shown here. The 4 omitted are 
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA079235 | PRILOCAINE HYDROCHLORIDE | SEPTODONT INC | Injectable; injection | Valid |
@@ -107,6 +115,8 @@ Of the 14 publications listed in the data, 10 are shown here. The 4 omitted are 
 | ANDA212482 | LIDOCAINE AND PRILOCAINE | PADAGIS US | Cream; topical | Valid |
 
 Showing 5 of 19 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 
@@ -129,12 +139,32 @@ Showing 5 of 19 entries (FDA applications first, active before discontinued; NDC
 **Rationale:**
 Neuralgia is the best-supported prediction (L3), but the evidence consists of small, early, uncontrolled studies of the lidocaine/prilocaine combination, and the open trial only tested pre-treatment tolerability. The other nine predictions have either no evidence (L5) or only indirect or safety-oriented evidence (L4).
 
+<!-- review:begin us-lic-20261031-prilocaine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only US authorization is cancelled, and no mechanism or label safety data were available. The other nine predictions have either no evidence (L5) or only indirect or safety-oriented evidence (L4)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 16 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-prilocaine-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (for example, from DrugBank)
 - Controlled trials of prilocaine-containing products in PHN or other neuralgias, ideally separating prilocaine's contribution from lidocaine's
 - A route and formulation compatibility assessment (the original authorization is an injectable, while the supporting evidence is for topical cream)
 - A safety plan covering methemoglobinemia risk, interacting drugs, and use on compromised skin
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US authorization is cancelled, and no mechanism or label safety data were available" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Its only US authorization on record is a dental injectable" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

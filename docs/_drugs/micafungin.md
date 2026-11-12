@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "MICAFUNGIN"
 predicted_indications: ["urinary tract infection (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Micafungin: predicted new indication urinary tract infection (evidence level L3). Approved use: Esophageal candidiasis, candidemia, disseminated candidiasis"
 ---
 
@@ -97,6 +97,12 @@ Note: the literature is mostly small case-level evidence with no randomized tria
 
 The drug is marketed in the US. The approved indication text was not available in the data compiled for this report.
 
+<!-- review:begin us-lic-20261106-micafungin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 11 valid authorizations recorded." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-micafungin-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021506 | Mycamine (Astellas Pharma US) | Injection, powder, lyophilized, for solution | Not available |
@@ -111,6 +117,12 @@ The drug is marketed in the US. The approved indication text was not available i
 
 - **Disease-related cautions from the knowledge graph** (not label text): kidney disease and pyoureter are listed as contraindication-related conditions. This is relevant because the proposed indication involves the urinary tract.
 - **Drug Interactions** (5 moderate-level interactions): amphotericin B, nitisinone, everolimus, ribociclib, and sirolimus.
+
+<!-- review:begin us-lic-20261106-micafungin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Six more ANDAs (Meitheal, Hisun, Glenmark, Zydus, Hikma, Biocon) are also recorded as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-micafungin-1 -->
 
 Please refer to the package insert for full warnings and contraindications.
 
@@ -130,6 +142,27 @@ The literature suggests micafungin can clear Candida from the urinary tract in s
 - Urinary pharmacokinetic data to confirm adequate active-drug concentrations at the infection site
 - Controlled or prospective studies in symptomatic Candida UTI, with attention to patients with kidney disease or urinary tract obstruction
 - A review of the moderate drug interactions, especially in transplant patients taking sirolimus or everolimus
+
+<!-- review:begin us-lic-20261106-micafungin-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current US marketing status, since 11 valid authorizations are recorded" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-micafungin-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Six more ANDAs (Meitheal, Hisun, Glenmark, Zydus, Hikma, Biocon) are also recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid authorizations recorded" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since 11 valid authorizations are recorded" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

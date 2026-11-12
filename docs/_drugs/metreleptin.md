@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "METRELEPTIN"
 predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "Moynahan syndrome", "rhabdoid tumor", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "acromelanosis", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "benign neoplasm of adrenal gland", "peripheral nerve schwannoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Metreleptin: predicted new indication Familial generalized lentiginosis (evidence level L5). Approved use: Lipodystrophy (including Berardinelli-Seip congenital lipodystrophy a…"
 ---
 
@@ -71,9 +71,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA125390 | MYALEPT | CHIESI FARMACEUTICI SPA | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 Manufacturer: Amryt Pharmaceuticals Designated Activity Company. The product is injectable only.
 
@@ -94,11 +98,37 @@ Please refer to the package insert for other safety information, including warni
 **Rationale:**
 The prediction has no supporting clinical trials or literature (evidence level L5) and no identifiable mechanistic link between leptin replacement and a pigmentation disorder. Package-insert safety data are missing.
 
+<!-- review:begin us-lic-20261106-metreleptin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US license is also cancelled, and package-insert safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-metreleptin-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for metreleptin, to assess any biological link to the predicted indication
 - A mechanistic or preclinical rationale connecting leptin signaling to familial generalized lentiginosis
 - FDA package insert warnings and contraindications for a safety review
 - Evaluation of other candidates with more plausible links, such as insulin-resistance-related conditions, if the goal is a viable repurposing path
+
+<!-- review:begin us-lic-20261106-metreleptin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US license status and its implications for access and development / Evaluation of other candidates with more plausible links, such as insulin-resistance-related conditions, if the goal is a viable repurposing path" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-metreleptin-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US license is also cancelled, and p" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Clarification of the cancelled US license status and its implications for access and development" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

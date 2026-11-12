@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "TELOTRISTAT ETHYL"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Telotristat Ethyl: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Diarrheal disease"
 ---
 
@@ -74,9 +74,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA208794 | XERMELO | TERSERA | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -94,12 +98,38 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction has no supporting clinical trials or literature (evidence level L5), and no plausible mechanism links peripheral serotonin reduction to nerve root compression. The model score alone is not enough to justify moving forward.
 
+<!-- review:begin us-lic-20261031-telotristat_ethyl-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only US authorization is cancelled. The model score alone is not enough to justify moving forward." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-telotristat_ethyl-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, and a mechanistic rationale connecting the drug to cauda equina syndrome
 - Package insert warnings and contraindications (currently missing, which blocks safety screening)
 - Any preclinical or clinical evidence in the predicted indication
 - For the neurogenic bladder prediction, remapping to a current disease term and a fresh evidence search
 - Clarification of route compatibility for the new indication
+
+<!-- review:begin us-lic-20261106-telotristat_ethyl-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US market status and route compatibility for the new indication" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-telotristat_ethyl-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled US market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

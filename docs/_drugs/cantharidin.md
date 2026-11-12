@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CANTHARIDIN"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cantharidin: predicted new indication Amenorrhea (evidence level L5). Approved use: No approved indication text is recorded in the license data"
 ---
 
@@ -88,12 +88,31 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction has only a model score behind it: no clinical trials, no literature, and no plausible mechanistic link between a topical PP2A-inhibiting vesicant and amenorrhea. Systemic toxicity further weakens any case for use.
 
+<!-- review:begin us-lic-20261031-cantharidin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Systemic toxicity further weakens any case for use. The only US license on record is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-cantharidin-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (FDA label) for safety screening
 - Detailed mechanism of action data (for example, from DrugBank)
 - A biological rationale connecting PP2A/PP1 inhibition to reproductive-axis pathology
 - Route and formulation compatibility assessment, given that the only known use is topical
 - Any preclinical or clinical evidence for amenorrhea
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license on record is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

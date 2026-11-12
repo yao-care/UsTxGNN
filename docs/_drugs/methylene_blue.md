@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 915
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "METHYLENE BLUE"
 predicted_indications: ["bronchitis"]
 description: "Methylene Blue: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -102,6 +102,12 @@ All 10 US authorizations are listed as valid, the drug is marketed, and no appro
 
 All available forms are injectable or topical solution, which may not suit a respiratory indication such as bronchitis.
 
+<!-- review:begin us-lic-20261106-methylene_blue-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Five further authorizations (including ANDA219550, ANDA219363, ANDA217380, and 505G(a)(3)) are also cancelled. All available forms are injectable or topical solution, which may not suit a respiratory indication such as bronchitis." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-methylene_blue-1 -->
+
 ---
 
 ## Safety Considerations
@@ -121,12 +127,32 @@ Package insert warnings were not available in the data compiled for this report,
 **Rationale:**
 The TxGNN score for bronchitis is very high, but there are no clinical trials, no therapeutic literature, and no clear mechanistic link. The evidence level is L5.
 
+<!-- review:begin us-lic-20261106-methylene_blue-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The evidence level is L5, and the US licenses are all cancelled with injectable-only forms." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-methylene_blue-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a clear rationale linking methylene blue to airway disease
 - Preclinical studies in bronchitis or airway inflammation models
 - FDA package insert warnings and contraindications for a formal safety screen
 - Assessment of a suitable route of administration (for example, inhaled) and current availability
 - Consideration of the methemoglobin reductase deficiency indication (L4, case reports and veterinary data) as a more coherent repurposing direction
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Five further authorizations (including ANDA219550, ANDA219363, ANDA217380, and 505G(a)(3)) are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and the US licenses are all cancelled with injectable-only forms" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

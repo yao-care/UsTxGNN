@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1246
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tramadol: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Osteoarthritis (also osteoarthritis susceptibility and arthropathy)"
 monitor_inn: "TRAMADOL"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
@@ -99,11 +99,30 @@ Please refer to the package insert for the full warnings and contraindications, 
 **Rationale:**
 The prediction is supported only by a model score, with no clinical trials, no literature and no credible mechanistic link. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Tramadol would at best provide symptomatic pain relief, not treatment of the underlying genetic disorder.
 
+<!-- review:begin us-lic-20261105-tramadol-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Tramadol would at best provide symptomatic pain relief, not treatment of the underlying genetic disorder. Its 10 US authorizations are also all valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 54 FDA applications or NDC listings for this drug, 19 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-tramadol-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Any clinical or preclinical evidence linking tramadol to the predicted disease
 - A reconsideration of the target: symptomatic pain management in conditions with a plausible analgesic need (e.g., pseudoachondroplasia-related joint pain) may be more realistic than disease modification
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "Its 10 US authorizations are also all valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

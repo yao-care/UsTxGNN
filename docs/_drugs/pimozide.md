@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "PIMOZIDE"
 predicted_indications: ["trichotillomania", "manic bipolar affective disorder", "insomnia (disease)", "major affective disorder", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "Malan overgrowth syndrome", "attention deficit hyperactivity disorder, inattentive type", "agoraphobia", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pimozide: predicted new indication Trichotillomania (evidence level L3). Approved use: Tourette syndrome"
 ---
 
@@ -78,11 +78,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA204521 | PIMOZIDE | PH HEALTH | Tablet; oral | Valid |
 | ANDA219897 | PIMOZIDE | NOVITIUM PHARMA | Tablet; oral | Valid |
 | NDA017473 | ORAP | TEVA | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -99,10 +103,36 @@ No package insert warnings or contraindications were available in the data compi
 **Rationale:**
 The prediction is mechanistically plausible, but the only direct evidence is one small 1992 study and general reviews, with no registered trials. Pimozide carries significant QT-related cardiac risk and a heavy interaction burden.
 
+<!-- review:begin us-lic-20261106-pimozide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US product is cancelled, and pimozide carries significant QT-related cardiac risk and a heavy interaction burden." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pimozide-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and FDA package insert warnings and contraindications (currently missing; the missing label safety data is a blocking gap for safety screening)
 - Modern controlled evidence of pimozide in trichotillomania, compared with established treatments
 - A cardiac safety plan (ECG and QT monitoring, electrolyte control) and an interaction management strategy
+
+<!-- review:begin us-lic-20261031-pimozide-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "A cardiac safety plan (ECG and QT monitoring, electrolyte control) and an interaction management strategy / Confirmation of a currently available US product, since the only listed authorization is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-pimozide-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Confirmation of a currently available US product, since the only listed authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "The US product is cancelled, and p" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "IVABRADINE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ivabradine: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -82,6 +82,12 @@ Currently no related literature available.
 
 The data compiled for this report contain no approved indication text for any of them.
 
+<!-- review:begin us-lic-20261105-ivabradine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All seven authorizations are valid. The data compiled for this report contain no approved indication text for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 8 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-ivabradine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA206143 | Corlanor (Amgen Inc) | Film-coated tablet | Not available |
@@ -110,12 +116,32 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction is computational only (Evidence Level L5). There are no clinical trials or publications, no plausible mechanistic link between HCN channel inhibition and hair growth, and the drug is marketed.
 
+<!-- review:begin us-lic-20261106-ivabradine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials or publications, no plausible mechanistic link between HCN channel inhibition and hair growth, and the drug is marketed with 7 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ivabradine-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Preclinical evidence of HCN channel involvement in hair follicle biology or the predicted conditions
 - Assessment of route compatibility (oral drug versus a likely topical need for hair conditions)
 - Review of the benefit-risk profile, given that ivabradine lowers heart rate and carries major interaction risks
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All seven authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

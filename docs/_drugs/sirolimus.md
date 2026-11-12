@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1166
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "SIROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
 description: "Sirolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -102,6 +102,12 @@ None of these publications reports sirolimus given to patients with liposarcoma.
 
 The records may be partial.
 
+<!-- review:begin us-lic-20261105-sirolimus-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 11 licences on record are valid, and the list above shows only the first five. The records may be partial." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 16 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-sirolimus-1 -->
+
 ---
 
 ## Safety Considerations
@@ -130,6 +136,18 @@ No published study tests sirolimus in liposarcoma. The only trial is a single-ar
 - Preclinical or clinical data on single-agent sirolimus in liposarcoma subtypes
 - Detailed mechanism-of-action data
 - Package-insert warnings and contraindications, and a safety plan covering the major drug interactions above
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 11 licences on record are valid, and the list above shows only the first five" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

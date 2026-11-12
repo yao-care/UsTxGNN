@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SOYBEAN OIL"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Soybean Oil: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -72,6 +72,20 @@ Currently no related literature available.
 
 No approved indication text is recorded for any of them.
 
+<!-- review:begin us-lic-20261105-soybean_oil-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The drug is marketed, and all 9 authorizations are valid. No approved indication text is recorded for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 17 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-soybean_oil-1 -->
+
+<!-- review:begin us-lic-20261106-soybean_oil-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Four further cancelled authorizations are not shown: NDA204508 (Clinolipid, Baxter) and three allergenic-extract BLAs (BLA103888, BLA103753, BLA101833; soybean food allergen products)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-soybean_oil-2 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA018449 | INTRALIPID 20% | FRESENIUS | Injectable; injection | Valid |
@@ -81,6 +95,8 @@ No approved indication text is recorded for any of them.
 | NDA204508 | CLINOLIPID 20% | BAXTER HLTHCARE CORP | Emulsion; intravenous | Valid |
 
 Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -99,6 +115,20 @@ The prediction rests only on a model score, with no registered clinical trials, 
 - Original approved indication information for the lipid emulsion products
 - A literature and trial search on lipid or nutritional supplementation in amenorrhea, particularly functional hypothalamic amenorrhea
 - Assessment of route compatibility (intravenous emulsion versus any route needed for the new indication)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The drug is marketed, and all 9 authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Four further cancelled authorizations are not shown: NDA204508 (Clinolipid, Baxter) and three allergenic-extract BLAs (BLA103888, BLA103753," | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

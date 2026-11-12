@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "CAPMATINIB"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Capmatinib: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -76,9 +76,13 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA213591 | TABRECTA | NOVARTIS PHARM | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -106,12 +110,31 @@ Package insert warnings and contraindications are not available in the data comp
 **Rationale:**
 The prediction rests on model output alone (L5), with no registered trials and no disease-specific literature. The package insert safety data and the original indication and MOA are missing, so the prediction cannot be properly assessed.
 
+<!-- review:begin us-lic-20261031-capmatinib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The drug's only US license is cancelled. The package insert safety data and the original indication and MOA are missing, so the prediction cannot be properly assessed." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-capmatinib-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, to allow safety screening
 - Original indication and mechanism-of-action data (e.g., from DrugBank)
 - Preclinical evidence of MET inhibition in rheumatoid synovium or in arthritis models
 - Review of the risk-benefit balance for a chronic inflammatory condition, given the drug's oncology-type safety profile and the significant interactions (e.g., dexamethasone, clarithromycin)
 - Clarification of current US market and availability status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The drug's only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

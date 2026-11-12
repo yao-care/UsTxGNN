@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -62,6 +62,12 @@ Acetaminophen + Caffeine is a fixed-dose analgesic combination in which caffeine
 
 No US market authorizations were retrieved for the combined entity "ACETAMINOPHEN; CAFFEINE." Although both active ingredients are individually available over-the-counter in the United States, no NDA record for this fixed-dose combination was found in the current data pull.
 
+<!-- review:begin us-lic-20261105-acetaminophen_caffeine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "No US market authorizations were retrieved for the combined entity "ACETAMINOPHEN; CAFFEINE." The TFDA query returned 0 results (query ID 1, 2026-03-24). Although both active ingredients are individually available over-the-counter in the United States, no NDA record for this fixed-dose combination was found in the current data pull." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-acetaminophen_caffeine-1 -->
+
 > **Note:** The FDA Orange Book lists numerous acetaminophen + caffeine OTC products (e.g., Excedrin Tension Headache). The absence of records here likely reflects a query-string mismatch or scope limitation of the current data source, and should be verified before drawing conclusions about market status.
 
 ---
@@ -87,6 +93,19 @@ The TxGNN prediction pipeline returned no candidate indications for this combina
 - **Obtain package insert warnings:** Download the FDA label PDF and extract key warnings, contraindications, and drug interactions for safety pre-screening.
 - **Verify market status:** Cross-check the FDA Orange Book for acetaminophen + caffeine combination products to confirm whether OTC approvals exist and should be included.
 - **Clarify candidate intent:** Determine whether the research target is the combination as a unit or one of the individual components; this will determine the correct TxGNN query strategy.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The TFDA query returned 0 results (query ID 1, 2026-03-24)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

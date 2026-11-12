@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 871
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Lorlatinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Non-small cell lung carcinoma / lung cancer"
 monitor_inn: "LORLATINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
@@ -74,9 +74,13 @@ Currently no related literature available for gingival fibromatosis.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA210868 | LORBRENA | PFIZER | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -102,12 +106,38 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The top prediction, gingival fibromatosis, has no clinical trials, no literature, and no plausible mechanistic link to ALK/ROS1 inhibition. The only literature found for other predictions reflects the existing NSCLC indication or other ALK-driven tumors.
 
+<!-- review:begin us-lic-20261031-lorlatinib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only literature found for other predictions reflects the existing NSCLC indication or other ALK-driven tumors. Lorlatinib's only US NDA is also recorded as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-lorlatinib-1 -->
+
 **To proceed, the following is needed:**
 - The FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Any biological evidence that ALK/ROS1 signaling plays a role in gingival fibromatosis
 - Clarification of the approved indication text
 - If a repurposing direction is pursued, a better-supported alternative would be ALK-driven tumors outside NSCLC (for example neuroblastoma), where Phase 1 data exist, rather than the highest-scoring predictions.
+
+<!-- review:begin us-lic-20261106-lorlatinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled NDA status and the approved indication text" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lorlatinib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Lorlatinib's only US NDA is also recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled NDA status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

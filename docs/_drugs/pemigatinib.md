@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "PEMIGATINIB"
 predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "HER2 positive breast carcinoma", "cytomegalovirus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "amyotrophic lateral sclerosis", "amyotrohpic lateral sclerosis type 22", "axial spondylometaphyseal dysplasia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pemigatinib: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -109,12 +109,38 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The safety review also cannot proceed without the label warnings and contraindications.
 
+<!-- review:begin us-lic-20261031-pemigatinib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction is model-only (L5), with no clinical trials or literature, no demonstrated mechanistic link between FGFR inhibition and multiple endocrine neoplasia, and the only US license is cancelled. The safety review also cannot proceed without the label warnings and contraindications." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-pemigatinib-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Original approved indication text
 - A mechanistic rationale, or preclinical data, linking FGFR signaling to multiple endocrine neoplasia
 - Consideration of better-supported alternatives, such as HER2-positive breast carcinoma, where FGFR-mediated resistance is biologically plausible, though disease-specific evidence is still lacking
+
+<!-- review:begin us-lic-20261106-pemigatinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Review of the cancelled NDA status and its implications for any development path / Consideration of better-supported alternatives, such as HER2-positive breast carcinoma, where FGFR-mediated resistance is biologically plausible, though disease-specific evidence is still lacking" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pemigatinib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The prediction is model-only (L5), with no clinical trials or literature, no demonstrated mechanistic link between FGFR inhibition and multi" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Review of the cancelled NDA status and its implications for any development path" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "LUMATEPERONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "syndromic myopia", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Lumateperone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia"
 ---
 
@@ -103,6 +103,25 @@ The prediction is supported only by a model score. There are no clinical trials 
 - Preclinical evidence (for example, retinal disease models) showing a biological effect
 - A clear mechanistic hypothesis connecting dopaminergic, serotonergic or glutamatergic modulation to the retinal dystrophy mechanism
 - Assessment of route and delivery feasibility, since only an oral capsule exists
+
+<!-- review:begin us-lic-20261106-lumateperone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Assessment of route and delivery feasibility, since only an oral capsule exists and the product's US authorization is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lumateperone-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the product's US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

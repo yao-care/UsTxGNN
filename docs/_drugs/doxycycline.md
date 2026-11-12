@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 627
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DOXYCYCLINE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
 description: "Doxycycline: predicted new indication Top-ranked: punctate epithelial keratoconjunctivitis . Best-supported: post-bacterial disorder (punctate epithelial ker… (evidence level L5). Approved use: Not r…"
@@ -114,6 +114,12 @@ Literature for the top-ranked prediction (punctate epithelial keratoconjunctivit
 
 The drug is marketed in the US. The license records contain no approved-indication text. The main entries are:
 
+<!-- review:begin us-lic-20261106-doxycycline-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 15 valid licenses. The license records contain no approved-indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 146 FDA applications or NDC listings for this drug, 74 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-doxycycline-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA050641 | Doxycycline Monohydrate (Chartwell RX) | Capsule | Not available (valid) |
@@ -150,6 +156,12 @@ Please refer to the package insert for full warnings and precautions.
 - The highest-scoring prediction rests on a single 1992 case report, with no trials and no evidence of a treatment effect, so it cannot advance. Most other predictions (otitis externa, vasculitis, urethral stricture, Chagas cardiomyopathy, HUS, exposure keratitis) are likewise weak or carry safety concerns.
 - Post-bacterial disorder has multiple completed Phase 2/3 and Phase 4 trials, but the label actually corresponds to STI and relapsing-fever prophylaxis, which is an established antibiotic use rather than a new disease mechanism. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-doxycycline-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Post-bacterial disorder has multiple completed Phase 2/3 and Phase 4 trials, but the label actually corresponds to STI and relapsing-fever prophylaxis, which is an established antibiotic use rather than a new disease mechanism. The drug is marketed in the US, with 15 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 146 FDA applications or NDC listings for this drug, 74 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-doxycycline-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank
@@ -157,6 +169,20 @@ Please refer to the package insert for full warnings and precautions.
 - An antimicrobial resistance monitoring plan for any prophylaxis strategy
 - A decision on whether the disease label "post-bacterial disorder" meaningfully represents the prophylaxis use case
 - For chronic gingivitis, verification of trial designs and gingivitis-specific (not periodontitis) outcome data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 15 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 15 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

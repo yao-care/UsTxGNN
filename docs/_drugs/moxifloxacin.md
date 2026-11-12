@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 944
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "MOXIFLOXACIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
 description: "Moxifloxacin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -71,6 +71,18 @@ Currently no related literature available.
 
 The drug is marketed in the US. The five main ones are listed below. Approved indication text was not available.
 
+<!-- review:begin us-lic-20261106-moxifloxacin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 10 valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 31 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-moxifloxacin-1 -->
+
+<!-- review:begin us-lic-20261106-moxifloxacin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Approved indication text was not available for these entries." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 31 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-moxifloxacin-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA202632 | Moxifloxacin Hydrochloride (Bryant Ranch Prepack) | Tablet, film coated | Not specified |
@@ -98,6 +110,19 @@ The prediction has no supporting trials or literature and no plausible mechanism
 - Preclinical or mechanistic data showing any effect on serum viscosity or immunoglobulin-related pathology
 - Mechanism of action data and package insert warnings and contraindications to complete the safety screening
 - Confirmation of current US availability
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 10 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "for these entries" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

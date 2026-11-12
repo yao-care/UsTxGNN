@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1057
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Podofilox: predicted new indication Vulvovaginal candidiasis (evidence level L5). Approved use: Anogenital human papillomavirus infection"
 monitor_inn: "PODOFILOX"
 predicted_indications: ["vulvovaginal candidiasis", "photosensitivity disease", "herpes zoster", "benign neoplasm of tongue", "benign neoplasm of hypopharynx", "cystic neoplasm", "mesenchymoma", "nasal cavity inverting papilloma", "tumor of testis and paratestis"]
@@ -90,6 +90,12 @@ Currently no related clinical trials registered.
 
 Both authorizations are held by Padagis US LLC. No approved indication text was available for either one.
 
+<!-- review:begin us-lic-20261106-podofilox-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "No approved indication text was available for either one. Neither product is currently active, so availability would need to be verified." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 5 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-podofilox-1 -->
+
 ---
 
 ## Safety Considerations
@@ -105,11 +111,38 @@ Please refer to the package insert for safety information.
 **Rationale:**
 The prediction rests on model output alone, with no clinical trials and no supporting literature. There is also no plausible mechanism linking an antimitotic wart treatment to a fungal infection, and established antifungal therapies already exist.
 
+<!-- review:begin us-lic-20261106-podofilox-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There is also no plausible mechanism linking an antimitotic wart treatment to a fungal infection, and established antifungal therapies already exist. Both US licenses are cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 5 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-podofilox-2 -->
+
 **To proceed, the following is needed:**
 - Any preclinical or clinical evidence of antifungal activity against *Candida* species (none identified so far)
 - Detailed mechanism of action data
 - Review of the FDA package insert for warnings and contraindications, especially for application to vaginal mucosa
 - Confirmation of current product availability
+
+<!-- review:begin us-lic-20261106-podofilox-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current product availability, since both US licenses are cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 5 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-podofilox-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Neither product is currently active, so availability would need to be verified" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Both US licenses are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since both US licenses are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "HEPARIN"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Heparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -96,15 +96,41 @@ Official label warnings and contraindications were not available in the compiled
 **Rationale:**
 The prediction is mechanistically plausible and close to heparin's existing use in purpura fulminans. However, there are no trials or publications for this indication, the evidence level is L5, and the label safety review is also incomplete. Heparin is marketed in the US.
 
+<!-- review:begin us-lic-20261106-heparin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Heparin is marketed in the US with 13 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 89 FDA applications or NDC listings for this drug, 33 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-heparin-1 -->
+
 **To proceed, the following is needed:**
 - Download and review the FDA package insert for warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data from DrugBank
 - A targeted literature search on heparin in congenital protein C deficiency and purpura fulminans, compared with protein C concentrate
 - Confirmation of the current US market and licensing status (marketed)
 
+<!-- review:begin us-lic-20261106-heparin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the current US market and licensing status (marketed, 13 valid licenses)" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 89 FDA applications or NDC listings for this drug, 33 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-heparin-2 -->
+
 ---
 
 **Note on the second predicted indication (primary release disorder of platelets, score 0.9906):** This is not recommended (Hold, L5). Heparin is an anticoagulant that increases bleeding risk and can cause heparin-induced thrombocytopenia. The 20 associated publications are indirect (cirrhosis coagulation, HIT, cancer-associated VTE) and none evaluates heparin as a treatment for this disorder. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

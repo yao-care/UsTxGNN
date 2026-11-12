@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 792
 evidence_level: L3
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "IMIPRAMINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "benign paroxysmal torticollis of infancy", "obsessive-compulsive disorder"]
 description: "Imipramine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L3). Approved use: Not recorded in the local data"
@@ -106,6 +106,12 @@ Currently no related clinical trials registered.
 
 Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for label safety information.
 
+<!-- review:begin us-lic-20261106-imipramine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All five records are cancelled, and the data compiled contains no approved indication text for them." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 46 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-imipramine-1 -->
+
 - **Contraindications and cautions from the knowledge graph** (not label text): epilepsy, bipolar disorder, major affective disorder, substance abuse/dependence, kidney disease, liver disease, gallbladder disease, thrombocytopenia, neutropenia, agranulocytosis, benign prostatic hyperplasia, coronary artery disease, cardiovascular disease, heart disease, heart conduction disease, sudden cardiac arrest, stroke and cerebrovascular disorders, ileus (including paralytic ileus) and intestinal obstruction, angle-closure glaucoma, ocular hypertension, and hyperthyroidism (including Graves disease and thyrotoxicosis).
 - **Drug interactions:** 100 interactions were recorded. The interactions listed with a **Major** severity level include:
   - Epinephrine
@@ -126,11 +132,31 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The mechanism is plausible and the literature includes a dedicated report and several reviews placing tricyclics as second-line ADHD options. However, there are no registered clinical trials, the evidence is mainly older reviews and small studies, and the cardiac and anticholinergic safety burden and high interaction load are significant. The drug is also marketed in the US, and better-tolerated alternatives exist. The other predicted indications (ADHD inattentive type, faciodigitogenital syndrome, specific developmental disorder, chondromyxoid fibroma, benign paroxysmal torticollis of infancy) have no supporting evidence. Obsessive-compulsive disorder has only weak comparative evidence, and clomipramine and SSRIs are better supported. They do not change this decision.
 
+<!-- review:begin us-lic-20261106-imipramine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is also marketed in the US (5 valid licenses), and better-tolerated alternatives exist." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 46 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-imipramine-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which are currently a blocking gap for safety screening
 - Detailed mechanism of action data from DrugBank
 - Controlled trial evidence (or a systematic review) of imipramine versus placebo or atomoxetine in ADHD
 - A cardiac safety and interaction management plan, particularly for children
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All five records are cancelled, and the data compiled contains no approved indication text for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(5 valid licenses)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

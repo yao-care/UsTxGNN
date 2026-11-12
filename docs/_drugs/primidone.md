@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1083
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Primidone: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy (including generalized tonic-clonic seizures…"
 monitor_inn: "PRIMIDONE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
@@ -75,6 +75,12 @@ Currently no related literature available for trigeminal nerve neoplasm.
 
 For reference, the strongest literature attached to the other predicted indications is limited to:
 
+<!-- review:begin us-lic-20261106-primidone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Three more cancelled ANDAs (083551, 218366, 084903) are not shown. All 8 authorizations in the data compiled for this report are cancelled, and none contains approved indication text." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 12 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-primidone-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [15246950](https://pubmed.ncbi.nlm.nih.gov/15246950/) | 2004 | Review | Epileptic Disord | Antiepileptic drugs are used for non-epilepsy conditions, mostly based on case series and small trials that need confirmation (trigeminal neuralgia) |
@@ -83,6 +89,8 @@ For reference, the strongest literature attached to the other predicted indicati
 | [184518](https://pubmed.ncbi.nlm.nih.gov/184518/) | 1976 | Animal study | Neurol Psychiatr | Effects of phenobarbital, diphenylhydantoin and primidone on brain enzyme activity in mice with audiogenic epilepsy |
 
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -93,6 +101,8 @@ For reference, the strongest literature attached to the other predicted indicati
 | ANDA084903 | PRIMIDONE | LANNETT | Tablet; oral | Valid |
 
 Showing 5 of 12 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -125,6 +135,19 @@ The TxGNN score for trigeminal nerve neoplasm is very high, but there are no cli
 - FDA package insert warnings and contraindications, which block safety screening
 - Preclinical evidence of antitumour activity, if the neoplasm indication is pursued
 - Consider redirecting effort to the more plausible predictions (startle epilepsy and other reflex seizures, trigeminal neuralgia), which need disease-specific clinical evidence and a comparison against established first-line therapies
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Three more cancelled ANDAs (083551, 218366, 084903) are not shown. All 8 authorizations in the data compiled for this report are cancelled, " | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

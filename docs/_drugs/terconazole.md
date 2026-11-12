@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1213
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TERCONAZOLE"
 predicted_indications: ["trichomonal vulvovaginitis", "vulvitis", "postmenopausal atrophic vaginitis", "herpetic vulvovaginitis", "ulceration of vulva", "vulvar neoplasm", "vaginal discharge", "bacterial vaginosis"]
 description: "Terconazole: predicted new indication Trichomonal vulvovaginitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -65,6 +65,12 @@ The compiled literature does not close this gap. The only relevant paper is a ge
 
 Currently no related clinical trials are registered for this predicted indication.
 
+<!-- review:begin us-lic-20261105-terconazole-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All six authorizations in the local data are currently valid. This table lists the first five; the sixth is ANDA077149 (suppository)." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 10 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-terconazole-1 -->
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
@@ -97,6 +103,18 @@ There are no trials or targeted literature for trichomonal vulvovaginitis. The a
 - In vitro susceptibility data against *T. vaginalis*
 - Any clinical or observational data reporting trichomonal outcomes with terconazole
 - Detailed mechanism-of-action data and package-insert safety information (warnings and contraindications)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All six authorizations in the local data are currently valid. This table lists the first five; the sixth is ANDA077149 (suppository)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

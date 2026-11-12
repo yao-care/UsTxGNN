@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "TERLIPRESSIN"
 predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "pulmonary hypertension", "kyphoscoliotic heart disease", "esotropia", "glaucoma 1, open angle", "headache disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Terlipressin: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -113,6 +113,25 @@ The pulmonary hypertension prediction is the only one with any supporting human 
 - Detailed mechanism-of-action data
 - Controlled studies of pulmonary hemodynamics and safety in pulmonary hypertension, outside the portopulmonary and neonatal settings
 - Route and dosage compatibility assessment for pulmonary hypertension
+
+<!-- review:begin us-lic-20261031-terlipressin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Clarification of the US market status, since the only license is cancelled / Route and dosage compatibility assessment for pulmonary hypertension" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-terlipressin-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Clarification of the US market status, since the only license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "PALIFERMIN"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "Scott syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Palifermin: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -80,9 +80,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA125103 | KEPIVANCE | BIOVITRUM AB | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 The manufacturer is Swedish Orphan Biovitrum AB (publ).
 
@@ -104,12 +108,31 @@ Please refer to the package insert for warnings and contraindications. Label-bas
 **Rationale:**
 The prediction is supported only by a TxGNN model (deep learning) score, with no clinical trials, no literature, and no plausible mechanistic link between FGF7/FGFR2b signaling and platelet function.
 
+<!-- review:begin us-lic-20261031-palifermin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction is supported only by a TxGNN model (deep learning) score, with no clinical trials, no literature, and no plausible mechanistic link between FGF7/FGFR2b signaling and platelet function. In addition, the only US license is cancelled, and the label-based safety review could not be completed." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-palifermin-1 -->
+
 **To proceed, the following is needed:**
 - Retrieve the FDA package insert (warnings, contraindications, approved indication), which is required before any safety screening
 - Obtain detailed mechanism of action data from DrugBank
 - Run a targeted literature search for any link between KGF/FGF7 and platelet function or megakaryopoiesis
 - Test the hypothesis in preclinical platelet function assays (e.g., aggregation and granule release) before considering clinical investigation
 - Keep in mind that the model's high scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "In addition, the only US license is cancelled, and the label-based safety review could not be completed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

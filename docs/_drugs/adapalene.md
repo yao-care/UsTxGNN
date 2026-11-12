@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ADAPALENE"
 predicted_indications: ["zinc, elevated plasma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Adapalene: predicted new indication zinc, elevated plasma (evidence level L5). Approved use: Acne"
 ---
 
@@ -81,6 +81,12 @@ Currently no related literature available.
 
 Approved indication text is not available for these authorizations. Only the first 5 are listed here. All forms are topical or swab formulations.
 
+<!-- review:begin us-lic-20261106-adapalene-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are 9 authorizations in total, and all are cancelled. Only the first 5 are listed here." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 31 FDA applications or NDC listings for this drug, 27 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-adapalene-1 -->
+
 ## Safety Considerations
 
 - **Knowledge-graph contraindication signals** (not label text): photoparoxysmal response, photosensitivity disease, exfoliative dermatitis, and dermatitis.
@@ -95,12 +101,32 @@ For label-based warnings and contraindications, please refer to the package inse
 **Rationale:**
 The prediction has no supporting clinical trials or literature (evidence level L5). There is also no recognized mechanistic link between a topical retinoid and plasma zinc levels. The drug is marketed in the US, and because it is topical, a systemic biochemical target is unlikely to be reachable.
 
+<!-- review:begin us-lic-20261106-adapalene-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 9 valid authorizations, and because it is topical, a systemic biochemical target is unlikely to be reachable." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 31 FDA applications or NDC listings for this drug, 27 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-adapalene-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a plausible mechanistic link between retinoid receptor signaling and zinc homeostasis
 - Preclinical or observational evidence connecting adapalene to plasma zinc levels
 - Route compatibility assessment (topical use versus a systemic target)
 - FDA package insert warnings and contraindications, to allow safety screening
 - Clarification of the clinical need, since elevated plasma zinc is a biochemical state rather than a typical treatment target
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "There are 9 authorizations in total, and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 9 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

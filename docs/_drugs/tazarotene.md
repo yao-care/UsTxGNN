@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "TAZAROTENE"
 predicted_indications: ["seborrheic dermatitis", "seborrheic keratosis", "vulvar inverted follicular keratosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tazarotene: predicted new indication Seborrheic dermatitis (evidence level L5). Approved use: Psoriasis, parapsoriasis, acne"
 ---
 
@@ -83,6 +83,12 @@ For reference, the second-ranked prediction, seborrheic keratosis, has two indir
 
 The drug is marketed. Approved indication text was not available. Five main authorizations:
 
+<!-- review:begin us-lic-20261106-tazarotene-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 11 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 16 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tazarotene-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021184 | TAZORAC | Cream | Not available (valid) |
@@ -108,6 +114,12 @@ Not applicable. Tazarotene is not an antineoplastic drug, so this section is omi
 **Rationale:**
 The prediction score is high (0.9979), but the evidence level is L5: there are no clinical trials and no literature for seborrheic dermatitis. In addition, the drug is marketed, but package insert safety data and mechanism data are missing.
 
+<!-- review:begin us-lic-20261106-tazarotene-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the drug is marketed with 11 valid licenses, but package insert safety data and mechanism data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 16 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tazarotene-3 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data (MOA) from DrugBank
@@ -115,6 +127,27 @@ The prediction score is high (0.9979), but the evidence level is L5: there are n
 - Review of the full text of the seborrheic keratosis publications to confirm whether tazarotene was evaluated
 - Clarification of the current availability of the product
 - A tolerability assessment for topical retinoid use on facial seborrheic skin
+
+<!-- review:begin us-lic-20261106-tazarotene-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US market status and the current availability of the product" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 16 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tazarotene-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "the cancelled US market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

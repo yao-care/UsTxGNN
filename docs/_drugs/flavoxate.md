@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "FLAVOXATE"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "irritable bowel syndrome", "specific developmental disorder", "attention deficit-hyperactivity disorder", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "gastroduodenitis", "peptic ulcer disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Flavoxate: predicted new indication Attention deficit hyperactivity disorder, inattentive type (evidence level L5). Approved use: Not stated in the available license data"
 ---
 
@@ -83,12 +83,16 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA076831 | FLAVOXATE HYDROCHLORIDE | PADAGIS US | Tablet; oral | Valid |
 | ANDA076835 | FLAVOXATE HYDROCHLORIDE | EPIC PHARMA | Tablet; oral | Valid |
 | ANDA076234 | FLAVOXATE HYDROCHLORIDE | IMPAX PHARMS | Tablet; oral | Discontinued in Drugs@FDA |
 | NDA016769 | URISPAS | ORTHO MCNEIL JANSSEN | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -104,12 +108,31 @@ Package insert warnings and contraindications were not available. Please refer t
 **Rationale:**
 All eight predictions are supported only by model scores (L5), with no clinical trials or literature. The top-ranked ADHD predictions lack biological plausibility and conflict with flavoxate's anticholinergic profile. Key safety and mechanism data are missing.
 
+<!-- review:begin us-lic-20261106-flavoxate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US license is cancelled, and key safety and mechanism data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 4 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-flavoxate-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - A literature and trial search for the more plausible candidates: irritable bowel syndrome and neurogenic detrusor overactivity (using current terminology)
 - Assessment of route compatibility and similarity to the original indication, which are still pending
 - Clarification of the original approved indication, since no indication text is available in the license data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US license is cancelled, and k" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

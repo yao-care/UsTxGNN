@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "TALIGLUCERASE ALFA"
 predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Taliglucerase Alfa: predicted new indication Hurler syndrome (evidence level L5). Approved use: Gaucher disease"
 ---
 
@@ -80,11 +80,21 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA022458 | ELELYSO | PFIZER | Powder; intravenous | Valid |
 
+<!-- licenses:end -->
+
 The only US authorization is Pfizer's ELELYSO.
+
+<!-- review:begin us-lic-20261106-taliglucerase_alfa-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The only US authorization is Pfizer's ELELYSO, and it has a cancelled status." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-taliglucerase_alfa-2 -->
 
 ## Safety Considerations
 
@@ -97,12 +107,32 @@ Please refer to the package insert for safety information. No warnings, contrain
 **Rationale:**
 The prediction is supported only by the TxGNN score, with no clinical trials or literature (Evidence Level L5). Glucocerebrosidase has no enzymatic activity against the substrates that accumulate in Hurler syndrome, and an approved targeted therapy (laronidase) already exists.
 
+<!-- review:begin us-lic-20261031-taliglucerase_alfa-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Glucocerebrosidase has no enzymatic activity against the substrates that accumulate in Hurler syndrome, and an approved targeted therapy (laronidase) already exists. The only US license is also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-taliglucerase_alfa-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data for taliglucerase alfa
 - Preclinical evidence (for example, in vitro or animal studies) showing any activity against the glycosaminoglycan pathology of MPS I
 - A comparison against laronidase to show a plausible advantage
 - Clarification of the current US regulatory and supply status of the product
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and it has a cancelled status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

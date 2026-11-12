@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "VALRUBICIN"
 predicted_indications: ["colonic neoplasm", "rectosigmoid junction neoplasm", "colonic lymphangioma", "lipoma of colon", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "cecal disease", "benign neoplasm of cecum", "colon leiomyoma", "cavernous hemangioma of colon"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Valrubicin: predicted new indication Colonic neoplasm (evidence level L5). Approved use: Urinary bladder cancer (including bladder carcinoma, bladder neoplasm…"
 ---
 
@@ -72,10 +72,14 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA206430 | VALRUBICIN | HIKMA | Solution; intravesical | Valid |
 | NDA020892 | VALSTAR PRESERVATIVE FREE | ENDO OPERATIONS | Solution; intravesical | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -103,12 +107,31 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction has no clinical or literature support (Evidence Level L5). Valrubicin's local-delivery design with minimal systemic exposure offers no clear route to colonic disease. Safety label data is also missing.
 
+<!-- review:begin us-lic-20261106-valrubicin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Valrubicin's local-delivery design with minimal systemic exposure offers no clear route to colonic disease, and its US authorizations are cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-valrubicin-1 -->
+
 **To proceed, the following is needed:**
 - Detailed mechanism of action data
 - Package insert warnings and contraindications, so safety screening can be done
 - A route-compatibility assessment, since the current formulation is intravesical only
 - Preclinical evidence (for example, in vitro cytotoxicity in colon cancer cell lines) to give the prediction a biological basis
 - A literature and trial search focused on anthracyclines in colorectal tumors
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and its US authorizations are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

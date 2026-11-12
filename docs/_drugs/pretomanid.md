@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "PRETOMANID"
 predicted_indications: ["candidiasis", "leprosy", "coronary artery disease", "myocardial ischemia", "anomalous left coronary artery from the pulmonary artery"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pretomanid: predicted new indication Candidiasis (evidence level L5). Approved use: Not available in the license record (known use: drug-resistant pulmon…"
 ---
 
@@ -102,9 +102,13 @@ For reference, the eight publications retrieved for the second-ranked prediction
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA212862 | PRETOMANID | MYLAN IRELAND LTD | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -125,12 +129,31 @@ Please refer to the package insert for warnings and contraindications, because t
 **Rationale:**
 The candidiasis prediction rests on a model score alone, with no trials, no literature, and no known antifungal activity of pretomanid. The only biologically plausible alternative, leprosy, is still an untested research question (L4) supported only by indirect tuberculosis literature. The cardiovascular predictions have no plausible rationale.
 
+<!-- review:begin us-lic-20261106-pretomanid-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The cardiovascular predictions have no plausible rationale. In addition, the US NDA is recorded as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pretomanid-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - In vitro testing of pretomanid against *Candida* species, if candidiasis remains of interest
 - For leprosy, confirmation that *M. leprae* has a functional Ddn/F420 activation pathway, followed by in vitro or animal-model susceptibility testing
 - Confirmation of the current US regulatory status and the approved indication text
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "In addition, the US NDA is recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

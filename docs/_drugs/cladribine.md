@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CLADRIBINE"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "liver sarcoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cladribine: predicted new indication Parameningeal embryonal rhabdomyosarcoma (evidence level L5). Approved use: Hairy cell leukemia"
 ---
 
@@ -72,7 +72,15 @@ Currently no related literature available for the predicted indication.
 
 For reference, the only publication linked to the broader prediction set is [15241520](https://pubmed.ncbi.nlm.nih.gov/15241520/) (2004, case report, Der Hautarzt). It describes successful cladribine therapy in smoldering systemic mastocytosis. It was matched to the "liver sarcoma" prediction, not to rhabdomyosarcoma, and it concerns a mast cell neoplasm, so it is not evidence for the predicted indication.
 
+<!-- review:begin us-lic-20261106-cladribine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All five authorizations are listed as valid in the data compiled for this report." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-cladribine-2 -->
+
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -83,6 +91,8 @@ For reference, the only publication linked to the broader prediction set is [152
 | ANDA218425 | CLADRIBINE | APOTEX | Tablet; oral | Valid |
 
 Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -111,12 +121,32 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction is based on the model score alone (Evidence Level L5). There are no clinical trials and no relevant publications. The mechanism does not clearly fit rhabdomyosarcoma, the score looks inherited from the disease class, and the drug has substantial myelosuppressive and neurotoxic risks.
 
+<!-- review:begin us-lic-20261105-cladribine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The mechanism does not clearly fit rhabdomyosarcoma, the score looks inherited from the disease class, and the drug has substantial myelosuppressive and neurotoxic risks. All five US licenses are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 8 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-cladribine-1 -->
+
 **To proceed, the following is needed:**
 - Preclinical validation, such as cell-line sensitivity testing in rhabdomyosarcoma models and deoxycytidine kinase expression analysis
 - Detailed mechanism of action data (MOA)
 - FDA package insert warnings and contraindications, to allow safety screening
 - A review of whether the liver sarcoma literature match is an indexing artifact
 - Route-of-administration compatibility and similarity-to-original-indication assessments, which are still pending
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All five US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "All five authorizations are listed as valid in the data compiled for this report" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

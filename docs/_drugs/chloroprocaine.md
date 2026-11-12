@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CHLOROPROCAINE"
 predicted_indications: ["cauda equina syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Chloroprocaine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not stated in the available data (used as a local anesthetic)"
 ---
 
@@ -100,12 +100,31 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction rests on model output alone (L5). The available literature describes cauda equina syndrome as a complication of spinal and epidural local anesthetics, not as a condition they treat, and no therapeutic mechanism is plausible.
 
+<!-- review:begin us-lic-20261105-chloroprocaine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The available literature describes cauda equina syndrome as a complication of spinal and epidural local anesthetics, not as a condition they treat, and no therapeutic mechanism is plausible. All three US authorizations are valid, and the drug is marketed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 6 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-chloroprocaine-1 -->
+
 **To proceed, the following is needed:**
 - Confirmation that the model signal reflects an adverse (causative) association, and reclassification of the finding as a safety signal rather than a repurposing candidate
 - Mechanism of action data and a plausible mechanistic link to cauda equina syndrome
 - FDA package insert warnings and contraindications
 - Original approved indication text for the authorizations
 - Preclinical or clinical evidence of therapeutic benefit, if the candidate is to be reconsidered
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All three US authorizations are valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

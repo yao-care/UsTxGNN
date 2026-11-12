@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 984
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ofloxacin: predicted new indication Hyperamylasemia (evidence level L5). Approved use: Bacterial infections (typhoid fever, salmonellosis…"
 monitor_inn: "OFLOXACIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
@@ -98,6 +98,12 @@ Several other retrieved papers concern resistance mechanisms or other organisms 
 
 The drug is marketed in the US. No approved-indication text is available. The first five are listed below.
 
+<!-- review:begin us-lic-20261106-ofloxacin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 12 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 34 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ofloxacin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | ANDA076622 | Ofloxacin | Solution/drops | A-S Medication Solutions |
@@ -126,12 +132,39 @@ The knowledge-graph contraindication of peripheral neuropathy argues against the
 **Rationale:**
 The top prediction, hyperamylasemia, has no clinical trials, no literature, and no plausible mechanistic link. The drug is marketed in the US, and the label safety data are missing. Of the ten predictions, only septicemic plague has biologically coherent preclinical support (L4), and that remains a research question rather than a development-ready indication.
 
+<!-- review:begin us-lic-20261106-ofloxacin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 12 valid licenses, and the label safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 34 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ofloxacin-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - For hyperamylasemia, a mechanistic hypothesis and any clinical or observational data. Without them, the prediction should not advance.
 - For septicemic plague, a review of current guideline-recommended therapies and of any human data
 - Clarification of current US regulatory and market status, since the drug is marketed
+
+<!-- review:begin us-lic-20261106-ofloxacin-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of current US regulatory and market status, since the drug is marketed with 12 valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 34 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ofloxacin-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

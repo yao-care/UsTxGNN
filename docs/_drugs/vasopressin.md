@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "VASOPRESSIN"
 predicted_indications: ["congenital prothrombin deficiency", "drug-induced osteoporosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Vasopressin: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -71,6 +71,12 @@ One caveat: the cited case reports concern desmopressin, a distinct analog, not 
 
 No clinical trials are registered for this indication, so the clinical trial section is omitted.
 
+<!-- review:begin us-lic-20261106-vasopressin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The compiled data lists nine valid authorizations, and approved indication text is not available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 14 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-vasopressin-2 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Status |
@@ -88,6 +94,12 @@ No clinical trials are registered for this indication, so the clinical trial sec
   - Cisapride
   - Papaverine
   - Macimorelin
+
+<!-- review:begin us-lic-20261106-vasopressin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Four additional cancelled authorizations are on record (Amneal, Civica, Amphastar, Long Grove)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 14 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-vasopressin-1 -->
 
   Moderate interactions include epinephrine, heparin, cilostazol, clarithromycin, levofloxacin, ondansetron, granisetron, palonosetron, promethazine, famotidine, loperamide and chlorpropamide. Several are linked to QT prolongation or cardiovascular effects, so any new use would need a review of the full list.
 
@@ -108,7 +120,28 @@ The TxGNN score is high (0.9963), but there are no clinical trials and the liter
 - Evidence specific to vasopressin, not desmopressin, in congenital prothrombin deficiency
 - A review of the full drug interaction list for the intended patient population
 
+<!-- review:begin us-lic-20261106-vasopressin-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Original approved indication text, which is not available for the nine valid US authorizations" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 14 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-vasopressin-3 -->
+
 **Note on the second prediction:** The model also predicted **drug-induced osteoporosis** (score 0.9962, evidence level L5). No clinical trials or literature support it, and vasopressin would not be expected to treat this condition. Its vasoconstrictive and antidiuretic effects raise safety concerns for chronic use. The recommendation for this indication is also Hold.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Four additional cancelled authorizations are on record (Amneal, Civica, Amphastar, Long Grove)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "The compiled data lists nine valid authorizations, and approved indication text is not available for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "for the nine valid US authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

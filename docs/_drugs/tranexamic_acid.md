@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TRANEXAMIC ACID"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tranexamic Acid: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -77,6 +77,12 @@ Currently no related clinical trials registered.
 
 The first five are listed below.
 
+<!-- review:begin us-lic-20261105-tranexamic_acid-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 13 licenses are valid, and none carries approved indication text in the data compiled. The first five are listed below." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 36 FDA applications or NDC listings for this drug, 27 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-tranexamic_acid-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA203521 | Tranexamic Acid | Injection, solution | Not available |
@@ -113,6 +119,12 @@ Label-based warnings and contraindications were not available. Please refer to t
 **Rationale:**
 The prediction rests solely on a model score. There are no clinical trials, and the two reviews on menstrual bleeding do not show benefit in treating amenorrhea. The mechanism is indirect, since tranexamic acid reduces bleeding rather than restoring menses. Label safety data are missing.
 
+<!-- review:begin us-lic-20261106-tranexamic_acid-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The 13 US licenses are valid, and label safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 36 FDA applications or NDC listings for this drug, 27 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tranexamic_acid-2 -->
+
 **To proceed, the following is needed:**
 - Clarify whether the intended use is treating amenorrhea or menses suppression (for example in haematology patients), as these are different questions
 - Obtain mechanism of action data from DrugBank
@@ -120,6 +132,20 @@ The prediction rests solely on a model score. There are no clinical trials, and 
 - Collect clinical or observational evidence for the clarified indication
 - Evaluate thrombotic risk, especially with concurrent hormonal therapy
 - Confirm current US availability and licensing
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 13 licenses are valid, and none carries approved indication text in the data compiled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "The 13 US licenses are valid, and l" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DEXRAZOXANE"
 predicted_indications: ["sclerosing cholangitis", "bronchitis", "paratyphoid fever", "conjunctivitis", "epiglottitis", "peritonitis", "laryngitis", "urinary tract infection (disease)", "pyelonephritis", "cystitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dexrazoxane: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -71,6 +71,8 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA076068 | DEXRAZOXANE HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
@@ -80,6 +82,8 @@ Currently no related literature available.
 | NDA020212 | ZINECARD | PFIZER | Injectable; injection | Discontinued in Drugs@FDA |
 
 Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -107,6 +111,25 @@ The prediction for sclerosing cholangitis has no supporting clinical trials or l
 - Preclinical evidence, such as cholestasis or bile duct injury models, testing whether iron chelation or ferroptosis inhibition is protective
 - Confirmation of the original approved indication and a review of the current US market status
 - Assessment of route compatibility (the available form is injectable only) and of renal-function-related safety
+
+<!-- review:begin us-lic-20261106-dexrazoxane-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the original approved indication and a review of the current US market status (marketed; all 3 of 3 authorizations valid)" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dexrazoxane-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "(marketed; all 3 of 3 authorizations valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

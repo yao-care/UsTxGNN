@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Sodium acetate"
 predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "Ureaplasma urethritis", "gonococcal urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Sodium Acetate: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: No approved indication text is available in the US licence records"
 ---
 
@@ -76,6 +76,14 @@ Literature retrieved for lower-ranked predictions does not support a therapeutic
 
 The products below are those in the compiled data.
 
+<!-- review:begin us-lic-20261105-sodium_acetate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 12 US licenses are valid and none has approved indication text. The products below are those in the compiled data, and many contain sodium acetate as a component or excipient rather than as the active ingredient." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 55 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-sodium_acetate-1 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA206687 | SODIUM ACETATE | FRESENIUS KABI USA | Solution; intravenous | Valid |
@@ -85,6 +93,8 @@ The products below are those in the compiled data.
 | ANDA219826 | SODIUM ACETATE | SOMERSET THERAPS LLC | Solution; intravenous | Valid |
 
 Showing 5 of 68 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -106,12 +116,32 @@ Please refer to the package insert for label-based warnings and contraindication
 **Rationale:**
 The prediction rests on a model score alone (L5), with no clinical trials or supporting literature and no plausible mechanistic link to prothrombin deficiency. Standard treatment is factor replacement.
 
+<!-- review:begin us-lic-20261106-sodium_acetate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Standard treatment is factor replacement, and the market status is cancelled only." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 55 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-sodium_acetate-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Any preclinical or mechanistic evidence linking acetate to coagulation
 - Route compatibility and similarity-to-original-indication analyses
 - A review of whether a higher-priority candidate indication should be pursued instead, since none of the top 10 predictions has supporting evidence
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 12 US licenses are valid and none has approved indication text. , and many contain sodium acetate as a component or excipient rather tha" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and the market status is cancelled only" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

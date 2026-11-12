@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tadalafil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tadalafil: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -86,6 +86,12 @@ For reference, the only publication found among the top predictions relates to m
 
 Five of them are shown below.
 
+<!-- review:begin us-lic-20261105-tadalafil-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 11 US licenses are valid, and none has approved-indication text on record. Five of them are shown below." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 52 FDA applications or NDC listings for this drug, 44 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-tadalafil-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA205885 | Tadalafil (Teva Pharmaceuticals) | Tablet, film coated | Not available |
@@ -109,12 +115,32 @@ Please refer to the package insert for official warnings and contraindications.
 **Rationale:**
 The prediction has no trials or publications (Evidence Level L5). The biological rationale is weak, and the signal may reflect an adverse-effect association (hypertrichosis from vasodilation) rather than a therapeutic one. The drug is marketed in the US, but the official safety label data is missing.
 
+<!-- review:begin us-lic-20261106-tadalafil-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 11 valid licenses, but the official safety label data is missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 52 FDA applications or NDC listings for this drug, 44 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tadalafil-2 -->
+
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA)
 - FDA package insert warnings and contraindications, needed for safety screening
 - A literature review to clarify the direction of effect for hypertrichosis (therapeutic vs. adverse)
 - Consider a targeted review of PDE5 inhibitors in secondary pulmonary hypertension, which could assess kyphoscoliotic heart disease, the most plausible of the predictions
 - Confirmation of current US market and licensing status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 11 US licenses are valid, and none has approved-indication text on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

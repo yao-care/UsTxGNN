@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "LIDOCAINE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Lidocaine: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Relations recorded in the knowledge graph (not label-confirmed): derm…"
 ---
 
@@ -109,6 +109,12 @@ For reference, the following papers relate to lower-ranked ocular predictions. N
 
 Nine US licences are listed; the list may be partial. No approved indication text was available in the licence records.
 
+<!-- review:begin us-lic-20261106-lidocaine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Nine US licences are listed; the list may be partial. All are single-ingredient products." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lidocaine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA088327 | Lidocaine Hydrochloride | Injection, solution | Not available |
@@ -139,6 +145,19 @@ The top prediction is supported only by a model score. There are no trials or pu
 - Detailed mechanism of action data
 - Preclinical or clinical evidence for lidocaine in punctate epithelial keratoconjunctivitis, with attention to corneal toxicity
 - Confirmation of whether any ophthalmic route or formulation is suitable (route compatibility is still pending)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All are single-ingredient products" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

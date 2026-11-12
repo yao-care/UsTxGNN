@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 740
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fostamatinib: predicted new indication Autosomal thrombocytopenia with normal platelets (evidence level L5). Approved use: Thrombocytopenia due to immune destruction"
 monitor_inn: "FOSTAMATINIB"
 predicted_indications: ["autosomal thrombocytopenia with normal platelets", "non-syndromic esophageal malformation"]
@@ -96,12 +96,31 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 Both predictions are supported only by the model score (evidence level L5), with no clinical trials or literature. The SYK-inhibition mechanism has no clear link to either a heritable platelet disorder or a congenital esophageal malformation.
 
+<!-- review:begin us-lic-20261106-fostamatinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The SYK-inhibition mechanism has no clear link to either a heritable platelet disorder or a congenital esophageal malformation. The US market status is also "Cancelled only"." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fostamatinib-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data, to support or refute any mechanistic link
 - Evidence that the predicted thrombocytopenia involves a SYK-dependent pathway, for example preclinical or mechanistic studies
 - A literature and trial search specific to the predicted indications
 - Review of the interaction profile, particularly the Major interaction with clarithromycin
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US market status is also "Cancelled only"" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

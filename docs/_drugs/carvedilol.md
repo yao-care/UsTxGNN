@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 502
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "CARVEDILOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 description: "Carvedilol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -76,6 +76,12 @@ Currently no related literature available for the top-ranked prediction (maligna
 
 For reference, the closest evidence found for the fourth-ranked prediction (pulmonary hypertension owing to lung disease and/or hypoxia) is mostly preclinical or indirect:
 
+<!-- review:begin us-lic-20261105-carvedilol-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All nine US authorizations are valid, and none has approved-indication text on record." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 21 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-carvedilol-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [19789971](https://pubmed.ncbi.nlm.nih.gov/19789971/) | 2009 | Review | Cardiovasc Drugs Ther | Beta-blocker effects on lung function in heart failure; addresses airway safety rather than pulmonary hypertension efficacy |
@@ -113,6 +119,12 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The prediction comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. There are no trials or literature for malignant hypertensive renal disease, and it largely overlaps with carvedilol's existing hypertension use. The drug is marketed, but label safety data is missing, which blocks safety screening.
 
+<!-- review:begin us-lic-20261106-carvedilol-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed with nine valid US licenses, but label safety data is missing, which blocks safety screening." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 21 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-carvedilol-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently a blocking gap)
 - Mechanism of action data (for example from DrugBank)
@@ -120,6 +132,20 @@ The prediction comes from the TxGNN model (deep learning) and may reflect simila
 - Clarification of whether this is a true new indication or a subtype of the existing hypertension indication
 - For the pulmonary hypertension predictions, human safety and tolerability data on beta-blockade in lung disease
 - Confirmation of current US marketing status for the product
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All nine US authorizations are valid, and none has approved-indication text on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with nine valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

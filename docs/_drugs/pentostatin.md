@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "PENTOSTATIN"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "liver sarcoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pentostatin: predicted new indication Botryoid-type embryonal rhabdomyosarcoma of the vagina (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -72,11 +72,15 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA077841 | PENTOSTATIN | WEST-WARD PHARMS INT | Injectable; injection | Valid |
 | NDA020122 | NIPENT | HOSPIRA INC | Injectable; injection | Valid |
 | ANDA203554 | PENTOSTATIN | RISING | Injectable; injection | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -106,12 +110,38 @@ Package insert warnings and contraindications were not available, so please refe
 **Rationale:**
 The prediction has a high model score but no supporting trials, literature, or verified mechanism (Evidence Level L5). The knowledge graph shows substantial hematologic, hepatic, and renal safety concerns. There is no basis to advance.
 
+<!-- review:begin us-lic-20261106-pentostatin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US license is cancelled, and the knowledge graph shows substantial hematologic, hepatic, and renal safety concerns." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pentostatin-1 -->
+
 **To proceed, the following is needed:**
 - Preclinical evidence of ADA or purine-metabolism dependence in rhabdomyosarcoma models
 - Mechanism-of-action data from DrugBank to allow a verifiable mechanistic link
 - Package insert warnings and contraindications, so that safety screening can proceed
 - A literature and trial search specific to pentostatin in rhabdomyosarcoma or other soft-tissue sarcomas
 - Clarification of route compatibility, which is currently pending
+
+<!-- review:begin us-lic-20261106-pentostatin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of whether the cancelled US status affects drug supply or formulation availability, and of route compatibility, which is currently pending" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pentostatin-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he US license is cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "of whether the cancelled US status affects drug supply or formulation availability, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

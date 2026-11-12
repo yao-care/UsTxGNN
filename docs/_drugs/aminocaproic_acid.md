@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "AMINOCAPROIC ACID"
 predicted_indications: ["severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Aminocaproic Acid: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not stated in the compiled license data"
 ---
 
@@ -70,6 +70,8 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA070010 | AMINOCAPROIC ACID IN PLASTIC CONTAINER | HOSPIRA | Injectable; injection | Valid |
@@ -80,7 +82,15 @@ Currently no related literature available.
 
 Showing 5 of 31 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
+<!-- licenses:end -->
+
 Available dosage forms were oral tablets, injectable solutions, and other solutions.
+
+<!-- review:begin us-lic-20261106-aminocaproic_acid-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "13 valid licenses are on record for this drug in the US market, which is marketed. Available dosage forms were oral tablets, injectable solutions, and other solutions." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 31 FDA applications or NDC listings for this drug, 20 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-aminocaproic_acid-1 -->
 
 ## Safety Considerations
 
@@ -100,6 +110,12 @@ Please refer to the package insert for warnings and contraindications from the l
 **Rationale:**
 The prediction rests solely on a high model score (L5). No trials or publications support it, the mechanistic link is hypothetical, and the thrombotic risk is a particular concern in diabetic patients. In addition, this drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-aminocaproic_acid-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, this drug is marketed in the US with 13 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 31 FDA applications or NDC listings for this drug, 20 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-aminocaproic_acid-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
@@ -107,6 +123,20 @@ The prediction rests solely on a high model score (L5). No trials or publication
 - Preclinical evidence of benefit in retinal models
 - Assessment of route compatibility (for example, whether a systemic or intravitreal route would be needed) and similarity to the original indication
 - A thrombotic risk assessment for diabetic patients
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "13 valid licenses are on record for this drug in the US market, which is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

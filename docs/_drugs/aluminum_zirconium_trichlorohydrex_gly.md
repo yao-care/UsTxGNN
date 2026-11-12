@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -84,6 +84,12 @@ Currently no related literature available in the Evidence Pack. Literature searc
 
 No authorizations found.
 
+<!-- review:begin us-lic-20261105-aluminum_zirconium_trichlorohydrex_gly-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "No authorizations found. The TFDA query on 2026-03-24 returned 0 results for this compound." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-aluminum_zirconium_trichlorohydrex_gly-1 -->
+
 ---
 
 ## Safety Considerations
@@ -108,6 +114,19 @@ The Evidence Pack contains no predicted indications, no original pharmaceutical 
 - **Re-run TxGNN with correct DrugBank ID**: If a valid DrugBank ID is obtained, re-execute the TxGNN prediction pipeline using the standardized identifier.
 - **TFDA/FDA package insert**: Download and parse available safety documentation (DG001) to populate warnings and contraindications before any S1 safety screening.
 - **Re-evaluate evidence level**: Only after a TxGNN prediction candidate is available can an evidence-level determination (L1–L5) and Go/Hold/Proceed-with-Guardrails recommendation be made.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The TFDA query on 2026-03-24 returned 0 results for this compound" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

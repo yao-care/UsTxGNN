@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "GLATIRAMER"
 predicted_indications: ["hemoglobinopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Glatiramer: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Not listed in the data compiled for this report (generally used for r…"
 ---
 
@@ -74,6 +74,12 @@ Currently no related clinical trials registered.
 
 The drug is marketed in the US, and no approved indication text is available in the data compiled for this report.
 
+<!-- review:begin us-lic-20261106-glatiramer-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 9 of 9 licenses valid, and no approved indication text is available in the data compiled for this report." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 11 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-glatiramer-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA020622 | Copaxone (Teva Neuroscience) | Injection, solution | Not available (valid) |
@@ -101,6 +107,26 @@ The prediction rests only on a score from the TxGNN model (deep learning). There
 - Preclinical or mechanistic evidence linking glatiramer's immunomodulation to hemoglobinopathy pathophysiology
 - Clarification of which hemoglobinopathy (sickle cell disease, thalassemia, etc.) is targeted, and of the route and formulation requirements
 - Confirmation of current regulatory and market status
+
+<!-- review:begin us-lic-20261106-glatiramer-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current regulatory and market status (9 of 9 US licenses are currently valid)" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 11 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-glatiramer-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 9 of 9 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(9 of 9 US licenses are currently valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

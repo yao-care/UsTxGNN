@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1206
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TELMISARTAN"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
 description: "Telmisartan: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not recorded in the local data"
@@ -123,6 +123,12 @@ No publications are available for Prinzmetal angina. The tables below show the m
 
 The approved indication text is not available.
 
+<!-- review:begin us-lic-20261106-telmisartan-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 10 records are cancelled generic (ANDA) tablet products, and the approved indication text is not available." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 36 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-telmisartan-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA202397 | Telmisartan (A-S Medication Solutions) | Tablet | Not available (valid) |
@@ -159,6 +165,26 @@ The top prediction, Prinzmetal angina, has only a model score (0.9998) with no t
 - TRIDENT result details and any component-level analysis for intracerebral hemorrhage
 - A clinical (not animal) study of telmisartan alone in cerebral artery occlusion
 - A review of the regulatory position, since the drug is marketed
+
+<!-- review:begin us-lic-20261106-telmisartan-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A review of the regulatory position, since the drug is marketed and 10 licenses are valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 36 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-telmisartan-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 10 records are cancelled generic (ANDA) tablet products, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and 10 licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

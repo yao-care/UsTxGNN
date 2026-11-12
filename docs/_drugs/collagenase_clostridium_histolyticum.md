@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "COLLAGENASE CLOSTRIDIUM HISTOLYTICUM"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "Ledderhose disease", "infantile digital fibromatosis", "hemorrhagic disorder due to a constitutional thrombocytopenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "posterior leukoencephalopathy syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Collagenase Clostridium Histolyticum: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -40,6 +40,12 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 Collagenase Clostridium histolyticum is a collagen-degrading enzyme product that is marketed in the United States. The TxGNN model predicts it may be relevant to **primary release disorder of platelets**, but **no clinical trials and no publications** were found for this disease. The prediction rests on model output alone, and the mechanistic review found no plausible therapeutic rationale.
 
+<!-- review:begin us-lic-20261106-collagenase_clostridium_histolyticum-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Collagenase Clostridium histolyticum is a collagen-degrading enzyme product that is marketed in the United States as a topical ointment." Removed: its description of the US products did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-collagenase_clostridium_histolyticum-2 -->
+
 ## Quick Overview
 
 | Item | Content |
@@ -70,13 +76,23 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA125338 | XIAFLEX | AUXILIUM PHARMS | Solution; injection | Valid |
 | BLA761146 | QWO | ENDO GLOBAL AESTHETICS LTD | Solution; subcutaneous | Valid |
 | NDC 85212-0011 | NOAVIA Retinol Moisturizer | Beijing JUNGE Technology Co., Ltd. | Cream | NDC listing, no FDA application (OTC monograph drug) |
 
+<!-- licenses:end -->
+
 At least one valid licence exists, so the drug is currently marketed in the United States.
+
+<!-- review:begin us-lic-20261106-collagenase_clostridium_histolyticum-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "At least one valid licence exists, so the drug is currently marketed in the United States. The manufacturer is Smith & Nephew, Inc." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-collagenase_clostridium_histolyticum-3 -->
 
 ## Safety Considerations
 
@@ -100,6 +116,20 @@ The prediction has only a model score behind it (evidence level L5), with no tri
 - A mechanism of action dataset for the drug
 - Label warnings and contraindications from the package insert
 - A bleeding-risk assessment in patients with platelet function defects
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Verification of the regulatory and supply status of the injectable product in the US, since the only record listed is a cancelled ointment" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "as a topical ointment" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "The manufacturer is Smith & Nephew, Inc" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

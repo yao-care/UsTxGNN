@@ -81,10 +81,14 @@ No literature is available for the lead prediction (insomnia). The only publicat
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA217213 | METHSUXIMIDE | NOVITIUM PHARMA | Capsule; oral | Valid |
 | NDA010596 | CELONTIN | PARKE DAVIS | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

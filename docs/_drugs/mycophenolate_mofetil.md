@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "MYCOPHENOLATE MOFETIL"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Mycophenolate Mofetil: predicted new indication HIV infectious disease (evidence level L2). Approved use: Not available in the compiled data"
 ---
 
@@ -100,6 +100,8 @@ However, the evidence is mixed. Benefit appears modest, and the drug carries imm
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA065379 | MYCOPHENOLATE MOFETIL | SANDOZ | Capsule; oral | Valid |
@@ -109,6 +111,8 @@ However, the evidence is mixed. Benefit appears modest, and the drug carries imm
 | ANDA090055 | MYCOPHENOLATE MOFETIL | STRIDES PHARMA | Capsule; oral | Valid |
 
 Showing 5 of 55 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 
@@ -120,6 +124,12 @@ Showing 5 of 55 entries (FDA applications first, active before discontinued; NDC
   - Moderate: proton pump inhibitors (omeprazole, esomeprazole, lansoprazole, rabeprazole, dexlansoprazole), antibiotics (amoxicillin, doxycycline, tetracycline, minocycline, clarithromycin, vancomycin, kanamycin, paromomycin), and antacids/minerals (magnesium oxide, aluminium hydroxide, calcium carbonate).
   - Minor: iron, zinc sulfate, zinc acetate.
 - **Relevance to HIV:** Immunosuppression and the infection and malignancy signals above are especially important in an immunocompromised HIV population. The drug is also known to be teratogenic, which is relevant in neonatal indications.
+
+<!-- review:begin us-lic-20261106-mycophenolate_mofetil-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The compiled data lists 17 valid licenses, and none includes approved indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 55 FDA applications or NDC listings for this drug, 38 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-mycophenolate_mofetil-1 -->
 
 Please refer to the package insert for full warnings and contraindications, which were not available in the compiled data.
 
@@ -138,6 +148,26 @@ The HIV prediction has a high model score and a plausible IMPDH and abacavir-pot
 - Review of the existing small RCT results (PMID 15353978) and any follow-up showing durable effects on viral load or the latent reservoir
 - A safety plan covering opportunistic infection, malignancy and bone-marrow suppression in HIV patients
 - Clarification of the regulatory status
+
+<!-- review:begin us-lic-20261106-mycophenolate_mofetil-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory status, since 17 listed US licenses are valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 55 FDA applications or NDC listings for this drug, 38 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-mycophenolate_mofetil-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The compiled data lists 17 valid licenses, and none includes approved indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since 17 listed US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

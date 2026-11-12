@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "DENILEUKIN DIFTITOX"
 predicted_indications: ["plasmacytoma", "neurolymphomatosis", "Richter syndrome", "metastatic neoplasm"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Denileukin Diftitox: predicted new indication Metastatic neoplasm (evidence level L5). Approved use: Primary cutaneous T-cell lymphoma (primary cutaneous T-cell non-Hodgk…"
 ---
 
@@ -120,12 +120,31 @@ Many of the major and moderate interactions involve immunosuppressive or immunom
 **Rationale:**
 The only supporting evidence for metastatic neoplasm is early-phase (mostly Phase 1/2) studies where the drug serves as a Treg-depleting adjunct, with inconsistent results and no Phase 3 trial. The three top-scoring predictions have no study evidence at all. The package insert safety information is also missing, so safety screening cannot proceed.
 
+<!-- review:begin us-lic-20261106-denileukin_diftitox-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The three top-scoring predictions have no study evidence at all, and the product's US market status is "Cancelled only"." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-denileukin_diftitox-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)
 - Mechanism of action data (for example from DrugBank)
 - Published results from the completed melanoma and renal cell carcinoma Phase 2 trials (NCT00299689, NCT00082914)
 - A narrower, well-defined target indication instead of the broad "metastatic neoplasm" category
 - Clarification of the current US market and supply status of LYMPHIR
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the product's US market status is "Cancelled only"" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

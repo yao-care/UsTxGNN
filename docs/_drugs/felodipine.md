@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 696
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Felodipine: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "FELODIPINE"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
@@ -94,6 +94,12 @@ The preclinical papers on hypoxia (rat aorta, atrial muscle, cerebral arteries a
 
 No approved indication text is recorded.
 
+<!-- review:begin us-lic-20261106-felodipine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Six US authorizations are valid. No approved indication text is recorded for them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 15 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-felodipine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA210847 | Felodipine (Westminster Pharmaceuticals) | Tablet, extended release | Not recorded |
@@ -117,12 +123,32 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The top-ranked prediction, pulmonary hypertension with unclear multifactorial mechanism, is supported only by the model score (L5). There are no trials or literature, and the heterogeneous cause makes a single mechanism unlikely to apply broadly.
 
+<!-- review:begin us-lic-20261106-felodipine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no trials or literature, and the heterogeneous cause makes a single mechanism unlikely to apply broadly. Six US licenses are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 15 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-felodipine-2 -->
+
 **To proceed, the following is needed:**
 - Obtain the FDA package insert to confirm warnings, contraindications and approved indications (a blocking gap for safety screening)
 - Obtain detailed mechanism of action data from DrugBank
 - Direct preclinical or clinical evidence of felodipine in pulmonary hypertension, particularly in pulmonary vascular models
 - Assessment of ventilation-perfusion risk in hypoxic lung disease
 - Confirmation of current product availability
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Six US authorizations are valid. for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Six US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1254
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Trazodone: predicted new indication Obsessive-compulsive disorder (evidence level L3). Approved use: Unipolar depression, major depressive disorder"
 monitor_inn: "TRAZODONE"
 predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
@@ -81,6 +81,12 @@ Currently no related clinical trials registered.
 
 The 1992 placebo-controlled study is the strongest item, but the data compiled for this report do not include its full result, and the other literature is largely small, uncontrolled and old.
 
+<!-- review:begin us-lic-20261106-trazodone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Nine licenses are listed in total, all cancelled, and all are oral tablets." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 36 FDA applications or NDC listings for this drug, 16 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-trazodone-1 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
@@ -105,6 +111,12 @@ Please refer to the package insert for formal warnings and contraindications.
 **Rationale:**
 The mechanistic link is plausible and one placebo-controlled study exists, but there are no registered trials, the literature is old and mostly uncontrolled, and trazodone is not an established OCD agent. The package insert safety data are missing.
 
+<!-- review:begin us-lic-20261106-trazodone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US licenses are all cancelled, and the package insert safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 36 FDA applications or NDC listings for this drug, 16 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-trazodone-2 -->
+
 **To proceed, the following is needed:**
 - Full results and critical appraisal of the 1992 placebo-controlled study (PMID 1629380)
 - Detailed mechanism-of-action data
@@ -120,6 +132,19 @@ The mechanistic link is plausible and one placebo-controlled study exists, but t
 | Phobic disorder | 0.9945 | L5 | Rests on the same two panic and agoraphobia studies |
 | Paranoid and histrionic personality disorders | 0.9992 | L5 | Only a drug-interaction case report and a 1975 hysteria report, with no efficacy evidence |
 | Schizoid and schizotypal personality disorders, benign paroxysmal torticollis of infancy, Ohdo syndrome | 0.9992 / 0.9992 / 0.9983 / 0.9928 | L5 | No trials, no literature, no plausible mechanism; scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Nine licenses are listed in total, all cancelled, and all are oral tablets" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "he US licenses are all cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

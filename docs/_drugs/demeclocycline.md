@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 580
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DEMECLOCYCLINE"
 predicted_indications: ["chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
 description: "Demeclocycline: predicted new indication Chronic ethmoidal sinusitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -74,7 +74,15 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261106-demeclocycline-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both authorizations are cancelled, which limits practical feasibility for any repurposing effort." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-demeclocycline-1 -->
+
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -85,6 +93,8 @@ Currently no related literature available.
 | ANDA065171 | DEMECLOCYCLINE HYDROCHLORIDE | BARR | Tablet; oral | Discontinued in Drugs@FDA |
 
 Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -109,6 +119,19 @@ The prediction score is high (0.9914), but there are no clinical trials or publi
 - A literature and trial search for tetracycline-class drugs in chronic sinusitis
 - Assessment of route compatibility and whether a marketed product is available
 - Clarification of why the predicted indication sits far from the original anti-infective profile, particularly for the paranasal sinus neoplasm prediction
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both authorizations are cancelled, which limits practical feasibility for any repurposing effort" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

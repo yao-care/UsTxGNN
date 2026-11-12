@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 539
 evidence_level: L1
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Clomipramine: predicted new indication Anxiety disorder (evidence level L1). Approved use: Obsessive-compulsive disorder"
 monitor_inn: "CLOMIPRAMINE"
 predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "agoraphobia", "attention deficit-hyperactivity disorder"]
@@ -102,6 +102,12 @@ OCD is closely related to the anxiety disorders, and the same neurotransmitter s
 
 The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-clomipramine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 9 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 22 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-clomipramine-2 -->
+
 ## Safety Considerations
 
 - **Contraindications suggested by the knowledge graph (not label text):** epilepsy, manic bipolar disorder, liver disease, gallbladder disease, substance abuse/dependence, malignant hyperthermia, pheochromocytoma, glaucoma, hyperthyroidism/Graves disease/thyrotoxicosis, neuroblastoma, and several cancers (duodenum, small intestine, heart, adrenal gland).
@@ -134,6 +140,26 @@ Clomipramine has a plausible serotonergic mechanism and supportive older studies
 - A dedicated randomised trial in a defined anxiety disorder (for example, panic disorder)
 - A safety monitoring plan covering cardiac, seizure and anticholinergic risks, and a drug interaction review
 - Clarification of practical availability
+
+<!-- review:begin us-lic-20261106-clomipramine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of practical availability, given that the US market status is cancelled only" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 22 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-clomipramine-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "given that the US market status is cancelled only" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

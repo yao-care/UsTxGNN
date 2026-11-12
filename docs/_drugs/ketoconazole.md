@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 825
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ketoconazole: predicted new indication Acne (disease) (evidence level L4). Approved use: Fungal skin infections (e.g., tinea pedis, seborrheic dermatitis…"
 monitor_inn: "KETOCONAZOLE"
 predicted_indications: ["acne (disease)"]
@@ -91,6 +91,12 @@ None of these publications is a randomized trial of ketoconazole in acne. The ev
 
 None includes approved-indication text. The five main ones are listed below.
 
+<!-- review:begin us-lic-20261105-ketoconazole-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The drug is marketed in the US, and all 12 US licenses compiled for this report are valid. None includes approved-indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 28 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-ketoconazole-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA020310 | Nizoral (Kramer Laboratories) | Shampoo | Not available |
@@ -116,11 +122,38 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction is plausible, particularly for topical use, but supporting evidence is thin. There is one small, ongoing trial with an active comparator and no results, and the literature is laboratory-based or indirect. Systemic ketoconazole carries serious safety risks, and the drug is marketed in the US. The evidence level is L4, and the TxGNN score alone does not justify advancing.
 
+<!-- review:begin us-lic-20261106-ketoconazole-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Systemic ketoconazole carries serious safety risks, and the drug is marketed in the US under 12 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 28 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ketoconazole-2 -->
+
 **To proceed, the following is needed:**
 - Results from NCT07237763, and ideally larger placebo-controlled or head-to-head Phase 2/3 trials of topical ketoconazole in acne
 - Confirmation of the mechanism of action and its link to acne, including the distinction between Malassezia folliculitis and true acne vulgaris
 - Package insert warnings and contraindications, which are currently missing and block formal safety screening
 - A decision on formulation (topical only is the realistic route) and a check of its current US regulatory and marketing status, given that the drug is marketed
+
+<!-- review:begin us-lic-20261106-ketoconazole-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A decision on formulation (topical only is the realistic route) and a check of its current US regulatory and marketing status, given that the drug is marketed under 12 valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 28 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ketoconazole-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The drug is marketed in the US, and all 12 US licenses compiled for this report are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "under 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "under 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

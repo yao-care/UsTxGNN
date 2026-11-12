@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 595
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DEXMETHYLPHENIDATE"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "multiple system atrophy", "variably protease-sensitive prionopathy", "manic bipolar affective disorder", "trichotillomania", "cerebellar ataxia", "autosomal dominant cerebellar ataxia", "postural orthostatic tachycardia syndrome"]
 description: "Dexmethylphenidate: predicted new indication Specific developmental disorder (evidence level L5). Approved use: Not recorded in the local data"
@@ -79,6 +79,12 @@ No literature was found for the top predicted indication (specific developmental
 
 The drug is marketed. No approved indication text is available.
 
+<!-- review:begin us-lic-20261106-dexmethylphenidate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with nine valid authorizations. No approved indication text is available for them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 24 FDA applications or NDC listings for this drug, 18 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dexmethylphenidate-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | NDA021802 | Focalin (Sandoz Inc) | Extended-release capsule | Valid |
@@ -111,11 +117,31 @@ Please refer to the package insert for warnings and contraindications, which wer
 **Rationale:**
 The prediction rests on the model score only (L5), with no trials or literature, and the score from the TxGNN model (deep learning) may reflect similarities the model learned between related diseases such as ADHD, not biological evidence. The drug is marketed in the US, and the knowledge graph flags several relevant safety conditions.
 
+<!-- review:begin us-lic-20261106-dexmethylphenidate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with nine valid authorizations, and the knowledge graph flags several relevant safety conditions." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 24 FDA applications or NDC listings for this drug, 18 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dexmethylphenidate-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (for example from DrugBank) to assess the mechanistic link
 - FDA package insert warnings and contraindications for formal safety screening
 - A literature and trial search specific to specific developmental disorder, and a clear definition of which conditions that term covers
 - Review of the other top predictions, which are likely artifacts or safety-limited, only if a clear rationale emerges
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with nine valid authorizations for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with nine valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

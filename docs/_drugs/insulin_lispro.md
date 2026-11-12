@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Insulin lispro"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Insulin Lispro: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -80,6 +80,12 @@ Currently no related literature available for autoimmune oophoritis.
 
 Approved indication text was not available for these entries.
 
+<!-- review:begin us-lic-20261106-insulin_lispro-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "One additional cancelled license (BLA761109, LYUMJEV, injection solution, A-S Medication Solutions) is also on record. Approved indication text was not available for these entries." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-insulin_lispro-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: 100 interactions were identified in total. Most of those reviewed are of moderate severity, and a few are minor. Examples include:
@@ -111,6 +117,19 @@ The prediction rests on model output alone (evidence level L5), with no trials o
 - Drug-induced localized lipodystrophy (0.9909): insulin injection is a known cause, not a treatment.
 - Pancreatic agenesis (0.9909): insulin replacement is standard care but falls within the existing diabetes indication. The single review found (PMID 12150359, 2002) covers type 2 diabetes in general and is not specific to this condition.
 - Centrifugal lipodystrophy (0.9904) and pressure-induced localized lipoatrophy (0.9903): no supporting evidence, and insulin injections are themselves associated with lipoatrophy.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "One additional cancelled license (BLA761109, LYUMJEV, injection solution, A-S Medication Solutions) is also on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

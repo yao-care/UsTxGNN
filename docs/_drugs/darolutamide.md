@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "DAROLUTAMIDE"
 predicted_indications: ["homozygous familial hypercholesterolemia", "multiple endocrine neoplasia", "HIV infectious disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Darolutamide: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -91,9 +91,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA212099 | NUBEQA | BAYER HEALTHCARE | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -129,12 +133,38 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction rests only on a model score, with no clinical trials, no literature, and no plausible mechanism linking androgen receptor antagonism to homozygous familial hypercholesterolemia. The package insert safety data has not been obtained, which blocks safety screening.
 
+<!-- review:begin us-lic-20261106-darolutamide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US market status is also "Cancelled only", and the package insert safety data has not been obtained, which blocks safety screening." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-darolutamide-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (for example, from DrugBank) to assess any biological link
 - Approved indication text, to confirm the original indication
 - Preclinical or mechanistic evidence linking androgen receptor signalling to LDL receptor function or lipid metabolism before any clinical investigation
 - Review of the statin interactions if lipid-lowering use is ever pursued
+
+<!-- review:begin us-lic-20261106-darolutamide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled NDA status / Preclinical or mechanistic evidence linking androgen receptor signalling to LDL receptor function or lipid metabolism before any clinical investigation" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-darolutamide-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he US market status is also "Cancelled only", and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Clarification of the cancelled NDA status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

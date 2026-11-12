@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1311
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "ZOLMITRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Zolmitriptan: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
@@ -92,6 +92,12 @@ Currently no related clinical trials registered.
 
 Only 5 of the 11 authorizations are shown.
 
+<!-- review:begin us-lic-20261106-zolmitriptan-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Only 5 of the 11 authorizations are shown. All 11 are listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 26 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-zolmitriptan-1 -->
+
 ## Safety Considerations
 
 - **Contraindications suggested by the knowledge graph (not label text):** hypertension; coronary artery disease; myocardial infarction and myocardial ischemia; Prinzmetal angina; stroke, transient ischemic attack and cerebrovascular disorders; peripheral vascular disease and Raynaud disease; ischemic bowel disease; Wolff-Parkinson-White syndrome; hemiplegic migraine; kidney and liver disease. These need confirmation against the official package insert.
@@ -109,12 +115,32 @@ Only 5 of the 11 authorizations are shown.
 **Rationale:**
 The prediction is biologically plausible because brainstem aura is a migraine subtype, but the evidence is at L4: no clinical trials, and no literature that specifically addresses brainstem aura. Triptans have historically carried precautions in this subtype because of vasoconstrictive risk. Label-based safety data are also missing.
 
+<!-- review:begin us-lic-20261106-zolmitriptan-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Triptans have historically carried precautions in this subtype because of vasoconstrictive risk, and the US licenses are all cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 26 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-zolmitriptan-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, especially regarding brainstem aura and hemiplegic migraine
 - Mechanism of action data (for example from DrugBank)
 - A dedicated cardiovascular and cerebrovascular safety assessment for brainstem aura
 - Clinical or observational data specific to brainstem aura
 - Clarification of current US market status and available formulations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 11 are listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and the US licenses are all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

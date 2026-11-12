@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FIBRINOGEN HUMAN"
 predicted_indications: ["hemoglobinopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fibrinogen Human: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Not listed in the US license data compiled for this report (general u…"
 ---
 
@@ -82,6 +82,12 @@ For other safety information, such as warnings and contraindications, please ref
 **Rationale:**
 The prediction rests only on a TxGNN score, with no clinical trials or literature (Evidence Level L5). Mechanism of action data is missing. The proposed link to hemoglobinopathy is speculative.
 
+<!-- review:begin us-lic-20261106-fibrinogen_human-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Mechanism of action data is missing, and both US licenses are cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fibrinogen_human-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a clear rationale for hemoglobinopathy
 - Literature and clinical trial searches targeting fibrinogen use in hemoglobinopathy-related bleeding
@@ -89,6 +95,26 @@ The prediction rests only on a TxGNN score, with no clinical trials or literatur
 - Clarification of the original approved indications
 - Route and formulation compatibility assessment for the proposed use
 - Review of the Major interaction with Carfilzomib
+
+<!-- review:begin us-lic-20261106-fibrinogen_human-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled license status and the original approved indications" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fibrinogen_human-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and both US licenses are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled license status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

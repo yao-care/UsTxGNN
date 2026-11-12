@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "PLATINUM"
 predicted_indications: ["urinary bladder carcinoma", "infiltrating bladder urothelial carcinoma", "non-invasive bladder urothelial carcinoma", "bladder urachal urothelial carcinoma", "bladder signet ring cell adenocarcinoma", "bladder colonic type adenocarcinoma", "bladder colloid adenocarcinoma", "bladder mixed adenocarcinoma", "bladder clear cell adenocarcinoma", "urinary bladder neoplasm"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Platinum: predicted new indication Urinary bladder carcinoma (evidence level L1). Approved use: Not available"
 ---
 
@@ -41,6 +41,12 @@ Evidence Level: **L1** | Predicted Indications: **10**
 Platinum (DrugBank DB12257) is a generic or elemental entry.
 The TxGNN model predicts it may be effective for **Urinary Bladder Carcinoma**, with **5 clinical trials** and **20 publications** currently supporting this direction.
 The evidence mostly reflects platinum-class drugs (cisplatin, carboplatin) rather than this specific entry, so it should be read with caution.
+
+<!-- review:begin us-lic-20261031-platinum-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Its only US record is a cancelled homeopathic pellet product, and no approved indication is on file. / The TxGNN model predicts it may be effective for **Urinary Bladder Carcinoma**, with **5 clinical trials** and **20 publications** currently supporting this direction." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-platinum-1 -->
 
 ---
 
@@ -153,6 +159,19 @@ Platinum-based chemotherapy is guideline-endorsed standard care in urothelial ca
 - Define patient selection, for example cisplatin eligibility and DNA repair gene biomarkers such as ERCC2.
 - Review results from ARCHER and the Phase 4 DNA repair biomarker study as they become available.
 - Treat the non-invasive and rare adenocarcinoma histologies as research questions or on hold until direct evidence emerges.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Its only US record is a cancelled homeopathic pellet product, and no approved indication is on file" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

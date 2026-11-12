@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1024
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PEMBROLIZUMAB"
 predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "pulmonary sulcus neoplasm", "lung germ cell tumor", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
 description: "Pembrolizumab: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Not recorded in the local data"
@@ -118,6 +118,12 @@ These support pembrolizumab's established use in malignant lung cancer. They are
 
 This should be verified against the current FDA label, since pembrolizumab is widely marketed in practice.
 
+<!-- review:begin us-lic-20261031-pembrolizumab-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only US license record is marked cancelled, and no indication text was captured. This should be verified against the current FDA label, since pembrolizumab is widely marketed in practice." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-pembrolizumab-1 -->
+
 ---
 
 ## Safety Considerations
@@ -144,6 +150,26 @@ The top prediction, gingival fibromatosis, rests on a model score alone, with no
 - Mechanism of action data (e.g., from DrugBank)
 - Disease-specific preclinical or clinical evidence for any predicted indication, particularly lung germ cell tumor
 - A risk-benefit review of immune-related toxicity for non-malignant or neuromuscular conditions
+
+<!-- review:begin us-lic-20261031-pembrolizumab-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "A risk-benefit review of immune-related toxicity for non-malignant or neuromuscular conditions / Confirmation of current US licensing status, since the only record is marked cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-pembrolizumab-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license record is marked cancelled, and no indication text was captured" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Confirmation of current US licensing status, since the only record is marked cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

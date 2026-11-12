@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BISMUTH SUBSALICYLATE"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "salmonellosis", "typhoid fever", "conjunctivitis", "relapsing fever", "acute contagious conjunctivitis", "gingivitis", "punctate epithelial keratoconjunctivitis", "otitis externa"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Bismuth Subsalicylate: predicted new indication Paratyphoid fever (evidence level L5). Approved use: Diarrheal disease, dyspepsia"
 ---
 
@@ -85,6 +85,12 @@ No literature was found for paratyphoid fever. The table below lists the most re
 
 For **gingivitis** (second supported prediction), the literature is preclinical or historical:
 
+<!-- review:begin us-lic-20261105-bismuth_subsalicylate-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The drug is marketed in the US, and all three authorizations are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 2 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-bismuth_subsalicylate-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [28837052](https://pubmed.ncbi.nlm.nih.gov/28837052/) | 2017 | Preclinical (in vitro) | Nanotechnology | Bismuth subsalicylate nanoparticles showed antibacterial activity against oral anaerobic bacteria |
@@ -117,6 +123,12 @@ Label-based warnings were not available for this report. Please refer to the pac
 **Rationale:**
 The top-ranked prediction, paratyphoid fever, rests on model score alone (L5) with no trials or literature, and a non-absorbed gut-acting agent is unlikely to treat a systemic infection. Salmonellosis and gingivitis are worth treating as research questions (L4), but their support is limited to in vitro, veterinary, and historical sources.
 
+<!-- review:begin us-lic-20261105-bismuth_subsalicylate-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The drug is marketed in the US with three valid authorizations, and label safety data are missing. Salmonellosis and gingivitis are worth treating as research questions (L4), but their support is limited to in vitro, veterinary, and historical sources." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 2 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-bismuth_subsalicylate-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
@@ -124,6 +136,27 @@ The top-ranked prediction, paratyphoid fever, rests on model score alone (L5) wi
 - For gingivitis, modern controlled studies and a suitable topical or oral-care formulation
 - Confirmation of the contraindication signals listed above against official labeling
 - Confirmation of current US regulatory status
+
+<!-- review:begin us-lic-20261105-bismuth_subsalicylate-3 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Confirmation of current US regulatory status, given that the drug is marketed with three valid authorizations" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 2 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-bismuth_subsalicylate-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The drug is marketed in the US, and all three authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "The drug is marketed in the US with three valid authorizations, and label safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "given that the drug is marketed with three valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

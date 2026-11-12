@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "HALOPERIDOL"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Haloperidol: predicted new indication Congenital disorder of glycosylation with defective fucosylation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -81,6 +81,12 @@ Currently no related literature available.
 
 The data compiled for this report contain no approved-indication text for these products. The five shown below are the first five of the 10.
 
+<!-- review:begin us-lic-20261105-haloperidol-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 10 US authorizations are generic applications (ANDAs) and are valid. The data compiled for this report contain no approved-indication text for these products." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 125 FDA applications or NDC listings for this drug, 34 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-haloperidol-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA216004 | Haloperidol (Novadoz) | Tablet | Not specified |
@@ -110,6 +116,12 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The prediction rests only on a TxGNN model (deep learning) score. There are no trials, no literature, and no plausible mechanistic link. The drug has notable safety burdens (QT prolongation, seizure threshold, extrapyramidal effects, many interactions).
 
+<!-- review:begin us-lic-20261106-haloperidol-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US licenses are all cancelled, and the drug has notable safety burdens (QT prolongation, seizure threshold, extrapyramidal effects, many interactions)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 125 FDA applications or NDC listings for this drug, 34 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-haloperidol-2 -->
+
 **To proceed, the following is needed:**
 - A biological rationale connecting haloperidol to fucosylation or glycosylation pathways, along with its mechanism of action data
 - Preclinical evidence (for example, cell or animal models of the disorder)
@@ -117,6 +129,20 @@ The prediction rests only on a TxGNN model (deep learning) score. There are no t
 - Confirmation of drug availability
 
 It has Phase 3 trial evidence (including a placebo- and haloperidol-controlled trial of olanzapine, NCT00129220) and supportive systematic reviews and a Cochrane review. This is largely an established, guideline-supported use rather than a novel repurposing, and it would be rated L1 with a recommendation of Proceed with Guardrails. The guardrails are extrapyramidal symptoms, QT prolongation, tardive dyskinesia risk, and the large number of drug interactions.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 10 US authorizations are generic applications (ANDAs) and are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "he US licenses are all cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

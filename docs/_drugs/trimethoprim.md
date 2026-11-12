@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1264
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TRIMETHOPRIM"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 description: "Trimethoprim: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -83,6 +83,12 @@ Background literature for the existing conjunctivitis use (not evidence for the 
 
 The drug is marketed in the US. Approved-indication text was not available.
 
+<!-- review:begin us-lic-20261106-trimethoprim-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 7 of 7 licences valid. Approved-indication text was not available." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 84 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-trimethoprim-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | NDA018679 | Trimethoprim (Dr. Reddy's) | Tablet | Valid |
@@ -94,6 +100,12 @@ The drug is marketed in the US. Approved-indication text was not available.
 ## Safety Considerations
 
 Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for safety information.
+
+<!-- review:begin us-lic-20261106-trimethoprim-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two further cancelled licences (ANDA211572 and ANDA065006) are polymyxin B/trimethoprim ophthalmic solutions." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 84 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-trimethoprim-1 -->
 
 - **Knowledge-graph contraindication signals** (not label text): porphyria and other porphyrin metabolism disorders, kidney disease, liver disease, gallbladder disease, thrombocytopenia, neutropenia, agranulocytosis, G6PD deficiency, folic acid deficiency anemia, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, glycogen storage disease, cystinuria, galactosemia and pyoureter.
 - **Drug interactions** (100 recorded; examples):
@@ -110,11 +122,32 @@ These apply mainly to systemic use; their relevance to topical ophthalmic use is
 **Rationale:**
 The 0.9957 score is a computational prediction only, with no trials or literature for punctate epithelial keratoconjunctivitis. The condition is often viral or immune-mediated, so an antibacterial is mechanistically unlikely to address it. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-trimethoprim-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The condition is often viral or immune-mediated, so an antibacterial is mechanistically unlikely to address it. The drug is marketed in the US, with 7 of 7 licences valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 84 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-trimethoprim-3 -->
+
 **To proceed, the following is needed:**
 - Evidence that bacterial infection plays a role in this condition, or any clinical or preclinical data in this setting
 - Mechanism of action data and package insert warnings and contraindications
 - Confirmation of the route and formulation (ophthalmic) and of current market availability
 - A comparison with existing standard care, to judge whether any added benefit is plausible
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Two further cancelled licences (ANDA211572 and ANDA065006) are polymyxin B/trimethoprim ophthalmic solutions" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 of 7 licences valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 of 7 licences valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

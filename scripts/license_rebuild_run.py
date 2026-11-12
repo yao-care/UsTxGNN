@@ -21,6 +21,7 @@ OTC monograph／未核准類別的列名產品另外計數（2026-11-06 起用 o
 """
 import importlib.util
 import json
+import os
 import re
 import subprocess
 import sys
@@ -73,7 +74,7 @@ def main(argv):
         run(["git", "diff", "--", "docs"], check=False)
         (OUT / "pages.diff").write_text(run(["git", "diff", "--", "docs"], check=False).stdout, encoding="utf-8")
         if code:
-            run(["git", "checkout", "--", "docs"], check=False)
+            run(["git", "checkout", "--", "docs", "snapshots"], check=False)  # 快照跟頁面一起還原（2026-11-12）
         md()
         print("\n".join(S))
         sys.exit(code)
@@ -114,8 +115,29 @@ def main(argv):
     # 2026-11-06（用戶決定）：許可證表列了不屬於本藥的申請號、或已是程式產生的表 → 依證據包整張重排（規則見 scripts/sync_license_tables.py）
     r = run([PY, "scripts/sync_license_tables.py", "--ws", str(ws), "--report", str(OUT / "tables.tsv"), "--changed", str(OUT / "apps_changed.json")])
     S.append("- " + r.stdout.strip().split("\n")[-1])
+    # 2026-11-12 本站查核機制：刪句前先存一份頁面，刪完把刪掉的子句轉成查核紀錄（docs/_data/drug_reviews.json，
+    # 頁面顯示 Review correction 框與 Review Log），再重套紀錄、重建許可證快照（gate 第 17、18 項檢查）
+    import shutil
+    before = OUT / "pages_before_delete"
+    shutil.rmtree(before, ignore_errors=True)
+    shutil.copytree(ROOT / "docs/_drugs", before)
     r = run([PY, ".claude/delete_license_sentences.py", SITE, "--log", str(OUT / "deletions.tsv")], cwd=ws)
     S.append("- 矛盾句：" + r.stdout.strip().split("\n")[-1])
+    today_rec = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d")
+    r = run([PY, "scripts/reviews_from_edits.py", "--dirs", str(before), str(ROOT / "docs/_drugs"),
+             "--date", today_rec, "--commit", "license-rebuild " + os.environ.get("GITHUB_RUN_ID", "local"), "--write"], check=False)
+    S.append("- 查核紀錄：" + (r.stdout.strip().split("\n") or [""])[0])
+    if r.returncode != 0:
+        stop(4, "刪句轉查核紀錄失敗：" + (r.stdout + r.stderr)[-300:])
+    r = run([PY, "scripts/apply_drug_reviews.py"], check=False)
+    S.append("- " + (r.stdout.strip().split("\n") or [""])[-1])
+    if r.returncode != 0:
+        stop(4, "查核紀錄套用有問題：" + (r.stdout + r.stderr)[-300:])
+    r = run([PY, "scripts/build_license_snapshot.py", "--ws", str(ws)], check=False)
+    S.append("- " + (r.stdout.strip().split("\n") or [""])[-1])
+    if r.returncode != 0:
+        stop(4, "許可證快照重建失敗：" + (r.stdout + r.stderr)[-300:])
+    shutil.rmtree(before, ignore_errors=True)
     lr = _load("lr", ws / ".claude/license_refresh_20261029.py")
     today = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d")
     n_body = lr.fix_lastmod(SITE, today)

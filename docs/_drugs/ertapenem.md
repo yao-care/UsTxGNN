@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ERTAPENEM"
 predicted_indications: ["bacterial arthritis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ertapenem: predicted new indication Bacterial arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -84,6 +84,12 @@ Currently no related clinical trials registered.
 
 The first five are listed below.
 
+<!-- review:begin us-lic-20261105-ertapenem-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 6 authorizations are valid, and no label indication text was available. The first five are listed below." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 7 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-ertapenem-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|-----------|------|
 | NDA021337 | INVANZ | Injection, powder, lyophilized, for solution | Merck Sharp & Dohme LLC | Valid |
@@ -106,13 +112,40 @@ Please refer to the package insert for warnings, contraindications and dosing in
 **Rationale:**
 The mechanistic fit is reasonable and the TxGNN score is high. However, the evidence consists of case reports and mixed-infection cohorts, with no registered trials and no controlled data in bacterial arthritis.
 
+<!-- review:begin us-lic-20261105-ertapenem-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "However, the evidence consists of case reports and mixed-infection cohorts, with no registered trials and no controlled data in bacterial arthritis. The drug is marketed in the US, and all 6 US licenses are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 7 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-ertapenem-2 -->
+
 **To proceed, the following is needed:**
 - Prospective or well-designed comparative studies of ertapenem in septic arthritis and bone and joint infections, including pathogen-specific outcomes
 - Mechanism of action data and the official package insert warnings and contraindications
 - Confirmation of current US availability
 - A review of the knowledge-graph contraindication signals (kidney disease, epilepsy, *C. difficile* colitis) against the label
 
+<!-- review:begin us-lic-20261105-ertapenem-3 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Confirmation of current US availability, although all 6 listed licenses are valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 7 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-ertapenem-3 -->
+
 A separate direction may be worth considering. The second-ranked prediction, *Staphylococcus aureus* infection, has a Phase 2 trial (NCT04886284, cefazolin plus ertapenem in MSSA bacteremia) and supporting salvage-therapy case series. It has stronger evidence than bacterial arthritis, but it is a combination-regimen question, not ertapenem monotherapy.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 6 authorizations are valid, and no label indication text was available" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "The drug is marketed in the US, and all 6 US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "although all 6 listed licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

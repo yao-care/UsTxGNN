@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TEPROTUMUMAB"
 predicted_indications: ["monosomy X", "esophageal varices with bleeding", "esophageal varices without bleeding", "mixed gonadal dysgenesis", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Turner syndrome due to structural X chromosome anomalies", "mosaic monosomy X", "sex chromosome disorder of sex development", "varicose disease", "X chromosome number anomaly"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Teprotumumab: predicted new indication Monosomy X (evidence level L5). Approved use: Endocrine exophthalmos"
 ---
 
@@ -111,12 +111,31 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction is supported only by a model score, with no clinical trials or literature (Evidence Level L5). No plausible mechanistic link exists, and IGF-1R blockade would be expected to work against growth in Turner syndrome.
 
+<!-- review:begin us-lic-20261106-teprotumumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "No plausible mechanistic link exists, and IGF-1R blockade would be expected to work against growth in Turner syndrome. The US license is also listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-teprotumumab-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking data gap for safety screening)
 - Detailed mechanism of action data
 - A credible mechanistic hypothesis connecting IGF-1R inhibition to monosomy X, supported by preclinical evidence
 - Clarification of the current US regulatory and marketing status
 - Review of whether any of the other predicted indications has a stronger rationale
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US license is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Methoxy Polyethylene Glycol-Epoetin Beta: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not listed in the compiled data"
 ---
 
@@ -81,9 +81,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA125164 | MIRCERA | HOFFMAN-LA ROCHE | Solution; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -98,12 +102,38 @@ No drug interaction records were found, and no contraindications from the knowle
 **Rationale:**
 The prediction rests on a model score alone, with no clinical or literature support. The proposed mechanistic links are weak, and several predicted indications are thrombotic conditions in which ESA thrombosis risk would be a safety concern.
 
+<!-- review:begin us-lic-20261031-methoxy_polyethylene_glycol-epoetin_beta-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The proposed mechanistic links are weak, and several predicted indications are thrombotic conditions in which ESA thrombosis risk would be a safety concern. The only US license is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-methoxy_polyethylene_glycol-epoetin_beta-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (blocking gap for safety screening)
 - Mechanism of action data
 - Original approved indication text
 - Preclinical or mechanistic evidence for any predicted indication, with a prior safety review for the thrombotic and retinopathy candidates
 - Clarification of the regulatory and supply status
+
+<!-- review:begin us-lic-20261106-methoxy_polyethylene_glycol-epoetin_beta-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory and supply status given the cancelled license" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-methoxy_polyethylene_glycol-epoetin_beta-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given the cancelled license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

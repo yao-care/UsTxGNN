@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Insulin human"
 predicted_indications: ["autoimmune oophoritis", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Insulin Human: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Type 2 diabetes mellitus, type 1 diabetes mellitus…"
 ---
 
@@ -96,6 +96,12 @@ Currently no related literature available.
 
 Only the first 5 are shown above. The other three are Novolin (BLA019938 and BLA019991, Novo Nordisk) and MYXREDLIN (BLA208157, Baxter Healthcare Corporation).
 
+<!-- review:begin us-lic-20261106-insulin_human-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The compiled data lists 8 authorizations in total, all with cancelled status. Only the first 5 are shown above." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-insulin_human-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: The interaction query completed with 100 interactions recorded. The 19 reviewed here are mostly Moderate, with a few Minor. Notable moderate ones include:
@@ -122,6 +128,19 @@ The prediction for autoimmune oophoritis is supported only by a TxGNN model (dee
 - A literature and trial search specific to autoimmune oophoritis and insulin, to test whether any real-world support exists
 - Route compatibility and similarity-to-original-indication assessments, which are still pending
 - Clarification of the regulatory picture, since the drug is marketed with 8 valid licenses
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The compiled data lists 8 authorizations in total, all with cancelled status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

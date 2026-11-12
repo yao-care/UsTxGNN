@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "DICYCLOMINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dicyclomine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -76,6 +76,12 @@ Currently no related literature available.
 
 The drug is marketed in the US. Approved indication text was not available. The main ones are:
 
+<!-- review:begin us-lic-20261106-dicyclomine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 13 valid licenses. Approved indication text was not available for these entries." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 46 FDA applications or NDC listings for this drug, 31 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dicyclomine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA084285 | Dicyclomine Hydrochloride (NuCare Pharmaceuticals) | Capsule | Not available |
@@ -104,12 +110,32 @@ Please refer to the package insert for label warnings and contraindications.
 **Rationale:**
 The prediction has a high model score but no clinical trials or literature (Evidence Level L5). The drug would only address symptoms, not the cause of cauda equina syndrome, and its anticholinergic effect may worsen urinary retention. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-dicyclomine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug would only address symptoms, not the cause of cauda equina syndrome, and its anticholinergic effect may worsen urinary retention. The drug is marketed in the US, with 13 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 46 FDA applications or NDC listings for this drug, 31 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dicyclomine-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications
 - Mechanism of action data
 - A literature and trial search, including for neurogenic detrusor overactivity as the better-supported alternative
 - Assessment of urinary retention risk and anticholinergic burden in the target population
 - Clarification of current US availability and route compatibility
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 13 valid licenses for these entries" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

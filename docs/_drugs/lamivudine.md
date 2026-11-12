@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 830
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "LAMIVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 description: "Lamivudine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: Not recorded in the local data"
@@ -87,6 +87,12 @@ Currently no related clinical trials registered.
 
 The drug is marketed in this country, and no approved indication text is available.
 
+<!-- review:begin us-lic-20261106-lamivudine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in this country, with 13 valid licenses in the compiled data, and no approved indication text is available." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 65 FDA applications or NDC listings for this drug, 34 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lamivudine-3 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | NDA020564 | EPIVIR | Film-coated tablet | ViiV Healthcare Company |
@@ -109,11 +115,38 @@ Please refer to the package insert for official warnings and contraindications.
 **Rationale:**
 The predicted indication, SIV infection, is a non-human research-model disease with no clinical trials and only preclinical macaque evidence (Evidence Level L4). It offers no human repurposing opportunity.
 
+<!-- review:begin us-lic-20261106-lamivudine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "It offers no human repurposing opportunity, and lamivudine's US licenses are all cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 65 FDA applications or NDC listings for this drug, 34 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lamivudine-1 -->
+
 **To proceed, the following is needed:**
 - Confirmation that a human indication is actually being targeted. The current top predictions are animal-model or veterinary diseases, and the human-relevant ones are not supported.
 - Official package insert warnings and contraindications, which are currently missing and block safety screening.
 - Detailed mechanism of action data from DrugBank.
 - Clarification of the current regulatory pathway if development is pursued.
+
+<!-- review:begin us-lic-20261106-lamivudine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US license status, and the current regulatory pathway if development is pursued." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 65 FDA applications or NDC listings for this drug, 34 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lamivudine-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and lamivudine's US licenses are all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled US license status, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 13 valid licenses in the compiled data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1231
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TIOPRONIN"
 predicted_indications: ["renal tubular acidosis", "adult polyglucosan body disease", "tricarboxylic acid cycle disorder", "disease of transporter activity", "pyruvate metabolism disorder", "inborn disorder of fatty acid oxidation and ketone body metabolism"]
 description: "Tiopronin: predicted new indication Renal tubular acidosis (evidence level L5). Approved use: Not recorded in the local data"
@@ -82,6 +82,12 @@ Currently no related literature available.
 
 Two further licenses are not shown: ANDA216278 (Amneal, delayed-release tablet) and ANDA214326 (Teva, sugar-coated tablet).
 
+<!-- review:begin us-lic-20261105-tiopronin-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Two further licenses are not shown: ANDA216278 (Amneal, delayed-release tablet) and ANDA214326 (Teva, sugar-coated tablet). All 7 licenses are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 9 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-tiopronin-1 -->
+
 ## Safety Considerations
 
 No label-based warnings or contraindications were available. The following comes from knowledge-graph drug-disease contraindication associations and is not label text:
@@ -106,6 +112,19 @@ The prediction rests only on a computational score. The knowledge-graph contrain
 - A literature and trial search for tiopronin in renal tubular acidosis, with preclinical evidence of a plausible mechanism
 - Confirmation of current availability of the 7 valid US licenses
 - Route and dosage-form compatibility assessment for the proposed indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 7 licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

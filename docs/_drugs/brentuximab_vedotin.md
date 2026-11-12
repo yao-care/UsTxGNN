@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 467
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Brentuximab Vedotin: predicted new indication Follicular lymphoma (evidence level L2). Approved use: Hodgkin lymphoma (classic Hodgkin lymphoma and related subtypes)"
 monitor_inn: "BRENTUXIMAB VEDOTIN"
 predicted_indications: ["follicular lymphoma", "myeloid leukemia", "acute lymphoblastic/lymphocytic leukemia", "B-cell neoplasm", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "Richter syndrome", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
@@ -132,10 +132,36 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The mechanistic rationale is weak because follicular lymphoma is generally CD30-low or negative. The only directly relevant trial (NCT04587687) is small, single-arm, and has no results, and the other linked trials were withdrawn or terminated early. The literature does not address follicular lymphoma. In addition, package-insert safety data is missing.
 
+<!-- review:begin us-lic-20261106-brentuximab_vedotin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the single US license (BLA125388) is listed as cancelled in the compiled data, and package-insert safety data is missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-brentuximab_vedotin-2 -->
+
 **To proceed, the following is needed:**
 - Results from NCT04587687, plus data on CD30 expression in follicular lymphoma to define any responsive subset
 - Package insert warnings and contraindications, and mechanism-of-action data
 - Other candidates in this prediction set may be stronger. For example, CD30-positive diffuse large B-cell lymphoma (listed under B-cell neoplasm) has Phase 2 data and recent publications, and could be evaluated separately.
+
+<!-- review:begin us-lic-20261031-brentuximab_vedotin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Verification of current US marketing status, since the compiled data shows only a cancelled license / Other candidates in this prediction set may be stronger." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-brentuximab_vedotin-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Verification of current US marketing status, since the compiled data shows only a cancelled license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the single US license (BLA125388) is listed as cancelled in the compiled data, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "LEVOCARNITINE"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "rheumatoid arthritis", "sclerosing cholangitis", "gout", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congestive heart failure", "hypoalphalipoproteinemia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Levocarnitine: predicted new indication Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (evidence level L5)."
 ---
 
@@ -42,6 +42,12 @@ Levocarnitine is a carnitine product that supports fatty acid transport into mit
 The TxGNN model predicts it may be effective for **autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome**, an ultra-rare vascular and basement-membrane disorder.
 This prediction has **0 clinical trials** and **0 publications** behind it, so it rests on the model score alone.
 
+<!-- review:begin us-lic-20261106-levocarnitine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Levocarnitine is a carnitine product that supports fatty acid transport into mitochondria, and its US licenses are currently all in cancelled status." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 15 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-levocarnitine-2 -->
+
 ## Quick Overview
 
 | Item | Content |
@@ -70,6 +76,12 @@ Currently no related literature available.
 ## US Market Information
 
 No approved indication text was available for any of them.
+
+<!-- review:begin us-lic-20261105-levocarnitine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Of the 11 licenses listed, all 11 are valid. No approved indication text was available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 15 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-levocarnitine-1 -->
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -101,7 +113,28 @@ It is a model output that cannot be acted on in its current form.
 - Package insert warnings and contraindications, and a review of the interaction burden (especially anticoagulants)
 - Clarification of regulatory status
 
+<!-- review:begin us-lic-20261106-levocarnitine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of regulatory status across the 11 valid US licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 15 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-levocarnitine-3 -->
+
 **Note on other predicted indications:** The same prediction run produced candidates with far stronger support. **Congestive heart failure** (score 0.9947) has a completed Phase 2/3 randomized, placebo-controlled trial of L-carnitine injection (NCT01580553, 268 participants), a recruiting early-phase trial (NCT07201714), and supportive clinical literature. Its trial results still need to be verified. It would be a more productive candidate to evaluate first.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "Of the 11 licenses listed, all 11 are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and its US licenses are currently all in cancelled status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "across the 11 valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DOXAPRAM"
 predicted_indications: ["vascular disease", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "angiodysplasia of stomach", "blue toe syndrome", "hemangioendothelioma", "atheroembolism of kidney", "neurogenic thoracic outlet syndrome", "visceral calciphylaxis", "lymphangiectasis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Doxapram: predicted new indication Vascular disease (evidence level L5). Approved use: Respiratory failure"
 ---
 
@@ -117,11 +117,37 @@ Please also refer to the package insert for label warnings and contraindications
 **Rationale:**
 The high TxGNN score is not backed by any clinical trial or relevant literature, and the mechanism does not plausibly fit vascular disease. Evidence is limited to indirect, mostly preclinical or safety-related findings (L4).
 
+<!-- review:begin us-lic-20261031-doxapram-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Several vascular conditions appear among the knowledge-graph cautions, and the only US license is cancelled. Evidence is limited to indirect, mostly preclinical or safety-related findings (L4)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-doxapram-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking for safety screening)
 - Detailed mechanism of action data, to test whether any mechanistic link to vascular disease exists
 - A specific, clinically defined vascular indication, with supporting preclinical or clinical data
 - A review of the contraindicated vascular conditions against the proposed use
+
+<!-- review:begin us-lic-20261031-doxapram-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "A review of the contraindicated vascular conditions against the proposed use / Clarification of the regulatory and route situation, given that the only US license is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-doxapram-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Several vascular conditions appear among the knowledge-graph cautions, and the only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Clarification of the regulatory and route situation, given that the only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

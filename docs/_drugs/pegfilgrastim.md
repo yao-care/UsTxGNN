@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "PEGFILGRASTIM"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pegfilgrastim: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not stated in the compiled data (pegfilgrastim is generally known as…"
 ---
 
@@ -73,6 +73,12 @@ Currently no related literature available.
 
 All seven US biologics licenses for pegfilgrastim are valid, and the approved-indication text was not available for any of them.
 
+<!-- review:begin us-lic-20261106-pegfilgrastim-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two further licenses, NYVEPRIA (BLA761111, Pfizer) and STIMUFEND (BLA761173, Northstar Rx), are also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 9 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pegfilgrastim-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | BLA125031 | Neulasta (Amgen, Inc) | Injection | Not available |
@@ -98,12 +104,32 @@ Package insert warnings and contraindications were not available in the compiled
 **Rationale:**
 The only support is a very high model score (0.9989). There are no clinical trials or publications and no verifiable mechanism, although the drug is marketed. G-CSF could plausibly help or harm in retinal vascular disease, so the direction of effect is unknown.
 
+<!-- review:begin us-lic-20261106-pegfilgrastim-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials or publications and no verifiable mechanism, although all seven US licenses are valid and the drug is marketed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 9 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pegfilgrastim-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - A literature and trial search on G-CSF or progenitor cell mobilization in diabetic retinopathy, including any evidence of harm
 - Preclinical evidence (e.g., diabetic retinopathy models) showing the direction of effect
 - Assessment of route compatibility, since systemic injection would need to be justified against current ocular treatments
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Two further licenses, NYVEPRIA (BLA761111, Pfizer) and STIMUFEND (BLA761173, Northstar Rx), are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "all seven US licenses are valid and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

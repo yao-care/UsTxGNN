@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "NELARABINE"
 predicted_indications: ["relapsing-remitting multiple sclerosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Nelarabine: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -74,6 +74,12 @@ Currently no related literature available.
 
 Approved indication text was not available in the compiled data.
 
+<!-- review:begin us-lic-20261106-nelarabine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The 10 US authorizations are all injectable products and all currently have cancelled status. Approved indication text was not available in the compiled data." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 11 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-nelarabine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | NDA021877 | Arranon | Injection | Sandoz Inc |
@@ -104,6 +110,12 @@ Approved indication text was not available in the compiled data.
 **Rationale:**
 The prediction has no supporting clinical trials or literature (evidence level L5). Nelarabine's known neurotoxicity, including demyelination, and the knowledge-graph contraindication with demyelinating disease run directly against use in multiple sclerosis. The drug is currently marketed in the US.
 
+<!-- review:begin us-lic-20261106-nelarabine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is currently marketed in the US, with 10 of 10 licenses valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 11 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-nelarabine-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data to support the mechanistic link analysis
@@ -111,6 +123,20 @@ The prediction has no supporting clinical trials or literature (evidence level L
 - A neurotoxicity risk assessment specific to a demyelinating CNS disease population
 - Comparison against cladribine, which has an established MS indication and a more suitable safety profile
 - Route and formulation compatibility assessment (nelarabine is injectable only)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The 10 US authorizations are all injectable products and all currently have cancelled status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 10 of 10 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

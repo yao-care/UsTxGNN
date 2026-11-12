@@ -9,7 +9,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "POLYETHYLENE GLYCOL 3500"
 predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Polyethylene Glycol 3500: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -74,7 +74,11 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 No FDA application or NDC Directory listing matching this drug was found in the data compiled for this report.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -95,12 +99,31 @@ No drug interaction records were found. Please refer to the package insert for o
 **Rationale:**
 The prediction rests only on a model score. Effective ichthyosis treatments already exist.
 
+<!-- review:begin us-lic-20261031-polyethylene_glycol_3500-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials or publications, the mechanism is unknown, oral PEG 3500 is minimally absorbed, and the only US license is cancelled. Effective ichthyosis treatments already exist." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-polyethylene_glycol_3500-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for PEG 3500 and a plausible biological link to ichthyosis
 - Route and formulation assessment, since a topical product would be needed and none is currently identified
 - Package insert warnings and contraindications to complete safety screening
 - Preclinical or early exploratory evidence (for example, skin hydration or barrier studies) showing benefit over existing emollients
 - A literature and trial search to confirm that no relevant studies exist
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "There are no clinical trials or publications, the mechanism is unknown, oral PEG 3500 is minimally absorbed, and the only US license is canc" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

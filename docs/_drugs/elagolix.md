@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ELAGOLIX"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Elagolix: predicted new indication Amenorrhea (evidence level L5). Approved use: Endometriosis (including endometriosis of the uterus)"
 ---
 
@@ -114,12 +114,31 @@ Please refer to the package insert for full warnings and precautions, as label-b
 **Rationale:**
 The prediction is supported only by model score and mechanistic proximity (L4 evidence). No clinical trials exist, and the literature addresses fibroids and heavy menstrual bleeding, not amenorrhea as a therapeutic goal. Amenorrhea is a symptom and a pharmacological effect, not a disease target.
 
+<!-- review:begin us-lic-20261031-elagolix-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Amenorrhea is a symptom and a pharmacological effect, not a disease target. In addition, the only US license is cancelled, and label safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-elagolix-1 -->
+
 **To proceed, the following is needed:**
 - Clarify whether amenorrhea is a meaningful therapeutic target, or whether the underlying condition (for example, heavy menstrual bleeding with fibroids) is the real candidate indication
 - Obtain the FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Obtain detailed mechanism of action data from DrugBank
 - Confirm the current US regulatory and marketing status of the product
 - Review the bone density and hepatic safety profile, given the knowledge-graph contraindications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "In addition, the only US license is cancelled, and label safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

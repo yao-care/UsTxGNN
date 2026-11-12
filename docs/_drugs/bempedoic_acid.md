@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "BEMPEDOIC ACID"
 predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "infectious bovine rhinotracheitis", "malignant catarrh", "cytomegalovirus infection", "hyperthyroxinemia", "drug-induced osteoporosis", "multiple endocrine neoplasia", "pregnancy associated osteoporosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Bempedoic Acid: predicted new indication hyperthyroidism (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -66,6 +66,12 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261106-bempedoic_acid-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The licence records compiled for this report show both licences with a cancelled status, while the overall market status is recorded as marketed. These records conflict, so the current market status should be checked against the FDA database before any decision." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-bempedoic_acid-1 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
@@ -94,6 +100,19 @@ The prediction has no supporting clinical trials or publications, and no mechani
 - FDA package insert warnings and contraindications, to start safety screening
 - Clarification of the licence and market status records
 - Review of the interaction profile, including the major interactions with corticosteroids and simvastatin, which may matter in thyroid disease management
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The licence records compiled for this report show both licences with a cancelled status, while the overall market status is recorded as mark" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

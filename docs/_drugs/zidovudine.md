@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1304
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Zidovudine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease, AIDS"
 monitor_inn: "ZIDOVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
@@ -94,6 +94,12 @@ Currently no related clinical trials registered.
 
 Marketed in the US. The data compiled for this report contain no approved-indication text.
 
+<!-- review:begin us-lic-20261106-zidovudine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Marketed in the US: 13 of 13 licences are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 36 FDA applications or NDC listings for this drug, 16 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-zidovudine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA019655 | RETROVIR | Capsule | Not available |
@@ -121,6 +127,12 @@ Please refer to the package insert for official warnings and contraindications.
 **Rationale:**
 The prediction score is high, but support is limited to macaque and in vitro studies with no human trials, and the indication is an animal-model version of the drug's original HIV use. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-zidovudine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 13 of 13 licences valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 36 FDA applications or NDC listings for this drug, 16 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-zidovudine-2 -->
+
 **To proceed, the following is needed:**
 - Clarification of whether SIV infection has any translational purpose beyond serving as a research model
 - Detailed mechanism of action data
@@ -137,6 +149,19 @@ The prediction score is high, but support is limited to macaque and in vitro stu
 | Obsolete familial combined hyperlipidemia | L5 | Hold | Obsolete term with no evidence; NRTIs tend to cause dyslipidemia, not treat it |
 | Congenital HIV | L1 | Proceed with Guardrails | Phase 3 trials (NCT00102960, NCT00001104) and public health guidance exist, but this is essentially the original HIV indication; monitor for anemia and neutropenia |
 | AIDS related complex | L1 | Proceed with Guardrails | Phase 3 trial NCT00001011 (n=538) supports use, but ARC is an outdated term and this is the historical original indication; many interactions and hematologic toxicity require guardrails |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: ": 13 of 13 licences are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 13 of 13 licences valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

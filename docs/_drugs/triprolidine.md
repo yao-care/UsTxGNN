@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1266
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TRIPROLIDINE"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
 description: "Triprolidine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -69,7 +69,6 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [2568212](https://pubmed.ncbi.nlm.nih.gov/2568212/) | 1989 | Review | Clinical Pharmacy | Review of non-sedating H1 antagonists (terfenadine, astemizole, loratadine, acrivastine). Acrivastine is a metabolite of triprolidine. Indirect, class-level information only. |
@@ -104,11 +103,30 @@ The official package insert warnings and contraindications were not available. P
 **Rationale:**
 The prediction score is high, but the evidence is indirect. There are no triprolidine-specific trials, and the only literature concerns related drugs or is a historical study. Allergic urticaria also largely overlaps with the drug's existing indications, so there is little true repurposing value.
 
+<!-- review:begin us-lic-20261031-triprolidine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Allergic urticaria also largely overlaps with the drug's existing indications, so there is little true repurposing value. The only US license is cancelled, and the label safety data needed for screening are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 28 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-triprolidine-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - Triprolidine-specific clinical evidence in urticaria, or a clear regulatory rationale for why the existing indication does not already cover it
 - Confirmation of current US marketing status and available formulations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, and the label safety data needed for screening are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

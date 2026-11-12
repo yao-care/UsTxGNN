@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1125
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "RIMEGEPANT"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 description: "Rimegepant: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
@@ -96,9 +96,13 @@ The papers below concern rimegepant in migraine in general. None is specific to 
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA212728 | NURTEC ODT | PFIZER | Tablet, orally disintegrating; oral | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -121,12 +125,38 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction is plausible, but it is essentially a subtype of the approved migraine indication rather than a new use. No trial or publication addresses brainstem aura specifically.
 
+<!-- review:begin us-lic-20261106-rimegepant-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "No trial or publication addresses brainstem aura specifically, and the US NDA is recorded as cancelled, which needs verification." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-rimegepant-1 -->
+
 **To proceed, the following is needed:**
 - Verify the current US market status of NURTEC ODT (NDA212728)
 - Obtain the FDA package insert warnings and contraindications, which are currently missing and block safety screening
 - Obtain detailed mechanism of action data (for example from DrugBank)
 - Find or generate evidence specific to migraine with brainstem aura, such as subgroup analyses of the existing Phase 3 trials or a dedicated study
 - Review the drug-interaction profile, especially the Major interactions
+
+<!-- review:begin us-lic-20261106-rimegepant-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Verify the current US market status of NURTEC ODT (NDA212728) and the reason it is recorded as cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-rimegepant-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the US NDA is recorded as cancelled, which needs verification" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and the reason it is recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

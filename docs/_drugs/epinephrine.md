@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 660
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "EPINEPHRINE"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -96,6 +96,12 @@ Two caveats apply. The Phase 3 evidence is for an inhaled HFA-MDI epinephrine fo
 
 The drug is marketed in the US. The approved-indication text is not available.
 
+<!-- review:begin us-lic-20261106-epinephrine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 11 valid licenses. The approved-indication text is not available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 96 FDA applications or NDC listings for this drug, 54 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-epinephrine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA214697 | neffy | Spray | Not available |
@@ -118,11 +124,23 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 Three completed Phase 3 trials of inhaled epinephrine (E004) in asthma support the prediction (L1), and asthma is already an established indication. However, the evidence is specific to one inhaled formulation, bronchiolitis data are mixed, and the drug is marketed.
 
+<!-- review:begin us-lic-20261106-epinephrine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, the evidence is specific to one inhaled formulation, bronchiolitis data are mixed, and the drug is marketed with 11 valid US licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 96 FDA applications or NDC listings for this drug, 54 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-epinephrine-2 -->
+
 **To proceed, the following is needed:**
 - Confirm current US regulatory status and formulation
 - Obtain the package insert warnings and contraindications
 - Obtain detailed mechanism-of-action data
 - Review the cardiovascular and drug-interaction risks for the intended population
+
+<!-- review:begin us-lic-20261106-epinephrine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirm current US regulatory status and formulation against the 11 valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 96 FDA applications or NDC listings for this drug, 54 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-epinephrine-3 -->
 
 ---
 
@@ -132,6 +150,20 @@ Three completed Phase 3 trials of inhaled epinephrine (E004) in asthma support t
 |------|------|------|------|------|
 | Rienhoff syndrome | 0.9957 | L5 | Hold | No trials, no literature and no identifiable mechanistic rationale. |
 | Respiratory malformation | 0.9956 | L3 | Research Question | The only trial covers transient tachypnoea of the newborn, which is not a structural malformation. Much of the literature is off-target. |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 11 valid licenses for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "against the 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

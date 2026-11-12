@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "EFLORNITHINE"
 predicted_indications: ["esotropia", "neurotrophic keratopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Eflornithine: predicted new indication Esotropia (evidence level L5). Approved use: Human African trypanosomiasis (trypanosomiasis)"
 ---
 
@@ -70,11 +70,15 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA215500 | IWILFIN | USWM | Tablet; oral | Valid |
 | NDA019879 | ORNIDYL | SANOFI AVENTIS US | Injectable; injection | Discontinued in Drugs@FDA |
 | NDA021145 | VANIQA | ABBVIE | Cream; topical | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -90,12 +94,31 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction rests only on a model score, with no clinical trials or publications, and no plausible mechanistic link between ODC inhibition and ocular alignment.
 
+<!-- review:begin us-lic-20261031-eflornithine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests only on a model score, with no clinical trials or publications, and no plausible mechanistic link between ODC inhibition and ocular alignment. The only US NDA is cancelled, and label safety data were not available." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-eflornithine-1 -->
+
 **To proceed, the following is needed:**
 - Retrieve the FDA package insert to obtain warnings and contraindications (this blocks safety screening)
 - Obtain complete mechanism-of-action data from DrugBank
 - Establish a biological rationale linking polyamine metabolism to extraocular muscle or neural control of ocular alignment, supported by preclinical evidence
 - Assess route compatibility (the available product is an oral tablet; ocular indications may need a different route)
 - Search for preclinical or clinical studies in esotropia (and neurotrophic keratopathy) before reconsidering
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US NDA is cancelled, and label safety data were not available" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

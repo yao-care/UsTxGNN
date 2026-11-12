@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 543
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "CLOTRIMAZOLE"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
 description: "Clotrimazole: predicted new indication Acne (disease) (evidence level L5). Approved use: Not recorded in the local data"
@@ -91,6 +91,12 @@ Currently no related literature available.
 
 The list may be partial.
 
+<!-- review:begin us-lic-20261105-clotrimazole-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 4 listed licences are valid. The list may be partial." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 43 FDA applications or NDC listings for this drug, 24 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-clotrimazole-1 -->
+
 ---
 
 ## Safety Considerations
@@ -116,6 +122,18 @@ No completed study tests clotrimazole in acne. The only trial is a suspended stu
 - Mechanism-of-action data to clarify how an antifungal could act in acne
 - Package insert safety information (warnings and contraindications)
 - Review of the drug interaction profile for the intended patient population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 4 listed licences are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

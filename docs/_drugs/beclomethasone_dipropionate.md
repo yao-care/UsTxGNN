@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "BECLOMETHASONE DIPROPIONATE"
 predicted_indications: ["atopic eczema"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Beclomethasone Dipropionate: predicted new indication Atopic eczema (evidence level L3). Approved use: Asthma, allergic rhinitis"
 ---
 
@@ -90,6 +90,12 @@ Currently no related clinical trials registered.
 
 No topical dermatological formulation is listed.
 
+<!-- review:begin us-lic-20261105-beclomethasone_dipropionate-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All three authorizations are valid, and all are inhaled or intranasal aerosol products. No topical dermatological formulation is listed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 14 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-beclomethasone_dipropionate-1 -->
+
 ## Safety Considerations
 
 - **Contraindications flagged in the knowledge graph** (not label text): liver disease, gallbladder disease, adrenocortical insufficiency, Addison disease, ocular hypertension, glaucoma, herpes simplex virus keratitis, and a range of infections (measles, varicella zoster, fungal, dermatophytosis, parasitic, mycobacterial, leprosy, and infectious disease in general). Also flagged: lower and upper respiratory tract disease, paranasal sinus disease, and nasal cavity disease.
@@ -105,12 +111,32 @@ Please refer to the package insert for label warnings, which were not available 
 **Rationale:**
 The high model score is not backed by modern clinical evidence: there are no registered trials, and the literature consists of small, older studies, reviews, and safety reports, some pointing to adrenal and growth concerns. Many approved topical corticosteroids already treat atopic eczema, but none is a dermatological product.
 
+<!-- review:begin us-lic-20261105-beclomethasone_dipropionate-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Many approved topical corticosteroids already treat atopic eczema, and the drug is marketed in the US with all 3 authorizations valid, but none is a dermatological product." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 14 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-beclomethasone_dipropionate-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - A rationale for a differentiated advantage over existing topical corticosteroids
 - A suitable topical formulation and route, since the known products are inhaled or intranasal
 - Modern comparative clinical trials against approved topical corticosteroids, with pediatric safety monitoring (adrenal function, growth, bone turnover)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All three authorizations are valid, and all are inhaled or intranasal aerosol products" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "and the drug is marketed in the US with all 3 authorizations valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

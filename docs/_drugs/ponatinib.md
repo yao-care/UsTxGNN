@@ -78,10 +78,14 @@ For the second prediction, liposarcoma:
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA203469 | ICLUSIG | TAKEDA PHARMS USA | Tablet; oral | Valid |
 | ANDA215893 | PONATINIB HYDROCHLORIDE | APOTEX | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

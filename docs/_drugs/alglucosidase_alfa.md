@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 221
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Alglucosidase Alfa: predicted new indication Adult polyglucosan body disease (evidence level L5). Approved use: Glycogen storage disease (Pompe disease)"
 monitor_inn: "ALGLUCOSIDASE ALFA"
 predicted_indications: ["adult polyglucosan body disease", "congenital entropion", "congenital ectropion", "congenital Horner syndrome (disease)", "ptosis-vocal cord paralysis syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "epiblepharon", "ptosis-strabismus-ectopic pupils syndrome"]
@@ -78,12 +78,22 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA125141 | MYOZYME | GENZYME | Injectable; iv (infusion) | Valid |
 | BLA125291 | LUMIZYME | GENZYME | Powder; iv (infusion) | Valid |
 
+<!-- licenses:end -->
+
 The dosage forms are injectable only.
+
+<!-- review:begin us-lic-20261106-alglucosidase_alfa-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both licenses are listed as cancelled in the data compiled for this report, and the dosage forms are injectable only." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-alglucosidase_alfa-1 -->
 
 ## Safety Considerations
 
@@ -98,6 +108,12 @@ No drug interaction records were found, and no knowledge-graph contraindications
 **Rationale:**
 The prediction is supported only by a model score. There are no clinical trials or publications, and the mechanism is weak: the enzyme targets lysosomal acid alpha-glucosidase, not GBE1 deficiency, and it has limited CNS penetration. The US market status and the lack of safety label data add further uncertainty.
 
+<!-- review:begin us-lic-20261106-alglucosidase_alfa-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US market status (both licenses cancelled) and the lack of safety label data add further uncertainty." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-alglucosidase_alfa-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
@@ -105,6 +121,20 @@ The prediction is supported only by a model score. There are no clinical trials 
 - Evidence on CNS delivery of the enzyme
 - Verification of current US regulatory status
 - Assessment of route compatibility (currently pending)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both licenses are listed as cancelled in the data compiled for this report, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(both licenses cancelled)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

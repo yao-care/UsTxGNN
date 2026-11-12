@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 749
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "GEMFIBROZIL"
 predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
 description: "Gemfibrozil: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Not recorded in the local data"
@@ -76,6 +76,12 @@ Currently no related clinical trials registered.
 
 The compiled data do not list approved-indication text for them.
 
+<!-- review:begin us-lic-20261106-gemfibrozil-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All five US licenses are generic tablets and are now cancelled. The compiled data do not list approved-indication text for them." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 21 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-gemfibrozil-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | ANDA204189 | Gemfibrozil (Viona Pharmaceuticals) | Tablet | ANDA (Discontinued in Drugs@FDA) |
@@ -100,6 +106,12 @@ Please refer to the package insert for formal warnings and contraindications.
 **Rationale:**
 The prediction score is very high, but support is limited to animal and mechanistic studies, with no registered human trials. Gemfibrozil also has substantial interaction and hepatobiliary safety concerns. This is a hypothesis, not yet a development candidate.
 
+<!-- review:begin us-lic-20261106-gemfibrozil-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Gemfibrozil also has substantial interaction and hepatobiliary safety concerns, and its US licenses are all cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 21 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-gemfibrozil-2 -->
+
 For context, two other predicted indications for gemfibrozil have more human evidence. These are protease inhibitor-associated hypertriglyceridemia in HIV patients (randomized double-blind data, though this is largely an extension of its original lipid indication) and hypoalphalipoproteinemia (small older crossover studies using lipid surrogate endpoints).
 
 **To proceed, the following is needed:**
@@ -107,6 +119,20 @@ For context, two other predicted indications for gemfibrozil have more human evi
 - Formal mechanism-of-action data and package-insert warnings and contraindications.
 - A safety assessment for rheumatoid arthritis patients, who commonly take interacting or hepatically relevant drugs such as methotrexate.
 - A small proof-of-concept clinical study design, if the preclinical results are confirmed.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All five US licenses are generic tablets and are now cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and its US licenses are all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

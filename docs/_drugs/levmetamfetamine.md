@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 851
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "LEVMETAMFETAMINE"
 predicted_indications: ["nasal cavity disease"]
 description: "Levmetamfetamine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -60,7 +60,6 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 This offers a plausible link between the original indication (pharyngitis, an upper respiratory tract mucosal condition) and nasal cavity conditions such as congestion. Both involve the same mucosal tract and overlapping congestive symptoms. This reasoning has not been verified by the data compiled for this report, and the prediction remains a model output only.
 
-
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
@@ -88,12 +87,31 @@ No drug interaction records were found in the data compiled for this report.
 **Rationale:**
 Both predictions (nasal cavity disease and acute laryngopharyngitis) rest on model scores alone, with no clinical trials or literature (Evidence Level L5).
 
+<!-- review:begin us-lic-20261031-levmetamfetamine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Both predictions (nasal cavity disease and acute laryngopharyngitis) rest on model scores alone, with no clinical trials or literature (Evidence Level L5). The only US license is cancelled, so there is no current regulatory support, and safety and mechanism data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-levmetamfetamine-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data, for example from DrugBank
 - Clinical or observational evidence for the predicted indications
 - Assessment of route and formulation compatibility, since the only known product was an inhalant
 - Review of the regulatory and safety history behind the cancelled license
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, so there is no current regulatory support, and safety and mechanism data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

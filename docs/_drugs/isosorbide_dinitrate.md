@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ISOSORBIDE DINITRATE"
 predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "diffuse alopecia areata", "vascular disease", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "visceral calciphylaxis", "venous thoracic outlet syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Isosorbide Dinitrate: predicted new indication Alopecia (evidence level L5). Approved use: Not stated in the licence records compiled for this report"
 ---
 
@@ -73,6 +73,12 @@ Currently no related literature available.
 
 The licence records contain no approved-indication text. The first five are shown below.
 
+<!-- review:begin us-lic-20261105-isosorbide_dinitrate-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Eight records are listed, all single-ingredient oral tablets with valid status. The first five are shown below." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-05). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-isosorbide_dinitrate-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | ANDA088088 | Isosorbide Dinitrate | Tablet | Golden State Medical Supply, Inc. |
@@ -116,6 +122,19 @@ The alopecia prediction rests only on a model score. No clinical trials or publi
 - Mechanism-of-action data and FDA label warnings and contraindications
 - Original indication text from the licence or label
 - Consideration of other predicted indications that have supporting literature, such as pulmonary hypertension and vascular disease, as better-supported research questions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "Eight records are listed, all single-ingredient oral tablets with valid status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

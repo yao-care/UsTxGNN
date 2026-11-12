@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "DORAVIRINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Doravirine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV infectious disease, AIDS"
 ---
 
@@ -81,11 +81,15 @@ For the second-ranked prediction (simian immunodeficiency virus infection), one 
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA210806 | PIFELTRO | MSD MERCK CO | Tablet; oral | Valid |
 | NDA216964 | IDVYNSO | MSD | Tablet; oral | Valid |
 | NDA210807 | DELSTRIGO | MSD MERCK CO | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -103,12 +107,31 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction is supported only by a model score (evidence level L5), with no clinical trials and no direct literature. Known pharmacology suggests FIV and SIV are poorly susceptible to NNRTIs, so the prediction is likely a network artifact.
 
+<!-- review:begin us-lic-20261031-doravirine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Known pharmacology suggests FIV and SIV are poorly susceptible to NNRTIs, so the prediction is likely a network artifact. In addition, the only US authorization is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-doravirine-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for doravirine
 - In vitro antiviral activity data against FIV reverse transcriptase, and against SIV for comparison
 - Package insert warnings and contraindications
 - Clarification of whether a veterinary indication is of any development interest, since feline AIDS is a veterinary disease
 - Review of the remaining DDI records, with attention to the two Major interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "In addition, the only US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

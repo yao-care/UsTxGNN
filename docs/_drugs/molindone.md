@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MOLINDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "syndromic myopia", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Molindone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -92,11 +92,15 @@ No literature is available for the top-ranked prediction (retinal dystrophy). Th
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA090453 | MOLINDONE HYDROCHLORIDE | EPIC PHARMA LLC | Tablet; oral | Valid |
 | NDA017111 | MOBAN | CHARTWELL RX | Tablet; oral | Discontinued in Drugs@FDA |
 | NDA017938 | MOBAN | ENDO PHARMS | Concentrate; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ---
 
@@ -128,6 +132,25 @@ Please refer to the package insert for label warnings and contraindications, whi
 - Direct comparative or molindone-specific data in mania, if that direction is pursued
 - Assessment of reformulation or re-marketing feasibility
 - A review of the knowledge-graph contraindications (especially neutropenia and seizure risk) against any target population
+
+<!-- review:begin us-lic-20261106-molindone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Assessment of reformulation or re-marketing feasibility given the cancelled license" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-molindone-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "given the cancelled license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

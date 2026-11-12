@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "BESIFLOXACIN"
 predicted_indications: ["bronchitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "otitis externa"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Besifloxacin: predicted new indication Bronchitis (evidence level L5). Approved use: Conjunctivitis"
 ---
 
@@ -99,12 +99,31 @@ No drug interaction records were found. For full warnings and contraindications,
 **Rationale:**
 The bronchitis prediction rests only on a model score, with no trials or literature. Most bronchitis is viral. All eight predicted indications remain at evidence level L5.
 
+<!-- review:begin us-lic-20261031-besifloxacin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The drug is available only as an ophthalmic suspension with minimal systemic exposure, and its only US license is cancelled. Most bronchitis is viral." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-besifloxacin-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank
 - In vitro susceptibility data against bronchitis-relevant bacterial pathogens
 - A feasible systemic or inhaled formulation, with a route compatibility assessment
 - If a lead indication is pursued, consider otitis externa instead, which would require otic formulation feasibility work and susceptibility data against *Pseudomonas aeruginosa* and *Staphylococcus aureus*
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The drug is available only as an ophthalmic suspension with minimal systemic exposure, and its only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

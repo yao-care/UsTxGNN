@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "BENRALIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Benralizumab: predicted new indication thrombocytopenia due to immune destruction (evidence level L5). Approved use: Eosinophilic pneumonia"
 ---
 
@@ -96,9 +96,13 @@ The other predictions are weaker. Immune thrombocytopenia (rank 1), acne keloida
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA761070 | FASENRA | ASTRAZENECA AB | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -122,6 +126,25 @@ The best-supported prediction (dermatitis) has only one terminated Phase 2 place
 - The reason the HILLIER trial was terminated and its full results
 - Results from the DRESS trial (NCT06734884), a more eosinophil-dependent condition than atopic dermatitis, once available
 - Clarification of the US license status
+
+<!-- review:begin us-lic-20261106-benralizumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the US license status, since the data list the BLA as cancelled while pharmacology data describe approved uses" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-benralizumab-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "since the data list the BLA as cancelled while pharmacology data describe approved uses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

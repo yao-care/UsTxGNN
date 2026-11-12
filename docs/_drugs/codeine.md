@@ -81,6 +81,8 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA203046 | CODEINE SULFATE | LANNETT CO INC | Tablet; oral | Valid |
@@ -90,6 +92,8 @@ Currently no related clinical trials registered.
 | ANDA087083 | ACETAMINOPHEN AND CODEINE PHOSPHATE | SUN PHARM INDS LTD | Tablet; oral | Valid |
 
 Showing 5 of 179 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "DEANOL"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Deanol: predicted new indication insomnia (evidence level L5). Approved use: Not recorded"
 ---
 
@@ -40,6 +40,12 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 The TxGNN model predicts it may be effective for **insomnia**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
 The prediction is a computational hypothesis only.
+
+<!-- review:begin us-lic-20261031-deanol-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Deanol (DMAE) has no recorded approved indication in the data compiled for this report, and its only US listing is a cancelled product. / The TxGNN model predicts it may be effective for **insomnia**, but there are currently **0 clinical trials** and **0 publications** supporting this direction." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-deanol-1 -->
 
 ## Quick Overview
 
@@ -94,6 +100,19 @@ The prediction rests only on a model score (L5), with no clinical trials, no lit
 - Search for preclinical or clinical studies of deanol in insomnia or sleep disorders
 - Clarify the original approved indication and the regulatory history of the cancelled product
 - Assess route and formulation compatibility, since only a liquid form is on record
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Deanol (DMAE) has no recorded approved indication in the data compiled for this report, and its only US listing is a cancelled product" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

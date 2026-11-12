@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "POTASSIUM CHLORIDE"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Potassium Chloride: predicted new indication Renal tubular acidosis (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -86,6 +86,12 @@ The available literature consists mainly of case reports, reviews and cohort des
 
 The data contain no approved-indication text. The main ones are:
 
+<!-- review:begin us-lic-20261105-potassium_chloride-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 15 authorizations in the data are valid. The data contain no approved-indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 285 FDA applications or NDC listings for this drug, 145 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-potassium_chloride-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA211665 | Potassium Chloride (Strides Pharma) | Solution | Not available |
@@ -112,12 +118,32 @@ Package insert warnings were not available for this report; please refer to the 
 **Rationale:**
 The prediction mostly restates the drug's original use (correcting hypokalemia), and no clinical trials or controlled studies exist for renal tubular acidosis. Potassium chloride is not disease-modifying here, and alkali-potassium salts such as potassium citrate are generally better suited. In addition, the drug is marketed in the US, and package insert safety data are missing.
 
+<!-- review:begin us-lic-20261106-potassium_chloride-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the drug is marketed in the US with 15 valid authorizations in the data, and package insert safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 285 FDA applications or NDC listings for this drug, 145 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-potassium_chloride-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (currently unavailable)
 - Mechanism of action data
 - Comparative evidence against potassium citrate or bicarbonate in RTA, including RTA subtype stratification (type 1 vs. type 4)
 - Review of the unclassified literature entries for relevance
 - Confirmation of current US market availability and approved indications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 15 authorizations in the data are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 15 valid authorizations in the data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

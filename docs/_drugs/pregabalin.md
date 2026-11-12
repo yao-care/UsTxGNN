@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pregabalin: predicted new indication Tendinitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -82,6 +82,12 @@ None of the retrieved papers tests pregabalin as a treatment for tendinitis. The
 
 The drug is marketed in the US. The records list no approved indication text. The five main authorizations are shown below.
 
+<!-- review:begin us-lic-20261106-pregabalin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 11 valid licenses. The records list no approved indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 57 FDA applications or NDC listings for this drug, 34 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pregabalin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021446 | Lyrica (Viatris Specialty LLC) | Capsule | Not specified |
@@ -111,6 +117,12 @@ The muscle-related signals (myopathy, rhabdomyolysis) deserve attention in a mus
 **Rationale:**
 The prediction score is very high, but no trial or paper tests pregabalin for tendinitis, and there is no mechanism by which it would treat tendon pathology. It might help the pain symptoms at most. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-pregabalin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "It might help the pain symptoms at most. The drug is marketed in the US, with 11 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 57 FDA applications or NDC listings for this drug, 34 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pregabalin-2 -->
+
 **To proceed, the following is needed:**
 - Direct clinical evidence, such as a pilot RCT of pregabalin for tendinitis pain against standard care.
 - Mechanism data on whether pregabalin affects tendon inflammation or healing.
@@ -118,6 +130,20 @@ The prediction score is very high, but no trial or paper tests pregabalin for te
 - A safety assessment of the muscle-related contraindication signals and the opioid interaction.
 
 **Alternative candidate:** Among the other predictions for this drug, **migraine disorder** (score 0.9947) has the strongest support. It has two pediatric randomized trials, one against propranolol and one against sodium valproate, plus preclinical data on cortical spreading depression. Its Phase 3 trial (NCT00447369) was withdrawn, and adult evidence is lacking. It is better framed as a research question than as a ready candidate.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

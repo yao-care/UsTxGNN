@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ATRASENTAN"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Atrasentan: predicted new indication Amenorrhea (evidence level L5). Approved use: IgA nephropathy (reduction of proteinuria in adults with primary dise…"
 ---
 
@@ -95,6 +95,12 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction is supported only by a high model score. There are no clinical trials or publications, the mechanism link to amenorrhea is speculative. Safety label data is also missing, and the class-level reproductive concerns make the direction of effect uncertain.
 
+<!-- review:begin us-lic-20261106-atrasentan-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials or publications, the mechanism link to amenorrhea is speculative, and the drug's US license is listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-atrasentan-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (FDA label), which are required before safety screening
 - Detailed mechanism-of-action data from DrugBank
@@ -103,6 +109,19 @@ The prediction is supported only by a high model score. There are no clinical tr
 - A literature and trial search for endothelin antagonists in reproductive disorders
 - Route and formulation compatibility assessment (currently oral tablet only)
 - Clarification of the current US marketing status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the drug's US license is listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 951
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "NAFARELIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "pelvic organ prolapse", "syndrome with a Dandy-Walker malformation as major feature", "female genital tuberculosis", "physiological sexual disorder", "isolated genetic hair shaft abnormality", "dysplasia of cervix"]
 description: "Nafarelin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Not recorded in the local data"
@@ -86,9 +86,13 @@ Currently no related literature available for the lead prediction.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA019886 | SYNAREL | PFIZER | Spray, metered; nasal | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -108,12 +112,38 @@ Please refer to the package insert for further safety information.
 **Rationale:**
 The prediction rests only on a network-based score, with no clinical trials, no literature, and no plausible mechanistic link between GnRH agonism and a genetically driven congenital hypertrichosis.
 
+<!-- review:begin us-lic-20261031-nafarelin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests only on a network-based score, with no clinical trials, no literature, and no plausible mechanistic link between GnRH agonism and a genetically driven congenital hypertrichosis. The only US authorization is cancelled, which further limits practical development." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-nafarelin-1 -->
+
 **To proceed, the following is needed:**
 - Mechanistic evidence connecting GnRH-axis suppression to the *TRPS1*-related pathology of Ambras syndrome
 - Preclinical or case-level data in hypertrichosis or related hair disorders
 - Official FDA package insert warnings and contraindications for a full safety review
 - Mechanism of action data from DrugBank
 - Confirmation of current regulatory and supply status
+
+<!-- review:begin us-lic-20261106-nafarelin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current regulatory and supply status, given that the NDA is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-nafarelin-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US authorization is cancelled, which further limits practical development" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that the NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

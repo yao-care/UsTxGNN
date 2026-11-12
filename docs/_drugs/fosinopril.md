@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 738
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "FOSINOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 description: "Fosinopril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -78,12 +78,20 @@ Currently no related clinical trials registered.
 
 No literature is available for the top-ranked indication. For the rank 4 indication (pulmonary hypertension owing to lung disease and/or hypoxia), two publications were retrieved, and neither supports efficacy:
 
+<!-- review:begin us-lic-20261106-fosinopril-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All four authorizations are single-ingredient oral tablets and all are cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fosinopril-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [9923037](https://pubmed.ncbi.nlm.nih.gov/9923037/) | 1998 | Case report (adverse event) | Revue des maladies respiratoires | Two patients treated with enalapril and fosinopril for hypertension developed hypoxic eosinophilic pneumonia with sub-acute respiratory failure; improvement followed. This is a safety signal, not evidence of benefit. |
 | [31105790](https://pubmed.ncbi.nlm.nih.gov/31105790/) | 2019 | Preclinical (bioinformatics) | Experimental and therapeutic medicine | Gene-expression analysis of mouse mesangial cells in a diabetic nephropathy context; not relevant to pulmonary hypertension. |
 
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -94,6 +102,8 @@ No literature is available for the top-ranked indication. For the rank 4 indicat
 | ANDA205670 | FOSINOPRIL SODIUM | PRINSTON | Tablet; oral | Valid |
 
 Showing 5 of 22 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -129,6 +139,26 @@ The prediction is supported only by a high model score (0.9987), with no clinica
 - Clinical or observational evidence for ACE inhibitors in malignant hypertensive nephropathy
 - Review of renal safety, especially in renovascular disease
 - Clarification of the regulatory status
+
+<!-- review:begin us-lic-20261106-fosinopril-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory status, since the drug is marketed and 4 US licenses are valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 22 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fosinopril-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All four authorizations are single-ingredient oral tablets and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since the drug is marketed and 4 US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

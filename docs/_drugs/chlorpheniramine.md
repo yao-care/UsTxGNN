@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CHLORPHENIRAMINE"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Chlorpheniramine: predicted new indication nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -63,6 +63,12 @@ The retrieved literature, however, does not study "nasal cavity disease" as a de
 
 Currently no related clinical trials registered.
 
+<!-- review:begin us-lic-20261106-chlorpheniramine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Three US licence records are in the local data, and the list may be partial. They are single-ingredient products with no indication text recorded." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-chlorpheniramine-1 -->
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
@@ -78,6 +84,8 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA040829 | CHLORPHENIRAMINE MALEATE | AVANTHI INC | Tablet, extended release; oral | Valid |
@@ -87,6 +95,8 @@ Currently no related clinical trials registered.
 | NDA021587 | CHILDREN'S ADVIL ALLERGY SINUS | HALEON US HOLDINGS | Suspension; oral | Valid |
 
 Showing 5 of 337 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -106,6 +116,19 @@ The only support is preclinical animal and mechanistic work, with no registered 
 - Human clinical data for that condition
 - Mechanism-of-action data from DrugBank
 - Warnings and contraindications from the FDA package insert
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Three US licence records are in the local data, and the list may be partial. They are single-ingredient products with no indication text rec" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -81,10 +81,14 @@ Currently no related literature available for focal stiff limb syndrome.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA203965 | MIGLITOL | ORIENT PHARMA | Tablet; oral | Valid |
 | NDA020682 | GLYSET | PFIZER | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ---
 

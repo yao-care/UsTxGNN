@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "MITOMYCIN"
 predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteoclastic giant cell tumor of pancreas", "pancreatic carcinoma with mixed differentiation", "mixed ductal-endocrine carcinoma of pancreas", "undifferentiated pancreatic carcinoma", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Mitomycin: predicted new indication Solid pseudopapillary carcinoma of pancreas (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -72,6 +72,12 @@ Currently no related literature available.
 
 Mitomycin is marketed in the US only as an injectable (lyophilised powder for solution). The list may be partial. The approved indication text is not recorded in the local data. The table shows the first five licences.
 
+<!-- review:begin us-lic-20261106-mitomycin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Of the 8 licences in the records reviewed, 7 are valid and 1 is cancelled. The list may be partial." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 18 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-mitomycin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA215687 | Mitomycin (Fresenius Kabi USA) | Injection, powder, lyophilized, for solution | Not available |
@@ -115,6 +121,18 @@ The prediction score is high (0.9986), but no trial or publication studies mitom
 - Mechanism-of-action data to support the mechanistic link
 - Package insert warnings and contraindications for a formal safety screen
 - Assessment of whether a systemic cytotoxic agent has a realistic role beyond surgery for this tumour, including route and dosing considerations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Of the 8 licences in the records reviewed, 7 are valid and 1 is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

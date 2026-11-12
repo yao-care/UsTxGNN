@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "LEUPROLIDE"
 predicted_indications: ["osteoarthritis", "pseudoachondroplasia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Leuprolide: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -78,6 +78,18 @@ Currently no related clinical trials registered.
 
 Approved-indication text is not available in the records.
 
+<!-- review:begin us-lic-20261105-leuprolide-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All six US licenses are currently valid. Approved-indication text is not available in the records." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 28 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-leuprolide-1 -->
+
+<!-- review:begin us-lic-20261106-leuprolide-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A sixth licence, NDA213150 (Fensolvi, Tolmar, extended-release injectable suspension), is also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 28 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-leuprolide-3 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021488 | Eligard (Tolmar) | Extended-release injectable suspension | Not available |
@@ -100,11 +112,39 @@ Please refer to the package insert for label warnings and contraindications.
 **Rationale:**
 The prediction rests on a model score alone (evidence level L5). There are no relevant trials or literature, and the biology (sex-steroid suppression) suggests no benefit, and possibly harm, for osteoarthritis.
 
+<!-- review:begin us-lic-20261105-leuprolide-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "There are no relevant trials or literature, and the biology (sex-steroid suppression) suggests no benefit, and possibly harm, for osteoarthritis. All six US licenses are currently valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 28 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-leuprolide-2 -->
+
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA)
 - FDA package insert warnings and contraindications
 - A plausible mechanistic rationale, plus preclinical or observational data, linking GnRH agonism to joint or cartilage outcomes
 - Review of approved-indication text
+
+<!-- review:begin us-lic-20261106-leuprolide-4 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Review of the cancelled licence status and approved-indication text" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 28 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-leuprolide-4 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All six US licenses are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "All six US licenses are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "A sixth licence, NDA213150 (Fensolvi, Tolmar, extended-release injectable suspension), is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled licence status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

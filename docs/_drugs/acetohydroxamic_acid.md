@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "ACETOHYDROXAMIC ACID"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Acetohydroxamic Acid: predicted new indication Ureaplasma urethritis (evidence level L5). Approved use: Urinary tract infection"
 ---
 
@@ -78,9 +78,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA018749 | LITHOSTAT | MISSION PHARMA | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 The drug is marketed in the US, and the one US license, held by Mission Pharmacal Company, is valid.
 
@@ -106,12 +110,38 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Rationale:**
 The prediction has no clinical trial or literature support (evidence level L5), and the mechanistic link to a lower genital tract mucosal infection is weak. Effective antibiotic therapy also already exists for these conditions.
 
+<!-- review:begin us-lic-20261031-acetohydroxamic_acid-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only US product is cancelled, and the hematologic safety signals are notable. Effective antibiotic therapy also already exists for these conditions." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-acetohydroxamic_acid-1 -->
+
 **To proceed, the following is needed:**
 - Official package insert warnings and contraindications (a blocking gap for safety screening)
 - Confirmed mechanism of action data
 - Laboratory evidence that urease inhibition has an effect against *Ureaplasma*
 - Any clinical or observational data in the predicted indication
 - If any indication is pursued, xanthogranulomatous pyelonephritis is the most mechanistically plausible candidate, and a hematologic safety monitoring plan would be needed
+
+<!-- review:begin us-lic-20261031-acetohydroxamic_acid-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "If any indication is pursued, xanthogranulomatous pyelonephritis is the most mechanistically plausible candidate, and a hematologic safety monitoring plan would be needed / Clarification of the regulatory and supply pathway, given that the only US product is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-acetohydroxamic_acid-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US product is cancelled, and the hematologic safety signals are notable" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Clarification of the regulatory and supply pathway, given that the only US product is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "VITAMIN A"
 predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "florid cemento-osseous dysplasia", "perinatal disease", "segmental odontomaxillary dysplasia", "disease by subcellular system affected", "radiation or chemically induced disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Vitamin A: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Vitamin deficiency disorder / vitamin A deficiency"
 ---
 
@@ -69,6 +69,12 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261105-vitamin_a-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The drug is marketed in the US, and all four US authorizations on record are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 46 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-vitamin_a-1 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Status |
@@ -95,10 +101,30 @@ Package insert warnings and contraindications were not available for this report
 **Rationale:**
 The prediction for congenital prothrombin deficiency has no supporting trials or literature, and its biological rationale conflicts with known biology, since prothrombin synthesis is vitamin K-dependent. In addition, the drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-vitamin_a-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the drug is marketed in the US with four valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 46 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-vitamin_a-2 -->
+
 **To proceed, the following is needed:**
 - Mechanistic evidence for any role of vitamin A in prothrombin expression or function.
 - Mechanism of action data and package insert safety information.
 - A review of the other predicted indications. In this dataset, **perinatal disease** (score 0.9963) has the most substantial support. Cochrane systematic reviews of RCTs suggest vitamin A supplementation in very-low-birth-weight infants may reduce death or bronchopulmonary dysplasia. Its benefit is modest and practicality is limited by the route and supply. It is a better candidate for further research than the top-ranked prediction.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The drug is marketed in the US, and all four US authorizations on record are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with four valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

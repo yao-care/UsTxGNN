@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ECALLANTIDE"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "Peyronie disease", "pancreatitis", "esophageal varices without bleeding", "esophageal varices with bleeding"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ecallantide: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -95,6 +95,18 @@ The prediction rests only on a model score (0.9999). There are no clinical trial
 - Preclinical or in vitro data testing that hypothesis
 - Mechanism of action data and package insert warnings and contraindications to support a safety review
 - Route-of-administration feasibility assessment for the target disease
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Confirmation of current US availability, since the only license (BLA125277) is cancelled" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

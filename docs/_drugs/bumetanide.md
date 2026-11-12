@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BUMETANIDE"
 predicted_indications: ["acute pulmonary heart disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Bumetanide: predicted new indication Acute pulmonary heart disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -79,6 +79,12 @@ Currently no related clinical trials registered.
 
 The records are single-ingredient products.
 
+<!-- review:begin us-lic-20261105-bumetanide-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The local data list 11 US records, all currently valid, and the list may be partial. The records are single-ingredient products." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 26 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-bumetanide-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | NDA219500 | Enbumyst (Corstasis USA LLC) | Spray | Valid |
@@ -108,6 +114,18 @@ The prediction score is high (0.9958), but the only supporting literature concer
 - Studies or case series of loop diuretics in acute right ventricular failure or acute cor pulmonale, stratified by volume status
 - Mechanism of action data and package insert safety information
 - A safety plan covering over-diuresis, electrolyte loss and haemodynamic monitoring
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The local data list 11 US records, all currently valid, and the list may be partial" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

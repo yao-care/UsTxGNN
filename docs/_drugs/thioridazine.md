@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "THIORIDAZINE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "major affective disorder", "bipolar disorder", "obsessive-compulsive disorder", "attention deficit-hyperactivity disorder", "paranoid personality disorder", "schizoid personality disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Thioridazine: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -41,6 +41,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 Thioridazine is a phenothiazine antipsychotic. The data compiled for this report contain no approved-indication text for it.
 The TxGNN model predicts it may be effective for **manic bipolar affective disorder**, but **no clinical trials** are registered for this indication and the **20 publications** retrieved are mostly general reviews, safety reports and old case reports.
 The evidence is weak, and thioridazine carries a serious cardiac (QTc) safety concern.
+
+<!-- review:begin us-lic-20261106-thioridazine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Thioridazine is a phenothiazine antipsychotic whose US licences are now all cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 81 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-thioridazine-2 -->
 
 ## Quick Overview
 
@@ -97,6 +103,8 @@ Several older reports in the retrieved set are safety warnings rather than effic
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA088004 | THIORIDAZINE HYDROCHLORIDE | MYLAN | Tablet; oral | Valid |
@@ -107,7 +115,15 @@ Several older reports in the retrieved set are safety warnings rather than effic
 
 Showing 5 of 81 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
+<!-- licenses:end -->
+
 A sixth licence, ANDA088131 (Chartwell RX), is also cancelled.
+
+<!-- review:begin us-lic-20261106-thioridazine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A sixth licence, ANDA088131 (Chartwell RX), is also cancelled. All six licences are oral single-ingredient products." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-thioridazine-3 -->
 
 ## Safety Considerations
 
@@ -130,6 +146,12 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Rationale:**
 The prediction is mechanistically plausible (D2 antagonism), but there are no clinical trials and no thioridazine-specific controlled evidence in mania. The serious QTc and arrhythmia risk is a major concern in this population. Better-established antimanic agents are available.
 
+<!-- review:begin us-lic-20261105-thioridazine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The serious QTc and arrhythmia risk is a major concern in this population, and the drug is marketed in the US with 6 valid licenses of 6." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 81 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-thioridazine-1 -->
+
 **To proceed, the following is needed:**
 - Official package insert warnings and contraindications (a blocking gap for safety screening).
 - Mechanism of action data, for example from DrugBank.
@@ -149,6 +171,20 @@ The prediction is mechanistically plausible (D2 antagonism), but there are no cl
 | 8 | Attention deficit-hyperactivity disorder | 0.9955 | L3 | Hold | Two 1991 double-blind studies of methylphenidate versus thioridazine in intellectually subaverage children. Methylphenidate was the clearly effective agent, and thioridazine carries cardiac and sedation risks in children. |
 | 9 | Paranoid personality disorder | 0.9954 | L5 | Hold | Only a 1989 open-label study in borderline personality disorder (11 patients). |
 | 10 | Schizoid personality disorder | 0.9954 | L5 | Hold | Same single 1989 study as rank 9. The identical score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "and the drug is marketed in the US with 6 valid licenses of 6" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "whose US licences are now all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "All six licences are oral single-ingredient products" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

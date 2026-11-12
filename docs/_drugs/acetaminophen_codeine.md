@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -77,11 +77,23 @@ Currently no related clinical trials registered (no predicted indication target 
 
 Currently no related literature available (no predicted indication target to query against).
 
+<!-- review:begin us-lic-20261105-acetaminophen_codeine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "No Taiwan license records found for this combination entry. The query returned 0 results from the TFDA database." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-acetaminophen_codeine-1 -->
+
 ---
 
 ## US Market Information
 
 > **Note**: Acetaminophen + Codeine products are widely marketed internationally. A direct US FDA query is recommended.
+
+<!-- review:begin us-lic-20261106-acetaminophen_codeine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "> **Note**: Acetaminophen + Codeine products are widely marketed internationally (e.g., Tylenol with Codeine No. 3/4 in the US under NDA 022450 and others), but this system did not retrieve those records." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 108 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-acetaminophen_codeine-2 -->
 
 ---
 
@@ -111,6 +123,20 @@ The TxGNN pipeline produced zero repurposing predictions because the combination
 - [ ] **Obtain MOA data**: Pull structured pharmacology from DrugBank API for both components (Data Gap DG002)
 - [ ] **Obtain safety/warning data**: Download and parse prescribing information to fill DG001 (Blocking severity)
 - [ ] **Re-run evidence collection**: Once a predicted indication is established, re-run ClinicalTrials.gov and PubMed collectors against the new target
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "No Taiwan license records found for this combination entry. The query returned 0 results from the TFDA database" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(e g., Tylenol with Codeine No. 3/4 in the US under NDA 022450 and others), but this system did not retrieve those records" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

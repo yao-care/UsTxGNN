@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1177
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Sotagliflozin: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 1 diabetes mellitus (including diabetic ketoacidosis-related con…"
 monitor_inn: "SOTAGLIFLOZIN"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "autoimmune oophoritis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
@@ -87,6 +87,12 @@ Please refer to the package insert for safety information.
 **Rationale:**
 The prediction has no clinical, literature, or mechanistic support (Evidence Level L5). The biology of opsismodysplasia (*INPPL1*/SHIP2 deficiency) has no known connection to SGLT1/SGLT2 inhibition.
 
+<!-- review:begin us-lic-20261106-sotagliflozin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The biology of opsismodysplasia (*INPPL1*/SHIP2 deficiency) has no known connection to SGLT1/SGLT2 inhibition. The only US authorization is also listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-sotagliflozin-1 -->
+
 **To proceed, the following is needed:**
 - Preclinical evidence, such as cell or animal models, showing that SGLT inhibition affects the SHIP2/INPPL1 pathway or skeletal development
 - Detailed mechanism-of-action data for sotagliflozin
@@ -94,6 +100,19 @@ The prediction has no clinical, literature, or mechanistic support (Evidence Lev
 - Confirmation of the drug's current US marketing and authorization status
 
 **Note on other predictions:** Among the other predictions for this drug, only "diabetes mellitus" (rank 2) has substantial support: multiple completed Phase 3 trials in type 1 and type 2 diabetes. It sits very close to the drug's original indication, so it is better seen as confirmation within that indication than as true repurposing. Its main safety guardrail would be ketone monitoring to reduce the risk of diabetic ketoacidosis in type 1 diabetes. The remaining predictions have no supporting evidence and no plausible mechanistic link.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The only US authorization is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

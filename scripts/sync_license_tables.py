@@ -28,6 +28,11 @@
 表格重排後，正文跟新事實矛盾的句子由 .claude/delete_license_sentences.py（規則＋人工清單 scripts/license_sentence_fixes.json）刪，
 本程式不刪句。
 
+程式區塊標記（2026-11-12 起，本站查核機制）：程式產生的表格（連同 SHOW 句，或 NONE_LINE）前後各一行
+「<!-- licenses:begin -->」「<!-- licenses:end -->」（前後空行），讓查核紀錄、刪句工具與 gate 分得出哪些字是程式寫的。
+render 每次都重畫這兩行；--mark-existing 只替表頭＝HEAD 的現有程式表補標記、不改內容。
+gate（scripts/check_seo_docs.py）依 snapshots/us_licenses.json.gz 檢查程式表＝快照重算的結果（src/ustxgnn/regulatory/licenses.py）。
+
 用法（repo 根目錄，先在工作目錄跑 dump_license_facts）：
   python3 scripts/sync_license_tables.py --ws <工作目錄> [--dry-run] [--report out.tsv] [--changed apps_changed.json] [頁 ...]
 """
@@ -45,6 +50,8 @@ SEP = "|------|------|------|------|------|"
 SHOW = "Showing {n} of {m} entries (FDA applications first, active before discontinued; NDC listings without an FDA application last)."
 SHOW_RX = re.compile(r"^Showing \d+ of \d+ entries \(FDA applications first, active before discontinued; NDC listings without an FDA application last\)\.$")
 NONE_LINE = "No FDA application or NDC Directory listing matching this drug was found in the data compiled for this report."
+BEGIN = "<!-- licenses:begin -->"
+END = "<!-- licenses:end -->"
 APPL = re.compile(r"\b(NDA|ANDA|BLA)\s*(\d{6})\b")
 SUFFIX = " (Discontinued in Drugs@FDA)"  # 與 src/ustxgnn/collectors/us_license_match.py 相同
 # 正文明說號碼是別的藥（例「Arsenic Trioxide as a standalone drug … NDA 021248」「Canakinumab as a standalone biologic … BLA 125319」）
@@ -112,6 +119,15 @@ def rows_of(tf, fc):
     n_app = int(tf.get("applications_total") if tf.get("applications_total") is not None else sum(1 for x in seen if not x.startswith("L")))
     n_lst = int(tf.get("listed_total") if tf.get("listed_total") is not None else sum(1 for x in seen if x.startswith("L")))
     return out, n_app + n_lst
+
+
+def strip_marks(lines):
+    """拿掉程式區塊標記行（連同緊接在後的空行），重畫前用"""
+    return [l for l in lines if l.strip() not in (BEGIN, END)]
+
+
+def wrap(block):
+    return [BEGIN, ""] + block + ["", END]
 
 
 def section(lines):
@@ -186,8 +202,25 @@ def needs_resync(lines, tf, conflicts=None, changed=None):
     return ""
 
 
+def _before(lines, x):
+    """表格前的行，去掉結尾的空行後補一個空行（標記行前面要空行）"""
+    head = list(lines[:x])
+    while head and not head[-1].strip():
+        head.pop()
+    return head + [""]
+
+
+def _after(after):
+    """表格（或 SHOW 句）後的行：開頭的空行去掉，END 之後補一個空行"""
+    after = list(after)
+    while after and not after[0].strip():
+        after.pop(0)
+    return [""] + after
+
+
 def render(lines, tf, fc):
-    """重排段落裡的表格與 SHOW 句；回傳新的 lines（沒有表格時原樣）"""
+    """重排段落裡的表格與 SHOW 句，前後加程式區塊標記；回傳新的 lines（沒有表格時原樣）"""
+    lines = strip_marks(lines)
     a, b, x, y = section(lines)
     if x is None:
         return lines
@@ -199,13 +232,34 @@ def render(lines, tf, fc):
         if si > 0 and not after[si - 1].strip():
             del after[si - 1]
     if not rows:
-        return lines[:x] + [NONE_LINE] + after + lines[b:]
+        return _before(lines, x) + wrap([NONE_LINE]) + _after(after) + lines[b:]
     old_rows = max(0, y - x - 1)
     nrows = min(20, max(old_rows, min(5, len(rows))))
-    table = [HEAD, SEP] + rows[:nrows]
+    block = [HEAD, SEP] + rows[:nrows]
     if total > nrows:
-        after = ["", SHOW.format(n=min(nrows, len(rows)), m=total)] + after
-    return lines[:x] + table + after + lines[b:]
+        block += ["", SHOW.format(n=min(nrows, len(rows)), m=total)]
+    return _before(lines, x) + wrap(block) + _after(after) + lines[b:]
+
+
+def mark_existing(lines):
+    """表頭＝HEAD 的現有程式表（連同緊接的 SHOW 句）補上標記，內容一字不改；已有標記或不是程式表就原樣"""
+    if BEGIN in lines:
+        return lines
+    a, b, x, y = section(lines)
+    if x is None or lines[x].strip() != HEAD:
+        if a is not None and x is None and NONE_LINE in lines[a:b]:
+            k = lines.index(NONE_LINE, a)
+            return _before(lines, k) + wrap([NONE_LINE]) + _after(lines[k + 1:b]) + lines[b:]
+        return lines
+    block = lines[x:y + 1]
+    rest = lines[y + 1:b]
+    k = 0
+    while k < len(rest) and not rest[k].strip():
+        k += 1
+    if k < len(rest) and SHOW_RX.match(rest[k].strip()):
+        block += ["", rest[k]]
+        rest = rest[k + 1:]
+    return _before(lines, x) + wrap(block) + _after(rest) + lines[b:]
 
 
 def _load_checker(ws):
@@ -259,7 +313,47 @@ def resync_tables(bundles, ws=None):
     return out
 
 
+def carry_block(old_text, new_text):
+    """sync_notes_to_docs.py 重寫整頁時用：舊頁的程式區塊（BEGIN…END）移植到新頁的市場段落，取代新頁模型寫的
+    第一張表（連同緊接的 SHOW 句）；新頁段落沒有表時接在段落第一段之後。舊頁沒有程式區塊就原樣回傳新頁。"""
+    old = old_text.replace("\r\n", "\n").split("\n")
+    if BEGIN not in old or END not in old:
+        return new_text
+    blk = old[old.index(BEGIN):old.index(END) + 1]
+    lines = strip_marks(new_text.split("\n"))
+    a, b, x, y = section(lines)
+    if a is None:
+        return new_text
+    if x is None:
+        k = next((k for k in range(a + 1, b) if not lines[k].strip() and lines[k - 1].strip()), a)
+        out = lines[:k] + [""] + blk + [""] + lines[k:]
+    else:
+        rest = lines[y + 1:b]
+        k = 0
+        while k < len(rest) and not rest[k].strip():
+            k += 1
+        if k < len(rest) and SHOW_RX.match(rest[k].strip()):
+            rest = rest[k + 1:]
+        out = _before(lines, x) + blk + _after(rest) + lines[b:]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(out))
+
+
 def main(argv):
+    if "--mark-existing" in argv:
+        n = 0
+        for page in sorted((ROOT / "docs/_drugs").glob("*.md")):
+            raw = page.read_bytes().decode("utf-8")
+            crlf = "\r\n" in raw[:500]
+            t = raw.replace("\r\n", "\n")
+            if "layout: id_redirect" in t[:3000] or 'http-equiv="refresh"' in t[:3000]:
+                continue
+            new = re.sub(r"\n{3,}", "\n\n", "\n".join(mark_existing(t.split("\n"))))
+            if BEGIN in new and BEGIN not in t:  # 只寫入真的補了標記的頁（不為了空行正規化改檔）
+                n += 1
+                if "--dry-run" not in argv:
+                    _write(page, new, crlf)
+        print(f"程式區塊標記：補上 {n} 頁")
+        return
     ws = Path(argv[argv.index("--ws") + 1])
     dry = "--dry-run" in argv
     rep = argv[argv.index("--report") + 1] if "--report" in argv else None

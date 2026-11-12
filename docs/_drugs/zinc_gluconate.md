@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ZINC GLUCONATE"
 predicted_indications: ["anemia of prematurity", "injury", "cell proliferation disorder", "perinatal disease", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "radiation or chemically induced disorder", "disease by subcellular system affected", "iatrogenic disease", "regional odontodysplasia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Zinc Gluconate: predicted new indication Anemia of prematurity (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -79,6 +79,12 @@ Currently no related literature is available for anemia of prematurity.
 
 Other dosage forms in the data are oral tablets and lozenges.
 
+<!-- review:begin us-lic-20261031-zinc_gluconate-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only US license on record is cancelled. Other dosage forms in the data are oral tablets and lozenges." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-zinc_gluconate-1 -->
+
 ## Safety Considerations
 
 - **Knowledge-graph contraindication signals** (graph associations, not label text): hypertension and hypertensive disorder, rheumatoid arthritis, systemic lupus erythematosus (including pediatric), multiple sclerosis, allergic and vasomotor rhinitis, blood coagulation disease, sickle cell anemia, hereditary persistence of fetal hemoglobin, primary hyperoxaluria, hereditary hemochromatosis, hemosiderosis, iron metabolism disease, Wilson disease, diarrheal disease, asthma, HIV infection/AIDS, and leukemia.
@@ -101,12 +107,32 @@ Package insert warnings and contraindications were not available. Please refer t
 **Rationale:**
 The 0.9994 TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It has no supporting trials or publications (L5). The drug is marketed in the US, and the knowledge graph lists blood-related contraindication signals (sickle cell anemia, iron metabolism disease, blood coagulation disease), which need clarification before any use in preterm infants.
 
+<!-- review:begin us-lic-20261106-zinc_gluconate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 1 valid license, and the knowledge graph lists blood-related contraindication signals (sickle cell anemia, iron metabolism disease, blood coagulation disease), which need clarification before any use in preterm infants." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-zinc_gluconate-2 -->
+
 **To proceed, the following is needed:**
 - A literature and trial search specific to zinc and anemia of prematurity, including neonatal zinc, copper and iron status
 - Mechanism of action data
 - FDA package insert warnings and contraindications
 - A neonatal dose and safety assessment, covering the risk of copper-deficiency anemia
 - Review of the route and formulation, since current data covers only oral tablets and lozenges
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license on record is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 1 valid license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "LIFITEGRAST"
 predicted_indications: ["penile fibromatosis", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Lifitegrast: predicted new indication Penile fibromatosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -91,12 +91,16 @@ For the related prediction of diabetic retinopathy, one publication was retrieve
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA208073 | XIIDRA | BAUSCH AND LOMB INC | Solution/drops; ophthalmic | Valid |
 | ANDA215058 | LIFITEGRAST | INGENUS PHARMS LLC | Solution/drops; ophthalmic | Discontinued in Drugs@FDA |
 | ANDA215063 | LIFITEGRAST | EUGIA PHARMA | Solution/drops; ophthalmic | Discontinued in Drugs@FDA |
 | ANDA215081 | LIFITEGRAST | MICRO LABS | Solution/drops; ophthalmic | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ---
 
@@ -115,12 +119,31 @@ One pharmacology record is available: lifitegrast acts on its target LFA-1 (ITGA
 **Rationale:**
 All predicted indications rest on model scores alone, with no clinical trials and no supporting literature for the leading candidates. The topical ocular formulation has no clear delivery route to fibrotic tissue.
 
+<!-- review:begin us-lic-20261106-lifitegrast-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The topical ocular formulation has no clear delivery route to fibrotic tissue, and both US licenses are currently cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 4 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lifitegrast-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking data gap for safety screening)
 - Detailed mechanism-of-action data from DrugBank
 - Preclinical evidence that LFA-1 antagonism affects fibroblast or myofibroblast activity in fibromatosis models
 - A feasibility assessment for a delivery route suitable for penile, palmar, or plantar tissue
 - Clarification of the reason for the license cancellations and the current US availability
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and both US licenses are currently cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "BROMFENAC"
 predicted_indications: ["eye disease", "optic papillitis", "von Hippel anomaly", "mcpherson robertson cammarano syndrome", "vulvar inverted follicular keratosis", "lagophthalmos", "microblepharon-ablephara syndrome", "seborrheic keratosis", "conjunctival degeneration", "luxation of globe"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Bromfenac: predicted new indication Eye disease (evidence level L1). Approved use: Not available"
 ---
 
@@ -98,6 +98,12 @@ Of the 35 linked trials, the 10 most relevant are listed below. Most are Phase 3
 
 Five are shown below.
 
+<!-- review:begin us-lic-20261105-bromfenac-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 12 licenses are valid. Five are shown below." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 19 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-bromfenac-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA203168 | Prolensa (Bausch & Lomb) | Solution/drops | Not specified (valid) |
@@ -127,6 +133,19 @@ Multiple completed Phase 3 trials (post-cataract inflammation, dry eye, allergic
 - Obtain mechanism of action data from DrugBank
 - Clarify the reasons for the cancelled US authorizations and the regulatory pathway for re-entry
 - Set up a safety monitoring plan for corneal toxicity, in high-risk patients (for example Sjögren's syndrome, tear deficiency, Stevens-Johnson syndrome) and for use alongside corticosteroids
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 12 licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

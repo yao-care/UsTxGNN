@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GLUCARPIDASE"
 predicted_indications: ["diabetic cataract", "diabetic retinopathy", "tetanic cataract", "mature cataract", "immature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "cortical cataract", "nuclear senile cataract", "senile cataract"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Glucarpidase: predicted new indication Diabetic cataract (evidence level L5). Approved use: Not listed in the data compiled for this report (the drug's establish…"
 ---
 
@@ -90,12 +90,31 @@ Please refer to the package insert for warnings and contraindications, as this i
 **Rationale:**
 The prediction rests only on a computational score, with no clinical trials, no publications, and no plausible mechanism. The repeated near-identical scores across eye diseases point to a model artifact.
 
+<!-- review:begin us-lic-20261031-glucarpidase-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The drug is also an intravenously given enzyme unlikely to reach the lens or retina, and its only US license is cancelled. The repeated near-identical scores across eye diseases point to a model artifact." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-glucarpidase-1 -->
+
 **To proceed, the following is needed:**
 - Complete mechanism of action data and the FDA package insert warnings and contraindications
 - A credible mechanistic hypothesis connecting folate or methotrexate hydrolysis to lens or retinal disease
 - Preclinical evidence (for example, lens or retinal models) showing relevant activity
 - Assessment of whether ocular delivery is feasible for a large enzyme protein
 - Independent confirmation that the prediction is not an artifact of similarities the model learned between related diseases, for example by checking whether other drugs show the same cluster of eye-disease scores
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The drug is also an intravenously given enzyme unlikely to reach the lens or retina, and its only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

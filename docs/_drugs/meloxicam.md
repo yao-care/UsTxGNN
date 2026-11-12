@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 895
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "MELOXICAM"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Meloxicam: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not recorded in the local data"
@@ -91,6 +91,12 @@ For the rank 8 prediction, one publication was found:
 
 The records contain no approved indication text.
 
+<!-- review:begin us-lic-20261106-meloxicam-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 8 US authorizations are generic tablets and are currently cancelled. The records contain no approved indication text." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 35 FDA applications or NDC listings for this drug, 19 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-meloxicam-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA077920 | Meloxicam (AiPing Pharmaceutical) | Tablet | Not available (valid) |
@@ -121,12 +127,39 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The top-ranked prediction has no clinical trials or literature and no plausible mechanism. Its high score appears to be a TxGNN model (deep learning) artifact. All nine other top predictions are also at L4-L5, and the most plausible ones largely overlap with meloxicam's existing indications. Missing label safety data further limit progress.
 
+<!-- review:begin us-lic-20261106-meloxicam-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The cancelled US license status and missing label safety data further limit progress." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 35 FDA applications or NDC listings for this drug, 19 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-meloxicam-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism-of-action data for meloxicam, to support any mechanistic-link analysis
 - FDA package insert warnings and contraindications, to allow safety screening
 - A biological rationale connecting COX inhibition to GDF5-related skeletal development, or reprioritization toward predictions with real support (for example, rank 8, RF-positive polyarticular JIA)
 - Meloxicam-specific efficacy data for any selected indication
 - Clarification of the current availability of the drug
+
+<!-- review:begin us-lic-20261106-meloxicam-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US market status and the current availability of the drug" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 35 FDA applications or NDC listings for this drug, 19 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-meloxicam-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 8 US authorizations are generic tablets and are currently cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "The cancelled US license status and m" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled US market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

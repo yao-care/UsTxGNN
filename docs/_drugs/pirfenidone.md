@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PIRFENIDONE"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pirfenidone: predicted new indication Extracutaneous mastocytoma (evidence level L5). Approved use: Idiopathic pulmonary fibrosis (also acute interstitial pneumonia and…"
 ---
 
@@ -97,6 +97,12 @@ For reference, the closest-ranked prediction with literature is *fibroblastic ne
 
 The drug is marketed in the US. Approved indication text is not available.
 
+<!-- review:begin us-lic-20261106-pirfenidone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 11 valid licenses. Approved indication text is not available for these records." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 25 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pirfenidone-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | NDA208780 | ESBRIET | Tablet, coated | Legacy Pharma USA Inc. |
@@ -133,11 +139,38 @@ Label-based warnings and contraindications are not available in the data compile
 **Rationale:**
 The prediction for extracutaneous mastocytoma is supported only by a TxGNN model (deep learning) score (L5), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications, and no plausible mechanistic link: mast cell neoplasms are typically KIT-driven, which pirfenidone does not target. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-pirfenidone-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials or publications, and no plausible mechanistic link: mast cell neoplasms are typically KIT-driven, which pirfenidone does not target. The drug is marketed in the US, with 11 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 25 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pirfenidone-3 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for pirfenidone, to allow a proper mechanistic-link analysis
 - Package insert warnings and contraindications, which are required before any safety screening
 - Preclinical evidence (for example, mast cell line or KIT-mutant model data) showing any activity in mast cell neoplasia
 - Review of alternative candidates among the top predictions (such as dermatofibrosarcoma protuberans or fibroblastic neoplasm), which have somewhat more plausible fibroblast-related rationale, while weighing the reported sarcoma and dermatofibroma safety signals
+
+<!-- review:begin us-lic-20261106-pirfenidone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Review of alternative candidates among the top predictions (such as dermatofibrosarcoma protuberans or fibroblastic neoplasm), which have somewhat more plausible fibroblast-related rationale, while weighing the reported sarcoma and dermatofibroma safety signals / Clarification of the cancelled US license status if a US development path is considered" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 25 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pirfenidone-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Clarification of the cancelled US license status if a US development path is considered" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid licenses for these records" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 658
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ephedrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, rhinitis…"
 monitor_inn: "EPHEDRINE"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
@@ -79,6 +79,12 @@ Both publications are low-tier evidence. They involve combination products and d
 
 The five main entries are shown below.
 
+<!-- review:begin us-lic-20261105-ephedrine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 14 licenses are valid, and no approved indication text is recorded for any of them. The five main entries are shown below." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 24 FDA applications or NDC listings for this drug, 20 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-ephedrine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA213994 | Ephedrine Sulfate (ENDO USA, Inc.) | Injection | Not recorded |
@@ -103,12 +109,32 @@ Label-based warnings and contraindications were not available. Please refer to t
 **Rationale:**
 The prediction score is high, but the predicted indication largely overlaps with existing uses, so it adds little new. No clinical trials exist, the only literature is old or preliminary and involves combination products, and the drug is marketed. The available products are mostly injectables, which do not match a nasal indication.
 
+<!-- review:begin us-lic-20261106-ephedrine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "No clinical trials exist, the only literature is old or preliminary and involves combination products, and the drug is marketed with 14 valid US licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 24 FDA applications or NDC listings for this drug, 20 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ephedrine-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which are required before any safety screening
 - Mechanism of action data (for example from DrugBank)
 - Evidence from controlled studies of ephedrine alone in nasal conditions
 - A clear check of whether a nasal or oral formulation is available, given the route mismatch
 - Clarification of whether the prediction offers anything beyond the drug's existing rhinitis uses
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 14 licenses are valid, and no approved indication text is recorded for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 14 valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

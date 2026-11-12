@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "BROLUCIZUMAB"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices with bleeding", "esophageal varices without bleeding", "exocrine pancreatic insufficiency"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Brolucizumab: predicted new indication mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (evidence level L5). Approved use: Macular degeneration"
 ---
 
@@ -78,9 +78,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA761125 | BEOVU | NOVARTIS PHARMS CORP | Injectable; intravitreal | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -95,12 +99,31 @@ No drug interaction records were found. For other warnings and contraindications
 **Rationale:**
 The prediction rests solely on a model score, with no clinical trials, no publications, and no identified mechanistic link. The product is an intravitreal agent with limited systemic exposure, which makes the predicted systemic indications doubtful.
 
+<!-- review:begin us-lic-20261106-brolucizumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US license is cancelled, and the product is an intravitreal agent with limited systemic exposure, which makes the predicted systemic indications doubtful." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-brolucizumab-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - A biological rationale linking VEGF-A inhibition to nuclear-DNA-driven oxidative phosphorylation disorders
 - Preclinical or clinical evidence in the predicted indication
 - An assessment of route and formulation compatibility, since the current product is intravitreal only
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he US license is cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

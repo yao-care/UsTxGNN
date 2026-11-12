@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -74,6 +74,12 @@ No TxGNN repurposing prediction was generated for this compound. The primary rea
 
 No approved licenses found. This compound is not registered with the US FDA.
 
+<!-- review:begin us-lic-20261105-aconitum_napellus_whole_bryonia_alba_root_gelsemiu-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "This compound is not registered with the US FDA or Taiwan TFDA." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-aconitum_napellus_whole_bryonia_alba_root_gelsemiu-1 -->
+
 ---
 
 ## Safety Considerations
@@ -96,6 +102,19 @@ The TxGNN pipeline cannot evaluate a multi-component mixture lacking a unified D
 - **Clarify therapeutic intent**: Establish the original clinical context (homeopathic indication, immunotherapy, adjuvant) before any mechanistic or repurposing analysis is attempted.
 - **Obtain package insert**: If a product under this formulation exists in any jurisdiction, retrieve the prescribing information to document safety profile and approved use.
 - **YMYL note**: All outputs from this pipeline are for research reference only and do not constitute medical advice. Any repurposing candidate requires prospective clinical validation before application.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "or Taiwan TFDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

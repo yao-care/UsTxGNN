@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "ESTRIOL"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Estriol: predicted new indication Amenorrhea (evidence level L3). Approved use: Not available"
 ---
 
@@ -78,6 +78,8 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDC 73076-207 | LMNOOP Feminine Cream | Shenzhen Ishan Technology Co., Ltd | Cream | NDC listing, no FDA application (unapproved homeopathic) |
@@ -87,6 +89,8 @@ Currently no related clinical trials registered.
 | NDC 85248-055 | Flocean INTIMATE COMFORT | Jiangxi Yudexi Pharmaceutical Co., LTD | Cream | NDC listing, no FDA application (unapproved drug other) |
 
 Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -101,12 +105,31 @@ Please refer to the package insert for other safety information.
 **Rationale:**
 The only direct support is one small physiological study and one narrative review, and no clinical trials are registered. The drug is marketed in the US, but the safety and mechanism data are incomplete. The high TxGNN score alone (0.9918) is not enough to justify advancing. At this stage it is best treated as a research question.
 
+<!-- review:begin us-lic-20261106-estriol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 4 of 4 licenses valid, but the safety and mechanism data are incomplete." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-estriol-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data (for example, from DrugBank)
 - A review of the 2012 FHA study and any further controlled studies of estriol
 - A comparison with established estrogen therapies for hypoestrogenic amenorrhea
 - Confirmation of route and formulation: current products are topical creams, and the required route for amenorrhea has not been determined
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 4 of 4 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

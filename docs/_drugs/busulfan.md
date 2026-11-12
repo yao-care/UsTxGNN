@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "BUSULFAN"
 predicted_indications: ["myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "seborrheic keratosis", "simian immunodeficiency virus infection"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Busulfan: predicted new indication Myelodysplastic syndrome (evidence level L1). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -98,6 +98,18 @@ The compiled data contains 39 trials for MDS. The most relevant are listed below
 
 Note: the literature shows that treosulfan compared favorably with reduced-intensity busulfan in older patients, so busulfan is an established but not uniquely superior conditioning option.
 
+<!-- review:begin us-lic-20261105-busulfan-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 9 listed licenses are valid (9 of 9); the approved indication text is blank in the compiled data." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 17 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-busulfan-1 -->
+
+<!-- review:begin us-lic-20261106-busulfan-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Four more ANDAs (Amneal, Sagent, Eugia, Hospira) are also listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-busulfan-3 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
@@ -139,6 +151,27 @@ Multiple randomized phase 3 and phase 2/3 trials and several phase 3 publication
 - Clarification of the approved indications
 - Safety guardrails: PK-targeted IV busulfan dosing, conditioning intensity matched to age and comorbidity, seizure prophylaxis and VOD monitoring
 - Disease-specific evidence before considering the lower-ranked predictions (refractory cytopenia of childhood and aplastic anemia may warrant follow-up; the remaining predictions should be held)
+
+<!-- review:begin us-lic-20261105-busulfan-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Clarification of the approved indications; all 9 of 9 US licenses are valid and the drug is marketed" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 17 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-busulfan-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 9 listed licenses are valid (9 of 9); the approved indication text is blank in the compiled data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "all 9 of 9 US licenses are valid and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Four more ANDAs (Amneal, Sagent, Eugia, Hospira) are also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

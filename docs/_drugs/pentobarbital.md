@@ -94,6 +94,8 @@ None of the publications tests pentobarbital as a treatment for obesity. The tab
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA083246 | NEMBUTAL SODIUM | RISING | Injectable; injection | Valid |
@@ -103,6 +105,8 @@ None of the publications tests pentobarbital as a treatment for obesity. The tab
 | ANDA083239 | SODIUM PENTOBARBITAL | WYETH AYERST | Capsule; oral | Discontinued in Drugs@FDA |
 
 Showing 5 of 28 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

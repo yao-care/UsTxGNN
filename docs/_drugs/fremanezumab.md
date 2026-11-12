@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 741
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "FREMANEZUMAB"
 predicted_indications: ["atrophoderma vermiculata"]
 description: "Fremanezumab: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
@@ -84,9 +84,13 @@ No randomized controlled trial specific to this subtype was found. The most rele
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA761089 | AJOVY | TEVA PHARMS USA | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -101,12 +105,31 @@ Observational reports on cerebrovascular risk (PMID 42390441) and glaucoma risk 
 **Rationale:**
 The CGRP-pathway rationale is plausible, and observational data in aura-related migraine are encouraging. However, there are no registered clinical trials, the evidence level is L4, and a preclinical study suggests the drug may not act on the aura mechanism. Package-insert safety information is missing, so safety screening cannot proceed yet.
 
+<!-- review:begin us-lic-20261106-fremanezumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US license record is cancelled, and package-insert safety information is missing, so safety screening cannot proceed yet." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fremanezumab-1 -->
+
 **To proceed, the following is needed:**
 - Package-insert warnings and contraindications, which block safety screening
 - Detailed mechanism-of-action data, for example from DrugBank
 - Clarification of the current US market status and approved indication text
 - Subtype-specific clinical evidence for brainstem aura, such as a prospective study or trial
 - Review of the recent cerebrovascular and glaucoma safety signals for CGRP-pathway inhibitors
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US license record is cancelled, and p" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

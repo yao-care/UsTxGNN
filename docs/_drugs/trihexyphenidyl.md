@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TRIHEXYPHENIDYL"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "myelitis", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Trihexyphenidyl: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Parkinson disease and related movement disorders (parkinsonism…"
 ---
 
@@ -76,6 +76,12 @@ Currently no related clinical trials registered.
 
 No approved indication text is available in the data.
 
+<!-- review:begin us-lic-20261105-trihexyphenidyl-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All six US authorizations (ANDAs) are valid. No approved indication text is available in the data." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 16 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-trihexyphenidyl-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA040254 | Trihexyphenidyl Hydrochloride (Novitium Pharma) | Tablet | Not available |
@@ -105,12 +111,32 @@ Please refer to the package insert for label warnings and contraindications.
 **Rationale:**
 The prediction rests almost entirely on a computational score. There are no clinical trials, and the only publication is indirect and does not test the drug in ADHD. The anticholinergic cognitive effects also argue against benefit.
 
+<!-- review:begin us-lic-20261105-trihexyphenidyl-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The anticholinergic cognitive effects also argue against benefit. In addition, the drug is marketed in the US, with all six licenses valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 16 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-trihexyphenidyl-2 -->
+
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA)
 - FDA package insert warnings and contraindications for safety screening
 - Preclinical or clinical studies directly testing trihexyphenidyl in ADHD
 - An assessment of the cognitive and attention risks from anticholinergic burden, particularly in children
 - Clarification of the current US regulatory and marketing status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All six US authorizations (ANDAs) are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "In addition, the drug is marketed in the US, with all six licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PHENAZOPYRIDINE"
 predicted_indications: ["bronchitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Phenazopyridine: predicted new indication Bronchitis (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -100,12 +100,31 @@ Package insert warnings and contraindications were not available, so please refe
 **Rationale:**
 The prediction rests only on a model score, with no clinical trials, no literature, and no documented mechanism linking the drug to bronchitis.
 
+<!-- review:begin us-lic-20261031-phenazopyridine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests only on a model score, with no clinical trials, no literature, and no documented mechanism linking the drug to bronchitis. The only US license on record is cancelled, and no label safety data were available." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-phenazopyridine-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the FDA, which is a blocking gap for safety screening
 - Mechanism of action data (for example, from DrugBank) to test whether any biologically plausible link to bronchitis exists
 - The original approved indication, confirmed from a current label
 - A literature and trial search specific to phenazopyridine in respiratory conditions
 - Route compatibility and similarity assessment between the original and predicted indications, which are still pending
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license on record is cancelled, and no label safety data were available" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

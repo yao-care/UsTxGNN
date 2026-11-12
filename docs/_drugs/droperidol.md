@@ -78,6 +78,8 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA072123 | DROPERIDOL | AM REGENT | Injectable; injection | Valid |
@@ -87,6 +89,8 @@ Currently no related literature available.
 | ANDA071645 | DROPERIDOL | HOSPIRA | Injectable; injection | Discontinued in Drugs@FDA |
 
 Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Only injectable solutions are on record. No oral formulation appears in the data.
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 531
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ciprofloxacin: predicted new indication Diffuse scleroderma (evidence level L5). Approved use: Bacterial infections (typhoid fever, salmonellosis…"
 monitor_inn: "CIPROFLOXACIN"
 predicted_indications: ["diffuse scleroderma", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
@@ -68,6 +68,18 @@ The very high TxGNN score is not backed by clinical data. At present this is a h
 
 Currently no related clinical trials registered.
 
+<!-- review:begin us-lic-20261105-ciprofloxacin-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All eight US authorizations are valid, and none has approved-indication text on record." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 71 FDA applications or NDC listings for this drug, 39 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-ciprofloxacin-1 -->
+
+<!-- review:begin us-lic-20261106-ciprofloxacin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Three further cancelled licences are not shown: ANDA076126 (Carlsbad Technology), NDA019992 (Proficient Rx, solution/drops), and ANDA075939 (Amneal)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 71 FDA applications or NDC listings for this drug, 39 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ciprofloxacin-2 -->
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
@@ -115,6 +127,27 @@ The TxGNN score is very high, but no clinical trials exist, the supporting liter
 - Clinical evidence for ciprofloxacin in systemic sclerosis small bowel bacterial overgrowth, in comparison with other antibiotics
 - A benefit-risk assessment, given the tendon, neuropathy, QT, and corticosteroid interaction risks
 - A decision on whether a re-listed US product is available, as the drug is marketed
+
+<!-- review:begin us-lic-20261106-ciprofloxacin-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A decision on whether a re-listed US product is available, as the drug is marketed with 8 valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 71 FDA applications or NDC listings for this drug, 39 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ciprofloxacin-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All eight US authorizations are valid, and none has approved-indication text on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Three further cancelled licences are not shown: ANDA076126 (Carlsbad Technology), NDA019992 (Proficient Rx, solution/drops), and ANDA075939 " | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

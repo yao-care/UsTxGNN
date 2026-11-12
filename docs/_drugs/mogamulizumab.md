@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "MOGAMULIZUMAB"
 predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "human herpesvirus 8-related tumor", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Mogamulizumab: predicted new indication Prostatic urethra urothelial carcinoma (evidence level L5). Approved use: Mycosis fungoides and variants"
 ---
 
@@ -106,6 +106,12 @@ For warnings and contraindications, please refer to the package insert.
 **Rationale:**
 The prediction has no supporting clinical trials or publications (evidence level L5). The mechanistic link is a generic Treg-depletion hypothesis, and the high score is shared across several closely related urothelial entities.
 
+<!-- review:begin us-lic-20261106-mogamulizumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The mechanistic link is a generic Treg-depletion hypothesis, and the high score is shared across several closely related urothelial entities. The US BLA is also listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-mogamulizumab-1 -->
+
 **To proceed, the following is needed:**
 - Confirmation of CCR4 expression and Treg involvement in urothelial carcinoma tissue (preclinical or translational data)
 - A literature and trial search specific to anti-CCR4 therapy in urothelial or other solid tumours
@@ -113,6 +119,19 @@ The prediction has no supporting clinical trials or publications (evidence level
 - FDA package insert warnings and contraindications, which are required for any safety screening
 - Clarification of the regulatory status of BLA761051 and the availability of the product
 - Comparison with the HHV-8-related tumour prediction, which has a more coherent biological rationale and may be a better lead to prioritise
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US BLA is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

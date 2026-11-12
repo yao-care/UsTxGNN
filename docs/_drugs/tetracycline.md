@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1219
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TETRACYCLINE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
 description: "Tetracycline: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -76,6 +76,12 @@ Currently no related clinical trials registered.
 
 The drug is marketed in the United States. The data compiled for this report contain no approved indication text.
 
+<!-- review:begin us-lic-20261106-tetracycline-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the United States, with 7 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 61 FDA applications or NDC listings for this drug, 11 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tetracycline-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA050278 | Tetracycline hydrochloride (Heritage/Avet) | Capsule | Not available |
@@ -117,6 +123,18 @@ The prediction rests on one indirect case report and no registered trials. The h
 | 2 | Chronic ethmoidal sinusitis | 0.9915 | L5 | Hold | Only an in vitro antibiotic susceptibility study; no clinical efficacy data. Streptococcal resistance limits reliability. |
 | 3 | Chronic rhinosinusitis | 0.9915 | L5 | Research Question | Strongest of the four: a 2016 Cochrane review, a 2020 review, and a 2023 meta-analysis of doxycycline, plus a 2026 omadacycline case series. The evidence concerns other tetracycline-class agents rather than tetracycline itself, benefit is modest and heterogeneous, and resistance raises stewardship concerns. |
 | 4 | Paranasal sinus neoplasm | 0.9910 | L5 | Hold | No trials or literature; the rationale is speculative. |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

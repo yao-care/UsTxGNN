@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "AMMONIA N-13"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ammonia N-13: predicted new indication non-syndromic esophageal malformation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -72,6 +72,12 @@ Currently no related literature available.
 
 The local records list 20 US licences for single-ingredient Ammonia N-13 injection products (injection and injection solution), all held by academic or radiopharmacy manufacturers. The records carry no approved-indication text. Market status is recorded as marketed.
 
+<!-- review:begin us-lic-20261106-ammonia_n-13-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Market status is recorded as marketed, and all 20 licences are counted as valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 31 FDA applications or NDC listings for this drug, 24 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ammonia_n-13-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA211740 | Ammonia N 13 | Injection | Not recorded |
@@ -96,6 +102,19 @@ The prediction has no supporting clinical trials or publications and no plausibl
 - Any direct preclinical or clinical study of this disease
 - Package insert warnings and contraindications for safety screening
 - Clarification of whether the question is therapeutic repurposing or a diagnostic imaging use, which would be a separate research question
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and all 20 licences are counted as valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

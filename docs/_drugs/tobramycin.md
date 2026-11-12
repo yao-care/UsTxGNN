@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1237
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TOBRAMYCIN"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
 description: "Tobramycin: predicted new indication Exposure keratitis (evidence level L4). Approved use: Not recorded in the local data"
@@ -84,6 +84,12 @@ None of these studies directly tests tobramycin for exposure keratitis.
 
 The drug is marketed. Approved indication text is not available in the data compiled for this report. The main licenses are:
 
+<!-- review:begin us-lic-20261106-tobramycin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "15 valid US licenses are on record, and the drug is marketed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 73 FDA applications or NDC listings for this drug, 41 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tobramycin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA201688 | TOBI Podhaler (Viatris Specialty LLC) | Capsule | Not available (valid) |
@@ -115,7 +121,27 @@ The prediction score is high, but exposure keratitis is mainly a non-infectious 
 - Mechanism of action data and package insert warnings and contraindications
 - Current US market status for ophthalmic tobramycin, which is marketed
 
+<!-- review:begin us-lic-20261106-tobramycin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Current US market status for ophthalmic tobramycin, which is marketed with 15 valid licenses in the data" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 73 FDA applications or NDC listings for this drug, 41 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tobramycin-2 -->
+
 **Other predictions reviewed:** Otitis externa is the most plausible, with a mechanistic link through Pseudomonas aeruginosa and Staphylococcus aureus and historical case reports of tobramycin use in malignant otitis externa. However, it is closer to confirming an existing use than novel repurposing, and no controlled human trials were provided. Other predictions (post-bacterial disorder, infective urethral stricture, epidemic keratoconjunctivitis, and several non-bacterial conditions) have weak, indirect, or no evidence and are not recommended for advancement.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "15 valid US licenses are on record, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 15 valid licenses in the data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

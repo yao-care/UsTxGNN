@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TECHNETIUM TC-99M SESTAMIBI"
 predicted_indications: ["homozygous familial hypercholesterolemia", "multiple endocrine neoplasia", "cerebral infarction", "hypoalphalipoproteinemia", "cytomegalovirus infection", "Prinzmetal angina", "stroke disorder", "gastrin secretion abnormality", "cerebral arterial disease", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Technetium Tc-99M Sestamibi: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Not specified in the available license data"
 ---
 
@@ -87,6 +87,14 @@ Both study designs are presumed from truncated titles, and MEN-specific cohort s
 
 No approved indication text was available for any of them.
 
+<!-- review:begin us-lic-20261105-technetium_tc-99m_sestamibi-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All three authorizations are currently valid. No approved indication text was available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 5 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-technetium_tc-99m_sestamibi-1 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA078098 | TECHNETIUM TC 99M SESTAMIBI | CURIUM | Injectable; injection | Valid |
@@ -94,6 +102,8 @@ No approved indication text was available for any of them.
 | ANDA078809 | TECHNETIUM TC 99M SESTAMIBI | CARDINAL HEALTH 414 | Injectable; injection | Valid |
 | NDA019785 | CARDIOLITE | SHINE | Injectable; injection | Valid |
 | ANDA079157 | TECHNETIUM TC 99M SESTAMIBI | SUN PHARM INDS INC | Injectable; injection | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -111,6 +121,26 @@ The top-ranked prediction has no clinical, literature or mechanistic support. Th
 - Mechanism of action data, for example from DrugBank
 - For MEN, full-text review of the two studies to confirm design and MEN-specific cohort sizes, and a decision on whether a diagnostic-use question is in scope
 - Confirmation of whether other marketed sestamibi products exist
+
+<!-- review:begin us-lic-20261106-technetium_tc-99m_sestamibi-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of whether other marketed sestamibi products exist beyond the three valid US licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 5 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-technetium_tc-99m_sestamibi-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All three authorizations are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "beyond the three valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

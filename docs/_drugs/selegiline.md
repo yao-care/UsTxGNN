@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "SELEGILINE"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Selegiline: predicted new indication Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -100,6 +100,12 @@ The abstracts available for this report do not state the outcomes of the randomi
 
 The data compiled for this report contain no approved-indication text.
 
+<!-- review:begin us-lic-20261106-selegiline-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Three further abbreviated applications (ANDA075352, ANDA075321, ANDA074565; capsules and tablets) are also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 18 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-selegiline-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | NDA021336 | EMSAM | Patch | Valid |
@@ -138,6 +144,19 @@ Schizophrenia is the only prediction with plausible mechanistic and clinical sup
 - Extraction of efficacy results from the published randomised trials (e.g. PMIDs 15677608, 17972359, 10587287) and NCT00456976, ideally in a quantitative meta-analysis
 - Reconciliation of the knowledge-graph contraindications (psychotic disorders) with the proposed indication
 - The FDA package insert for warnings and contraindications (a blocking data gap), and mechanism-of-action data from DrugBank
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Three further abbreviated applications (ANDA075352, ANDA075321, ANDA074565; capsules and tablets) are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

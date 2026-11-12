@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "GRISEOFULVIN"
 predicted_indications: ["myiasis", "wound myiasis", "creeping myiasis", "furuncular myiasis", "echinococcus granulosus infectious disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Griseofulvin: predicted new indication Myiasis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -83,6 +83,12 @@ Currently no related literature available.
 
 Griseofulvin is marketed in the US, and no approved-indication text was recorded. The first five are listed below.
 
+<!-- review:begin us-lic-20261106-griseofulvin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Griseofulvin is marketed in the US, with 10 valid licenses, and no approved-indication text was recorded for them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 22 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-griseofulvin-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA091592 | Griseofulvin (Sandoz Inc) | Tablet | Not recorded |
@@ -112,12 +118,39 @@ Please refer to the package insert for label warnings and contraindications, as 
 **Rationale:**
 The prediction rests on a model score alone (Evidence Level L5), with no trials or publications and no plausible mechanism for activity against fly larvae. Established treatments already exist. The drug is marketed in the US, and label safety data are missing.
 
+<!-- review:begin us-lic-20261106-griseofulvin-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 10 valid licenses, and label safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 22 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-griseofulvin-3 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for griseofulvin and a documented mechanistic rationale for myiasis
 - FDA package insert warnings and contraindications, needed for safety screening
 - In vitro or animal data showing larvicidal activity (for myiasis), or protoscolicidal or cyst-model data (for echinococcosis, the most conceivable alternative)
 - A review of whether the identical subtype scores reflect an ontology artefact
 - Assessment of the formulation and route needed for any new indication
+
+<!-- review:begin us-lic-20261106-griseofulvin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Assessment of the formulation and route needed for any new indication, including the implications of the cancelled US marketing status" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 22 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-griseofulvin-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "including the implications of the cancelled US marketing status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 10 valid licenses for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 10 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 942
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "MONTELUKAST"
 predicted_indications: ["bronchitis", "atopic eczema"]
 description: "Montelukast: predicted new indication Bronchitis (evidence level L2). Approved use: Not recorded in the local data"
@@ -110,6 +110,12 @@ The compiled literature contains no RCT reports for this indication. The list be
 
 The drug is marketed in the US. The license records contain no approved-indication text. The five main authorizations are listed below.
 
+<!-- review:begin us-lic-20261106-montelukast-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 14 valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 52 FDA applications or NDC listings for this drug, 34 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-montelukast-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA020830 | SINGULAIR (Organon LLC) | Chewable tablet | Not listed in the compiled records |
@@ -119,6 +125,12 @@ The drug is marketed in the US. The license records contain no approved-indicati
 | ANDA205107 | Montelukast Sodium (Amneal Pharmaceuticals LLC) | Chewable tablet | Not listed in the compiled records |
 
 All available forms are oral (chewable tablet, film-coated tablet, tablet).
+
+<!-- review:begin us-lic-20261106-montelukast-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All available forms are oral (chewable tablet, film-coated tablet, tablet). The cancelled-only status in this dataset should be checked against current FDA records before any development decision." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 52 FDA applications or NDC listings for this drug, 34 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-montelukast-1 -->
 
 ---
 
@@ -139,12 +151,33 @@ Please refer to the package insert for the full warnings and contraindications.
 **Rationale:**
 The mechanism is plausible and several randomized trials exist, including one large Phase 3 trial in RSV bronchiolitis. The compiled data contain no results showing clear efficacy, and the predicted "bronchitis" covers distinct diseases. The neuropsychiatric boxed-warning risk is a particular concern for infants and children, and the drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-montelukast-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The neuropsychiatric boxed-warning risk is a particular concern for infants and children, and the drug is marketed in the US with 14 valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 52 FDA applications or NDC listings for this drug, 34 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-montelukast-3 -->
+
 **To proceed, the following is needed:**
 - Published results of the Phase 3 RSV bronchiolitis trial (NCT00076973) and the placebo-controlled bronchiolitis trials, with the Cochrane review conclusions
 - A decision on which disease entity to pursue (acute bronchiolitis, post-bronchiolitis wheeze, eosinophilic bronchitis or bronchiolitis obliterans), with an indication-specific trial design
 - Current FDA package insert warnings and contraindications, and confirmation of the actual US market and authorization status
 - Detailed mechanism-of-action data from DrugBank
 - A neuropsychiatric safety monitoring plan, especially for pediatric use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The cancelled-only status in this dataset should be checked against current FDA records before any development decision" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 14 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 14 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

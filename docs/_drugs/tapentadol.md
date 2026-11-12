@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "TAPENTADOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tapentadol: predicted new indication Migraine disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -71,6 +71,12 @@ Currently no related clinical trials registered.
 
 No literature is currently available for the top prediction (migraine disorder). Neither provides evidence of tapentadol efficacy.
 
+<!-- review:begin us-lic-20261105-tapentadol-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All three US authorizations are valid, and no indication text is recorded for them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 7 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-tapentadol-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [33689517](https://pubmed.ncbi.nlm.nih.gov/33689517/) | 2021 | Review | Expert Opinion on Pharmacotherapy | Reviews whether NSAIDs and acetaminophen can replace opioids for acute pain, amid the opioid overdose crisis. Not specific to migraine or tapentadol. |
@@ -108,6 +114,12 @@ Please refer to the package insert for warnings and contraindications, which wer
 **Rationale:**
 The prediction is model-based only (L5), with no clinical trials and no literature showing tapentadol efficacy in migraine. Opioids are not recommended for routine migraine care, and the drug is marketed in the US. The serotonergic interaction signal adds further concern.
 
+<!-- review:begin us-lic-20261106-tapentadol-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Opioids are not recommended for routine migraine care, and the drug is marketed in the US (3 of 3 licenses valid)." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tapentadol-3 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
@@ -115,6 +127,27 @@ The prediction is model-based only (L5), with no clinical trials and no literatu
 - Preclinical or clinical evidence of tapentadol efficacy in migraine
 - Assessment of medication-overuse headache and dependence risk against existing migraine therapies
 - Route and formulation compatibility assessment
+
+<!-- review:begin us-lic-20261106-tapentadol-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Route and formulation compatibility assessment, since all current oral products are cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tapentadol-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All three US authorizations are valid, and no indication text is recorded for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since all current oral products are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(3 of 3 licenses valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

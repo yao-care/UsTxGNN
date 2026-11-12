@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "SPIRONOLACTONE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Spironolactone: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Hypertension, congestive heart failure…"
 ---
 
@@ -74,6 +74,14 @@ Currently no related literature available.
 
 No approved indication text was available for them.
 
+<!-- review:begin us-lic-20261106-spironolactone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Eight US authorizations are listed as valid, and no approved indication text was available for them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 48 FDA applications or NDC listings for this drug, 18 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-spironolactone-1 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA040424 | SPIRONOLACTONE | MYLAN | Tablet; oral | Valid |
@@ -83,6 +91,8 @@ No approved indication text was available for them.
 | ANDA202187 | SPIRONOLACTONE | AUROBINDO PHARMA | Tablet; oral | Valid |
 
 Showing 5 of 49 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -101,6 +111,12 @@ Please refer to the package insert for full warnings and label contraindications
 **Rationale:**
 The prediction rests only on a model score. There are no clinical trials or publications, and the proposed mechanism (anti-androgen effect) does not fit the genetic, non-androgen-driven biology of this disorder. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-spironolactone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 8 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 48 FDA applications or NDC listings for this drug, 18 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-spironolactone-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for spironolactone
 - FDA package insert warnings and contraindications
@@ -108,6 +124,27 @@ The prediction rests only on a model score. There are no clinical trials or publ
 - Any case reports, trials, or literature in this indication
 - Route compatibility and similarity-to-original-indication assessments, which are still pending
 - Clarification of current US marketing status
+
+<!-- review:begin us-lic-20261106-spironolactone-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of current US marketing status, since the drug is marketed with 8 valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 48 FDA applications or NDC listings for this drug, 18 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-spironolactone-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Eight US authorizations are listed as valid, and n" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since the drug is marketed with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

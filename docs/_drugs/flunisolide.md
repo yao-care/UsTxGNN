@@ -74,6 +74,8 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA074805 | FLUNISOLIDE | BAUSCH | Spray, metered; nasal | Valid |
@@ -83,6 +85,8 @@ Currently no related clinical trials registered.
 | NDA018148 | NASALIDE | IVAX RES | Spray, metered; nasal | Discontinued in Drugs@FDA |
 
 Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

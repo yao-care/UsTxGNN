@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1289
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Vestronidase Alfa: predicted new indication Scheie syndrome (evidence level L5). Approved use: Mucopolysaccharidosis (MPS VII)"
 monitor_inn: "VESTRONIDASE ALFA"
 predicted_indications: ["Scheie syndrome", "Hurler syndrome", "Sanfilippo syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-vocal cord paralysis syndrome", "ptosis-strabismus-ectopic pupils syndrome", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "congenital Horner syndrome (disease)"]
@@ -108,12 +108,38 @@ Please refer to the package insert for safety information. No drug interaction r
 **Rationale:**
 The Scheie syndrome prediction rests on model output alone (L5). The enzyme deficiency differs from that treated by vestronidase alfa, and no trials or publications address this use.
 
+<!-- review:begin us-lic-20261106-vestronidase_alfa-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The enzyme deficiency differs from that treated by vestronidase alfa, and no trials or publications address this use. The US biologics license is also listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-vestronidase_alfa-1 -->
+
 **To proceed, the following is needed:**
 - Preclinical data (e.g., cell or animal models) testing whether beta-glucuronidase can reduce GAG accumulation in alpha-L-iduronidase deficiency
 - Detailed mechanism-of-action data
 - FDA package insert warnings and contraindications to enable safety screening
 - Clarification of the current regulatory and supply status
 - Route and dosing compatibility assessment for the proposed indication
+
+<!-- review:begin us-lic-20261106-vestronidase_alfa-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current regulatory and supply status, given that the license is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-vestronidase_alfa-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US biologics license is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that the license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

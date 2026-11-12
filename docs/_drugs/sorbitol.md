@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SORBITOL"
 predicted_indications: ["exercise-induced malignant hyperthermia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Sorbitol: predicted new indication Exercise-induced malignant hyperthermia (evidence level L5). Approved use: Not recorded"
 ---
 
@@ -94,12 +94,31 @@ Package insert warnings and contraindications were not available for this report
 **Rationale:**
 The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no literature, no documented mechanism, and no plausible pharmacological link to the proposed indication. The drug is marketed in the US, and package insert safety data are missing.
 
+<!-- review:begin us-lic-20261106-sorbitol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 3 of 3 licenses valid, and package insert safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-sorbitol-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for sorbitol, and a justification of any link to calcium-release dysregulation in skeletal muscle
 - Preclinical or mechanistic studies supporting the prediction
 - FDA package insert warnings and contraindications
 - Route and formulation compatibility assessment for the proposed indication
 - Review of the Major interaction with tolevamer and the peptic ulcer contraindication signal
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 3 of 3 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

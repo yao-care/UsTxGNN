@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 857
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Levonorgestrel: predicted new indication Acne (disease) (evidence level L3). Approved use: Not recorded in the local data"
@@ -86,6 +86,12 @@ Most of the remaining literature concerns contraception rather than acne.
 
 The data compiled for this report contain no approved-indication text. Main authorizations:
 
+<!-- review:begin us-lic-20261106-levonorgestrel-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "13 US licenses for levonorgestrel are valid. The data compiled for this report contain no approved-indication text for them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 111 FDA applications or NDC listings for this drug, 78 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-levonorgestrel-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA206229 | LILETTA | Intrauterine device | Not available |
@@ -115,6 +121,26 @@ The other predictions (Worth syndrome, pregnancy-associated osteoporosis, autoso
 - Mechanism of action data for levonorgestrel
 - FDA package insert warnings and contraindications
 - Evidence separating the effect of levonorgestrel alone from that of the estrogen component in acne
+
+<!-- review:begin us-lic-20261106-levonorgestrel-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Evidence separating the effect of levonorgestrel alone from that of the estrogen component in acne / Review of the cancelled license status for any feasible regulatory pathway" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 111 FDA applications or NDC listings for this drug, 78 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-levonorgestrel-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Review of the cancelled license status for any feasible regulatory pathway" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "13 US licenses for levonorgestrel are valid. for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

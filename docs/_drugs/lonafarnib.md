@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "LONAFARNIB"
 predicted_indications: ["leprosy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Lonafarnib: predicted new indication Leprosy (evidence level L5). Approved use: Not stated in the data compiled for this report"
 ---
 
@@ -71,9 +71,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA213969 | ZOKINVY | SENTYNL THERAPS INC | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -95,6 +99,12 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The leprosy prediction has no supporting clinical trials or literature (evidence level L5), and no mechanistic link to *M. leprae* is established. The package insert safety data is missing, which blocks safety screening.
 
+<!-- review:begin us-lic-20261106-lonafarnib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US license is also cancelled, and the package insert safety data is missing, which blocks safety screening." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lonafarnib-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (download from the FDA website)
 - Mechanism of action data (for example, from DrugBank)
@@ -102,6 +112,19 @@ The leprosy prediction has no supporting clinical trials or literature (evidence
 - A literature and trial search specific to leprosy
 - Route compatibility assessment against the oral capsule form
 - A review of the high number of major drug interactions for the likely leprosy treatment setting
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he US license is also cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

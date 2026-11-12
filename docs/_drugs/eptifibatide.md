@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 663
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Eptifibatide: predicted new indication rheumatoid arthritis (evidence level L5). Approved use: Acute coronary syndrome"
 monitor_inn: "EPTIFIBATIDE"
 predicted_indications: ["rheumatoid arthritis", "sickle cell-hemoglobin E disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin d disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin c disease syndrome", "hemoglobinopathy", "female breast carcinoma", "beta-thalassemia with other manifestations", "partial deletion of the short arm of chromosome 16"]
@@ -120,6 +120,18 @@ The mechanistic link is plausible, but efficacy is not established. Bleeding ris
   - Many other interactions have an unclassified level (for example proton pump inhibitors, morphine, simvastatin, prednisone).
 - **Bleeding risk** is a key concern in sickle cell populations, as noted in the rationale for the hemoglobinopathy prediction.
 
+<!-- review:begin us-lic-20261106-eptifibatide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "*Two further cancelled ANDAs (Sagent, ANDA204693; Slate Run, ANDA209864) are not shown.*" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 15 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-eptifibatide-1 -->
+
+<!-- review:begin us-lic-20261106-eptifibatide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All seven authorizations are generic ANDAs with a valid status. No approved indication text is recorded for them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 15 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-eptifibatide-2 -->
+
 Please refer to the package insert for full warnings and contraindications.
 
 ---
@@ -138,6 +150,27 @@ The only direct clinical evidence is a small, terminated Phase 1/2 trial (13 pat
 - A bleeding-risk mitigation plan for sickle cell patients, especially those with thrombocytopenia, coagulation disorders, or renal impairment
 - Review of the route of administration (injectable only) for a chronic or recurrent condition
 - Clarification of the current US market and supply situation, since the drug is marketed
+
+<!-- review:begin us-lic-20261106-eptifibatide-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current US market and supply situation, since the drug is marketed with 7 valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 15 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-eptifibatide-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "*Two further cancelled ANDAs (Sagent, ANDA204693; Slate Run, ANDA209864) are not shown.*" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "All seven authorizations are generic ANDAs with a valid status. No approved indication text is recorded for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

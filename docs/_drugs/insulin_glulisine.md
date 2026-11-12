@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 800
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "INSULIN GLULISINE"
 predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 description: "Insulin Glulisine: predicted new indication Thiamine-responsive dysfunction syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -59,6 +59,12 @@ Detailed mechanism of action data is not currently available in the data compile
 
 Type 1 diabetes is a core form of diabetes mellitus, which is already the drug's original indication. The prediction is therefore consistent with the drug's established use. Because type 1 diabetes involves absolute insulin deficiency, exogenous insulin replacement is mechanistically sound.
 
+<!-- review:begin us-lic-20261106-insulin_glulisine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Note that the US market status is "Cancelled only," so product availability should be verified before any recommendation." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-insulin_glulisine-3 -->
+
 ## Clinical Trial Evidence
 
 The data compiled for this report contain 29 trials for type 1 diabetes. The 10 most relevant are listed below, prioritizing completed Phase 3 trials and directly relevant efficacy studies.
@@ -95,6 +101,8 @@ Other registered trials include pediatric studies in Russia and Poland, basal-bo
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA021629 | APIDRA SOLOSTAR | SANOFI AVENTIS US | Injectable; subcutaneous | Valid |
@@ -102,6 +110,8 @@ Other registered trials include pediatric studies in Russia and Poland, basal-bo
 | NDC 63083-3037 | Pancreas DB Liquescence 3037 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
 | NDC 63083-2146 | Attention Deficit Mild Drops 2146 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
 | NDC 63083-2147 | Attention Deficit Severe Drops 2147 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -118,12 +128,39 @@ Please refer to the package insert for other safety information, including warni
 **Rationale:**
 Multiple completed Phase 3 trials and randomized studies support insulin glulisine in type 1 diabetes, which meets the L1 evidence level.
 
+<!-- review:begin us-lic-20261031-insulin_glulisine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Multiple completed Phase 3 trials and randomized studies support insulin glulisine in type 1 diabetes, which meets the L1 evidence level. However, this is on-label use rather than true repurposing, and the only US license is cancelled, so availability must be confirmed." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-insulin_glulisine-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking data gap for safety screening)
 - Detailed mechanism of action data from DrugBank
 - A glucose monitoring plan for patients taking interacting drugs
 
+<!-- review:begin us-lic-20261031-insulin_glulisine-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Confirm current US availability and licensing status (the only BLA is cancelled) / FDA package insert warnings and contraindications (a blocking data gap for safety screening)" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-insulin_glulisine-2 -->
+
 **Other predicted indications (for reference):** The remaining nine predictions have no trials or literature in the data compiled for this report and are recommended as **Hold**. These are thiamine-responsive dysfunction syndrome, opsismodysplasia, classic stiff person syndrome, focal stiff limb syndrome, autoimmune oophoritis, drug-induced localized lipodystrophy, centrifugal lipodystrophy, pressure-induced localized lipoatrophy and pancreatic agenesis. Pancreatic agenesis is the exception, as it is a plausible research question: insulin replacement is mechanistically sound for the resulting neonatal diabetes, but it manages the diabetes rather than the agenesis. The lipodystrophy and lipoatrophy predictions are likely adverse effects of insulin injection rather than therapeutic effects, so use for these conditions is not supported.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "However, this is on-label use rather than true repurposing, and the only US license is cancelled, so availability must be confirmed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Confirm current US availability and licensing status (the only BLA is cancelled)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Note that the US market status is "Cancelled only," so product availability should be verified before any recommendation" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

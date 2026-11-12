@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "ETELCALCETIDE"
 predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices with bleeding", "esophageal varices without bleeding", "varicose disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Etelcalcetide: predicted new indication Hyperphosphatemia (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -104,6 +104,18 @@ The prediction score is high, but the only study on hyperphosphatemia itself is 
 - Clinical studies that measure serum phosphate as the primary outcome
 - Detailed mechanism of action data
 - Package insert warnings and contraindications for a safety review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Also, the only US NDA is cancelled, and package insert safety data is missing" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

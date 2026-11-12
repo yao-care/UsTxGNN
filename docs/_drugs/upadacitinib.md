@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "UPADACITINIB"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Upadacitinib: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Rheumatoid arthritis"
 ---
 
@@ -69,6 +69,12 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261106-upadacitinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both authorizations are listed as cancelled in the data compiled for this report." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-upadacitinib-1 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
@@ -91,10 +97,37 @@ Currently no related literature available.
 **Rationale:**
 The only support is a high TxGNN model (deep learning) score. There are no clinical trials or publications, no plausible mechanistic link to JAK1 signaling. A benefit-risk case cannot be made for a congenital structural condition given the known JAK inhibitor safety profile.
 
+<!-- review:begin us-lic-20261106-upadacitinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials or publications, no plausible mechanistic link to JAK1 signaling, and the product's US authorizations are cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-upadacitinib-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (required before any safety screening)
 - Mechanism of action data to assess whether any biological link exists
 - Evidence of a JAK-STAT or inflammatory component in the predicted condition (e.g., preclinical or genetic studies)
+
+<!-- review:begin us-lic-20261106-upadacitinib-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Evidence of a JAK-STAT or inflammatory component in the predicted condition (e.g., preclinical or genetic studies) / Clarification of the cancelled US authorization status" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-upadacitinib-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both authorizations are listed as cancelled in the data compiled for this report" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and the product's US authorizations are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Clarification of the cancelled US authorization status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

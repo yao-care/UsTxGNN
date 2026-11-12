@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 6
 monitor_inn: "BUPRENORPHINE"
 predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "extrapyramidal and movement disease", "benign shuddering attacks"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Buprenorphine: predicted new indication Acute intermittent porphyria (evidence level L4). Approved use: Opioid dependence (also substance abuse/dependence and morphine depen…"
 ---
 
@@ -76,6 +76,12 @@ Currently no related clinical trials registered.
 
 The product listing shows no approved indication text. The drug is marketed.
 
+<!-- review:begin us-lic-20261106-buprenorphine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 11 valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 53 FDA applications or NDC listings for this drug, 41 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-buprenorphine-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021306 | Butrans | Extended-release patch | Not listed |
@@ -100,12 +106,39 @@ Please refer to the package insert for label warnings and contraindications.
 **Rationale:**
 The TxGNN score is high, but no clinical trials exist and the only publication is an anesthetic case report with no efficacy signal. There is no clear mechanistic link, and the drug is marketed in the US. Safety in porphyria has not been established.
 
+<!-- review:begin us-lic-20261106-buprenorphine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There is no clear mechanistic link, and the drug is marketed in the US with 11 valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 53 FDA applications or NDC listings for this drug, 41 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-buprenorphine-3 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (required for safety screening)
 - Mechanism of action data
 - Assessment of porphyrinogenic potential of buprenorphine
 - Evidence of efficacy beyond pain management in acute intermittent porphyria, or reconsideration of other predicted indications with stronger rationale
 - Clarification of the approved indication text
+
+<!-- review:begin us-lic-20261106-buprenorphine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US regulatory status and the approved indication text" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 53 FDA applications or NDC listings for this drug, 41 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-buprenorphine-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "the cancelled US regulatory status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

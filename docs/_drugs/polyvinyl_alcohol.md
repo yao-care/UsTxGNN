@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "POLYVINYL ALCOHOL"
 predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis", "bathing suit ichthyosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Polyvinyl Alcohol: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -87,6 +87,12 @@ Currently no related literature available.
 
 The drug is currently marketed in the US.
 
+<!-- review:begin us-lic-20261106-polyvinyl_alcohol-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is currently marketed in the US, with 1 valid license." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-polyvinyl_alcohol-2 -->
+
 ## Safety Considerations
 
 The data compiled for this report includes no label-based warnings or contraindications, and no drug interactions were found. Please refer to the package insert for safety information.
@@ -103,12 +109,32 @@ The knowledge graph links the drug to the following conditions as contraindicati
 **Rationale:**
 The prediction rests only on a model score, with no clinical trials or publications.
 
+<!-- review:begin us-lic-20261031-polyvinyl_alcohol-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests only on a model score, with no clinical trials or publications. The mechanistic link is speculative and symptomatic at best, and the only US authorization is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-polyvinyl_alcohol-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Preclinical or clinical evidence of benefit in ichthyosis, compared with standard emollients
 - Safety and percutaneous absorption assessment for topical use, especially in neonates with impaired skin barrier
 - Assessment of route and formulation compatibility (the current product is an ophthalmic solution, while the predicted use is dermatological)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The mechanistic link is speculative and symptomatic at best, and the only US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 1 valid license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

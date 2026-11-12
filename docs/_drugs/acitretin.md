@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "ACITRETIN"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Acitretin: predicted new indication Acne (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -103,6 +103,12 @@ The strongest signals in the retrieved data concern hidradenitis suppurativa (al
 
 At least 6 licences are recorded, the list may be partial.
 
+<!-- review:begin us-lic-20261105-acitretin-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "At least 6 licences are recorded, all currently valid, and the list may be partial." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 8 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-acitretin-1 -->
+
 ---
 
 ## Safety Considerations
@@ -130,6 +136,18 @@ The only direct evidence for acne is a single case report; the trial and most of
 - Mechanism-of-action data for acitretin in the pilosebaceous unit
 - Review of the package insert warnings and contraindications
 - A pregnancy-prevention and hepatic and lipid monitoring plan
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "all currently valid, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

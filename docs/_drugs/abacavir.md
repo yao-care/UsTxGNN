@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ABACAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Abacavir: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV infectious disease"
 ---
 
@@ -78,6 +78,12 @@ Currently no related clinical trials registered.
 
 Related literature for the feline prediction:
 
+<!-- review:begin us-lic-20261105-abacavir-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 7 licenses are valid. Two further cancelled solution ANDAs (Camber ANDA201107, Rising ANDA077950) are not shown." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 25 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-abacavir-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [11684314](https://pubmed.ncbi.nlm.nih.gov/11684314/) | 2002 | Animal study (combination therapy) | Antiviral Research | Zidovudine, lamivudine and abacavir combination suppressed FIV replication in vitro; FIV in cats is a model for HIV |
@@ -107,11 +113,38 @@ Package insert warnings and contraindications were not available for this report
 **Rationale:**
 The only support for the top prediction is a single in vitro study. There are no clinical trials, and SIV is an animal-model disease with no human development path.
 
+<!-- review:begin us-lic-20261105-abacavir-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "There are no clinical trials, and SIV is an animal-model disease with no human development path. The drug is marketed in the US, with all 7 licenses valid, and the prediction largely overlaps with abacavir's existing HIV indication." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 25 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-abacavir-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - A clear human-relevant indication, since the current top predictions are animal-model diseases or have no mechanistic link
 - Independent target and pathophysiology review for the neurodevelopmental disorder prediction
+
+<!-- review:begin us-lic-20261105-abacavir-3 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Independent target and pathophysiology review for the neurodevelopmental disorder prediction / Clarification of the US regulatory status, given that the drug is marketed and all 7 licenses are valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 25 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-abacavir-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 7 licenses are valid. Two further cancelled solution ANDAs (Camber ANDA201107, Rising ANDA077950) are not shown" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "The drug is marketed in the US, with all 7 licenses valid, and the prediction largely overlaps with abacavir's existing HIV indication" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "Clarification of the US regulatory status, given that the drug is marketed and all 7 licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

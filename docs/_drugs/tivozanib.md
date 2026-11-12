@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TIVOZANIB"
 predicted_indications: ["endocervical carcinoma", "uterine ligament adenocarcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "cervical adenosquamous carcinoma, glassy cell variant", "uterine ligament endometrioid adenocarcinoma", "uterine ligament mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma", "cervical mucinous adenocarcinoma, minimal deviation variant"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tivozanib: predicted new indication Endocervical carcinoma (evidence level L5). Approved use: Renal cell carcinoma (nonpapillary renal cell carcinoma…"
 ---
 
@@ -72,11 +72,21 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA212904 | FOTIVDA | AVEO PHARMS | Capsule; oral | Valid |
 
+<!-- licenses:end -->
+
 Note: Other regulatory sources describe an FDA approval in March 2021 for advanced renal cell carcinoma that has relapsed or is refractory after two or more prior systemic therapies.
+
+<!-- review:begin us-lic-20261106-tivozanib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Note: Other regulatory sources describe an FDA approval in March 2021 for advanced renal cell carcinoma that has relapsed or is refractory after two or more prior systemic therapies. The NDA is currently listed as cancelled in the compiled data, so its present marketing status should be confirmed." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tivozanib-2 -->
 
 ## Cytotoxicity
 
@@ -104,12 +114,32 @@ No warnings or contraindications are available in the compiled data. Please refe
 **Rationale:**
 The prediction has no supporting clinical trials or publications (Evidence Level L5).
 
+<!-- review:begin us-lic-20261031-tivozanib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction has no supporting clinical trials or publications (Evidence Level L5). The anti-angiogenic rationale is plausible but unverified, the predicted diseases are mostly rare subtypes where evidence is unlikely to emerge soon, and the only US NDA is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-tivozanib-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism-of-action data from DrugBank
 - Preclinical or clinical evidence of VEGFR inhibition in cervical or endocervical carcinoma, including a literature and trial search
 - Confirmation of current US regulatory and marketing status
 - Review of the Major interactions (CYP3A4 inducers such as phenobarbital and St. John's Wort) for any future study design
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The anti-angiogenic rationale is plausible but unverified, the predicted diseases are mostly rare subtypes where evidence is unlikely to eme" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "The NDA is currently listed as cancelled in the compiled data, so its present marketing status should be confirmed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

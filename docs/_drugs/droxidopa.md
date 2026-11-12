@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "DROXIDOPA"
 predicted_indications: ["variably protease-sensitive prionopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Droxidopa: predicted new indication Variably protease-sensitive prionopathy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -70,7 +70,15 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261106-droxidopa-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Ten authorizations are listed in total (all oral capsules, all cancelled); the five above are shown as the main ones." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-droxidopa-1 -->
+
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -81,6 +89,8 @@ Currently no related literature available.
 | ANDA213911 | DROXIDOPA | ALKEM LABS LTD | Capsule; oral | Valid |
 
 Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -97,12 +107,32 @@ Please refer to the package insert for warnings and contraindications, which wer
 **Rationale:**
 The prediction is model-only (evidence level L5) with no clinical trials or publications, and no plausible mechanistic link between noradrenergic replacement and prion protein pathology. The high TxGNN score alone is not enough to justify further investment. The drug is marketed in the US, but package insert safety data are missing.
 
+<!-- review:begin us-lic-20261106-droxidopa-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 10 valid licenses, but package insert safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-droxidopa-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) and a credible hypothesis linking droxidopa to VPSPr pathology
 - Preclinical evidence (for example, prion-infected cell or animal models) showing a disease-relevant effect
 - FDA package insert warnings and contraindications, to complete the safety screening
 - Clarification of the current regulatory and supply status
 - Route and formulation compatibility assessment for the target population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Ten authorizations are listed in total (all oral capsules, all cancelled); the five above are shown as the main ones" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 10 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

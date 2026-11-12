@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 591
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DEXBROMPHENIRAMINE"
 predicted_indications: ["recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis"]
 description: "Dexbrompheniramine: predicted new indication Recalcitrant atopic dermatitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -101,12 +101,31 @@ The package insert warnings and contraindications were not available. Please ref
 **Rationale:**
 The predicted indication is largely a subtype of an existing labeled use, so it offers little true repurposing value. There are no trials or publications, only the model score and class-level mechanistic reasoning.
 
+<!-- review:begin us-lic-20261031-dexbrompheniramine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no trials or publications, only the model score and class-level mechanistic reasoning. The only US license is cancelled, and label safety data is missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 8 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-dexbrompheniramine-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (blocking for safety screening)
 - Mechanism of action data
 - Drug-specific clinical or literature evidence for allergic urticaria and cold urticaria
 - Comparison against newer non-sedating antihistamines, given the drug's cancelled US market status
 - Route compatibility assessment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, and label safety data is missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1118
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "REVEFENACIN"
 predicted_indications: ["bronchitis"]
 description: "Revefenacin: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -97,6 +97,12 @@ The two predicted indications are closely related to the original one. Chronic b
 
 No literature was found specific to bronchitis. The publications below are the most relevant for obstructive lung disease (COPD).
 
+<!-- review:begin us-lic-20261106-revefenacin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The only US authorization is recorded as cancelled, so commercial availability should be verified before any action." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-revefenacin-2 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [31150963](https://pubmed.ncbi.nlm.nih.gov/31150963/) | 2019 | Phase 3 trial (safety) | Respiratory Medicine | 52-week safety and tolerability of revefenacin 88 and 175 μg in moderate to very severe COPD |
@@ -141,6 +147,26 @@ Please refer to the package insert for warnings and contraindications, as this i
 - Obtain detailed mechanism of action data from DrugBank
 - Bronchitis-specific data in non-COPD populations, if that indication is to be pursued
 - Evidence for any extension to non-COPD obstructive diseases such as asthma
+
+<!-- review:begin us-lic-20261031-revefenacin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Verify current commercial availability, since the only US NDA is listed as cancelled / Obtain the FDA package insert warnings and contraindications" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-revefenacin-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Verify current commercial availability, since the only US NDA is listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "The only US authorization is recorded as cancelled, so commercial availability should be verified before any action" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

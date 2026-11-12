@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 796
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "INSULIN ASPART"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
 description: "Insulin Aspart: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Not recorded in the local data"
@@ -122,11 +122,37 @@ One point from the prediction analysis is worth noting: insulin injections are a
 **Rationale:**
 Multiple completed Phase 3 trials and several systematic reviews support insulin aspart in type 1 diabetes, giving an L1 evidence level. However, this is essentially an existing core use rather than new repurposing.
 
+<!-- review:begin us-lic-20261106-insulin_aspart-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, this is essentially an existing core use rather than new repurposing. The safety label data is missing and the US licenses are all listed as cancelled, so the drug's regulatory status needs clarifying before proceeding." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-insulin_aspart-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank
 - Confirmation of current US marketing status
 - Clarification of whether any true repurposing opportunity exists beyond type 1 diabetes; permanent neonatal diabetes and pancreatic agenesis are the only plausible candidates and would need aspart-specific evidence
+
+<!-- review:begin us-lic-20261106-insulin_aspart-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current US marketing status, since the compiled licenses are all cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-insulin_aspart-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The safety label data is missing and the US licenses are all listed as cancelled, so the drug's regulatory status needs clarifying before pr" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since the compiled licenses are all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

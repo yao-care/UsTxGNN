@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MAFENIDE"
 predicted_indications: ["irritable bowel syndrome", "cauda equina syndrome", "panuveitis (disease)", "iris disease", "uveitis", "acne (disease)", "isolated iridoschisis", "abnormal pupillary function (disease)", "benign neoplasm of iris", "iris cancer"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Mafenide: predicted new indication Irritable bowel syndrome (evidence level L5). Approved use: Not stated in the available regulatory data"
 ---
 
@@ -71,12 +71,16 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA016763 | SULFAMYLON | RISING | Cream; topical | Valid |
 | ANDA201511 | MAFENIDE ACETATE | PH HEALTH | For solution; topical | Discontinued in Drugs@FDA |
 | ANDA206716 | MAFENIDE ACETATE | INGENUS PHARMS LLC | For solution; topical | Discontinued in Drugs@FDA |
 | NDA019832 | SULFAMYLON | MYLAN INSTITUTIONAL | For solution; topical | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -92,12 +96,31 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction rests only on a model score, with no trials, no literature and no mechanistic rationale. This makes it poorly suited to a gastrointestinal indication.
 
+<!-- review:begin us-lic-20261031-mafenide-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only US license is cancelled, and mafenide is a topical product with notable tissue toxicity and metabolic acidosis risk. This makes it poorly suited to a gastrointestinal indication." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 4 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-mafenide-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Any preclinical or clinical evidence linking mafenide to irritable bowel syndrome
 - A route-of-administration assessment, since only a topical cream has been marketed
 - If the team wants to pursue a more plausible direction, a separate assessment of acne, where a topical antibacterial rationale exists, compared with established alternatives
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, and mafenide is a topical product with notable tissue toxicity and metabolic acidosis risk" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

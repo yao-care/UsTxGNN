@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "VERTEPORFIN"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Verteporfin: predicted new indication mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (evidence level L5). Approved use: Macular degeneration"
 ---
 
@@ -95,12 +95,31 @@ Package insert warnings and contraindications were not available. Please refer t
 **Rationale:**
 The prediction is supported only by a model score, with no clinical trials or literature (Evidence Level L5). The drug's photodynamic oxidative stress could worsen mitochondrial dysfunction, so the direction of effect is uncertain.
 
+<!-- review:begin us-lic-20261031-verteporfin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The drug's photodynamic oxidative stress could worsen mitochondrial dysfunction, so the direction of effect is uncertain. The only US NDA is cancelled, and the knowledge graph flags several relevant contraindications (porphyria, liver and gallbladder disease)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-verteporfin-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data to test the mechanistic link
 - Preclinical studies in mitochondrial disease models, including mitochondrial function and oxidative stress readouts, to establish whether the effect is beneficial or harmful
 - Assessment of route and light-activation feasibility for a systemic or non-ocular mitochondrial disorder
 - A literature search to confirm whether any supporting studies exist
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US NDA is cancelled, and the knowledge graph flags several relevant contraindications (porphyria, liver and gallbladder disease)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

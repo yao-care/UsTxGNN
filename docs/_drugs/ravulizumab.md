@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "RAVULIZUMAB"
 predicted_indications: ["autosomal recessive severe congenital neutropenia due to G6PC3 deficiency", "cyclic hematopoiesis", "primary hyperoxaluria", "severe congenital neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "pseudo-von Willebrand disease", "X-linked severe congenital neutropenia", "primary release disorder of platelets", "megaloblastic anemia (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ravulizumab: predicted new indication Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency (evidence level L5). Approved use: Paroxysmal nocturnal hemoglobinuria"
 ---
 
@@ -90,12 +90,38 @@ Please refer to the package insert for other warnings and contraindications. The
 **Rationale:**
 The prediction has no clinical trial or literature support (Evidence Level L5), and no plausible mechanistic link between C5 inhibition and G6PC3-deficiency neutropenia. Complement blockade also carries a serious risk of meningococcal and other encapsulated-organism infection, which is a particular concern in neutropenic or immunodeficient patients.
 
+<!-- review:begin us-lic-20261031-ravulizumab-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Complement blockade also carries a serious risk of meningococcal and other encapsulated-organism infection, which is a particular concern in neutropenic or immunodeficient patients. In addition, the only US license is listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-ravulizumab-1 -->
+
 **To proceed, the following is needed:**
 - Mechanistic evidence for complement involvement in G6PC3-deficiency neutropenia, such as preclinical or biomarker studies
 - Detailed mechanism-of-action data for ravulizumab
 - The full package insert, to review warnings and contraindications
 - Clarification of the US regulatory status
 - A risk-benefit assessment of infection risk (including meningococcal vaccination and prophylaxis) in neutropenic patients
+
+<!-- review:begin us-lic-20261106-ravulizumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the US regulatory status and the reason for cancellation" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ravulizumab-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "In addition, the only US license is listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and the reason for cancellation" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

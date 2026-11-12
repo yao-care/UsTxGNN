@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 765
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "GUSELKUMAB"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "renal osteodystrophy", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
 description: "Guselkumab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not recorded in the local data"
@@ -118,6 +118,12 @@ No literature is available for drug-induced osteoporosis. The table below shows 
 
 This conflicts with the literature, which describes guselkumab as approved for psoriasis, psoriatic arthritis, Crohn's disease and UC. Treat it as a probable data gap and verify against the FDA database before any decision.
 
+<!-- review:begin us-lic-20261106-guselkumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The record shows the single license as "cancelled", giving a market status of "Cancelled only". This conflicts with the literature, which describes guselkumab as approved for psoriasis, psoriatic arthritis, Crohn's disease and UC." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-guselkumab-1 -->
+
 ---
 
 ## Safety Considerations
@@ -145,6 +151,26 @@ Please refer to the package insert for warnings and contraindications, because t
 - For ulcerative colitis, confirm approval in the target market and set up infection monitoring.
 - Review the adalimumab Major interaction and concomitant-therapy rules.
 - For drug-induced osteoporosis, run preclinical or mechanistic studies before any further investment.
+
+<!-- review:begin us-lic-20261106-guselkumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Verify the US regulatory status and approved indications (the record shows "Cancelled only" and no indication text)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-guselkumab-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The record shows the single license as "cancelled", giving a market status of "Cancelled only"" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(the record shows "Cancelled only" and no indication text)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

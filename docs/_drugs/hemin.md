@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "HEMIN"
 predicted_indications: ["thrombocytopenic purpura", "hemophilia", "C1 inhibitor deficiency", "acquired coagulation factor deficiency", "serpinopathy with toxic serpin polymerization", "hereditary angioedema with C1Inh deficiency", "inherited thrombophilia", "symptomatic form of hemophilia in female carriers", "hereditary von Willebrand disease", "congenital factor XI deficiency"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Hemin: predicted new indication Thrombocytopenic purpura (evidence level L5). Approved use: Acute intermittent porphyria"
 ---
 
@@ -74,9 +74,13 @@ For the second-ranked prediction (hemophilia), three publications were retrieved
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA101246 | Panhematin | Recordati Rare Diseases, Inc. | Powder, for solution; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -95,12 +99,31 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no relevant literature, and no mechanistic link to thrombocytopenic purpura. Hemin's known coagulation effects raise safety concerns for bleeding and platelet disorders.
 
+<!-- review:begin us-lic-20261106-hemin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The product's US license is cancelled, and hemin's known coagulation effects raise safety concerns for bleeding and platelet disorders." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-hemin-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - Preclinical or mechanistic evidence linking heme or heme oxygenase-1 induction to platelet disorders
 - Clarification of the regulatory status of the product and available routes of administration
 - A safety assessment of hemin's coagulation effects and its interactions with antithrombotic drugs
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The product's US license is cancelled, and h" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

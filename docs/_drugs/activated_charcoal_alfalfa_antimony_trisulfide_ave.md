@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -100,6 +100,25 @@ The TxGNN pipeline cannot evaluate this compound in its current form. Without a 
 - **Identify the original registered indication**: Even an informal use case (e.g., dyspepsia, digestive insufficiency, liver support) is needed to anchor the repurposing analysis
 - **Obtain complete safety data**: Retrieve the full package insert to document warnings, contraindications, and dosing limits — especially regarding nux vomica (strychnine content) and antimony trisulfide
 - **Confirm US market status**: DDI lookup was not found; an independent US FDA Orange Book search should confirm whether any NDA or ANDA exists under a brand name
+
+<!-- review:begin us-lic-20261105-activated_charcoal_alfalfa_antimony_trisulfide_ave-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "**Confirm US market status**: A TFDA query returned 0 results and DDI lookup was not found; an independent US FDA Orange Book search should confirm whether any NDA or ANDA exists under a brand name" Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-activated_charcoal_alfalfa_antimony_trisulfide_ave-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "A TFDA query returned 0 results and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

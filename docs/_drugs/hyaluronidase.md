@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "HYALURONIDASE"
 predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Hyaluronidase: predicted new indication Esotropia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -41,6 +41,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 Hyaluronidase is an enzyme that breaks down hyaluronan. It is used mainly to help other injected drugs spread through tissue.
 The TxGNN model's top-ranked prediction is esotropia, but the best-supported direction is **Diabetic Retinopathy** (ranked 6th), where **3 clinical trials** (including 2 completed Phase 3 trials) and **18 publications** exist.
 Most of the other top-10 predictions have little or no supporting evidence.
+
+<!-- review:begin us-lic-20261106-hyaluronidase-4 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "It is used mainly to help other injected drugs spread through tissue, and it is part of several subcutaneous biologic formulations." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-hyaluronidase-4 -->
 
 ---
 
@@ -123,6 +129,14 @@ Other predictions:
 
 The indication text is not recorded for any of them.
 
+<!-- review:begin us-lic-20261106-hyaluronidase-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "10 of 10 licenses are valid, and the indication text is not recorded for any of them. Most of the products are subcutaneous biologic formulations in which hyaluronidase is a component." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-hyaluronidase-1 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA021640 | VITRASE | BAUSCH AND LOMB | Injectable; injection | Valid |
@@ -133,6 +147,8 @@ The indication text is not recorded for any of them.
 
 Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
+<!-- licenses:end -->
+
 ---
 
 ## Safety Considerations
@@ -140,6 +156,12 @@ Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC 
 - **Drug Interactions:** 63 interactions were identified; all those listed are rated Minor. They include corticosteroids (hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisolone, prednisone), antihistamines (promethazine, chlorpheniramine, loratadine, cetirizine), local anesthetics (lidocaine, articaine), estrogens (estradiol, ethinylestradiol, conjugated estrogens), and aspirin.
 - **Hypersensitivity (from the literature):** a 2024 review describes allergic complications of hyaluronidase injection that are often misdiagnosed.
 - **Ocular signals (from the literature):** a 1978 study reported a higher incidence of cystoid macular edema with hyaluronidase added to anesthetic. Strabismus and diplopia have been reported after anesthetic blocks that used hyaluronidase.
+
+<!-- review:begin us-lic-20261106-hyaluronidase-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Five further cancelled BLAs are on record: Opdivo Qvantig, Rybrevant Faspro (two entries), Vyvgart Hytrulo, and Tecentriq Hybreza." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-hyaluronidase-2 -->
 
 Please refer to the package insert for the full warnings and contraindications.
 
@@ -154,6 +176,12 @@ Please refer to the package insert for the full warnings and contraindications.
 - Diabetic retinopathy is the only direction with real clinical-trial history, two completed Phase 3 trials. However, their efficacy outcomes were not available, and the program is historical. Anti-VEGF drugs and laser are now standard care. This direction is best treated as a research question rather than a Go.
 - The drug is marketed in the US, and the package insert's warnings and contraindications are missing from the data.
 
+<!-- review:begin us-lic-20261106-hyaluronidase-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 10 of 10 licenses valid, and the package insert's warnings and contraindications are missing from the data." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-hyaluronidase-3 -->
+
 **To proceed, the following is needed:**
 - The efficacy and safety results of NCT00198497 and NCT00198510 (published papers or registry results).
 - The package insert warnings and contraindications, which are a blocking data gap.
@@ -161,6 +189,22 @@ Please refer to the package insert for the full warnings and contraindications.
 - A comparison against current standards of care (anti-VEGF, laser, vitrectomy) to define any remaining unmet need.
 - A route and formulation assessment, since the intravitreal route would need a product with an active license.
 - Safety monitoring plans for hypersensitivity and ocular adverse events.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "10 of 10 licenses are valid, and t Most of the products are subcutaneous biologic formulations in which hyaluronidase is a component" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Five further cancelled BLAs are on record: Opdivo Qvantig, Rybrevant Faspro (two entries), Vyvgart Hytrulo, and Tecentriq Hybreza" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 10 of 10 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and it is part of several subcutaneous biologic formulations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

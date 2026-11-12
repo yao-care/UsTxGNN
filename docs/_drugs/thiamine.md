@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "THIAMINE"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Thiamine: predicted new indication resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (evidence level L5). Approved use: Not available"
 ---
 
@@ -94,6 +94,12 @@ The only literature in the compiled data concerns open-angle glaucoma, the third
 
 The compiled data list at least 11 records, and the list may be partial. None includes approved indication text. All are injectable products.
 
+<!-- review:begin us-lic-20261106-thiamine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All are single-ingredient injectable products." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-thiamine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA217181 | Thiamine Hydrochloride (OneSource Specialty Pharma) | Injection, solution | Not available |
@@ -124,6 +130,19 @@ Please refer to the package insert for safety information. No warnings, contrain
 - Mechanism of action data (e.g., from DrugBank)
 - For glaucoma: preclinical or interventional studies directly testing thiamine, and a check of the 1979 blood-level finding in modern cohorts
 - For thyroid hormone resistance: a biological rationale before any further work, given that it is a monogenic receptor disorder
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

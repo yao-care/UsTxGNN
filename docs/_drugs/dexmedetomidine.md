@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "DEXMEDETOMIDINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dexmedetomidine: predicted new indication nephrogenic syndrome of inappropriate antidiuresis . The top-ranked prediction by score is nephrogenic… (evidence level L5). Approved use: Not available in the data compiled for this report …"
 ---
 
@@ -113,6 +113,12 @@ No literature is available for the other four predicted indications.
 
 The five main listings are:
 
+<!-- review:begin us-lic-20261106-dexmedetomidine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 13 listings are cancelled, and none has approved indication text in the compiled data. The five main listings are:" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 36 FDA applications or NDC listings for this drug, 31 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dexmedetomidine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021038 | Precedex (Hospira, Inc.) | Injection, solution | Not available (valid) |
@@ -147,6 +153,12 @@ Please refer to the package insert for key warnings and formal contraindications
 **Rationale:**
 The strongest signal is for PDPH, a secondary headache: one completed Phase 3 trial (n=90), two completed RCT-type studies, and a 2025 meta-analysis. The trials are small, mostly single-center, mostly labeled NA, and the Phase 3 trial used an active comparator, so evidence is rated L2. Migraine has only one ongoing trial without results. The highest-scoring prediction, nephrogenic SIAD, has no evidence and a mechanism that conflicts with its cause. The label safety data are missing.
 
+<!-- review:begin us-lic-20261106-dexmedetomidine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All US listings are cancelled, and the label safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 36 FDA applications or NDC listings for this drug, 31 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dexmedetomidine-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking data gap), and the approved indications
 - Mechanism of action data from DrugBank
@@ -154,6 +166,20 @@ The strongest signal is for PDPH, a secondary headache: one completed Phase 3 tr
 - Results from the ongoing migraine trial (NCT07769255) before considering migraine
 - Review of the knowledge-graph contraindication signals (hypotension, atrioventricular block, liver and kidney disease) against the label for the target populations, such as parturients
 - No further investment in nephrogenic SIAD, migraine with brainstem aura, or trigeminal autonomic cephalalgia unless new evidence emerges
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 13 listings are cancelled, and none has approved indication text in the compiled data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "All US listings are cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "NEPAFENAC"
 predicted_indications: ["eye disease", "optic papillitis", "hypotrichosis simplex of the scalp", "seborrheic keratosis", "von Hippel anomaly", "congenital hypotrichosis milia", "mcpherson robertson cammarano syndrome", "lagophthalmos", "vulvar inverted follicular keratosis", "vitreous detachment"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Nepafenac: predicted new indication Eye disease (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
@@ -121,6 +121,12 @@ Please refer to the package insert for the full warnings, contraindications and 
 **Rationale:**
 Several large Phase 3 trials (for example NCT01109173, NCT01853072 and NCT01872611) and a systematic review support nepafenac for inflammation and macular edema after cataract surgery, giving Evidence Level L1. However, "eye disease" is a broad prediction, and the evidence mostly confirms an existing use rather than a new one. Label safety data was not available.
 
+<!-- review:begin us-lic-20261106-nepafenac-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US licenses are currently cancelled, and label safety data was not available." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-nepafenac-1 -->
+
 **To proceed, the following is needed:**
 - Retrieve and review the FDA package insert for warnings, contraindications and approved indications (a blocking gap for safety screening)
 - Confirm detailed mechanism of action data from DrugBank
@@ -128,6 +134,26 @@ Several large Phase 3 trials (for example NCT01109173, NCT01853072 and NCT018726
 - Clarify the commercial and regulatory status
 - Define corneal safety guardrails for patients with ocular surface disease, diabetes, or autoimmune conditions
 - Treat the optic papillitis and vitreous detachment predictions as research questions only. Do not pursue the dermatologic and rare-syndrome predictions without a new mechanistic rationale.
+
+<!-- review:begin us-lic-20261106-nepafenac-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarify the commercial and regulatory status given that both US NDAs are cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-nepafenac-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US licenses are currently cancelled, and l" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that both US NDAs are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

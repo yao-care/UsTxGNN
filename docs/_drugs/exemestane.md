@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "EXEMESTANE"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Exemestane: predicted new indication Antithrombin deficiency type 2 (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -88,6 +88,12 @@ Currently no related clinical trials registered.
 
 Two further ANDAs (Zydus, Breckenridge) are not shown above.
 
+<!-- review:begin us-lic-20261106-exemestane-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 7 listings are cancelled. Two further ANDAs (Zydus, Breckenridge) are not shown above." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 12 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-exemestane-1 -->
+
 ## Cytotoxicity
 
 | Item | Content |
@@ -118,6 +124,19 @@ The TxGNN scores are very high (0.9983 for antithrombin deficiency type 2), but 
 - Original approved indication text, which is missing from the license records
 - Clarification of whether amenorrhea could have any therapeutic rationale, or whether this prediction should be discarded
 - Any direct clinical or mechanistic evidence for the other predicted indications before reconsidering them
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 7 listings are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

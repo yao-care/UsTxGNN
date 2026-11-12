@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CYCLOPENTOLATE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cyclopentolate: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -65,6 +65,12 @@ Two other predictions were also generated, and both are likewise supported only 
 - **Neurogenic bladder (obsolete ontology term, score 0.9940)**: Antimuscarinics are established for neurogenic detrusor overactivity, but nothing is specific to cyclopentolate. Better-characterised agents (oxybutynin, tolterodine, solifenacin, trospium) already exist. The term should be mapped to current neurogenic lower urinary tract dysfunction terminology before further assessment.
 - **Irritable bowel syndrome (score 0.9927)**: Antispasmodics such as dicyclomine and hyoscyamine are used for IBS abdominal pain. Cyclopentolate has no oral formulation, and systemic anticholinergic effects such as constipation could worsen constipation-predominant IBS.
 
+<!-- review:begin us-lic-20261105-cyclopentolate-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All five authorizations are valid, and no approved indication text is recorded for them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 14 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-cyclopentolate-1 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Status | Manufacturer |
@@ -95,6 +101,19 @@ The prediction is supported only by a model score and class-level plausibility. 
 - Mapping of the obsolete neurogenic bladder term to current terminology
 - Route-of-administration feasibility assessment, since only ophthalmic forms exist
 - Preclinical or mechanistic evidence specific to cyclopentolate in the predicted conditions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All five authorizations are valid, and no approved indication text is recorded for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GLYCERIN"
 predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Glycerin: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -113,6 +113,12 @@ Literature for other predicted indications (all indirect):
 
 A sixth license (M014, Optimel Manuka Forte Eye Gel, gel) is also cancelled.
 
+<!-- review:begin us-lic-20261105-glycerin-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All six US licenses are valid, and no approved indication text is recorded for them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 2 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-glycerin-1 -->
+
 ---
 
 ## Safety Considerations
@@ -136,6 +142,12 @@ Please refer to the package insert for safety information. Package insert warnin
 **Rationale:**
 - The top-ranked predictions have high model scores (0.9918 to 0.9960), but none has a clinical trial or a direct study. The best-supported candidate, open-angle glaucoma, rests on an indirect osmotic IOP-lowering rationale.
 
+<!-- review:begin us-lic-20261105-glycerin-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The best-supported candidate, open-angle glaucoma, rests on an indirect osmotic IOP-lowering rationale. The six US licenses are valid, and the package insert safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 2 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-glycerin-2 -->
+
 **To proceed, the following is needed:**
 - Obtain FDA package insert warnings and contraindications to allow safety screening.
 - Obtain mechanism of action data from DrugBank.
@@ -143,6 +155,20 @@ Please refer to the package insert for safety information. Package insert warnin
 - For constipation-predominant IBS, search for direct clinical evidence of glycerin or osmotic laxatives.
 - Confirm route and formulation compatibility for any indication pursued, since this has not yet been assessed.
 - Deprioritize the genetic hair disorders, cauda equina syndrome and migraine predictions unless new supporting evidence appears.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All six US licenses are valid, and no approved indication text is recorded for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "The six US licenses are valid, and the package insert safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

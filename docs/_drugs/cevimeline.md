@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CEVIMELINE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cevimeline: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -76,6 +76,12 @@ Currently no related literature available.
 
 The approved-indication text is not available in the compiled data.
 
+<!-- review:begin us-lic-20261106-cevimeline-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All eight US authorisations are oral capsules and all are listed as cancelled. The approved-indication text is not available in the compiled data." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-cevimeline-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA020989 | cevimeline hydrochloride (Cosette Pharmaceuticals) | Capsule | Not available |
@@ -101,12 +107,32 @@ Label warnings and contraindications were not available in the data compiled for
 **Rationale:**
 The prediction rests only on a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications and no plausible mechanistic link. The drug is currently marketed in the US. The evidence level is L5.
 
+<!-- review:begin us-lic-20261106-cevimeline-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is currently marketed in the US (8 of 8 licenses valid)." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-cevimeline-2 -->
+
 **To proceed, the following is needed:**
 - Label warnings and contraindications from the FDA package insert (a blocking gap for safety screening)
 - Mechanism of action data for cevimeline
 - Preclinical evidence that muscarinic signalling affects hair follicle biology
 - Route and formulation compatibility assessment for the proposed indication
 - A review of the knowledge-graph contraindications (cardiopulmonary, glaucoma, biliary and renal) against the target population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All eight US authorisations are oral capsules and all are listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(8 of 8 licenses valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

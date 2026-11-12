@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CETUXIMAB"
 predicted_indications: ["chondroid hamartoma", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "non-seminomatous lesion", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "cystic neoplasm", "epiglottis neoplasm", "pre-malignant neoplasm"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cetuximab: predicted new indication Top-ranked prediction: chondroid hamartoma . Best-evidenced candidate… (evidence level L5). Approved use: Colorectal cancer and squamous cell carcinoma (colon, pha…"
 ---
 
@@ -152,12 +152,38 @@ Please refer to the package insert for warnings and contraindications.
 - The highest TxGNN scores (about 0.9995) fall on conditions with no trials or literature and no EGFR-driven rationale, so the scores alone do not justify moving forward. Evidence for the best candidates (pre-malignant neoplasm, cystic neoplasm) is limited to small Phase I/II studies. Their disease labels are broad.
 - Pre-malignant neoplasm and cystic neoplasm can be kept as research questions, not development candidates.
 
+<!-- review:begin us-lic-20261106-cetuximab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Their disease labels are broad, and the US license is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-cetuximab-2 -->
+
 **To proceed, the following is needed:**
 - Results and outcomes of NCT00524017 (premalignant upper aerodigestive lesions), and a risk-benefit assessment of cetuximab toxicity in a chemoprevention setting
 - Results of NCT01192087 and the salivary gland Phase II study, with the cystic neoplasm label narrowed to a specific tumor type
 - Package insert warnings and contraindications (a blocking data gap)
 - Mechanism-of-action data
 - Review of the Major interactions (aminolevulinic acid, thalidomide) and the platinum and fluoropyrimidine combinations for any prospective study
+
+<!-- review:begin us-lic-20261031-cetuximab-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Clarification of the US regulatory status, since the only BLA record is cancelled / Review of the Major interactions (aminolevulinic acid, thalidomide) and the platinum and fluoropyrimidine combinations for any prospective study" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-cetuximab-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Clarification of the US regulatory status, since the only BLA record is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and the US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

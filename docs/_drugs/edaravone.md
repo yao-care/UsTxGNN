@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "EDARAVONE"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Edaravone: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -72,7 +72,15 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261106-edaravone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All four authorizations are injectable products and all are currently cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 9 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-edaravone-1 -->
+
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -83,6 +91,8 @@ Currently no related literature available.
 | NDA215446 | RADICAVA ORS | SHIONOGI | Suspension; oral | Valid |
 
 Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -97,12 +107,32 @@ Please refer to the package insert for safety information.
 **Rationale:**
 The prediction is supported only by the TxGNN model score (0.9947), with no clinical trials, no publications, and no direct mechanistic link between edaravone and the heparin cofactor 2 / thrombin axis. In addition, the drug is marketed in the US, and package insert safety data could not be obtained.
 
+<!-- review:begin us-lic-20261106-edaravone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the drug is marketed in the US with all 4 of 4 authorizations valid, and package insert safety data could not be obtained." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 9 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-edaravone-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (obtained from the FDA website) to allow safety screening
 - Detailed mechanism of action data (e.g., from DrugBank)
 - Preclinical or mechanistic studies testing whether edaravone's antioxidant effects influence thrombosis in heparin cofactor 2 deficiency
 - Clarification of the reasons for the cancelled US authorizations and the current availability of injectable products
 - A route-compatibility assessment for the proposed new indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All four authorizations are injectable products and all are currently cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with all 4 of 4 authorizations valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

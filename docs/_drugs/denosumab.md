@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "DENOSUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Denosumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Osteoporosis (postmenopausal osteoporosis, drug-induced osteoporosis)"
 ---
 
@@ -81,6 +81,12 @@ No literature was found for severe nonproliferative diabetic retinopathy. For th
 
 The drug is marketed in the US. Approved indication text was not available.
 
+<!-- review:begin us-lic-20261106-denosumab-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, and all 10 of 10 authorizations are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 13 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-denosumab-3 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | BLA761439 | XTRENBO | Injection | Not available |
@@ -97,6 +103,12 @@ The drug is marketed in the US. Approved indication text was not available.
   - Radiopharmaceuticals and related agents: ibritumomab tiuxetan, iobenguane (I-131), tositumomab (with and without I-131)
   - Others: trimetrexate, corticotropin, tetracosactide
 
+<!-- review:begin us-lic-20261106-denosumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Five further authorizations are also cancelled: XGEVA (BLA125320), OSPOMYV (BLA761392), BOSAYA (BLA761436), Oziltus (BLA761457) and Boncresa (BLA761456)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 13 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-denosumab-1 -->
+
 Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
@@ -106,12 +118,33 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 Both predictions have high TxGNN scores (0.9963 and 0.9923) but no clinical trials and no literature that directly shows a benefit on retinopathy. The mechanistic link is speculative. Evidence is insufficient to advance.
 
+<!-- review:begin us-lic-20261106-denosumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The mechanistic link is speculative, and the drug's US authorizations are all cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 13 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-denosumab-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, and preclinical evidence on whether RANKL/RANK signaling affects retinal microvasculature
 - Targeted literature review for denosumab and diabetic retinopathy, including whether the 2024 cohort study reports retinopathy outcomes separately
 - FDA package insert warnings and contraindications (currently blocking for safety screening)
 - Clarification of the current US regulatory status, given that the drug is marketed and all 10 of 10 listed authorizations are valid
 - Assessment of route compatibility (denosumab is injectable; any ocular indication would need route and dosing evaluation)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Five further authorizations are also cancelled: XGEVA (BLA125320), OSPOMYV (BLA761392), BOSAYA (BLA761436), Oziltus (BLA761457) and Boncresa" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and the drug's US authorizations are all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and all 10 of 10 authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

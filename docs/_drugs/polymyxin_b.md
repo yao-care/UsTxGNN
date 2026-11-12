@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1062
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Polymyxin B: predicted new indication Bronchitis (evidence level L4). Approved use: Not available in the data compiled for this report"
 monitor_inn: "POLYMYXIN B"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
@@ -108,6 +108,12 @@ No literature is available for laryngotracheitis.
 
 Approved indication text is not available in the data compiled for this report.
 
+<!-- review:begin us-lic-20261106-polymyxin_b-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All five US authorizations are generic (ANDA) injectable products and are listed as cancelled. Approved indication text is not available in the data compiled for this report." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 97 FDA applications or NDC listings for this drug, 32 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-polymyxin_b-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA202766 | Polymyxin B (Xellia) | Injection, powder, for solution | Not available |
@@ -150,6 +156,26 @@ For bronchitis, the evidence is limited to indirect, small, or old studies and a
 - For bronchitis: controlled clinical data on inhaled polymyxin B with a respiratory safety assessment (bronchospasm risk), and a clear distinction between bronchitis and ventilator-associated pneumonia or tracheobronchitis
 - For conjunctivitis: confirmation of the current US status of polymyxin B ophthalmic products, and evaluation of polymyxin B alone versus the combination
 - Route and formulation compatibility assessment (currently only injectable forms are listed)
+
+<!-- review:begin us-lic-20261106-polymyxin_b-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "For conjunctivitis: confirmation of the current US status of polymyxin B ophthalmic products, since the injectable licenses listed are all cancelled, and evaluation of polymyxin B alone versus the combination" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 97 FDA applications or NDC listings for this drug, 32 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-polymyxin_b-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All five US authorizations are generic (ANDA) injectable products and are listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since the injectable licenses listed are all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

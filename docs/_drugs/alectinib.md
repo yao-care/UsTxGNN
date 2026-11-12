@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 219
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Alectinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Non-small cell lung carcinoma (lung cancer)"
 monitor_inn: "ALECTINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa"]
@@ -100,11 +100,37 @@ Package insert warnings and contraindications were not available for this report
 **Rationale:**
 The prediction is model-only (L5), with no trials, no literature, and no plausible ALK/RET-related mechanism in gingival fibromatosis. None of the other top-10 predictions offers a stronger signal. Those with abundant literature (such as lung benign neoplasm) are driven by existing NSCLC studies and do not transfer to the predicted indication.
 
+<!-- review:begin us-lic-20261031-alectinib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only NDA on record is cancelled, and the interaction burden is substantial. None of the other top-10 predictions offers a stronger signal." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-alectinib-1 -->
+
 **To proceed, the following is needed:**
 - A mechanistic rationale showing ALK or RET involvement in gingival fibromatosis, or a related fibroproliferative pathway
 - Mechanism of action data (MOA) and FDA package insert warnings and contraindications
 - Preclinical evidence in a relevant model
 - Clarification of available formulations
+
+<!-- review:begin us-lic-20261106-alectinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US regulatory status and of available formulations" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-alectinib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only NDA on record is cancelled, and the interaction burden is substantial" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "of the cancelled US regulatory status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

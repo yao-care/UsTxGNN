@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "OLSALAZINE"
 predicted_indications: ["myelodysplastic syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "partial deletion of the long arm of chromosome 5", "unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Olsalazine: predicted new indication Myelodysplastic syndrome (evidence level L5). Approved use: Not stated in the available US label data"
 ---
 
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA019715 | DIPENTUM | MYLAN SPCLT VIATRIS | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -91,12 +95,31 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction rests solely on a model score. There are no trials or publications, no mechanistic data, and olsalazine's minimal systemic absorption makes bone marrow or hair follicle effects implausible.
 
+<!-- review:begin us-lic-20261031-olsalazine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no trials or publications, no mechanistic data, and olsalazine's minimal systemic absorption makes bone marrow or hair follicle effects implausible. The only US license is cancelled, and package insert safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-olsalazine-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for olsalazine and a plausible biological link to MDS (or to alopecia areata)
 - Preclinical evidence (for example, in vitro or animal studies in MDS or hair follicle models)
 - Package insert warnings and contraindications from the FDA
 - Pharmacokinetic evidence on whether systemic exposure could reach relevant tissues
 - Renal safety and interaction review, given the many nephrotoxicity-related interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, and package insert safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

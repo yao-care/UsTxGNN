@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "CEFUROXIME"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cefuroxime: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -75,9 +75,17 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261106-cefuroxime-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The list may be partial. Of these licences, four are valid and one (NDA050780) is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 33 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-cefuroxime-1 -->
+
 ---
 
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -88,6 +96,8 @@ Currently no related literature available.
 | ANDA065359 | CEFUROXIME AXETIL | ANDA REPOSITORY | Tablet; oral | Valid |
 
 Showing 5 of 33 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 
@@ -114,6 +124,18 @@ The prediction has the highest model score but no clinical trials, no literature
 - A credible biological rationale linking cefuroxime to polyclonal hyperviscosity syndrome
 - Any preclinical or clinical study that directly addresses this disease
 - Package insert safety data (warnings and contraindications) and mechanism-of-action data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The list may be partial. Of these licences, four are valid and one (NDA050780) is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

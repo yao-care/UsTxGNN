@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "PEGVALIASE"
 predicted_indications: ["diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "diabetic cataract"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pegvaliase: predicted new indication Diabetic retinopathy (evidence level L5). Approved use: Not available in the compiled data (the label text is blank"
 ---
 
@@ -73,9 +73,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA761079 | PALYNZIQ | BIOMARIN PHARM | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -98,6 +102,25 @@ The prediction rests only on a TxGNN model (deep learning) score, with no clinic
 - Detailed mechanism of action data, and a plausible biological rationale linking phenylalanine degradation to diabetic retinopathy
 - Preclinical or mechanistic studies in retinal or diabetic models
 - A benefit-risk assessment against existing diabetic retinopathy therapies, given the anaphylaxis risk
+
+<!-- review:begin us-lic-20261106-pegvaliase-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory status of the cancelled BLA and its approved indication text / A benefit-risk assessment against existing diabetic retinopathy therapies, given the anaphylaxis risk" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pegvaliase-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Clarification of the regulatory status of the cancelled BLA and its approved indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

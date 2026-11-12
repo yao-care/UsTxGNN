@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PRUCALOPRIDE"
 predicted_indications: ["hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "duodenal ulcer (disease)", "oral candidiasis", "obsolete familial combined hyperlipidemia", "amyloidosis (disease)", "strongyloidiasis", "HIV infectious disease", "primary amyloidosis", "acquired amyloid peripheral neuropathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Prucalopride: predicted new indication Hypoalphalipoproteinemia (evidence level L5). Approved use: Constipation disorder"
 ---
 
@@ -82,6 +82,12 @@ For the amyloidosis-related predictions, the following papers were retrieved. Ne
 
 The drug is marketed. The data compiled for this report contain no approved indication text.
 
+<!-- review:begin us-lic-20261106-prucalopride-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 13 valid licenses. The data compiled for this report contain no approved indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 20 FDA applications or NDC listings for this drug, 18 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-prucalopride-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA210166 | MOTEGRITY (Takeda) | Film-coated tablet | Not available |
@@ -98,6 +104,12 @@ The drug is marketed. The data compiled for this report contain no approved indi
   - Minor: nifedipine, afatinib, alpelisib, amiodarone, cobicistat, captopril, diltiazem, spironolactone, carvedilol and conivaptan.
 - The large interaction count would need attention in polypharmacy settings such as HIV treatment.
 
+<!-- review:begin us-lic-20261106-prucalopride-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Eight further ANDAs from Zydus, Apotex, Ajanta, Hikma, Sandoz, Cipla, ANI and SpecGx are also recorded as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 20 FDA applications or NDC listings for this drug, 18 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-prucalopride-1 -->
+
 Package insert warnings and contraindications were not available, so please refer to the package insert for the complete safety information.
 
 ## Conclusion and Next Steps
@@ -107,12 +119,33 @@ Package insert warnings and contraindications were not available, so please refe
 **Rationale:**
 The top prediction, hypoalphalipoproteinemia, has no identifiable mechanistic link, no clinical trials and no literature (L5, model prediction only). The drug is marketed. The amyloidosis-related predictions have only indirect, symptomatic rationale and could be treated as research questions rather than development candidates.
 
+<!-- review:begin us-lic-20261106-prucalopride-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 13 valid US licenses. The amyloidosis-related predictions have only indirect, symptomatic rationale and could be treated as research questions rather than development candidates." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 20 FDA applications or NDC listings for this drug, 18 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-prucalopride-3 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Evidence of a biological link between 5-HT4 agonism and HDL metabolism, or a re-ranking toward more plausible indications
 - For the amyloidosis-related GI dysmotility, a focused literature search and a feasibility assessment of symptomatic prokinetic use
 - Clarification of the US market status, since 13 licenses are shown as valid
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Eight further ANDAs from Zydus, Apotex, Ajanta, Hikma, Sandoz, Cipla, ANI and SpecGx are also recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 13 valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -93,7 +93,26 @@ This candidate cannot be evaluated for repurposing because the TxGNN pipeline re
 - **Obtain safety documentation**: Cupric arsenite is an arsenic-containing compound; regulatory safety data must be obtained before any clinical evaluation proceeds
 - **Re-submit as individual APIs**: Once decomposed, each mappable ingredient should be run through the TxGNN pipeline independently
 
+<!-- review:begin us-lic-20261105-actaea_spicata_root_aloe_copper_cupric_arsenite_fr-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "**Obtain safety documentation**: Cupric arsenite is an arsenic-containing compound; TFDA package insert or equivalent regulatory safety data must be obtained before any clinical evaluation proceeds" Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-actaea_spicata_root_aloe_copper_cupric_arsenite_fr-1 -->
+
 > ⚠️ **Note**: Cupric arsenite (copper(II) arsenite) contains inorganic arsenic. Any downstream clinical repurposing study involving this ingredient will require enhanced toxicological review and regulatory pre-consultation regardless of TxGNN prediction outcomes.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "TFDA package insert or equivalent" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

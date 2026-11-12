@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -79,6 +79,12 @@ Currently, no repurposing direction can be evaluated.
 **Rationale:**
 TxGNN produced no predicted indications, and both MOA and safety data are absent. There is no basis on which to evaluate a new indication at this time.
 
+<!-- review:begin us-lic-20261105-aluminum_sulfate_tetradecahydrate_calcium_acetate_-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "TxGNN produced no predicted indications, there is no Taiwan regulatory approval history, and both MOA and safety data are absent." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-aluminum_sulfate_tetradecahydrate_calcium_acetate_-1 -->
+
 **To proceed, the following is needed:**
 
 - **Resolve DrugBank ID mapping**: Query DrugBank for each component individually (aluminum sulfate, calcium acetate) to obtain node IDs, then re-run TxGNN prediction.
@@ -86,6 +92,19 @@ TxGNN produced no predicted indications, and both MOA and safety data are absent
 - **Obtain MOA data**: Retrieve mechanism of action from DrugBank or primary literature for each active ingredient.
 - **Confirm original registered indication**: Identify the approved indication in any jurisdiction (US, EU, Japan) to establish the repurposing baseline.
 - **Re-run evidence collection**: Once a target indication is identified, collect ClinicalTrials.gov registrations and PubMed literature to determine evidence level.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "there is no Taiwan regulatory approval history" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

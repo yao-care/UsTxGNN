@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1098
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PSEUDOEPHEDRINE"
 predicted_indications: ["nasal cavity disease", "allergic urticaria"]
 description: "Pseudoephedrine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -90,6 +90,8 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA075153 | PSEUDOEPHEDRINE HYDROCHLORIDE | L PERRIGO CO | Tablet, extended release; oral | Valid |
@@ -100,7 +102,15 @@ Currently no related clinical trials registered.
 
 Showing 5 of 212 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
+<!-- licenses:end -->
+
 All listed forms are oral.
+
+<!-- review:begin us-lic-20261105-pseudoephedrine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All three authorizations are currently valid, and the drug is marketed. All listed forms are oral." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 129 FDA applications or NDC listings for this drug, 57 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-pseudoephedrine-1 -->
 
 ---
 
@@ -120,12 +130,32 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Rationale:**
 The top prediction (nasal cavity disease) is biologically plausible but overlaps with existing indications, so it adds little new value. Evidence is limited to preclinical models, one review and one comparative clinical study, with no registered trials. The drug is marketed in the US, and label safety data are missing. The other prediction (urticaria) lacks supporting evidence.
 
+<!-- review:begin us-lic-20261106-pseudoephedrine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 3 valid licenses, and label safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 129 FDA applications or NDC listings for this drug, 57 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pseudoephedrine-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (safety screening cannot proceed without them)
 - Mechanism of action data from DrugBank
 - A defined, specific nasal condition beyond existing rhinitis and cold indications, with controlled clinical data
 - Confirmation of current US regulatory and marketing status
 - A review of cardiovascular and metabolic risk for the target population, given the knowledge-graph contraindications and antidiabetic interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All three authorizations are currently valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 3 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

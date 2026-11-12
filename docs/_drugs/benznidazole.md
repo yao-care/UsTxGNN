@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "BENZNIDAZOLE"
 predicted_indications: ["congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Benznidazole: predicted new indication Congenital analbuminemia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -94,12 +94,38 @@ Benznidazole is not classified as an antineoplastic drug, so no cytotoxicity ass
 **Rationale:**
 The prediction rests only on a TxGNN model (deep learning) score (Evidence Level L5). There are no clinical trials or publications, and no plausible mechanistic link to congenital analbuminemia.
 
+<!-- review:begin us-lic-20261031-benznidazole-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials or publications, and no plausible mechanistic link to congenital analbuminemia. The only US license is cancelled, so the practical path to development is also unclear." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-benznidazole-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data for benznidazole
 - Preclinical or mechanistic evidence connecting benznidazole to albumin biology
 - A review of the clinical rationale for each predicted indication, given that albumin deficiency is a genetic disorder not expected to respond to an antiparasitic
 - Clarification of regulatory and supply status
+
+<!-- review:begin us-lic-20261106-benznidazole-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of regulatory and supply status given the cancelled US license" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-benznidazole-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, so the practical path to development is also unclear" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given the cancelled US license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

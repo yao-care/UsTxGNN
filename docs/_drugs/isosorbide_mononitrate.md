@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ISOSORBIDE MONONITRATE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "alopecia", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pulmonary arterial hypertension"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Isosorbide Mononitrate: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not stated in the compiled data (the drug is known as a nitrate vasod…"
 ---
 
@@ -83,6 +83,12 @@ No literature is available for the top-ranked prediction (hypertrichosis). The o
 
 The drug is marketed. Approved-indication text was not available.
 
+<!-- review:begin us-lic-20261106-isosorbide_mononitrate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Seven licences are currently valid in the US market, and the drug is marketed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 23 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-isosorbide_mononitrate-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA210822 | Isosorbide Mononitrate (Chartwell RX) | Tablet, extended release | Not available |
@@ -114,6 +120,26 @@ The top-ranked prediction (hypertrichosis) and the other hair and genetic-disord
 - Mechanism-of-action data from DrugBank
 - For PAH: direct clinical or preclinical studies of isosorbide mononitrate in PAH models, and a review of nitrate tolerance and PDE5 inhibitor co-use risks
 - Clarification of current US market status
+
+<!-- review:begin us-lic-20261106-isosorbide_mononitrate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of current US market status, since the facts list 7 valid licences" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 23 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-isosorbide_mononitrate-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Seven licences are currently valid in the US market, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since the facts list 7 valid licences" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

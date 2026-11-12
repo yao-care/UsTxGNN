@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CYANOCOBALAMIN"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cyanocobalamin: predicted new indication Biotin metabolic disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -86,6 +86,12 @@ Currently no related clinical trials registered.
 
 The drug is marketed in the US. The data compiled for this report provides no approved indication text.
 
+<!-- review:begin us-lic-20261106-cyanocobalamin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 11 valid licenses. The data compiled for this report provides no approved indication text for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 62 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-cyanocobalamin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA214655 | cyanocobalamin (Zydus Lifesciences) | Injection, solution | Not available |
@@ -113,6 +119,12 @@ Please refer to the package insert for warnings and contraindications, as this i
 **Rationale:**
 The TxGNN score is high (0.9960), but there are no registered clinical trials, and the single publication is unrelated to treatment. The proposed mechanistic link is hypothetical. In addition, standard biotin therapy already exists for biotin-related disorders, and the drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-cyanocobalamin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, standard biotin therapy already exists for biotin-related disorders, and the drug is marketed in the US with 11 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 62 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-cyanocobalamin-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data (for example, from DrugBank)
@@ -120,6 +132,20 @@ The TxGNN score is high (0.9960), but there are no registered clinical trials, a
 - Case reports or studies in biotinidase or holocarboxylase synthetase deficiency
 - Clarification of the US regulatory and market status
 - Route and formulation compatibility assessment for the proposed use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 11 valid licenses for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

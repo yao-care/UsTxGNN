@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1082
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PRIMAQUINE"
 predicted_indications: ["myiasis", "creeping myiasis", "furuncular myiasis", "wound myiasis", "toxoplasmosis", "nocardiosis", "pneumocystosis"]
 description: "Primaquine: predicted new indication Myiasis (evidence level L5). Approved use: Not recorded in the local data"
@@ -78,6 +78,12 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261105-primaquine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All three US authorizations for primaquine are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 5 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-primaquine-1 -->
+
 ---
 
 ## US Market Information
@@ -109,6 +115,12 @@ Please refer to the package insert for full warnings and precautions.
 **Rationale:**
 The myiasis prediction has no clinical trials, no literature and no plausible mechanism. Its Evidence Level is L5. The hemolysis risk in G6PD deficiency adds further caution, so there is no basis for advancing this indication.
 
+<!-- review:begin us-lic-20261105-primaquine-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Its Evidence Level is L5, and all three US licenses are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 5 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-primaquine-2 -->
+
 **To proceed, the following is needed:**
 - Any preclinical or mechanistic evidence of primaquine activity against fly larvae. Without it, further investment is not justified.
 - Detailed mechanism of action data for primaquine.
@@ -116,6 +128,20 @@ The myiasis prediction has no clinical trials, no literature and no plausible me
 - Verification of current product availability in the US.
 
 Other predictions for this drug are better supported and may deserve review first. **Malaria** (L1, 40 registered trials) is essentially an on-label or extension use. **Pneumocystosis** (L1) is supported by older Phase 3 data on clindamycin plus primaquine as a second-line regimen. Both would need G6PD screening as a guardrail.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All three US authorizations for primaquine are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "and all three US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

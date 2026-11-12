@@ -79,11 +79,15 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA202192 | JAKAFI | INCYTE CORP | Tablet; oral | Valid |
 | NDA215309 | OPZELURA | INCYTE CORP | Cream; topical | Valid |
 | NDA217180 | JAKAFI XR | INCYTE CORP | Tablet, extended release; oral | Valid |
+
+<!-- licenses:end -->
 
 ---
 

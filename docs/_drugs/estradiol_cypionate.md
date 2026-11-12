@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ESTRADIOL CYPIONATE"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "partial trisomy/tetrasomy of the short arm of chromosome 12", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "blepharophimosis-epicanthus inversus-ptosis", "partial autosomal trisomy/tetrasomy", "luteoma of pregnancy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Estradiol Cypionate: predicted new indication Symptomatic form of fragile X syndrome in female carrier (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -78,6 +78,8 @@ No literature was found for the top predicted indication. The only literature co
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA085470 | DEPO-ESTRADIOL | PFIZER | Injectable; injection | Valid |
@@ -87,6 +89,8 @@ No literature was found for the top predicted indication. The only literature co
 | NDA017968 | DEPO-TESTADIOL | PHARMACIA AND UPJOHN | Injectable; injection | Discontinued in Drugs@FDA |
 
 Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -107,6 +111,12 @@ The drug-disease knowledge graph lists a number of conditions associated with co
 **Rationale:**
 The prediction is biologically plausible for the ovarian insufficiency component of fragile X premutation carriers, but it is supported only by a model score. There are no clinical trials or human literature, and the original mechanism data and label safety data are missing.
 
+<!-- review:begin us-lic-20261106-estradiol_cypionate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials or human literature, and the original mechanism data and label safety data are missing. The drug is also cancelled-only in the US market." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-estradiol_cypionate-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which are blocking for safety screening
 - Mechanism of action data (for example, from DrugBank)
@@ -114,6 +124,26 @@ The prediction is biologically plausible for the ovarian insufficiency component
 - A clear definition of the target outcome (ovarian insufficiency symptoms versus other fragile X features)
 - Confirmation of an available marketed estradiol product and route
 - Review of the knowledge graph contraindication list against the official label
+
+<!-- review:begin us-lic-20261106-estradiol_cypionate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of an available marketed estradiol product and route, since this license is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-estradiol_cypionate-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The drug is also cancelled-only in the US market" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since this license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

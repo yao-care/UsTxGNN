@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 593
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DEXLANSOPRAZOLE"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
 description: "Dexlansoprazole: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -110,6 +110,12 @@ Acid suppression is a well-established mechanism for ulcer healing, and this ind
 - Mechanism of action data confirmed from DrugBank
 - A review of the 100 known drug interactions, especially the Major ones
 
+<!-- review:begin us-lic-20261106-dexlansoprazole-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A review of the 100 known drug interactions, especially the Major ones / Clarification of the cancelled US market status and any re-licensing plan" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dexlansoprazole-1 -->
+
 ---
 
 ### Other Predicted Indications (Brief Notes)
@@ -122,6 +128,18 @@ Other high-ranking predictions, summarized for reference:
 | Duodenal ulcer | L1 | Proceed with Guardrails | Shared indirect Phase 3 evidence; no literature retrieved |
 | Gastrojejunal ulcer | L3 | Research Question | Only trial is a withdrawn Phase 4 absorption study (n=0); absorption after gastric bypass is unresolved |
 | Peptic ulcer perforation, gastroduodenitis, duodenal obstruction, duodenogastric reflux, leather-bottle stomach | L5 | Hold | Network-proximity predictions with no trials or literature |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Clarification of the cancelled US market status and any re-licensing plan" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

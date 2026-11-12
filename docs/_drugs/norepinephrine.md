@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "NOREPINEPHRINE"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Norepinephrine: predicted new indication Obstructive lung disease (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -59,6 +59,12 @@ Detailed mechanism of action data is not available. Norepinephrine is known as a
 
 The literature does discuss adrenergic signalling and airway innervation in asthma and COPD, and neuroimmune mechanisms are plausible (PMID 29696025, 21271508, 41601146). However, systemic norepinephrine is a potent vasopressor and not a practical bronchodilator.
 
+<!-- review:begin us-lic-20261031-norepinephrine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "However, systemic norepinephrine is a potent vasopressor and not a practical bronchodilator. The high TxGNN score is a computational prediction only and is not supported by clinical evidence for this use." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 27 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-norepinephrine-1 -->
+
 The other two predictions are weaker still. "Respiratory malformation" (score 0.9984) is supported only by preclinical work on noradrenergic control of breathing and by prenatal-exposure safety papers, which are not treatment evidence. "Rienhoff syndrome" (score 0.9983) has no trials and no literature, so no mechanistic link can be established.
 
 ## Clinical Trial Evidence
@@ -104,10 +110,30 @@ Please refer to the package insert for key warnings and the full contraindicatio
 **Rationale:**
 The only clinical trial found is a Phase 1 hypertension study unrelated to this indication, and the literature consists of background reviews and physiology papers. Systemic norepinephrine is a vasopressor rather than a practical bronchodilator, and the knowledge-graph contraindications include hypertension and thrombotic disease.
 
+<!-- review:begin us-lic-20261031-norepinephrine-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The high TxGNN score is a computational prediction, the mechanistic overlap mostly restates the old label, and the only US product record is cancelled. Systemic norepinephrine is a vasopressor rather than a practical bronchodilator, and the knowledge-graph contraindications include hypertension and thrombotic disease." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 27 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-norepinephrine-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (for example from DrugBank)
 - Clinical or well-designed preclinical evidence that norepinephrine, by a feasible route and dose, benefits obstructive lung disease
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The high TxGNN score is a computational prediction only and is not supported by clinical evidence for this use" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "The high TxGNN score is a computational prediction, the mechanistic overlap mostly restates the old label, and the only US product record is" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

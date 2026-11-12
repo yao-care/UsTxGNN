@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "OXACILLIN"
 predicted_indications: ["epiglottitis", "laryngitis", "bacterial arthritis", "urinary tract infection (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Oxacillin: predicted new indication Epiglottitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -73,6 +73,18 @@ Currently no related literature available.
 
 No approved indication text is recorded for any of them.
 
+<!-- review:begin us-lic-20261105-oxacillin-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 8 US authorizations are valid, and the drug is marketed. No approved indication text is recorded for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 31 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-oxacillin-1 -->
+
+<!-- review:begin us-lic-20261106-oxacillin-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Three more authorizations (ANDA207147, ANDA206199 and NDA050640, the Baxter injectable solution) are also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 31 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-oxacillin-3 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA206198 | Oxacillin (Fresenius Kabi USA) | Injection, powder, for solution | Not recorded |
@@ -103,6 +115,12 @@ The package insert's warnings and contraindications could not be retrieved, so p
 **Rationale:**
 The prediction is supported only by the model score, with no trials or literature for epiglottitis. Staphylococcal involvement is uncommon, and standard empirical therapy targets other organisms.
 
+<!-- review:begin us-lic-20261105-oxacillin-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Staphylococcal involvement is uncommon, and standard empirical therapy targets other organisms. All 8 US licenses are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 31 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-oxacillin-2 -->
+
 **To proceed, the following is needed:**
 - Clinical or observational evidence of oxacillin use in staphylococcal epiglottitis
 - Package insert warnings and contraindications (currently a blocking gap)
@@ -116,6 +134,20 @@ The prediction is supported only by the model score, with no trials or literatur
 | Laryngitis | 0.9973 | L5 | Hold. Most cases are viral or non-infectious, and there are no trials or literature. |
 | Bacterial arthritis | 0.9950 | L5 | Research question. Oxacillin is already standard care for MSSA bone and joint infection, supported by reviews (e.g., PMID 24119927). It is more a matter of labeling than true repurposing. |
 | Urinary tract infection | 0.9903 | L4 | Hold. Oxacillin has no activity against the Gram-negative organisms that cause most UTIs, and the literature is mostly surveillance data. |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 8 US authorizations are valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "All 8 US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Three more authorizations (ANDA207147, ANDA206199 and NDA050640, the Baxter injectable solution) are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

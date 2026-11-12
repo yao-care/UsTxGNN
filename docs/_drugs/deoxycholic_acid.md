@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "DEOXYCHOLIC ACID"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Deoxycholic Acid: predicted new indication autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -40,6 +40,12 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 Deoxycholic acid is a secondary bile acid that was marketed in the US as an injectable (KYBELLA), but the approved indication text is not available in the data compiled for this report.
 The TxGNN model predicts it may be relevant to **diabetic nephropathy** (the highest-scoring prediction with any supporting literature), but there are **0 clinical trials** and only **4 publications**, all indirect (preclinical or bile acid profiling studies).
+
+<!-- review:begin us-lic-20261106-deoxycholic_acid-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Deoxycholic acid is a secondary bile acid that was marketed in the US as an injectable (KYBELLA), but its US authorization is now cancelled and the approved indication text is not available in the data compiled for this report." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-deoxycholic_acid-1 -->
 
 ## Quick Overview
 
@@ -81,10 +87,14 @@ The following publications relate to diabetic nephropathy. None tests deoxycholi
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA212296 | DEOXYCHOLIC ACID | WILSHIRE PHARMS INC | Solution; subcutaneous | Valid |
 | NDA206333 | KYBELLA | ABBVIE | Solution; subcutaneous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -103,12 +113,32 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 All predictions rest on model scores alone. The two highest-scoring rare disorders have no supporting evidence or biological rationale. Diabetic nephropathy has only indirect, preclinical or biomarker-level evidence, with no study of deoxycholic acid itself. Its cytotoxic nature raises the possibility of harm.
 
+<!-- review:begin us-lic-20261106-deoxycholic_acid-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Diabetic nephropathy has only indirect, preclinical or biomarker-level evidence, with no study of deoxycholic acid itself, and the product's US authorization is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-deoxycholic_acid-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for deoxycholic acid
 - The FDA package insert (warnings, contraindications, and the original approved indication)
 - Direct preclinical evidence testing deoxycholic acid, or its receptor pathways (FXR/TGR5), in diabetic kidney models
 - A review of whether the toxicity profile and injectable-only route are compatible with a systemic or renal indication
 - Evaluation of the rare COL4A1-related predictions only if a genuine biological link can first be established
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "its US authorization is now cancelled and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and the product's US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

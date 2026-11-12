@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 475
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Budesonide: predicted new indication Atopic eczema (evidence level L5). Approved use: Crohn's disease, inflammatory bowel disease, asthma, allergic rhinitis"
 monitor_inn: "BUDESONIDE"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
@@ -86,6 +86,12 @@ No human efficacy trial of budesonide in atopic eczema was found among these pub
 
 The drug is marketed in the US. Approved indication text is not available in the records. Up to 5 are listed below.
 
+<!-- review:begin us-lic-20261106-budesonide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 12 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 39 FDA applications or NDC listings for this drug, 32 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-budesonide-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021324 | Budesonide | Capsule | Not available |
@@ -109,6 +115,12 @@ Package insert warnings and contraindications were not available for this report
 **Rationale:**
 The mechanism is plausible, but there are no registered clinical trials and the literature is indirect or preclinical (evidence level L4). Topical corticosteroids are already standard care, so budesonide's added value is unproven. The drug is marketed in the US, and the label safety data are missing.
 
+<!-- review:begin us-lic-20261106-budesonide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 12 valid licenses, and the label safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 39 FDA applications or NDC listings for this drug, 32 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-budesonide-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
@@ -117,6 +129,20 @@ The mechanism is plausible, but there are no registered clinical trials and the 
 - A pediatric safety plan covering adrenal suppression, growth and contact sensitization
 
 **Other predictions of note:** Bronchitis (score 0.9981) has the stronger evidence base at L2, with completed Phase 2 trials of budesonide/formoterol in bronchiolitis obliterans and a Phase 4 trial in eosinophilic bronchitis. The evidence is adjacent rather than direct, and it may merit separate evaluation as a research question. The remaining predictions (polyps of various sites, epulis) are model-only or have tangential evidence and should be held.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

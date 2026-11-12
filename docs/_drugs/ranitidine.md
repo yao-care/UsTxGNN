@@ -83,6 +83,8 @@ The publications below are the most relevant ones retrieved. None tests ranitidi
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA074467 | RANITIDINE HYDROCHLORIDE | SANDOZ | Tablet; oral | Valid |
@@ -92,6 +94,8 @@ The publications below are the most relevant ones retrieved. None tests ranitidi
 | ANDA076705 | RANITIDINE HYDROCHLORIDE | DR REDDYS LABS INC | Tablet; oral | Valid |
 
 Showing 5 of 84 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

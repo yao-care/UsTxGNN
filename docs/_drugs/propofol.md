@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "PROPOFOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Propofol: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the available license records (propofol is generally kn…"
 ---
 
@@ -87,6 +87,12 @@ In practice, low (sub-anesthetic) doses have been used for refractory migraine i
 
 Another trial, a double-blind randomized trial of propofol versus placebo in adult emergency department patients (PMID 33070469), was identified under the related subtype migraine with brainstem aura.
 
+<!-- review:begin us-lic-20261106-propofol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are 9 licenses in total, all listed as cancelled; the table shows the 5 main ones." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 14 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-propofol-1 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
@@ -112,6 +118,12 @@ Please refer to the package insert for the full warnings and contraindications, 
 **Rationale:**
 Several randomized trials and systematic reviews support low-dose propofol for acute migraine in the emergency department, including pediatric populations. However, the trials are small, one was terminated early, and the evidence is mostly limited to monitored settings. The drug is currently marketed in the US, and label safety data are missing.
 
+<!-- review:begin us-lic-20261106-propofol-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is currently marketed in the US with 9 valid licenses, and label safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 14 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-propofol-2 -->
+
 **To proceed, the following is needed:**
 - Obtain and review the FDA package insert warnings and contraindications (currently a blocking gap)
 - Confirm the mechanism of action from DrugBank
@@ -127,6 +139,19 @@ Several randomized trials and systematic reviews support low-dose propofol for a
 | Prinzmetal angina | 0.9923 | L5 | Hold | Case reports describe coronary spasm triggered during anesthesia, which is a safety signal rather than a benefit |
 | Nephrogenic syndrome of inappropriate antidiuresis | 0.9920 | L5 | Hold | No mechanistic link or evidence |
 | Tourette syndrome | 0.9903 | L4 | Hold | Evidence concerns propofol as sedation during deep brain stimulation surgery, not as a treatment for tics |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "There are 9 licenses in total, all listed as cancelled; the table shows the 5 main ones" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

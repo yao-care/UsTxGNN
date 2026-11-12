@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1286
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "VENETOCLAX"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
 description: "Venetoclax: predicted new indication Hodgkins lymphoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -112,11 +112,15 @@ For Ewing sarcoma, only preclinical work exists (for example PMID 30348635, BCL-
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA214733 | VENETOCLAX | DR REDDYS | Tablet; oral | Valid |
 | ANDA214747 | VENETOCLAX | ALEMBIC | Tablet; oral | Valid |
 | NDA208573 | VENCLEXTA | ABBVIE | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 This should be verified against current FDA records before any decision, since venetoclax is described in the literature as FDA-approved for CLL and AML.
 
@@ -169,6 +173,25 @@ Label warnings and contraindications were not available. Please refer to the pac
 - Detailed mechanism-of-action data
 - For AML: results from the ongoing Phase 3 trials
 - A monitoring plan covering tumour lysis syndrome, myelosuppression, infections, and CYP3A/azole interactions
+
+<!-- review:begin us-lic-20261106-venetoclax-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Current FDA label information (warnings, contraindications, approved indications) and verification of the "cancelled" licence status" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-venetoclax-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and verification of the "cancelled" licence status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

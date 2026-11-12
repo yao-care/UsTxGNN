@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "HUMAN IMMUNOGLOBULIN G"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Human Immunoglobulin G: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -76,6 +76,12 @@ Currently no related literature available.
 
 The drug is marketed in the US, and no approved indication text was available.
 
+<!-- review:begin us-lic-20261106-human_immunoglobulin_g-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 11 valid licenses, and no approved indication text was available." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 17 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-human_immunoglobulin_g-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | BLA125822 | QIVIGY | Injection, solution | Valid |
@@ -88,6 +94,12 @@ The drug is marketed in the US, and no approved indication text was available.
 
 Please refer to the package insert for safety information.
 
+<!-- review:begin us-lic-20261106-human_immunoglobulin_g-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Six further cancelled licenses are not shown: Gamunex-C, Alyglo, Flebogamma, Panzyga, GAMMAGARD Liquid, and Gammaplex." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 17 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-human_immunoglobulin_g-1 -->
+
 Systemic immune globulin products carry general risks such as thrombosis and renal injury. These were noted in the rationale review but are not backed by label data in the compiled data. No drug interaction records were found.
 
 ## Conclusion and Next Steps
@@ -97,6 +109,12 @@ Systemic immune globulin products carry general risks such as thrombosis and ren
 **Rationale:**
 The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no literature, and no confirmed mechanism. The drug is marketed in the US, and the safety data are incomplete, so the review cannot proceed to safety screening.
 
+<!-- review:begin us-lic-20261106-human_immunoglobulin_g-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 11 valid licenses, and the safety data are incomplete, so the review cannot proceed to safety screening." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 17 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-human_immunoglobulin_g-3 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)
 - Mechanism of action data from DrugBank
@@ -105,6 +123,21 @@ The prediction rests only on a TxGNN model (deep learning) score, with no clinic
 - Preclinical or mechanistic evidence for an immunomodulatory role in retinopathy
 - Route and formulation compatibility assessment (systemic versus intravitreal delivery)
 - A risk-benefit justification against standard care (anti-VEGF, laser), including thrombosis, renal injury, cost, and supply
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Six further cancelled licenses are not shown: Gamunex-C, Alyglo, Flebogamma, Panzyga, GAMMAGARD Liquid, and Gammaplex" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

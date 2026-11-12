@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DESONIDE"
 predicted_indications: ["polyp of vocal cord", "polyp of middle ear", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "polyp of vulva", "fibroepithelial polyp", "neoplastic polyp", "epulis", "uterine polyp"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Desonide: predicted new indication Polyp of vocal cord (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -90,6 +90,12 @@ Currently no related literature available.
 
 The main ones are listed below; approved indication text was not available for any of them.
 
+<!-- review:begin us-lic-20261105-desonide-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 13 authorizations are valid. The main ones are listed below; approved indication text was not available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 26 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-desonide-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
 | NDA017426 | Desonide | Ointment | Padagis Israel Pharmaceuticals Ltd | Valid |
@@ -118,6 +124,26 @@ The prediction is supported only by a model score. There are no clinical trials 
 - A feasibility assessment of a delivery route suited to the larynx (for example, inhaled or injectable steroid formulations), since current topical products do not fit
 - Comparison against established treatments (voice therapy, surgery, and other corticosteroids with proven laryngeal or intranasal use)
 - Clarification of the regulatory status
+
+<!-- review:begin us-lic-20261106-desonide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory status, given that 13 US authorizations are currently valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 26 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-desonide-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 13 authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that 13 US authorizations are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

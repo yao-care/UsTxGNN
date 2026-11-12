@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ATROPINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Atropine: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available"
 ---
 
@@ -83,6 +83,12 @@ Of the 10 publications retrieved for migraine disorder, only the first four rows
 
 Five examples:
 
+<!-- review:begin us-lic-20261105-atropine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 13 US licenses are valid, and none has approved indication text on record. Five examples:" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 76 FDA applications or NDC listings for this drug, 35 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-atropine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA208151 | Isopto Atropine | Solution | Not available |
@@ -109,12 +115,32 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The TxGNN score is very high, but the evidence is model prediction plus indirect preclinical findings, with no clinical trials and no human data for atropine in migraine. The drug is marketed in the US, and the mechanistic direction is uncertain for the aura subtype.
 
+<!-- review:begin us-lic-20261106-atropine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 13 valid licenses, and the mechanistic direction is uncertain for the aura subtype." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 76 FDA applications or NDC listings for this drug, 35 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-atropine-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Original approved indication information
 - Preclinical or early clinical studies testing atropine (or a muscarinic antagonist) directly in migraine models
 - Assessment of route and formulation feasibility, and of the tolerability of chronic antimuscarinic exposure
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 13 US licenses are valid, and none has approved indication text on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

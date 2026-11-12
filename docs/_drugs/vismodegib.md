@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1294
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "VISMODEGIB"
 predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma pigmentosum", "annular epidermolytic ichthyosis", "epidermolysis bullosa simplex with mottled pigmentation", "Brenner tumor", "cutaneous adenocystic carcinoma", "prostate leiomyoma", "benign neoplasm of sweat gland"]
 description: "Vismodegib: predicted new indication Medulloblastoma with extensive nodularity (evidence level L5). Approved use: Not recorded in the local data"
@@ -72,9 +72,13 @@ Currently no related literature available for this predicted indication.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA203388 | ERIVEDGE | GENENTECH | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -100,6 +104,12 @@ Formal package-insert warnings and contraindications were not available. Please 
 **Rationale:**
 The Hedgehog-pathway rationale for medulloblastoma is plausible, but the prediction is supported only by the model score (Evidence Level L5), with no trials or literature for this subtype.
 
+<!-- review:begin us-lic-20261031-vismodegib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The Hedgehog-pathway rationale for medulloblastoma is plausible, but the prediction is supported only by the model score (Evidence Level L5), with no trials or literature for this subtype. The only US license is also cancelled, so availability would need to be verified." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-vismodegib-1 -->
+
 **To proceed, the following is needed:**
 - A systematic search for clinical and preclinical evidence of Hedgehog inhibitors in SHH-subgroup medulloblastoma, including the nodular subtype
 - Molecular and subgroup analysis to define which patients would have pathway-driven disease
@@ -107,7 +117,27 @@ The Hedgehog-pathway rationale for medulloblastoma is plausible, but the predict
 - A safety plan covering embryo-fetal toxicity and the drug interaction with clarithromycin
 - Confirmation of current drug availability
 
+<!-- review:begin us-lic-20261106-vismodegib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current drug availability, since the US license is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-vismodegib-2 -->
+
 **Note on other predictions:** In the same analysis, the prediction for **skin cancer** has the strongest support (Evidence Level L2, with several Phase 2 trials, a registry study, and European guidelines). That is largely the drug's original use rather than true repurposing, and it is rated "Proceed with Guardrails". Among the other predictions, xeroderma pigmentosum is supported only by case reports (L4), and the rest have no clinical evidence.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is also cancelled, so availability would need to be verified" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since the US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

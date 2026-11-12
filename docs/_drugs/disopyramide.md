@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DISOPYRAMIDE"
 predicted_indications: ["Tourette syndrome", "attention deficit-hyperactivity disorder", "trichotillomania", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "idiopathic neonatal atrial flutter", "chondromyxoid fibroma", "multifocal atrial tachycardia (disease)", "trigeminal nerve neoplasm"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Disopyramide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -69,7 +69,15 @@ Currently no related clinical trials registered.
 
 Currently no related literature available for Tourette syndrome.
 
+<!-- review:begin us-lic-20261105-disopyramide-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All five US authorizations are valid, and the records contain no approved-indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 20 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-disopyramide-1 -->
+
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -80,6 +88,8 @@ Currently no related literature available for Tourette syndrome.
 | ANDA070138 | DISOPYRAMIDE PHOSPHATE | MYLAN | Capsule; oral | Discontinued in Drugs@FDA |
 
 Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -103,6 +113,19 @@ The Tourette syndrome prediction rests only on a model score. There is no mechan
 - Mechanism of action data from DrugBank, to assess any link to Tourette syndrome
 - Preclinical or literature evidence supporting a plausible mechanism in Tourette syndrome
 - A review of the arrhythmia-related predictions (e.g., atrial flutter, multifocal atrial tachycardia), which have more plausible pharmacology and may be a better focus
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All five US authorizations are valid, and the records contain no approved-indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

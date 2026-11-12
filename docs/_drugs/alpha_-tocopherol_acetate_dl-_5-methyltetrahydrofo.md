@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -65,6 +65,12 @@ This candidate's INN string contains **14 co-listed active ingredients**, which 
 1. **No DrugBank ID available** — the system could not anchor this multi-component string to a graph node, so no traversal was performed.
 2. **Multi-ingredient query string not parseable** — the semicolon-delimited INN list was treated as a single unrecognized entity rather than a decomposed set of components.
 
+<!-- review:begin us-lic-20261105-alpha_-tocopherol_acetate_dl-_5-methyltetrahydrofo-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "**Multi-ingredient query string not parseable** — the semicolon-delimited INN list was treated as a single unrecognized entity rather than a decomposed set of components. / **No Taiwan regulatory baseline** — zero approved licenses means there is no approved indication to seed the "original indication → new indication" inference pathway." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-alpha_-tocopherol_acetate_dl-_5-methyltetrahydrofo-1 -->
+
 The composition itself is clinically recognizable: DHA + EPA (omega-3 for fetal neurodevelopment), 5-MTHF + Folic Acid (neural tube protection), Ferrous Asparto Glycinate (pregnancy anaemia prevention), Cholecalciferol + Pyridoxine + Cyanocobalamin + Biotin (B-complex and vitamin D), Potassium Iodide (thyroid function in pregnancy), and Magnesium Oxide + Calcium Formate (bone and muscle support). This profile is consistent with a **branded prenatal multivitamin** — analogous to products such as Elevit, Materna, or Femibion — that may be marketed in other jurisdictions but has not been registered in Taiwan.
 
 ---
@@ -98,6 +104,12 @@ Please refer to the package insert for safety information.
 **Rationale:**
 The TxGNN pipeline could not process this candidate because no DrugBank ID was resolved; without graph anchoring, no repurposing inference is possible.
 
+<!-- review:begin us-lic-20261105-alpha_-tocopherol_acetate_dl-_5-methyltetrahydrofo-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The TxGNN pipeline could not process this candidate because no DrugBank ID was resolved and no Taiwan regulatory baseline exists; without graph anchoring, no repurposing inference is possible." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-alpha_-tocopherol_acetate_dl-_5-methyltetrahydrofo-2 -->
+
 **To proceed, the following is needed:**
 
 - **Decompose the query:** Split the 14-component INN string into individual ingredients and re-run TxGNN for each active component separately (priority: Doconexent/DHA, Icosapent/EPA, 5-Methyltetrahydrofolic Acid, Cyanocobalamin)
@@ -105,6 +117,20 @@ The TxGNN pipeline could not process this candidate because no DrugBank ID was r
 - **Resolve DrugBank IDs:** Map each ingredient to its DrugBank entry to enable graph traversal and MOA retrieval
 - **Obtain safety baseline:** Download the originator product's package insert to populate warnings, contraindications, and DDI data (Data Gaps DG001, DG002)
 - **Re-triage as prenatal indication:** If confirmed as a prenatal supplement, evaluate whether repurposing analysis at the ingredient level (vs. combination level) is the appropriate analytical unit for this pipeline
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "3. **No Taiwan regulatory baseline** — zero approved licenses means there is no approved indication to seed the "original indication → new i" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "and no Taiwan regulatory baseline exists" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

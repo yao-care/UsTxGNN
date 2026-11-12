@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "SOTALOL"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Sotalol: predicted new indication Sick sinus syndrome 2, autosomal dominant (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -79,6 +79,12 @@ Currently no related literature available for the predicted indication.
 
 Two further cancelled ANDAs (Epic Pharma, Aphena Pharma Solutions) are not shown.
 
+<!-- review:begin us-lic-20261106-sotalol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two further cancelled ANDAs (Epic Pharma, Aphena Pharma Solutions) are not shown. All 7 licenses are oral tablets." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 21 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-sotalol-1 -->
+
 ## Safety Considerations
 
 - **Contraindications (from the TxGNN model (deep learning), not label text; these may reflect similarities the model learned between related diseases, not biological evidence):** long QT syndrome (including familial), torsades de pointes, sick sinus syndrome (including familial), atrioventricular block, asthma (intrinsic and allergic) and other bronchial disease, hypotensive disorder, impaired renal function, potassium deficiency, diabetes mellitus, diabetic ketoacidosis, anaphylaxis.
@@ -94,6 +100,12 @@ Please refer to the package insert for the full warnings and contraindications.
 **Rationale:**
 The prediction is supported only by a model score, with no trials or publications. The drug's pharmacology (slowing the sinus rate and conduction) and its knowledge-graph contraindication in sick sinus syndrome argue against benefit and suggest potential harm. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-sotalol-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 7 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 21 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-sotalol-2 -->
+
 Other predicted indications are also at Hold: Wildervanck syndrome, sarcoglycanopathy, macrocephaly with dysmorphic facies and psychomotor retardation, and the obsolete ischemic stroke susceptibility entry have no evidence (L5). Stroke (L4) and manic bipolar affective disorder (L5) show only indirect links. The stroke link runs through atrial fibrillation rhythm management, and the one trial retrieved (NCT00007605, a completed Phase 3 study of amiodarone and sotalol for sinus rhythm maintenance in atrial fibrillation) concerns the original indication. The bipolar disorder papers concern drug-interaction safety, not efficacy.
 
 **To proceed, the following is needed:**
@@ -101,6 +113,20 @@ Other predicted indications are also at Hold: Wildervanck syndrome, sarcoglycano
 - Detailed mechanism of action data
 - Any mechanistic or clinical rationale for benefit in HCN4-related sick sinus syndrome, given that sotalol is cautioned or contraindicated in sick sinus syndrome without a pacemaker
 - A review of whether the model's high score is an artifact of cardiac-rhythm network proximity
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 7 licenses are oral tablets" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

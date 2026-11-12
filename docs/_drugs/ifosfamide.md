@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "IFOSFAMIDE"
 predicted_indications: ["female breast carcinoma", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "rhabdomyosarcoma (disease)", "myelodysplastic syndrome", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ifosfamide: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not available"
 ---
 
@@ -61,6 +61,12 @@ Detailed mechanism-of-action data are not available in the compiled data. Based 
 Breast cancer is a chemotherapy-responsive solid tumour, and alkylating agents are already used against it. Ifosfamide is an analogue of cyclophosphamide, which is a component of standard breast cancer regimens. Published studies report single-agent response rates of roughly 7–30% in pretreated patients. Phase 2 combination studies with docetaxel, vinorelbine, mitoxantrone, etoposide, paclitaxel and doxorubicin report higher response rates.
 
 The supporting evidence is early-phase. It also includes literature on rarer breast tumour types such as metaplastic breast cancer and malignant phyllodes tumours.
+
+<!-- review:begin us-lic-20261105-ifosfamide-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All three licenses are valid, so the drug is marketed in the US." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 7 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-ifosfamide-1 -->
 
 ## Clinical Trial Evidence
 
@@ -121,6 +127,12 @@ Please refer to the package insert for official warnings and contraindications, 
 **Rationale:**
 The breast cancer evidence consists only of Phase 1/2 trials (several terminated or of unknown status) and small single-arm studies, with no Phase 3 RCT. The compiled assessment rates this as a research question rather than a candidate ready to advance.
 
+<!-- review:begin us-lic-20261105-ifosfamide-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 3 US licenses are valid, but the label indications and warnings are not available. The compiled assessment rates this as a research question rather than a candidate ready to advance." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 7 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-ifosfamide-2 -->
+
 **To proceed, the following is needed:**
 - The current FDA package insert (indications, warnings, contraindications), since the safety data gap blocks safety screening
 - Detailed mechanism-of-action data
@@ -128,9 +140,30 @@ The breast cancer evidence consists only of Phase 1/2 trials (several terminated
 - Clarification of whether any marketed ifosfamide product is available
 - A safety monitoring plan covering urotoxicity (mesna), nephrotoxicity, neurotoxicity, myelosuppression and secondary myeloid neoplasm risk
 
+<!-- review:begin us-lic-20261106-ifosfamide-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US status and whether any marketed ifosfamide product is available" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ifosfamide-3 -->
+
 ---
 
 **Note on other predictions:** Among the other predicted indications, only **rhabdomyosarcoma** has strong support (L1, with Phase 3 trials in soft tissue sarcoma). Ifosfamide is already used there as established or off-label therapy, so it is not a novel repurposing. The myelodysplastic syndrome, 5q deletion, refractory cytopenia, aregenerative anemia and monocytic leukemia predictions are likely artefacts. Ifosfamide is a known cause of therapy-related myeloid neoplasms and cytopenias, so these represent safety concerns, not treatment opportunities.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All three licenses are valid, so the drug is marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "All 3 US licenses are valid, but the label indications and warnings are not available" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled US status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

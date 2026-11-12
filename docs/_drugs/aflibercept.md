@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "AFLIBERCEPT"
 predicted_indications: ["esotropia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Aflibercept: predicted new indication Esotropia (evidence level L5). Approved use: Metastasis from malignant tumor of colon"
 ---
 
@@ -69,7 +69,15 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261106-aflibercept-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A sixth license, BLA125418 (ZALTRAP, solution concentrate, sanofi-aventis U.S. LLC), is also listed as valid. All 6 licenses are valid in the compiled data." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 9 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-aflibercept-1 -->
+
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -80,6 +88,8 @@ Currently no related literature available.
 | BLA761350 | OPUVIZ | SAMSUNG BIOEPIS CO LTD | Injectable; injection | Valid |
 
 Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -113,6 +123,12 @@ Only a subset of the 78 interactions is shown here. Please refer to the package 
 **Rationale:**
 The prediction rests only on a model score. No clinical trials or publications support aflibercept for esotropia, and no direct mechanistic link between VEGF inhibition and esotropia is established. In addition, the drug is marketed in the US, and label-based safety data are missing.
 
+<!-- review:begin us-lic-20261106-aflibercept-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the drug is marketed in the US with all 6 licenses valid, and label-based safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 9 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-aflibercept-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
@@ -120,6 +136,20 @@ The prediction rests only on a model score. No clinical trials or publications s
 - A literature and trial search for anti-VEGF use in strabismus and retinopathy of prematurity–related strabismus
 - Clarification of current US licensing and market status
 - Assessment of route compatibility, since intravitreal or intravenous injection may not suit a strabismus indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "A sixth license, BLA125418 (ZALTRAP, solution concentrate, sanofi-aventis U.S. LLC), is also listed as valid. All 6 licenses are valid in th" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with all 6 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DIFLUPREDNATE"
 predicted_indications: ["familial adrenal hypoplasia with absent pituitary luteinizing hormone", "seborrheic keratosis", "PAGOD syndrome", "vulvar inverted follicular keratosis", "adrenocortical insufficiency", "seborrheic dermatitis", "46,XY disorder of sex development", "necrobiosis lipoidica", "nephrotic syndrome", "iris disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Difluprednate: predicted new indication Familial adrenal hypoplasia with absent pituitary luteinizing hormone (evidence level L5). Approved use: Not stated in the US license records compiled for this…"
 ---
 
@@ -71,11 +71,19 @@ Currently no related literature available for the top-ranked prediction.
 
 For reference, the only publication found among the top 10 predictions relates to rank 10 (iris disease):
 
+<!-- review:begin us-lic-20261106-difluprednate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Three more authorizations (Mylan, Amneal and Dr. Reddy's) are also cancelled, for a total of 8." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 9 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-difluprednate-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [21182429](https://pubmed.ncbi.nlm.nih.gov/21182429/) | 2011 | Preclinical (rabbit pharmacokinetics) | J Ocul Pharmacol Ther | Evaluated pharmacokinetic and pharmacodynamic features of difluprednate ophthalmic emulsion using a glucocorticoid receptor-binding bioassay. It supports ocular tissue exposure but is not clinical efficacy evidence. |
 
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -86,6 +94,8 @@ For reference, the only publication found among the top 10 predictions relates t
 | ANDA214894 | DIFLUPREDNATE | DR REDDYS | Emulsion; ophthalmic | Valid |
 
 Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -101,12 +111,32 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction is supported only by the model score (L5). There are no clinical trials or publications, and a potent topical ophthalmic steroid is not a suitable replacement therapy for a congenital adrenal and gonadotropin deficiency. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-difluprednate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with all 8 of 8 licenses valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 9 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-difluprednate-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings, contraindications and approved indications
 - Detailed mechanism-of-action data
 - Evidence that a systemic or otherwise suitable formulation is feasible for this condition
 - Clinical or literature evidence for the predicted disease
 - If the team wants to pursue other predictions, prioritize those with plausible class-level rationales (seborrheic dermatitis, adrenocortical insufficiency, nephrotic syndrome), and check the iris disease prediction against current ocular labeling, since it likely overlaps with the existing use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Three more authorizations (Mylan, Amneal and Dr. Reddy's) are also cancelled, for a total of 8" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with all 8 of 8 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

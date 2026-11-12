@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ALBENDAZOLE"
 predicted_indications: ["coenurosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Albendazole: predicted new indication Coenurosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -103,6 +103,12 @@ The publications are mostly reviews of neurocysticercosis and none addresses coe
 
 The records carry no approved-indication text.
 
+<!-- review:begin us-lic-20261106-albendazole-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Of 7 US licence records, 5 are valid and 2 are cancelled. All are single-ingredient oral products; the records carry no approved-indication text." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-albendazole-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA020666 | Albendazole (Amneal) | Film-coated tablet | Not recorded |
@@ -134,6 +140,18 @@ The TxGNN score is high (0.9983), but no trial or publication studies coenurosis
 - Mechanism of action data confirmed for *Taenia multiceps* larvae
 - Package insert warnings and contraindications, to complete the safety review
 - A monitoring plan for blood counts and liver function, given the haematological and hepatic concerns listed above
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Of 7 US licence records, 5 are valid and 2 are cancelled. All are single-ingredient oral products; t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

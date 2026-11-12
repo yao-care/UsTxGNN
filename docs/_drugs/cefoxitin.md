@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 505
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "CEFOXITIN"
 predicted_indications: ["infectious otitis media", "chronic otitis media", "suppurative otitis media", "middle ear disease", "Ureaplasma urethritis", "toxocariasis", "otosalpingitis", "non-suppurative otitis media"]
 description: "Cefoxitin: predicted new indication Infectious otitis media (evidence level L5). Approved use: Not recorded in the local data"
@@ -74,6 +74,12 @@ Currently no related clinical trials registered.
 
 Approved indication text is not recorded in the local data.
 
+<!-- review:begin us-lic-20261106-cefoxitin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Six valid single-ingredient US authorizations are recorded. Approved indication text is not recorded in the local data." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-cefoxitin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | ANDA065415 | Cefoxitin (WG Critical Care) | Injection, powder, for solution | Valid |
@@ -99,6 +105,18 @@ The prediction score is high (0.9930), but there are no clinical trials and the 
 - Comparison with established first-line otitis media treatments, and consideration of the injectable-only formulations
 - Confirmed warnings and contraindications from the current package insert
 - Detailed mechanism-of-action data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Six valid single-ingredient US authorizations are recorded" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

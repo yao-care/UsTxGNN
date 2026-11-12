@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -109,6 +109,25 @@ This preparation cannot be evaluated through the standard TxGNN repurposing pipe
 - **Define original indication(s)** — without a declared therapeutic purpose, no repurposing direction can be assessed
 - **Safety review of strophanthus gratus content**: Establish dose, dilution factor, and ouabain concentration before any clinical consideration
 - Retrieve the package insert (if any historical registration exists) to fill DG001 and DG002 data gaps
+
+<!-- review:begin us-lic-20261105-activated_charcoal_arnica_montana_root_gold_trichl-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Retrieve the TFDA package insert (if any historical registration exists) to fill DG001 and DG002 data gaps" Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-activated_charcoal_arnica_montana_root_gold_trichl-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "TFDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 776
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "HYDROCORTISONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Hydrocortisone: predicted new indication Alopecia areata (evidence level L2). Approved use: Not recorded in the local data"
@@ -102,6 +102,12 @@ There is an important caveat. In the available Phase 3 trial, low-potency hydroc
 
 The list may be partial.
 
+<!-- review:begin us-lic-20261106-hydrocortisone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Of the licence records compiled for this report, 8 are valid and 1 is cancelled. The list may be partial." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 292 FDA applications or NDC listings for this drug, 72 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-hydrocortisone-1 -->
+
 ---
 
 ## Safety Considerations
@@ -127,6 +133,18 @@ The only Phase 3 trial used hydrocortisone 1% as a low-potency comparator, and i
 - Mechanism of action data
 - Label warnings and contraindications from the package insert
 - A safety plan for long-term or scalp use, especially in children
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Of the licence records compiled for this report, 8 are valid and 1 is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

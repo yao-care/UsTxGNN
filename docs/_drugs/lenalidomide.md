@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 844
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Lenalidomide: predicted new indication Myeloid leukemia (evidence level L2). Approved use: Plasma cell myeloma (also mantle cell lymphoma, B-cell neoplasm…"
 monitor_inn: "LENALIDOMIDE"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
@@ -100,6 +100,12 @@ The literature set is dominated by reviews on MDS and AML. Direct lenalidomide-s
 
 The data compiled for this report contain no approved indication text. The first five are listed.
 
+<!-- review:begin us-lic-20261106-lenalidomide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 12 authorizations are generic ANDAs for oral capsules and are currently cancelled. The data compiled for this report contain no approved indication text." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 21 FDA applications or NDC listings for this drug, 20 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lenalidomide-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA210435 | Lenalidomide (Exelan) | Capsule | Not available |
@@ -134,6 +140,12 @@ Package insert warnings and contraindications were not available; please refer t
 **Rationale:**
 The mechanism is plausible and there are many Phase 1/2 AML and MDS trials, but they are mostly small, single-arm or combination studies with no completed Phase 3 evidence in myeloid leukemia. The drug is marketed in the US, and label safety data are missing. The high hematologic toxicity risk in an already cytopenic population further calls for caution.
 
+<!-- review:begin us-lic-20261106-lenalidomide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 12 valid licenses, and label safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 21 FDA applications or NDC listings for this drug, 20 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lenalidomide-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap for safety screening)
 - Structured mechanism-of-action data
@@ -141,6 +153,20 @@ The mechanism is plausible and there are many Phase 1/2 AML and MDS trials, but 
 - A hematologic safety and monitoring plan, plus clarification of current US marketing status
 
 **Other predictions (all Hold or Research Question):** unclassified MDS (L3, mostly del(5q) overlap with the existing indication), refractory cytopenia of childhood (L3, one pediatric Phase 1 study), aregenerative anemia (L3, indirect evidence), severe congenital hypochromic anemia with ringed sideroblasts (L5, prediction only), and partial deletion of chromosome 5q (L5, a cytogenetic finding that duplicates the existing del(5q) MDS use rather than a new indication).
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 12 authorizations are generic ANDAs for oral capsules and are currently cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

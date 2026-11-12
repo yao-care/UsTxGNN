@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "BUPROPION"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "benign paroxysmal torticollis of infancy", "trigeminal nerve neoplasm", "obsolete hypertelorism (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Bupropion: predicted new indication Attention deficit-hyperactivity disorder (evidence level L1). Approved use: Major depressive disorder, anxiety disorder…"
 ---
 
@@ -94,6 +94,12 @@ The ten most relevant of the 20 retrieved publications are listed below. Systema
 
 The records contain no approved-indication text. The five main authorisations are listed below.
 
+<!-- review:begin us-lic-20261106-bupropion-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 13 US licences found are generic applications (ANDAs), and all are cancelled. The records contain no approved-indication text." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 73 FDA applications or NDC listings for this drug, 45 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-bupropion-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA210497 | Bupropion Hydrochloride (RemedyRepack) | Extended-release tablet | Not stated in record |
@@ -123,6 +129,12 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 One completed Phase 3 randomised, placebo-controlled trial (NCT00048360) and one completed Phase 2/3 trial (NCT00061087) support bupropion in adult ADHD. A Cochrane review and several network meta-analyses also address this use. The mechanism is plausible, but the data compiled for this report contain no mechanism-of-action record and no label safety data.
 
+<!-- review:begin us-lic-20261106-bupropion-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The mechanism is plausible, but the data compiled for this report contain no mechanism-of-action record and no label safety data. The US licences are all cancelled, so the drug's regulatory position needs clarification." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 73 FDA applications or NDC listings for this drug, 45 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-bupropion-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap), especially seizure risk, the boxed warning, and the neuropsychiatric profile
 - Detailed mechanism of action data from DrugBank
@@ -130,6 +142,27 @@ One completed Phase 3 randomised, placebo-controlled trial (NCT00048360) and one
 - Confirmation of the current US regulatory status, since the drug is marketed
 - A patient selection and monitoring plan covering seizure risk, hypertension, cardiovascular disease, eating disorders, and substance use comorbidity
 - A review of the major drug interactions, particularly with opioids and methylphenidate, before any combination use
+
+<!-- review:begin us-lic-20261106-bupropion-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the current US regulatory status, since 13 ANDAs are valid and the drug is marketed" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 73 FDA applications or NDC listings for this drug, 45 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-bupropion-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 13 US licences found are generic applications (ANDAs), and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "The US licences are all cancelled, so the drug's regulatory position needs clarification" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "13 ANDAs are valid and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

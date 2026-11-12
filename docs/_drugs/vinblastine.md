@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "VINBLASTINE"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Vinblastine: predicted new indication Rhabdomyosarcoma (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -113,6 +113,19 @@ The only support for rhabdomyosarcoma is case reports of vinblastine-containing 
 - Mechanism-of-action data
 - Prospective clinical data or registered trials specifically testing vinblastine in rhabdomyosarcoma
 - A myelosuppression and neurotoxicity monitoring plan
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US authorization is cancelled, and the official label safety data are missing" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "A plan to confirm injectable product availability in the US, since the only listed ANDA is cancelled" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

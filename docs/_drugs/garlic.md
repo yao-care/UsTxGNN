@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GARLIC"
 predicted_indications: ["gastrin secretion abnormality", "endometriosis of uterus", "cerebral infarction", "renal hypoplasia, bilateral", "multiple endocrine neoplasia", "renal hypoplasia (disease)", "gelatinous drop-like corneal dystrophy", "HIV infectious disease", "cervix endometriosis", "endometriosis of rectovaginal septum and vagina"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Garlic: predicted new indication Gastrin secretion abnormality (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -40,6 +40,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 The TxGNN model ranks **gastrin secretion abnormality** as its top prediction, but there are **0 clinical trials** and **0 publications** supporting it.
 The better-supported prediction for this drug is **cerebral infarction**, with 10 publications, mostly animal studies and reviews.
+
+<!-- review:begin us-lic-20261031-garlic-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Garlic (DrugBank DB10532) is listed in the US only through three cancelled allergenic-extract and homeopathic product licenses, and no approved indication text is on record. / The TxGNN model ranks **gastrin secretion abnormality** as its top prediction, but there are **0 clinical trials** and **0 publications** supporting it." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-garlic-1 -->
 
 ---
 
@@ -87,6 +93,12 @@ Currently no related literature is available for gastrin secretion abnormality.
 
 For reference, the most relevant publications for the best-supported alternative, cerebral infarction:
 
+<!-- review:begin us-lic-20261106-garlic-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All three US licenses are valid, and none carries approved indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-garlic-2 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [29557277](https://pubmed.ncbi.nlm.nih.gov/29557277/) | 2018 | Review | Neurological Research | Garlic extract favorably affects atherosclerosis, hypertension and diabetes, and may lower the risk of myocardial infarction and ischemic stroke |
@@ -133,6 +145,20 @@ The top prediction, gastrin secretion abnormality, rests on a computational scor
 - Package insert warnings and contraindications for a safety screen
 - A decision on whether to pursue cerebral infarction, the better-supported candidate (L4), as a research question instead, ideally with human outcome data
 - A bleeding and interaction risk assessment, including antiplatelet effects, anticoagulants and antiretrovirals
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Garlic (DrugBank DB10532) is listed in the US only through three cancelled allergenic-extract and homeopathic product licenses, and no appro" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "All three US licenses are valid, and none carries approved indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

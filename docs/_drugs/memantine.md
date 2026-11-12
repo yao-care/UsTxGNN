@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "MEMANTINE"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Memantine: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -91,6 +91,12 @@ A placebo-controlled RCT in migraine without aura ([PMID 26638119](https://pubme
 
 No approved-indication text was recorded. The first five are shown below.
 
+<!-- review:begin us-lic-20261106-memantine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 13 US authorizations are generic applications (ANDAs) and all are listed as cancelled. No approved-indication text was recorded." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 52 FDA applications or NDC listings for this drug, 34 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-memantine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA213985 | Memantine Hydrochloride (Vitruvias) | Extended-release capsule | Not recorded |
@@ -124,6 +130,26 @@ Migraine has a plausible mechanism and a completed Phase 3 trial, which gives it
 - Confirmation of the approved original indication and current US market status, since the drug is marketed
 - Larger, adequately powered placebo-controlled trials of memantine in migraine prevention
 - A close reading of the meta-analysis and systematic reviews (PMIDs 33961371, 34352118) to judge the true effect size and safety
+
+<!-- review:begin us-lic-20261106-memantine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the approved original indication and current US market status, since the drug is marketed with 13 valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 52 FDA applications or NDC listings for this drug, 34 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-memantine-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 13 US authorizations are generic applications (ANDAs) and all are listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MIGLUSTAT"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Miglustat: predicted new indication Autosomal ichthyosis syndrome with fatal disease course (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -132,12 +132,38 @@ Please refer to the package insert for full warnings and contraindications, whic
 **Rationale:**
 Tay-Sachs disease has a coherent mechanistic rationale, a randomized study in late-onset disease, a systematic review and four registered trials. However, the trials are small, pharmacokinetic or safety focused, or terminated early, and a case series showed no arrest of neurological decline in the infantile form. Safety label data are missing. The other nine predictions have no supporting evidence and remain model predictions only (L5, Hold).
 
+<!-- review:begin us-lic-20261105-miglustat-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Safety label data are missing, although all five US licenses are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 6 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-miglustat-1 -->
+
 **To proceed, the following is needed:**
 - The package insert (warnings and contraindications), which is a blocking gap for safety screening
 - Detailed mechanism of action data from DrugBank
 - Efficacy results from the late-onset Tay-Sachs RCT (PMID 19346952) and the GM2 systematic review (PMID 37209042), and the outcomes of the terminated trials NCT02030015 and NCT03822013
 - Clarification of the regulatory pathway
 - Safety assessment for patients with peripheral neuropathy or renal impairment
+
+<!-- review:begin us-lic-20261105-miglustat-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Clarification of the regulatory pathway, noting that all five US licenses are currently valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 6 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-miglustat-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "although all five US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "noting that all five US licenses are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

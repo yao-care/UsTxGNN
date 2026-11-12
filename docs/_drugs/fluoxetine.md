@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "FLUOXETINE"
 predicted_indications: ["histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fluoxetine: predicted new indication Histrionic personality disorder (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -88,6 +88,12 @@ Neither publication directly studies the predicted disease.
 
 Approved-indication text is not available in the records compiled for this report. The five shown here are the main ones.
 
+<!-- review:begin us-lic-20261106-fluoxetine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Twelve valid single-ingredient ANDA records were listed, and the list may be partial. The five shown here are the main ones." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fluoxetine-1 -->
+
 | Authorization Number | Product Name | Dosage Form |
 |---------|------|------|
 | ANDA078619 | Fluoxetine (Aurobindo Pharma Limited) | Capsule |
@@ -124,6 +130,19 @@ The TxGNN score is very high, but there are no clinical trials, and neither retr
 - FDA package insert warnings and contraindications, to complete safety screening
 - Detailed mechanism of action data to support the serotonergic hypothesis
 - A comparison with other predicted indications for fluoxetine that have more direct supporting studies, such as schizotypal personality disorder, to decide where to prioritise effort
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Twelve valid single-ingredient ANDA records were listed, and the list may be partial" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

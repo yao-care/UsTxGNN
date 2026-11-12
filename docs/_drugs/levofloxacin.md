@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 855
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "LEVOFLOXACIN"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
 description: "Levofloxacin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -81,6 +81,12 @@ Currently no related clinical trials registered.
 
 The list shows only the first five of the records available; the local records may be partial. Dosage forms include oral tablets, injectable solutions and an oral solution.
 
+<!-- review:begin us-lic-20261106-levofloxacin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In total, 10 licences are valid and 1 is cancelled. Dosage forms include oral tablets, injectable solutions and an oral solution." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 48 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-levofloxacin-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: The interaction screen returned 100 entries. Major-level interactions include tramadol and hydrocortisone. Moderate-level interactions include abiraterone, acarbose, famotidine, formoterol, ketorolac, adenosine, ibuprofen, ethinylestradiol, metformin, pioglitazone and others.
@@ -99,6 +105,18 @@ The prediction rests on a model score alone. No clinical trial exists, and the s
 - Studies that directly evaluate levofloxacin in punctate epithelial keratoconjunctivitis, including the causative agents involved
 - Mechanism-of-action data and a defined rationale for the ocular route and formulation
 - Review of the package insert warnings and contraindications to complete the safety assessment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "In total, 10 licences are valid and 1 is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

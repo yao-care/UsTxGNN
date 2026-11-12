@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 647
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Elosulfase Alfa: predicted new indication Scheie syndrome (evidence level L5). Approved use: Mucopolysaccharidosis (Morquio A syndrome, MPS IVA)"
 monitor_inn: "ELOSULFASE ALFA"
 predicted_indications: ["Scheie syndrome", "Hurler syndrome", "Sanfilippo syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-vocal cord paralysis syndrome", "ptosis-strabismus-ectopic pupils syndrome", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "congenital Horner syndrome (disease)"]
@@ -127,12 +127,38 @@ Please refer to the package insert for safety information. No warnings, contrain
 **Rationale:**
 The top prediction, Scheie syndrome, has no clinical trial or literature support (evidence level L5). Its biology is also mismatched: the enzyme deficiency and stored substrates differ from those elosulfase alfa addresses. The literature linked to other predictions concerns the original Morquio A indication, so it does not constitute repurposing evidence.
 
+<!-- review:begin us-lic-20261106-elosulfase_alfa-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The literature linked to other predictions concerns the original Morquio A indication, so it does not constitute repurposing evidence. The US market status is also listed as cancelled only." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-elosulfase_alfa-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, including any evidence of activity against dermatan or heparan sulfate substrates
 - Preclinical or in vitro evidence that elosulfase alfa has any effect in alpha-L-iduronidase deficiency models
 - FDA package insert warnings and contraindications to enable safety screening (currently a blocking gap)
 - Clarification of the US regulatory status
 - Confirmation of the approved indication text for BLA125460
+
+<!-- review:begin us-lic-20261106-elosulfase_alfa-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the US regulatory status, since the license is recorded as cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-elosulfase_alfa-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US market status is also listed as cancelled only" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since the license is recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

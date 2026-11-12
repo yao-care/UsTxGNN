@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "NATALIZUMAB"
 predicted_indications: ["bronchitis", "parapsoriasis", "psoriasis", "severe nonproliferative diabetic retinopathy", "acute lichenoid pityriasis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Natalizumab: predicted new indication Bronchitis (evidence level L5). Approved use: Crohn's disease, inflammatory bowel disease, Crohn's colitis…"
 ---
 
@@ -124,6 +124,25 @@ The top prediction (bronchitis) rests on a model score alone, with no trials or 
 - Preclinical or clinical data supporting benefit in the predicted indication
 - Clarification of the current regulatory status
 - A benefit-risk assessment that addresses the PML and opportunistic infection risk
+
+<!-- review:begin us-lic-20261106-natalizumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of why both US licenses are listed as cancelled, and of the current regulatory status" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-natalizumab-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "of why both US licenses are listed as cancelled, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

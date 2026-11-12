@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1278
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ustekinumab: predicted new indication Dermatitis (evidence level L2). Approved use: Psoriatic arthritis, psoriasis, parapsoriasis"
 monitor_inn: "USTEKINUMAB"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
@@ -100,6 +100,12 @@ The very high TxGNN score should be read with caution. "Dermatitis" covers heter
 
 This should be verified against current FDA records.
 
+<!-- review:begin us-lic-20261106-ustekinumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The data list 11 BLAs in total (including the Stelara originator and several biosimilars), all with cancelled status. This should be verified against current FDA records." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 12 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ustekinumab-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: 100 interactions were found in the DDI query. The ones listed here are mostly Moderate:
@@ -118,6 +124,12 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 Two Phase 2 randomized, placebo-controlled studies exist in atopic dermatitis (evidence level L2), but the mechanism fits only partially because atopic dermatitis is mainly Th2-driven, and efficacy in these studies appears limited. "Dermatitis" is also too broad to define a specific indication. The drug is marketed in the US, and the package-insert safety data are missing.
 
+<!-- review:begin us-lic-20261106-ustekinumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 11 valid licenses, and the package-insert safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 12 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ustekinumab-2 -->
+
 **To proceed, the following is needed:**
 - Full results (primary endpoints, effect size) of NCT01945086 and NCT01806662, plus confirmation of the study populations
 - A narrower target indication (e.g., a specific dermatitis subtype or Th1/Th17-high patient subset)
@@ -125,6 +137,20 @@ Two Phase 2 randomized, placebo-controlled studies exist in atopic dermatitis (e
 - Verification of current US market and licensing status
 - Detailed mechanism-of-action data from DrugBank
 - Consideration of the parapsoriasis-related predictions (pityriasis lichenoides, acute lichenoid pityriasis) as better mechanistic fits, although they currently have no clinical evidence
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The data list 11 BLAs in total (including the Stelara originator and several biosimilars), all with cancelled status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "PIOGLITAZONE"
 predicted_indications: ["opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pioglitazone: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -96,6 +96,12 @@ Currently no related literature available for opsismodysplasia.
 
 Indication text was not available.
 
+<!-- review:begin us-lic-20261106-pioglitazone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All six authorizations in the data compiled are listed as cancelled. Indication text was not available." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 27 FDA applications or NDC listings for this drug, 20 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pioglitazone-1 -->
+
 ---
 
 ## Safety Considerations
@@ -116,12 +122,39 @@ Please refer to the package insert for label warnings, as these were not availab
 **Rationale:**
 The prediction is supported only by a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications for opsismodysplasia, no plausible mechanistic link to INPPL1/SHIP2 biology, and the drug is marketed in the US. Evidence level is L5.
 
+<!-- review:begin us-lic-20261106-pioglitazone-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials or publications for opsismodysplasia, no plausible mechanistic link to INPPL1/SHIP2 biology, and the drug is marketed in the US with 6 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 27 FDA applications or NDC listings for this drug, 20 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pioglitazone-3 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) and a clear mechanistic hypothesis linking PPAR-gamma agonism to the INPPL1/PI3K pathway
 - Preclinical evidence (cell or animal models of opsismodysplasia)
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Review of the current availability of the drug
 - Consideration of better-supported alternatives among the other predictions (for example, the lipodystrophy indications), which would still require supporting data
+
+<!-- review:begin us-lic-20261106-pioglitazone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Review of the cancelled licensure status and the current availability of the drug" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 27 FDA applications or NDC listings for this drug, 20 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pioglitazone-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All six authorizations in the data compiled are listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled licensure status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 6 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

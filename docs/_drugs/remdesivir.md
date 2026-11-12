@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "REMDESIVIR"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Remdesivir: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -101,12 +101,31 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction for multiple endocrine neoplasia is supported only by the model score. There are no clinical trials, no literature, and no plausible mechanistic link between a viral RdRp inhibitor and a hereditary tumor syndrome.
 
+<!-- review:begin us-lic-20261106-remdesivir-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials, no literature, and no plausible mechanistic link between a viral RdRp inhibitor and a hereditary tumor syndrome. The US authorization is also listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-remdesivir-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a documented biological rationale linking remdesivir to MEN1/RET-driven disease
 - Preclinical evidence (for example, cell or animal models of MEN) to move beyond L5
 - FDA package insert warnings and contraindications (blocking for safety screening)
 - Review of route compatibility, since remdesivir is available only as an injectable
 - Consideration of the other predictions only after dedicated evidence is generated, as none currently has direct supporting studies
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US authorization is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

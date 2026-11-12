@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "IRINOTECAN"
 predicted_indications: ["female breast carcinoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Irinotecan: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -94,6 +94,12 @@ The high TxGNN score is a computational prediction and does not replace clinical
 
 No approved-indication text is available in the records.
 
+<!-- review:begin us-lic-20261106-irinotecan-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The records list 9 valid US licenses, and no approved-indication text is available in the records." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 29 FDA applications or NDC listings for this drug, 19 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-irinotecan-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA020571 | Camptosar (Pharmacia & Upjohn) | Injection, solution | Not available in records |
@@ -126,12 +132,39 @@ Official label warnings and contraindications were not available for this report
 **Rationale:**
 The TxGNN score is high, but the only trial testing irinotecan directly in breast cancer is a 12-patient Phase 1 study. Supportive data come mostly from SN-38 conjugates and liposomal or PEGylated formulations, which do not validate free irinotecan. Older reviews describe marginal single-agent activity. Official label safety data are also missing, although the drug is marketed in the US. At present this is a research question rather than a development candidate.
 
+<!-- review:begin us-lic-20261106-irinotecan-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Official label safety data are also missing, although the drug is marketed in the US with 9 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 29 FDA applications or NDC listings for this drug, 19 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-irinotecan-3 -->
+
 **To proceed, the following is needed:**
 - Official FDA label warnings and contraindications, which block safety screening
 - Mechanism of action data from DrugBank
 - Review of the PHENOMENAL study (liposomal irinotecan in HER2-negative breast cancer with brain metastases) and related data to judge whether irinotecan formulations show breast cancer efficacy
 - A defined breast cancer subtype and combination strategy, such as triple-negative disease or brain metastases
 - Clarification of which formulation would be pursued
+
+<!-- review:begin us-lic-20261106-irinotecan-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of why US licenses are cancelled and which formulation would be pursued" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 29 FDA applications or NDC listings for this drug, 19 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-irinotecan-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "why US licenses are cancelled and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "The records list 9 valid US licenses, and n" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

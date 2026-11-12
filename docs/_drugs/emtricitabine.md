@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "EMTRICITABINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Emtricitabine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease, AIDS"
 ---
 
@@ -91,6 +91,12 @@ Most of the 20 publications are macaque studies. The table lists the most releva
 
 No approved indication text is available.
 
+<!-- review:begin us-lic-20261106-emtricitabine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "14 US authorizations are valid (marketed), and no approved indication text is available. The table lists 5 of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 41 FDA applications or NDC listings for this drug, 33 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-emtricitabine-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021500 | Emtriva (Gilead Sciences) | Capsule | Not available |
@@ -116,10 +122,37 @@ For label warnings and contraindications, please refer to the package insert.
 **Rationale:**
 The high TxGNN score (0.9992) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The supporting evidence is entirely preclinical (macaque models) and supports the existing HIV indication and PrEP use rather than a new human therapy. SIV does not infect humans, there are no registered trials, and the drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-emtricitabine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "SIV does not infect humans, there are no registered trials, and the drug is marketed in the US with 14 valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 41 FDA applications or NDC listings for this drug, 33 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-emtricitabine-3 -->
+
 **To proceed, the following is needed:**
 - Confirmation that a human-relevant new indication exists (SIV and FIV are animal diseases)
 - Mechanism of action data
 - FDA package insert warnings and contraindications
+
+<!-- review:begin us-lic-20261106-emtricitabine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "FDA package insert warnings and contraindications / Clarification of the cancelled US market status" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 41 FDA applications or NDC listings for this drug, 33 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-emtricitabine-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Clarification of the cancelled US market status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "14 US authorizations are valid (marketed), and n The table lists 5 of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 14 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1119
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "RIBAVIRIN"
 predicted_indications: ["chronic hepatitis B virus infection", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "hepatoportal sclerosis", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related aortitis", "IgG4-related mesenteritis"]
 description: "Ribavirin: predicted new indication Chronic hepatitis B virus infection (evidence level L1). Approved use: Not recorded in the local data"
@@ -110,6 +110,12 @@ All retrieved publications are reviews or general overviews; no randomized trial
 
 Approved indication text is not available for any of them.
 
+<!-- review:begin us-lic-20261105-ribavirin-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All five authorizations in the data are valid, and the drug is marketed in the US. Approved indication text is not available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 16 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-ribavirin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | ANDA079111 | Ribavirin (Aurobindo Pharma) | Tablet, film coated | Valid |
@@ -145,6 +151,26 @@ Only one completed Phase 3 trial directly tests ribavirin (combined with peginte
 - Grade the severity of the listed drug interactions
 - Develop a hemolysis, anemia, and cardiopulmonary monitoring plan for the HBV population
 - Clarify the regulatory path
+
+<!-- review:begin us-lic-20261105-ribavirin-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Clarify the regulatory path, given that all 5 US authorizations are valid and the drug is marketed" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 16 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-ribavirin-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All five authorizations in the data are valid, and the drug is marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "given that all 5 US authorizations are valid and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

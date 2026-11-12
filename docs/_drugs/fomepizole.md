@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FOMEPIZOLE"
 predicted_indications: ["sclerosing cholangitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fomepizole: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: No approved indication text is available in the US license records (g…"
 ---
 
@@ -72,6 +72,8 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA078368 | FOMEPIZOLE | AM REGENT | Injectable; injection | Valid |
@@ -81,6 +83,8 @@ Currently no related literature available.
 | ANDA079033 | FOMEPIZOLE | MYLAN INSTITUTIONAL | Injectable; injection | Discontinued in Drugs@FDA |
 
 Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -96,6 +100,12 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The only support is a computational prediction score. There are no clinical trials or publications, no mechanism data, and no plausible mechanistic link to sclerosing cholangitis. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-fomepizole-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 4 of 4 licenses valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fomepizole-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (for example from DrugBank) and a mechanistic rationale linking alcohol dehydrogenase inhibition to biliary disease
@@ -103,6 +113,19 @@ The only support is a computational prediction score. There are no clinical tria
 - Preclinical evidence in a cholangitis model, if the prediction survives verification
 - Clarification of the original indication text and the reason for the cancelled licenses
 - Route compatibility assessment (the product is injectable only)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 4 of 4 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

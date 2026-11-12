@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "MEPERIDINE"
 predicted_indications: ["Tourette syndrome", "trichotillomania"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Meperidine: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -70,6 +70,12 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261105-meperidine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All five licenses are valid and the drug is marketed in the US, and no approved indication text is available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 49 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-meperidine-1 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Status |
@@ -119,6 +125,12 @@ Please refer to the package insert for warnings and contraindications, which are
 **Rationale:**
 The prediction rests on a model score alone (Evidence Level L5), with no clinical trials or publications. The mechanistic link is speculative, and the safety profile (serotonin syndrome, normeperidine neurotoxicity, abuse liability, many contraindication signals) is unfavorable for a chronic indication, although the drug is marketed in the US. Tourette syndrome is a chronic condition, so these safety concerns weigh heavily.
 
+<!-- review:begin us-lic-20261106-meperidine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The mechanistic link is speculative, and the safety profile (serotonin syndrome, normeperidine neurotoxicity, abuse liability, many contraindication signals) is unfavorable for a chronic indication, although the drug is marketed in the US with 5 of 5 licenses valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 49 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-meperidine-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
@@ -129,6 +141,20 @@ The prediction rests on a model score alone (Evidence Level L5), with no clinica
 ---
 
 *Additional predicted indication (for reference):* The second-ranked prediction, **trichotillomania** (TxGNN score 0.9939), is also Evidence Level L5 with no trials or literature, and is likewise on Hold. Its biological rationale is weak or even contradictory, because a mu-opioid agonist acts opposite to the opioid-antagonist approach (naltrexone) studied for this condition, and the same safety concerns apply.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All five licenses are valid and the drug is marketed in the US, and no approved indication text is available for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 5 of 5 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

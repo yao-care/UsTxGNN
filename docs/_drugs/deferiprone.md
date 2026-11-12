@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 578
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DEFERIPRONE"
 predicted_indications: ["hepatic porphyria", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
 description: "Deferiprone: predicted new indication Hepatic porphyria (evidence level L4). Approved use: Not recorded in the local data"
@@ -86,6 +86,12 @@ Currently no related clinical trials registered.
 
 All six US authorizations are valid, and no approved-indication text is available in the records.
 
+<!-- review:begin us-lic-20261106-deferiprone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "One further authorization, ANDA220132 (Dr. Reddy's, coated tablet), is also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-deferiprone-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021825 | FERRIPROX (Chiesi USA) | Tablet, film coated | Not available |
@@ -137,6 +143,18 @@ Eight further predictions were generated, all with no registered clinical trials
 | Hepatopulmonary syndrome | 0.9920 | L5 | Speculative link only |
 | Pyruvate kinase deficiency of red cells | 0.9915 | L5 | Chelation plausible for secondary iron overload; not supported by the supplied evidence |
 | Hereditary pyropoikilocytosis | 0.9902 | L5 | Chelation would only address secondary iron overload |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "One further authorization, ANDA220132 (Dr. Reddy's, coated tablet), is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

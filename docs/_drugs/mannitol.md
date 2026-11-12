@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "MANNITOL"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Mannitol: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -104,11 +104,30 @@ Please refer to the package insert for formal warnings and contraindications.
 **Rationale:**
 The prediction rests on a model score alone, with no registered trials and no supportive literature. The mechanism is implausible, since osmotic diuresis does not correct the AVPR2 defect and may worsen hyponatremia. The drug is marketed in the US. The other nine predicted indications are no stronger: most are Hold with L4–L5 evidence, and several (hypokalemic periodic paralysis, nephrogenic diabetes insipidus, acute pulmonary heart disease) point to possible harm rather than benefit.
 
+<!-- review:begin us-lic-20261106-mannitol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 7 of 7 licenses valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 22 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-mannitol-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data from DrugBank
 - Preclinical or mechanistic evidence that an osmotic agent can benefit NSIAD
 - A safety assessment of hyponatremia and volume-expansion risks in this population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 7 of 7 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

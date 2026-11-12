@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ENOXAPARIN"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Enoxaparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -82,6 +82,12 @@ Currently no related literature available.
 
 Two further ANDAs (ANDA214646, ANDA206834) are also on record. Approved indication text is not available in the license records. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-enoxaparin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 7 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 13 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-enoxaparin-1 -->
+
 ## Safety Considerations
 
 - **Contraindications (from the knowledge graph, not label text):** The TxGNN knowledge graph links enoxaparin to contraindications in the following groups:
@@ -108,12 +114,32 @@ Package insert warnings and contraindications were not available in the compiled
 **Rationale:**
 The prediction score is very high, but it is the only support. There are no clinical trials or publications for this indication (evidence level L5), the mechanism-of-action data and label safety data are missing, and the drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-enoxaparin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials or publications for this indication (evidence level L5), the mechanism-of-action data and label safety data are missing, and the drug is marketed in the US with 7 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 13 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-enoxaparin-2 -->
+
 **To proceed, the following is needed:**
 - Systematic literature search on heparin or enoxaparin use in severe congenital protein C deficiency (case reports, registries, guidelines)
 - Comparison with standard care (protein C concentrate, other anticoagulants, liver transplantation)
 - Mechanism-of-action data and the FDA package insert (warnings and contraindications)
 - Verification of current US product availability and regulatory status
 - Safety review for this population, especially bleeding risk and the thrombocytopenia and coagulation-disorder contraindications listed above
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

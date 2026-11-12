@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "FLUOCINONIDE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "alopecia areata", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fluocinonide: predicted new indication Alopecia mucinosa (evidence level L5). Approved use: Atopic dermatitis, contact dermatitis, seborrheic dermatitis…"
 ---
 
@@ -89,6 +89,12 @@ The only publication found among the top predictions relates to alopecia areata 
 
 No approved indication text is recorded. Up to 5 are listed below.
 
+<!-- review:begin us-lic-20261106-fluocinonide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 13 licences are generic applications and all are cancelled. No approved indication text is recorded." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 47 FDA applications or NDC listings for this drug, 31 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fluocinonide-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA209030 | Fluocinonide (Padagis Israel) | Gel | Not recorded |
@@ -111,12 +117,32 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The top prediction, alopecia mucinosa, has only a computational score (L5), with no trials or literature. Alopecia areata has a more plausible mechanism but only tangential evidence (L4). The basic safety data needed for screening is also missing, although the drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-fluocinonide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The basic safety data needed for screening is also missing, although the drug is marketed in the US with 13 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 47 FDA applications or NDC listings for this drug, 31 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fluocinonide-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from FDA (currently blocking for safety screening)
 - Detailed mechanism of action data (for example from DrugBank)
 - A targeted literature search on topical corticosteroids in follicular mucinosis and alopecia areata
 - Confirmation of the route of administration and formulation suited to scalp or follicular disease
 - Clarification of the current US market and licensing status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 13 licences are generic applications and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

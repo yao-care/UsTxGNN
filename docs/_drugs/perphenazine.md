@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1033
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Perphenazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia"
 monitor_inn: "PERPHENAZINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "atypical glycine encephalopathy"]
@@ -83,6 +83,12 @@ Currently no related clinical trials registered.
 
 No approved indication text was available for these licenses.
 
+<!-- review:begin us-lic-20261105-perphenazine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 7 US authorizations are generic (ANDA) tablet products and all are valid. No approved indication text was available for these licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 64 FDA applications or NDC listings for this drug, 17 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-perphenazine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA210163 | Perphenazine (RemedyRepack) | Tablet | Not listed |
@@ -110,12 +116,32 @@ Please refer to the package insert for full safety information.
 **Rationale:**
 The prediction rests on model output alone (L5). No trials exist, and the single publication describes retinal harm from a related drug rather than benefit. No credible mechanism links perphenazine's receptor pharmacology to inherited retinal dystrophy. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-perphenazine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 7 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 64 FDA applications or NDC listings for this drug, 17 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-perphenazine-2 -->
+
 **To proceed, the following is needed:**
 - A plausible mechanistic rationale and preclinical data supporting benefit in retinal dystrophy
 - Evaluation of the retinal toxicity risk of phenothiazines, including perphenazine specifically
 - Detailed mechanism of action (MOA) data
 - Package insert warnings and contraindications for formal safety screening
 - Confirmation of current US marketing availability
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 7 US authorizations are generic (ANDA) tablet products and all are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

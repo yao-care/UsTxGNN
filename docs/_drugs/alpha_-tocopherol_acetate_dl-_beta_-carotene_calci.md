@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -92,6 +92,12 @@ Please refer to the package insert for safety information.
 
 > Individual component safety profiles can be found in each ingredient's respective monograph. Drug-drug interaction data was not found for this multi-ingredient query string.
 
+<!-- review:begin us-lic-20261105-alpha_-tocopherol_acetate_dl-_beta_-carotene_calci-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "> **Note:** No Taiwan regulatory records (仿單) were retrieved for this combination. Individual component safety profiles can be found in each ingredient's respective monograph." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-alpha_-tocopherol_acetate_dl-_beta_-carotene_calci-1 -->
+
 ---
 
 ## Conclusion and Next Steps
@@ -108,6 +114,19 @@ The TxGNN pipeline was unable to generate any repurposing prediction because the
 - **Regulatory review**: If the target market is the US, verify whether any individual component has existing FDA/NDA records that could inform repurposing strategy.
 - **MOA data**: Once the primary ingredient is identified, retrieve its mechanism of action from DrugBank or primary literature.
 - **Re-run the pipeline**: After mapping is resolved, re-execute the full TxGNN evidence pack generation to obtain a scoreable prediction and supporting evidence.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "**Note:** No Taiwan regulatory records (仿單) were retrieved for this combination" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

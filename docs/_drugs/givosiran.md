@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 751
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Givosiran: predicted new indication Hepatoportal sclerosis (evidence level L5). Approved use: Hepatic porphyria"
 monitor_inn: "GIVOSIRAN"
 predicted_indications: ["hepatoportal sclerosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "chronic hepatitis C virus infection", "glycogen storage disease due to hepatic glycogen synthase deficiency", "chronic hepatitis B virus infection", "disorder of phenylalanine metabolism"]
@@ -96,9 +96,13 @@ For reference, the only prediction with literature is ADP porphyria (rank 9):
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA212194 | GIVLAARI | ALNYLAM PHARMS INC | Solution; subcutaneous | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -117,12 +121,38 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 Hepatoportal sclerosis is supported only by a model score, with no trials, no literature and no plausible mechanistic link to ALAS1 silencing. The one prediction with literature, ADP porphyria, is essentially an extension of the approved indication, and its evidence is limited to mixed case reports.
 
+<!-- review:begin us-lic-20261106-givosiran-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US NDA is also listed as cancelled. The one prediction with literature, ADP porphyria, is essentially an extension of the approved indication, and its evidence is limited to mixed case reports." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-givosiran-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - A mechanistic hypothesis linking ALAS1 suppression to obliterative portal venopathy, with preclinical support
 - Clarification of the current availability of the product
 - If the team wants to pursue the best-supported prediction instead, a focused review of ADP porphyria cases, given the mixed responses reported
+
+<!-- review:begin us-lic-20261106-givosiran-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled NDA status and the current availability of the product" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-givosiran-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US NDA is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled NDA status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

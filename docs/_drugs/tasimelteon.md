@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "TASIMELTEON"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "insomnia (disease)", "amyotrophic lateral sclerosis", "endogenous depression", "axial spondylometaphyseal dysplasia", "monomelic amyotrophy", "lower motor neuron syndrome with late-adult onset", "Mills syndrome", "amyotrohpic lateral sclerosis type 22"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tasimelteon: predicted new indication Bilateral parasagittal parieto-occipital polymicrogyria (evidence level L5). Approved use: Non-24-hour sleep-wake syndrome"
 ---
 
@@ -101,7 +101,26 @@ The prediction has no clinical trials, no literature, and no identifiable mechan
 - Detailed mechanism of action data from DrugBank
 - Clarification of the regulatory status
 
+<!-- review:begin us-lic-20261106-tasimelteon-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory status of the cancelled US authorizations" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 5 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tasimelteon-1 -->
+
 **Note:** Among the other predictions for this drug, **insomnia** has the strongest support. It has a Phase 3, double-blind, placebo-controlled pediatric trial ([NCT06953869](https://clinicaltrials.gov/study/NCT06953869), 420 participants, currently recruiting, no results yet) and a clear mechanistic link through circadian sleep regulation. It would be a more suitable candidate for a dedicated evaluation than the indication assessed here.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "of the cancelled US authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

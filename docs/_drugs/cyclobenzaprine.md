@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 3
 monitor_inn: "CYCLOBENZAPRINE"
 predicted_indications: ["myofascial pain syndrome", "neuralgia", "papillary conjunctivitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cyclobenzaprine: predicted new indication Myofascial pain syndrome (evidence level L2). Approved use: Not available in the compiled data"
 ---
 
@@ -93,6 +93,12 @@ The abstracts available for this report state the study objectives but not the r
 
 The drug is marketed. The records contain no approved-indication text.
 
+<!-- review:begin us-lic-20261106-cyclobenzaprine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Nine valid US licenses are on record, and the drug is marketed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 26 FDA applications or NDC listings for this drug, 18 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-cyclobenzaprine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021777 | AMRIX (Cephalon, LLC) | Capsule, extended release | Not listed |
@@ -124,6 +130,26 @@ The TxGNN score is high (0.9909), and the mechanism is plausible. However, the l
 - Confirm whether any trial directly tests cyclobenzaprine in myofascial pain syndrome, rather than fibromyalgia
 - Clarify the current US regulatory and market status, since the drug is marketed
 - Assess the interaction and anticholinergic risks, especially for older patients and those with glaucoma, thyroid or cardiac conduction disease
+
+<!-- review:begin us-lic-20261106-cyclobenzaprine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarify the current US regulatory and market status, since the drug is marketed with 9 valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 26 FDA applications or NDC listings for this drug, 18 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-cyclobenzaprine-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Nine valid US licenses are on record, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

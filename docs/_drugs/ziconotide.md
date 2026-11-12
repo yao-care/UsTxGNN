@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "ZICONOTIDE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "obesity disorder", "transient ischemic attack (disease)", "open-angle glaucoma", "obsolete neurogenic bladder (disease)", "primary hereditary glaucoma", "preeclampsia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ziconotide: predicted new indication Migraine disorder (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -112,12 +112,38 @@ Please refer to the package insert for warnings and contraindications, as label 
 **Rationale:**
 Evidence is limited to one case report and narrative reviews, with no registered trials. The intrathecal route and the neuropsychiatric risk profile make the risk-benefit balance unfavourable for migraine, which is rarely life-threatening. The topic is better treated as a research question than as a development candidate for now.
 
+<!-- review:begin us-lic-20261031-ziconotide-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only US NDA is cancelled. The intrathecal route and the neuropsychiatric risk profile make the risk-benefit balance unfavourable for migraine, which is rarely life-threatening." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-ziconotide-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which are currently missing and block safety screening
 - Confirmed original indication and mechanism of action from DrugBank or the label
 - Controlled clinical data, or at least a systematic case series, in refractory chronic migraine
 - An assessment of route feasibility (intrathecal delivery) and of whether a less invasive formulation is realistic
 - Confirmation of the current US regulatory and supply status
+
+<!-- review:begin us-lic-20261106-ziconotide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the current US regulatory and supply status, given that the NDA is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ziconotide-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that the NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

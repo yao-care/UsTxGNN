@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 870
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
 description: "Lorazepam: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Not recorded in the local data"
@@ -98,6 +98,12 @@ For reference, the most relevant literature for the next-ranked prediction, **in
 
 The drug is marketed in the US. Approved-indication text is not available in the records.
 
+<!-- review:begin us-lic-20261106-lorazepam-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with seven valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 73 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lorazepam-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA018140 | Lorazepam (Hikma) | Injection | Not available |
@@ -111,6 +117,12 @@ The drug is marketed in the US. Approved-indication text is not available in the
 ## Safety Considerations
 
 No package-insert warnings or contraindications were available in the data compiled for this report. Please refer to the package insert for label safety information.
+
+<!-- review:begin us-lic-20261106-lorazepam-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two further cancelled ANDAs (ANDA203572, Preferred Pharmaceuticals; ANDA076045, PD-Rx) are not shown." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 73 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lorazepam-1 -->
 
 The following comes from the knowledge graph and is not label text.
 
@@ -131,12 +143,33 @@ The following comes from the knowledge graph and is not label text.
 **Rationale:**
 The top prediction, trigeminal nerve neoplasm, has a very high model score but no trials, no literature and no plausible antitumor mechanism for lorazepam, so the evidence level is L5. The drug is marketed in the US, and label safety data is missing.
 
+<!-- review:begin us-lic-20261106-lorazepam-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with seven valid authorizations, and label safety data is missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 73 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lorazepam-3 -->
+
 **To proceed, the following is needed:**
 - Package-insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank
 - Any preclinical or clinical evidence of a tumour-related effect (none exists in the current data); without it, the prediction should be de-prioritised
 - If a different direction is of interest, treat insomnia (L3) as a separate research question. It is already a recognized sedative-hypnotic use, so it is better framed as an existing use than a novel repurposing, and it requires weighing dependence and fall risk.
 - Clarification of which US authorizations are valid, and whether any route or formulation is available for a new indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Two further cancelled ANDAs (ANDA203572, Preferred Pharmaceuticals; ANDA076045, PD-Rx) are not shown" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with seven valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with seven valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1258
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TRIAMTERENE"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
 description: "Triamterene: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -82,6 +82,12 @@ For the related candidate chronic pulmonary heart disease, two indirect publicat
 
 These studies concern heart failure in general, not cor pulmonale or triamterene alone, so they are indirect evidence only.
 
+<!-- review:begin us-lic-20261106-triamterene-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All three authorizations are single-ingredient oral capsules and all are cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-triamterene-1 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
@@ -118,6 +124,19 @@ The prediction is supported only by the model score (Evidence Level L5). There a
 - Preclinical or observational evidence directly linking triamterene to hypertensive kidney disease
 - A clinical rationale for oral use in this setting, plus a hyperkalaemia and renal function monitoring plan
 - Consideration of chronic pulmonary heart disease as a more plausible, lower-priority research question
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All three authorizations are single-ingredient oral capsules and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

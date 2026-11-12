@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "SEROTONIN"
 predicted_indications: ["insomnia (disease)", "anxiety disorder", "migraine disorder", "anxiety", "agoraphobia", "migraine with brainstem aura", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "atrophoderma vermiculata"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Serotonin: predicted new indication Insomnia (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -95,7 +95,6 @@ For the other top predictions, the evidence is similar in nature. Anxiety has on
 |---------|------|------|-----------|
 | Not available | Serotonin (BioActive Nutritional) | Liquid | Not available; status: cancelled |
 
-
 ## Safety Considerations
 
 No label warnings, contraindications or drug-interaction data were found in the data compiled for this report. Please refer to the package insert for safety information, which is itself a blocking data gap.
@@ -112,12 +111,31 @@ Based on the rationale compiled for the predictions, the following concerns shou
 **Rationale:**
 The prediction rests on a network score alone (evidence level L4 for insomnia, L5 for the weakest predictions). No trial tests serotonin itself, and the supporting literature concerns other serotonergic drugs.
 
+<!-- review:begin us-lic-20261031-serotonin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "No trial tests serotonin itself, and the supporting literature concerns other serotonergic drugs. The only US license is cancelled, and the safety label data needed for screening is missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-serotonin-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)
 - Mechanism-of-action data from DrugBank
 - Confirmation of the investigational product in NCT06559306
 - Evidence that serotonin, or a suitable prodrug or precursor, can reach the relevant target (CNS penetration, route of administration)
 - A clear definition of the original indication and dosage form, since no approved indication is on file
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, and the safety label data needed for screening is missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

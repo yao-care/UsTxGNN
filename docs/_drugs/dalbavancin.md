@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DALBAVANCIN"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "otitis externa", "ophthalmic herpes zoster", "infectious mononucleosis", "orbital cellulitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dalbavancin: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -107,12 +107,31 @@ Please refer to the package insert for warnings and contraindications, which are
 **Rationale:**
 The prediction has no supporting trials or literature (L5), and the mechanistic link is speculative because postinfectious vasculitis is immune-mediated rather than an active bacterial infection. The package insert safety data are missing.
 
+<!-- review:begin us-lic-20261106-dalbavancin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US license records are all cancelled, and the package insert safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dalbavancin-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Clarification of current US market and license status
 - Preclinical or case-level evidence for any candidate indication; orbital cellulitis is the most biologically plausible one to examine first, including orbital tissue penetration data
 - Route compatibility assessment (the drug is available only as an injectable)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he US license records are all cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

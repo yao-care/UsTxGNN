@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "FLUVASTATIN"
 predicted_indications: ["HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "fibroma of prostate"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fluvastatin: predicted new indication HIV infectious disease (evidence level L5). Approved use: Arteriosclerosis disorder, atherosclerosis…"
 ---
 
@@ -98,6 +98,12 @@ Currently no related clinical trials registered.
 
 All forms are oral.
 
+<!-- review:begin us-lic-20261106-fluvastatin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All five records are single-ingredient products. All forms are oral." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fluvastatin-1 -->
+
 ## Safety Considerations
 
 - **Contraindications recorded in the knowledge graph (not label text):** liver disease, gallbladder disease, myopathy, muscular disease, skeletal muscle disease, familial periodic paralysis, hypotensive disorder, substance abuse/dependence, rhabdomyolysis, nodular fasciitis, and injury.
@@ -118,6 +124,19 @@ The TxGNN score is high, but no clinical trial or publication tests fluvastatin 
 - FDA package insert warnings and contraindications
 - Detailed mechanism of action data
 - A review of interactions with antiretroviral regimens
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All five records are single-ingredient products" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 648
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Emapalumab: predicted new indication Autosomal recessive familial Mediterranean fever (evidence level L5). Approved use: Hemophagocytic lymphohistiocytosis / hemophagocytic syndrome"
 monitor_inn: "EMAPALUMAB"
 predicted_indications: ["autosomal recessive familial Mediterranean fever", "hepatic infarction", "hepatic veno-occlusive disease", "X-linked lymphoproliferative disease due to SH2D1A deficiency", "familial Mediterranean fever", "A20 haploinsufficiency", "immune dysregulation with inflammatory bowel disease", "peliosis hepatis"]
@@ -75,6 +75,12 @@ Currently no related literature available.
 
 This should be verified against the current FDA record before any decision relies on it.
 
+<!-- review:begin us-lic-20261106-emapalumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The only authorization is listed with a **cancelled** status. This should be verified against the current FDA record before any decision relies on it." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-emapalumab-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: 76 interactions were identified. The 20 reviewed are all rated Moderate. Notable groups include:
@@ -100,6 +106,19 @@ The prediction has no supporting trials or literature, and IFN-γ blockade has o
 - Confirmation of the current US regulatory and marketing status of GAMIFANT
 
 **Note on other predictions:** Among the other TxGNN predictions for this drug, **hemophagocytic syndrome associated with an infection** has the most supporting material (score 0.9999, L4, "Research Question"). It has about 20 publications, including case series on EBV-associated HLH, reviews, and the pivotal primary HLH study (PMID 32374962), but no registered trials. **Malignancy-associated HLH** is also supported indirectly by a 2026 real-world study (PMID 41337692, REAL-HLH). Both are biologically closer to the original HLH indication, and either would be a stronger candidate than FMF for further evaluation.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The only authorization is listed with a **cancelled** status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

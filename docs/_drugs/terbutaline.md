@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "TERBUTALINE"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Terbutaline: predicted new indication Respiratory malformation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -83,6 +83,12 @@ The high TxGNN score (0.9952) most likely reflects network proximity to airway d
 
 None of these studies directly examines terbutaline for respiratory malformation.
 
+<!-- review:begin us-lic-20261106-terbutaline-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Five of the six licences are currently valid, and one is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 15 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-terbutaline-1 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
@@ -112,6 +118,18 @@ The prediction rests on a model score alone. The only registered trial is a gene
 - Studies that directly examine terbutaline in patients with respiratory malformation
 - Label warnings and contraindications reviewed against the cardiovascular, metabolic and potassium-related risks above
 - Safety evaluation for the pediatric populations in which these malformations typically present
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Five of the six licences are currently valid, and one is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

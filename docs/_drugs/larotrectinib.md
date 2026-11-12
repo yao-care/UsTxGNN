@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "LAROTRECTINIB"
 predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Larotrectinib: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -107,6 +107,12 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The only supporting trial is a non-specific basket study, and the literature is a review and a resistance-mechanism report, with no efficacy data in multiple endocrine neoplasia. The mechanistic link (TRK inhibitor in a RET-driven disease) is indirect, and the high TxGNN score is a prediction only. Package-insert safety data are missing.
 
+<!-- review:begin us-lic-20261106-larotrectinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both US licences are cancelled, and package-insert safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-larotrectinib-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
@@ -114,6 +120,19 @@ The only supporting trial is a non-specific basket study, and the literature is 
 - Preclinical evidence of TRK-pathway involvement in RET-driven MEN2 tumours
 - Review of NCI-MATCH sub-protocol results for any MEN-relevant patients
 - Clinical interpretation of the clarithromycin interaction and other CYP-related interaction risks
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both US licences are cancelled, and p" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

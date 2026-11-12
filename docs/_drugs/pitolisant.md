@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "PITOLISANT"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pitolisant: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -94,6 +94,8 @@ None of these publications studies pitolisant as a treatment for insomnia. They 
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA218495 | PITOLISANT HYDROCHLORIDE | NOVITIUM PHARMA | Tablet; oral | Valid |
@@ -101,6 +103,8 @@ None of these publications studies pitolisant as a treatment for insomnia. They 
 | ANDA218846 | PITOLISANT HYDROCHLORIDE | LUPIN | Tablet; oral | Valid |
 | ANDA218873 | PITOLISANT HYDROCHLORIDE | MSN | Tablet; oral | Valid |
 | NDA211150 | WAKIX | HARMONY | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -126,6 +130,12 @@ The prediction is supported only by a model score. There are no clinical trials 
 - The FDA package insert warnings and contraindications, to complete safety screening
 - Detailed mechanism-of-action data from DrugBank
 
+<!-- review:begin us-lic-20261106-pitolisant-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Detailed mechanism-of-action data from DrugBank / Clarification of why the US Wakix licence (NDA211150) is recorded as cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 5 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pitolisant-1 -->
+
 ---
 
 ## Other Predicted Indications (for reference)
@@ -134,6 +144,18 @@ The prediction is supported only by a model score. There are no clinical trials 
 |------|------|------|------|------|------|
 | 2 | Attention deficit-hyperactivity disorder | 0.9936 | L5 | Research Question | H3 antagonism increases histamine, acetylcholine, dopamine and norepinephrine release in cortical circuits, which gives a plausible basis for effects on attention. No ADHD-specific trials exist, and the literature is review-level. A dedicated proof-of-concept trial would be needed, with attention to insomnia, anxiety and QT considerations. |
 | 3 | Faciodigitogenital syndrome (Aarskog-Scott syndrome) | 0.9929 | L5 | Hold | No plausible mechanistic link, no trials and no literature. This is a computational prediction only. |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Clarification of why the US Wakix licence (NDA211150) is recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

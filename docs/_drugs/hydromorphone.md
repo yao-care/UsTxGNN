@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 777
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "HYDROMORPHONE"
 predicted_indications: ["pharyngitis", "allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia"]
 description: "Hydromorphone: predicted new indication Pharyngitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -112,6 +112,12 @@ No literature is available for pharyngitis. The literature below relates to the 
 
 The drug is marketed in the US. No approved indication text is available.
 
+<!-- review:begin us-lic-20261106-hydromorphone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 10 valid authorizations. No approved indication text is available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 30 FDA applications or NDC listings for this drug, 19 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-hydromorphone-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA019892 | Hydromorphone Hydrochloride (Rhodes Pharmaceuticals) | Tablet | Not available |
@@ -150,6 +156,26 @@ Package insert warnings and contraindications were not available in the data com
 - Trials of hydromorphone in pharyngitis itself, not postoperative pain
 - A comparison against standard non-opioid analgesics, with a benefit-risk analysis covering respiratory depression, dependence and medication-overuse headache
 - Confirmation of the current US regulatory status
+
+<!-- review:begin us-lic-20261106-hydromorphone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the current US regulatory status, since 10 valid licenses are listed" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 30 FDA applications or NDC listings for this drug, 19 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-hydromorphone-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 10 valid authorizations for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since 10 valid licenses are listed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

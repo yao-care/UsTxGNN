@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "ARGININE"
 predicted_indications: ["gastroparesis (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Arginine: predicted new indication Gastroparesis (evidence level L4). Approved use: Not specified in the available data"
 ---
 
@@ -88,6 +88,14 @@ All publications below are preclinical studies or a case report; none is a human
 
 No approved indication text is available for them.
 
+<!-- review:begin us-lic-20261106-arginine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All three US authorizations are valid, and no approved indication text is available for them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-arginine-1 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA016931 | R-GENE 10 | PHARMACIA AND UPJOHN | Injectable; injection | Valid |
@@ -97,6 +105,8 @@ No approved indication text is available for them.
 | NDC 63083-2082 | A-L-O Liquid Drops 2082 | Professional Complementary Health Formulas | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
 
 Showing 5 of 31 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -120,6 +130,12 @@ Several of these are relevant to the target population, since gastroparesis is o
 **Rationale:**
 The prediction is mechanistically plausible, because arginine is the substrate for nitric oxide production involved in gastric motility. However, the evidence is limited to animal studies and a case report (Evidence Level L4), there are no registered clinical trials, no approved indication is on record, and package insert safety data are missing.
 
+<!-- review:begin us-lic-20261106-arginine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, the evidence is limited to animal studies and a case report (Evidence Level L4), there are no registered clinical trials, no approved indication is on record, all three US licenses are valid, and package insert safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-arginine-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data (for example from DrugBank)
@@ -127,6 +143,20 @@ The prediction is mechanistically plausible, because arginine is the substrate f
 - Assessment of the knowledge-graph contraindications, particularly kidney and cardiovascular disease, in the gastroparesis population
 - Evaluation of route compatibility (oral versus injectable) and the dose needed for the new indication
 - A proof-of-concept clinical study design if preclinical evidence is strengthened
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All three US authorizations are valid, and n" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "ll three US licenses are valid, a" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

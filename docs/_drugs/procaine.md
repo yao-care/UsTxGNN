@@ -77,6 +77,8 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA080384 | PROCAINE HYDROCHLORIDE | ABRAXIS PHARM | Injectable; injection | Discontinued in Drugs@FDA |
@@ -86,6 +88,8 @@ Currently no related clinical trials registered.
 | ANDA080658 | PROCAINE HYDROCHLORIDE | WATSON LABS | Injectable; injection | Discontinued in Drugs@FDA |
 
 Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

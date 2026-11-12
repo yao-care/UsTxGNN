@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DIROXIMEL FUMARATE"
 predicted_indications: ["diabetic cataract", "diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "tetanic cataract", "immature cataract", "craniostenosis cataract", "nuclear senile cataract", "cortical cataract", "diabetes mellitus type 2 associated cataract", "mature cataract"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Diroximel Fumarate: predicted new indication Diabetic cataract (evidence level L5). Approved use: Not listed in the available regulatory data"
 ---
 
@@ -76,10 +76,14 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA218596 | DIROXIMEL FUMARATE | ZYDUS | Capsule, delayed release; oral | Valid |
 | NDA211855 | VUMERITY | BIOGEN | Capsule, delayed release; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -99,6 +103,12 @@ Please refer to the package insert for warnings and contraindications, which are
 **Rationale:**
 The only support for diabetic cataract (and the other predicted eye conditions) is a model score. There are no trials or publications, the mechanism data are incomplete. The evidence level is L5.
 
+<!-- review:begin us-lic-20261106-diroximel_fumarate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no trials or publications, the mechanism data are incomplete, and the US license is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-diroximel_fumarate-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
@@ -106,6 +116,19 @@ The only support for diabetic cataract (and the other predicted eye conditions) 
 - Assessment of whether oral dosing can reach the lens or retina at tolerable exposure, or whether another delivery route is needed
 - A literature and trial search specific to Nrf2 activators or fumarates in diabetic eye disease
 - A review of the interaction profile, especially with corticosteroids
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

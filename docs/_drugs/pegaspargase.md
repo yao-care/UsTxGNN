@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1019
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PEGASPARGASE"
 predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "follicular lymphoma", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
 description: "Pegaspargase: predicted new indication Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (evidence level L5)."
@@ -95,9 +95,13 @@ Almost all trials test pegaspargase-containing regimens, and in many the randomi
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA103411 | ONCASPAR | SIGMA TAU | Vial | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -122,12 +126,31 @@ Almost all trials test pegaspargase-containing regimens, and in many the randomi
 **Rationale:**
 The predicted indication is essentially the original one (ALL and lymphoblastic lymphoma). Multiple completed Phase 3 trials and a large body of literature support pegaspargase-containing regimens, so efficacy evidence is strong.
 
+<!-- review:begin us-lic-20261031-pegaspargase-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Multiple completed Phase 3 trials and a large body of literature support pegaspargase-containing regimens, so efficacy evidence is strong. The main concerns are known toxicities, missing label safety data, and the fact that the only US license (BLA103411) is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-pegaspargase-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Verification of current US product availability and licensing status
 - A monitoring plan for hypersensitivity, pancreatitis, hepatotoxicity, thrombosis and hypertriglyceridemia, with age-adjusted dosing
 - Separate evaluation of extranodal NK/T-cell lymphoma as its own indication; the other predicted diseases (CLL, follicular lymphoma, cblE deficiency, CML blast phase) lack supporting evidence and should remain on hold
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The main concerns are known toxicities, missing label safety data, and the fact that the only US license (BLA103411) is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

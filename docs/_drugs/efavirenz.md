@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EFAVIRENZ"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Efavirenz: predicted new indication Feline acquired immunodeficiency syndrome (a veterinary indication) (evidence level L5). Approved use: HIV infectious disease"
 ---
 
@@ -79,6 +79,12 @@ Only one publication relates to the top predicted indication, and it is preclini
 
 For the second prediction (SIV infection), the most relevant publications are RT-SHIV macaque studies:
 
+<!-- review:begin us-lic-20261105-efavirenz-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 14 US licenses are valid; the drug is marketed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 26 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-efavirenz-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [15328115](https://pubmed.ncbi.nlm.nih.gov/15328115/) | 2004 | Animal study | Antimicrob Agents Chemother | Efavirenz therapy in rhesus macaques infected with an SIV chimera carrying HIV-1 RT (RT-SHIV). |
@@ -111,12 +117,32 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The prediction rests on model output alone plus one preclinical study. There are no clinical trials, and the top predicted indication is a veterinary disease. NNRTIs generally work poorly against non-HIV-1 lentiviral RTs, and the SIV evidence only reflects efavirenz acting on HIV-1 RT.
 
+<!-- review:begin us-lic-20261105-efavirenz-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "NNRTIs generally work poorly against non-HIV-1 lentiviral RTs, and the SIV evidence only reflects efavirenz acting on HIV-1 RT. In addition, the drug is marketed, with all 14 US licenses valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 26 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-efavirenz-2 -->
+
 **To proceed, the following is needed:**
 - The actual results of the 2023 FIV RT study (PMID 38031646), especially efavirenz's inhibition data against FIV RT
 - Detailed mechanism of action data (MOA)
 - FDA package insert warnings and contraindications (a blocking data gap for safety screening)
 - Confirmation of the target market, since FIV is a veterinary indication and would need veterinary regulatory and formulation considerations
 - Review of the neuropsychiatric and hepatic safety signals before considering any new indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 14 US licenses are valid; the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "In addition, the drug is marketed, with all 14 US licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

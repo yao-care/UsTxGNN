@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "INTERFERON GAMMA-1B"
 predicted_indications: ["heart disease", "Jeune syndrome situs inversus", "orofacial clefting syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "disorder of fucoglycosan synthesis", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "Laubry-Pezzi syndrome", "partial deletion of the long arm of chromosome 22", "interventricular septum aneurysm"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Interferon Gamma-1B: predicted new indication Heart disease (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -91,6 +91,8 @@ None of these publications evaluates interferon gamma-1b in heart disease.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA103836 | ACTIMMUNE | HORIZON THERAPEUTICS IRELAND DAC | Vial; single-use | Valid |
@@ -100,6 +102,8 @@ None of these publications evaluates interferon gamma-1b in heart disease.
 | NDC 17089-237 | GUNA-REACT | Guna spa | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
 
 Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 
@@ -120,6 +124,12 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction has no clinical trials and no literature that tests interferon gamma-1b in heart disease. The high TxGNN score is not supported by mechanistic or clinical evidence. In addition, label safety information is missing.
 
+<!-- review:begin us-lic-20261106-interferon_gamma-1b-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the US licenses are cancelled and label safety information is missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-interferon_gamma-1b-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening).
 - Mechanism-of-action data for interferon gamma-1b.
@@ -130,6 +140,19 @@ The prediction has no clinical trials and no literature that tests interferon ga
 ---
 
 *Note: Other predicted indications (for example Jeune syndrome with situs inversus, orofacial clefting syndrome, and several chromosomal deletion syndromes) had no clinical or literature support and were also rated Hold. The literature retrieved for "disorder of fucoglycosan synthesis" reflects interferon gamma-1b in general (mainly idiopathic pulmonary fibrosis and Friedreich ataxia), not that disorder.*
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "the US licenses are cancelled and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

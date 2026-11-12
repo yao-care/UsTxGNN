@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "METHOCARBAMOL"
 predicted_indications: ["cauda equina syndrome", "irritable bowel syndrome", "panuveitis (disease)", "anaphylaxis", "iris disease", "uveitis", "ventricular tachycardia", "food-dependent exercise-induced anaphylaxis", "conjunctivitis", "obsolete bundle branch block"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Methocarbamol: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not listed in the data compiled for this report (methocarbamol is gen…"
 ---
 
@@ -80,6 +80,12 @@ Currently no related literature available for cauda equina syndrome.
 
 Only the first five are shown above. Available forms include oral tablets (plain, coated and film coated) and an injectable solution.
 
+<!-- review:begin us-lic-20261106-methocarbamol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Eight licenses are recorded in total, and all are cancelled. Only the first five are shown above." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 81 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-methocarbamol-1 -->
+
 ## Safety Considerations
 
 - **Disease-level contraindication signals (TxGNN model output, not label text):** The TxGNN model (deep learning) links methocarbamol to contraindications in epilepsy, kidney disease, liver disease, gallbladder disease, thrombocytopenia, peptic ulcer disease, gout, substance abuse/dependence, hemophilia, anemia, von Willebrand disease, Reye syndrome, Alzheimer disease, and cerebellar degeneration, among others. These may reflect similarities the model learned between related diseases, not biological evidence, and need confirmation against the official label.
@@ -94,11 +100,31 @@ Please refer to the package insert for key warnings and label contraindications.
 **Rationale:**
 The prediction rests only on a model score. There are no clinical trials or supporting literature, and the mechanistic link is weak because cauda equina syndrome requires urgent surgical decompression. The drug is marketed in the US, and the label safety information could not be obtained.
 
+<!-- review:begin us-lic-20261106-methocarbamol-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 8 valid licenses, and the label safety information could not be obtained." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 81 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-methocarbamol-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - Preclinical or clinical evidence in nerve-root compression or cauda equina–related symptoms
 - A clear definition of the intended role (symptomatic adjunct versus disease-modifying) and a review of the knowledge-graph contraindication signals, especially for patients with renal or liver disease and those taking opioids
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Eight licenses are recorded in total, and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

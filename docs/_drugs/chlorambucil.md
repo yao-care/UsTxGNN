@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 518
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "CHLORAMBUCIL"
 predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
 description: "Chlorambucil: predicted new indication ALK-positive large B-cell lymphoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -123,12 +123,38 @@ Please refer to the package insert for full safety information, as label warning
 **Rationale:**
 The top prediction has no trials and no subtype-specific literature, and chlorambucil has largely been replaced by BTK and BCL2 inhibitors in CLL/SLL. The safety profile includes significant myelosuppression and second-malignancy risk. Primary pulmonary lymphoma (indolent MALT type) is the most promising secondary lead (L3), but even there the evidence is retrospective or case-level.
 
+<!-- review:begin us-lic-20261106-chlorambucil-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US license is cancelled, and the safety profile includes significant myelosuppression and second-malignancy risk." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-chlorambucil-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (for example from DrugBank)
 - For the top prediction: evidence that chlorambucil offers a benefit in IGHV-mutated CLL/SLL over current targeted therapies, such as a comparative analysis of existing CLL trial data by IGHV status
 - For primary pulmonary lymphoma: a structured review of chlorambucil use in MALT/marginal zone lymphoma, and a decision on whether a prospective study is justified
 - A clear regulatory and availability assessment
+
+<!-- review:begin us-lic-20261106-chlorambucil-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A clear regulatory and availability assessment, given that the US NDA is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-chlorambucil-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he US license is cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that the US NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

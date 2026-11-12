@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 655
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Entacapone: predicted new indication PLA2G6-associated neurodegeneration (evidence level L5). Approved use: Parkinson disease (and related genetic parkinsonian syndromes)"
 monitor_inn: "ENTACAPONE"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
@@ -84,6 +84,12 @@ Currently no related literature is available for PLA2G6-associated neurodegenera
 
 Two preclinical publications relate to the Lewy body dementia prediction (rank 7):
 
+<!-- review:begin us-lic-20261106-entacapone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "One further cancelled license is not shown: ANDA206669 (Lannett Company, tablet, film coated). All six licenses are for oral tablets and all are cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-entacapone-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [39259788](https://pubmed.ncbi.nlm.nih.gov/39259788/) | 2024 | Preclinical (iPSC organoid model) | Science Advances | Cortical organoids with SNCA triplication reproduced alpha-synuclein pathology in Lewy body disease and were used to identify candidate therapeutic drugs. |
@@ -123,12 +129,39 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Rationale:**
 The prediction for PLA2G6-associated neurodegeneration rests on model score alone (L5). No trials or literature exist, and a COMT inhibitor would at most give symptomatic benefit in the parkinsonian phenotype. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-entacapone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 6 of 6 licenses valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-entacapone-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Preclinical or case-level evidence of entacapone in PLA2G6-related dystonia-parkinsonism
 - Consideration of the juvenile parkinsonism and Lewy body dementia predictions as research questions, since both are closer to the approved indication
 - Clarification of the regulatory and supply situation
+
+<!-- review:begin us-lic-20261106-entacapone-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory and supply situation (6 of 6 US licenses are valid)" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-entacapone-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "One further cancelled license is not shown: ANDA206669 (Lannett Company, tablet, film coated). All six licenses are for oral tablets and all" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 6 of 6 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(6 of 6 US licenses are valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1238
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tocilizumab: predicted new indication Ankylosing spondylitis (evidence level L3). Approved use: Rheumatoid arthritis, juvenile idiopathic arthritis…"
 monitor_inn: "TOCILIZUMAB"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
@@ -108,6 +108,12 @@ The clinical record is less supportive. Two randomized placebo-controlled trials
 
 A sixth license, BLA761275 (TYENNE, injection solution concentrate, Fresenius Kabi), is also listed. The drug is marketed in this country.
 
+<!-- review:begin us-lic-20261106-tocilizumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All six licenses are valid, and the drug is marketed in this country." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tocilizumab-2 -->
+
 ---
 
 ## Safety Considerations
@@ -136,6 +142,26 @@ The IL-6 rationale for ankylosing spondylitis is plausible, but both dedicated P
 - Mechanism of action data (MOA)
 - Verification of the US license status
 - If pursuing a different direction, a dedicated plan for polyarticular JIA (guardrails: monitor infections, neutrophil counts, liver enzymes and lipids; screen for tuberculosis) or a prospective study in rheumatoid vasculitis
+
+<!-- review:begin us-lic-20261106-tocilizumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Verification of the US license status, since all six BLAs show as cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tocilizumab-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "since all six BLAs show as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "All six licenses are valid, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

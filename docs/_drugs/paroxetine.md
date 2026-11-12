@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PAROXETINE"
 predicted_indications: ["Ohdo syndrome and variants"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Paroxetine: predicted new indication Ohdo syndrome and variants (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -93,12 +93,31 @@ Label-based warnings and contraindications were not available in the data compil
 **Rationale:**
 The recommendation rests only on a computational prediction score. There are no clinical trials or publications, and no plausible mechanistic link to Ohdo syndrome. The evidence level is L5. In addition, paroxetine is currently marketed in the US.
 
+<!-- review:begin us-lic-20261106-paroxetine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, paroxetine is currently marketed in the US, with 10 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 35 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-paroxetine-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for paroxetine and a testable biological hypothesis connecting it to KAT6B or chromatin-regulation pathways
 - Preclinical evidence in relevant disease models
 - Package insert warnings and contraindications, which are a blocking gap for safety screening
 - Confirmation of the current US regulatory and market status, and of the route and dosage-form requirements for the proposed use
 - A clear definition of the intended benefit (for example, treating comorbid anxiety or depression versus modifying the disease)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 10 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

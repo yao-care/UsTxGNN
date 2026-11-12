@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TREOSULFAN"
 predicted_indications: ["diabetic cataract"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Treosulfan: predicted new indication Diabetic cataract (evidence level L5). Approved use: Not stated in the available license data (the drug is known as a cond…"
 ---
 
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA214759 | GRAFAPEX | MEDEXUS | Powder; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -99,12 +103,31 @@ Please refer to the package insert for other safety information, including warni
 **Rationale:**
 The prediction is supported only by a high model score, with no clinical trials, no literature, and no plausible mechanistic link to diabetic cataract (Evidence Level L5).
 
+<!-- review:begin us-lic-20261031-treosulfan-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction is supported only by a high model score, with no clinical trials, no literature, and no plausible mechanistic link to diabetic cataract (Evidence Level L5). The drug's cytotoxic profile adds a strong safety concern for this chronic indication, and its only US license is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-treosulfan-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data (MOA)
 - Preclinical or mechanistic evidence connecting alkylating-agent activity to lens or polyol-pathway biology
 - Assessment of route feasibility (for example, whether any ocular delivery route could avoid systemic toxicity)
 - Any supporting clinical or observational studies in diabetic cataract
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The drug's cytotoxic profile adds a strong safety concern for this chronic indication, and its only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "SCOPOLAMINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "papillary conjunctivitis", "atopic conjunctivitis", "rosacea conjunctivitis", "vernal conjunctivitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Scopolamine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -114,12 +114,31 @@ Please refer to the package insert for label warnings, as they were not availabl
 **Rationale:**
 The prediction has a very high model score but no supporting clinical trials or literature (evidence level L5). Cauda equina syndrome is a surgical emergency, so any drug effect would be symptomatic only. The data compiled for this report lack label safety information and mechanism data.
 
+<!-- review:begin us-lic-20261106-scopolamine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All nine US licenses are valid, and the data compiled for this report lack label safety information and mechanism data." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-scopolamine-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the FDA (a blocking gap for safety screening)
 - Detailed mechanism of action data (for example, from DrugBank)
 - A literature and trial search for scopolamine or antimuscarinics in neurogenic bladder dysfunction related to cauda equina syndrome
 - Mapping of the obsolete neurogenic bladder term to a current disease concept
 - A comparison with established peripherally acting antimuscarinics, and an assessment of route of administration compatibility (currently pending)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All nine US licenses are valid, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

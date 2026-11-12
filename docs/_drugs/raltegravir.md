@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "RALTEGRAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Raltegravir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease"
 ---
 
@@ -91,6 +91,12 @@ All publications below are preclinical (animal or in vitro). The compiled data c
 
 The approved indication text is not available in the compiled data.
 
+<!-- review:begin us-lic-20261105-raltegravir-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The approved indication text is not available in the compiled data. All three licenses are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 6 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-raltegravir-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA203045 | ISENTRESS (Merck Sharp & Dohme LLC) | Chewable tablet | Not available (status: valid) |
@@ -115,12 +121,39 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Rationale:**
 - The evidence is limited to preclinical studies (L4), with no clinical trials. SIV is an animal-model virus, not a human disease, so this prediction does not translate into a human repurposing opportunity. Raltegravir's marketed HIV use is already established.
 
+<!-- review:begin us-lic-20261105-raltegravir-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Raltegravir's marketed HIV use is already established, and all three of its US licenses in the data are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 6 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-raltegravir-2 -->
+
 **To proceed, the following is needed:**
 - Redefine the goal. SIV-related findings are best used to support preclinical HIV research models, not a new human indication.
 - Obtain the FDA package insert warnings and contraindications. This is a blocking gap for safety screening.
 - Obtain the mechanism of action data from DrugBank.
 - Confirm current US marketing status.
 - Do not pursue feline AIDS or the neurodevelopmental disorder prediction without new evidence, since no supporting data or credible mechanism was found.
+
+<!-- review:begin us-lic-20261105-raltegravir-3 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Confirm current US marketing status; all three listed licenses are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 6 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-raltegravir-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All three licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "and all three of its US licenses in the data are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "all three listed licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

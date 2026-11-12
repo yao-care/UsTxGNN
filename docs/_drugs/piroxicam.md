@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1050
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PIROXICAM"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
 description: "Piroxicam: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -86,6 +86,18 @@ The table covers the juvenile idiopathic arthritis prediction, the only one with
 
 No approved-indication text is available for them.
 
+<!-- review:begin us-lic-20261106-piroxicam-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All seven authorizations are generic capsules and all are now cancelled. No approved-indication text is available for them." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 24 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-piroxicam-1 -->
+
+<!-- review:begin us-lic-20261106-piroxicam-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two further cancelled authorizations are not shown: ANDA206136 (Proficient Rx) and ANDA074118 (Bryant Ranch Prepack)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 24 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-piroxicam-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA210347 (PD-Rx Pharmaceuticals) | Piroxicam | Capsule | Not available |
@@ -122,6 +134,20 @@ Package insert warnings and contraindications were not available in the data com
 - A review of current JIA guidelines and newer therapies to judge whether piroxicam adds value over available NSAIDs
 - A pediatric safety assessment, given the cardiovascular, gastrointestinal, hepatic, and renal contraindication signals
 - Confirmation of current commercial availability in the US
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All seven authorizations are generic capsules and all are now cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Two further cancelled authorizations are not shown: ANDA206136 (Proficient Rx) and ANDA074118 (Bryant Ranch Prepack)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

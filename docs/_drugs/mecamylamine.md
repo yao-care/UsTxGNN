@@ -88,10 +88,14 @@ These studies offer plausible biology for nicotinic involvement in hypoxic respo
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA204054 | MECAMYLAMINE HYDROCHLORIDE | LGM PHARMA | Tablet; oral | Valid |
 | NDA010251 | INVERSINE | TARGACEPT | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

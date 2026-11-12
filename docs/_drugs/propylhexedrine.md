@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "PROPYLHEXEDRINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "migraine disorder", "faciodigitogenital syndrome", "migraine with brainstem aura", "erectile dysfunction (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis", "trichotillomania", "Tourette syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Propylhexedrine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Not available"
 ---
 
@@ -88,6 +88,12 @@ Currently no related literature available.
 
 The manufacturer was BF Ascher and Co Inc.
 
+<!-- review:begin us-lic-20261106-propylhexedrine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The manufacturer was BF Ascher and Co Inc. 1 of 1 licenses is valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-propylhexedrine-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: No interaction records were found for this drug.
@@ -109,6 +115,19 @@ The predictions rest only on model scores. There are no clinical trials or publi
 - A literature and trial search focused on ADHD, to test whether any supporting evidence exists
 - An assessment of misuse and abuse liability
 - Route and formulation compatibility analysis (an inhalant product versus the oral route typically used for ADHD)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "1 of 1 licenses is valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

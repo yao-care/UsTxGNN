@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "DAUNORUBICIN"
 predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Daunorubicin: predicted new indication Hodgkins lymphoma (evidence level L3). Approved use: Acute lymphoblastic leukemia and acute myeloid leukemia (and related…"
 ---
 
@@ -91,6 +91,12 @@ Leukemia and Hodgkin's lymphoma are both hematologic malignancies. Anthracycline
 
 Note: none of the retrieved studies directly evaluates daunorubicin in Hodgkin's lymphoma. The clinical studies are in non-Hodgkin lymphoma or leukemia.
 
+<!-- review:begin us-lic-20261105-daunorubicin-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All three authorizations are valid, so valid single-agent or combination licenses are currently listed." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-05). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-daunorubicin-1 -->
+
 ---
 
 ## US Market Information
@@ -133,6 +139,12 @@ Note: none of the retrieved studies directly evaluates daunorubicin in Hodgkin's
 **Rationale:**
 The evidence is only Phase 2 combination protocols and non-Hodgkin lymphoma or liposomal-formulation studies, with no direct daunorubicin data in Hodgkin's lymphoma. Doxorubicin already fills the anthracycline role in standard Hodgkin regimens. Safety data are incomplete, and the cardiac and myelosuppression risks are significant.
 
+<!-- review:begin us-lic-20261106-daunorubicin-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Safety data are incomplete, the drug's US licenses are all cancelled, and the cardiac and myelosuppression risks are significant." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 12 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-daunorubicin-3 -->
+
 **To proceed, the following is needed:**
 - FDA package-insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism-of-action data
@@ -140,9 +152,30 @@ The evidence is only Phase 2 combination protocols and non-Hodgkin lymphoma or l
 - A cardiotoxicity and cumulative-dose risk assessment
 - Clarification of the regulatory and supply situation
 
+<!-- review:begin us-lic-20261105-daunorubicin-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Clarification of the regulatory and supply situation, given that all 3 US licenses are valid and the drug is marketed" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 12 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-daunorubicin-2 -->
+
 ---
 
 *Other predicted indications (neuroblastoma, small cell lung carcinoma, pulmonary blastoma, ALK-positive large B-cell lymphoma, and others) currently have only indirect, preclinical, or no supporting evidence and are not evaluated in this report.*
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All three authorizations are valid, so valid single-agent or combination licenses are currently listed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "given that all 3 US licenses are valid and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the drug's US licenses are all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

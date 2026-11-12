@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1089
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PROGESTERONE"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 description: "Progesterone: predicted new indication Breast fibrocystic disease (evidence level L4). Approved use: Not recorded in the local data"
@@ -65,6 +65,12 @@ The link is still unproven. The retrieved literature is epidemiologic, pathologi
 
 Currently no related clinical trials registered.
 
+<!-- review:begin us-lic-20261106-progesterone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Of the licence records, 8 are valid and 1 (an injectable product) is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 27 FDA applications or NDC listings for this drug, 20 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-progesterone-1 -->
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
@@ -109,6 +115,18 @@ The prediction score is high and the hormonal rationale is plausible. However, n
 - Full label warnings and contraindications from the FDA package insert
 - A well-designed controlled trial, or at least a systematic review, of progestogen therapy in fibrocystic breast changes
 - Assessment of breast safety and of the appropriate formulation and route for this use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Of the licence records, 8 are valid and 1 (an injectable product) is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

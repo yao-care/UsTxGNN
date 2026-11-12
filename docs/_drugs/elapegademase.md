@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ELAPEGADEMASE"
 predicted_indications: ["diabetic retinopathy", "diabetic cataract", "severe nonproliferative diabetic retinopathy", "cortical cataract", "nuclear senile cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "tetanic cataract", "immature cataract", "craniostenosis cataract"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Elapegademase: predicted new indication Diabetic retinopathy (evidence level L5). Approved use: Not stated in the US license data (the product is known as an ADA enz…"
 ---
 
@@ -88,12 +88,31 @@ No drug interaction records were found for this drug, and no contraindication ed
 **Rationale:**
 The prediction is supported only by a model score (Evidence Level L5). There are no clinical trials, no publications, and no verified mechanism linking ADA enzyme replacement to diabetic retinopathy or cataract. Package insert safety data are missing, so the candidate cannot move to safety screening.
 
+<!-- review:begin us-lic-20261106-elapegademase-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US license is also listed as cancelled, and package insert safety data are missing, so the candidate cannot move to safety screening." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-elapegademase-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap for safety screening)
 - Mechanism of action data, for example from DrugBank, to test any link to adenosine or purine signaling in retinal tissue
 - Preclinical evidence (for example retinal or diabetic models) showing a plausible effect of ADA replacement
 - Clarification of the current US regulatory status and original approved indication
 - Assessment of route compatibility, since the drug is a systemic injection and ocular delivery would need to be considered
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US license is also listed as cancelled, and p" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

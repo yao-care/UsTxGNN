@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1021
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PEGINTERFERON ALFA-2A"
 predicted_indications: ["hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "heart conduction disease", "heart neoplasm", "heart valve disease", "congenital anomaly of ventricular septum"]
 description: "Peginterferon Alfa-2A: predicted new indication Hepatitis E virus infection (evidence level L1). Approved use: Not recorded in the local data"
@@ -59,6 +59,12 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Chronic hepatitis B is already listed among the drug's original indications, so the prediction mostly confirms existing use. The many HBV trials and publications on file are consistent with this.
 
+<!-- review:begin us-lic-20261106-peginterferon_alfa-2a-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The main caution is regulatory. The only US license on record (Pegasys, BLA103964) is cancelled, so product availability and local regulatory status must be confirmed before any use." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-peginterferon_alfa-2a-3 -->
+
 ## Clinical Trial Evidence
 
 The 10 most relevant of the 19 trials registered for this indication are listed below. Trials are ordered by relevance grade, then enrollment.
@@ -93,9 +99,13 @@ The 10 most relevant of the 19 trials registered for this indication are listed 
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA103964 | PEGASYS | Pharmaand GmbH | Syringe | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -112,15 +122,42 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 Peginterferon alfa-2a is an established therapy for chronic hepatitis B, with supporting RCTs, meta-analyses, and many Phase 3/4 trials.
 
+<!-- review:begin us-lic-20261031-peginterferon_alfa-2a-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Peginterferon alfa-2a is an established therapy for chronic hepatitis B, with supporting RCTs, meta-analyses, and many Phase 3/4 trials. The guardrail is that the only US license is cancelled, and label-based safety data have not yet been reviewed." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-peginterferon_alfa-2a-1 -->
+
 **To proceed, the following is needed:**
 - Obtain and review the package insert for warnings and contraindications (a blocking gap for safety screening)
 - Obtain detailed mechanism of action data
 - Create an interaction management plan for the major interactions listed above
 
+<!-- review:begin us-lic-20261031-peginterferon_alfa-2a-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Confirm product availability and current regulatory status, since the only US license is cancelled / Obtain and review the package insert for warnings and contraindications (a blocking gap for safety screening)" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-peginterferon_alfa-2a-2 -->
+
 **Other predicted indications:** The remaining nine predictions are not supported by evidence and should not advance.
 - Hepatitis E virus infection (L4, Research Question): the listed trials are all HBV studies, so only indirect evidence exists.
 - Hepatitis A virus infection, viral hepatitis in animals, Omsk hemorrhagic fever, Kyasanur forest disease, heart neoplasm, heart valve disease, and congenital ventricular septum anomaly (L5, Hold): prediction only, with no relevant human evidence.
 - Heart conduction disease (L5, Hold): interferon therapy has reported cardiac adverse effects such as arrhythmia, which argues against use.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The guardrail is that the only US license is cancelled, and label-based safety data have not yet been reviewed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Confirm product availability and current regulatory status, since the only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "The main caution is regulatory. The only US license on record (Pegasys, BLA103964) is cancelled, so product availability and local regulator" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

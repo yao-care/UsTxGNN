@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FERRIC CARBOXYMALTOSE"
 predicted_indications: ["bronchitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ferric Carboxymaltose: predicted new indication Bronchitis (evidence level L5). Approved use: Iron deficiency and iron deficiency anemia"
 ---
 
@@ -72,12 +72,16 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA212572 | FERRIC CARBOXYMALTOSE | MYLAN LABS LTD | Solution; intravenous | Valid |
 | ANDA217076 | FERRIC CARBOXYMALTOSE | MYLAN | Solution; intravenous | Valid |
 | ANDA217769 | FERRIC CARBOXYMALTOSE | MYLAN | Solution; intravenous | Valid |
 | NDA203565 | INJECTAFER | AM REGENT | Solution; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -94,12 +98,31 @@ Please refer to the package insert for other safety information, including warni
 **Rationale:**
 The prediction rests only on a model score, with no clinical trials, no literature, and no established mechanistic link to bronchitis.
 
+<!-- review:begin us-lic-20261031-ferric_carboxymaltose-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests only on a model score, with no clinical trials, no literature, and no established mechanistic link to bronchitis. The only US license is cancelled, and the possible infection-related concerns with intravenous iron argue against assuming a benefit." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 4 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-ferric_carboxymaltose-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, and a plausible biological rationale linking iron replacement to bronchitis
 - Supporting preclinical, observational or clinical evidence in bronchitis
 - Package insert warnings and contraindications for safety screening, with particular attention to infection risk
 - Assessment of route and formulation compatibility, since the product is injectable only
 - Clarification of the current US regulatory status of the product
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, and the possible infection-related concerns with intravenous iron argue against assuming a benefit" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

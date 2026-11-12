@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "FLUDROCORTISONE"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "cystic teratoma", "spinal cord dermoid cyst", "dermoid cyst of ovary", "disease of orbital part of eye adnexa", "eye disease", "disease of orbital region", "exostosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fludrocortisone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -96,6 +96,8 @@ Most other retrieved papers concern orthostatic hypotension, adrenal insufficien
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA040431 | FLUDROCORTISONE ACETATE | IMPAX LABS | Tablet; oral | Valid |
@@ -105,6 +107,8 @@ Most other retrieved papers concern orthostatic hypotension, adrenal insufficien
 | ANDA040425 | FLUDROCORTISONE ACETATE | BARR | Tablet; oral | Discontinued in Drugs@FDA |
 
 Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 
@@ -125,12 +129,31 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The predicted indication is supported only by a model score, with no clinical trials or literature (Evidence Level L5). The mechanistic link is weak, because the drug is mainly mineralocorticoid. Key label safety data are missing.
 
+<!-- review:begin us-lic-20261106-fludrocortisone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US market status is "Cancelled only", and key label safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fludrocortisone-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking for safety screening)
 - Mechanism of action data
 - Any mechanistic or preclinical evidence for fludrocortisone in cutaneous T-cell lymphoma
 - Comparison with established corticosteroids and standard therapies for this disease
 - Optional research direction: the ocular signal (retinal degeneration/geographic atrophy, PMIDs 34509498 and 36161841) is a more evidence-backed research question than the top-ranked prediction, though "eye disease" is too broad to be an indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US market status is "Cancelled only", and k" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

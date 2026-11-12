@@ -101,12 +101,16 @@ Insomnia is the established, on-label use of estazolam, so the "new indication" 
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA074818 | ESTAZOLAM | WATSON LABS | Tablet; oral | Valid |
 | ANDA074826 | ESTAZOLAM | NOVITIUM PHARMA | Tablet; oral | Valid |
 | ANDA074921 | ESTAZOLAM | DR REDDYS LABS SA | Tablet; oral | Valid |
 | NDA019080 | PROSOM | ABBOTT | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "MAGNESIUM SALICYLATE"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "ankylosing spondylitis", "myosclerosis", "brachydactyly-syndactyly syndrome", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Magnesium Salicylate: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not stated in the US licence text."
 ---
 
@@ -82,6 +82,12 @@ Currently no related literature available.
 
 Oral dosage forms recorded include coated tablets, coated capsules, film-coated tablets and tablets.
 
+<!-- review:begin us-lic-20261106-magnesium_salicylate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All three are valid single-ingredient products. Oral dosage forms recorded include coated tablets, coated capsules, film-coated tablets and tablets." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-magnesium_salicylate-1 -->
+
 ## Safety Considerations
 
 Label warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for safety information.
@@ -109,6 +115,19 @@ The predicted disease is a congenital skeletal dysplasia with no plausible link 
 - The FDA package insert warnings and contraindications, which are currently missing and block safety screening
 - If any repurposing direction is pursued, consider evaluating ankylosing spondylitis instead, supported by a systematic literature search and class-level NSAID evidence
 - Any trial or literature that directly studies the predicted disease, before the evidence level can be raised
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All three are valid single-ingredient products" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

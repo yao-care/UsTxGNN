@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ENFORTUMAB VEDOTIN"
 predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "malignant catarrh", "infectious bovine rhinotracheitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Enfortumab Vedotin: predicted new indication Leprosy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -110,11 +110,30 @@ For reference, the two papers linked to other predicted indications report safet
 **Rationale:**
 The leprosy prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanism. The cytotoxic payload also raises safety concerns for an infectious disease. The package insert safety data is missing.
 
+<!-- review:begin us-lic-20261106-enfortumab_vedotin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US license record is cancelled, and the package insert safety data is missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-enfortumab_vedotin-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Any preclinical or clinical evidence linking Nectin-4 or MMAE to *M. leprae* infection
 - Confirmation of the current US regulatory status and approved indication text for PADCEV
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he US license record is cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

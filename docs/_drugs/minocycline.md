@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 932
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "MINOCYCLINE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis"]
 description: "Minocycline: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -74,6 +74,12 @@ Currently no related literature available.
 
 The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-minocycline-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 8 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 41 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-minocycline-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA065062 | Minocycline Hydrochloride (A-S Medication Solutions) | Capsule | Not available |
@@ -90,6 +96,12 @@ The drug is marketed in the US.
   - **Moderate**: ethinylestradiol, amoxicillin, ampicillin, aminolevulinic acid (topical), sodium citrate, calcium phosphate, calcium acetate, balsalazide, bismuth subcitrate potassium, cannabidiol, asparaginase products, brentuximab vedotin
   - **Minor**: acetazolamide, hydrochlorothiazide, amiloride, bumetanide
 
+<!-- review:begin us-lic-20261106-minocycline-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Three more cancelled ANDAs (ANDA063065, ANDA065436, ANDA091424) are not shown." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 41 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-minocycline-1 -->
+
 Package insert warnings and contraindications were not available. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
@@ -99,12 +111,40 @@ Package insert warnings and contraindications were not available. Please refer t
 **Rationale:**
 The prediction has a high model score but no clinical trials or literature behind it (Evidence Level L5). There is also no mechanism data. The drug is marketed in the US. There is not enough basis to move forward.
 
+<!-- review:begin us-lic-20261106-minocycline-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 8 valid licenses. There is not enough basis to move forward." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 41 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-minocycline-3 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, to allow safety screening
 - Detailed mechanism of action data
 - Preclinical or clinical evidence in punctate epithelial keratoconjunctivitis
 - An assessment of route and formulation, since an ocular formulation would be needed and none of the listed products is for the eye
 - Clarification of the regulatory status, since the drug is marketed in the US
+
+<!-- review:begin us-lic-20261106-minocycline-4 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory status, since the drug is marketed in the US with 8 valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 41 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-minocycline-4 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Three more cancelled ANDAs (ANDA063065, ANDA065436, ANDA091424) are not shown" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

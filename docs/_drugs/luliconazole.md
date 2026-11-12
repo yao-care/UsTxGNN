@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 876
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "LULICONAZOLE"
 predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease"]
 description: "Luliconazole: predicted new indication Endothrix infectious disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -94,6 +94,18 @@ The prediction score is high (0.9910), but there are no clinical trials or publi
 - Assessment of whether topical cream can adequately reach the infection site
 - Package insert warnings and contraindications
 - Mechanism of action data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US authorization is cancelled, and label safety information is missing, so the case is not strong enough to advance" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

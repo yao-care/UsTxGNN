@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 927
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "MIDODRINE"
 predicted_indications: ["variably protease-sensitive prionopathy", "faciodigitogenital syndrome", "attention deficit-hyperactivity disorder", "hypotensive disorder", "attention deficit hyperactivity disorder, inattentive type", "sinoatrial node disease", "monogenic obesity", "specific developmental disorder", "obsolete hypertelorism (disease)", "sinoatrial block"]
 description: "Midodrine: predicted new indication Variably protease-sensitive prionopathy (evidence level L5). Approved use: Not recorded in the local data"
@@ -74,6 +74,12 @@ Currently no related literature available.
 
 The records contain no approved-indication text. The first five are listed below.
 
+<!-- review:begin us-lic-20261105-midodrine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 10 midodrine hydrochloride tablet authorizations are valid. The records contain no approved-indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 15 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-midodrine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA212774 | Midodrine Hydrochloride (Bryant Ranch Prepack) | Tablet | Not specified |
@@ -97,12 +103,32 @@ Please refer to the package insert for the full warnings and contraindications.
 **Rationale:**
 The prediction for variably protease-sensitive prionopathy rests only on a TxGNN model (deep learning) score. There are no trials or publications, and no plausible mechanism links an alpha-1 agonist to a prion disease. Midodrine is currently marketed in the US.
 
+<!-- review:begin us-lic-20261106-midodrine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Midodrine is currently marketed in the US, with 10 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 15 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-midodrine-2 -->
+
 **To proceed, the following is needed:**
 - A mechanistic hypothesis and preclinical data showing that midodrine affects prion disease biology, not just autonomic symptoms
 - Detailed mechanism-of-action data
 - Package insert warnings and contraindications, to complete safety screening
 - Verification of US availability and regulatory status
 - Consideration of the better-supported **hypotensive disorder** prediction (rank 4, L2, Proceed with Guardrails) as a separate, largely on-label track. Its guardrails are supine hypertension risk and the drug-interaction burden.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 10 midodrine hydrochloride tablet authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 10 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

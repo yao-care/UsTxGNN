@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1157
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "SERTRALINE"
 predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Sertraline: predicted new indication Paranoid personality disorder (evidence level L5). Approved use: Not recorded in the local data"
@@ -87,6 +87,18 @@ None of the publications below directly studies paranoid personality disorder, s
 
 The list may be partial. Indication text is not recorded in the local data.
 
+<!-- review:begin us-lic-20261106-sertraline-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Eight valid US licences for single-ingredient sertraline are recorded. The list may be partial." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-sertraline-1 -->
+
+<!-- review:begin us-lic-20261106-sertraline-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Indication text is not recorded in the local data for these licences." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 39 FDA applications or NDC listings for this drug, 24 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-sertraline-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA214790 | Sertraline Hydrochloride (Camber Pharmaceuticals) | Tablet | Valid |
@@ -118,6 +130,19 @@ The prediction score is very high (0.9993), but it is shared across several unre
 - Detailed mechanism-of-action data and a mechanistic rationale specific to paranoid traits
 - Review of the full package insert warnings and contraindications, particularly for psychiatric comorbidity
 - A defined interaction-management plan covering the major interactions listed above
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Eight valid US licences for single-ingredient sertraline are recorded" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "for these licences" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

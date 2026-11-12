@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GANIRELIX"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial male-limited precocious puberty", "persistent fetal circulation syndrome", "aromatase excess syndrome", "centra precocious puberty 1", "familial isolated trichomegaly"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ganirelix: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -86,6 +86,12 @@ Currently no related literature available.
 
 The license records contain no approved-indication text. All products are injectables.
 
+<!-- review:begin us-lic-20261106-ganirelix-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two further cancelled ANDAs (ANDA216075, Lupin; ANDA218855, Qilu) are also on record. The license records contain no approved-indication text." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ganirelix-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions:** 7 interaction records were found. Six are rated Moderate (DDInter): gonadorelin, chorionic gonadotropin (human), menotropins, triptorelin, follitropin, and urofollitropin. The seventh is a pharmacology entry confirming ganirelix binds the GnRH1 receptor.
@@ -105,6 +111,19 @@ The prediction for hypertrichosis has no supporting trials, no literature, and n
 - Any preclinical or clinical evidence linking GnRH antagonism to hypertrichosis
 - Confirmation of the current US market and supply status
 - If a lead is wanted from this prediction set, a focused literature review of ganirelix in central precocious puberty (the most plausible candidate) and a route and formulation assessment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Two further cancelled ANDAs (ANDA216075, Lupin; ANDA218855, Qilu) are also on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

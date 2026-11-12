@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -84,6 +84,12 @@ Currently no related literature available.
 
 No US (NDA) regulatory authorizations on file for this product.
 
+<!-- review:begin us-lic-20261105-arnica_montana_whole_arsenic_trioxide_avena_sativa-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "No US (NDA) or Taiwan regulatory authorizations on file for this product." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-arnica_montana_whole_arsenic_trioxide_avena_sativa-1 -->
+
 ---
 
 ## Cytotoxicity
@@ -115,6 +121,12 @@ Please refer to the package insert for safety information.
 **Rationale:**
 The automated pipeline could not generate any TxGNN prediction for this candidate because the 31-ingredient composition cannot be mapped to a single DrugBank node or knowledge-graph entity. There is no original indication, and no evidence foundation to evaluate repurposing potential.
 
+<!-- review:begin us-lic-20261105-arnica_montana_whole_arsenic_trioxide_avena_sativa-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "There is no Taiwan regulatory record, no original indication, and no evidence foundation to evaluate repurposing potential." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-arnica_montana_whole_arsenic_trioxide_avena_sativa-2 -->
+
 **To proceed, the following is needed:**
 
 - **Formulation clarification**: Determine whether this is a registered homeopathic product, a nutraceutical, or a compounded pharmaceutical, and obtain the official product monograph or package insert.
@@ -122,6 +134,27 @@ The automated pipeline could not generate any TxGNN prediction for this candidat
 - **Single-entity decomposition**: If repurposing analysis is desired for individual ingredients (e.g., Arsenic Trioxide for hematologic malignancies, Saw Palmetto for BPH), each ingredient should be submitted as a separate Evidence Pack query with its own INN and DrugBank ID.
 - **MOA documentation**: Obtain mechanism-of-action data from DrugBank for any pharmacologically active components before re-running the TxGNN pipeline.
 - **Regulatory status review**: Clarify the product's legal classification under US FDA frameworks (homeopathic OTC, dietary supplement, or prescription drug) to determine the applicable regulatory pathway.
+
+<!-- review:begin us-lic-20261105-arnica_montana_whole_arsenic_trioxide_avena_sativa-3 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "**Regulatory status review**: Clarify the product's legal classification under Taiwan TFDA and US FDA frameworks (homeopathic OTC, dietary supplement, or prescription drug) to determine the applicable regulatory pathway." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-arnica_montana_whole_arsenic_trioxide_avena_sativa-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "or Taiwan" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "no Taiwan regulatory record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "Taiwan TFDA and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

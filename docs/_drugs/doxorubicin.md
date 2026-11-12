@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 626
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DOXORUBICIN"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
 description: "Doxorubicin: predicted new indication Ewing sarcoma (evidence level L2). Approved use: Not recorded in the local data"
@@ -100,6 +100,12 @@ The data lists 28 trials; the 10 most relevant are shown below. Trials with a pe
 
 The drug is marketed in the US. Approved-indication text is not available. Five representative entries are listed.
 
+<!-- review:begin us-lic-20261106-doxorubicin-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, and 12 US authorizations are currently valid. Approved-indication text is not available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 30 FDA applications or NDC listings for this drug, 20 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-doxorubicin-3 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA050629 | Doxorubicin Hydrochloride (Pfizer) | Injection, solution | Not available |
@@ -135,12 +141,24 @@ Package insert warnings and contraindications were not available in the compiled
 **Rationale:**
 Doxorubicin is already a component of standard Ewing sarcoma regimens, supported by multiple randomized Phase 3 trials and RCT publications. However, those trials mostly test the regimen or an added agent rather than doxorubicin on its own.
 
+<!-- review:begin us-lic-20261106-doxorubicin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, those trials mostly test the regimen or an added agent rather than doxorubicin on its own, and all US listings are cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 30 FDA applications or NDC listings for this drug, 20 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-doxorubicin-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap)
 - Mechanism of action data from DrugBank
 - Confirmation of current US availability
 - A cardiac monitoring plan with cumulative-dose limits and dexrazoxane use, especially in children and young adults
 - Review of major drug interactions, particularly QT-prolonging agents
+
+<!-- review:begin us-lic-20261106-doxorubicin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current US availability, since all 12 listings are cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 30 FDA applications or NDC listings for this drug, 20 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-doxorubicin-2 -->
 
 ## Other Predicted Indications (Brief)
 
@@ -154,6 +172,20 @@ Doxorubicin is already a component of standard Ewing sarcoma regimens, supported
 | Parameningeal embryonal rhabdomyosarcoma | 0.9971 | L5 | Hold |
 | Botryoid-type embryonal rhabdomyosarcoma of the vagina | 0.9972 | L5 | Hold |
 | Well-differentiated fetal adenocarcinoma of the lung | 0.9986 | L5 | Hold (no trials or literature) |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and all US listings are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since all 12 listings are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and 12 US authorizations are currently valid for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

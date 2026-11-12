@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1148
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Secnidazole: predicted new indication Postmenopausal atrophic vaginitis (evidence level L5). Approved use: Bacterial vaginosis, trichomoniasis, giardiasis, vaginitis, vulvitis…"
 monitor_inn: "SECNIDAZOLE"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vaginal discharge", "vulvar neoplasm", "leukoplakia of vagina", "vulvovaginal candidiasis"]
@@ -91,6 +91,12 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction has no clinical or literature support and no plausible mechanism, since atrophic vaginitis is hormone-driven rather than infectious.
 
+<!-- review:begin us-lic-20261031-secnidazole-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction has no clinical or literature support and no plausible mechanism, since atrophic vaginitis is hormone-driven rather than infectious. The product's only US license is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-secnidazole-1 -->
+
 Other predictions in the same data are better supported, though they largely extend existing indications rather than being true repurposing:
 - **Vaginal discharge** (score 0.9941, L1, Proceed with Guardrails): supported by a completed Phase 3 placebo-controlled trial in trichomoniasis (NCT03935217, n=147), a Phase 3 trial in bacterial vaginosis (PMID 28867602), and a meta-analysis of single-dose secnidazole in bacterial vaginosis (PMID 31129560).
 - **Ulceration of vulva, vulvar neoplasm, leukoplakia of vagina** (all L5, Hold): no evidence and no plausible mechanism.
@@ -102,6 +108,26 @@ Other predictions in the same data are better supported, though they largely ext
 - Detailed mechanism of action data
 - Confirmation of product availability
 - A DDI screening plan, including the alcohol and disulfiram-type precautions common to nitroimidazoles
+
+<!-- review:begin us-lic-20261106-secnidazole-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of product availability, given the cancelled US license" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-secnidazole-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The product's only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given the cancelled US license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 524
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Chlorthalidone: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Hypertensive disorder, hypertension, congestive heart failure"
 monitor_inn: "CHLORTHALIDONE"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
@@ -75,6 +75,12 @@ Currently no related literature available for primary hereditary glaucoma.
 
 For reference, the literature linked to the related prediction of chronic pulmonary heart disease is:
 
+<!-- review:begin us-lic-20261106-chlorthalidone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A total of 9 licenses are listed, and all are cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 84 FDA applications or NDC listings for this drug, 27 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-chlorthalidone-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [5597001](https://pubmed.ncbi.nlm.nih.gov/5597001/) | 1967 | Clinical report (historical, likely uncontrolled) | La Clinica terapeutica | Diuretic therapy with chlorthalidone in congestive heart failure caused by chronic cor pulmonale |
@@ -107,12 +113,32 @@ Please also refer to the package insert for full safety information, since label
 **Rationale:**
 The prediction for primary hereditary glaucoma is supported only by a model score (Evidence Level L5). No trials or literature support it, and the mechanistic link is speculative. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-chlorthalidone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 9 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 84 FDA applications or NDC listings for this drug, 27 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-chlorthalidone-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - Preclinical or clinical evidence on intraocular pressure and aqueous humor effects
 - An assessment of the risk that lower ocular perfusion pressure worsens glaucoma
 - Consideration of chronic pulmonary heart disease as a better-supported research question, given its directly relevant (though dated) literature
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "A total of 9 licenses are listed, and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

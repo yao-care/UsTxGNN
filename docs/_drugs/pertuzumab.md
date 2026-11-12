@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1034
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PERTUZUMAB"
 predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
 description: "Pertuzumab: predicted new indication Ectomesenchymoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -96,11 +96,15 @@ Note: this is a biosimilar equivalence trial in a hormone-receptor-negative popu
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA125409 | PERJETA | GENENTECH | Vial; single-use | Valid |
 | BLA761450 | POHERDY | SHANGHAI HENLIUS BIOTECH | Injectable; intravenous | Valid |
 | BLA761170 | PHESGO | GENENTECH INC | Injectable; subcutaneous | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -131,12 +135,31 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 Several randomized trials, including the completed Phase 3 trial, the WSG-TP-II trial and the PERTAIN trial, support pertuzumab-based regimens across HER2-positive disease, including HR+/HER2+ tumors. However, the prediction is largely an extension within the already approved HER2-positive indication, and the only registered trial in the data focuses on the ER/PR-negative population.
 
+<!-- review:begin us-lic-20261106-pertuzumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, the prediction is largely an extension within the already approved HER2-positive indication, and the only registered trial in the data focuses on the ER/PR-negative population. In addition, the US license is listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pertuzumab-1 -->
+
 **To proceed, the following is needed:**
 - PR-status-specific subgroup efficacy data (e.g., from NeoSphere, PERTAIN and WSG-TP-II)
 - Package insert warnings and contraindications (not available in the compiled data)
 - Detailed mechanism-of-action data from DrugBank
 - Clarification of current US regulatory and supply status
 - A cardiac safety monitoring plan
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "In addition, the US license is listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

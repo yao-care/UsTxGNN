@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CABOTEGRAVIR"
 predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "bronchitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cabotegravir: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -70,11 +70,15 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA212887 | VOCABRIA | VIIV HLTHCARE | Tablet; oral | Valid |
 | NDA215499 | APRETUDE | VIIV HLTHCARE | Suspension, extended release; intramuscular | Valid |
 | NDA212888 | CABENUVA KIT | VIIV HLTHCARE | Suspension, extended release; intramuscular | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -96,12 +100,31 @@ Warning and contraindication data from the package insert are not available. Ple
 **Rationale:**
 The prediction rests only on a TxGNN model (deep learning) score. There are no trials or publications, and no plausible mechanistic link between integrase inhibition and rheumatoid arthritis.
 
+<!-- review:begin us-lic-20261031-cabotegravir-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no trials or publications, and no plausible mechanistic link between integrase inhibition and rheumatoid arthritis. In addition, the only US license is cancelled, and package insert safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-cabotegravir-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data, to allow a proper mechanistic-link analysis
 - Confirmation of the original approved indication and current US regulatory status
 - Preclinical or mechanistic evidence that links cabotegravir to inflammatory or autoimmune pathways
 - Route and formulation compatibility assessment for the proposed indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "In addition, the only US license is cancelled, and package insert safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

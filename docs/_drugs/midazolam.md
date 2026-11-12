@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Midazolam: predicted new indication Insomnia (disease) (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
@@ -105,6 +105,12 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The only direct evidence for midazolam as a hypnotic consists of older studies (1981–1990), and the registered trials are only indirectly related. Midazolam is marketed in the US, and label-based safety data are not available. This is best treated as a research question rather than a candidate ready to advance.
 
+<!-- review:begin us-lic-20261106-midazolam-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Midazolam is marketed in the US with 12 valid licenses, and label-based safety data are not available." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 46 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-midazolam-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
@@ -112,6 +118,19 @@ The only direct evidence for midazolam as a hypnotic consists of older studies (
 - Assessment of whether midazolam's short half-life supports sleep maintenance
 - Clarification of route and formulation compatibility (oral vs injectable) and of the regulatory path, given the cancelled US licenses
 - A dependence, tolerance, and next-day impairment risk plan, with a CYP3A4 interaction management plan
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

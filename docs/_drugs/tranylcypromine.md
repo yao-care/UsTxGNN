@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1249
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TRANYLCYPROMINE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "agoraphobia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
 description: "Tranylcypromine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Not recorded in the local data"
@@ -121,6 +121,12 @@ Please also refer to the package insert, as label warnings were not available fo
 **Rationale:**
 The MAOI safety burden is substantial (hypertensive crisis, extensive interactions).
 
+<!-- review:begin us-lic-20261106-tranylcypromine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US licenses are all cancelled, and the MAOI safety burden is substantial (hypertensive crisis, extensive interactions)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 4 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tranylcypromine-1 -->
+
 **Status of other candidates:**
 - **Agoraphobia (rank 4, L4):** Research question. Evidence includes a 2010 case report of tranylcypromine in treatment-resistant agoraphobia with panic and older MAOI reviews. It is close to the original anxiety indication.
 - **Melancholia (rank 5, L3), neurotic depression (rank 6, L3) and neurotic disorder (rank 8, L3):** Research questions that mostly reflect the existing depression and anxiety indications rather than a distinct repurposing.
@@ -130,6 +136,19 @@ The MAOI safety burden is substantial (hypertensive crisis, extensive interactio
 - Tranylcypromine-specific controlled data in dysthymia or other target indications
 - Mechanism-of-action data and FDA package insert warnings and contraindications
 - A risk-management plan covering dietary tyramine, drug interactions and hypertensive crisis
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he US licenses are all cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

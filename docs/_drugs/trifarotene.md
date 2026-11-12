@@ -71,9 +71,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA211527 | AKLIEF | GALDERMA LABS LP | Cream; topical | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

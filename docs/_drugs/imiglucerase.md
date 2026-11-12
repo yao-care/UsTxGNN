@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "IMIGLUCERASE"
 predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Imiglucerase: predicted new indication Hurler syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -74,9 +74,13 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA020367 | CEREZYME | GENZYME | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -91,6 +95,12 @@ For other safety information, please refer to the package insert.
 **Rationale:**
 No clinical trials exist, the only literature is a general class-level review, and the mechanism is not supported because imiglucerase targets glucosylceramide rather than the glycosaminoglycans accumulating in MPS I. An approved, disease-specific therapy (laronidase) already exists.
 
+<!-- review:begin us-lic-20261106-imiglucerase-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "An approved, disease-specific therapy (laronidase) already exists, and the US license for Cerezyme is listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-imiglucerase-1 -->
+
 Other predictions show the same picture, with no trials or literature:
 - **Scheie syndrome** (0.9929, L4): same reasoning as Hurler syndrome.
 - **Benign neoplasm of adrenal gland** (0.9928, L5): no clear mechanistic link; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
@@ -102,6 +112,19 @@ Other predictions show the same picture, with no trials or literature:
 - Detailed mechanism of action data (MOA)
 - Experimental evidence (in vitro or preclinical) that imiglucerase has any activity against MPS I substrates, which is unlikely given the differing enzyme specificity
 - Clarification of the current US regulatory and supply status of Cerezyme
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the US license for Cerezyme is listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

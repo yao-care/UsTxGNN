@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DEFIBROTIDE"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "thrombotic thrombocytopenic purpura", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "congenital factor V deficiency", "fetal and neonatal alloimmune thrombocytopenia", "thrombocytopenic purpura"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Defibrotide: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -111,6 +111,25 @@ The top prediction (pseudo-von Willebrand disease) rests on a model score alone,
 - For any follow-up, a narrowed research question focused on TA-TMA, not classical autoimmune TTP or the bleeding disorders
 - A review of the 1994 report of TTP after defibrotide, and a bleeding-risk assessment
 - Clarification of whether a route and formulation are still available
+
+<!-- review:begin us-lic-20261106-defibrotide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the US license was cancelled and whether a route and formulation are still available" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-defibrotide-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "why the US license was cancelled and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

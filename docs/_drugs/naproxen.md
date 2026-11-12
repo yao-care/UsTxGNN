@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "NAPROXEN"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Naproxen: predicted new indication Brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -84,6 +84,12 @@ Currently no related literature available.
 
 The drug is marketed. The approved-indication text is blank in the records. The five main authorizations are shown below.
 
+<!-- review:begin us-lic-20261106-naproxen-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 14 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 106 FDA applications or NDC listings for this drug, 58 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-naproxen-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | NDA020204 | Aleve | Tablet | Lil' Drug Store Products, Inc |
@@ -118,12 +124,39 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanistic link between COX inhibition and a congenital limb malformation. In addition, the safety data are incomplete.
 
+<!-- review:begin us-lic-20261106-naproxen-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, 14 US licenses are valid, and the safety data are incomplete." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 106 FDA applications or NDC listings for this drug, 58 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-naproxen-2 -->
+
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA) and a biologically plausible link to the disease pathway
 - Package insert warnings and contraindications, which are needed before any safety screening
 - Preclinical or case-level evidence of benefit in brachydactyly-syndactyly syndrome
 - A review of NSAID safety in growing skeletal tissue and in the affected population
 - Clarification of the current US regulatory status
+
+<!-- review:begin us-lic-20261106-naproxen-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current US regulatory status, given that 14 licenses are valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 106 FDA applications or NDC listings for this drug, 58 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-naproxen-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 14 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "14 US licenses are valid, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that 14 licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

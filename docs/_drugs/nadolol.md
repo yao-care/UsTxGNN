@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 950
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "NADOLOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Nadolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -93,6 +93,8 @@ The remaining retrieved papers cover myocardial ischemia and arrhythmia models a
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA074172 | NADOLOL | RISING | Tablet; oral | Valid |
@@ -103,7 +105,15 @@ The remaining retrieved papers cover myocardial ischemia and arrhythmia models a
 
 Showing 5 of 18 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
+<!-- licenses:end -->
+
 A sixth license (ANDA208832, Amneal Pharmaceuticals NY LLC, tablet) is also valid. The drug is marketed.
+
+<!-- review:begin us-lic-20261106-nadolol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Six valid licenses are currently on record, and the drug is marketed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 18 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-nadolol-1 -->
 
 ## Safety Considerations
 
@@ -130,12 +140,39 @@ Package insert warnings were not available, so please refer to the package inser
 **Rationale:**
 The prediction is mechanistically plausible but has no supporting trials or literature (L5). Acute management of malignant hypertension relies on other agents, and nadolol is currently marketed in the US. Package insert safety data are also missing, and the knowledge graph flags kidney disease as a contraindication.
 
+<!-- review:begin us-lic-20261106-nadolol-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Acute management of malignant hypertension relies on other agents, and nadolol is currently marketed in the US with 6 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 18 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-nadolol-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - Clinical evidence (trials, cohort studies or systematic reviews) of oral beta-blockers in malignant hypertensive nephropathy
 - Clarification of the US regulatory status
 - Safety assessment for renal impairment and for the pulmonary hypertension predictions
+
+<!-- review:begin us-lic-20261106-nadolol-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the US regulatory status, given that the drug is marketed with 6 valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 18 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-nadolol-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Six valid licenses are currently on record, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 6 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that the drug is marketed with 6 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

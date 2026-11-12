@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "SOFOSBUVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Sofosbuvir: predicted new indication Top TxGNN prediction: hepatitis B virus infection . Best-supported ca… (evidence level L2). Approved use: Chronic hepatitis C virus infection"
 ---
 
@@ -111,6 +111,12 @@ Trials below are for the two leading candidates.
 
 The licence records contain no approved-indication text.
 
+<!-- review:begin us-lic-20261105-sofosbuvir-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All seven US licences are valid. The licence records contain no approved-indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 8 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-sofosbuvir-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA204671 | Sovaldi | Tablet, film coated | Not available |
@@ -145,12 +151,32 @@ For label warnings and contraindications, please refer to the package insert.
 - Hepatitis E has a plausible RdRp mechanism and supportive in vitro and animal data, but the only clinical trial is a 10-patient pilot with no sustained virologic response and emerging resistance.
 - Hepatitis A, Kyasanur forest disease, Omsk hemorrhagic fever and the nonspecific viral hepatitis category rest on in vitro, enzyme-level or no data. HIV evidence concerns HCV treatment in co-infected patients and is not repurposing evidence.
 
+<!-- review:begin us-lic-20261105-sofosbuvir-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "HIV evidence concerns HCV treatment in co-infected patients and is not repurposing evidence. / All seven US licences are valid, and the drug is marketed in the US." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 8 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-sofosbuvir-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently missing)
 - Detailed mechanism-of-action data
 - For hepatitis E: a larger controlled study, dose optimisation, and evaluation of combination use with ribavirin
 - HBV screening and reactivation monitoring plan for any study population
 - Review of the US regulatory pathway given the cancelled licences
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All seven US licences are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "All seven US licences are valid, and the drug is marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

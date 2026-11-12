@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "URIC ACID"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "bronchitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Uric Acid: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -88,7 +88,6 @@ The high TxGNN score most likely reflects network proximity between purine metab
 |---------|------|------|-----------|
 | Not available (cancelled) | Uric Acid | Liquid | No approved indication recorded |
 
-
 ## Safety Considerations
 
 Please refer to the package insert for safety information. No drug interaction records were found, and no knowledge-graph contraindications were identified.
@@ -100,11 +99,30 @@ Please refer to the package insert for safety information. No drug interaction r
 **Rationale:**
 The prediction rests on a computational score alone. The only trial does not test uric acid, and the literature treats uric acid as a biomarker or risk factor in RA, often a pro-inflammatory one, not as a therapy.
 
+<!-- review:begin us-lic-20261031-uric_acid-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only trial does not test uric acid, and the literature treats uric acid as a biomarker or risk factor in RA, often a pro-inflammatory one, not as a therapy. The only US authorization is cancelled and has no recorded indication." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-uric_acid-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, plus a plausible hypothesis for how administering uric acid could benefit RA
 - Package insert warnings and contraindications
 - Preclinical evidence of a therapeutic, not merely associative, effect in RA models
 - Clarification of whether the prediction reflects a true therapeutic direction or an artifact of purine-metabolism network proximity
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US authorization is cancelled and has no recorded indication" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

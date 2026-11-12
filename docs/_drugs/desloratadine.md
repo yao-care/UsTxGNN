@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 585
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DESLORATADINE"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
 description: "Desloratadine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -105,6 +105,12 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 Two completed randomized, double-blind Phase 4 trials and three published RCTs directly study desloratadine in cold urticaria, and the dose-escalation approach is guideline-endorsed. The trials are small (30 to 33 patients), so the evidence is promising but not definitive.
 
+<!-- review:begin us-lic-20261106-desloratadine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The trials are small (30 to 33 patients), and the product's US licenses are all cancelled, so the evidence is promising but not definitive." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 20 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-desloratadine-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
@@ -118,6 +124,18 @@ Two completed randomized, double-blind Phase 4 trials and three published RCTs d
 | Recalcitrant atopic dermatitis | 0.9975 | L5 | Hold | Itch is only partly histamine-dependent; no evidence |
 | IgE responsiveness, atopic | 0.9964 | L5 | Hold | A trait rather than a treatable disease |
 | Rosacea conjunctivitis | 0.9940 | L5 | Hold | Not primarily histamine-driven; no evidence |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the product's US licenses are all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

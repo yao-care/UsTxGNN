@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PENCICLOVIR"
 predicted_indications: ["fascioliasis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Penciclovir: predicted new indication Fascioliasis (evidence level L5). Approved use: Herpes labialis"
 ---
 
@@ -69,7 +69,15 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261105-penciclovir-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All five licenses are valid, and all are topical creams." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 5 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-penciclovir-1 -->
+
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -78,6 +86,8 @@ Currently no related literature available.
 | ANDA214100 | PENCICLOVIR | AMNEAL | Cream; topical | Valid |
 | NDA020629 | DENAVIR | MYLAN | Cream; topical | Valid |
 | ANDA216981 | PENCICLOVIR | TORRENT | Cream; topical | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -96,6 +106,19 @@ The prediction rests only on a TxGNN model (deep learning) score, with no clinic
 - Package insert warnings and contraindications, to enable safety screening
 - Route-compatibility assessment, since systemic exposure would be needed for fascioliasis and only topical products have been marketed
 - Justification of unmet need relative to triclabendazole
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All five licenses are valid, and all are topical creams" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

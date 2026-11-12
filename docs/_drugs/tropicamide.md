@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "TROPICAMIDE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tropicamide: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -100,12 +100,31 @@ Package insert warnings and contraindications were not available, so please refe
 **Rationale:**
 The prediction is supported only by a model score. There are no clinical trials or publications. Tropicamide is a topical ophthalmic drug with minimal systemic exposure, so reaching bladder, gut or nerve targets is implausible. In addition, the drug is marketed in the US, and the disease would be treated surgically, with any drug role limited to symptoms.
 
+<!-- review:begin us-lic-20261106-tropicamide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the drug is marketed in the US (5 of 5 licenses valid), and the disease would be treated surgically, with any drug role limited to symptoms." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tropicamide-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data (MOA)
 - Evidence that a systemically active formulation could reach relevant tissues safely
 - Preclinical or clinical data for any of the predicted indications
 - A review of whether existing antimuscarinics already cover the bladder-symptom use, which would make tropicamide redundant
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "(5 of 5 licenses valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

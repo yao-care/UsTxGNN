@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "MECLIZINE"
 predicted_indications: ["allergic urticaria", "common cold", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "cold urticaria"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Meclizine: predicted new indication Allergic urticaria (evidence level L5). Approved use: Central nervous system origin vertigo"
 ---
 
@@ -83,6 +83,12 @@ Currently no related literature available.
 
 No approved indication text is recorded for any of them.
 
+<!-- review:begin us-lic-20261106-meclizine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All seven licenses in the data compiled for this report are cancelled. No approved indication text is recorded for any of them." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 38 FDA applications or NDC listings for this drug, 11 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-meclizine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | M009 | Dramamine Less Drowsy Meclizine Hydrochloride | Tablet | Valid |
@@ -92,6 +98,12 @@ No approved indication text is recorded for any of them.
 | ANDA201451 | Meclizine Hydrochloride | Tablet | Valid |
 
 All available forms are oral.
+
+<!-- review:begin us-lic-20261106-meclizine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two further cancelled licenses are not shown: M002 (Motion Sickness Relief, film-coated tablet) and ANDA040659 (Meclizine Hydrochloride, tablet). All available forms are oral." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 38 FDA applications or NDC listings for this drug, 11 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-meclizine-2 -->
 
 ## Safety Considerations
 
@@ -109,12 +121,40 @@ Package insert warnings and contraindications were not available for this report
 **Rationale:**
 The prediction (score 0.9967) is supported only by class-level reasoning, with no clinical trials or publications for meclizine in this indication. The drug is marketed in the US, and effective alternatives already exist for urticaria.
 
+<!-- review:begin us-lic-20261106-meclizine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 7 valid licenses, and effective alternatives already exist for urticaria." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 38 FDA applications or NDC listings for this drug, 11 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-meclizine-3 -->
+
 **To proceed, the following is needed:**
 - Literature and trial searches specific to meclizine in urticaria (and the other predicted indications)
 - Mechanism of action data to support the mechanistic link
 - Package insert warnings and contraindications for formal safety screening
 - A comparison against established non-sedating antihistamines to show added value
 - Assessment of the current US market and regulatory pathway, given that the drug is marketed
+
+<!-- review:begin us-lic-20261106-meclizine-4 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Assessment of the current US market and regulatory pathway, given that the drug is marketed with 7 valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 38 FDA applications or NDC listings for this drug, 11 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-meclizine-4 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All seven licenses in the data compiled for this report are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Two further cancelled licenses are not shown: M002 (Motion Sickness Relief, film-coated tablet) and ANDA040659 (Meclizine Hydrochloride, tab" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

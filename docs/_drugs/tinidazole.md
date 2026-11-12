@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1229
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TINIDAZOLE"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "apocrine adenosis of breast", "blunt duct adenosis of breast", "congenital human immunodeficiency virus", "AIDS related complex", "benign mammary dysplasia"]
 description: "Tinidazole: predicted new indication Postmenopausal atrophic vaginitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -77,6 +77,12 @@ Currently no related literature available for postmenopausal atrophic vaginitis.
 
 The following publications were found for the lower-ranked AIDS prediction. They concern tinidazole in infections that commonly occur in people with HIV, not HIV outcomes:
 
+<!-- review:begin us-lic-20261105-tinidazole-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All four authorizations on record are valid, and all products are oral." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 7 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-tinidazole-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [21931875](https://pubmed.ncbi.nlm.nih.gov/21931875/) | 2011 | Cohort | PLoS Negl Trop Dis | Retrospective analysis of 170 HIV-1-infected Japanese men with invasive amebiasis: clinical features and response to therapy |
@@ -113,6 +119,12 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction has only model support (L5). Atrophic vaginitis is a hormone-deficiency condition with no clear antimicrobial rationale, and the high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trials or literature exist.
 
+<!-- review:begin us-lic-20261106-tinidazole-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "No trials or literature exist, and all four US licenses are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tinidazole-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a rationale for a non-infectious indication
 - Package insert warnings and contraindications
@@ -120,6 +132,20 @@ The prediction has only model support (L5). Atrophic vaginitis is a hormone-defi
 - Comparison against standard care (local estrogen therapy)
 - Review of the knowledge-graph safety flags (neutropenia, neuropathy, epilepsy) for the target population
 - Route and formulation assessment, since a vaginal formulation is not among the listed products
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All four authorizations on record are valid, and all products are oral" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and all four US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

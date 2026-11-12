@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "FOSPHENYTOIN"
 predicted_indications: ["conjunctivitis", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "manic bipolar affective disorder", "idiopathic granulomatous myositis", "myositis fibrosa", "fibromyalgia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fosphenytoin: predicted new indication Conjunctivitis (evidence level L5). Approved use: Epilepsy, status epilepticus"
 ---
 
@@ -101,6 +101,14 @@ For the manic bipolar affective disorder prediction, one publication was identif
 
 Approved indication text is not available for these entries.
 
+<!-- review:begin us-lic-20261105-fosphenytoin-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All six US authorizations are valid, so fosphenytoin is currently marketed in the data compiled for this report. Approved indication text is not available for these entries." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 16 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-fosphenytoin-1 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA077481 | FOSPHENYTOIN SODIUM | HIKMA | Injectable; injection | Valid |
@@ -110,6 +118,8 @@ Approved indication text is not available for these entries.
 | ANDA078417 | FOSPHENYTOIN SODIUM | SUN PHARM | Injectable; injection | Valid |
 
 Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 
@@ -137,11 +147,31 @@ Package insert warnings and contraindications are not available in the data comp
 **Rationale:**
 The conjunctivitis prediction has a high model score but no clinical trials, no literature, and no plausible mechanistic link (Level L5).
 
+<!-- review:begin us-lic-20261105-fosphenytoin-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The conjunctivitis prediction has a high model score but no clinical trials, no literature, and no plausible mechanistic link (Level L5). All six US authorizations are valid, and the drug is marketed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 16 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-fosphenytoin-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism-of-action data
 - A mechanistic or preclinical rationale for fosphenytoin in conjunctivitis, plus a route assessment (the drug is available only as an injection, and a conjunctival indication would likely need a different formulation)
 - If a lead is desired, consider the manic bipolar disorder signal as a research question: obtain the full text of PMID 12716241 to verify its design and results
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All six US authorizations are valid, so fosphenytoin is currently marketed in the data compiled for this report" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "All six US authorizations are valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

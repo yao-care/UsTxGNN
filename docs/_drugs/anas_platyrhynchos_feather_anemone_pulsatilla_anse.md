@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -62,6 +62,12 @@ A repurposing evaluation cannot be completed at this stage — a **Hold** decisi
 
 No authorizations were found for this 28-ingredient complex. No matching NDA/ANDA/BLA was identified.
 
+<!-- review:begin us-lic-20261105-anas_platyrhynchos_feather_anemone_pulsatilla_anse-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The TFDA query returned 0 records, and no matching NDA/ANDA/BLA was identified." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-anas_platyrhynchos_feather_anemone_pulsatilla_anse-1 -->
+
 > **Note on ingredient Arsenic Trioxide:** As a standalone drug, Arsenic Trioxide (Trisenox) holds FDA approval for relapsed/refractory acute promyelocytic leukemia (APL). However, in this context it appears as one component of a multi-ingredient preparation alongside allergens and classical homeopathic minerals, consistent with a homeopathic dilution rather than a therapeutic oncologic dose. If the concentration in this product is in fact pharmacologically active (i.e., not ultra-diluted), the candidate should be re-evaluated separately under an oncology repurposing framework.
 
 ---
@@ -90,6 +96,19 @@ The pipeline could not match this 28-ingredient complex to a single DrugBank ID,
 - **Retrieve MOA data** for the key active components, particularly Arsenic Trioxide and Strychnos nux-vomica alkaloids
 - **Clarify Arsenic Trioxide concentration** — if present at therapeutic (non-homeopathic) levels, initiate a separate evaluation under oncology/hematology repurposing workflows and apply full cytotoxicity and cardiac safety assessment
 - **Download and parse the package insert** (if available) for warnings, contraindications, and drug interactions before advancing to any safety screening step
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The TFDA query returned 0 records, and n" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

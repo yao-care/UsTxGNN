@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -119,6 +119,25 @@ The pipeline cannot generate a repurposing signal for a 15-ingredient heterogene
 4. **Resolve MOA for the composite** — If the combination formula is the intended candidate, a unified pharmacological rationale must be documented linking all 15 components to a shared therapeutic hypothesis.
 5. **Safety documentation** — Obtain package insert data (DG001) and complete contraindication/warning review for components with known narrow therapeutic indices (Belladonna, Nux-vomica, Podophyllum).
 6. **Source qualification for animal tissues** — Sus scrofa-derived materials require TSE/prion risk assessment documentation per international biologics standards (Ph.Eur. 5.2.8, FDA 21 CFR 610.13).
+
+<!-- review:begin us-lic-20261105-activated_charcoal_aesculus_hippocastanum_flower_a-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "**Safety documentation** — Obtain Taiwan TFDA package insert data (DG001) and complete contraindication/warning review for components with known narrow therapeutic indices (Belladonna, Nux-vomica, Podophyllum)." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-activated_charcoal_aesculus_hippocastanum_flower_a-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "Taiwan TFDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

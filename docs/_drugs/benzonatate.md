@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "BENZONATATE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Benzonatate: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not listed in the US license data (benzonatate is generally known as…"
 ---
 
@@ -84,6 +84,12 @@ Currently no related literature available.
 
 The table shows the first five.
 
+<!-- review:begin us-lic-20261106-benzonatate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Eight licenses in total are on record, all cancelled and all for single-ingredient oral products. The table shows the first five." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-benzonatate-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: One interaction was identified, with **tizanidine** (Moderate severity).
@@ -98,6 +104,12 @@ Please refer to the package insert for full warnings and contraindications, whic
 **Rationale:**
 The predictions rest on a model score alone, with no clinical trials, no literature, and no mechanism data. The proposed targets (a mechanical compression syndrome and an obsolete disease term) have weak mechanistic fit. The drug is currently marketed in the US.
 
+<!-- review:begin us-lic-20261106-benzonatate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is currently marketed in the US with 8 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-benzonatate-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently blocking for safety screening)
 - Mechanism of action data from DrugBank
@@ -105,6 +117,27 @@ The predictions rest on a model score alone, with no clinical trials, no literat
 - Preclinical or mechanistic evidence supporting sodium channel modulation in the proposed conditions
 - Route compatibility assessment (oral capsule versus the needs of the target conditions)
 - Assessment of the currently marketed products
+
+<!-- review:begin us-lic-20261106-benzonatate-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Assessment of the currently marketed products, given that 8 valid licenses exist" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 12 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-benzonatate-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Eight licenses in total are on record, all cancelled and all for single-ingredient oral products" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that 8 valid licenses exist" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

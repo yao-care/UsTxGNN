@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1298
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "WARFARIN"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Warfarin: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Not recorded in the local data"
@@ -131,6 +131,12 @@ None of the literature evaluates warfarin as a treatment in a controlled setting
 
 Warfarin is marketed in the US. Warfarin is available only as an oral tablet.
 
+<!-- review:begin us-lic-20261106-warfarin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Warfarin is marketed in the US, and the data compiled for this report show four valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 21 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-warfarin-1 -->
+
 ---
 
 ## Safety Considerations
@@ -167,6 +173,19 @@ Label warnings and contraindications have not been retrieved, so please refer to
 - Confirmation of the current US marketing status, since four authorizations are listed as valid
 - The final results of NCT00895505, plus comparative data for warfarin versus DOACs in severe inherited thrombophilia
 - A clear definition of what would count as a new indication, given the overlap with warfarin's existing thrombotic-disease uses
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the data compiled for this report show four valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

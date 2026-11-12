@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "DESOXIMETASONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "hereditary hypotrichosis with recurrent skin vesicles", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "primary cutaneous B-cell lymphoma", "atrichia with papular lesions", "vulvar inverted follicular keratosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Desoximetasone: predicted new indication Alopecia areata (evidence level L3). Approved use: Inflammatory skin conditions (e.g., atopic dermatitis…"
 ---
 
@@ -77,6 +77,12 @@ Currently no related clinical trials registered.
 
 No indication text is recorded. The five main authorizations are listed below.
 
+<!-- review:begin us-lic-20261106-desoximetasone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 12 U.S. licenses are cancelled, and no indication text is recorded." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 40 FDA applications or NDC listings for this drug, 28 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-desoximetasone-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA018594 | Desoximetasone (Sun Pharmaceutical) | Ointment | Not recorded |
@@ -99,6 +105,12 @@ Please refer to the package insert for warnings and contraindications, which wer
 **Rationale:**
 The mechanistic rationale for alopecia areata is reasonable and one placebo-controlled RCT exists. However, its details could not be verified, no trials are registered. The evidence is not yet enough to advance beyond a research question.
 
+<!-- review:begin us-lic-20261106-desoximetasone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, its details could not be verified, no trials are registered, and all U.S. licenses are cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 40 FDA applications or NDC listings for this drug, 28 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-desoximetasone-2 -->
+
 **To proceed, the following is needed:**
 - Retrieve the full text of PMID 11030789 and verify sample size, endpoints, efficacy and safety results
 - Obtain the FDA package insert warnings and contraindications (a blocking gap for safety screening)
@@ -106,6 +118,20 @@ The mechanistic rationale for alopecia areata is reasonable and one placebo-cont
 - Search for additional trials and literature on topical corticosteroids in alopecia areata
 - Assess route and formulation compatibility (cream, ointment and spray forms exist) and the regulatory path, given the cancelled U.S. licenses
 - Review the safety of long-term use on the scalp, including skin atrophy
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 12 U.S. licenses are cancelled, and n" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and all U S. licenses are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

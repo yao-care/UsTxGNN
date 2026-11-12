@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 598
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DEXTROAMPHETAMINE"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "multiple system atrophy", "variably protease-sensitive prionopathy", "postural orthostatic tachycardia syndrome", "trichotillomania"]
 description: "Dextroamphetamine: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -94,12 +94,31 @@ Please refer to the package insert for complete safety information, as label war
 **Rationale:**
 The prediction for faciodigitogenital syndrome rests on a model score alone (TxGNN model, deep learning), with no clinical trials or literature. The score may reflect similarities the model learned between related diseases, not biological evidence. In the US, this drug is marketed. The TxGNN model's output also lists many cardiovascular and psychiatric contraindications.
 
+<!-- review:begin us-lic-20261106-dextroamphetamine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In the US, this drug is marketed, with 12 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 87 FDA applications or NDC listings for this drug, 47 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dextroamphetamine-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data, for example from DrugBank
 - Evidence that dextroamphetamine helps ADHD-like symptoms in Aarskog-Scott syndrome, such as case series or small trials
 - A risk assessment of cardiovascular and psychiatric safety in this population
 - Confirmation of current US regulatory and marketing status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

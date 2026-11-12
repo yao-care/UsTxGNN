@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "NITROGEN"
 predicted_indications: ["16q24.1 microdeletion syndrome", "primary interstitial lung disease specific to childhood", "isolated pulmonary capillaritis", "congenital pulmonary lymphangiectasia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Nitrogen: predicted new indication 16q24.1 microdeletion syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -70,7 +70,15 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261106-nitrogen-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Nine US authorizations are valid and the drug is marketed, but none carries approved indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 16 FDA applications or NDC listings for this drug, 16 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-nitrogen-1 -->
+
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -81,6 +89,8 @@ Currently no related literature available.
 | NDA205829 | NITROGEN, NF | AIR LIQUIDE AMERICA LP | Gas; inhalation | Valid |
 
 Showing 5 of 25 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -106,12 +116,32 @@ The model also ranked three further predictions. All have Evidence Level L5, no 
 **Rationale:**
 The prediction rests only on the TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications and no mechanism of action data. The drug is marketed. Nitrogen is an inert gas and cannot correct the FOXF1-related genetic defect.
 
+<!-- review:begin us-lic-20261106-nitrogen-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed with 9 valid US authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 16 FDA applications or NDC listings for this drug, 16 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-nitrogen-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are required before any safety screening
 - Mechanism of action data
 - A literature and trial search on nitrogen or hypoxic gas mixtures in ACDMPV and related neonatal pulmonary conditions
 - Clarification of whether the original indications come from labelled use
 - A route and formulation compatibility assessment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Nine US authorizations are valid and the drug is marketed, but none carries approved indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 9 valid US authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

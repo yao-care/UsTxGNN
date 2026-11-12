@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "OXYBUTYNIN"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Oxybutynin: predicted new indication Restless legs syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -83,6 +83,12 @@ For reference, the literature found for the third-ranked prediction (peptic ulce
 
 The drug is marketed in the US. No approved indication text is available.
 
+<!-- review:begin us-lic-20261106-oxybutynin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 9 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 43 FDA applications or NDC listings for this drug, 25 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-oxybutynin-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA202332 | Oxybutynin (Zydus Lifesciences) | Film-coated extended-release tablet | Not available |
@@ -110,12 +116,39 @@ Package insert warnings and contraindications were not available for this report
 **Rationale:**
 The restless legs syndrome prediction has no registered trials or literature (Evidence Level L5) and no supporting mechanism. The drug has a known anticholinergic burden, and it is marketed in the US. The high TxGNN score (0.9974) alone is not sufficient to justify advancement.
 
+<!-- review:begin us-lic-20261106-oxybutynin-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug has a known anticholinergic burden, and it is marketed in the US with 9 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 43 FDA applications or NDC listings for this drug, 25 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-oxybutynin-3 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, and a plausible biological rationale linking antimuscarinic activity to restless legs syndrome
 - Package insert warnings and contraindications (currently a blocking data gap for safety screening)
 - Preclinical or clinical signals in restless legs syndrome from literature or trial searches
 - Clarification of any available formulations for a new indication
 - A review of whether the anticholinergic effects on sleep and cognition would be acceptable in this population
+
+<!-- review:begin us-lic-20261106-oxybutynin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US market status and any available formulations for a new indication" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 43 FDA applications or NDC listings for this drug, 25 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-oxybutynin-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "the cancelled US market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

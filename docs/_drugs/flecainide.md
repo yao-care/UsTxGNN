@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "FLECAINIDE"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Flecainide: predicted new indication Stroke disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -86,6 +86,14 @@ None of the publications below tests flecainide for stroke treatment or preventi
 
 The licences below are single-ingredient flecainide acetate tablets. No indication text is recorded in the local data.
 
+<!-- review:begin us-lic-20261106-flecainide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The list may be partial. No indication text is recorded in the local data." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-flecainide-1 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA075442 | FLECAINIDE ACETATE | AMNEAL PHARM | Tablet; oral | Valid |
@@ -95,6 +103,8 @@ The licences below are single-ingredient flecainide acetate tablets. No indicati
 | ANDA202821 | FLECAINIDE ACETATE | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
 
 Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -119,6 +129,18 @@ The evidence level is L5 because no study tests flecainide for stroke. The only 
 - Detailed mechanism-of-action data
 - Review of full package insert warnings and contraindications
 - A safety plan for patients with structural or ischaemic heart disease
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The list may be partial" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

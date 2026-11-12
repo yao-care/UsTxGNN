@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 541
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Clonidine: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Hypertension (other listed indications: open-angle glaucoma, ADHD)"
 monitor_inn: "CLONIDINE"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
@@ -114,6 +114,12 @@ No literature was found for faciodigitogenital syndrome. Selected publications f
 
 The drug is marketed in this country. No approved indication text was available. The first five are listed.
 
+<!-- review:begin us-lic-20261106-clonidine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in this country, with 12 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 74 FDA applications or NDC listings for this drug, 33 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-clonidine-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA200300 | Clonidine Hydrochloride (Hikma) | Injection, solution | Not available |
@@ -140,12 +146,39 @@ Package insert warnings and contraindications were not available for this report
 - Among the other predictions, Tourette syndrome has the strongest support (L2, Proceed with Guardrails). However, it rests on small Phase 4 trials, systematic reviews and guidelines, and is already a recognised use rather than a new repurposing finding. Obesity, migraine and manic bipolar disorder are research questions (L3). Specific developmental disorder and trichotillomania are L4, and the rest are L5.
 - Label safety data is missing.
 
+<!-- review:begin us-lic-20261106-clonidine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "US authorizations are all cancelled, and label safety data is missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 74 FDA applications or NDC listings for this drug, 33 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-clonidine-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which currently block safety screening
 - Detailed mechanism of action data
 - For Tourette syndrome: confirmation of a controlled Phase 3 trial or equivalent, and a decision on whether it counts as a new indication
 - For the other predictions: controlled trial data (for mania, a larger controlled trial than the terminated n=5 study)
 - Confirmation of current market and route availability, since the drug is marketed
+
+<!-- review:begin us-lic-20261106-clonidine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current market and route availability, since the drug is marketed with 12 valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 74 FDA applications or NDC listings for this drug, 33 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-clonidine-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "US authorizations are all cancelled, and l" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

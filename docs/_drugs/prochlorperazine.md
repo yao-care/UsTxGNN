@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PROCHLORPERAZINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Prochlorperazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -88,6 +88,12 @@ None of these provides controlled efficacy data for prochlorperazine in mania.
 
 The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-prochlorperazine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 11 valid authorizations, and none has approved indication text on record." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 59 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-prochlorperazine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA216495 | Prochlorperazine Maleate (Zydus Lifesciences) | Tablet | Not available |
@@ -125,6 +131,19 @@ The top-ranked prediction (retinal dystrophy) is supported only by a model score
 - Mechanism of action data (for example from DrugBank)
 - For bipolar mania: a systematic search for controlled efficacy data specific to prochlorperazine, followed by a comparison against current antipsychotics
 - A mechanistic rationale and preclinical evidence before any further consideration of the retinal or other rare-disease predictions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 11 valid authorizations, and none has approved indication text on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

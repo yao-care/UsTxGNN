@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1241
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TOLVAPTAN"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 description: "Tolvaptan: predicted new indication Renal-hepatic-pancreatic dysplasia (evidence level L5). Approved use: Not recorded in the local data"
@@ -64,6 +64,12 @@ The PKD3 form (GANAB-associated, with or without polycystic liver disease) is a 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered for this predicted indication.
+
+<!-- review:begin us-lic-20261106-tolvaptan-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Three more generic ANDAs (Camber, Ascend and Lupin) are also listed, all with cancelled status." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 11 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tolvaptan-1 -->
 
 ## Literature Evidence
 
@@ -124,6 +130,18 @@ Tolvaptan has strong RCT and systematic review evidence in ADPKD, and its V2-ant
 | 5 | Joubert syndrome with renal defect | L5 | Research Question | Indirect cAMP rationale; needs preclinical work |
 | 6 | Adult familial nephronophthisis-spastic quadriparesia syndrome | L5 | Hold | Indirect rationale only |
 | 7–10 | Hypertrichosis-related, odontal/periodontal malformation and Dandy-Walker-related syndromes | L5 | Hold | No plausible mechanism; likely model artifacts |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Three more generic ANDAs (Camber, Ascend and Lupin) are also listed, all with cancelled status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

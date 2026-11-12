@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ANAKINRA"
 predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "aggressive systemic mastocytosis", "hepatic veno-occlusive disease", "peliosis hepatis", "oligoarticular juvenile idiopathic arthritis without anti-nuclear antibodies", "oligoarticular juvenile idiopathic arthritis with anti-nuclear antibodies", "pyogenic autoinflammatory syndrome", "unclassified autoinflammatory syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Anakinra: predicted new indication extracutaneous mastocytoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -76,6 +76,12 @@ Currently no related literature available.
 
 The status should be verified against current FDA listings.
 
+<!-- review:begin us-lic-20261106-anakinra-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The available record lists one authorization, and it is marked as cancelled in the licence details, while the overall market status is reported as marketed. The status should be verified against current FDA listings." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-anakinra-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: The interaction screening returned 100 entries; the first 20 are summarized here.
@@ -97,6 +103,19 @@ The prediction score is very high, but there are no trials or publications for e
 - Published case reports or registered trials of IL-1 blockade in mast cell neoplasms
 - Mechanism of action data and package insert safety information (warnings and contraindications)
 - Clarification of the current licence status of Kineret
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The available record lists one authorization, and it is marked as cancelled in the licence details, while the overall market status is repor" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

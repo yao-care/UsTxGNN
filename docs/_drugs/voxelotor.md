@@ -72,10 +72,14 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA213137 | OXBRYTA | GLOBAL BLOOD THERAPS | Tablet; oral | Discontinued in Drugs@FDA |
 | NDA216157 | OXBRYTA | GLOBAL BLOOD THERAPS | Tablet, for suspension; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 Both authorizations are cancelled, so there is currently no actively marketed voxelotor product in the US. This limits the practical feasibility of any repurposing effort.
 

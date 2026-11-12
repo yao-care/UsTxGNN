@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FLUCONAZOLE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fluconazole: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Oral candidiasis, candidiasis, vulvovaginal candidiasis…"
 ---
 
@@ -74,6 +74,12 @@ Currently no related literature available.
 
 The drug is marketed. Approved indication text was not available.
 
+<!-- review:begin us-lic-20261106-fluconazole-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 10 valid authorizations. Only 5 of the 10 are shown below. Approved indication text was not available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 46 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fluconazole-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA020090 | Fluconazole (Mylan Pharmaceuticals Inc.) | Powder, for suspension | Not available |
@@ -102,6 +108,12 @@ Package insert warnings and contraindications were not available. Please refer t
 **Rationale:**
 The prediction rests only on a model score from the TxGNN model (deep learning). There are no clinical trials or publications, the mechanistic link to a mainly viral, bacterial, toxic or dry-eye-related condition is weak, and the drug is marketed.
 
+<!-- review:begin us-lic-20261106-fluconazole-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials or publications, the mechanistic link to a mainly viral, bacterial, toxic or dry-eye-related condition is weak, and the drug is marketed with 10 valid authorizations in this country." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 46 FDA applications or NDC listings for this drug, 21 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fluconazole-2 -->
+
 **To proceed, the following is needed:**
 - Review the related-disease similarities the TxGNN model (deep learning) may have learned behind the prediction (e.g., a fungal keratitis link)
 - Literature and trial searches for fluconazole in ocular surface disease
@@ -109,6 +121,20 @@ The prediction rests only on a model score from the TxGNN model (deep learning).
 - Assessment of route compatibility (systemic vs. ocular delivery)
 - Package insert warnings and contraindications, including QT prolongation and hepatic/renal risk
 - Clarification of the current US regulatory status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 10 valid authorizations. Only 5 of the 10 are shown below for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 10 valid authorizations in this country" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

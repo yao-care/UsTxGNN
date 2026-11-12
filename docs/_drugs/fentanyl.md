@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "FENTANYL"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fentanyl: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not specified in the available data"
 ---
 
@@ -74,6 +74,8 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA076258 | FENTANYL-37 | MYLAN TECHNOLOGIES | Film, extended release; transdermal | Valid |
@@ -84,7 +86,15 @@ Currently no related literature available.
 
 Showing 5 of 39 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
+<!-- licenses:end -->
+
 One further authorization (ANDA212086, Fresenius Kabi, injection solution) is also valid.
+
+<!-- review:begin us-lic-20261105-fentanyl-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "One further authorization (ANDA212086, Fresenius Kabi, injection solution) is also valid. All six authorizations are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 39 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-fentanyl-1 -->
 
 ## Safety Considerations
 
@@ -108,6 +118,12 @@ Please refer to the package insert for formal warnings and contraindications. Th
 **Rationale:**
 The prediction rests on a model score alone (Evidence Level L5). No clinical trials or literature support it, and the proposed mechanism is not plausible. NSIAD is a receptor-level defect in the kidney, and opioid-related antidiuresis would be an adverse effect. Fentanyl also carries high risks of respiratory depression, dependence and abuse, and it is marketed in the US.
 
+<!-- review:begin us-lic-20261106-fentanyl-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Fentanyl also carries high risks of respiratory depression, dependence and abuse, and it is marketed in the US with six valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 39 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fentanyl-2 -->
+
 The second prediction, Tourette syndrome, is also held. The link there is speculative. Small studies have explored opioid antagonists or partial agonists, not full mu agonists like fentanyl, and no supporting trials or literature were provided.
 
 **To proceed, the following is needed:**
@@ -116,6 +132,27 @@ The second prediction, Tourette syndrome, is also held. The link there is specul
 - Any preclinical or clinical evidence linking fentanyl to NSIAD, such as AVPR2 or GNAS signaling studies
 - A clear original indication from the approval records
 - A risk-benefit assessment given the abuse liability
+
+<!-- review:begin us-lic-20261106-fentanyl-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A risk-benefit assessment given the abuse liability and the cancelled market status" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 39 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fentanyl-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All six authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with six valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and the cancelled market status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

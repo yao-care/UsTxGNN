@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ETONOGESTREL"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Etonogestrel: predicted new indication Amenorrhea (evidence level L5). Approved use: Not stated in the available regulatory data (marketed as a hormonal c…"
 ---
 
@@ -102,12 +102,31 @@ Please refer to the package insert for the full warnings and contraindications.
 **Rationale:**
 The prediction is supported only by the model score (L5). There are no relevant trials or literature. Amenorrhea is an expected side effect of the drug rather than an established treatment target.
 
+<!-- review:begin us-lic-20261105-etonogestrel-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Amenorrhea is an expected side effect of the drug rather than an established treatment target. The drug is marketed in the US, with all four licenses valid, and label safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 7 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-etonogestrel-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (required before any safety screening)
 - Mechanism of action data from DrugBank
 - Clinical or observational evidence on etonogestrel for therapeutic menstrual suppression
 - Review of the knowledge-graph contraindication signals (cardiovascular, metabolic, hepatic, breast cancer) against the intended patient population
 - Confirmation of route and product availability
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The drug is marketed in the US, with all four licenses valid, and label safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

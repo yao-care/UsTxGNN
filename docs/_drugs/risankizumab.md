@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1126
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "RISANKIZUMAB"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
 description: "Risankizumab: predicted new indication Dermatitis (evidence level L2). Approved use: Not recorded in the local data"
@@ -118,12 +118,31 @@ Please refer to the package insert for warnings and contraindications, as these 
 **Rationale:**
 The only directly relevant controlled trial (Phase 2, n=172) did not show a clear benefit in atopic dermatitis, and the mechanistic overlap is partial because Th2 signalling dominates. This supports an L2 research question, not a development recommendation.
 
+<!-- review:begin us-lic-20261031-risankizumab-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Paradoxical eczema reports add a safety concern, and the current US licence records show only cancelled entries. This supports an L2 research question, not a development recommendation." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-risankizumab-1 -->
+
 **To proceed, the following is needed:**
 - Full efficacy data from NCT03706040, including dose-response and subgroup results
 - Identification of any dermatitis subtype (for example, mixed atopic dermatitis and psoriasis phenotypes) where IL-23 blockade could be useful
 - Mechanism-of-action data
 - Package insert warnings and contraindications, to complete safety screening
 - Clarification of the current US regulatory status of the Skyrizi BLA records
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Paradoxical eczema reports add a safety concern, and the current US licence records show only cancelled entries" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

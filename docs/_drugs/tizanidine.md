@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "TIZANIDINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tizanidine: predicted new indication Migraine disorder (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -59,6 +59,12 @@ Tizanidine is a central alpha-2 adrenergic agonist. Alpha-2 agonism can reduce t
 
 Clinical data point in the same direction. A double-blind, placebo-controlled, multicenter study (PMID 12167135, 2002) tested tizanidine as add-on preventive therapy for chronic daily headache, a group in which most patients had migraine. A Phase 3 trial specifically in migraine prevention (NCT05484349) is registered, but its status is unknown and no results are available. The evidence is therefore encouraging but not yet confirmed in migraine itself.
 
+<!-- review:begin us-lic-20261105-tizanidine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The list may be partial; all 9 licence records in the data compiled for this report are currently valid, and the 5 above are shown." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 32 FDA applications or NDC listings for this drug, 24 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-tizanidine-1 -->
+
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
@@ -106,6 +112,18 @@ A randomized placebo-controlled trial in chronic daily headache (most patients h
 - Detailed mechanism-of-action data
 - Safety monitoring plan covering sedation, hypotension, liver enzymes and CYP1A2-inhibitor interactions
 - Review of the package insert warnings and contraindications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The list may be partial; all 9 licence records in the data compiled for this report are currently valid, and the 5 above are shown" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

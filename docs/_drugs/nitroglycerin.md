@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 973
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Nitroglycerin: predicted new indication Pulmonary hypertension (evidence level L3). Approved use: Not available in the license data (nitroglycerin is a long-establishe…"
 monitor_inn: "NITROGLYCERIN"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "primary hereditary glaucoma", "congenital hypotrichosis milia"]
@@ -89,6 +89,12 @@ An important caveat: the evidence is mostly hemodynamic, perioperative or small-
 
 Indication text is not available for any of them.
 
+<!-- review:begin us-lic-20261105-nitroglycerin-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All nine US authorizations are valid, and the drug is marketed in the US. Indication text is not available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 63 FDA applications or NDC listings for this drug, 26 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-nitroglycerin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA020145 | Nitroglycerin Transdermal Infusion System | Patch | Not available |
@@ -111,6 +117,12 @@ For label-based warnings and contraindications, please refer to the package inse
 **Rationale:**
 The biological rationale is coherent and there are small randomized and hemodynamic studies, including a 2025 RCT in neonatal PPHN. However, there is no completed Phase 2/3 RCT, the main comparator trial is of unknown status, and the drug is marketed in the US. Label-based safety data are also missing. This is best treated as a research question rather than a candidate for advancement now.
 
+<!-- review:begin us-lic-20261106-nitroglycerin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, there is no completed Phase 2/3 RCT, the main comparator trial is of unknown status, and the drug is marketed in the US with nine valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 63 FDA applications or NDC listings for this drug, 26 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-nitroglycerin-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
@@ -119,6 +131,20 @@ The biological rationale is coherent and there are small randomized and hemodyna
 - A formulation and route plan, since no inhaled product is currently authorized in the US
 
 **Other predicted indications (brief):** Kyphoscoliotic heart disease, primary hereditary glaucoma and congenital hypotrichosis milia have no clinical or literature evidence and little plausible mechanism, so Hold is recommended.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All nine US authorizations are valid, and the drug is marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with nine valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

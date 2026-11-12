@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CUPRIC CHLORIDE"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "thrombocytopenia due to immune destruction"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cupric Chloride: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -75,7 +75,15 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261106-cupric_chloride-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All five authorizations are single-ingredient injectables with cancelled status." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-cupric_chloride-2 -->
+
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -86,6 +94,8 @@ Currently no related literature available.
 | ANDA217287 | CUPRIC CHLORIDE | AMNEAL | Injectable; injection | Discontinued in Drugs@FDA |
 
 Showing 5 of 13 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -107,6 +117,26 @@ All three predictions have only model scores behind them. There are no clinical 
 - A biological rationale connecting copper to platelet release or function, followed by preclinical studies
 - Confirmation of the regulatory and supply status
 - Review of the knowledge-graph contraindications (Wilson disease, iron metabolism disorders, hemochromatosis) for relevance to any target population
+
+<!-- review:begin us-lic-20261105-cupric_chloride-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Confirmation of the regulatory and supply status, since all 5 of 5 licenses are valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 5 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-cupric_chloride-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "since all 5 of 5 licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "All five authorizations are single-ingredient injectables with cancelled status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

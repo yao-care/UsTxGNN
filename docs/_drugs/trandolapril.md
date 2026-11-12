@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1247
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Trandolapril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "TRANDOLAPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
@@ -84,11 +84,37 @@ Please also refer to the package insert for official warnings and contraindicati
 **Rationale:**
 The prediction is supported only by a model score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. No clinical trials or literature were found for malignant hypertensive renal disease, and the drug is marketed in the US. Official label safety information has not yet been reviewed.
 
+<!-- review:begin us-lic-20261106-trandolapril-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "No clinical trials or literature were found for malignant hypertensive renal disease, and the drug is marketed in the US with 3 of 3 licenses valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 13 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-trandolapril-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - A literature and trial search specific to ACE inhibitors in malignant hypertensive nephropathy
 - Assessment of renal safety, especially in renal artery stenosis, and hyperkalaemia monitoring
+
+<!-- review:begin us-lic-20261106-trandolapril-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US market status, including whether the cancellations are commercial or safety-related / Assessment of renal safety, especially in renal artery stenosis, and hyperkalaemia monitoring" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 13 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-trandolapril-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Clarification of the cancelled US market status, including whether the cancellations are commercial or safety-related" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 3 of 3 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

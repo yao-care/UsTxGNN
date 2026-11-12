@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 536
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "CLOBAZAM"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "cryptogenic late-onset epileptic spasms", "photosensitive occipital lobe epilepsy", "atypical childhood epilepsy with centrotemporal spikes", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
 description: "Clobazam: predicted new indication Febrile infection-related epilepsy syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -93,6 +93,12 @@ Currently no related clinical trials registered.
 
 The list may be partial.
 
+<!-- review:begin us-lic-20261106-clobazam-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Of 15 recorded licences, 14 are valid and 1 is cancelled. The list may be partial." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 34 FDA applications or NDC listings for this drug, 20 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-clobazam-1 -->
+
 ---
 
 ## Safety Considerations
@@ -118,6 +124,18 @@ The prediction score is high (0.9982), but no study of clobazam in febrile infec
 - Detailed mechanism of action data
 - Package insert warnings and contraindications
 - A safety plan covering tolerance, sedation, behavioral adverse events and interactions with CYP2C19/CYP3A4 substrates and other antiseizure drugs
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Of 15 recorded licences, 14 are valid and 1 is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

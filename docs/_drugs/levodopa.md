@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "LEVODOPA"
 predicted_indications: ["Rasmussen subacute encephalitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Levodopa: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Parkinson disease and related parkinsonian syndromes"
 ---
 
@@ -74,6 +74,12 @@ Currently no related literature available.
 
 The main ones are shown below.
 
+<!-- review:begin us-lic-20261106-levodopa-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The data compiled for this report list 12 authorizations, all with cancelled status and no approved indication text. The main ones are shown below." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 51 FDA applications or NDC listings for this drug, 29 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-levodopa-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA209184 | Inbrija | Capsule | Not stated |
@@ -105,6 +111,12 @@ Package insert warnings and contraindications were not available for this report
 **Rationale:**
 The prediction is supported only by the TxGNN model (deep learning) score (L5). There are no registered clinical trials or publications, no established mechanistic link, and no mechanism-of-action data. Levodopa also carries a knowledge-graph contraindication signal for epilepsy, the main manifestation of Rasmussen encephalitis. In addition, the drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-levodopa-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the drug is marketed in the US, with 12 valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 51 FDA applications or NDC listings for this drug, 29 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-levodopa-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism-of-action data for levodopa
@@ -112,6 +124,20 @@ The prediction is supported only by the TxGNN model (deep learning) score (L5). 
 - Preclinical or mechanistic studies supporting a link to T-cell-mediated neuroinflammation
 - Route and formulation compatibility assessment for the new indication
 - Clarification of the current US market and regulatory status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The data compiled for this report list 12 authorizations, all with cancelled status and no approved indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 12 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

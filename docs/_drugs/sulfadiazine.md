@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "SULFADIAZINE"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Sulfadiazine: predicted new indication Pneumocystosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -85,6 +85,8 @@ None of these publications is a randomized trial; all are reviews, case reports 
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA040091 | SULFADIAZINE | EPIC PHARMA LLC | Tablet; oral | Valid |
@@ -94,6 +96,8 @@ None of these publications is a randomized trial; all are reviews, case reports 
 | NDA004054 | SULFADIAZINE | LEDERLE | Tablet; oral | Discontinued in Drugs@FDA |
 
 Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -111,6 +115,12 @@ Package insert warnings and contraindications were not available; please refer t
 **Rationale:**
 The mechanistic link (folate pathway inhibition, class-level precedent with trimethoprim-sulfamethoxazole) is plausible, but there are no clinical trials and no direct literature for sulfadiazine in pneumocystosis. Established alternatives already exist.
 
+<!-- review:begin us-lic-20261106-sulfadiazine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Established alternatives already exist, and both US licenses are cancelled, which limits practical availability." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-sulfadiazine-1 -->
+
 **To proceed, the following is needed:**
 - Direct clinical or comparative data for sulfadiazine in Pneumocystis pneumonia
 - Package insert warnings and contraindications (FDA label)
@@ -118,11 +128,31 @@ The mechanistic link (folate pathway inhibition, class-level precedent with trim
 - Assessment of current US availability
 - Safety review for the hematologic, renal and G6PD-related risks listed above
 
+<!-- review:begin us-lic-20261106-sulfadiazine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Assessment of current US availability, given that both licenses are cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-sulfadiazine-2 -->
+
 ---
 
 ### Note on the Second Predicted Indication
 
 The second prediction, **punctate epithelial keratoconjunctivitis** (TxGNN score 0.9936, evidence level L5), has no clinical trials or literature. This condition is often viral, so the antibacterial/antiprotozoal mechanism of sulfadiazine gives no clear rationale. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. **Decision: Hold.**
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and both US licenses are cancelled, which limits practical availability" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that both licenses are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ICOSAPENT ETHYL"
 predicted_indications: ["hemoglobinopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Icosapent Ethyl: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Hypertriglyceridemia"
 ---
 
@@ -74,6 +74,12 @@ Currently no related literature available.
 
 All 10 authorizations below are listed as valid. No approved indication text was available for any of them.
 
+<!-- review:begin us-lic-20261106-icosapent_ethyl-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Five further authorizations (ANDA216811, ANDA217656, ANDA217844, ANDA218899, ANDA217919) are also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 13 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-icosapent_ethyl-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
 | NDA202057 | Vascepa | Capsule | Bryant Ranch Prepack | Valid |
@@ -95,12 +101,39 @@ No drug-interaction records were found in the data compiled for this report.
 **Rationale:**
 The only support for this indication is a high TxGNN score, with no clinical trials or literature (evidence level L5). Mechanism of action and package-insert safety data are also missing, and the drug is currently marketed in the US.
 
+<!-- review:begin us-lic-20261106-icosapent_ethyl-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Mechanism of action and package-insert safety data are also missing, and the drug is currently marketed in the US with 10 valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 13 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-icosapent_ethyl-2 -->
+
 **To proceed, the following is needed:**
 - Retrieval and verification of the literature on omega-3 fatty acids / EPA in sickle cell disease and other hemoglobinopathies
 - Mechanism of action data (e.g., from DrugBank)
 - FDA package insert warnings and contraindications, to allow safety screening
 - Clarification of the current US market status, given that the drug is marketed
 - Assessment of which hemoglobinopathy subtypes are relevant, and of route and dosage-form compatibility
+
+<!-- review:begin us-lic-20261106-icosapent_ethyl-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current US market status, given that the drug is marketed with 10 valid authorizations" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 13 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-icosapent_ethyl-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Five further authorizations (ANDA216811, ANDA217656, ANDA217844, ANDA218899, ANDA217919) are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 10 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 10 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

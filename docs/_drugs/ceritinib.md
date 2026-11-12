@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 513
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ceritinib: predicted new indication fibromatosis, gingival (evidence level L5). Approved use: Non-small cell lung cancer (NSCLC)"
 monitor_inn: "CERITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "junctional epidermolysis bullosa"]
@@ -100,11 +100,30 @@ Label warnings and contraindications were not available in the compiled data. Pl
 **Rationale:**
 The prediction is supported only by a model score. The evidence level is L5.
 
+<!-- review:begin us-lic-20261031-ceritinib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "No clinical trials or literature address gingival fibromatosis, no mechanistic link to ceritinib's targets is known, and the only US license is cancelled. The evidence level is L5." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-ceritinib-1 -->
+
 **To proceed, the following is needed:**
 - A plausible mechanistic hypothesis linking ALK, ROS1 or IGF-1R signaling to gingival fibromatosis, supported by preclinical data
 - Mechanism-of-action data and FDA package insert warnings and contraindications (currently unavailable)
 - Clarification of the commercial and regulatory availability of ceritinib, given the cancelled NDA
 - A safety plan for a non-oncology population, since ceritinib is an oncology drug with notable toxicities and many drug interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "No clinical trials or literature address gingival fibromatosis, no mechanistic link to ceritinib's targets is known, and the only US license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

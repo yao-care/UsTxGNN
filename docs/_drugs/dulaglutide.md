@@ -48,9 +48,13 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA125469 | TRULICITY | ELI LILLY AND CO | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

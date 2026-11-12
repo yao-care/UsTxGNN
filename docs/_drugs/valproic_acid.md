@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1280
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "VALPROIC ACID"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Valproic Acid: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Not recorded in the local data"
@@ -89,6 +89,12 @@ Currently no related clinical trials are registered for the top predicted indica
 
 **Most relevant literature across the other predictions** (shown for context)
 
+<!-- review:begin us-lic-20261106-valproic_acid-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two further cancelled authorizations (ANDA070868, ANDA073229) are not listed. 7 authorizations are currently valid in the compiled data." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 23 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-valproic_acid-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [20200383](https://pubmed.ncbi.nlm.nih.gov/20200383/) | 2010 | RCT | N Engl J Med | Ethosuximide, valproic acid and lamotrigine compared in childhood absence epilepsy (supports the original indication; indirect for the predictions) |
@@ -104,6 +110,8 @@ Currently no related clinical trials are registered for the top predicted indica
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA073178 | VALPROIC ACID | ANI PHARMS | Syrup; oral | Valid |
@@ -113,6 +121,8 @@ Currently no related clinical trials are registered for the top predicted indica
 | ANDA075782 | VALPROIC ACID | CHARTWELL RX | Syrup; oral | Valid |
 
 Showing 5 of 39 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 
@@ -138,6 +148,12 @@ Please refer to the package insert for the full key warnings and contraindicatio
 **Rationale:**
 The top prediction, trigeminal nerve neoplasm, has no trials and no supporting literature. Its very high score (0.9997) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Valproic acid is currently marketed in the US, but label safety information is missing.
 
+<!-- review:begin us-lic-20261106-valproic_acid-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Valproic acid is currently marketed in the US, with 7 valid authorizations in the compiled data, but label safety information is missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 23 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-valproic_acid-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking for safety screening)
 - Mechanism of action data to support analysis of the mechanistic link
@@ -145,6 +161,27 @@ The top prediction, trigeminal nerve neoplasm, has no trials and no supporting l
 - Confirmation of current US marketing status
 - Consideration of startle epilepsy or trigeminal neuralgia as more evidence-supported alternatives, ideally with a controlled study
 - A safety plan addressing hepatotoxicity, pregnancy and women of childbearing potential, and the major and moderate interactions listed above
+
+<!-- review:begin us-lic-20261106-valproic_acid-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current US marketing status, since the compiled data lists 7 valid authorizations" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 23 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-valproic_acid-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Two further cancelled authorizations (ANDA070868, ANDA073229) are not listed. 7 authorizations are currently valid in the compiled data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 valid authorizations in the compiled data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since the compiled data lists 7 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

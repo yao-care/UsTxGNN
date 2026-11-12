@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -43,6 +43,12 @@ Evidence Level: **L5** | Predicted Indications: **0**
 This four-component OTC combination (analgesic + antitussive + expectorant + decongestant) is a classic cold and flu symptom-relief product widely used globally.
 The TxGNN model **did not generate any new indication predictions** for this combination — most likely because TxGNN operates on single molecular entities, and this multi-ingredient compound lacks a unified DrugBank ID.
 Due to the absence of predictions and safety records, **no repurposing evaluation can be completed at this stage**.
+
+<!-- review:begin us-lic-20261105-acetaminophen_dextromethorphan_hydrobromide_guaife-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Due to the absence of predictions, Taiwan regulatory data, and safety records, **no repurposing evaluation can be completed at this stage**." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-acetaminophen_dextromethorphan_hydrobromide_guaife-1 -->
 
 ---
 
@@ -92,6 +98,12 @@ Please refer to the package insert for safety information.
 **Rationale:**
 TxGNN cannot process multi-ingredient combinations without individual DrugBank node identifiers; zero predictions were generated, and safety records are absent, making a repurposing evaluation impossible at this stage.
 
+<!-- review:begin us-lic-20261105-acetaminophen_dextromethorphan_hydrobromide_guaife-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "TxGNN cannot process multi-ingredient combinations without individual DrugBank node identifiers; zero predictions were generated, and Taiwan regulatory and safety records are both absent, making a repurposing evaluation impossible at this stage." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-acetaminophen_dextromethorphan_hydrobromide_guaife-2 -->
+
 **To proceed, the following is needed:**
 
 - **Decompose the combination**: Run TxGNN separately for each of the four components using their individual DrugBank IDs:
@@ -102,6 +114,27 @@ TxGNN cannot process multi-ingredient combinations without individual DrugBank n
 - **Aggregate component-level predictions**: Identify diseases that appear in the top predictions for two or more components simultaneously, as these represent the most actionable combinatorial repurposing signals
 - **Obtain safety data**: Query DrugBank API per component to retrieve MOA, warnings, contraindications, and DDI profiles
 - **Determine regulatory pathway**: If a repurposing candidate is identified, clarify whether it requires a new NDA for the combination or whether individual component data is sufficient for bridging
+
+<!-- review:begin us-lic-20261105-acetaminophen_dextromethorphan_hydrobromide_guaife-3 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "**Retrieve Taiwan regulatory status per component**: Each ingredient may have individual TFDA licenses even if the fixed-dose combination does not / **Obtain safety data**: Query DrugBank API per component to retrieve MOA, warnings, contraindications, and DDI profiles" Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-acetaminophen_dextromethorphan_hydrobromide_guaife-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "Taiwan regulatory data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "Taiwan regulatory and both" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "**Retrieve Taiwan regulatory status per component**: Each ingredient may have individual TFDA licenses even if the fixed-dose combination do" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

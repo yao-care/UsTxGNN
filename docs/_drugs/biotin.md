@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "BIOTIN"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Biotin: predicted new indication Dyspepsia (evidence level L5). Approved use: Nutritional biotin deficiency"
 ---
 
@@ -78,6 +78,12 @@ Currently no related clinical trials registered.
 
 None of these studies tests biotin as a treatment for dyspepsia.
 
+<!-- review:begin us-lic-20261105-biotin-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All three authorizations are valid, and none lists an approved indication." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 15 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-biotin-2 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
@@ -99,11 +105,31 @@ No drug interaction records were found. Please refer to the package insert for f
 **Rationale:**
 The prediction has no clinical trials, no supporting literature, and no established mechanism, so it sits at evidence level L5.
 
+<!-- review:begin us-lic-20261031-biotin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction has no clinical trials, no supporting literature, and no established mechanism, so it sits at evidence level L5. The US market status shows only cancelled authorizations, and safety review cannot proceed without label data." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 15 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-biotin-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data (for example from DrugBank)
 - Evidence on whether dyspepsia symptoms respond to biotin, such as in patients with documented deficiency
 - Review of the kidney, calcium, and bone-related safety associations listed above
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The US market status shows only cancelled authorizations, and safety review cannot proceed without label data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "All three authorizations are valid, and none lists an approved indication" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

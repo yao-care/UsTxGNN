@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 690
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "EZETIMIBE"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
 description: "Ezetimibe: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Not recorded in the local data"
@@ -125,12 +125,31 @@ Please refer to the package insert for key warnings and contraindication text.
 **Rationale:**
 Hyperlipoproteinemia substantially overlaps with ezetimibe's existing indications, and the supporting Phase 3/4 trials mostly use ezetimibe as background or comparator therapy. There is no new repurposing decision to advance.
 
+<!-- review:begin us-lic-20261106-ezetimibe-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There is no new repurposing decision to advance, and the current US market status ("Cancelled only") needs verification." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 31 FDA applications or NDC listings for this drug, 18 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ezetimibe-1 -->
+
 **To proceed, the following is needed:**
 - Verify the current US marketing and availability status of ezetimibe products
 - Obtain the FDA package insert (warnings, contraindications and approved indication text), which is currently missing and blocks the safety screening
 - Obtain detailed mechanism of action data (e.g., from DrugBank)
 - Clarify whether hyperlipoproteinemia represents a genuinely distinct population from the approved indications
 - For the lower-ranked predictions (CYP7A1 deficiency, CETP deficiency), no further development is supported by current evidence; they remain research questions at most
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the current US market status ("Cancelled only") needs verification" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

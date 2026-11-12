@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1107
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "RAMIPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
 description: "Ramipril: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L5). Approved use: Not recorded in the local data"
@@ -70,6 +70,12 @@ Currently no related clinical trials registered.
 
 Only the first paper below addresses ramipril in a hypoxic pulmonary setting. The others are indirect, preclinical or mechanistic, and several are off-topic.
 
+<!-- review:begin us-lic-20261105-ramipril-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All six licences are valid, and no approved-indication text is recorded for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 20 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-ramipril-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [9200213](https://pubmed.ncbi.nlm.nih.gov/9200213/) | 1996 | Preclinical (rat) | Physiological Research | Ramipril (10 mg/kg daily) during 3 weeks of chronic hypoxia attenuated the effects of hypoxia on pulmonary blood vessels and lowered baseline perfusion pressure |
@@ -83,6 +89,8 @@ Only the first paper below addresses ramipril in a hypoxic pulmonary setting. Th
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA076549 | RAMIPRIL | WATSON LABS | Capsule; oral | Valid |
@@ -92,6 +100,8 @@ Only the first paper below addresses ramipril in a hypoxic pulmonary setting. Th
 | ANDA078745 | RAMIPRIL | CHARTWELL MOLECULAR | Capsule; oral | Valid |
 
 Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -105,12 +115,39 @@ Showing 5 of 20 entries (FDA applications first, active before discontinued; NDC
 **Rationale:**
 The TxGNN score is very high (0.9993), but the support is limited to a single 1996 animal study. There are no clinical trials, no ramipril-specific human evidence in pulmonary hypertension, and the drug is marketed. Ramipril is also not an established therapy in this disease.
 
+<!-- review:begin us-lic-20261106-ramipril-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials, no ramipril-specific human evidence in pulmonary hypertension, and the drug is marketed with 6 valid licences." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 20 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ramipril-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism-of-action data and package-insert warnings and contraindications (both currently missing)
 - Confirmation of the original approved indications, since US licence records contain no indication text
 - Replication of the preclinical hypoxic pulmonary hypertension findings in modern animal models
 - Review of the safety of ACE inhibition in patients with pulmonary hypertension, including blood pressure and renal effects
 - Assessment of whether a pulmonary vascular indication is feasible given the current market status
+
+<!-- review:begin us-lic-20261106-ramipril-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Assessment of whether a pulmonary vascular indication is feasible given the current market status (marketed, 6 valid licences)" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 20 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ramipril-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All six licences are valid, and no approved-indication text is recorded for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 6 valid licences" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(marketed, 6 valid licences)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1185
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "SULFACETAMIDE"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis", "exposure keratitis", "parasitic eyelid infestation"]
 description: "Sulfacetamide: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -84,6 +84,12 @@ Currently no related literature available for postinfectious vasculitis.
 
 For other predicted indications, two papers were retrieved. Neither supports efficacy:
 
+<!-- review:begin us-lic-20261105-sulfacetamide-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All four US licenses are valid, and none has approved indication text on record." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 55 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-sulfacetamide-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [3157322](https://pubmed.ncbi.nlm.nih.gov/3157322/) | 1985 | Case report (adverse event) | American Journal of Ophthalmology | An 8-year-old boy developed erythema multiforme major after topical sulfacetamide for conjunctivitis. This is a hypersensitivity safety signal, not efficacy evidence (linked to exposure keratitis) |
@@ -119,6 +125,26 @@ The prediction for postinfectious vasculitis has no clinical trials or literatur
 - A more testable hypothesis. Of the predicted indications, otitis externa is the most plausible, though it would need comparison against existing topical agents.
 - Evidence that links sulfacetamide to vasculitis or other immune-mediated post-infectious conditions, or a decision to deprioritise this prediction
 - Review of available formulations if development is pursued
+
+<!-- review:begin us-lic-20261106-sulfacetamide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Review of the cancelled license status and available formulations if development is pursued" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 55 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-sulfacetamide-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All four US licenses are valid, and none has approved indication text on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled license status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

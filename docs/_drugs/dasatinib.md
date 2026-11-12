@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 573
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dasatinib: predicted new indication Ewing sarcoma (evidence level L2). Approved use: Chronic myelogenous leukemia…"
 monitor_inn: "DASATINIB"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
@@ -86,6 +86,12 @@ Clinical support is weak, however. A review notes that in the Phase 2 study in a
 
 The drug is marketed in this country, and all eight licenses are listed as valid in the data compiled for this report. Approved indication text was not available.
 
+<!-- review:begin us-lic-20261106-dasatinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Three more ANDAs (AvKARE, Aurobindo, Zydus) are also listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 13 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dasatinib-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021986 | SPRYCEL (E.R. Squibb & Sons) | Tablet | Not available |
@@ -127,7 +133,27 @@ The preclinical rationale (SRC dependence of Ewing sarcoma) is plausible, but th
 - Official package insert warnings and contraindications, together with the mechanism of action data
 - A cardiac, pleural and hematologic safety monitoring plan, plus a review of acid-suppressant interactions
 
+<!-- review:begin us-lic-20261106-dasatinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A cardiac, pleural and hematologic safety monitoring plan, plus a review of acid-suppressant interactions / Clarification of the cancelled US market status, to confirm product availability" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 13 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dasatinib-2 -->
+
 *Other predictions (for context):* Myeloid leukemia (rank 2) has the strongest evidence (L1), but dasatinib is already approved for BCR-ABL1-positive CML, so this is largely an existing indication rather than repurposing. A Phase 3 trial in core-binding factor AML (PMID 41490515) suggests a possible subset-specific signal. Liposarcoma and dermatofibrosarcoma protuberans have only preclinical or review support, and the remaining predictions have no supporting evidence.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Three more ANDAs (AvKARE, Aurobindo, Zydus) are also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Clarification of the cancelled US market status, to confirm product availability" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

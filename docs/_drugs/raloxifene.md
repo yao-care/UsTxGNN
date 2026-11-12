@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Raloxifene"
 predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Raloxifene: predicted new indication duodenal ulcer (evidence level L5). Approved use: Postmenopausal osteoporosis / osteoporosis"
 ---
 
@@ -75,6 +75,12 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261106-raloxifene-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two further cancelled ANDAs (ANDA211324 and ANDA206384) are not shown. All 7 records are oral dosage forms and all are cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-raloxifene-1 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
@@ -99,6 +105,12 @@ Please refer to the package insert for full warnings and contraindications, as l
 **Rationale:**
 The prediction has no supporting clinical trials, literature, or mechanistic rationale (Evidence Level L5). The drug is marketed in the US. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The signals do not justify moving forward.
 
+<!-- review:begin us-lic-20261106-raloxifene-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 7 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-raloxifene-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible biological link between estrogen receptor modulation and duodenal ulcer pathophysiology
 - Preclinical or observational evidence in duodenal ulcer or related gastric mucosal models
@@ -106,6 +118,27 @@ The prediction has no supporting clinical trials, literature, or mechanistic rat
 - Severity grading for drug interactions, especially with agents commonly used in peptic ulcer disease (PPIs, sucralfate)
 - Clarification of regulatory status for the new indication, since the drug is marketed in the US, and a review of the route and dosing needed for the new indication
 - A benefit-risk assessment in a population different from postmenopausal women, given the thromboembolic risk signals
+
+<!-- review:begin us-lic-20261106-raloxifene-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of regulatory status for the new indication, since the drug is marketed in the US with 7 valid licenses, and a review of the route and dosing needed for the new indication" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-raloxifene-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Two further cancelled ANDAs (ANDA211324 and ANDA206384) are not shown. All 7 records are oral dosage forms and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

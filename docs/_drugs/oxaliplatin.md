@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "OXALIPLATIN"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Oxaliplatin: predicted new indication Malignant pleural mesothelioma (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -89,6 +89,12 @@ Two related predictions (epithelioid and sarcomatoid mesothelioma) and a viscera
 
 Approved indication text is not available in the license records.
 
+<!-- review:begin us-lic-20261106-oxaliplatin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 9 US licenses are ANDA generic applications, and all are cancelled. Approved indication text is not available in the license records." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 31 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-oxaliplatin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | ANDA207325 | Oxaliplatin | Injection, solution | Gland Pharma Limited |
@@ -121,12 +127,32 @@ Please refer to the package insert for official warnings and contraindications.
 **Rationale:**
 Several Phase 2 studies show oxaliplatin-based combinations have some activity in pleural mesothelioma, but they are small and non-randomized. One second-line study found no objective responses. No Phase 3 trial shows an advantage over standard cisplatin/pemetrexed. Also, only some US oxaliplatin licenses are valid, which complicates any near-term development path.
 
+<!-- review:begin us-lic-20261106-oxaliplatin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Also, only some US oxaliplatin licenses are valid (9 valid licenses are currently marketed), which complicates any near-term development path." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 31 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-oxaliplatin-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are currently missing and block safety screening
 - Detailed mechanism of action data
 - Results from the completed Phase 2 trial (NCT00859469) and a comparison against cisplatin/pemetrexed, ideally in a randomized trial
 - Clarification of current US regulatory status and the availability of marketed oxaliplatin products
 - Subtype-specific data (epithelioid vs. sarcomatoid) before pursuing the related predictions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 9 US licenses are ANDA generic applications, and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(9 valid licenses are currently marketed)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

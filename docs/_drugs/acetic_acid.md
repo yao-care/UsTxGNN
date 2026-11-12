@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ACETIC ACID"
 predicted_indications: ["post-bacterial disorder", "postinfectious vasculitis", "post-infectious syndrome", "Chagas cardiomyopathy", "infective urethral stricture", "infection-related hemolytic uremic syndrome", "drug-induced osteoporosis", "pityriasis simplex", "tinea corporis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Acetic Acid: predicted new indication post-bacterial disorder (evidence level L5). Approved use: Otitis externa"
 ---
 
@@ -90,6 +90,12 @@ For post-infectious syndrome, the only publication is [20848144](https://pubmed.
 
 The data compiled for this report contains no approved indication text for any of them.
 
+<!-- review:begin us-lic-20261105-acetic_acid-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All six authorizations are valid and the drug is currently marketed. The data compiled for this report contains no approved indication text for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 24 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-acetic_acid-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
 | ANDA040166 | Acetic Acid | Solution | Chartwell RX, LLC | ANDA (Discontinued in Drugs@FDA) |
@@ -99,6 +105,12 @@ The data compiled for this report contains no approved indication text for any o
 | NDA018523 | Acetic Acid | Irrigant | Baxter Healthcare Corporation | Valid |
 
 A sixth entry (Aceticum acidum, pellet, Boiron) has no authorization number.
+
+<!-- review:begin us-lic-20261106-acetic_acid-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A sixth entry (Aceticum acidum, pellet, Boiron) has no authorization number and is also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 24 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-acetic_acid-3 -->
 
 ## Safety Considerations
 
@@ -115,6 +127,12 @@ Please refer to the package insert for warnings and other safety information, as
 **Rationale:**
 All predictions are supported only by model scores. Tinea corporis has the best indirect support (L4: historical reports and in vitro data, with plausible acidification-based antifungal activity), but it has no registered trials and no modern controlled studies. Tinea corporis may be pursued as a research question; the other predictions should not be pursued without new evidence.
 
+<!-- review:begin us-lic-20261105-acetic_acid-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All six US authorizations are valid, but label-based safety data are missing. Tinea corporis may be pursued as a research question; the other predictions should not be pursued without new evidence." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 24 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-acetic_acid-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
@@ -122,6 +140,21 @@ All predictions are supported only by model scores. Tinea corporis has the best 
 - Formulation, concentration and skin-tolerability data, given the burn risk with acid-based remedies
 - Route and formulation compatibility assessment (currently pending)
 - Comparison with existing standard topical antifungals to determine whether any unmet need exists
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All six authorizations are valid and the drug is currently marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "All six US authorizations are valid, but label-based safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

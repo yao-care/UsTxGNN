@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "MEPIVACAINE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Mepivacaine: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -83,6 +83,12 @@ For the second predicted indication, peptic ulcer disease, one publication was r
 
 One further license (ANDA089408, Polocaine-MPF, Fresenius Kabi USA) is also valid.
 
+<!-- review:begin us-lic-20261105-mepivacaine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "One further license (ANDA089408, Polocaine-MPF, Fresenius Kabi USA) is also valid. All six licenses are valid, so there is currently valid US authorization in these records." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 21 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-mepivacaine-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: 11 interactions were identified. Ten are Moderate and one is Minor. Most involve other local anesthetics, which suggests additive effects.
@@ -105,6 +111,26 @@ The prediction rests only on a computational score, with no clinical trials and 
 - A literature and trial search specific to mepivacaine in gastroduodenitis and peptic ulcer disease
 - A clear mechanistic rationale and route compatibility assessment (injectable form versus the GI target)
 - Review of the regulatory status
+
+<!-- review:begin us-lic-20261105-mepivacaine-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Review of the regulatory status, given that all six licenses are valid and the drug is marketed" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 21 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-mepivacaine-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All six licenses are valid, so there is currently valid US authorization in these records" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "given that all six licenses are valid and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "DIPYRIDAMOLE"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cavernous sinus thrombosis", "lateral sinus thrombosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dipyridamole: predicted new indication Sick sinus syndrome 2, autosomal dominant (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -72,6 +72,12 @@ Currently no related literature available.
 
 The data compiled for this report lists at least 8 licences, and this list may be partial.
 
+<!-- review:begin us-lic-20261105-dipyridamole-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The data compiled for this report lists at least 8 licences, and this list may be partial. All 8 listed licences are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 38 FDA applications or NDC listings for this drug, 17 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-dipyridamole-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | ANDA040874 | Dipyridamole | Tablet, film coated | Zydus Pharmaceuticals USA |
@@ -102,6 +108,18 @@ The prediction has a high model score but no supporting clinical trials or publi
 - Detailed mechanism of action data
 - Preclinical or clinical evidence that directly studies this condition
 - An assessment of whether adenosine-mediated effects would help or harm sinus node function
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 8 listed licences are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

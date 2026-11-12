@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Selpercatinib"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Selpercatinib: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not specified in the approval records compiled for this report (the a…"
 ---
 
@@ -108,12 +108,38 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials and no relevant literature, and the mechanistic link to pulmonary hypertension is speculative. Package insert safety data are missing.
 
+<!-- review:begin us-lic-20261106-selpercatinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both US NDAs are cancelled, and package insert safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-selpercatinib-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, and a mechanistic rationale for RET inhibition in pulmonary vascular disease
 - Preclinical studies in pulmonary hypertension models
 - Package insert warnings and contraindications, in particular any pulmonary vascular or cardiovascular toxicity
 - Clarification of the original approved indications
 - A review of the drug interaction burden for the intended patient population
+
+<!-- review:begin us-lic-20261106-selpercatinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the original approved indications and the reasons for the NDA cancellations" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-selpercatinib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both US NDAs are cancelled, and p" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and the reasons for the NDA cancellations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

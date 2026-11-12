@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "EMICIZUMAB"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "thrombotic thrombocytopenic purpura", "fetal and neonatal alloimmune thrombocytopenia", "flood factor deficiency"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Emicizumab: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -139,6 +139,12 @@ All the following have no clinical trials, and their mechanistic rationale is we
 **Rationale:**
 Several prospective open-label studies (Japanese phase III, GTH-AHA-EMI, AGEHA) and real-world cohorts support emicizumab prophylaxis in acquired hemophilia A, and the mechanism fits the disease. However, no randomized phase 3 evidence exists.
 
+<!-- review:begin us-lic-20261106-emicizumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, no randomized phase 3 evidence exists, and the US license is recorded as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-emicizumab-1 -->
+
 **To proceed, the following is needed:**
 - Verify the regulatory and access status of the US license (BLA761083)
 - Obtain the package insert warnings and contraindications (currently a blocking data gap) and detailed mechanism-of-action data
@@ -146,6 +152,26 @@ Several prospective open-label studies (Japanese phase III, GTH-AHA-EMI, AGEHA) 
 - Establish a thrombosis and thrombotic microangiopathy risk plan, particularly avoiding concurrent aPCC
 - Clarify the role of immunosuppression to eradicate the autoantibody alongside emicizumab
 - Curate the ambiguous "flood factor deficiency" entry before any further evaluation
+
+<!-- review:begin us-lic-20261106-emicizumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Verify the regulatory and access status of the US license (BLA761083), which is listed as cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-emicizumab-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the US license is recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "which is listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

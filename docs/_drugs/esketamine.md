@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ESKETAMINE"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Esketamine: predicted new indication Agoraphobia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -74,9 +74,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA211243 | SPRAVATO | JANSSEN PHARMS | Spray; nasal | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -92,12 +96,38 @@ Please refer to the package insert for warnings and contraindications, as label-
 **Rationale:**
 The prediction rests only on a model score, with no registered trials or publications. Label safety data and mechanism data are missing. The knowledge-graph contraindication with vascular disease and the many major interactions with stimulant-type drugs also call for caution.
 
+<!-- review:begin us-lic-20261106-esketamine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US license is cancelled, and label safety data and mechanism data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-esketamine-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Confirmed mechanism-of-action data (e.g., from DrugBank)
 - A literature and trial search specific to esketamine in agoraphobia and panic-related disorders
 - Clarification of the approved indication
 - Assessment of route compatibility, which is still pending
+
+<!-- review:begin us-lic-20261106-esketamine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US license status and the approved indication" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-esketamine-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US license is cancelled, and l" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled US license status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

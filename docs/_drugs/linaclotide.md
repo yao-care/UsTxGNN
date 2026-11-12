@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "LINACLOTIDE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "insomnia (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Linaclotide: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -76,12 +76,16 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA211255 | LINACLOTIDE | ACTAVIS LABS FL | Capsule; oral | Valid |
 | NDA202811 | LINZESS | ABBVIE | Capsule; oral | Valid |
 | ANDA209564 | LINACLOTIDE | MYLAN | Capsule; oral | Discontinued in Drugs@FDA |
 | ANDA209611 | LINACLOTIDE | AUROBINDO PHARMA | Capsule; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -103,11 +107,37 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction has no clinical trials or publications behind it, and no credible mechanistic link to cauda equina syndrome. A high model score alone is not enough to justify moving forward.
 
+<!-- review:begin us-lic-20261106-linaclotide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The marketed US product is also listed as cancelled. A high model score alone is not enough to justify moving forward." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 4 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-linaclotide-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are required before any safety screening
 - Detailed mechanism of action data
 - Preclinical or clinical evidence supporting any benefit in cauda equina syndrome, or in neurogenic bowel dysfunction as a symptom-level target
 - Clarification of the current US regulatory status of linaclotide
+
+<!-- review:begin us-lic-20261106-linaclotide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current US regulatory status of linaclotide, since the listed NDA is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 4 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-linaclotide-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The marketed US product is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since the listed NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

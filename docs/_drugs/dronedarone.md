@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "DRONEDARONE"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dronedarone: predicted new indication Stroke disorder (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -86,10 +86,14 @@ The table lists the most relevant publications, prioritizing randomized trials a
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA022425 | MULTAQ | SANOFI AVENTIS US | Tablet; oral | Valid |
 | ANDA205904 | DRONEDARONE HYDROCHLORIDE | LUPIN | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -110,12 +114,38 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The stroke prediction has a high model score, but support is indirect. It rests on post hoc and secondary analyses, reviews and a preclinical study, with no dedicated stroke-prevention trial. Conflicting safety signals from PALLAS, and missing label safety data add to the uncertainty. Evidence level is L4. The other nine predictions have no supporting evidence and should not be pursued.
 
+<!-- review:begin us-lic-20261106-dronedarone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Conflicting safety signals from PALLAS, a cancelled US NDA, and missing label safety data add to the uncertainty." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dronedarone-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Clarification of the current market status
 - A dedicated stroke-endpoint study, or a prespecified analysis, restricted to paroxysmal or persistent AF
 - A plan for managing interactions with anticoagulants and QT-prolonging drugs, and exclusion of permanent AF and heart failure populations
+
+<!-- review:begin us-lic-20261106-dronedarone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the US NDA is cancelled and the current market status" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dronedarone-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "a cancelled US NDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "why the US NDA is cancelled and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

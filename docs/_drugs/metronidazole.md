@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 921
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Metronidazole: predicted new indication Pneumocystosis (evidence level L5). Approved use: Anaerobic bacterial infections (e.g., peritonitis, endocarditis…"
 monitor_inn: "METRONIDAZOLE"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
@@ -95,6 +95,12 @@ None of these papers reports metronidazole as a treatment for pneumocystosis.
 
 The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-metronidazole-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 15 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 98 FDA applications or NDC listings for this drug, 53 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-metronidazole-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA076408 | Metronidazole (Fougera) | Cream | Not available |
@@ -109,6 +115,12 @@ The drug is marketed in the US.
 
 - **Contraindication-related conditions (knowledge graph, not label text)**: liver failure and liver disease, epilepsy, kidney disease, hematologic disease (neutropenia, agranulocytosis, leukopenia, blood coagulation disease), peripheral neuropathy and other nervous system diseases, brain disease, optic nerve disease, congestive heart failure, diabetes mellitus and diabetic ketoacidosis, gout, gallbladder disease, dermatitis, substance abuse/dependence, and others.
 - **Drug Interactions**: 100 interactions were found. The most significant is **ethanol (Major)**. Moderate interactions include paclitaxel, adalimumab, trastuzumab emtansine, ethinylestradiol, estradiol, butalbital, amiodarone, celecoxib, amobarbital and loperamide.
+
+<!-- review:begin us-lic-20261106-metronidazole-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "These are 5 of 15 licenses (the others include oral capsules, gels and injectable solutions)." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 98 FDA applications or NDC listings for this drug, 53 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-metronidazole-1 -->
 
 Please refer to the package insert for the full warnings and contraindications.
 
@@ -131,6 +143,27 @@ The prediction rests on model score alone: there are no clinical trials, no supp
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Clarification of the current US regulatory status, since the drug is marketed
 - Any prospective clinical data before further consideration
+
+<!-- review:begin us-lic-20261106-metronidazole-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current US regulatory status, since the drug is marketed with 15 valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 98 FDA applications or NDC listings for this drug, 53 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-metronidazole-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "These are 5 of 15 licenses (the others include oral capsules, gels and injectable solutions)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 15 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 15 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

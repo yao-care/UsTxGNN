@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CALASPARGASE PEGOL"
 predicted_indications: ["insomnia (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Calaspargase Pegol: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not listed in the available regulatory data"
 ---
 
@@ -105,10 +105,36 @@ Package insert warnings and contraindications are not available in the data comp
 **Rationale:**
 All four predictions rest on model scores alone (L5), with no trials or literature. The insomnia prediction has no plausible mechanism, and the three coagulation-related predictions point in the opposite direction from a therapeutic effect, because the drug is known to worsen these conditions.
 
+<!-- review:begin us-lic-20261031-calaspargase_pegol-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The insomnia prediction has no plausible mechanism, and the three coagulation-related predictions point in the opposite direction from a therapeutic effect, because the drug is known to worsen these conditions. The only US license is cancelled, and the label safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-calaspargase_pegol-1 -->
+
 **To proceed, the following is needed:**
 - Obtain the FDA package insert (warnings, contraindications, and the approved indication)
 - Obtain mechanism of action data from DrugBank
 - Provide a biological rationale for any proposed new indication before further evaluation
+
+<!-- review:begin us-lic-20261031-calaspargase_pegol-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Provide a biological rationale for any proposed new indication before further evaluation / Confirm the current regulatory and supply status, since the only license is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-calaspargase_pegol-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, and the label safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Confirm the current regulatory and supply status, since the only license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

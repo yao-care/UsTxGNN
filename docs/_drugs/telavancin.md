@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "TELAVANCIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "septicemic plague", "premalignant hematological system disease", "hematological disease associated with an acquired peripheral neuropathy", "monoclonal gammopathy", "congenital hematological disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Telavancin: predicted new indication Hyperamylasemia (evidence level L5). Approved use: Bacterial pneumonia"
 ---
 
@@ -111,11 +111,30 @@ Please refer to the package insert for label warnings and contraindications.
 **Rationale:**
 - The prediction rests on model score alone (L5), with no clinical trials or literature. Hyperamylasemia is a laboratory finding rather than a treatable disease, and no mechanistic link to telavancin exists. The drug's nephrotoxicity and QT-prolongation risks add to the unfavorable risk-benefit picture.
 
+<!-- review:begin us-lic-20261106-telavancin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug's nephrotoxicity and QT-prolongation risks add to the unfavorable risk-benefit picture. The US license is also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-telavancin-1 -->
+
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA)
 - FDA package insert warnings and contraindications
 - Any preclinical or clinical evidence linking telavancin to hyperamylasemia (none currently exists)
 - If pursuing the only anti-infective candidate (septicemic plague): in vitro and in vivo activity data against *Yersinia pestis*, and a comparison against current standard-of-care agents
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US license is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

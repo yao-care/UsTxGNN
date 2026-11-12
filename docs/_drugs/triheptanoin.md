@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TRIHEPTANOIN"
 predicted_indications: ["tetanic cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "craniostenosis cataract", "immature cataract", "diabetic cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "antithrombin deficiency type 2"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Triheptanoin: predicted new indication Tetanic cataract (evidence level L5). Approved use: Not available"
 ---
 
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA213687 | DOJOLVI | ULTRAGENYX PHARM INC | Liquid; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -89,12 +93,31 @@ Please refer to the package insert for warnings and contraindications, which are
 **Rationale:**
 The prediction for tetanic cataract is supported only by a model score, with no clinical trials, literature or plausible mechanism. The key safety labeling is missing. The evidence level is L5.
 
+<!-- review:begin us-lic-20261106-triheptanoin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US license is also cancelled, and the key safety labeling is missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-triheptanoin-1 -->
+
 **To proceed, the following is needed:**
 - The FDA package insert (warnings, contraindications and approved indication), which is a blocking gap for safety screening
 - Mechanism of action data from DrugBank
 - Preclinical or mechanistic evidence linking anaplerotic metabolism to lens physiology or calcium-related cataract
 - Route and formulation feasibility for an ocular or systemic indication, which has not been assessed
 - Review of the other top-ranked predictions, since their scores are essentially identical and none has supporting evidence
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he US license is also cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

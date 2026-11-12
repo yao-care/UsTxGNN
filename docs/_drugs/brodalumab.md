@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BRODALUMAB"
 predicted_indications: ["strongyloidiasis", "eye disease", "vitamin deficiency disorder", "von Hippel anomaly", "isolated optic neuritis", "optic perineuritis", "chronic relapsing inflammatory optic neuropathy", "recurrent idiopathic neuroretinitis", "episcleritis periodica fugax", "nodular episcleritis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Brodalumab: predicted new indication Strongyloidiasis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -109,6 +109,12 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction rests only on a model score. There are no clinical trials or literature, and the mechanism argues against benefit: IL-17 blockade could weaken anti-helminth defence and increase the risk of hyperinfection. The original indication and mechanism data are missing.
 
+<!-- review:begin us-lic-20261106-brodalumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US license is cancelled, and the original indication and mechanism data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-brodalumab-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
@@ -116,6 +122,19 @@ The prediction rests only on a model score. There are no clinical trials or lite
 - A clear immunological rationale for IL-17RA blockade in strongyloidiasis, supported by preclinical data
 - A review of the paradoxical inflammatory and ocular safety signals
 - Consideration of other candidates from the prediction list that have a more plausible mechanism, such as immune-mediated ocular inflammation, once narrowed to a specific disease
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he US license is cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

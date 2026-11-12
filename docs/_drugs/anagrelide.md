@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 2
 monitor_inn: "ANAGRELIDE"
 predicted_indications: ["reactive thrombocytosis", "inverse Klippel-Trenaunay syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Anagrelide: predicted new indication Reactive thrombocytosis (evidence level L4). Approved use: Thrombocythemia"
 ---
 
@@ -89,6 +89,14 @@ The publications below are mostly reviews that discuss reactive thrombocytosis a
 
 The data compiled for this report does not include approved indication text. The product is an oral capsule.
 
+<!-- review:begin us-lic-20261105-anagrelide-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All four authorizations are valid. The data compiled for this report does not include approved indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 10 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-anagrelide-1 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA076468 | ANAGRELIDE HYDROCHLORIDE | CIPLA | Capsule; oral | Valid |
@@ -98,6 +106,8 @@ The data compiled for this report does not include approved indication text. The
 | NDA020333 | AGRYLIN | TAKEDA PHARMS USA | Capsule; oral | Valid |
 
 Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -115,12 +125,32 @@ The Major interactions appear to be mainly QT-prolongation-related combinations,
 **Rationale:**
 The prediction rests on a model score and general pharmacology, with no registered trials and no controlled studies in reactive thrombocytosis. Reactive thrombocytosis is usually self-limited with low thrombotic risk, so cytoreductive therapy is generally not indicated. The drug's cardiovascular and other safety signals, add further caution.
 
+<!-- review:begin us-lic-20261106-anagrelide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug's cardiovascular and other safety signals, and the cancellation of all US licenses, add further caution." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-anagrelide-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (for example from DrugBank)
 - Clinical evidence that a defined subgroup of reactive thrombocytosis (for example, persistent extreme thrombocytosis with thrombotic or bleeding complications) would benefit from platelet-lowering therapy
 - A benefit-risk assessment against the cardiovascular warnings, given the low baseline risk in reactive thrombocytosis
 - Clarification of the current US regulatory and supply status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All four authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "nd the cancellation of all US licenses, a" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

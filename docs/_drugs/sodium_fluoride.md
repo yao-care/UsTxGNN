@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "SODIUM FLUORIDE"
 predicted_indications: ["epiglottitis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "laryngitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Sodium Fluoride: predicted new indication Epiglottitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -71,6 +71,12 @@ Currently no related literature available for epiglottitis.
 
 For the closely related prediction, laryngitis (rank 7), four papers were retrieved. None supports a therapeutic role, because they are keyword matches:
 
+<!-- review:begin us-lic-20261105-sodium_fluoride-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All three US authorizations in the data are valid, and none carries approved indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 1 FDA application or NDC listing for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-sodium_fluoride-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [29245332](https://pubmed.ncbi.nlm.nih.gov/29245332/) | 2017 | Case report | Medicine | Elevated 18F-NaF uptake in the cricoid cartilage of a patient with laryngeal carcinoma (diagnostic imaging, not treatment) |
@@ -101,11 +107,31 @@ Please refer to the package insert for authoritative safety information.
 **Rationale:**
 The prediction rests only on a model score, with no clinical trials or relevant publications (Evidence Level L5). No plausible mechanism links sodium fluoride to epiglottitis, which is already managed with established antibiotic therapy.
 
+<!-- review:begin us-lic-20261105-sodium_fluoride-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "No plausible mechanism links sodium fluoride to epiglottitis, which is already managed with established antibiotic therapy. The drug is marketed, with 3 valid US authorizations, and the safety package is incomplete." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 1 FDA application or NDC listing for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-sodium_fluoride-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - Any preclinical evidence of antibacterial or anti-inflammatory activity relevant to epiglottitis
 - An assessment of route compatibility, since current products are dental or topical, while epiglottitis is an acute airway infection
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All three US authorizations in the data are valid, and none carries approved indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "The drug is marketed, with 3 valid US authorizations, and the safety package is incomplete" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

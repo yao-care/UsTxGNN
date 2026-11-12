@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "ORPHENADRINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "myopia 26, X-linked, female-limited"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Orphenadrine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -93,6 +93,12 @@ All of these concern side-effect management or pharmacology, not treatment of sc
 
 No approved indication text is available.
 
+<!-- review:begin us-lic-20261106-orphenadrine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All five US authorisations are generic applications (ANDAs) and all are cancelled. No approved indication text is available." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 21 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-orphenadrine-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA090585 | Orphenadrine Citrate (Sagent Pharmaceuticals) | Injection, solution | Not available (valid) |
@@ -120,11 +126,31 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The top-ranked prediction, retinal dystrophy, has a high model score but no clinical trials, no literature and no identifiable mechanistic link, so it is most likely a TxGNN model (deep learning) artifact. The same is true of the other genetic and developmental predictions. Schizophrenia is the only prediction with literature, but that evidence covers side-effect management rather than disease treatment, and it warrants only a research question.
 
+<!-- review:begin us-lic-20261105-orphenadrine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Schizophrenia is the only prediction with literature, but that evidence covers side-effect management rather than disease treatment, and it warrants only a research question. In addition, the drug is marketed, with all 5 licences valid, and safety label data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 21 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-orphenadrine-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank
 - A defined mechanistic hypothesis and preclinical evidence for any genetic or ocular indication before further investment
 - For schizophrenia, evidence that orphenadrine affects the core disease and not only extrapyramidal side effects, weighed against the risks of cognitive worsening and tardive dyskinesia
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "In addition, the drug is marketed, with all 5 licences valid, and safety label data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "All five US authorisations are generic applications (ANDAs) and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

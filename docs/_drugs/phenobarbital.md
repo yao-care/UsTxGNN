@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1037
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PHENOBARBITAL"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 description: "Phenobarbital: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Not recorded in the local data"
@@ -107,6 +107,12 @@ No literature was found for orgasm-induced seizures or beta-ketothiolase deficie
 
 Phenobarbital is also recorded in oral tablet, injection and solution forms.
 
+<!-- review:begin us-lic-20261106-phenobarbital-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Phenobarbital is also recorded in oral tablet, injection and solution forms. The only US license in the compiled data is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-phenobarbital-1 -->
+
 ---
 
 ## Safety Considerations
@@ -141,12 +147,32 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Rationale:**
 The top prediction, trigeminal nerve neoplasm, has no clinical trials, no relevant literature and no plausible mechanism (Evidence Level L5). The score looks like a TxGNN model (deep learning) artifact. Among the other predictions, the seizure-related ones have plausible mechanisms but only indirect evidence (L4), and trigeminal neuralgia is better served by established agents such as carbamazepine. The safety profile is substantial (many contraindications, strong CYP induction, neurodevelopmental concerns).
 
+<!-- review:begin us-lic-20261106-phenobarbital-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US licence is cancelled and the safety profile is substantial (many contraindications, strong CYP induction, neurodevelopmental concerns)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-phenobarbital-2 -->
+
 **To proceed, the following is needed:**
 - Re-prioritise away from trigeminal nerve neoplasm. Consider the seizure-related and trigeminal neuralgia predictions as research questions instead.
 - Retrieve the FDA package insert warnings and contraindications (currently a blocking gap).
 - Obtain detailed mechanism of action data from DrugBank.
 - Search for direct human evidence on reflex seizure syndromes, and for comparative data against first-line agents in trigeminal neuralgia.
 - Assess neurodevelopmental, hepatic and drug interaction risks for any target population.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The only US license in the compiled data is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "he US licence is cancelled and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

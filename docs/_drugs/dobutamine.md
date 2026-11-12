@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DOBUTAMINE"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "Raynaud disease", "primary hereditary glaucoma", "headache disorder", "hypertrichosis (disease)", "migraine disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dobutamine: predicted new indication Alopecia (evidence level L5). Approved use: Not available in the data compiled for this report (the drug is gener…"
 ---
 
@@ -83,6 +83,12 @@ Literature retrieved for lower-ranked predictions is also indirect:
 - **Raynaud disease:** a dobutamine stress echocardiography study of restenosis ([10916654](https://pubmed.ncbi.nlm.nih.gov/10916654/)) and an anti-RNP endothelial dysfunction study in lupus ([42373135](https://pubmed.ncbi.nlm.nih.gov/42373135/)). Neither tests dobutamine as a treatment.
 - **Headache and migraine:** levosimendan reviews ([14636085](https://pubmed.ncbi.nlm.nih.gov/14636085/), [15725064](https://pubmed.ncbi.nlm.nih.gov/15725064/)), a dobutamine echocardiography safety study ([9137218](https://pubmed.ncbi.nlm.nih.gov/9137218/)) and a porcine meningeal artery study ([17103145](https://pubmed.ncbi.nlm.nih.gov/17103145/)). None shows a dobutamine benefit.
 
+<!-- review:begin us-lic-20261105-dobutamine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All five US authorizations are valid, and no approved-indication text is available in the compiled data." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 16 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-dobutamine-1 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
@@ -112,12 +118,32 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Rationale:**
 The prediction is supported only by a model score. There are no clinical trials and no supporting literature, and no plausible mechanism links a beta-1 agonist given by IV infusion to hair loss. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. In addition, label safety data are missing.
 
+<!-- review:begin us-lic-20261105-dobutamine-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "In addition, all five US licenses are valid, and label safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 16 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-dobutamine-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible hypothesis linking dobutamine to hair follicle biology (otherwise discontinue this line)
 - FDA package insert warnings and contraindications, which block safety screening
 - Preclinical evidence (for example, in vitro or animal hair-growth models) before any clinical consideration
 - Route-compatibility assessment, since dobutamine is available only as an IV infusion and would be impractical for a chronic condition such as alopecia
 - Review of the original approved indication text, which is missing from the compiled data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All five US authorizations are valid, and no approved-indication text is available in the compiled data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "all five US licenses are valid, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

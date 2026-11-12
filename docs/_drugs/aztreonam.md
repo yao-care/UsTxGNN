@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "AZTREONAM"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Ureaplasma urethritis", "gonococcal urethritis", "blood group incompatibility", "premalignant hematological system disease", "epiglottitis", "monoclonal gammopathy", "xanthogranulomatous pyelonephritis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Aztreonam: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Urinary tract infection, Pseudomonas aeruginosa infection…"
 ---
 
@@ -95,6 +95,12 @@ Publications for gonococcal urethritis:
 
 Indirect evidence for other predictions:
 
+<!-- review:begin us-lic-20261105-aztreonam-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All three US authorizations are valid, and only injectable forms are listed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 8 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-aztreonam-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [3766490](https://pubmed.ncbi.nlm.nih.gov/3766490/) | 1986 | Pediatric case series | Am J Dis Child | Open trial in 59 children with serious gram-negative infections, including one epiglottitis case (indirect evidence for epiglottitis) |
@@ -105,6 +111,8 @@ Indirect evidence for other predictions:
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA065439 | AZTREONAM | FRESENIUS KABI USA | Injectable; injection | Valid |
@@ -114,6 +122,8 @@ Indirect evidence for other predictions:
 | NDA217906 | EMBLAVEO | ABBVIE | Powder; intravenous | Valid |
 
 Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 
@@ -140,6 +150,19 @@ The highest-scoring predictions have no mechanistic or clinical support and appe
 - Current resistance surveillance data for *N. gonorrhoeae*
 - Positioning against current guideline regimens (resistant strains, beta-lactam allergy)
 - Assessment of route compatibility and the commercial pathway, since only injectable forms exist
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All three US authorizations are valid, and only injectable forms are listed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

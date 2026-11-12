@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TRAVOPROST"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Travoprost: predicted new indication Visceral calciphylaxis (evidence level L5). Approved use: Open-angle glaucoma"
 ---
 
@@ -86,6 +86,12 @@ For reference, the only publication linked to a specific vascular-type predictio
 
 The five below are examples.
 
+<!-- review:begin us-lic-20261105-travoprost-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All nine US authorizations are valid, and the approved-indication text was not available for any of them. The five below are examples." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 13 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-travoprost-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021994 | Travatan Z (Sandoz) | Solution/drops | Not available |
@@ -109,12 +115,32 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The prediction rests on model output alone (L5). There are no trials or publications for visceral calciphylaxis, and no plausible mechanism links an ocular FP receptor agonist to calcific small-vessel disease. Topical ocular dosing gives little systemic exposure.
 
+<!-- review:begin us-lic-20261105-travoprost-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All nine US licenses are valid, and topical ocular dosing gives little systemic exposure." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 13 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-travoprost-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism-of-action data and a credible biological hypothesis linking FP receptor signaling to vascular calcification or calciphylaxis
 - Preclinical studies (for example, vascular calcification models) showing a benefit
 - Evaluation of a route and formulation that would achieve systemic exposure, since the current licenses cover ocular products only
 - FDA package insert warnings and contraindications, to complete safety screening
 - Characterization of the severity of the 49 listed drug interactions, especially in dialysis or kidney-failure patients, who are the main population with calciphylaxis
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All nine US authorizations are valid, and the approved-indication text was not available for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "All nine US licenses are valid, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

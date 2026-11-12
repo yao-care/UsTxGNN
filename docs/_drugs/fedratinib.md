@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FEDRATINIB"
 predicted_indications: ["benign PEComa", "lymphangiomyoma", "uterine corpus perivascular epithelioid cell tumor", "dermatofibrosarcoma protuberans", "rhabdoid tumor", "familial rhabdoid tumor", "autosomal recessive familial Mediterranean fever", "hemophagocytic syndrome associated with an infection", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "lymphangioleiomyomatosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fedratinib: predicted new indication Benign PEComa (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA212327 | INREBIC | BRISTOL-MYERS | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -107,12 +111,38 @@ The package insert warnings and contraindications were not available and must be
 **Rationale:**
 The prediction is supported only by the TxGNN model score (evidence level L5), with no clinical trials or publications, a weak mechanistic link to mTOR-driven PEComa biology.
 
+<!-- review:begin us-lic-20261106-fedratinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The prediction is supported only by the TxGNN model score (evidence level L5), with no clinical trials or publications, a weak mechanistic link to mTOR-driven PEComa biology, and a cancelled US NDA." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fedratinib-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Preclinical evidence of fedratinib activity in PEComa or TSC/mTOR-driven models
 - A literature and trial search, and a comparison against established therapies (e.g., sirolimus for mTOR-driven diseases)
 - Consideration of the HLH predictions as a more mechanistically plausible alternative, after assessing the safety profile in that setting
+
+<!-- review:begin us-lic-20261031-fedratinib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Consideration of the HLH predictions as a more mechanistically plausible alternative, after assessing the safety profile in that setting / Clarification of the current US regulatory status of fedratinib, since the compiled record shows only a cancelled NDA" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-fedratinib-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Clarification of the current US regulatory status of fedratinib, since the compiled record shows only a cancelled NDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and a cancelled US NDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

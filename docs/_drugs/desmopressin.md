@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 586
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DESMOPRESSIN"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
 description: "Desmopressin: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Not recorded in the local data"
@@ -74,6 +74,12 @@ Currently no related clinical trials registered.
 
 The drug is marketed in the US. The records contain no approved indication text. Up to 5 are listed below.
 
+<!-- review:begin us-lic-20261106-desmopressin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 11 valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 38 FDA applications or NDC listings for this drug, 19 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-desmopressin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA018938 | Desmopressin Acetate (Nordic Pharma) | Solution | Not available |
@@ -120,6 +126,19 @@ The top prediction, congenital prothrombin deficiency, has no clinical trials, o
 - Ontology check of the mis-mapped "flood factor deficiency" entry
 - If any indication is pursued, "primary release disorder of platelets" is the most credible candidate and would need a prospective study. The other candidates should be deprioritized.
 - Review of why the model ranks mechanistically implausible or harmful indications so highly
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 11 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

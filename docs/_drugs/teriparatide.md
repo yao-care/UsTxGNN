@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1215
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Teriparatide"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
 description: "Teriparatide: predicted new indication Duodenal ulcer (disease) (evidence level L5). Approved use: Not recorded in the local data"
@@ -67,7 +67,15 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261105-teriparatide-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All six US authorizations are currently valid, and the drug is marketed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 8 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-teriparatide-1 -->
+
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -79,6 +87,8 @@ Currently no related literature available.
 | NDA211939 | BONSITY | ALVOGEN | Solution; subcutaneous | Valid |
 
 Showing 6 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -96,11 +106,31 @@ Label-based warnings and contraindications were not available for this report; p
 **Rationale:**
 The duodenal ulcer prediction rests only on a model score from the TxGNN model (deep learning), with no clinical trials, no literature, and no plausible mechanistic link.
 
+<!-- review:begin us-lic-20261105-teriparatide-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The duodenal ulcer prediction rests only on a model score from the TxGNN model (deep learning), with no clinical trials, no literature, and no plausible mechanistic link. The drug is marketed in the US, with all six authorizations valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 8 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-teriparatide-2 -->
+
 **To proceed, the following is needed:**
 - A mechanistic rationale connecting PTH1R signaling to duodenal ulcer biology, and preclinical evidence to test it
 - A targeted literature and trial search specific to teriparatide and duodenal ulcer
 - Label-based warnings and contraindications from the FDA package insert, and detailed mechanism-of-action data
 - A review of whether other predictions for this drug deserve priority. Bone density in functional hypothalamic amenorrhea has indirect support only.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All six US authorizations are currently valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "The drug is marketed in the US, with all six authorizations valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FLUORESCEIN"
 predicted_indications: ["Prinzmetal angina", "antithrombin deficiency type 2", "rheumatoid arthritis", "factor 5 excess with spontaneous thrombosis", "hemoglobinopathy", "heparin cofactor 2 deficiency", "thrombophilia", "hyperthyroidism", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fluorescein: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Diagnostic use"
 ---
 
@@ -109,11 +109,30 @@ Please refer to the package insert for safety information.
 **Rationale:**
 The prediction rests only on a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials, no supporting literature, and no plausible mechanism linking a diagnostic dye to coronary vasospasm. The drug is marketed in the US, and package insert safety data are missing.
 
+<!-- review:begin us-lic-20261106-fluorescein-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 6 of 6 licenses valid, and package insert safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fluorescein-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (for example, from DrugBank)
 - Package insert warnings and contraindications from FDA
 - Any preclinical or clinical evidence of a therapeutic effect in Prinzmetal angina, which is currently absent
 - Confirmation of whether a therapeutic (rather than diagnostic) role is pharmacologically credible before further investment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 6 of 6 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

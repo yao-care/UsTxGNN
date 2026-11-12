@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "CYTARABINE"
 predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cytarabine: predicted new indication Small cell lung carcinoma (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -68,6 +68,12 @@ Small cell lung carcinoma is also a fast-growing tumor, so a general rationale f
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
+
+<!-- review:begin us-lic-20261105-cytarabine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 12 US authorizations are valid and the drug is marketed, and no approved indication text was available." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 24 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-cytarabine-1 -->
 
 ---
 
@@ -134,9 +140,29 @@ The prediction rests on a computational score and indirect evidence. No clinical
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Preclinical data on cytarabine activity in SCLC models
 
+<!-- review:begin us-lic-20261105-cytarabine-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Preclinical data on cytarabine activity in SCLC models / Clarification of regulatory and supply status given that the drug is marketed and all 12 US licenses are valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 24 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-cytarabine-2 -->
+
 ---
 
 *Other predicted indications such as primary pulmonary lymphoma, upper aerodigestive tract neoplasm, retroperitoneal neoplasm and neuroblastoma also carry a Hold or research-question status. Neuroblastoma has the most plausible preclinical rationale, but no clinical trial directly tests cytarabine in it.*
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 12 US authorizations are valid and the drug is marketed, and no approved indication text was available" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "Clarification of regulatory and supply status given that the drug is marketed and all 12 US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

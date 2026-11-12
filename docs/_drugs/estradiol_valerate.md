@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ESTRADIOL VALERATE"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "anovulation", "ovarian remnant syndrome", "luteoma of pregnancy", "ovarian dysfunction"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Estradiol Valerate: predicted new indication Symptomatic form of fragile X syndrome in female carrier (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -121,11 +121,30 @@ These should be checked against the official label. No drug interaction records 
 **Rationale:**
 The fragile X carrier prediction has a high model score (0.9994) but no clinical trials or literature. Evidence level is L5. Any benefit would be limited to estrogen replacement for the ovarian insufficiency component and would not address the underlying FMR1 disorder.
 
+<!-- review:begin us-lic-20261105-estradiol_valerate-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Any benefit would be limited to estrogen replacement for the ovarian insufficiency component and would not address the underlying FMR1 disorder. All four US licenses are valid, and the safety label data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 13 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-estradiol_valerate-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (blocking gap), obtained from the FDA label
 - Mechanism of action data from DrugBank
 - Clinical or observational evidence of estrogen replacement in FXPOI (fragile X-associated primary ovarian insufficiency), to clarify whether the prediction adds anything beyond the existing ovarian failure indication
 - A decision on whether to pursue the better-supported but still weak rank-7 (anovulation) and rank-10 (ovarian dysfunction) predictions as separate research questions. The trial and animal-model literature there does not show that estradiol valerate treats these conditions.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All four US licenses are valid, and the safety label data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

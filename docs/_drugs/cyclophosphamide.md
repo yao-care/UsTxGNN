@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 556
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "CYCLOPHOSPHAMIDE"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 description: "Cyclophosphamide: predicted new indication Vertebral anomalies and variable endocrine and T-cell dysfunction (evidence level L5). Approved use: Not recorded in the local data"
@@ -72,6 +72,12 @@ Currently no related literature available.
 
 Cyclophosphamide is marketed in the United States. The list below shows 5 of them and may be partial.
 
+<!-- review:begin us-lic-20261105-cyclophosphamide-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 12 licences on record are currently valid. The list below shows 5 of them and may be partial." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 32 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-cyclophosphamide-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA203856 | Cyclophosphamide (Hikma Pharmaceuticals USA) | Capsule | Not available |
@@ -112,6 +118,18 @@ The prediction has no supporting trials or publications (evidence level L5). Cyc
 - Mechanism of action data and a documented biological rationale linking cyclophosphamide to this syndrome
 - Any case-level or preclinical evidence in the predicted condition
 - Package insert warnings and contraindications, to assess safety in patients with pre-existing immune deficiency
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 12 licences on record are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1025
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PEMETREXED"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
 description: "Pemetrexed: predicted new indication Pleural adenomatoid tumor (evidence level L5). Approved use: Not recorded in the local data"
@@ -100,9 +100,17 @@ Most items are narrative reviews or retrospective series; no randomized trial sp
 
 For the pleural site, the pivotal Phase 3 trial (PMID [12860938](https://pubmed.ncbi.nlm.nih.gov/12860938/), 2003) compared pemetrexed plus cisplatin with cisplatin alone, and MAPS (PMID [26719230](https://pubmed.ncbi.nlm.nih.gov/26719230/), 2016) tested adding bevacizumab. These support the pleural indication and underpin the extrapolation to the peritoneum.
 
+<!-- review:begin us-lic-20261106-pemetrexed-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both listed NDAs are cancelled, so availability depends on other pemetrexed products not captured in these records." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 30 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pemetrexed-1 -->
+
 ---
 
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -113,6 +121,8 @@ For the pleural site, the pivotal Phase 3 trial (PMID [12860938](https://pubmed.
 | ANDA204890 | PEMETREXED DISODIUM | QILU PHARM HAINAN | Powder; intravenous | Valid |
 
 Showing 5 of 30 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 
@@ -156,6 +166,26 @@ Pemetrexed-platinum is an established backbone in pleural mesothelioma, and the 
 - Confirmation of a currently marketed US pemetrexed product
 - A monitoring plan for renal function and blood counts, with attention to the nephrotoxic and NSAID interactions
 - Not recommended at this stage: pleural adenomatoid tumor, lymphohistiocytoid mesothelioma, and iminoglycinuria (no evidence or mechanism)
+
+<!-- review:begin us-lic-20261106-pemetrexed-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of a currently marketed US pemetrexed product, since both listed NDAs are cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 30 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pemetrexed-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both listed NDAs are cancelled, so availability depends on other pemetrexed products not captured in these records" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since both listed NDAs are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

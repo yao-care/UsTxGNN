@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "GADODIAMIDE"
 predicted_indications: ["rheumatoid arthritis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Gadodiamide: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not available in the data compiled for this report (a diagnostic MRI…"
 ---
 
@@ -110,11 +110,30 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 Gadodiamide is a diagnostic contrast agent with no known therapeutic mechanism. The available literature supports only an imaging role in rheumatoid arthritis, there are no clinical trials. The high TxGNN score is probably a TxGNN model (deep learning) artifact.
 
+<!-- review:begin us-lic-20261106-gadodiamide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The available literature supports only an imaging role in rheumatoid arthritis, there are no clinical trials, and the license is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-gadodiamide-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data, and any evidence of a therapeutic pharmacological effect in inflammatory arthritis
 - Preclinical evidence of anti-inflammatory or disease-modifying activity
 - A risk assessment of gadolinium retention and nephrogenic systemic fibrosis for any therapeutic use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

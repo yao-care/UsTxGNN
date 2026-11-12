@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 747
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "GEFITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "pulmonary sulcus neoplasm", "lung germ cell tumor", "junctional epidermolysis bullosa"]
 description: "Gefitinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Not recorded in the local data"
@@ -118,12 +118,38 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The prediction is supported only by the model score (L5). There are no trials or literature for gingival fibromatosis, the mechanistic link is speculative, the drug is marketed, and package insert safety data are missing. The other top-ranked predictions are likewise unsupported or only indirectly supported, mostly overlapping with the original lung cancer indication.
 
+<!-- review:begin us-lic-20261106-gefitinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no trials or literature for gingival fibromatosis, the mechanistic link is speculative, the drug is marketed with 4 of 4 US licenses valid, and package insert safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-gefitinib-1 -->
+
 **To proceed, the following is needed:**
 - Obtain the FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Obtain detailed mechanism-of-action data (e.g., from DrugBank)
 - Preclinical or mechanistic studies showing that EGFR inhibition affects gingival fibroblast proliferation or fibrosis
 - Assessment of whether a systemic or local route is appropriate for a gingival condition, weighed against the known skin, lung, liver and QT-related safety signals
 - Clarify the US regulatory pathway
+
+<!-- review:begin us-lic-20261106-gefitinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarify the US regulatory pathway, since 4 of 4 licenses are currently valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-gefitinib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 4 of 4 US licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since 4 of 4 licenses are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

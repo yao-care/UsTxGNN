@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Empagliflozin: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -95,11 +95,30 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction rests only on a TxGNN model (deep learning) score (0.9906), with no registered trials, no publications, and no plausible mechanistic link between SGLT2 inhibition and the autoimmune, GABAergic pathology of stiff person syndrome. The identical score for focal stiff limb syndrome may reflect similarities the model learned between related diseases, not biological evidence.
 
+<!-- review:begin us-lic-20261105-empagliflozin-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The identical score for focal stiff limb syndrome may reflect similarities the model learned between related diseases, not biological evidence. The drug is marketed in the US, and all 3 US authorizations listed are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 8 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-empagliflozin-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for empagliflozin
 - Package insert warnings and contraindications, which are required for safety screening
 - Preclinical or mechanistic evidence linking SGLT2 inhibition to stiff person syndrome pathology (for example, anti-GAD65 autoimmunity or GABAergic signalling)
 - Confirmation of current US market and approval status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The drug is marketed in the US, and all 3 US authorizations listed are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

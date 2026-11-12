@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "PITAVASTATIN"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pitavastatin: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -82,6 +82,12 @@ Currently no related literature available.
 
 The list may be partial, and no approved-indication text was available in the records. The five main ones are shown below.
 
+<!-- review:begin us-lic-20261105-pitavastatin-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The compiled records list 9 authorizations for single-ingredient pitavastatin tablets, all currently valid. The list may be partial, and no approved-indication text was available in the records." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-05). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-pitavastatin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | NDA022363 | Livalo | Tablet, film coated | Kowa Pharmaceuticals America, Inc. |
@@ -115,6 +121,19 @@ The prediction has a very high model score but no supporting trials or publicati
 - Package insert warnings and contraindications, to complete the safety review
 
 **Note on other predictions:** The same drug's second-ranked prediction, HIV infectious disease, has substantially stronger support. The REPRIEVE randomized trial (NEJM 2023, PMID 37486775) showed that pitavastatin reduced major adverse cardiovascular events in people with HIV. This is cardiovascular risk prevention rather than antiviral treatment, and it is better evaluated as a separate report.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The compiled records list 9 authorizations for single-ingredient pitavastatin tablets, all currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FLURANDRENOLIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "lichen planus pigmentosus", "hypertrophic lichen planus", "annular atrophic lichen planus", "alopecia areata", "primary cutaneous B-cell lymphoma", "alopecia mucinosa", "telogen effluvium", "lichen planus pemphigoides", "hereditary hypotrichosis with recurrent skin vesicles"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Flurandrenolide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -81,7 +81,15 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261105-flurandrenolide-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All three authorizations are valid, so the product is currently marketed in the US." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 10 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-flurandrenolide-1 -->
+
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -92,6 +100,8 @@ Currently no related literature available.
 | ANDA205342 | FLURANDRENOLIDE | CHARTWELL RX | Cream; topical | Discontinued in Drugs@FDA |
 
 Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -108,12 +118,32 @@ Please refer to the package insert for further safety information.
 **Rationale:**
 The prediction for vulvar inverted follicular keratosis has no supporting clinical trials or literature (L5). The condition is normally managed by excision, and the vulvar site raises skin atrophy concerns.
 
+<!-- review:begin us-lic-20261105-flurandrenolide-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The condition is normally managed by excision, and the vulvar site raises skin atrophy concerns. All three US authorizations are valid and the drug is marketed, but label safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 10 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-flurandrenolide-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - A drug-specific literature and trial search for the top indication
 - A clinical rationale review against standard care (excision)
 - Consideration of hypertrophic lichen planus as the more mechanistically credible candidate, which still needs a drug-specific evidence review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All three authorizations are valid, so the product is currently marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "All three US authorizations are valid and the drug is marketed, but label safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

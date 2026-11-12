@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ROTIGOTINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "faciodigitogenital syndrome", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "atypical glycine encephalopathy", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Rotigotine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Restless legs syndrome, Parkinson disease"
 ---
 
@@ -78,9 +78,13 @@ None of these publications tests rotigotine in ADHD.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA021829 | NEUPRO | UCB INC | Film, extended release; transdermal | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -100,12 +104,38 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The TxGNN score is very high (1.0000), but there are no clinical trials and the literature is indirect: two restless legs reviews and one receptor-level preclinical study. The evidence level is L4, with no rotigotine-specific ADHD data.
 
+<!-- review:begin us-lic-20261031-rotigotine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The evidence level is L4, with no rotigotine-specific ADHD data. Moreover, the only US NDA is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-rotigotine-1 -->
+
 **To proceed, the following is needed:**
 - Rotigotine-specific preclinical or clinical data in ADHD
 - Detailed mechanism of action data, especially for D4 and α2 receptor activity
 - FDA package insert warnings and contraindications
 - Review of the knowledge-graph contraindication signals (hypertension, orthostatic hypotension) and the moderate drug interactions, particularly for a paediatric ADHD population
 - Clarification of the regulatory and formulation situation
+
+<!-- review:begin us-lic-20261106-rotigotine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory and formulation situation, given the cancelled US license" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-rotigotine-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Moreover, the only US NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given the cancelled US license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

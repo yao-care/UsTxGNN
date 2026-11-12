@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "MEPOLIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Mepolizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Eosinophilic pneumonia"
 ---
 
@@ -96,6 +96,25 @@ The prediction rests on a single case report confounded by concomitant therapy, 
 - Clarification of current US market status
 - Further clinical evidence, such as case series or prospective studies in hypereosinophilia-associated immune thrombocytopenia
 - Assessment of whether the other predicted indications (primary release disorder of platelets, pseudo-von Willebrand disease, autoimmune thrombocytopenic, Glanzmann thrombasthenia) have any plausible rationale; at present they are supported only by model scores, and no mechanistic link is evident
+
+<!-- review:begin us-lic-20261106-mepolizumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of current US market status, as both listed BLAs are cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-mepolizumab-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "as both listed BLAs are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

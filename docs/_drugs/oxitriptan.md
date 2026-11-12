@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "OXITRIPTAN"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Oxitriptan: predicted new indication Insomnia (evidence level L5). Approved use: No approved indication text available"
 ---
 
@@ -94,6 +94,12 @@ Many of the Major interactions involve serotonergic agents, so serotonin-related
 **Rationale:**
 The prediction score is very high, but there are no clinical trials or publications behind it (Evidence Level L5). Label warnings and contraindications are also unavailable, which blocks safety screening.
 
+<!-- review:begin us-lic-20261031-oxitriptan-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The mechanism of action data is missing, and the only US authorization is cancelled. Label warnings and contraindications are also unavailable, which blocks safety screening." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-oxitriptan-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications
 - Curated mechanism of action data
@@ -101,6 +107,19 @@ The prediction score is very high, but there are no clinical trials or publicati
 - Clarification of the original approved indication
 - Assessment of route and dosage form compatibility
 - A serotonergic interaction risk plan for the many Major interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The mechanism of action data is missing, and the only US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

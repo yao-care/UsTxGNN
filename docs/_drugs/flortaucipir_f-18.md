@@ -48,9 +48,13 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA212123 | TAUVID | AVID RADIOPHARMS INC | Solution; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

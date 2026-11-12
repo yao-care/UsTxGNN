@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "NABILONE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia", "atrophoderma vermiculata", "nephrogenic syndrome of inappropriate antidiuresis", "ulerythema ophryogenesis", "manic bipolar affective disorder", "Tourette syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Nabilone: predicted new indication Migraine disorder (evidence level L4). Approved use: Not stated in the data compiled for this report"
 ---
 
@@ -39,6 +39,12 @@ Evidence Level: **L4** | Predicted Indications: **9**
 ## One-Sentence Summary
 
 Nabilone is a synthetic cannabinoid capsule. The TxGNN model predicts it may be effective for **migraine disorder**, but there are currently **0 registered clinical trials** and only **1 indirect systematic review** supporting this direction. The strongest nabilone-specific signal is a small preliminary trial in the related condition of medication overuse headache.
+
+<!-- review:begin us-lic-20261105-nabilone-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Nabilone is a synthetic cannabinoid capsule (marketed in the US as Cesamet) that is known as an antiemetic." Removed: its description of the US products did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 1 FDA application or NDC listing for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-nabilone-1 -->
 
 ## Quick Overview
 
@@ -114,6 +120,19 @@ The prediction is biologically plausible, but support is limited to an indirect 
 - A review of the 2026 systematic review to confirm what it reports for nabilone specifically
 - Confirmation of the original indication and a clarification of the regulatory status (cancelled license) and available formulation
 - A risk assessment for patients with cardiovascular, psychiatric or substance-use history, and a plan for managing CNS-depressant interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "(marketed in the US as Cesamet) that is known as an antiemetic" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

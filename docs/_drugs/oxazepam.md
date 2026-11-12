@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "OXAZEPAM"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Oxazepam: predicted new indication Insomnia (evidence level L3). Approved use: Alcohol withdrawal delirium"
 ---
 
@@ -106,12 +106,38 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The prediction is mechanistically plausible, but direct evidence is limited to one small 1984 comparative study (14 patients) and one trial in a cardiac population where sleep was a secondary outcome. No clinical trials are registered. Oxazepam is marketed in the US, and safety label data are missing, so the evidence level is L3 and the candidate is best treated as a research question.
 
+<!-- review:begin us-lic-20261105-oxazepam-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Oxazepam is marketed in the US, with all 3 authorizations valid, and safety label data are missing, so the evidence level is L3 and the candidate is best treated as a research question." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 23 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-oxazepam-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - A systematic review of benzodiazepines, including oxazepam, for insomnia, and comparison against approved hypnotics
 - Confirmation of the current US market status (marketed)
 - A risk assessment for dependence, respiratory depression, and use in older adults
+
+<!-- review:begin us-lic-20261106-oxazepam-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the current US market status (marketed, with 3 of 3 licenses valid)" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 23 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-oxazepam-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "with all 3 authorizations valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 3 of 3 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

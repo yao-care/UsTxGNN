@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "FLUDARABINE"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fludarabine: predicted new indication Plasma cell myeloma (evidence level L2). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -102,6 +102,12 @@ The 19 publications are mostly cohort studies and CAR-T reports, with no RCT foc
 
 No indication text is recorded for them.
 
+<!-- review:begin us-lic-20261106-fludarabine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All four US records are generic (ANDA) injectables, and all have been cancelled. No indication text is recorded for them." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 14 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fludarabine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA090724 | Fludarabine Phosphate (Areva Pharmaceuticals) | Injection | Not recorded |
@@ -141,10 +147,30 @@ Fludarabine is firmly embedded in conditioning and lymphodepletion regimens for 
 - A hematologic and neurotoxicity monitoring plan, with attention to fludarabine exposure and CAR-T toxicity
 - Clarification of current US availability: the drug is marketed
 
+<!-- review:begin us-lic-20261106-fludarabine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of current US availability: 4 of 4 licenses are valid, and the drug is marketed" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 14 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fludarabine-2 -->
+
 **Other predicted indications (for reference):**
 - **Indolent plasma cell myeloma** and **myelodysplastic syndrome** also carry L2 evidence and Proceed with Guardrails, with fludarabine again as a transplant conditioning component. Their evidence includes a randomized Phase 3 comparison of treosulfan vs busulfan, each with fludarabine, in older AML/MDS patients (PMID 31606445).
 - **Unclassified myelodysplastic syndrome** is L3 and a research question only.
 - The remaining predictions (hyperthyroidism, three rare genetic disorders, del(5q), and diabetic nephropathy) have no clinical support and are on Hold; they look like prediction artifacts.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All four US records are generic (ANDA) injectables, and all have been cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "4 of 4 licenses are valid, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

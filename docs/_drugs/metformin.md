@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "METFORMIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Metformin: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -82,6 +82,14 @@ Currently no related literature available.
 
 The drug is marketed, and the data compiled for this report contains no approved-indication text. The five below are shown as examples.
 
+<!-- review:begin us-lic-20261106-metformin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 14 valid authorizations, and the data compiled for this report contains no approved-indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 174 FDA applications or NDC listings for this drug, 102 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-metformin-1 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA075965 | METFORMIN HYDROCHLORIDE | EPIC PHARMA LLC | Tablet; oral | Valid |
@@ -91,6 +99,8 @@ The drug is marketed, and the data compiled for this report contains no approved
 | ANDA076269 | METFORMIN HYDROCHLORIDE | TEVA | Tablet, extended release; oral | Valid |
 
 Showing 5 of 174 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All dosage forms are oral (tablet, film-coated tablet, and extended-release versions).
 
@@ -127,6 +137,26 @@ The prediction is supported only by a model score, with no clinical trials or li
 - A targeted literature and trial search for stiff person syndrome and metformin, including the neuroimmunological rationale
 - Confirmation of current US marketing status
 - Route and formulation compatibility assessment for the new indication
+
+<!-- review:begin us-lic-20261106-metformin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current US marketing status, since the data lists 14 valid authorizations" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 174 FDA applications or NDC listings for this drug, 102 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-metformin-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 14 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since the data lists 14 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

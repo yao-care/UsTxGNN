@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 750
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "GEPIRONE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Gepirone: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Not recorded in the local data"
@@ -102,12 +102,31 @@ Please refer to the package insert for safety information. No drug interaction r
 **Rationale:**
 The TxGNN score is very high, but there are no clinical trials, no literature, and only a speculative mechanistic link for benign paroxysmal torticollis of infancy. The condition is a self-limiting pediatric disorder, and the lack of infant safety data makes the case for further development weak.
 
+<!-- review:begin us-lic-20261106-gepirone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The condition is a self-limiting pediatric disorder, and the lack of infant safety data makes the case for further development weak. The U.S. licence is also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-gepirone-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (needed for safety screening)
 - Detailed mechanism of action data (MOA)
 - Evidence linking 5-HT1A signalling or CACNA1A-related pathways to this condition
 - Paediatric safety and pharmacokinetic data
 - If a more promising direction is wanted, consider agoraphobia (L3, a research question) as a better-supported alternative to evaluate first
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The U.S. licence is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

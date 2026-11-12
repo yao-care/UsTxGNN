@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "DALTEPARIN"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "pseudo-von Willebrand disease", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "neuropathy, painful"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dalteparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -109,12 +109,31 @@ Package insert warnings and contraindications were not available for this report
 **Rationale:**
 All predicted indications are supported by model scores only, with no relevant trials or literature (L5). The only trial found is unrelated to the predicted indication. Several predictions (platelet and von Willebrand disorders) are potentially harmful given dalteparin's bleeding risk.
 
+<!-- review:begin us-lic-20261106-dalteparin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Several predictions (platelet and von Willebrand disorders) are potentially harmful given dalteparin's bleeding risk. The US license is also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dalteparin-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - A literature and registry search for dalteparin or LMWH use in protein C deficiency and purpura fulminans (case series, guidelines)
 - A comparison against standard care (protein C concentrate plus anticoagulation)
 - Route compatibility and formulation assessment (the current form is injectable only)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US license is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 589
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DESVENLAFAXINE"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Desvenlafaxine: predicted new indication Obsessive-compulsive disorder (evidence level L4). Approved use: Not recorded in the local data"
@@ -86,6 +86,8 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA204003 | DESVENLAFAXINE SUCCINATE | ALEMBIC | Tablet, extended release; oral | Valid |
@@ -95,6 +97,8 @@ Currently no related clinical trials registered.
 | ANDA204082 | Desvenlafaxine | Bryant Ranch Prepack | Tablet, film coated, extended release; oral | Valid |
 
 Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 
@@ -114,6 +118,12 @@ Official label warnings were not available. Please refer to the package insert f
 **Rationale:**
 The OCD prediction rests on a plausible class-level serotonergic mechanism, but there are no clinical trials and no desvenlafaxine-specific studies in OCD. Established OCD pharmacotherapy already exists (SSRIs, clomipramine).
 
+<!-- review:begin us-lic-20261031-desvenlafaxine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Established OCD pharmacotherapy already exists (SSRIs, clomipramine). The only US license is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 17 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-desvenlafaxine-1 -->
+
 For reference, **dysthymic disorder** has much stronger support in the compiled data, at evidence level L3. It has two completed desvenlafaxine trials: a Phase 4 placebo-controlled study (NCT01537068, n=59) and an open-label study (NCT01948895, n=30). It also has a meta-analysis of antidepressants in dysthymia. That indication may be a more productive research question than OCD.
 
 **To proceed, the following is needed:**
@@ -122,6 +132,26 @@ For reference, **dysthymic disorder** has much stronger support in the compiled 
 - FDA package insert warnings and contraindications to complete the safety screen
 - Clarification of the commercial and regulatory status of desvenlafaxine
 - A safety plan addressing the interaction and comorbidity risks listed above
+
+<!-- review:begin us-lic-20261106-desvenlafaxine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the commercial and regulatory status of desvenlafaxine, given the cancelled license" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-desvenlafaxine-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given the cancelled license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

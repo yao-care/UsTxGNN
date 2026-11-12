@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "FOSCARNET"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "rheumatoid arthritis", "diabetic nephropathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Foscarnet: predicted new indication autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (evidence level L5). Approved use: Not stated in the available data (approved-indication tex…"
 ---
 
@@ -102,12 +102,31 @@ Package insert warnings and contraindications were not available in the compiled
 **Rationale:**
 The prediction has a high model score but no clinical trials, no relevant literature, and no plausible mechanism. Foscarnet is an antiviral, and the predicted condition is a non-viral genetic disorder. The drug is marketed in the US, and it carries significant renal and electrolyte toxicity.
 
+<!-- review:begin us-lic-20261106-foscarnet-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 6 of 6 licenses valid, and it carries significant renal and electrolyte toxicity." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-foscarnet-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data from DrugBank
 - FDA package insert warnings and contraindications, which block safety screening
 - Original approved indication text
 - A biological hypothesis linking foscarnet to COL4A1-related disease, supported by preclinical evidence
 - Review of the other top-ranked predictions, none of which currently has supporting evidence either
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 6 of 6 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

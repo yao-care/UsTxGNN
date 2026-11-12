@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 2
 monitor_inn: "PHENYLALANINE"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Phenylalanine: predicted new indication Sclerosing cholangitis (evidence level L4). Approved use: Not available (the approved indication text is empty)"
 ---
 
@@ -115,12 +115,31 @@ Please refer to the package insert for confirmed safety information.
 **Rationale:**
 The prediction rests on a model score alone. There are no clinical trials, the literature is only indirectly related, and no mechanistic rationale exists.
 
+<!-- review:begin us-lic-20261031-phenylalanine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials, the literature is only indirectly related, and no mechanistic rationale exists. The only US authorization is cancelled, and package insert safety data are missing, which blocks safety screening." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-phenylalanine-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data, for example from DrugBank, to assess any link to cholestatic liver disease
 - Preclinical or clinical studies testing phenylalanine in sclerosing cholangitis
 - Review of the knowledge-graph contraindications, especially kidney and cardiovascular disease, against the likely patient population
 - Clarification of the original approved indication and the current regulatory and route-of-administration status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US authorization is cancelled, and package insert safety data are missing, which blocks safety screening" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

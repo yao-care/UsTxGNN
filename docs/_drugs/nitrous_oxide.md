@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "NITROUS OXIDE"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Nitrous Oxide: predicted new indication Benign prostatic hyperplasia (evidence level L5). Approved use: Not specified in the US license records compiled for this report"
 ---
 
@@ -97,11 +97,30 @@ Please refer to the package insert for other safety information, including warni
 **Rationale:**
 The high TxGNN score is not supported by a plausible mechanism or by any study of BPH treatment. The one trial and one publication relate only to procedural anesthesia and anxiety. The drug is marketed in the US, and the key safety labeling information could not be obtained.
 
+<!-- review:begin us-lic-20261106-nitrous_oxide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with three valid licenses, and the key safety labeling information could not be obtained." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-nitrous_oxide-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a plausible pharmacological rationale for an effect on BPH
 - Preclinical or clinical studies that test BPH outcomes directly
 - FDA package insert warnings and contraindications for a full safety review
 - Clarification of the original approved indications and current regulatory status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with three valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

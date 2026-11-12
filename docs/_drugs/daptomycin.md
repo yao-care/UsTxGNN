@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "DAPTOMYCIN"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Daptomycin: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not available in the compiled data (the retrieved literature describe…"
 ---
 
@@ -97,6 +97,12 @@ None of the publications below tests daptomycin as a treatment for osteoarthriti
 
 The approved indication text is not available for any of them. Five representative entries:
 
+<!-- review:begin us-lic-20261105-daptomycin-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 17 US authorizations for daptomycin are currently valid. The approved indication text is not available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 32 FDA applications or NDC listings for this drug, 27 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-daptomycin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA213645 | DAPZURA RT (Baxter Healthcare) | Lyophilized powder for injection (solution) | Not available |
@@ -136,6 +142,19 @@ No clinical trials exist, and the literature concerns treating joint infections 
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Further preclinical work on anti-inflammatory activity, ideally redirected toward rheumatoid arthritis models
 - A risk-benefit assessment of systemic exposure and muscle toxicity for a chronic non-infectious indication, plus a route-compatibility check
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 17 US authorizations for daptomycin are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

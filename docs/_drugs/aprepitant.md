@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "APREPITANT"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "hypertrichosis (disease)", "pulmonary hypertension", "leprosy", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "kyphoscoliotic heart disease", "syndrome with a Dandy-Walker malformation as major feature", "subarachnoid hemorrhage (disease)", "isolated genetic hair shaft abnormality"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Aprepitant: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -78,6 +78,12 @@ For the third-ranked prediction, pulmonary hypertension, one publication was aut
 
 The main ones are shown below.
 
+<!-- review:begin us-lic-20261106-aprepitant-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The compiled data list 14 US authorizations, all with cancelled status and no indication text. The main ones are shown below." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 9 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-aprepitant-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021549 | EMEND | Capsule | Not available |
@@ -102,12 +108,32 @@ Package insert warnings and contraindications were not available in the compiled
 **Rationale:**
 The prediction is supported only by a model score. There are no trials or relevant literature, and no plausible mechanistic link between NK1 antagonism and the V2 receptor gain-of-function that causes NSIAD.
 
+<!-- review:begin us-lic-20261031-aprepitant-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no trials or relevant literature, and no plausible mechanistic link between NK1 antagonism and the V2 receptor gain-of-function that causes NSIAD. The compiled US regulatory records also show only cancelled licenses." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 9 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-aprepitant-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank, to enable mechanistic-link analysis
 - Original approved indication text and current US marketing status confirmation
 - Targeted literature and trial searches for aprepitant or NK1 antagonists in NSIAD or hyponatraemia, and preclinical data if any exist
 - Review of the other top predictions, with subarachnoid hemorrhage and pulmonary hypertension the only ones with weak biological plausibility
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The compiled US regulatory records also show only cancelled licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "The compiled data list 14 US authorizations, all with cancelled status and no indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

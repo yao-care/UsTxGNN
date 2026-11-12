@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 602
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DICLOFENAC"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
 description: "Diclofenac: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
@@ -96,6 +96,12 @@ Of the 14 publications retrieved, the table lists those most relevant to diclofe
 
 The drug is marketed in the US, and no approved-indication text is available.
 
+<!-- review:begin us-lic-20261106-diclofenac-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 16 valid licenses, and no approved-indication text is available. The table lists 5 of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 98 FDA applications or NDC listings for this drug, 65 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-diclofenac-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | NDA022202 | ZIPSOR (Assertio Therapeutics) | Capsule, liquid filled | Valid |
@@ -138,12 +144,32 @@ Please refer to the package insert for official warnings, as label text was not 
 - The drug is marketed in the US.
 - The remaining predictions, including the highest-scoring one, rest on model scores alone (L5) and should be held.
 
+<!-- review:begin us-lic-20261106-diclofenac-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 16 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 98 FDA applications or NDC listings for this drug, 65 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-diclofenac-2 -->
+
 **To proceed, the following is needed:**
 - The FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Verification of current US availability and a pediatric formulation or dosing route
 - A review of the original studies for efficacy and safety versus current standard JIA treatment (other NSAIDs, DMARDs, biologics)
 - A pediatric safety monitoring plan covering GI, renal, hepatic and cardiovascular risks
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 16 valid licenses The table lists 5 of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 16 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

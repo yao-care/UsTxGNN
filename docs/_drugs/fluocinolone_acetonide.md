@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FLUOCINOLONE ACETONIDE"
 predicted_indications: ["lichen planus pemphigoides"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fluocinolone Acetonide: predicted new indication Lichen planus pemphigoides (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -71,6 +71,14 @@ Currently no related literature available.
 
 Approved-indication text is not recorded in the local data.
 
+<!-- review:begin us-lic-20261106-fluocinolone_acetonide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "At least 17 US authorizations are recorded, and the list below may be partial. Of these, 15 are valid and 2 are cancelled. Approved-indication text is not recorded in the local data." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 80 FDA applications or NDC listings for this drug, 34 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fluocinolone_acetonide-1 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA088167 | FLUOCINOLONE ACETONIDE | FOUGERA PHARMS INC | Solution; topical | Valid |
@@ -80,6 +88,8 @@ Approved-indication text is not recorded in the local data.
 | ANDA089124 | FLUOCINOLONE ACETONIDE | SUN PHARMA CANADA | Solution; topical | Valid |
 
 Showing 5 of 80 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -98,6 +108,18 @@ The prediction score is high (0.9934), but no trials or publications address lic
 - Case series, case reports or trials showing fluocinolone acetonide use in lichen planus pemphigoides
 - Mechanism-of-action data and label safety information (warnings and contraindications) from the package insert
 - Assessment of whether a topical route is adequate for the disease severity, and of the role of systemic therapy
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "At least 17 US authorizations are recorded, and the list below may be partial. Of these, 15 are valid and 2 are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

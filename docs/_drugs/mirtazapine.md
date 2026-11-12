@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "MIRTAZAPINE"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Mirtazapine: predicted new indication Ohdo syndrome and variants (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -74,6 +74,8 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA076119 | MIRTAZAPINE | TEVA | Tablet; oral | Valid |
@@ -84,7 +86,15 @@ Currently no related literature available.
 
 Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
+<!-- licenses:end -->
+
 All are oral products.
+
+<!-- review:begin us-lic-20261106-mirtazapine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Seven licenses were found in total; the five above are shown. All are oral products, and all are cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 26 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-mirtazapine-1 -->
 
 ## Safety Considerations
 
@@ -111,6 +121,12 @@ Moderate-level interactions include famotidine, loperamide, aprepitant, morphine
 **Rationale:**
 The prediction has a high model score but no clinical trials, no literature and no supported mechanistic link (Evidence Level L5). The second prediction is likely a duplicate of the first. The third would involve infant use with no pediatric data. In addition, mirtazapine is marketed in the US, and the safety data are incomplete.
 
+<!-- review:begin us-lic-20261106-mirtazapine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, mirtazapine is marketed in the US with 7 valid licenses, and the safety data are incomplete." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 26 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-mirtazapine-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for mirtazapine, to assess any plausible link to KAT6B-related or paroxysmal movement disorders
 - Package insert warnings and contraindications, to complete safety screening
@@ -118,6 +134,20 @@ The prediction has a high model score but no clinical trials, no literature and 
 - Confirmation of whether the two Ohdo-related predictions are the same disease concept
 - Pediatric safety data, if benign paroxysmal torticollis of infancy is pursued
 - Clarification of the current US market status and available formulations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Seven licenses were found in total; the five above are shown. , and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

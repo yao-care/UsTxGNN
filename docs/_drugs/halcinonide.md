@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "HALCINONIDE"
 predicted_indications: ["annular atrophic lichen planus", "lichen planus pigmentosus", "hypertrophic lichen planus", "vulvar inverted follicular keratosis", "lichen planus pemphigoides", "alopecia areata", "telogen effluvium", "alopecia mucinosa", "hereditary hypotrichosis with recurrent skin vesicles", "Quinquaud's folliculitis decalvans"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Halcinonide: predicted new indication Annular atrophic lichen planus (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -97,6 +97,12 @@ For the top-ranked indication (annular atrophic lichen planus), currently no rel
 
 The only publication found across the predicted indications relates to rank 6, alopecia areata:
 
+<!-- review:begin us-lic-20261105-halcinonide-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All four US licenses are valid, and halcinonide is currently marketed in the US." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 9 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-halcinonide-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [915049](https://pubmed.ncbi.nlm.nih.gov/915049/) | 1977 | Unclassified (likely clinical study or case series) | Journal of Cutaneous Pathology | "Topical halcinonide in alopecia areata and in alopecia totalis." Only the title was available, so design, size and outcomes cannot be verified |
@@ -130,12 +136,32 @@ Please refer to the package insert for further safety information, as no label w
 **Rationale:**
 The prediction score is very high (0.9993), and a topical corticosteroid for lichen planus is mechanistically reasonable. However, there are no trials or literature for annular atrophic lichen planus, and skin atrophy is a listed contraindication. Of the candidates, hypertrophic lichen planus is the most clinically plausible, and alopecia areata is the only one with any published report (1977, title only).
 
+<!-- review:begin us-lic-20261105-halcinonide-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The drug is marketed in the US, with all four licenses valid. Of the candidates, hypertrophic lichen planus is the most clinically plausible, and alopecia areata is the only one with any published report (1977, title only)." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 9 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-halcinonide-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Drug-specific clinical evidence, prioritising hypertrophic lichen planus, and a review of the full text of the 1977 alopecia areata publication
 - An assessment of the skin atrophy risk if the atrophic variant is pursued
 - Confirmation of the current regulatory and commercial availability of halcinonide products, given the cancelled licenses
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All four US licenses are valid, and halcinonide is currently marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "The drug is marketed in the US, with all four licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

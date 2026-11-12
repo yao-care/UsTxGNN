@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Ramucirumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "cervical adenosquamous carcinoma, glassy cell variant", "uterine ligament endometrioid adenocarcinoma", "uterine ligament clear cell adenocarcinoma", "uterine ligament mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ramucirumab: predicted new indication Uterine ligament adenocarcinoma (evidence level L5). Approved use: Non-small cell lung carcinoma, gastric adenocarcinoma…"
 ---
 
@@ -103,12 +103,38 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction is supported only by the TxGNN score (Evidence Level L5), with no clinical trials or publications for uterine ligament adenocarcinoma.
 
+<!-- review:begin us-lic-20261031-ramucirumab-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction is supported only by the TxGNN score (Evidence Level L5), with no clinical trials or publications for uterine ligament adenocarcinoma. The only US licence on record is cancelled, and warnings and contraindications are not available, so safety screening cannot proceed." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-ramucirumab-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Preclinical or clinical evidence in uterine ligament or related gynaecological adenocarcinomas, such as a literature and trial registry search
 - Clarification of current availability
 - A bleeding-risk management plan given the many major interactions with anticoagulant and antiplatelet drugs
+
+<!-- review:begin us-lic-20261106-ramucirumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US licence status and current availability" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ramucirumab-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US licence on record is cancelled, and warnings and contraindications are not available, so safety screening cannot proceed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled US licence status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

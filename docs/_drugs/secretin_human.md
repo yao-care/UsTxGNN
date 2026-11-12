@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "SECRETIN HUMAN"
 predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Secretin Human: predicted new indication Open-angle glaucoma (evidence level L5). Approved use: Not stated in the data compiled for this report"
 ---
 
@@ -88,12 +88,31 @@ Please refer to the package insert for label warnings and contraindications.
 **Rationale:**
 The prediction rests only on a TxGNN score, with no clinical trials, no literature, and no mechanistic link in the available data.
 
+<!-- review:begin us-lic-20261031-secretin_human-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests only on a TxGNN score, with no clinical trials, no literature, and no mechanistic link in the available data. The only US license is cancelled, and label safety information is missing, so the candidate cannot move to safety screening." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-secretin_human-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)
 - Mechanism of action data, for example from DrugBank
 - Preclinical or mechanistic evidence connecting secretin signaling to intraocular pressure or optic nerve biology
 - A route and formulation assessment, since the only known form is a systemic injection and the target is ocular
 - Review of whether the lower-ranked predictions offer any better-supported direction
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, and label safety information is missing, so the candidate cannot move to safety screening" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 584
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DESIPRAMINE"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "attention deficit-hyperactivity disorder", "specific developmental disorder", "chondromyxoid fibroma", "faciodigitogenital syndrome", "benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder"]
 description: "Desipramine: predicted new indication Attention deficit hyperactivity disorder, inattentive type (evidence level L5). Approved use: Not recorded in the local data"
@@ -86,6 +86,14 @@ No literature was retrieved for the inattentive subtype itself. The table below 
 
 The records contain no approved indication text.
 
+<!-- review:begin us-lic-20261105-desipramine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All six US licenses are valid. The records contain no approved indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 18 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-desipramine-1 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA071588 | DESIPRAMINE HYDROCHLORIDE | ACTAVIS TOTOWA | Tablet; oral | Valid |
@@ -95,6 +103,8 @@ The records contain no approved indication text.
 | ANDA072103 | DESIPRAMINE HYDROCHLORIDE | CHARTWELL RX | Tablet; oral | Valid |
 
 Showing 5 of 18 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -117,11 +127,31 @@ The inattentive-subtype prediction rests on a model score alone, with no trials 
 - Controlled trial evidence of desipramine in ADHD, ideally including the inattentive subtype
 - A cardiovascular (ECG) safety assessment for the target population, especially children
 
+<!-- review:begin us-lic-20261106-desipramine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A cardiovascular (ECG) safety assessment for the target population, especially children / A review of how the cancelled market status affects practical feasibility" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 18 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-desipramine-2 -->
+
 ### Other Predictions Noted
 
 For context, the two other predictions with literature support are weaker or comparable:
 - **Agoraphobia / panic disorder (L3, research question)**: it has a small placebo-controlled RCT ([PMID 8290663](https://pubmed.ncbi.nlm.nih.gov/8290663/)) and open-label studies, but modern guidelines prefer SSRIs and SNRIs.
 - **Obsessive-compulsive disorder (L3, research question)**: controlled studies show desipramine is inferior to serotonergic agents ([PMID 2686576](https://pubmed.ncbi.nlm.nih.gov/2686576/), [PMID 2112374](https://pubmed.ncbi.nlm.nih.gov/2112374/)), so it is unlikely to be a preferred therapy.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All six US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "A review of how the cancelled market status affects practical feasibility" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

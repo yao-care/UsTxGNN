@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 5
 monitor_inn: "POTASSIUM"
 predicted_indications: ["hypertensive disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Potassium: predicted new indication Hypertensive disorder (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
@@ -42,6 +42,12 @@ Potassium is an essential mineral and electrolyte. The data compiled for this re
 The TxGNN model predicts it may be effective for **hypertensive disorder**.
 This direction is supported by **25 registered clinical trials** (only a few directly test potassium) and **20 publications**, including **2 meta-analyses of randomized trials**.
 
+<!-- review:begin us-lic-20261106-potassium-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The data compiled for this report list no approved original indication for it, and it is marketed in the US with 7 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-potassium-1 -->
+
 ---
 
 ## Quick Overview
@@ -71,6 +77,12 @@ Currently, detailed mechanism of action data is not available in the drug record
 Two meta-analyses of randomized trials (a dose-response analysis, PMID 32500831, and a systematic review, PMID 23558164) show a consistent blood pressure reduction with higher potassium intake. This gives the prediction a plausible biological basis and human evidence.
 
 Because no original indication is recorded, the link to an existing use cannot be assessed. The product form and dose must also be defined, either dietary or supplement.
+
+<!-- review:begin us-lic-20261106-potassium-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The product form and dose must also be defined, either dietary or supplement, because the US market records are cancelled and mix potassium citrate with unrelated products." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-potassium-2 -->
 
 **Other predicted indications** have much weaker support and are all rated Hold:
 - *Pulmonary hypertension owing to lung disease and/or hypoxia* (0.9905, L4): the literature is basic science on oxygen-sensitive potassium channels, which does not show that potassium supplementation treats the disease.
@@ -119,6 +131,14 @@ The other registered trials are mostly losartan potassium or similar potassium-s
 
 The drug is marketed, and no approved indication text is recorded.
 
+<!-- review:begin us-lic-20261106-potassium-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 7 valid licenses, and no approved indication text is recorded. Some entries are unrelated products (for example, a homeopathic pellet and a clorazepate salt) that match the name only." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-potassium-3 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDC 13411-868 | JBA ATIV ELECTROLYTE ORS LAVENDER LEMONADE | Advanced Pharmaceutical Services, Inc. Dba Affordable… | Powder | NDC listing, no FDA application (unapproved drug other) |
@@ -126,6 +146,8 @@ The drug is marketed, and no approved indication text is recorded.
 | NDC 44911-0263 | Trace Mineral Cord | Energique, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
 | NDC 61657-0526 | Met-Tox | wHITE mANUFACTURING INC DBA MICRO-WEST | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
 | NDC 44911-0266 | Pituistat | Energique, Inc. | Liquid | NDC listing, no FDA application (unapproved homeopathic) |
+
+<!-- licenses:end -->
 
 ---
 
@@ -146,12 +168,34 @@ Based on the literature and trial review, the main risk is **hyperkalemia**, wit
 **Rationale:**
 For hypertension, two meta-analyses of randomized trials show a consistent blood pressure reduction with higher potassium intake, and the mechanism is plausible. Direct potassium-specific trials are small or old, and safety label data are missing, so progress should be conditional. The other four predicted indications are not supported and should remain on Hold.
 
+<!-- review:begin us-lic-20261106-potassium-4 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Direct potassium-specific trials are small or old, the market records are cancelled with no recorded indication, and safety label data are missing, so progress should be conditional." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-potassium-4 -->
+
 **To proceed, the following is needed:**
 - Define the product form and dose (dietary vs. supplement)
 - Obtain the package insert warnings and contraindications (a blocking data gap)
 - Obtain mechanism of action data from DrugBank
 - Develop a hyperkalemia monitoring plan, with exclusion or close monitoring of patients with renal impairment or on RAAS inhibitors or potassium-sparing diuretics
 - Review the potassium-specific trials for efficacy at defined doses, since many of the registered trials are name matches to potassium-salt drugs
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "because the US market records are cancelled and mix potassium citrate with unrelated products" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 valid licenses Some entries are unrelated products (for example, a homeopathic pellet and a clorazepate salt) that match the name onl" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the market records are cancelled with no recorded indication" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1191
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TACROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: predicted new indication Seborrheic dermatitis (evidence level L1). Approved use: Not recorded in the local data"
@@ -86,6 +86,12 @@ Atopic dermatitis and seborrheic dermatitis are both chronic, relapsing inflamma
 
 The main ones are:
 
+<!-- review:begin us-lic-20261106-tacrolimus-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are currently 13 valid licenses. The main ones are:" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 26 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tacrolimus-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA050777 | Tacrolimus (Padagis) | Ointment | Not available |
@@ -110,6 +116,12 @@ Please also refer to the package insert for full safety information.
 **Rationale:**
 A completed Phase 3 trial and a completed Phase 4 study in facial seborrheic dermatitis, plus a published double-blind randomized trial, directly support the prediction. The mechanism is plausible and shared with the approved atopic dermatitis use. Evidence is rated L1 per the project criteria, but only one Phase 3 trial is listed, so confirmation is advisable. Label-level safety data is missing.
 
+<!-- review:begin us-lic-20261106-tacrolimus-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US licences are all cancelled, and label-level safety data is missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 26 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tacrolimus-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently missing)
 - Detailed mechanism-of-action data from DrugBank
@@ -119,6 +131,20 @@ A completed Phase 3 trial and a completed Phase 4 study in facial seborrheic der
 
 **Other predictions (for reference):**
 - **Parapsoriasis (0.9924, L4, Hold):** Evidence is limited to two case reports of pityriasis lichenoides, with no clinical trials. The high TxGNN score is a prediction, not clinical validation.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US licences are all cancelled, and l" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "There are currently 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

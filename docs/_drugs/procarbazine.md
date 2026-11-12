@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 5
 monitor_inn: "PROCARBAZINE"
 predicted_indications: ["follicular lymphoma", "neuroblastoma", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Procarbazine: predicted new indication Follicular lymphoma (evidence level L3). Approved use: Hodgkin lymphoma (including classic Hodgkin lymphoma and related subt…"
 ---
 
@@ -86,9 +86,13 @@ The remaining retrieved papers cover mitoxantrone, fludarabine myelotoxicity, lo
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA016785 | MATULANE | LEADIANT BIOSCI INC | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -115,11 +119,23 @@ Please also refer to the package insert for full safety information, as label wa
 **Rationale:**
 The evidence is limited to a small case report, a cohort description of the PEP-C regimen and background literature. The two registered trials either terminated early (6 patients) or do not test procarbazine. The mechanism of action is unavailable, and the safety profile (myelosuppression, carcinogenicity, interactions) calls for caution. Safety screening cannot proceed without the package insert.
 
+<!-- review:begin us-lic-20261106-procarbazine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US license is cancelled, the mechanism of action is unavailable, and the safety profile (myelosuppression, carcinogenicity, interactions) calls for caution." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-procarbazine-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (for example from DrugBank)
 - Verification of whether the regimen in NCT00003113 contains procarbazine
 - Prospective or retrospective data on procarbazine-containing regimens (such as PEP-C) in follicular lymphoma
+
+<!-- review:begin us-lic-20261031-procarbazine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Prospective or retrospective data on procarbazine-containing regimens (such as PEP-C) in follicular lymphoma / A review of the regulatory pathway, given that the only US license is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-procarbazine-1 -->
 
 ## Other Predicted Indications (Not Recommended for Advancement)
 
@@ -129,6 +145,19 @@ The evidence is limited to a small case report, a cohort description of the PEP-
 | Ganglioneuroblastoma | 0.9921 | L5 | Hold | Model score only, no trials or literature |
 | Retroperitoneal neoplasm | 0.9914 | L5 | Hold | Broad anatomical category, no specific mechanism assignable |
 | Vertebral anomalies and variable endocrine and T-cell dysfunction | 0.9907 | L5 | Hold | Rare congenital syndrome with no plausible link to a cytotoxic agent; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "A review of the regulatory pathway, given that the only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "he US license is cancelled, t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

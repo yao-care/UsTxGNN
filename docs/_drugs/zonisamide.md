@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1312
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Zonisamide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not available"
 monitor_inn: "ZONISAMIDE"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
@@ -131,9 +131,23 @@ The most relevant publications for the other candidate indications are listed be
 
 **Fibromyalgia (rank 9):** the two supplied publications are general antiepileptic drug reviews (chemical properties and sleep effects) and do not address fibromyalgia efficacy.
 
+<!-- review:begin us-lic-20261105-zonisamide-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All seven authorizations are valid, and no approved indication text is available in the compiled data." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 21 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-zonisamide-1 -->
+
+<!-- review:begin us-lic-20261106-zonisamide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two further generic authorizations (ANDA214492, Unichem; ANDA077869, Exelan) are also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 21 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-zonisamide-2 -->
+
 ---
 
 ## US Market Information
+
+<!-- licenses:begin -->
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
@@ -144,6 +158,8 @@ The most relevant publications for the other candidate indications are listed be
 | ANDA077813 | ZONISAMIDE | BIONPHARMA | Capsule; oral | Valid |
 
 Showing 5 of 21 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 
@@ -166,6 +182,12 @@ Package insert warnings and contraindications were not available in the compiled
 **Rationale:**
 The top-ranked prediction, Tourette syndrome, rests on a model score alone (L5) with no trials or literature, and the available literature points to a tic-induction risk rather than benefit. Bipolar mania evidence is indirect and mixed, including a case of zonisamide-induced mania. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-zonisamide-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with seven valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 21 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-zonisamide-3 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data from DrugBank
@@ -173,6 +195,28 @@ The top-ranked prediction, Tourette syndrome, rests on a model score alone (L5) 
 - Controlled trial data for any indication under consideration; none is currently registered except one withdrawn fibromyalgia trial
 - A safety assessment of the tic, OCD, mania and methemoglobinemia signals before any psychiatric repurposing is considered
 - Clarification of the US regulatory status
+
+<!-- review:begin us-lic-20261106-zonisamide-4 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the US regulatory status, given that the drug is marketed with seven valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 21 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-zonisamide-4 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All seven authorizations are valid, and no approved indication text is available in the compiled data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Two further generic authorizations (ANDA214492, Unichem; ANDA077869, Exelan) are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with seven valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that the drug is marketed with seven valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

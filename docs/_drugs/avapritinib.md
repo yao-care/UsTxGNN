@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "AVAPRITINIB"
 predicted_indications: ["axial spondylometaphyseal dysplasia", "bilateral parasagittal parieto-occipital polymicrogyria", "amyotrophic lateral sclerosis", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "amyotrohpic lateral sclerosis type 22", "lower motor neuron syndrome with late-adult onset", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Avapritinib: predicted new indication Axial spondylometaphyseal dysplasia (evidence level L5). Approved use: Gastrointestinal stromal tumor"
 ---
 
@@ -70,9 +70,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA212608 | AYVAKIT | BLUEPRINT MEDICINES | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -111,12 +115,38 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction rests on a model score alone (Evidence Level L5), with no clinical trials, no literature, and no plausible mechanistic link to axial spondylometaphyseal dysplasia.
 
+<!-- review:begin us-lic-20261106-avapritinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The prediction rests on a model score alone (Evidence Level L5), with no clinical trials, no literature, and no plausible mechanistic link to axial spondylometaphyseal dysplasia. The sole US NDA is also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-avapritinib-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for avapritinib
 - Package insert warnings and contraindications, needed before any safety screening
 - Biological evidence connecting KIT/PDGFRA signalling to the pathogenesis of the predicted disease
 - Preclinical or mechanistic studies in a relevant disease model
 - Confirmation of current US regulatory and supply status
+
+<!-- review:begin us-lic-20261106-avapritinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current US regulatory and supply status, given the cancelled NDA" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-avapritinib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The sole US NDA is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given the cancelled NDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PEXIDARTINIB"
 predicted_indications: ["HER2 positive breast carcinoma", "progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "progesterone-receptor negative breast cancer", "breast tumor luminal A or B", "synovium cancer", "synovium disease", "dermatofibrosarcoma protuberans", "multifocal choroiditis", "malignant giant cell tumor"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pexidartinib: predicted new indication HER2 positive breast carcinoma (evidence level L5). Approved use: Tenosynovial giant cell tumor (including the localized type and pigme…"
 ---
 
@@ -83,9 +83,13 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA211810 | TURALIO | DAIICHI SANKYO INC | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -120,11 +124,37 @@ Currently no related clinical trials registered.
 **Rationale:**
 The prediction for HER2-positive breast carcinoma has no clinical trials and only one general preclinical paper in a different breast cancer subtype (HR+/HER2-). The evidence level is L5. The boxed hepatotoxicity warning also raises the bar for any new oncology use.
 
+<!-- review:begin us-lic-20261106-pexidartinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The evidence level is L5, and the US license is cancelled-only." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pexidartinib-1 -->
+
 **To proceed, the following is needed:**
 - Pexidartinib-specific preclinical data in HER2-positive breast cancer models, alone and combined with HER2-targeted therapy
 - Detailed mechanism-of-action data (MOA) and a clear rationale for the CSF1R/macrophage link in HER2-positive disease
 - Full package insert warnings and contraindications, including the hepatotoxicity risk-benefit assessment for a non-TGCT population
 - A review of regulatory and REMS availability
+
+<!-- review:begin us-lic-20261106-pexidartinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A review of regulatory and REMS availability, given the cancelled-only market status" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pexidartinib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the US license is cancelled-only" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given the cancelled-only market status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

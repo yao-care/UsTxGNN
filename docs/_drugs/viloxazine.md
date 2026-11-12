@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1291
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "VILOXAZINE"
 predicted_indications: ["faciodigitogenital syndrome", "insomnia (disease)", "Creutzfeldt-Jakob disease", "hypersomnia (disease)", "circadian rhythm sleep disorder", "chondromyxoid fibroma", "X-linked adrenoleukodystrophy"]
 description: "Viloxazine: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -98,9 +98,13 @@ The strongest support is direct clinical evidence: a placebo-controlled, flexibl
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA211964 | QELBREE | SUPERNUS PHARMS | Capsule, extended release; oral | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -119,11 +123,37 @@ Of note, the literature compiled for this report mentions that the cardiovascula
 **Rationale:**
 A completed Phase 3 randomized placebo-controlled trial, several long-term extension studies and multiple meta-analyses and reviews support viloxazine in ADHD. However, this is an already established use of the extended-release product, not a true repurposing finding.
 
+<!-- review:begin us-lic-20261031-viloxazine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "However, this is an already established use of the extended-release product, not a true repurposing finding. The US licence record shows only a single NDA with cancelled status, and the safety label data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-viloxazine-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Confirmation of the current US marketing and licence status of Qelbree
 - Detailed mechanism of action data from DrugBank
 - Clarification of the link between the original narcolepsy indications and ADHD, since the original indication record does not explain the relationship
+
+<!-- review:begin us-lic-20261106-viloxazine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the current US marketing and licence status of Qelbree, given that the licence record shows "cancelled" while the literature describes it as FDA-approved" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-viloxazine-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The US licence record shows only a single NDA with cancelled status, and the safety label data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that the licence record shows "cancelled" while the literature describes it as FDA-approved" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 397
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "ARIPIPRAZOLE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 description: "Aripiprazole: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5). Approved use: Not recorded in the local data"
@@ -98,6 +98,12 @@ Note: PMID 38669232 (an aripiprazole/bupropion meta-analysis) has been retracted
 
 The drug is marketed in the US, and no approved indication text is recorded.
 
+<!-- review:begin us-lic-20261106-aripiprazole-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 11 valid licenses, and no approved indication text is recorded for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 46 FDA applications or NDC listings for this drug, 31 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-aripiprazole-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021436 | ABILIFY | Tablet | Not recorded |
@@ -126,6 +132,12 @@ The package insert warnings and contraindications were not available in the comp
 **Rationale:**
 Several completed Phase 3 placebo-controlled adjunctive trials (n=1200, 1151 and others), the large VAST-D trial and multiple meta-analyses support aripiprazole as an adjunct in MDD, which gives evidence level L1. Safety concerns (metabolic effects, akathisia, impulse control) call for guardrails.
 
+<!-- review:begin us-lic-20261106-aripiprazole-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Safety concerns (metabolic effects, akathisia, impulse control) and the cancelled US license status call for guardrails." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 46 FDA applications or NDC listings for this drug, 31 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-aripiprazole-1 -->
+
 **To proceed, the following is needed:**
 - Obtain the FDA package insert warnings and contraindications. This blocks the safety screening step.
 - Obtain detailed mechanism of action data.
@@ -133,12 +145,33 @@ Several completed Phase 3 placebo-controlled adjunctive trials (n=1200, 1151 and
 - Define a monitoring plan covering metabolic parameters, akathisia and impulse-control symptoms, with use restricted to adjunctive therapy after inadequate antidepressant response.
 - Check the Major bupropion interaction when planning combination regimens.
 
+<!-- review:begin us-lic-20261106-aripiprazole-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirm the current US regulatory status, since the drug is marketed with 11 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 46 FDA applications or NDC listings for this drug, 31 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-aripiprazole-3 -->
+
 ## Other Predicted Indications (Brief)
 
 - **Trichotillomania** (Hold / research question, L3): Evidence is limited to a small open-label trial (n=12) and case reports, and a placebo-controlled Phase 2 trial (NCT05545891) has not yet started recruiting. Aripiprazole has also been reported to induce impulsive-compulsive behaviors, so the risk-benefit direction is uncertain.
 - **Asperger syndrome susceptibility** (Hold, L4): The link is indirect, via the existing autism-irritability indication. There are no specific trials or literature.
 - **Phelan-McDermid syndrome, 17p13.3 microdeletion syndrome and Malan overgrowth syndrome** (Hold, L5): Any link would be symptomatic overlap only, and no trials or literature were found.
 - **Gaze palsy with progressive scoliosis, amelocerebrohypohidrotic syndrome, retinal dystrophy and hydranencephaly** (Hold, L5): No plausible mechanistic link and no supporting evidence. These are model predictions only.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the cancelled US license status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid licenses for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

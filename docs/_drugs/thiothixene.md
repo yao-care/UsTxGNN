@@ -81,6 +81,8 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA071093 | THIOTHIXENE | RISING | Capsule; oral | Valid |
@@ -90,6 +92,8 @@ Currently no related literature available.
 | ANDA070601 | THIOTHIXENE | CHARTWELL RX | Capsule; oral | Discontinued in Drugs@FDA |
 
 Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

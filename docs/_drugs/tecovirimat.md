@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1204
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tecovirimat: predicted new indication Hordeolum (evidence level L5). Approved use: Smallpox"
 monitor_inn: "TECOVIRIMAT"
 predicted_indications: ["hordeolum", "vibrio infectious disease", "Klebsiella infectious disease", "noma", "lumpy skin disease", "idiopathic severe pneumococcemia", "coinfection", "phlebotomus fever"]
@@ -88,6 +88,12 @@ Currently no related literature available.
 
 The records contain no approved-indication text.
 
+<!-- review:begin us-lic-20261106-tecovirimat-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both authorizations are listed as cancelled in the data compiled for this report. The records contain no approved-indication text." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tecovirimat-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA208627 | TPOXX | Capsule | — |
@@ -108,6 +114,12 @@ Please refer to the package insert for safety information. No drug-interaction r
 **Rationale:**
 The hordeolum prediction has no trials, no literature and no plausible mechanism. Tecovirimat acts on an orthopoxvirus-specific protein, and hordeolum is a bacterial infection.
 
+<!-- review:begin us-lic-20261106-tecovirimat-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Tecovirimat acts on an orthopoxvirus-specific protein, and hordeolum is a bacterial infection. Both US NDAs are also currently cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tecovirimat-2 -->
+
 **To proceed, the following is needed:**
 - Redirect the evaluation to the orthopoxvirus-related predictions (mpox), which are better supported but largely overlap with the drug's existing indication class.
 - For mpox, review primary randomized trial publications to verify efficacy. The current evidence consists mostly of reviews and case reports.
@@ -115,6 +127,27 @@ The hordeolum prediction has no trials, no literature and no plausible mechanism
 - Obtain formal mechanism-of-action data from DrugBank.
 - Clarify the regulatory status.
 - Do not pursue hordeolum or the other bacterial and non-poxvirus predictions unless new in vitro or clinical evidence emerges.
+
+<!-- review:begin us-lic-20261106-tecovirimat-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarify the regulatory status of the cancelled NDAs." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tecovirimat-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both authorizations are listed as cancelled in the data compiled for this report" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Both US NDAs are also currently cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "of the cancelled NDAs" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

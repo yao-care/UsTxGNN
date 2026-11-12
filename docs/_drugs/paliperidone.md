@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1010
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Paliperidone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia, schizoaffective disorder, schizophreniform disorder…"
 monitor_inn: "PALIPERIDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
@@ -73,6 +73,12 @@ Currently no related literature available.
 
 The table lists five of them, and approved indication text was not available for any of them.
 
+<!-- review:begin us-lic-20261105-paliperidone-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 12 authorizations are valid. The table lists five of them, and approved indication text was not available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 20 FDA applications or NDC listings for this drug, 16 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-paliperidone-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA022264 | INVEGA SUSTENNA | Injection | Not specified |
@@ -116,10 +122,37 @@ Please refer to the package insert for official warnings and contraindications.
 **Rationale:**
 The prediction is supported only by a model score, with no clinical trials or publications and no demonstrated mechanism linking paliperidone to retinal dystrophy. The drug is marketed.
 
+<!-- review:begin us-lic-20261106-paliperidone-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 12 valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 20 FDA applications or NDC listings for this drug, 16 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-paliperidone-3 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a biological rationale connecting dopaminergic or serotonergic antagonism to retinal degeneration
 - Preclinical evidence (for example, retinal disease models) before any clinical consideration
 - Package insert warnings and contraindications to complete the safety review
+
+<!-- review:begin us-lic-20261106-paliperidone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Package insert warnings and contraindications to complete the safety review / Verification of the cancelled market status and its effect on development feasibility" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 20 FDA applications or NDC listings for this drug, 16 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-paliperidone-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 12 authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Verification of the cancelled market status and its effect on development feasibility" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 12 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 991
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "OMADACYCLINE"
 predicted_indications: ["drug-induced osteoporosis", "orbital cellulitis", "post-infectious syndrome", "postinfectious vasculitis", "post-bacterial disorder", "ophthalmic herpes zoster", "otitis externa", "infective urethral stricture", "infection-related hemolytic uremic syndrome"]
 description: "Omadacycline: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not recorded in the local data"
@@ -101,12 +101,38 @@ Please refer to the package insert for warnings and contraindications, as these 
 **Rationale:**
 The mechanistic rationale is strong and the TxGNN score is very high. However, the supporting evidence is limited to retrospective studies, a pharmacokinetic evaluation, case reports and reviews, with no registered clinical trials. Label warnings and contraindications were not available, so safety screening cannot yet proceed. The other nine predicted indications (for example drug-induced osteoporosis, orbital cellulitis and ophthalmic herpes zoster) have no clinical evidence and are also on Hold. Infection-related hemolytic uremic syndrome carries a specific safety concern, because antibiotics may increase toxin release.
 
+<!-- review:begin us-lic-20261106-omadacycline-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both US NDAs are cancelled, and label warnings and contraindications were not available, so safety screening cannot yet proceed." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-omadacycline-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank
 - Full-text review of the two 2026 clinical studies (PMIDs 42559097 and 42370222) to confirm design, sample size and outcomes
 - A prospective controlled trial in macrolide-resistant *M. pneumoniae* pneumonia, with pediatric safety monitoring
 - Review of the anticardiolipin and hypercoagulability signal
+
+<!-- review:begin us-lic-20261106-omadacycline-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled NDA status and its commercial availability / A prospective controlled trial in macrolide-resistant *M. pneumoniae* pneumonia, with pediatric safety monitoring" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-omadacycline-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both US NDAs are cancelled, and l" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Clarification of the cancelled NDA status and its commercial availability" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

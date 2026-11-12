@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 764
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Guanfacine: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Hypertension"
 monitor_inn: "GUANFACINE"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "manic bipolar affective disorder", "restless legs syndrome", "Tourette syndrome"]
@@ -82,6 +82,12 @@ Currently no related literature available.
 
 The five main ones are listed below, and the approved indication text is not specified in the authorization records.
 
+<!-- review:begin us-lic-20261106-guanfacine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are 11 valid authorizations. The five main ones are listed below, and the approved indication text is not specified in the authorization records." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 27 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-guanfacine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA 022037 | Intuniv (Takeda Pharmaceuticals America) | Extended-release tablet | Not specified |
@@ -108,12 +114,32 @@ Please refer to the package insert for authoritative warnings and contraindicati
 **Rationale:**
 The prediction has no supporting trials or literature, and no plausible biological link to alpha-2A agonism was found. The drug is marketed in the US. The score alone is not enough to justify further investment.
 
+<!-- review:begin us-lic-20261106-guanfacine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 11 valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 27 FDA applications or NDC listings for this drug, 22 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-guanfacine-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible biological rationale linking guanfacine to this disorder
 - Any preclinical or clinical evidence in the predicted indication
 - The full package insert warnings and contraindications
 
 **Note on other predictions:** Among the other predictions for guanfacine, **Tourette syndrome** has by far the strongest support. It has a completed Phase 3 placebo-controlled trial (NCT00004376, n=35), a completed Phase 4 study (NCT01547000, n=34), and European guideline support for alpha-2 agonists in tics, particularly with comorbid ADHD. It would be a better candidate to evaluate in a separate report, with guardrails.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "There are 11 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 11 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

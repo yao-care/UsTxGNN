@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TETRABENAZINE"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tetrabenazine: predicted new indication Polycystic kidney disease 3 with or without polycystic liver disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -102,12 +102,31 @@ Please refer to the package insert for the full warnings and contraindications, 
 **Rationale:**
 The prediction is purely computational. It has no clinical trials, no literature, and no plausible mechanistic link between VMAT2 inhibition and polycystic kidney/liver disease. In addition, label safety data are missing.
 
+<!-- review:begin us-lic-20261106-tetrabenazine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, all U.S. authorizations for tetrabenazine are cancelled, and label safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 12 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-tetrabenazine-1 -->
+
 **To proceed, the following is needed:**
 - Preclinical or mechanistic evidence connecting monoamine/VMAT2 pathways to ciliary or cystogenesis biology
 - Detailed mechanism of action data
 - FDA package insert warnings and contraindications for safety screening
 - Confirmation of current U.S. market and supply status
 - Re-evaluation of other candidate indications that may have a more plausible neurological link
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "all U.S. authorizations for tetrabenazine are cancelled, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

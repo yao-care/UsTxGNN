@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "RIFAPENTINE"
 predicted_indications: ["leprosy", "female breast carcinoma", "Prinzmetal angina", "HIV infectious disease", "neuroretinitis", "vestibular neuronitis", "motor nerve neuritis", "brachial plexus neuritis", "dermatofibrosarcoma protuberans", "rheumatoid arthritis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Rifapentine: predicted new indication Leprosy (evidence level L3). Approved use: Pulmonary tuberculosis"
 ---
 
@@ -114,10 +114,14 @@ For reference, the second-best-supported prediction, HIV-associated tuberculosis
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA217042 | RIFAPENTINE | MACLEODS PHARMS | Tablet; oral | Valid |
 | NDA021024 | PRIFTIN | SANOFI AVENTIS US | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -149,6 +153,25 @@ Package insert warnings and contraindications were not available. Please refer t
 - Mechanism-of-action data from DrugBank.
 - Package insert warnings and contraindications from the FDA.
 - A drug-interaction management plan, especially for antiretrovirals and the major-level interactions.
+
+<!-- review:begin us-lic-20261031-rifapentine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Clarification of US regulatory status, since the only NDA on record is cancelled. / A drug-interaction management plan, especially for antiretrovirals and the major-level interactions." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-rifapentine-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Clarification of US regulatory status, since the only NDA on record is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

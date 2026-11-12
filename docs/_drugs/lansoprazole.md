@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 835
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "LANSOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Lansoprazole: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
@@ -83,6 +83,12 @@ Currently no related clinical trials registered.
 
 Five more authorizations (all cancelled) are on record and not listed here.
 
+<!-- review:begin us-lic-20261106-lansoprazole-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Five more authorizations (all cancelled, 10 in total) are on record and not listed here." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 41 FDA applications or NDC listings for this drug, 26 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lansoprazole-1 -->
+
 ## Safety Considerations
 
 - **Contraindications flagged in the knowledge graph (not label text):** The graph links lansoprazole to conditions including long QT syndrome, torsades de pointes, liver failure and liver disease, kidney disease, porphyria, congestive heart failure, osteoporosis, myocardial infarction, stroke and cerebrovascular disorders, blood coagulation disease, anemia, *Clostridium difficile* colitis, and myasthenia gravis. These come from a computational graph and need to be verified against the official label.
@@ -103,6 +109,26 @@ Mechanistically, acid suppression would at best relieve symptoms rather than tre
 - A targeted literature search on PPIs in bile or duodenogastric reflux, and a check of trial registries
 - Confirmation of the current US marketing status of lansoprazole products
 - Assessment of route and formulation compatibility, which is still pending
+
+<!-- review:begin us-lic-20261106-lansoprazole-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the current US marketing status of lansoprazole products, since all 10 records are marked cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 41 FDA applications or NDC listings for this drug, 26 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lansoprazole-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "10 in total" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since all 10 records are marked cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

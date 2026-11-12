@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "RISDIPLAM"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Risdiplam: predicted new indication acne (disease) (evidence level L5). Approved use: Spinal muscular atrophy"
 ---
 
@@ -79,6 +79,12 @@ Currently no related literature available.
 
 Both authorizations are held by Genentech, Inc.. The records should be checked against the current FDA database before any conclusion is drawn about market availability.
 
+<!-- review:begin us-lic-20261106-risdiplam-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both authorizations are held by Genentech, Inc. and are recorded as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-risdiplam-1 -->
+
 ## Cytotoxicity
 
 Omitted. Risdiplam is not an antineoplastic drug.
@@ -104,6 +110,26 @@ The prediction is supported only by a model score, with no clinical trials, no l
 - Confirmation of current US marketing status
 - Preclinical or mechanistic evidence that risdiplam acts on acne-relevant pathways
 - A route-of-administration assessment for acne, since oral and solution forms are the only forms recorded
+
+<!-- review:begin us-lic-20261106-risdiplam-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current US marketing status, since both NDAs are recorded as cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-risdiplam-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and are recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since both NDAs are recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

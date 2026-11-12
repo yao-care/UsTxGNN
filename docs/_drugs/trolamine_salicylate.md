@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TROLAMINE SALICYLATE"
 predicted_indications: ["exostosis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "fibromyalgia", "inclusion body myositis", "exostoses, multiple,", "rheumatoid arthritis", "headache disorder", "gout"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Trolamine Salicylate: predicted new indication Exostosis (evidence level L5). Approved use: Not stated in the data compiled for this report . The product names s…"
 ---
 
@@ -90,6 +90,12 @@ Currently no related literature available.
 
 The drug is also recorded in spray form.
 
+<!-- review:begin us-lic-20261106-trolamine_salicylate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All three licenses are single-ingredient products and all are cancelled. The drug is also recorded in spray form." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-trolamine_salicylate-1 -->
+
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
@@ -103,12 +109,32 @@ No drug-drug interaction records were found, and no contraindications were ident
 **Rationale:**
 The top prediction (exostosis) rests only on a score from the TxGNN model (deep learning), with no clinical trials or literature and no plausible mechanistic link. In addition, the drug is marketed, but the safety label data are missing. Tendinitis and rheumatoid arthritis are more plausible symptomatic-relief directions but are also prediction-only at this stage.
 
+<!-- review:begin us-lic-20261106-trolamine_salicylate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the drug is marketed with 3 valid licenses, but the safety label data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-trolamine_salicylate-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data, for example from DrugBank
 - A literature and trial search for topical salicylates and NSAIDs in tendinopathy and inflammatory arthritis, as the more plausible alternatives
 - Confirmation of the original approved indications and a review of why the licenses were cancelled
 - Route compatibility assessment between the available topical forms and the intended use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All three licenses are single-ingredient products and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 3 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

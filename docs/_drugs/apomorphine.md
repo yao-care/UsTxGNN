@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "APOMORPHINE"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "syndromic myopia", "hydranencephaly (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Apomorphine: predicted new indication polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (evidence level L5). Approved use: Parkinson disease and related parkinsonian syndromes"
 ---
 
@@ -115,11 +115,30 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 - All ten predictions rest on model scores alone, or on indirect, old, small studies. None has a registered clinical trial. The top prediction (polymicrogyria) has no plausible mechanism. For schizophrenia, the small controlled studies from 1975–1984 showed no significant benefit, and psychotic disorders appear among the knowledge-graph contraindications. Schizophrenia is best treated as a research question rather than a development candidate.
 
+<!-- review:begin us-lic-20261105-apomorphine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Schizophrenia is best treated as a research question rather than a development candidate. The drug is marketed in the US, and all 3 licences are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 4 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-apomorphine-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism-of-action data and package insert warnings and contraindications (currently missing; the latter is a blocking gap for safety screening).
 - For schizophrenia, a careful review of the older negative studies and the psychosis-related contraindication signal, followed by preclinical or mechanistic work (for example, autoreceptor-selective effects) before any clinical consideration.
 - For the myopia and retinal predictions, supporting preclinical evidence, since retinal dopamine is only a hypothesis here, plus a route-of-administration assessment (current products are injectables only).
 - Confirmation of the current US regulatory and supply status, given that all 3 licences are listed as valid.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The drug is marketed in the US, and all 3 licences are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

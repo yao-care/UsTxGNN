@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1128
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "RISPERIDONE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 description: "Risperidone: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5). Approved use: Not recorded in the local data"
@@ -72,6 +72,12 @@ Currently no related literature available.
 
 Indication text is not recorded. The five listed below are the main ones.
 
+<!-- review:begin us-lic-20261106-risperidone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "10 licenses are valid. Indication text is not recorded for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 56 FDA applications or NDC listings for this drug, 33 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-risperidone-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|------|
 | NDA021444 | RISPERDAL M-TAB (Janssen) | Orally disintegrating tablet | NDA (Discontinued in Drugs@FDA) |
@@ -97,6 +103,12 @@ Label warnings and contraindications were not available in the data compiled for
 **Rationale:**
 The prediction has a very high model score but no clinical trials, no literature and no plausible mechanism. Evidence is at L5.
 
+<!-- review:begin us-lic-20261106-risperidone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Evidence is at L5, and all US licenses for risperidone are currently cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 56 FDA applications or NDC listings for this drug, 33 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-risperidone-1 -->
+
 **To proceed, the following is needed:**
 - A mechanistic rationale linking risperidone to ROBO3-related gaze palsy, or preclinical data supporting one.
 - Detailed mechanism of action data (MOA).
@@ -104,6 +116,27 @@ The prediction has a very high model score but no clinical trials, no literature
 - Clarification of the regulatory status, since the drug is marketed in the US.
 - Consideration of other predictions for this drug, which have more support in the data compiled for this report:
   - **Trichotillomania** has consistent case reports and case series (L3).
+
+<!-- review:begin us-lic-20261106-risperidone-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory status, since the drug is marketed in the US with 10 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 56 FDA applications or NDC listings for this drug, 33 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-risperidone-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and all US licenses for risperidone are currently cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "10 licenses are valid. for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 10 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

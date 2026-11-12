@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "REGORAFENIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "childhood kidney cell carcinoma", "vulva sarcoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Regorafenib: predicted new indication Liposarcoma (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -84,11 +84,15 @@ The clinical data, however, show that benefit depends on histology. The placebo-
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA203085 | STIVARGA | BAYER HLTHCARE | Tablet; oral | Valid |
 | NDA204369 | STIVARGA | BAYER HEALTHCARE PHARMS | Tablet; oral | Valid |
 | ANDA209728 | REGORAFENIB | ACTAVIS LABS FL | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -124,11 +128,30 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Rationale:**
 The only direct randomized evidence in liposarcoma (REGOSARC and the SARC024 liposarcoma cohort) is negative, and the authors do not support routine use. The high TxGNN score (0.9976) and the Phase 2 evidence level (L2) reflect that the drug has been tested in this disease, not that it works. Label warnings are unavailable. The other predicted indications are either prediction-only (L5, Hold) or lack disease-specific trials (clear cell renal carcinoma, L3, research question).
 
+<!-- review:begin us-lic-20261106-regorafenib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US NDA is also recorded as cancelled, and label warnings are unavailable." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-regorafenib-1 -->
+
 **To proceed, the following is needed:**
 - Retrieve the FDA package insert (warnings and contraindications), a blocking gap for safety screening
 - Obtain mechanism-of-action data from DrugBank
 - A biological rationale for why liposarcoma would respond when earlier randomized data did not (for example, a specific subtype or biomarker, or a combination approach)
 - If the program is redirected, evaluate clear cell renal carcinoma, where a Phase 2 study in untreated metastatic disease (PMID 22959186) and preclinical DDR2-sensitivity data (PMID 41324163) exist, but no Phase 3 evidence
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US NDA is also recorded as cancelled, and l" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

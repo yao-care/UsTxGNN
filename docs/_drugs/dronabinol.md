@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "DRONABINOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia", "pulmonary hypertension", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "Ambras type hypertrichosis universalis congenita", "atrophoderma vermiculata"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dronabinol: predicted new indication Migraine disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -62,6 +62,12 @@ The endocannabinoid system is thought to modulate trigeminovascular pain signall
 
 The very high TxGNN score is a computational result only. It does not by itself show that the drug works in migraine, and no published study confirms this.
 
+<!-- review:begin us-lic-20261106-dronabinol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "This list may be partial. Of the records listed, 2 are valid and 2 are cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dronabinol-1 -->
+
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
@@ -76,6 +82,8 @@ The very high TxGNN score is a computational result only. It does not by itself 
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA207421 | DRONABINOL | ASCENT PHARMS INC | Capsule; oral | Valid |
@@ -85,6 +93,8 @@ The very high TxGNN score is a computational result only. It does not by itself 
 | ANDA079217 | DRONABINOL | HIKMA | Capsule; oral | Discontinued in Drugs@FDA |
 
 Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -104,6 +114,18 @@ The only study directly addressing migraine is a completed Phase 2 trial with no
 - Detailed mechanism of action data
 - Warnings and contraindications from the package insert
 - A safety review of psychoactive effects and interactions with other central nervous system depressants in migraine patients
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "This list may be partial. Of the records listed, 2 are valid and 2 are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

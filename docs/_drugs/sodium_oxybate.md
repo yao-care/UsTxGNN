@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 6
 monitor_inn: "SODIUM OXYBATE"
 predicted_indications: ["insomnia (disease)", "obsolete neurogenic bladder (disease)", "sleep disorder, initiating and maintaining sleep", "cauda equina syndrome", "Wernicke-Korsakoff syndrome", "restless legs syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Sodium Oxybate: predicted new indication Insomnia (disease) (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -115,6 +115,12 @@ Please refer to the package insert for full warnings and contraindications. The 
 **Rationale:**
 The only directly relevant trial is a small Phase 2 study (n=48) with no available results, so evidence supports L2 at most. Sodium oxybate also carries serious respiratory-depression, misuse and drug-interaction risks. The drug-disease contraindication list includes sleep apnea and respiratory failure, which are common in patients with insomnia. The other predicted indications (neurogenic bladder, cauda equina syndrome, Wernicke-Korsakoff syndrome, restless legs syndrome) have no supporting evidence or point to potential harm. They are not recommended for further work.
 
+<!-- review:begin us-lic-20261106-sodium_oxybate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All U.S. authorizations are currently cancelled, and the drug-disease contraindication list includes sleep apnea and respiratory failure, which are common in patients with insomnia." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-sodium_oxybate-1 -->
+
 **To proceed, the following is needed:**
 - Results of NCT00383643 (sodium oxybate vs. zolpidem in chronic insomnia)
 - Package insert warnings and contraindications
@@ -122,6 +128,26 @@ The only directly relevant trial is a small Phase 2 study (n=48) with no availab
 - A risk-benefit analysis covering respiratory depression, misuse and CNS-depressant interactions
 - Clarification of the current U.S. regulatory status, since the drug is marketed
 - A larger Phase 2/3 randomized trial in insomnia with a safety plan that excludes sleep apnea and substance-use disorders
+
+<!-- review:begin us-lic-20261106-sodium_oxybate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current U.S. regulatory status, since the drug is marketed with 4 of 4 licenses valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-sodium_oxybate-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All U.S. authorizations are currently cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 4 of 4 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

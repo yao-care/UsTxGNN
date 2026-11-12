@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GRANISETRON"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Granisetron: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not stated in the compiled regulatory data (granisetron is generally…"
 ---
 
@@ -114,12 +114,31 @@ Please refer to the package insert for complete warnings and contraindications.
 **Rationale:**
 The top prediction (manic bipolar affective disorder) has a very high model score but no supporting clinical trials or literature (Evidence Level L5). The drug is marketed in the US, and the mechanistic link is speculative. QT-related safety signals and many major drug interactions add further caution, especially in a psychiatric population that often takes QT-prolonging drugs.
 
+<!-- review:begin us-lic-20261106-granisetron-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 10 valid licenses out of 10, and the mechanistic link is speculative." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 53 FDA applications or NDC listings for this drug, 26 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-granisetron-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the FDA (needed for safety screening)
 - Detailed mechanism of action data
 - A systematic search of clinical trials and literature for granisetron or other 5-HT3 antagonists in mania, bipolar disorder, and Tourette syndrome or trichotillomania
 - A QT-risk and drug-interaction assessment for the target population
 - Clarification of the original approved indication and of route and formulation compatibility with the new indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 10 valid licenses out of 10" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 669
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "ERYTHROMYCIN"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 description: "Erythromycin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -74,6 +74,14 @@ Currently no related clinical trials registered.
 
 The approved-indication text is not recorded in the local data. Main authorizations:
 
+<!-- review:begin us-lic-20261106-erythromycin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "At least 15 US licence records are listed, and the list may be partial. Of these, 14 are valid and 1 is cancelled. The approved-indication text is not recorded in the local data." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 130 FDA applications or NDC listings for this drug, 33 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-erythromycin-1 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA061621 | ERYTHROMYCIN | CARNEGIE | Tablet; oral | Valid |
@@ -83,6 +91,8 @@ The approved-indication text is not recorded in the local data. Main authorizati
 | ANDA062298 | ERY-TAB | PHARMOBEDIENT | Tablet, delayed release; oral | Valid |
 
 Showing 5 of 131 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -103,6 +113,18 @@ The model score is high (0.9989), but no clinical trial or publication directly 
 - Mechanism-of-action data and a clear rationale for ocular surface inflammation
 - Package insert warnings and contraindications, particularly for ophthalmic use
 - Review of QT-prolongation and interaction risks if systemic use is considered
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "At least 15 US licence records are listed, and the list may be partial. Of these, 14 are valid and 1 is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

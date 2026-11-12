@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1095
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PROPYLTHIOURACIL"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
 description: "Propylthiouracil: predicted new indication Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (evidence level L4). Approved use: Not recorded in the local data"
@@ -66,6 +66,12 @@ The high score comes from the TxGNN model (deep learning) and may reflect simila
 
 Currently no related clinical trials registered.
 
+<!-- review:begin us-lic-20261106-propylthiouracil-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All five authorizations are oral tablets and all are listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 16 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-propylthiouracil-2 -->
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
@@ -77,6 +83,8 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA080154 | PROPYLTHIOURACIL | QUAGEN | Tablet; oral | Valid |
@@ -86,6 +94,8 @@ Currently no related clinical trials registered.
 | ANDA080015 | PROPYLTHIOURACIL | HALSEY | Tablet; oral | Discontinued in Drugs@FDA |
 
 Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -105,6 +115,12 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The prediction score is very high, but there are no clinical trials and the literature consists only of case descriptions and mouse models, none testing PTU as therapy. The mechanism points the wrong way: reducing thyroid hormone in patients whose tissues already respond poorly to it may cause harm.
 
+<!-- review:begin us-lic-20261105-propylthiouracil-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The mechanism points the wrong way: reducing thyroid hormone in patients whose tissues already respond poorly to it may cause harm. All 5 US authorizations are valid, and the drug is marketed." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 16 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-propylthiouracil-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking data gap)
 - Mechanism of action data from DrugBank
@@ -117,6 +133,20 @@ The prediction score is very high, but there are no clinical trials and the lite
 
 - **Neonatal thyrotoxicosis**: This is mechanistically close to PTU's original use. The evidence is mostly reviews on maternal hyperthyroidism in pregnancy, where PTU is used, plus one cohort study (PMID 25747892). Direct treatment of the neonate is not established, and a case report (PMID 2090674) describes neonatal hepatitis after placental PTU transfer. It is best framed as a research question.
 - **Hyperthyroxinemia** (score 0.9908, L4): This is a laboratory finding with many causes. Antithyroid treatment is plausible only when it reflects true hormone overproduction, and it could harm patients with binding-protein abnormalities or hormone resistance. The evidence is case reports and animal studies, so the recommendation is Hold.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 5 US authorizations are valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "All five authorizations are oral tablets and all are listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

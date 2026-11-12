@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 955
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "NARATRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Naratriptan: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
@@ -69,6 +69,12 @@ Currently no related clinical trials registered.
 
 The publications below concern migraine and naratriptan in general. None directly studies migraine with brainstem aura. Randomized trials are listed first, then reviews and other studies.
 
+<!-- review:begin us-lic-20261106-naratriptan-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All three US authorizations are generic applications that are now cancelled, and no approved indication text is recorded for them." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-naratriptan-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [10972634](https://pubmed.ncbi.nlm.nih.gov/10972634/) | 2000 | RCT | Clinical Therapeutics | Randomized, double-blind crossover comparison of naratriptan vs sumatriptan on headache recurrence in recurrence-prone migraine patients |
@@ -126,6 +132,19 @@ The prediction is mechanistically plausible because the subtype shares pharmacol
 - Detailed mechanism of action data
 - A focused review of ischemic and vasoconstrictive risk of triptans in migraine with brainstem aura
 - Evidence from studies that directly enrol patients with this subtype
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All three US authorizations are generic applications that are now cancelled, and no approved indication text is recorded for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

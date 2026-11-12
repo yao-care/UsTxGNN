@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "CORTISONE"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "myelodysplastic syndrome", "lymphosarcoma", "candidiasis", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cortisone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -99,6 +99,12 @@ All of these are old, small, descriptive reports with no controlled comparison. 
 
 Cortisone is marketed in the US.
 
+<!-- review:begin us-lic-20261105-cortisone-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Cortisone is marketed in the US. One record is currently valid (the pellet product) and one is cancelled (the tablet product)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 20 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-cortisone-1 -->
+
 ---
 
 ## Safety Considerations
@@ -119,6 +125,18 @@ The model score is high (0.9967), and glucocorticoids have a plausible lympholyt
 - Mechanism-of-action data, including cortisone-to-cortisol conversion in skin and lymphoma tissue
 - A comparison against current standard options (topical corticosteroids, other systemic agents) to see whether cortisone adds anything
 - Preclinical or early clinical data in cutaneous T-cell lymphoma showing a benefit that justifies a prospective study
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "One record is currently valid (the pellet product) and one is cancelled (the tablet product)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

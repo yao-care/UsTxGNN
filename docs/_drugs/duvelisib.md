@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 637
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DUVELISIB"
 predicted_indications: ["Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
 description: "Duvelisib: predicted new indication Hodgkins lymphoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -139,12 +139,38 @@ For full warnings and contraindications, please refer to the package insert.
 **Rationale:**
 The high prediction score is not backed by any Hodgkin lymphoma-specific trial or publication. Known PI3K-class toxicities add to the caution.
 
+<!-- review:begin us-lic-20261031-duvelisib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The supporting evidence is from related lymphomas, several trials were withdrawn or terminated, and the only US license is cancelled. Known PI3K-class toxicities add to the caution." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-duvelisib-1 -->
+
 **To proceed, the following is needed:**
 - Hodgkin lymphoma-specific preclinical or early clinical data (for example, a small Phase 1/2 study in relapsed or refractory classical Hodgkin lymphoma)
 - Mechanism of action data and a clearer mechanistic link to Hodgkin lymphoma biology
 - Package insert warnings and contraindications for a full safety review
 - Clarification of the availability of the product
 - A risk-benefit assessment against existing Hodgkin lymphoma therapies, given the class toxicity profile
+
+<!-- review:begin us-lic-20261106-duvelisib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US market status and the availability of the product" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-duvelisib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The supporting evidence is from related lymphomas, several trials were withdrawn or terminated, and the only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled US market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

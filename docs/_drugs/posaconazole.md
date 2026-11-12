@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "POSACONAZOLE"
 predicted_indications: ["pneumocystosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Posaconazole: predicted new indication Pneumocystosis (evidence level L5). Approved use: Chromomycosis, coccidioidomycosis, aspergillosis, candidiasis…"
 ---
 
@@ -81,6 +81,14 @@ None of these publications tests posaconazole for pneumocystosis.
 
 The drug is marketed in the US. The data compiled for this report contains no approved indication text. The main authorizations are:
 
+<!-- review:begin us-lic-20261106-posaconazole-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 14 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 26 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-posaconazole-1 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA208768 | POSACONAZOLE | PH HEALTH | Solution; intravenous | Valid |
@@ -90,6 +98,8 @@ The drug is marketed in the US. The data compiled for this report contains no ap
 | ANDA212226 | POSACONAZOLE | SPECGX LLC | Tablet, delayed release; oral | Valid |
 
 Showing 5 of 26 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Available dosage forms include injectable, oral (delayed-release and coated tablets) and solution.
 
@@ -114,6 +124,26 @@ The high TxGNN score is not backed by a plausible mechanism, because *Pneumocyst
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Confirmation of the regulatory status
 - Comparison against trimethoprim-sulfamethoxazole, the standard of care
+
+<!-- review:begin us-lic-20261106-posaconazole-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the regulatory status of the 14 valid US licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 26 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-posaconazole-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 14 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "of the 14 valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

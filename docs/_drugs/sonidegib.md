@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1174
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Sonidegib: predicted new indication Medulloblastoma with extensive nodularity (evidence level L5). Approved use: Basal cell carcinoma (skin carcinoma)"
 monitor_inn: "SONIDEGIB"
 predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma pigmentosum", "annular epidermolytic ichthyosis", "epidermolysis bullosa simplex with mottled pigmentation", "trichothiodystrophy photosensitive", "cutaneous adenocystic carcinoma", "benign neoplasm of sweat gland", "eccrine carcinoma", "obsolete cataract, microcephaly, failure to thrive, kyphoscoliosis syndrome"]
@@ -83,13 +83,23 @@ Currently no related clinical trials registered for medulloblastoma with extensi
 
 Currently no related literature available for medulloblastoma with extensive nodularity.
 
+<!-- review:begin us-lic-20261031-sonidegib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only US authorization is cancelled, so product availability would need to be verified before any development work." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-sonidegib-1 -->
+
 ---
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA205266 | ODOMZO | SUN PHARM | Capsule; oral | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -124,12 +134,39 @@ Please refer to the package insert for the full warnings and contraindications, 
 **Rationale:**
 The prediction is mechanistically plausible because medulloblastoma is Hedgehog-driven. However, there is no clinical or published evidence for this indication (Evidence Level L5). The pediatric safety and brain-penetration concerns are significant.
 
+<!-- review:begin us-lic-20261106-sonidegib-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US authorization is cancelled, and the pediatric safety and brain-penetration concerns are significant." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-sonidegib-3 -->
+
 **To proceed, the following is needed:**
 - Preclinical or clinical evidence of sonidegib activity in SHH-subgroup and nodular/desmoplastic medulloblastoma
 - Data on blood-brain barrier penetration
 - Assessment of resistance risk from downstream mutations (SUFU, GLI2)
 - A pediatric safety assessment, especially for growth plate effects
 - FDA package insert warnings and contraindications
+
+<!-- review:begin us-lic-20261031-sonidegib-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "FDA package insert warnings and contraindications / Verification of current product availability, since the only US NDA is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-sonidegib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US authorization is cancelled, so product availability would need to be verified before any development work" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Verification of current product availability, since the only US NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "he US authorization is cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

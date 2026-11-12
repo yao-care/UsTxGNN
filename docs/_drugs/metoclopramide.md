@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 918
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "METOCLOPRAMIDE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
 description: "Metoclopramide: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -108,6 +108,12 @@ Most retrieved publications are general reviews of dyspepsia, gastroparesis, ref
 
 No approved indication text is recorded. The first 5 are listed below.
 
+<!-- review:begin us-lic-20261106-metoclopramide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 10 US authorizations are generic applications (ANDAs) with a cancelled status, and no approved indication text is recorded." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 67 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-metoclopramide-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA072801 | Metoclopramide (Bryant Ranch Prepack) | Tablet | Not recorded |
@@ -149,6 +155,19 @@ Several of the interactions involve CNS depressants and opioids. Please refer to
 - Mechanism of action data (for example from DrugBank)
 - Results of NCT05746377 and the 2024 and 2026 visualization RCTs, to define whether a narrower pre-endoscopy use in upper GI bleeding is worth pursuing as a separate question
 - Clarification of the safety conflict with active peptic ulcer disease
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 10 US authorizations are generic applications (A DAs) with a cancelled status, and n" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

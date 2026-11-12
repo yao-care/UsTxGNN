@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "CYSTEINE"
 predicted_indications: ["dry eye syndrome", "closed-angle glaucoma", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis", "exercise-induced malignant hyperthermia", "angle-closure glaucoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cysteine: predicted new indication Dry eye syndrome (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -72,6 +72,12 @@ Currently no related clinical trials registered.
 
 The most relevant publications are listed below. All are preclinical or review-level, and no RCTs were found. Many of the 20 retrieved papers concern Sjögren's syndrome biology or are only loosely related, so they are not listed.
 
+<!-- review:begin us-lic-20261105-cysteine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All three US licenses are valid, and the data compiled for this report contain no approved indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 4 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-cysteine-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [40123221](https://pubmed.ncbi.nlm.nih.gov/40123221/) | 2025 | Preclinical | Advanced Materials | Eye-drop nanoformulation of catalase self-assembled with cysteine-modified chitosan, designed to remove excess ROS in dry eye disease |
@@ -114,6 +120,12 @@ No drug interaction data were found.
 **Rationale:**
 The TxGNN score for dry eye is very high, but supporting evidence is limited to preclinical formulation and mechanism studies, with no clinical trials. In these studies cysteine acts as a component of a delivery system or prodrug, not as a stand-alone treatment.
 
+<!-- review:begin us-lic-20261105-cysteine-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "In these studies cysteine acts as a component of a delivery system or prodrug, not as a stand-alone treatment. All three US licenses are valid, and no label safety data are available." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 4 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-cysteine-2 -->
+
 Other predicted indications are weaker:
 
 - **Closed-angle glaucoma and angle-closure glaucoma** (duplicate entries): the literature concerns SPARC, a cysteine-rich protein, so the link is incidental. Evidence level L5.
@@ -126,6 +138,20 @@ Other predicted indications are weaker:
 - Direct evidence for cysteine itself in dry eye, such as animal efficacy studies of cysteine or N-acetylcysteine eye drops
 - A decision on whether a topical ocular formulation is feasible, since the former US products were injectable or liquid and route compatibility has not been assessed
 - Confirmation of the contraindications flagged in the knowledge graph
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All three US licenses are valid, and the data compiled for this report contain no approved indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "All three US licenses are valid, and no label safety data are available" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "FULVESTRANT"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fulvestrant: predicted new indication HIV infectious disease (evidence level L4). Approved use: Not listed in the data compiled for this report (fulvestrant is widel…"
 ---
 
@@ -77,6 +77,12 @@ Currently no related clinical trials registered for HIV infectious disease.
 
 Approved indication text was not available.
 
+<!-- review:begin us-lic-20261106-fulvestrant-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The data compiled for this report list 12 US authorizations, all cancelled. Approved indication text was not available." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 19 FDA applications or NDC listings for this drug, 16 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fulvestrant-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | NDA021344 | FASLODEX | Injection | AstraZeneca Pharmaceuticals LP |
@@ -111,11 +117,38 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The HIV prediction has a high model score but rests only on one preclinical study and one study of a related retrovirus. There are no clinical trials, and the drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-fulvestrant-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials, and the drug is marketed in the US with 12 of 12 licenses valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 19 FDA applications or NDC listings for this drug, 16 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fulvestrant-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications
 - Mechanism of action data from DrugBank
 - Further preclinical validation of ER antagonism or degradation on HIV latency and transcription in CD4+ T cells
 - Clarification of whether a new HIV-related formulation or development path is feasible, given that the drug is marketed in the US
+
+<!-- review:begin us-lic-20261106-fulvestrant-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of whether a new HIV-related formulation or development path is feasible, given that the drug is marketed in the US with 12 of 12 licenses valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 19 FDA applications or NDC listings for this drug, 16 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fulvestrant-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The data compiled for this report list 12 US authorizations, all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 12 of 12 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 12 of 12 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

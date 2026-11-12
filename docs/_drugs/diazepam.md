@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "DIAZEPAM"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Diazepam: predicted new indication Insomnia (disease) (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -93,6 +93,18 @@ Currently no related clinical trials registered.
 
 The US market status is **Marketed**. The list may be partial. Approved-indication text is not recorded. Five representative licences:
 
+<!-- review:begin us-lic-20261106-diazepam-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US market status is **Marketed**, with 12 valid licences on record." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 97 FDA applications or NDC listings for this drug, 31 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-diazepam-1 -->
+
+<!-- review:begin us-lic-20261106-diazepam-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Approved-indication text is not recorded for these licences." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 97 FDA applications or NDC listings for this drug, 31 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-diazepam-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA217843 | Diazepam | Tablet | Not available |
@@ -128,6 +140,19 @@ The mechanism is plausible and one double-blind trial in insomnia patients exist
 - Detailed mechanism of action data
 - Package insert warnings and contraindications
 - A risk plan covering dependence, falls and cognitive effects, especially in older adults
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 12 valid licences on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "for these licences" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

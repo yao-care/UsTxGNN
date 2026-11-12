@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 456
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Bexarotene: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L5). Approved use: Primary cutaneous T-cell lymphoma (including primary cutaneous T-cell…"
 monitor_inn: "BEXAROTENE"
 predicted_indications: ["primary cutaneous B-cell lymphoma", "lymphosarcoma"]
@@ -92,6 +92,12 @@ None of these publications reports bexarotene efficacy in B-cell lymphoma.
 
 Bexarotene exists in both oral (capsule) and topical (gel) forms.
 
+<!-- review:begin us-lic-20261105-bexarotene-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 9 authorizations (2 NDAs and 7 ANDAs) are valid, and the drug is marketed. Bexarotene exists in both oral (capsule) and topical (gel) forms." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 11 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-bexarotene-1 -->
+
 ## Cytotoxicity
 
 | Item | Content |
@@ -120,6 +126,12 @@ For the full list of warnings, please refer to the package insert.
 **Rationale:**
 The high TxGNN score is not backed by any trial or B-cell-specific study. The literature mentions bexarotene only for T-cell disease, and the RXR mechanism cannot be assumed to apply to B-cell lymphoma. The same data show that Sézary syndrome (a T-cell variant) has far stronger bexarotene evidence, including a terminated Phase 3 trial. That is an extension of the existing T-cell indication and not a true repurposing case.
 
+<!-- review:begin us-lic-20261105-bexarotene-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 9 US authorizations are valid, and the drug is marketed. The same data show that Sézary syndrome (a T-cell variant) has far stronger bexarotene evidence, including a terminated Phase 3 trial." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 11 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-bexarotene-2 -->
+
 **To proceed, the following is needed:**
 - B-cell-specific preclinical data showing RXR pathway dependence or in vitro activity in cutaneous B-cell lymphoma models
 - Detailed mechanism of action data
@@ -127,6 +139,27 @@ The high TxGNN score is not backed by any trial or B-cell-specific study. The li
 - A decision on the route of administration (oral capsule vs. topical gel) suited to skin-limited B-cell disease
 - Current package insert safety information (warnings and contraindications), including a thyroid, lipid and liver monitoring plan
 - Verification of current US commercial availability
+
+<!-- review:begin us-lic-20261106-bexarotene-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Verification of current US commercial availability, given the cancelled status of all authorizations" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-bexarotene-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 9 authorizations (2 NDAs and 7 ANDAs) are valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "All 9 US authorizations are valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given the cancelled status of all authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

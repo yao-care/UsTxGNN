@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1302
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Zanubrutinib: predicted new indication Myeloid leukemia (evidence level L5). Approved use: Mantle cell lymphoma, B-cell neoplasm, lymphosarcoma"
 monitor_inn: "ZANUBRUTINIB"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
@@ -87,10 +87,14 @@ None of these publications reports zanubrutinib efficacy in myeloid leukemia.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA218785 | BRUKINSA | BEONE MEDICINES USA | Capsule; oral | Valid |
 | NDA213217 | BRUKINSA | BEONE MEDICINES USA | Capsule; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -116,12 +120,38 @@ For other safety information, please refer to the package insert.
 **Rationale:**
 The prediction rests mainly on a high model score. The only trial is an early Phase 1 study in which zanubrutinib is a combination partner, and all supporting literature concerns B-cell malignancies rather than myeloid leukemia.
 
+<!-- review:begin us-lic-20261106-zanubrutinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The only trial is an early Phase 1 study in which zanubrutinib is a combination partner, and all supporting literature concerns B-cell malignancies rather than myeloid leukemia. Both US NDAs are also listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-zanubrutinib-1 -->
+
 **To proceed, the following is needed:**
 - Detailed mechanism-of-action data and a mechanistic rationale for BTK dependence in myeloid leukemia
 - Preclinical data in myeloid leukemia models
 - Results or subgroup data from NCT05665530 relevant to myeloid disease
 - Package insert warnings and contraindications for safety screening
 - Clarification of the approved indication text
+
+<!-- review:begin us-lic-20261106-zanubrutinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US NDA status and the approved indication text" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-zanubrutinib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both US NDAs are also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled US NDA status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

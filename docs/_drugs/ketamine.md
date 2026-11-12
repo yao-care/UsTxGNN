@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 1
 monitor_inn: "KETAMINE"
 predicted_indications: ["headache disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ketamine: predicted new indication Headache disorder (evidence level L2). Approved use: Not available"
 ---
 
@@ -41,6 +41,12 @@ Evidence Level: **L2** | Predicted Indications: **1**
 Ketamine is an injectable drug marketed in the United States under the brand Ketalar and several generic labels.
 The TxGNN model predicts it may be effective for **headache disorder**, with **9 clinical trials** and **20 publications** currently supporting this direction.
 The evidence includes one completed Phase 3 trial (THINK), but no trial results are available in the data, so efficacy cannot yet be confirmed.
+
+<!-- review:begin us-lic-20261106-ketamine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Ketamine is an injectable drug marketed in the United States under the brand Ketalar and several generic labels, but all six U.S. authorizations in the data compiled for this report are now listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 12 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ketamine-1 -->
 
 ---
 
@@ -107,6 +113,8 @@ Many other retrieved papers concern ketamine in depression, which is not the tar
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA074524 | KETAMINE HYDROCHLORIDE | HIKMA | Injectable; injection | Valid |
@@ -117,7 +125,15 @@ Many other retrieved papers concern ketamine in depression, which is not the tar
 
 Showing 5 of 12 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
+<!-- licenses:end -->
+
 A sixth authorization, ANDA076092 (Eugia US LLC, injection), is also valid. The drug is marketed in the U.S.
+
+<!-- review:begin us-lic-20261106-ketamine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the U.S., and all six authorizations are listed as valid in the data compiled for this report." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 12 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ketamine-2 -->
 
 ---
 
@@ -148,6 +164,12 @@ Please refer to the package insert for key warnings and contraindications; this 
 **Rationale:**
 Several trials directly test ketamine in headache, and the mechanistic rationale is plausible. However, no trial results are available, the one completed Phase 3 trial is small (n=80), and the other Phase 3 trial is still recruiting. In addition, the package insert safety data is missing, which blocks safety screening. Ketamine also carries a substantial set of cardiovascular and neurological contraindication signals.
 
+<!-- review:begin us-lic-20261106-ketamine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, all U.S. authorizations are cancelled and the package insert safety data is missing, which blocks safety screening." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 12 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ketamine-3 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap for safety screening)
 - Results from THINK (NCT03081416) and other completed trials, plus the outcome of KetHead (NCT05306899, expected 2027)
@@ -155,6 +177,28 @@ Several trials directly test ketamine in headache, and the mechanistic rationale
 - Clarification of the current U.S. regulatory and supply status
 - Route and formulation assessment (IV vs intranasal vs oral) for the headache setting
 - A safety plan for patients with cardiovascular or cerebrovascular disease, raised intracranial pressure, or substance-use history
+
+<!-- review:begin us-lic-20261106-ketamine-4 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current U.S. regulatory and supply status, given that the drug is marketed with 6 valid authorizations" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 12 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ketamine-4 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "but all six U S. authorizations in the data compiled for this report are now listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and all six authorizations are listed as valid in the data compiled for this report" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "all U.S. authorizations are cancelled and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that the drug is marketed with 6 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

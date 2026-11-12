@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 903
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "MEROPENEM"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "Ureaplasma urethritis", "gonococcal urethritis"]
 description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L4). Approved use: Not recorded in the local data"
@@ -86,6 +86,12 @@ Currently no related clinical trials registered.
 
 Meropenem is marketed in the United States. Five are shown below.
 
+<!-- review:begin us-lic-20261106-meropenem-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The records show 9 valid licences, and the list may be partial. Five are shown below." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-meropenem-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA091404 | Meropenem (Fresenius Kabi USA) | Injection, powder, for solution | Not recorded |
@@ -115,6 +121,18 @@ The mechanism is plausible and a few case reports describe meropenem use in sept
 - Joint penetration and dosing data for bone and joint infection.
 - Review of the package insert warnings and contraindications.
 - A stewardship assessment of when a carbapenem is justified over narrower agents, for example for resistant Gram-negative pathogens.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The records show 9 valid licences, and the list may be partial" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

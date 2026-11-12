@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 680
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "ETEPLIRSEN"
 predicted_indications: ["Bethlem myopathy", "nebulin-related early-onset distal myopathy", "X-linked myopathy with postural muscle atrophy", "intellectual disability-hyperkinetic movement-truncal ataxia syndrome"]
 description: "Eteplirsen: predicted new indication Bethlem myopathy (evidence level L5). Approved use: Not recorded in the local data"
@@ -98,9 +98,13 @@ One further trial, NCT04179409 (Phase 2, n=3, patients with single-exon duplicat
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA206488 | EXONDYS 51 | SAREPTA THERAPS INC | Solution; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -123,6 +127,25 @@ The top prediction (DMD) is the drug's established indication, backed by one com
 - Results from the Phase 3 high-dose trial (NCT03992430), expected to complete around October 2026, to confirm clinical benefit.
 - Clarification of the current US marketing position.
 - Genotype restriction (exon 51-amenable mutations) built into any further development plan.
+
+<!-- review:begin us-lic-20261106-eteplirsen-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled NDA206488 status and the current US marketing position." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-eteplirsen-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "the cancelled NDA206488 status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

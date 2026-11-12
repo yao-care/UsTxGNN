@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 6
 monitor_inn: "MEFENAMIC ACID"
 predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Mefenamic Acid: predicted new indication Headache disorder (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -91,6 +91,12 @@ Currently no related clinical trials registered.
 
 No approved-indication text is recorded in the local data.
 
+<!-- review:begin us-lic-20261106-mefenamic_acid-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The data compiled for this report shows 3 valid single-ingredient oral capsule licences for mefenamic acid in the United States, held by different manufacturers. No approved-indication text is recorded for them in the local data." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-mefenamic_acid-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: The data records 100 interacting drugs. Examples of moderate-level interactions:
@@ -123,6 +129,18 @@ Several small double-blind trials and guideline-level reviews support mefenamic 
 - Confirmation of efficacy in headache types other than migraine, such as tension-type headache
 - Larger modern trials, or confirmatory data
 - A safety plan limiting use to short courses, for example perimenstrual use. It should include gastrointestinal and renal monitoring, avoidance of chronic use because of medication-overuse headache and enteropathy, and a check of the recorded drug interactions.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The data compiled for this report shows 3 valid single-ingredient oral capsule licences for mefenamic acid in the United States, held by dif" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

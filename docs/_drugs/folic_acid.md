@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FOLIC ACID"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Folic Acid: predicted new indication Biotin metabolic disease (evidence level L5). Approved use: Vitamin deficiency disorder"
 ---
 
@@ -70,6 +70,18 @@ Currently no related clinical trials registered.
 
 None of the retrieved publications tests folic acid in biotin metabolic disease. They are mostly general reviews of vitamins, and a few are animal or observational studies. The ten most relevant are listed below, with reviews first.
 
+<!-- review:begin us-lic-20261105-folic_acid-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All eight US authorizations for folic acid are valid, and no approved indication text is recorded for them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 57 FDA applications or NDC listings for this drug, 17 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-folic_acid-1 -->
+
+<!-- review:begin us-lic-20261106-folic_acid-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Three further cancelled authorizations are not listed here: two injection solutions (ANDA089202, Fresenius Kabi; ANDA202522, XGen) and one tablet (ANDA204418, Sunrise Pharmaceutical)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 57 FDA applications or NDC listings for this drug, 17 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-folic_acid-2 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [23622402](https://pubmed.ncbi.nlm.nih.gov/23622402/) | 2013 | Review | Handbook of Clinical Neurology | Vitamin-responsive disorders (cobalamin, folate, biotin, B1, E); covers inborn errors of vitamin absorption, transport and metabolism |
@@ -109,12 +121,40 @@ For definitive safety information, please refer to the package insert.
 **Rationale:**
 The prediction is supported only by a model score and general vitamin reviews. There are no clinical trials and no direct evidence (Evidence Level L5). Folic acid does not substitute for biotin and would not correct the usual enzymatic causes of biotin metabolic disease. In addition, although the drug is marketed in the US, the package insert safety data are missing.
 
+<!-- review:begin us-lic-20261106-folic_acid-4 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, although the drug is marketed in the US with eight valid licenses, the package insert safety data are missing." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 57 FDA applications or NDC listings for this drug, 17 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-folic_acid-4 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the FDA label, which is currently a blocking gap for safety screening
 - Mechanism of action data (for example from DrugBank)
 - A clear definition of which biotin-related disorder is meant (biotinidase deficiency, holocarboxylase synthetase deficiency, or another) and a mechanistic case for any role of folic acid
 - Preclinical or clinical evidence specific to folic acid in biotin metabolic disease
 - Clarification of the route and formulation to be used
+
+<!-- review:begin us-lic-20261106-folic_acid-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US market status and the route and formulation to be used" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 57 FDA applications or NDC listings for this drug, 17 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-folic_acid-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All eight US authorizations for folic acid are valid, and no approved indication text is recorded for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Three further cancelled authorizations are not listed here: two injection solutions (ANDA089202, Fresenius Kabi; ANDA202522, XGen) and one t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled US market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with eight valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

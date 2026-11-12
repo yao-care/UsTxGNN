@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ROPEGINTERFERON ALFA-2B"
 predicted_indications: ["Laubry-Pezzi syndrome", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "Jeune syndrome situs inversus", "partial deletion of the long arm of chromosome 22", "orofacial clefting syndrome", "pulmonary valve disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ropeginterferon Alfa-2B: predicted new indication Laubry-Pezzi syndrome (evidence level L5). Approved use: Acquired polycythemia vera (also listed: plasmacytoma, polycythemia)"
 ---
 
@@ -96,12 +96,38 @@ Please refer to the package insert for safety information. No drug-interaction r
 **Rationale:**
 The prediction rests only on a model score. There are no clinical trials or literature for Laubry-Pezzi syndrome, no plausible mechanistic link to a structural cardiac defect, and the safety data are incomplete.
 
+<!-- review:begin us-lic-20261031-ropeginterferon_alfa-2b-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials or literature for Laubry-Pezzi syndrome, no plausible mechanistic link to a structural cardiac defect, and the safety data are incomplete. The only US license is listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-ropeginterferon_alfa-2b-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the FDA (a blocking gap for safety screening)
 - Detailed mechanism of action data (MOA) from DrugBank
 - Any biological or preclinical evidence linking interferon signaling to the pathology of Laubry-Pezzi syndrome
 - Clarification of the current US regulatory status of BESREMi
 - Evaluation of whether the drug's injectable route and its safety in the relevant (often pediatric) populations are compatible with the predicted indication
+
+<!-- review:begin us-lic-20261106-ropeginterferon_alfa-2b-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current US regulatory status of BESREMi (the BLA is listed as cancelled)" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ropeginterferon_alfa-2b-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(the BLA is listed as cancelled)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

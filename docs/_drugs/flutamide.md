@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 729
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "FLUTAMIDE"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 description: "Flutamide: predicted new indication Fibroma of prostate (evidence level L5). Approved use: Not recorded in the local data"
@@ -104,12 +104,38 @@ Please refer to the package insert for the full warnings and contraindications.
 **Rationale:**
 The predicted entry is a genetic susceptibility label with no supporting trials or literature (L5, model prediction only). The high score appears to reflect flutamide's existing prostate cancer association.
 
+<!-- review:begin us-lic-20261031-flutamide-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The high score appears to reflect flutamide's existing prostate cancer association. In addition, the only US license on record is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 6 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-flutamide-1 -->
+
 **To proceed, the following is needed:**
 - A clearer, treatable disease definition in place of the susceptibility label
 - Direct clinical or preclinical evidence for the predicted indication
 - Mechanism of action data (MOA)
 - The full package insert warnings and contraindications, especially hepatotoxicity
 - Consideration of the better-supported alternative predictions (male reproductive organ cancer, benign reproductive system neoplasm) as separate evaluations
+
+<!-- review:begin us-lic-20261031-flutamide-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Re-verification of US regulatory status, since only a cancelled license is on record / Consideration of the better-supported alternative predictions (male reproductive organ cancer, benign reproductive system neoplasm) as separate evaluations" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 6 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-flutamide-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "In addition, the only US license on record is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Re-verification of US regulatory status, since only a cancelled license is on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

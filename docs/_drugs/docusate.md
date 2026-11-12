@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "DOCUSATE"
 predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Docusate: predicted new indication Plummer-Vinson syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -81,6 +81,12 @@ Currently no related literature available.
 
 The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-docusate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, and 2 licenses are currently valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-docusate-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions** (4 found; none rated major):
@@ -99,12 +105,32 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction is supported only by a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials, no literature and no plausible mechanism. It most likely reflects shared anemia associations. Docusate is marketed in the US, and the label safety review is blocked by missing package insert data.
 
+<!-- review:begin us-lic-20261106-docusate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Docusate is marketed in the US with 2 valid licenses, and the label safety review is blocked by missing package insert data." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-docusate-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (for example from DrugBank)
 - FDA package insert warnings and contraindications
 - Evidence of a plausible pharmacologic link to iron deficiency, esophageal webs or dysphagia
 - Any clinical or preclinical study relevant to Plummer-Vinson syndrome
 - Route compatibility and similarity-to-original-indication assessments (currently pending)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and 2 licenses are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 2 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

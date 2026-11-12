@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PLECANATIDE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "isolated genetic hair shaft abnormality", "syndrome with a Dandy-Walker malformation as major feature", "idiopathic spontaneous coronary artery dissection", "vascular disease", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "phaeochromocytoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Plecanatide: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -82,9 +82,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA208745 | TRULANCE | SALIX | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -99,11 +103,37 @@ Please refer to the package insert for other safety information, including warni
 **Rationale:**
 The prediction is supported only by the model score. No trials or publications exist, and there is no plausible mechanism linking a locally acting intestinal GC-C agonist to hair growth.
 
+<!-- review:begin us-lic-20261106-plecanatide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "No trials or publications exist, and there is no plausible mechanism linking a locally acting intestinal GC-C agonist to hair growth. The US license is also recorded as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-plecanatide-1 -->
+
 **To proceed, the following is needed:**
 - The FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data from DrugBank
 - Any preclinical or clinical evidence for a hair or follicle effect of GC-C/cGMP signaling
 - Clarification of the approved indication text
+
+<!-- review:begin us-lic-20261106-plecanatide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled NDA status and the approved indication text" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-plecanatide-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US license is also recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled NDA status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

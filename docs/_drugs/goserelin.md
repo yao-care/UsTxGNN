@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 3
 monitor_inn: "GOSERELIN"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Goserelin: predicted new indication amenorrhea (evidence level L2). Approved use: Endometriosis"
 ---
 
@@ -120,6 +120,25 @@ Amenorrhea is mainly an expected pharmacological effect of goserelin, not a dist
 - Mechanism-of-action data from DrugBank.
 - Confirmation of the approved indications.
 - Direct clinical evidence (trials with amenorrhea or ovarian protection as the primary endpoint).
+
+<!-- review:begin us-lic-20261106-goserelin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory status of the cancelled Zoladex NDAs and confirmation of the approved indications." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-goserelin-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "larification of the regulatory status of the cancelled Zoladex NDAs and c" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ZANAMIVIR"
 predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Zanamivir: predicted new indication Pyelonephritis (evidence level L5). Approved use: Influenza"
 ---
 
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA021036 | RELENZA | GLAXOSMITHKLINE | Powder; inhalation | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -92,6 +96,12 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction rests only on a high model score. The score is likely a TxGNN model (deep learning) artifact.
 
+<!-- review:begin us-lic-20261031-zanamivir-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials or literature, no plausible mechanism against bacterial pyelonephritis, and the only US license is cancelled. The score is likely a TxGNN model (deep learning) artifact." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-zanamivir-1 -->
+
 **To proceed, the following is needed:**
 - Detailed mechanism of action data, including any evidence of zanamivir activity against bacterial neuraminidases
 - Preclinical evidence in relevant urinary tract infection models
@@ -102,6 +112,19 @@ The prediction rests only on a high model score. The score is likely a TxGNN mod
 ---
 
 **Note on the second prediction (disorder of tyrosine metabolism, score 0.9902):** This candidate is also at Evidence Level L5 with a Hold recommendation. The three retrieved publications all concern influenza neuraminidase inhibitors (oseltamivir resistance, an SPR inhibition assay, and an N294S neuraminidase mutation). None addresses tyrosine metabolism, and there is no apparent mechanistic link. This is most likely a prediction artifact.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "There are no clinical trials or literature, no plausible mechanism against bacterial pyelonephritis, and the only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

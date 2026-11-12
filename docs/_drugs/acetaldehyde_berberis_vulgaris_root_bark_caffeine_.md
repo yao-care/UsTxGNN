@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -72,6 +72,12 @@ Because no single DrugBank ID was resolved for this multi-ingredient formula, th
 
 This formula has no recorded market authorizations.
 
+<!-- review:begin us-lic-20261105-acetaldehyde_berberis_vulgaris_root_bark_caffeine_-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "This formula has no recorded market authorizations. The TFDA query confirmed 0 licenses and no approved dosage forms or indications." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-acetaldehyde_berberis_vulgaris_root_bark_caffeine_-1 -->
+
 ---
 
 ## Safety Considerations
@@ -94,6 +100,26 @@ The TxGNN pipeline could not process this submission because the multi-ingredien
 - **Product identity clarification**: Determine the brand name, manufacturer, and intended therapeutic class of this combination to locate existing safety and efficacy documentation.
 - **Regulatory scope check**: Homeopathic preparations are regulated differently from conventional drugs in most jurisdictions — confirm whether this formula falls under homeopathic product regulations, which may require a separate evaluation pathway.
 - **MOA and safety data**: Once components are resolved, DrugBank pharmacology data should be retrieved to complete the safety and mechanism-of-action analysis.
+
+<!-- review:begin us-lic-20261105-acetaldehyde_berberis_vulgaris_root_bark_caffeine_-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "**MOA and safety data**: Once components are resolved, TFDA package inserts and DrugBank pharmacology data should be retrieved to complete the safety and mechanism-of-action analysis." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-acetaldehyde_berberis_vulgaris_root_bark_caffeine_-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The TFDA query confirmed 0 licenses and no approved dosage forms or indications" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "TFDA package inserts and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

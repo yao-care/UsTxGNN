@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 787
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Idelalisib: predicted new indication Mantle cell lymphoma (evidence level L2). Approved use: Follicular lymphoma, B-cell neoplasms, acute lymphoblastic leukemia…"
 monitor_inn: "IDELALISIB"
 predicted_indications: ["mantle cell lymphoma", "Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "small intestinal Burkitt lymphoma", "colon adenocarcinoma"]
@@ -40,6 +40,12 @@ Evidence Level: **L2** | Predicted Indications: **6**
 
 Idelalisib is an oral PI3K-delta inhibitor, originally used for B-cell malignancies such as chronic lymphocytic leukemia/small lymphocytic lymphoma and follicular lymphoma.
 The TxGNN model predicts it may be effective for **Mantle Cell Lymphoma**, with **5 clinical trials** (all early-phase) and **20 publications** (mostly reviews and preclinical studies) currently supporting this direction.
+
+<!-- review:begin us-lic-20261031-idelalisib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The TxGNN model predicts it may be effective for **Mantle Cell Lymphoma**, with **5 clinical trials** (all early-phase) and **20 publications** (mostly reviews and preclinical studies) currently supporting this direction. / No confirmatory randomized trial exists for this indication, and the drug's only US license is now cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-idelalisib-1 -->
 
 ---
 
@@ -145,6 +151,12 @@ Moderate interactions include corticosteroids (hydrocortisone, dexamethasone, be
 **Rationale:**
 The mantle cell lymphoma evidence consists of early-phase combination studies (one terminated), plus preclinical and review literature, with no confirmatory randomized trial. Idelalisib carries serious toxicity concerns (hepatotoxicity, colitis, pneumonitis, infections). Newer BTK inhibitors are already established in mantle cell lymphoma (e.g., ibrutinib), which weakens the case for a PI3K-delta inhibitor with this safety profile.
 
+<!-- review:begin us-lic-20261106-idelalisib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Idelalisib's sole US license is cancelled, and it carries serious toxicity concerns (hepatotoxicity, colitis, pneumonitis, infections)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-idelalisib-2 -->
+
 **To proceed, the following is needed:**
 - The FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism-of-action data from DrugBank
@@ -153,10 +165,31 @@ The mantle cell lymphoma evidence consists of early-phase combination studies (o
 - A risk-benefit assessment given the withdrawal history and serious toxicity profile
 - Regulatory feasibility review
 
+<!-- review:begin us-lic-20261106-idelalisib-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Regulatory feasibility review, since the NDA is cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-idelalisib-3 -->
+
 **Other predictions in this analysis (for reference):**
 - **B-cell neoplasm** has the strongest evidence (multiple Phase 3 trials, including ASCEND and BRUIN CLL-321, which used idelalisib plus rituximab as a comparator). However, this is largely the drug's original indication class, so it is not true repurposing.
 - **Hodgkin lymphoma, myeloid leukemia, chronic myelogenous leukemia, familial NHL, and colon adenocarcinoma** have only indirect, preclinical or very limited evidence.
 - **CLL/SLL subtypes and small intestinal Burkitt lymphoma** are computational predictions with no supporting studies.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "No confirmatory randomized trial exists for this indication, and the drug's only US license is now cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "'s sole US license is cancelled, and it" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since the NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

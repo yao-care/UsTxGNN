@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 662
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Eplerenone: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "EPLERENONE"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome"]
@@ -101,6 +101,18 @@ Other retrieved papers (choroidal blood flow, liver cirrhosis, perivascular fat,
 
 No approved indication text was available for any of them.
 
+<!-- review:begin us-lic-20261105-eplerenone-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All six listed authorizations are valid. No approved indication text was available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 10 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-eplerenone-1 -->
+
+<!-- review:begin us-lic-20261106-eplerenone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "One further authorization (ANDA208283, American Health Packaging, tablet, film coated) is also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-eplerenone-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021437 | Eplerenone (Mylan Pharmaceuticals Inc.) | Tablet, film coated | Not available |
@@ -143,6 +155,20 @@ The top-ranked prediction rests on a model score alone (L5), with no trials or l
 - Systematic review of MR antagonist data in pulmonary hypertension, followed by clinical evidence such as a pilot trial if the signal holds
 - Hyperkalemia and renal safety monitoring plan, including management of potassium-related interactions
 - Confirmation of current US marketing status, since all six listed authorizations are shown as valid
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All six listed authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "One further authorization (ANDA208283, American Health Packaging, tablet, film coated) is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

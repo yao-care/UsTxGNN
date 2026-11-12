@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1092
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PROPRANOLOL"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
 description: "Propranolol: predicted new indication Distal myopathy, Tateyama type (evidence level L5). Approved use: Not recorded in the local data"
@@ -91,6 +91,12 @@ For context, literature was found for two lower-ranked predictions:
 
 The drug is marketed. The records contain no approved-indication text.
 
+<!-- review:begin us-lic-20261106-propranolol-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 8 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 153 FDA applications or NDC listings for this drug, 30 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-propranolol-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA018553 | Propranolol Hydrochloride (ANI Pharmaceuticals) | Capsule, extended release | Not available |
@@ -108,6 +114,12 @@ The drug is marketed. The records contain no approved-indication text.
   - Autoimmune: systemic lupus erythematosus.
   - Psychiatric: anxiety disorder, neurotic disorder, dysthymic disorder.
 
+<!-- review:begin us-lic-20261106-propranolol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Three more cancelled licenses exist: ANDA070979 (solution), ANDA070221 (tablet), and ANDA078955 (tablet)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 153 FDA applications or NDC listings for this drug, 30 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-propranolol-1 -->
+
   The listing of myopathy and skeletal muscle disease as contraindications is a direct concern for the predicted indication.
 - **Drug Interactions**: 100 interactions were identified; the 20 shown in the data include:
   - **Major**: epinephrine.
@@ -123,12 +135,33 @@ Label warnings and contraindications were not available; please refer to the pac
 **Rationale:**
 The prediction for distal myopathy, Tateyama type rests only on a TxGNN model (deep learning) score of 0.9940, with no clinical trials, no literature, and no mechanistic rationale. In addition, the knowledge graph lists myopathy and skeletal muscle disease as contraindications for propranolol, and the drug is marketed.
 
+<!-- review:begin us-lic-20261106-propranolol-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the knowledge graph lists myopathy and skeletal muscle disease as contraindications for propranolol, and the drug is marketed with 8 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 153 FDA applications or NDC listings for this drug, 30 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-propranolol-3 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a plausible biological link between beta-blockade and this myopathy
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - A literature search for case reports, preclinical models, or any beta-blocker use in distal myopathies
 - A review of the contraindication signal for muscle disease
 - If a cardiovascular-adjacent direction is of interest, cirrhotic cardiomyopathy is a better-supported research question, but the safety concerns in advanced cirrhosis must be addressed first. Cardiomyopathy is largely an existing on-label use (hypertrophic cardiomyopathy), so it is not a true repurposing opportunity.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Three more cancelled licenses exist: ANDA070979 (solution), ANDA070221 (tablet), and ANDA078955 (tablet)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

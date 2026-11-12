@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "DOFETILIDE"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "duodenal obstruction", "brain stem infarction", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cerebrovascular disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dofetilide: predicted new indication Stroke disorder (evidence level L5). Approved use: Atrial fibrillation"
 ---
 
@@ -91,6 +91,12 @@ None of these studies uses stroke as an endpoint.
 
 Four more ANDAs (Accord, Bionpharma, Sigmapharm, Exelan) are also valid.
 
+<!-- review:begin us-lic-20261106-dofetilide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Four more ANDAs (Accord, Bionpharma, Sigmapharm, Exelan) are also valid. All 9 authorizations are in valid status." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 15 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dofetilide-2 -->
+
 ## Safety Considerations
 
 - **Disease-level cautions from the knowledge graph** (these come from knowledge-graph contraindication links, not from label text): long QT syndrome, familial long QT syndrome, torsades de pointes, kidney disease, liver disease, gallbladder disease, potassium deficiency, pyoureter and anorexia nervosa.
@@ -117,10 +123,37 @@ Please refer to the package insert for full safety information.
 **Rationale:**
 The stroke prediction comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases such as atrial fibrillation, not biological evidence. No trials exist, the literature contains no stroke-outcome data, and the drug carries a serious proarrhythmic risk. The drug is marketed. The other nine predicted indications are either unsupported by any evidence (L5) or biologically implausible, so none is a better candidate.
 
+<!-- review:begin us-lic-20261106-dofetilide-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 9 valid US authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 15 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dofetilide-3 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a current blocking gap)
 - Mechanism of action data to support a mechanistic-link analysis
 - Evidence that dofetilide-based rhythm control reduces stroke or cerebrovascular events beyond anticoagulation
+
+<!-- review:begin us-lic-20261106-dofetilide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Evidence that dofetilide-based rhythm control reduces stroke or cerebrovascular events beyond anticoagulation / A review of whether the cancelled US market status limits practical development" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 15 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dofetilide-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "A review of whether the cancelled US market status limits practical development" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "All 9 authorizations are in valid status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 9 valid US authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

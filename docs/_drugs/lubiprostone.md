@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "LUBIPROSTONE"
 predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "pulmonary hypertension", "kyphoscoliotic heart disease", "Raynaud disease", "pulmonary hypertension, primary, autosomal recessive", "phaeochromocytoma", "peripheral vascular disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Lubiprostone: predicted new indication Alopecia (evidence level L5). Approved use: Chronic constipation and irritable bowel syndrome"
 ---
 
@@ -72,6 +72,8 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA206994 | LUBIPROSTONE | DR REDDYS | Capsule; oral | Valid |
@@ -81,6 +83,8 @@ Currently no related literature available.
 | ANDA218640 | LUBIPROSTONE | ASCENT PHARMS INC | Capsule; oral | Valid |
 
 Showing 5 of 8 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All products are oral formulations.
 
@@ -99,12 +103,31 @@ For other safety information, please refer to the package insert.
 **Rationale:**
 The prediction rests only on a TxGNN model (deep learning) score. There are no clinical trials or publications, and no plausible mechanism links ClC-2 activation to hair growth or to the other predicted conditions. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-lubiprostone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 4 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lubiprostone-1 -->
+
 **To proceed, the following is needed:**
 - Mechanistic evidence for a plausible link between ClC-2 activation (or prostone pharmacology) and hair follicle biology
 - Preclinical studies (for example, in vitro or animal models of hair growth) to move beyond L5
 - Package insert warnings and contraindications for safety screening
 - Detailed mechanism of action data from DrugBank
 - Assessment of route compatibility, since lubiprostone is oral and gut-localized with minimal systemic exposure, and any hair or vascular indication would likely need systemic or topical delivery
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 4 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

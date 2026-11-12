@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PROCAINAMIDE"
 predicted_indications: ["Tourette syndrome", "hyperthyroidism", "Prinzmetal angina", "methemoglobinemia, alpha type", "methemoglobinemia", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "methemoglobin reductase deficiency", "rheumatoid arthritis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Procainamide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not stated in the available approval records (the drug is known as an…"
 ---
 
@@ -82,6 +82,8 @@ For context, literature was retrieved for other lower-ranked predictions, but it
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA088636 | PROCAINAMIDE HYDROCHLORIDE | INTL MEDICATION | Injectable; injection | Valid |
@@ -91,6 +93,8 @@ For context, literature was retrieved for other lower-ranked predictions, but it
 | ANDA218674 | PROCAINAMIDE HYDROCHLORIDE | CAPLIN | Injectable; injection | Valid |
 
 Showing 5 of 78 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -122,6 +126,12 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The Tourette syndrome prediction rests solely on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials, no literature, and no plausible mechanism. Procainamide also carries significant safety signals (QT prolongation, blood dyscrasias, drug-induced lupus), and it is marketed in the US.
 
+<!-- review:begin us-lic-20261106-procainamide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Procainamide also carries significant safety signals (QT prolongation, blood dyscrasias, drug-induced lupus), and it is marketed in the US with 5 valid licenses of 5." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 78 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-procainamide-1 -->
+
 **To proceed, the following is needed:**
 - A documented mechanistic hypothesis linking sodium channel blockade to Tourette syndrome pathophysiology
 - Preclinical or exploratory data supporting any effect on tic disorders
@@ -129,6 +139,26 @@ The Tourette syndrome prediction rests solely on a score from the TxGNN model (d
 - Mechanism of action data from DrugBank
 - A risk-benefit analysis addressing proarrhythmic, haematological, and autoimmune risks, particularly in a younger Tourette population
 - A review of the commercial availability of the drug, which is marketed in the US
+
+<!-- review:begin us-lic-20261106-procainamide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A review of the commercial availability of the drug, which is marketed in the US (5 valid licenses of 5)" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 78 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-procainamide-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 5 valid licenses of 5" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(5 valid licenses of 5)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

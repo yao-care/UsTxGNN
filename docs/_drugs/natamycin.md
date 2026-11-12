@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "NATAMYCIN"
 predicted_indications: ["vulvitis", "trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "tinea nigra"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Natamycin: predicted new indication Vulvitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -91,6 +91,12 @@ One licence is on record, and it is valid.
 
 Please refer to the package insert for safety information.
 
+<!-- review:begin us-lic-20261031-natamycin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only license is cancelled, and it covers an ophthalmic product, not a vaginal one." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-natamycin-1 -->
+
 ## Conclusion and Next Steps
 
 **Decision: Hold**
@@ -103,6 +109,18 @@ The prediction score is high (0.9981), but no trial or publication studies vulvi
 - Detailed mechanism-of-action data
 - Safety information from the package insert, because warnings and contraindications are not yet available
 - Confirmation that a vulvar or vaginal natamycin formulation and route are available, since the only US product on record is an ophthalmic suspension
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only license is cancelled, and it covers an ophthalmic product, not a vaginal one" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

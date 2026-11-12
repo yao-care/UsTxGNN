@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 911
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "METHOTREXATE"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Methotrexate: predicted new indication Pulmonary blastoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -81,6 +81,12 @@ Currently no related literature available.
 
 The drug is marketed, and the compiled records contain no approved indication text. The five main ones are listed below, with NDAs first.
 
+<!-- review:begin us-lic-20261106-methotrexate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 13 valid authorizations, and the compiled records contain no approved indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 66 FDA applications or NDC listings for this drug, 29 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-methotrexate-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | NDA208400 | Xatmep (Azurity Pharmaceuticals) | Solution | Valid |
@@ -144,6 +150,19 @@ Neither has a Phase 3 RCT directly supporting it.
 - Detailed mechanism of action data (MOA) and FDA package insert warnings and contraindications
 - Confirmation of current US marketing status and a suitable available formulation
 - A safety and dosing plan covering myelosuppression, hepatic and renal function, and pulmonary toxicity
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 13 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

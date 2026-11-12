@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ISONIAZID"
 predicted_indications: ["conjunctivitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Isoniazid: predicted new indication Conjunctivitis (evidence level L5). Approved use: Pulmonary tuberculosis"
 ---
 
@@ -85,6 +85,20 @@ Several other retrieved publications (on toxic epidermal necrolysis, BCG-associa
 
 No approved indication text is available for them.
 
+<!-- review:begin us-lic-20261105-isoniazid-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All seven authorizations are valid. No approved indication text is available for them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 48 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-isoniazid-1 -->
+
+<!-- review:begin us-lic-20261106-isoniazid-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two more cancelled authorizations are not shown: ANDA040648 (Sandoz, injection solution) and ANDA089776 (Chartwell RX, tablet)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 48 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-isoniazid-2 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA040090 | ISONIAZID | OMNIVIUM PHARMS | Tablet; oral | Valid |
@@ -94,6 +108,8 @@ No approved indication text is available for them.
 | ANDA202610 | ISONIAZID | THEPHARMANETWORK LLC | Tablet; oral | Valid |
 
 Showing 5 of 48 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -111,6 +127,12 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The prediction rests on a model score only. There are no registered clinical trials, and the literature is mostly old case reports and reviews limited to tuberculosis-related eye disease. Several retrieved papers are off-topic. Isoniazid is not expected to help common conjunctivitis. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-isoniazid-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 7 of 7 licenses valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 48 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-isoniazid-3 -->
+
 **To proceed, the following is needed:**
 - Narrow the target indication to tuberculosis-associated ocular disease (e.g., phlyctenular keratoconjunctivitis, conjunctival tuberculosis) rather than conjunctivitis in general
 - Manual review of the retrieved literature for relevance, and a search for controlled studies
@@ -118,6 +140,28 @@ The prediction rests on a model score only. There are no registered clinical tri
 - Mechanism of action data from DrugBank
 - Route compatibility assessment (systemic versus ocular delivery), since this is not yet defined
 - Confirmation of current US market availability
+
+<!-- review:begin us-lic-20261106-isoniazid-4 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current US market availability (7 of 7 licenses are valid)" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 48 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-isoniazid-4 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All seven authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Two more cancelled authorizations are not shown: ANDA040648 (Sandoz, injection solution) and ANDA089776 (Chartwell RX, tablet)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 of 7 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(7 of 7 licenses are valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

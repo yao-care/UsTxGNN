@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 809
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "IRBESARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 description: "Irbesartan: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -105,6 +105,12 @@ These findings are indirect: they come mostly from cardiac or high-altitude anim
 
 Only the first five are listed above.
 
+<!-- review:begin us-lic-20261106-irbesartan-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Nine licenses are on record in total (1 NDA, 8 ANDAs), and all are cancelled. Only the first five are listed above." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 40 FDA applications or NDC listings for this drug, 25 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-irbesartan-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: 100 interactions were identified in total. The 20 retrieved include two **Major** interactions, both with potassium supplements (potassium citrate and potassium bicarbonate), which raise the risk of hyperkalaemia. Most others are Moderate, including:
@@ -137,6 +143,19 @@ The indication largely overlaps the existing hypertension use. Malignant hyperte
 - Detailed mechanism of action data
 - Clinical evidence in renovascular hypertension, with specific attention to renal safety in bilateral renal artery stenosis
 - Confirmation of the current U.S.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Nine licenses are on record in total (1 NDA, 8 ANDAs), and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

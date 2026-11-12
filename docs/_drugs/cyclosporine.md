@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "CYCLOSPORINE"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cyclosporine: predicted new indication Granulomatous disease, chronic, autosomal recessive (evidence level L4). Approved use: Rheumatoid arthritis, dry eye syndrome, xerophthalmia…"
 ---
 
@@ -76,6 +76,12 @@ Currently no related clinical trials registered.
 
 Approved indication text was not available for any of them. Main examples:
 
+<!-- review:begin us-lic-20261105-cyclosporine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 13 US licenses are valid. Approved indication text was not available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 38 FDA applications or NDC listings for this drug, 31 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-cyclosporine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA050715 | Neoral (Novartis) | Capsule, liquid filled | Not available |
@@ -105,6 +111,12 @@ Package insert warnings and contraindications were not available. Please refer t
 **Rationale:**
 The prediction score is very high, but there are no registered clinical trials, and the single publication is a transplantation cohort study that does not show a benefit from cyclosporine. No plausible mechanistic link between calcineurin inhibition and correcting the CGD defect is evident.
 
+<!-- review:begin us-lic-20261106-cyclosporine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "No plausible mechanistic link between calcineurin inhibition and correcting the CGD defect is evident, and 13 US licenses are currently valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 38 FDA applications or NDC listings for this drug, 31 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-cyclosporine-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for cyclosporine
 - Package insert warnings and contraindications (a blocking gap for safety screening)
@@ -114,6 +126,20 @@ The prediction score is very high, but there are no registered clinical trials, 
 **Other predictions, for reference:**
 - **Brain aneurysm** (score 0.9950, evidence level L3, "Research Question"): Small, older studies (1991-1997) suggest cyclosporine A may help prevent vasospasm or neurological deterioration after aneurysmal subarachnoid hemorrhage. These concern post-hemorrhage complications rather than aneurysm formation, and a 2017 preclinical study found T-cell function dispensable for aneurysm formation. This is hypothesis-generating only.
 - **Colobomatous microphthalmia-rhizomelic dysplasia syndrome, congenital ichthyosiform erythroderma, fetal erythroblastosis, brachydactyly-syndactyly syndrome, prolapse of lacrimal gland** (scores 0.9908-0.9939, evidence level L5, Hold): No clinical trials or supporting clinical literature; these rest on the model score alone.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 13 US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and 13 US licenses are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

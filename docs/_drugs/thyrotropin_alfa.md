@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "THYROTROPIN ALFA"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Raynaud disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "postural orthostatic tachycardia syndrome", "hyperthyroidism"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Thyrotropin Alfa: predicted new indication Migraine disorder (evidence level L5). Approved use: Not specified in the data compiled for this report (the product is kn…"
 ---
 
@@ -84,11 +84,15 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA020898 | THYROGEN | GENZYME | Injectable; injection | Valid |
 | NDC 17089-349 | GUNA-GERIATRICS | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
 | NDC 17089-350 | GUNA-AWARENESS | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
+
+<!-- licenses:end -->
 
 ---
 
@@ -117,6 +121,25 @@ The prediction rests on a TxGNN model (deep learning) score alone, with no clini
 - A mechanistic hypothesis connecting TSH receptor signaling to migraine, followed by a literature and preclinical review
 - Clarification of the current regulatory status
 - Route compatibility assessment for any new indication
+
+<!-- review:begin us-lic-20261106-thyrotropin_alfa-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current regulatory status of the cancelled BLA and its original approved indication" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-thyrotropin_alfa-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "of the cancelled BLA and its original approved indication" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

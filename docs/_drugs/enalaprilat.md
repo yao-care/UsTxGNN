@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ENALAPRILAT"
 predicted_indications: ["primary hereditary glaucoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Enalaprilat: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Hypertension and heart failure (hypertensive disorder…"
 ---
 
@@ -72,6 +72,8 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA075578 | ENALAPRILAT | DR REDDYS | Injectable; injection | Valid |
@@ -81,6 +83,8 @@ Currently no related literature available.
 | ANDA075458 | ENALAPRILAT | HOSPIRA | Injectable; injection | Discontinued in Drugs@FDA |
 
 Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -96,12 +100,38 @@ Please refer to the package insert for further safety information, including war
 **Rationale:**
 The prediction is supported only by a model score, with no clinical trials or literature (evidence level L5). The proposed mechanism is speculative and conflicts with the largely genetic and developmental cause of primary hereditary glaucoma. Safety review also cannot proceed without the package insert.
 
+<!-- review:begin us-lic-20261105-enalaprilat-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Both US authorizations for enalaprilat are valid, and the drug is marketed. Safety review also cannot proceed without the package insert." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 7 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-enalaprilat-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Preclinical or literature evidence that ACE inhibition lowers intraocular pressure or affects the pathways involved in hereditary glaucoma
 - Assessment of route compatibility, since enalaprilat is injection-only and glaucoma treatment would typically need ocular or oral delivery
 - Clarification of current US marketing status
+
+<!-- review:begin us-lic-20261106-enalaprilat-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of current US marketing status, since both authorizations are cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 3 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-enalaprilat-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "Both US authorizations for enalaprilat are valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since both authorizations are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

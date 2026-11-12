@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "PALONOSETRON"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Palonosetron: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available in the data compiled for this report (palonosetron is g…"
 ---
 
@@ -76,6 +76,8 @@ A 2026 review of antiemetic-associated QT prolongation (PMID 42748473, *European
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA090713 | PALONOSETRON HYDROCHLORIDE | TEVA PHARMS USA | Injectable; intravenous | Valid |
@@ -86,7 +88,15 @@ A 2026 review of antiemetic-associated QT prolongation (PMID 42748473, *European
 
 Showing 5 of 25 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
+<!-- licenses:end -->
+
 The drug is marketed in the US. Only the 5 main authorizations are shown here. Only injectable forms are listed.
+
+<!-- review:begin us-lic-20261106-palonosetron-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 14 valid licenses in the data." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 25 FDA applications or NDC listings for this drug, 17 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-palonosetron-1 -->
 
 ## Cytotoxicity
 
@@ -115,6 +125,19 @@ The prediction rests on a TxGNN model (deep learning) score alone, which may ref
 - Package insert warnings and contraindications for the safety screening
 - Clarification of the regulatory and market status
 - Preclinical or early exploratory clinical data before any further consideration
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 14 valid licenses in the data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

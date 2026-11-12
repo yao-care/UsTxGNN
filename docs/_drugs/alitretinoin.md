@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ALITRETINOIN"
 predicted_indications: ["amenorrhea (disease)", "acne (disease)", "atypical coarctation of aorta", "pregnancy associated osteoporosis", "aortic malformation", "postmenopausal osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "breast fibrocystic disease", "benign mammary dysplasia", "Worth syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Alitretinoin: predicted new indication amenorrhea (evidence level L5). Approved use: Not stated in the US license record. Drug-level pharmacology data lis…"
 ---
 
@@ -81,9 +81,13 @@ For reference, the only literature in the data relates to the second-ranked pred
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA020886 | PANRETIN | ADVANZ PHARMA | Gel; topical | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -110,12 +114,31 @@ The package insert warnings and contraindications were not available. Please ref
 **Rationale:**
 The amenorrhea prediction rests on a model score alone (L5). There are no trials or publications, the mechanistic link is weak, and teratogenicity is a major safety obstacle.
 
+<!-- review:begin us-lic-20261106-alitretinoin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no trials or publications, the mechanistic link is weak, and teratogenicity is a major safety obstacle. The US marketing authorisation is also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-alitretinoin-1 -->
+
 **To proceed, the following is needed:**
 - Any primary clinical or preclinical evidence linking alitretinoin to amenorrhea
 - Detailed mechanism of action data
 - FDA package insert warnings and contraindications, to allow a proper safety screen
 - A teratogenicity risk assessment and pregnancy-prevention plan for women of reproductive age
 - Consideration of whether acne, the only prediction with any literature, is a better research question, although its evidence is class-level only
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US marketing authorisation is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

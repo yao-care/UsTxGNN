@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "SINCALIDE"
 predicted_indications: ["malignant catarrh", "infectious bovine rhinotracheitis", "cytomegalovirus infection", "thrombotic disease", "hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia", "homozygous familial hypercholesterolemia", "Prinzmetal angina", "amenorrhea (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Sincalide: predicted new indication Malignant catarrh (malignant catarrhal fever… (evidence level L5). Approved use: Not stated in the US license records compiled for this report (gallbl…"
 ---
 
@@ -72,10 +72,14 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA017697 | KINEVAC | BRACCO | Powder; intravenous | Valid |
 | NDA210850 | SINCALIDE | MAIA PHARMS INC | Powder; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -90,12 +94,31 @@ No drug-drug interaction records were found, and no disease contraindications we
 **Rationale:**
 The prediction is supported only by a model score. There are no clinical trials or publications, no plausible mechanism, and the predicted condition is a veterinary viral disease. Safety and mechanism data are incomplete.
 
+<!-- review:begin us-lic-20261106-sincalide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both US licenses are cancelled, and safety and mechanism data are incomplete." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-sincalide-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap that prevents safety screening)
 - Mechanism of action data from DrugBank
 - A biologically plausible link between CCK receptor agonism and the predicted disease
 - A review of whether the shared-score and thyroid-cluster patterns reflect model artifacts
 - Consideration of other candidates in the list or of drug-related indications with human relevance, since none of the top 10 predictions has supporting evidence
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both U licenses are cancelled, and s" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1077
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PREDNISOLONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
 description: "Prednisolone: predicted new indication Alopecia areata (evidence level L2). Approved use: Not recorded in the local data"
@@ -95,6 +95,12 @@ Currently no related clinical trials registered.
 
 The drug is marketed in the US. Approved-indication text is not available. Five representative entries:
 
+<!-- review:begin us-lic-20261106-prednisolone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 13 valid licenses in the data." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 134 FDA applications or NDC listings for this drug, 26 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-prednisolone-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021959 | Orapred | Tablet, orally disintegrating | Not available |
@@ -138,6 +144,19 @@ Alopecia areata is the only predicted indication with direct supporting evidence
 - **Hold**: alopecia mucinosa (only a cyclosporine case report; needs exclusion of cutaneous T-cell lymphoma), folliculitis decalvans (only a triple-therapy case, so the prednisolone contribution cannot be isolated), and alopecia antibody deficiency (indirect evidence only).
 - **Hold, prediction only**: telogen effluvium, hereditary hypotrichosis with recurrent skin vesicles, alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome, atrichia with papular lesions, and prolapse of lacrimal gland. No supporting studies or plausible mechanism were identified.
 - **Research Question**: idiopathic steroid-sensitive nephrotic syndrome (L3). Prednisolone is already first-line standard care here, so this is likely not true repurposing; the retrieved literature mostly concerns steroid-resistant disease. It should be reconciled with the original indication list.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 13 valid licenses in the data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

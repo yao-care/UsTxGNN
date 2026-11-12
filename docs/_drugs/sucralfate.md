@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 2
 monitor_inn: "SUCRALFATE"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Sucralfate: predicted new indication Duodenogastric reflux (evidence level L2). Approved use: Duodenal ulcer"
 ---
 
@@ -66,6 +66,12 @@ The very high TxGNN score is backed by published literature, including randomize
 
 Currently no related clinical trials registered.
 
+<!-- review:begin us-lic-20261105-sucralfate-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 9 authorizations are currently valid; only the first 5 are shown." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 17 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-sucralfate-1 -->
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
@@ -83,6 +89,8 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA070848 | SUCRALFATE | TEVA | Tablet; oral | Valid |
@@ -92,6 +100,8 @@ Currently no related clinical trials registered.
 | ANDA211884 | SUCRALFATE | VISTAPHARM LLC | Suspension; oral | Valid |
 
 Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -111,12 +121,39 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 Two small, older randomized trials in alkaline reflux gastritis support the idea, and the mechanism is plausible. However, there are no registered clinical trials and the evidence is dated. The drug is marketed in the US. Package insert safety data were also not available, so safety screening cannot yet proceed.
 
+<!-- review:begin us-lic-20261106-sucralfate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 9 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-sucralfate-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Confirmed mechanism of action data from DrugBank
 - A critical appraisal of the two randomized trials, followed by a modern, adequately powered trial in duodenogastric reflux
 - A plan for managing absorption-related drug interactions (such as dose separation) and for patients with renal impairment or diabetes
 - Clarification of the regulatory and marketing status in the US
+
+<!-- review:begin us-lic-20261106-sucralfate-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory and marketing status in the US, where the drug is marketed with 9 valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-sucralfate-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 9 authorizations are currently valid; only the first 5 are shown" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "where the drug is marketed with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

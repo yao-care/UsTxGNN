@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1287
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "VERAPAMIL"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
 description: "Verapamil: predicted new indication Obsolete bundle branch block (evidence level L5). Approved use: Not recorded in the local data"
@@ -95,6 +95,12 @@ For the other predictions, only two indications returned publications, and none 
 
 The drug is marketed in the US. Approved-indication text is not available in the licence records. Five representative entries:
 
+<!-- review:begin us-lic-20261106-verapamil-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 12 valid licences." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 79 FDA applications or NDC listings for this drug, 29 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-verapamil-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA019614 | Verapamil Hydrochloride | Capsule, delayed release | Not available |
@@ -125,6 +131,26 @@ Please refer to the package insert for the official warnings and contraindicatio
 - A review of whether the disease term is valid, since it is flagged as obsolete
 - If an alternative is pursued, the more plausible candidates are the hypertension-related predictions (malignant hypertensive renal disease, malignant renovascular hypertension), which would need dedicated literature and clinical evidence
 - Confirmation of the current US marketing status, since the drug is marketed
+
+<!-- review:begin us-lic-20261106-verapamil-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the current US marketing status, since the drug is marketed with 12 valid licences" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 79 FDA applications or NDC listings for this drug, 29 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-verapamil-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 12 valid licences" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 12 valid licences" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

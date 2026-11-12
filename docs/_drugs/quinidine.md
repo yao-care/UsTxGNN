@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "QUINIDINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Quinidine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Atrial fibrillation"
 ---
 
@@ -68,6 +68,12 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261105-quinidine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All five authorizations are valid, and the drug is currently marketed in the US." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 68 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-quinidine-1 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
@@ -94,12 +100,32 @@ Package insert warnings and contraindications were not available for this report
 **Rationale:**
 The prediction score is very high, but no clinical trials, literature, or mechanistic data support it (Evidence Level L5). The drug is marketed in the US. Quinidine also carries significant cardiac and interaction risks, and these matter for a condition like NSIAD, which is a rare disorder.
 
+<!-- review:begin us-lic-20261106-quinidine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 5 of 5 authorizations valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 68 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-quinidine-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) and an evaluation of a plausible link to AVPR2/GNAS signaling or renal water handling
 - Preclinical or in vitro evidence showing quinidine's effect on vasopressin V2 receptor signaling or collecting duct water transport
 - FDA package insert warnings and contraindications, for formal safety screening
 - A literature and trial search for NSIAD treatments to confirm the absence of supporting evidence
 - A risk-benefit assessment of QT prolongation and the major drug interactions in the target population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All five authorizations are valid, and the drug is currently marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 5 of 5 authorizations valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

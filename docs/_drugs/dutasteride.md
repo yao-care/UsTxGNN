@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DUTASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dutasteride: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Benign prostatic hyperplasia"
 ---
 
@@ -78,6 +78,8 @@ For context, the only publication retrieved across the top 10 predictions concer
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA090095 | DUTASTERIDE | BARR | Capsule; oral | Valid |
@@ -88,7 +90,15 @@ For context, the only publication retrieved across the top 10 predictions concer
 
 Showing 5 of 25 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
+<!-- licenses:end -->
+
 The drug is marketed.
+
+<!-- review:begin us-lic-20261106-dutasteride-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Two more cancelled ANDAs (ANDA209909 and ANDA202660, both A-S Medication Solutions) are also on record. The drug is marketed, with 7 valid authorizations." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 25 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dutasteride-1 -->
 
 ## Safety Considerations
 
@@ -105,12 +115,39 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction has no clinical trials and no literature (Evidence Level L5). The mechanistic link is speculative, because Ambras syndrome is genetic and not androgen-driven. Dutasteride is currently marketed in the US.
 
+<!-- review:begin us-lic-20261106-dutasteride-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Dutasteride is currently marketed in the US, with 7 valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 25 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dutasteride-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Preclinical or mechanistic evidence linking DHT suppression to the pathology of Ambras syndrome
 - A review of the other top predictions for any with a stronger rationale, such as androgen-related hair disorders, before committing resources
 - Clarification of the regulatory and market status
+
+<!-- review:begin us-lic-20261106-dutasteride-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory and market status of the 7 valid US licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 25 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dutasteride-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Two more cancelled ANDAs (ANDA209909 and ANDA202660, both A-S Medication Solutions) are also on record. , with 7 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 7 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "of the 7 valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

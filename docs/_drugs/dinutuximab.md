@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 611
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dinutuximab: predicted new indication Vertebral anomalies and variable endocrine and T-cell dysfunction (evidence level L5). Approved use: Neuroblastoma"
 monitor_inn: "DINUTUXIMAB"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "chronic myelogenous leukemia, BCR-ABL1 positive"]
@@ -107,12 +107,31 @@ Please refer to the package insert for warnings and contraindications. Label-bas
 **Rationale:**
 The top-ranked prediction has no supporting trials or literature and no plausible mechanistic link to GD2 targeting. The high TxGNN score is a model output only. In addition, label-based safety data is missing.
 
+<!-- review:begin us-lic-20261106-dinutuximab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the only US license for dinutuximab is listed as cancelled, and label-based safety data is missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dinutuximab-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, since safety screening cannot proceed without them
 - Detailed mechanism of action data
 - Confirmation of the current US regulatory and marketing status of dinutuximab
 - Evidence of GD2 expression in the predicted disease, if any, before further investigation of the top-ranked prediction
 - For ganglioneuroblastoma, the most plausible alternative, GD2 expression data and subtype-specific clinical evidence (it is currently a research question, not a Go candidate)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "the only US license for dinutuximab is listed as cancelled, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

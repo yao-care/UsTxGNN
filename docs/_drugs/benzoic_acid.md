@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BENZOIC ACID"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "dry eye syndrome", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "hereditary angioedema with C1Inh deficiency", "posterior leukoencephalopathy syndrome", "C1 inhibitor deficiency"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Benzoic Acid: predicted new indication bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -95,6 +95,12 @@ Currently no related clinical trials registered.
 
 Contraindication relations recorded for benzoic acid in the data compiled for this report (not label text) cover many conditions, including hypertension, liver failure, kidney disease, liver disease, gallbladder disease, gastritis, diabetes mellitus, diabetic ketoacidosis, benign prostatic hyperplasia, blood coagulation disease, hemophilia, coronary artery disease, anemia, G6PD deficiency, glycogen storage disease, cystinuria, galactosemia, myasthenia gravis, anorexia nervosa, cardiovascular disease, achalasia and others.
 
+<!-- review:begin us-lic-20261106-benzoic_acid-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The one record on file is a single-ingredient product whose status is listed as cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-benzoic_acid-2 -->
+
 No drug interaction records were found.
 
 Please refer to the package insert for further safety information.
@@ -108,11 +114,31 @@ Please refer to the package insert for further safety information.
 **Rationale:**
 The prediction rests on a model score alone.
 
+<!-- review:begin us-lic-20261031-benzoic_acid-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests on a model score alone. No clinical trial or publication studies benzoic acid in bronchitis, no mechanism is documented, and the only product record is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 7 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-benzoic_acid-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for benzoic acid
 - Package insert warnings and contraindications
 - Preclinical or clinical studies that directly examine benzoic acid in bronchitis
 - Clarification of the current regulatory and marketing status of the product
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "No clinical trial or publication studies benzoic acid in bronchitis, no mechanism is documented, and the only product record is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "The one record on file is a single-ingredient product whose status is listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

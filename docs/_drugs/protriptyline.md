@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "PROTRIPTYLINE"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "attention deficit-hyperactivity disorder", "chondromyxoid fibroma", "faciodigitogenital syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Protriptyline: predicted new indication Attention deficit hyperactivity disorder, inattentive type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -76,6 +76,8 @@ Two other retrieved papers (PMIDs 19007502 and 22112053) are urine assay methods
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA090462 | PROTRIPTYLINE HYDROCHLORIDE | SIGMAPHARM LABS LLC | Tablet; oral | Valid |
@@ -85,6 +87,8 @@ Two other retrieved papers (PMIDs 19007502 and 22112053) are urine assay methods
 | ANDA078913 | PROTRIPTYLINE HYDROCHLORIDE | HIKMA | Tablet; oral | Discontinued in Drugs@FDA |
 
 Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Any development would need a new supply or approval pathway.
 
@@ -103,12 +107,24 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The only support for ADHD is a single uncontrolled 1996 observational study and a mechanistic inference, with no registered trials. The decision stage remains at S0 (initial screening).
 
+<!-- review:begin us-lic-20261106-protriptyline-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Limited safety data, a heavy interaction burden, and cancelled-only US market status further limit feasibility. The decision stage remains at S0 (initial screening)." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-protriptyline-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Full text and results of the 1996 naturalistic study, plus a search for further observational or controlled studies
 - A pediatric and adult safety assessment, including cardiac risk, against existing ADHD therapies
 - A plan for drug supply and regulatory pathway
+
+<!-- review:begin us-lic-20261106-protriptyline-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A plan for drug supply and regulatory pathway, given that both US authorizations are cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-protriptyline-2 -->
 
 ## Other Predicted Indications (for reference)
 
@@ -117,6 +133,19 @@ The only support for ADHD is a single uncontrolled 1996 observational study and 
 | 1 | ADHD, inattentive type | 0.9995 | L5 | Mechanistic inference only; no trials or literature |
 | 2 | Specific developmental disorder | 0.9991 | L5 | No clear mechanistic rationale; likely network proximity to ADHD |
 | 5 | Faciodigitogenital syndrome | 0.9948 | L5 | No mechanistic rationale for this genetic condition; unsupported |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Limited safety data, a heavy interaction burden, and cancelled-only US market status further limit feasibility" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that both US authorizations are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

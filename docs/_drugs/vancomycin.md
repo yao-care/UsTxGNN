@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1283
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Vancomycin: predicted new indication Diffuse Scleroderma (evidence level L5). Approved use: Clostridium difficile colitis (other listed uses: staphylococcal infe…"
 monitor_inn: "VANCOMYCIN"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
@@ -78,6 +78,12 @@ Currently no related clinical trials registered.
 
 The five below are representative.
 
+<!-- review:begin us-lic-20261106-vancomycin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "13 valid authorizations are on record, and none has approved indication text on record. The five below are representative." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 68 FDA applications or NDC listings for this drug, 42 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-vancomycin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA050606 | Vancomycin hydrochloride (ANI Pharmaceuticals) | Capsule | Not available (valid) |
@@ -113,6 +119,12 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 There is no mechanistic link, no clinical trial and no relevant literature supporting vancomycin in diffuse scleroderma, so the prediction is probably an artifact of the TxGNN model (deep learning). The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-vancomycin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 13 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 68 FDA applications or NDC listings for this drug, 42 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-vancomycin-2 -->
+
 **To proceed, the following is needed:**
 - Do not pursue diffuse scleroderma without new mechanistic or preclinical evidence.
 - If a repurposing question is worth pursuing, evaluate streptococcal pneumonia (rank 9) as a label or guideline-positioning question rather than as a new indication.
@@ -120,6 +132,20 @@ There is no mechanistic link, no clinical trial and no relevant literature suppo
 - Obtain detailed mechanism of action data from DrugBank.
 - Confirm the current US availability and labeling of vancomycin products.
 - Review renal, auditory and hematologic safety for any planned use, given the knowledge-graph contraindication signals.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "13 valid authorizations are on record, and none has approved indication text on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

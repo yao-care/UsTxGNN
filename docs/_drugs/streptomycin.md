@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "STREPTOMYCIN"
 predicted_indications: ["conjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "Lyme disease", "infectious otitis interna"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Streptomycin: predicted new indication Conjunctivitis (evidence level L4). Approved use: Pulmonary tuberculosis (also chancroid, leptospirosis…"
 ---
 
@@ -86,6 +86,8 @@ The remaining papers are veterinary, microbiology or unrelated reports and offer
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA064210 | STREPTOMYCIN SULFATE | XGEN PHARMS | Injectable; injection | Valid |
@@ -95,6 +97,8 @@ The remaining papers are veterinary, microbiology or unrelated reports and offer
 | ANDA060404 | STREPTOMYCIN SULFATE | LILLY | Injectable; injection | Discontinued in Drugs@FDA |
 
 Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -131,12 +135,31 @@ All other predictions are also at Hold:
 **Rationale:**
 There are no clinical trials, and the literature for conjunctivitis consists of historical reports, case reports and reviews that are mostly indirect (tularemia, brucellosis, tuberculosis).
 
+<!-- review:begin us-lic-20261031-streptomycin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials, and the literature for conjunctivitis consists of historical reports, case reports and reviews that are mostly indirect (tularemia, brucellosis, tuberculosis). The drug's only US licence is cancelled, and systemic aminoglycoside toxicity argues against use in a usually self-limiting, topically treatable condition." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 6 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-streptomycin-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently missing and a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Evidence that streptomycin offers a benefit over current topical ophthalmic antibiotics, ideally from controlled studies
 - A feasible ophthalmic or topical formulation and route, since only an injectable form has been marketed
 - A toxicity assessment (kidney, ear and neuromuscular risks) and a plan to address the interaction burden
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The drug's only US licence is cancelled, and systemic aminoglycoside toxicity argues against use in a usually self-limiting, topically treat" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

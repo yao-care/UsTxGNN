@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MYCOPHENOLIC ACID"
 predicted_indications: ["hemoglobinopathy", "migraine disorder", "migraine with brainstem aura", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "pyropoikilocytosis, hereditary", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyruvate kinase deficiency of red cells", "rheumatoid arthritis", "antithrombin deficiency type 2"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Mycophenolic Acid: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Not specified in the available US license data"
 ---
 
@@ -108,6 +108,12 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The 0.9960 TxGNN score is a computational prediction. The only supporting material is indirect: a trial of a different drug (basiliximab) and a pharmacokinetic dosing paper. No efficacy data show that mycophenolic acid treats hemoglobinopathy itself.
 
+<!-- review:begin us-lic-20261106-mycophenolic_acid-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "No efficacy data show that mycophenolic acid treats hemoglobinopathy itself. The US product is also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 13 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-mycophenolic_acid-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
@@ -120,6 +126,19 @@ The 0.9960 TxGNN score is a computational prediction. The only supporting materi
 
 - **Rheumatoid arthritis** (score 0.9918, evidence level L3): The IMPDH mechanism gives a rational basis for autoimmune disease, and early investigational literature (1993–1999) exists. However, no confirmatory randomized efficacy data are present, and the single trial found is a terminated vaccine-response study. It is a more mechanistically plausible candidate than hemoglobinopathy, but still a research question.
 - **Migraine, partial deletion of chromosome 16p, pyropoikilocytosis, glycolytic enzyme deficiencies, antithrombin deficiency type 2, and other entries**: Prediction only, with no clinical or literature support and no plausible link to IMPDH inhibition. Hold.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US product is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

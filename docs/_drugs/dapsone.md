@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 1
 monitor_inn: "DAPSONE"
 predicted_indications: ["pneumocystosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dapsone: predicted new indication Pneumocystosis (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
@@ -96,6 +96,12 @@ The clinical trial record supports the prediction. Dapsone has been tested again
 
 The five below are representative.
 
+<!-- review:begin us-lic-20261105-dapsone-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 15 US authorizations for dapsone are valid. The five below are representative." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 29 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-dapsone-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021794 | Dapsone (Pacific Pharma) | Gel | Not available (valid) |
@@ -121,6 +127,12 @@ Package insert warnings and contraindications were not available. Please refer t
 **Rationale:**
 Four completed Phase 3 trials (700, 600, 400 and 290 participants) evaluated dapsone-containing regimens for PCP prophylaxis or treatment, and two recent network meta-analyses address these regimens. Guidelines still favor TMP-SMX as first choice, so dapsone fits as an alternative for patients intolerant of sulfonamides. Its known hematologic risks call for guardrails.
 
+<!-- review:begin us-lic-20261106-dapsone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Its known hematologic risks and the cancellation of all US authorizations call for guardrails." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 29 FDA applications or NDC listings for this drug, 23 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dapsone-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking data gap), obtained from the FDA website
 - Verified mechanism of action data from DrugBank
@@ -128,6 +140,20 @@ Four completed Phase 3 trials (700, 600, 400 and 290 participants) evaluated dap
 - A review of the 100 drug interactions against the intended co-medications
 - Confirmation of product availability and formulation
 - Reading of the Phase 3 trial results (dapsone arm outcomes), since the data compiled here give only trial design summaries
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 15 US authorizations for dapsone are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and the cancellation of all US authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

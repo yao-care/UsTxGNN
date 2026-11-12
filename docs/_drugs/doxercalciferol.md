@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "DOXERCALCIFEROL"
 predicted_indications: ["obsolete vitamin D deficiency"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Doxercalciferol: predicted new indication Obsolete vitamin D deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -71,6 +71,12 @@ Currently no related literature available.
 
 The approved indication text is not available in the compiled data.
 
+<!-- review:begin us-lic-20261105-doxercalciferol-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All five authorizations are valid. The approved indication text is not available in the compiled data." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 18 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-doxercalciferol-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | ANDA210452 | Doxercalciferol (Dr. Reddy's Laboratories Inc) | Injection | Valid |
@@ -103,6 +109,19 @@ The prediction rests on the model score alone (Evidence Level L5), with no trial
 - Mapping of the obsolete disease term to a current vitamin D deficiency definition
 - Searches for clinical trials and literature on vitamin D deficiency
 - Route compatibility assessment and clarification of the US market status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All five authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

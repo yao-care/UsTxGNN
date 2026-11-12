@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 808
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ipilimumab: predicted new indication Choroideremia (evidence level L5). Approved use: Metastatic melanoma"
 monitor_inn: "IPILIMUMAB"
 predicted_indications: ["choroideremia"]
@@ -104,11 +104,29 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction has no clinical or published support (L5) and no credible mechanistic link. Choroideremia is a genetic, non-immune retinal degeneration, and ipilimumab's immune activation could harm the eye.
 
+<!-- review:begin us-lic-20261106-ipilimumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Choroideremia is a genetic, non-immune retinal degeneration, and ipilimumab's immune activation could harm the eye. The US licence is cancelled only." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ipilimumab-1 -->
+
 **To proceed, the following is needed:**
 - Any preclinical or mechanistic evidence linking CTLA-4 blockade to choroideremia pathology
 - Detailed mechanism of action data and the full package insert safety information
 - Assessment of ocular immune-related adverse event risk
 - Confirmation of current US availability
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US licence is cancelled only" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

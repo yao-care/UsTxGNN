@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "GLIMEPIRIDE"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Glimepiride: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -75,6 +75,12 @@ Currently no related clinical trials registered.
 
 Currently no relevant literature is available for the top prediction. The only publication retrieved across the candidate list was for pancreatic agenesis, and it is not relevant evidence:
 
+<!-- review:begin us-lic-20261106-glimepiride-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A sixth license (ANDA091220, Micro Labs Limited) is also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 22 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-glimepiride-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [12720536](https://pubmed.ncbi.nlm.nih.gov/12720536/) | 2003 | Review / diagnostic imaging | European Journal of Endocrinology | Pitfalls in endosonographic imaging of suspected insulinomas; does not address glimepiride or pancreatic agenesis therapy |
@@ -111,11 +117,31 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction is computational only (L5), with no clinical trials or relevant literature. No plausible mechanism links glimepiride to stiff person syndrome, and the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. In addition, glimepiride is marketed in the US.
 
+<!-- review:begin us-lic-20261106-glimepiride-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, glimepiride is marketed in the US, with 6 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 22 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-glimepiride-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Evidence from preclinical or clinical studies on glimepiride in stiff person syndrome, or a clear mechanistic hypothesis connecting KATP channel inhibition or insulin signaling to GABAergic dysfunction
 - Confirmation of current US market and licensing status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "A sixth license (ANDA091220, Micro Labs Limited) is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 6 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

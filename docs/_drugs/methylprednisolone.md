@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 917
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "METHYLPREDNISOLONE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Methylprednisolone: predicted new indication Alopecia mucinosa (evidence level L5). Approved use: Not recorded in the local data"
@@ -81,6 +81,12 @@ Currently no related literature available.
 
 The list below may be partial.
 
+<!-- review:begin us-lic-20261106-methylprednisolone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Of the 8 licence records in the local data, 7 are valid and 1 is cancelled. The list below may be partial." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 99 FDA applications or NDC listings for this drug, 28 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-methylprednisolone-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA011757 | Depo-Medrol | Injection, suspension | Not available |
@@ -119,6 +125,18 @@ The prediction score is high (0.9999), but there are no clinical trials or publi
 - Review of the package insert for warnings and contraindications, especially for long-term or repeated use
 - A plan for exposure route and dose (oral, injectable or intralesional) and for monitoring glucocorticoid adverse effects, such as blood glucose and blood pressure
 - If the evidence review is supportive, a small exploratory study before any larger investment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Of the 8 licence records in the local data, 7 are valid and 1 is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

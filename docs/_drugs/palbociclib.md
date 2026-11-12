@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "PALBOCICLIB"
 predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Palbociclib: predicted new indication Hyperthyroidism (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -137,12 +137,38 @@ Moderate-level interactions include aprepitant, dexamethasone, cimetidine, saxag
 - All four predictions rest mainly on TxGNN model (deep learning) scores. Rheumatoid arthritis has the most support (L4: preclinical studies, one case report, one observational study) but no registered trial. Hyperthyroidism and thyroid hormone resistance have no evidence, and thrombotic disease points to a safety risk. Label safety data is missing.
 - Rheumatoid arthritis can be treated as a research question to pursue, not a candidate ready to advance.
 
+<!-- review:begin us-lic-20261106-palbociclib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both US NDAs are cancelled, and label safety data is missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-palbociclib-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - The original approved indication text
 - For rheumatoid arthritis: review of the full findings of PMID 40504547, and a case for a controlled study that weighs the myelosuppression and thromboembolism risks of palbociclib against existing RA therapies
 - Clarification of the current regulatory status of the product
+
+<!-- review:begin us-lic-20261106-palbociclib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the US NDAs are cancelled and of the current regulatory status of the product" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-palbociclib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both US NDAs are cancelled, and l" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "of why the US NDAs are cancelled and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

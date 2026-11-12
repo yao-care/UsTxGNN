@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "ISOFLURANE"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "manic bipolar affective disorder", "trichotillomania", "dysthymic disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Isoflurane: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -68,6 +68,12 @@ Currently no related clinical trials registered.
 
 The table lists the most relevant publications. Several other retrieved papers (CGRP, nitroglycerin and trigeminal models, topiramate, cannabinoids, passive smoking) provide migraine model context but contain no isoflurane-specific data, so they are omitted.
 
+<!-- review:begin us-lic-20261105-isoflurane-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All five US licenses are valid, and no approved indication text was recorded for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 7 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-isoflurane-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [26323741](https://pubmed.ncbi.nlm.nih.gov/26323741/) | 2015 | Case report | Braz J Anesthesiol | Status migrainosus treated with general anesthesia; propofol and isoflurane act on GABA-A receptors and were considered theoretically useful |
@@ -112,6 +118,26 @@ Please refer to the package insert for warnings and label contraindications, whi
 - Direct isoflurane studies on spreading depression and migraine, and prospective data on refractory status migrainosus
 - A defined hospital-based use setting and monitoring plan, including screening for malignant hyperthermia risk
 - Clarification of the regulatory pathway
+
+<!-- review:begin us-lic-20261105-isoflurane-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Clarification of the regulatory pathway, noting that all five US licenses are valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 7 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-isoflurane-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All five US licenses are valid, and no approved indication text was recorded for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "noting that all five US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "POLIDOCANOL"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding", "Immunoerythromyeloid hypoplasia", "pigmented paravenous retinochoroidal atrophy", "progressive bifocal chorioretinal atrophy", "X-linked retinal dysplasia", "monosomy X", "cone dystrophy", "oligocone trichromacy", "retinoschisis of fovea"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Polidocanol: predicted new indication Esophageal varices with bleeding (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
@@ -83,10 +83,14 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA021201 | ASCLERA | CHEMISCH FBRK KRSSLR | Solution; intravenous | Valid |
 | NDA205098 | VARITHENA | BOSTON | Solution; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -102,6 +106,12 @@ Package insert warnings and contraindications were not available. Please refer t
 **Rationale:**
 The predicted indication has a plausible mechanism and multiple published studies, including two RCTs. However, these are old, no clinical trials are registered, and band ligation is now the preferred endoscopic treatment.
 
+<!-- review:begin us-lic-20261031-polidocanol-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "However, these are old, no clinical trials are registered, and band ligation is now the preferred endoscopic treatment. The only US license is cancelled, which limits practical availability." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-polidocanol-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism-of-action data
@@ -109,6 +119,26 @@ The predicted indication has a plausible mechanism and multiple published studie
 - A comparison against current standard care (band ligation, beta-blockers)
 - A plan for stricture, dysphagia and ulceration monitoring
 - Clarification of product availability
+
+<!-- review:begin us-lic-20261106-polidocanol-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of product availability, given the cancelled US license" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-polidocanol-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, which limits practical availability" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given the cancelled US license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

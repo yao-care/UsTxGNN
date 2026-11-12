@@ -86,6 +86,8 @@ Currently no related literature available.
 
 The drug is marketed, with 13 valid licenses. No approved indication text is available in the data compiled for this report. Up to 5 main authorizations are shown:
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA211941 | CARBOPROST TROMETHAMINE | DR REDDYS | Injectable; injection | Valid |
@@ -95,6 +97,8 @@ The drug is marketed, with 13 valid licenses. No approved indication text is ava
 | ANDA216824 | CARBOPROST TROMETHAMINE | SOLA PHARMS | Injectable; injection | Valid |
 
 Showing 5 of 14 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

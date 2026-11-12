@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 195
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -62,6 +62,12 @@ Without a valid drug node, TxGNN has no traversal starting point and correctly r
 
 No regulatory licenses were found in the US database for this entry.
 
+<!-- review:begin us-lic-20261105-activated_charcoal_apple_atlantic_cod_atlantic_sal-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "No regulatory licenses were found in the US database for this entry (TFDA query returned 0 results, total_licenses = 0)." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-activated_charcoal_apple_atlantic_cod_atlantic_sal-1 -->
+
 ---
 
 ## Safety Considerations
@@ -79,6 +85,18 @@ Note: Some individual components carry known pharmacological activity that warra
 These components individually have safety profiles that would require evaluation if the product were to be submitted for regulatory review.
 
 ---
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "(TFDA query returned 0 results, total_licenses = 0)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

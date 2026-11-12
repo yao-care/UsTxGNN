@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "EVOLOCUMAB"
 predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Evolocumab: predicted new indication Symptomatic form of hemophilia in female carriers (evidence level L5). Approved use: Homozygous familial hypercholesterolemia"
 ---
 
@@ -82,9 +82,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA125522 | REPATHA | AMGEN INC | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -99,11 +103,37 @@ For other safety information (warnings and contraindications), please refer to t
 **Rationale:**
 The predictions rest solely on model scores. There are no clinical trials or publications, and the mechanistic review found no plausible link for the top-ranked bleeding or coagulation indications. The only weak, indirect link is for familial apolipoprotein C-II deficiency, and its benefit is speculative.
 
+<!-- review:begin us-lic-20261106-evolocumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The only weak, indirect link is for familial apolipoprotein C-II deficiency, and its benefit is speculative. The US BLA is also listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-evolocumab-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank to support mechanistic analysis
 - Any preclinical or clinical evidence for the predicted indications, with priority on familial apolipoprotein C-II deficiency, the only prediction with a plausible lipid-related link
 - Route compatibility and similarity-to-original-indication assessments, currently pending
+
+<!-- review:begin us-lic-20261106-evolocumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US regulatory status of BLA125522 / Route compatibility and similarity-to-original-indication assessments, currently pending" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-evolocumab-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US BLA is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Clarification of the cancelled US regulatory status of BLA125522" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

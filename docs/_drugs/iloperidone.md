@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 789
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Iloperidone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia"
 monitor_inn: "ILOPERIDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia", "atypical glycine encephalopathy", "myopia X-linked"]
@@ -97,6 +97,8 @@ No registered clinical trials were supplied for this indication.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA022192 | FANAPT | VANDA PHARMS INC | Tablet; oral | Valid |
@@ -104,7 +106,15 @@ No registered clinical trials were supplied for this indication.
 | ANDA207098 | ILOPERIDONE | TARO | Tablet; oral | Discontinued in Drugs@FDA |
 | ANDA207231 | ILOPERIDONE | ADAPTIS | Tablet; oral | Discontinued in Drugs@FDA |
 
+<!-- licenses:end -->
+
 The 2026 literature describes iloperidone as approved in the USA for schizophrenia (2009) and acute bipolar I disorder (2024).
+
+<!-- review:begin us-lic-20261106-iloperidone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The licence data shows both authorizations as cancelled. However, the 2026 literature describes iloperidone as approved in the USA for schizophrenia (2009) and acute bipolar I disorder (2024). This conflict should be reconciled against the current FDA record." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 4 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-iloperidone-1 -->
 
 ---
 
@@ -131,12 +141,32 @@ Label warnings and contraindications were not available in the compiled data, so
 - The prediction rests only on a TxGNN model (deep learning) score. There are no trials or publications, and no plausible mechanism links an antipsychotic to inherited retinal degeneration.
 - If the goal is a practical repurposing direction, manic bipolar affective disorder has Phase 3 RCT support and may merit **Proceed with Guardrails**. This is subject to the evidence-level check.
 
+<!-- review:begin us-lic-20261106-iloperidone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "This is subject to the licence-status discrepancy and the evidence-level check." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 4 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-iloperidone-2 -->
+
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA) from DrugBank.
 - The FDA package insert (warnings and contraindications), which is currently a blocking gap for safety screening.
 - For retinal dystrophy: independent preclinical or mechanistic evidence before any further investment.
 - For bipolar mania: full-text verification of the Phase 3 study (design, endpoints, results) and confirmation of the current US approval and licence status.
 - A guardrail plan for QTc/ECG monitoring, metabolic monitoring and interaction screening.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he licence data shows both authorizations as cancelled. However, t This conflict should be reconciled against the current FDA record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the licence-status discrepancy and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

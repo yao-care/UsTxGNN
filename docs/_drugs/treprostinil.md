@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1256
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Treprostinil: predicted new indication pulmonary arteriovenous malformation (disease) (evidence level L5). Approved use: Pulmonary arterial hypertension"
 monitor_inn: "TREPROSTINIL"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita"]
@@ -85,6 +85,20 @@ For PAH associated with congenital heart disease (rank 2), supporting data are l
 
 Approved indication text was not available in the data.
 
+<!-- review:begin us-lic-20261105-treprostinil-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The drug is marketed in the US, and all nine US authorizations are valid. Approved indication text was not available in the data." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 11 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-treprostinil-1 -->
+
+<!-- review:begin us-lic-20261106-treprostinil-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Four generic injection ANDAs (Dr. Reddy's, Alembic, Sandoz, Teva) are also listed as cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-treprostinil-3 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA203649 | TREPROSTINIL | SANDOZ | Injectable; intravenous, subcutaneous | Valid |
@@ -94,6 +108,8 @@ Approved indication text was not available in the data.
 | NDA021272 | REMODULIN | UNITED THERAP | Injectable; intravenous, subcutaneous | Valid |
 
 Showing 5 of 11 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -110,11 +126,32 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Rationale:**
 The top-ranked prediction, pulmonary arteriovenous malformation, has only a model score, no trials or literature, and a mechanistic concern (possible worsening of shunting). The better-supported predictions are PAH subgroups, which are largely covered by the existing PAH indication.
 
+<!-- review:begin us-lic-20261105-treprostinil-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The better-supported predictions are PAH subgroups, which are largely covered by the existing PAH indication. The drug is marketed in the US, and nine US authorizations are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 11 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-treprostinil-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism-of-action data
 - For PAH subgroups (CTD-PAH, CHD-PAH): dedicated trials or registry analyses, and confirmation of current US marketing status
 - For pulmonary arteriovenous malformation: preclinical or hemodynamic safety data on shunting and oxygenation before any clinical consideration
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The drug is marketed in the US, and all nine US authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "The drug is marketed in the US, and nine US authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Four generic injection ANDAs (Dr. Reddy's, Alembic, Sandoz, Teva) are also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

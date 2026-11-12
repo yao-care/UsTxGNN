@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1218
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TETRACAINE"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
 description: "Tetracaine: predicted new indication Acrodermatitis chronica atrophicans (evidence level L5). Approved use: Not recorded in the local data"
@@ -89,6 +89,12 @@ Eight other predictions were generated for tetracaine. None has therapeutic evid
 
 **Cauda equina syndrome (rank 8).** The literature, made up of case reports, reviews and preclinical studies, describes this condition as an adverse effect of intrathecal tetracaine and other local anesthetics. Examples are [PMID 30625770](https://pubmed.ncbi.nlm.nih.gov/30625770/), [PMID 11685003](https://pubmed.ncbi.nlm.nih.gov/11685003/) and [PMID 8982894](https://pubmed.ncbi.nlm.nih.gov/8982894/). This is a safety flag, not a repurposing opportunity.
 
+<!-- review:begin us-lic-20261105-tetracaine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All five licenses are valid, and the data contain no approved indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 6 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-tetracaine-1 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
@@ -123,12 +129,32 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The top prediction has no clinical trials and no literature. Tetracaine has no plausible mechanism against a Borrelia skin infection, and the high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. None of the other eight predictions has therapeutic evidence.
 
+<!-- review:begin us-lic-20261105-tetracaine-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "None of the other eight predictions has therapeutic evidence. All five US licenses are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 6 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-tetracaine-2 -->
+
 **To proceed, the following is needed:**
 - Detailed mechanism of action data
 - Package insert warnings and contraindications
 - Any preclinical or clinical evidence linking tetracaine to the predicted indication
 - Confirmation of a viable route and formulation for the predicted indication
 - Review of whether the TxGNN model (deep learning) prediction reflects a true therapeutic association
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All five licenses are valid, and the data contain no approved indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "All five US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

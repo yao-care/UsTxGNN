@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -118,6 +118,25 @@ This product cannot be evaluated under the standard TxGNN drug repurposing frame
 - **Resolve data gap DG002**: Query DrugBank API for mechanism-of-action data for the relevant active component
 - **Re-run TxGNN**: After establishing a valid drug–DrugBank ID mapping, re-submit as a single-entity prediction request
 - **Confirm product category**: Determine whether this is a diagnostic allergen panel (in vitro or skin test) or an immunotherapy product, as the regulatory and clinical pathway differs substantially between the two
+
+<!-- review:begin us-lic-20261105-anas_platyrhynchos_feather_anser_anser_feather_bos-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "**Resolve data gap DG001**: Download the TFDA package insert PDF to extract safety warnings and contraindications" Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-anas_platyrhynchos_feather_anser_anser_feather_bos-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "TFDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 771
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "HISTRELIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pelvic organ prolapse", "female genital tuberculosis", "physiological sexual disorder"]
 description: "Histrelin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Not recorded in the local data"
@@ -93,11 +93,37 @@ Package-insert warnings and contraindications were not available in the data com
 **Rationale:**
 The prediction for Ambras type hypertrichosis universalis congenita has no clinical trials, no literature and no credible mechanistic link (Evidence Level L5).
 
+<!-- review:begin us-lic-20261031-histrelin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction for Ambras type hypertrichosis universalis congenita has no clinical trials, no literature and no credible mechanistic link (Evidence Level L5). The only US product is cancelled, so the high TxGNN score alone does not justify further investment." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-histrelin-1 -->
+
 **To proceed, the following is needed:**
 - Any credible biological rationale linking GnRH agonism to TRPS1-related or other genetic hypertrichosis, plus supporting preclinical data
 - Mechanism of action data for histrelin from DrugBank
 - FDA package insert warnings and contraindications, to allow safety screening
 - If the goal is a real use of the drug, a shift in focus to central precocious puberty, with monitoring of growth velocity, bone age and LH suppression, and follow-up for implant removal and recovery of the reproductive axis
+
+<!-- review:begin us-lic-20261031-histrelin-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Confirmation of current regulatory and supply status, since the only NDA is cancelled / If the goal is a real use of the drug, a shift in focus to central precocious puberty, with monitoring of growth velocity, bone age and LH suppression, and follow-up for implant removal and recovery of the reproductive axis" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-histrelin-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US product is cancelled, so the high TxGNN score alone does not justify further investment" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Confirmation of current regulatory and supply status, since the only NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

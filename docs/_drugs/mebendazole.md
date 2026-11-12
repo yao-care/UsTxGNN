@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MEBENDAZOLE"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Mebendazole: predicted new indication Acne (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -83,11 +83,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA073580 | EMVERM | IMPAX LABS INC | Tablet, chewable; oral | Valid |
 | NDA017481 | VERMOX | JANSSEN PHARMS | Tablet, chewable; oral | Discontinued in Drugs@FDA |
 | NDA208398 | VERMOX | JANSSEN PHARMS | Tablet, chewable; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ---
 
@@ -110,12 +114,31 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no relevant literature and no plausible mechanistic link between tubulin inhibition and acne pathology.
 
+<!-- review:begin us-lic-20261105-mebendazole-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no relevant literature and no plausible mechanistic link between tubulin inhibition and acne pathology. The only US license is cancelled, and label safety data is unavailable." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 3 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-mebendazole-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank) and a rigorous assessment of any biological link to acne
 - FDA package insert warnings and contraindications, to complete safety screening
 - Preclinical evidence (e.g., effects on sebocytes, keratinocytes or *C. acnes*) before any clinical consideration
 - Assessment of route compatibility, since the only known formulation is an oral chewable tablet and acne treatment often uses topical therapy
 - A review of the 1982 case report's relevance, and a literature search for better evidence
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The only US license is cancelled, and label safety data is unavailable" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Insulin glargine"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Insulin Glargine: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -96,11 +96,23 @@ For other safety information, please refer to the package insert.
 **Rationale:**
 The prediction is supported only by a model score. There are no clinical trials or publications for autoimmune oophoritis, and the likely driver is the shared autoimmune link with type 1 diabetes. In addition, the drug is marketed in the US, and the package insert safety data have not been retrieved.
 
+<!-- review:begin us-lic-20261106-insulin_glargine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the drug is marketed in the US with six valid licenses, and the package insert safety data have not been retrieved." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-insulin_glargine-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are blocking for safety screening
 - Detailed mechanism of action data (MOA)
 - Preclinical or clinical evidence that insulin glargine affects ovarian autoimmune pathology
 - Confirmation of the current US regulatory status, since the drug is marketed
+
+<!-- review:begin us-lic-20261106-insulin_glargine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the current US regulatory status, since the drug is marketed with six valid licenses" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 8 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-insulin_glargine-2 -->
 
 ## Other Predicted Indications (Reference)
 
@@ -117,6 +129,19 @@ The other top predictions are also computational only and are on Hold. None has 
 | 8 | Centrifugal lipodystrophy | 0.9939 | L5 | Speculative, no evidence |
 | 9 | Pressure-induced localized lipoatrophy | 0.9938 | L5 | Insulin can itself cause lipoatrophy |
 | 10 | Idiopathic localized lipodystrophy | 0.9934 | L5 | No mechanism or evidence |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with six valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with six valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "LANREOTIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Lanreotide: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -103,6 +103,25 @@ The prediction is supported only by a model score (Evidence Level L5), with no t
 - Preclinical or mechanistic evidence linking GH/IGF-1 suppression to hair growth
 - Clarification of the current US regulatory and commercial status; the drug is marketed
 - A route and formulation compatibility assessment for the proposed indication
+
+<!-- review:begin us-lic-20261106-lanreotide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current US regulatory and commercial status; the drug is marketed, with 3 of 3 licenses valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 4 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lanreotide-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 3 of 3 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

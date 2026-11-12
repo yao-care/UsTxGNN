@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "MILNACIPRAN"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "tendinitis", "papillary conjunctivitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "atrophoderma vermiculata", "cauda equina syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Milnacipran: predicted new indication Migraine disorder (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
@@ -93,6 +93,8 @@ Other retrieved items (a pharmacovigilance methodology paper, a thunderclap head
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA205071 | MILNACIPRAN HYDROCHLORIDE | BRECKENRIDGE | Tablet; oral | Valid |
@@ -102,6 +104,8 @@ Other retrieved items (a pharmacovigilance methodology paper, a thunderclap head
 | ANDA210944 | MILNACIPRAN HYDROCHLORIDE | MACLEODS PHARMS | Tablet; oral | Valid |
 
 Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 
@@ -130,6 +134,12 @@ Package insert warnings were not available for this report. Please refer to the 
 **Rationale:**
 The prediction score is very high and the SNRI mechanism is plausible, but the clinical evidence consists of one small open-label pilot study and one small placebo-controlled trial with no available results. There are no completed Phase 2/3 efficacy trials.
 
+<!-- review:begin us-lic-20261031-milnacipran-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no completed Phase 2/3 efficacy trials. The only US NDA is cancelled, and the knowledge graph flags several cardiovascular contraindications that matter in a migraine population." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 6 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-milnacipran-1 -->
+
 **To proceed, the following is needed:**
 - Results of the completed placebo-controlled trial NCT01393522 (publication or registry results)
 - An adequately powered Phase 2 randomized controlled trial in migraine prevention
@@ -137,6 +147,19 @@ The prediction score is very high and the SNRI mechanism is plausible, but the c
 - FDA package insert warnings and contraindications, to complete the safety screening
 - A cardiovascular and blood pressure safety assessment for migraine patients
 - Consolidation of the "migraine with or without aura, susceptibility to" entry into the main migraine disorder assessment, since it has no distinct evidence
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US NDA is cancelled, and the knowledge graph flags several cardiovascular contraindications that matter in a migraine population" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

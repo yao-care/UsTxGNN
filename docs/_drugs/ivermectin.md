@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "IVERMECTIN"
 predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "neonatal candidiasis", "candida glabrata", "congenital candidiasis", "postmenopausal atrophic vaginitis", "candidiasis, invasive"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ivermectin: predicted new indication Vulvovaginal candidiasis (evidence level L5). Approved use: Strongyloidiasis, onchocerciasis"
 ---
 
@@ -81,6 +81,12 @@ For the second-ranked prediction (esophageal candidiasis) and the seventh-ranked
 
 The drug is marketed. The data compiled for this report contain no approved indication text.
 
+<!-- review:begin us-lic-20261106-ivermectin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 10 valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 15 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ivermectin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | NDA050742 | Stromectol | Tablet | Merck Sharp & Dohme LLC |
@@ -116,11 +122,31 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or supporting literature, and no plausible antifungal mechanism. Effective antifungals (azoles, echinocandins, amphotericin B) are already standard of care. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-ivermectin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 10 valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 15 FDA applications or NDC listings for this drug, 14 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-ivermectin-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, and in vitro evidence of activity against *Candida* species
 - Preclinical or early clinical studies in vulvovaginal candidiasis
 - Package insert warnings and contraindications, which are required for safety screening
 - Confirmation of the current US regulatory status, and of which route (oral or topical) a new indication would need
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 10 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 10 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

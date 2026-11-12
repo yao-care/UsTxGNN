@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "OBILTOXAXIMAB"
 predicted_indications: ["postinfectious vasculitis", "post-infectious syndrome", "post-bacterial disorder", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "drug-induced osteoporosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Obiltoxaximab: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Inhalational anthrax (anthrax infection)"
 ---
 
@@ -82,9 +82,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA125509 | ANTHIM | ELUSYS THERAPEUTICS INC | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -99,12 +103,38 @@ No drug-interaction records were found for this drug.
 **Rationale:**
 The prediction has no clinical trials or literature behind it (evidence level L5) and no plausible biological link. The prediction should not advance on the model score alone.
 
+<!-- review:begin us-lic-20261031-obiltoxaximab-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only US license is cancelled. The prediction should not advance on the model score alone." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-obiltoxaximab-1 -->
+
 **To proceed, the following is needed:**
 - A credible mechanistic hypothesis connecting anthrax protective antigen neutralization to postinfectious vasculitis
 - Supporting preclinical or clinical evidence
 - Package insert warnings and contraindications, which are required before any safety screening
 - Detailed mechanism-of-action data
 - Clarification of the route of administration needed for the new indication
+
+<!-- review:begin us-lic-20261106-obiltoxaximab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US regulatory status and the route of administration needed for the new indication" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-obiltoxaximab-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled US regulatory status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

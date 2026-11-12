@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 722
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "FLUOROMETHOLONE"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy", "glaucomatocyclitic crisis"]
 description: "Fluorometholone: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -90,6 +90,12 @@ Currently no related literature available for postinfectious vasculitis.
 
 For reference, two indirect papers were retrieved for the rank-6 prediction (punctate epithelial keratoconjunctivitis). Neither tests fluorometholone efficacy:
 
+<!-- review:begin us-lic-20261105-fluorometholone-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All four US authorizations are currently valid, and the drug is marketed in the US." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 10 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-fluorometholone-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [34011737](https://pubmed.ncbi.nlm.nih.gov/34011737/) | 2021 | Review | Indian Journal of Ophthalmology | Characterizes the sequelae of microsporidial keratoconjunctivitis and outlines its management |
@@ -125,11 +131,31 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction for postinfectious vasculitis is supported only by a model score (L5), with no trials or publications. A topical eye drop is also unlikely to treat a systemic vasculitis.
 
+<!-- review:begin us-lic-20261105-fluorometholone-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "A topical eye drop is also unlikely to treat a systemic vasculitis. The drug is marketed in the US, and all 4 of its 4 authorizations are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 10 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-fluorometholone-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently missing and blocking safety screening)
 - Detailed mechanism-of-action data
 - Evidence that a route and formulation can reach the target tissue for a systemic indication
 - Consider redirecting the evaluation toward ocular-adjacent predictions (punctate epithelial keratoconjunctivitis, lens-induced iridocyclitis, glaucomatocyclitic crisis), which are better aligned with the drug's known use and could be framed as research questions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All four US authorizations are currently valid, and the drug is marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "The drug is marketed in the US, and all 4 of its 4 authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

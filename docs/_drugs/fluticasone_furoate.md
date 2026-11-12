@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 730
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "FLUTICASONE FUROATE"
 predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis"]
 description: "Fluticasone Furoate: predicted new indication Atopic eczema (evidence level L5). Approved use: Not recorded in the local data"
@@ -67,6 +67,12 @@ Other predicted indications were also reviewed. Bronchitis has indirect evidence
 
 Currently no related clinical trials registered.
 
+<!-- review:begin us-lic-20261106-fluticasone_furoate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Five of five authorizations are currently valid in the US market, as a single-ingredient or combination product, in the data compiled for this report." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fluticasone_furoate-1 -->
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
@@ -76,12 +82,16 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDA022051 | FLONASE SENSIMIST ALLERGY RELIEF | HALEON US HOLDINGS | Spray, metered; nasal | Valid |
 | NDA205625 | ARNUITY ELLIPTA | GLAXOSMITHKLINE | Powder; inhalation | Valid |
 | NDA204275 | BREO ELLIPTA | GLAXO GRP LTD | Powder; inhalation | Valid |
 | NDA209482 | TRELEGY ELLIPTA | GLAXOSMITHKLINE | Powder; inhalation | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -98,6 +108,12 @@ Please refer to the package insert for official warnings and contraindications, 
 **Rationale:**
 The atopic eczema prediction is mechanistically plausible through the corticosteroid class, but there are no clinical trials and no literature evaluating fluticasone furoate for this condition. The drug is marketed in the US, but the package insert safety data are missing, so the evidence stays at L4.
 
+<!-- review:begin us-lic-20261106-fluticasone_furoate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 5 valid authorizations of 5, but the package insert safety data are missing, so the evidence stays at L4." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 4 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fluticasone_furoate-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data from DrugBank
@@ -105,6 +121,27 @@ The atopic eczema prediction is mechanistically plausible through the corticoste
 - Assessment of a suitable topical formulation and route, since current products are inhaled or intranasal
 - Verification of the regulatory and commercial path
 - Consideration of bronchitis (L3) as a more evidence-supported alternative research question
+
+<!-- review:begin us-lic-20261106-fluticasone_furoate-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Verification of the regulatory and commercial path, given that the drug is marketed with 5 valid US authorizations of 5" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 4 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-fluticasone_furoate-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Five of five authorizations are currently valid in the US market, as a single-ingredient or combination product, in the data compiled for th" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 5 valid authorizations of 5" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given that the drug is marketed with 5 valid US authorizations of 5" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1243
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Topotecan: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Ovarian cancer (including ovarian germ cell tumours…"
 monitor_inn: "TOPOTECAN"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
@@ -91,6 +91,12 @@ This rationale rests on the class mechanism and preclinical data, not on direct 
 
 The approved indication text is not available in the data compiled for this report.
 
+<!-- review:begin us-lic-20261105-topotecan-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 7 US authorizations are currently valid. The approved indication text is not available in the data compiled for this report." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 18 FDA applications or NDC listings for this drug, 11 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-topotecan-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA020671 | HYCAMTIN (Novartis) | Injection, powder, lyophilized, for solution | Not available (valid) |
@@ -135,6 +141,12 @@ Please refer to the package insert for full warnings and precautions, as label t
 **Rationale:**
 The TxGNN score is very high (0.9992), but the supporting clinical data are weak: the only breast cancer trials are terminated, early-phase or combination studies, and the one relevant phase 2 publication found no evidence of increased efficacy. Evidence is mainly preclinical, review and indirect. With the drug marketed in the US but label safety data missing, the prediction is best treated as a research question.
 
+<!-- review:begin us-lic-20261106-topotecan-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "With the drug marketed in the US (7 of 7 licenses valid) but label safety data missing, the prediction is best treated as a research question." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 18 FDA applications or NDC listings for this drug, 11 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-topotecan-2 -->
+
 **To proceed, the following is needed:**
 - Dedicated, topotecan-specific clinical data in breast cancer, with attention to MYC-high and triple-negative subtypes
 - Detailed mechanism of action data to strengthen the mechanistic link
@@ -143,6 +155,20 @@ The TxGNN score is very high (0.9992), but the supporting clinical data are weak
 - Safety monitoring plan for myelosuppression, pulmonary toxicity and diarrhoea in breast cancer populations
 
 **Other predictions:** The next-ranked prediction, adult germ cell tumor (score 0.9957, evidence level L2), is clinically closer to topotecan's existing ovarian germ cell indication, but its trial and literature evidence mostly concerns neuroblastoma, glioma and retinoblastoma.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 7 US authorizations are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(7 of 7 licenses valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

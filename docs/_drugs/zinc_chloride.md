@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ZINC CHLORIDE"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "Sjogren syndrome", "dry eye syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Zinc Chloride: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -76,6 +76,12 @@ Currently no related literature available.
 
 The drug is marketed. The data compiled for this report do not include approved indication text.
 
+<!-- review:begin us-lic-20261106-zinc_chloride-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with five valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 4 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-zinc_chloride-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | ANDA212007 | Zinc Chloride (Exela Pharma Sciences) | Injection | Valid |
@@ -99,12 +105,32 @@ Please also refer to the package insert for full safety information, since label
 **Rationale:**
 The prediction is supported only by a model score, with no clinical trials or literature (evidence level L5). The drug is marketed in the US, the mechanism of action is undocumented, and the route and formulation for retinal or ocular use are undefined.
 
+<!-- review:begin us-lic-20261106-zinc_chloride-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with five valid licenses, the mechanism of action is undocumented, and the route and formulation for retinal or ocular use are undefined." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 4 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-zinc_chloride-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data, for example from DrugBank
 - A literature and trial search for zinc in diabetic retinopathy, Sjogren syndrome, and dry eye
 - A defined route, formulation, and delivery approach, with ocular tolerability data
 - Clarification of the original approved indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with five valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with five valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "RIVAROXABAN"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Rivaroxaban: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -63,6 +63,12 @@ The only mechanistic link is a loose one. Rheumatoid arthritis is associated wit
 
 Currently no related clinical trials registered.
 
+<!-- review:begin us-lic-20261105-rivaroxaban-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 9 licenses are valid, and the approved-indication text is not available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 29 FDA applications or NDC listings for this drug, 25 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-rivaroxaban-1 -->
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
@@ -98,10 +104,22 @@ Package insert warnings and contraindications are not available in the compiled 
 **Rationale:**
 The prediction score is very high, but it is a model output only. There are no clinical trials and no literature showing that rivaroxaban affects rheumatoid arthritis. In addition, the drug is marketed in the US, but the package insert safety information is missing, which blocks progression to safety screening.
 
+<!-- review:begin us-lic-20261106-rivaroxaban-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the drug is marketed in the US with 9 valid licenses, but the package insert safety information is missing, which blocks progression to safety screening." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 29 FDA applications or NDC listings for this drug, 25 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-rivaroxaban-3 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)
 - Mechanism of action data and the original approved indications
 - Preclinical or exploratory clinical evidence that factor Xa inhibition modifies rheumatoid arthritis activity
+
+<!-- review:begin us-lic-20261106-rivaroxaban-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Preclinical or exploratory clinical evidence that factor Xa inhibition modifies rheumatoid arthritis activity / Clarification of the cancelled US licensing status" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 29 FDA applications or NDC listings for this drug, 25 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-rivaroxaban-2 -->
 
 ---
 
@@ -109,6 +127,21 @@ The prediction score is very high, but it is a model output only. There are no c
 - **Gout** (score 0.9951, L5): no clinical trials, and the retrieved literature does not show efficacy.
 - **HIV infectious disease** (score 0.9917, L4): the evidence concerns anticoagulant safety and drug interactions with boosted antiretrovirals, not treatment of HIV. The one Phase 2 trial (NCT00786422) is a venous thromboembolism study.
 - **Brachydactyly-syndactyly syndrome** (score 0.9910, L5): no trials or literature, and no plausible mechanism. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 9 licenses are valid, and the approved-indication text is not available for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Clarification of the cancelled US licensing status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

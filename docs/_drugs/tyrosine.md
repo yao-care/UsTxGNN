@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TYROSINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tyrosine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not available"
 ---
 
@@ -111,6 +111,12 @@ Please refer to the package insert for safety information. No warnings, contrain
 **Rationale:**
 The top prediction, cauda equina syndrome, is supported only by the model score, with no trials, no literature, and no plausible mechanism. The same is true of the other predictions, and several (hyperthyroidism, hyperthyroxinemia, THRB resistance) run against known biology. POTS is the sole prediction that merits follow-up, as a research question rather than a candidate for development.
 
+<!-- review:begin us-lic-20261031-tyrosine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only drug license on record is cancelled. POTS is the sole prediction that merits follow-up, as a research question rather than a candidate for development." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-tyrosine-1 -->
+
 **To proceed, the following is needed:**
 - Safety information from the package insert (warnings and contraindications), which is currently missing and blocks safety screening
 - Mechanism of action data from DrugBank
@@ -118,6 +124,19 @@ The top prediction, cauda equina syndrome, is supported only by the model score,
 - A mechanistic rationale for cauda equina syndrome, or a decision to deprioritize it
 - Mapping of the obsolete neurogenic bladder term to a current disease term
 - For POTS, direct evidence on tyrosine itself (preclinical or small clinical studies) before any further investment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only drug license on record is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

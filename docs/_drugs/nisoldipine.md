@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 968
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Nisoldipine: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "NISOLDIPINE"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
@@ -62,6 +62,12 @@ Hypoxic pulmonary vasoconstriction depends partly on calcium influx through L-ty
 
 There is an important caution. The high TxGNN score therefore should not be read as clinical support.
 
+<!-- review:begin us-lic-20261031-nisoldipine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Calcium channel blockers are generally not recommended for pulmonary hypertension associated with lung disease or hypoxia, because they may worsen ventilation/perfusion mismatch and cause systemic hypotension. The high TxGNN score therefore should not be read as clinical support." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 4 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-nisoldipine-1 -->
+
 Other predictions in the list are weaker:
 - Pulmonary hypertension with unclear multifactorial mechanism: computational prediction only (L5).
 - Malignant renovascular hypertension: only a general 1987 review, and the condition is an emergency usually managed with revascularization and intravenous agents (L4).
@@ -113,12 +119,39 @@ For the lower-ranked prediction of malignant renovascular hypertension, the only
 **Rationale:**
 The mechanistic link is plausible, but the evidence is limited to old preclinical studies (L4) with no registered clinical trials. The other four predictions rest on computational scores alone or on non-specific references.
 
+<!-- review:begin us-lic-20261031-nisoldipine-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Calcium channel blockers are generally not recommended in hypoxia-related pulmonary hypertension, and the only US authorization is cancelled. The other four predictions rest on computational scores alone or on non-specific references." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 4 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-nisoldipine-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which are currently missing and block safety screening
 - Mechanism of action data (for example, from DrugBank)
 - Clinical evidence in pulmonary hypertension, ideally human hemodynamic or controlled studies, addressing the risk of worsened V/Q mismatch and hypotension
 - Review of the availability of the extended-release formulation
 - A comparison against current standard therapy for pulmonary hypertension associated with lung disease
+
+<!-- review:begin us-lic-20261106-nisoldipine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Review of the drug's cancelled market status and the availability of the extended-release formulation" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 4 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-nisoldipine-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Calcium channel blockers are generally not recommended for pulmonary hypertension associated with lung disease or hypoxia, because they may " | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Calcium channel blockers are generally not recommended in hypoxia-related pulmonary hypertension, and the only US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the drug's cancelled market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

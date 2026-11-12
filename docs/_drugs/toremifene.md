@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TOREMIFENE"
 predicted_indications: ["HIV infectious disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Toremifene: predicted new indication HIV infectious disease (evidence level L5). Approved use: Not stated in the compiled data"
 ---
 
@@ -83,11 +83,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA208813 | TOREMIFENE CITRATE | RISING | Tablet; oral | Valid |
 | ANDA212818 | TOREMIFENE CITRATE | MSN | Tablet; oral | Valid |
 | NDA020497 | FARESTON | KYOWA KIRIN | Tablet; oral | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ---
 
@@ -129,11 +133,37 @@ For label-based warnings and contraindications, please refer to the package inse
 **Rationale:**
 The prediction rests only on a computational score and a single preclinical antifungal paper that does not show anti-HIV activity. There are no clinical trials, the evidence level is L5, and the drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-toremifene-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials, the evidence level is L5, and the drug is marketed in the US with 3 of 3 licenses valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-toremifene-1 -->
+
 **To proceed, the following is needed:**
 - Direct evidence of anti-HIV activity, or a clearly defined adjunctive role in cryptococcal infection among people with HIV (in vitro, animal, then clinical studies)
 - Mechanism of action data
 - FDA package insert warnings and contraindications for formal safety screening, with particular attention to QT prolongation and its interactions with antiretroviral and antifungal drugs
 - Clarification of the original approved indication and of the commercial availability of toremifene, which is marketed in the US
+
+<!-- review:begin us-lic-20261106-toremifene-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the original approved indication and of the commercial availability of toremifene, which is marketed in the US with 3 of 3 licenses valid" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-toremifene-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 3 of 3 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 3 of 3 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

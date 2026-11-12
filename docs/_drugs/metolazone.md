@@ -80,6 +80,8 @@ No literature was found for the top predicted indication. For the third-ranked i
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA076466 | METOLAZONE | SANDOZ | Tablet; oral | Valid |
@@ -89,6 +91,8 @@ No literature was found for the top predicted indication. For the third-ranked i
 | ANDA213251 | METOLAZONE | ALEMBIC | Tablet; oral | Valid |
 
 Showing 5 of 17 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

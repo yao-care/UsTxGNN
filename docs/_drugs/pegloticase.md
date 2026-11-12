@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PEGLOTICASE"
 predicted_indications: ["severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pegloticase: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Gout"
 ---
 
@@ -74,9 +74,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA125293 | KRYSTEXXA | HORIZON PHARMA | Injectable; injection | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -98,12 +102,38 @@ Please refer to the package insert for other safety information, including warni
 **Rationale:**
 The only support for this prediction is a high TxGNN score. There are no clinical trials or publications, the mechanistic link is speculative, and the drug is delivered systemically for an eye disease.
 
+<!-- review:begin us-lic-20261031-pegloticase-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials or publications, the mechanistic link is speculative, and the drug is delivered systemically for an eye disease. The only US license is cancelled, which further limits availability." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-pegloticase-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - Preclinical or mechanistic evidence linking urate lowering or uricase activity to diabetic retinopathy
 - Assessment of route compatibility (systemic IV versus ocular delivery) and immunogenicity risk
 - Clarification of current availability
+
+<!-- review:begin us-lic-20261106-pegloticase-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of current availability, given the cancelled US license status" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-pegloticase-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, which further limits availability" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "given the cancelled US license status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

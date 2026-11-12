@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -116,6 +116,25 @@ The TxGNN model produced no repurposing predictions for this multi-ingredient co
 - **Regulatory classification**: Clarify whether this product is classified as a homeopathic drug, dietary supplement, or conventional pharmaceutical — this determines which evidence framework applies.
 - **MOA documentation**: Source mechanism-of-action data from DrugBank for any pharmacologically active components before machine-learning-based repurposing is attempted.
 - **Package insert**: Retrieve warning and contraindication text to enable S1 safety screening (currently Blocking data gap DG001).
+
+<!-- review:begin us-lic-20261105-activated_charcoal_anamirta_cocculus_seed_arbutus_-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "**TFDA package insert**: Retrieve warning and contraindication text to enable S1 safety screening (currently Blocking data gap DG001)." Removed: leftover template text about Taiwan's TFDA, which does not apply to this US page. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-activated_charcoal_anamirta_cocculus_seed_arbutus_-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "TFDA p" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

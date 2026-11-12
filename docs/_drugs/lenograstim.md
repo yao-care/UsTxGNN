@@ -80,12 +80,16 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | NDC 17089-375 | GUNA-GCSF | Guna spa | Solution/ drops | NDC listing, no FDA application (unapproved homeopathic) |
 | NDC 17089-235 | GUNA-TONSILS | Guna spa | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
 | NDC 17089-076 | CITOMIX | Guna spa | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
 | NDC 17089-067 | ANTI AGE STRESS | Guna spa | Pellet | NDC listing, no FDA application (unapproved homeopathic) |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

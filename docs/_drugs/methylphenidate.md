@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 916
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "METHYLPHENIDATE"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
 description: "Methylphenidate: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -97,6 +97,12 @@ Several other retrieved records were off-topic (for example, synthetic cathinone
 
 The approved indication text is not available in the data compiled for this report. The main ones are:
 
+<!-- review:begin us-lic-20261106-methylphenidate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 18 authorizations are marked as valid, and the approved indication text is not available in the data compiled for this report." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 89 FDA applications or NDC listings for this drug, 58 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-methylphenidate-2 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021121 | CONCERTA | Extended-release tablet | Not available |
@@ -122,12 +128,32 @@ Please refer to the package insert for official warnings and contraindications.
 **Rationale:**
 The TxGNN score for faciodigitogenital syndrome is very high, but there are no clinical trials or publications, and the only plausible link is indirect (treating ADHD-like symptoms). The other predictions are also unsupported: chondromyxoid fibroma has no plausible mechanism and is likely a TxGNN model (deep learning) artifact, while specific developmental disorder and dysthymic disorder rely on indirect ADHD evidence. The safety profile includes many cardiovascular and psychiatric concerns.
 
+<!-- review:begin us-lic-20261106-methylphenidate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US market status is also "cancelled only", and the safety profile includes many cardiovascular and psychiatric concerns." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 89 FDA applications or NDC listings for this drug, 58 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-methylphenidate-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Case reports or clinical studies of methylphenidate in Aarskog-Scott syndrome, particularly for ADHD-like symptoms
 - Confirmation of the approved indications of methylphenidate products, since the approved indication text is not available in the data compiled for this report
 - Cardiovascular and psychiatric risk assessment for the target population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he US market status is also "cancelled only", and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "All 18 authorizations are marked as valid, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

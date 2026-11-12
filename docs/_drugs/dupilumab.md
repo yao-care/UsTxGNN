@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 634
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DUPILUMAB"
 predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
 description: "Dupilumab: predicted new indication Bronchitis (evidence level L3). Approved use: Not recorded in the local data"
@@ -110,12 +110,38 @@ Please refer to the package insert for warnings and contraindications, as these 
 **Rationale:**
 The mechanistic rationale is plausible, but no trial has tested dupilumab in bronchitis. The only listed trial is in chronic rhinosinusitis, and the literature is largely asthma and COPD, so the evidence is indirect (L3). Package-insert safety data is missing.
 
+<!-- review:begin us-lic-20261106-dupilumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US BLA is also recorded as cancelled, and package-insert safety data is missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dupilumab-1 -->
+
 **To proceed, the following is needed:**
 - Bronchitis-specific evidence, such as a trial in eosinophilic or type 2 chronic bronchitis, or analyses of the chronic bronchitis subgroup in the COPD trials (BOREAS and NOTUS)
 - Detailed mechanism-of-action data (MOA)
 - Package insert warnings and contraindications, and clarification of the US regulatory status
 - A definition of the target bronchitis phenotype (eosinophilic or type 2) and a biomarker-based patient selection strategy
 - A monitoring plan for ocular and cutaneous adverse events and for interactions with other immunomodulators
+
+<!-- review:begin us-lic-20261106-dupilumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Package insert warnings and contraindications, and clarification of the US regulatory status (cancelled BLA record)" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dupilumab-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US BLA is also recorded as cancelled, and p" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "(cancelled BLA record)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

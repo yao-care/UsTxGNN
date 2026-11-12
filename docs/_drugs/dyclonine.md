@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 638
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DYCLONINE"
 predicted_indications: ["bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "gastroduodenitis", "peptic ulcer disease", "irritable bowel syndrome"]
 description: "Dyclonine: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -86,6 +86,12 @@ No literature is available for bronchitis. For the tenth-ranked prediction, irri
 
 This study supports biological plausibility only and is not evidence of efficacy.
 
+<!-- review:begin us-lic-20261105-dyclonine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "The drug is marketed in the US, with 3 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 2 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-dyclonine-1 -->
+
 ---
 
 ## US Market Information
@@ -114,6 +120,12 @@ Please refer to the package insert for further safety information, including war
 **Rationale:**
 The bronchitis prediction rests on a model score alone, with no clinical trials, no literature, and only a speculative mechanistic link. Mechanism-of-action and label safety data are missing. Of the top 10 predictions, only irritable bowel syndrome has any supporting study, and it is a single 1996 mechanistic study that does not demonstrate efficacy.
 
+<!-- review:begin us-lic-20261106-dyclonine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug's US licenses are all cancelled, and mechanism-of-action and label safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-dyclonine-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
@@ -121,6 +133,20 @@ The bronchitis prediction rests on a model score alone, with no clinical trials,
 - A literature and trial search focused on IBS and visceral pain, as this is the most plausible secondary direction (a research question rather than a development candidate at this stage)
 - Assessment of route and formulation feasibility, since the available products were topical or oral-mucosal and none is designed for airway or gastrointestinal delivery
 - Review of the graph-derived contraindications (epilepsy, cardiac conduction disease, respiratory failure), especially relevant for any airway-targeted use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "The drug is marketed in the US, with 3 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "The drug's US licenses are all cancelled, and m" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PRASTERONE"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "severe nonproliferative diabetic retinopathy", "thrombophilia due to protein S deficiency, autosomal recessive", "scleroderma (disease)", "complement component 4a deficiency", "pseudo-von Willebrand disease", "primary release disorder of platelets"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Prasterone: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Systemic lupus erythematosus"
 ---
 
@@ -82,6 +82,12 @@ Currently no related literature available.
 
 Pharmacology data indicate that prasterone (Intrarosa) was FDA approved for moderate to severe pain during sexual intercourse (dyspareunia) as a symptom of vulvar and vaginal atrophy in women.
 
+<!-- review:begin us-lic-20261106-prasterone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Pharmacology data indicate that prasterone (Intrarosa) was FDA approved for moderate to severe pain during sexual intercourse (dyspareunia) as a symptom of vulvar and vaginal atrophy in women. Both authorizations are now cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-prasterone-1 -->
+
 ## Safety Considerations
 
 - **Thrombotic risk:** Prasterone is converted to androgens and estrogens, and sex steroids may raise thrombotic risk and can lower free protein S. This is a concern for the predicted coagulation-related indications.
@@ -96,12 +102,32 @@ Please refer to the package insert for other safety information, including warni
 **Rationale:**
 The prediction rests only on a model score, with no trials, no literature, and no plausible mechanism. The coagulation-related predictions also raise a safety concern, since sex-steroid precursors may increase rather than reduce thrombotic risk.
 
+<!-- review:begin us-lic-20261106-prasterone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The coagulation-related predictions also raise a safety concern, since sex-steroid precursors may increase rather than reduce thrombotic risk. Both US authorizations are cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-prasterone-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (FDA label)
 - Mechanism of action data (e.g., from DrugBank)
 - Preclinical or mechanistic evidence linking prasterone to heparin cofactor II function
 - Thrombotic risk assessment for sex-steroid precursors in patients with coagulation disorders
 - Route and formulation compatibility analysis
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both authorizations are now cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Both US authorizations are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

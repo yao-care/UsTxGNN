@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "BELIMUMAB"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "severe nonproliferative diabetic retinopathy", "autosomal dominant macrothrombocytopenia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Belimumab: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Systemic lupus erythematosus"
 ---
 
@@ -80,6 +80,12 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261106-belimumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both authorizations are held by GlaxoSmithKline LLC and are recorded as cancelled in the data compiled for this report." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-belimumab-1 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
@@ -108,6 +114,26 @@ All six predictions rest on model scores alone, with no clinical trials or liter
 - Detailed mechanism of action data from DrugBank
 - Preclinical or mechanistic evidence for any predicted indication. Fetal and neonatal alloimmune thrombocytopenia is the most plausible one to examine first, together with an assessment of pregnancy safety and placental transfer.
 - Route compatibility and similarity-to-original-indication assessments, which are still pending
+
+<!-- review:begin us-lic-20261106-belimumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of why both US BLAs are recorded as cancelled, since this affects feasibility of development / Route compatibility and similarity-to-original-indication assessments, which are still pending" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 2 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-belimumab-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both authorizations are held by GlaxoSmithKline LLC and are recorded as cancelled in the data compiled for this report" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Clarification of why both US BLAs are recorded as cancelled, since this affects feasibility of development" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

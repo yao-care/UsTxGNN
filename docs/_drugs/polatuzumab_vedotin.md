@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "POLATUZUMAB VEDOTIN"
 predicted_indications: ["HER2 positive breast carcinoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Polatuzumab Vedotin: predicted new indication HER2 positive breast carcinoma (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -98,12 +98,31 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The prediction is supported only by a model score. There are no registered trials and no literature, and the mechanism is not credible: CD79b is not a recognized target in HER2-positive breast cancer, and HER2-directed ADCs already cover this space with targeted delivery. Package insert safety data are missing.
 
+<!-- review:begin us-lic-20261106-polatuzumab_vedotin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The US license is also listed as cancelled, and package insert safety data are missing." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-polatuzumab_vedotin-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (FDA label)
 - Confirmed mechanism of action data and the original approved indication
 - Preclinical evidence, such as CD79b expression in HER2-positive breast tumors and in vitro MMAE sensitivity
 - Clarification of the current US regulatory and availability status
 - A rationale for choosing this drug over existing HER2-directed ADCs
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The US license is also listed as cancelled, and p" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

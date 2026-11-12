@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1043
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Phenytoin: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy (generalized tonic-clonic, partial, status epilepticus…"
 monitor_inn: "PHENYTOIN"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
@@ -90,6 +90,8 @@ No literature supports an anti-tumour effect of phenytoin.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA040298 | PHENYTEK | MYLAN | Capsule; oral | Valid |
@@ -100,7 +102,15 @@ No literature supports an anti-tumour effect of phenytoin.
 
 Showing 5 of 43 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
+<!-- licenses:end -->
+
 The drug is marketed in the US; the table shows the first 5.
+
+<!-- review:begin us-lic-20261106-phenytoin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 8 valid licenses; the table shows the first 5." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 43 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-phenytoin-1 -->
 
 ## Safety Considerations
 
@@ -119,12 +129,39 @@ Please refer to the package insert for official warnings and contraindications.
 **Rationale:**
 The prediction for trigeminal nerve neoplasm is a model output only. It has no clinical trials, no supporting literature on tumours, and no plausible link between sodium channel blockade and tumour biology. Trigeminal neuralgia has meaningful literature, but phenytoin is a second-line option behind carbamazepine and oxcarbazepine. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-phenytoin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 8 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 43 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-phenytoin-2 -->
+
 **To proceed, the following is needed:**
 - Re-scope the question from trigeminal nerve neoplasm to trigeminal neuralgia, with a focus on IV phenytoin for acute exacerbations
 - A controlled study comparing phenytoin with carbamazepine, oxcarbazepine or lacosamide in trigeminal neuralgia
 - The package insert warnings and contraindications, which are currently missing and block safety screening
 - Detailed mechanism of action data
 - Clarification of current US marketing status
+
+<!-- review:begin us-lic-20261106-phenytoin-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of current US marketing status, since 8 valid licenses are listed" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 43 FDA applications or NDC listings for this drug, 13 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-phenytoin-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since 8 valid licenses are listed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

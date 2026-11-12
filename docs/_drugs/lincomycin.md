@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "LINCOMYCIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Lincomycin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -74,6 +74,12 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin us-lic-20261106-lincomycin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "One further licence (ANDA215082, Armas Pharmaceuticals, injection solution) is also cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 9 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lincomycin-1 -->
+
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
@@ -111,6 +117,26 @@ The prediction is supported only by a model score, with no clinical trials, no l
 - Mechanism of action data for lincomycin
 - A biological hypothesis connecting lincosamide pharmacology to immunoglobulin-driven hyperviscosity, followed by preclinical or observational evidence
 - Clarification of the current regulatory and supply status, since the drug is marketed in the US
+
+<!-- review:begin us-lic-20261106-lincomycin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current regulatory and supply status, since the drug is marketed in the US with 6 valid licenses of 6" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 9 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lincomycin-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "One further licence (ANDA215082, Armas Pharmaceuticals, injection solution) is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 6 valid licenses of 6" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

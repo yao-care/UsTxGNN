@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "GLUCAGON"
 predicted_indications: ["irritable bowel syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Glucagon: predicted new indication Irritable bowel syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -93,6 +93,8 @@ This link is indirect. The clinical and literature evidence concerns GLP-1 recep
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA204468 | GLUCAGON | MYLAN LABS LTD | Injectable; injection | Valid |
@@ -103,11 +105,19 @@ This link is indirect. The clinical and literature evidence concerns GLP-1 recep
 
 Showing 5 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 
+<!-- licenses:end -->
+
 ---
 
 ## Safety Considerations
 
 - **Drug Interactions**: 25 interactions were recorded, all of the Minor level among those listed. They include warfarin and a range of beta-blockers (for example atenolol, metoprolol, propranolol, carvedilol, and labetalol).
+
+<!-- review:begin us-lic-20261106-glucagon-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Of the 5 licence records, 4 are valid and 1 is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 12 FDA applications or NDC listings for this drug, 7 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-glucagon-1 -->
 
 For warnings and contraindications, please refer to the package insert.
 
@@ -125,6 +135,18 @@ No study tests glucagon in irritable bowel syndrome. The supporting trials and p
 - Mechanism-of-action data for glucagon in gut motility and visceral pain
 - Review of the package insert for warnings and contraindications
 - Assessment of whether the available routes of administration suit a chronic condition like IBS
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Of the 5 licence records, 4 are valid and 1 is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "NILOTINIB"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Nilotinib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L5). Approved use: Chronic myelogenous leukemia, BCR-ABL1 positive"
 ---
 
@@ -76,6 +76,14 @@ Currently no related clinical trials registered.
 
 Approved indication text was not available for any of them.
 
+<!-- review:begin us-lic-20261106-nilotinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Eight valid authorizations are listed. Approved indication text was not available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-nilotinib-1 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA203640 | NILOTINIB HYDROCHLORIDE | APOTEX | Capsule; oral | Valid |
@@ -85,6 +93,8 @@ Approved indication text was not available for any of them.
 | ANDA218544 | NILOTINIB HYDROCHLORIDE | MSN | Capsule; oral | Valid |
 
 Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -112,12 +122,39 @@ Package insert warnings and contraindications were not available in the data com
 **Rationale:**
 The mechanistic rationale (PDGFR inhibition, analogous to imatinib in DFSP) is plausible and the TxGNN model (deep learning) score is high (0.9931). However, there are no registered clinical trials, only one general review, no nilotinib-specific DFSP data, and no available label safety data. The evidence is L4. The drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-nilotinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US with 8 valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-nilotinib-2 -->
+
 **To proceed, the following is needed:**
 - Obtain and review the FDA package insert (warnings, contraindications, indications), which is a blocking gap for safety screening
 - Obtain detailed mechanism of action data from DrugBank
 - Search for nilotinib-specific DFSP evidence (case series, preclinical PDGFRB-fusion models, imatinib-resistant DFSP)
 - Clarify the approved indications
 - Assess the QT-prolongation, hepatic, and metabolic risks, and the major DDIs, for the target DFSP population
+
+<!-- review:begin us-lic-20261106-nilotinib-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarify the approved indications for the 8 valid US authorizations" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-nilotinib-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Eight valid authorizations are listed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 8 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "for the 8 valid US authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

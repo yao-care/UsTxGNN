@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1056
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PLERIXAFOR"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
 description: "Plerixafor: predicted new indication CMM7 (evidence level L5). Approved use: Not recorded in the local data"
@@ -83,6 +83,14 @@ Currently no related literature available for indolent plasma cell myeloma.
 
 The data did not include approved-indication text.
 
+<!-- review:begin us-lic-20261106-plerixafor-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The data did not include approved-indication text. The five shown are the original brand NDA and four generic ANDAs." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications or NDC listings for this drug, 8 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-plerixafor-1 -->
+
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA205182 | PLERIXAFOR | DR REDDYS | Solution; subcutaneous | Valid |
@@ -92,6 +100,8 @@ The data did not include approved-indication text.
 | ANDA215334 | PLERIXAFOR | AMNEAL | Solution; subcutaneous | Valid |
 
 Showing 5 of 10 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 
@@ -116,6 +126,19 @@ The prediction has a very high model score but no clinical trials, no literature
 - Mechanism-of-action data and label-based warnings and contraindications
 - Confirmation of the current US regulatory status of plerixafor products
 - Optional: a lower-ranked prediction, **myeloid leukemia** (score 0.9902), has 25 registered trials and 20 publications. Many of these are Phase 1 and Phase 1/2 studies of plerixafor as a chemosensitiser with chemotherapy. It is rated L2 and would be a more evidence-supported direction to evaluate in a separate report.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The five shown are the original brand NDA and four generic ANDAs" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

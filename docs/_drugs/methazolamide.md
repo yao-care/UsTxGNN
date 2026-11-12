@@ -83,6 +83,8 @@ There are no clinical trials for heart failure. The third prediction (acute pulm
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA040001 | METHAZOLAMIDE | ANI PHARMS | Tablet; oral | Valid |
@@ -92,6 +94,8 @@ There are no clinical trials for heart failure. The third prediction (acute pulm
 | ANDA215615 | METHAZOLAMIDE | TAGI | Tablet; oral | Valid |
 
 Showing 5 of 9 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

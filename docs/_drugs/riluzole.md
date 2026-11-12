@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1124
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Riluzole: predicted new indication Bilateral parasagittal parieto-occipital polymicrogyria (evidence level L5). Approved use: Amyotrophic lateral sclerosis"
 monitor_inn: "RILUZOLE"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
@@ -84,6 +84,12 @@ These records are indirect evidence. They do not show efficacy for the predicted
 
 No approved-indication text is available in the data.
 
+<!-- review:begin us-lic-20261105-riluzole-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All six authorizations are valid. No approved-indication text is available in the data." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 12 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-riluzole-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | ANDA204048 | Riluzole (Ascend Laboratories) | Tablet | Valid |
@@ -109,12 +115,32 @@ Please refer to the package insert for full warnings and contraindications.
 **Rationale:**
 The prediction for bilateral parasagittal parieto-occipital polymicrogyria is supported only by a model score. There are no trials or literature, and the mechanistic link is speculative. The more plausible candidates are the ALS-related motor neuron conditions, which could be framed as research questions.
 
+<!-- review:begin us-lic-20261105-riluzole-2 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All US authorizations are valid. The more plausible candidates are the ALS-related motor neuron conditions, which could be framed as research questions." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 12 FDA applications or NDC listings for this drug, 6 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-riluzole-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism-of-action data
 - Preclinical or case-level evidence of riluzole's effect in cortical malformation or epilepsy models
 - Review of the higher-plausibility ALS-spectrum candidates (lower motor neuron syndrome, monomelic amyotrophy, Mills syndrome) as separate research questions
 - Clarification of current US availability
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All six authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-05 | Removed: "All US authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

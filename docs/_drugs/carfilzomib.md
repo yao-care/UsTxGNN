@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CARFILZOMIB"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Carfilzomib: predicted new indication CMM7 (a melanoma-related subtype) (evidence level L5). Approved use: Plasma cell myeloma"
 ---
 
@@ -91,6 +91,8 @@ The table below covers melanoma (the only prediction with literature). The other
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA209422 | CARFILZOMIB | DR REDDYS | Powder; intravenous | Valid |
@@ -100,6 +102,8 @@ The table below covers melanoma (the only prediction with literature). The other
 | ANDA209330 | CARFILZOMIB | BRECKENRIDGE | Powder; intravenous | Discontinued in Drugs@FDA |
 
 Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 
@@ -132,12 +136,38 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The predictions are supported only by a very high model score. For melanoma, the evidence is limited to preclinical and computational studies (L4), and there are no human efficacy or safety data. The drug interaction burden is large.
 
+<!-- review:begin us-lic-20261106-carfilzomib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The registered product is also cancelled in the US, and the drug interaction burden is large." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-carfilzomib-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Dedicated preclinical studies in the specific melanoma subtype (cutaneous, uveal, mucosal), including in vivo models
 - For the leptomeningeal indication, data on CNS penetration
 - Clarification of the availability of current products
+
+<!-- review:begin us-lic-20261106-carfilzomib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US market status and the availability of current products" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 7 FDA applications or NDC listings for this drug, 4 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-carfilzomib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he registered product is also cancelled in the US, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "the cancelled US market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

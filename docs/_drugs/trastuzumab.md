@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1250
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TRASTUZUMAB"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 description: "Trastuzumab: predicted new indication Malignant cutaneous granular cell skin tumor (evidence level L5). Approved use: Not recorded in the local data"
@@ -93,6 +93,12 @@ PR status does not change this mechanism. Tumours that are both HER2-positive an
 
 The data compiled for this report do not include approved indication text for any of them.
 
+<!-- review:begin us-lic-20261106-trastuzumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All nine US listings for trastuzumab products are marked as cancelled. The data compiled for this report do not include approved indication text for any of them." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 9 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-trastuzumab-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | BLA103792 | Herceptin | Injection, powder, lyophilized, for solution | Not available |
@@ -133,6 +139,12 @@ A completed Phase 3 adjuvant trial with 3,270 patients (NCT01275677), plus rando
 - Confirmation of current US marketing status
 - A cardiac monitoring plan and a HER2 testing requirement for patient selection
 
+<!-- review:begin us-lic-20261106-trastuzumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current US marketing status, since all listings show as cancelled" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 9 FDA applications or NDC listings for this drug, 9 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-trastuzumab-2 -->
+
 ---
 
 ### Other Predicted Indications (Brief)
@@ -140,6 +152,20 @@ A completed Phase 3 adjuvant trial with 3,270 patients (NCT01275677), plus rando
 - Trastuzumab has no established role in triple-negative disease unless HER2 is expressed.
 - Rationale is limited to the HER2-positive luminal B subset.
 - The only trial is a not-yet-recruiting study of a different agent.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All nine US listings for trastuzumab products are marked as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "since all listings show as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

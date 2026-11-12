@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 790
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "ILOPROST"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
 description: "Iloprost: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
@@ -84,11 +84,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA214997 | ILOPROST | REGCON HOLDINGS | Solution; inhalation | Valid |
 | NDA217933 | AURLUMYN | BTG INTL | Solution; intravenous | Valid |
 | NDA021779 | VENTAVIS | ACTELION | Solution; inhalation | Discontinued in Drugs@FDA |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -111,11 +115,23 @@ For label-based warnings and contraindications, please refer to the package inse
 **Rationale:**
 The mechanism is the same as in the approved PAH indication, and several cohort studies, a small randomized cross-over pilot, and case series support use in CHD-PAH. However, there are no registered trials and no Phase 3 RCT evidence, so the evidence level is L3.
 
+<!-- review:begin us-lic-20261031-iloprost-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "However, there are no registered trials and no Phase 3 RCT evidence, so the evidence level is L3. The only US authorization is cancelled." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-iloprost-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data (MOA) from DrugBank
 - Patient selection criteria, hemodynamic monitoring, and attention to shunt physiology
 - A prospective controlled study in CHD-PAH, ideally in specialist centers
+
+<!-- review:begin us-lic-20261031-iloprost-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Confirmation of a currently marketed US iloprost product, since the only NDA listed is cancelled / Patient selection criteria, hemodynamic monitoring, and attention to shunt physiology" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 3 FDA applications or NDC listings for this drug, 2 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-iloprost-2 -->
 
 **Other predictions (not recommended at this stage):**
 - Supported by long-term intravenous iloprost outcomes (PMID 27651181) and reviews.
@@ -123,6 +139,20 @@ The mechanism is the same as in the approved PAH indication, and several cohort 
 - **PAH associated with chronic hemolytic anemia (rank 5)**: L5, Hold. No direct evidence, and the disease drivers differ.
 - **Pulmonary arteriovenous malformation (rank 4)**: L5, Hold. There is a theoretical safety concern, because vasodilators could worsen right-to-left shunting.
 - **Hair disorders (ranks 1, 2, and 9)**: L5, Hold. Computational prediction only, with no plausible mechanism.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-10-31 | Removed: "Confirmation of a currently marketed US iloprost product, since the only NDA listed is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

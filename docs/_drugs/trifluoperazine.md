@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TRIFLUOPERAZINE"
 predicted_indications: ["manic bipolar affective disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Trifluoperazine: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -85,6 +85,12 @@ None of the publications below tests trifluoperazine in mania directly. They pro
 
 No approved indication text is recorded for them.
 
+<!-- review:begin us-lic-20261106-trifluoperazine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All five US licenses are single-ingredient oral tablets and are cancelled. No approved indication text is recorded for them." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-trifluoperazine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | ANDA085786 | Trifluoperazine Hydrochloride (Sandoz Inc.) | Tablet, film coated | Not recorded |
@@ -115,11 +121,31 @@ Please refer to the package insert for official warnings and contraindications.
 **Rationale:**
 The prediction is plausible because D2 antagonism is shared with antipsychotics used in mania, but it rests on a model score alone (L4). There are no registered trials and no drug-specific mania data. The drug is marketed in the US. The knowledge-graph contraindication list is also broad.
 
+<!-- review:begin us-lic-20261106-trifluoperazine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 5 of 5 licenses valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 22 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-trifluoperazine-2 -->
+
 **To proceed, the following is needed:**
 - Official package insert warnings and contraindications (FDA)
 - Confirmed mechanism of action data (e.g., DrugBank receptor binding profile)
 - Drug-specific clinical evidence for trifluoperazine in mania (comparative trials or systematic reviews against established antipsychotics)
 - A safety plan covering hematologic, hepatic, neurological (extrapyramidal and neuroleptic malignant syndrome), and cardiovascular risks
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All five US licenses are single-ingredient oral tablets and are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 5 of 5 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

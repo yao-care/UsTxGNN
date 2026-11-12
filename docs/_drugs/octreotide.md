@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "OCTREOTIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Octreotide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -106,6 +106,25 @@ The prediction has no clinical or literature support (evidence level L5) and onl
 - Preclinical or early clinical evidence in vulvar inverted follicular keratosis or seborrheic keratosis
 - Official package insert warnings and contraindications for safety screening
 - Assessment of route compatibility (systemic injection versus topical or local treatment) and of regulatory status
+
+<!-- review:begin us-lic-20261106-octreotide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Assessment of route compatibility (systemic injection versus topical or local treatment) and of regulatory status, given the 14 valid US authorizations" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 27 FDA applications or NDC listings for this drug, 19 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-octreotide-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "given the 14 valid US authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

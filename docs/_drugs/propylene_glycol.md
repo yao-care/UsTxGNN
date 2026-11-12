@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PROPYLENE GLYCOL"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "immature cataract"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Propylene Glycol: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -112,6 +112,12 @@ Evidence from the diabetic retinopathy prediction (rank 3) is also not direct:
 
 The drug is marketed.
 
+<!-- review:begin us-lic-20261106-propylene_glycol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, and 3 valid authorizations are on record." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-propylene_glycol-1 -->
+
 ---
 
 ## Safety Considerations
@@ -134,6 +140,19 @@ The bronchitis prediction rests on a model score alone (L5), with no clinical tr
 - Mechanism of action data, to assess whether any link to the predicted indications exists
 - Direct evidence for propylene glycol itself, as opposed to propylene glycol mannate sulfate or its use as an excipient
 - A safety assessment of the airway effects of inhaled propylene glycol before any respiratory indication is considered
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and 3 valid authorizations are on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

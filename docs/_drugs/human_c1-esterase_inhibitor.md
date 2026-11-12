@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "HUMAN C1-ESTERASE INHIBITOR"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "primary release disorder of platelets", "diabetic retinopathy", "pseudo-von Willebrand disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Human C1-Esterase Inhibitor: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not stated in the available license data"
 ---
 
@@ -92,9 +92,13 @@ Currently no related literature available.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | BLA125267 | Cinryze | Takeda Pharmaceuticals America, Inc. | Injection, powder, lyophilized, for solution; intravenous | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -120,12 +124,31 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 All four predictions are L5: high model scores with no clinical or literature support. The platelet-related predictions in particular have no plausible mechanistic basis.
 
+<!-- review:begin us-lic-20261031-human_c1-esterase_inhibitor-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only US license is cancelled, and the label's warnings and mechanism data are missing. The platelet-related predictions in particular have no plausible mechanistic basis." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-human_c1-esterase_inhibitor-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - A literature and preclinical review of the kallikrein-kinin link to diabetic retinopathy, beginning with the retinal indications
 - A thrombotic-risk assessment before considering any platelet-related indication
 - Clarification of the drug's approved indication and current regulatory status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only US license is cancelled, and the label's warnings and mechanism data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

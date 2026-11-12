@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1123
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "RILPIVIRINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Rilpivirine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -60,6 +60,12 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 
 Feline immunodeficiency virus (FIV) is a lentivirus related to HIV and has its own reverse transcriptase, so a mechanistic rationale exists. However, the FIV enzyme is known to differ from HIV-1 reverse transcriptase in the residues lining the NNRTI binding pocket, so activity cannot be assumed. The only supporting item is a 2023 biochemical and structural comparison of NNRTIs (nevirapine, efavirenz, rilpivirine) against FIV and HIV reverse transcriptases. It is preclinical. This is a veterinary indication with no human clinical relevance.
 
+<!-- review:begin us-lic-20261106-rilpivirine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "This is a veterinary indication with no human clinical relevance, and the cancelled US market status further limits practical development." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 11 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-rilpivirine-2 -->
+
 **Other predictions in the ranked list:**
 - **Simian immunodeficiency virus infection (0.9997):** Macaque studies of long-acting rilpivirine, alone or with cabotegravir, cover resistance selection, post-exposure prophylaxis, and virologic remission. These are animal models of HIV and support the existing HIV indication rather than a new human one. Several of the papers focus on cabotegravir or on combinations, so attribution to rilpivirine is partial.
 - **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (0.9997):** No mechanistic link, trials, or literature. This is likely a TxGNN model (deep learning) artifact.
@@ -100,6 +106,12 @@ For the lower-ranked prediction of congenital HIV, one trial was retrieved, but 
 
 Approved indication text was not available for any of them.
 
+<!-- review:begin us-lic-20261105-rilpivirine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All four US authorizations are valid. Approved indication text was not available for any of them." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 11 FDA applications or NDC listings for this drug, 10 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-rilpivirine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | NDA219016 | EDURANT PED | Tablet, for suspension | Valid |
@@ -127,6 +139,20 @@ The top-ranked prediction (feline acquired immunodeficiency syndrome) is a veter
 - A defined veterinary development pathway, since the indication has no human clinical relevance
 - For the congenital HIV question: pediatric efficacy and pharmacokinetic data, including the lower rilpivirine exposure seen in pregnancy
 - Independent biological rationale before pursuing the neurodevelopmental disorder prediction
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All four US authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "and the cancelled US market status further limits practical development" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

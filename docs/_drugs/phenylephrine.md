@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1042
 evidence_level: L3
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PHENYLEPHRINE"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Phenylephrine: predicted new indication Nasal cavity disease (evidence level L3). Approved use: Not recorded in the local data"
@@ -90,6 +90,12 @@ Currently no related clinical trials registered.
 
 The records contain no approved-indication text. Main entries:
 
+<!-- review:begin us-lic-20261105-phenylephrine-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All 12 US authorizations are valid. The records contain no approved-indication text." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 58 FDA applications or NDC listings for this drug, 41 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-phenylephrine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA207926 | Phenylephrine Hydrochloride (Alcon Laboratories) | Solution/drops | Not recorded |
@@ -119,6 +125,12 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Rationale:**
 The predicted indication largely overlaps with existing rhinitis and nasopharyngitis uses and is mechanistically plausible. However, there are no registered clinical trials, the literature is mostly reviews or indirect studies (L3), and the drug is marketed. Label safety data are also missing.
 
+<!-- review:begin us-lic-20261106-phenylephrine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, there are no registered clinical trials, the literature is mostly reviews or indirect studies (L3), and the drug is marketed with 12 valid US licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 58 FDA applications or NDC listings for this drug, 41 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-phenylephrine-2 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
@@ -131,6 +143,20 @@ The predicted indication largely overlaps with existing rhinitis and nasopharyng
 ## Additional Predicted Indications (for Reference)
 
 - **Trigeminal autonomic cephalalgia** (score 0.9930, L4, Hold): 13 publications, almost all observational pupillometry studies in cluster headache and related conditions. They use phenylephrine as a diagnostic probe of sympathetic function, not as a treatment, so they provide no therapeutic evidence. Systemic vasoconstriction and hypertension risks are a concern.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "All 12 US authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 12 valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

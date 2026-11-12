@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "DIMENHYDRINATE"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dimenhydrinate: predicted new indication Allergic urticaria (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -76,6 +76,8 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- licenses:begin -->
+
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
 | ANDA040519 | DIMENHYDRINATE | FRESENIUS KABI USA | Injectable; injection | Valid |
@@ -85,6 +87,8 @@ Currently no related clinical trials registered.
 | ANDA083531 | DIMENHYDRINATE | WATSON LABS | Injectable; injection | Discontinued in Drugs@FDA |
 
 Showing 5 of 42 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -117,6 +121,25 @@ The prediction is biologically plausible through H1 antagonism, but no clinical 
 - Clinical efficacy data (trials or observational studies) for dimenhydrinate or diphenhydramine in allergic urticaria, and in cold urticaria
 - Assessment of the added value over second-generation antihistamines, given the sedation and anticholinergic burden
 - Clarification of route and formulation availability
+
+<!-- review:begin us-lic-20261105-dimenhydrinate-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "Clarification of route and formulation availability, since the drug is currently marketed with 2 valid US authorizations" Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 9 FDA applications or NDC listings for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-dimenhydrinate-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "since the drug is currently marketed with 2 valid US authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

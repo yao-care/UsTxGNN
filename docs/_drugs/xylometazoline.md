@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1299
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Xylometazoline: predicted new indication Nasal cavity disease (evidence level L3). Approved use: Pharyngitis, common cold"
 monitor_inn: "XYLOMETAZOLINE"
 predicted_indications: ["nasal cavity disease"]
@@ -60,7 +60,6 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 The original indications, the common cold and pharyngitis, involve upper airway congestion. Nasal cavity disease with obstruction and mucosal swelling shares the same underlying problem, so a vasoconstrictor is mechanistically plausible. The high TxGNN score is a model prediction and does not by itself count as clinical evidence.
 
-
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
@@ -96,12 +95,31 @@ Please refer to the package insert for full safety information, as label warning
 **Rationale:**
 The mechanism is plausible and the existing literature (mostly procedural nasal preparation and rhinomanometry studies) is consistent with a decongestant effect. Label safety data are also missing, which blocks the safety screening step.
 
+<!-- review:begin us-lic-20261031-xylometazoline-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "However, no clinical trials are registered, the evidence is largely indirect, and the only US licence is cancelled. Label safety data are also missing, which blocks the safety screening step." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-10-31). The FDA data list 0 FDA applications or NDC listings for this drug, 0 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261031-xylometazoline-1 -->
+
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)
 - Confirmed mechanism of action data (for example from DrugBank)
 - Clarification of which specific nasal cavity disease conditions are targeted, and review of the full texts of the six publications for relevance
 - Confirmation of the regulatory pathway, since the current US licence is cancelled
 - A cardiovascular, diabetic and thyroid risk assessment for the flagged patient groups
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "However, no clinical trials are registered, the evidence is largely indirect, and the only US licence is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

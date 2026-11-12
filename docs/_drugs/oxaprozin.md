@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1000
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "OXAPROZIN"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
 description: "Oxaprozin: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not recorded in the local data"
@@ -85,6 +85,12 @@ Currently no related literature available.
 
 All listed products are oral formulations.
 
+<!-- review:begin us-lic-20261105-oxaprozin-1 -->
+
+> **Review correction (2026-11-05)**: Originally stated: "All listed products are oral formulations and all five authorizations are valid." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-05). The FDA data list 16 FDA applications or NDC listings for this drug, 5 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261105-oxaprozin-1 -->
+
 ## Safety Considerations
 
 - **Disease-related cautions (from knowledge graph contraindication links, not label text)**: hypertension and hypertensive disorders, liver failure, kidney disease, peptic ulcer disease (including active ulcer), blood coagulation disorders, myocardial infarction and coronary thrombosis, cardiovascular and heart disease, hemoglobinopathy, and pyoureter. These are consistent with the known cardiovascular, gastrointestinal, renal and bleeding risks of NSAIDs.
@@ -107,6 +113,19 @@ The prediction for acromesomelic dysplasia, Hunter-Thompson type has no supporti
 - Preclinical or mechanistic evidence connecting oxaprozin to GDF5/CDMP1 signalling or cartilage biology
 - A literature and trial search specific to the predicted disease
 - Consideration of the more plausible candidates (spondyloarthropathy, polyarticular juvenile idiopathic arthritis), after checking them against labeled uses to determine whether they are genuinely new indications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-05 | Removed: "and all five authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

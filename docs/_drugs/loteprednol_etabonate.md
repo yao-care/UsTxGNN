@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 873
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Loteprednol Etabonate: predicted new indication Conjunctival folliculosis (evidence level L5). Approved use: Uveitis and other ocular inflammatory conditions (including atopic…"
 monitor_inn: "LOTEPREDNOL ETABONATE"
 predicted_indications: ["conjunctival folliculosis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "pseudomembranous conjunctivitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
@@ -78,6 +78,12 @@ No literature was found for the top-ranked prediction, conjunctival folliculosis
 
 The drug is marketed in the US. Main entries:
 
+<!-- review:begin us-lic-20261106-loteprednol_etabonate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in the US, with 14 valid authorizations." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 23 FDA applications or NDC listings for this drug, 19 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-loteprednol_etabonate-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA020583 | LOTEMAX | Suspension/drops | Not available |
@@ -103,12 +109,32 @@ For label warnings and contraindications, please refer to the package insert.
 **Rationale:**
 The prediction for conjunctival folliculosis rests on model score alone (L5). There are no trials or literature, the condition is largely benign and non-inflammatory, and the drug is marketed in the US.
 
+<!-- review:begin us-lic-20261106-loteprednol_etabonate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no trials or literature, the condition is largely benign and non-inflammatory, and the drug is marketed in the US with 14 valid licenses." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 23 FDA applications or NDC listings for this drug, 19 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-loteprednol_etabonate-2 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Clinical rationale for treating folliculosis
 - Confirmation of whether any valid US marketing authorization exists or would need to be re-established
 - Route and formulation compatibility assessment for the proposed indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 14 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "with 14 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

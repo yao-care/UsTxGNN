@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1138
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "RUFINAMIDE"
 predicted_indications: ["perioral myoclonia with absences"]
 description: "Rufinamide: predicted new indication Perioral myoclonia with absences (evidence level L5). Approved use: Not recorded in the local data"
@@ -113,6 +113,25 @@ The prediction has only a model score (L5) behind it, with no clinical trials or
 - The package insert warnings and contraindications, for a formal safety screen
 - Clarification of the commercial availability of rufinamide
 - A seizure-aggravation risk review for the absence-type and atypical epilepsy predictions
+
+<!-- review:begin us-lic-20261106-rufinamide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled US license status and the commercial availability of rufinamide" Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 17 FDA applications or NDC listings for this drug, 17 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-rufinamide-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "the cancelled US license status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

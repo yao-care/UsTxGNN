@@ -170,9 +170,15 @@ Label warnings and contraindications have not been retrieved, so please refer to
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)
 - Mechanism of action data from DrugBank
-- Confirmation of the current US marketing status, since four authorizations are listed as valid
+- Confirmation of the current US marketing status
 - The final results of NCT00895505, plus comparative data for warfarin versus DOACs in severe inherited thrombophilia
 - A clear definition of what would count as a new indication, given the overlap with warfarin's existing thrombotic-disease uses
+
+<!-- review:begin us-lic-20261112-warfarin-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: ", since four authorizations are listed as valid" Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 21 FDA applications for this drug, 6 active and 15 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-warfarin-1 -->
 
 <!-- review:begin log -->
 
@@ -183,6 +189,7 @@ Below is the review log for this page: statements checked against official FDA d
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the data compiled for this report show four valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Removed: "since four authorizations are listed as valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

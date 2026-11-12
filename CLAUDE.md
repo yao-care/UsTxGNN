@@ -516,3 +516,5 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 
 2026-10-31、11-05～06 依成分重建後直接刪掉的矛盾子句，2026-11-12 已用 `scripts/reviews_from_edits.py --git` 轉成 1,243 筆紀錄（707 頁；其中 8 筆因報告在 11 月經 AI 重產、原句已不在頁面，標 resolved_by_regeneration）。
 `scripts/sync_notes_to_docs.py` 依 notes 重寫整頁時，會保留舊頁的程式許可證區塊並重套紀錄，notes 裡的舊錯句會被紀錄再更正一次。
+2026-11-12 正文張數對事實層再掃一次：19 頁 AI 依舊證據包寫的「全部有效」、有效／停止張數、無保留的整體張數跟事實層相反，照上面的慣例刪掉矛盾子句（`us-lic-20261112-*`；dexamethasone、lansoprazole 是 11-06 那筆同 id 重發、前版存 history）。
+有保留的「At least N／N listed … may be partial」、狀態正確只是筆數取自舊清單的句子、涉及 OTC monograph／NDC listings 口徑的句子不動。

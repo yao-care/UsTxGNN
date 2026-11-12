@@ -82,6 +82,12 @@ None of these studies directly tests tobramycin for exposure keratitis.
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261112-tobramycin-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: "The other 10 licenses are also cancelled generic ANDAs (solution, injection, and eye-drop forms)." Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 73 FDA applications for this drug, 41 active and 32 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-tobramycin-1 -->
+
 The drug is marketed. Approved indication text is not available in the data compiled for this report. The main licenses are:
 
 <!-- review:begin us-lic-20261106-tobramycin-1 -->
@@ -97,8 +103,6 @@ The drug is marketed. Approved indication text is not available in the data comp
 | ANDA207444 | Tobramycin (St. Mary's Medical Park Pharmacy) | Solution/Drops | Not available (valid) |
 | ANDA211189 | Tobramycin (Xiromed LLC) | Lyophilized powder for injection | Not available (valid) |
 | ANDA217344 | Tobramycin (Micro Labs Limited) | Inhalant | Not available (valid) |
-
-The other 10 licenses are also cancelled generic ANDAs (solution, injection, and eye-drop forms).
 
 ## Safety Considerations
 
@@ -139,6 +143,7 @@ Below is the review log for this page: statements checked against official FDA d
 |------|------|------|------|
 | 2026-11-06 | Removed: "15 valid US licenses are on record, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 15 valid licenses in the data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Removed: "The other 10 licenses are also cancelled generic ANDAs (solution, injection, and eye-drop forms)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

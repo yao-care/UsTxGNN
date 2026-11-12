@@ -103,6 +103,12 @@ The abstracts available for this report do not state the efficacy results of the
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261112-miglustat-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: "All five licenses are listed as valid." Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 6 FDA applications for this drug, 5 active and 1 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-miglustat-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021348 | Zavesca (Actelion) | Capsule | Not available; valid |
@@ -110,8 +116,6 @@ The abstracts available for this report do not state the efficacy results of the
 | ANDA219111 | Miglustat (Navinta) | Capsule | Not available; valid |
 | ANDA209821 | Yargesa (Edenbridge) | Capsule | Not available; valid |
 | ANDA208342 | Miglustat (ANI Pharmaceuticals) | Capsule | Not available; valid |
-
-All five licenses are listed as valid.
 
 ---
 
@@ -161,6 +165,7 @@ Below is the review log for this page: statements checked against official FDA d
 |------|------|------|------|
 | 2026-11-05 | Removed: "although all five US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "noting that all five US licenses are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Removed: "All five licenses are listed as valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

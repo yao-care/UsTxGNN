@@ -71,7 +71,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 14 US authorizations are listed as valid. The main ones are below; approved indication text was not available for them.
+The main ones are below; approved indication text was not available for them.
+
+<!-- review:begin us-lic-20261112-octreotide-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: "All 14 US authorizations are listed as valid." Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 27 FDA applications for this drug, 19 active and 8 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-octreotide-1 -->
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -122,6 +128,7 @@ Below is the review log for this page: statements checked against official FDA d
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "given the 14 valid US authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Removed: "All 14 US authorizations are listed as valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

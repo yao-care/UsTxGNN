@@ -130,7 +130,13 @@ The top prediction, hypoalphalipoproteinemia, has no identifiable mechanistic li
 - Mechanism of action data from DrugBank
 - Evidence of a biological link between 5-HT4 agonism and HDL metabolism, or a re-ranking toward more plausible indications
 - For the amyloidosis-related GI dysmotility, a focused literature search and a feasibility assessment of symptomatic prokinetic use
-- Clarification of the US market status, since 13 licenses are shown as valid
+- Clarification of the US market status
+
+<!-- review:begin us-lic-20261112-prucalopride-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: ", since 13 licenses are shown as valid" Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 20 FDA applications for this drug, 18 active and 2 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-prucalopride-1 -->
 
 <!-- review:begin log -->
 
@@ -143,6 +149,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "Eight further ANDAs from Zydus, Apotex, Ajanta, Hikma, Sandoz, Cipla, ANI and SpecGx are also recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 13 valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Removed: "since 13 licenses are shown as valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

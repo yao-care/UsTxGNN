@@ -95,13 +95,19 @@ All four publications are nonhuman primate (SIV/rhesus macaque) studies of combi
 
 ## US Market Information
 
-All 10 authorizations listed below are in valid status. The data compiled for this report contains no approved-indication text for any of them.
+The data compiled for this report contains no approved-indication text for any of them.
 
 <!-- review:begin us-lic-20261106-darunavir-1 -->
 
 > **Review correction (2026-11-06)**: Originally stated: "Five further generic ANDAs (Viona, Amneal, Dr. Reddy's, a second Camber, and NuCare) are also cancelled." Removed: the number or status of FDA applications stated here did not match the FDA data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 16 FDA applications or NDC listings for this drug, 15 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-darunavir-1 -->
+
+<!-- review:begin us-lic-20261112-darunavir-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: "All 10 authorizations listed below are in valid status." Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 16 FDA applications for this drug, 15 active and 1 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-darunavir-1 -->
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -159,9 +165,10 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "Five further generic ANDAs (Viona, Amneal, Dr. Reddy's, a second Camber, and NuCare) are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-06 | Removed: "Five further generic ANDAs (Viona, Amneal, Dr. Reddy's, a second Camber, and NuCare) are also cancelled" | Corrected (revised 2026-11-12; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Clarification of the cancelled US market status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 10 valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Removed: "All 10 authorizations listed below are in valid status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

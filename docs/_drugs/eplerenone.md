@@ -154,7 +154,13 @@ The top-ranked prediction rests on a model score alone (L5), with no trials or l
 - Clarification of the disease definition for the top-ranked prediction, and whether it overlaps with PAH or Group 3 pulmonary hypertension
 - Systematic review of MR antagonist data in pulmonary hypertension, followed by clinical evidence such as a pilot trial if the signal holds
 - Hyperkalemia and renal safety monitoring plan, including management of potassium-related interactions
-- Confirmation of current US marketing status, since all six listed authorizations are shown as valid
+- Confirmation of current US marketing status
+
+<!-- review:begin us-lic-20261112-eplerenone-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: ", since all six listed authorizations are shown as valid" Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 10 FDA applications for this drug, 9 active and 1 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-eplerenone-1 -->
 
 <!-- review:begin log -->
 
@@ -166,6 +172,7 @@ Below is the review log for this page: statements checked against official FDA d
 |------|------|------|------|
 | 2026-11-05 | Removed: "All six listed authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "One further authorization (ANDA208283, American Health Packaging, tablet, film coated) is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Removed: "since all six listed authorizations are shown as valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

@@ -93,7 +93,13 @@ Currently no related literature available.
 | ANDA204238 | Granisetron Hydrochloride (Eugia US) | Injection, solution | ANDA (Discontinued in Drugs@FDA) |
 | ANDA219282 | Granisol (Intra-Sana Laboratories) | Solution | Valid |
 
-The compiled records contain no approved indication text for these licenses. Five more licenses (all cancelled) are on file, covering tablets, film-coated tablets and additional injections.
+The compiled records contain no approved indication text for these licenses.
+
+<!-- review:begin us-lic-20261112-granisetron-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: "Five more licenses (all cancelled) are on file, covering tablets, film-coated tablets and additional injections." Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 53 FDA applications for this drug, 26 active and 27 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-granisetron-1 -->
 
 ## Safety Considerations
 
@@ -136,6 +142,7 @@ Below is the review log for this page: statements checked against official FDA d
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 10 valid licenses out of 10" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Removed: "Five more licenses (all cancelled) are on file, covering tablets, film-coated tablets and additional injections" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

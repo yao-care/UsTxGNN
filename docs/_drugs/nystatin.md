@@ -72,7 +72,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-The list below shows 5 of the 12 licences on record. Eleven are valid and one is cancelled; the list may be partial. The licence records carry no indication text.
+The list below shows 5 of the 12 licences on record. The list may be partial. The licence records carry no indication text.
+
+<!-- review:begin us-lic-20261112-nystatin-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: "Eleven are valid and one is cancelled; the list may be partial." Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 124 FDA applications for this drug, 51 active and 73 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-nystatin-1 -->
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -102,6 +108,18 @@ The prediction rests only on a model score. There is no plausible mechanism, no 
 - Published preclinical or clinical data on nystatin in orbital disease
 - Mechanism-of-action data and label warnings and contraindications for nystatin
 - A formulation and route assessment for any use near the eye or orbit
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-12 | Corrected: "Eleven are valid and one is cancelled; the list may be partial" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

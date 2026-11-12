@@ -82,7 +82,13 @@ For reference, the only publication found among the top 10 predictions (for juve
 | ANDA076003 | Tramadol Hydrochloride | Tablet, coated | Not available |
 | ANDA075968 | Tramadol Hydrochloride | Tablet | Not available |
 
-All 10 authorizations are listed as valid; the five main ones are shown above.
+The five main ones are shown above.
+
+<!-- review:begin us-lic-20261112-tramadol-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: "All 10 authorizations are listed as valid; the five main" Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 54 FDA applications for this drug, 19 active and 35 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-tramadol-1 -->
 
 ## Safety Considerations
 
@@ -120,6 +126,7 @@ Below is the review log for this page: statements checked against official FDA d
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "Its 10 US authorizations are also all valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Corrected: "All 10 authorizations are listed as valid; the five main" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

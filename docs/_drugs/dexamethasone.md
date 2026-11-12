@@ -68,13 +68,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-Fifteen US licences are recorded as valid, and the list may be partial. All are generic products (ANDA). The five shown below are examples, and approved-indication text is not recorded in the local data.
+ The five shown below are examples, and approved-indication text is not recorded in the local data.
 
 <!-- review:begin us-lic-20261106-dexamethasone-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All are single-ingredient generic products (ANDA)." Removed: it described the products as single-ingredient or combination products in a way that did not match the FDA ingredient data (Drugs@FDA and the NDC Directory as of 2026-11-06). Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review correction (2026-11-12)**: Originally stated: "All are single-ingredient generic products (ANDA)." Removed: it described the products in a way that did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06): the FDA data list both generic (ANDA) and brand (NDA) applications for this drug. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
 
 <!-- review:end us-lic-20261106-dexamethasone-1 -->
+
+<!-- review:begin us-lic-20261112-dexamethasone-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: "Fifteen US licences are recorded as valid, and the list may be partial." Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 159 FDA applications for this drug, 65 active and 94 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-dexamethasone-1 -->
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -117,7 +123,8 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Removed: "All are single-ingredient generic products (ANDA)" | Corrected (revised 2026-11-12; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Removed: "Fifteen US licences are recorded as valid, and the list may be partial" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

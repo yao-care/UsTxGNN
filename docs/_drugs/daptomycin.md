@@ -131,7 +131,13 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-No clinical trials exist, and the literature concerns treating joint infections rather than osteoarthritis. No mechanistic link to degenerative osteoarthritis is supported. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The muscle-toxicity profile (myopathy, rhabdomyolysis) adds a safety concern for a chronic, non-infectious condition. Daptomycin is also an injectable-only antibiotic, with 17 US licenses currently valid.
+No clinical trials exist, and the literature concerns treating joint infections rather than osteoarthritis. No mechanistic link to degenerative osteoarthritis is supported. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The muscle-toxicity profile (myopathy, rhabdomyolysis) adds a safety concern for a chronic, non-infectious condition. Daptomycin is also an injectable-only antibiotic.
+
+<!-- review:begin us-lic-20261112-daptomycin-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: ", with 17 US licenses currently valid" Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 32 FDA applications for this drug, 27 active and 5 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-daptomycin-1 -->
 
 **Other predictions for context:**
 - **Rheumatoid arthritis** is the only prediction with a preclinical signal (collagen-induced arthritis in mice, 2025). It is worth treating as a research question, not a clinical candidate.
@@ -152,6 +158,7 @@ Below is the review log for this page: statements checked against official FDA d
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 17 US authorizations for daptomycin are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Removed: "with 17 US licenses currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

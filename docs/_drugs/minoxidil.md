@@ -76,7 +76,13 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-At least 10 licence records are listed in the data compiled for this report, and the list may be partial. All 10 are recorded as valid. Indication text is not recorded for these licences.
+At least 10 licence records are listed in the data compiled for this report, and the list may be partial. Indication text is not recorded for these licences.
+
+<!-- review:begin us-lic-20261112-minoxidil-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: "All 10 are recorded as valid." Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 38 FDA applications for this drug, 23 active and 15 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-minoxidil-1 -->
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -107,6 +113,18 @@ The model score is very high, but the evidence level is L4: only case reports, a
 - Detailed mechanism of action data
 - Package insert safety data, including a plan for cardiovascular monitoring if oral dosing is considered
 - A decision on route (topical versus low-dose oral) and dose for this rare, often paediatric, population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-12 | Removed: "All 10 are recorded as valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

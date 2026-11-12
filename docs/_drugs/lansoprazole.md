@@ -73,6 +73,12 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
+<!-- review:begin us-lic-20261106-lansoprazole-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: "Five more authorizations (all cancelled, 10 in total) are on record and not listed here." Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 41 FDA applications for this drug, 26 active and 15 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261106-lansoprazole-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA021428 | Prevacid SoluTab (Takeda) | Orally disintegrating delayed-release tablet | Not available (status: valid) |
@@ -80,14 +86,6 @@ Currently no related clinical trials registered.
 | ANDA200816 | Lansoprazole (Zydus) | Orally disintegrating tablet | Not available (status: valid) |
 | ANDA205868 | Lansoprazole (Preferred Pharmaceuticals) | Delayed-release capsule | Not available (status: valid) |
 | ANDA207394 | Lansoprazole (Medcore) | Delayed-release capsule | Not available (status: valid) |
-
-Five more authorizations (all cancelled) are on record and not listed here.
-
-<!-- review:begin us-lic-20261106-lansoprazole-1 -->
-
-> **Review correction (2026-11-06)**: Originally stated: "Five more authorizations (all cancelled, 10 in total) are on record and not listed here." Removed: it conflicted with the FDA application data after applications were matched by ingredient (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 41 FDA applications or NDC listings for this drug, 26 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
-
-<!-- review:end us-lic-20261106-lansoprazole-1 -->
 
 ## Safety Considerations
 
@@ -124,7 +122,7 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "10 in total" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Removed: "Five more authorizations (all cancelled, 10 in total) are on record and not listed here" | Corrected (revised 2026-11-12; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since all 10 records are marked cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->

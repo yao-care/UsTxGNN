@@ -97,7 +97,13 @@ Griseofulvin is marketed in the US, and no approved-indication text was recorded
 | ANDA065354 | Griseofulvin (Cipla USA) | Suspension | Not recorded |
 | ANDA065200 | Griseofulvin (Chartwell RX) | Suspension | Not recorded |
 
-The remaining five licences are also cancelled. Available dosage forms were oral tablets (including coated tablets) and suspensions.
+Available dosage forms were oral tablets (including coated tablets) and suspensions.
+
+<!-- review:begin us-lic-20261112-griseofulvin-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: "The remaining five licences are also cancelled." Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 22 FDA applications for this drug, 12 active and 10 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-griseofulvin-1 -->
 
 ## Safety Considerations
 
@@ -148,6 +154,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "including the implications of the cancelled US marketing status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 10 valid licenses for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 10 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Removed: "The remaining five licences are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

@@ -106,7 +106,13 @@ Approved indication text was not available in the data compiled.
 | ANDA213369 | Oxcarbazepine (Apotex) | Tablet, extended release | Not available |
 | ANDA209652 | Oxcarbazepine (Bionpharma) | Suspension | Not available |
 
-The full set comprises 11 authorizations, including film-coated tablet, extended-release tablet, and suspension forms.
+The authorizations include film-coated tablet, extended-release tablet, and suspension forms.
+
+<!-- review:begin us-lic-20261112-oxcarbazepine-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: "The full set comprises 11 authorizations, including" Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 35 FDA applications for this drug, 29 active and 6 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-oxcarbazepine-1 -->
 
 ---
 
@@ -133,6 +139,19 @@ There are no clinical trials, and the literature is general epilepsy material th
 - Targeted literature search for oxcarbazepine in visually induced or photosensitive seizures, including case series
 - Clinical rationale for the diagnostic boundary between visual epilepsy and existing focal epilepsy indications
 - Consideration of better-supported alternatives from the same prediction list, such as restless legs syndrome (case reports only, so still exploratory)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-12 | Corrected: "The full set comprises 11 authorizations, including" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

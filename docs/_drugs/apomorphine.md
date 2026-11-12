@@ -95,7 +95,13 @@ The table below lists the most relevant publications for schizophrenia (rank 5).
 | NDA021264 | APOKYN | Injection | Not available (valid) |
 | ANDA212025 | Apomorphine hydrochloride | Injection | Not available (valid) |
 
-All three authorizations are listed as valid, so currently valid US licences exist in the compiled data. All are injectable products.
+All are injectable products.
+
+<!-- review:begin us-lic-20261112-apomorphine-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: "All three authorizations are listed as valid, so currently valid US licences exist in the compiled data." Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 4 FDA applications for this drug, 3 active and 1 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-apomorphine-1 -->
 
 ## Safety Considerations
 
@@ -125,7 +131,13 @@ Package insert warnings and contraindications were not available in the data com
 - Mechanism-of-action data and package insert warnings and contraindications (currently missing; the latter is a blocking gap for safety screening).
 - For schizophrenia, a careful review of the older negative studies and the psychosis-related contraindication signal, followed by preclinical or mechanistic work (for example, autoreceptor-selective effects) before any clinical consideration.
 - For the myopia and retinal predictions, supporting preclinical evidence, since retinal dopamine is only a hypothesis here, plus a route-of-administration assessment (current products are injectables only).
-- Confirmation of the current US regulatory and supply status, given that all 3 licences are listed as valid.
+- Confirmation of the current US regulatory and supply status.
+
+<!-- review:begin us-lic-20261112-apomorphine-2 -->
+
+> **Review correction (2026-11-12)**: Originally stated: ", given that all 3 licences are listed as valid" Removed: the number or status of FDA applications stated here did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 4 FDA applications for this drug, 3 active and 1 discontinued; the Quick Overview shows the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+
+<!-- review:end us-lic-20261112-apomorphine-2 -->
 
 <!-- review:begin log -->
 
@@ -136,6 +148,8 @@ Below is the review log for this page: statements checked against official FDA d
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "The drug is marketed in the US, and all 3 licences are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Removed: "All three authorizations are listed as valid, so currently valid US licences exist in the compiled data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-12 | Removed: "given that all 3 licences are listed as valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 
 <!-- review:end log -->
 

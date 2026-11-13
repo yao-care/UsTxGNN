@@ -6,9 +6,9 @@
   "name": "UsTxGNNFHIRServer",
   "title": "UsTxGNN Drug Repurposing Reports - FHIR Server",
   "status": "active",
-  "date": "2026-03-01",
+  "date": "2026-11-13",
   "publisher": "UsTxGNN Project",
-  "description": "US FDA Drug Repurposing Predictions - FHIR R4 API",
+  "description": "US FDA Drug Repurposing Predictions - FHIR R4 API. Contains 1165 drugs and 6338 predicted indications.",
   "kind": "instance",
   "fhirVersion": "4.0.1",
   "format": [
@@ -33,6 +33,25 @@
               "code": "read"
             }
           ]
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://yao.care/fhir/StructureDefinition/txgnn-resource-counts",
+      "extension": [
+        {
+          "url": "MedicationKnowledge",
+          "valueInteger": 1165
+        },
+        {
+          "url": "ClinicalUseDefinition",
+          "valueInteger": 6338
+        },
+        {
+          "url": "countedAt",
+          "valueDate": "2026-11-13"
         }
       ]
     }

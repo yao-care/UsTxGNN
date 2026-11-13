@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 10 articles, 1 related drugs."
+description: "Health news about cancer. 11 articles, 1 related drugs."
 permalink: /news/cancer/
 last_modified_at: 2026-11-13
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>10 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>11 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,13 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (10)
+## Related News (11)
 
-### [In reversal, American Cancer Society urges routine prostate cancer screening - Ars Technica](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGc2X2ZZMWhMTUppcFJodEt1Wk9qMTdJMHZMREpzaHdMZy1jY0RBTEhmYTI3VFMxTmk0UnpCSUtNXzkzRjJkXzJxTTF1akVlMDVSc0lQVUNwNHgzaGEwMmJPYUtSeWlvY0VqNWVMVUxKaVhrdzlYUzhMQmwtc0N2REpkM2YzalZ4QTg0Y0pOWDB3OFdKUXh0U3hfd05WV2R3LThQVmJjeUtNMlVId01Fcm1nVTFHUQ?oc=5)
+### [Regular prostate cancer screening recommended under new American Cancer Society guidelines - CBS News](https://news.google.com/rss/articles/CBMidEFVX3lxTFAyTHV5NldlVDg1OWp1aGhOSVQ1US1uejlzbnFKUlhCcnBoWjltZ1dQNEJnZTJoaTY2MHZ1Q1RhUG5rRWpaT1N5b0FUOEtScXB0Q1ZSb21fUWtJeXBFX3pVeDZxSVpUdDByUGVHbks3dmlrd0dO?oc=5)
 
 2026-11-12
 
-Source: [Ars Technica](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGc2X2ZZMWhMTUppcFJodEt1Wk9qMTdJMHZMREpzaHdMZy1jY0RBTEhmYTI3VFMxTmk0UnpCSUtNXzkzRjJkXzJxTTF1akVlMDVSc0lQVUNwNHgzaGEwMmJPYUtSeWlvY0VqNWVMVUxKaVhrdzlYUzhMQmwtc0N2REpkM2YzalZ4QTg0Y0pOWDB3OFdKUXh0U3hfd05WV2R3LThQVmJjeUtNMlVId01Fcm1nVTFHUQ?oc=5)
+Source: [CBS News](https://news.google.com/rss/articles/CBMidEFVX3lxTFAyTHV5NldlVDg1OWp1aGhOSVQ1US1uejlzbnFKUlhCcnBoWjltZ1dQNEJnZTJoaTY2MHZ1Q1RhUG5rRWpaT1N5b0FUOEtScXB0Q1ZSb21fUWtJeXBFX3pVeDZxSVpUdDByUGVHbks3dmlrd0dO?oc=5)
 
 ---
 
@@ -56,14 +56,6 @@ Source: [9News](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSm8wNjJsZGl
 
 ---
 
-### [Domain-alteration chimeras rewire oncogenic complexes in prostate cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GSmEzX1R3QUtDNjM3OGlEUTd1WVFmdllEZS0zNmxoMWFjYVNMaFl5UktXNGZFQ2VJbVhqa1hvR09TaFktZExoVkJqX3dQTW5WUHBwbDltbVVMZi04ZUs0?oc=5)
-
-2026-11-11
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GSmEzX1R3QUtDNjM3OGlEUTd1WVFmdllEZS0zNmxoMWFjYVNMaFl5UktXNGZFQ2VJbVhqa1hvR09TaFktZExoVkJqX3dQTW5WUHBwbDltbVVMZi04ZUs0?oc=5)
-
----
-
 ### [How 'Heightmaxxing' Is Pushing Teen Boys to Take a Risky Cancer Drug - Yahoo Health](https://news.google.com/rss/articles/CBMipwFBVV95cUxQclh3RlZUR1lqZzl1NGdHSHFaaGhaamxCQzY2V3otbnpVMDlsVldxVUsyMk1KbGFaZm0yQVJZU2hUX3R1UWVZNm1PZW5HeC1USU8yODlCRGNIM3h1Y0dQbGdYQVd5RFdOMjZBdHAxWS1id3h5RXk0MDFUbk93T3lqV2dqR3BpRC10aTVhdFd1UG9ja2dpRDFyb21BaVpSWUxtM0ViVk9VTQ?oc=5)
 
 2026-11-11
@@ -77,6 +69,14 @@ Source: [Yahoo Health](https://news.google.com/rss/articles/CBMipwFBVV95cUxQclh3
 2026-11-11
 
 Source: [The Times of Israel](https://news.google.com/rss/articles/CBMimgFBVV95cUxORXlYTXBmcmxQdjdsX1RRamlHU2hadUMtRlkwSGphWC03NGwybF9GVXFuUlZ4WG1tNml1WS01XzF3NjlFLTJaWjZJTms5aWJZbjJTQWRobmU2UV94TUZyTUF6aFBmekRtcXdXZXUwWmYwcWgxWlBQSVplRTJNWmpjR24zdTF5Z0Zuc1JIUEZwUU91bHFuTERSLWZ30gGfAUFVX3lxTE5Gamo3QXhZRnl2SlBYVmE1UFRIdFY4bnZpRENQR2ZPT2V4MjZJT2VEN2NaVG1SQVEtZFpOTmdvNUFoTU8xaWdzN2RBYlR4VVBiQVFZc0NmLXhEdzVKdHIyLU5Zc1ZLVW9uMGJtR3BTY2Q1NDZ3bTY5dDlXM3djc1E3dEVLakpiV3AxNEhjdmdrZ3J4cnVmbDNMRi0tZktacw?oc=5)
+
+---
+
+### [Molecular brace traps two cancer-driving proteins to suppress prostate cancer growth in preclinical tests - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNklJM3NYNHRWdHNvemJwcDhjS3FQOHBUdW1wT09uWnRQV1A2dVl0QU9FS2VvRkFONmFCYzQ0WVNaUEtQZ3pjRjVCY21IUk1UanpUS3A5UHR5Nm9xakxiQmhTOExyOXk5UmtRdktqQlNGQ0NrQ2QyT2xpYTcxbEJXbFQ3YTc5c3NMTE03TA?oc=5)
+
+2026-11-11
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNklJM3NYNHRWdHNvemJwcDhjS3FQOHBUdW1wT09uWnRQV1A2dVl0QU9FS2VvRkFONmFCYzQ0WVNaUEtQZ3pjRjVCY21IUk1UanpUS3A5UHR5Nm9xakxiQmhTOExyOXk5UmtRdktqQlNGQ0NrQ2QyT2xpYTcxbEJXbFQ3YTc5c3NMTE03TA?oc=5)
 
 ---
 
@@ -101,6 +101,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFlD
 2026-11-11
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQi1MVFVnbWtrZzhpUndkVWNSOElxT1k5QkYzdHVDdE1jeDNxMzM3YWg4enRfNDc5OW81LTVEM1V4NTB2N3JXWTdtb0g4c0o5eGxyT09KOWY5bVR1UXdWWkNQZ2lQZzZpZjJEM2djLW4teG5KNDZJRkN1MnJTSDJKWHk2WC1uMHVPVnZreGlNcEFyOGJvdXFhUVJWazRwTXpUUExNeVFVQ1RETGV4Ykx3UUJYLWg?oc=5)
+
+---
+
+### [Chemotherapy to treat breast cancer may accelerate biological aging - The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxPNXg3dFVsMktLeGwteG5OMm9xT0hGcUlseFhEcDg0WV9ZUzlQVE5iLTlNTi1sOWJ0b002WXVKeUdPenVnQmxoSFJVMlVRdUl1dWxMbmFQMVNOOGgtUGYxbHhTaVNfdmpEOTV3Ui1CZkVRRjAzbDk3d1NyS1ZVcmxSd3U2ZURfZkRPZjlnQnVVQ0hzT0hKNXd0cHRubTJBUzR3blp3?oc=5)
+
+2026-11-10
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxPNXg3dFVsMktLeGwteG5OMm9xT0hGcUlseFhEcDg0WV9ZUzlQVE5iLTlNTi1sOWJ0b002WXVKeUdPenVnQmxoSFJVMlVRdUl1dWxMbmFQMVNOOGgtUGYxbHhTaVNfdmpEOTV3Ui1CZkVRRjAzbDk3d1NyS1ZVcmxSd3U2ZURfZkRPZjlnQnVVQ0hzT0hKNXd0cHRubTJBUzR3blp3?oc=5)
 
 ---
 

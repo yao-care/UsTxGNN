@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Rutin. 8 predicted indications."
 permalink: /news/rutin/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Rutin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>15 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>14 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (14)
 
 ### [RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0QzJKWnp0WFVTVEpkOGV1TkgzNGtaT0ZEUUplYjlCUFJSa0owOXBzX0pJcEhwY3N5RTh4ZEIyTWc0Y1lSZ1NocFVKNC1Dd1dldkN6eHJIb083eFBKR0xZ?oc=5)
 
@@ -58,14 +58,6 @@ Source: [Space](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3N1QTVmUWk
 
 ---
 
-### [Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmd0xfSDVzcU1HNk5SOG9BVmk3TTdreWpCNzh5b2U1WTVfWHpTQms3bV9BOHEzM1ZzU2VIc0xnNmhTRHJwQWxORk1xWUdkaXl3SHV2OURmcGNld2pvTXdJ?oc=5)
-
-2026-11-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmd0xfSDVzcU1HNk5SOG9BVmk3TTdreWpCNzh5b2U1WTVfWHpTQms3bV9BOHEzM1ZzU2VIc0xnNmhTRHJwQWxORk1xWUdkaXl3SHV2OURmcGNld2pvTXdJ?oc=5)
-
----
-
 ### [Transient nuclear softening for zygotic gene activation in mice](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YT05fdW1JWXVUbTd3V29wWGRDSkd4Z1JfbTkzZDFYYlB3RXBBYXVNaVhNLTZWakI4bVdwZ3FsV3kzQl9sUjRfOVhURUEzMURLRllCZEJneWxVak1PUHpR?oc=5)
 
 2026-11-11 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
@@ -74,11 +66,11 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YT05fdW1JWX
 
 ---
 
-### [Deep-sea mollusk houses bacteria in tiny 'dragon balls,' revealing a new symbiotic structure](https://news.google.com/rss/articles/CBMidkFVX3lxTE5OX29xTmNaLTRxdEVqZm1iVkxJTktuc3drQVNuY05XLUZQZllhVG1WOWFUbGJEMlVGeE5nYk0yTE56dVhKeE5oMmVDcE5hdXBuWW92bUpmelNqbVlITk43OGFfeVJRQnNlMWxENmdPWjlSMGV5bnc?oc=5)
+### [How 'Heightmaxxing' Is Pushing Teen Boys to Take a Risky Cancer Drug - Yahoo Health](https://news.google.com/rss/articles/CBMipwFBVV95cUxQclh3RlZUR1lqZzl1NGdHSHFaaGhaamxCQzY2V3otbnpVMDlsVldxVUsyMk1KbGFaZm0yQVJZU2hUX3R1UWVZNm1PZW5HeC1USU8yODlCRGNIM3h1Y0dQbGdYQVd5RFdOMjZBdHAxWS1id3h5RXk0MDFUbk93T3lqV2dqR3BpRC10aTVhdFd1UG9ja2dpRDFyb21BaVpSWUxtM0ViVk9VTQ?oc=5)
 
-2026-11-11 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE5OX29xTmNaLTRxdEVqZm1iVkxJTktuc3drQVNuY05XLUZQZllhVG1WOWFUbGJEMlVGeE5nYk0yTE56dVhKeE5oMmVDcE5hdXBuWW92bUpmelNqbVlITk43OGFfeVJRQnNlMWxENmdPWjlSMGV5bnc?oc=5)
+Source: [Yahoo Health](https://news.google.com/rss/articles/CBMipwFBVV95cUxQclh3RlZUR1lqZzl1NGdHSHFaaGhaamxCQzY2V3otbnpVMDlsVldxVUsyMk1KbGFaZm0yQVJZU2hUX3R1UWVZNm1PZW5HeC1USU8yODlCRGNIM3h1Y0dQbGdYQVd5RFdOMjZBdHAxWS1id3h5RXk0MDFUbk93T3lqV2dqR3BpRC10aTVhdFd1UG9ja2dpRDFyb21BaVpSWUxtM0ViVk9VTQ?oc=5)
 
 ---
 
@@ -98,6 +90,14 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMie0FVX3lxTE1hNW
 
 ---
 
+### [Israeli blood test detects early breast cancer with 95% accuracy - The Times of Israel](https://news.google.com/rss/articles/CBMimgFBVV95cUxORXlYTXBmcmxQdjdsX1RRamlHU2hadUMtRlkwSGphWC03NGwybF9GVXFuUlZ4WG1tNml1WS01XzF3NjlFLTJaWjZJTms5aWJZbjJTQWRobmU2UV94TUZyTUF6aFBmekRtcXdXZXUwWmYwcWgxWlBQSVplRTJNWmpjR24zdTF5Z0Zuc1JIUEZwUU91bHFuTERSLWZ30gGfAUFVX3lxTE5Gamo3QXhZRnl2SlBYVmE1UFRIdFY4bnZpRENQR2ZPT2V4MjZJT2VEN2NaVG1SQVEtZFpOTmdvNUFoTU8xaWdzN2RBYlR4VVBiQVFZc0NmLXhEdzVKdHIyLU5Zc1ZLVW9uMGJtR3BTY2Q1NDZ3bTY5dDlXM3djc1E3dEVLakpiV3AxNEhjdmdrZ3J4cnVmbDNMRi0tZktacw?oc=5)
+
+2026-11-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Times of Israel](https://news.google.com/rss/articles/CBMimgFBVV95cUxORXlYTXBmcmxQdjdsX1RRamlHU2hadUMtRlkwSGphWC03NGwybF9GVXFuUlZ4WG1tNml1WS01XzF3NjlFLTJaWjZJTms5aWJZbjJTQWRobmU2UV94TUZyTUF6aFBmekRtcXdXZXUwWmYwcWgxWlBQSVplRTJNWmpjR24zdTF5Z0Zuc1JIUEZwUU91bHFuTERSLWZ30gGfAUFVX3lxTE5Gamo3QXhZRnl2SlBYVmE1UFRIdFY4bnZpRENQR2ZPT2V4MjZJT2VEN2NaVG1SQVEtZFpOTmdvNUFoTU8xaWdzN2RBYlR4VVBiQVFZc0NmLXhEdzVKdHIyLU5Zc1ZLVW9uMGJtR3BTY2Q1NDZ3bTY5dDlXM3djc1E3dEVLakpiV3AxNEhjdmdrZ3J4cnVmbDNMRi0tZktacw?oc=5)
+
+---
+
 ### [Popular heart medication for older patients faces scrutiny as new study evaluates risks - New York Post](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS1RjMXMyX21jaUluazU1Y0o4aUVFaGhzN05ucnJpS1ZySk5vcGRQY0FiSTY1V0dvR1IwdVY2RTd3ejFRX21nTnlUMUp1LTFmNTJkcEloZUNLaF9tZk5RZ3ZQeEFobTZ2dk5Zenk2c3BTUkQ2NTVpbG80Q0tyOW96VzYwbW9WM0c1UGxnN3VObXVsSzVlZ3ZnR245SmRqd24wS1J3Qy1xZlRYTmduWGNoQmJFM1pKdmZvVmVKdE02TTczWVU?oc=5)
 
 2026-11-11 <span class="news-drug-tag">Rutin</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">RA</span>
@@ -114,19 +114,19 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQi1M
 
 ---
 
+### [The Best Types of Puzzles to Keep Your Brain Sharp as You Age - Martha Stewart](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEtGNGNWaTRJQ01wMG8tYUQ2cXpOSmVnZmNUVFdFZWpjSEhiTllDQ1NFRmZJSWxKbnROX0pTTDFHc24wY1BRRlFSaGVZbjYxdGEtaWpfRld6WlNTTmVSb1BzQUlXcTZEQ04tOUt5WWowVUhVbnZId2tUNHRqaTVrYmNn?oc=5)
+
+2026-11-11 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Martha Stewart](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEtGNGNWaTRJQ01wMG8tYUQ2cXpOSmVnZmNUVFdFZWpjSEhiTllDQ1NFRmZJSWxKbnROX0pTTDFHc24wY1BRRlFSaGVZbjYxdGEtaWpfRld6WlNTTmVSb1BzQUlXcTZEQ04tOUt5WWowVUhVbnZId2tUNHRqaTVrYmNn?oc=5)
+
+---
+
 ### [Robot builds structure in space for the first time in technological breakthrough - New York Post](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmh5bEZUOUdYd2pWTVBzQk1CY2c1d3J5MWtSQ0gwMzFZV3J6ZzF3NkdsdUd6VlBvam9EMWZZT0dnbDg4eFZkQkk1UjBqNlB4WjcwRlZnMW9YamptbW41UnR0eU9jR3B4amxpVkpLUHhLenRxaXNCRkh2LWszN0lOaTFoU2s5bUhESjlvaGlqYw?oc=5)
 
 2026-11-10 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmh5bEZUOUdYd2pWTVBzQk1CY2c1d3J5MWtSQ0gwMzFZV3J6ZzF3NkdsdUd6VlBvam9EMWZZT0dnbDg4eFZkQkk1UjBqNlB4WjcwRlZnMW9YamptbW41UnR0eU9jR3B4amxpVkpLUHhLenRxaXNCRkh2LWszN0lOaTFoU2s5bUhESjlvaGlqYw?oc=5)
-
----
-
-### [‘Smartphone pinkie’ and other signs you may be using your phone too much](https://news.google.com/rss/articles/CBMidkFVX3lxTFBRbXlwa1BjaEdkNmJTSFN6a01oeTE4WXBmeWJYM251a09MWmtJS0wxOW5XOTBSc0JnaDkxNkVrOGxFSjNCZmpBck94WlpPMmpQWVY3OEZ3akhjMXUwUGRIbGlQMExJZmpXX1AwMVFtMFNNN3VBR0E?oc=5)
-
-2026-11-10 <span class="news-indication-tag">UC</span>
-
-Source: [CNN](https://news.google.com/rss/articles/CBMidkFVX3lxTFBRbXlwa1BjaEdkNmJTSFN6a01oeTE4WXBmeWJYM251a09MWmtJS0wxOW5XOTBSc0JnaDkxNkVrOGxFSjNCZmpBck94WlpPMmpQWVY3OEZ3akhjMXUwUGRIbGlQMExJZmpXX1AwMVFtMFNNN3VBR0E?oc=5)
 
 ---
 
@@ -143,14 +143,6 @@ Source: [NPR](https://news.google.com/rss/articles/CBMijgFBVV95cUxNME9XOWJGNk83d
 2026-11-10 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [Phys.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFVycHI5TjdFN3Q3WXJYTEtlR0Y0RjkzLWI3cjVDRDM5LWRRX19jODRMNy1reVRsR2s5aDdVSVhCVjBDc2RrOVlWWWhTb1F0TUp0d1VSQ1pVaTFra1ZqempHUnF2amNDUllKTDVHWVFqdnc3d1dlbW9jYVpHY2dFU0RTMGdzcG8?oc=5)
-
----
-
-### [Go For Orbit](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kQzl1R0xIWEFvcTRFWkdmM2dhUVJQUklNQzBiaWFOeUJzdDhDeDcwWFJsdEtLYmZrTzBUc1ZJb2VRczlkdEZaVzU2Qy1RY21VdWFrYTM1TXdXRmJocEFkVFNB?oc=5)
-
-2026-11-06 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [SpaceX](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kQzl1R0xIWEFvcTRFWkdmM2dhUVJQUklNQzBiaWFOeUJzdDhDeDcwWFJsdEtLYmZrTzBUc1ZJb2VRczlkdEZaVzU2Qy1RY21VdWFrYTM1TXdXRmJocEFkVFNB?oc=5)
 
 ---
 

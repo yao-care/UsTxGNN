@@ -3,9 +3,9 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 6 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 5 articles, 1 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # CAD (heart disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,29 +30,13 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (6)
+## Related News (5)
 
-### [DEC adds new requirements after chronic wasting disease found in Livingston County deer](https://news.google.com/rss/articles/CBMiugFBVV95cUxObDN0SDUzV2RmUlFmUEw3MHlIUkJXSk9uY2NMcWM5V3MyU1B5WjNrVHVkTGVibjI2QmpIMVZ3bHZIWHp0WXdVTDU2VXpONUhiNmxHbWE5VGEteUVMclM2R1NSbGQwVEZ5c1ZVeHZpU0p6cXk3REx3WHpyQ1RNWi1SaHFUT2RrOWFfMi15bFBBZjZ0NlJhNHE0Nm0xUjJjbGktLW5PUXNOQ0xucVJUQWVMYUZpdnVMY3BNTEE?oc=5)
-
-2026-11-12
-
-Source: [WHEC.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxObDN0SDUzV2RmUlFmUEw3MHlIUkJXSk9uY2NMcWM5V3MyU1B5WjNrVHVkTGVibjI2QmpIMVZ3bHZIWHp0WXdVTDU2VXpONUhiNmxHbWE5VGEteUVMclM2R1NSbGQwVEZ5c1ZVeHZpU0p6cXk3REx3WHpyQ1RNWi1SaHFUT2RrOWFfMi15bFBBZjZ0NlJhNHE0Nm0xUjJjbGktLW5PUXNOQ0xucVJUQWVMYUZpdnVMY3BNTEE?oc=5)
-
----
-
-### [CDC reports six measles deaths in 2026 as US battles worst outbreak in 35 years - The Guardian](https://news.google.com/rss/articles/CBMidEFVX3lxTFBROTRrdm55TzlLU2F4aU1FeFd2dDduM0hWNTNyZTFPRDRQMnRRMm13SERhTnB5a2EwM1p3NG1kb25jUWNlTW1HWU1TTjNvOGNsQ29RUzJSMFhXdU5nbVlSeG9odFowUHNlYThIdGw5UGFJWHVq?oc=5)
+### [Chronic wasting disease detected in upstate New York deer population - Spectrum News](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMGRaODVKZGJWckdxUm9vaWw3RnBXWFE5ck4zVXNDcU9PV05RUmt3SE9LQzRISlptV2JVcUp2ajV2Z3dvNTU5Q3FydUp5LTJTLVd2b1lRTmJ5bERDcGRObDNYLTFhMmRJQjc2SUFreFUyZmNSYThlQWtBS1ZLcDBHVmZVOW5rU1R3VlM5ZlJKNW40SE9jOGpGQkZhb2dLcEVVVXNqeVZkZWJXZXR2WUN4QTFUaVhMeGtXbGFjMQ?oc=5)
 
 2026-11-12
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMidEFVX3lxTFBROTRrdm55TzlLU2F4aU1FeFd2dDduM0hWNTNyZTFPRDRQMnRRMm13SERhTnB5a2EwM1p3NG1kb25jUWNlTW1HWU1TTjNvOGNsQ29RUzJSMFhXdU5nbVlSeG9odFowUHNlYThIdGw5UGFJWHVq?oc=5)
-
----
-
-### [Evolutionary dynamics in the years preceding acute myeloid leukaemia](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FMTdnbDhmS19TdUNXMThNWmMwb3JrOWZtVDJNaTVVV1VyOHJza1VWckxIaTBpeFpwcUNqeFRycEZSTEVnYkF4dE01SnJodmdJUVN3cl9SVzhkVml1X3Mw?oc=5)
-
-2026-11-11
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FMTdnbDhmS19TdUNXMThNWmMwb3JrOWZtVDJNaTVVV1VyOHJza1VWckxIaTBpeFpwcUNqeFRycEZSTEVnYkF4dE01SnJodmdJUVN3cl9SVzhkVml1X3Mw?oc=5)
+Source: [Spectrum News](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMGRaODVKZGJWckdxUm9vaWw3RnBXWFE5ck4zVXNDcU9PV05RUmt3SE9LQzRISlptV2JVcUp2ajV2Z3dvNTU5Q3FydUp5LTJTLVd2b1lRTmJ5bERDcGRObDNYLTFhMmRJQjc2SUFreFUyZmNSYThlQWtBS1ZLcDBHVmZVOW5rU1R3VlM5ZlJKNW40SE9jOGpGQkZhb2dLcEVVVXNqeVZkZWJXZXR2WUN4QTFUaVhMeGtXbGFjMQ?oc=5)
 
 ---
 
@@ -69,6 +53,14 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMie0FVX3lxTE1hNW
 2026-11-11
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS1RjMXMyX21jaUluazU1Y0o4aUVFaGhzN05ucnJpS1ZySk5vcGRQY0FiSTY1V0dvR1IwdVY2RTd3ejFRX21nTnlUMUp1LTFmNTJkcEloZUNLaF9tZk5RZ3ZQeEFobTZ2dk5Zenk2c3BTUkQ2NTVpbG80Q0tyOW96VzYwbW9WM0c1UGxnN3VObXVsSzVlZ3ZnR245SmRqd24wS1J3Qy1xZlRYTmduWGNoQmJFM1pKdmZvVmVKdE02TTczWVU?oc=5)
+
+---
+
+### [Infant Bleeding Episodes Skyrocket 347% as More Parents Refuse Vitamin K Shot](https://news.google.com/rss/articles/CBMingFBVV95cUxPZEdWNm50blVsbERhdUpTY0FQN21tVTJ5eG5TdmFtZEFQV3I3V2EyZmxLNUFPRF9pZjlhRS1nNVVsbVdtRHczT0xQdmVKQlFrZFFMcUM0X3NudWs3MUxQVlJ6cjRPTE5uTTFEZ3lWbjFmTnZ4S3Q5RDMwUExYRWRTZEE5UlZIUlVqWVNVTmNEMEZqVEdWcDRCVWd5MEc4UQ?oc=5)
+
+2026-11-09
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMingFBVV95cUxPZEdWNm50blVsbERhdUpTY0FQN21tVTJ5eG5TdmFtZEFQV3I3V2EyZmxLNUFPRF9pZjlhRS1nNVVsbVdtRHczT0xQdmVKQlFrZFFMcUM0X3NudWs3MUxQVlJ6cjRPTE5uTTFEZ3lWbjFmTnZ4S3Q5RDMwUExYRWRTZEE5UlZIUlVqWVNVTmNEMEZqVEdWcDRCVWd5MEc4UQ?oc=5)
 
 ---
 

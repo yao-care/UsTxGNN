@@ -3,9 +3,9 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 11 articles, 1 related drugs."
+description: "Health news about cancer. 10 articles, 1 related drugs."
 permalink: /news/cancer/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # cancer News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>11 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>10 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,53 +30,53 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (11)
+## Related News (10)
 
-### [What new prostate cancer recommendations say about who should get blood tests - The Washington Post](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLVdSUTJlUDVicDI5LVVMODd0bTdnWkpsSUtFSzRnNkx3dV9kZ1lvUDQ3UXJCbERURUszWUVPSVpiMm5iY2s4Y1NDczdQYVBYdFZHTGFTQUVEZmZKT1F0MkdMMGR4NXZRcE9iTlo1N0hTdUNpMFlwWk1odmlMdmg1OG9nY0lqejA5cmxTLWNCYXQyUjFVVVhDS2t6dUZlbl81cXA0NE9YZnVibkIzMjdoM292NUFxSnozdEQ2cFNvcTU?oc=5)
-
-2026-11-12
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLVdSUTJlUDVicDI5LVVMODd0bTdnWkpsSUtFSzRnNkx3dV9kZ1lvUDQ3UXJCbERURUszWUVPSVpiMm5iY2s4Y1NDczdQYVBYdFZHTGFTQUVEZmZKT1F0MkdMMGR4NXZRcE9iTlo1N0hTdUNpMFlwWk1odmlMdmg1OG9nY0lqejA5cmxTLWNCYXQyUjFVVVhDS2t6dUZlbl81cXA0NE9YZnVibkIzMjdoM292NUFxSnozdEQ2cFNvcTU?oc=5)
-
----
-
-### [Exposure to certain ‘forever chemicals’ could heighten risk of aggressive breast cancer, NIH says - The Boston Globe](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWRtd3NYQ3oxTXRTbExiNUp3ZFFPQmxxbWN1SEF1SUpoNExOZVNYbHdIYmRPX3JCN2hHcXk1NTlDLVQyNF9mRDBCeF9kWnFyUWdOc3VVZHlzT0NsQlhRaW5Qd3VJbEhSUHRNMXBoTHNTMnFaOFNUdzdhTkhNaVlUdzhuNXc2Z0ljOTJEaTVqQnJiYnJGbVQ0VzVFQjhZcWJzRDZ1N0NQaGZDdw?oc=5)
+### [In reversal, American Cancer Society urges routine prostate cancer screening - Ars Technica](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGc2X2ZZMWhMTUppcFJodEt1Wk9qMTdJMHZMREpzaHdMZy1jY0RBTEhmYTI3VFMxTmk0UnpCSUtNXzkzRjJkXzJxTTF1akVlMDVSc0lQVUNwNHgzaGEwMmJPYUtSeWlvY0VqNWVMVUxKaVhrdzlYUzhMQmwtc0N2REpkM2YzalZ4QTg0Y0pOWDB3OFdKUXh0U3hfd05WV2R3LThQVmJjeUtNMlVId01Fcm1nVTFHUQ?oc=5)
 
 2026-11-12
 
-Source: [The Boston Globe](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWRtd3NYQ3oxTXRTbExiNUp3ZFFPQmxxbWN1SEF1SUpoNExOZVNYbHdIYmRPX3JCN2hHcXk1NTlDLVQyNF9mRDBCeF9kWnFyUWdOc3VVZHlzT0NsQlhRaW5Qd3VJbEhSUHRNMXBoTHNTMnFaOFNUdzdhTkhNaVlUdzhuNXc2Z0ljOTJEaTVqQnJiYnJGbVQ0VzVFQjhZcWJzRDZ1N0NQaGZDdw?oc=5)
+Source: [Ars Technica](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGc2X2ZZMWhMTUppcFJodEt1Wk9qMTdJMHZMREpzaHdMZy1jY0RBTEhmYTI3VFMxTmk0UnpCSUtNXzkzRjJkXzJxTTF1akVlMDVSc0lQVUNwNHgzaGEwMmJPYUtSeWlvY0VqNWVMVUxKaVhrdzlYUzhMQmwtc0N2REpkM2YzalZ4QTg0Y0pOWDB3OFdKUXh0U3hfd05WV2R3LThQVmJjeUtNMlVId01Fcm1nVTFHUQ?oc=5)
 
 ---
 
-### [New computer tool could spare tens of thousands of men from needless prostate cancer treatment - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1pRVlJManMtUDRWZnUybzFRSDgwcW1zNmR1SEYzSVJoSDRDYzJHdHBQZ3F4QlVyODN4UTdRX1dVN2NNUHFZWFliUHRXdnJqcjZCSGtsdldtVzd5Rkd3MldkbXNkYlpGNnphSkRINzA3ejlTRk05dnV0Ty01eGdsOTRxZGRXT0U2T3FqY3dnSGhKaWFJWVM4bDdqVVRVNGdMVC1DNVp1eUxCUQ?oc=5)
+### [Common forever chemicals linked to nearly double the rate of aggressive breast cancer - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFAtRko4VDNtcjMtc1FzN1FBT19vbTlHZGoxYjFacmF5OXBXWmJtZE15emQtMGVoRVM3Z3JJTTZfN3laRXNDRTdVMG5XMW50OGZBTndrRUtEbW15RzVmQTd1OEh3WmZXdUdOZzduV1o0OA?oc=5)
 
 2026-11-12
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1pRVlJManMtUDRWZnUybzFRSDgwcW1zNmR1SEYzSVJoSDRDYzJHdHBQZ3F4QlVyODN4UTdRX1dVN2NNUHFZWFliUHRXdnJqcjZCSGtsdldtVzd5Rkd3MldkbXNkYlpGNnphSkRINzA3ejlTRk05dnV0Ty01eGdsOTRxZGRXT0U2T3FqY3dnSGhKaWFJWVM4bDdqVVRVNGdMVC1DNVp1eUxCUQ?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFAtRko4VDNtcjMtc1FzN1FBT19vbTlHZGoxYjFacmF5OXBXWmJtZE15emQtMGVoRVM3Z3JJTTZfN3laRXNDRTdVMG5XMW50OGZBTndrRUtEbW15RzVmQTd1OEh3WmZXdUdOZzduV1o0OA?oc=5)
 
 ---
 
-### [Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmd0xfSDVzcU1HNk5SOG9BVmk3TTdreWpCNzh5b2U1WTVfWHpTQms3bV9BOHEzM1ZzU2VIc0xnNmhTRHJwQWxORk1xWUdkaXl3SHV2OURmcGNld2pvTXdJ?oc=5)
+### [Lung scans save lives: Denver man's early screening underscores dire need for more testing](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSm8wNjJsZGludzg5V2Z6WVBZVVZ4ZmtpTGVqNS1VbmdlRFhUWEhEZ25YQWxTeDM1NVVUVEUzOHVMWm53UTk3bmxHLUJ2akNLZlBxVlJibGxrT2xlNk0xSWlRdFYxdjV2WTd0Y3RnSDVoSXdiXzZJbGNNc0RHUzVwN1Bfel96NDZQbGZ6b2JUcl9EaTRiZ3ZrUUJOWE5FaHRlZmZPRzhxXzFmekRTRVEydnpJal9IWWp5ZHpDQ1dCa0RXLUNpNzVIRmttRWFuekRYY0NoWEEzVFc3dmRmTURpbVF5WU0taEFhcHZISXpwVzFSRXF6MXhIdGxGZW12MzQ?oc=5)
 
-2026-11-11
+2026-11-12
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmd0xfSDVzcU1HNk5SOG9BVmk3TTdreWpCNzh5b2U1WTVfWHpTQms3bV9BOHEzM1ZzU2VIc0xnNmhTRHJwQWxORk1xWUdkaXl3SHV2OURmcGNld2pvTXdJ?oc=5)
-
----
-
-### [Evolutionary dynamics in the years preceding acute myeloid leukaemia](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FMTdnbDhmS19TdUNXMThNWmMwb3JrOWZtVDJNaTVVV1VyOHJza1VWckxIaTBpeFpwcUNqeFRycEZSTEVnYkF4dE01SnJodmdJUVN3cl9SVzhkVml1X3Mw?oc=5)
-
-2026-11-11
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FMTdnbDhmS19TdUNXMThNWmMwb3JrOWZtVDJNaTVVV1VyOHJza1VWckxIaTBpeFpwcUNqeFRycEZSTEVnYkF4dE01SnJodmdJUVN3cl9SVzhkVml1X3Mw?oc=5)
+Source: [9News](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSm8wNjJsZGludzg5V2Z6WVBZVVZ4ZmtpTGVqNS1VbmdlRFhUWEhEZ25YQWxTeDM1NVVUVEUzOHVMWm53UTk3bmxHLUJ2akNLZlBxVlJibGxrT2xlNk0xSWlRdFYxdjV2WTd0Y3RnSDVoSXdiXzZJbGNNc0RHUzVwN1Bfel96NDZQbGZ6b2JUcl9EaTRiZ3ZrUUJOWE5FaHRlZmZPRzhxXzFmekRTRVEydnpJal9IWWp5ZHpDQ1dCa0RXLUNpNzVIRmttRWFuekRYY0NoWEEzVFc3dmRmTURpbVF5WU0taEFhcHZISXpwVzFSRXF6MXhIdGxGZW12MzQ?oc=5)
 
 ---
 
-### [Molecular brace traps two cancer-driving proteins to suppress prostate cancer growth in preclinical tests - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNklJM3NYNHRWdHNvemJwcDhjS3FQOHBUdW1wT09uWnRQV1A2dVl0QU9FS2VvRkFONmFCYzQ0WVNaUEtQZ3pjRjVCY21IUk1UanpUS3A5UHR5Nm9xakxiQmhTOExyOXk5UmtRdktqQlNGQ0NrQ2QyT2xpYTcxbEJXbFQ3YTc5c3NMTE03TA?oc=5)
+### [Domain-alteration chimeras rewire oncogenic complexes in prostate cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GSmEzX1R3QUtDNjM3OGlEUTd1WVFmdllEZS0zNmxoMWFjYVNMaFl5UktXNGZFQ2VJbVhqa1hvR09TaFktZExoVkJqX3dQTW5WUHBwbDltbVVMZi04ZUs0?oc=5)
 
 2026-11-11
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNklJM3NYNHRWdHNvemJwcDhjS3FQOHBUdW1wT09uWnRQV1A2dVl0QU9FS2VvRkFONmFCYzQ0WVNaUEtQZ3pjRjVCY21IUk1UanpUS3A5UHR5Nm9xakxiQmhTOExyOXk5UmtRdktqQlNGQ0NrQ2QyT2xpYTcxbEJXbFQ3YTc5c3NMTE03TA?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GSmEzX1R3QUtDNjM3OGlEUTd1WVFmdllEZS0zNmxoMWFjYVNMaFl5UktXNGZFQ2VJbVhqa1hvR09TaFktZExoVkJqX3dQTW5WUHBwbDltbVVMZi04ZUs0?oc=5)
+
+---
+
+### [How 'Heightmaxxing' Is Pushing Teen Boys to Take a Risky Cancer Drug - Yahoo Health](https://news.google.com/rss/articles/CBMipwFBVV95cUxQclh3RlZUR1lqZzl1NGdHSHFaaGhaamxCQzY2V3otbnpVMDlsVldxVUsyMk1KbGFaZm0yQVJZU2hUX3R1UWVZNm1PZW5HeC1USU8yODlCRGNIM3h1Y0dQbGdYQVd5RFdOMjZBdHAxWS1id3h5RXk0MDFUbk93T3lqV2dqR3BpRC10aTVhdFd1UG9ja2dpRDFyb21BaVpSWUxtM0ViVk9VTQ?oc=5)
+
+2026-11-11
+
+Source: [Yahoo Health](https://news.google.com/rss/articles/CBMipwFBVV95cUxQclh3RlZUR1lqZzl1NGdHSHFaaGhaamxCQzY2V3otbnpVMDlsVldxVUsyMk1KbGFaZm0yQVJZU2hUX3R1UWVZNm1PZW5HeC1USU8yODlCRGNIM3h1Y0dQbGdYQVd5RFdOMjZBdHAxWS1id3h5RXk0MDFUbk93T3lqV2dqR3BpRC10aTVhdFd1UG9ja2dpRDFyb21BaVpSWUxtM0ViVk9VTQ?oc=5)
+
+---
+
+### [Israeli blood test detects early breast cancer with 95% accuracy - The Times of Israel](https://news.google.com/rss/articles/CBMimgFBVV95cUxORXlYTXBmcmxQdjdsX1RRamlHU2hadUMtRlkwSGphWC03NGwybF9GVXFuUlZ4WG1tNml1WS01XzF3NjlFLTJaWjZJTms5aWJZbjJTQWRobmU2UV94TUZyTUF6aFBmekRtcXdXZXUwWmYwcWgxWlBQSVplRTJNWmpjR24zdTF5Z0Zuc1JIUEZwUU91bHFuTERSLWZ30gGfAUFVX3lxTE5Gamo3QXhZRnl2SlBYVmE1UFRIdFY4bnZpRENQR2ZPT2V4MjZJT2VEN2NaVG1SQVEtZFpOTmdvNUFoTU8xaWdzN2RBYlR4VVBiQVFZc0NmLXhEdzVKdHIyLU5Zc1ZLVW9uMGJtR3BTY2Q1NDZ3bTY5dDlXM3djc1E3dEVLakpiV3AxNEhjdmdrZ3J4cnVmbDNMRi0tZktacw?oc=5)
+
+2026-11-11
+
+Source: [The Times of Israel](https://news.google.com/rss/articles/CBMimgFBVV95cUxORXlYTXBmcmxQdjdsX1RRamlHU2hadUMtRlkwSGphWC03NGwybF9GVXFuUlZ4WG1tNml1WS01XzF3NjlFLTJaWjZJTms5aWJZbjJTQWRobmU2UV94TUZyTUF6aFBmekRtcXdXZXUwWmYwcWgxWlBQSVplRTJNWmpjR24zdTF5Z0Zuc1JIUEZwUU91bHFuTERSLWZ30gGfAUFVX3lxTE5Gamo3QXhZRnl2SlBYVmE1UFRIdFY4bnZpRENQR2ZPT2V4MjZJT2VEN2NaVG1SQVEtZFpOTmdvNUFoTU8xaWdzN2RBYlR4VVBiQVFZc0NmLXhEdzVKdHIyLU5Zc1ZLVW9uMGJtR3BTY2Q1NDZ3bTY5dDlXM3djc1E3dEVLakpiV3AxNEhjdmdrZ3J4cnVmbDNMRi0tZktacw?oc=5)
 
 ---
 
@@ -101,14 +101,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFlD
 2026-11-11
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQi1MVFVnbWtrZzhpUndkVWNSOElxT1k5QkYzdHVDdE1jeDNxMzM3YWg4enRfNDc5OW81LTVEM1V4NTB2N3JXWTdtb0g4c0o5eGxyT09KOWY5bVR1UXdWWkNQZ2lQZzZpZjJEM2djLW4teG5KNDZJRkN1MnJTSDJKWHk2WC1uMHVPVnZreGlNcEFyOGJvdXFhUVJWazRwTXpUUExNeVFVQ1RETGV4Ykx3UUJYLWg?oc=5)
-
----
-
-### [Viral ‘heightmaxxing’ trend has teen boys taking cancer drugs to grow taller despite doctors' warnings - New York Post](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQUFHODBvSThYY1BYTUtzY3cxY0pLcE1tbEoxdHdPUm9JQllPM0VGWUZ3cUlOY2d1amZLVWdSNlozRzdUSXd6a0JTZC1nYlFfZW9QN1FiMXRudmRkUndlcF9LNlZKTkFrSXBETUpFM1A1YVhxX2c1ZllPLW5EblFzUGowYm5fYTVSTnA4eDdEY19FTV9YN2xYVmI1R0pjWWtDdWEtUVpRVXdoMVFuWktUdTFFTjNKUW9DUlNuVU52NWFqVzZrTmNzejN3akN2NDBkaTVr?oc=5)
-
-2026-11-10
-
-Source: [New York Post](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQUFHODBvSThYY1BYTUtzY3cxY0pLcE1tbEoxdHdPUm9JQllPM0VGWUZ3cUlOY2d1amZLVWdSNlozRzdUSXd6a0JTZC1nYlFfZW9QN1FiMXRudmRkUndlcF9LNlZKTkFrSXBETUpFM1A1YVhxX2c1ZllPLW5EblFzUGowYm5fYTVSTnA4eDdEY19FTV9YN2xYVmI1R0pjWWtDdWEtUVpRVXdoMVFuWktUdTFFTjNKUW9DUlNuVU52NWFqVzZrTmNzejN3akN2NDBkaTVr?oc=5)
 
 ---
 

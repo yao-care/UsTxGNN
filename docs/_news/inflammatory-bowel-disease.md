@@ -3,9 +3,9 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 14 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 13 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # UC (inflammatory bowel disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>14 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>13 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (14)
+## Related News (13)
 
 ### [RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0QzJKWnp0WFVTVEpkOGV1TkgzNGtaT0ZEUUplYjlCUFJSa0owOXBzX0pJcEhwY3N5RTh4ZEIyTWc0Y1lSZ1NocFVKNC1Dd1dldkN6eHJIb083eFBKR0xZ?oc=5)
 
@@ -53,14 +53,6 @@ Source: [Space](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3N1QTVmUWk
 
 ---
 
-### [Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmd0xfSDVzcU1HNk5SOG9BVmk3TTdreWpCNzh5b2U1WTVfWHpTQms3bV9BOHEzM1ZzU2VIc0xnNmhTRHJwQWxORk1xWUdkaXl3SHV2OURmcGNld2pvTXdJ?oc=5)
-
-2026-11-11
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmd0xfSDVzcU1HNk5SOG9BVmk3TTdreWpCNzh5b2U1WTVfWHpTQms3bV9BOHEzM1ZzU2VIc0xnNmhTRHJwQWxORk1xWUdkaXl3SHV2OURmcGNld2pvTXdJ?oc=5)
-
----
-
 ### [Transient nuclear softening for zygotic gene activation in mice](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YT05fdW1JWXVUbTd3V29wWGRDSkd4Z1JfbTkzZDFYYlB3RXBBYXVNaVhNLTZWakI4bVdwZ3FsV3kzQl9sUjRfOVhURUEzMURLRllCZEJneWxVak1PUHpR?oc=5)
 
 2026-11-11
@@ -69,11 +61,11 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YT05fdW1JWX
 
 ---
 
-### [Deep-sea mollusk houses bacteria in tiny 'dragon balls,' revealing a new symbiotic structure](https://news.google.com/rss/articles/CBMidkFVX3lxTE5OX29xTmNaLTRxdEVqZm1iVkxJTktuc3drQVNuY05XLUZQZllhVG1WOWFUbGJEMlVGeE5nYk0yTE56dVhKeE5oMmVDcE5hdXBuWW92bUpmelNqbVlITk43OGFfeVJRQnNlMWxENmdPWjlSMGV5bnc?oc=5)
+### [How 'Heightmaxxing' Is Pushing Teen Boys to Take a Risky Cancer Drug - Yahoo Health](https://news.google.com/rss/articles/CBMipwFBVV95cUxQclh3RlZUR1lqZzl1NGdHSHFaaGhaamxCQzY2V3otbnpVMDlsVldxVUsyMk1KbGFaZm0yQVJZU2hUX3R1UWVZNm1PZW5HeC1USU8yODlCRGNIM3h1Y0dQbGdYQVd5RFdOMjZBdHAxWS1id3h5RXk0MDFUbk93T3lqV2dqR3BpRC10aTVhdFd1UG9ja2dpRDFyb21BaVpSWUxtM0ViVk9VTQ?oc=5)
 
 2026-11-11
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE5OX29xTmNaLTRxdEVqZm1iVkxJTktuc3drQVNuY05XLUZQZllhVG1WOWFUbGJEMlVGeE5nYk0yTE56dVhKeE5oMmVDcE5hdXBuWW92bUpmelNqbVlITk43OGFfeVJRQnNlMWxENmdPWjlSMGV5bnc?oc=5)
+Source: [Yahoo Health](https://news.google.com/rss/articles/CBMipwFBVV95cUxQclh3RlZUR1lqZzl1NGdHSHFaaGhaamxCQzY2V3otbnpVMDlsVldxVUsyMk1KbGFaZm0yQVJZU2hUX3R1UWVZNm1PZW5HeC1USU8yODlCRGNIM3h1Y0dQbGdYQVd5RFdOMjZBdHAxWS1id3h5RXk0MDFUbk93T3lqV2dqR3BpRC10aTVhdFd1UG9ja2dpRDFyb21BaVpSWUxtM0ViVk9VTQ?oc=5)
 
 ---
 
@@ -93,6 +85,14 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMie0FVX3lxTE1hNW
 
 ---
 
+### [Israeli blood test detects early breast cancer with 95% accuracy - The Times of Israel](https://news.google.com/rss/articles/CBMimgFBVV95cUxORXlYTXBmcmxQdjdsX1RRamlHU2hadUMtRlkwSGphWC03NGwybF9GVXFuUlZ4WG1tNml1WS01XzF3NjlFLTJaWjZJTms5aWJZbjJTQWRobmU2UV94TUZyTUF6aFBmekRtcXdXZXUwWmYwcWgxWlBQSVplRTJNWmpjR24zdTF5Z0Zuc1JIUEZwUU91bHFuTERSLWZ30gGfAUFVX3lxTE5Gamo3QXhZRnl2SlBYVmE1UFRIdFY4bnZpRENQR2ZPT2V4MjZJT2VEN2NaVG1SQVEtZFpOTmdvNUFoTU8xaWdzN2RBYlR4VVBiQVFZc0NmLXhEdzVKdHIyLU5Zc1ZLVW9uMGJtR3BTY2Q1NDZ3bTY5dDlXM3djc1E3dEVLakpiV3AxNEhjdmdrZ3J4cnVmbDNMRi0tZktacw?oc=5)
+
+2026-11-11
+
+Source: [The Times of Israel](https://news.google.com/rss/articles/CBMimgFBVV95cUxORXlYTXBmcmxQdjdsX1RRamlHU2hadUMtRlkwSGphWC03NGwybF9GVXFuUlZ4WG1tNml1WS01XzF3NjlFLTJaWjZJTms5aWJZbjJTQWRobmU2UV94TUZyTUF6aFBmekRtcXdXZXUwWmYwcWgxWlBQSVplRTJNWmpjR24zdTF5Z0Zuc1JIUEZwUU91bHFuTERSLWZ30gGfAUFVX3lxTE5Gamo3QXhZRnl2SlBYVmE1UFRIdFY4bnZpRENQR2ZPT2V4MjZJT2VEN2NaVG1SQVEtZFpOTmdvNUFoTU8xaWdzN2RBYlR4VVBiQVFZc0NmLXhEdzVKdHIyLU5Zc1ZLVW9uMGJtR3BTY2Q1NDZ3bTY5dDlXM3djc1E3dEVLakpiV3AxNEhjdmdrZ3J4cnVmbDNMRi0tZktacw?oc=5)
+
+---
+
 ### [Tattoos Affect Your Immune System in Ways Scientists Are Only Beginning to Understand](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQi1MVFVnbWtrZzhpUndkVWNSOElxT1k5QkYzdHVDdE1jeDNxMzM3YWg4enRfNDc5OW81LTVEM1V4NTB2N3JXWTdtb0g4c0o5eGxyT09KOWY5bVR1UXdWWkNQZ2lQZzZpZjJEM2djLW4teG5KNDZJRkN1MnJTSDJKWHk2WC1uMHVPVnZreGlNcEFyOGJvdXFhUVJWazRwTXpUUExNeVFVQ1RETGV4Ykx3UUJYLWg?oc=5)
 
 2026-11-11
@@ -101,19 +101,19 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQi1M
 
 ---
 
+### [The Best Types of Puzzles to Keep Your Brain Sharp as You Age - Martha Stewart](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEtGNGNWaTRJQ01wMG8tYUQ2cXpOSmVnZmNUVFdFZWpjSEhiTllDQ1NFRmZJSWxKbnROX0pTTDFHc24wY1BRRlFSaGVZbjYxdGEtaWpfRld6WlNTTmVSb1BzQUlXcTZEQ04tOUt5WWowVUhVbnZId2tUNHRqaTVrYmNn?oc=5)
+
+2026-11-11
+
+Source: [Martha Stewart](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEtGNGNWaTRJQ01wMG8tYUQ2cXpOSmVnZmNUVFdFZWpjSEhiTllDQ1NFRmZJSWxKbnROX0pTTDFHc24wY1BRRlFSaGVZbjYxdGEtaWpfRld6WlNTTmVSb1BzQUlXcTZEQ04tOUt5WWowVUhVbnZId2tUNHRqaTVrYmNn?oc=5)
+
+---
+
 ### [Robot builds structure in space for the first time in technological breakthrough - New York Post](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmh5bEZUOUdYd2pWTVBzQk1CY2c1d3J5MWtSQ0gwMzFZV3J6ZzF3NkdsdUd6VlBvam9EMWZZT0dnbDg4eFZkQkk1UjBqNlB4WjcwRlZnMW9YamptbW41UnR0eU9jR3B4amxpVkpLUHhLenRxaXNCRkh2LWszN0lOaTFoU2s5bUhESjlvaGlqYw?oc=5)
 
 2026-11-10
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmh5bEZUOUdYd2pWTVBzQk1CY2c1d3J5MWtSQ0gwMzFZV3J6ZzF3NkdsdUd6VlBvam9EMWZZT0dnbDg4eFZkQkk1UjBqNlB4WjcwRlZnMW9YamptbW41UnR0eU9jR3B4amxpVkpLUHhLenRxaXNCRkh2LWszN0lOaTFoU2s5bUhESjlvaGlqYw?oc=5)
-
----
-
-### [‘Smartphone pinkie’ and other signs you may be using your phone too much](https://news.google.com/rss/articles/CBMidkFVX3lxTFBRbXlwa1BjaEdkNmJTSFN6a01oeTE4WXBmeWJYM251a09MWmtJS0wxOW5XOTBSc0JnaDkxNkVrOGxFSjNCZmpBck94WlpPMmpQWVY3OEZ3akhjMXUwUGRIbGlQMExJZmpXX1AwMVFtMFNNN3VBR0E?oc=5)
-
-2026-11-10
-
-Source: [CNN](https://news.google.com/rss/articles/CBMidkFVX3lxTFBRbXlwa1BjaEdkNmJTSFN6a01oeTE4WXBmeWJYM251a09MWmtJS0wxOW5XOTBSc0JnaDkxNkVrOGxFSjNCZmpBck94WlpPMmpQWVY3OEZ3akhjMXUwUGRIbGlQMExJZmpXX1AwMVFtMFNNN3VBR0E?oc=5)
 
 ---
 
@@ -130,14 +130,6 @@ Source: [NPR](https://news.google.com/rss/articles/CBMijgFBVV95cUxNME9XOWJGNk83d
 2026-11-10
 
 Source: [Phys.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFVycHI5TjdFN3Q3WXJYTEtlR0Y0RjkzLWI3cjVDRDM5LWRRX19jODRMNy1reVRsR2s5aDdVSVhCVjBDc2RrOVlWWWhTb1F0TUp0d1VSQ1pVaTFra1ZqempHUnF2amNDUllKTDVHWVFqdnc3d1dlbW9jYVpHY2dFU0RTMGdzcG8?oc=5)
-
----
-
-### [Go For Orbit](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kQzl1R0xIWEFvcTRFWkdmM2dhUVJQUklNQzBiaWFOeUJzdDhDeDcwWFJsdEtLYmZrTzBUc1ZJb2VRczlkdEZaVzU2Qy1RY21VdWFrYTM1TXdXRmJocEFkVFNB?oc=5)
-
-2026-11-06
-
-Source: [SpaceX](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kQzl1R0xIWEFvcTRFWkdmM2dhUVJQUklNQzBiaWFOeUJzdDhDeDcwWFJsdEtLYmZrTzBUc1ZJb2VRczlkdEZaVzU2Qy1RY21VdWFrYTM1TXdXRmJocEFkVFNB?oc=5)
 
 ---
 

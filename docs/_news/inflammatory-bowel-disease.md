@@ -3,9 +3,9 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 14 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 10 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # UC (inflammatory bowel disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>14 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>10 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,29 +35,13 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (14)
-
-### [She gets 16 pelvic exams a day – so yours don’t hurt - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPTE93ZzlWWnVha2xacV9iaVppWmhoTTk2dEFEbEpaUHdpVUJyRWNvcDJ5M3Z3ZXFxMTNtR3FVMl9vR0Z5UmpsRHlMa3RiUkRBTmxUUWV0Tl83WVBSUjVsRUEyOFhkREtXM3JpUFE1aXl1OS1EY0pWbHpvTVFzY1lKc3NOem0tSWJjbkU5Mk4zY3BUbC1zejhZYk5INA?oc=5)
-
-2026-11-13
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPTE93ZzlWWnVha2xacV9iaVppWmhoTTk2dEFEbEpaUHdpVUJyRWNvcDJ5M3Z3ZXFxMTNtR3FVMl9vR0Z5UmpsRHlMa3RiUkRBTmxUUWV0Tl83WVBSUjVsRUEyOFhkREtXM3JpUFE1aXl1OS1EY0pWbHpvTVFzY1lKc3NOem0tSWJjbkU5Mk4zY3BUbC1zejhZYk5INA?oc=5)
-
----
+## Related News (10)
 
 ### [Two-drug therapy reduces heart artery plaque more than statins alone - Medical News Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxONF9lNEo4U1hYejRLckI4M2hzZF93aW1DYmtuaHgwRlB1TFZyYmlkQzBGN0NvOENsYlQwenVBRXZPcVBzUkp6WVBNLW5RT3Y3SDhIMFp3WXNCa1kxVkR5R0dNTGlrRVpWOGszMWIwck0yc3V2eVg5UHRlckU0enptVmhmNEtLdEpBN3ZiU1ZYWXZOYmEtR1pLd190bEZwU21lWHNEWFBkakVSLVllVHBOcU1lTFlwVDF2S0pNU3NWY0w1SWJhR2c?oc=5)
 
 2026-11-13
 
 Source: [Medical News Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxONF9lNEo4U1hYejRLckI4M2hzZF93aW1DYmtuaHgwRlB1TFZyYmlkQzBGN0NvOENsYlQwenVBRXZPcVBzUkp6WVBNLW5RT3Y3SDhIMFp3WXNCa1kxVkR5R0dNTGlrRVpWOGszMWIwck0yc3V2eVg5UHRlckU0enptVmhmNEtLdEpBN3ZiU1ZYWXZOYmEtR1pLd190bEZwU21lWHNEWFBkakVSLVllVHBOcU1lTFlwVDF2S0pNU3NWY0w1SWJhR2c?oc=5)
-
----
-
-### [Big Pharma’s race to stop Alzheimer’s before it starts - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnNrUjdPOC1NYXJ5RWpOdHFObEpodzVDb0NYcnl4OVYwV1hMRWhhM1lzalVUWmRHUFVHenBMYTg2M1RjZWE5aWRPZTZSeVhyWFlzNTVnTlJBbkI0TDlPNW1rUGU3a29HZHFaTUpULXU3VEx5VWJ4ZkdSSlZvUzdQSU5VSEE?oc=5)
-
-2026-11-13
-
-Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnNrUjdPOC1NYXJ5RWpOdHFObEpodzVDb0NYcnl4OVYwV1hMRWhhM1lzalVUWmRHUFVHenBMYTg2M1RjZWE5aWRPZTZSeVhyWFlzNTVnTlJBbkI0TDlPNW1rUGU3a29HZHFaTUpULXU3VEx5VWJ4ZkdSSlZvUzdQSU5VSEE?oc=5)
 
 ---
 
@@ -117,14 +101,6 @@ Source: [The Times of Israel](https://news.google.com/rss/articles/CBMimgFBVV95c
 
 ---
 
-### [Ice core records uncover widespread air pollution from early 20th-century copper production](https://news.google.com/rss/articles/CBMidEFVX3lxTFA5VTBTZkJ0cjgzbG84VG54WUVoT0FUMV9aNTM1bWdNa1N4UDJidzhSU1ZFTjcwdXB4VUhGMVN3a09xUjRLSEJOekhlN21xSUdpRF9telhTNm96RDJFbzZzdDUxaHNGMWdzb0JYOW1PYW9zMmNI?oc=5)
-
-2026-11-10
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMidEFVX3lxTFA5VTBTZkJ0cjgzbG84VG54WUVoT0FUMV9aNTM1bWdNa1N4UDJidzhSU1ZFTjcwdXB4VUhGMVN3a09xUjRLSEJOekhlN21xSUdpRF9telhTNm96RDJFbzZzdDUxaHNGMWdzb0JYOW1PYW9zMmNI?oc=5)
-
----
-
 ### [Accidental discovery enables room-temperature recrystallization of molybdenum](https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFVycHI5TjdFN3Q3WXJYTEtlR0Y0RjkzLWI3cjVDRDM5LWRRX19jODRMNy1reVRsR2s5aDdVSVhCVjBDc2RrOVlWWWhTb1F0TUp0d1VSQ1pVaTFra1ZqempHUnF2amNDUllKTDVHWVFqdnc3d1dlbW9jYVpHY2dFU0RTMGdzcG8?oc=5)
 
 2026-11-10
@@ -133,19 +109,11 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFVycHI5
 
 ---
 
-### [NASA's Swift Space Observatory Falls Back To Earth - DOGO News](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeW5NXy04UUZNMnhDX2E0OUZxWVNfMW5xZGRLR3JvX2pyc21NdFlwX1lZbjF6dnc3S0g3aURtSUd2Sl80T2Q4dWZNS3JyeHQ0T3BoRmhGNVFoZ19IRnVzWmtVSXRDd1ZxTU11TVpFUmpGOXoyRUJYQnQyQkNtR0lfdFFvOTQ5elZDYzFkYw?oc=5)
-
-2026-11-09
-
-Source: [DOGO News](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeW5NXy04UUZNMnhDX2E0OUZxWVNfMW5xZGRLR3JvX2pyc21NdFlwX1lZbjF6dnc3S0g3aURtSUd2Sl80T2Q4dWZNS3JyeHQ0T3BoRmhGNVFoZ19IRnVzWmtVSXRDd1ZxTU11TVpFUmpGOXoyRUJYQnQyQkNtR0lfdFFvOTQ5elZDYzFkYw?oc=5)
-
----
-
-### [New drug could be cure for common cause of high blood pressure - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
+### [Pancreatic Cancer Risk May Be Reduced by Eating This Food, According to Dietitians](https://news.google.com/rss/articles/CBMihgFBVV95cUxOaHBNQTlhRURRcmRFVWFvbVFyNUN2YjNGXzZrMG5lUm5uczZsejJqUFoteDdUUnFEQk9RMDFad2ZzZnhsQ1ZEZEpkX2tqRENnZl9PMXdHZ1ZsVVZUblBGWU10WXNYYzlBTmllY3RzVlJ4Q1Y5b1g0T0k0Sldad0RhZlc4SVBxdw?oc=5)
 
 2026-11-08
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMihgFBVV95cUxOaHBNQTlhRURRcmRFVWFvbVFyNUN2YjNGXzZrMG5lUm5uczZsejJqUFoteDdUUnFEQk9RMDFad2ZzZnhsQ1ZEZEpkX2tqRENnZl9PMXdHZ1ZsVVZUblBGWU10WXNYYzlBTmllY3RzVlJ4Q1Y5b1g0T0k0Sldad0RhZlc4SVBxdw?oc=5)
 
 ---
 

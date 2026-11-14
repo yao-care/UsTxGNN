@@ -1,12 +1,133 @@
 {
-  "last_updated": "2026-11-14T05:31:28.793855+00:00",
-  "total_count": 80,
-  "matched_count": 73,
+  "last_updated": "2026-11-14T13:10:34.806845+00:00",
+  "total_count": 76,
+  "matched_count": 67,
   "news": [
+    {
+      "id": "92a41570d84c",
+      "title": "Experts spell out what heart health means for women of all ages",
+      "published": "2026-11-14T11:30:16+00:00",
+      "summary": "Experts spell out what heart health means for women of all ages&nbsp;&nbsp;CNNOpinion | Why women should be talking to cardiologists about their periods&nbsp;&nbsp;The Washington PostFort Wayne executive leads efforts to improve women's heart health&nbsp;&nbsp;www.heart.orgLeading Health Groups Redefine Heart Health for Girls and Women&nbsp;&nbsp;DiscoverNEPAA Multisociety Presidential Advisory Calls for Women-Centric CV Health Model&nbsp;&nbsp;Infectious Disease Advisor",
+      "sources": [
+        {
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWFBPT0dxMW1YZERTcUVvRmhGYW1OZTZERWlrVm43VVp2V0dQTmJPVTdGSzZLMEoweVA3UTQwNHNKb3dNclpPVmI2aUFnWWN6QW9WaW9KdzNLeEhCR216M0NveDVmOGNXNFd6NXZNOTJoN2pXTHJyd0I2QVVFd3BycWM3Nmo2VTA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "94019d012084",
+      "title": "Woman Spent Years Believing She Had Multiple Sclerosis Due to a Misdiagnosis. She Actually Had a Rare Autoimmune Disorder",
+      "published": "2026-11-14T10:00:00+00:00",
+      "summary": "Woman Spent Years Believing She Had Multiple Sclerosis Due to a Misdiagnosis. She Actually Had a Rare Autoimmune Disorder&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1U5ZTJ2SDNRLTI4Ull2RlB1VzhMNlVpaUsyQjBILS0xaXRVU1RPVExOa255SWRXUXVwNllpTnF1TFBjVzc0Um8wR0ZiejVRMS1NVXFTaXdON2ZacEJ1Vi1PZXZIcjNodXJzUEdCTnpIZTJJWU9FYlNzUld5MUw1MmFsQmlZTG1PXzdWSUdCbHZTUGlX?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "027b019a23e5",
       "title": "New York's first case of of chronic wasting disease in 21 years detected in Livingston Co.",
-      "published": "2026-11-14T05:03:45+00:00",
+      "published": "2026-11-14T08:04:47+00:00",
       "summary": "New York's first case of of chronic wasting disease in 21 years detected in Livingston Co.&nbsp;&nbsp;13WHAM-TVChronic wasting disease detected in upstate New York deer population&nbsp;&nbsp;Spectrum NewsChronic wasting disease found in wild New York deer for first time in decades&nbsp;&nbsp;VTDiggerCWD digest: Detections in New York, Wisconsin trigger control measures; high proportion of Wyoming herds infected&nbsp;&nbsp;CIDRAPDEC adds new requirements after chronic wasting disease found in Liv",
       "sources": [
         {
@@ -124,261 +245,14 @@
       ]
     },
     {
-      "id": "038e85f44e6a",
-      "title": "After 26 years, the US has lost its measles elimination status",
-      "published": "2026-11-14T01:22:00+00:00",
-      "summary": "After 26 years, the US has lost its measles elimination status&nbsp;&nbsp;CNNThe US and Mexico are on the verge of forfeiting a major health victory. Here’s what to know&nbsp;&nbsp;AP NewsMeasles cases nationwide top 5,400 as deaths rise to 10&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosUS loses measles-free status after continued spread of the disease, WSJ reports&nbsp;&nbsp;ReutersExclusive | U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands&nbsp;&nb",
+      "id": "cb0ab049f9cc",
+      "title": "Israeli scientists use common drugs to cure 30% of mice with ‘Type 1.5 diabetes’ - The Times of Israel",
+      "published": "2026-11-14T05:58:07+00:00",
+      "summary": "Israeli scientists use common drugs to cure 30% of mice with ‘Type 1.5 diabetes’&nbsp;&nbsp;The Times of Israel",
       "sources": [
         {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWSzVyZHgxOG16NGU3a2o1NUpOMVhsVnV0LXh3aWJFZ3ZQN0dwVW03aGRWMjFEYW05OHFMLXczRmlEc2MwMlRSUWJ2UENrYm81bTFqV1JPSS1uRWVURW5zc0dKYWNhWjJxTk91czNsOUFmRzZubnc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "MI",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan",
-              "url": "/drugs/lasmiditan/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib",
-              "url": "/drugs/selpercatinib/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "391f8a3cf431",
-      "title": "NJ warns of potential measles exposures at Morris County Walgreens, LegionsCon - ABC7 New York",
-      "published": "2026-11-14T00:33:00+00:00",
-      "summary": "NJ warns of potential measles exposures at Morris County Walgreens, LegionsCon&nbsp;&nbsp;ABC7 New YorkNJ Health Department Alerts Residents of New Potential Measles Exposures from a Non-NJ Resident Who Visited NJ While Infectious&nbsp;&nbsp;NJ.govMeasles Exposure Alert Issued For Multiple Nj Sites Heres What You Need To Know&nbsp;&nbsp;News12 | New JerseyNew Jersey urges vaccination after potential measles exposures&nbsp;&nbsp;NBC10 PhiladelphiaPotential Measles Exposure Reported In Morris Coun",
-      "sources": [
-        {
-          "name": "ABC7 New York",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzY2NTEtelBjX3lXUG5hWENZOEhTR0hKUTQzVlNoUER0cF9vcXd0Y3dDRDNnNXVvSFdjWC1iWmdhRXFTdG9TMnQyb2h3bTdVVkJJc1FTNzdoVDEzR0ZPVHBxRmo5QlJKSDRMdVpyRXlsUm1CWGhFTmc5SWExY05IS29qdW5UZkt2OENZcVNUN3JmNVhWRURUVEtVc3JPY1R5NlcwcGktZUrSAa4BQVVfeXFMUEp1YXJ2ZXRZVFNkQlpKdmdsbXNpVlJJb2liQ2ZSNU1SRklCVU1zRmx0NEFIbG9Hc3pNWWVXTWNTQWFZcGtjY0N0V1JUMV9nNGNwME5OSjlxYzlxMjdjSzRvMTk2X2RSRDZ4VFpDMDJpLWVTSktCM1c5VnhrNkxVQjBGbjIwQmxMNjY3NWdtTXg2OGdjeHlTclFSbTFPb00tNkVUV3k2bS1PMlRONTJ3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5c7678509c0b",
-      "title": "U.S. measles deaths rise to 10 after new reports in Pennsylvania and Wisconsin - NBC News",
-      "published": "2026-11-13T22:33:13+00:00",
-      "summary": "U.S. measles deaths rise to 10 after new reports in Pennsylvania and Wisconsin&nbsp;&nbsp;NBC NewsMeasles-associated deaths reach 10 in US after two more deaths reported&nbsp;&nbsp;Al Jazeera7th measles death confirmed by Pennsylvania health officials&nbsp;&nbsp;6abc Philadelphia7th person in Pennsylvania dies from measles, officials say&nbsp;&nbsp;Pittsburgh Post-GazettePennsylvania DOH confirms 7th measles-associated death in the state&nbsp;&nbsp;WGAL",
-      "sources": [
-        {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUdwU1RuZkZPN0FwWXJYZ1FQNktMSDlCN2c5cXUxQ0pDLVJabXBzTWZUXzQ3cHE1SlBsZlBSNHVQeUVDdi1WQVowUUpoUGFYXzlrT2wwWmtFWGhXbGJsNnE1eWEwV0kyN3FIVkl0amRpeTRPeE1adjlNZWM0anYyQWVoT3NBcVg1a0JvZ1pKZ3ZVWEc5MEM2WHNCWWxHcDlLLVBFOGpBMmVSal9IRFdLb3pZbGU?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "402bacb40627",
-      "title": "Severe allergic reaction after sipping energy drink traced to unexpected source - Fox News",
-      "published": "2026-11-13T21:38:56+00:00",
-      "summary": "Severe allergic reaction after sipping energy drink traced to unexpected source&nbsp;&nbsp;Fox NewsTeen Rushed to ER After Energy Drink Triggers Severe Allergic Reaction. A Hidden Ingredient Is to Blame&nbsp;&nbsp;People.comTeen Gets Anaphylaxis From Energy Drink&nbsp;&nbsp;GizmodoTricky Anaphylaxis Triggers, EoE-Asthma Link, Peanut Intro: ACAAI News&nbsp;&nbsp;MedscapeA toy, an energy drink or a hair oil: the unusual places where you can encounter a severe allergic reaction&nbsp;&nbsp;EL PAÍS E",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYzA0X2E0T3h0WW5Uc28yNFl5RWNENHEyTkJtQldXbGNzbWhKdGpleWcxUnN6dGFzeTdveHBtRk9uOHpocUktN19wWnBNMmtoRGZKcnhaNVpELXBucVh1aUFkdFBlNmdYbVpyTVczU0VjT0lhQS1XbmRPNmE5aC0zcHB3aW5BS2hUbDZ1N3hqTVhBSWp4VUQzVTIwbS1seFR1NFYw0gGoAUFVX3lxTE9YeTVlLW9adWY4MG1BMFJUNjNzOVhLLWZ2eHN6U0tDRzg1N3IwSUx2alJQbXZKYTVkeHhxRG9TeTZsTTZGMXdwTVh2a250T1RWWjNlUkhTZEdlQlRKWDkzeEN4X2QtZG45dHJnZG9HOFphclNyc0lSSm1lUFlvRFl1aGVoX1NsRVZ3Q0prY3lvVHJqa1VxT3VfWmRNdV95Q1JZVk9fc2k0Vg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "653301dd5cd8",
-      "title": "Dangerous virus detected in California fish for first time, raising concerns for aquatic wildlife - FOX Weather",
-      "published": "2026-11-13T20:11:00+00:00",
-      "summary": "Dangerous virus detected in California fish for first time, raising concerns for aquatic wildlife&nbsp;&nbsp;FOX WeatherCDFW News | Largemouth Bass Virus Confirmed in California for First Time&nbsp;&nbsp;California Department of Fish and Wildlife (.gov)Aquatic virus confirmed for the first time in California, 220 fish dead in Nevada County lake&nbsp;&nbsp;FOX40Deadly bass virus reaches California, threatening a popular fishery&nbsp;&nbsp;YahooVirus found in California for first time after 220 fi",
-      "sources": [
-        {
-          "name": "FOX Weather",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTTBGU0VRWGpxaHdjaGZtb3FJMW5lN0xUQm15a0t3UWZCS19SZWxoWDc2T3BsWVRDVHc3ZC1Hck5yTG5KcDdENFRsRmsxeUU5TXhWRUIyaWpRYzVnNVAwalV4VFUxZjlfRkE1T2NmcTlYV09lOGlzeVFJbzMtUE9telZmRmpFTTFPRXR0RHVIT3hiWVNONUp4TTd1cFNOZW5fOHNob09kZ9IBrAFBVV95cUxPRm91dlJkRTgxVUxVV2ZRRHVlNXd0OFZrUnlkNzA4RXJVS0dtWDlLWW16dEEyTmp2T3hnMDBKVkwyTkVjR25SVzY4STlyZ2VNb0U5VGRqSEd6Mi0tUE1Ud3ZnN2NQcHhUZFBVOFprZ0duaUJZMC1WWWVmYXRTX2RGd3FaSjM3VEhESVR0b3dmbTZQclQ1UDZkam10c2Z5OERnbTV3UnhOQ2JFc2Ri?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b4e6ae9325b3",
-      "title": "Second child dies from measles in Grant County - Channel 3000",
-      "published": "2026-11-13T20:03:00+00:00",
-      "summary": "Second child dies from measles in Grant County&nbsp;&nbsp;Channel 3000U.S. reports at least 10 measles deaths in 2026&nbsp;&nbsp;The Washington PostWisconsin measles outbreak: Second child death reported&nbsp;&nbsp;FOX 9 Minneapolis-St. PaulSecond child dies from measles in Wisconsin as state health officer urges vaccination&nbsp;&nbsp;CBS NewsSecond child dies from measles in Wisconsin as cases reach 649 statewide&nbsp;&nbsp;WLUK",
-      "sources": [
-        {
-          "name": "Channel 3000",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRGNqOHc2ODV5Rm93d3R1Y1RwUTFKckNlYkoyT0dhenloMmZ1a1dWRG5HWEhlYUZZUkNXeTM4Rm9hdzVsN0d6Y2RseGhIZWdYOHlkMjhoT21rNUl1UFhhdldOQU5pZ3c2YU5BRm9vdVVGdEZzRE5LLWhtVWZlaVBkb2J3ZExDZFlxdHRjZHpER19lemN6V1ByekZySmdKY0d4NmR4Z19qZkVVS1NxTWt3VHhYdGwxa0FuYjJ2MlpnT2JuRHJQUWQ1bw?oc=5"
+          "name": "The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2ZqWW52V0I4ZEFFb1ItTzNNOGhJVFNkaW8zWmdla0FtNGxUUGJtUHo4eDFLVVlIWUJZbVlfczJwMlo3eUpOWV80YWstUWtOaTFzelQ4Z0NXaFBmR1dfOGZ6SzdSc3Q3WEFhWUl6YU9pM0JncHhJWjhWX2lUY0stQ0ROaUJNanJ4NTVvM3VWS2Z0ZGtDTkh4ZlZ6clNJMl9EakJKeUx3MWNobUFR0gGyAUFVX3lxTE5tVzZyU1NfVFN1NEhfSGlwbVlFN0xMOGJFX29lbmNNVHdhdUh1NGItN3huc3Y4Ylhsc09TN2tLVm1VU184UHJaU3E3WmwtUThqVm1ucWc0ei1fOWk5ZWpvR25mRDlkLV9Mbm1SVGNPMjRvbmZMZlpZd3VoNUJ1Q0pBSThON3BqZVg5ZzBWZVNfblhkbzllZHRWanpqNkd4SHNNUVFqS0pqRUY5U0FCMTdlcVE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -479,14 +353,14 @@
       ]
     },
     {
-      "id": "73aee9674804",
-      "title": "E. coli outbreak linked to California pumpkin farm leaves 1 dead, officials say no ongoing threat - FOX Weather",
-      "published": "2026-11-13T19:31:00+00:00",
-      "summary": "E. coli outbreak linked to California pumpkin farm leaves 1 dead, officials say no ongoing threat&nbsp;&nbsp;FOX WeatherQuick takes: E coli death tied to pumpkin farm, US Salmonella outbreaks, 18 more polio cases&nbsp;&nbsp;CIDRAPToddler died from dangerous E. coli strain in SLO County. Here’s how rare it is&nbsp;&nbsp;San Luis Obispo TribuneSLO County health officials confirm death of patient in E. coli outbreak&nbsp;&nbsp;KSBY NewsDeath reported from E. coli outbreak tied to California pumpkin",
+      "id": "4d6a89408089",
+      "title": "The US flu season is off to a very early start. It's targeting the South and West now",
+      "published": "2026-11-14T04:21:00+00:00",
+      "summary": "The US flu season is off to a very early start. It's targeting the South and West now&nbsp;&nbsp;KSLThe US flu season is off to a very early start. It’s hitting the South and West now&nbsp;&nbsp;AP NewsUS flu cases edge up as virus claims lives of 2 children&nbsp;&nbsp;CIDRAPSwine flu now making its way through Florida, health officials report&nbsp;&nbsp;WKMGBay Area’s Early Flu Season Could Bring Multiple Waves of Illness This Winter&nbsp;&nbsp;SFist",
       "sources": [
         {
-          "name": "FOX Weather",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjhIZkUwb1A1aGdVcGJQeDA5WEJySHBOczBhWEs5UXdzX1pVcWRkLVRmeklxbl9pQTh6MENLUFF2X0taeG9vd0FVMU1xakM1N1plTV9RZS0xM3kzMklkaV9jdC1US1FNVEJ3dms0SWIzX29tekVrVHp3R091TzlJNUlRbDRoVWRFUUtJa05tMTJOTDI3MFY2b3lQQi05SGVWalVIejhhRWtEb2pweHF0TEJlOXFud2FfZE5QQjhIdTU4UTjSAcgBQVVfeXFMUG5ud25YTFVCS0RWb3BuS3pHVGFlMHF2bXlrMHFHTllqbVBUNkhjMnhjcFdPek5YRmlTRWdCWmFtbzh2eEdDZTNRY28ydjl3cjJkSlhCeEtzTGo5OUNqVXdlY3JtMGkwaENRZFZlYTl0djhKNXRZV1BBcHMyUl9xSHRsQ2NSTUlfRUc1dUQ2TDZPQmY1Vl9rUUpaQkNyZTBjVHhlcUk0ZlZCZ0pZYTFtekxqWG1XYTRlMDdFMEVaeWtvdHkwUlRDWkk?oc=5"
+          "name": "KSL",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUmVwZkcwdEZLaGhvVksxTlFrNnR4MlRkRjJtMTN6ckRjOHl2ZWM2R0dPdDhGMERLb2RtajNpZGx3SUlSbHloYWVmVV80SGtMWG1meC11WnF4azJsWlFrX3hXVHpGd2ZaYWc2b1lYbU1lV1pFQTlUeENmNlFTb3lFVWVJNEZFYlpPbnRISDRBU3dXcmd4VlJRdG0wRkc3dl9GbXVaMmlKOGN2Qy1kLXRKeC1MejBFVXNILUNaVDIzbHhNeGZXdGZr?oc=5"
         }
       ],
       "matched_keywords": [
@@ -531,18 +405,35 @@
               "url": "/drugs/insulin-human/"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "flu",
+          "related_drugs": [
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            }
+          ]
         }
       ]
     },
     {
-      "id": "2ff2102ea295",
-      "title": "Widely used diabetes drug may offer unexpected health benefit - Fox News",
-      "published": "2026-11-13T19:19:36+00:00",
-      "summary": "Widely used diabetes drug may offer unexpected health benefit&nbsp;&nbsp;Fox NewsMetformin linked to lower one-year mortality after COVID-19&nbsp;&nbsp;Mezha.netCould a common diabetes drug help prevent long COVID?&nbsp;&nbsp;News-Medical",
+      "id": "a6149cbc2503",
+      "title": "Preliminary study finds a clue in the quest to help diagnose CTE in the living - AP News",
+      "published": "2026-11-14T04:00:00+00:00",
+      "summary": "Preliminary study finds a clue in the quest to help diagnose CTE in the living&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmJncFlQanJvWlJTTHlLcWRRMkF5WU85NlVvLWotdVQzVVFJS21Ib05fUm9Jc2labFVjWVRtbU41RjhSSDhtZUVIMGJvNU52WWg5SERxZU9tRHpzSkd1QndLdERjS19hM2JlbUpuUEFWODRteXpMSzlyaTJ1UUc1Y3QxSlBaZ2FnclVIOHQwbF94WWxrWXVV0gGcAUFVX3lxTE1tMHlGSTZjT3ROaUx5UGIybUIyU2ZtTUhoWUd5eGdVeWE5elM5UFAwMjNpbzBuTS1zdG9LNTB0NEhzY2dVTDVGeU0zZFRmSThBVTNZSFRhQVZsVjlhYVRNYXRRdkVUMVZ4UzJMUEpEUkJobGVTUWRQSnFwNzZGQmk5V1JLNmdPYkdVRWQ3Z3NaVm9OMEhOMFZPNmNEbg?oc=5"
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3M5V3VnbnhJOVFkV1pYS2d0TFJfZVFBOXlKX0pyVW5EdWtsdjIzT19wLXl5bnIzamdzempPVDV5aVFGdjRycDViR2JkLUE5LUFRdG9lSHhxNHRIelB1RFJrQ2JJRkhqdms5SV9vTUZ4bHl3Y3R2VkpVcE5kWFl2NXVFTkZDMmFqWU80X2ZIZ3FBdm9kazVMajNuSVJUUQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -599,6 +490,423 @@
           ]
         }
       ]
+    },
+    {
+      "id": "391f8a3cf431",
+      "title": "NJ warns of potential measles exposures at Morris County Walgreens, LegionsCon - ABC7 New York",
+      "published": "2026-11-14T00:33:00+00:00",
+      "summary": "NJ warns of potential measles exposures at Morris County Walgreens, LegionsCon&nbsp;&nbsp;ABC7 New YorkNJ Health Department Alerts Residents of New Potential Measles Exposures from a Non-NJ Resident Who Visited NJ While Infectious&nbsp;&nbsp;NJ.govMeasles Exposure Alert Issued For Multiple Nj Sites Heres What You Need To Know&nbsp;&nbsp;News12 | New JerseyNew Jersey urges vaccination after potential measles exposures&nbsp;&nbsp;NBC10 PhiladelphiaPotential Measles Exposure Reported In Morris Coun",
+      "sources": [
+        {
+          "name": "ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzY2NTEtelBjX3lXUG5hWENZOEhTR0hKUTQzVlNoUER0cF9vcXd0Y3dDRDNnNXVvSFdjWC1iWmdhRXFTdG9TMnQyb2h3bTdVVkJJc1FTNzdoVDEzR0ZPVHBxRmo5QlJKSDRMdVpyRXlsUm1CWGhFTmc5SWExY05IS29qdW5UZkt2OENZcVNUN3JmNVhWRURUVEtVc3JPY1R5NlcwcGktZUrSAa4BQVVfeXFMUEp1YXJ2ZXRZVFNkQlpKdmdsbXNpVlJJb2liQ2ZSNU1SRklCVU1zRmx0NEFIbG9Hc3pNWWVXTWNTQWFZcGtjY0N0V1JUMV9nNGNwME5OSjlxYzlxMjdjSzRvMTk2X2RSRDZ4VFpDMDJpLWVTSktCM1c5VnhrNkxVQjBGbjIwQmxMNjY3NWdtTXg2OGdjeHlTclFSbTFPb00tNkVUV3k2bS1PMlRONTJ3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5c7678509c0b",
+      "title": "U.S. measles deaths rise to 10 after new reports in Pennsylvania and Wisconsin - NBC News",
+      "published": "2026-11-13T22:33:13+00:00",
+      "summary": "U.S. measles deaths rise to 10 after new reports in Pennsylvania and Wisconsin&nbsp;&nbsp;NBC News7th measles death confirmed by Pennsylvania health officials&nbsp;&nbsp;6abc PhiladelphiaHow word of mouth is helping an Amish community's fight against measles&nbsp;&nbsp;NPRPennsylvania, Wisconsin report measles-linked deaths as cases rise&nbsp;&nbsp;ReutersMontour County resident is latest measles-related death in Pa. outbreak, officials say&nbsp;&nbsp;TribLIVE.com",
+      "sources": [
+        {
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUdwU1RuZkZPN0FwWXJYZ1FQNktMSDlCN2c5cXUxQ0pDLVJabXBzTWZUXzQ3cHE1SlBsZlBSNHVQeUVDdi1WQVowUUpoUGFYXzlrT2wwWmtFWGhXbGJsNnE1eWEwV0kyN3FIVkl0amRpeTRPeE1adjlNZWM0anYyQWVoT3NBcVg1a0JvZ1pKZ3ZVWEc5MEM2WHNCWWxHcDlLLVBFOGpBMmVSal9IRFdLb3pZbGU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "534baddeb7d9",
+      "title": "Common ADHD classroom accommodations may not help students succeed, study finds",
+      "published": "2026-11-13T21:20:02+00:00",
+      "summary": "Common ADHD classroom accommodations may not help students succeed, study finds&nbsp;&nbsp;Phys.orgModified interventions will help students with ADHD more than current programs, FIU study finds&nbsp;&nbsp;WSVNStudy finds ADHD special accommodations don’t improve student behavior or learning&nbsp;&nbsp;Washington TimesClassroom adjustments for ADHD may not be effective – Expert Reaction&nbsp;&nbsp;Science Media CentreCommon ADHD classroom accommodations don't improve student performance, FIU stu",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM3gzTGlTZWNWdjZzNkMyT0JIbjFlc2F2cmxlbkI2RFd0QTM4VGtvSXI4SElRZHVBbjZKekx0NE52dkE3Uld4V2FWSUNLd2p4Q3Q2YXRtRGJfZmFDY1kwdGNDbXJjZ0NxV21Bc2NUUC13elRIRXhhVjV0ZnRHYmtRVjduNFRaM1k?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "inflammatory bowel disease",
+          "keyword": "UC",
+          "related_drugs": [
+            {
+              "slug": "rutin",
+              "name": "Rutin",
+              "url": "/drugs/rutin/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1f10f6ef81d6",
+      "title": "Florida dengue outbreak grows by 100 cases in one week, surges to 624 - Sarasota Herald",
+      "published": "2026-11-13T20:46:00+00:00",
+      "summary": "Florida dengue outbreak grows by 100 cases in one week, surges to 624&nbsp;&nbsp;Sarasota Herald-TribuneHer Death From Dengue May Signal That the Disease Is Here to Stay&nbsp;&nbsp;The New York TimesPinellas County surpasses 100 Dengue fever cases; Florida total over 600&nbsp;&nbsp;WFLADengue response continues as scientists work to avoid endemic&nbsp;&nbsp;Bay News 9Florida Is Facing Its Worst Dengue Outbreak in Decades, With at Least 524 Locally Acquired Cases. Here's What to Know&nbsp;&nbsp;S",
+      "sources": [
+        {
+          "name": "Sarasota Herald-Tribune",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGc3OGdiMkdLaEtXSlR1aGlwYkU2RThVRkdkTDlMb290eG1LbGZONnlMdy1vSHNIRy1DQTVGQkdzTWlJWmRJUWt2NGtyQ0RlTy1veU56MXFuNFowZktzVVp4SGtYcTVOMWl2dWo5ZlFXMWV6SzhjamxSWVpwUTBqSmNBV3dWUU83SWtkMW12UzdfYTA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart disease",
+          "keyword": "CAD",
+          "related_drugs": [
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "653301dd5cd8",
+      "title": "Dangerous virus detected in California fish for first time, raising concerns for aquatic wildlife - FOX Weather",
+      "published": "2026-11-13T20:11:00+00:00",
+      "summary": "Dangerous virus detected in California fish for first time, raising concerns for aquatic wildlife&nbsp;&nbsp;FOX WeatherAquatic virus confirmed for the first time in California, 220 fish dead in Nevada County lake&nbsp;&nbsp;FOX40CDFW News | Largemouth Bass Virus Confirmed in California for First Time&nbsp;&nbsp;California Department of Fish and Wildlife (.gov)Deadly bass virus reaches California, threatening a popular fishery&nbsp;&nbsp;Los Angeles TimesVirus found in California for first time ",
+      "sources": [
+        {
+          "name": "FOX Weather",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTTBGU0VRWGpxaHdjaGZtb3FJMW5lN0xUQm15a0t3UWZCS19SZWxoWDc2T3BsWVRDVHc3ZC1Hck5yTG5KcDdENFRsRmsxeUU5TXhWRUIyaWpRYzVnNVAwalV4VFUxZjlfRkE1T2NmcTlYV09lOGlzeVFJbzMtUE9telZmRmpFTTFPRXR0RHVIT3hiWVNONUp4TTd1cFNOZW5fOHNob09kZ9IBrAFBVV95cUxPRm91dlJkRTgxVUxVV2ZRRHVlNXd0OFZrUnlkNzA4RXJVS0dtWDlLWW16dEEyTmp2T3hnMDBKVkwyTkVjR25SVzY4STlyZ2VNb0U5VGRqSEd6Mi0tUE1Ud3ZnN2NQcHhUZFBVOFprZ0duaUJZMC1WWWVmYXRTX2RGd3FaSjM3VEhESVR0b3dmbTZQclQ1UDZkam10c2Z5OERnbTV3UnhOQ2JFc2Ri?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b4e6ae9325b3",
+      "title": "Second child dies from measles in Grant County - Channel 3000",
+      "published": "2026-11-13T20:03:00+00:00",
+      "summary": "Second child dies from measles in Grant County&nbsp;&nbsp;Channel 3000U.S. reports at least 10 measles deaths in 2026&nbsp;&nbsp;The Washington PostSecond child dies from measles in Wisconsin as state health officer urges vaccination&nbsp;&nbsp;CBS NewsWisconsin reports second child death linked to measles outbreak&nbsp;&nbsp;Reuters2 more people die of measles complications as US cases top 5,400&nbsp;&nbsp;CIDRAP",
+      "sources": [
+        {
+          "name": "Channel 3000",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRGNqOHc2ODV5Rm93d3R1Y1RwUTFKckNlYkoyT0dhenloMmZ1a1dWRG5HWEhlYUZZUkNXeTM4Rm9hdzVsN0d6Y2RseGhIZWdYOHlkMjhoT21rNUl1UFhhdldOQU5pZ3c2YU5BRm9vdVVGdEZzRE5LLWhtVWZlaVBkb2J3ZExDZFlxdHRjZHpER19lemN6V1ByekZySmdKY0d4NmR4Z19qZkVVS1NxTWt3VHhYdGwxa0FuYjJ2MlpnT2JuRHJQUWQ1bw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2ff2102ea295",
+      "title": "Widely used diabetes drug may offer unexpected health benefit - Fox News",
+      "published": "2026-11-13T19:19:36+00:00",
+      "summary": "Widely used diabetes drug may offer unexpected health benefit&nbsp;&nbsp;Fox NewsSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmJncFlQanJvWlJTTHlLcWRRMkF5WU85NlVvLWotdVQzVVFJS21Ib05fUm9Jc2labFVjWVRtbU41RjhSSDhtZUVIMGJvNU52WWg5SERxZU9tRHpzSkd1QndLdERjS19hM2JlbUpuUEFWODRteXpMSzlyaTJ1UUc1Y3QxSlBaZ2FnclVIOHQwbF94WWxrWXVV0gGcAUFVX3lxTE1tMHlGSTZjT3ROaUx5UGIybUIyU2ZtTUhoWUd5eGdVeWE5elM5UFAwMjNpbzBuTS1zdG9LNTB0NEhzY2dVTDVGeU0zZFRmSThBVTNZSFRhQVZsVjlhYVRNYXRRdkVUMVZ4UzJMUEpEUkJobGVTUWRQSnFwNzZGQmk5V1JLNmdPYkdVRWQ3Z3NaVm9OMEhOMFZPNmNEbg?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "b2914c934619",
@@ -749,10 +1057,66 @@
       ]
     },
     {
+      "id": "544e076f52dc",
+      "title": "18-month-old died in SLO County E. coli outbreak. ‘We are inconsolable,’ grandma says - San Luis Obispo Tribune",
+      "published": "2026-11-13T18:07:00+00:00",
+      "summary": "18-month-old died in SLO County E. coli outbreak. ‘We are inconsolable,’ grandma says&nbsp;&nbsp;San Luis Obispo TribuneQuick takes: E coli death tied to pumpkin farm, US Salmonella outbreaks, 18 more polio cases&nbsp;&nbsp;CIDRAPE. coli outbreak linked to California pumpkin farm leaves 1 dead, officials say no ongoing threat&nbsp;&nbsp;FOX WeatherSLO County health officials confirm death of patient in E. coli outbreak&nbsp;&nbsp;KSBY NewsDeath reported from E. coli outbreak tied to California p",
+      "sources": [
+        {
+          "name": "San Luis Obispo Tribune",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZWWRSdlFQUmduYkRDZVUyU05sQmRKRFdzZWlCX3RCV3duc2Q0Wk9ueXloaG9lOElXNG1WNG0xNDVLRWpqaWc2Y2xvUGgzR3NrXy1CRW12Z1JXTVRhUzF5c0FfOWZ4N1pUQ1VrTm13UQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "dd50ea3c236a",
       "title": "What men need to know after a major update to prostate cancer guidelines",
       "published": "2026-11-13T17:58:31+00:00",
-      "summary": "What men need to know after a major update to prostate cancer guidelines&nbsp;&nbsp;PBSWhat to Know About New Prostate Cancer Screening Recommendations&nbsp;&nbsp;The New York TimesNew ACS Guidelines Take Firmer Stance on PSA Screening&nbsp;&nbsp;MedscapeAmerican Cancer Society updates prostate cancer screening guidelines&nbsp;&nbsp;NPRWhat You Need to Know About the Updated Prostate Cancer Screening Guideline&nbsp;&nbsp;American Cancer Society",
+      "summary": "What men need to know after a major update to prostate cancer guidelines&nbsp;&nbsp;PBSProstate Cancer Screening Now Broadly Recommended, Reversing Past Guidance&nbsp;&nbsp;The New York TimesNew ACS Guidelines Take Firmer Stance on PSA Screening&nbsp;&nbsp;MedscapeAmerican Cancer Society updates prostate cancer screening guidelines&nbsp;&nbsp;NPRNew prostate cancer screening guidelines include testing for most middle-aged men&nbsp;&nbsp;NBC News",
       "sources": [
         {
           "name": "PBS",
@@ -771,6 +1135,100 @@
               "url": "/drugs/ramucirumab/"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "OA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
         }
       ]
     },
@@ -778,7 +1236,7 @@
       "id": "1773e9106eb0",
       "title": "Scientists Figured Out Why We Feel Colder as We Age—and It’s Not What You Think",
       "published": "2026-11-13T17:05:35+00:00",
-      "summary": "Scientists Figured Out Why We Feel Colder as We Age—and It’s Not What You Think&nbsp;&nbsp;GizmodoBistable regulation of adipocyte heterogeneity governs thermogenesis&nbsp;&nbsp;NatureToo hot or too cold? How home temperature affects older adults.&nbsp;&nbsp;The Atlanta Journal-ConstitutionStudy Hints At Why Aging Bodies Run Cold&nbsp;&nbsp;StudyFindsWhy do we feel colder as we age? Scientists are tracing the signals&nbsp;&nbsp;Earth.com",
+      "summary": "Scientists Figured Out Why We Feel Colder as We Age—and It’s Not What You Think&nbsp;&nbsp;GizmodoDeclining thermogenic fat activity may explain age-related cold sensitivity&nbsp;&nbsp;News-MedicalBistable regulation of adipocyte heterogeneity governs thermogenesis&nbsp;&nbsp;NatureToo hot or too cold? How home temperature affects older adults.&nbsp;&nbsp;The Atlanta Journal-ConstitutionStudy Hints At Why Aging Bodies Run Cold&nbsp;&nbsp;StudyFinds",
       "sources": [
         {
           "name": "Gizmodo",
@@ -834,7 +1292,7 @@
       "id": "8fb78a7db8fb",
       "title": "Does a heart stent prevent future heart attacks in stable patients? 25-year follow-up offers new insight - Medical Xpress",
       "published": "2026-11-13T15:00:06+00:00",
-      "summary": "Does a heart stent prevent future heart attacks in stable patients? 25-year follow-up offers new insight&nbsp;&nbsp;Medical XpressNo Hard Benefit for PCI Found at 25 Years&nbsp;&nbsp;MedscapeEarly heart procedures do not improve long-term survival in stable heart disease&nbsp;&nbsp;News-MedicalInvasive strategy no better than medical therapy alone for survival in stable coronary disease&nbsp;&nbsp;SubstackNo 25-year payoff for early stents; VA covers more heart care in some Medicare Advantage pl",
+      "summary": "Does a heart stent prevent future heart attacks in stable patients? 25-year follow-up offers new insight&nbsp;&nbsp;Medical XpressNo Hard Benefit for PCI Found at 25 Years&nbsp;&nbsp;MedscapeEarly heart procedures do not improve long-term survival in stable heart disease&nbsp;&nbsp;News-MedicalInvasive strategy no better than medical therapy alone for survival in stable coronary disease&nbsp;&nbsp;SubstackUpfront PCI Still Not Beneficial for Stable CAD as Far Out as 25 Years&nbsp;&nbsp;MedPage T",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -1263,7 +1721,7 @@
       "id": "1f4117058733",
       "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other - The New York Times",
       "published": "2026-11-13T10:02:06+00:00",
-      "summary": "Caught Between Killers: Ebola on One Side, Islamic State on the Other&nbsp;&nbsp;The New York TimesTrump Gutted USAID. Congo Pays the Price in an Ebola Epidemic&nbsp;&nbsp;Time MagazineEbola tops 11,000 cases in Congo’s deadliest outbreak&nbsp;&nbsp;NBC NewsEbola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns&nbsp;&nbsp;BBCCongo Ebola outbreak still out of control after six months, MSF says&nbsp;&nbsp;Reuters",
+      "summary": "Caught Between Killers: Ebola on One Side, Islamic State on the Other&nbsp;&nbsp;The New York TimesEbola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns&nbsp;&nbsp;BBCEbola tops 11,000 cases in Congo’s deadliest outbreak&nbsp;&nbsp;NBC NewsTrump Gutted USAID. Congo Pays the Price in an Ebola Epidemic&nbsp;&nbsp;Time MagazineCongo Ebola outbreak still out of control after six months, MSF says&nbsp;&nbsp;Reuters",
       "sources": [
         {
           "name": "The New York Times",
@@ -1320,6 +1778,187 @@
               "slug": "insulin_human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0bea606ee52a",
+      "title": "David Cameron on Living With Brexit and Ending Alzheimer’s",
+      "published": "2026-11-13T06:00:00+00:00",
+      "summary": "David Cameron on Living With Brexit and Ending Alzheimer’s&nbsp;&nbsp;BloombergLord Cameron: Alzheimer’s made my mother beg my sister to kill her&nbsp;&nbsp;The TelegraphWhat you need to know about the dementia drugs blocked by the NHS&nbsp;&nbsp;YahooCameron urges NHS access to cheaper Alzheimer's drugs and 18-week diagnosis cap&nbsp;&nbsp;Around PragueDavid Cameron: My mother begged my sister to end her life&nbsp;&nbsp;The Times",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tVFlCTVZJcEFXRTBxRlNvMXZ4dTJXSWhmRENwalZ3TFp3UXVWVlllbUZtaGdqWWl4c2FaRy1kQlBZZlhlcUxwbTZwbm5NSThMSjdFY3ZSMUh4UVFDTC1OcTlfZElzenFMQ2N3TGdlWjVDcFRpemZqa3otQkU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d5b625b29f6b",
+      "title": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock - Fox News",
+      "published": "2026-11-13T05:20:20+00:00",
+      "summary": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock&nbsp;&nbsp;Fox NewsBird flu detected in flock in Rusk County&nbsp;&nbsp;WEAUHumans Might Have a Serious Bird Flu Problem on Their Hands&nbsp;&nbsp;Popular MechanicsDelaware Department of Agriculture reminds residents of poultry safety tips as avian influenza season arrives&nbsp;&nbsp;State of Delaware News (.gov)HPAI risks remain high during migration season&nbsp;&nbsp;Brownfield Ag News",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORS02dXpZT2h4V1BWS1FKV3p4dGQ1Y3p2WjJjRkNWM1RhNFRLLVF6dVNpWThvR0RPSFlydkNQUm5PVUZDMVl0WkNoNHBVb3l4WHhQVGdYREtJaU9lbkpMYmtXNUhHVmFQS1hic2VLSzZIcFMxMC1QdHJZc0ZVVmRqN3ZKSjE1RjBTWHJkU20wb08xbUJNS0tXOG1idFJ1czdoYlVEMkpQbnpDakVNY3piN9IBtgFBVV95cUxQZVJnRHRzUDVlY3NvSV9vM19hNER0SzBBX3hTSEpuUklKUmVjQ1dMZWJPb1JBM1ppc3ZMbHpodE9MUHZYTmpmVExyQ3lHRFhUak9lZDZkZmlGSXRmTWlNME1VMDZQQ0VXLW4wbnZUR3FJdzVEQWxMNVJPQ3VmbDBLYzZwOTYtTDN5QTJJWVFCeXdmTHZkcGQzbkRNeERxdVhobFotRHQ3dU85by1FbTJmQnRodU5Wdw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "influenza",
+          "related_drugs": [
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             }
           ]
         }
@@ -1576,10 +2215,161 @@
       ]
     },
     {
+      "id": "9ddec602f2a6",
+      "title": "Protecting babies from RSV during the holiday season",
+      "published": "2026-11-13T01:46:33+00:00",
+      "summary": "Protecting babies from RSV during the holiday season&nbsp;&nbsp;KSLWhat’s Going Around: Flu, colds, allergies, croup&nbsp;&nbsp;Yahoo HealthRSV in babies: symptoms, risk groups and how to protect them, per CDC&nbsp;&nbsp;qz.comHow to Protect Babies from RSV&nbsp;&nbsp;www.gazetterecord.comOpinion | When the patient was my child: Preventing serious RSV is now possible, and vital&nbsp;&nbsp;The Spec",
+      "sources": [
+        {
+          "name": "KSL",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOTZWX2VRWmR1NXAtOWV0SFZ4RDJ0OTVKS0U1TTBLWEw4MGtuY29ybkVVZUlYb2Q4YUZQZGNfLUNjb24tX3JBZGhRQkp2VU5RNFdJam5ta1Z5MGtzM2VrNHFmRzJ1eXpqbURNR1J3eWl4M2t4b1lVeTVfQTVRdGF6ZEVnd2NtYmI0VlFTdjBSWUJZR0U?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "flu",
+          "related_drugs": [
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "545c9d3684a5",
+      "title": "Iowa ranks No. 2 for young adult cancer cases",
+      "published": "2026-11-13T01:42:00+00:00",
+      "summary": "Iowa ranks No. 2 for young adult cancer cases&nbsp;&nbsp;KCCIIowa ‘ground zero’ for nitrate contamination as cancer burden increases&nbsp;&nbsp;The Daily IowanOpinion: Iowa’s water quality crisis demands bold ideas&nbsp;&nbsp;www.thegazette.comIowa is one of three states with rising cancer rates, differing from neighboring states&nbsp;&nbsp;KCRGResearch Points to Early Detection as Key in Iowa’s Rising Cancer Rates&nbsp;&nbsp;KIWA Radio",
+      "sources": [
+        {
+          "name": "KCCI",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWhYaHd4T0ZmTHFZQm50YmozRC1keF9OYm9RUlF1dTJzekl3OU9hSUJNVlNucDRrZzBMRFl5MXlzR3Zrc1BmdjNaRmlmQzVqU2FBVFJmRjgxeDdmQmprSlBpSnpzYmpzUXFVQTFDY3QzeUNMaERkc1phVU9TalhHVFE1dlA5VGp0WFhucXd2ZktpZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "c99beb580240",
       "title": "Molecular mapping of 8 million cells brings cerebral architecture into focus - Medical Xpress",
       "published": "2026-11-13T00:40:21+00:00",
-      "summary": "Molecular mapping of 8 million cells brings cerebral architecture into focus&nbsp;&nbsp;Medical XpressScientists Discover a Neuron That May Play a Role in Schizophrenia&nbsp;&nbsp;National GeographicSeattle's Allen Institute helps create a ‘Rosetta Stone’ for brain cells to unlock clues to disease&nbsp;&nbsp;GeekWireFor the first time, researchers map out the brain’s behavioral gatekeeper&nbsp;&nbsp;National Institutes of Health (NIH) | (.gov)Seattle scientists help unveil ‘landmark’ findings on",
+      "summary": "Molecular mapping of 8 million cells brings cerebral architecture into focus&nbsp;&nbsp;Medical XpressFor the first time, researchers map out the brain’s behavioral gatekeeper&nbsp;&nbsp;National Institutes of Health (NIH) | (.gov)Key brain area reveals distinct zones whose boundaries blur with age&nbsp;&nbsp;Medical XpressScientists Discover a Neuron That May Play a Role in Schizophrenia&nbsp;&nbsp;National GeographicCellular atlas created for the basal ganglia, a key brain region&nbsp;&nbsp;Re",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -1686,7 +2476,7 @@
     {
       "id": "4ed5120c7e24",
       "title": "Neanderthals Walked with Flatter, More Flexible Feet, Researchers Say",
-      "published": "2026-11-12T22:01:57+00:00",
+      "published": "2026-11-12T22:01:39+00:00",
       "summary": "Neanderthals Walked with Flatter, More Flexible Feet, Researchers Say&nbsp;&nbsp;Sci.NewsNeanderthal Heels Showed Flat Feet Adapted for Stability&nbsp;&nbsp;Bioengineer.orgNeanderthals Walked Flatter, More Flexible, Heel Bone Scans Show&nbsp;&nbsp;JournalArta",
       "sources": [
         {
@@ -1766,14 +2556,79 @@
       "id": "613444b67768",
       "title": "Your air purifier could stop you getting diabetes, study finds - The Independent",
       "published": "2026-11-12T21:33:00+00:00",
-      "summary": "Your air purifier could stop you getting diabetes, study finds&nbsp;&nbsp;The IndependentNew study suggests bedroom air purifier may support healthy blood sugar&nbsp;&nbsp;The Washington PostHEPA Filters for Blood Sugar; ECMO-Equipped EMS & CPR; Valve-in-Valve-in-Valve TAVR&nbsp;&nbsp;MedPage TodayCan air purifiers help prevent blood sugar spikes?&nbsp;&nbsp;IQAirCleaner bedroom air may help improve blood sugar control in people with prediabetes&nbsp;&nbsp;Filtration and Separation",
+      "summary": "Your air purifier could stop you getting diabetes, study finds&nbsp;&nbsp;The IndependentNew study suggests bedroom air purifier may support healthy blood sugar&nbsp;&nbsp;The Washington PostBedroom HEPA Filters Linked to Steadier Blood Sugar in New Yorkers With Prediabetes in Early NYU Trial&nbsp;&nbsp;Medical DailyCan air purifiers help prevent blood sugar spikes?&nbsp;&nbsp;IQAirHEPA Filters for Blood Sugar; ECMO-Equipped EMS & CPR; Valve-in-Valve-in-Valve TAVR&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
           "name": "The Independent",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUZIZmZQVkdJWlBTQllMclpWbnFDT2UtV09SVVVIdWdjYTJETVB2RVhiQnRGRUtFb0lsa0Nfek50bVRiaDZhSGl6bDd2VUllVUliNGIxR2lQaVhlODRoUHJSMlBBX1dDc3RlU1RIN2doUzZUTlpENUZXVHFrZGpHbzZ0LWlBa0hJOWRmbWQwZmgyVGZyYmJQSFJVR3dDN1FZUjhqQ2N4Rk9kSmp3aTB3WXp5dnlhcnNKZ0N2QXJ3?oc=5"
         }
       ],
+      "matched_keywords": []
+    },
+    {
+      "id": "23a352a16403",
+      "title": "GLP-1 users face 6 rebound risks after stopping the weight-loss drugs - New York Post",
+      "published": "2026-11-12T21:17:00+00:00",
+      "summary": "GLP-1 users face 6 rebound risks after stopping the weight-loss drugs&nbsp;&nbsp;New York PostStopping GLP-1 drugs could increase heart attack risk for some, study says&nbsp;&nbsp;Global NewsStopping GLP-1 linked to nearly twice the rate of adverse events — ABC News Australia&nbsp;&nbsp;UA.NEWS'Double heart attack risk' warning for people on Wegovy and Mounjaro&nbsp;&nbsp;The MirrorStopping weight-loss drugs may double heart attack, stroke and death risk, study finds&nbsp;&nbsp;The Indian Expres",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGhVZkFtWDhRODJ5MFhhMGtiZjFhSGdYUzhDb0lUbGlFbWw1SGVSX2Rob3REemlPUjNIazAtUk90bjhSSjE3b2Q2RmhkNEVMT2l3a2VqSUxZb3hLNDNHTVlVU01OQzRCS1BScVpQV3JvaWpFd055TEZYWGU4aHJHWnBKXzNHZWlsT21kSi1MNkdDQ2hrMHRMb0lDanhrV05XaUE?oc=5"
+        }
+      ],
       "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "heart attack",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "arthritis",
@@ -1822,7 +2677,7 @@
       "id": "2fb07b7af90b",
       "title": "Asteroid Bennu's Sample Delivers Another Surprise - Universe Today",
       "published": "2026-11-12T21:16:00+00:00",
-      "summary": "Asteroid Bennu's Sample Delivers Another Surprise&nbsp;&nbsp;Universe TodayBennu asteroid analysis suggests unexpected origins for organics in space&nbsp;&nbsp;Phys.orgBennu Asteroid Sample Reveals Huge Isotope Gap Inside One Molecule&nbsp;&nbsp;Around Prague",
+      "summary": "Asteroid Bennu's Sample Delivers Another Surprise&nbsp;&nbsp;Universe TodayAnother surprise was found in a sample from the asteroid Bennu&nbsp;&nbsp;Universe Space TechBennu asteroid analysis suggests unexpected origins for organics in space&nbsp;&nbsp;Phys.orgBennu Asteroid Sample Reveals Huge Isotope Gap Inside One Molecule&nbsp;&nbsp;Around Prague",
       "sources": [
         {
           "name": "Universe Today",
@@ -1934,7 +2789,7 @@
       "id": "8665f2fe7277",
       "title": "Space telescope Euclid sets the new standard for cosmology",
       "published": "2026-11-12T21:00:01+00:00",
-      "summary": "Space telescope Euclid sets the new standard for cosmology&nbsp;&nbsp;Phys.orgEuropean survey reveals 900m galaxies – and possibly secrets of ‘dark universe’ | Astronomy&nbsp;&nbsp;The GuardianDive into Euclid’s new cosmic treasure trove&nbsp;&nbsp;ESAEuclid mission data release spans more than 900 million galaxies&nbsp;&nbsp;ReutersDark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)&nbsp;&nbsp;Space",
+      "summary": "Space telescope Euclid sets the new standard for cosmology&nbsp;&nbsp;Phys.orgEuropean survey reveals 900m galaxies – and possibly secrets of ‘dark universe’ | Astronomy&nbsp;&nbsp;The GuardianThe Euclid space telescope captures nearly a billion celestial objects in stunning detail&nbsp;&nbsp;Scientific AmericanVast data dump from Euclid space telescope reveals stunning galaxies&nbsp;&nbsp;New ScientistDark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark uni",
       "sources": [
         {
           "name": "Phys.org",
@@ -2034,14 +2889,14 @@
       ]
     },
     {
-      "id": "fde89f1d80b4",
-      "title": "Hospital sewers may be breeding grounds for dangerous superbugs, study finds - Fox News",
-      "published": "2026-11-12T19:43:03+00:00",
-      "summary": "Hospital sewers may be breeding grounds for dangerous superbugs, study finds&nbsp;&nbsp;Fox NewsHospital wastewater boosts growth of resistant bacteria, study finds&nbsp;&nbsp;CIDRAPHospital Sinks Harbor Antibiotic Resistance Genes and Pathogens in Spatial Gradients&nbsp;&nbsp;Bioengineer.orgHospital sewers may promote antibiotic-resistant bacteria, study finds&nbsp;&nbsp;Mezha.netHospital-wide genomic surveillance reveals heterogeneous transmission&nbsp;&nbsp;Bioengineer.org",
+      "id": "c1e837a880c3",
+      "title": "A Common Drug May Help With New Red-Meat Allergy",
+      "published": "2026-11-12T18:58:00+00:00",
+      "summary": "A Common Drug May Help With New Red-Meat Allergy&nbsp;&nbsp;NewserFor alpha-gal patients, allergy drug could cut the severity of reactions to red meat&nbsp;&nbsp;NBC NewsNew Study Reveals Impact of Alpha-Gal Syndrome on Health, Work of Farmers and Ranchers&nbsp;&nbsp;Morning Ag ClipsA Tick Bite Can Take Beef and Pork Off the Menu. Farmers and Ranchers Face Greater Risk&nbsp;&nbsp;Successful FarmingUp to 450,000 Americans May Have a Meat Allergy Caused by a Tick, and Many Don’t Know It&nbsp;&nbsp",
       "sources": [
         {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1loMVJVMFpSUm5tb3JpUWdHdE5hclFrX3JyMHBKb0d3YVZDSzIxSTNQVlB6cjVnaU41VExEVEVZaGNJV3B2MEowTS1pMTBDQjhjZjJMT2hrR3EzMDVaX203dTZ2VzNUaUFJYUxtTUpKQ2N4Mk43MlMwaVJRcGxZcEZ6VEl0WFcyRnVUUUNJendPbjJHMW1mcGN2RdIBoAFBVV95cUxOVi1SeS01S2hpaG50NGg4WUNaYVdiMG5nUzNEQlptV01VanBtSlRIaHNaVWVOSG0zalY5M0t5YTktcHdjSVFzS1dlSGltUlNFS0VtV1JVTjBnRk5oVHpZTGFvZFd6TjNkRzB5RUhkV056WnNjcWQxX2tnX0FrOVlRcVpFcjZHMEIzcEFtdklVMWtPaXpQaGI4My1HS05PWUln?oc=5"
+          "name": "Newser",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObGVSRHlFWWJOWUxJUnlETlNFVXNjWnRzMTU1RDllSjRZZTRzZTBjUU9haXVacUgtNzMzRDNkUVhyQ2E2ckpLMFVhZFk4ejNLaHhCMmIzOWlJWW9ydWFXS2pSM3dWTmtZQjRIY1pzQjVmZjdjWjNoVDRUOFZVd0VrOEktZkNvWTdpa01Dck5ZbVEwdWFj?oc=5"
         }
       ],
       "matched_keywords": [
@@ -2138,21 +2993,45 @@
               "url": "/drugs/insulin-human/"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "inflammatory bowel disease",
+          "keyword": "UC",
+          "related_drugs": [
+            {
+              "slug": "rutin",
+              "name": "Rutin",
+              "url": "/drugs/rutin/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
         }
       ]
-    },
-    {
-      "id": "82d2bd268606",
-      "title": "Scientists Compared Frequent and Occasional Coffee Drinkers—a Trend Emerged",
-      "published": "2026-11-12T19:02:00+00:00",
-      "summary": "Scientists Compared Frequent and Occasional Coffee Drinkers—a Trend Emerged&nbsp;&nbsp;NewsweekCoffee Drinkers’ Gut Looks Different, Danish Study Finds&nbsp;&nbsp;Sci.NewsWhy Does Coffee Make You Poop? Scientists Have a New Theory&nbsp;&nbsp;GizmodoWhat’s All That Coffee Doing to Your Gut?&nbsp;&nbsp;Nautilus | Science ConnectedCoffee appears to change how the gut functions&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Newsweek",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcFpmN1BjZ2JOTWVBOU0wam1SWG5EekVDVGtzR1RmaDRoc2FPckpFczB2Sk9oR2VrQ3FxNVN3ZkZaR1ZmTEhaajNJRlhZa3hwSk1fT2JnNDljNTUwQW9xVGZRbVVzQzByWmpUakRsdWRNR1oyNEJXSmtwdWVhNEhid2k0QkliRjBRQzc1U3o0VE1MTUU?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "19ad68ae94e0",
@@ -2317,7 +3196,7 @@
       "id": "b98e13aa84cc",
       "title": "Object said to be 'long-lost spacecraft' mysteriously accelerating as it heads toward Earth",
       "published": "2026-11-12T18:29:00+00:00",
-      "summary": "Object said to be 'long-lost spacecraft' mysteriously accelerating as it heads toward Earth&nbsp;&nbsp;Metro.co.ukMysterious space rock near the Earth sparks research about its identity following unusual movement&nbsp;&nbsp;FOX WeatherA Dark Comet Mystery Just Got Stranger After Astronomers Found Its Acceleration May Have Nothing to Do With Ice&nbsp;&nbsp;ZME ScienceA Tiny Asteroid Is Rewriting The Questions For Hayabusa2 – Analysis&nbsp;&nbsp;Eurasia ReviewMystery Space Rock Speeds Up, And Scie",
+      "summary": "Object said to be 'long-lost spacecraft' mysteriously accelerating as it heads toward Earth&nbsp;&nbsp;Metro.co.ukMysterious space rock near the Earth sparks research about its identity following unusual movement&nbsp;&nbsp;FOX WeatherA Dark Comet Mystery Just Got Stranger After Astronomers Found Its Acceleration May Have Nothing to Do With Ice&nbsp;&nbsp;ZME ScienceSimulations cast doubt on unusual asteroid's 'dark comet' status&nbsp;&nbsp;Phys.orgA Tiny Asteroid Is Rewriting The Questions For ",
       "sources": [
         {
           "name": "Metro.co.uk",
@@ -2370,26 +3249,56 @@
       ]
     },
     {
-      "id": "8574c8874dcf",
-      "title": "The new technology that could help doctors identify aggressive prostate cancer earlier - The Independent",
-      "published": "2026-11-12T16:03:00+00:00",
-      "summary": "The new technology that could help doctors identify aggressive prostate cancer earlier&nbsp;&nbsp;The IndependentSee more headlines & perspectives on Google News",
+      "id": "8a1d36e04543",
+      "title": "Not all sports help the brain in the same way. This is what may be best for ADHD. - The Washington Post",
+      "published": "2026-11-12T18:00:00+00:00",
+      "summary": "Not all sports help the brain in the same way. This is what may be best for ADHD.&nbsp;&nbsp;The Washington Post",
       "sources": [
         {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdFlRYnBsR1g3SEFtUnE2SjhVWVNRSmhYMFozWU9kVDRrdGdJc2RqXzZRSGh2MDk3ZXFRWVZFbi1tS093WDZYYlpTRWhtV29MdlA2Vml1aHhKVi1EYm1SWF9oTmx6RFZXWWdHMlh3TjQyNWdBSVRWWTdlQ1ZOdkpMdy12N2xCS05Lb1BKT2tkSXVwSDEzQnVlM3MzdU5hSkUyRXVFbThIQ0tOYVBCMXZ5aXQtRXA?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN014dWZwb2tac1hJQThvMjBhY0lROXVOdy1FT0toWkRBQlJhM3JoN2xUWG5OQmszdUhYNUduckI0Y0RxSm9hSEdJTE1fZ19jWk50UWhkY2dYc2Z5d1d0bWFieGxXRFE2WjFXalk3TWtKeEtweFUxZ2c3ZVZNYkZVcktTTndRWHR4Sm45S2h0RW1DX2ZUYW1TMi1HSDIzVnFReFE?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "cancer",
-          "keyword": "cancer",
+          "name": "arthritis",
+          "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab",
-              "url": "/drugs/ramucirumab/"
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -2517,524 +3426,6 @@
       "matched_keywords": []
     },
     {
-      "id": "cd07e8bb7400",
-      "title": "For alpha-gal patients, allergy drug could cut the severity of reactions to red meat - NBC News",
-      "published": "2026-11-12T15:00:59+00:00",
-      "summary": "For alpha-gal patients, allergy drug could cut the severity of reactions to red meat&nbsp;&nbsp;NBC NewsNew Study Reveals Impact of Alpha-Gal Syndrome on Health, Work of Farmers and Ranchers&nbsp;&nbsp;Morning Ag ClipsA Tick Bite Can Take Beef and Pork Off the Menu. Farmers and Ranchers Face Greater Risk&nbsp;&nbsp;Successful FarmingA Common Drug May Help With New Red-Meat Allergy&nbsp;&nbsp;NewserUp to 450,000 Americans May Have a Meat Allergy Caused by a Tick, and Many Don’t Know It&nbsp;&nbsp",
-      "sources": [
-        {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM211cGxFSHBOVDNqbkcwN0tEd25iVWZpbTBTWXBjcGxMeFlxenRBWGx0ZkFsY09nVVZ2eU5pdGQyUmZvZlFVdTk3UkhXSDB4U1lUTUhVTkQyVXUxWUFaOS1NMGhhRUEybGw4eVZPdHo2UXRlVEZITFpGOHo4anFjREVuUk5obEFGUkwtSVFuUTJrNjZHdHpvdGU5NkZXS3VVLU5qLVRCUUlHQndIbjVzQ1l3OXBQNWZT?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "MI",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan",
-              "url": "/drugs/lasmiditan/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib",
-              "url": "/drugs/selpercatinib/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "inflammatory bowel disease",
-          "keyword": "UC",
-          "related_drugs": [
-            {
-              "slug": "rutin",
-              "name": "Rutin",
-              "url": "/drugs/rutin/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8551187a6029",
-      "title": "Ozempic and Zepbound users face 6 rebound risks after stopping, doctor warns - Yahoo Health",
-      "published": "2026-11-12T13:00:40+00:00",
-      "summary": "Ozempic and Zepbound users face 6 rebound risks after stopping, doctor warns&nbsp;&nbsp;Yahoo HealthStopping weight loss drugs doubles diabetics’ heart attack risk&nbsp;&nbsp;The TelegraphStopping GLP-1 drugs could increase heart attack risk for some, study says&nbsp;&nbsp;Global NewsComing off GLP-1s linked to double heart attack, stroke, death risk&nbsp;&nbsp;Euronews.comGLP-1 users who stop taking medication face doubled risk of heart attack, stroke or death: study&nbsp;&nbsp;CTV News",
-      "sources": [
-        {
-          "name": "Yahoo Health",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb0Z1cHVuVndIdU1iN1ZZZ3hCc1RVU0NBVldIeFVNZlVlcllRT1MtTTBlRlBDYWtBbkpDTW9TRXd1cGZwWHkyYnRhVDFLTlY3blc0MHlPX3BiLWc1UGFzT2tvMlNfX0pGellBbjNzNXhkdXRaaGx3M21MMVVvY3d1anBzS2l3ZHVRV1RJYXNKQlRtWllveksxSkJRcnZTSndMZS1YQW5TaEZ2N1NrSHJBUTRwNldVb2V0Nnc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "heart attack",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan",
-              "url": "/drugs/lasmiditan/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib",
-              "url": "/drugs/selpercatinib/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "26056c80ba0e",
-      "title": "Two Trials of Intensive BP Lowering, Two Different Outcomes",
-      "published": "2026-11-12T12:48:00+00:00",
-      "summary": "Two Trials of Intensive BP Lowering, Two Different Outcomes&nbsp;&nbsp;MedscapeAHA: More intensive blood pressure lowering cuts future cardiovascular risk after stroke, transient ischemic attack&nbsp;&nbsp;Medical XpressBelow 120 or Below 140? A Major Diabetes Trial Puts Blood Pressure Targets to the Test&nbsp;&nbsp;Diabetes In ControlIntensive Blood Pressure Control Reduces Heart Events&nbsp;&nbsp;EMJCheap Drug May Prevent Second Stroke By Lowering Blood Pressure&nbsp;&nbsp;U.S. News & World Re",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "MI",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan",
-              "url": "/drugs/lasmiditan/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib",
-              "url": "/drugs/selpercatinib/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "inflammatory bowel disease",
-          "keyword": "UC",
-          "related_drugs": [
-            {
-              "slug": "rutin",
-              "name": "Rutin",
-              "url": "/drugs/rutin/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a1b0b58c6458",
-      "title": "Exposure to certain ‘forever chemicals’ could heighten risk of aggressive breast cancer, NIH says - The Boston Globe",
-      "published": "2026-11-12T12:37:00+00:00",
-      "summary": "Exposure to certain ‘forever chemicals’ could heighten risk of aggressive breast cancer, NIH says&nbsp;&nbsp;The Boston GlobeCommon forever chemicals linked to nearly double the rate of aggressive breast cancer&nbsp;&nbsp;Science DailyUS study links high 'forever chemical' levels to up to 93% higher aggressive breast cancer rates&nbsp;&nbsp;YahooMatthew Kurian: Could ‘Forever Chemicals’ Be Linked to ER-Negative Breast Cancer?&nbsp;&nbsp;Oncodaily",
-      "sources": [
-        {
-          "name": "The Boston Globe",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWRtd3NYQ3oxTXRTbExiNUp3ZFFPQmxxbWN1SEF1SUpoNExOZVNYbHdIYmRPX3JCN2hHcXk1NTlDLVQyNF9mRDBCeF9kWnFyUWdOc3VVZHlzT0NsQlhRaW5Qd3VJbEhSUHRNMXBoTHNTMnFaOFNUdzdhTkhNaVlUdzhuNXc2Z0ljOTJEaTVqQnJiYnJGbVQ0VzVFQjhZcWJzRDZ1N0NQaGZDdw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cancer",
-          "keyword": "cancer",
-          "related_drugs": [
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab",
-              "url": "/drugs/ramucirumab/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "MI",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan",
-              "url": "/drugs/lasmiditan/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib",
-              "url": "/drugs/selpercatinib/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "c35358170796",
       "title": "What's the best way to reverse memory decline? - BBC Science Focus Magazine",
       "published": "2026-11-12T12:13:07+00:00",
@@ -3143,66 +3534,10 @@
       ]
     },
     {
-      "id": "9cd97767d872",
-      "title": "Scientists Ranked 20 Protein-Rich Foods on Health, Affordability, and Sustainability. One Surprising Food Came Out on Top",
-      "published": "2026-11-12T11:44:40+00:00",
-      "summary": "Scientists Ranked 20 Protein-Rich Foods on Health, Affordability, and Sustainability. One Surprising Food Came Out on Top&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeFgxZHVuWE9BNFROSVFmQlBBNXJnU19ERV9XWDZ0SFE0QnoyNThZMXBUWVJWOFU0bjZDTTRtM1RFSHlrbG5tY3Y5a09jalloY25oN0ZBalduQnFxcE52dHVTMEpKN3RJemJjV1JRRHR6Y0d0djY0QkRQTmV1dFRGa0dJYTFuWXFwdVR0RVlSREtpbFNXOWdkdjI1dElKbEU2VTB4SzRRc0p3NkZMRDdWYW1BZ2g0YjY5TjVDUTVLVnpQUktTWG9vWlFrQXcyZjZleWJwNnFnYWx5OGEy?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "037fdf718c7d",
       "title": "Taung Child dated to 3 million years old, revealing a tangled human family tree - Archaeology News Online Magazine",
       "published": "2026-11-12T11:18:52+00:00",
-      "summary": "Taung Child dated to 3 million years old, revealing a tangled human family tree&nbsp;&nbsp;Archaeology News Online MagazineThe Taung Child, The First Hard Proof Humans Originated In Africa, Is Even Older Than We Thought&nbsp;&nbsp;IFLScienceCentury after Its Discovery, Taung Child Still Puzzles Paleoanthropologists&nbsp;&nbsp;Sci.NewsTaung Child Dated to 3 Million Years, and Its Growth Pattern Challenges a Famous Human Ancestor Species&nbsp;&nbsp;Ancient OriginsFamous Fossil Could be Rosetta Sto",
+      "summary": "Taung Child dated to 3 million years old, revealing a tangled human family tree&nbsp;&nbsp;Archaeology News Online MagazineCentury after Its Discovery, Taung Child Still Puzzles Paleoanthropologists&nbsp;&nbsp;Sci.NewsThe Taung Child, The First Hard Proof Humans Originated In Africa, Is Even Older Than We Thought&nbsp;&nbsp;IFLScienceThe Taung Child, the fossil that put our origins in Africa, upends human evolution again&nbsp;&nbsp;La Brújula VerdeFamous Fossil Could be Rosetta Stone for Hidden ",
       "sources": [
         {
           "name": "Archaeology News Online Magazine",
@@ -3310,7 +3645,7 @@
       "id": "ad5b29e087b7",
       "title": "How to experience the first supermoon since January - The Weather Channel",
       "published": "2026-11-12T10:33:00+00:00",
-      "summary": "How to experience the first supermoon since January&nbsp;&nbsp;The Weather ChannelNovember’s supermoon: When to see it in South Africa&nbsp;&nbsp;The South AfricanUp to four supermoons in a row are coming, and the closest full moon of 2026 arrives right before Christmas&nbsp;&nbsp;Futura, le média qui explore le mondeThe upcoming super moon has a dirty little secret: It’s not that super&nbsp;&nbsp;Journal-News.comBeaver Supermoon To Light Up Skies&nbsp;&nbsp;iHeart",
+      "summary": "How to experience the first supermoon since January&nbsp;&nbsp;The Weather ChannelUp to four supermoons in a row are coming, and the closest full moon of 2026 arrives right before Christmas&nbsp;&nbsp;Futura, le média qui explore le mondeThe upcoming super moon has a dirty little secret: It’s not that super&nbsp;&nbsp;Journal-News.comHow and Where to Best Observe the 2026 Beaver Supermoon in Yucatán&nbsp;&nbsp;Yucatán MagazineBeaver Supermoon To Light Up Skies&nbsp;&nbsp;iHeart",
       "sources": [
         {
           "name": "The Weather Channel",
@@ -3411,6 +3746,43 @@
               "url": "/drugs/insulin-human/"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "inflammatory bowel disease",
+          "keyword": "UC",
+          "related_drugs": [
+            {
+              "slug": "rutin",
+              "name": "Rutin",
+              "url": "/drugs/rutin/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
         }
       ]
     },
@@ -3418,7 +3790,7 @@
       "id": "1485273d5555",
       "title": "‘Stop obsessing over eight hours’: New study says another sleep goal is just as key - San Francisco Chronicle",
       "published": "2026-11-12T10:04:16+00:00",
-      "summary": "‘Stop obsessing over eight hours’: New study says another sleep goal is just as key&nbsp;&nbsp;San Francisco ChronicleAssociations between sleep regularity indexed from wearable device data and mental health symptoms in the TemPredict longitudinal cohort study | Scientific Reports&nbsp;&nbsp;NatureFor some people, depression may be tied to their circadian rhythms&nbsp;&nbsp;NPRIrregular sleep linked to worse anxiety, depression and loneliness&nbsp;&nbsp;Chronicle-TribuneCould an erratic sleep sc",
+      "summary": "‘Stop obsessing over eight hours’: New study says another sleep goal is just as key&nbsp;&nbsp;San Francisco ChronicleCould an erratic sleep schedule be harming your mental health?&nbsp;&nbsp;Medical XpressIrregular Sleep Schedules Tied to Depression & Loneliness&nbsp;&nbsp;Neuroscience NewsFor some people, depression may be tied to their circadian rhythms&nbsp;&nbsp;NPRAssociations between sleep regularity indexed from wearable device data and mental health symptoms in the TemPredict longitudin",
       "sources": [
         {
           "name": "San Francisco Chronicle",
@@ -3435,6 +3807,58 @@
               "slug": "tadalafil",
               "name": "Tadalafil",
               "url": "/drugs/tadalafil/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -3591,10 +4015,10 @@
       ]
     },
     {
-      "id": "085037e34d05",
-      "title": "Trying Tourette's device was the best day of my life",
+      "id": "1c89dc403e4b",
+      "title": "Trying Tourette's device tested by Lewis Capaldi was the best day of my life",
       "published": "2026-11-12T01:07:47+00:00",
-      "summary": "Trying Tourette's device was the best day of my life&nbsp;&nbsp;BBCWrist device for Tourette’s changes teenager’s life&nbsp;&nbsp;The TimesWrist gadget offers Tourette’s sufferers relief from tics&nbsp;&nbsp;The TelegraphTourette syndrome tics: Breakthrough device might change future&nbsp;&nbsp;The News International",
+      "summary": "Trying Tourette's device tested by Lewis Capaldi was the best day of my life&nbsp;&nbsp;BBCWrist device for Tourette’s changes teenager’s life&nbsp;&nbsp;The TimesWrist gadget offers Tourette’s sufferers relief from tics&nbsp;&nbsp;The TelegraphTourette syndrome tics: Breakthrough device might change future&nbsp;&nbsp;The News International",
       "sources": [
         {
           "name": "BBC",
@@ -3820,14 +4244,14 @@
       "matched_keywords": []
     },
     {
-      "id": "0ed64e0dfcdc",
-      "title": "Domain-alteration chimeras rewire oncogenic complexes in prostate cancer",
+      "id": "b5f1aa8860cf",
+      "title": "Evolutionary dynamics in the years preceding acute myeloid leukaemia",
       "published": "2026-11-11T22:16:41+00:00",
-      "summary": "Domain-alteration chimeras rewire oncogenic complexes in prostate cancer&nbsp;&nbsp;NatureMolecular brace traps two cancer-driving proteins to suppress prostate cancer growth in preclinical tests&nbsp;&nbsp;Medical XpressDALTAC prostate cancer strategy traps cancer proteins to overcome resistance&nbsp;&nbsp;Drug Target ReviewDomain-Alteration Chimera Strategy Suppresses Prostate Tumor Growth in Preclinical Tests&nbsp;&nbsp;Bioengineer.orgNature study links two prostate cancer proteins to boost t",
+      "summary": "Evolutionary dynamics in the years preceding acute myeloid leukaemia&nbsp;&nbsp;NatureScientists trace leukaemia back decades before diagnosis&nbsp;&nbsp;UCL | University College LondonBlood samples reveal long lead-up to some leukaemia diagnoses&nbsp;&nbsp;London Daily NewsScientists uncover 'fossil record' of leukaemia decades before diagnosis&nbsp;&nbsp;Blood Cancer UKFirst Acute Myeloid Leukemia Mutations Emerge Decades Before Clinical Diagnosis&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GSmEzX1R3QUtDNjM3OGlEUTd1WVFmdllEZS0zNmxoMWFjYVNMaFl5UktXNGZFQ2VJbVhqa1hvR09TaFktZExoVkJqX3dQTW5WUHBwbDltbVVMZi04ZUs0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FMTdnbDhmS19TdUNXMThNWmMwb3JrOWZtVDJNaTVVV1VyOHJza1VWckxIaTBpeFpwcUNqeFRycEZSTEVnYkF4dE01SnJodmdJUVN3cl9SVzhkVml1X3Mw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -3845,192 +4269,16 @@
         },
         {
           "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
+          "name": "heart disease",
+          "keyword": "CAD",
           "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
             {
               "slug": "tadalafil",
               "name": "Tadalafil",
               "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "601c0160f6ad",
-      "title": "Validation of clinical and preclinical obesity across global cohorts",
-      "published": "2026-11-11T22:14:49+00:00",
-      "summary": "Validation of clinical and preclinical obesity across global cohorts&nbsp;&nbsp;NatureBMI alternative for identifying obesity ‘could prevent misdiagnosis in millions’&nbsp;&nbsp;The GuardianStudy suggests not all obesity means ill-health&nbsp;&nbsp;ReutersBody mass index may have misclassified millions of people in UK, researchers say&nbsp;&nbsp;Sky NewsA study of 844,000 adults reveals what BMI misses about obesity&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92dTR0Z05SeS1TbmxlUmNOZy0wUGRnWXlyTzVJNWFfVnpHdDlDNnJPY01XM0VORlpnRDNHTzg2eURXWXRwYmxLWm8wQnNTaXotbmRjaE5pRmZIVkRheDA4?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "MI",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan",
-              "url": "/drugs/lasmiditan/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib",
-              "url": "/drugs/selpercatinib/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b5f260e2bf21",
-      "title": "Scale-rich network-based metamaterials",
-      "published": "2026-11-11T22:14:32+00:00",
-      "summary": "Scale-rich network-based metamaterials&nbsp;&nbsp;NatureInspired by networks found in nature, engineers design stronger, more resilient “metamaterials”&nbsp;&nbsp;MIT NewsMIT and Others Develop Leaf-Vein-Patterned \"Irregular Metamaterial\" With Improved Shock Absorption&nbsp;&nbsp;BigGo FinanceMIT and Northeastern Researchers 3D Print Nature-Inspired Metamaterials That Hold Up Better Against Impacts&nbsp;&nbsp;https://3dprinting.com/From disorder to strength: CUHK-led GBA research team develops p",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWU1htdHVFYV9MeGlfdGpqbTJkNFNPVFF0b3ZudE55MWZjMTlUNkNSaWtFLUNzdVFqR29EOWZQYmk0WTMzbE9OVGQ5UzlPWlUtV0RyYXkyZk40SElHOFlz?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "MI",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan",
-              "url": "/drugs/lasmiditan/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib",
-              "url": "/drugs/selpercatinib/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e2c3abcf1028",
-      "title": "Transient nuclear softening for zygotic gene activation in mice",
-      "published": "2026-11-11T22:14:23+00:00",
-      "summary": "Transient nuclear softening for zygotic gene activation in mice&nbsp;&nbsp;NatureNuclear softening at an embryo's two-cell stage may be vital for further embryonic development&nbsp;&nbsp;Phys.orgThe first hours of life: Scientists discover why embryos need a “soft” cell nucleus&nbsp;&nbsp;NEWS.am TECHMouse Embryo Nuclei Soften After First Division to Enable Gene Activation&nbsp;&nbsp;Bioengineer.orgThe softening of an embryo’s nucleus after the very first division is critical for further develop",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YT05fdW1JWXVUbTd3V29wWGRDSkd4Z1JfbTkzZDFYYlB3RXBBYXVNaVhNLTZWakI4bVdwZ3FsV3kzQl9sUjRfOVhURUEzMURLRllCZEJneWxVak1PUHpR?oc=5"
-        }
-      ],
-      "matched_keywords": [
+        },
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -4165,6 +4413,138 @@
       ]
     },
     {
+      "id": "601c0160f6ad",
+      "title": "Validation of clinical and preclinical obesity across global cohorts",
+      "published": "2026-11-11T22:14:49+00:00",
+      "summary": "Validation of clinical and preclinical obesity across global cohorts&nbsp;&nbsp;NatureWhy BMI Is Not the Best Measure of Health&nbsp;&nbsp;Time MagazineBody mass index may have misclassified millions of people in UK, researchers say&nbsp;&nbsp;Sky NewsStudy suggests not all obesity means ill-health&nbsp;&nbsp;ReutersA study of 844,000 adults reveals what BMI misses about obesity&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92dTR0Z05SeS1TbmxlUmNOZy0wUGRnWXlyTzVJNWFfVnpHdDlDNnJPY01XM0VORlpnRDNHTzg2eURXWXRwYmxLWm8wQnNTaXotbmRjaE5pRmZIVkRheDA4?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b5f260e2bf21",
+      "title": "Scale-rich network-based metamaterials",
+      "published": "2026-11-11T22:14:32+00:00",
+      "summary": "Scale-rich network-based metamaterials&nbsp;&nbsp;NatureInspired by networks found in nature, engineers design stronger, more resilient “metamaterials”&nbsp;&nbsp;MIT NewsMIT and Others Develop Leaf-Vein-Patterned \"Irregular Metamaterial\" With Improved Shock Absorption&nbsp;&nbsp;BigGo FinanceMIT and Northeastern Researchers 3D Print Nature-Inspired Metamaterials That Hold Up Better Against Impacts&nbsp;&nbsp;https://3dprinting.com/From disorder to strength: CUHK-led GBA research team develops p",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWU1htdHVFYV9MeGlfdGpqbTJkNFNPVFF0b3ZudE55MWZjMTlUNkNSaWtFLUNzdVFqR29EOWZQYmk0WTMzbE9OVGQ5UzlPWlUtV0RyYXkyZk40SElHOFlz?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "33f0ed01ed30",
       "title": "Catholic Health initiates masking policy during flu season",
       "published": "2026-11-11T21:08:00+00:00",
@@ -4196,14 +4576,14 @@
       ]
     },
     {
-      "id": "ed7feb7d3724",
-      "title": "The Grand Canyon is missing over a billion years of rocks. Now scientists know why.",
-      "published": "2026-11-11T20:53:42+00:00",
-      "summary": "The Grand Canyon is missing over a billion years of rocks. Now scientists know why.&nbsp;&nbsp;YahooMore Than a Billion Years of Earth’s History Is Missing – Scientists May Finally Know Why&nbsp;&nbsp;SciTechDailyWhy the Grand Canyon is missing a billion years of rocks&nbsp;&nbsp;Financial TimesNew Study Says Rising Mantle Erased 1.2 Billion Years of Grand Canyon Rock&nbsp;&nbsp;Around Prague",
+      "id": "17dcfdc595bf",
+      "title": "New culprit in early Alzheimer’s: blood–brain barrier blocks protective proteins",
+      "published": "2026-11-11T18:43:08+00:00",
+      "summary": "New culprit in early Alzheimer’s: blood–brain barrier blocks protective proteins&nbsp;&nbsp;NatureThe blood-brain barrier may contribute to cognitive function&nbsp;&nbsp;The EconomistNEWSLETTER: Blood-brain barrier discovery could lead to new Alzheimer's disease approach&nbsp;&nbsp;ReutersFirst atlas tracks proteins that cross the blood-brain barrier&nbsp;&nbsp;Medical XpressLiver-derived protein helps protect brain cells and improves memory in Alzheimer's mice&nbsp;&nbsp;News-Medical",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczR2cEc0VFppR3FidjJBa2ZfNW5pRnMxQjZiOFJrUGw5RFF1TEJsYndaTjNJMFlnNGVQVGtCLUIwdV9GN2xZLVo1TFdoY0ZWbjMtaGtlSVA2SGlrbl9CSEg3TmNaemRWUDhVclYwQVhHTV9WVkVGdEZtQ0c1Y1dkOEQxcjJ4RTNVb2hQT1ZjWWQyMzMwR25V?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iOHp0T2ZXbXp1c2g0MDdxdVVSbzJVVnJPZ3prNkpKLUhHTkJnQlRFUmlXMlFrVGtWbHVudk5YT2czSlVWM0wyQk9jMmZMM3RNdExBYmRMVHJhdVFObHBn?oc=5"
         }
       ],
       "matched_keywords": [
@@ -4367,114 +4747,6 @@
       ]
     },
     {
-      "id": "1179beb10f94",
-      "title": "The blood-brain barrier may contribute to cognitive function - The Economist",
-      "published": "2026-11-11T18:11:14+00:00",
-      "summary": "The blood-brain barrier may contribute to cognitive function&nbsp;&nbsp;The EconomistFirst atlas tracks proteins that cross the blood-brain barrier&nbsp;&nbsp;Medical XpressNEWSLETTER: Blood-brain barrier discovery could lead to new Alzheimer's disease approach&nbsp;&nbsp;ReutersLiver-derived protein helps protect brain cells and improves memory in Alzheimer's mice&nbsp;&nbsp;News-MedicalNew Study Rewrites The Rules of The Blood-Brain Barrier&nbsp;&nbsp;ScienceAlert",
-      "sources": [
-        {
-          "name": "The Economist",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcU1wOWQyWk5zSkJ2WmlHREREQTZEckQzUXo3SUktLVB6Wmp0SWI3Q1NydnU3N2pxdjZkYk9pUXQ3VlFZdjktWHI2bHNPMXZESjJEelo1LUVDNVRwQXQ5bU1aYkFtTnZ0SjJsSlRNN0dpRTkwV2ZyWm9MRFFXbFpsV3VJYno4bzB2TTVNQkg4NW16b2s5QjdjblAwZlE5eHYwRUNrY0V1ZVIxdE9FeUtUdDFaRmVtTk43bnljVQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "MI",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan",
-              "url": "/drugs/lasmiditan/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib",
-              "url": "/drugs/selpercatinib/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "56de73468c1d",
       "title": "Israeli blood test detects early breast cancer with 95% accuracy - The Times of Israel",
       "published": "2026-11-11T16:01:00+00:00",
@@ -4580,186 +4852,10 @@
       ]
     },
     {
-      "id": "71150194b625",
-      "title": "Three brain biotypes found in study of kids with ADHD, anxiety - Medical Xpress",
-      "published": "2026-11-11T15:40:10+00:00",
-      "summary": "Three brain biotypes found in study of kids with ADHD, anxiety&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUm1Fc0JsRlRfZUJ1TXRlNXdfckcwcTAzWU92dVIzenZfLW9KWTZJcDdsU2R4WW9Dc1gxZGw4NmtEZlZKU2JIWERqQU1RNjR6WFRqMy1pTGd4TGpYcjFFMjV6SW90MlJ0SDRYNHhTREZUMDQ0Z3FULW1ubkpBQW1EbU5n?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a2dc1eac7321",
-      "title": "Molecular signal in blood helps detect early risk for ovarian cancer, study finds - The Guardian",
-      "published": "2026-11-11T13:05:00+00:00",
-      "summary": "Molecular signal in blood helps detect early risk for ovarian cancer, study finds&nbsp;&nbsp;The GuardianBlood-based RNA biomarker for the early detection of ovarian cancer&nbsp;&nbsp;NatureNEWSLETTER: New blood test finds early risk for ovarian cancer&nbsp;&nbsp;ReutersBlood-Based RNA Test Detects Precancerous Ovarian Lesions Missed by Conventional Screening&nbsp;&nbsp;Inside Precision MedicineEarly changes linked to ovarian cancer may leave a trace in the blood—new study&nbsp;&nbsp;Medical Xpr",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFlDaV9ORlZ2OVNhUGU3Zm82cE5LdVdUX0VEOGg0OUlPR1UtTE9uaWZOMTlNMkVxMlU0Vzd4V1o1elh3dzBwLTk1TldkYS04N01HN0h3aHl3Y01rSVU2Nkh1a2xSMDV6UWVhcXpLTThldEJFOWV3SkFxTGFrOVg5eEIwUG9WZjFmQ3ZBZEJCV3hQYzBT?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cancer",
-          "keyword": "cancer",
-          "related_drugs": [
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab",
-              "url": "/drugs/ramucirumab/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "MI",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan",
-              "url": "/drugs/lasmiditan/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib",
-              "url": "/drugs/selpercatinib/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "04fd87bc4d5a",
       "title": "Common heart pill under scrutiny for older patients as study weighs risks of stopping - Fox News",
       "published": "2026-11-11T12:00:29+00:00",
-      "summary": "Common heart pill under scrutiny for older patients as study weighs risks of stopping&nbsp;&nbsp;Fox NewsStopping statins after 70 may be safer than expected, but there's a catch&nbsp;&nbsp;Science DailySTREAM, eZ-PAVE Add New Insights Into Statin Therapy Treatment&nbsp;&nbsp;American College of CardiologyAHA: Discontinuing statins noninferior to continuation in older adults without known cardiovascular disease&nbsp;&nbsp;Medical XpressStatins Work in Older Adults, Statistics Be Damned: The STRE",
+      "summary": "Common heart pill under scrutiny for older patients as study weighs risks of stopping&nbsp;&nbsp;Fox NewsStopping statins after 70 may be safer than expected, but there's a catch&nbsp;&nbsp;Science DailySTREAM: Statin Discontinuation Noninferior in Older Adults Without CVD&nbsp;&nbsp;HCPLiveAHA: Discontinuing statins noninferior to continuation in older adults without known cardiovascular disease&nbsp;&nbsp;Medical XpressStatins Work in Older Adults, Statistics Be Damned: The STREAM Trial&nbsp;&",
       "sources": [
         {
           "name": "Fox News",
@@ -4783,48 +4879,6 @@
               "slug": "tadalafil",
               "name": "Tadalafil",
               "url": "/drugs/tadalafil/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -4956,7 +5010,7 @@
       "id": "bacb1bdcbcc0",
       "title": "New Research Compares Long-Term Relief From 21 Antidepressants - The New York Times",
       "published": "2026-11-10T23:30:23+00:00",
-      "summary": "New Research Compares Long-Term Relief From 21 Antidepressants&nbsp;&nbsp;The New York TimesAntidepressant escitalopram more effective at preventing relapse, analysis finds&nbsp;&nbsp;BBCStudy identifies antidepressants that get patients well and keep them well&nbsp;&nbsp;Medical XpressDepression: Escitalopram may be best option for long-term use&nbsp;&nbsp;Medical News TodaySome antidepressants may work better than others long term – new study&nbsp;&nbsp;The Conversation",
+      "summary": "New Research Compares Long-Term Relief From 21 Antidepressants&nbsp;&nbsp;The New York TimesStudy identifies antidepressants that get patients well and keep them well&nbsp;&nbsp;Medical XpressAntidepressant escitalopram more effective at preventing relapse, analysis finds&nbsp;&nbsp;BBCSome antidepressants may work better than others long term – new study&nbsp;&nbsp;The ConversationStudy: Three antidepressants beat fluoxetine, active ingredient in Prozac, in long term&nbsp;&nbsp;NL Times",
       "sources": [
         {
           "name": "The New York Times",
@@ -5005,6 +5059,23 @@
               "url": "/drugs/insulin-human/"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "flu",
+          "related_drugs": [
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            }
+          ]
         }
       ]
     },
@@ -5012,7 +5083,7 @@
       "id": "4a93b5114b0b",
       "title": "Viral ‘heightmaxxing’ trend has teen boys taking cancer drugs to grow taller despite doctors' warnings - New York Post",
       "published": "2026-11-10T23:06:00+00:00",
-      "summary": "Viral ‘heightmaxxing’ trend has teen boys taking cancer drugs to grow taller despite doctors' warnings&nbsp;&nbsp;New York PostWhat is ‘heightmaxxing?’ Viral TikTok trend sees teens taking cancer drugs to get taller&nbsp;&nbsp;KRON4Heightmaxxing Trend Row: Why Teenagers Are Turning To Cancer Drugs To Get Taller, Oncologist Explains The Risks&nbsp;&nbsp;OnlymyhealthLocal experts warn of ‘heightmaxxing’ trend, teens taking cancer meds to grow taller&nbsp;&nbsp;Boston 25 NewsDoctors warn teens are ",
+      "summary": "Viral ‘heightmaxxing’ trend has teen boys taking cancer drugs to grow taller despite doctors' warnings&nbsp;&nbsp;New York PostWhat is ‘heightmaxxing?’ Viral TikTok trend sees teens taking cancer drugs to get taller&nbsp;&nbsp;KRON4Local experts warn of ‘heightmaxxing’ trend, teens taking cancer meds to grow taller&nbsp;&nbsp;Boston 25 NewsDoctors warn teens are reportedly taking cancer drug to grow taller&nbsp;&nbsp;Mezha.netHeightmaxxing trend: Why teenagers are taking a cancer drug to grow ta",
       "sources": [
         {
           "name": "New York Post",
@@ -5148,7 +5219,7 @@
       "id": "6f11718ce451",
       "title": "Study finds links between bacteria in wastewater and chronic disease",
       "published": "2026-11-10T19:20:12+00:00",
-      "summary": "Study finds links between bacteria in wastewater and chronic disease&nbsp;&nbsp;Phys.orgCOVID-era testing method could help identify obesity, asthma, other health conditions&nbsp;&nbsp;FOX 4 News Dallas-Fort WorthWhat Can Wastewater-Based Epidemiology Tell Us?&nbsp;&nbsp;MedscapeOhio wastewater bacteria linked to community health indicators&nbsp;&nbsp;UA.NEWSStudy analyzes how waste­water can highlight broad health patterns in Ohio's com­mu­nities&nbsp;&nbsp;Spectrum News",
+      "summary": "Study finds links between bacteria in wastewater and chronic disease&nbsp;&nbsp;Phys.orgCOVID-era testing method could help identify obesity, asthma, other health conditions&nbsp;&nbsp;FOX 4 News Dallas-Fort WorthWhat Can Wastewater-Based Epidemiology Tell Us?&nbsp;&nbsp;MedscapeOhio Wastewater Study Links Sewage Bacteria to Community Health Patterns&nbsp;&nbsp;citybuzz -Ohio wastewater bacteria linked to community health indicators&nbsp;&nbsp;UA.NEWS",
       "sources": [
         {
           "name": "Phys.org",
@@ -5253,122 +5324,17 @@
       ]
     },
     {
-      "id": "a702e04c86eb",
-      "title": "Accidental discovery enables room-temperature recrystallization of molybdenum",
-      "published": "2026-11-10T00:30:06+00:00",
-      "summary": "Accidental discovery enables room-temperature recrystallization of molybdenum&nbsp;&nbsp;Phys.orgA tiny poke gives molybdenum a new structure&nbsp;&nbsp;University of RochesterResearchers Alter Molybdenum Crystal Structure at Room Temperature Using Nanoindentation&nbsp;&nbsp;Bioengineer.orgScientists accidentally found a way to reshape an ultra-strong metal at room temperature&nbsp;&nbsp;Tech Explorist",
+      "id": "9bd272ca7728",
+      "title": "Why a Lot of Acorns Will Mean a Lot of Ticks",
+      "published": "2026-11-09T16:18:00+00:00",
+      "summary": "Why a Lot of Acorns Will Mean a Lot of Ticks&nbsp;&nbsp;NewserScientists discover a surprising link between acorns and lyme disease&nbsp;&nbsp;Science DailyAcorns—not deer—can predict a rise in Lyme-spreading ticks&nbsp;&nbsp;Scientific AmericanThe Surprising Role Mice and Acorns Play In Predicting Lyme Disease&nbsp;&nbsp;Discover MagazineDeer Numbers Showed No Link to Lyme Tick Abundance Across 35 Years of Hudson Valley Data, but Acorns Did&nbsp;&nbsp;Nature World News",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFVycHI5TjdFN3Q3WXJYTEtlR0Y0RjkzLWI3cjVDRDM5LWRRX19jODRMNy1reVRsR2s5aDdVSVhCVjBDc2RrOVlWWWhTb1F0TUp0d1VSQ1pVaTFra1ZqempHUnF2amNDUllKTDVHWVFqdnc3d1dlbW9jYVpHY2dFU0RTMGdzcG8?oc=5"
+          "name": "Newser",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX1BqR3NBeWl1Q0JBZUtmOG9TejU5U3FUcTdsZC1faUxWOWJTWDlGQXo3OEIxaFZNM0cyZmdLQnRnd2IzeTVwMlVXUWZ5Wmx6ckVuNXllNEYxdEFQNC1BTnZPV3hFblVJY0pYeUxXVVNnZVNPMU9qakFIYXBkR2NCcV9VMDlEWUV3UDJZZ2NRVDNtZw?oc=5"
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "inflammatory bowel disease",
-          "keyword": "UC",
-          "related_drugs": [
-            {
-              "slug": "rutin",
-              "name": "Rutin",
-              "url": "/drugs/rutin/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "badbced68351",
-      "title": "Infant Bleeding Episodes Skyrocket 347% as More Parents Refuse Vitamin K Shot",
-      "published": "2026-11-09T18:33:38+00:00",
-      "summary": "Infant Bleeding Episodes Skyrocket 347% as More Parents Refuse Vitamin K Shot&nbsp;&nbsp;YahooAn 11-Day-Old Baby Couldn’t Stop Bleeding. For Hours, the ER Didn’t Provide a Critical Vitamin Shot.&nbsp;&nbsp;ProPublicaDoctors warn parents about risks of declining vitamin K shots for newborns&nbsp;&nbsp;WOODTV.comVitamin K Refusal Puts Babies at Risk. RFK Jr. Isn’t Helping&nbsp;&nbsp;BloombergNEPA hospitals see risky trend for newborns&nbsp;&nbsp;Scranton Times-Tribune",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEdWNm50blVsbERhdUpTY0FQN21tVTJ5eG5TdmFtZEFQV3I3V2EyZmxLNUFPRF9pZjlhRS1nNVVsbVdtRHczT0xQdmVKQlFrZFFMcUM0X3NudWs3MUxQVlJ6cjRPTE5uTTFEZ3lWbjFmTnZ4S3Q5RDMwUExYRWRTZEE5UlZIUlVqWVNVTmNEMEZqVEdWcDRCVWd5MEc4UQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart disease",
-          "keyword": "CAD",
-          "related_drugs": [
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -5403,48 +5369,6 @@
               "slug": "selpercatinib",
               "name": "Selpercatinib",
               "url": "/drugs/selpercatinib/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
@@ -5601,126 +5525,6 @@
       "matched_keywords": []
     },
     {
-      "id": "fff06688a755",
-      "title": "Her Death From Dengue May Signal That the Disease Is Here to Stay - The New York Times",
-      "published": "2026-11-09T10:02:46+00:00",
-      "summary": "Her Death From Dengue May Signal That the Disease Is Here to Stay&nbsp;&nbsp;The New York TimesDengue response continues as scientists work to avoid endemic&nbsp;&nbsp;Bay News 9Pinellas County surpasses 100 Dengue fever cases; Florida total over 600&nbsp;&nbsp;WFLAFlorida Is Facing Its Worst Dengue Outbreak in Decades, With at Least 524 Locally Acquired Cases. Here's What to Know&nbsp;&nbsp;Smithsonian MagazineFlorida dengue outbreak grows by 100 cases in one week, surges to 624&nbsp;&nbsp;Sara",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTBUSlFhMDlCZjZ0TFlhTG01Q1NrNjB3dFh6ZzBVclVYUlZrNktlVkVVMnpwN3FIblVyZnoycTFZTFVYVnk3VGJDVzdCa1FQZDhWSHk1VUMtZHQtYWxQamRpa0xUSzAxUDFNal9MNVdLQk1Pcm5uYUM0aTJsQWFkM0ZPV2pPWFVa?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart disease",
-          "keyword": "CAD",
-          "related_drugs": [
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "MI",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan",
-              "url": "/drugs/lasmiditan/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib",
-              "url": "/drugs/selpercatinib/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "6e1424ca3d7b",
       "title": "How Healthy Are Cranberries? - The New York Times",
       "published": "2026-11-09T10:00:07+00:00",
@@ -5777,17 +5581,81 @@
       ]
     },
     {
-      "id": "ec94e7993963",
-      "title": "Scientists Find 10 Healthy Diets That Can Slow Ageing Naturally - NDTV Food",
-      "published": "2026-11-09T08:08:14+00:00",
-      "summary": "Scientists Find 10 Healthy Diets That Can Slow Ageing Naturally&nbsp;&nbsp;NDTV FoodYale scientists reveal what really slows aging and what doesn't&nbsp;&nbsp;Science DailyScientists Identified 10 Healthy Diets Linked to Slower Biological Aging&nbsp;&nbsp;ScienceAlertWhat you eat helps dictate how fast you age&nbsp;&nbsp;elreporterosf.comFollowing Diet Guidelines Slows Aging, Study Finds&nbsp;&nbsp;동아비즈니스리뷰",
+      "id": "6a246c09ce5f",
+      "title": "Common ‘forever chemicals’ linked to aggressive breast cancer in new study",
+      "published": "2026-11-08T22:15:58+00:00",
+      "summary": "Common ‘forever chemicals’ linked to aggressive breast cancer in new study&nbsp;&nbsp;NewsNationExposure to certain ‘forever chemicals’ could heighten risk of aggressive breast cancer, NIH says&nbsp;&nbsp;The Boston GlobeCommon forever chemicals linked to nearly double the rate of aggressive breast cancer&nbsp;&nbsp;Science DailyUS study links high 'forever chemical' levels to up to 93% higher aggressive breast cancer rates&nbsp;&nbsp;YahooMatthew Kurian: Could ‘Forever Chemicals’ Be Linked to E",
       "sources": [
         {
-          "name": "NDTV Food",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQODJXWVJFU0lFRWpLX1lyb2FfN3VTR3FJMEF5TnNzOTRTb2N1dnpvcTFzUkVYdGRaX3ZlZ0w0WnNlSTJWb2lKR0x1cDZpYnhTUG10bWdhRU0yNU8ya0pqYXFGX1RUNnBDQ2F3ek90WnB0SGlkWWROeWRmcG8xRzNXUjhfdjJMODRXV1pYYjl1TzQ1UVJEUTluUUgzQXBLd9IBpgFBVV95cUxNNGN2OHZpeGZ1VlNqYWEwT2lNQ3ZxU3NvQ2FiVVVtU1lCYTZhT1hvZG5sNmdTNmNrRi1XaUZvM1RCSFVLVWc3bmQ2dEVXOVVSRXVJMXk2WWwzblItSHRNRkpFMzJfMFpjRVJmeEktMFBUbXRPT3kzUi04NHRLYlQtQ1AxYm9kZVNFMExtZWFOVkh5aXNkUGw0MFNUdVlzQVUyOUl2ZjdB?oc=5"
+          "name": "NewsNation",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNUp6MGMwN2JZaF9TQTRMVkRPS1hLTk15TEVUbGpsLUZjei1TTG5neFBib25WTUpqcmJBRnF0X20tNVVmc0JWWXBrUjZpOEdyRHEwTWdXX1VyMTE3NWhJUEdtU3ZWNHBEa0FBSnBMajE5Mm5XcERRM0Fkay1UcXYwYVNpUGxqS1NPVUc3UmdHTUczSDhv0gGaAUFVX3lxTE5TY2hhWnBxX2FDMURSVWJVM0pFRFpXNXcwajFwZVpEdkhnM21wV2RraFpmNmNVWl9UajdfM0Y3U2JtLWNUam5KTklKcWJpQTJucnZ2dVVLUEQ5WmROQkx2TG11RENJWjhLVl9xc01DU1N2N0FRYWV3RkdRS01Ra0d2TVctczVFUkhRTzR2aU9nQk5wSGZVbVlTNEE?oc=5"
         }
       ],
       "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "arthritis",
@@ -5880,182 +5748,6 @@
               "slug": "teriparatide",
               "name": "Teriparatide",
               "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cba4a2920a3e",
-      "title": "Shorter daylight hours can trigger depression. Here’s how to fight it",
-      "published": "2026-11-07T12:00:00+00:00",
-      "summary": "Shorter daylight hours can trigger depression. Here’s how to fight it&nbsp;&nbsp;https://www.nxsmediawire.com/Wellness Wednesday: Beat the winter blues before they start&nbsp;&nbsp;WLNS 6 NewsSeasonal affective disorder: 8 facts on symptoms, diagnosis and treatment, per the NIMH&nbsp;&nbsp;qz.comSigns of Seasonal Affective Disorder in Children&nbsp;&nbsp;Cleveland Clinic NewsroomSeasonal affective disorder looms as winter approaches&nbsp;&nbsp;Valley News",
-      "sources": [
-        {
-          "name": "https://www.nxsmediawire.com/",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWVZqWnlhVVB1bElPeFU4Z19nNkJwZzRvVFk3ZWp4NWVDaUdGU05wMm5NZUxIWG4yVXZLVlhYbHNCQ2pPRnFEblBCc1hISnhUZkhmd0lOSnJIZTZfMERnODVEWUtpT19jUjZubnRwS0ljMnpteUVJQTZqTFRKbjRLdi0weFE3bmF3NWNHSEExY295YjRIU0xQRGY2cWxZaHlBb0ExcA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "OA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "db96a088f3c0",
-      "title": "Experimental pancreatic cancer vaccine shows promise in clinical trial - Medical News Today",
-      "published": "2026-11-07T06:42:43+00:00",
-      "summary": "Experimental pancreatic cancer vaccine shows promise in clinical trial&nbsp;&nbsp;Medical News TodayVaccines could be a new frontier in KRAS targeting&nbsp;&nbsp;NatureEzra Cohen Raises Key Questions About the Future of Pancreatic Cancer Vaccines&nbsp;&nbsp;OncodailyInvestigational KRAS vaccine triggers robust immune response in phase 2 trial&nbsp;&nbsp;Bioengineer.orgMutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Medical News Today",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3lpNGZIeldDYkpoVGZ5X3dJUFZKaTNLNEdGLTNRek1UNDAzRS1lMEZVWGxianJmdDBlY1VSMDBfQXppUkZHbW81WXc5ZkJsT19GbjlYSlRUV0hzYnZHYmtjUzdHa1FxOXJuVTBJMjE4LTF1OGFVdDBoNGo0dGF5TEluQmZtNHVZQTBCdUNvODRjOTF6RHBfdmdqWmd5aUJmbVcwTUY3X0oxaWwyc25weE5B?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cancer",
-          "keyword": "cancer",
-          "related_drugs": [
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab",
-              "url": "/drugs/ramucirumab/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "MI",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan",
-              "url": "/drugs/lasmiditan/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib",
-              "url": "/drugs/selpercatinib/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",

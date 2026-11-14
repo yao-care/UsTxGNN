@@ -3,12 +3,12 @@
     {
       "url": "/news/baricitinib/",
       "title": "Baricitinib News",
-      "count": 66
+      "count": 60
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 55
+      "count": 48
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -20,12 +20,12 @@
     {
       "url": "/news/insulin_glargine/",
       "title": "Insulin glargine News",
-      "count": 69
+      "count": 63
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 55
+      "count": 48
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -42,12 +42,12 @@
     {
       "url": "/news/insulin_human/",
       "title": "Insulin human News",
-      "count": 69
+      "count": 63
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 55
+      "count": 48
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -64,12 +64,12 @@
     {
       "url": "/news/insulin_lispro/",
       "title": "Insulin lispro News",
-      "count": 69
+      "count": 63
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 55
+      "count": 48
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -98,7 +98,7 @@
     {
       "url": "/news/raloxifene/",
       "title": "Raloxifene News",
-      "count": 45
+      "count": 48
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -113,19 +113,19 @@
     {
       "url": "/news/influenza/",
       "title": "flu (influenza) News",
-      "count": 1
+      "count": 5
     }
   ],
   "/drugs/ramucirumab/": [
     {
       "url": "/news/ramucirumab/",
       "title": "Ramucirumab News",
-      "count": 11
+      "count": 9
     },
     {
       "url": "/news/cancer/",
       "title": "cancer News",
-      "count": 11
+      "count": 9
     }
   ],
   "/drugs/rutin/": [
@@ -156,24 +156,24 @@
     {
       "url": "/news/sodium_acetate/",
       "title": "Sodium acetate News",
-      "count": 55
+      "count": 48
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 55
+      "count": 48
     }
   ],
   "/drugs/tadalafil/": [
     {
       "url": "/news/tadalafil/",
       "title": "Tadalafil News",
-      "count": 66
+      "count": 61
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 55
+      "count": 48
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -190,12 +190,12 @@
     {
       "url": "/news/teriparatide/",
       "title": "Teriparatide News",
-      "count": 70
+      "count": 65
     },
     {
       "url": "/news/arthritis/",
       "title": "RA (arthritis) News",
-      "count": 55
+      "count": 48
     },
     {
       "url": "/news/myocardial-infarction/",
@@ -210,7 +210,7 @@
     {
       "url": "/news/influenza/",
       "title": "flu (influenza) News",
-      "count": 1
+      "count": 5
     }
   ]
 }

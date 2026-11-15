@@ -58,14 +58,6 @@ Source: [CBS News](https://news.google.com/rss/articles/CBMid0FVX3lxTFBYaWxkTktU
 
 ---
 
-### [Scientists find a simple daily routine linked to less pain and depression - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9zRHJBVWQzTk80cmRKd1dNS1NabXp3WVNlSkNmZndiUklQenlDZDdfRlJ1LU5BQndGSGpxbzMwVjNEQ2RnZWVQOUlqRURIZWY1bUpvaWxXRkZHa2h0LXcxQ1dQa1o1UjA0VzJCVWQ0WQ?oc=5)
-
-2026-11-14 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9zRHJBVWQzTk80cmRKd1dNS1NabXp3WVNlSkNmZndiUklQenlDZDdfRlJ1LU5BQndGSGpxbzMwVjNEQ2RnZWVQOUlqRURIZWY1bUpvaWxXRkZHa2h0LXcxQ1dQa1o1UjA0VzJCVWQ0WQ?oc=5)
-
----
-
 ### [The Largest Alzheimer's Genetics Study Yet Found 48 New Links. The Most Promising Clue Isn't About Memory](https://news.google.com/rss/articles/CBMitgFBVV95cUxOci12VGxQRzQ3S21aUjUyWGtLMTNWbGlITjVZU1JGcHFSbmJwMTE1ZlVYMGMtM2F5Q0I3dWJjNzN1OW9tMEN5Nmo0STF3OWJ0eFduaHcxZWdYVEVzaVRGeDJ0cXdfdnRsandiT3VtMkRWRmQ3dDAwZjFDa3c3MkFEWWgwRDItZVVrb2RtTjgxX2xTNHE1RDhLeW1OR0pYZzJUbWpXanVkQVkxT2pybFYtZVVGSEdaZw?oc=5)
 
 2026-11-14 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
@@ -82,9 +74,17 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxOM3gzTGlT
 
 ---
 
+### [Two-drug therapy reduces heart artery plaque more than statins alone - Medical News Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxONF9lNEo4U1hYejRLckI4M2hzZF93aW1DYmtuaHgwRlB1TFZyYmlkQzBGN0NvOENsYlQwenVBRXZPcVBzUkp6WVBNLW5RT3Y3SDhIMFp3WXNCa1kxVkR5R0dNTGlrRVpWOGszMWIwck0yc3V2eVg5UHRlckU0enptVmhmNEtLdEpBN3ZiU1ZYWXZOYmEtR1pLd190bEZwU21lWHNEWFBkakVSLVllVHBOcU1lTFlwVDF2S0pNU3NWY0w1SWJhR2c?oc=5)
+
+2026-11-13 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxONF9lNEo4U1hYejRLckI4M2hzZF93aW1DYmtuaHgwRlB1TFZyYmlkQzBGN0NvOENsYlQwenVBRXZPcVBzUkp6WVBNLW5RT3Y3SDhIMFp3WXNCa1kxVkR5R0dNTGlrRVpWOGszMWIwck0yc3V2eVg5UHRlckU0enptVmhmNEtLdEpBN3ZiU1ZYWXZOYmEtR1pLd190bEZwU21lWHNEWFBkakVSLVllVHBOcU1lTFlwVDF2S0pNU3NWY0w1SWJhR2c?oc=5)
+
+---
+
 ### [Who needs sex? Kelp reproduce asexually when no mate is nearby](https://news.google.com/rss/articles/CBMiX0FVX3lxTE11d1BEZmZYWHQ3YnZhbVVYbEZUUDdHZXdfLXBOQlZwVXlVV3dnd3YyLXVuckFHVEN3a0F4d083QmozU01vYWo0cGI5Q19xT0IxOVdaNXdNZUdTS1k4b1Jz?oc=5)
 
-2026-11-13 <span class="news-indication-tag">UC</span>
+2026-11-13 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">OA</span> <span class="news-indication-tag">UC</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE11d1BEZmZYWHQ3YnZhbVVYbEZUUDdHZXdfLXBOQlZwVXlVV3dnd3YyLXVuckFHVEN3a0F4d083QmozU01vYWo0cGI5Q19xT0IxOVdaNXdNZUdTS1k4b1Jz?oc=5)
 
@@ -98,19 +98,19 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0QzJKWnp0WF
 
 ---
 
+### [Iconic first image of black hole holds up to scrutiny](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0MDI0NVpKVGpOZ0RsaTF2b25LeXpBbEdTRENsS25oeF9wbS1kVUNyaVFJNDVaTVNQcnUwS3BTcjNRcWhJdnUza3E3UUkxdFRJSjhJaGE5RnpBeW5LT3Z3?oc=5)
+
+2026-11-11 <span class="news-drug-tag">Rutin</span> <span class="news-indication-tag">RA</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0MDI0NVpKVGpOZ0RsaTF2b25LeXpBbEdTRENsS25oeF9wbS1kVUNyaVFJNDVaTVNQcnUwS3BTcjNRcWhJdnUza3E3UUkxdFRJSjhJaGE5RnpBeW5LT3Z3?oc=5)
+
+---
+
 ### [Common heart pill under scrutiny for older patients as study weighs risks of stopping - Fox News](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnlCNDUyRzZKZC16b09zQWFxdi1vd0RZQjNVeFltbzhlMzVOVHo4dWFyRTVSaFltazV4b0JDNEQ1M3pmZWl1d0ROMkNBWm9fTWNlbXI0WXdDYkJWYkhYR2p5YU13S3hTMlNUZU1OMXV0cHNkRjNDd0YydU4wdWljTE1vUmRtdUhMUF9odFMwekZSUjZLY3NUZmhYZjRkam1ZaGfSAacBQVVfeXFMTjJNZlV4UXFDdkNqQmR6WGtMMVJIeDA1RFk2X1RObDI1R2hBZElPd0hqVktPTEJERzJ1QU9hQVEwSjljWjdfZ2tzWTNXTHJFQlRGTWpaWnhHajhBZnhabHFMQzNkU085NE4wQjZxX29MSHQtTUs0QVpqS09UampnMjloZV82SWJfVGdsa1d1STRGbmU4V2N0MnFQWUlpV0ljTXhrdXJCdWM?oc=5)
 
 2026-11-11 <span class="news-drug-tag">Rutin</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">RA</span>
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnlCNDUyRzZKZC16b09zQWFxdi1vd0RZQjNVeFltbzhlMzVOVHo4dWFyRTVSaFltazV4b0JDNEQ1M3pmZWl1d0ROMkNBWm9fTWNlbXI0WXdDYkJWYkhYR2p5YU13S3hTMlNUZU1OMXV0cHNkRjNDd0YydU4wdWljTE1vUmRtdUhMUF9odFMwekZSUjZLY3NUZmhYZjRkam1ZaGfSAacBQVVfeXFMTjJNZlV4UXFDdkNqQmR6WGtMMVJIeDA1RFk2X1RObDI1R2hBZElPd0hqVktPTEJERzJ1QU9hQVEwSjljWjdfZ2tzWTNXTHJFQlRGTWpaWnhHajhBZnhabHFMQzNkU085NE4wQjZxX29MSHQtTUs0QVpqS09UampnMjloZV82SWJfVGdsa1d1STRGbmU4V2N0MnFQWUlpV0ljTXhrdXJCdWM?oc=5)
-
----
-
-### [Pancreatic Cancer Risk May Be Reduced by Eating This Food, According to Dietitians](https://news.google.com/rss/articles/CBMihgFBVV95cUxOaHBNQTlhRURRcmRFVWFvbVFyNUN2YjNGXzZrMG5lUm5uczZsejJqUFoteDdUUnFEQk9RMDFad2ZzZnhsQ1ZEZEpkX2tqRENnZl9PMXdHZ1ZsVVZUblBGWU10WXNYYzlBTmllY3RzVlJ4Q1Y5b1g0T0k0Sldad0RhZlc4SVBxdw?oc=5)
-
-2026-11-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMihgFBVV95cUxOaHBNQTlhRURRcmRFVWFvbVFyNUN2YjNGXzZrMG5lUm5uczZsejJqUFoteDdUUnFEQk9RMDFad2ZzZnhsQ1ZEZEpkX2tqRENnZl9PMXdHZ1ZsVVZUblBGWU10WXNYYzlBTmllY3RzVlJ4Q1Y5b1g0T0k0Sldad0RhZlc4SVBxdw?oc=5)
 
 ---
 

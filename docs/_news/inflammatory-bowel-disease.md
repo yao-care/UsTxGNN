@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 8 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 7 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-11-15
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>8 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>7 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [Too much fiber can backfire: the signs you’re overdoing a healthy habit](https://news.google.com/rss/articles/CBMiakFVX3lxTE41Qi1HbENXWGhVQ3MyMjFjbXFxaS1HMDZsenYtRThoMHFLdmFqYmo0Q2FZNUg3a25OMkNWX2lsaUtSNEp2Z1AxY3lwMjBaVC1QV2RycHl5NE83UWMtbmJ3eGhTZXF3TzJYb3c?oc=5)
 
@@ -50,14 +50,6 @@ Source: [Ynetnews](https://news.google.com/rss/articles/CBMiakFVX3lxTE41Qi1HbENX
 2026-11-14
 
 Source: [CBS News](https://news.google.com/rss/articles/CBMid0FVX3lxTFBYaWxkTktUUzE0MzFxMEp3TVY4TDFTTDJOUjhjTnVyMDQyRll4VjRBREx6WmxrRWZyV0JPY09FeE1pbWxDZFdLTXhlVldsdmRxd1BkaTRlTzZPbVdGZzJraEEwdXBtcmlDVkhndGZSQWZMck9IRUE0?oc=5)
-
----
-
-### [Scientists find a simple daily routine linked to less pain and depression - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9zRHJBVWQzTk80cmRKd1dNS1NabXp3WVNlSkNmZndiUklQenlDZDdfRlJ1LU5BQndGSGpxbzMwVjNEQ2RnZWVQOUlqRURIZWY1bUpvaWxXRkZHa2h0LXcxQ1dQa1o1UjA0VzJCVWQ0WQ?oc=5)
-
-2026-11-14
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9zRHJBVWQzTk80cmRKd1dNS1NabXp3WVNlSkNmZndiUklQenlDZDdfRlJ1LU5BQndGSGpxbzMwVjNEQ2RnZWVQOUlqRURIZWY1bUpvaWxXRkZHa2h0LXcxQ1dQa1o1UjA0VzJCVWQ0WQ?oc=5)
 
 ---
 
@@ -77,6 +69,14 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxOM3gzTGlT
 
 ---
 
+### [Two-drug therapy reduces heart artery plaque more than statins alone - Medical News Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxONF9lNEo4U1hYejRLckI4M2hzZF93aW1DYmtuaHgwRlB1TFZyYmlkQzBGN0NvOENsYlQwenVBRXZPcVBzUkp6WVBNLW5RT3Y3SDhIMFp3WXNCa1kxVkR5R0dNTGlrRVpWOGszMWIwck0yc3V2eVg5UHRlckU0enptVmhmNEtLdEpBN3ZiU1ZYWXZOYmEtR1pLd190bEZwU21lWHNEWFBkakVSLVllVHBOcU1lTFlwVDF2S0pNU3NWY0w1SWJhR2c?oc=5)
+
+2026-11-13
+
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxONF9lNEo4U1hYejRLckI4M2hzZF93aW1DYmtuaHgwRlB1TFZyYmlkQzBGN0NvOENsYlQwenVBRXZPcVBzUkp6WVBNLW5RT3Y3SDhIMFp3WXNCa1kxVkR5R0dNTGlrRVpWOGszMWIwck0yc3V2eVg5UHRlckU0enptVmhmNEtLdEpBN3ZiU1ZYWXZOYmEtR1pLd190bEZwU21lWHNEWFBkakVSLVllVHBOcU1lTFlwVDF2S0pNU3NWY0w1SWJhR2c?oc=5)
+
+---
+
 ### [Who needs sex? Kelp reproduce asexually when no mate is nearby](https://news.google.com/rss/articles/CBMiX0FVX3lxTE11d1BEZmZYWHQ3YnZhbVVYbEZUUDdHZXdfLXBOQlZwVXlVV3dnd3YyLXVuckFHVEN3a0F4d083QmozU01vYWo0cGI5Q19xT0IxOVdaNXdNZUdTS1k4b1Jz?oc=5)
 
 2026-11-13
@@ -90,14 +90,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE11d1BEZmZYWH
 2026-11-12
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0QzJKWnp0WFVTVEpkOGV1TkgzNGtaT0ZEUUplYjlCUFJSa0owOXBzX0pJcEhwY3N5RTh4ZEIyTWc0Y1lSZ1NocFVKNC1Dd1dldkN6eHJIb083eFBKR0xZ?oc=5)
-
----
-
-### [Pancreatic Cancer Risk May Be Reduced by Eating This Food, According to Dietitians](https://news.google.com/rss/articles/CBMihgFBVV95cUxOaHBNQTlhRURRcmRFVWFvbVFyNUN2YjNGXzZrMG5lUm5uczZsejJqUFoteDdUUnFEQk9RMDFad2ZzZnhsQ1ZEZEpkX2tqRENnZl9PMXdHZ1ZsVVZUblBGWU10WXNYYzlBTmllY3RzVlJ4Q1Y5b1g0T0k0Sldad0RhZlc4SVBxdw?oc=5)
-
-2026-11-08
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMihgFBVV95cUxOaHBNQTlhRURRcmRFVWFvbVFyNUN2YjNGXzZrMG5lUm5uczZsejJqUFoteDdUUnFEQk9RMDFad2ZzZnhsQ1ZEZEpkX2tqRENnZl9PMXdHZ1ZsVVZUblBGWU10WXNYYzlBTmllY3RzVlJ4Q1Y5b1g0T0k0Sldad0RhZlc4SVBxdw?oc=5)
 
 ---
 

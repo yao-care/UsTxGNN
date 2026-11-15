@@ -41,11 +41,11 @@ Source: [PBS](https://news.google.com/rss/articles/CBMiugFBVV95cUxObzQyYkhqa3BjY
 
 ---
 
-### [New Research Compares Long-Term Relief From 21 Antidepressants - The New York Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0JjRGRaV2hDNFpaZkl1YkVmWTRzY1Q4LTdfc1VCMF9YT1BlZEFwcHF5c18xUTJVUUQ1LURNYjkwUUpGR1EzSG5idzBuenE1NEVQMk5mRHgxQ0RSdWNuME5jTUxtQVlUa1ZEVFpJLTRtcGNiOVBjUGo2eXk4MEJodzdUcV9Rdw?oc=5)
+### [Column | Your stroke risk is 72 percent higher during these 3 hours of the day - The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxOLUtZb0dfOGJYM05Sc19JWTRocFdJQ2c0SG1HbS1JREVpX1ZqUWRZUDYwNE5JX3BRekJKUEFxNkN1bzE0Uy1rcWVsMkZPdmtoQzdCX1RncHdXT2VWakQ3X0R5RW9MNDFfOExOcTgwZHJtN2piZDJjQ2l6RnFpM2YzUWk5Q0NBamdtV0tKajFBdXlMUXVzZlZYQ3RaX2VnUG56WHlhQ2RuOEFCQkNDZU9WR2x5QmI?oc=5)
 
-2026-11-10
+2026-11-09
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0JjRGRaV2hDNFpaZkl1YkVmWTRzY1Q4LTdfc1VCMF9YT1BlZEFwcHF5c18xUTJVUUQ1LURNYjkwUUpGR1EzSG5idzBuenE1NEVQMk5mRHgxQ0RSdWNuME5jTUxtQVlUa1ZEVFpJLTRtcGNiOVBjUGo2eXk4MEJodzdUcV9Rdw?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxOLUtZb0dfOGJYM05Sc19JWTRocFdJQ2c0SG1HbS1JREVpX1ZqUWRZUDYwNE5JX3BRekJKUEFxNkN1bzE0Uy1rcWVsMkZPdmtoQzdCX1RncHdXT2VWakQ3X0R5RW9MNDFfOExOcTgwZHJtN2piZDJjQ2l6RnFpM2YzUWk5Q0NBamdtV0tKajFBdXlMUXVzZlZYQ3RaX2VnUG56WHlhQ2RuOEFCQkNDZU9WR2x5QmI?oc=5)
 
 ---
 

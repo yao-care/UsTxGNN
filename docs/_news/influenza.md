@@ -41,11 +41,11 @@ Source: [PBS](https://news.google.com/rss/articles/CBMiugFBVV95cUxObzQyYkhqa3BjY
 
 ---
 
-### [Column | Your stroke risk is 72 percent higher during these 3 hours of the day - The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxOLUtZb0dfOGJYM05Sc19JWTRocFdJQ2c0SG1HbS1JREVpX1ZqUWRZUDYwNE5JX3BRekJKUEFxNkN1bzE0Uy1rcWVsMkZPdmtoQzdCX1RncHdXT2VWakQ3X0R5RW9MNDFfOExOcTgwZHJtN2piZDJjQ2l6RnFpM2YzUWk5Q0NBamdtV0tKajFBdXlMUXVzZlZYQ3RaX2VnUG56WHlhQ2RuOEFCQkNDZU9WR2x5QmI?oc=5)
+### [Bird flu outbreak raises pandemic concerns as virus spreads across US farms - Scripps News](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTZCR3MyZDByZ3JTZF9EYTdpYmVaYllkS2wtc1lJREd1Z25ZV09jTUlKN3dmdm9EVlBHcUlWZDdrcDBhNlFoWmZkM3RlYm41NEZrcTlvR2dUQzBEb0NRS3JYX0IwZDFtdkt3RlRndFJsUFR4VXhhTUY1UE1aR1hsNmhVX2xZWVNEXzZ4V0ltZzF5QlpWOGRlODBGc2pkUllXQjVNOUM2N0J4T2ZHTTM0?oc=5)
 
-2026-11-09
+2026-11-14
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxOLUtZb0dfOGJYM05Sc19JWTRocFdJQ2c0SG1HbS1JREVpX1ZqUWRZUDYwNE5JX3BRekJKUEFxNkN1bzE0Uy1rcWVsMkZPdmtoQzdCX1RncHdXT2VWakQ3X0R5RW9MNDFfOExOcTgwZHJtN2piZDJjQ2l6RnFpM2YzUWk5Q0NBamdtV0tKajFBdXlMUXVzZlZYQ3RaX2VnUG56WHlhQ2RuOEFCQkNDZU9WR2x5QmI?oc=5)
+Source: [Scripps News](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTZCR3MyZDByZ3JTZF9EYTdpYmVaYllkS2wtc1lJREd1Z25ZV09jTUlKN3dmdm9EVlBHcUlWZDdrcDBhNlFoWmZkM3RlYm41NEZrcTlvR2dUQzBEb0NRS3JYX0IwZDFtdkt3RlRndFJsUFR4VXhhTUY1UE1aR1hsNmhVX2xZWVNEXzZ4V0ltZzF5QlpWOGRlODBGc2pkUllXQjVNOUM2N0J4T2ZHTTM0?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 5 articles, 1 related drugs."
+description: "Health news about cancer. 8 articles, 1 related drugs."
 permalink: /news/cancer/
 last_modified_at: 2026-11-15
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>8 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,37 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (5)
+## Related News (8)
 
 ### [The link between microplastics and one of the deadliest cancers, and what to do - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXJSd0VoUmR3RDRrdDRhTHpJRGNIZzQzZnZfb0NQb1Z0eEFKNWhsRnV0VU5kVUZBb0lLdXNwb1FWV0JBa1pVM09vVXJnZVRtckZKZEhSdXdhd1ZoSXlYQms1R3BTcV84czdEWl9ubEoxLUpRdFh4b1ozeU1LQkozQWRfXzQyWklyQnY3ZGhaQ05LcXdhQmZfdDd3LXdGVFljTmxlTElQV3hOT1Va?oc=5)
 
 2026-11-15
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXJSd0VoUmR3RDRrdDRhTHpJRGNIZzQzZnZfb0NQb1Z0eEFKNWhsRnV0VU5kVUZBb0lLdXNwb1FWV0JBa1pVM09vVXJnZVRtckZKZEhSdXdhd1ZoSXlYQms1R3BTcV84czdEWl9ubEoxLUpRdFh4b1ozeU1LQkozQWRfXzQyWklyQnY3ZGhaQ05LcXdhQmZfdDd3LXdGVFljTmxlTElQV3hOT1Va?oc=5)
+
+---
+
+### [The Morning Drink Oncologists Say May Help Reduce Cancer Risk](https://news.google.com/rss/articles/CBMie0FVX3lxTE5zUVNHQld1Njk4WjNxY1BjOXc4YjdFLXZRWEVyQ3BVbHNlOXZhcFlabGlCcjU0OVp3NjVXeDBNMGJpeTYzMzl2Mmt3ZmgzakxqZXA0Q1czLXQ4R1QtZzd2OWIxMkd0N2lJa3VQN1RDeDJvcEVEZ0tPcVp1dw?oc=5)
+
+2026-11-15
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMie0FVX3lxTE5zUVNHQld1Njk4WjNxY1BjOXc4YjdFLXZRWEVyQ3BVbHNlOXZhcFlabGlCcjU0OVp3NjVXeDBNMGJpeTYzMzl2Mmt3ZmgzakxqZXA0Q1czLXQ4R1QtZzd2OWIxMkd0N2lJa3VQN1RDeDJvcEVEZ0tPcVp1dw?oc=5)
+
+---
+
+### [Bladder cancer is rising in young women. Here are signs to look out for - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEVuNDNGOV96SmIxYmJ4LUw5andRR3k2emhxMDY3ZTNBVmd0NTA5Vms4R0UxZDZ0SEtROEJUWm53ejAyTmRFcy1JVkNMS19IVWRDVlBrSTBjX1BWSEgyQWg3NHNxaFN0Uno4TFRhNTdIakgxQ3VnVWdkSldyTm9teThzemtNSUZXTXE5VmI3WElyRTlwZVJjTnNvTEVoUmRXMDg1cTl4NnI?oc=5)
+
+2026-11-15
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEVuNDNGOV96SmIxYmJ4LUw5andRR3k2emhxMDY3ZTNBVmd0NTA5Vms4R0UxZDZ0SEtROEJUWm53ejAyTmRFcy1JVkNMS19IVWRDVlBrSTBjX1BWSEgyQWg3NHNxaFN0Uno4TFRhNTdIakgxQ3VnVWdkSldyTm9teThzemtNSUZXTXE5VmI3WElyRTlwZVJjTnNvTEVoUmRXMDg1cTl4NnI?oc=5)
+
+---
+
+### [A simple supplement could help your immune system fight cancer and viral infections - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE92dDZWazJaOFI3WUVqNG1IX3U4V3FjZmtLekNfc1BuN2IwMUd5LXVHOWRQYk5MUnhvOEN3YS10QjE3N1htaG44OUVCbGhYYWdkX3pDeWdlMHVkbUpSd0RHVEZPalhFS2xxd05UbWhDZw?oc=5)
+
+2026-11-15
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE92dDZWazJaOFI3WUVqNG1IX3U4V3FjZmtLekNfc1BuN2IwMUd5LXVHOWRQYk5MUnhvOEN3YS10QjE3N1htaG44OUVCbGhYYWdkX3pDeWdlMHVkbUpSd0RHVEZPalhFS2xxd05UbWhDZw?oc=5)
 
 ---
 
@@ -64,11 +88,11 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTDdxNFF0UG1
 
 ---
 
-### [Common ‘forever chemicals’ linked to aggressive breast cancer in new study](https://news.google.com/rss/articles/CBMilAFBVV95cUxNNUp6MGMwN2JZaF9TQTRMVkRPS1hLTk15TEVUbGpsLUZjei1TTG5neFBib25WTUpqcmJBRnF0X20tNVVmc0JWWXBrUjZpOEdyRHEwTWdXX1VyMTE3NWhJUEdtU3ZWNHBEa0FBSnBMajE5Mm5XcERRM0Fkay1UcXYwYVNpUGxqS1NPVUc3UmdHTUczSDhv0gGaAUFVX3lxTE5TY2hhWnBxX2FDMURSVWJVM0pFRFpXNXcwajFwZVpEdkhnM21wV2RraFpmNmNVWl9UajdfM0Y3U2JtLWNUam5KTklKcWJpQTJucnZ2dVVLUEQ5WmROQkx2TG11RENJWjhLVl9xc01DU1N2N0FRYWV3RkdRS01Ra0d2TVctczVFUkhRTzR2aU9nQk5wSGZVbVlTNEE?oc=5)
+### [5 ways to take care of yourself when you’re caring for someone with cancer - The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSWRHTVdzZDE0ZTdvTkRUcjJNR1F1ZWdIV1dfQ0ZIY09qbFc4U2dKVVpuOXpsMUltZTVEbFZkN1VzWlYtR1lCZ2J3VXJKN1c0MlZiYXY1aGhxVEo3a1UwOEVLOW10REdIc1otRy1aY0l3Uk54MmtJZGFxTmtSN2MtNkVZeEZIRXJQbDBKNi1IajlfWW9IUkZBclBkWTBIeEdJX0dBVmJ6MU43NUNPVHB2SmE4ZjV3dw?oc=5)
 
-2026-11-08
+2026-11-10
 
-Source: [NewsNation](https://news.google.com/rss/articles/CBMilAFBVV95cUxNNUp6MGMwN2JZaF9TQTRMVkRPS1hLTk15TEVUbGpsLUZjei1TTG5neFBib25WTUpqcmJBRnF0X20tNVVmc0JWWXBrUjZpOEdyRHEwTWdXX1VyMTE3NWhJUEdtU3ZWNHBEa0FBSnBMajE5Mm5XcERRM0Fkay1UcXYwYVNpUGxqS1NPVUc3UmdHTUczSDhv0gGaAUFVX3lxTE5TY2hhWnBxX2FDMURSVWJVM0pFRFpXNXcwajFwZVpEdkhnM21wV2RraFpmNmNVWl9UajdfM0Y3U2JtLWNUam5KTklKcWJpQTJucnZ2dVVLUEQ5WmROQkx2TG11RENJWjhLVl9xc01DU1N2N0FRYWV3RkdRS01Ra0d2TVctczVFUkhRTzR2aU9nQk5wSGZVbVlTNEE?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSWRHTVdzZDE0ZTdvTkRUcjJNR1F1ZWdIV1dfQ0ZIY09qbFc4U2dKVVpuOXpsMUltZTVEbFZkN1VzWlYtR1lCZ2J3VXJKN1c0MlZiYXY1aGhxVEo3a1UwOEVLOW10REdIc1otRy1aY0l3Uk54MmtJZGFxTmtSN2MtNkVZeEZIRXJQbDBKNi1IajlfWW9IUkZBclBkWTBIeEdJX0dBVmJ6MU43NUNPVHB2SmE4ZjV3dw?oc=5)
 
 ---
 

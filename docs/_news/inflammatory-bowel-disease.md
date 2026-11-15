@@ -3,9 +3,9 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 14 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 8 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 ---
 
 # UC (inflammatory bowel disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>14 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>8 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,55 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (14)
+## Related News (8)
+
+### [Too much fiber can backfire: the signs you’re overdoing a healthy habit](https://news.google.com/rss/articles/CBMiakFVX3lxTE41Qi1HbENXWGhVQ3MyMjFjbXFxaS1HMDZsenYtRThoMHFLdmFqYmo0Q2FZNUg3a25OMkNWX2lsaUtSNEp2Z1AxY3lwMjBaVC1QV2RycHl5NE83UWMtbmJ3eGhTZXF3TzJYb3c?oc=5)
+
+2026-11-14
+
+Source: [Ynetnews](https://news.google.com/rss/articles/CBMiakFVX3lxTE41Qi1HbENXWGhVQ3MyMjFjbXFxaS1HMDZsenYtRThoMHFLdmFqYmo0Q2FZNUg3a25OMkNWX2lsaUtSNEp2Z1AxY3lwMjBaVC1QV2RycHl5NE83UWMtbmJ3eGhTZXF3TzJYb3c?oc=5)
+
+---
+
+### [Man in his 70s diagnosed with rare heart defect usually found in infancy: "Lucky to have lived this long" - CBS News](https://news.google.com/rss/articles/CBMid0FVX3lxTFBYaWxkTktUUzE0MzFxMEp3TVY4TDFTTDJOUjhjTnVyMDQyRll4VjRBREx6WmxrRWZyV0JPY09FeE1pbWxDZFdLTXhlVldsdmRxd1BkaTRlTzZPbVdGZzJraEEwdXBtcmlDVkhndGZSQWZMck9IRUE0?oc=5)
+
+2026-11-14
+
+Source: [CBS News](https://news.google.com/rss/articles/CBMid0FVX3lxTFBYaWxkTktUUzE0MzFxMEp3TVY4TDFTTDJOUjhjTnVyMDQyRll4VjRBREx6WmxrRWZyV0JPY09FeE1pbWxDZFdLTXhlVldsdmRxd1BkaTRlTzZPbVdGZzJraEEwdXBtcmlDVkhndGZSQWZMck9IRUE0?oc=5)
+
+---
+
+### [Scientists find a simple daily routine linked to less pain and depression - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9zRHJBVWQzTk80cmRKd1dNS1NabXp3WVNlSkNmZndiUklQenlDZDdfRlJ1LU5BQndGSGpxbzMwVjNEQ2RnZWVQOUlqRURIZWY1bUpvaWxXRkZHa2h0LXcxQ1dQa1o1UjA0VzJCVWQ0WQ?oc=5)
+
+2026-11-14
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9zRHJBVWQzTk80cmRKd1dNS1NabXp3WVNlSkNmZndiUklQenlDZDdfRlJ1LU5BQndGSGpxbzMwVjNEQ2RnZWVQOUlqRURIZWY1bUpvaWxXRkZHa2h0LXcxQ1dQa1o1UjA0VzJCVWQ0WQ?oc=5)
+
+---
+
+### [The Largest Alzheimer's Genetics Study Yet Found 48 New Links. The Most Promising Clue Isn't About Memory](https://news.google.com/rss/articles/CBMitgFBVV95cUxOci12VGxQRzQ3S21aUjUyWGtLMTNWbGlITjVZU1JGcHFSbmJwMTE1ZlVYMGMtM2F5Q0I3dWJjNzN1OW9tMEN5Nmo0STF3OWJ0eFduaHcxZWdYVEVzaVRGeDJ0cXdfdnRsandiT3VtMkRWRmQ3dDAwZjFDa3c3MkFEWWgwRDItZVVrb2RtTjgxX2xTNHE1RDhLeW1OR0pYZzJUbWpXanVkQVkxT2pybFYtZVVGSEdaZw?oc=5)
+
+2026-11-14
+
+Source: [Inc.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxOci12VGxQRzQ3S21aUjUyWGtLMTNWbGlITjVZU1JGcHFSbmJwMTE1ZlVYMGMtM2F5Q0I3dWJjNzN1OW9tMEN5Nmo0STF3OWJ0eFduaHcxZWdYVEVzaVRGeDJ0cXdfdnRsandiT3VtMkRWRmQ3dDAwZjFDa3c3MkFEWWgwRDItZVVrb2RtTjgxX2xTNHE1RDhLeW1OR0pYZzJUbWpXanVkQVkxT2pybFYtZVVGSEdaZw?oc=5)
+
+---
+
+### [Common ADHD classroom accommodations may not help students succeed, study finds](https://news.google.com/rss/articles/CBMihwFBVV95cUxOM3gzTGlTZWNWdjZzNkMyT0JIbjFlc2F2cmxlbkI2RFd0QTM4VGtvSXI4SElRZHVBbjZKekx0NE52dkE3Uld4V2FWSUNLd2p4Q3Q2YXRtRGJfZmFDY1kwdGNDbXJjZ0NxV21Bc2NUUC13elRIRXhhVjV0ZnRHYmtRVjduNFRaM1k?oc=5)
+
+2026-11-13
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxOM3gzTGlTZWNWdjZzNkMyT0JIbjFlc2F2cmxlbkI2RFd0QTM4VGtvSXI4SElRZHVBbjZKekx0NE52dkE3Uld4V2FWSUNLd2p4Q3Q2YXRtRGJfZmFDY1kwdGNDbXJjZ0NxV21Bc2NUUC13elRIRXhhVjV0ZnRHYmtRVjduNFRaM1k?oc=5)
+
+---
+
+### [Who needs sex? Kelp reproduce asexually when no mate is nearby](https://news.google.com/rss/articles/CBMiX0FVX3lxTE11d1BEZmZYWHQ3YnZhbVVYbEZUUDdHZXdfLXBOQlZwVXlVV3dnd3YyLXVuckFHVEN3a0F4d083QmozU01vYWo0cGI5Q19xT0IxOVdaNXdNZUdTS1k4b1Jz?oc=5)
+
+2026-11-13
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE11d1BEZmZYWHQ3YnZhbVVYbEZUUDdHZXdfLXBOQlZwVXlVV3dnd3YyLXVuckFHVEN3a0F4d083QmozU01vYWo0cGI5Q19xT0IxOVdaNXdNZUdTS1k4b1Jz?oc=5)
+
+---
 
 ### [RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0QzJKWnp0WFVTVEpkOGV1TkgzNGtaT0ZEUUplYjlCUFJSa0owOXBzX0pJcEhwY3N5RTh4ZEIyTWc0Y1lSZ1NocFVKNC1Dd1dldkN6eHJIb083eFBKR0xZ?oc=5)
 
@@ -45,107 +93,11 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0QzJKWnp0WF
 
 ---
 
-### [Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3N1QTVmUWk0TFBfQjVfTGZKeTR4b1pheGlIajJTclVKdmZqdWhBUmlSZG1UeC1pVTNwZVBvU1NWUWlqdDBGbXd0Z2NUWXZuTFZ6Q2NGWVJQVXduRGhuc2R5Ymh0VmF1T3dNSnZNcmM1VS1pa2lNUkdFX2thRmZQLW5aNnB5RkMxT2R4UGZxLTFBWkd0Z2N0cFFIYWs5c05LSXlYRlZtSWZaNWRyc3RKWjA4WmZvZ2U3V0JwNUR6TnRCN1ZoYVVlZXBRWHZBdWlmRUE?oc=5)
+### [Pancreatic Cancer Risk May Be Reduced by Eating This Food, According to Dietitians](https://news.google.com/rss/articles/CBMihgFBVV95cUxOaHBNQTlhRURRcmRFVWFvbVFyNUN2YjNGXzZrMG5lUm5uczZsejJqUFoteDdUUnFEQk9RMDFad2ZzZnhsQ1ZEZEpkX2tqRENnZl9PMXdHZ1ZsVVZUblBGWU10WXNYYzlBTmllY3RzVlJ4Q1Y5b1g0T0k0Sldad0RhZlc4SVBxdw?oc=5)
 
-2026-11-12
+2026-11-08
 
-Source: [Space](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3N1QTVmUWk0TFBfQjVfTGZKeTR4b1pheGlIajJTclVKdmZqdWhBUmlSZG1UeC1pVTNwZVBvU1NWUWlqdDBGbXd0Z2NUWXZuTFZ6Q2NGWVJQVXduRGhuc2R5Ymh0VmF1T3dNSnZNcmM1VS1pa2lNUkdFX2thRmZQLW5aNnB5RkMxT2R4UGZxLTFBWkd0Z2N0cFFIYWs5c05LSXlYRlZtSWZaNWRyc3RKWjA4WmZvZ2U3V0JwNUR6TnRCN1ZoYVVlZXBRWHZBdWlmRUE?oc=5)
-
----
-
-### [Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmd0xfSDVzcU1HNk5SOG9BVmk3TTdreWpCNzh5b2U1WTVfWHpTQms3bV9BOHEzM1ZzU2VIc0xnNmhTRHJwQWxORk1xWUdkaXl3SHV2OURmcGNld2pvTXdJ?oc=5)
-
-2026-11-11
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmd0xfSDVzcU1HNk5SOG9BVmk3TTdreWpCNzh5b2U1WTVfWHpTQms3bV9BOHEzM1ZzU2VIc0xnNmhTRHJwQWxORk1xWUdkaXl3SHV2OURmcGNld2pvTXdJ?oc=5)
-
----
-
-### [Transient nuclear softening for zygotic gene activation in mice](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YT05fdW1JWXVUbTd3V29wWGRDSkd4Z1JfbTkzZDFYYlB3RXBBYXVNaVhNLTZWakI4bVdwZ3FsV3kzQl9sUjRfOVhURUEzMURLRllCZEJneWxVak1PUHpR?oc=5)
-
-2026-11-11
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YT05fdW1JWXVUbTd3V29wWGRDSkd4Z1JfbTkzZDFYYlB3RXBBYXVNaVhNLTZWakI4bVdwZ3FsV3kzQl9sUjRfOVhURUEzMURLRllCZEJneWxVak1PUHpR?oc=5)
-
----
-
-### [Deep-sea mollusk houses bacteria in tiny 'dragon balls,' revealing a new symbiotic structure](https://news.google.com/rss/articles/CBMidkFVX3lxTE5OX29xTmNaLTRxdEVqZm1iVkxJTktuc3drQVNuY05XLUZQZllhVG1WOWFUbGJEMlVGeE5nYk0yTE56dVhKeE5oMmVDcE5hdXBuWW92bUpmelNqbVlITk43OGFfeVJRQnNlMWxENmdPWjlSMGV5bnc?oc=5)
-
-2026-11-11
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE5OX29xTmNaLTRxdEVqZm1iVkxJTktuc3drQVNuY05XLUZQZllhVG1WOWFUbGJEMlVGeE5nYk0yTE56dVhKeE5oMmVDcE5hdXBuWW92bUpmelNqbVlITk43OGFfeVJRQnNlMWxENmdPWjlSMGV5bnc?oc=5)
-
----
-
-### [Scientists challenge the dream of bringing extinct species back to life](https://news.google.com/rss/articles/CBMidEFVX3lxTFB4eTJ1TXlpYmJhLWtHZ1JBWG1fazVqZ2hBbTV0SUVOZ3lrZ2g3cGZVbGFkOUxQNy1pd3ljcEJiRlRtUnBlWE9pQWdzbkZ6clJDWkNWN0lxaGNXemw1VWN3MnV5ZGlsMFZ2VmdwMHp1VFI1SXdE?oc=5)
-
-2026-11-11
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMidEFVX3lxTFB4eTJ1TXlpYmJhLWtHZ1JBWG1fazVqZ2hBbTV0SUVOZ3lrZ2g3cGZVbGFkOUxQNy1pd3ljcEJiRlRtUnBlWE9pQWdzbkZ6clJDWkNWN0lxaGNXemw1VWN3MnV5ZGlsMFZ2VmdwMHp1VFI1SXdE?oc=5)
-
----
-
-### [New review of the first oral PCSK9 drug, a needle-free option for high cholesterol - Medical Xpress](https://news.google.com/rss/articles/CBMie0FVX3lxTE1hNWZhZGg3WHlNUVpqVkNDN2thcGM1OFFIYzlmeUxJUTI5QWQwZ2RuSi1IUWZxMXJmVG1ubzZDcS1sMTBlSk5QMVpnMXRvOEVva2p5Uko0Y1FWeEV6TFdRWDFzN2ZzS0szQll6VjY0MDFiTi1oWVJQYjNZMA?oc=5)
-
-2026-11-11
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMie0FVX3lxTE1hNWZhZGg3WHlNUVpqVkNDN2thcGM1OFFIYzlmeUxJUTI5QWQwZ2RuSi1IUWZxMXJmVG1ubzZDcS1sMTBlSk5QMVpnMXRvOEVva2p5Uko0Y1FWeEV6TFdRWDFzN2ZzS0szQll6VjY0MDFiTi1oWVJQYjNZMA?oc=5)
-
----
-
-### [Tattoos Affect Your Immune System in Ways Scientists Are Only Beginning to Understand](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQi1MVFVnbWtrZzhpUndkVWNSOElxT1k5QkYzdHVDdE1jeDNxMzM3YWg4enRfNDc5OW81LTVEM1V4NTB2N3JXWTdtb0g4c0o5eGxyT09KOWY5bVR1UXdWWkNQZ2lQZzZpZjJEM2djLW4teG5KNDZJRkN1MnJTSDJKWHk2WC1uMHVPVnZreGlNcEFyOGJvdXFhUVJWazRwTXpUUExNeVFVQ1RETGV4Ykx3UUJYLWg?oc=5)
-
-2026-11-11
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQi1MVFVnbWtrZzhpUndkVWNSOElxT1k5QkYzdHVDdE1jeDNxMzM3YWg4enRfNDc5OW81LTVEM1V4NTB2N3JXWTdtb0g4c0o5eGxyT09KOWY5bVR1UXdWWkNQZ2lQZzZpZjJEM2djLW4teG5KNDZJRkN1MnJTSDJKWHk2WC1uMHVPVnZreGlNcEFyOGJvdXFhUVJWazRwTXpUUExNeVFVQ1RETGV4Ykx3UUJYLWg?oc=5)
-
----
-
-### [Robot builds structure in space for the first time in technological breakthrough - New York Post](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmh5bEZUOUdYd2pWTVBzQk1CY2c1d3J5MWtSQ0gwMzFZV3J6ZzF3NkdsdUd6VlBvam9EMWZZT0dnbDg4eFZkQkk1UjBqNlB4WjcwRlZnMW9YamptbW41UnR0eU9jR3B4amxpVkpLUHhLenRxaXNCRkh2LWszN0lOaTFoU2s5bUhESjlvaGlqYw?oc=5)
-
-2026-11-10
-
-Source: [New York Post](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmh5bEZUOUdYd2pWTVBzQk1CY2c1d3J5MWtSQ0gwMzFZV3J6ZzF3NkdsdUd6VlBvam9EMWZZT0dnbDg4eFZkQkk1UjBqNlB4WjcwRlZnMW9YamptbW41UnR0eU9jR3B4amxpVkpLUHhLenRxaXNCRkh2LWszN0lOaTFoU2s5bUhESjlvaGlqYw?oc=5)
-
----
-
-### [‘Smartphone pinkie’ and other signs you may be using your phone too much](https://news.google.com/rss/articles/CBMidkFVX3lxTFBRbXlwa1BjaEdkNmJTSFN6a01oeTE4WXBmeWJYM251a09MWmtJS0wxOW5XOTBSc0JnaDkxNkVrOGxFSjNCZmpBck94WlpPMmpQWVY3OEZ3akhjMXUwUGRIbGlQMExJZmpXX1AwMVFtMFNNN3VBR0E?oc=5)
-
-2026-11-10
-
-Source: [CNN](https://news.google.com/rss/articles/CBMidkFVX3lxTFBRbXlwa1BjaEdkNmJTSFN6a01oeTE4WXBmeWJYM251a09MWmtJS0wxOW5XOTBSc0JnaDkxNkVrOGxFSjNCZmpBck94WlpPMmpQWVY3OEZ3akhjMXUwUGRIbGlQMExJZmpXX1AwMVFtMFNNN3VBR0E?oc=5)
-
----
-
-### [How word of mouth is helping an Amish community's fight against measles](https://news.google.com/rss/articles/CBMijgFBVV95cUxNME9XOWJGNk83dFVQeTgzWEs2YUROZVJGSlcxRms4QmQ3RDBudlJYU0tzQ3hCOTkxMi1Mc1pCU2QtdXhHMVBRdDFFRW1pcTBvcklnWGU4YWIzTkdZOV95SmZ5M2xMWkgwdnN0ZUtHTllqeU5lTjJXZHdOdXJLdDZBb0w4VWF0cVoxYnlfeG5R?oc=5)
-
-2026-11-10
-
-Source: [NPR](https://news.google.com/rss/articles/CBMijgFBVV95cUxNME9XOWJGNk83dFVQeTgzWEs2YUROZVJGSlcxRms4QmQ3RDBudlJYU0tzQ3hCOTkxMi1Mc1pCU2QtdXhHMVBRdDFFRW1pcTBvcklnWGU4YWIzTkdZOV95SmZ5M2xMWkgwdnN0ZUtHTllqeU5lTjJXZHdOdXJLdDZBb0w4VWF0cVoxYnlfeG5R?oc=5)
-
----
-
-### [Accidental discovery enables room-temperature recrystallization of molybdenum](https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFVycHI5TjdFN3Q3WXJYTEtlR0Y0RjkzLWI3cjVDRDM5LWRRX19jODRMNy1reVRsR2s5aDdVSVhCVjBDc2RrOVlWWWhTb1F0TUp0d1VSQ1pVaTFra1ZqempHUnF2amNDUllKTDVHWVFqdnc3d1dlbW9jYVpHY2dFU0RTMGdzcG8?oc=5)
-
-2026-11-10
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFVycHI5TjdFN3Q3WXJYTEtlR0Y0RjkzLWI3cjVDRDM5LWRRX19jODRMNy1reVRsR2s5aDdVSVhCVjBDc2RrOVlWWWhTb1F0TUp0d1VSQ1pVaTFra1ZqempHUnF2amNDUllKTDVHWVFqdnc3d1dlbW9jYVpHY2dFU0RTMGdzcG8?oc=5)
-
----
-
-### [Go For Orbit](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kQzl1R0xIWEFvcTRFWkdmM2dhUVJQUklNQzBiaWFOeUJzdDhDeDcwWFJsdEtLYmZrTzBUc1ZJb2VRczlkdEZaVzU2Qy1RY21VdWFrYTM1TXdXRmJocEFkVFNB?oc=5)
-
-2026-11-06
-
-Source: [SpaceX](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kQzl1R0xIWEFvcTRFWkdmM2dhUVJQUklNQzBiaWFOeUJzdDhDeDcwWFJsdEtLYmZrTzBUc1ZJb2VRczlkdEZaVzU2Qy1RY21VdWFrYTM1TXdXRmJocEFkVFNB?oc=5)
-
----
-
-### [Can diet and exercise reverse type 2 diabetes? What a new study found](https://news.google.com/rss/articles/CBMijwFBVV95cUxOTDE3WDZTcXhuQ2ZPM1hYNFVHUm1MaEdRbU9fdGlGTE1JdWItMnozSVJjZGpHeDRhYUtkTk5vOW0xWTNlaFg0TjNxOXFDc1BsaWlBVTFIS2JWMDljN2hxUktKZjRPaU9mTXA5SkZ4MUV0U1Z6LUp2WHptQzhDRGxEdmN3dG1ZLW9xYTl6NkdJcw?oc=5)
-
-2026-11-06
-
-Source: [CNN](https://news.google.com/rss/articles/CBMijwFBVV95cUxOTDE3WDZTcXhuQ2ZPM1hYNFVHUm1MaEdRbU9fdGlGTE1JdWItMnozSVJjZGpHeDRhYUtkTk5vOW0xWTNlaFg0TjNxOXFDc1BsaWlBVTFIS2JWMDljN2hxUktKZjRPaU9mTXA5SkZ4MUV0U1Z6LUp2WHptQzhDRGxEdmN3dG1ZLW9xYTl6NkdJcw?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMihgFBVV95cUxOaHBNQTlhRURRcmRFVWFvbVFyNUN2YjNGXzZrMG5lUm5uczZsejJqUFoteDdUUnFEQk9RMDFad2ZzZnhsQ1ZEZEpkX2tqRENnZl9PMXdHZ1ZsVVZUblBGWU10WXNYYzlBTmllY3RzVlJ4Q1Y5b1g0T0k0Sldad0RhZlc4SVBxdw?oc=5)
 
 ---
 

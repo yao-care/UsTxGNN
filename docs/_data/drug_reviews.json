@@ -22728,7 +22728,10 @@
    ],
    "checked": "2026-10-31",
    "summary": "Removed: \"There are no clinical trials or publications, the mechanism is unknown, oral PEG 3500 is minimally absorbed, and the only US license is canc\"",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9438c3e5（2026-10-31）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：9438c3e5（2026-10-31）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "the report was regenerated in 2026-11 and no longer contains this statement"
   },
   {
    "id": "us-lic-20261031-polyethylene_glycol_400-1",

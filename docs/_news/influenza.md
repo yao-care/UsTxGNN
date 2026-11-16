@@ -3,9 +3,9 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 2 articles, 2 related drugs."
+description: "Health news about flu (influenza). 3 articles, 2 related drugs."
 permalink: /news/influenza/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # flu (influenza) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>2 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>3 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Have the sniffles? See if respiratory illnesses are rising near you](https://news.google.com/rss/articles/CBMidkFVX3lxTE5haHNLQkR6STJpRUJMMXFiLUxJdkxtZGhPeGFfYkY0YjJ2NFhPbE1TbkJlQ05GQkphOHROTHd2QjFDUWVWeUExQTBCVmRPd1M4OU9aWDFBd0lTSXpFRUwyOFlxYjEwMnZJczdaM3BXR3czRjFMUEE?oc=5)
+
+2026-11-15
+
+Source: [WISN](https://news.google.com/rss/articles/CBMidkFVX3lxTE5haHNLQkR6STJpRUJMMXFiLUxJdkxtZGhPeGFfYkY0YjJ2NFhPbE1TbkJlQ05GQkphOHROTHd2QjFDUWVWeUExQTBCVmRPd1M4OU9aWDFBd0lTSXpFRUwyOFlxYjEwMnZJczdaM3BXR3czRjFMUEE?oc=5)
+
+---
 
 ### [The U.S. flu season is off to a very early start. It's hitting the South and West now](https://news.google.com/rss/articles/CBMiugFBVV95cUxObzQyYkhqa3BjY1NtMkUtc3RaekMyTk93M1FReFh6REZ4d3R4WnktT29RN2JmWVFvbEpxVmpvSkJoSl83ZE1saWtUZDU0Ym5wYlR0dW5BUHJOTVdvUkRsOU4tNlJFOEFWZzlFZkJIXzVBT2xSc1FQbC16YXZSbTYwb1BrcWtsU3BUdnRFUjhteWdWcm9XNmhKdUpUa3dMMTJPaERiME01dEt4bVdMdmFDQ25wbVJhNE1abUE?oc=5)
 

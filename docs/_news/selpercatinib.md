@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Selpercatinib. 3 predicted indications."
 permalink: /news/selpercatinib/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Selpercatinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Selpercatinib?">
-<strong>Selpercatinib</strong> currently has <strong>29 news articles</strong>, with 3 predicted indications.
+<strong>Selpercatinib</strong> currently has <strong>36 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,23 @@ This page combines the AI-predicted indications for Selpercatinib with the lates
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (29)
+## Related News (36)
+
+### [Research Stalls for a Year Into a Cancer That Kills Children in a Year - The New York Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmY1MVpOX0xZcEdYSGFhWHpTVG5sN3NCWDNBTlk2d0FnU2N0Ql9nWWJOQXIwTmhNbnhkZ2ZGb1Nqb01Ra0JOMFp0NXBGZlA2ZFNyREJmRXB4SzRSZnp6Z1pDejhSVFZhaXRhWkJnYlFOck9aVExxVXc0OGVCUW02LWRvdlZzREIzbFJ3Ml9SazZiOVRHR0MyWkdBWXpVUEw4YWlpTmkwb2JJaWhycF9pYW5mT3hnUQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmY1MVpOX0xZcEdYSGFhWHpTVG5sN3NCWDNBTlk2d0FnU2N0Ql9nWWJOQXIwTmhNbnhkZ2ZGb1Nqb01Ra0JOMFp0NXBGZlA2ZFNyREJmRXB4SzRSZnp6Z1pDejhSVFZhaXRhWkJnYlFOck9aVExxVXc0OGVCUW02LWRvdlZzREIzbFJ3Ml9SazZiOVRHR0MyWkdBWXpVUEw4YWlpTmkwb2JJaWhycF9pYW5mT3hnUQ?oc=5)
+
+---
+
+### [As diabetes spikes in Kashmir, the health lens turns to the fabled wazwan - The Hindu](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMFh6V2R4MXFfVldKWnZHVl84WDZhMjg0UGt3X1JxazdOUG93cm9ha2pDSEk1eV84V3RZYUh1OW9LZ1hNU0RJdzVaamw2ZXNhaWgwYzZPMWNfOXRZQXBKRzlzNWE4NjJ0elZJQ2wwQ0hhNl91cTQ1aDFOVGZERTY2YjZLMkVsRlhrZ0UzYUh4d2NYNGxTVF92cXI4cWlxNlZEc29MRUtzYThuSldIam4tSEI4c0k3N05xS0lGQS1kTldwQ0hGZW9ZTEZiZ3ZoTHVIUHlvYTNhOThpUWJKU3hZSVJ5c9IB6gFBVV95cUxNUG91T25jUlFQbVJQTmViV1dFcHh6b1BSalJSZDlybmVUNnIxZnNLeGQzWnFjcTVpbWtpbmt1SGd6eHFEZnl4OWNDY0d3VHk2R3M2elRPRFA4ZHZwX213RUZ6OTRsOXNwanozYUVfS3ZBS0NlNXc4WXhlOFpxdXZEOE5yRVpZWWVmckhnTnd0V1JaVHRBSHVOQ3NTSVNvQ1NValVlVi1BUURkTGstNkhLb0p1bWkwS1NURGtCQ1JVbWVOREpQRGV4VDJSVERhN3RNQWVMYUI0aDh1bEZrQ0V3NENPaFdwcWRWd2c?oc=5)
+
+2026-11-15 <span class="news-indication-tag">MI</span>
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMFh6V2R4MXFfVldKWnZHVl84WDZhMjg0UGt3X1JxazdOUG93cm9ha2pDSEk1eV84V3RZYUh1OW9LZ1hNU0RJdzVaamw2ZXNhaWgwYzZPMWNfOXRZQXBKRzlzNWE4NjJ0elZJQ2wwQ0hhNl91cTQ1aDFOVGZERTY2YjZLMkVsRlhrZ0UzYUh4d2NYNGxTVF92cXI4cWlxNlZEc29MRUtzYThuSldIam4tSEI4c0k3N05xS0lGQS1kTldwQ0hGZW9ZTEZiZ3ZoTHVIUHlvYTNhOThpUWJKU3hZSVJ5c9IB6gFBVV95cUxNUG91T25jUlFQbVJQTmViV1dFcHh6b1BSalJSZDlybmVUNnIxZnNLeGQzWnFjcTVpbWtpbmt1SGd6eHFEZnl4OWNDY0d3VHk2R3M2elRPRFA4ZHZwX213RUZ6OTRsOXNwanozYUVfS3ZBS0NlNXc4WXhlOFpxdXZEOE5yRVpZWWVmckhnTnd0V1JaVHRBSHVOQ3NTSVNvQ1NValVlVi1BUURkTGstNkhLb0p1bWkwS1NURGtCQ1JVbWVOREpQRGV4VDJSVERhN3RNQWVMYUI0aDh1bEZrQ0V3NENPaFdwcWRWd2c?oc=5)
+
+---
 
 ### [The link between microplastics and one of the deadliest cancers, and what to do - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXJSd0VoUmR3RDRrdDRhTHpJRGNIZzQzZnZfb0NQb1Z0eEFKNWhsRnV0VU5kVUZBb0lLdXNwb1FWV0JBa1pVM09vVXJnZVRtckZKZEhSdXdhd1ZoSXlYQms1R3BTcV84czdEWl9ubEoxLUpRdFh4b1ozeU1LQkozQWRfXzQyWklyQnY3ZGhaQ05LcXdhQmZfdDd3LXdGVFljTmxlTElQV3hOT1Va?oc=5)
 
@@ -77,6 +93,14 @@ Source: [Newsweek](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ09Vb0xN
 
 ---
 
+### [Coffee Doesn't Just Help You Poop. It May Change The Physiology in Your Gut.](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVmhtd2p0bWxYZ2wtV3ZkMm9xQ0pMUlRvSVBBMjFvX3pVTl9oM1dJTTY4dDNZbXlWUXU3Y1hqVE00X1l5azVINVhlWkNuV1EtZGR4Q3NHYkdONW4zdnVhdWdWb2g5RkVJeUJ5R2dIQTNWTGZCUTR6NUZSNFB4QnM2YlhwTjNSSUFiZ01jTFFrRmFzSXllcmtLWHRSczMtYWhDbndnZw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">MI</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVmhtd2p0bWxYZ2wtV3ZkMm9xQ0pMUlRvSVBBMjFvX3pVTl9oM1dJTTY4dDNZbXlWUXU3Y1hqVE00X1l5azVINVhlWkNuV1EtZGR4Q3NHYkdONW4zdnVhdWdWb2g5RkVJeUJ5R2dIQTNWTGZCUTR6NUZSNFB4QnM2YlhwTjNSSUFiZ01jTFFrRmFzSXllcmtLWHRSczMtYWhDbndnZw?oc=5)
+
+---
+
 ### [Secrets of Earth's Oldest Animals Preserved by Ancient Underwater Canyons, Study Finds](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2Z2Uk5VdzFhZnJwTTRoZHVKeTZVUjg3OG5hak53OFRwUF9yRmZfTkdDb0JvbmNWTk5rVmgzWXZ1NXJGSFhPWVlNMk5PVTJBNW1hdk01cnFnOXRORk5RLVBRTjZjdmdDRUFWbGpCckVJRWxmOWtxZ2wzdGZRck1MVHBTalJYVG5GYmh0dzY4WTZwbF96d09obG9GbURfZHdSX3FpUVVYWUdLVFdkb1pJWVdudw?oc=5)
 
 2026-11-15 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
@@ -90,6 +114,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2Z2
 2026-11-14 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [NPR](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMm5kN1UwLUQ1cF9CdGJNMHctVFlUQVlTSWtPRnBOb0pBR1RSaW5xcjdpTGpMU3hMQ0otbm9WSXd2WV8yMUVMX1lYVHdQQXd3V2ZWUFhyYzhuSVFSVU5XX3JIR1lscmFRQTNHZl8tNTJGaFhjdnIybFU2Nk5DelN6ZVBMUHIxTTRzem8zek9KRUp1bmdaVDhn?oc=5)
+
+---
+
+### [Brain-computer interfaces: A new voice for people with paralysis - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbW1DSGdoRUFyMm9kRjVWUjdQVU9lMzBLVnVUOUU5YWNRZHB2YTE1SG91SWx1b0tZYUVUMWZ6SGhtQkpsYjVKbTNtUndUcnBZMFdmX1NpNVNSd3g0aFlrUjFadjVPWHpvN1RxZ0VzcHRMS3ZjdWVIMDNDYWowaHAxalh2RU40T3UzSnNv?oc=5)
+
+2026-11-14 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbW1DSGdoRUFyMm9kRjVWUjdQVU9lMzBLVnVUOUU5YWNRZHB2YTE1SG91SWx1b0tZYUVUMWZ6SGhtQkpsYjVKbTNtUndUcnBZMFdmX1NpNVNSd3g0aFlrUjFadjVPWHpvN1RxZ0VzcHRMS3ZjdWVIMDNDYWowaHAxalh2RU40T3UzSnNv?oc=5)
 
 ---
 
@@ -253,6 +285,14 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMinAFBVV95cUxNbkJSQlJh
 
 ---
 
+### [The Grand Canyon is missing over a billion years of rocks. Now scientists know why. - Live Science](https://news.google.com/rss/articles/CBMiygFBVV95cUxPUjViYzFrR2VTY2FucHhJMDF0aGtHVVBaNlFYV1dDOXptSk1nbENvdlNuZy1RR3IyM1djaVZpMnJLYmRlRFc1cjAtQUZMbTR4NGVDbmFKU25HalM3OFhYM0ptbFEtbkNfQ0NaVGVQUTFXZHNpVDZnTnhLQlRxYmYxSVBKV2p1a3luNk5PX1Y4NXkyVWxzNXFZZ21zYzYwUHFfU3NoajFKa2RnemFDZzctcWFCUTJpNms5dHdsZFNSblFScnpUdVFyczZn?oc=5)
+
+2026-11-11 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [Live Science](https://news.google.com/rss/articles/CBMiygFBVV95cUxPUjViYzFrR2VTY2FucHhJMDF0aGtHVVBaNlFYV1dDOXptSk1nbENvdlNuZy1RR3IyM1djaVZpMnJLYmRlRFc1cjAtQUZMbTR4NGVDbmFKU25HalM3OFhYM0ptbFEtbkNfQ0NaVGVQUTFXZHNpVDZnTnhLQlRxYmYxSVBKV2p1a3luNk5PX1Y4NXkyVWxzNXFZZ21zYzYwUHFfU3NoajFKa2RnemFDZzctcWFCUTJpNms5dHdsZFNSblFScnpUdVFyczZn?oc=5)
+
+---
+
 ### [New culprit in early Alzheimer’s: blood–brain barrier blocks protective proteins](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iOHp0T2ZXbXp1c2g0MDdxdVVSbzJVVnJPZ3prNkpKLUhHTkJnQlRFUmlXMlFrVGtWbHVudk5YT2czSlVWM0wyQk9jMmZMM3RNdExBYmRMVHJhdVFObHBn?oc=5)
 
 2026-11-11 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
@@ -261,11 +301,27 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iOHp0T2ZXbX
 
 ---
 
+### [An 11-day-old baby couldn’t stop bleeding. For hours, the ER didn’t provide a critical vitamin shot.](https://news.google.com/rss/articles/CBMicEFVX3lxTE85S1czZjI1U1d1UzkwSUZ1VGRQSm00WWdHbGlzMlFsV0p2bGdaNzZDME82RFgwT2o1ck9DWlBRdVVrTWYxU2FweHBZbTNyRVVnRkZKYUNHcEM0dWdFaHJTQmFiQ1lzTHRTYVNCX1BvVGM?oc=5)
+
+2026-11-10 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [CNN](https://news.google.com/rss/articles/CBMicEFVX3lxTE85S1czZjI1U1d1UzkwSUZ1VGRQSm00WWdHbGlzMlFsV0p2bGdaNzZDME82RFgwT2o1ck9DWlBRdVVrTWYxU2FweHBZbTNyRVVnRkZKYUNHcEM0dWdFaHJTQmFiQ1lzTHRTYVNCX1BvVGM?oc=5)
+
+---
+
 ### [Energy drinks linked to heart attacks, cardiac arrest in young adults, per study](https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2ticWIwc0J0Tm1OQXVWX19QZ3pkeUk5dE1rXzQ2MnN2a0dreUdodG5BcS1tek1qZTVGWVZvSll6S3JWVjZRMWVud01BTHIzcl9JRWNuR3BlYTNPam45ckRDNDk3eHNBMGduQm1PTXRyNFhZRnNsa2xzcm9Ic2pTNEJwbnB3Z1paSGhId1dRNDJyS3Bja0VGU0I5XzVBWldXWTgwYUtGTE9MSHlJMThjTjViRnR1UdIBygFBVV95cUxNOTlReWhuamZXNTlvVHB1TWp0Um4zR1JjUGxkSzlRc1FqNDhwUGRDaVZvNVUtU3VFTV9CbTNmY1NtenhISWMtYjJRaTY2OVVBVWlZRkNCcERPTTRVSDFvUVBBY05udG9BekgxXzZpc1g1eXRLX2FwWEdhQnptMmtLOEJmd0JqaTgzRjBBQ1VwLXhwOTRROUw4MGZ1OXdpQUxZN3lBN2ZnTUtNak8xek5Ub09nN1NRbEVfeDMwRjcyRklDaHRaZVREalBB?oc=5)
 
 2026-11-09 <span class="news-indication-tag">heart attack</span>
 
 Source: [AL.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2ticWIwc0J0Tm1OQXVWX19QZ3pkeUk5dE1rXzQ2MnN2a0dreUdodG5BcS1tek1qZTVGWVZvSll6S3JWVjZRMWVud01BTHIzcl9JRWNuR3BlYTNPam45ckRDNDk3eHNBMGduQm1PTXRyNFhZRnNsa2xzcm9Ic2pTNEJwbnB3Z1paSGhId1dRNDJyS3Bja0VGU0I5XzVBWldXWTgwYUtGTE9MSHlJMThjTjViRnR1UdIBygFBVV95cUxNOTlReWhuamZXNTlvVHB1TWp0Um4zR1JjUGxkSzlRc1FqNDhwUGRDaVZvNVUtU3VFTV9CbTNmY1NtenhISWMtYjJRaTY2OVVBVWlZRkNCcERPTTRVSDFvUVBBY05udG9BekgxXzZpc1g1eXRLX2FwWEdhQnptMmtLOEJmd0JqaTgzRjBBQ1VwLXhwOTRROUw4MGZ1OXdpQUxZN3lBN2ZnTUtNak8xek5Ub09nN1NRbEVfeDMwRjcyRklDaHRaZVREalBB?oc=5)
+
+---
+
+### [9 Early Dementia Red Flags That Have Nothing To Do With Memory Loss - HuffPost UK](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbjliclk2RU1HejdKMTVrMGhWQUhFaWRBblBuNUNCYnFNckFHTFRzY2hlMHRkU3dlY1NpODJtRDdoNThVQm56RXJ4dnJFRGl3RlVOcDM5aFBtUEtkTXE5M1g1RVNfRWJ0Zzl4QnNSQl9NV01TUWF2OTgyOExOX0R0SDJncjZtOTlRbDVjNVF5V0x1eWVVRU0xanpPendYNS10SUw1UUdR?oc=5)
+
+2026-11-09 <span class="news-indication-tag">MI</span>
+
+Source: [HuffPost UK](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbjliclk2RU1HejdKMTVrMGhWQUhFaWRBblBuNUNCYnFNckFHTFRzY2hlMHRkU3dlY1NpODJtRDdoNThVQm56RXJ4dnJFRGl3RlVOcDM5aFBtUEtkTXE5M1g1RVNfRWJ0Zzl4QnNSQl9NV01TUWF2OTgyOExOX0R0SDJncjZtOTlRbDVjNVF5V0x1eWVVRU0xanpPendYNS10SUw1UUdR?oc=5)
 
 ---
 

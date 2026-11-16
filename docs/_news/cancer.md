@@ -3,9 +3,9 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 8 articles, 1 related drugs."
+description: "Health news about cancer. 11 articles, 1 related drugs."
 permalink: /news/cancer/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # cancer News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>8 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>11 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (8)
+## Related News (11)
+
+### [Cancer 'sponge' tests could be offered to more people with bad indigestion](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QNExVMUV6NTVHcWx1QUtydWZ4ek5vRlRHZl9hVDhBVTNhbDhCNXF2Y1hIMHdDVUc4aDFPTnlMdVBaeUxJdWxqMHhWaFJKSlBMV0MxOVZuamNVLVE?oc=5)
+
+2026-11-16
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QNExVMUV6NTVHcWx1QUtydWZ4ek5vRlRHZl9hVDhBVTNhbDhCNXF2Y1hIMHdDVUc4aDFPTnlMdVBaeUxJdWxqMHhWaFJKSlBMV0MxOVZuamNVLVE?oc=5)
+
+---
+
+### [Research Stalls for a Year Into a Cancer That Kills Children in a Year - The New York Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmY1MVpOX0xZcEdYSGFhWHpTVG5sN3NCWDNBTlk2d0FnU2N0Ql9nWWJOQXIwTmhNbnhkZ2ZGb1Nqb01Ra0JOMFp0NXBGZlA2ZFNyREJmRXB4SzRSZnp6Z1pDejhSVFZhaXRhWkJnYlFOck9aVExxVXc0OGVCUW02LWRvdlZzREIzbFJ3Ml9SazZiOVRHR0MyWkdBWXpVUEw4YWlpTmkwb2JJaWhycF9pYW5mT3hnUQ?oc=5)
+
+2026-11-16
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmY1MVpOX0xZcEdYSGFhWHpTVG5sN3NCWDNBTlk2d0FnU2N0Ql9nWWJOQXIwTmhNbnhkZ2ZGb1Nqb01Ra0JOMFp0NXBGZlA2ZFNyREJmRXB4SzRSZnp6Z1pDejhSVFZhaXRhWkJnYlFOck9aVExxVXc0OGVCUW02LWRvdlZzREIzbFJ3Ml9SazZiOVRHR0MyWkdBWXpVUEw4YWlpTmkwb2JJaWhycF9pYW5mT3hnUQ?oc=5)
+
+---
 
 ### [The link between microplastics and one of the deadliest cancers, and what to do - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXJSd0VoUmR3RDRrdDRhTHpJRGNIZzQzZnZfb0NQb1Z0eEFKNWhsRnV0VU5kVUZBb0lLdXNwb1FWV0JBa1pVM09vVXJnZVRtckZKZEhSdXdhd1ZoSXlYQms1R3BTcV84czdEWl9ubEoxLUpRdFh4b1ozeU1LQkozQWRfXzQyWklyQnY3ZGhaQ05LcXdhQmZfdDd3LXdGVFljTmxlTElQV3hOT1Va?oc=5)
 
@@ -69,6 +85,14 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE92dDZ
 2026-11-14
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNM05QOGoyNzlBa1AtSmZjZFhjZEQ4b0t0TVN0UFowb19Pd19xSHdjM3FicE9yZ1V2MlpmY3NjOF84Ty1FbENwQUE5UEJzZ2lCdWZVS2hrdkFIbXJKSzVjMkVlYTJWV1pNZG9COW9NbUZmY1dWcXk5ZUFqcnBTUXpQcmJLWDVKQkNRSUsxMXoyc2pyeHBfcEJJVXNxeWhiQmp10gGmAUFVX3lxTE5DaVY2Z2dQVVlENklySFVvN21IdWJUNkkwOGJfLXpSWUVkaXJvaEVPWU5zLWZjdGpqOHBvRmZhT1dISmU1VmRMdlVlbDliSDV1OF9NMFRkVDkwSUhZdWNwYThtN2lqTU9KUVAybVhyR1BrMXBIY29NelFyU1RrMFgzWjJnVzVtRmRhWUR2S2YxQTlEb0JZbGxKZllMMnkyZUlOVXhhc1E?oc=5)
+
+---
+
+### [What men need to know after a major update to prostate cancer guidelines](https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2RxWnpJX1VSUm9kWno2QXpLdzRCZnJsOWJraTV1dWo2c1M0amJUZWs2emhSYURsc0lnUFhRNUtFQWtGUEN3U1d0emp1ZVFDN0pnSWVRWFZpM01HZmxWNmZ2cTJHVUV4SmJGQm8xZG4wQU13aU1yMlg0cnFPT3Z2dWdqbVZ0WmNLd2ZTQzJQbWVVU2xfTmYxVXh2cEY4enFaVkZQejlYWUg1NUN3?oc=5)
+
+2026-11-13
+
+Source: [PBS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2RxWnpJX1VSUm9kWno2QXpLdzRCZnJsOWJraTV1dWo2c1M0amJUZWs2emhSYURsc0lnUFhRNUtFQWtGUEN3U1d0emp1ZVFDN0pnSWVRWFZpM01HZmxWNmZ2cTJHVUV4SmJGQm8xZG4wQU13aU1yMlg0cnFPT3Z2dWdqbVZ0WmNLd2ZTQzJQbWVVU2xfTmYxVXh2cEY4enFaVkZQejlYWUg1NUN3?oc=5)
 
 ---
 

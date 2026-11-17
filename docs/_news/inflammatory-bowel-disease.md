@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 12 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 14 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-11-17
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>12 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>14 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,23 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (12)
+## Related News (14)
+
+### [Here’s Exactly How Much Leafy Greens to Eat Daily to Support Brain Health, According to a Dietitian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNNjNnR0sxZi1ERzBxcFpsSE5GMk53VFJDYVlnYVExY1JscEdXOXU3UEp2YzdHZU92MlhlT2hMLW9rUkROTDZCczByRTdzb0dxakgxVFJuR3JSOWZvbFFxd3lzX2N4MF9JZGVISGFkT09RMEhaYW92c0lueHc3WDFLeGF2STBabjUzRnN0bEpMaUtJQkRyNUZzS3ZB?oc=5)
+
+2026-11-17
+
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNNjNnR0sxZi1ERzBxcFpsSE5GMk53VFJDYVlnYVExY1JscEdXOXU3UEp2YzdHZU92MlhlT2hMLW9rUkROTDZCczByRTdzb0dxakgxVFJuR3JSOWZvbFFxd3lzX2N4MF9JZGVISGFkT09RMEhaYW92c0lueHc3WDFLeGF2STBabjUzRnN0bEpMaUtJQkRyNUZzS3ZB?oc=5)
+
+---
+
+### [Pancreatic cancer mystery deepens as researchers make unexpected discovery - Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3FkalNkVm1tVUNmQTdmMU5rWW5TWGQ0M0YwNm0wRnVaRkJoVjY2d0F2cGlCYm1MdVBDbHZ5QjF2YmdkbFhfb2FTWE5fR2lGMzNoQlZWVVVqM3JqN21STVFfUElUc0lhclJfSzAwbUoxaVpkZkVwanRWSUt3VTFrNmpkZXc4emw1RW5LNkNsU243aUFuZ21MVW9YbEtfZFNPaFR0MtIBqgFBVV95cUxPbDVORmljek95al9DUXd5aGR5VEFaLTV3SGhXWEVUdTdOQlVkZTcwaDR5VlhvUEd6MlIwelcyUVVoMHQtZXJLamhJSUNRdjlwY3FzS29sQVZoTzBJYjhQZHpuSXR3VUpOU1h0RUdlRU9ndnJicmJqQWZSLXJZVXhKc3dZdm4yTlA0aHdKNkxLR1NvNWVuQnh3WWJlVEVSSTIybFB3Qy0yeGxGZw?oc=5)
+
+2026-11-17
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3FkalNkVm1tVUNmQTdmMU5rWW5TWGQ0M0YwNm0wRnVaRkJoVjY2d0F2cGlCYm1MdVBDbHZ5QjF2YmdkbFhfb2FTWE5fR2lGMzNoQlZWVVVqM3JqN21STVFfUElUc0lhclJfSzAwbUoxaVpkZkVwanRWSUt3VTFrNmpkZXc4emw1RW5LNkNsU243aUFuZ21MVW9YbEtfZFNPaFR0MtIBqgFBVV95cUxPbDVORmljek95al9DUXd5aGR5VEFaLTV3SGhXWEVUdTdOQlVkZTcwaDR5VlhvUEd6MlIwelcyUVVoMHQtZXJLamhJSUNRdjlwY3FzS29sQVZoTzBJYjhQZHpuSXR3VUpOU1h0RUdlRU9ndnJicmJqQWZSLXJZVXhKc3dZdm4yTlA0aHdKNkxLR1NvNWVuQnh3WWJlVEVSSTIybFB3Qy0yeGxGZw?oc=5)
+
+---
 
 ### [A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RSTmFwQ2NXYXhnV1ExZFZhOExLYkNXalRKeXh6TW9qRGRQa3VXSndfQW1wd2pXQ3czdUx6UUdoNHhsVmNDV0xZZ0tvd2k1OG5QS0twd0tXdjVpTzZ4ZkNFVnNaMXpLTEE0djBOQWRfMHhRRnZaVG9udG90YjBEWHl2RDBUVUZhLWVsM0l4Rk9XNDZEQ21aQUM4MklRZmpycDdTdkJHalBZamN1YzI5VDFjVTdSeUNObGhEZUR2U3lJY3E2cHc?oc=5)
 

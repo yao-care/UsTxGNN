@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>14 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>16 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (16)
+
+### [Here’s Exactly How Much Leafy Greens to Eat Daily to Support Brain Health, According to a Dietitian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNNjNnR0sxZi1ERzBxcFpsSE5GMk53VFJDYVlnYVExY1JscEdXOXU3UEp2YzdHZU92MlhlT2hMLW9rUkROTDZCczByRTdzb0dxakgxVFJuR3JSOWZvbFFxd3lzX2N4MF9JZGVISGFkT09RMEhaYW92c0lueHc3WDFLeGF2STBabjUzRnN0bEpMaUtJQkRyNUZzS3ZB?oc=5)
+
+2026-11-17 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNNjNnR0sxZi1ERzBxcFpsSE5GMk53VFJDYVlnYVExY1JscEdXOXU3UEp2YzdHZU92MlhlT2hMLW9rUkROTDZCczByRTdzb0dxakgxVFJuR3JSOWZvbFFxd3lzX2N4MF9JZGVISGFkT09RMEhaYW92c0lueHc3WDFLeGF2STBabjUzRnN0bEpMaUtJQkRyNUZzS3ZB?oc=5)
+
+---
+
+### [Pancreatic cancer mystery deepens as researchers make unexpected discovery - Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3FkalNkVm1tVUNmQTdmMU5rWW5TWGQ0M0YwNm0wRnVaRkJoVjY2d0F2cGlCYm1MdVBDbHZ5QjF2YmdkbFhfb2FTWE5fR2lGMzNoQlZWVVVqM3JqN21STVFfUElUc0lhclJfSzAwbUoxaVpkZkVwanRWSUt3VTFrNmpkZXc4emw1RW5LNkNsU243aUFuZ21MVW9YbEtfZFNPaFR0MtIBqgFBVV95cUxPbDVORmljek95al9DUXd5aGR5VEFaLTV3SGhXWEVUdTdOQlVkZTcwaDR5VlhvUEd6MlIwelcyUVVoMHQtZXJLamhJSUNRdjlwY3FzS29sQVZoTzBJYjhQZHpuSXR3VUpOU1h0RUdlRU9ndnJicmJqQWZSLXJZVXhKc3dZdm4yTlA0aHdKNkxLR1NvNWVuQnh3WWJlVEVSSTIybFB3Qy0yeGxGZw?oc=5)
+
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3FkalNkVm1tVUNmQTdmMU5rWW5TWGQ0M0YwNm0wRnVaRkJoVjY2d0F2cGlCYm1MdVBDbHZ5QjF2YmdkbFhfb2FTWE5fR2lGMzNoQlZWVVVqM3JqN21STVFfUElUc0lhclJfSzAwbUoxaVpkZkVwanRWSUt3VTFrNmpkZXc4emw1RW5LNkNsU243aUFuZ21MVW9YbEtfZFNPaFR0MtIBqgFBVV95cUxPbDVORmljek95al9DUXd5aGR5VEFaLTV3SGhXWEVUdTdOQlVkZTcwaDR5VlhvUEd6MlIwelcyUVVoMHQtZXJLamhJSUNRdjlwY3FzS29sQVZoTzBJYjhQZHpuSXR3VUpOU1h0RUdlRU9ndnJicmJqQWZSLXJZVXhKc3dZdm4yTlA0aHdKNkxLR1NvNWVuQnh3WWJlVEVSSTIybFB3Qy0yeGxGZw?oc=5)
+
+---
 
 ### [A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RSTmFwQ2NXYXhnV1ExZFZhOExLYkNXalRKeXh6TW9qRGRQa3VXSndfQW1wd2pXQ3czdUx6UUdoNHhsVmNDV0xZZ0tvd2k1OG5QS0twd0tXdjVpTzZ4ZkNFVnNaMXpLTEE0djBOQWRfMHhRRnZaVG9udG90YjBEWHl2RDBUVUZhLWVsM0l4Rk9XNDZEQ21aQUM4MklRZmpycDdTdkJHalBZamN1YzI5VDFjVTdSeUNObGhEZUR2U3lJY3E2cHc?oc=5)
 
@@ -148,7 +164,7 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0QzJKWnp0WF
 
 ### [Common heart pill under scrutiny for older patients as study weighs risks of stopping - Fox News](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnlCNDUyRzZKZC16b09zQWFxdi1vd0RZQjNVeFltbzhlMzVOVHo4dWFyRTVSaFltazV4b0JDNEQ1M3pmZWl1d0ROMkNBWm9fTWNlbXI0WXdDYkJWYkhYR2p5YU13S3hTMlNUZU1OMXV0cHNkRjNDd0YydU4wdWljTE1vUmRtdUhMUF9odFMwekZSUjZLY3NUZmhYZjRkam1ZaGfSAacBQVVfeXFMTjJNZlV4UXFDdkNqQmR6WGtMMVJIeDA1RFk2X1RObDI1R2hBZElPd0hqVktPTEJERzJ1QU9hQVEwSjljWjdfZ2tzWTNXTHJFQlRGTWpaWnhHajhBZnhabHFMQzNkU085NE4wQjZxX29MSHQtTUs0QVpqS09UampnMjloZV82SWJfVGdsa1d1STRGbmU4V2N0MnFQWUlpV0ljTXhrdXJCdWM?oc=5)
 
-2026-11-11 <span class="news-drug-tag">Rutin</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">RA</span>
+2026-11-11 <span class="news-drug-tag">Rutin</span> <span class="news-indication-tag">heart attack</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">RA</span>
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnlCNDUyRzZKZC16b09zQWFxdi1vd0RZQjNVeFltbzhlMzVOVHo4dWFyRTVSaFltazV4b0JDNEQ1M3pmZWl1d0ROMkNBWm9fTWNlbXI0WXdDYkJWYkhYR2p5YU13S3hTMlNUZU1OMXV0cHNkRjNDd0YydU4wdWljTE1vUmRtdUhMUF9odFMwekZSUjZLY3NUZmhYZjRkam1ZaGfSAacBQVVfeXFMTjJNZlV4UXFDdkNqQmR6WGtMMVJIeDA1RFk2X1RObDI1R2hBZElPd0hqVktPTEJERzJ1QU9hQVEwSjljWjdfZ2tzWTNXTHJFQlRGTWpaWnhHajhBZnhabHFMQzNkU085NE4wQjZxX29MSHQtTUs0QVpqS09UampnMjloZV82SWJfVGdsa1d1STRGbmU4V2N0MnFQWUlpV0ljTXhrdXJCdWM?oc=5)
 

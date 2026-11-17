@@ -3,9 +3,9 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 6 articles, 2 related drugs."
+description: "Health news about flu (influenza). 10 articles, 2 related drugs."
 permalink: /news/influenza/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # flu (influenza) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>6 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>10 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,23 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (6)
+## Related News (10)
+
+### [More people are getting the flu. Should you get a flu shot before you travel?](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmFJYVFQbXdnQ29xLW5qdHlCMWhoRW9NeG1EX3hUSlhhUk9KOTRLd29qYTZXR3RubGxEaFZrNUZhYlRtUTZXSzJLSWdtZms4bkNnQXVMa0xmLVctV2J1TjBudW0zWGJmWURNbHVxVzJ1WHIxTWk3LVl4dDRpS0ZrVlk5OU9PSlcyVFQyTEdPbWlZVmNsYjdlTExn?oc=5)
+
+2026-11-17
+
+Source: [NPR](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmFJYVFQbXdnQ29xLW5qdHlCMWhoRW9NeG1EX3hUSlhhUk9KOTRLd29qYTZXR3RubGxEaFZrNUZhYlRtUTZXSzJLSWdtZms4bkNnQXVMa0xmLVctV2J1TjBudW0zWGJmWURNbHVxVzJ1WHIxTWk3LVl4dDRpS0ZrVlk5OU9PSlcyVFQyTEdPbWlZVmNsYjdlTExn?oc=5)
+
+---
+
+### [Dream Chaser space plane gets landing approval for debut mission in 2027](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjdOMEpUWnlNaGJVaE8wNEtHOVYtclMxX2FnbjJhM0t4Q3NvdnZ1eDA0aFBhWDVHZ3FicEUwT2kwZzVFOEY5elVOaHIzRUJZX0l4b3dib3FmNGVoRnk0ZmRxVG8zWGF2ZGtMaUlBRXVLRkYwdUdaZnp0cWxsMUZ0aGFtRWxVNGZabkFpQ0tNMl9aS29kSjFBeE5WTHZUWWdfV0NYOG80TWgzV3BrajJGWkhnVjlIaXRTUllPQ0ExSUY1NlYxbnRCd1h5eFo?oc=5)
+
+2026-11-16
+
+Source: [Space](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjdOMEpUWnlNaGJVaE8wNEtHOVYtclMxX2FnbjJhM0t4Q3NvdnZ1eDA0aFBhWDVHZ3FicEUwT2kwZzVFOEY5elVOaHIzRUJZX0l4b3dib3FmNGVoRnk0ZmRxVG8zWGF2ZGtMaUlBRXVLRkYwdUdaZnp0cWxsMUZ0aGFtRWxVNGZabkFpQ0tNMl9aS29kSjFBeE5WTHZUWWdfV0NYOG80TWgzV3BrajJGWkhnVjlIaXRTUllPQ0ExSUY1NlYxbnRCd1h5eFo?oc=5)
+
+---
 
 ### [MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBmSjQzSUFNV0cxblZIRzdoaFQwaTNtR1lMcnVIR2FDYjh4ZHJhVkJFSnltaWFZMVhQd0FoN2M4Ulo0emxlMFRRcERGTE0xd3JwZU9aOVBNSGdBNDRCTUJadzhhVThaeFRxWWkxZ0I5VQ?oc=5)
 
@@ -46,6 +62,14 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBmSjQ
 2026-11-16
 
 Source: [WYFF](https://news.google.com/rss/articles/CBMie0FVX3lxTE5HWUZCdVQzOU5iMzBQWV9xS1JITXAxQlJENW44ZWhiMUEtRDR2WFBfTzI1a3ZMV2pGRmtVeUw5cXNUbmYyb2FDNTNQQnNpNUpPUHdJRk1oLXVOMFhvOE41YXFGYUkxMXJCTVJINDVUWE52NWlZbWZqXy1CVQ?oc=5)
+
+---
+
+### [A High-Dose Flu Vaccine Is Linked to Nearly 55% Lower Alzheimer's Risk](https://news.google.com/rss/articles/CBMingFBVV95cUxQU2FqNDNXVUF0alBIazlIUGRHNXVpTzRQSTVGREwyS05sTkdBUG5TalRBaFRoU3JkYXpGcEhWaWw4R2NXcDlhaUJ6T0o2V2hnQjRLcEF6Q21hRXpEX2pPOVlxUXpxR1VPU0l1TWlpeGZQWHB6YWFDRWJORUpkdTZSSDNHSS0zVFdwX2swSjJWeHpZQ0ljMWFjc0dNbllYdw?oc=5)
+
+2026-11-15
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxQU2FqNDNXVUF0alBIazlIUGRHNXVpTzRQSTVGREwyS05sTkdBUG5TalRBaFRoU3JkYXpGcEhWaWw4R2NXcDlhaUJ6T0o2V2hnQjRLcEF6Q21hRXpEX2pPOVlxUXpxR1VPU0l1TWlpeGZQWHB6YWFDRWJORUpkdTZSSDNHSS0zVFdwX2swSjJWeHpZQ0ljMWFjc0dNbllYdw?oc=5)
 
 ---
 
@@ -70,6 +94,14 @@ Source: [Cleveland.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEJ
 2026-11-14
 
 Source: [PBS](https://news.google.com/rss/articles/CBMiugFBVV95cUxObzQyYkhqa3BjY1NtMkUtc3RaekMyTk93M1FReFh6REZ4d3R4WnktT29RN2JmWVFvbEpxVmpvSkJoSl83ZE1saWtUZDU0Ym5wYlR0dW5BUHJOTVdvUkRsOU4tNlJFOEFWZzlFZkJIXzVBT2xSc1FQbC16YXZSbTYwb1BrcWtsU3BUdnRFUjhteWdWcm9XNmhKdUpUa3dMMTJPaERiME01dEt4bVdMdmFDQ25wbVJhNE1abUE?oc=5)
+
+---
+
+### [The US flu season is off to a very early start. It’s hitting the South and West now - AP News](https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0Mzb19TM0staG9UN2hSTUhhalFvTENMa3N1Z01KbW9BN0xNcFlyd3I4RnlaZE85NnVsTkViM0tTUHBYTTdQWXExaEJkcGdjUm56ZGJEbHRjZUZpSF8zc054U0JPRkJ2LXE4VXhVVWViMkFsdVdmazVTVDlwSkJndDVFdmltY0xubEpqR2ZGWHNYQQ?oc=5)
+
+2026-11-14
+
+Source: [AP News](https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0Mzb19TM0staG9UN2hSTUhhalFvTENMa3N1Z01KbW9BN0xNcFlyd3I4RnlaZE85NnVsTkViM0tTUHBYTTdQWXExaEJkcGdjUm56ZGJEbHRjZUZpSF8zc054U0JPRkJ2LXE4VXhVVWViMkFsdVdmazVTVDlwSkJndDVFdmltY0xubEpqR2ZGWHNYQQ?oc=5)
 
 ---
 

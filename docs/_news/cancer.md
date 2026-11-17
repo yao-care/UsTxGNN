@@ -3,9 +3,9 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 14 articles, 1 related drugs."
+description: "Health news about cancer. 20 articles, 1 related drugs."
 permalink: /news/cancer/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # cancer News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>14 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>20 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,55 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (14)
+## Related News (20)
+
+### [I founded a cancer biotech company. Then, my mom, dad, and I were all diagnosed with cancer. - Business Insider](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS1FRRV8yUjUtTXhvSHRiWDN4M0dyQVJUcUFwcV84dFc4YkItdjdBYm45dERKaWFYOW0xU2pUYU13ZkVnS05KMFdsNXcxZGFvanpEU1pTLVFwaW43Q3g4OWhfQjVGak8zZEN1S250bEQ1U3hZeTJCQWVMZl9kSnJOSnJVbGFhR25WSm5QV1BqbHpqODBxY2tfMnh3?oc=5)
+
+2026-11-17
+
+Source: [Business Insider](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS1FRRV8yUjUtTXhvSHRiWDN4M0dyQVJUcUFwcV84dFc4YkItdjdBYm45dERKaWFYOW0xU2pUYU13ZkVnS05KMFdsNXcxZGFvanpEU1pTLVFwaW43Q3g4OWhfQjVGak8zZEN1S250bEQ1U3hZeTJCQWVMZl9kSnJOSnJVbGFhR25WSm5QV1BqbHpqODBxY2tfMnh3?oc=5)
+
+---
+
+### [Pancreatic cancer mystery deepens as researchers make unexpected discovery - Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3FkalNkVm1tVUNmQTdmMU5rWW5TWGQ0M0YwNm0wRnVaRkJoVjY2d0F2cGlCYm1MdVBDbHZ5QjF2YmdkbFhfb2FTWE5fR2lGMzNoQlZWVVVqM3JqN21STVFfUElUc0lhclJfSzAwbUoxaVpkZkVwanRWSUt3VTFrNmpkZXc4emw1RW5LNkNsU243aUFuZ21MVW9YbEtfZFNPaFR0MtIBqgFBVV95cUxPbDVORmljek95al9DUXd5aGR5VEFaLTV3SGhXWEVUdTdOQlVkZTcwaDR5VlhvUEd6MlIwelcyUVVoMHQtZXJLamhJSUNRdjlwY3FzS29sQVZoTzBJYjhQZHpuSXR3VUpOU1h0RUdlRU9ndnJicmJqQWZSLXJZVXhKc3dZdm4yTlA0aHdKNkxLR1NvNWVuQnh3WWJlVEVSSTIybFB3Qy0yeGxGZw?oc=5)
+
+2026-11-17
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3FkalNkVm1tVUNmQTdmMU5rWW5TWGQ0M0YwNm0wRnVaRkJoVjY2d0F2cGlCYm1MdVBDbHZ5QjF2YmdkbFhfb2FTWE5fR2lGMzNoQlZWVVVqM3JqN21STVFfUElUc0lhclJfSzAwbUoxaVpkZkVwanRWSUt3VTFrNmpkZXc4emw1RW5LNkNsU243aUFuZ21MVW9YbEtfZFNPaFR0MtIBqgFBVV95cUxPbDVORmljek95al9DUXd5aGR5VEFaLTV3SGhXWEVUdTdOQlVkZTcwaDR5VlhvUEd6MlIwelcyUVVoMHQtZXJLamhJSUNRdjlwY3FzS29sQVZoTzBJYjhQZHpuSXR3VUpOU1h0RUdlRU9ndnJicmJqQWZSLXJZVXhKc3dZdm4yTlA0aHdKNkxLR1NvNWVuQnh3WWJlVEVSSTIybFB3Qy0yeGxGZw?oc=5)
+
+---
+
+### [I Thought My Cough Was a Cold or COVID. It Turned Out to Be Lung Cancer](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSDdEQVBuZWhvMFN4UWhYWUZ4RXhxMmRsaF9uRXJuLTJoREI3M2tiYkxkdEJ5b1JEeVYyYUZsVW1yTENjWlhRc1p2ekJZNFJ0bFRyM3BEYURUcEV4YURrdWNpMTBZRzlpRG84b0M1ME1HNmt1LURhcC01bEU2U3pWeGRxems1NTVkYW9UbmtaaHlLbG56bWxoSGxyQlBOVzU3ZmNZTXN2QUM?oc=5)
+
+2026-11-17
+
+Source: [Prevention](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSDdEQVBuZWhvMFN4UWhYWUZ4RXhxMmRsaF9uRXJuLTJoREI3M2tiYkxkdEJ5b1JEeVYyYUZsVW1yTENjWlhRc1p2ekJZNFJ0bFRyM3BEYURUcEV4YURrdWNpMTBZRzlpRG84b0M1ME1HNmt1LURhcC01bEU2U3pWeGRxems1NTVkYW9UbmtaaHlLbG56bWxoSGxyQlBOVzU3ZmNZTXN2QUM?oc=5)
+
+---
+
+### [University Hospitals opens cutting-edge cancer facility at TriPoint Medical Center - FOX 8 News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGdCWFJfQjRzT2xiandHNVl4bFZjN2R3RDZsdTVjZ29IQ2J6Y0duTnlzS1ZIdDloV1V3a1RrSThmV2M5MG5KRHR4NjRTY0pIVFJudTNwZHZaZ0trWVR0YXoyM1VDS2t5V0k5bTNhZUZkaFVzdjlmQWctRjBSS2RDT2NPVVZqVm5aQW9QRmkxSHJVb0ZzMTRDaTVPTEdSN2FzcTZUQWVhMljSAa4BQVVfeXFMTlk5U0NDR0YxX09wMUxEZ0pqQzU3dldScHBVVm1fNzRHYlBENjJDZzBwTlRSQURFNDZKUlg2NUItenhMdkRQMFZpbHBSMzRTcm5sNWM4WUNEZl9USzZVMzFwa2liT1VRU21TSktQdmlJS3FnMzRtOE8xS0praEUxbThMRVppRFFUOTU3cTM1TzhSUklCdDlRMjBiZzZXY1FBSm0wWF9lcjFobFdZX25R?oc=5)
+
+2026-11-16
+
+Source: [FOX 8 News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGdCWFJfQjRzT2xiandHNVl4bFZjN2R3RDZsdTVjZ29IQ2J6Y0duTnlzS1ZIdDloV1V3a1RrSThmV2M5MG5KRHR4NjRTY0pIVFJudTNwZHZaZ0trWVR0YXoyM1VDS2t5V0k5bTNhZUZkaFVzdjlmQWctRjBSS2RDT2NPVVZqVm5aQW9QRmkxSHJVb0ZzMTRDaTVPTEdSN2FzcTZUQWVhMljSAa4BQVVfeXFMTlk5U0NDR0YxX09wMUxEZ0pqQzU3dldScHBVVm1fNzRHYlBENjJDZzBwTlRSQURFNDZKUlg2NUItenhMdkRQMFZpbHBSMzRTcm5sNWM4WUNEZl9USzZVMzFwa2liT1VRU21TSktQdmlJS3FnMzRtOE8xS0praEUxbThMRVppRFFUOTU3cTM1TzhSUklCdDlRMjBiZzZXY1FBSm0wWF9lcjFobFdZX25R?oc=5)
+
+---
+
+### [Rathdrum mom battling breast cancer, insurance denial has died](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbTFhV0FTZG5XbDZYLTVzOG1qV1h3XzhNa2l4b0FYN1BDVk5FalRzcEZ5YVphYnhZeGw3UGpmamlNN01RSm0wRGx5aGxvaFJOa0EwbS14MXdWaXh0S25Hc0dkLWxoS2NwQXNCY1NELVNXa0YxUmNTQkFybnJwcDFVTXp3aHQ5UGxVdVU1ZGV5WVc1OHdLWndUU0dlQW5aOXJCMFBtQ2NBeTdkVmwwdHdSSnRCTHZhWnpybEZhOVhHSjNOOVJpY1pUUFhMRW5ZMGE0ZXJtNg?oc=5)
+
+2026-11-16
+
+Source: [KREM](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbTFhV0FTZG5XbDZYLTVzOG1qV1h3XzhNa2l4b0FYN1BDVk5FalRzcEZ5YVphYnhZeGw3UGpmamlNN01RSm0wRGx5aGxvaFJOa0EwbS14MXdWaXh0S25Hc0dkLWxoS2NwQXNCY1NELVNXa0YxUmNTQkFybnJwcDFVTXp3aHQ5UGxVdVU1ZGV5WVc1OHdLWndUU0dlQW5aOXJCMFBtQ2NBeTdkVmwwdHdSSnRCTHZhWnpybEZhOVhHSjNOOVJpY1pUUFhMRW5ZMGE0ZXJtNg?oc=5)
+
+---
+
+### [This Cancer Kills Children in a Year. Research Has Been Stalled for a Year. - The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE5ma2FILVcxRmtMSlE3TGtBUXZNWUJBUDJ3Z0IzTDNNRm1EZnZ5MEpybE5TWTk3b3ZaZkIwWDlvdGZfcl92OG9yNWFvQWEyOHBxV2lZX2lDYkNQancta3JMSkgxN2RyTXRMenlpRllKd2FWRmFXSW1lODVNNA?oc=5)
+
+2026-11-16
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE5ma2FILVcxRmtMSlE3TGtBUXZNWUJBUDJ3Z0IzTDNNRm1EZnZ5MEpybE5TWTk3b3ZaZkIwWDlvdGZfcl92OG9yNWFvQWEyOHBxV2lZX2lDYkNQancta3JMSkgxN2RyTXRMenlpRllKd2FWRmFXSW1lODVNNA?oc=5)
+
+---
 
 ### [NHS England on track to miss key cancer treatment target by 10,000 patients - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEZZVlhXS0dUN1dTWlJKUTBXVXJfdklCUExPbGdZTmxTcTV2R2lFNWY4d3B2VUpTaUlxaFN5OXJUWW8xdUJOY2JabGVmNTh5MGtHLUYwUXdMZXVzRzZYcGVPTTA5dGRHcWU2S2ZPejd2UVMxMGt2MnJybS03bHBzM1EydzJ2OUlTRVB4c000TjZoNjc5Y2lPZGYyUGNVOV9BQ2JHNTh3ZmxtZzZu?oc=5)
 
@@ -48,14 +96,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QNExVMUV6NTVHc
 
 ---
 
-### [Research Stalls for a Year Into a Cancer That Kills Children in a Year - The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE5ma2FILVcxRmtMSlE3TGtBUXZNWUJBUDJ3Z0IzTDNNRm1EZnZ5MEpybE5TWTk3b3ZaZkIwWDlvdGZfcl92OG9yNWFvQWEyOHBxV2lZX2lDYkNQancta3JMSkgxN2RyTXRMenlpRllKd2FWRmFXSW1lODVNNA?oc=5)
-
-2026-11-16
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE5ma2FILVcxRmtMSlE3TGtBUXZNWUJBUDJ3Z0IzTDNNRm1EZnZ5MEpybE5TWTk3b3ZaZkIwWDlvdGZfcl92OG9yNWFvQWEyOHBxV2lZX2lDYkNQancta3JMSkgxN2RyTXRMenlpRllKd2FWRmFXSW1lODVNNA?oc=5)
-
----
-
 ### [Research Stalls for a Year Into a Cancer That Kills Children in a Year - The New York Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmY1MVpOX0xZcEdYSGFhWHpTVG5sN3NCWDNBTlk2d0FnU2N0Ql9nWWJOQXIwTmhNbnhkZ2ZGb1Nqb01Ra0JOMFp0NXBGZlA2ZFNyREJmRXB4SzRSZnp6Z1pDejhSVFZhaXRhWkJnYlFOck9aVExxVXc0OGVCUW02LWRvdlZzREIzbFJ3Ml9SazZiOVRHR0MyWkdBWXpVUEw4YWlpTmkwb2JJaWhycF9pYW5mT3hnUQ?oc=5)
 
 2026-11-16
@@ -69,6 +109,14 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMitgFBVV95cU
 2026-11-15
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXJSd0VoUmR3RDRrdDRhTHpJRGNIZzQzZnZfb0NQb1Z0eEFKNWhsRnV0VU5kVUZBb0lLdXNwb1FWV0JBa1pVM09vVXJnZVRtckZKZEhSdXdhd1ZoSXlYQms1R3BTcV84czdEWl9ubEoxLUpRdFh4b1ozeU1LQkozQWRfXzQyWklyQnY3ZGhaQ05LcXdhQmZfdDd3LXdGVFljTmxlTElQV3hOT1Va?oc=5)
+
+---
+
+### [Study links microplastics with the rise in deadly colon cancer cases - NZ Herald](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzg4UnBGX2xaMWY1cHZSYzVNS0NhLUV6OG84eTM2WTJpVGZtU3R4R3VXUmlTaFdRNzBLaEVJU2dKU1dLUTBBcGxYZkU0cnJ6U0RLeTlCYWU1WjFJZHBIQi1PWVFVU0xCeWF0OXNCZ3N3V1ZQZUFHNEY2TVY0RjdBa3ZsanN0NlZaWl90XzRVd3NaXzZFOGcxek1qOEpWZUQteE1ZQm50RlpKR3cxTW55SmZEU3ByQ0E0NTJsV2kxd1I?oc=5)
+
+2026-11-15
+
+Source: [NZ Herald](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzg4UnBGX2xaMWY1cHZSYzVNS0NhLUV6OG84eTM2WTJpVGZtU3R4R3VXUmlTaFdRNzBLaEVJU2dKU1dLUTBBcGxYZkU0cnJ6U0RLeTlCYWU1WjFJZHBIQi1PWVFVU0xCeWF0OXNCZ3N3V1ZQZUFHNEY2TVY0RjdBa3ZsanN0NlZaWl90XzRVd3NaXzZFOGcxek1qOEpWZUQteE1ZQm50RlpKR3cxTW55SmZEU3ByQ0E0NTJsV2kxd1I?oc=5)
 
 ---
 

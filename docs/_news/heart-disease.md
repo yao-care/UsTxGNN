@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "CAD (heart disease) News"
+title: "heart condition (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 5 articles, 1 related drugs."
+description: "Health news about heart condition (heart disease). 8 articles, 1 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
-# CAD (heart disease) News
+# heart condition (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about heart condition (heart disease)?">
+<strong>heart condition (heart disease)</strong> currently has <strong>8 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “CAD” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “heart condition” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,23 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (5)
+## Related News (8)
+
+### [One-third of caregivers don’t know about this potentially deadly heart condition — despite seeing the warning signs - New York Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzdvTlJXSG95MVlZRmdzTDhYSVBMcDZvYnFqemxjVjdZVUFQTE13U1JGMU1XVHdVdHlKTWE5YzhTUDlHY1l2a1gta1dQU3NIV1JoX1E5NEpuNUh1ZDluS1R4WGRZUXJmdjRkZzFWbmZHYi1jazdDRlp5VnAzUXpwMzlzdTRyN3QtNi1lU2NiM09jVHB4OHNEeTlZa3ZQNVNHR1hfSm1sVlI2MUFkZWozUjFld3JZdHFT?oc=5)
+
+2026-11-16
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzdvTlJXSG95MVlZRmdzTDhYSVBMcDZvYnFqemxjVjdZVUFQTE13U1JGMU1XVHdVdHlKTWE5YzhTUDlHY1l2a1gta1dQU3NIV1JoX1E5NEpuNUh1ZDluS1R4WGRZUXJmdjRkZzFWbmZHYi1jazdDRlp5VnAzUXpwMzlzdTRyN3QtNi1lU2NiM09jVHB4OHNEeTlZa3ZQNVNHR1hfSm1sVlI2MUFkZWozUjFld3JZdHFT?oc=5)
+
+---
+
+### [Dietitians Reveal the Number 1 Nutrient for Healthy Aging—by the Decade](https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUNRZ2U1MG9uZVpDdkNJVGNtRUh0VGdaeEgyUE5oM1JDTmx4c1RURHRsSEpXTWtkSmowSi1kaWxMakw1YnpSY3JYT2htQ1JCcEZGYzRfUUFreXlSZTZUM1RFX1R0cE84azJRejdzemdnbndFMHpSeXBUUnRLV0Y0aEc5bmRNbjJiQ3V6Z3hQaEVhY2tiNU5aU1l5MW15aGpF?oc=5)
+
+2026-11-16
+
+Source: [Prevention](https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUNRZ2U1MG9uZVpDdkNJVGNtRUh0VGdaeEgyUE5oM1JDTmx4c1RURHRsSEpXTWtkSmowSi1kaWxMakw1YnpSY3JYT2htQ1JCcEZGYzRfUUFreXlSZTZUM1RFX1R0cE84azJRejdzemdnbndFMHpSeXBUUnRLV0Y0aEc5bmRNbjJiQ3V6Z3hQaEVhY2tiNU5aU1l5MW15aGpF?oc=5)
+
+---
 
 ### [Avocado Toast vs. Peanut Butter Toast: Which Is Actually Healthier?](https://news.google.com/rss/articles/CBMijgFBVV95cUxNdUhPdEtKRUFMV1BzWVdvbHJoQTByY1Z6bzJwN3l4alZjMWdDVGhXQ2NlSFRvbHlYUnVQblA4SVcxQS1CenJwSVFWc2RLYTJ0TGgtMmhfQUtsV1Q1Y2pJRXBBZHhGeS1Ld0VQcUZJMlVoR2VzLW9sYl90OFU2NWFrQlc0YXhqTXcyQ1F3VUxB?oc=5)
 
@@ -61,6 +77,14 @@ Source: [The Conversation](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQ
 2026-11-13
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMlJQcHpqVDhteVhaa2ZLUUV2NWJNLTBQTnRiRE4zY0dVZHc4eHcwa2UwUDhWQ1VMcHBBYno1U242MEt6MzQ1akl5VF9obFhvVWJoSm5HNmJYVHd0QmQyQzJqWGg4ak9VaDdZWTdaUDIySUlLMHQwMEpocldRSVBXY2xVaEo?oc=5)
+
+---
+
+### [How AI Diagnosed a Medical Mystery My Doctors Missed for Decades](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVVBoV1QteXlwWmxpSFJXc1NIcTJmUjM4b3BxWklfZWJJLXZNSjlnYkJudkJNUGMwYkFXZXFxQWpIV0JiUXZDdzdlc0JlQzUyX3VxRUgxNnJYdHZGM0hMSUdWaTFsOXlzekVPY0JYSWJ0d3FBUGh4SHp4SEVCNno1NGhSTE9GMS1fbW5MdmZIQm9WdlJLMXN5WjFNVlJmM0x0MHo4MjJtRUlSRGJveVE?oc=5)
+
+2026-11-12
+
+Source: [WSJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVVBoV1QteXlwWmxpSFJXc1NIcTJmUjM4b3BxWklfZWJJLXZNSjlnYkJudkJNUGMwYkFXZXFxQWpIV0JiUXZDdzdlc0JlQzUyX3VxRUgxNnJYdHZGM0hMSUdWaTFsOXlzekVPY0JYSWJ0d3FBUGh4SHp4SEVCNno1NGhSTE9GMS1fbW5MdmZIQm9WdlJLMXN5WjFNVlJmM0x0MHo4MjJtRUlSRGJveVE?oc=5)
 
 ---
 

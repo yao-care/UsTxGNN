@@ -9,7 +9,8 @@
 - 列：證據包 tfda.records 的順序（rebuild 的排序：有效申請在前、單方產品在前、號碼；接著是 OTC monograph／未核准類別的
   NDC 列名產品）；每個申請號一列，列名產品以 NDC 產品碼一列。
 - 狀態：申請號照事實層（.claude/cache/license_facts，和狀態列、張數列同一份）的 valid／cancelled：
-  有效＝「Valid」、全部產品停產＝「Discontinued in Drugs@FDA」；列名產品＝「NDC listing, no FDA application (<NDC 類別>)」。
+  有效＝「Valid」、全部產品停產＝「Discontinued in Drugs@FDA」、Purple Book 許可已撤銷（Drugs@FDA 沒有的 BLA，紀錄 status
+  以 REVOKED 結尾；2026-11-17）＝「License revoked in Purple Book」；列名產品＝「NDC listing, no FDA application (<NDC 類別>)」。
 - 列數：原表列數與 min(5, 總數) 取大，最多 20；總數（申請號數＋列名產品數，和張數列、狀態列的數字相同）多於列數時，
   表下加一句 SHOW（「Showing N of M entries …」）。新資料沒有任何申請號或列名產品時，表格換成 NONE_LINE 一句。
 - 段落裡沒有表格的頁不新增表格。
@@ -54,6 +55,7 @@ BEGIN = "<!-- licenses:begin -->"
 END = "<!-- licenses:end -->"
 APPL = re.compile(r"\b(NDA|ANDA|BLA)\s*(\d{6})\b")
 SUFFIX = " (Discontinued in Drugs@FDA)"  # 與 src/ustxgnn/collectors/us_license_match.py 相同
+REVOKED = " (License revoked in Purple Book)"  # 與 scripts/license_adapter.py 相同（Drugs@FDA 沒有的 BLA，2026-11-17）
 # 正文明說號碼是別的藥（例「Arsenic Trioxide as a standalone drug … NDA 021248」「Canakinumab as a standalone biologic … BLA 125319」）
 OTHER_DRUG = re.compile(r"\bstandalone\b|\bas a separate\b", re.I)
 
@@ -112,8 +114,9 @@ def rows_of(tf, fc):
         if not APPL.fullmatch(k) or k in seen:
             continue
         seen.add(k)
-        s = lic.get(k) or ("cancelled" if str(r.get("status") or "").endswith(SUFFIX) else "valid")
-        st = "Valid" if s == "valid" else "Discontinued in Drugs@FDA"
+        rs = str(r.get("status") or "")
+        s = lic.get(k) or ("cancelled" if rs.endswith((SUFFIX, REVOKED)) else "valid")
+        st = "Valid" if s == "valid" else "License revoked in Purple Book" if rs.endswith(REVOKED) else "Discontinued in Drugs@FDA"
         form = "; ".join(x for x in (_cap(r.get("dosage_form")), _cap(r.get("route")).lower()) if x) or "Not recorded"
         out.append(f"| {k} | {_cell(r.get('brand_name_en')) or 'Not recorded'} | {_cell(r.get('manufacturer'), 60) or 'Not recorded'} | {form} | {st} |")
     n_app = int(tf.get("applications_total") if tf.get("applications_total") is not None else sum(1 for x in seen if not x.startswith("L")))

@@ -1710,26 +1710,60 @@
    "id": "us-lic-20261106-andexanet_alfa-1",
    "drug": "andexanet_alfa",
    "file": "andexanet_alfa.md",
-   "action": "correct",
+   "action": "annotate",
    "claim": "There are no clinical trials or relevant literature, and there is no plausible mechanism linking a factor Xa-inhibitor reversal agent to platelet function disorders. The product's license is also cancelled in the US, and it carries a boxed thrombotic warning.",
-   "replacement": "There are no clinical trials or relevant literature, and there is no plausible mechanism linking a factor Xa-inhibitor reversal agent to platelet function disorders.",
-   "note": "Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures.",
-   "finding": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾；刪掉矛盾子句後只剩失去指涉的代名詞「it」，整句刪",
+   "anchor": "There are no clinical trials or relevant literature, and there is no plausible mechanism linking a factor Xa-inhibitor reversal agent to platelet function disorders. The product's license is also cancelled in the US, and it carries a boxed thrombotic warning.",
+   "note": "An earlier review correction (2026-11-06) removed the clause \"The product's license is also cancelled in the US\" because Drugs@FDA and the NDC Directory did not show the application as inactive. The clause has been restored: Drugs@FDA does not cover biologics licensed by CBER, and FDA's Purple Book (October 2026 data) lists the Andexxa license (BLA 125586) as Revoked, with both strengths discontinued. The NDC Directory still carries an ANDEXXA listing (NDC 0310-3200); no other andexanet alfa product is licensed or listed. The Quick Overview and the table under US Market Information show the current status.",
+   "finding": "2026-11-17 查「新資料查不到」的申請號：BLA125586 不在 openFDA Drugs@FDA（CBER 產品）；Purple Book 2026-10 月檔 BLA 125586 Andexxa 100MG、200MG 兩個產品 Marketing Status＝Disc、Licensure＝Revoked；NDC Directory（2026-11-16）仍有 0310-3200 ANDEXXA 列名（marketing end 2027-12-31）。依成分查 Purple Book／Drugs@FDA／NDC，沒有其他 andexanet alfa 產品。11-06 刪掉的子句與事實相符，還原原句、改為加註",
    "sources": [
     {
-     "title": "openFDA Drugs@FDA",
-     "url": "https://open.fda.gov/data/drugsfda/",
-     "accessed": "2026-11-06"
+     "title": "FDA Purple Book data download (October 2026)",
+     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-October-data-download.csv",
+     "accessed": "2026-11-17"
     },
     {
      "title": "openFDA NDC Directory",
      "url": "https://open.fda.gov/data/ndc/",
-     "accessed": "2026-11-06"
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "openFDA Drugs@FDA",
+     "url": "https://open.fda.gov/data/drugsfda/",
+     "accessed": "2026-11-17"
     }
    ],
-   "checked": "2026-11-06",
-   "summary": "Removed: \"The product's license is also cancelled in the US, and it carries a boxed thrombotic warning\"",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d484ac0c（2026-11-06）"
+   "checked": "2026-11-17",
+   "summary": "Restored: \"The product's license is also cancelled in the US\" (Purple Book lists BLA 125586 as Revoked)",
+   "method": "2026-11-17 同 id 重發（前版 11-06 correct 存 history）；scripts/apply_drug_reviews.py 依 history 還原原句",
+   "history": [
+    {
+     "id": "us-lic-20261106-andexanet_alfa-1",
+     "drug": "andexanet_alfa",
+     "file": "andexanet_alfa.md",
+     "action": "correct",
+     "claim": "There are no clinical trials or relevant literature, and there is no plausible mechanism linking a factor Xa-inhibitor reversal agent to platelet function disorders. The product's license is also cancelled in the US, and it carries a boxed thrombotic warning.",
+     "replacement": "There are no clinical trials or relevant literature, and there is no plausible mechanism linking a factor Xa-inhibitor reversal agent to platelet function disorders.",
+     "note": "Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures.",
+     "finding": "依成分比對結果重排許可證表後（2026-11-06，Drugs@FDA／NDC 2026-11-06），本藥 1 張申請有效，「已註銷」與事實矛盾；刪掉矛盾子句後只剩失去指涉的代名詞「it」，整句刪",
+     "sources": [
+      {
+       "title": "openFDA Drugs@FDA",
+       "url": "https://open.fda.gov/data/drugsfda/",
+       "accessed": "2026-11-06"
+      },
+      {
+       "title": "openFDA NDC Directory",
+       "url": "https://open.fda.gov/data/ndc/",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removed: \"The product's license is also cancelled in the US, and it carries a boxed thrombotic warning\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d484ac0c（2026-11-06）",
+     "retired": "2026-11-17",
+     "reason": "11-06 依 Drugs@FDA／NDC 判定本藥 1 張申請有效而刪掉「license is also cancelled」子句；但 openFDA Drugs@FDA 不收 CBER 的 BLA，FDA Purple Book（2026-10 月檔）列 BLA 125586 Andexxa 為 Revoked、產品全部 Disc，原句是對的，改成還原原句並加註"
+    }
+   ]
   },
   {
    "id": "us-lic-20261105-apomorphine-1",

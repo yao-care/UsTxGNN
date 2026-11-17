@@ -518,3 +518,17 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 `scripts/sync_notes_to_docs.py` 依 notes 重寫整頁時，會保留舊頁的程式許可證區塊並重套紀錄，notes 裡的舊錯句會被紀錄再更正一次。
 2026-11-12 正文張數對事實層再掃一次：19 頁 AI 依舊證據包寫的「全部有效」、有效／停止張數、無保留的整體張數跟事實層相反，照上面的慣例刪掉矛盾子句（`us-lic-20261112-*`；dexamethasone、lansoprazole 是 11-06 那筆同 id 重發、前版存 history）。
 有保留的「At least N／N listed … may be partial」、狀態正確只是筆數取自舊清單的句子、涉及 OTC monograph／NDC listings 口徑的句子不動。
+
+## 新資料查不到的申請號（2026-11-17）
+
+2026-11-17 每週排程：證據包 25,465 張申請號，openFDA Drugs@FDA 全量檔涵蓋 99.5%，「新資料查不到」135 張（沒開 issue）。用戶要求確認實際狀態：
+下載 FDA 的現行清單逐號比對（2026-11-17）——openFDA Drugs@FDA、fda.gov Drugs@FDA 全量檔（drugsatfda.zip）、NDC Directory（ndctext／ndc_excluded／ndc_unfinished 與 openFDA NDC）、Purple Book 2026-10 月檔。
+- 135 張全是證據包裡來源標「NDC Directory (not in Drugs@FDA)」的號碼：91 張 BLA（CBER 的疫苗、免疫球蛋白、血液製劑、過敏原萃取、細胞與基因治療；openFDA Drugs@FDA 只收 CDER）、
+  43 張 ANDA（多是 repackager 在 NDC 引用的舊號碼，fda.gov Drugs@FDA 全量檔也沒有，核准狀態查不到）、1 張 NDA（NDA206627 Hysingla ER：fda.gov Drugs@FDA 有、處方藥，openFDA 沒收）。
+- 135 張都在 NDC Directory 現行成品列名（2026-11-16）上，NDC 列名不等於核准狀態，但沒有一張能證明已失效；Purple Book 有 87 張 BLA，85 張 Licensed（有 Rx 產品；其餘 4 張是大型過敏原 BLA，Purple Book 沒收，NDC 有現行列名）。
+- 2 張 Purple Book 為許可撤銷：BLA125586 Andexxa（Revoked，兩個產品 Disc；NDC 仍有 0310-3200 列名）、BLA125324 Prevnar 13（Voluntarily Revoked；證據包 streptococcus_pneumoniae…，沒有藥物頁）。
+- `scripts/license_adapter.py`：Drugs@FDA 沒有的申請號另查 Purple Book 最新月檔（全部 Revoked → status 加「 (License revoked in Purple Book)」，算註銷；有 Licensed 的 Rx／OTC 產品 → 有效）
+  與 openFDA NDC（有現行成品列名 → 有效）；兩份都是選用，下載失敗就略過。三份都沒有的申請號照舊保留原狀態、列為查不到，不推定註銷（Drugs@FDA 不含 CBER、Purple Book 不含部分過敏原 BLA、NDC 列名不等於許可），所以沒有 confirmed_absent。
+  OTC monograph 等沒有申請號的紀錄不受影響。`scripts/sync_license_tables.py` 的表格狀態對這種紀錄寫「License revoked in Purple Book」。
+- andexanet_alfa：狀態列／張數列與許可證表由排程同步（Marketed 1 of 1 → Not marketed）；11-06 的 `us-lic-20261106-andexanet_alfa-1` 當時依 Drugs@FDA／NDC 刪掉「The product's license is also cancelled in the US」，
+  其實與 Purple Book 相符，2026-11-17 同 id 重發成 annotate（前版存 history），還原原句並加註。依成分查過，沒有其他 andexanet alfa 產品。

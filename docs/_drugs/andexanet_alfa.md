@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "ANDEXANET ALFA"
 predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "hemophilia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-17
 description: "Andexanet Alfa: predicted new indication Glanzmann thrombasthenia (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
@@ -48,8 +48,8 @@ Andexanet alfa is a recombinant factor Xa decoy protein used to reverse the effe
 | Predicted New Indication | Glanzmann thrombasthenia |
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 1 of 1) |
-| Number of FDA Applications | 1 (active: 1) |
+| US Market Status | Not marketed (licenses canceled: 1 of 1) |
+| Number of FDA Applications | 1 (active: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -93,7 +93,7 @@ No literature was found for Glanzmann thrombasthenia. The only predicted indicat
 
 | Application / NDC | Product | Holder | Dosage form | Status |
 |------|------|------|------|------|
-| BLA125586 | ANDEXXA | AstraZeneca Pharmaceuticals LP | Injection, powder, lyophilized, for solution; intravenous | Valid |
+| BLA125586 | ANDEXXA | AstraZeneca Pharmaceuticals LP | Injection, powder, lyophilized, for solution; intravenous | License revoked in Purple Book |
 
 <!-- licenses:end -->
 
@@ -109,11 +109,11 @@ Detailed warnings and contraindications from the package insert were not availab
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score (L5). There are no clinical trials or relevant literature, and there is no plausible mechanism linking a factor Xa-inhibitor reversal agent to platelet function disorders.
+The prediction is supported only by a model score (L5). There are no clinical trials or relevant literature, and there is no plausible mechanism linking a factor Xa-inhibitor reversal agent to platelet function disorders. The product's license is also cancelled in the US, and it carries a boxed thrombotic warning.
 
 <!-- review:begin us-lic-20261106-andexanet_alfa-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials or relevant literature, and there is no plausible mechanism linking a factor Xa-inhibitor reversal agent to platelet function disorders. The product's license is also cancelled in the US, and it carries a boxed thrombotic warning." Removed: it said the FDA applications were cancelled, discontinued, or not active, which did not match the FDA data (Drugs@FDA and the NDC Directory as of 2026-11-06). The FDA data list 1 FDA application or NDC listing for this drug, 1 active; the Quick Overview and the table under US Market Information show the current figures. Source: [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/).
+> **Review note (2026-11-17)**: An earlier review correction (2026-11-06) removed the clause "The product's license is also cancelled in the US" because Drugs@FDA and the NDC Directory did not show the application as inactive. The clause has been restored: Drugs@FDA does not cover biologics licensed by CBER, and FDA's Purple Book (October 2026 data) lists the Andexxa license (BLA 125586) as Revoked, with both strengths discontinued. The NDC Directory still carries an ANDEXXA listing (NDC 0310-3200); no other andexanet alfa product is licensed or listed. The Quick Overview and the table under US Market Information show the current status. Source: [FDA Purple Book data download (October 2026)](https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-October-data-download.csv); [openFDA NDC Directory](https://open.fda.gov/data/ndc/); [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/).
 
 <!-- review:end us-lic-20261106-andexanet_alfa-1 -->
 
@@ -131,7 +131,7 @@ Below is the review log for this page: statements checked against official FDA d
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "The product's license is also cancelled in the US, and it carries a boxed thrombotic warning" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-17 | Restored: "The product's license is also cancelled in the US" (Purple Book lists BLA 125586 as Revoked) | Annotated (revised 2026-11-17; earlier version kept in the record) | [FDA Purple Book data download (October 2026)](https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-October-data-download.csv); [openFDA NDC Directory](https://open.fda.gov/data/ndc/); [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/) |
 
 <!-- review:end log -->
 

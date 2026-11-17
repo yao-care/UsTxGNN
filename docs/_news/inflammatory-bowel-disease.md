@@ -3,9 +3,9 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 10 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 12 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # UC (inflammatory bowel disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>10 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>12 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (10)
+## Related News (12)
+
+### [A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RSTmFwQ2NXYXhnV1ExZFZhOExLYkNXalRKeXh6TW9qRGRQa3VXSndfQW1wd2pXQ3czdUx6UUdoNHhsVmNDV0xZZ0tvd2k1OG5QS0twd0tXdjVpTzZ4ZkNFVnNaMXpLTEE0djBOQWRfMHhRRnZaVG9udG90YjBEWHl2RDBUVUZhLWVsM0l4Rk9XNDZEQ21aQUM4MklRZmpycDdTdkJHalBZamN1YzI5VDFjVTdSeUNObGhEZUR2U3lJY3E2cHc?oc=5)
+
+2026-11-16
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RSTmFwQ2NXYXhnV1ExZFZhOExLYkNXalRKeXh6TW9qRGRQa3VXSndfQW1wd2pXQ3czdUx6UUdoNHhsVmNDV0xZZ0tvd2k1OG5QS0twd0tXdjVpTzZ4ZkNFVnNaMXpLTEE0djBOQWRfMHhRRnZaVG9udG90YjBEWHl2RDBUVUZhLWVsM0l4Rk9XNDZEQ21aQUM4MklRZmpycDdTdkJHalBZamN1YzI5VDFjVTdSeUNObGhEZUR2U3lJY3E2cHc?oc=5)
+
+---
 
 ### [Physicists defy expectations by controlling the magnetic heart of a single atom - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5pNGFUY0FwaHV5N1ZRY2VVanIzN3RXbllrY0VzeUxTTnpWdTRfdUM1azlaaU9TeDlNd3plY0FYR0l0WlBBY1FKNE9iaUpjUXZCQUJlTHRlWUZxaURZczM5cUtIOXBxZUsyaG5NUDZXcw?oc=5)
 
@@ -66,6 +74,14 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMitgFBVV95cU
 2026-11-15
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWpLN3RzUW5lYWVXb2NNdmtYWEF2V0loajFrTkdfNlRDMHlKZS1qaFF4N2tFUUlhNmhBQUU2eXU2Z3pHanV5V1RXZ2VmYW5yMVVIM3hwS3VUVjRwZzFVRU9PcVN5c3BkalNEc2RrN1dfN0dLTkFoNkNWNHR5elBONVJYYnF3RU1ZTTc2Z3VuUlpMaFdsWjEwb19GOWt3WDRLTWpwMFdHM0ZrMS1wa2fSAbMBQVVfeXFMTmF1cUpTbDh1b2ZmSk1zOG0tZlZaQ05iOFpqQkdURVZFdldIbFJzZEhZM3RzUkM0WmNySnljYlphVEZxbkJIWmVoX0h6TS1CRGZqYmgwVkp1bVNObVJMaG5rYzhoRkI2Y3JzRnFId1R5blpXZnNwZlFuNXVNbm14b1h6MGZJWEdIVVFLWEJYdEMwQ0U1TTJDVnVJejNmYWk0S2RRWFJXcUk4NzhyLXBsSFNaUDQ?oc=5)
+
+---
+
+### [Dark matter–hunting satellite Euclid reveals record number of cosmic 'magnifying glasses'](https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUlSa2g3U0p6OFZVbjhKSzNkRGlucVZ3YUl5aFBBeGVVZVlHUnlPOEhJam56bU5lQm9tYk9KRjdSX0ZJMjRDcGJPZzJiQVV5N1o3a3M5b1BUNHdzc0RNeTlQMm9iLTJQdlRvZ1h5eFRHdnFEQ0E3ZjV0SWZkeWNyeHVZSmw?oc=5)
+
+2026-11-15
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUlSa2g3U0p6OFZVbjhKSzNkRGlucVZ3YUl5aFBBeGVVZVlHUnlPOEhJam56bU5lQm9tYk9KRjdSX0ZJMjRDcGJPZzJiQVV5N1o3a3M5b1BUNHdzc0RNeTlQMm9iLTJQdlRvZ1h5eFRHdnFEQ0E3ZjV0SWZkeWNyeHVZSmw?oc=5)
 
 ---
 

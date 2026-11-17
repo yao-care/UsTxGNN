@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Selpercatinib. 3 predicted indications."
 permalink: /news/selpercatinib/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Selpercatinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Selpercatinib?">
-<strong>Selpercatinib</strong> currently has <strong>45 news articles</strong>, with 3 predicted indications.
+<strong>Selpercatinib</strong> currently has <strong>47 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Selpercatinib with the lates
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (45)
+## Related News (47)
+
+### [NASA's Curiosity Rover Burst Open a Rock on Mars And Found a Big Surprise](https://news.google.com/rss/articles/CBMiowFBVV95cUxQazZ6Y2xXQ3hFcnppSkVwYXlHbFRfbFBxX1dTNnRDcTRhb19VZ2w3SnhEYnRuNXlHaHdNbVQtdm9aaDJ1Yk9EUkllblBOZkRJdTAzU1NSZHZEV2F0emlyUmdLWE5hMFVjdXdfaFNWdmt4M3pWellkZjZJQWRfYnEtbUJLb0lickdPSEU5LUpwVExKbVMzTGh4bUUzLWpHQmw3NFA4?oc=5)
+
+2026-11-16 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxQazZ6Y2xXQ3hFcnppSkVwYXlHbFRfbFBxX1dTNnRDcTRhb19VZ2w3SnhEYnRuNXlHaHdNbVQtdm9aaDJ1Yk9EUkllblBOZkRJdTAzU1NSZHZEV2F0emlyUmdLWE5hMFVjdXdfaFNWdmt4M3pWellkZjZJQWRfYnEtbUJLb0lickdPSEU5LUpwVExKbVMzTGh4bUUzLWpHQmw3NFA4?oc=5)
+
+---
 
 ### [NHS England on track to miss key cancer treatment target by 10,000 patients - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEZZVlhXS0dUN1dTWlJKUTBXVXJfdklCUExPbGdZTmxTcTV2R2lFNWY4d3B2VUpTaUlxaFN5OXJUWW8xdUJOY2JabGVmNTh5MGtHLUYwUXdMZXVzRzZYcGVPTTA5dGRHcWU2S2ZPejd2UVMxMGt2MnJybS03bHBzM1EydzJ2OUlTRVB4c000TjZoNjc5Y2lPZGYyUGNVOV9BQ2JHNTh3ZmxtZzZu?oc=5)
 
@@ -74,6 +82,14 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMitgFBVV95cU
 2026-11-15 <span class="news-indication-tag">MI</span>
 
 Source: [The Hindu](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMFh6V2R4MXFfVldKWnZHVl84WDZhMjg0UGt3X1JxazdOUG93cm9ha2pDSEk1eV84V3RZYUh1OW9LZ1hNU0RJdzVaamw2ZXNhaWgwYzZPMWNfOXRZQXBKRzlzNWE4NjJ0elZJQ2wwQ0hhNl91cTQ1aDFOVGZERTY2YjZLMkVsRlhrZ0UzYUh4d2NYNGxTVF92cXI4cWlxNlZEc29MRUtzYThuSldIam4tSEI4c0k3N05xS0lGQS1kTldwQ0hGZW9ZTEZiZ3ZoTHVIUHlvYTNhOThpUWJKU3hZSVJ5c9IB6gFBVV95cUxNUG91T25jUlFQbVJQTmViV1dFcHh6b1BSalJSZDlybmVUNnIxZnNLeGQzWnFjcTVpbWtpbmt1SGd6eHFEZnl4OWNDY0d3VHk2R3M2elRPRFA4ZHZwX213RUZ6OTRsOXNwanozYUVfS3ZBS0NlNXc4WXhlOFpxdXZEOE5yRVpZWWVmckhnTnd0V1JaVHRBSHVOQ3NTSVNvQ1NValVlVi1BUURkTGstNkhLb0p1bWkwS1NURGtCQ1JVbWVOREpQRGV4VDJSVERhN3RNQWVMYUI0aDh1bEZrQ0V3NENPaFdwcWRWd2c?oc=5)
+
+---
+
+### [Dark matter–hunting satellite Euclid reveals record number of cosmic 'magnifying glasses'](https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUlSa2g3U0p6OFZVbjhKSzNkRGlucVZ3YUl5aFBBeGVVZVlHUnlPOEhJam56bU5lQm9tYk9KRjdSX0ZJMjRDcGJPZzJiQVV5N1o3a3M5b1BUNHdzc0RNeTlQMm9iLTJQdlRvZ1h5eFRHdnFEQ0E3ZjV0SWZkeWNyeHVZSmw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUlSa2g3U0p6OFZVbjhKSzNkRGlucVZ3YUl5aFBBeGVVZVlHUnlPOEhJam56bU5lQm9tYk9KRjdSX0ZJMjRDcGJPZzJiQVV5N1o3a3M5b1BUNHdzc0RNeTlQMm9iLTJQdlRvZ1h5eFRHdnFEQ0E3ZjV0SWZkeWNyeHVZSmw?oc=5)
 
 ---
 

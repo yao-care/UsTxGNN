@@ -1,33 +1,165 @@
 {
-  "last_updated": "2026-11-16T15:10:41.462097+00:00",
-  "total_count": 101,
-  "matched_count": 92,
+  "last_updated": "2026-11-17T01:43:26.830869+00:00",
+  "total_count": 96,
+  "matched_count": 96,
   "news": [
     {
-      "id": "39ac2bf56277",
-      "title": "They sought care at a world-class hospital. Hundreds of women say a doctor there abused them - USA Today",
-      "published": "2026-11-16T13:21:00+00:00",
-      "summary": "They sought care at a world-class hospital. Hundreds of women say a doctor there abused them&nbsp;&nbsp;USA Today",
+      "id": "dd7bb264a585",
+      "title": "A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk",
+      "published": "2026-11-16T20:02:51+00:00",
+      "summary": "A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk&nbsp;&nbsp;ScienceAlertNeanderthal DNA linked to lower risk of schizophrenia in modern humans&nbsp;&nbsp;Scientific AmericanNeanderthal Genes Shrink the Occipital Lobe in Modern Humans and Cut Schizophrenia Risk by 10%&nbsp;&nbsp;BigGo FinanceNeanderthal gene linked to smaller brains — but there’s an upside&nbsp;&nbsp;The TimesNeanderthal DNA Tucked in Our Genes Shrinks a Brain Region and Lowers ",
       "sources": [
         {
-          "name": "USA Today",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNY3lOeTVaVHJyMXBpZnRRN0p6X2h2Tmlhei1US3FTRjZhWmVVbmEtZFotMFFycVhHcG40Vk5zU1dSenF1V2w4bnFTWElpZ0hvdy02VHZfbGZJNWhsRDJUN0R4Uk1fLVRBcUJFZHRqQzlkcHB4QTR3YXppQ1gzMEZ4RTBUWDBNb2xpdUhnLTdpYlpMSmhSLTU3VWU5LUV3ckJ2cVd1T3gzUTB6clR1TlNhR2hub19fNm1MQVJFaEpwdVBBOEJsQy1mSmZjRkxpMG5SNHA5VUprSDRRREpUYXlwWDg3Zmh1ay1UQ3JrdDVNQWtYWDZSVDVZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7d622ae3cbe6",
-      "title": "How scientists are learning to rewire brains — and what it could mean for traumatic memories - New York Post",
-      "published": "2026-11-16T09:11:00+00:00",
-      "summary": "How scientists are learning to rewire brains — and what it could mean for traumatic memories&nbsp;&nbsp;New York Post",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0JaZW1yb3cyZ1BDV1dyT3NMdzlaZzRNUTNwQ2tobDEtNVA0MlpUMy1uX1N3eXI1ZFVXMmNLLXNJdGxBTFN2UXB6LXJWZG5TdV9ieTZUT2RUc1ZCSEl4dDROejRiSG1yQ3BoOWhmWVgtekhBQXJwZW1DZGc4ZE51Vkk4eFJIdFRWNVR5OXBmX3lMVnlmdHpTeEhMRkJHQQ?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RSTmFwQ2NXYXhnV1ExZFZhOExLYkNXalRKeXh6TW9qRGRQa3VXSndfQW1wd2pXQ3czdUx6UUdoNHhsVmNDV0xZZ0tvd2k1OG5QS0twd0tXdjVpTzZ4ZkNFVnNaMXpLTEE0djBOQWRfMHhRRnZaVG9udG90YjBEWHl2RDBUVUZhLWVsM0l4Rk9XNDZEQ21aQUM4MklRZmpycDdTdkJHalBZamN1YzI5VDFjVTdSeUNObGhEZUR2U3lJY3E2cHc?oc=5"
         }
       ],
       "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "inflammatory bowel disease",
+          "keyword": "UC",
+          "related_drugs": [
+            {
+              "slug": "rutin",
+              "name": "Rutin",
+              "url": "/drugs/rutin/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1238e62bddc",
+      "title": "NASA's Curiosity Rover Burst Open a Rock on Mars And Found a Big Surprise",
+      "published": "2026-11-16T14:04:54+00:00",
+      "summary": "NASA's Curiosity Rover Burst Open a Rock on Mars And Found a Big Surprise&nbsp;&nbsp;ScienceAlertTwo studies proposed mechanisms for the formation of pure sulfur on Mars — ScienceAlert&nbsp;&nbsp;UA.NEWSNASA Curiosity Gediz Vallis discovery: What do the yellow crystals found by Curiosity on Mars tell us abou&nbsp;&nbsp;The Economic TimesHow Did a Field of Pure Sulfur Rocks End Up on Mars? Two New Studies Offer Answers&nbsp;&nbsp;Around PragueNASA's Curiosity uncovers about 2,100 m2 pure sulfur o",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQazZ6Y2xXQ3hFcnppSkVwYXlHbFRfbFBxX1dTNnRDcTRhb19VZ2w3SnhEYnRuNXlHaHdNbVQtdm9aaDJ1Yk9EUkllblBOZkRJdTAzU1NSZHZEV2F0emlyUmdLWE5hMFVjdXdfaFNWdmt4M3pWellkZjZJQWRfYnEtbUJLb0lickdPSEU5LUpwVExKbVMzTGh4bUUzLWpHQmw3NFA4?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "arthritis",
@@ -150,6 +282,451 @@
               "slug": "teriparatide",
               "name": "Teriparatide",
               "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a9fe942aeb06",
+      "title": "Dark matter–hunting satellite Euclid reveals record number of cosmic 'magnifying glasses'",
+      "published": "2026-11-15T20:00:01+00:00",
+      "summary": "Dark matter–hunting satellite Euclid reveals record number of cosmic 'magnifying glasses'&nbsp;&nbsp;Phys.orgEuclid lays the foundation for its best-ever 3D map of the Universe&nbsp;&nbsp;ESAEuclid's H-alpha observations map where stars form in distant galaxies&nbsp;&nbsp;Phys.orgDark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)&nbsp;&nbsp;SpaceEuropean survey reveals 900m galaxies – and possibly secrets of ‘dark universe’ | Astronomy&nbs",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUlSa2g3U0p6OFZVbjhKSzNkRGlucVZ3YUl5aFBBeGVVZVlHUnlPOEhJam56bU5lQm9tYk9KRjdSX0ZJMjRDcGJPZzJiQVV5N1o3a3M5b1BUNHdzc0RNeTlQMm9iLTJQdlRvZ1h5eFRHdnFEQ0E3ZjV0SWZkeWNyeHVZSmw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "inflammatory bowel disease",
+          "keyword": "UC",
+          "related_drugs": [
+            {
+              "slug": "rutin",
+              "name": "Rutin",
+              "url": "/drugs/rutin/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b9ef5e3be0ab",
+      "title": "Researchers Turn Moon Dust Into LEGO-Like Bricks That Could Build Future Lunar Bases",
+      "published": "2026-11-15T00:51:40+00:00",
+      "summary": "Researchers Turn Moon Dust Into LEGO-Like Bricks That Could Build Future Lunar Bases&nbsp;&nbsp;SciTechDailyThe secret to building Moon bases may be hiding in emergency blankets&nbsp;&nbsp;Science DailyCollege student develops LEGO-like, 3D-printed moon bricks&nbsp;&nbsp;AdafruitScientists develop Lego-like bricks from Moon soil simulants using lasers, exploring a new way to build lunar habitats with fewer materials transported from Earth&nbsp;&nbsp;The Times of IndiaUniversity of Arkansas Resea",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFRDLUNuNkFXaTZtdlpKYjZ4cjdMeDZEX0JLZHVtcXBlZWJEbHBsOW5rX2pNb09MaU9KZ29uaF9FaHY3bXBxOVBxQklvSFlZR3VrUnFsNjVIREVaVEJ6YWcyeFphVUhYaS1SSHV3Y3FMWk84R2kxU21lTzZIZFdJOTdFX1Q1NHJpLXdlZ2VpS2tGS0xTTmtJZmk0UHpJRndmbzQ2ZDlLZWVZUG5kek1R?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "efbc43a33a66",
+      "title": "Secrets of Earth's Oldest Animals Preserved by Ancient Underwater Canyons, Study Finds",
+      "published": "2026-11-15T00:03:44+00:00",
+      "summary": "Secrets of Earth's Oldest Animals Preserved by Ancient Underwater Canyons, Study Finds&nbsp;&nbsp;ScienceAlertAncient Seafloor Canyons Helped Preserve Some of Earth’s Oldest Animal Fossils, New Study Says&nbsp;&nbsp;Sci.NewsTraces of 550-million-year-old underwater canyons found in Australia — ScienceAlert&nbsp;&nbsp;UA.NEWSOcean that once covered Flinders Ranges preserved Earth's earliest life&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting CorporationAncient Underwater Canyons Helped",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2Z2Uk5VdzFhZnJwTTRoZHVKeTZVUjg3OG5hak53OFRwUF9yRmZfTkdDb0JvbmNWTk5rVmgzWXZ1NXJGSFhPWVlNMk5PVTJBNW1hdk01cnFnOXRORk5RLVBRTjZjdmdDRUFWbGpCckVJRWxmOWtxZ2wzdGZRck1MVHBTalJYVG5GYmh0dzY4WTZwbF96d09obG9GbURfZHdSX3FpUVVYWUdLVFdkb1pJWVdudw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2914c934619",
+      "title": "Evolution found another way to build a primate brain",
+      "published": "2026-11-13T19:00:09+00:00",
+      "summary": "Evolution found another way to build a primate brain&nbsp;&nbsp;Phys.orgGenetic Switch Helped Evolve the Large Primate Brain&nbsp;&nbsp;Neuroscience NewsThe Primate Brain may have evolved in more than one way&nbsp;&nbsp;Tech ExploristEvolutionary DNA changes may explain differences in primate brain development&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SWDZ5Q3FGYVNxOHMzNTJxcldjSGZwOHhwbnZHbWRlRExKTVkwMlVSWXg2WF9CSF9PMTV1SEJ0RDFnOFBkeW9vR2c1Z3dNbHpaMmlxNWxTSGZHTEhPMlVyai1JYmhScXFoSEE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b5f260e2bf21",
+      "title": "Scale-rich network-based metamaterials",
+      "published": "2026-11-11T22:14:32+00:00",
+      "summary": "Scale-rich network-based metamaterials&nbsp;&nbsp;NatureInspired by networks found in nature, engineers design stronger, more resilient “metamaterials”&nbsp;&nbsp;MIT NewsMIT and Others Develop Leaf-Vein-Patterned \"Irregular Metamaterial\" With Improved Shock Absorption&nbsp;&nbsp;BigGo FinanceMIT and Northeastern Researchers 3D Print Nature-Inspired Metamaterials That Hold Up Better Against Impacts&nbsp;&nbsp;https://3dprinting.com/From disorder to strength: CUHK-led GBA research team develops p",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWU1htdHVFYV9MeGlfdGpqbTJkNFNPVFF0b3ZudE55MWZjMTlUNkNSaWtFLUNzdVFqR29EOWZQYmk0WTMzbE9OVGQ5UzlPWlUtV0RyYXkyZk40SElHOFlz?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7d622ae3cbe6",
+      "title": "How scientists are learning to rewire brains — and what it could mean for traumatic memories - New York Post",
+      "published": "2026-11-16T09:11:00+00:00",
+      "summary": "How scientists are learning to rewire brains — and what it could mean for traumatic memories&nbsp;&nbsp;New York Post",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0JaZW1yb3cyZ1BDV1dyT3NMdzlaZzRNUTNwQ2tobDEtNVA0MlpUMy1uX1N3eXI1ZFVXMmNLLXNJdGxBTFN2UXB6LXJWZG5TdV9ieTZUT2RUc1ZCSEl4dDROejRiSG1yQ3BoOWhmWVgtekhBQXJwZW1DZGc4ZE51Vkk4eFJIdFRWNVR5OXBmX3lMVnlmdHpTeEhMRkJHQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
@@ -446,19 +1023,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "e5419a5ef3d8",
-      "title": "RDs Explain If Eating 3 Dates in the Morning Is Good for Digestion and Blood Sugar - Verywell Health",
-      "published": "2026-11-16T00:52:51+00:00",
-      "summary": "RDs Explain If Eating 3 Dates in the Morning Is Good for Digestion and Blood Sugar&nbsp;&nbsp;Verywell Health",
-      "sources": [
-        {
-          "name": "Verywell Health",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GOHBnb0JWUmFwb1NHeE40b0s4dklUalJfRWRMWEZLb3V3LXpsMjVmZGtjWjduVGhwN2VCOTNIR200Vk91VDNOU20zTnlubTFLd2tleUlQazZDU1VoajJNNFJIRGpmSzQxc01XOUFuMUFpVnBfMGdRM1VRZEJVUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "cbc827704d7a",
@@ -1582,19 +2146,6 @@
       ]
     },
     {
-      "id": "e1da00074f94",
-      "title": "WHO Releases First Guidelines On Type 1 Diabetes In Adults: What To Know",
-      "published": "2026-11-15T12:25:17+00:00",
-      "summary": "WHO Releases First Guidelines On Type 1 Diabetes In Adults: What To Know&nbsp;&nbsp;NDTVSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTBUdk5mRWp6Y25nMWhya1lleWVhLUZiemhTWDY4LXl4NENVOEd0bFRfaDJ2cW5vOFZaVlhuVlFtSUhTQm1JOGdoVFFYR1JialJmNGpjaWtKUko0aWhMWFczU1preTd5YjBqczN0SnBFRkMxdGVxZnJ3LThXOTVacXlkdGZ0dHkyeUQybFozZHY1ZFZadjlCcWpUWjNDcWxGQko5aGVWYzJoQWxB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "63e96ab23d11",
       "title": "This Common Daytime Habit May Be Linked To A Higher Dementia Risk, Study Finds",
       "published": "2026-11-15T12:00:17+00:00",
@@ -1956,127 +2507,6 @@
       ]
     },
     {
-      "id": "b9ef5e3be0ab",
-      "title": "Researchers Turn Moon Dust Into LEGO-Like Bricks That Could Build Future Lunar Bases",
-      "published": "2026-11-15T00:51:40+00:00",
-      "summary": "Researchers Turn Moon Dust Into LEGO-Like Bricks That Could Build Future Lunar Bases&nbsp;&nbsp;SciTechDailyCollege student develops LEGO-like, 3D-printed moon bricks&nbsp;&nbsp;Popular ScienceThe secret to building Moon bases may be hiding in emergency blankets&nbsp;&nbsp;Science DailyRegolith and paper aerogel to insulate lunar bases&nbsp;&nbsp;Foro3DMoon dust and recycled materials—providing insulation for future lunar habitats&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFRDLUNuNkFXaTZtdlpKYjZ4cjdMeDZEX0JLZHVtcXBlZWJEbHBsOW5rX2pNb09MaU9KZ29uaF9FaHY3bXBxOVBxQklvSFlZR3VrUnFsNjVIREVaVEJ6YWcyeFphVUhYaS1SSHV3Y3FMWk84R2kxU21lTzZIZFdJOTdFX1Q1NHJpLXdlZ2VpS2tGS0xTTmtJZmk0UHpJRndmbzQ2ZDlLZWVZUG5kek1R?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "efbc43a33a66",
-      "title": "Secrets of Earth's Oldest Animals Preserved by Ancient Underwater Canyons, Study Finds",
-      "published": "2026-11-15T00:03:44+00:00",
-      "summary": "Secrets of Earth's Oldest Animals Preserved by Ancient Underwater Canyons, Study Finds&nbsp;&nbsp;ScienceAlertTraces of 550-million-year-old underwater canyons found in Australia — ScienceAlert&nbsp;&nbsp;UA.NEWSOcean that once covered Flinders Ranges preserved Earth's earliest life&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting CorporationAncient Underwater Canyons Helped Preserve Earth's Oldest Animals&nbsp;&nbsp;Around PragueAncient underwater canyons reveal clues to the world’s ol",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2Z2Uk5VdzFhZnJwTTRoZHVKeTZVUjg3OG5hak53OFRwUF9yRmZfTkdDb0JvbmNWTk5rVmgzWXZ1NXJGSFhPWVlNMk5PVTJBNW1hdk01cnFnOXRORk5RLVBRTjZjdmdDRUFWbGpCckVJRWxmOWtxZ2wzdGZRck1MVHBTalJYVG5GYmh0dzY4WTZwbF96d09obG9GbURfZHdSX3FpUVVYWUdLVFdkb1pJWVdudw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "MI",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan",
-              "url": "/drugs/lasmiditan/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib",
-              "url": "/drugs/selpercatinib/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "3585abf0bf63",
       "title": "Scientists Invented an Electric Comb, And Tests in Mice Show It Promotes Rapid Hair Growth",
       "published": "2026-11-14T20:02:20+00:00",
@@ -2183,32 +2613,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "d7dd4eecc7cf",
-      "title": "Is Sprouted Bread Healthier Than Sourdough? Here’s What Dietitians Say - Martha Stewart",
-      "published": "2026-11-14T18:00:00+00:00",
-      "summary": "Is Sprouted Bread Healthier Than Sourdough? Here’s What Dietitians Say&nbsp;&nbsp;Martha StewartThe 5 Best High-Protein Breads to Eat, According to Nutritionists&nbsp;&nbsp;YahooDietitians Reveal the Store-Bought Breads They Always Buy&nbsp;&nbsp;EatingWell",
-      "sources": [
-        {
-          "name": "Martha Stewart",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVlljSnJjMzNSTnNaZXFvWS1XYjZlMFEya0dNRDZuTi1MUDVRc1ozeHZEMEEyTHFQSGVKTVA1OTZwME1fOFdSdDd2QlVSS0EySUxYaDlrMFB5dVpRelM4WHBRcWRsb3Z5cHk5QmdkNlFmTkIzVVJFN1I1NjNiZHBGMlY3aWF2VFJn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d40bc104da62",
-      "title": "ADHD's effects on breathing, perception and behavior - Medical Xpress",
-      "published": "2026-11-14T17:00:29+00:00",
-      "summary": "ADHD's effects on breathing, perception and behavior&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMUpFUGFFdzVXSENTVUZDUW5HZVppZTdOc3pNZy1mSlNETE5waGdTRjBGQ2FvcWU0VzZsYVRkbmNBYXNLRkpxZWs4ak44WUxBZmFyVlJ5Y21jRU5JZ2x5VHZ0eW9NbTJqUFVDZXBseFdNZENmd2ZZUEZiRlF1TDlIWGZR?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "8dde41db24f4",
@@ -2744,19 +3148,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "92a41570d84c",
-      "title": "Experts spell out what heart health means for women of all ages",
-      "published": "2026-11-14T11:30:16+00:00",
-      "summary": "Experts spell out what heart health means for women of all ages&nbsp;&nbsp;CNNYour Heart Remembers Your Hormonal History&nbsp;&nbsp;The Purist OnlineLeading Health Groups Redefine Heart Health for Girls and Women&nbsp;&nbsp;DiscoverNEPACardiologists Share Everything You Should Know About the New Heart Health Guidance for Women&nbsp;&nbsp;Yahoo HealthFort Wayne executive leads efforts to improve women's heart health&nbsp;&nbsp;www.heart.org",
-      "sources": [
-        {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWFBPT0dxMW1YZERTcUVvRmhGYW1OZTZERWlrVm43VVp2V0dQTmJPVTdGSzZLMEoweVA3UTQwNHNKb3dNclpPVmI2aUFnWWN6QW9WaW9KdzNLeEhCR216M0NveDVmOGNXNFd6NXZNOTJoN2pXTHJyd0I2QVVFd3BycWM3Nmo2VTA?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "06bb1de4b7eb",
@@ -3357,75 +3748,6 @@
       ]
     },
     {
-      "id": "91a3dfb2a0f2",
-      "title": "Widely used diabetes drug may offer unexpected health benefit",
-      "published": "2026-11-13T19:19:36+00:00",
-      "summary": "Widely used diabetes drug may offer unexpected health benefit&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85emV6czRFTWdMSDRKNElhN0REYVltRWE5Zlg3QlFYMHJxY3BLYktDT2U5YmtGZXVrX0NvcHExYXZ1RlhYVDBYWE5NMW5jTU45SnlidnY5OGp0OW9HZXJRaXFoMHdoQk1lSXdJa2JtUVlRVm1PSFRSbUhqTnRvQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b2914c934619",
-      "title": "Evolution found another way to build a primate brain",
-      "published": "2026-11-13T19:00:09+00:00",
-      "summary": "Evolution found another way to build a primate brain&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SWDZ5Q3FGYVNxOHMzNTJxcldjSGZwOHhwbnZHbWRlRExKTVkwMlVSWXg2WF9CSF9PMTV1SEJ0RDFnOFBkeW9vR2c1Z3dNbHpaMmlxNWxTSGZHTEhPMlVyai1JYmhScXFoSEE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate",
-              "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "af6403161226",
       "title": "Ocean absorbs more fossil fuel carbon while land uptake stalls, 30 years of data show",
       "published": "2026-11-13T18:40:21+00:00",
@@ -3951,19 +4273,6 @@
       ]
     },
     {
-      "id": "b656c230d3cf",
-      "title": "Man’s secret use of synthetic testosterone for cows nearly destroyed his heart - Ars Technica",
-      "published": "2026-11-12T18:17:19+00:00",
-      "summary": "Man’s secret use of synthetic testosterone for cows nearly destroyed his heart&nbsp;&nbsp;Ars Technica",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDliTjI4V20zSFY5ZmduSkE0Rl80cmgtYlJXa0kzZHhkZHh0U0RwZ2lkSmxzd1l1ZHhTVHJ4V2FVYXUyT3ZoQm5oV0lHdlFrYTVDaV93d0VnekZwdEVvTVhYUF9Sd3M1cHMxcHRpT1VTenBJTF93QkpBd1RFNzkwWEdaaXhOS3RmSlVIUzg4NU81UmZfZ0RmVThDRnhKckFKYXFtaHBOcWdWYW9QczRsX1VsdmxzZEJl?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d2ec21424608",
       "title": "She’s delivered 2,000 babies. The measles outbreak changed her mind about vaccines. - NBC News",
       "published": "2026-11-12T00:17:00+00:00",
@@ -4159,72 +4468,6 @@
               "slug": "sodium_acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil",
-              "url": "/drugs/tadalafil/"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine",
-              "url": "/drugs/insulin-glargine/"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human",
-              "url": "/drugs/insulin-human/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b5f260e2bf21",
-      "title": "Scale-rich network-based metamaterials",
-      "published": "2026-11-11T22:14:32+00:00",
-      "summary": "Scale-rich network-based metamaterials&nbsp;&nbsp;NatureInspired by networks found in nature, engineers design stronger, more resilient “metamaterials”&nbsp;&nbsp;MIT NewsMIT and Others Develop Leaf-Vein-Patterned \"Irregular Metamaterial\" With Improved Shock Absorption&nbsp;&nbsp;BigGo FinanceMIT and Northeastern Researchers 3D Print Nature-Inspired Metamaterials That Hold Up Better Against Impacts&nbsp;&nbsp;https://3dprinting.com/From disorder to strength: CUHK-led GBA research team develops p",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWU1htdHVFYV9MeGlfdGpqbTJkNFNPVFF0b3ZudE55MWZjMTlUNkNSaWtFLUNzdVFqR29EOWZQYmk0WTMzbE9OVGQ5UzlPWlUtV0RyYXkyZk40SElHOFlz?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "MI",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan",
-              "url": "/drugs/lasmiditan/"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro",
-              "url": "/drugs/insulin-lispro/"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib",
-              "url": "/drugs/baricitinib/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib",
-              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",

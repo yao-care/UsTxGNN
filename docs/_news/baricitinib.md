@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Baricitinib. 2 predicted indications."
 permalink: /news/baricitinib/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Baricitinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Baricitinib?">
-<strong>Baricitinib</strong> currently has <strong>87 news articles</strong>, with 2 predicted indications.
+<strong>Baricitinib</strong> currently has <strong>91 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,23 @@ This page combines the AI-predicted indications for Baricitinib with the latest 
 <p><a href="{{ '/drugs/baricitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (87)
+## Related News (91)
+
+### [A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RSTmFwQ2NXYXhnV1ExZFZhOExLYkNXalRKeXh6TW9qRGRQa3VXSndfQW1wd2pXQ3czdUx6UUdoNHhsVmNDV0xZZ0tvd2k1OG5QS0twd0tXdjVpTzZ4ZkNFVnNaMXpLTEE0djBOQWRfMHhRRnZaVG9udG90YjBEWHl2RDBUVUZhLWVsM0l4Rk9XNDZEQ21aQUM4MklRZmpycDdTdkJHalBZamN1YzI5VDFjVTdSeUNObGhEZUR2U3lJY3E2cHc?oc=5)
+
+2026-11-16 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RSTmFwQ2NXYXhnV1ExZFZhOExLYkNXalRKeXh6TW9qRGRQa3VXSndfQW1wd2pXQ3czdUx6UUdoNHhsVmNDV0xZZ0tvd2k1OG5QS0twd0tXdjVpTzZ4ZkNFVnNaMXpLTEE0djBOQWRfMHhRRnZaVG9udG90YjBEWHl2RDBUVUZhLWVsM0l4Rk9XNDZEQ21aQUM4MklRZmpycDdTdkJHalBZamN1YzI5VDFjVTdSeUNObGhEZUR2U3lJY3E2cHc?oc=5)
+
+---
+
+### [NASA's Curiosity Rover Burst Open a Rock on Mars And Found a Big Surprise](https://news.google.com/rss/articles/CBMiowFBVV95cUxQazZ6Y2xXQ3hFcnppSkVwYXlHbFRfbFBxX1dTNnRDcTRhb19VZ2w3SnhEYnRuNXlHaHdNbVQtdm9aaDJ1Yk9EUkllblBOZkRJdTAzU1NSZHZEV2F0emlyUmdLWE5hMFVjdXdfaFNWdmt4M3pWellkZjZJQWRfYnEtbUJLb0lickdPSEU5LUpwVExKbVMzTGh4bUUzLWpHQmw3NFA4?oc=5)
+
+2026-11-16 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxQazZ6Y2xXQ3hFcnppSkVwYXlHbFRfbFBxX1dTNnRDcTRhb19VZ2w3SnhEYnRuNXlHaHdNbVQtdm9aaDJ1Yk9EUkllblBOZkRJdTAzU1NSZHZEV2F0emlyUmdLWE5hMFVjdXdfaFNWdmt4M3pWellkZjZJQWRfYnEtbUJLb0lickdPSEU5LUpwVExKbVMzTGh4bUUzLWpHQmw3NFA4?oc=5)
+
+---
 
 ### [How scientists are learning to rewire brains — and what it could mean for traumatic memories - New York Post](https://news.google.com/rss/articles/CBMingFBVV95cUxOT0JaZW1yb3cyZ1BDV1dyT3NMdzlaZzRNUTNwQ2tobDEtNVA0MlpUMy1uX1N3eXI1ZFVXMmNLLXNJdGxBTFN2UXB6LXJWZG5TdV9ieTZUT2RUc1ZCSEl4dDROejRiSG1yQ3BoOWhmWVgtekhBQXJwZW1DZGc4ZE51Vkk4eFJIdFRWNVR5OXBmX3lMVnlmdHpTeEhMRkJHQQ?oc=5)
 
@@ -113,6 +129,14 @@ Source: [The Hindu](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMFh6V2R
 2026-11-15 <span class="news-indication-tag">RA</span>
 
 Source: [Health.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sMC1USHJQczBjejMxQjl1WjMydzhOSnluem1fN3dZNEt4YjNEX05zY3F3XzhGdE1uUlppSDc0TXRyZ0pIb2MyTVhaUlpBRVVxbnpHTTR5NTV5VERmR0VFczlXX3JDdw?oc=5)
+
+---
+
+### [Dark matter–hunting satellite Euclid reveals record number of cosmic 'magnifying glasses'](https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUlSa2g3U0p6OFZVbjhKSzNkRGlucVZ3YUl5aFBBeGVVZVlHUnlPOEhJam56bU5lQm9tYk9KRjdSX0ZJMjRDcGJPZzJiQVV5N1o3a3M5b1BUNHdzc0RNeTlQMm9iLTJQdlRvZ1h5eFRHdnFEQ0E3ZjV0SWZkeWNyeHVZSmw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUlSa2g3U0p6OFZVbjhKSzNkRGlucVZ3YUl5aFBBeGVVZVlHUnlPOEhJam56bU5lQm9tYk9KRjdSX0ZJMjRDcGJPZzJiQVV5N1o3a3M5b1BUNHdzc0RNeTlQMm9iLTJQdlRvZ1h5eFRHdnFEQ0E3ZjV0SWZkeWNyeHVZSmw?oc=5)
 
 ---
 
@@ -281,6 +305,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVmht
 2026-11-15 <span class="news-indication-tag">RA</span>
 
 Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE5Pa3JoQ05MYzBEall4S3pHaVRtNHdmYlp5dHZBb3NLT1V3TDRnRVVoQ25pRlJkQnpScG5NVi1xU0M2UkJlTGhuTzBObEVwWjVuenFEN2ZfZmNWa3VRRXVCbEVLWk9jQjVhcDhTTk5zUEVTaUpNX1E?oc=5)
+
+---
+
+### [Researchers Turn Moon Dust Into LEGO-Like Bricks That Could Build Future Lunar Bases](https://news.google.com/rss/articles/CBMirwFBVV95cUxONFRDLUNuNkFXaTZtdlpKYjZ4cjdMeDZEX0JLZHVtcXBlZWJEbHBsOW5rX2pNb09MaU9KZ29uaF9FaHY3bXBxOVBxQklvSFlZR3VrUnFsNjVIREVaVEJ6YWcyeFphVUhYaS1SSHV3Y3FMWk84R2kxU21lTzZIZFdJOTdFX1Q1NHJpLXdlZ2VpS2tGS0xTTmtJZmk0UHpJRndmbzQ2ZDlLZWVZUG5kek1R?oc=5)
+
+2026-11-15 <span class="news-indication-tag">RA</span>
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMirwFBVV95cUxONFRDLUNuNkFXaTZtdlpKYjZ4cjdMeDZEX0JLZHVtcXBlZWJEbHBsOW5rX2pNb09MaU9KZ29uaF9FaHY3bXBxOVBxQklvSFlZR3VrUnFsNjVIREVaVEJ6YWcyeFphVUhYaS1SSHV3Y3FMWk84R2kxU21lTzZIZFdJOTdFX1Q1NHJpLXdlZ2VpS2tGS0xTTmtJZmk0UHpJRndmbzQ2ZDlLZWVZUG5kek1R?oc=5)
 
 ---
 

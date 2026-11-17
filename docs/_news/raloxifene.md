@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Raloxifene. 4 predicted indications."
 permalink: /news/raloxifene/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Raloxifene News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene?">
-<strong>Raloxifene</strong> currently has <strong>55 news articles</strong>, with 4 predicted indications.
+<strong>Raloxifene</strong> currently has <strong>58 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,23 @@ This page combines the AI-predicted indications for Raloxifene with the latest h
 <p><a href="{{ '/drugs/raloxifene/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (55)
+## Related News (58)
+
+### [A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RSTmFwQ2NXYXhnV1ExZFZhOExLYkNXalRKeXh6TW9qRGRQa3VXSndfQW1wd2pXQ3czdUx6UUdoNHhsVmNDV0xZZ0tvd2k1OG5QS0twd0tXdjVpTzZ4ZkNFVnNaMXpLTEE0djBOQWRfMHhRRnZaVG9udG90YjBEWHl2RDBUVUZhLWVsM0l4Rk9XNDZEQ21aQUM4MklRZmpycDdTdkJHalBZamN1YzI5VDFjVTdSeUNObGhEZUR2U3lJY3E2cHc?oc=5)
+
+2026-11-16 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RSTmFwQ2NXYXhnV1ExZFZhOExLYkNXalRKeXh6TW9qRGRQa3VXSndfQW1wd2pXQ3czdUx6UUdoNHhsVmNDV0xZZ0tvd2k1OG5QS0twd0tXdjVpTzZ4ZkNFVnNaMXpLTEE0djBOQWRfMHhRRnZaVG9udG90YjBEWHl2RDBUVUZhLWVsM0l4Rk9XNDZEQ21aQUM4MklRZmpycDdTdkJHalBZamN1YzI5VDFjVTdSeUNObGhEZUR2U3lJY3E2cHc?oc=5)
+
+---
+
+### [NASA's Curiosity Rover Burst Open a Rock on Mars And Found a Big Surprise](https://news.google.com/rss/articles/CBMiowFBVV95cUxQazZ6Y2xXQ3hFcnppSkVwYXlHbFRfbFBxX1dTNnRDcTRhb19VZ2w3SnhEYnRuNXlHaHdNbVQtdm9aaDJ1Yk9EUkllblBOZkRJdTAzU1NSZHZEV2F0emlyUmdLWE5hMFVjdXdfaFNWdmt4M3pWellkZjZJQWRfYnEtbUJLb0lickdPSEU5LUpwVExKbVMzTGh4bUUzLWpHQmw3NFA4?oc=5)
+
+2026-11-16 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxQazZ6Y2xXQ3hFcnppSkVwYXlHbFRfbFBxX1dTNnRDcTRhb19VZ2w3SnhEYnRuNXlHaHdNbVQtdm9aaDJ1Yk9EUkllblBOZkRJdTAzU1NSZHZEV2F0emlyUmdLWE5hMFVjdXdfaFNWdmt4M3pWellkZjZJQWRfYnEtbUJLb0lickdPSEU5LUpwVExKbVMzTGh4bUUzLWpHQmw3NFA4?oc=5)
+
+---
 
 ### [Physicists defy expectations by controlling the magnetic heart of a single atom - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5pNGFUY0FwaHV5N1ZRY2VVanIzN3RXbllrY0VzeUxTTnpWdTRfdUM1azlaaU9TeDlNd3plY0FYR0l0WlBBY1FKNE9iaUpjUXZCQUJlTHRlWUZxaURZczM5cUtIOXBxZUsyaG5NUDZXcw?oc=5)
 
@@ -91,6 +107,14 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWpLN3Rz
 2026-11-15 <span class="news-indication-tag">MI</span>
 
 Source: [The Hindu](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMFh6V2R4MXFfVldKWnZHVl84WDZhMjg0UGt3X1JxazdOUG93cm9ha2pDSEk1eV84V3RZYUh1OW9LZ1hNU0RJdzVaamw2ZXNhaWgwYzZPMWNfOXRZQXBKRzlzNWE4NjJ0elZJQ2wwQ0hhNl91cTQ1aDFOVGZERTY2YjZLMkVsRlhrZ0UzYUh4d2NYNGxTVF92cXI4cWlxNlZEc29MRUtzYThuSldIam4tSEI4c0k3N05xS0lGQS1kTldwQ0hGZW9ZTEZiZ3ZoTHVIUHlvYTNhOThpUWJKU3hZSVJ5c9IB6gFBVV95cUxNUG91T25jUlFQbVJQTmViV1dFcHh6b1BSalJSZDlybmVUNnIxZnNLeGQzWnFjcTVpbWtpbmt1SGd6eHFEZnl4OWNDY0d3VHk2R3M2elRPRFA4ZHZwX213RUZ6OTRsOXNwanozYUVfS3ZBS0NlNXc4WXhlOFpxdXZEOE5yRVpZWWVmckhnTnd0V1JaVHRBSHVOQ3NTSVNvQ1NValVlVi1BUURkTGstNkhLb0p1bWkwS1NURGtCQ1JVbWVOREpQRGV4VDJSVERhN3RNQWVMYUI0aDh1bEZrQ0V3NENPaFdwcWRWd2c?oc=5)
+
+---
+
+### [Dark matter–hunting satellite Euclid reveals record number of cosmic 'magnifying glasses'](https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUlSa2g3U0p6OFZVbjhKSzNkRGlucVZ3YUl5aFBBeGVVZVlHUnlPOEhJam56bU5lQm9tYk9KRjdSX0ZJMjRDcGJPZzJiQVV5N1o3a3M5b1BUNHdzc0RNeTlQMm9iLTJQdlRvZ1h5eFRHdnFEQ0E3ZjV0SWZkeWNyeHVZSmw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUlSa2g3U0p6OFZVbjhKSzNkRGlucVZ3YUl5aFBBeGVVZVlHUnlPOEhJam56bU5lQm9tYk9KRjdSX0ZJMjRDcGJPZzJiQVV5N1o3a3M5b1BUNHdzc0RNeTlQMm9iLTJQdlRvZ1h5eFRHdnFEQ0E3ZjV0SWZkeWNyeHVZSmw?oc=5)
 
 ---
 

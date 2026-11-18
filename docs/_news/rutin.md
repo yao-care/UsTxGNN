@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>24 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>28 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,11 +40,11 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (24)
+## Related News (28)
 
 ### [Vapes cause ‘irreversible’ internal damage, study finds: ‘This should be a wake-up call’ - New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
 
-2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
 
@@ -76,7 +76,7 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3FkalNk
 
 ### [Ozempic and Mounjaro may have a surprising effect on your brain - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
 
-2026-11-17 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-17 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
 
@@ -92,9 +92,17 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTF
 
 ### [Genetic variant that reshaped the human brain was inherited from Neanderthals](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pOThEbWJnTUxXa1RXeXZhTHBQSlBJZUdMLVlsbnpjbHBTaXFKRDVaZWs2cmtRRnc3dVRWNURmX3lHb2U0azBkT3VLNlpaaTEyZzVqRHZ5MkI3czBFeHBj?oc=5)
 
-2026-11-17 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-17 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pOThEbWJnTUxXa1RXeXZhTHBQSlBJZUdMLVlsbnpjbHBTaXFKRDVaZWs2cmtRRnc3dVRWNURmX3lHb2U0azBkT3VLNlpaaTEyZzVqRHZ5MkI3czBFeHBj?oc=5)
+
+---
+
+### [Nikocado Avocado Left With Agonizing Pain After Plastic Surgery Complication Caused Nerve Damage](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3F3dlJBbzhHd1RJV1ZVblBEeGxLVWplZ01PaWVoTmtYS2doT0g3S1pUNFozRktlaEtCbmVoMUdwTmZTYUtORS1uSF9HMHE1NmRpUWxRbDkzVFcxV29RYVl6anZyWTRlSGtuUzFSWU9oNTR3UXBEeHVMeUZMNEV5WDhVc2dmdHc1MVZQVUcyVWF6WU1oZ2pVV1R3VFktd2M5Zk5pOFpJS2VGZ03SAbABQVVfeXFMUFVUalpJR3Jia1pOT2dNV2tWSFA3YWFYZjVWUk16RVg5QWlHQUpURk9fYWNRQm9KQ3ltZEhoRTRUb3hyWldXWWFveDhlM3E0dURCV3llUHBkc2gybDBtR0t1enlfR3U5bzBUS2JKa0NiTEhkTnVYNzZ1V0FYZ3R1Nk5kdWR4TnFZeU5fMXh3Z0hWTnRnOHRtWndISlJxcC0xRHh5NndPU1g4M3hCT3pOM3A?oc=5)
+
+2026-11-17 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">UC</span>
+
+Source: [BollywoodShaadis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3F3dlJBbzhHd1RJV1ZVblBEeGxLVWplZ01PaWVoTmtYS2doT0g3S1pUNFozRktlaEtCbmVoMUdwTmZTYUtORS1uSF9HMHE1NmRpUWxRbDkzVFcxV29RYVl6anZyWTRlSGtuUzFSWU9oNTR3UXBEeHVMeUZMNEV5WDhVc2dmdHc1MVZQVUcyVWF6WU1oZ2pVV1R3VFktd2M5Zk5pOFpJS2VGZ03SAbABQVVfeXFMUFVUalpJR3Jia1pOT2dNV2tWSFA3YWFYZjVWUk16RVg5QWlHQUpURk9fYWNRQm9KQ3ltZEhoRTRUb3hyWldXWWFveDhlM3E0dURCV3llUHBkc2gybDBtR0t1enlfR3U5bzBUS2JKa0NiTEhkTnVYNzZ1V0FYZ3R1Nk5kdWR4TnFZeU5fMXh3Z0hWTnRnOHRtWndISlJxcC0xRHh5NndPU1g4M3hCT3pOM3A?oc=5)
 
 ---
 
@@ -111,6 +119,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RS
 2026-11-16 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2UxaHd2czZvdVN4NTB1U3E0M19zZXZ1RVFKaDhCOTh0TF9HX21sUjJZTFJoTURCaUZpZ2o3eDJYWHJCMDRQRDlUWWVBNklJak9qbDgtYUdiWWExcld2ZHRVWmY4UzllOXZteGhQalUyTFlBZXNrWW1IS0psMXV2M25IXzVxa1hJSVUzUUpnYXE?oc=5)
+
+---
+
+### [Check Out the First Photos of the Poles of a Rod-Shaped Bacterium - Nautilus | Science Connected](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFd3VDNfeUdzck12cDl2ejdST3FaRV9RUEZwbV85NTJscDd1bFJXaWFDaGJBU2RtLU5WV1lLZ21BVUxvNFhUQlZqRi1jR3ZpM0dmaVVWRUJjVklISDVHRkk5Nnk4VWM4cHk3d242bjcxZ1o2bENnb1pFU2gwV1hqR19mMnNBTTU3TVZKVlRqN2V3QVNYV2c?oc=5)
+
+2026-11-16 <span class="news-indication-tag">UC</span>
+
+Source: [Nautilus | Science Connected](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFd3VDNfeUdzck12cDl2ejdST3FaRV9RUEZwbV85NTJscDd1bFJXaWFDaGJBU2RtLU5WV1lLZ21BVUxvNFhUQlZqRi1jR3ZpM0dmaVVWRUJjVklISDVHRkk5Nnk4VWM4cHk3d242bjcxZ1o2bENnb1pFU2gwV1hqR19mMnNBTTU3TVZKVlRqN2V3QVNYV2c?oc=5)
 
 ---
 
@@ -170,6 +186,14 @@ Source: [HuffPost](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFA3Nzdn
 
 ---
 
+### [Brain Implants Give A.L.S. Patients the Voice to Speak and Sing - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE9GbVlXdWZLZFhINUJ5WEw5dC1sQWxtT0o2QjlWQl9QWXg0djVXLXdEWkVuV1E2V3BVZ2dhUmphQ0lIV1dFYjFGUnNGWmtvUWtBNzlwd21xbnNmYUQ0ZlhXbzFWWk9xZDZXLUNzelA4UHFWZWFONEtQeG1rZ2I?oc=5)
+
+2026-11-14 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE9GbVlXdWZLZFhINUJ5WEw5dC1sQWxtT0o2QjlWQl9QWXg0djVXLXdEWkVuV1E2V3BVZ2dhUmphQ0lIV1dFYjFGUnNGWmtvUWtBNzlwd21xbnNmYUQ0ZlhXbzFWWk9xZDZXLUNzelA4UHFWZWFONEtQeG1rZ2I?oc=5)
+
+---
+
 ### [Man in his 70s diagnosed with rare heart defect usually found in infancy: "Lucky to have lived this long" - CBS News](https://news.google.com/rss/articles/CBMid0FVX3lxTFBYaWxkTktUUzE0MzFxMEp3TVY4TDFTTDJOUjhjTnVyMDQyRll4VjRBREx6WmxrRWZyV0JPY09FeE1pbWxDZFdLTXhlVldsdmRxd1BkaTRlTzZPbVdGZzJraEEwdXBtcmlDVkhndGZSQWZMck9IRUE0?oc=5)
 
 2026-11-14 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
@@ -215,6 +239,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0QzJKWnp0WF
 2026-11-12 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [Space](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3N1QTVmUWk0TFBfQjVfTGZKeTR4b1pheGlIajJTclVKdmZqdWhBUmlSZG1UeC1pVTNwZVBvU1NWUWlqdDBGbXd0Z2NUWXZuTFZ6Q2NGWVJQVXduRGhuc2R5Ymh0VmF1T3dNSnZNcmM1VS1pa2lNUkdFX2thRmZQLW5aNnB5RkMxT2R4UGZxLTFBWkd0Z2N0cFFIYWs5c05LSXlYRlZtSWZaNWRyc3RKWjA4WmZvZ2U3V0JwNUR6TnRCN1ZoYVVlZXBRWHZBdWlmRUE?oc=5)
+
+---
+
+### [Inspired by networks found in nature, engineers design stronger, more resilient “metamaterials” - MIT News](https://news.google.com/rss/articles/CBMinAFBVV95cUxObkttT2djVHM5MHF0TXBZMHk2MmVZOXJIYXB1dkgweUNVdEQ1ZlNPRWdSWERZWWl4QWUxWFFlU0FqVUcyYVNvdC1sNU42ZjJsbmRRY3A0ZGduajFOMGJVTi03SzJSZTBtcndGVUw0bWJzZXhTNDBKSWRHcVJ3dmRMMm9Qd19RNUlRRmRBZXdWZjZURlNBVkZmcjFUZUo?oc=5)
+
+2026-11-11 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [MIT News](https://news.google.com/rss/articles/CBMinAFBVV95cUxObkttT2djVHM5MHF0TXBZMHk2MmVZOXJIYXB1dkgweUNVdEQ1ZlNPRWdSWERZWWl4QWUxWFFlU0FqVUcyYVNvdC1sNU42ZjJsbmRRY3A0ZGduajFOMGJVTi03SzJSZTBtcndGVUw0bWJzZXhTNDBKSWRHcVJ3dmRMMm9Qd19RNUlRRmRBZXdWZjZURlNBVkZmcjFUZUo?oc=5)
 
 ---
 

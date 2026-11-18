@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 22 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 26 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>22 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>26 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (22)
+## Related News (26)
 
 ### [Vapes cause ‘irreversible’ internal damage, study finds: ‘This should be a wake-up call’ - New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
 
@@ -93,6 +93,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pOThEbWJnTU
 
 ---
 
+### [Nikocado Avocado Left With Agonizing Pain After Plastic Surgery Complication Caused Nerve Damage](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3F3dlJBbzhHd1RJV1ZVblBEeGxLVWplZ01PaWVoTmtYS2doT0g3S1pUNFozRktlaEtCbmVoMUdwTmZTYUtORS1uSF9HMHE1NmRpUWxRbDkzVFcxV29RYVl6anZyWTRlSGtuUzFSWU9oNTR3UXBEeHVMeUZMNEV5WDhVc2dmdHc1MVZQVUcyVWF6WU1oZ2pVV1R3VFktd2M5Zk5pOFpJS2VGZ03SAbABQVVfeXFMUFVUalpJR3Jia1pOT2dNV2tWSFA3YWFYZjVWUk16RVg5QWlHQUpURk9fYWNRQm9KQ3ltZEhoRTRUb3hyWldXWWFveDhlM3E0dURCV3llUHBkc2gybDBtR0t1enlfR3U5bzBUS2JKa0NiTEhkTnVYNzZ1V0FYZ3R1Nk5kdWR4TnFZeU5fMXh3Z0hWTnRnOHRtWndISlJxcC0xRHh5NndPU1g4M3hCT3pOM3A?oc=5)
+
+2026-11-17
+
+Source: [BollywoodShaadis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3F3dlJBbzhHd1RJV1ZVblBEeGxLVWplZ01PaWVoTmtYS2doT0g3S1pUNFozRktlaEtCbmVoMUdwTmZTYUtORS1uSF9HMHE1NmRpUWxRbDkzVFcxV29RYVl6anZyWTRlSGtuUzFSWU9oNTR3UXBEeHVMeUZMNEV5WDhVc2dmdHc1MVZQVUcyVWF6WU1oZ2pVV1R3VFktd2M5Zk5pOFpJS2VGZ03SAbABQVVfeXFMUFVUalpJR3Jia1pOT2dNV2tWSFA3YWFYZjVWUk16RVg5QWlHQUpURk9fYWNRQm9KQ3ltZEhoRTRUb3hyWldXWWFveDhlM3E0dURCV3llUHBkc2gybDBtR0t1enlfR3U5bzBUS2JKa0NiTEhkTnVYNzZ1V0FYZ3R1Nk5kdWR4TnFZeU5fMXh3Z0hWTnRnOHRtWndISlJxcC0xRHh5NndPU1g4M3hCT3pOM3A?oc=5)
+
+---
+
 ### [A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RSTmFwQ2NXYXhnV1ExZFZhOExLYkNXalRKeXh6TW9qRGRQa3VXSndfQW1wd2pXQ3czdUx6UUdoNHhsVmNDV0xZZ0tvd2k1OG5QS0twd0tXdjVpTzZ4ZkNFVnNaMXpLTEE0djBOQWRfMHhRRnZaVG9udG90YjBEWHl2RDBUVUZhLWVsM0l4Rk9XNDZEQ21aQUM4MklRZmpycDdTdkJHalBZamN1YzI5VDFjVTdSeUNObGhEZUR2U3lJY3E2cHc?oc=5)
 
 2026-11-16
@@ -106,6 +114,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RS
 2026-11-16
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2UxaHd2czZvdVN4NTB1U3E0M19zZXZ1RVFKaDhCOTh0TF9HX21sUjJZTFJoTURCaUZpZ2o3eDJYWHJCMDRQRDlUWWVBNklJak9qbDgtYUdiWWExcld2ZHRVWmY4UzllOXZteGhQalUyTFlBZXNrWW1IS0psMXV2M25IXzVxa1hJSVUzUUpnYXE?oc=5)
+
+---
+
+### [Check Out the First Photos of the Poles of a Rod-Shaped Bacterium - Nautilus | Science Connected](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFd3VDNfeUdzck12cDl2ejdST3FaRV9RUEZwbV85NTJscDd1bFJXaWFDaGJBU2RtLU5WV1lLZ21BVUxvNFhUQlZqRi1jR3ZpM0dmaVVWRUJjVklISDVHRkk5Nnk4VWM4cHk3d242bjcxZ1o2bENnb1pFU2gwV1hqR19mMnNBTTU3TVZKVlRqN2V3QVNYV2c?oc=5)
+
+2026-11-16
+
+Source: [Nautilus | Science Connected](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFd3VDNfeUdzck12cDl2ejdST3FaRV9RUEZwbV85NTJscDd1bFJXaWFDaGJBU2RtLU5WV1lLZ21BVUxvNFhUQlZqRi1jR3ZpM0dmaVVWRUJjVklISDVHRkk5Nnk4VWM4cHk3d242bjcxZ1o2bENnb1pFU2gwV1hqR19mMnNBTTU3TVZKVlRqN2V3QVNYV2c?oc=5)
 
 ---
 
@@ -165,6 +181,14 @@ Source: [HuffPost](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFA3Nzdn
 
 ---
 
+### [Brain Implants Give A.L.S. Patients the Voice to Speak and Sing - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE9GbVlXdWZLZFhINUJ5WEw5dC1sQWxtT0o2QjlWQl9QWXg0djVXLXdEWkVuV1E2V3BVZ2dhUmphQ0lIV1dFYjFGUnNGWmtvUWtBNzlwd21xbnNmYUQ0ZlhXbzFWWk9xZDZXLUNzelA4UHFWZWFONEtQeG1rZ2I?oc=5)
+
+2026-11-14
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE9GbVlXdWZLZFhINUJ5WEw5dC1sQWxtT0o2QjlWQl9QWXg0djVXLXdEWkVuV1E2V3BVZ2dhUmphQ0lIV1dFYjFGUnNGWmtvUWtBNzlwd21xbnNmYUQ0ZlhXbzFWWk9xZDZXLUNzelA4UHFWZWFONEtQeG1rZ2I?oc=5)
+
+---
+
 ### [Man in his 70s diagnosed with rare heart defect usually found in infancy: "Lucky to have lived this long" - CBS News](https://news.google.com/rss/articles/CBMid0FVX3lxTFBYaWxkTktUUzE0MzFxMEp3TVY4TDFTTDJOUjhjTnVyMDQyRll4VjRBREx6WmxrRWZyV0JPY09FeE1pbWxDZFdLTXhlVldsdmRxd1BkaTRlTzZPbVdGZzJraEEwdXBtcmlDVkhndGZSQWZMck9IRUE0?oc=5)
 
 2026-11-14
@@ -202,6 +226,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0QzJKWnp0WF
 2026-11-12
 
 Source: [Space](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3N1QTVmUWk0TFBfQjVfTGZKeTR4b1pheGlIajJTclVKdmZqdWhBUmlSZG1UeC1pVTNwZVBvU1NWUWlqdDBGbXd0Z2NUWXZuTFZ6Q2NGWVJQVXduRGhuc2R5Ymh0VmF1T3dNSnZNcmM1VS1pa2lNUkdFX2thRmZQLW5aNnB5RkMxT2R4UGZxLTFBWkd0Z2N0cFFIYWs5c05LSXlYRlZtSWZaNWRyc3RKWjA4WmZvZ2U3V0JwNUR6TnRCN1ZoYVVlZXBRWHZBdWlmRUE?oc=5)
+
+---
+
+### [Inspired by networks found in nature, engineers design stronger, more resilient “metamaterials” - MIT News](https://news.google.com/rss/articles/CBMinAFBVV95cUxObkttT2djVHM5MHF0TXBZMHk2MmVZOXJIYXB1dkgweUNVdEQ1ZlNPRWdSWERZWWl4QWUxWFFlU0FqVUcyYVNvdC1sNU42ZjJsbmRRY3A0ZGduajFOMGJVTi03SzJSZTBtcndGVUw0bWJzZXhTNDBKSWRHcVJ3dmRMMm9Qd19RNUlRRmRBZXdWZjZURlNBVkZmcjFUZUo?oc=5)
+
+2026-11-11
+
+Source: [MIT News](https://news.google.com/rss/articles/CBMinAFBVV95cUxObkttT2djVHM5MHF0TXBZMHk2MmVZOXJIYXB1dkgweUNVdEQ1ZlNPRWdSWERZWWl4QWUxWFFlU0FqVUcyYVNvdC1sNU42ZjJsbmRRY3A0ZGduajFOMGJVTi03SzJSZTBtcndGVUw0bWJzZXhTNDBKSWRHcVJ3dmRMMm9Qd19RNUlRRmRBZXdWZjZURlNBVkZmcjFUZUo?oc=5)
 
 ---
 

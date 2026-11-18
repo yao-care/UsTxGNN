@@ -3,9 +3,9 @@ layout: default
 title: "high blood pressure (hypertension) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about high blood pressure (hypertension). 2 articles, 1 related drugs."
+description: "Health news about high blood pressure (hypertension). 4 articles, 1 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # high blood pressure (hypertension) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
-<strong>high blood pressure (hypertension)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
+<strong>high blood pressure (hypertension)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page brings together the latest health news about “high blood pressure”
 </ul>
 </div>
 
-## Related News (2)
+## Related News (4)
+
+### [The Best Nutrient for Lowering Blood Pressure, According to a Cardiologist](https://news.google.com/rss/articles/CBMidEFVX3lxTE5qNnNTYVdFUjFSMWRMbXFObmZKcVBTblUzQzF6cW40YXQyT2pSdW5lVENUcDZNUGdtUzJ1REgwbGNta0tFZG9nMjRHQ1NEUmNlQ3JUVzhPbVRyeWk2ZGtBN1Jibmo2T1BTMzhaWVc0Zm02REZm?oc=5)
+
+2026-11-17
+
+Source: [Health.com](https://news.google.com/rss/articles/CBMidEFVX3lxTE5qNnNTYVdFUjFSMWRMbXFObmZKcVBTblUzQzF6cW40YXQyT2pSdW5lVENUcDZNUGdtUzJ1REgwbGNta0tFZG9nMjRHQ1NEUmNlQ3JUVzhPbVRyeWk2ZGtBN1Jibmo2T1BTMzhaWVc0Zm02REZm?oc=5)
+
+---
+
+### [5 Supplements To Avoid if You Have High Blood Pressure](https://news.google.com/rss/articles/CBMifEFVX3lxTE9zcVh6Y3kycnlfMjVKOUtKX3ZkVVRkejU3czJkUUxhMDBJcVBXemZqbkhTdzZLdGRMN2tWV3Nyb21GWkdvcnBEeGx2d2JqcXpPd2NLdmZrZXdrUXFWSFpVRDhQYXpVSm9QWnhWYlJzV1lpeWdyZVd4QmpTREc?oc=5)
+
+2026-11-17
+
+Source: [Health.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE9zcVh6Y3kycnlfMjVKOUtKX3ZkVVRkejU3czJkUUxhMDBJcVBXemZqbkhTdzZLdGRMN2tWV3Nyb21GWkdvcnBEeGx2d2JqcXpPd2NLdmZrZXdrUXFWSFpVRDhQYXpVSm9QWnhWYlJzV1lpeWdyZVd4QmpTREc?oc=5)
+
+---
 
 ### [Simple salt substitute could prevent three million deaths a year worldwide, study estimates - Fox News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUgzTXU1OVVPU0YyRmc0dUI2cHBUcjhjTThYamNjbzZwNU1rVzNuSEgzblROVWs4TFk0WDNoRC03Z2VFN2F2OXY5ekQ1ZjVvbTJ2c1ZaZzhidUs5U3ZVcEczM2xwU0I5eDZ6dTN6dHdkamlLWDF6S1hxdlkzY3hlOHdXTGVVbFdrOUFnY3VWZ2tmQkVfdzZZdzFyVHJlMDU0bHRVcU82TUItS20zMVN1SzY3R1cxa29YRkYw0gHAAUFVX3lxTFBVRG5qTVJBcEdhd29yaS00ZU9LQWdDTVJ3Z0gtbjZaU3VIOVA1VXdNOWdmWElod0V2RUJOR2VQbk5IWGJ0S3FIc0kwVlRoWXVaZ1NBanhNckVTcm9ReUUzZVRZNHU5RFhfNnlNN1ZuSjhlSEwxdE5yUHk2ZkRiYTg2Vmp3NjQzUWstN1F1S1htSS0wdUJKOXY5T3pGVjVFTHctT1JMVU1sRDVSMzBEYWVUN0loSlRZVkhCMGs0YUJHZg?oc=5)
 

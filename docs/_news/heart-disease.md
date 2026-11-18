@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 11 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 15 articles, 1 related drugs."
 permalink: /news/heart-disease/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>11 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>15 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (11)
+## Related News (15)
 
 ### [Ericka Hart reveals stage 4 colon cancer diagnosis more than a decade after breast cancer battle](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNy1pOGxIcUoydEtPOEg0ei0xMDVpb05uYk5iMkxVMEJJVTFlWUNuNHk0N2JiLVJiWlZoTTI3NkJpUFpYMTBPR0d3TDVGVzdTWnJMMHVaXzFfeEljaFlrMjd6TWUzQ3RfMGEtU1RmSmRUTzNhXzBlck5aZ2YteEl4THJuYTdnVHZO?oc=5)
 
@@ -40,11 +40,27 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNy1pOGxIcUo
 
 ---
 
+### [Vapes cause ‘irreversible’ internal damage, study finds: ‘This should be a wake-up call’ - New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
+
+2026-11-17
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
+
+---
+
 ### [Doctors sound the alarm about US babies born with measles for the first time in decades](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEJYWWdTMk5JWnpWb29WZWxXNXpWV2ZiS0FId2RfTjd3SWp6b0pUUEVxdW95cXQtVWRKN2ZTOGRKZVJGUV9CUWloZE4wNWZ1a3NyekgwcGVKQmRpZ2dCVTFWeDFieWxyRUNRRmZCMWpfbUJZcm5uWkU3aU5Yd3FreV9ZQ01TWExXR3FKRzdkdlVyMV9DTVNVYnVldHFybmpiOFhpNUNnc9IBuwFBVV95cUxOX2p3RjhzSjduZ00wX1JyWS1fN3VXaHlOQ3ExQzI0ZDJLLVhUUFBzZF9JSHZSb1U4UEd0YzN0OUVFTGcyeTF3X3l1WDhVa25Lend1OXJuTUhOdWxiLWlOYTJPeDZlMjQzS2dUc2M0UmRpdk5kWFJzX3VMTmkwRmhfRkdVcmJMX2NFR0EzQ2lSenZvWXZHa2JaQlZDemVxQ2RTcktLNmlHanNlSjFLVk00dzY2enNqM1JLRWdV?oc=5)
 
 2026-11-17
 
 Source: [KY3](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEJYWWdTMk5JWnpWb29WZWxXNXpWV2ZiS0FId2RfTjd3SWp6b0pUUEVxdW95cXQtVWRKN2ZTOGRKZVJGUV9CUWloZE4wNWZ1a3NyekgwcGVKQmRpZ2dCVTFWeDFieWxyRUNRRmZCMWpfbUJZcm5uWkU3aU5Yd3FreV9ZQ01TWExXR3FKRzdkdlVyMV9DTVNVYnVldHFybmpiOFhpNUNnc9IBuwFBVV95cUxOX2p3RjhzSjduZ00wX1JyWS1fN3VXaHlOQ3ExQzI0ZDJLLVhUUFBzZF9JSHZSb1U4UEd0YzN0OUVFTGcyeTF3X3l1WDhVa25Lend1OXJuTUhOdWxiLWlOYTJPeDZlMjQzS2dUc2M0UmRpdk5kWFJzX3VMTmkwRmhfRkdVcmJMX2NFR0EzQ2lSenZvWXZHa2JaQlZDemVxQ2RTcktLNmlHanNlSjFLVk00dzY2enNqM1JLRWdV?oc=5)
+
+---
+
+### [Nikocado Avocado Left With Agonizing Pain After Plastic Surgery Complication Caused Nerve Damage](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3F3dlJBbzhHd1RJV1ZVblBEeGxLVWplZ01PaWVoTmtYS2doT0g3S1pUNFozRktlaEtCbmVoMUdwTmZTYUtORS1uSF9HMHE1NmRpUWxRbDkzVFcxV29RYVl6anZyWTRlSGtuUzFSWU9oNTR3UXBEeHVMeUZMNEV5WDhVc2dmdHc1MVZQVUcyVWF6WU1oZ2pVV1R3VFktd2M5Zk5pOFpJS2VGZ03SAbABQVVfeXFMUFVUalpJR3Jia1pOT2dNV2tWSFA3YWFYZjVWUk16RVg5QWlHQUpURk9fYWNRQm9KQ3ltZEhoRTRUb3hyWldXWWFveDhlM3E0dURCV3llUHBkc2gybDBtR0t1enlfR3U5bzBUS2JKa0NiTEhkTnVYNzZ1V0FYZ3R1Nk5kdWR4TnFZeU5fMXh3Z0hWTnRnOHRtWndISlJxcC0xRHh5NndPU1g4M3hCT3pOM3A?oc=5)
+
+2026-11-17
+
+Source: [BollywoodShaadis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3F3dlJBbzhHd1RJV1ZVblBEeGxLVWplZ01PaWVoTmtYS2doT0g3S1pUNFozRktlaEtCbmVoMUdwTmZTYUtORS1uSF9HMHE1NmRpUWxRbDkzVFcxV29RYVl6anZyWTRlSGtuUzFSWU9oNTR3UXBEeHVMeUZMNEV5WDhVc2dmdHc1MVZQVUcyVWF6WU1oZ2pVV1R3VFktd2M5Zk5pOFpJS2VGZ03SAbABQVVfeXFMUFVUalpJR3Jia1pOT2dNV2tWSFA3YWFYZjVWUk16RVg5QWlHQUpURk9fYWNRQm9KQ3ltZEhoRTRUb3hyWldXWWFveDhlM3E0dURCV3llUHBkc2gybDBtR0t1enlfR3U5bzBUS2JKa0NiTEhkTnVYNzZ1V0FYZ3R1Nk5kdWR4TnFZeU5fMXh3Z0hWTnRnOHRtWndISlJxcC0xRHh5NndPU1g4M3hCT3pOM3A?oc=5)
 
 ---
 
@@ -61,6 +77,22 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzd
 2026-11-16
 
 Source: [Prevention](https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUNRZ2U1MG9uZVpDdkNJVGNtRUh0VGdaeEgyUE5oM1JDTmx4c1RURHRsSEpXTWtkSmowSi1kaWxMakw1YnpSY3JYT2htQ1JCcEZGYzRfUUFreXlSZTZUM1RFX1R0cE84azJRejdzemdnbndFMHpSeXBUUnRLV0Y0aEc5bmRNbjJiQ3V6Z3hQaEVhY2tiNU5aU1l5MW15aGpF?oc=5)
+
+---
+
+### [Dietitians Reveal the Number 1 Nutrient for Healthy Aging—by the Decade](https://news.google.com/rss/articles/CBMihgFBVV95cUxQS3J3Mnh6cndoODJ4TkdzODV1SUVMbGdUZHNkRk5DVFNKMmRIYjFPOGJRbkxYdjkzUEhsZllZMXNsLWstWmJ0elRBSUFudzBIa09pdWRsaTdjZFlDdGdRc0xaWHVhQ0VNQV90RjFNWnB1dFdRcDlQV29DcVZ0N0Q5TzVpcnVzUQ?oc=5)
+
+2026-11-16
+
+Source: [AOL.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxQS3J3Mnh6cndoODJ4TkdzODV1SUVMbGdUZHNkRk5DVFNKMmRIYjFPOGJRbkxYdjkzUEhsZllZMXNsLWstWmJ0elRBSUFudzBIa09pdWRsaTdjZFlDdGdRc0xaWHVhQ0VNQV90RjFNWnB1dFdRcDlQV29DcVZ0N0Q5TzVpcnVzUQ?oc=5)
+
+---
+
+### [I’m a doctor and I take statins. There’s just one reason I may stop - The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkpRNWJNa2tlbDZlTkROMDltTVAxbGVOc3pUUk5VRk8wMHdFMVAyYS1mY1hMd3ZIeVRWOWFuZDBEYXlkT3JTdVBCZ0dBc3NpM3pCRDJxbXRXM3RoN3hNMlI0MDJ1LVlKS0J3QmZmX0tsdGlURldObmkzS1p4LXJoTkRDaTBWRWJYVWV5UDZLRFZmaDRqc0RoOFEwR2x2akpkM2ViYQ?oc=5)
+
+2026-11-16
+
+Source: [The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkpRNWJNa2tlbDZlTkROMDltTVAxbGVOc3pUUk5VRk8wMHdFMVAyYS1mY1hMd3ZIeVRWOWFuZDBEYXlkT3JTdVBCZ0dBc3NpM3pCRDJxbXRXM3RoN3hNMlI0MDJ1LVlKS0J3QmZmX0tsdGlURldObmkzS1p4LXJoTkRDaTBWRWJYVWV5UDZLRFZmaDRqc0RoOFEwR2x2akpkM2ViYQ?oc=5)
 
 ---
 

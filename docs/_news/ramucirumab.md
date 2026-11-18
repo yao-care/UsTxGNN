@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>23 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>29 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (23)
+## Related News (29)
 
 ### [Ericka Hart reveals stage 4 colon cancer diagnosis more than a decade after breast cancer battle](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNy1pOGxIcUoydEtPOEg0ei0xMDVpb05uYk5iMkxVMEJJVTFlWUNuNHk0N2JiLVJiWlZoTTI3NkJpUFpYMTBPR0d3TDVGVzdTWnJMMHVaXzFfeEljaFlrMjd6TWUzQ3RfMGEtU1RmSmRUTzNhXzBlck5aZ2YteEl4THJuYTdnVHZO?oc=5)
 
@@ -54,9 +54,33 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNy1pOGxIcUo
 
 ### [Vapes cause ‘irreversible’ internal damage, study finds: ‘This should be a wake-up call’ - New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
 
-2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
+
+---
+
+### [Pancreatic cancer mystery deepens as researchers make unexpected discovery - New York Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnVzQThRQUN6YkNtX1BMVzZTSVg3bG5DLXFqQnpkdml6WUdlMERpX1lpTC1SZjljclFMaFZxSFY0QTBMb0ZNdnRiZ2E1RTFLSVdKSlNEN2VFZHBoR3VIVnhCZXN6QnI5U25hWkwzbnhYZDN3c1YwUlN3eDZtbl8tNUd2VkJBSkNkUlUtQS0tcmprR3ljNG1TbFg3dnVYRHlOTmt6bWhqUzM5MV9TSUdDRTFn?oc=5)
+
+2026-11-17 <span class="news-indication-tag">cancer</span>
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnVzQThRQUN6YkNtX1BMVzZTSVg3bG5DLXFqQnpkdml6WUdlMERpX1lpTC1SZjljclFMaFZxSFY0QTBMb0ZNdnRiZ2E1RTFLSVdKSlNEN2VFZHBoR3VIVnhCZXN6QnI5U25hWkwzbnhYZDN3c1YwUlN3eDZtbl8tNUd2VkJBSkNkUlUtQS0tcmprR3ljNG1TbFg3dnVYRHlOTmt6bWhqUzM5MV9TSUdDRTFn?oc=5)
+
+---
+
+### [First-of-Its-Kind Drug Shows Early Promise Against Prostate Cancer](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaEJzcUYzN3l4WU94eGRXYUtRdHpaZTNDNGptNnA5MWxuMy1MVjlqd3B3UUxXVUFpVk9BZGluUE5fZzZncmxiLVMxWlFrMmVxMlRyeW15MHBlbFFCcVp3T3R1a3dwNFBDRjJsc0JGdVh3TkQyaUZ1N25ObmlrUkNudVdyODk3bFdyMFJsNEViTlBWOE05SlI0OERUcjF0bGtNWV8wcmFoMTg0TmZ6MWVFUl9YMkc1ODhyRm50akNR?oc=5)
+
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaEJzcUYzN3l4WU94eGRXYUtRdHpaZTNDNGptNnA5MWxuMy1MVjlqd3B3UUxXVUFpVk9BZGluUE5fZzZncmxiLVMxWlFrMmVxMlRyeW15MHBlbFFCcVp3T3R1a3dwNFBDRjJsc0JGdVh3TkQyaUZ1N25ObmlrUkNudVdyODk3bFdyMFJsNEViTlBWOE05SlI0OERUcjF0bGtNWV8wcmFoMTg0TmZ6MWVFUl9YMkc1ODhyRm50akNR?oc=5)
+
+---
+
+### [Key immune driver of pancreatic cancer points to combination treatment for slowing progression - Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxNemRxdkZ6blpYUVhfcnN3T3A4bzlJNkFnZ1ZWSmlNRXhVRk9CRjF3Qm9nY2w2VUpXV2g2M21KLU5BN2wtWVVHZnJIX0oyN2pRbzRYSUlKaS1XNGRXTzRPNG5pSXh4Y0QyZjFZcmpSVnM1ejh2WEJNbVhlMjRyWFIya21vaUduZw?oc=5)
+
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxNemRxdkZ6blpYUVhfcnN3T3A4bzlJNkFnZ1ZWSmlNRXhVRk9CRjF3Qm9nY2w2VUpXV2g2M21KLU5BN2wtWVVHZnJIX0oyN2pRbzRYSUlKaS1XNGRXTzRPNG5pSXh4Y0QyZjFZcmpSVnM1ejh2WEJNbVhlMjRyWFIya21vaUduZw?oc=5)
 
 ---
 
@@ -92,6 +116,14 @@ Source: [Prevention](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSDdEQV
 
 ---
 
+### [I Thought My Cough Was a Cold or COVID. It Turned Out to Be Lung Cancer - Yahoo Health](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQnlDMnU2RzhkOXNTM0h2US12ZHdIeGxydFVJNnNBWHpITFh4aFVaWElJNzNqeGUzMnctSE5GMkNTU3g2VkcwOWhKNHRUOUt2U2pTSnRSdzlzYkZCaUZGMlBsNExETDhuRWUxN3BkWHNfR2pyT1ZLX3dPNDBjWEpROE5nMExObUV4OWhnbm5NQ3ZTWm5kUmgwaEFFSXB5Z0ZpY2drdXZhRlZ3a2E2bmNZ?oc=5)
+
+2026-11-17 <span class="news-indication-tag">cancer</span>
+
+Source: [Yahoo Health](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQnlDMnU2RzhkOXNTM0h2US12ZHdIeGxydFVJNnNBWHpITFh4aFVaWElJNzNqeGUzMnctSE5GMkNTU3g2VkcwOWhKNHRUOUt2U2pTSnRSdzlzYkZCaUZGMlBsNExETDhuRWUxN3BkWHNfR2pyT1ZLX3dPNDBjWEpROE5nMExObUV4OWhnbm5NQ3ZTWm5kUmgwaEFFSXB5Z0ZpY2drdXZhRlZ3a2E2bmNZ?oc=5)
+
+---
+
 ### [University Hospitals opens cutting-edge cancer facility at TriPoint Medical Center - FOX 8 News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGdCWFJfQjRzT2xiandHNVl4bFZjN2R3RDZsdTVjZ29IQ2J6Y0duTnlzS1ZIdDloV1V3a1RrSThmV2M5MG5KRHR4NjRTY0pIVFJudTNwZHZaZ0trWVR0YXoyM1VDS2t5V0k5bTNhZUZkaFVzdjlmQWctRjBSS2RDT2NPVVZqVm5aQW9QRmkxSHJVb0ZzMTRDaTVPTEdSN2FzcTZUQWVhMljSAa4BQVVfeXFMTlk5U0NDR0YxX09wMUxEZ0pqQzU3dldScHBVVm1fNzRHYlBENjJDZzBwTlRSQURFNDZKUlg2NUItenhMdkRQMFZpbHBSMzRTcm5sNWM4WUNEZl9USzZVMzFwa2liT1VRU21TSktQdmlJS3FnMzRtOE8xS0praEUxbThMRVppRFFUOTU3cTM1TzhSUklCdDlRMjBiZzZXY1FBSm0wWF9lcjFobFdZX25R?oc=5)
 
 2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
@@ -105,6 +137,14 @@ Source: [FOX 8 News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGdCWF
 2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [KREM](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbTFhV0FTZG5XbDZYLTVzOG1qV1h3XzhNa2l4b0FYN1BDVk5FalRzcEZ5YVphYnhZeGw3UGpmamlNN01RSm0wRGx5aGxvaFJOa0EwbS14MXdWaXh0S25Hc0dkLWxoS2NwQXNCY1NELVNXa0YxUmNTQkFybnJwcDFVTXp3aHQ5UGxVdVU1ZGV5WVc1OHdLWndUU0dlQW5aOXJCMFBtQ2NBeTdkVmwwdHdSSnRCTHZhWnpybEZhOVhHSjNOOVJpY1pUUFhMRW5ZMGE0ZXJtNg?oc=5)
+
+---
+
+### [New tool tracks unintended CRISPR edits and their effects in individual cells](https://news.google.com/rss/articles/CBMifEFVX3lxTFBGV3NaNWM4YVBNUnJmQTRUMWpseThaLU9sZ21kMWY5Z1oxNnpobWFVdXN3ZmhMc3VGSkk3UGdMdDlHSU1yZmpQeTR6MmVYOWtTLW45LWZ0emd4a0FlYlVoQnRIdDVreG5INzBOejRPNzM3bGlqWHpSeG9qbjg?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMifEFVX3lxTFBGV3NaNWM4YVBNUnJmQTRUMWpseThaLU9sZ21kMWY5Z1oxNnpobWFVdXN3ZmhMc3VGSkk3UGdMdDlHSU1yZmpQeTR6MmVYOWtTLW45LWZ0emd4a0FlYlVoQnRIdDVreG5INzBOejRPNzM3bGlqWHpSeG9qbjg?oc=5)
 
 ---
 
@@ -209,6 +249,14 @@ Source: [PBS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2RxWnpJX1VSU
 2026-11-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
 
 Source: [OregonLive.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZmRNVHBmWjVtcTltZkZrUzctU3lzV3RWV0tfVVZTVmx4cFFMODd4SGQxWWF6aWU3OE5UZG53T0dCZ2VwNWR6bjl1OVBnZXNWSnJMTlR2a3FNbXZUbDFmZWxTT0p4djZ6am15c0Y5UFNZcjhHaVZBb3E3b2Q1WWNIM1o3NGl5clBiN2hmZE1zdlJsbnVrbk9nTkRKVF9JYW1ERVdLcWVqU3FqVTdHT2daaXNzSFZLWFNtV25TdS1GdC1zdnVGQm9vMzZHY3ZETm1scU1uNw?oc=5)
+
+---
+
+### [Prostate Cancer Screening Now Broadly Recommended, Reversing Past Guidance - The New York Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVFaR1Z5MnhyTlR1dnZoRFhLNnVHTXBaZlhQNi04MUpTSDVjNG04ZExUNVhmR1VfazJEVjRtcWtLQU9sbnJKYXFOTzB6aEJVbURUdURxOXRpUXd4clJZX1ZISXJ6QklybUlhelpsWFZHeklON1ZHdXZRbDZzVmZRa25rZ010THc?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVFaR1Z5MnhyTlR1dnZoRFhLNnVHTXBaZlhQNi04MUpTSDVjNG04ZExUNVhmR1VfazJEVjRtcWtLQU9sbnJKYXFOTzB6aEJVbURUdURxOXRpUXd4clJZX1ZISXJ6QklybUlhelpsWFZHeklON1ZHdXZRbDZzVmZRa25rZ010THc?oc=5)
 
 ---
 

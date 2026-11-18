@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 14 articles, 2 related drugs."
+description: "Health news about flu (influenza). 18 articles, 2 related drugs."
 permalink: /news/influenza/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>14 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>18 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (14)
+## Related News (18)
 
 ### [CDC tracking 4 illness groups in the US: How is Northeast Ohio impacted? - FOX 8 News](https://news.google.com/rss/articles/CBMimAFBVV95cUxNclp3ZDdKaGpTQ0dDSm1fZ1JhTXMtWTBUc2UySmp4TkhTUHF2YkNmYmYwUGRGWVhYdmtXXzE2eW1MNGhVNmU5S2o1T2dlMkUxVUFSbnpuVVEwTEZqU0kyaERiLTdESUFoTXB6S0xnUkxhNGJZS3RyWWltWnY4d0NwbWFTdlFjaG9MLURWOGkya1hZQ2JZclA3WNIBngFBVV95cUxOSEJmWlNuNEt5STU4UXBzU3N3WDVjUXdnT3FsX0E5MEloUndDRGZRM1NRVnhtVzZHaTUtTEFvZndaR1dLRXBhRWZPN2duVjFldnllQXJVaDA4NUh4NVNiblQ3YU8zT2RYTnB1aEsyWVZfLTEyV25FcUxNcllVRU5KRFpRRXlWdzhROGtuNktjSXdZZkt2dVBzODl0YkQwdw?oc=5)
 
@@ -49,6 +49,22 @@ Source: [ABC7 Chicago](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcldf
 
 ---
 
+### [Everyone seems to have a nasty cough — is it contagious? - New York Post](https://news.google.com/rss/articles/CBMilgFBVV95cUxOekpFbnpWN1hVdU9EWWVxRjBHRGVvRWRCRl9CS240YnhtM0VsdFQ2YXNCa1RHOXUwYWh3UUFiSEE1eU53N1NpU1BFWWNfd1k0bzh2ZFpxbW9IampucmxPR3VaajhGZGRnelk5RzBQZEVPOUZvcEJOUnk3eW53aGhCOUMyRUtSeXlCU2l2dEZRMDNpNk84d2c?oc=5)
+
+2026-11-17
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMilgFBVV95cUxOekpFbnpWN1hVdU9EWWVxRjBHRGVvRWRCRl9CS240YnhtM0VsdFQ2YXNCa1RHOXUwYWh3UUFiSEE1eU53N1NpU1BFWWNfd1k0bzh2ZFpxbW9IampucmxPR3VaajhGZGRnelk5RzBQZEVPOUZvcEJOUnk3eW53aGhCOUMyRUtSeXlCU2l2dEZRMDNpNk84d2c?oc=5)
+
+---
+
+### [Dream Chaser Space Plane Approved for 2027 Debut Spaceflight](https://news.google.com/rss/articles/CBMinwFBVV95cUxPa2xjWTNIWTVxWmNiNWpoY1llQVZLZU55MkIwbV8ySFprSTMtTU5WRFFNenZTSE9iLW90bl9GbTYzOUtEMnVYM3NKa05Gb090UUpTaUN3VnBvSFFwVmlwQmJrS044TzQzU0dIY3lYd1dwQi15OVBaOVc0bUVxRmxtU3ZaTldVTDc5R3NTREVMN2JITF9EMDNteEZnRWdQeVk?oc=5)
+
+2026-11-17
+
+Source: [ExtremeTech](https://news.google.com/rss/articles/CBMinwFBVV95cUxPa2xjWTNIWTVxWmNiNWpoY1llQVZLZU55MkIwbV8ySFprSTMtTU5WRFFNenZTSE9iLW90bl9GbTYzOUtEMnVYM3NKa05Gb090UUpTaUN3VnBvSFFwVmlwQmJrS044TzQzU0dIY3lYd1dwQi15OVBaOVc0bUVxRmxtU3ZaTldVTDc5R3NTREVMN2JITF9EMDNteEZnRWdQeVk?oc=5)
+
+---
+
 ### [Your gut bacteria helps your body keep track of time, and when you eat influences how much nutrition you get from food - The Conversation](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU05STWVPeXQtWFJ5WW5kY3kxXzFGRmZaeWsxRUNxX2puM0hvVG90Ui1LVDR3eE5WdkxwMjlYVTVDakt3Y2hlTEpxZ0VUWlRYUHo2OWhSelB6MlRCYTc1eHQxLTdkS3Rhbnc3Q2s1Skt5Z3VuODdtSnV5X3VXVk9pQ29mQ3NUd085Zk5tM2xDb0xQRWhjNmRVckFFQTRFZjZFdlRtWXA1ekk3ZlQxdE45cXdHU2xiQllVMEo0WXhsNHhtaktZVmNGMTBIYVRGb3BkT25hUjI4WGR6LXBRWjVDaGJyeGdVWTg?oc=5)
 
 2026-11-17
@@ -57,11 +73,27 @@ Source: [The Conversation](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQ
 
 ---
 
+### [Ozempic and Mounjaro may have a surprising effect on your brain - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
+
+2026-11-17
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
+
+---
+
 ### [More people are getting the flu. Should you get a flu shot before you travel?](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmFJYVFQbXdnQ29xLW5qdHlCMWhoRW9NeG1EX3hUSlhhUk9KOTRLd29qYTZXR3RubGxEaFZrNUZhYlRtUTZXSzJLSWdtZms4bkNnQXVMa0xmLVctV2J1TjBudW0zWGJmWURNbHVxVzJ1WHIxTWk3LVl4dDRpS0ZrVlk5OU9PSlcyVFQyTEdPbWlZVmNsYjdlTExn?oc=5)
 
 2026-11-17
 
 Source: [NPR](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmFJYVFQbXdnQ29xLW5qdHlCMWhoRW9NeG1EX3hUSlhhUk9KOTRLd29qYTZXR3RubGxEaFZrNUZhYlRtUTZXSzJLSWdtZms4bkNnQXVMa0xmLVctV2J1TjBudW0zWGJmWURNbHVxVzJ1WHIxTWk3LVl4dDRpS0ZrVlk5OU9PSlcyVFQyTEdPbWlZVmNsYjdlTExn?oc=5)
+
+---
+
+### [Genetic variant that reshaped the human brain was inherited from Neanderthals](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pOThEbWJnTUxXa1RXeXZhTHBQSlBJZUdMLVlsbnpjbHBTaXFKRDVaZWs2cmtRRnc3dVRWNURmX3lHb2U0azBkT3VLNlpaaTEyZzVqRHZ5MkI3czBFeHBj?oc=5)
+
+2026-11-17
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pOThEbWJnTUxXa1RXeXZhTHBQSlBJZUdMLVlsbnpjbHBTaXFKRDVaZWs2cmtRRnc3dVRWNURmX3lHb2U0azBkT3VLNlpaaTEyZzVqRHZ5MkI3czBFeHBj?oc=5)
 
 ---
 

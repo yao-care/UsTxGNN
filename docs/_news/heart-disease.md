@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "heart condition (heart disease) News"
+title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart condition (heart disease). 8 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 11 articles, 1 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
-# heart condition (heart disease) News
+# CAD (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about heart condition (heart disease)?">
-<strong>heart condition (heart disease)</strong> currently has <strong>8 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about CAD (heart disease)?">
+<strong>CAD (heart disease)</strong> currently has <strong>11 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “heart condition” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “CAD” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,23 @@ This page brings together the latest health news about “heart condition” and
 </ul>
 </div>
 
-## Related News (8)
+## Related News (11)
+
+### [Ericka Hart reveals stage 4 colon cancer diagnosis more than a decade after breast cancer battle](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNy1pOGxIcUoydEtPOEg0ei0xMDVpb05uYk5iMkxVMEJJVTFlWUNuNHk0N2JiLVJiWlZoTTI3NkJpUFpYMTBPR0d3TDVGVzdTWnJMMHVaXzFfeEljaFlrMjd6TWUzQ3RfMGEtU1RmSmRUTzNhXzBlck5aZ2YteEl4THJuYTdnVHZO?oc=5)
+
+2026-11-17
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNy1pOGxIcUoydEtPOEg0ei0xMDVpb05uYk5iMkxVMEJJVTFlWUNuNHk0N2JiLVJiWlZoTTI3NkJpUFpYMTBPR0d3TDVGVzdTWnJMMHVaXzFfeEljaFlrMjd6TWUzQ3RfMGEtU1RmSmRUTzNhXzBlck5aZ2YteEl4THJuYTdnVHZO?oc=5)
+
+---
+
+### [Doctors sound the alarm about US babies born with measles for the first time in decades](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEJYWWdTMk5JWnpWb29WZWxXNXpWV2ZiS0FId2RfTjd3SWp6b0pUUEVxdW95cXQtVWRKN2ZTOGRKZVJGUV9CUWloZE4wNWZ1a3NyekgwcGVKQmRpZ2dCVTFWeDFieWxyRUNRRmZCMWpfbUJZcm5uWkU3aU5Yd3FreV9ZQ01TWExXR3FKRzdkdlVyMV9DTVNVYnVldHFybmpiOFhpNUNnc9IBuwFBVV95cUxOX2p3RjhzSjduZ00wX1JyWS1fN3VXaHlOQ3ExQzI0ZDJLLVhUUFBzZF9JSHZSb1U4UEd0YzN0OUVFTGcyeTF3X3l1WDhVa25Lend1OXJuTUhOdWxiLWlOYTJPeDZlMjQzS2dUc2M0UmRpdk5kWFJzX3VMTmkwRmhfRkdVcmJMX2NFR0EzQ2lSenZvWXZHa2JaQlZDemVxQ2RTcktLNmlHanNlSjFLVk00dzY2enNqM1JLRWdV?oc=5)
+
+2026-11-17
+
+Source: [KY3](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEJYWWdTMk5JWnpWb29WZWxXNXpWV2ZiS0FId2RfTjd3SWp6b0pUUEVxdW95cXQtVWRKN2ZTOGRKZVJGUV9CUWloZE4wNWZ1a3NyekgwcGVKQmRpZ2dCVTFWeDFieWxyRUNRRmZCMWpfbUJZcm5uWkU3aU5Yd3FreV9ZQ01TWExXR3FKRzdkdlVyMV9DTVNVYnVldHFybmpiOFhpNUNnc9IBuwFBVV95cUxOX2p3RjhzSjduZ00wX1JyWS1fN3VXaHlOQ3ExQzI0ZDJLLVhUUFBzZF9JSHZSb1U4UEd0YzN0OUVFTGcyeTF3X3l1WDhVa25Lend1OXJuTUhOdWxiLWlOYTJPeDZlMjQzS2dUc2M0UmRpdk5kWFJzX3VMTmkwRmhfRkdVcmJMX2NFR0EzQ2lSenZvWXZHa2JaQlZDemVxQ2RTcktLNmlHanNlSjFLVk00dzY2enNqM1JLRWdV?oc=5)
+
+---
 
 ### [One-third of caregivers don’t know about this potentially deadly heart condition — despite seeing the warning signs - New York Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzdvTlJXSG95MVlZRmdzTDhYSVBMcDZvYnFqemxjVjdZVUFQTE13U1JGMU1XVHdVdHlKTWE5YzhTUDlHY1l2a1gta1dQU3NIV1JoX1E5NEpuNUh1ZDluS1R4WGRZUXJmdjRkZzFWbmZHYi1jazdDRlp5VnAzUXpwMzlzdTRyN3QtNi1lU2NiM09jVHB4OHNEeTlZa3ZQNVNHR1hfSm1sVlI2MUFkZWozUjFld3JZdHFT?oc=5)
 
@@ -53,6 +69,14 @@ Source: [Prevention](https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUNRZ2
 2026-11-15
 
 Source: [EatingWell](https://news.google.com/rss/articles/CBMijgFBVV95cUxNdUhPdEtKRUFMV1BzWVdvbHJoQTByY1Z6bzJwN3l4alZjMWdDVGhXQ2NlSFRvbHlYUnVQblA4SVcxQS1CenJwSVFWc2RLYTJ0TGgtMmhfQUtsV1Q1Y2pJRXBBZHhGeS1Ld0VQcUZJMlVoR2VzLW9sYl90OFU2NWFrQlc0YXhqTXcyQ1F3VUxB?oc=5)
+
+---
+
+### [Experts spell out what heart health means for women of all ages](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWFBPT0dxMW1YZERTcUVvRmhGYW1OZTZERWlrVm43VVp2V0dQTmJPVTdGSzZLMEoweVA3UTQwNHNKb3dNclpPVmI2aUFnWWN6QW9WaW9KdzNLeEhCR216M0NveDVmOGNXNFd6NXZNOTJoN2pXTHJyd0I2QVVFd3BycWM3Nmo2VTA?oc=5)
+
+2026-11-14
+
+Source: [CNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWFBPT0dxMW1YZERTcUVvRmhGYW1OZTZERWlrVm43VVp2V0dQTmJPVTdGSzZLMEoweVA3UTQwNHNKb3dNclpPVmI2aUFnWWN6QW9WaW9KdzNLeEhCR216M0NveDVmOGNXNFd6NXZNOTJoN2pXTHJyd0I2QVVFd3BycWM3Nmo2VTA?oc=5)
 
 ---
 

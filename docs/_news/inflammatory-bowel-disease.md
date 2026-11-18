@@ -3,9 +3,9 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 14 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 22 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # UC (inflammatory bowel disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>14 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>22 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,23 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (14)
+## Related News (22)
+
+### [Vapes cause ‘irreversible’ internal damage, study finds: ‘This should be a wake-up call’ - New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
+
+2026-11-17
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
+
+---
+
+### [Your gut bacteria helps your body keep track of time, and when you eat influences how much nutrition you get from food - The Conversation](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU05STWVPeXQtWFJ5WW5kY3kxXzFGRmZaeWsxRUNxX2puM0hvVG90Ui1LVDR3eE5WdkxwMjlYVTVDakt3Y2hlTEpxZ0VUWlRYUHo2OWhSelB6MlRCYTc1eHQxLTdkS3Rhbnc3Q2s1Skt5Z3VuODdtSnV5X3VXVk9pQ29mQ3NUd085Zk5tM2xDb0xQRWhjNmRVckFFQTRFZjZFdlRtWXA1ekk3ZlQxdE45cXdHU2xiQllVMEo0WXhsNHhtaktZVmNGMTBIYVRGb3BkT25hUjI4WGR6LXBRWjVDaGJyeGdVWTg?oc=5)
+
+2026-11-17
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU05STWVPeXQtWFJ5WW5kY3kxXzFGRmZaeWsxRUNxX2puM0hvVG90Ui1LVDR3eE5WdkxwMjlYVTVDakt3Y2hlTEpxZ0VUWlRYUHo2OWhSelB6MlRCYTc1eHQxLTdkS3Rhbnc3Q2s1Skt5Z3VuODdtSnV5X3VXVk9pQ29mQ3NUd085Zk5tM2xDb0xQRWhjNmRVckFFQTRFZjZFdlRtWXA1ekk3ZlQxdE45cXdHU2xiQllVMEo0WXhsNHhtaktZVmNGMTBIYVRGb3BkT25hUjI4WGR6LXBRWjVDaGJyeGdVWTg?oc=5)
+
+---
 
 ### [Here’s Exactly How Much Leafy Greens to Eat Daily to Support Brain Health, According to a Dietitian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNNjNnR0sxZi1ERzBxcFpsSE5GMk53VFJDYVlnYVExY1JscEdXOXU3UEp2YzdHZU92MlhlT2hMLW9rUkROTDZCczByRTdzb0dxakgxVFJuR3JSOWZvbFFxd3lzX2N4MF9JZGVISGFkT09RMEhaYW92c0lueHc3WDFLeGF2STBabjUzRnN0bEpMaUtJQkRyNUZzS3ZB?oc=5)
 
@@ -53,11 +69,43 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3FkalNk
 
 ---
 
+### [Ozempic and Mounjaro may have a surprising effect on your brain - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
+
+2026-11-17
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
+
+---
+
+### [How Much Does My Fitness Decline After a Break From Exercise? - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTFBrcjNkdTc0R2JzVVZhQVlnTVYtaTcxVmRuYmMxMERVZ0J3NFBiMnM5dkdLUTVWRzdxMUJrN1d6ZDFSZUdCWGh6WWlKZUZqdGtXTkY2aWFMYmlJeTU2a0lKeU9tMks4ZWl4ZnFtWVJMaVZjZFFhVnh1dkUwOGI?oc=5)
+
+2026-11-17
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTFBrcjNkdTc0R2JzVVZhQVlnTVYtaTcxVmRuYmMxMERVZ0J3NFBiMnM5dkdLUTVWRzdxMUJrN1d6ZDFSZUdCWGh6WWlKZUZqdGtXTkY2aWFMYmlJeTU2a0lKeU9tMks4ZWl4ZnFtWVJMaVZjZFFhVnh1dkUwOGI?oc=5)
+
+---
+
+### [Genetic variant that reshaped the human brain was inherited from Neanderthals](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pOThEbWJnTUxXa1RXeXZhTHBQSlBJZUdMLVlsbnpjbHBTaXFKRDVaZWs2cmtRRnc3dVRWNURmX3lHb2U0azBkT3VLNlpaaTEyZzVqRHZ5MkI3czBFeHBj?oc=5)
+
+2026-11-17
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pOThEbWJnTUxXa1RXeXZhTHBQSlBJZUdMLVlsbnpjbHBTaXFKRDVaZWs2cmtRRnc3dVRWNURmX3lHb2U0azBkT3VLNlpaaTEyZzVqRHZ5MkI3czBFeHBj?oc=5)
+
+---
+
 ### [A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RSTmFwQ2NXYXhnV1ExZFZhOExLYkNXalRKeXh6TW9qRGRQa3VXSndfQW1wd2pXQ3czdUx6UUdoNHhsVmNDV0xZZ0tvd2k1OG5QS0twd0tXdjVpTzZ4ZkNFVnNaMXpLTEE0djBOQWRfMHhRRnZaVG9udG90YjBEWHl2RDBUVUZhLWVsM0l4Rk9XNDZEQ21aQUM4MklRZmpycDdTdkJHalBZamN1YzI5VDFjVTdSeUNObGhEZUR2U3lJY3E2cHc?oc=5)
 
 2026-11-16
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RSTmFwQ2NXYXhnV1ExZFZhOExLYkNXalRKeXh6TW9qRGRQa3VXSndfQW1wd2pXQ3czdUx6UUdoNHhsVmNDV0xZZ0tvd2k1OG5QS0twd0tXdjVpTzZ4ZkNFVnNaMXpLTEE0djBOQWRfMHhRRnZaVG9udG90YjBEWHl2RDBUVUZhLWVsM0l4Rk9XNDZEQ21aQUM4MklRZmpycDdTdkJHalBZamN1YzI5VDFjVTdSeUNObGhEZUR2U3lJY3E2cHc?oc=5)
+
+---
+
+### [The ‘disease of kings’ is making a comeback — the painful symptoms and how it’s triggered - New York Post](https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2UxaHd2czZvdVN4NTB1U3E0M19zZXZ1RVFKaDhCOTh0TF9HX21sUjJZTFJoTURCaUZpZ2o3eDJYWHJCMDRQRDlUWWVBNklJak9qbDgtYUdiWWExcld2ZHRVWmY4UzllOXZteGhQalUyTFlBZXNrWW1IS0psMXV2M25IXzVxa1hJSVUzUUpnYXE?oc=5)
+
+2026-11-16
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2UxaHd2czZvdVN4NTB1U3E0M19zZXZ1RVFKaDhCOTh0TF9HX21sUjJZTFJoTURCaUZpZ2o3eDJYWHJCMDRQRDlUWWVBNklJak9qbDgtYUdiWWExcld2ZHRVWmY4UzllOXZteGhQalUyTFlBZXNrWW1IS0psMXV2M25IXzVxa1hJSVUzUUpnYXE?oc=5)
 
 ---
 
@@ -146,6 +194,22 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxOM3gzTGlT
 2026-11-12
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0QzJKWnp0WFVTVEpkOGV1TkgzNGtaT0ZEUUplYjlCUFJSa0owOXBzX0pJcEhwY3N5RTh4ZEIyTWc0Y1lSZ1NocFVKNC1Dd1dldkN6eHJIb083eFBKR0xZ?oc=5)
+
+---
+
+### [Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3N1QTVmUWk0TFBfQjVfTGZKeTR4b1pheGlIajJTclVKdmZqdWhBUmlSZG1UeC1pVTNwZVBvU1NWUWlqdDBGbXd0Z2NUWXZuTFZ6Q2NGWVJQVXduRGhuc2R5Ymh0VmF1T3dNSnZNcmM1VS1pa2lNUkdFX2thRmZQLW5aNnB5RkMxT2R4UGZxLTFBWkd0Z2N0cFFIYWs5c05LSXlYRlZtSWZaNWRyc3RKWjA4WmZvZ2U3V0JwNUR6TnRCN1ZoYVVlZXBRWHZBdWlmRUE?oc=5)
+
+2026-11-12
+
+Source: [Space](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3N1QTVmUWk0TFBfQjVfTGZKeTR4b1pheGlIajJTclVKdmZqdWhBUmlSZG1UeC1pVTNwZVBvU1NWUWlqdDBGbXd0Z2NUWXZuTFZ6Q2NGWVJQVXduRGhuc2R5Ymh0VmF1T3dNSnZNcmM1VS1pa2lNUkdFX2thRmZQLW5aNnB5RkMxT2R4UGZxLTFBWkd0Z2N0cFFIYWs5c05LSXlYRlZtSWZaNWRyc3RKWjA4WmZvZ2U3V0JwNUR6TnRCN1ZoYVVlZXBRWHZBdWlmRUE?oc=5)
+
+---
+
+### [When Measles Came to an Amish Community, Many Suffered and One Died - The New York Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2ZrenUxeFRUV0ZERVM3OXN6cTlTQ0REQ3RJWFJCTk9Od3c1Y3N2dEctcWZ2U3BIblh2TC14R09jNVFsWjE4NmtBZnRjN0c1MGs3Y04zcDRWUXJkQmo2ZlNtSFpsZnNkYkFqb1JZTWFWRjBmOGliTjktWHllV1lWcXFvSHRFQVVXRTV1Zw?oc=5)
+
+2026-11-11
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2ZrenUxeFRUV0ZERVM3OXN6cTlTQ0REQ3RJWFJCTk9Od3c1Y3N2dEctcWZ2U3BIblh2TC14R09jNVFsWjE4NmtBZnRjN0c1MGs3Y04zcDRWUXJkQmo2ZlNtSFpsZnNkYkFqb1JZTWFWRjBmOGliTjktWHllV1lWcXFvSHRFQVVXRTV1Zw?oc=5)
 
 ---
 

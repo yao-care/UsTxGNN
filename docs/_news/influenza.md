@@ -3,9 +3,9 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 10 articles, 2 related drugs."
+description: "Health news about flu (influenza). 14 articles, 2 related drugs."
 permalink: /news/influenza/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # flu (influenza) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>10 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>14 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,31 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (10)
+## Related News (14)
+
+### [CDC tracking 4 illness groups in the US: How is Northeast Ohio impacted? - FOX 8 News](https://news.google.com/rss/articles/CBMimAFBVV95cUxNclp3ZDdKaGpTQ0dDSm1fZ1JhTXMtWTBUc2UySmp4TkhTUHF2YkNmYmYwUGRGWVhYdmtXXzE2eW1MNGhVNmU5S2o1T2dlMkUxVUFSbnpuVVEwTEZqU0kyaERiLTdESUFoTXB6S0xnUkxhNGJZS3RyWWltWnY4d0NwbWFTdlFjaG9MLURWOGkya1hZQ2JZclA3WNIBngFBVV95cUxOSEJmWlNuNEt5STU4UXBzU3N3WDVjUXdnT3FsX0E5MEloUndDRGZRM1NRVnhtVzZHaTUtTEFvZndaR1dLRXBhRWZPN2duVjFldnllQXJVaDA4NUh4NVNiblQ3YU8zT2RYTnB1aEsyWVZfLTEyV25FcUxNcllVRU5KRFpRRXlWdzhROGtuNktjSXdZZkt2dVBzODl0YkQwdw?oc=5)
+
+2026-11-17
+
+Source: [FOX 8 News](https://news.google.com/rss/articles/CBMimAFBVV95cUxNclp3ZDdKaGpTQ0dDSm1fZ1JhTXMtWTBUc2UySmp4TkhTUHF2YkNmYmYwUGRGWVhYdmtXXzE2eW1MNGhVNmU5S2o1T2dlMkUxVUFSbnpuVVEwTEZqU0kyaERiLTdESUFoTXB6S0xnUkxhNGJZS3RyWWltWnY4d0NwbWFTdlFjaG9MLURWOGkya1hZQ2JZclA3WNIBngFBVV95cUxOSEJmWlNuNEt5STU4UXBzU3N3WDVjUXdnT3FsX0E5MEloUndDRGZRM1NRVnhtVzZHaTUtTEFvZndaR1dLRXBhRWZPN2duVjFldnllQXJVaDA4NUh4NVNiblQ3YU8zT2RYTnB1aEsyWVZfLTEyV25FcUxNcllVRU5KRFpRRXlWdzhROGtuNktjSXdZZkt2dVBzODl0YkQwdw?oc=5)
+
+---
+
+### [Loyola Medicine visitation policy: Hospital no longer allowing children, teens under 18 years old due to respiratory viruses - ABC7 Chicago](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcldfU0w4Nkx6cGVGS1c1SXpWR0dzdjNwUUdhYzJVb2JTak1Wa29Sb2dhQXQtT2V5MVBKN3NsSXh0VFc5bG9PV2FDNnNzNFd2VnVmWnFGc1JiX2Q2MGwzb0pHcllXWkRtMDk5RzlIY01KTWFrZnBpOFBXOE0wQWdGZWVhbkktLW9xSnN2WjVkT0g1S2Y5MmZwVWxTeVZxdDFReGkwalhuREo4T3JPUEhIdm1Vd245NlVvdENTRzl2eUpacDRpdnFKV0g2SENUay0tN1Q4WV9JdERsRk1DZVFPNl9EN29YeDDSAewBQVVfeXFMTTZ3Qks0ZktLX0dfWWcxdUlJWFNqMTd6S2lCZTJMS25IWHYtdVloUzNvTWJNWHVaa1VWbDdQam5ac1NJZTNKZVBDcElkbHE0LXBxTmZtMWJ1OEtFWS1uOC1iZVY1UEphTlVCX2gzWUt1Ukx1WWJWQ2RzRTRWMEVVRHEyZjladS1vSEQzYjltdWQ4STg3MFhtVF9ZUzFoWG1UNFAySHJoamhEOXgxQWE2Zk50TWd3ZGZSMkx6Rmd3bDd2OGdKUV9hWlhSc0FndXVwMkdHSWYxRHVvNWhfUUZEZlRFWUQ3bnF2WFhLX0Y?oc=5)
+
+2026-11-17
+
+Source: [ABC7 Chicago](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcldfU0w4Nkx6cGVGS1c1SXpWR0dzdjNwUUdhYzJVb2JTak1Wa29Sb2dhQXQtT2V5MVBKN3NsSXh0VFc5bG9PV2FDNnNzNFd2VnVmWnFGc1JiX2Q2MGwzb0pHcllXWkRtMDk5RzlIY01KTWFrZnBpOFBXOE0wQWdGZWVhbkktLW9xSnN2WjVkT0g1S2Y5MmZwVWxTeVZxdDFReGkwalhuREo4T3JPUEhIdm1Vd245NlVvdENTRzl2eUpacDRpdnFKV0g2SENUay0tN1Q4WV9JdERsRk1DZVFPNl9EN29YeDDSAewBQVVfeXFMTTZ3Qks0ZktLX0dfWWcxdUlJWFNqMTd6S2lCZTJMS25IWHYtdVloUzNvTWJNWHVaa1VWbDdQam5ac1NJZTNKZVBDcElkbHE0LXBxTmZtMWJ1OEtFWS1uOC1iZVY1UEphTlVCX2gzWUt1Ukx1WWJWQ2RzRTRWMEVVRHEyZjladS1vSEQzYjltdWQ4STg3MFhtVF9ZUzFoWG1UNFAySHJoamhEOXgxQWE2Zk50TWd3ZGZSMkx6Rmd3bDd2OGdKUV9hWlhSc0FndXVwMkdHSWYxRHVvNWhfUUZEZlRFWUQ3bnF2WFhLX0Y?oc=5)
+
+---
+
+### [Your gut bacteria helps your body keep track of time, and when you eat influences how much nutrition you get from food - The Conversation](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU05STWVPeXQtWFJ5WW5kY3kxXzFGRmZaeWsxRUNxX2puM0hvVG90Ui1LVDR3eE5WdkxwMjlYVTVDakt3Y2hlTEpxZ0VUWlRYUHo2OWhSelB6MlRCYTc1eHQxLTdkS3Rhbnc3Q2s1Skt5Z3VuODdtSnV5X3VXVk9pQ29mQ3NUd085Zk5tM2xDb0xQRWhjNmRVckFFQTRFZjZFdlRtWXA1ekk3ZlQxdE45cXdHU2xiQllVMEo0WXhsNHhtaktZVmNGMTBIYVRGb3BkT25hUjI4WGR6LXBRWjVDaGJyeGdVWTg?oc=5)
+
+2026-11-17
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU05STWVPeXQtWFJ5WW5kY3kxXzFGRmZaeWsxRUNxX2puM0hvVG90Ui1LVDR3eE5WdkxwMjlYVTVDakt3Y2hlTEpxZ0VUWlRYUHo2OWhSelB6MlRCYTc1eHQxLTdkS3Rhbnc3Q2s1Skt5Z3VuODdtSnV5X3VXVk9pQ29mQ3NUd085Zk5tM2xDb0xQRWhjNmRVckFFQTRFZjZFdlRtWXA1ekk3ZlQxdE45cXdHU2xiQllVMEo0WXhsNHhtaktZVmNGMTBIYVRGb3BkT25hUjI4WGR6LXBRWjVDaGJyeGdVWTg?oc=5)
+
+---
 
 ### [More people are getting the flu. Should you get a flu shot before you travel?](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmFJYVFQbXdnQ29xLW5qdHlCMWhoRW9NeG1EX3hUSlhhUk9KOTRLd29qYTZXR3RubGxEaFZrNUZhYlRtUTZXSzJLSWdtZms4bkNnQXVMa0xmLVctV2J1TjBudW0zWGJmWURNbHVxVzJ1WHIxTWk3LVl4dDRpS0ZrVlk5OU9PSlcyVFQyTEdPbWlZVmNsYjdlTExn?oc=5)
 
@@ -110,6 +134,14 @@ Source: [AP News](https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0Mzb19TM
 2026-11-14
 
 Source: [Scripps News](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTZCR3MyZDByZ3JTZF9EYTdpYmVaYllkS2wtc1lJREd1Z25ZV09jTUlKN3dmdm9EVlBHcUlWZDdrcDBhNlFoWmZkM3RlYm41NEZrcTlvR2dUQzBEb0NRS3JYX0IwZDFtdkt3RlRndFJsUFR4VXhhTUY1UE1aR1hsNmhVX2xZWVNEXzZ4V0ltZzF5QlpWOGRlODBGc2pkUllXQjVNOUM2N0J4T2ZHTTM0?oc=5)
+
+---
+
+### [U.S. Flu Season Is Off To A Very Early Start — Especially In The South And West](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzlUMld2NUhUSE0wYVFTZFl3dUs5VUp5eFY1SHc1LXZPaXhXVXFhazFmZ3lxNWtQWXVtdEFzZzNrdXFhTDQzSFVadWZuRWdjclpLWEliOFJRU1h3NUFJcVVCaG5HR2t1UEdhdy1tU1RvLXhvd2htVVJFUFVNeWNmYWR2cmx3eUNwczd6ZnlfZjdpdzYxd3BLdzMwLXQ5R3I1TkHSAacBQVVfeXFMTndaS3RVRlF2VFEzc3VKZ2hjTW9OTEg0Yk9YMGVIR3BvVGVGajZ1R0J3bzlsay1vazZLMEN6SzFua1VoME5GX0hVbV96ZFM4aWVybmdSTkFMUTM4ZU9QZnlrb2pUY0hVRTVSYmtkMUtlbmhMZEYxaVZSVXpucGs5ZDJyUEVhaGZVOC1uWHVwR19ZdV9vRDFfV3ZmWmNMdDBzVzNEX1RFREU?oc=5)
+
+2026-11-13
+
+Source: [HuffPost](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzlUMld2NUhUSE0wYVFTZFl3dUs5VUp5eFY1SHc1LXZPaXhXVXFhazFmZ3lxNWtQWXVtdEFzZzNrdXFhTDQzSFVadWZuRWdjclpLWEliOFJRU1h3NUFJcVVCaG5HR2t1UEdhdy1tU1RvLXhvd2htVVJFUFVNeWNmYWR2cmx3eUNwczd6ZnlfZjdpdzYxd3BLdzMwLXQ5R3I1TkHSAacBQVVfeXFMTndaS3RVRlF2VFEzc3VKZ2hjTW9OTEg0Yk9YMGVIR3BvVGVGajZ1R0J3bzlsay1vazZLMEN6SzFua1VoME5GX0hVbV96ZFM4aWVybmdSTkFMUTM4ZU9QZnlrb2pUY0hVRTVSYmtkMUtlbmhMZEYxaVZSVXpucGs5ZDJyUEVhaGZVOC1uWHVwR19ZdV9vRDFfV3ZmWmNMdDBzVzNEX1RFREU?oc=5)
 
 ---
 

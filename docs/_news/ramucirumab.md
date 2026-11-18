@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ramucirumab. 10 predicted indications."
 permalink: /news/ramucirumab/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Ramucirumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>20 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>23 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (20)
+## Related News (23)
+
+### [Ericka Hart reveals stage 4 colon cancer diagnosis more than a decade after breast cancer battle](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNy1pOGxIcUoydEtPOEg0ei0xMDVpb05uYk5iMkxVMEJJVTFlWUNuNHk0N2JiLVJiWlZoTTI3NkJpUFpYMTBPR0d3TDVGVzdTWnJMMHVaXzFfeEljaFlrMjd6TWUzQ3RfMGEtU1RmSmRUTzNhXzBlck5aZ2YteEl4THJuYTdnVHZO?oc=5)
+
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span>
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNy1pOGxIcUoydEtPOEg0ei0xMDVpb05uYk5iMkxVMEJJVTFlWUNuNHk0N2JiLVJiWlZoTTI3NkJpUFpYMTBPR0d3TDVGVzdTWnJMMHVaXzFfeEljaFlrMjd6TWUzQ3RfMGEtU1RmSmRUTzNhXzBlck5aZ2YteEl4THJuYTdnVHZO?oc=5)
+
+---
+
+### [Vapes cause ‘irreversible’ internal damage, study finds: ‘This should be a wake-up call’ - New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
+
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
+
+---
+
+### [Scientists Discover a Powerful New Way To Kill Prostate Cancer Cells](https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWNVSng3S0JfTEZNT1lybGpwY29MWVdxdDgyQ0JoVkdtUHE4ZFN4QmUxbEpybjdVNVFycngwejV0eVlKYU9YZnVwLUF2U3B3SUhIMl9SWTJ3V2hqeUluUUsxSWREcl9jTW1Mb25EQU5odFZXRnRyd2p2cFYyOFZRNWxiS2hkM3hvdjZtbk9Feml5OUhUdlI4dXd3?oc=5)
+
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWNVSng3S0JfTEZNT1lybGpwY29MWVdxdDgyQ0JoVkdtUHE4ZFN4QmUxbEpybjdVNVFycngwejV0eVlKYU9YZnVwLUF2U3B3SUhIMl9SWTJ3V2hqeUluUUsxSWREcl9jTW1Mb25EQU5odFZXRnRyd2p2cFYyOFZRNWxiS2hkM3hvdjZtbk9Feml5OUhUdlI4dXd3?oc=5)
+
+---
 
 ### [I founded a cancer biotech company. Then, my mom, dad, and I were all diagnosed with cancer. - Business Insider](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS1FRRV8yUjUtTXhvSHRiWDN4M0dyQVJUcUFwcV84dFc4YkItdjdBYm45dERKaWFYOW0xU2pUYU13ZkVnS05KMFdsNXcxZGFvanpEU1pTLVFwaW43Q3g4OWhfQjVGak8zZEN1S250bEQ1U3hZeTJCQWVMZl9kSnJOSnJVbGFhR25WSm5QV1BqbHpqODBxY2tfMnh3?oc=5)
 
@@ -84,14 +108,6 @@ Source: [KREM](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbTFhV0FTZG5X
 
 ---
 
-### [This Cancer Kills Children in a Year. Research Has Been Stalled for a Year. - The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE5ma2FILVcxRmtMSlE3TGtBUXZNWUJBUDJ3Z0IzTDNNRm1EZnZ5MEpybE5TWTk3b3ZaZkIwWDlvdGZfcl92OG9yNWFvQWEyOHBxV2lZX2lDYkNQancta3JMSkgxN2RyTXRMenlpRllKd2FWRmFXSW1lODVNNA?oc=5)
-
-2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE5ma2FILVcxRmtMSlE3TGtBUXZNWUJBUDJ3Z0IzTDNNRm1EZnZ5MEpybE5TWTk3b3ZaZkIwWDlvdGZfcl92OG9yNWFvQWEyOHBxV2lZX2lDYkNQancta3JMSkgxN2RyTXRMenlpRllKd2FWRmFXSW1lODVNNA?oc=5)
-
----
-
 ### [NHS England on track to miss key cancer treatment target by 10,000 patients - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEZZVlhXS0dUN1dTWlJKUTBXVXJfdklCUExPbGdZTmxTcTV2R2lFNWY4d3B2VUpTaUlxaFN5OXJUWW8xdUJOY2JabGVmNTh5MGtHLUYwUXdMZXVzRzZYcGVPTTA5dGRHcWU2S2ZPejd2UVMxMGt2MnJybS03bHBzM1EydzJ2OUlTRVB4c000TjZoNjc5Y2lPZGYyUGNVOV9BQ2JHNTh3ZmxtZzZu?oc=5)
 
 2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
@@ -105,6 +121,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEZZ
 2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QNExVMUV6NTVHcWx1QUtydWZ4ek5vRlRHZl9hVDhBVTNhbDhCNXF2Y1hIMHdDVUc4aDFPTnlMdVBaeUxJdWxqMHhWaFJKSlBMV0MxOVZuamNVLVE?oc=5)
+
+---
+
+### [This Cancer Kills Children in a Year. Research Has Been Stalled for a Year. - The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE5ma2FILVcxRmtMSlE3TGtBUXZNWUJBUDJ3Z0IzTDNNRm1EZnZ5MEpybE5TWTk3b3ZaZkIwWDlvdGZfcl92OG9yNWFvQWEyOHBxV2lZX2lDYkNQancta3JMSkgxN2RyTXRMenlpRllKd2FWRmFXSW1lODVNNA?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE5ma2FILVcxRmtMSlE3TGtBUXZNWUJBUDJ3Z0IzTDNNRm1EZnZ5MEpybE5TWTk3b3ZaZkIwWDlvdGZfcl92OG9yNWFvQWEyOHBxV2lZX2lDYkNQancta3JMSkgxN2RyTXRMenlpRllKd2FWRmFXSW1lODVNNA?oc=5)
 
 ---
 
@@ -142,7 +166,7 @@ Source: [EatingWell](https://news.google.com/rss/articles/CBMie0FVX3lxTE5zUVNHQl
 
 ### [Prostate cancer testing now urged for men in their 50s and 60s – a lead author of the new screening guidelines explains why - The Conversation](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYUpSMXZXTnNrZ0Zmb19QYUMxblFRM2YtZnRHaFJpdHhVWS1Kbll2RVQzNlRpTU5QWEdtWkZqeW5GREVzME5ZQlRIOF9DWVV5TlNScDYzSDV5c0o4UTlrR3pFNU5uSzg0R25FVzZMVm1HWks1SVgxbFdfREVndTJtUDg1SUNoeDRneGltWjQ1ZDNweTBBUU1abzg4cUFGYndMbFhBRUpHczN1dU1EZVlFQXJMY002OWFZc1liUTJWNzI3V3kxM2RLMDhTdGJuQ2l6UGVMN2xXam1fcTIycHlhVG5iQlo5bFNWTW1lWQ?oc=5)
 
-2026-11-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">OA</span>
+2026-11-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [The Conversation](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYUpSMXZXTnNrZ0Zmb19QYUMxblFRM2YtZnRHaFJpdHhVWS1Kbll2RVQzNlRpTU5QWEdtWkZqeW5GREVzME5ZQlRIOF9DWVV5TlNScDYzSDV5c0o4UTlrR3pFNU5uSzg0R25FVzZMVm1HWks1SVgxbFdfREVndTJtUDg1SUNoeDRneGltWjQ1ZDNweTBBUU1abzg4cUFGYndMbFhBRUpHczN1dU1EZVlFQXJMY002OWFZc1liUTJWNzI3V3kxM2RLMDhTdGJuQ2l6UGVMN2xXam1fcTIycHlhVG5iQlo5bFNWTW1lWQ?oc=5)
 

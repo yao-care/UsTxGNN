@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Rutin. 8 predicted indications."
 permalink: /news/rutin/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Rutin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>16 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>24 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (24)
+
+### [Vapes cause ‘irreversible’ internal damage, study finds: ‘This should be a wake-up call’ - New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
+
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
+
+---
+
+### [Your gut bacteria helps your body keep track of time, and when you eat influences how much nutrition you get from food - The Conversation](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU05STWVPeXQtWFJ5WW5kY3kxXzFGRmZaeWsxRUNxX2puM0hvVG90Ui1LVDR3eE5WdkxwMjlYVTVDakt3Y2hlTEpxZ0VUWlRYUHo2OWhSelB6MlRCYTc1eHQxLTdkS3Rhbnc3Q2s1Skt5Z3VuODdtSnV5X3VXVk9pQ29mQ3NUd085Zk5tM2xDb0xQRWhjNmRVckFFQTRFZjZFdlRtWXA1ekk3ZlQxdE45cXdHU2xiQllVMEo0WXhsNHhtaktZVmNGMTBIYVRGb3BkT25hUjI4WGR6LXBRWjVDaGJyeGdVWTg?oc=5)
+
+2026-11-17 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU05STWVPeXQtWFJ5WW5kY3kxXzFGRmZaeWsxRUNxX2puM0hvVG90Ui1LVDR3eE5WdkxwMjlYVTVDakt3Y2hlTEpxZ0VUWlRYUHo2OWhSelB6MlRCYTc1eHQxLTdkS3Rhbnc3Q2s1Skt5Z3VuODdtSnV5X3VXVk9pQ29mQ3NUd085Zk5tM2xDb0xQRWhjNmRVckFFQTRFZjZFdlRtWXA1ekk3ZlQxdE45cXdHU2xiQllVMEo0WXhsNHhtaktZVmNGMTBIYVRGb3BkT25hUjI4WGR6LXBRWjVDaGJyeGdVWTg?oc=5)
+
+---
 
 ### [Here’s Exactly How Much Leafy Greens to Eat Daily to Support Brain Health, According to a Dietitian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNNjNnR0sxZi1ERzBxcFpsSE5GMk53VFJDYVlnYVExY1JscEdXOXU3UEp2YzdHZU92MlhlT2hMLW9rUkROTDZCczByRTdzb0dxakgxVFJuR3JSOWZvbFFxd3lzX2N4MF9JZGVISGFkT09RMEhaYW92c0lueHc3WDFLeGF2STBabjUzRnN0bEpMaUtJQkRyNUZzS3ZB?oc=5)
 
@@ -58,6 +74,30 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3FkalNk
 
 ---
 
+### [Ozempic and Mounjaro may have a surprising effect on your brain - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
+
+2026-11-17 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
+
+---
+
+### [How Much Does My Fitness Decline After a Break From Exercise? - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTFBrcjNkdTc0R2JzVVZhQVlnTVYtaTcxVmRuYmMxMERVZ0J3NFBiMnM5dkdLUTVWRzdxMUJrN1d6ZDFSZUdCWGh6WWlKZUZqdGtXTkY2aWFMYmlJeTU2a0lKeU9tMks4ZWl4ZnFtWVJMaVZjZFFhVnh1dkUwOGI?oc=5)
+
+2026-11-17 <span class="news-indication-tag">UC</span>
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTFBrcjNkdTc0R2JzVVZhQVlnTVYtaTcxVmRuYmMxMERVZ0J3NFBiMnM5dkdLUTVWRzdxMUJrN1d6ZDFSZUdCWGh6WWlKZUZqdGtXTkY2aWFMYmlJeTU2a0lKeU9tMks4ZWl4ZnFtWVJMaVZjZFFhVnh1dkUwOGI?oc=5)
+
+---
+
+### [Genetic variant that reshaped the human brain was inherited from Neanderthals](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pOThEbWJnTUxXa1RXeXZhTHBQSlBJZUdMLVlsbnpjbHBTaXFKRDVaZWs2cmtRRnc3dVRWNURmX3lHb2U0azBkT3VLNlpaaTEyZzVqRHZ5MkI3czBFeHBj?oc=5)
+
+2026-11-17 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pOThEbWJnTUxXa1RXeXZhTHBQSlBJZUdMLVlsbnpjbHBTaXFKRDVaZWs2cmtRRnc3dVRWNURmX3lHb2U0azBkT3VLNlpaaTEyZzVqRHZ5MkI3czBFeHBj?oc=5)
+
+---
+
 ### [A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RSTmFwQ2NXYXhnV1ExZFZhOExLYkNXalRKeXh6TW9qRGRQa3VXSndfQW1wd2pXQ3czdUx6UUdoNHhsVmNDV0xZZ0tvd2k1OG5QS0twd0tXdjVpTzZ4ZkNFVnNaMXpLTEE0djBOQWRfMHhRRnZaVG9udG90YjBEWHl2RDBUVUZhLWVsM0l4Rk9XNDZEQ21aQUM4MklRZmpycDdTdkJHalBZamN1YzI5VDFjVTdSeUNObGhEZUR2U3lJY3E2cHc?oc=5)
 
 2026-11-16 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
@@ -66,9 +106,17 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RS
 
 ---
 
+### [The ‘disease of kings’ is making a comeback — the painful symptoms and how it’s triggered - New York Post](https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2UxaHd2czZvdVN4NTB1U3E0M19zZXZ1RVFKaDhCOTh0TF9HX21sUjJZTFJoTURCaUZpZ2o3eDJYWHJCMDRQRDlUWWVBNklJak9qbDgtYUdiWWExcld2ZHRVWmY4UzllOXZteGhQalUyTFlBZXNrWW1IS0psMXV2M25IXzVxa1hJSVUzUUpnYXE?oc=5)
+
+2026-11-16 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2UxaHd2czZvdVN4NTB1U3E0M19zZXZ1RVFKaDhCOTh0TF9HX21sUjJZTFJoTURCaUZpZ2o3eDJYWHJCMDRQRDlUWWVBNklJak9qbDgtYUdiWWExcld2ZHRVWmY4UzllOXZteGhQalUyTFlBZXNrWW1IS0psMXV2M25IXzVxa1hJSVUzUUpnYXE?oc=5)
+
+---
+
 ### [Physicists defy expectations by controlling the magnetic heart of a single atom - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5pNGFUY0FwaHV5N1ZRY2VVanIzN3RXbllrY0VzeUxTTnpWdTRfdUM1azlaaU9TeDlNd3plY0FYR0l0WlBBY1FKNE9iaUpjUXZCQUJlTHRlWUZxaURZczM5cUtIOXBxZUsyaG5NUDZXcw?oc=5)
 
-2026-11-16 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-16 <span class="news-indication-tag">UC</span> <span class="news-indication-tag">RA</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5pNGFUY0FwaHV5N1ZRY2VVanIzN3RXbllrY0VzeUxTTnpWdTRfdUM1azlaaU9TeDlNd3plY0FYR0l0WlBBY1FKNE9iaUpjUXZCQUJlTHRlWUZxaURZczM5cUtIOXBxZUsyaG5NUDZXcw?oc=5)
 
@@ -162,11 +210,27 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0QzJKWnp0WF
 
 ---
 
+### [Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3N1QTVmUWk0TFBfQjVfTGZKeTR4b1pheGlIajJTclVKdmZqdWhBUmlSZG1UeC1pVTNwZVBvU1NWUWlqdDBGbXd0Z2NUWXZuTFZ6Q2NGWVJQVXduRGhuc2R5Ymh0VmF1T3dNSnZNcmM1VS1pa2lNUkdFX2thRmZQLW5aNnB5RkMxT2R4UGZxLTFBWkd0Z2N0cFFIYWs5c05LSXlYRlZtSWZaNWRyc3RKWjA4WmZvZ2U3V0JwNUR6TnRCN1ZoYVVlZXBRWHZBdWlmRUE?oc=5)
+
+2026-11-12 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Space](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3N1QTVmUWk0TFBfQjVfTGZKeTR4b1pheGlIajJTclVKdmZqdWhBUmlSZG1UeC1pVTNwZVBvU1NWUWlqdDBGbXd0Z2NUWXZuTFZ6Q2NGWVJQVXduRGhuc2R5Ymh0VmF1T3dNSnZNcmM1VS1pa2lNUkdFX2thRmZQLW5aNnB5RkMxT2R4UGZxLTFBWkd0Z2N0cFFIYWs5c05LSXlYRlZtSWZaNWRyc3RKWjA4WmZvZ2U3V0JwNUR6TnRCN1ZoYVVlZXBRWHZBdWlmRUE?oc=5)
+
+---
+
 ### [Common heart pill under scrutiny for older patients as study weighs risks of stopping - Fox News](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnlCNDUyRzZKZC16b09zQWFxdi1vd0RZQjNVeFltbzhlMzVOVHo4dWFyRTVSaFltazV4b0JDNEQ1M3pmZWl1d0ROMkNBWm9fTWNlbXI0WXdDYkJWYkhYR2p5YU13S3hTMlNUZU1OMXV0cHNkRjNDd0YydU4wdWljTE1vUmRtdUhMUF9odFMwekZSUjZLY3NUZmhYZjRkam1ZaGfSAacBQVVfeXFMTjJNZlV4UXFDdkNqQmR6WGtMMVJIeDA1RFk2X1RObDI1R2hBZElPd0hqVktPTEJERzJ1QU9hQVEwSjljWjdfZ2tzWTNXTHJFQlRGTWpaWnhHajhBZnhabHFMQzNkU085NE4wQjZxX29MSHQtTUs0QVpqS09UampnMjloZV82SWJfVGdsa1d1STRGbmU4V2N0MnFQWUlpV0ljTXhrdXJCdWM?oc=5)
 
 2026-11-11 <span class="news-drug-tag">Rutin</span> <span class="news-indication-tag">heart attack</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">RA</span>
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnlCNDUyRzZKZC16b09zQWFxdi1vd0RZQjNVeFltbzhlMzVOVHo4dWFyRTVSaFltazV4b0JDNEQ1M3pmZWl1d0ROMkNBWm9fTWNlbXI0WXdDYkJWYkhYR2p5YU13S3hTMlNUZU1OMXV0cHNkRjNDd0YydU4wdWljTE1vUmRtdUhMUF9odFMwekZSUjZLY3NUZmhYZjRkam1ZaGfSAacBQVVfeXFMTjJNZlV4UXFDdkNqQmR6WGtMMVJIeDA1RFk2X1RObDI1R2hBZElPd0hqVktPTEJERzJ1QU9hQVEwSjljWjdfZ2tzWTNXTHJFQlRGTWpaWnhHajhBZnhabHFMQzNkU085NE4wQjZxX29MSHQtTUs0QVpqS09UampnMjloZV82SWJfVGdsa1d1STRGbmU4V2N0MnFQWUlpV0ljTXhrdXJCdWM?oc=5)
+
+---
+
+### [When Measles Came to an Amish Community, Many Suffered and One Died - The New York Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2ZrenUxeFRUV0ZERVM3OXN6cTlTQ0REQ3RJWFJCTk9Od3c1Y3N2dEctcWZ2U3BIblh2TC14R09jNVFsWjE4NmtBZnRjN0c1MGs3Y04zcDRWUXJkQmo2ZlNtSFpsZnNkYkFqb1JZTWFWRjBmOGliTjktWHllV1lWcXFvSHRFQVVXRTV1Zw?oc=5)
+
+2026-11-11 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2ZrenUxeFRUV0ZERVM3OXN6cTlTQ0REQ3RJWFJCTk9Od3c1Y3N2dEctcWZ2U3BIblh2TC14R09jNVFsWjE4NmtBZnRjN0c1MGs3Y04zcDRWUXJkQmo2ZlNtSFpsZnNkYkFqb1JZTWFWRjBmOGliTjktWHllV1lWcXFvSHRFQVVXRTV1Zw?oc=5)
 
 ---
 

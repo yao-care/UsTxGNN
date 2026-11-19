@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Rutin. 8 predicted indications."
 permalink: /news/rutin/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Rutin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>28 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>33 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,11 +40,43 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (28)
+## Related News (33)
+
+### [A glucose-powered artificial neuroimmune axis for metabolic control](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzYXNQdjhBQ2dXY3JuckJ6Yk1zbjNjeGY5dmhoMnJjNDBRZXQ0ZHB6X29kcGUwd25GVmw2UVJsMXFQYXgzN3JCcVF2dkFhd2NCdWRHcWZ6Uk82cEtlamxv?oc=5)
+
+2026-11-18 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzYXNQdjhBQ2dXY3JuckJ6Yk1zbjNjeGY5dmhoMnJjNDBRZXQ0ZHB6X29kcGUwd25GVmw2UVJsMXFQYXgzN3JCcVF2dkFhd2NCdWRHcWZ6Uk82cEtlamxv?oc=5)
+
+---
+
+### [An Ancient Virus Silenced a Brain Gene in Chimpanzees. Humans Kept It. - Gadget Review](https://news.google.com/rss/articles/CBMingFBVV95cUxNZm9TVkFZTDFfSjVtM0JWc2h1eWR2UVo5OGVvdGJPUVFXN2xDLTlNSVlGeGc5eVJVaXJ2SkdtdEwxY3RPUUV3bHRVTTNWQURQNFVpZlhtZ1dNcGVDZ2VFS1VidGpZY0d3YmoyaXNJWFpKcEp2TEVIbFFGaFdqS1VETnVsa19jenhBTEk0djJiQTZlR25ObWJDLURqNGpYUQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Gadget Review](https://news.google.com/rss/articles/CBMingFBVV95cUxNZm9TVkFZTDFfSjVtM0JWc2h1eWR2UVo5OGVvdGJPUVFXN2xDLTlNSVlGeGc5eVJVaXJ2SkdtdEwxY3RPUUV3bHRVTTNWQURQNFVpZlhtZ1dNcGVDZ2VFS1VidGpZY0d3YmoyaXNJWFpKcEp2TEVIbFFGaFdqS1VETnVsa19jenhBTEk0djJiQTZlR25ObWJDLURqNGpYUQ?oc=5)
+
+---
+
+### [Scientists Found a Genius Way to Boost Your Brain's Overnight Cleaning System](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2JrWmpJUjhobUNTaWNRcUFfYTJaaEpTOG1zQTMzUGJfSHdGaDB3N0c5aEE3dlFEV0xlVVBwaW5IWVhfOGJraWJNeW9RSTEwak92SUZQV3ZMY1pTck9UOU5LNV9hdGpmeXBxSnpacHVYeDA0WUtWQlRHTXZ1eW9DMno1MV90ZHB5bVBnWG1jTVdaZGw0MzMwanRmTkxWSjAteW5aajY0RWs?oc=5)
+
+2026-11-18 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2JrWmpJUjhobUNTaWNRcUFfYTJaaEpTOG1zQTMzUGJfSHdGaDB3N0c5aEE3dlFEV0xlVVBwaW5IWVhfOGJraWJNeW9RSTEwak92SUZQV3ZMY1pTck9UOU5LNV9hdGpmeXBxSnpacHVYeDA0WUtWQlRHTXZ1eW9DMno1MV90ZHB5bVBnWG1jTVdaZGw0MzMwanRmTkxWSjAteW5aajY0RWs?oc=5)
+
+---
+
+### [A little-known protein could be a powerful weapon against Alzheimer’s - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5CQ0JDS0RhVl91UFVvYkJJQ2ZUS1A2MnJrWnNDcnhnVEwxUGVjakowVDU2S2d6TkVDSXk5YVJqQUE4a0hTeU01VXZsU052UHFOTnkzNk5PaUJHV3Z4RGJnRVdMZGVuVEtEYUd2MU1FOA?oc=5)
+
+2026-11-18 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5CQ0JDS0RhVl91UFVvYkJJQ2ZUS1A2MnJrWnNDcnhnVEwxUGVjakowVDU2S2d6TkVDSXk5YVJqQUE4a0hTeU01VXZsU052UHFOTnkzNk5PaUJHV3Z4RGJnRVdMZGVuVEtEYUd2MU1FOA?oc=5)
+
+---
 
 ### [Vapes cause ‘irreversible’ internal damage, study finds: ‘This should be a wake-up call’ - New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
 
-2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-17 <span class="news-drug-tag">Tadalafil</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
 
@@ -76,7 +108,7 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3FkalNk
 
 ### [Ozempic and Mounjaro may have a surprising effect on your brain - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
 
-2026-11-17 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
 
@@ -87,6 +119,14 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEt
 2026-11-17 <span class="news-indication-tag">UC</span>
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTFBrcjNkdTc0R2JzVVZhQVlnTVYtaTcxVmRuYmMxMERVZ0J3NFBiMnM5dkdLUTVWRzdxMUJrN1d6ZDFSZUdCWGh6WWlKZUZqdGtXTkY2aWFMYmlJeTU2a0lKeU9tMks4ZWl4ZnFtWVJMaVZjZFFhVnh1dkUwOGI?oc=5)
+
+---
+
+### [Your Cycling Fitness Has a 14-Day Expiration Date - Outside Magazine](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMk4xaWUtZ0Mzdl84WUQ3QlVUcDdrU2s1UzVhYWktLUJPYXBZSXBQVG1BV2FiZ0Y3dlF4S2Q3ZzdJb1R2Zlg0ZmhwTnk2LXRTeHk4YUljek9kQll1Rm5VdzhQUlJIMnA0aVBxRHdsdzlaeF94QzZtU2s0Yk9Tc2F6WWFrSUxUU2NtcnRCejdB?oc=5)
+
+2026-11-17 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Outside Magazine](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMk4xaWUtZ0Mzdl84WUQ3QlVUcDdrU2s1UzVhYWktLUJPYXBZSXBQVG1BV2FiZ0Y3dlF4S2Q3ZzdJb1R2Zlg0ZmhwTnk2LXRTeHk4YUljek9kQll1Rm5VdzhQUlJIMnA0aVBxRHdsdzlaeF94QzZtU2s0Yk9Tc2F6WWFrSUxUU2NtcnRCejdB?oc=5)
 
 ---
 
@@ -108,7 +148,7 @@ Source: [BollywoodShaadis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxN
 
 ### [A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RSTmFwQ2NXYXhnV1ExZFZhOExLYkNXalRKeXh6TW9qRGRQa3VXSndfQW1wd2pXQ3czdUx6UUdoNHhsVmNDV0xZZ0tvd2k1OG5QS0twd0tXdjVpTzZ4ZkNFVnNaMXpLTEE0djBOQWRfMHhRRnZaVG9udG90YjBEWHl2RDBUVUZhLWVsM0l4Rk9XNDZEQ21aQUM4MklRZmpycDdTdkJHalBZamN1YzI5VDFjVTdSeUNObGhEZUR2U3lJY3E2cHc?oc=5)
 
-2026-11-16 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-16 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RSTmFwQ2NXYXhnV1ExZFZhOExLYkNXalRKeXh6TW9qRGRQa3VXSndfQW1wd2pXQ3czdUx6UUdoNHhsVmNDV0xZZ0tvd2k1OG5QS0twd0tXdjVpTzZ4ZkNFVnNaMXpLTEE0djBOQWRfMHhRRnZaVG9udG90YjBEWHl2RDBUVUZhLWVsM0l4Rk9XNDZEQ21aQUM4MklRZmpycDdTdkJHalBZamN1YzI5VDFjVTdSeUNObGhEZUR2U3lJY3E2cHc?oc=5)
 

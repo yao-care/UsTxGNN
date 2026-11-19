@@ -3,9 +3,9 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 18 articles, 2 related drugs."
+description: "Health news about flu (influenza). 22 articles, 2 related drugs."
 permalink: /news/influenza/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # flu (influenza) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>18 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>22 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,39 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (18)
+## Related News (22)
+
+### [Flu activity rises across US as 6 states reach high levels, CDC data shows - Fox News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnNxbkRYSktvY3FDOHJKUXp0bXNDZHRfb2I5M3VLbm15YVZkbVR3Ny1KNkhrSWJ2c0NmZTk1MWJNODRwSkE3MWxuQVVOWUpPUTdnUEJxNU5oM3BEVkxULVlLNHYwUFVIWDIwcGRORjg5M19MNlZOSzNxNEtpVHpwbFlmNHJheFBjaW9iV0JBN1J4QmUzRnBjak1IUjhtQVZYSS1v0gGoAUFVX3lxTE9VaGJ0aDhKRkxId0E0Ul9jdmlvTFZhbDdWUWVLOTFDWHBIX055SHhHT0YxYVVweVEyMDhjRG14Ujl0LTd1ME05Sl9Oa0lXdGpNMHFnTjA5b1hyUHBmSU4tVzhlblFUUnNBd0FlVXFsS0pOT3VTcUYxVmllakNFazNIN1dlMFVFX2tLQ00tMVVDQ21yUkZCam5DZzJlVU5FZ0NRTXJvbVBDeg?oc=5)
+
+2026-11-18
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnNxbkRYSktvY3FDOHJKUXp0bXNDZHRfb2I5M3VLbm15YVZkbVR3Ny1KNkhrSWJ2c0NmZTk1MWJNODRwSkE3MWxuQVVOWUpPUTdnUEJxNU5oM3BEVkxULVlLNHYwUFVIWDIwcGRORjg5M19MNlZOSzNxNEtpVHpwbFlmNHJheFBjaW9iV0JBN1J4QmUzRnBjak1IUjhtQVZYSS1v0gGoAUFVX3lxTE9VaGJ0aDhKRkxId0E0Ul9jdmlvTFZhbDdWUWVLOTFDWHBIX055SHhHT0YxYVVweVEyMDhjRG14Ujl0LTd1ME05Sl9Oa0lXdGpNMHFnTjA5b1hyUHBmSU4tVzhlblFUUnNBd0FlVXFsS0pOT3VTcUYxVmllakNFazNIN1dlMFVFX2tLQ00tMVVDQ21yUkZCam5DZzJlVU5FZ0NRTXJvbVBDeg?oc=5)
+
+---
+
+### [Scientists Found a Genius Way to Boost Your Brain's Overnight Cleaning System](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2JrWmpJUjhobUNTaWNRcUFfYTJaaEpTOG1zQTMzUGJfSHdGaDB3N0c5aEE3dlFEV0xlVVBwaW5IWVhfOGJraWJNeW9RSTEwak92SUZQV3ZMY1pTck9UOU5LNV9hdGpmeXBxSnpacHVYeDA0WUtWQlRHTXZ1eW9DMno1MV90ZHB5bVBnWG1jTVdaZGw0MzMwanRmTkxWSjAteW5aajY0RWs?oc=5)
+
+2026-11-18
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2JrWmpJUjhobUNTaWNRcUFfYTJaaEpTOG1zQTMzUGJfSHdGaDB3N0c5aEE3dlFEV0xlVVBwaW5IWVhfOGJraWJNeW9RSTEwak92SUZQV3ZMY1pTck9UOU5LNV9hdGpmeXBxSnpacHVYeDA0WUtWQlRHTXZ1eW9DMno1MV90ZHB5bVBnWG1jTVdaZGw0MzMwanRmTkxWSjAteW5aajY0RWs?oc=5)
+
+---
+
+### [Can you get COVID and flu shots together? Here’s what doctors say - USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcFBPZHNXMVlUYkFFT2VhbzNnWmR0RVIwWW1WbkQ3eEk1U0MyQ1pRbHJkT2p6VUxXU2VaTmtZN19LUW04b1JMYnoycFltbG11QTVCbjBmeG1sRWlKSmRMeG1ROExPZ3hqRzJKVThtYUg2SzBkQVFzRThUVTJtTU14RExBWnN6d0FZUGpZcklETnEzWndfdmZtbVVuRUlPTU5tYXlUSDBpTGlRN1F5elk5RXloOUd4ODVN?oc=5)
+
+2026-11-18
+
+Source: [USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcFBPZHNXMVlUYkFFT2VhbzNnWmR0RVIwWW1WbkQ3eEk1U0MyQ1pRbHJkT2p6VUxXU2VaTmtZN19LUW04b1JMYnoycFltbG11QTVCbjBmeG1sRWlKSmRMeG1ROExPZ3hqRzJKVThtYUg2SzBkQVFzRThUVTJtTU14RExBWnN6d0FZUGpZcklETnEzWndfdmZtbVVuRUlPTU5tYXlUSDBpTGlRN1F5elk5RXloOUd4ODVN?oc=5)
+
+---
+
+### [Washington health officials provide safety tips after dairy farmer dies from bird flu](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQczcxMk9QeGpqejZtSzllU2toam5xOEpiNm42X2o2QWpneElHN2MtRElYel82alY5YmVYdkc0bGJwSGdiVGIwa3lLNlF2NkNROWExYlFaNk5aREduaDhReUNKZVd4bXpzRmhCaTdJSV9vVF82WTBqdVRaeGlXYmxTTXhFOEZleDBrWWFXdHZjbmdqZDBsNnlqU09KQUFkSUJEZEJ5NjFfRkJvVWQ4dldDNjZiZEtFVXh5YjFTQ1ZEaWfSAcYBQVVfeXFMTlZzMnNzM0hQOHdGQ19PZ3BhQlo1bFpNcEZsV1VlM1VDN0d3ajZITVh1THE2SU1OUnJkcFpBMW0yUFJ0UzBadDRJVzc0WEdfRGEzTVlsRVVBSy0xdjdMMmpiRFBrN1gtZHBJdGJkelZleGVNbWt2OXp6cHBuZUFkOWh2a3dUZ2g4ZDVleHhUWWZETm9ZQm5RcUsxN3VZRFdBVHBZVGdacmpNUHV3SE4tQnFzWS16UDRwbmRxenRJazRqUWs0dlFB?oc=5)
+
+2026-11-17
+
+Source: [KOIN.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQczcxMk9QeGpqejZtSzllU2toam5xOEpiNm42X2o2QWpneElHN2MtRElYel82alY5YmVYdkc0bGJwSGdiVGIwa3lLNlF2NkNROWExYlFaNk5aREduaDhReUNKZVd4bXpzRmhCaTdJSV9vVF82WTBqdVRaeGlXYmxTTXhFOEZleDBrWWFXdHZjbmdqZDBsNnlqU09KQUFkSUJEZEJ5NjFfRkJvVWQ4dldDNjZiZEtFVXh5YjFTQ1ZEaWfSAcYBQVVfeXFMTlZzMnNzM0hQOHdGQ19PZ3BhQlo1bFpNcEZsV1VlM1VDN0d3ajZITVh1THE2SU1OUnJkcFpBMW0yUFJ0UzBadDRJVzc0WEdfRGEzTVlsRVVBSy0xdjdMMmpiRFBrN1gtZHBJdGJkelZleGVNbWt2OXp6cHBuZUFkOWh2a3dUZ2g4ZDVleHhUWWZETm9ZQm5RcUsxN3VZRFdBVHBZVGdacmpNUHV3SE4tQnFzWS16UDRwbmRxenRJazRqUWs0dlFB?oc=5)
+
+---
 
 ### [CDC tracking 4 illness groups in the US: How is Northeast Ohio impacted? - FOX 8 News](https://news.google.com/rss/articles/CBMimAFBVV95cUxNclp3ZDdKaGpTQ0dDSm1fZ1JhTXMtWTBUc2UySmp4TkhTUHF2YkNmYmYwUGRGWVhYdmtXXzE2eW1MNGhVNmU5S2o1T2dlMkUxVUFSbnpuVVEwTEZqU0kyaERiLTdESUFoTXB6S0xnUkxhNGJZS3RyWWltWnY4d0NwbWFTdlFjaG9MLURWOGkya1hZQ2JZclA3WNIBngFBVV95cUxOSEJmWlNuNEt5STU4UXBzU3N3WDVjUXdnT3FsX0E5MEloUndDRGZRM1NRVnhtVzZHaTUtTEFvZndaR1dLRXBhRWZPN2duVjFldnllQXJVaDA4NUh4NVNiblQ3YU8zT2RYTnB1aEsyWVZfLTEyV25FcUxNcllVRU5KRFpRRXlWdzhROGtuNktjSXdZZkt2dVBzODl0YkQwdw?oc=5)
 

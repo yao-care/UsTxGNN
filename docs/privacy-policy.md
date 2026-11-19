@@ -47,11 +47,32 @@ patient identifiers. When you ask for clinical trials, the drug and indication n
 
 ---
 
-## Data subject rights
+<!-- privacy-law:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改；法規與連結見 .claude/privacy_text_20261119.py）-->
+## Applicable law
 
-This site has no accounts and keeps no personal records on servers of its own (it has none). Usage statistics
-are collected by Google Analytics 4; you can block or delete its cookies in your browser settings.
-For questions about this policy, contact service@yao.care.
+The United States has no single federal privacy law for websites like this one. Unfair or deceptive privacy practices fall under Section 5 of the FTC Act, enforced by the [Federal Trade Commission](https://www.ftc.gov/), and several states have consumer privacy laws, for example California's CCPA as amended by the CPRA, administered by the [California Privacy Protection Agency](https://cppa.ca.gov/regulations/). Whether a state law applies depends on its thresholds; this page describes the processing either way: usage data collected by Google Analytics 4 through cookies. The SMART app does not send patient identifiers or protected health information to this site.
+
+## Your rights and how to use them
+
+- Ask what usage data about you is held, and ask for it to be corrected or deleted.
+- Opt out of analytics by blocking or deleting the analytics cookies in your browser.
+- Where a state privacy law applies to you, use the rights that law gives (for California residents, the CCPA rights to know, delete and correct).
+- Contact your state attorney general or the FTC about a privacy concern.
+
+Requests: service@yao.care (there are no accounts, so tell us the date and pages of your visit). Analytics cookies can be blocked or deleted in your browser.
+
+## Copyright and data sources
+
+Site texts are protected under the [Copyright Act (Title 17, U.S. Code)](https://www.copyright.gov/title17/). The site's code is published under the MIT License in the [GitHub repository](https://github.com/yao-care/UsTxGNN); report texts are © 藥提醒科技有限公司 (yao.care).
+
+Data sources used on this site and their terms:
+
+- **TxGNN** data (Harvard Dataverse): CC0 1.0; cite Huang et al., *Nature Medicine* 2024.
+- **ClinicalTrials.gov**, **PubMed**: [ClinicalTrials.gov terms](https://clinicaltrials.gov/about-site/terms-conditions), [NCBI policies](https://www.ncbi.nlm.nih.gov/home/about/policies/).
+- **DrugBank**: [DrugBank](https://go.drugbank.com/) licence terms, non-commercial use.
+- **Local dataset** – [FDA National Drug Code Directory](https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory): public domain, with a CC0 1.0 dedication (openFDA terms) (https://open.fda.gov/terms/).
+
+<!-- privacy-law:end -->
 
 ---
 

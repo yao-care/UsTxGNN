@@ -1,0 +1,593 @@
+{
+ "_about": "本檔由 scripts/local_facts.py 產生（母目錄 .claude/local_facts_lib.py），勿手改；cross 欄位由母目錄 .claude/gen_local_pages_20261119.py 更新",
+ "drugs_total": 953,
+ "level_counts": {
+  "L1": 14,
+  "L2": 38,
+  "L3": 32,
+  "L4": 59,
+  "L5": 777
+ },
+ "level_na": 33,
+ "public_pages": 953,
+ "licence_snapshot": "us_licenses.json.gz",
+ "licence": {
+  "drugs_with_data": 893,
+  "drugs_with_current": 872,
+  "drugs_none_current": 21,
+  "drugs_without_data": 60,
+  "drugs_partial": 0,
+  "items_total": 19551,
+  "items_current": 9944
+ },
+ "reviews": {
+  "records": 1261,
+  "pages": 711,
+  "public_pages_with_records": 688,
+  "by_action": {
+   "annotate": 1,
+   "correct": 1260
+  }
+ },
+ "fhir": {
+  "medication_knowledge": 953,
+  "clinical_use_definition": 5340
+ },
+ "top_licensed": [
+  {
+   "t": "Potassium Chloride",
+   "u": "/drugs/potassium-chloride/",
+   "l": "L4",
+   "lt": 285,
+   "lv": 145,
+   "r": 2,
+   "i": "renal tubular acidosis"
+  },
+  {
+   "t": "Acetaminophen",
+   "u": "/drugs/acetaminophen/",
+   "l": "N/A",
+   "lt": 534,
+   "lv": 135,
+   "r": 0,
+   "i": ""
+  },
+  {
+   "t": "Ibuprofen",
+   "u": "/drugs/ibuprofen/",
+   "l": "L5",
+   "lt": 272,
+   "lv": 121,
+   "r": 2,
+   "i": "acromesomelic dysplasia, Hunter-Thompson type"
+  },
+  {
+   "t": "Metformin",
+   "u": "/drugs/metformin/",
+   "l": "L5",
+   "lt": 174,
+   "lv": 102,
+   "r": 2,
+   "i": "classic stiff person syndrome"
+  },
+  {
+   "t": "Lidocaine",
+   "u": "/drugs/lidocaine/",
+   "l": "L5",
+   "lt": 205,
+   "lv": 93,
+   "r": 1,
+   "i": "punctate epithelial keratoconjunctivitis"
+  },
+  {
+   "t": "Clindamycin",
+   "u": "/drugs/clindamycin/",
+   "l": "L5",
+   "lt": 141,
+   "lv": 85,
+   "r": 0,
+   "i": "punctate epithelial keratoconjunctivitis"
+  },
+  {
+   "t": "Levonorgestrel",
+   "u": "/drugs/levonorgestrel/",
+   "l": "L3",
+   "lt": 111,
+   "lv": 78,
+   "r": 2,
+   "i": "acne (disease)"
+  },
+  {
+   "t": "Doxycycline",
+   "u": "/drugs/doxycycline/",
+   "l": "L5",
+   "lt": 146,
+   "lv": 74,
+   "r": 2,
+   "i": "punctate epithelial keratoconjunctivitis"
+  }
+ ],
+ "no_current": [
+  {
+   "t": "Aluminum Hydroxide",
+   "u": "/drugs/aluminum-hydroxide/",
+   "l": "N/A",
+   "lt": 4,
+   "lv": 0,
+   "r": 0,
+   "i": ""
+  },
+  {
+   "t": "Andexanet Alfa",
+   "u": "/drugs/andexanet-alfa/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 1,
+   "i": "Glanzmann thrombasthenia"
+  },
+  {
+   "t": "Bacitracin",
+   "u": "/drugs/bacitracin/",
+   "l": "L5",
+   "lt": 14,
+   "lv": 0,
+   "r": 0,
+   "i": "punctate epithelial keratoconjunctivitis"
+  },
+  {
+   "t": "Benzyl Alcohol",
+   "u": "/drugs/benzyl-alcohol/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 0,
+   "i": "bronchitis"
+  },
+  {
+   "t": "Cortisone",
+   "u": "/drugs/cortisone/",
+   "l": "L4",
+   "lt": 20,
+   "lv": 0,
+   "r": 1,
+   "i": "primary cutaneous T-cell lymphoma"
+  },
+  {
+   "t": "Dexbrompheniramine",
+   "u": "/drugs/dexbrompheniramine/",
+   "l": "L5",
+   "lt": 8,
+   "lv": 0,
+   "r": 1,
+   "i": "recalcitrant atopic dermatitis"
+  },
+  {
+   "t": "Estrone",
+   "u": "/drugs/estrone/",
+   "l": "L5",
+   "lt": 5,
+   "lv": 0,
+   "r": 0,
+   "i": "zinc, elevated plasma"
+  },
+  {
+   "t": "Hydroxyprogesterone Caproate",
+   "u": "/drugs/hydroxyprogesterone-caproate/",
+   "l": "L5",
+   "lt": 8,
+   "lv": 0,
+   "r": 0,
+   "i": "endometriosis of uterus"
+  },
+  {
+   "t": "Lasmiditan",
+   "u": "/drugs/lasmiditan/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 0,
+   "i": "atrophoderma vermiculata"
+  },
+  {
+   "t": "Nabilone",
+   "u": "/drugs/nabilone/",
+   "l": "L4",
+   "lt": 1,
+   "lv": 0,
+   "r": 1,
+   "i": "migraine disorder"
+  },
+  {
+   "t": "Oliceridine",
+   "u": "/drugs/oliceridine/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 0,
+   "i": "insomnia (disease)"
+  },
+  {
+   "t": "Phenazopyridine",
+   "u": "/drugs/phenazopyridine/",
+   "l": "L5",
+   "lt": 3,
+   "lv": 0,
+   "r": 1,
+   "i": "bronchitis"
+  }
+ ],
+ "no_current_more": 9,
+ "most_reviewed": [
+  {
+   "t": "Darunavir",
+   "u": "/drugs/darunavir/",
+   "l": "L5",
+   "lt": 16,
+   "lv": 15,
+   "r": 4,
+   "i": "feline acquired immunodeficiency syndrome"
+  },
+  {
+   "t": "Folic Acid",
+   "u": "/drugs/folic-acid/",
+   "l": "L5",
+   "lt": 57,
+   "lv": 17,
+   "r": 4,
+   "i": "biotin metabolic disease"
+  },
+  {
+   "t": "Glycine",
+   "u": "/drugs/glycine/",
+   "l": "L5",
+   "lt": 5,
+   "lv": 3,
+   "r": 4,
+   "i": "nasal cavity disease"
+  },
+  {
+   "t": "Griseofulvin",
+   "u": "/drugs/griseofulvin/",
+   "l": "L5",
+   "lt": 22,
+   "lv": 12,
+   "r": 4,
+   "i": "myiasis"
+  },
+  {
+   "t": "Hyaluronidase",
+   "u": "/drugs/hyaluronidase/",
+   "l": "L5",
+   "lt": 3,
+   "lv": 2,
+   "r": 4,
+   "i": "esotropia"
+  },
+  {
+   "t": "Isoniazid",
+   "u": "/drugs/isoniazid/",
+   "l": "L5",
+   "lt": 48,
+   "lv": 5,
+   "r": 4,
+   "i": "conjunctivitis"
+  }
+ ],
+ "example": {
+  "t": "Bupropion",
+  "u": "/drugs/bupropion/",
+  "l": "L1",
+  "lt": 73,
+  "lv": 45,
+  "r": 3,
+  "i": "attention deficit-hyperactivity disorder"
+ },
+ "recent_reviews": [
+  {
+   "t": "Andexanet Alfa",
+   "u": "/drugs/andexanet-alfa/",
+   "s": "Restored: \"The product's license is also cancelled in the US\" (Purple Book lists BLA 125586 as Revoked)",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Warfarin",
+   "u": "/drugs/warfarin/",
+   "s": "Removed: \"since four authorizations are listed as valid\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Tramadol",
+   "u": "/drugs/tramadol/",
+   "s": "Corrected: \"All 10 authorizations are listed as valid; the five main\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Tobramycin",
+   "u": "/drugs/tobramycin/",
+   "s": "Removed: \"The other 10 licenses are also cancelled generic ANDAs (solution, injection, and eye-drop forms)\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Tioconazole",
+   "u": "/drugs/tioconazole/",
+   "s": "Removed: \"The local records show one licence, and it is valid\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Prucalopride",
+   "u": "/drugs/prucalopride/",
+   "s": "Removed: \"since 13 licenses are shown as valid\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Oxcarbazepine",
+   "u": "/drugs/oxcarbazepine/",
+   "s": "Corrected: \"The full set comprises 11 authorizations, including\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Octreotide",
+   "u": "/drugs/octreotide/",
+   "s": "Removed: \"All 14 US authorizations are listed as valid\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Nystatin",
+   "u": "/drugs/nystatin/",
+   "s": "Corrected: \"Eleven are valid and one is cancelled; the list may be partial\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Minoxidil",
+   "u": "/drugs/minoxidil/",
+   "s": "Removed: \"All 10 are recorded as valid\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Miglustat",
+   "u": "/drugs/miglustat/",
+   "s": "Removed: \"All five licenses are listed as valid\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Griseofulvin",
+   "u": "/drugs/griseofulvin/",
+   "s": "Removed: \"The remaining five licences are also cancelled\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Granisetron",
+   "u": "/drugs/granisetron/",
+   "s": "Removed: \"Five more licenses (all cancelled) are on file, covering tablets, film-coated tablets and…",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Eplerenone",
+   "u": "/drugs/eplerenone/",
+   "s": "Removed: \"since all six listed authorizations are shown as valid\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Dexamethasone",
+   "u": "/drugs/dexamethasone/",
+   "s": "Removed: \"Fifteen US licences are recorded as valid, and the list may be partial\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Darunavir",
+   "u": "/drugs/darunavir/",
+   "s": "Removed: \"All 10 authorizations listed below are in valid status\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Daptomycin",
+   "u": "/drugs/daptomycin/",
+   "s": "Removed: \"with 17 US licenses currently valid\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Apomorphine",
+   "u": "/drugs/apomorphine/",
+   "s": "Removed: \"given that all 3 licences are listed as valid\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Lansoprazole",
+   "u": "/drugs/lansoprazole/",
+   "s": "Removed: \"Five more authorizations (all cancelled, 10 in total) are on record and not listed here\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Zonisamide",
+   "u": "/drugs/zonisamide/",
+   "s": "Removed: \"given that the drug is marketed with seven valid licenses\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Zolmitriptan",
+   "u": "/drugs/zolmitriptan/",
+   "s": "Removed: \"and the US licenses are all cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Zinc Sulfate Unspecified Form",
+   "u": "/drugs/zinc-sulfate-unspecified-form/",
+   "s": "Removed: \"ation and the reason for the cancelled authoriz , since the only known product is an injection and…",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Zinc Gluconate",
+   "u": "/drugs/zinc-gluconate/",
+   "s": "Removed: \"with 1 valid license\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Zinc Chloride",
+   "u": "/drugs/zinc-chloride/",
+   "s": "Removed: \"with five valid licenses\"",
+   "d": "2026-11-06"
+  }
+ ],
+ "recent_licence_reviews": [
+  {
+   "t": "Andexanet Alfa",
+   "u": "/drugs/andexanet-alfa/",
+   "s": "Restored: \"The product's license is also cancelled in the US\" (Purple Book lists BLA 125586 as Revoked)",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Warfarin",
+   "u": "/drugs/warfarin/",
+   "s": "Removed: \"since four authorizations are listed as valid\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Tramadol",
+   "u": "/drugs/tramadol/",
+   "s": "Corrected: \"All 10 authorizations are listed as valid; the five main\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Tobramycin",
+   "u": "/drugs/tobramycin/",
+   "s": "Removed: \"The other 10 licenses are also cancelled generic ANDAs (solution, injection, and eye-drop forms)\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Tioconazole",
+   "u": "/drugs/tioconazole/",
+   "s": "Removed: \"The local records show one licence, and it is valid\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Prucalopride",
+   "u": "/drugs/prucalopride/",
+   "s": "Removed: \"since 13 licenses are shown as valid\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Oxcarbazepine",
+   "u": "/drugs/oxcarbazepine/",
+   "s": "Corrected: \"The full set comprises 11 authorizations, including\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Octreotide",
+   "u": "/drugs/octreotide/",
+   "s": "Removed: \"All 14 US authorizations are listed as valid\"",
+   "d": "2026-11-12"
+  }
+ ],
+ "files": {
+  "search_index": 953,
+  "drugs_json": 953
+ },
+ "by_level": {
+  "L1": {
+   "n": 14,
+   "current": 12
+  },
+  "L2": {
+   "n": 38,
+   "current": 38
+  },
+  "L3": {
+   "n": 32,
+   "current": 28
+  },
+  "L4": {
+   "n": 59,
+   "current": 51
+  },
+  "L5": {
+   "n": 777,
+   "current": 712
+  }
+ },
+ "cross": {
+  "unique_pairs": 397,
+  "unique_examples": [
+   {
+    "t": "Platinum",
+    "u": "/drugs/platinum/",
+    "i": "urinary bladder carcinoma"
+   },
+   {
+    "t": "Alosetron",
+    "u": "/drugs/alosetron/",
+    "i": "migraine disorder"
+   },
+   {
+    "t": "Ammonia N-13",
+    "u": "/drugs/ammonia-n-13/",
+    "i": "non-syndromic esophageal malformation"
+   },
+   {
+    "t": "Amphetamine",
+    "u": "/drugs/amphetamine/",
+    "i": "faciodigitogenital syndrome"
+   },
+   {
+    "t": "Aripiprazole Lauroxil",
+    "u": "/drugs/aripiprazole-lauroxil/",
+    "i": "retinal dystrophy with or without extraocular anomalies"
+   },
+   {
+    "t": "Benzphetamine",
+    "u": "/drugs/benzphetamine/",
+    "i": "hypervitaminosis"
+   },
+   {
+    "t": "Binetrakin",
+    "u": "/drugs/binetrakin/",
+    "i": "craniostenosis cataract"
+   },
+   {
+    "t": "Black Cohosh",
+    "u": "/drugs/black-cohosh/",
+    "i": "heart disease"
+   },
+   {
+    "t": "Bremelanotide",
+    "u": "/drugs/bremelanotide/",
+    "i": "acne (disease)"
+   },
+   {
+    "t": "Cevimeline",
+    "u": "/drugs/cevimeline/",
+    "i": "hypertrichosis (disease)"
+   },
+   {
+    "t": "Collagenase Clostridium Histolyticum",
+    "u": "/drugs/collagenase-clostridium-histolyticum/",
+    "i": "primary release disorder of platelets"
+   },
+   {
+    "t": "Denileukin Diftitox",
+    "u": "/drugs/denileukin-diftitox/",
+    "i": "plasmacytoma"
+   },
+   {
+    "t": "Diethylpropion",
+    "u": "/drugs/diethylpropion/",
+    "i": "hypervitaminosis"
+   },
+   {
+    "t": "Diethyltoluamide",
+    "u": "/drugs/diethyltoluamide/",
+    "i": "insomnia (disease)"
+   },
+   {
+    "t": "Dofetilide",
+    "u": "/drugs/dofetilide/",
+    "i": "stroke disorder"
+   },
+   {
+    "t": "Doxercalciferol",
+    "u": "/drugs/doxercalciferol/",
+    "i": "obsolete vitamin D deficiency"
+   }
+  ]
+ }
+}

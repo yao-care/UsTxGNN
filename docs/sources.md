@@ -14,25 +14,25 @@ Every conclusion traces back to a public data source — nothing is a black box.
 
 ---
 
-<!-- site-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-## United States: data behind this site
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## United States: what the local data cover
 
-This site publishes reports for **{{ site.data.drug_stats.total_drugs }}** medicines listed in the registration data of [FDA](https://www.fda.gov/) (United States).
+Local data: [FDA National Drug Code Directory](https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory). The local data are FDA application numbers from Drugs@FDA, with the NDC Directory and the Purple Book for products that Drugs@FDA does not cover. An application whose products are all discontinued, or whose licence the Purple Book lists as revoked, is not counted as marketed.
 
-Reports by evidence level:
+| Item | Value |
+|---|---|
+| Medicines found in the local data | {{ site.data.local_facts.licence.drugs_with_data }} |
+| …with at least one marketed entry | {{ site.data.local_facts.licence.drugs_with_current }} |
+| …with entries but none marketed | {{ site.data.local_facts.licence.drugs_none_current }} |
+| Medicines not in the local data | {{ site.data.local_facts.licence.drugs_without_data }} |
+| Local entries (FDA applications (NDA/ANDA/BLA)) | {{ site.data.local_facts.licence.items_total }} |
+| …of which marketed | {{ site.data.local_facts.licence.items_current }} |
 
-| Evidence level | Reports | Share |
-|---|---|---|
-| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+{% if site.data.local_facts.no_current.size > 0 %}Medicines with FDA applications (NDA/ANDA/BLA) in this data but none marketed: {% for r in site.data.local_facts.no_current %}[{{ r.t }}]({{ r.u | relative_url }}){% unless forloop.last %}, {% endunless %}{% endfor %}{% if site.data.local_facts.no_current_more > 0 %}, and {{ site.data.local_facts.no_current_more }} more{% endif %}{% endif %}
 
-410 predicted drug–disease pairs on this site appear on no other of the 30 TxGNN sites.
+{% if site.data.local_facts.recent_licence_reviews.size > 0 %}Latest corrections of local registration facts: {% for r in site.data.local_facts.recent_licence_reviews %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.d }}): {{ r.s }}{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}
 
-<!-- site-data:end -->
+<!-- local-facts:end -->
 
 ## Source overview
 

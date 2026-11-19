@@ -15,27 +15,31 @@ Accelerating drug repurposing evidence validation with AI — from prediction to
 
 ---
 
-<!-- site-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-## United States: data behind this site
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## United States: this site's data in numbers
 
-This site publishes reports for **{{ site.data.drug_stats.total_drugs }}** medicines listed in the registration data of [FDA](https://www.fda.gov/) (United States).
+Local data: [FDA National Drug Code Directory](https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory). The local data are FDA application numbers from Drugs@FDA, with the NDC Directory and the Purple Book for products that Drugs@FDA does not cover. An application whose products are all discontinued, or whose licence the Purple Book lists as revoked, is not counted as marketed.
 
-Dataset: [FDA National Drug Code Directory](https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory), downloaded and compared automatically every week (Mondays). Details: [Data Sources]({{ '/sources/' | relative_url }}).
+| Item | Value |
+|---|---|
+| Medicines with a published report | {{ site.data.local_facts.drugs_total }} |
+| Medicines found in the local data | {{ site.data.local_facts.licence.drugs_with_data }} |
+| …with at least one marketed entry | {{ site.data.local_facts.licence.drugs_with_current }} |
+| …with entries but none marketed | {{ site.data.local_facts.licence.drugs_none_current }} |
+| Medicines not in the local data | {{ site.data.local_facts.licence.drugs_without_data }} |
+| Local entries (FDA applications (NDA/ANDA/BLA)) | {{ site.data.local_facts.licence.items_total }} |
+| …of which marketed | {{ site.data.local_facts.licence.items_current }} |
+| Review-log entries | {{ site.data.local_facts.reviews.records }} |
+| Drug pages with review-log entries | {{ site.data.local_facts.reviews.public_pages_with_records }} |
+| Predicted drug–disease pairs found on no other TxGNN site | {{ site.data.local_facts.cross.unique_pairs }} |
 
-Reports by evidence level:
+{% if site.data.local_facts.top_licensed.size > 0 %}Medicines with the most marketed FDA applications (NDA/ANDA/BLA): {% for r in site.data.local_facts.top_licensed %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.lv }}){% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
 
-| Evidence level | Reports | Share |
-|---|---|---|
-| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+{% if site.data.local_facts.recent_reviews.size > 0 %}Latest review-log corrections: {% for r in site.data.local_facts.recent_reviews limit: 8 %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.d }}): {{ r.s }}{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}
 
-410 predicted drug–disease pairs on this site appear on no other of the 30 TxGNN sites.
+Examples of predictions that no other TxGNN site lists for the same medicine: [Platinum]({{ '/drugs/platinum/' | relative_url }}) → urinary bladder carcinoma, [Alosetron]({{ '/drugs/alosetron/' | relative_url }}) → migraine disorder, [Ammonia N-13]({{ '/drugs/ammonia-n-13/' | relative_url }}) → non-syndromic esophageal malformation, [Amphetamine]({{ '/drugs/amphetamine/' | relative_url }}) → faciodigitogenital syndrome, [Aripiprazole Lauroxil]({{ '/drugs/aripiprazole-lauroxil/' | relative_url }}) → retinal dystrophy with or without extraocular anomalies, [Benzphetamine]({{ '/drugs/benzphetamine/' | relative_url }}) → hypervitaminosis, [Binetrakin]({{ '/drugs/binetrakin/' | relative_url }}) → craniostenosis cataract, [Black Cohosh]({{ '/drugs/black-cohosh/' | relative_url }}) → heart disease.
 
-<!-- site-data:end -->
+<!-- local-facts:end -->
 
 ## Background
 
@@ -49,87 +53,17 @@ quickly assess how credible each prediction is.
 
 ---
 
+<!-- local-condensed:start（母目錄 .claude/gen_local_pages_20261119.py；原共用段落縮寫，勿手改）-->
 ## About the Developer
 
-This platform is developed and operated by **藥提醒科技有限公司** (yao.care, company registration
-number 83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan).
-
-UsTxGNN is the United States site of the company's "TxGNN Drug Repurposing" product line.
-The same system is deployed across 30 countries and regions, each named `{CC}TxGNN`
-(JpTxGNN, UsTxGNN, DETxGNN, and so on) at `{cc}txgnn.yao.care`.
-Product overview: <https://www.yao.care/medical/txgnn/>.
-
-The TxGNN model itself was developed by the Zitnik Lab at Harvard Medical School and published
-in *Nature Medicine*. This platform is the production system 藥提醒科技有限公司 built on top of that
-model, covering national drug-registration data integration, deep-learning prediction that excludes uses already recorded in the knowledge graph, PubMed / ClinicalTrials evidence grading, and SMART on FHIR
-electronic health record integration.
+This platform is developed and operated by **藥提醒科技有限公司** (yao.care, company registration number 83620786, Taichung City, Taiwan) as one of 30 country and region sites of its TxGNN drug repurposing product line ([product overview](https://www.yao.care/medical/txgnn/)).
 
 ---
 
-## What is drug repurposing?
+## Method in brief
 
-<p class="key-answer" data-question="What is drug repurposing?">
-<strong>Drug repurposing</strong> means finding new therapeutic uses for existing medicines.
-Compared with developing a new drug from scratch — 10 to 15 years and USD 1&ndash;2 billion —
-repurposing takes 3 to 5 years and USD 100&ndash;300 million, and human safety data already exists,
-so the risk of failure is lower.
-</p>
-
-<table class="comparison-table">
-<thead>
-<tr><th>Aspect</th><th>New drug development</th><th>Drug repurposing</th></tr>
-</thead>
-<tbody>
-<tr><td>Time</td><td>10&ndash;15 years</td><td>3&ndash;5 years</td></tr>
-<tr><td>Cost</td><td>USD 1&ndash;2 billion</td><td>USD 100&ndash;300 million</td></tr>
-<tr><td>Safety data</td><td>Must be established</td><td>Human data already available</td></tr>
-<tr><td>Risk of failure</td><td>Very high (&gt;90%)</td><td>Lower</td></tr>
-</tbody>
-</table>
-
----
-
-## What is TxGNN?
-
-<p class="key-answer" data-question="What is TxGNN?">
-<a href="https://www.nature.com/articles/s41591-024-03233-x">TxGNN</a> is a deep learning model
-developed by the Zitnik Lab at Harvard Medical School and published in <em>Nature Medicine</em>.
-It predicts novel drug&ndash;disease associations and is the first foundation model for drug
-repurposing designed specifically for clinicians.
-</p>
-
-<blockquote class="expert-quote">
-"TxGNN integrates a knowledge graph covering 17,080 diseases and uses graph neural networks
-to learn complex relationships between nodes, predicting potential efficacy of drugs against
-rare diseases."
-<cite>&mdash; Huang et al., Nature Medicine (2024)</cite>
-</blockquote>
-
----
-
-## Data sources
-
-Predictions combine TxGNN, ClinicalTrials.gov, PubMed and DrugBank with United States medicine data from the
-FDA NDC Directory and Drugs@FDA.
-Datasets, download links, licences and update frequency are listed on the
-<a href="{{ '/sources/' | relative_url }}">Data Sources</a> page.
-
----
-
-## Academic basis
-
-> Huang, K., et al. (2024). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
-> [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
-
----
-
-## Scale
-
-| Item | Value |
-|------|-------|
-| Drug reports | {{ site.data.drug_stats.total_drugs }} |
-| Regulatory authority | FDA |
-| Deployed sites | 30 countries / regions |
+Predictions come from TxGNN, a graph neural network model from the Zitnik Lab at Harvard Medical School (Huang et al., *Nature Medicine* 2024, [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)); each predicted indication is graded L1–L5 against ClinicalTrials.gov and PubMed. Model, evidence levels and grading rules: [Methodology]({{ '/methodology/' | relative_url }}). Datasets, download links and licences: [Data Sources]({{ '/sources/' | relative_url }}).
+<!-- local-condensed:end -->
 
 ---
 

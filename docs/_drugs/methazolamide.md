@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 907
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "METHAZOLAMIDE"
 predicted_indications: ["congestive heart failure", "acute pulmonary heart disease"]
 description: "Methazolamide: predicted new indication Congestive heart failure (evidence level L5). Approved use: Not recorded in the local data"

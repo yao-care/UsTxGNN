@@ -6,7 +6,7 @@ title: Dulaglutide
 parent: Known Uses Only (No New Predictions)
 nav_order: 632
 monitor_inn: "Dulaglutide"
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dulaglutide: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0

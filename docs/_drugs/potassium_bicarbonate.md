@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "POTASSIUM BICARBONATE"
 predicted_indications: ["gastroduodenitis"]
 last_modified_at: 2026-11-06
-description: "Potassium Bicarbonate: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Potassium Bicarbonate: predicted new indication Gastroduodenitis (evidence level L5). In the US: no FDA-approved application; 10 OTC monograph/unapproved NDC listings"
 ---
 
 # Potassium Bicarbonate

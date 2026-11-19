@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "LEVMETAMFETAMINE"
 predicted_indications: ["nasal cavity disease"]
-description: "Levmetamfetamine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Levmetamfetamine: predicted new indication Nasal cavity disease (evidence level L5). In the US: no FDA-approved application; 7 OTC monograph/unapproved NDC listings"
 ---
 
 # Levmetamfetamine

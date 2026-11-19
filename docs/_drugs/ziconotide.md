@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "ZICONOTIDE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "obesity disorder", "transient ischemic attack (disease)", "open-angle glaucoma", "obsolete neurogenic bladder (disease)", "primary hereditary glaucoma", "preeclampsia"]
 last_modified_at: 2026-11-12
-description: "Ziconotide: predicted new indication Migraine disorder (evidence level L4). Approved use: Not recorded in the local data"
+description: "Ziconotide: predicted new indication Migraine disorder (evidence level L4). In the US: 1 FDA application (1 active)"
 ---
 
 # Ziconotide

@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "SOLRIAMFETOL"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "attention deficit hyperactivity disorder, inattentive type", "chondromyxoid fibroma", "specific developmental disorder", "variably protease-sensitive prionopathy", "multiple system atrophy", "postural orthostatic tachycardia syndrome", "disorder of peroxisomal alpha-, beta- and omega-oxidation"]
 last_modified_at: 2026-11-06
-description: "Solriamfetol: predicted new indication Attention deficit-hyperactivity disorder (evidence level L2). Approved use: Not recorded in the local data"
+description: "Solriamfetol: predicted new indication Attention deficit-hyperactivity disorder (evidence level L2). In the US: 4 FDA applications (4 active)"
 ---
 
 # Solriamfetol

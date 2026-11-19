@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "BRIVARACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
 last_modified_at: 2026-11-06
-description: "Brivaracetam: predicted new indication beta-ketothiolase deficiency (evidence level L5). Approved use: Not recorded in the local data"
+description: "Brivaracetam: predicted new indication beta-ketothiolase deficiency (evidence level L5). In the US: 23 FDA applications (21 active)"
 ---
 
 # Brivaracetam

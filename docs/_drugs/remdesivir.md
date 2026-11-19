@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "REMDESIVIR"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
 last_modified_at: 2026-11-12
-description: "Remdesivir: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not recorded in the local data"
+description: "Remdesivir: predicted new indication Multiple endocrine neoplasia (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
 # Remdesivir

@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "GARLIC"
 predicted_indications: ["gastrin secretion abnormality", "endometriosis of uterus", "cerebral infarction", "renal hypoplasia, bilateral", "multiple endocrine neoplasia", "renal hypoplasia (disease)", "gelatinous drop-like corneal dystrophy", "HIV infectious disease", "cervix endometriosis", "endometriosis of rectovaginal septum and vagina"]
 last_modified_at: 2026-11-12
-description: "Garlic: predicted new indication Gastrin secretion abnormality (evidence level L5). Approved use: Not recorded in the local data"
+description: "Garlic: predicted new indication Gastrin secretion abnormality (evidence level L5). In the US: 2 FDA applications (2 active), plus 106 OTC monograph/unapproved NDC listings"
 ---
 
 # Garlic

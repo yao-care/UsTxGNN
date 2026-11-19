@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "OCTREOTIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
 last_modified_at: 2026-11-12
-description: "Octreotide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Octreotide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). In the US: 27 FDA applications (19 active)"
 ---
 
 # Octreotide

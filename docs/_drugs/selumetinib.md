@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "SELUMETINIB"
 predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "rhabdoid tumor", "acromelanosis", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "Moynahan syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "peripheral nerve schwannoma", "microcystic/reticular schwannoma"]
 last_modified_at: 2026-11-12
-description: "Selumetinib: predicted new indication Familial generalized lentiginosis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Selumetinib: predicted new indication Familial generalized lentiginosis (evidence level L5). In the US: 2 FDA applications (2 active)"
 ---
 
 # Selumetinib

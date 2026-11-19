@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "BUMETANIDE"
 predicted_indications: ["acute pulmonary heart disease"]
 last_modified_at: 2026-11-12
-description: "Bumetanide: predicted new indication Acute pulmonary heart disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Bumetanide: predicted new indication Acute pulmonary heart disease (evidence level L5). In the US: 26 FDA applications (22 active)"
 ---
 
 # Bumetanide

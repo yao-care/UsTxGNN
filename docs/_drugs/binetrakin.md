@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "BINETRAKIN"
 predicted_indications: ["craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "tetanic cataract", "nuclear senile cataract", "cortical cataract", "diabetic cataract", "senile cataract"]
 last_modified_at: 2026-11-06
-description: "Binetrakin: predicted new indication craniostenosis cataract (evidence level L5). Approved use: Not recorded in the local data"
+description: "Binetrakin: predicted new indication craniostenosis cataract (evidence level L5). In the US: no FDA-approved application; 3 OTC monograph/unapproved NDC listings"
 ---
 
 # Binetrakin

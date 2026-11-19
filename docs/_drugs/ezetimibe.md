@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "EZETIMIBE"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-description: "Ezetimibe: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Not recorded in the local data"
+description: "Ezetimibe: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). In the US: 31 FDA applications (18 active)"
 ---
 
 # Ezetimibe

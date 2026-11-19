@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "TAFENOQUINE"
 predicted_indications: ["Smouldering systemic mastocytosis"]
 last_modified_at: 2026-11-12
-description: "Tafenoquine: predicted new indication Smouldering systemic mastocytosis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Tafenoquine: predicted new indication Smouldering systemic mastocytosis (evidence level L5). In the US: 2 FDA applications (2 active), plus 1 OTC monograph/unapproved NDC listing"
 ---
 
 # Tafenoquine

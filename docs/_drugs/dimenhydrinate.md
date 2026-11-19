@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "DIMENHYDRINATE"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
 last_modified_at: 2026-11-12
-description: "Dimenhydrinate: predicted new indication Allergic urticaria (evidence level L5). Approved use: Not recorded in the local data"
+description: "Dimenhydrinate: predicted new indication Allergic urticaria (evidence level L5). In the US: 9 FDA applications (1 active), plus 33 OTC monograph/unapproved NDC listings"
 ---
 
 # Dimenhydrinate

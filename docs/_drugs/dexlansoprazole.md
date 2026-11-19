@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-12
 monitor_inn: "DEXLANSOPRAZOLE"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
-description: "Dexlansoprazole: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Dexlansoprazole: predicted new indication Gastroduodenitis (evidence level L5). In the US: 6 FDA applications (5 active)"
 ---
 
 # Dexlansoprazole

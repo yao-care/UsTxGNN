@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "NATAMYCIN"
 predicted_indications: ["vulvitis", "trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "tinea nigra"]
 last_modified_at: 2026-11-12
-description: "Natamycin: predicted new indication Vulvitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Natamycin: predicted new indication Vulvitis (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
 # Natamycin

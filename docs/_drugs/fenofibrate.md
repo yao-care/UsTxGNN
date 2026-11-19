@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "FENOFIBRATE"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
 last_modified_at: 2026-11-06
-description: "Fenofibrate: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Not recorded in the local data"
+description: "Fenofibrate: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). In the US: 56 FDA applications (39 active)"
 ---
 
 # Fenofibrate

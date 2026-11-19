@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "NAPHAZOLINE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "primary hereditary glaucoma", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "open-angle glaucoma", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 last_modified_at: 2026-11-06
-description: "Naphazoline: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
+description: "Naphazoline: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). In the US: 13 FDA applications (5 active), plus 53 OTC monograph/unapproved NDC listings"
 ---
 
 # Naphazoline

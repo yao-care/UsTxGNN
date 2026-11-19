@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-12
 monitor_inn: "METHSUXIMIDE"
 predicted_indications: ["insomnia (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "sleep disorder, initiating and maintaining sleep", "nephrogenic diabetes insipidus", "restless legs syndrome", "trichotillomania", "Wernicke-Korsakoff syndrome"]
-description: "Methsuximide: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
+description: "Methsuximide: predicted new indication Insomnia (disease) (evidence level L5). In the US: 2 FDA applications (2 active)"
 ---
 
 # Methsuximide

@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "PHENOXYBENZAMINE"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma"]
 last_modified_at: 2026-11-12
-description: "Phenoxybenzamine: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Not recorded in the local data"
+description: "Phenoxybenzamine: predicted new indication Primary hereditary glaucoma (evidence level L5). In the US: 7 FDA applications (5 active)"
 ---
 
 # Phenoxybenzamine

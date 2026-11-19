@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "DEXRAZOXANE"
 predicted_indications: ["sclerosing cholangitis", "bronchitis", "paratyphoid fever", "conjunctivitis", "epiglottitis", "peritonitis", "laryngitis", "urinary tract infection (disease)", "pyelonephritis", "cystitis"]
 last_modified_at: 2026-11-12
-description: "Dexrazoxane: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Dexrazoxane: predicted new indication Sclerosing cholangitis (evidence level L5). In the US: 6 FDA applications (4 active)"
 ---
 
 # Dexrazoxane

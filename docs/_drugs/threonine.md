@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "THREONINE"
 predicted_indications: ["gastroparesis (disease)"]
 last_modified_at: 2026-11-12
-description: "Threonine: predicted new indication Gastroparesis (disease) (evidence level L5). Approved use: Not recorded in the local data"
+description: "Threonine: predicted new indication Gastroparesis (disease) (evidence level L5). In the US: no FDA-approved application; 4 OTC monograph/unapproved NDC listings"
 ---
 
 # Threonine

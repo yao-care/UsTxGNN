@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "DYCLONINE"
 predicted_indications: ["bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "gastroduodenitis", "peptic ulcer disease", "irritable bowel syndrome"]
-description: "Dyclonine: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Dyclonine: predicted new indication Bronchitis (evidence level L5). In the US: 2 FDA applications (1 active), plus 25 OTC monograph/unapproved NDC listings"
 ---
 
 # Dyclonine

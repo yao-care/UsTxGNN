@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "ETELCALCETIDE"
 predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices with bleeding", "esophageal varices without bleeding", "varicose disease"]
 last_modified_at: 2026-11-12
-description: "Etelcalcetide: predicted new indication Hyperphosphatemia (disease) (evidence level L4). Approved use: Not recorded in the local data"
+description: "Etelcalcetide: predicted new indication Hyperphosphatemia (disease) (evidence level L4). In the US: 1 FDA application (1 active)"
 ---
 
 # Etelcalcetide

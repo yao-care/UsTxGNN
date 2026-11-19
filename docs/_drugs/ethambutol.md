@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "ETHAMBUTOL"
 predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]
 last_modified_at: 2026-11-12
-description: "Ethambutol: predicted new indication Epiglottitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Ethambutol: predicted new indication Epiglottitis (evidence level L5). In the US: 4 FDA applications (3 active)"
 ---
 
 # Ethambutol

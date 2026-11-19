@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-12
 monitor_inn: "VILOXAZINE"
 predicted_indications: ["faciodigitogenital syndrome", "insomnia (disease)", "Creutzfeldt-Jakob disease", "hypersomnia (disease)", "circadian rhythm sleep disorder", "chondromyxoid fibroma", "X-linked adrenoleukodystrophy"]
-description: "Viloxazine: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Viloxazine: predicted new indication Faciodigitogenital syndrome (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
 # Viloxazine

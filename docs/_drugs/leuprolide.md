@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "LEUPROLIDE"
 predicted_indications: ["osteoarthritis", "pseudoachondroplasia"]
 last_modified_at: 2026-11-12
-description: "Leuprolide: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Leuprolide: predicted new indication Osteoarthritis (evidence level L5). In the US: 28 FDA applications (22 active)"
 ---
 
 # Leuprolide

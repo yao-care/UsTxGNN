@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "PRILOCAINE"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
 last_modified_at: 2026-11-12
-description: "Prilocaine: predicted new indication Papillary conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Prilocaine: predicted new indication Papillary conjunctivitis (evidence level L5). In the US: 16 FDA applications (9 active), plus 3 OTC monograph/unapproved NDC listings"
 ---
 
 # Prilocaine

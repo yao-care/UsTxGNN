@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "LANREOTIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita"]
 last_modified_at: 2026-11-12
-description: "Lanreotide: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
+description: "Lanreotide: predicted new indication Hypertrichosis (disease) (evidence level L5). In the US: 4 FDA applications (2 active)"
 ---
 
 # Lanreotide

@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "ALTEPLASE"
 predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
 last_modified_at: 2026-11-06
-description: "Alteplase: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Not recorded in the local data"
+description: "Alteplase: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
 # Alteplase

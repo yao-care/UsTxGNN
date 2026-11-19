@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "CYSTEINE"
 predicted_indications: ["dry eye syndrome", "closed-angle glaucoma", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis", "exercise-induced malignant hyperthermia", "angle-closure glaucoma"]
 last_modified_at: 2026-11-12
-description: "Cysteine: predicted new indication Dry eye syndrome (evidence level L4). Approved use: Not recorded in the local data"
+description: "Cysteine: predicted new indication Dry eye syndrome (evidence level L4). In the US: 4 FDA applications (2 active), plus 32 OTC monograph/unapproved NDC listings"
 ---
 
 # Cysteine

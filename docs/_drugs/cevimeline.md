@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "CEVIMELINE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 last_modified_at: 2026-11-12
-description: "Cevimeline: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
+description: "Cevimeline: predicted new indication Hypertrichosis (disease) (evidence level L5). In the US: 11 FDA applications (10 active)"
 ---
 
 # Cevimeline

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "LIOTHYRONINE"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "myxoma", "angiomyxoma", "hypotrichosis simplex of the scalp"]
-description: "Liothyronine: predicted new indication Renal hypodysplasia/aplasia (evidence level L5). Approved use: Not recorded in the local data"
+description: "Liothyronine: predicted new indication Renal hypodysplasia/aplasia (evidence level L5). In the US: 12 FDA applications (8 active), plus 53 OTC monograph/unapproved NDC listings"
 ---
 
 # Liothyronine

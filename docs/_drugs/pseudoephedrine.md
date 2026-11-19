@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "PSEUDOEPHEDRINE"
 predicted_indications: ["nasal cavity disease", "allergic urticaria"]
-description: "Pseudoephedrine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Pseudoephedrine: predicted new indication Nasal cavity disease (evidence level L5). In the US: 129 FDA applications (57 active), plus 83 OTC monograph/unapproved NDC listings"
 ---
 
 # Pseudoephedrine

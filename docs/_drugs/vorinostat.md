@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-06
 monitor_inn: "VORINOSTAT"
 predicted_indications: ["primary cutaneous B-cell lymphoma"]
-description: "Vorinostat: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L5). Approved use: Not recorded in the local data"
+description: "Vorinostat: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
 # Vorinostat

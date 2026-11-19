@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "DESIPRAMINE"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "attention deficit-hyperactivity disorder", "specific developmental disorder", "chondromyxoid fibroma", "faciodigitogenital syndrome", "benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder"]
-description: "Desipramine: predicted new indication Attention deficit hyperactivity disorder, inattentive type (evidence level L5). Approved use: Not recorded in the local data"
+description: "Desipramine: predicted new indication Attention deficit hyperactivity disorder, inattentive type (evidence level L5). In the US: 18 FDA applications (8 active)"
 ---
 
 # Desipramine

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "RIBAVIRIN"
 predicted_indications: ["chronic hepatitis B virus infection", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "hepatoportal sclerosis", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related aortitis", "IgG4-related mesenteritis"]
-description: "Ribavirin: predicted new indication Chronic hepatitis B virus infection (evidence level L1). Approved use: Not recorded in the local data"
+description: "Ribavirin: predicted new indication Chronic hepatitis B virus infection (evidence level L1). In the US: 16 FDA applications (5 active), plus 8 OTC monograph/unapproved NDC listings"
 ---
 
 # Ribavirin

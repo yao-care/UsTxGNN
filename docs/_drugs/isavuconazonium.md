@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "ISAVUCONAZONIUM"
 predicted_indications: ["pneumocystosis", "mycetoma"]
 last_modified_at: 2026-11-12
-description: "Isavuconazonium: predicted new indication Pneumocystosis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Isavuconazonium: predicted new indication Pneumocystosis (evidence level L5). In the US: 2 FDA applications (2 active)"
 ---
 
 # Isavuconazonium

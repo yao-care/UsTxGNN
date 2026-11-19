@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-06
 monitor_inn: "TALIMOGENE LAHERPAREPVEC"
 predicted_indications: ["glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma"]
-description: "Talimogene Laherparepvec: predicted new indication Glottis squamous cell carcinoma (evidence level L5). Approved use: Not recorded in the local data"
+description: "Talimogene Laherparepvec: predicted new indication Glottis squamous cell carcinoma (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
 # Talimogene Laherparepvec

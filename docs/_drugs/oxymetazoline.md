@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "OXYMETAZOLINE"
 predicted_indications: ["nasal cavity disease", "headache disorder"]
-description: "Oxymetazoline: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Oxymetazoline: predicted new indication Nasal cavity disease (evidence level L5). In the US: 6 FDA applications (5 active), plus 213 OTC monograph/unapproved NDC listings"
 ---
 
 # Oxymetazoline

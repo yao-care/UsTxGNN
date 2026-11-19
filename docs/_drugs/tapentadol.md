@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "TAPENTADOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 last_modified_at: 2026-11-12
-description: "Tapentadol: predicted new indication Migraine disorder (evidence level L5). Approved use: Not recorded in the local data"
+description: "Tapentadol: predicted new indication Migraine disorder (evidence level L5). In the US: 7 FDA applications (5 active)"
 ---
 
 # Tapentadol

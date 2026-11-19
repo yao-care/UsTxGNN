@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "COLLAGENASE CLOSTRIDIUM HISTOLYTICUM"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "Ledderhose disease", "infantile digital fibromatosis", "hemorrhagic disorder due to a constitutional thrombocytopenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "posterior leukoencephalopathy syndrome"]
 last_modified_at: 2026-11-12
-description: "Collagenase Clostridium Histolyticum: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
+description: "Collagenase Clostridium Histolyticum: predicted new indication Primary release disorder of platelets (evidence level L5). In the US: 2 FDA applications (2 active), plus 1 OTC monograph/unapproved NDC listing"
 ---
 
 # Collagenase Clostridium Histolyticum

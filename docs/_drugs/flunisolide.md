@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "FLUNISOLIDE"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "2-hydroxyethyl methacrylate sensitization", "polyp of vocal cord", "polyp of middle ear", "fibroepithelial polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
-description: "Flunisolide: predicted new indication Atopic eczema (evidence level L5). Approved use: Not recorded in the local data"
+description: "Flunisolide: predicted new indication Atopic eczema (evidence level L5). In the US: 8 FDA applications (3 active)"
 ---
 
 # Flunisolide

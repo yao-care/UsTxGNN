@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-12
 monitor_inn: "DEXBROMPHENIRAMINE"
 predicted_indications: ["recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis"]
-description: "Dexbrompheniramine: predicted new indication Recalcitrant atopic dermatitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Dexbrompheniramine: predicted new indication Recalcitrant atopic dermatitis (evidence level L5). In the US: 8 FDA applications (0 active), plus 22 OTC monograph/unapproved NDC listings"
 ---
 
 # Dexbrompheniramine

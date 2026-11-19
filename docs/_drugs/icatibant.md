@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "ICATIBANT"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
 last_modified_at: 2026-11-12
-description: "Icatibant: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). Approved use: Not recorded in the local data"
+description: "Icatibant: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). In the US: 11 FDA applications (9 active)"
 ---
 
 # Icatibant

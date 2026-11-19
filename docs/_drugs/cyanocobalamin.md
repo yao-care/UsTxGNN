@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "CYANOCOBALAMIN"
 predicted_indications: ["biotin metabolic disease"]
 last_modified_at: 2026-11-12
-description: "Cyanocobalamin: predicted new indication Biotin metabolic disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Cyanocobalamin: predicted new indication Biotin metabolic disease (evidence level L5). In the US: 62 FDA applications (23 active), plus 106 OTC monograph/unapproved NDC listings"
 ---
 
 # Cyanocobalamin

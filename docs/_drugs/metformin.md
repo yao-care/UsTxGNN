@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "METFORMIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
 last_modified_at: 2026-11-12
-description: "Metformin: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Metformin: predicted new indication Classic stiff person syndrome (evidence level L5). In the US: 174 FDA applications (102 active)"
 ---
 
 # Metformin

@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "AMMONIA"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial"]
 last_modified_at: 2026-11-06
-description: "Ammonia: predicted new indication acrodermatitis chronica atrophicans (evidence level L5). Approved use: Not recorded in the local data"
+description: "Ammonia: predicted new indication acrodermatitis chronica atrophicans (evidence level L5). In the US: no FDA-approved application; 33 OTC monograph/unapproved NDC listings"
 ---
 
 # Ammonia

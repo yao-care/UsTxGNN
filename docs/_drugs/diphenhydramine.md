@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "DIPHENHYDRAMINE"
 predicted_indications: ["rosacea conjunctivitis"]
-description: "Diphenhydramine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Diphenhydramine: predicted new indication Rosacea conjunctivitis (evidence level L5). In the US: 109 FDA applications (23 active), plus 989 OTC monograph/unapproved NDC listings"
 ---
 
 # Diphenhydramine

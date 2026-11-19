@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-06
 monitor_inn: "ESOMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
-description: "Esomeprazole: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
+description: "Esomeprazole: predicted new indication Duodenal obstruction (evidence level L5). In the US: 71 FDA applications (50 active)"
 ---
 
 # Esomeprazole

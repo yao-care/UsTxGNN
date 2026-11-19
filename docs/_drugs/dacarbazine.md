@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "DACARBAZINE"
 predicted_indications: ["upper aerodigestive tract neoplasm"]
 last_modified_at: 2026-11-12
-description: "Dacarbazine: predicted new indication Upper aerodigestive tract neoplasm (evidence level L5). Approved use: Not recorded in the local data"
+description: "Dacarbazine: predicted new indication Upper aerodigestive tract neoplasm (evidence level L5). In the US: 10 FDA applications (3 active)"
 ---
 
 # Dacarbazine

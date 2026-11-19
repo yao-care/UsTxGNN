@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "ETHOSUXIMIDE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 last_modified_at: 2026-11-12
-description: "Ethosuximide: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Ethosuximide: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). In the US: 10 FDA applications (8 active)"
 ---
 
 # Ethosuximide

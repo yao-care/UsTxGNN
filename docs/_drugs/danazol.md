@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "DANAZOL"
 predicted_indications: ["amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
 last_modified_at: 2026-11-06
-description: "Danazol: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Not recorded in the local data"
+description: "Danazol: predicted new indication Amenorrhea (disease) (evidence level L5). In the US: 5 FDA applications (3 active)"
 ---
 
 # Danazol

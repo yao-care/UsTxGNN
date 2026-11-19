@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "NAPROXEN"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
 last_modified_at: 2026-11-12
-description: "Naproxen: predicted new indication Brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Naproxen: predicted new indication Brachydactyly-syndactyly syndrome (evidence level L5). In the US: 106 FDA applications (58 active)"
 ---
 
 # Naproxen

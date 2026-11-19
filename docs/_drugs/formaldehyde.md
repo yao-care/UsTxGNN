@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "FORMALDEHYDE"
 predicted_indications: ["leishmaniasis, diffuse cutaneous", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency", "mucocutaneous leishmaniasis", "pyelonephritis", "streptococcal pneumonia", "X-linked lymphoproliferative syndrome", "trigonitis", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection", "Plasmodium falciparum malaria"]
 last_modified_at: 2026-11-12
-description: "Formaldehyde: predicted new indication Leishmaniasis, diffuse cutaneous (evidence level L5). Approved use: Not recorded in the local data"
+description: "Formaldehyde: predicted new indication Leishmaniasis, diffuse cutaneous (evidence level L5). In the US: no FDA-approved application; 16 OTC monograph/unapproved NDC listings"
 ---
 
 # Formaldehyde

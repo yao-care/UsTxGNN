@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "HALCINONIDE"
 predicted_indications: ["annular atrophic lichen planus", "lichen planus pigmentosus", "hypertrophic lichen planus", "vulvar inverted follicular keratosis", "lichen planus pemphigoides", "alopecia areata", "telogen effluvium", "alopecia mucinosa", "hereditary hypotrichosis with recurrent skin vesicles", "Quinquaud's folliculitis decalvans"]
 last_modified_at: 2026-11-12
-description: "Halcinonide: predicted new indication Annular atrophic lichen planus (evidence level L5). Approved use: Not recorded in the local data"
+description: "Halcinonide: predicted new indication Annular atrophic lichen planus (evidence level L5). In the US: 9 FDA applications (5 active)"
 ---
 
 # Halcinonide

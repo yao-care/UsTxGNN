@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "PALIFERMIN"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "Scott syndrome"]
 last_modified_at: 2026-11-12
-description: "Palifermin: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
+description: "Palifermin: predicted new indication Primary release disorder of platelets (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
 # Palifermin

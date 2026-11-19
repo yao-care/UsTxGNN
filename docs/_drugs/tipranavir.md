@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "TIPRANAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
-description: "Tipranavir: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: Not recorded in the local data"
+description: "Tipranavir: predicted new indication Simian immunodeficiency virus infection (evidence level L5). In the US: 3 FDA applications (2 active)"
 ---
 
 # Tipranavir

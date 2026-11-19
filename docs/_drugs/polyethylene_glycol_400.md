@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "POLYETHYLENE GLYCOL 400"
 predicted_indications: ["bronchitis", "congenital ichthyosiform erythroderma"]
 last_modified_at: 2026-11-12
-description: "Polyethylene Glycol 400: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Polyethylene Glycol 400: predicted new indication Bronchitis (evidence level L5). In the US: no FDA-approved application; 123 OTC monograph/unapproved NDC listings"
 ---
 
 # Polyethylene Glycol 400

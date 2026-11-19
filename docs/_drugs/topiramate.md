@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "TOPIRAMATE"
 predicted_indications: ["trigeminal nerve neoplasm"]
-description: "Topiramate: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Not recorded in the local data"
+description: "Topiramate: predicted new indication Trigeminal nerve neoplasm (evidence level L5). In the US: 61 FDA applications (41 active)"
 ---
 
 # Topiramate

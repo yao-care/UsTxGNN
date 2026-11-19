@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "RESLIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets"]
 last_modified_at: 2026-11-12
-description: "Reslizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Not recorded in the local data"
+description: "Reslizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
 # Reslizumab

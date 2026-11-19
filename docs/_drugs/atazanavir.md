@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "ATAZANAVIR"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 last_modified_at: 2026-11-06
-description: "Atazanavir: predicted new indication feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Atazanavir: predicted new indication feline acquired immunodeficiency syndrome (evidence level L5). In the US: 11 FDA applications (7 active)"
 ---
 
 # Atazanavir

@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "MODAFINIL"
 predicted_indications: ["insomnia (disease)"]
 last_modified_at: 2026-11-12
-description: "Modafinil: predicted new indication 失眠 (insomnia (disease)) (evidence level L5). Approved use: Not recorded in the local data"
+description: "Modafinil: predicted new indication 失眠 (insomnia (disease)) (evidence level L5). In the US: 11 FDA applications (8 active)"
 ---
 
 # Modafinil

@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "DEFERIPRONE"
 predicted_indications: ["hepatic porphyria", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
-description: "Deferiprone: predicted new indication Hepatic porphyria (evidence level L4). Approved use: Not recorded in the local data"
+description: "Deferiprone: predicted new indication Hepatic porphyria (evidence level L4). In the US: 6 FDA applications (6 active)"
 ---
 
 # Deferiprone

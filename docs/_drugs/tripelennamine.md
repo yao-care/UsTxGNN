@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-06
 monitor_inn: "TRIPELENNAMINE"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis"]
-description: "Tripelennamine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Tripelennamine: predicted new indication Nasal cavity disease (evidence level L5). In the US: 14 FDA applications (0 active), plus 3 OTC monograph/unapproved NDC listings"
 ---
 
 # Tripelennamine

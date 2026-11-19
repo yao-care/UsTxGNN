@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "COLCHICINE"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
 last_modified_at: 2026-11-06
-description: "Colchicine: predicted new indication Plasmodium falciparum malaria (evidence level L5). Approved use: Not recorded in the local data"
+description: "Colchicine: predicted new indication Plasmodium falciparum malaria (evidence level L5). In the US: 34 FDA applications (25 active)"
 ---
 
 # Colchicine

@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Rutin"
 predicted_indications: ["breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia", "vulvovaginal candidiasis", "fat necrosis of breast", "breast abscess", "vaginitis (disease)"]
 last_modified_at: 2026-11-12
-description: "Rutin: predicted new indication Breast fibrocystic disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Rutin: predicted new indication Breast fibrocystic disease (evidence level L5). In the US: no FDA-approved application; 16 OTC monograph/unapproved NDC listings"
 ---
 
 # Rutin

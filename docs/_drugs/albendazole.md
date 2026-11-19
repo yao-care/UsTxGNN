@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "ALBENDAZOLE"
 predicted_indications: ["coenurosis"]
 last_modified_at: 2026-11-12
-description: "Albendazole: predicted new indication Coenurosis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Albendazole: predicted new indication Coenurosis (evidence level L5). In the US: 10 FDA applications (6 active)"
 ---
 
 # Albendazole

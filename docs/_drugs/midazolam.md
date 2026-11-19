@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
 last_modified_at: 2026-11-12
-description: "Midazolam: predicted new indication Insomnia (disease) (evidence level L3). Approved use: Not recorded in the local data"
+description: "Midazolam: predicted new indication Insomnia (disease) (evidence level L3). In the US: 46 FDA applications (23 active)"
 ---
 
 # Midazolam

@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "ANAKINRA"
 predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "aggressive systemic mastocytosis", "hepatic veno-occlusive disease", "peliosis hepatis", "oligoarticular juvenile idiopathic arthritis without anti-nuclear antibodies", "oligoarticular juvenile idiopathic arthritis with anti-nuclear antibodies", "pyogenic autoinflammatory syndrome", "unclassified autoinflammatory syndrome"]
 last_modified_at: 2026-11-12
-description: "Anakinra: predicted new indication extracutaneous mastocytoma (evidence level L5). Approved use: Not recorded in the local data"
+description: "Anakinra: predicted new indication extracutaneous mastocytoma (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
 # Anakinra

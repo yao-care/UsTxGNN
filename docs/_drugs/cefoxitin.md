@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "CEFOXITIN"
 predicted_indications: ["infectious otitis media", "chronic otitis media", "suppurative otitis media", "middle ear disease", "Ureaplasma urethritis", "toxocariasis", "otosalpingitis", "non-suppurative otitis media"]
-description: "Cefoxitin: predicted new indication Infectious otitis media (evidence level L5). Approved use: Not recorded in the local data"
+description: "Cefoxitin: predicted new indication Infectious otitis media (evidence level L5). In the US: 18 FDA applications (8 active)"
 ---
 
 # Cefoxitin

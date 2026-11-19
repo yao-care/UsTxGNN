@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "TURPENTINE"
 predicted_indications: ["multiple endocrine neoplasia"]
 last_modified_at: 2026-11-12
-description: "Turpentine: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not recorded in the local data"
+description: "Turpentine: predicted new indication Multiple endocrine neoplasia (evidence level L5). In the US: no FDA-approved application; 4 OTC monograph/unapproved NDC listings"
 ---
 
 # Turpentine

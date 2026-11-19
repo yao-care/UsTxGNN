@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "BEMPEDOIC ACID"
 predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "infectious bovine rhinotracheitis", "malignant catarrh", "cytomegalovirus infection", "hyperthyroxinemia", "drug-induced osteoporosis", "multiple endocrine neoplasia", "pregnancy associated osteoporosis"]
 last_modified_at: 2026-11-12
-description: "Bempedoic Acid: predicted new indication hyperthyroidism (evidence level L5). Approved use: Not recorded in the local data"
+description: "Bempedoic Acid: predicted new indication hyperthyroidism (evidence level L5). In the US: 2 FDA applications (2 active)"
 ---
 
 # Bempedoic Acid

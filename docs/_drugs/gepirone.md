@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "GEPIRONE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
-description: "Gepirone: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Not recorded in the local data"
+description: "Gepirone: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
 # Gepirone

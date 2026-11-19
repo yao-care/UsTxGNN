@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "CAMPHOR"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
 last_modified_at: 2026-11-06
-description: "Camphor: predicted new indication migraine disorder (evidence level L5). Approved use: Not recorded in the local data"
+description: "Camphor: predicted new indication migraine disorder (evidence level L5). In the US: no FDA-approved application; 726 OTC monograph/unapproved NDC listings"
 ---
 
 # Camphor

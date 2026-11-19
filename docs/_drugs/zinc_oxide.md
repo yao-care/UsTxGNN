@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-06
 monitor_inn: "ZINC OXIDE"
 predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
-description: "Zinc Oxide: predicted new indication Acne (disease) (evidence level L4). Approved use: Not recorded in the local data"
+description: "Zinc Oxide: predicted new indication Acne (disease) (evidence level L4). In the US: 1 FDA application (1 active), plus 4574 OTC monograph/unapproved NDC listings"
 ---
 
 # Zinc Oxide

@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "NIZATIDINE"
 predicted_indications: ["duodenal obstruction", "gastroduodenitis", "multiple endocrine neoplasia"]
 last_modified_at: 2026-11-06
-description: "Nizatidine: predicted new indication duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
+description: "Nizatidine: predicted new indication duodenal obstruction (evidence level L5). In the US: 13 FDA applications (4 active)"
 ---
 
 # Nizatidine

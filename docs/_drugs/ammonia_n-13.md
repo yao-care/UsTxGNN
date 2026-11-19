@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "AMMONIA N-13"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease"]
 last_modified_at: 2026-11-12
-description: "Ammonia N-13: predicted new indication non-syndromic esophageal malformation (evidence level L5). Approved use: Not recorded in the local data"
+description: "Ammonia N-13: predicted new indication non-syndromic esophageal malformation (evidence level L5). In the US: 31 FDA applications (24 active)"
 ---
 
 # Ammonia N-13

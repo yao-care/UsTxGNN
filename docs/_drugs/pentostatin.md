@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "PENTOSTATIN"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "liver sarcoma"]
 last_modified_at: 2026-11-12
-description: "Pentostatin: predicted new indication Botryoid-type embryonal rhabdomyosarcoma of the vagina (evidence level L5). Approved use: Not recorded in the local data"
+description: "Pentostatin: predicted new indication Botryoid-type embryonal rhabdomyosarcoma of the vagina (evidence level L5). In the US: 3 FDA applications (2 active)"
 ---
 
 # Pentostatin

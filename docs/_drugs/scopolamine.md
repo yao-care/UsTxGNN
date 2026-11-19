@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "SCOPOLAMINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "papillary conjunctivitis", "atopic conjunctivitis", "rosacea conjunctivitis", "vernal conjunctivitis"]
 last_modified_at: 2026-11-12
-description: "Scopolamine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Scopolamine: predicted new indication Cauda equina syndrome (evidence level L5). In the US: 8 FDA applications (8 active), plus 12 OTC monograph/unapproved NDC listings"
 ---
 
 # Scopolamine

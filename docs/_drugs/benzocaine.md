@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "BENZOCAINE"
 predicted_indications: ["papillary conjunctivitis"]
 last_modified_at: 2026-11-06
-description: "Benzocaine: predicted new indication papillary conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Benzocaine: predicted new indication papillary conjunctivitis (evidence level L5). In the US: no FDA-approved application; 590 OTC monograph/unapproved NDC listings"
 ---
 
 # Benzocaine

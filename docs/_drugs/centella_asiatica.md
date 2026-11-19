@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "CENTELLA ASIATICA"
 predicted_indications: ["insomnia (disease)", "anxiety", "sleep disorder, initiating and maintaining sleep"]
 last_modified_at: 2026-11-06
-description: "Centella Asiatica: predicted new indication insomnia (disease) (evidence level L4). Approved use: Not recorded in the local data"
+description: "Centella Asiatica: predicted new indication insomnia (disease) (evidence level L4). In the US: no FDA-approved application; 36 OTC monograph/unapproved NDC listings"
 ---
 
 # Centella Asiatica

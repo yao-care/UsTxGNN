@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "ESLICARBAZEPINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 last_modified_at: 2026-11-12
-description: "Eslicarbazepine: predicted new indication Migraine disorder (evidence level L2). Approved use: Not recorded in the local data"
+description: "Eslicarbazepine: predicted new indication Migraine disorder (evidence level L2). In the US: 10 FDA applications (10 active)"
 ---
 
 # Eslicarbazepine

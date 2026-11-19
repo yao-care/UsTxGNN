@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "DICYCLOMINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
 last_modified_at: 2026-11-12
-description: "Dicyclomine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Dicyclomine: predicted new indication Cauda equina syndrome (evidence level L5). In the US: 46 FDA applications (31 active)"
 ---
 
 # Dicyclomine

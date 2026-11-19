@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "VOXELOTOR"
 predicted_indications: ["hereditary thrombocytopenia with normal platelets", "marcothrombocytopenia with mitral valve insufficiency", "dense granule disease", "transient neonatal thrombocytopenia", "thrombocytopenia", "acquired monoclonal Ig light chain-associated Fanconi syndrome", "primary release disorder of platelets"]
 last_modified_at: 2026-11-12
-description: "Voxelotor: predicted new indication Hereditary thrombocytopenia with normal platelets (evidence level L5). Approved use: Not recorded in the local data"
+description: "Voxelotor: predicted new indication Hereditary thrombocytopenia with normal platelets (evidence level L5). In the US: 2 FDA applications (0 active)"
 ---
 
 # Voxelotor

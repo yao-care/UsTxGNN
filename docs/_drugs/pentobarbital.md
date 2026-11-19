@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "PENTOBARBITAL"
 predicted_indications: ["obesity disorder", "manic bipolar affective disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "major affective disorder", "frontorhiny", "monogenic obesity", "trichotillomania"]
-description: "Pentobarbital: predicted new indication Obesity disorder (evidence level L5). Approved use: Not recorded in the local data"
+description: "Pentobarbital: predicted new indication Obesity disorder (evidence level L5). In the US: 28 FDA applications (4 active)"
 ---
 
 # Pentobarbital

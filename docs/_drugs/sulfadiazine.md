@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "SULFADIAZINE"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis"]
 last_modified_at: 2026-11-12
-description: "Sulfadiazine: predicted new indication Pneumocystosis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Sulfadiazine: predicted new indication Pneumocystosis (evidence level L5). In the US: 8 FDA applications (1 active)"
 ---
 
 # Sulfadiazine

@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "ALUMINUM OXIDE"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "heparin cofactor 2 deficiency", "hemoglobinopathy", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombotic disease", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency"]
 last_modified_at: 2026-11-06
-description: "Aluminum Oxide: predicted new indication rheumatoid arthritis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Aluminum Oxide: predicted new indication rheumatoid arthritis (evidence level L5). In the US: no FDA-approved application; 86 OTC monograph/unapproved NDC listings"
 ---
 
 # Aluminum Oxide

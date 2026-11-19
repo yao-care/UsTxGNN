@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-12
 monitor_inn: "SERTRALINE"
 predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
-description: "Sertraline: predicted new indication Paranoid personality disorder (evidence level L5). Approved use: Not recorded in the local data"
+description: "Sertraline: predicted new indication Paranoid personality disorder (evidence level L5). In the US: 39 FDA applications (24 active)"
 ---
 
 # Sertraline

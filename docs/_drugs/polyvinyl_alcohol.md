@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "POLYVINYL ALCOHOL"
 predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis", "bathing suit ichthyosis"]
 last_modified_at: 2026-11-12
-description: "Polyvinyl Alcohol: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Not recorded in the local data"
+description: "Polyvinyl Alcohol: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). In the US: no FDA-approved application; 10 OTC monograph/unapproved NDC listings"
 ---
 
 # Polyvinyl Alcohol

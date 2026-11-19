@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "TERCONAZOLE"
 predicted_indications: ["trichomonal vulvovaginitis", "vulvitis", "postmenopausal atrophic vaginitis", "herpetic vulvovaginitis", "ulceration of vulva", "vulvar neoplasm", "vaginal discharge", "bacterial vaginosis"]
-description: "Terconazole: predicted new indication Trichomonal vulvovaginitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Terconazole: predicted new indication Trichomonal vulvovaginitis (evidence level L5). In the US: 10 FDA applications (6 active)"
 ---
 
 # Terconazole

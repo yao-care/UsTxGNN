@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "SEROTONIN"
 predicted_indications: ["insomnia (disease)", "anxiety disorder", "migraine disorder", "anxiety", "agoraphobia", "migraine with brainstem aura", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "atrophoderma vermiculata"]
 last_modified_at: 2026-11-12
-description: "Serotonin: predicted new indication Insomnia (disease) (evidence level L4). Approved use: Not recorded in the local data"
+description: "Serotonin: predicted new indication Insomnia (disease) (evidence level L4). In the US: no FDA-approved application; 62 OTC monograph/unapproved NDC listings"
 ---
 
 # Serotonin

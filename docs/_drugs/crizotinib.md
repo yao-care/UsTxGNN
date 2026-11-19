@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "CRIZOTINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
 last_modified_at: 2026-11-06
-description: "Crizotinib: predicted new indication fibromatosis, gingival (evidence level L5). Approved use: Not recorded in the local data"
+description: "Crizotinib: predicted new indication fibromatosis, gingival (evidence level L5). In the US: 2 FDA applications (2 active)"
 ---
 
 # Crizotinib

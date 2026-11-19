@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "CEFUROXIME"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
 last_modified_at: 2026-11-12
-description: "Cefuroxime: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Cefuroxime: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). In the US: 33 FDA applications (6 active)"
 ---
 
 # Cefuroxime

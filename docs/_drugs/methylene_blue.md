@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "METHYLENE BLUE"
 predicted_indications: ["bronchitis"]
-description: "Methylene Blue: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Methylene Blue: predicted new indication Bronchitis (evidence level L5). In the US: 8 FDA applications (8 active), plus 15 OTC monograph/unapproved NDC listings"
 ---
 
 # Methylene Blue

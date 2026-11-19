@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "PEPPERMINT OIL"
 predicted_indications: ["leprosy", "pneumocystosis", "coronary artery disease", "myocardial ischemia", "echinococcus granulosus infectious disease", "polyp of vocal cord", "uterine polyp", "polyp of middle ear", "cardiovascular disease", "polyp of frontal sinus"]
 last_modified_at: 2026-11-06
-description: "Peppermint Oil: predicted new indication Leprosy (evidence level L5). Approved use: Not recorded in the local data"
+description: "Peppermint Oil: predicted new indication Leprosy (evidence level L5). In the US: no FDA-approved application; 9 OTC monograph/unapproved NDC listings"
 ---
 
 # Peppermint Oil

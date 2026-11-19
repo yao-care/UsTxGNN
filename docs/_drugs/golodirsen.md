@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "GOLODIRSEN"
 predicted_indications: ["distal myopathy, Welander type", "nebulin-related early-onset distal myopathy", "X-linked myopathy with postural muscle atrophy"]
-description: "Golodirsen: predicted new indication Distal myopathy, Welander type (evidence level L5). Approved use: Not recorded in the local data"
+description: "Golodirsen: predicted new indication Distal myopathy, Welander type (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 
 # Golodirsen

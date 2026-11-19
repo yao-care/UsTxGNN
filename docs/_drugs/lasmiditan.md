@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-06
 monitor_inn: "Lasmiditan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-description: "Lasmiditan: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
+description: "Lasmiditan: predicted new indication Atrophoderma vermiculata (evidence level L5). In the US: 1 FDA application (0 active)"
 ---
 
 # Lasmiditan

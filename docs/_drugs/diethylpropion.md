@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "DIETHYLPROPION"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
 last_modified_at: 2026-11-06
-description: "Diethylpropion: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Diethylpropion: predicted new indication Hypervitaminosis (evidence level L5). In the US: 16 FDA applications (3 active)"
 ---
 
 # Diethylpropion

@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "PALBOCICLIB"
 predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
 last_modified_at: 2026-11-12
-description: "Palbociclib: predicted new indication Hyperthyroidism (evidence level L5). Approved use: Not recorded in the local data"
+description: "Palbociclib: predicted new indication Hyperthyroidism (evidence level L5). In the US: 3 FDA applications (2 active)"
 ---
 
 # Palbociclib

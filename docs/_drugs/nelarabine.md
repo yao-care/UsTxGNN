@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "NELARABINE"
 predicted_indications: ["relapsing-remitting multiple sclerosis"]
 last_modified_at: 2026-11-12
-description: "Nelarabine: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Nelarabine: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). In the US: 11 FDA applications (11 active)"
 ---
 
 # Nelarabine

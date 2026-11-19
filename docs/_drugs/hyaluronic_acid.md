@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "HYALURONIC ACID"
 predicted_indications: ["Sjogren syndrome", "xerophthalmia", "psoriasis", "dermatitis, atopic", "prolapse of lacrimal gland", "parapsoriasis", "pityriasis lichenoides", "severe nonproliferative diabetic retinopathy", "exanthem (disease)"]
 last_modified_at: 2026-11-06
-description: "Hyaluronic Acid: predicted new indication Sjogren syndrome (evidence level L3). Approved use: Not recorded in the local data"
+description: "Hyaluronic Acid: predicted new indication Sjogren syndrome (evidence level L3). In the US: no FDA-approved application; 26 OTC monograph/unapproved NDC listings"
 ---
 
 # Hyaluronic Acid

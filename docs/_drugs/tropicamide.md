@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "TROPICAMIDE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
 last_modified_at: 2026-11-12
-description: "Tropicamide: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Tropicamide: predicted new indication Cauda equina syndrome (evidence level L5). In the US: 17 FDA applications (7 active)"
 ---
 
 # Tropicamide

@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "LIFITEGRAST"
 predicted_indications: ["penile fibromatosis", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
 last_modified_at: 2026-11-12
-description: "Lifitegrast: predicted new indication Penile fibromatosis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Lifitegrast: predicted new indication Penile fibromatosis (evidence level L5). In the US: 4 FDA applications (1 active)"
 ---
 
 # Lifitegrast

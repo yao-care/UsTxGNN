@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "TRANEXAMIC ACID"
 predicted_indications: ["amenorrhea (disease)"]
 last_modified_at: 2026-11-12
-description: "Tranexamic Acid: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Not recorded in the local data"
+description: "Tranexamic Acid: predicted new indication Amenorrhea (disease) (evidence level L5). In the US: 36 FDA applications (27 active)"
 ---
 
 # Tranexamic Acid

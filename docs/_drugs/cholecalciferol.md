@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "CHOLECALCIFEROL"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
 last_modified_at: 2026-11-06
-description: "Cholecalciferol: predicted new indication acromesomelic dysplasia, Campailla Martinelli type (evidence level L5). Approved use: Not recorded in the local data"
+description: "Cholecalciferol: predicted new indication acromesomelic dysplasia, Campailla Martinelli type (evidence level L5). In the US: 7 FDA applications (7 active), plus 102 OTC monograph/unapproved NDC listings"
 ---
 
 # Cholecalciferol

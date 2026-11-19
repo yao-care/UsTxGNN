@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "ALLANTOIN"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial", "exanthem (disease)"]
 last_modified_at: 2026-11-06
-description: "Allantoin: predicted new indication severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not recorded in the local data"
+description: "Allantoin: predicted new indication severe nonproliferative diabetic retinopathy (evidence level L5). In the US: no FDA-approved application; 126 OTC monograph/unapproved NDC listings"
 ---
 
 # Allantoin

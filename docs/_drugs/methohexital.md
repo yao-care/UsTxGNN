@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "METHOHEXITAL"
 predicted_indications: ["insomnia (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder"]
 last_modified_at: 2026-11-12
-description: "Methohexital: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
+description: "Methohexital: predicted new indication Insomnia (disease) (evidence level L5). In the US: 2 FDA applications (2 active)"
 ---
 
 # Methohexital

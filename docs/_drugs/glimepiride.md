@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "GLIMEPIRIDE"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 last_modified_at: 2026-11-12
-description: "Glimepiride: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Glimepiride: predicted new indication Classic stiff person syndrome (evidence level L5). In the US: 22 FDA applications (10 active)"
 ---
 
 # Glimepiride

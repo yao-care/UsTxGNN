@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-12
 monitor_inn: "DACTINOMYCIN"
 predicted_indications: ["relapsing-remitting multiple sclerosis", "liver sarcoma", "upper aerodigestive tract neoplasm", "head and neck cancer"]
-description: "Dactinomycin: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Dactinomycin: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). In the US: 7 FDA applications (4 active)"
 ---
 
 # Dactinomycin

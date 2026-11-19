@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "FLECAINIDE"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
 last_modified_at: 2026-11-12
-description: "Flecainide: predicted new indication Stroke disorder (evidence level L5). Approved use: Not recorded in the local data"
+description: "Flecainide: predicted new indication Stroke disorder (evidence level L5). In the US: 11 FDA applications (8 active)"
 ---
 
 # Flecainide

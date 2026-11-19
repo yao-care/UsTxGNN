@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "PITOLISANT"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
 last_modified_at: 2026-11-12
-description: "Pitolisant: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
+description: "Pitolisant: predicted new indication Insomnia (disease) (evidence level L5). In the US: 5 FDA applications (5 active)"
 ---
 
 # Pitolisant

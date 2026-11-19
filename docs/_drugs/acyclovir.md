@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "ACYCLOVIR"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
 last_modified_at: 2026-11-06
-description: "Acyclovir: predicted new indication punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Acyclovir: predicted new indication punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 100 FDA applications (49 active)"
 ---
 
 # Acyclovir

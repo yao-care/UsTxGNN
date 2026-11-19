@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "IRINOTECAN"
 predicted_indications: ["female breast carcinoma"]
 last_modified_at: 2026-11-12
-description: "Irinotecan: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not recorded in the local data"
+description: "Irinotecan: predicted new indication Female breast carcinoma (evidence level L5). In the US: 29 FDA applications (19 active)"
 ---
 
 # Irinotecan

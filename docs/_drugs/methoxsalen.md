@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "METHOXSALEN"
 predicted_indications: ["localized pagetoid reticulosis", "neoplasm of mature B-cells", "small intestinal Burkitt lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "vulvar inverted follicular keratosis"]
-description: "Methoxsalen: predicted new indication Localized pagetoid reticulosis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Methoxsalen: predicted new indication Localized pagetoid reticulosis (evidence level L5). In the US: 6 FDA applications (3 active)"
 ---
 
 # Methoxsalen

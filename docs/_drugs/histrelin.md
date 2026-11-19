@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "HISTRELIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pelvic organ prolapse", "female genital tuberculosis", "physiological sexual disorder"]
-description: "Histrelin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Not recorded in the local data"
+description: "Histrelin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). In the US: 3 FDA applications (1 active)"
 ---
 
 # Histrelin

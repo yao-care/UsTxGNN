@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "URIC ACID"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "bronchitis"]
 last_modified_at: 2026-11-12
-description: "Uric Acid: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Uric Acid: predicted new indication Rheumatoid arthritis (evidence level L5). In the US: no FDA-approved application; 24 OTC monograph/unapproved NDC listings"
 ---
 
 # Uric Acid

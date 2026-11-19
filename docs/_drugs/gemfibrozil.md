@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "GEMFIBROZIL"
 predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
-description: "Gemfibrozil: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Not recorded in the local data"
+description: "Gemfibrozil: predicted new indication Rheumatoid arthritis (evidence level L4). In the US: 21 FDA applications (9 active)"
 ---
 
 # Gemfibrozil

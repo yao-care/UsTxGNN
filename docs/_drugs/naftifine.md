@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "NAFTIFINE"
 predicted_indications: ["ectothrix infectious disease", "pityriasis versicolor", "endothrix infectious disease"]
-description: "Naftifine: predicted new indication Ectothrix infectious disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Naftifine: predicted new indication Ectothrix infectious disease (evidence level L5). In the US: 9 FDA applications (6 active)"
 ---
 
 # Naftifine

@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "POTASSIUM"
 predicted_indications: ["hypertensive disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
 last_modified_at: 2026-11-12
-description: "Potassium: predicted new indication Hypertensive disorder (evidence level L1). Approved use: Not recorded in the local data"
+description: "Potassium: predicted new indication Hypertensive disorder (evidence level L1). In the US: no FDA-approved application; 5 OTC monograph/unapproved NDC listings"
 ---
 
 # Potassium

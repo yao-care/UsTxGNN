@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "Baricitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
 last_modified_at: 2026-11-06
-description: "Baricitinib: predicted new indication colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Baricitinib: predicted new indication colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). In the US: 3 FDA applications (2 active), plus 1 OTC monograph/unapproved NDC listing"
 ---
 
 # Baricitinib

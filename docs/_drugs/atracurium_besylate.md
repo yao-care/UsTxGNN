@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "ATRACURIUM BESYLATE"
 predicted_indications: ["preeclampsia", "cauda equina syndrome", "blepharospasm", "migraine disorder", "obsolete neurogenic bladder (disease)", "thrombotic disease", "migraine with brainstem aura", "severe pre-eclampsia", "mild pre-eclampsia", "irritable bowel syndrome"]
 last_modified_at: 2026-11-06
-description: "Atracurium Besylate: predicted new indication preeclampsia (evidence level L5). Approved use: Not recorded in the local data"
+description: "Atracurium Besylate: predicted new indication preeclampsia (evidence level L5). In the US: 23 FDA applications (6 active)"
 ---
 
 # Atracurium Besylate

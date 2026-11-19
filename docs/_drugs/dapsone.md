@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "DAPSONE"
 predicted_indications: ["pneumocystosis"]
 last_modified_at: 2026-11-12
-description: "Dapsone: predicted new indication Pneumocystosis (evidence level L1). Approved use: Not recorded in the local data"
+description: "Dapsone: predicted new indication Pneumocystosis (evidence level L1). In the US: 29 FDA applications (23 active)"
 ---
 
 # Dapsone

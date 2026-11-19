@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "CUPRIC CHLORIDE"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "thrombocytopenia due to immune destruction"]
 last_modified_at: 2026-11-12
-description: "Cupric Chloride: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
+description: "Cupric Chloride: predicted new indication Primary release disorder of platelets (evidence level L5). In the US: 5 FDA applications (4 active), plus 8 OTC monograph/unapproved NDC listings"
 ---
 
 # Cupric Chloride

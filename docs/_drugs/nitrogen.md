@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "NITROGEN"
 predicted_indications: ["16q24.1 microdeletion syndrome", "primary interstitial lung disease specific to childhood", "isolated pulmonary capillaritis", "congenital pulmonary lymphangiectasia"]
 last_modified_at: 2026-11-12
-description: "Nitrogen: predicted new indication 16q24.1 microdeletion syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Nitrogen: predicted new indication 16q24.1 microdeletion syndrome (evidence level L5). In the US: 16 FDA applications (16 active), plus 9 OTC monograph/unapproved NDC listings"
 ---
 
 # Nitrogen

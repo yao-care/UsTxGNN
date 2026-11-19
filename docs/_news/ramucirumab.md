@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>34 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>36 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (34)
+## Related News (36)
+
+### [Ferroptosis in cancer cells triggers PGE2 production for tumour immune escape](https://news.google.com/rss/articles/CBMiX0FVX3lxTE53cHQ4QnNqZWFZV1ZPcEFNNVNiN0ZGanFkUUZRTDRMZTZoc0dKdHQtbXhkcldueUl1WFdaZnFPYVZ1ajNVRDdkakIzcFVuMmN4dU9DYWdnVVlFbXNtNHJF?oc=5)
+
+2026-11-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE53cHQ4QnNqZWFZV1ZPcEFNNVNiN0ZGanFkUUZRTDRMZTZoc0dKdHQtbXhkcldueUl1WFdaZnFPYVZ1ajNVRDdkakIzcFVuMmN4dU9DYWdnVVlFbXNtNHJF?oc=5)
+
+---
+
+### [Scans show Iowa dad is cancer-free after liver transplant from stranger](https://news.google.com/rss/articles/CBMipwFBVV95cUxNVTZRWWcwU1VEVHhScWhaYnRGSTF1NjlIZmVZazdpb3dITTQ2SVJiRHJ5bWpORGo5OHhMZ0RhRTVwSUJybF82dGhQR1dMWm5CQS00elY0V2MtRjlSTmR2QUN5bjN6OER6X2FyeHctTmxscHB3YTRmRjRtU2Y1a1g5b0RwYWxJbFYyYkQ2VndyYW05RnN4SE5YUTNMWVpZcFVJTGptUHpmTQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [KCCI](https://news.google.com/rss/articles/CBMipwFBVV95cUxNVTZRWWcwU1VEVHhScWhaYnRGSTF1NjlIZmVZazdpb3dITTQ2SVJiRHJ5bWpORGo5OHhMZ0RhRTVwSUJybF82dGhQR1dMWm5CQS00elY0V2MtRjlSTmR2QUN5bjN6OER6X2FyeHctTmxscHB3YTRmRjRtU2Y1a1g5b0RwYWxJbFYyYkQ2VndyYW05RnN4SE5YUTNMWVpZcFVJTGptUHpmTQ?oc=5)
+
+---
 
 ### [I Never Felt a Lump. None of My Symptoms Suggested I Might Have Breast Cancer](https://news.google.com/rss/articles/CBMidEFVX3lxTE1KOEVxbGowZHNQbXhzbm1pUW9PMDNFUzZPcEZDWGpid0YtYTAwZjhOUklGOHRPU3ktVndvZFo3dDkxc1gtZG1xU3Z4REM5bE5DbXp5TzFtWWpFRFBKRnZOXzdjRjgyQ0djb0pvUy1hUHA0WEds?oc=5)
 
@@ -62,7 +78,7 @@ Source: [Good News Network](https://news.google.com/rss/articles/CBMitAFBVV95cUx
 
 ### [New prostate cancer screening guidelines are a license to live](https://news.google.com/rss/articles/CBMioAFBVV95cUxPYXVwYlRwSmhWel84UEwybjQ0WGtzdGpIOUp2YkRIR0gtTTIxUGhJdEcxMGM4UHJ1SFprVWJiejMzR2s3RVhQQnhqbk02MnQzUUN2SWlKS0JjTHVILS1kdDc5RW5QVENhR3loTzJEclRtYS1IdnhGV1BHZG1JR1BFcUtndjh6dW9mZlBHVlpqTzNpb2pLb0hJNWt6Wm1OeFM50gG0AUFVX3lxTE0tc29RVS12SlZQQTk2WWdBWnhQRWctSzJaYS1jMDFJb2VoTVNXbW9QUldESU9randZVVYtLWl2TDh2ejQ1MlpzRE14RGg3b3BkNVdFdk9Eclp5aEdoRnhZMnRfbWw2Tm5oQm1BZ1V4dmEzVlFlRXBkQm9QbXJ5cldTUmR1azRyV0dfR1dHWUs3MmRERUhuOFgwNlJWVDRMd1RzYi1jLXlfVVRWTUtzbTlrX0wtSA?oc=5)
 
-2026-11-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">OA</span>
+2026-11-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [AL.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxPYXVwYlRwSmhWel84UEwybjQ0WGtzdGpIOUp2YkRIR0gtTTIxUGhJdEcxMGM4UHJ1SFprVWJiejMzR2s3RVhQQnhqbk02MnQzUUN2SWlKS0JjTHVILS1kdDc5RW5QVENhR3loTzJEclRtYS1IdnhGV1BHZG1JR1BFcUtndjh6dW9mZlBHVlpqTzNpb2pLb0hJNWt6Wm1OeFM50gG0AUFVX3lxTE0tc29RVS12SlZQQTk2WWdBWnhQRWctSzJaYS1jMDFJb2VoTVNXbW9QUldESU9randZVVYtLWl2TDh2ejQ1MlpzRE14RGg3b3BkNVdFdk9Eclp5aEdoRnhZMnRfbWw2Tm5oQm1BZ1V4dmEzVlFlRXBkQm9QbXJ5cldTUmR1azRyV0dfR1dHWUs3MmRERUhuOFgwNlJWVDRMd1RzYi1jLXlfVVRWTUtzbTlrX0wtSA?oc=5)
 
@@ -78,7 +94,7 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNy1pOGxIcUo
 
 ### [Vapes cause ‘irreversible’ internal damage, study finds: ‘This should be a wake-up call’ - New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
 
-2026-11-17 <span class="news-drug-tag">Tadalafil</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">RA</span> <span class="news-drug-tag">Tadalafil</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
 
@@ -102,7 +118,7 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaEJz
 
 ### [Key immune driver of pancreatic cancer points to combination treatment for slowing progression - Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxNemRxdkZ6blpYUVhfcnN3T3A4bzlJNkFnZ1ZWSmlNRXhVRk9CRjF3Qm9nY2w2VUpXV2g2M21KLU5BN2wtWVVHZnJIX0oyN2pRbzRYSUlKaS1XNGRXTzRPNG5pSXh4Y0QyZjFZcmpSVnM1ejh2WEJNbVhlMjRyWFIya21vaUduZw?oc=5)
 
-2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxNemRxdkZ6blpYUVhfcnN3T3A4bzlJNkFnZ1ZWSmlNRXhVRk9CRjF3Qm9nY2w2VUpXV2g2M21KLU5BN2wtWVVHZnJIX0oyN2pRbzRYSUlKaS1XNGRXTzRPNG5pSXh4Y0QyZjFZcmpSVnM1ejh2WEJNbVhlMjRyWFIya21vaUduZw?oc=5)
 
@@ -132,11 +148,11 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3FkalNk
 
 ---
 
-### [Ozempic and Mounjaro may have a surprising effect on your brain - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
+### [Ozempic and Mounjaro may have a surprising effect on your brain](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
 
 2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
 
 ---
 

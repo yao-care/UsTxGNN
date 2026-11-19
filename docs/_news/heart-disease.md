@@ -3,9 +3,9 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 15 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 17 articles, 1 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # CAD (heart disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>15 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>17 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (15)
+## Related News (17)
+
+### [As many employers stop covering GLP-1s for weight loss, workers are left scrambling - NBC News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdkpuTHdBTlpRbUh3WGRKTVl6a1hFSjRkME1KRFpMbk1qVDNWQlg4RFVYSVhxQzc1RGc0NUF3LTZoMVY0QzVSVy1HeVVncDFGZ2F6cHVhdGRUU3FFQUdYZXFHc1ZCckNaMVBKZ1ZTZ25WZzNFZmtpZjVtQUtfN0dGX25NMWJUT1hPVk8wRFR0UFVMY1N6d2ZTTDJPQXAyOE8tSHN6NEZSS0NONHhP?oc=5)
+
+2026-11-19
+
+Source: [NBC News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdkpuTHdBTlpRbUh3WGRKTVl6a1hFSjRkME1KRFpMbk1qVDNWQlg4RFVYSVhxQzc1RGc0NUF3LTZoMVY0QzVSVy1HeVVncDFGZ2F6cHVhdGRUU3FFQUdYZXFHc1ZCckNaMVBKZ1ZTZ25WZzNFZmtpZjVtQUtfN0dGX25NMWJUT1hPVk8wRFR0UFVMY1N6d2ZTTDJPQXAyOE8tSHN6NEZSS0NONHhP?oc=5)
+
+---
+
+### [I’m a cardiologist. I’m a little puzzled about the blockbuster new study on deprescribing statins](https://news.google.com/rss/articles/CBMilgFBVV95cUxNUDlHcFVVUF9oZ1M1Ti1FamZEVm01NEJ2aWJQTk1ZTkpxeFhTM2dlM0lJdW1HMHNkUkVBR3lNNk5VSGtPSjRmTl9wSjlhQUVGTGxTclBTVFZ0NHp5Rzc1cXVkbE5WSC1ZdDBqNTAydUZSR2lnYlNBVThfLXhzLS1SalE1MXpzTnNNVUFpYjIxUWJ5dUJ4VXc?oc=5)
+
+2026-11-19
+
+Source: [STAT](https://news.google.com/rss/articles/CBMilgFBVV95cUxNUDlHcFVVUF9oZ1M1Ti1FamZEVm01NEJ2aWJQTk1ZTkpxeFhTM2dlM0lJdW1HMHNkUkVBR3lNNk5VSGtPSjRmTl9wSjlhQUVGTGxTclBTVFZ0NHp5Rzc1cXVkbE5WSC1ZdDBqNTAydUZSR2lnYlNBVThfLXhzLS1SalE1MXpzTnNNVUFpYjIxUWJ5dUJ4VXc?oc=5)
+
+---
 
 ### [Ericka Hart reveals stage 4 colon cancer diagnosis more than a decade after breast cancer battle](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNy1pOGxIcUoydEtPOEg0ei0xMDVpb05uYk5iMkxVMEJJVTFlWUNuNHk0N2JiLVJiWlZoTTI3NkJpUFpYMTBPR0d3TDVGVzdTWnJMMHVaXzFfeEljaFlrMjd6TWUzQ3RfMGEtU1RmSmRUTzNhXzBlck5aZ2YteEl4THJuYTdnVHZO?oc=5)
 

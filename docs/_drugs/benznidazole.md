@@ -56,7 +56,7 @@ but currently **0 clinical trials** and **0 publications** support this predicti
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, benznidazole is a nitroimidazole antiparasitic prodrug that is activated by parasite nitroreductases, and its efficacy in Chagas disease is established.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for benznidazole: "Benznidazole is a nitroimidazole antimicrobial drug. […] Benznidazole inhibits the synthesis of DNA, RNA, and proteins within the T. cruzi parasite. Studies suggest that benznidazole is reduced by a Type I nitroreductase (NTR) enzyme of T. cruzi producing a series of short-lived intermediates that may promote damage to several macromolecules including DNA." ([DailyMed: benznidazole prescribing information, Exeltis USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8983d6a0-f63f-4f8e-bba4-38223f39e29b), label version 2026-08-27; accessed 2026-11-19.) Based on general pharmacological knowledge, benznidazole is a nitroimidazole antiparasitic prodrug that is activated by parasite nitroreductases, and its efficacy in Chagas disease is established.
 
 No plausible mechanistic link to congenital analbuminemia could be established. This is a rare autosomal recessive disorder caused by mutations in the albumin (*ALB*) gene, resulting in absent or very low serum albumin. Benznidazole's antiparasitic mechanism has no evident connection to this process. The high TxGNN score is a TxGNN model (deep learning) prediction only, and no clinical or literature evidence supports it.
 
@@ -117,12 +117,13 @@ The prediction rests only on a TxGNN model (deep learning) score (Evidence Level
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license is cancelled, so the practical path to development is also unclear" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given the cancelled US license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: benznidazole prescribing information, Exeltis USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8983d6a0-f63f-4f8e-bba4-38223f39e29b) |
 
 <!-- review:end log -->
 

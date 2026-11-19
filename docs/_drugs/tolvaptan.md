@@ -57,7 +57,7 @@ with **0 registered clinical trials** and **20 publications** (including 2 RCTs 
 
 ## Why is This Prediction Reasonable?
 
-Tolvaptan is a selective vasopressin V2 receptor antagonist. In polycystic kidney disease, vasopressin-driven cAMP signalling promotes cyst cell proliferation and fluid secretion. Blocking the V2 receptor lowers cAMP and slows cyst growth and the loss of kidney function. This is already the established mechanism in ADPKD (PKD1/PKD2). Detailed mechanism-of-action data from DrugBank were not available for this report, so this explanation relies on the published literature.
+Tolvaptan is a selective vasopressin V2 receptor antagonist. In polycystic kidney disease, vasopressin-driven cAMP signalling promotes cyst cell proliferation and fluid secretion. Blocking the V2 receptor lowers cAMP and slows cyst growth and the loss of kidney function. This is already the established mechanism in ADPKD (PKD1/PKD2). According to the Mechanism of Action section of the FDA-approved prescribing information for tolvaptan: "Tolvaptan is a selective vasopressin V 2 -receptor antagonist with an affinity for the V 2 -receptor that is 1.8 times that of native arginine vasopressin (AVP). Tolvaptan affinity for the V 2 -receptor is 29 times that for the V 1a -receptor." ([DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4), label version 2026-09-30; accessed 2026-11-19.) This explanation relies on the published literature.
 
 The PKD3 form (GANAB-associated, with or without polycystic liver disease) is a related genetic condition that converges on the same cystogenic pathway, so the link is plausible. However, it has not been proven specifically for GANAB variants. A review in the literature set also notes that polycystic liver disease is the most common extrarenal manifestation of ADPKD, and that tolvaptan can slow the deterioration of renal function and cyst growth.
 
@@ -135,11 +135,12 @@ Tolvaptan has strong RCT and systematic review evidence in ADPKD, and its V2-ant
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Three more generic ANDAs (Camber, Ascend and Lupin) are also listed, all with cancelled status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data from DrugBank were not available for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4) |
 
 <!-- review:end log -->
 

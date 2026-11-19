@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **female breast carcinoma**, bu
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for irinotecan is not available in the data compiled for this report. Based on established pharmacology, irinotecan is a prodrug converted to SN-38, a topoisomerase I inhibitor. SN-38 causes DNA single-strand breaks and replication-associated cytotoxicity.
+According to the Mechanism of Action section of the FDA-approved prescribing information for irinotecan: "Irinotecan is a derivative of camptothecin. Camptothecins interact specifically with the enzyme topoisomerase I, which relieves torsional strain in DNA by inducing reversible single-strand breaks. Irinotecan and its active metabolite SN-38 bind to the topoisomerase I-DNA complex and prevent religation of these single-strand breaks." ([DailyMed: Camptosar (irinotecan hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e518dfc6-7e93-4fee-a66c-51e1ab71c056), label version 2026-05-12; accessed 2026-11-19.) Based on established pharmacology, irinotecan is a prodrug converted to SN-38, a topoisomerase I inhibitor. SN-38 causes DNA single-strand breaks and replication-associated cytotoxicity.
 
 This mechanism is not specific to one tumor type, so activity in breast carcinoma is biologically plausible. The strongest supporting evidence is indirect. Sacituzumab govitecan, an anti-Trop-2 antibody conjugated to SN-38, showed benefit in HR+/HER2- metastatic breast cancer (the TROPiCS-02 Phase III study design is among the publications retrieved). That supports the activity of the SN-38 payload in breast cancer but does not validate free irinotecan. Older reviews describe irinotecan and mitomycin as having only "marginal activity" in breast cancer as single agents, with a sequential combination proposed on preclinical synergy.
 
@@ -155,13 +155,14 @@ The TxGNN score is high, but the only trial testing irinotecan directly in breas
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "why US licenses are cancelled and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "The records list 9 valid US licenses, and n" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data for irinotecan is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Camptosar (irinotecan hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e518dfc6-7e93-4fee-a66c-51e1ab71c056) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, glimepiride is a sulfonylurea that closes KATP channels in pancreatic beta cells to stimulate insulin secretion. Its efficacy in type 2 diabetes is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for glimepiride: "Glimepiride primarily lowers blood glucose by stimulating the release of insulin from pancreatic beta cells. Sulfonylureas bind to the sulfonylurea receptor in the pancreatic beta-cell plasma membrane, leading to closure of the ATP-sensitive potassium channel, thereby stimulating the release of insulin." ([DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa), label version 2024-08-20; accessed 2026-11-19.) Based on general pharmacology, glimepiride is a sulfonylurea that closes KATP channels in pancreatic beta cells to stimulate insulin secretion. Its efficacy in type 2 diabetes is established.
 
 Stiff person syndrome is an autoimmune neurological disorder, typically with anti-GAD65 antibodies that impair GABAergic signaling. No mechanistic link to glimepiride is established, and the drug has no known benefit for the neurological symptoms. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence: stiff person syndrome is commonly comorbid with type 1 diabetes, and the model may be picking up that association rather than a therapeutic rationale.
 
@@ -133,12 +133,13 @@ The prediction is computational only (L5), with no clinical trials or relevant l
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "A sixth license (ANDA091220, Micro Labs Limited) is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 6 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa) |
 
 <!-- review:end log -->
 

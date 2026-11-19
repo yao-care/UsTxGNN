@@ -56,7 +56,7 @@ The TxGNN model predicts it may be effective for **opsismodysplasia**, a rare sk
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for sotagliflozin is not available in the data compiled for this report. Its known drug targets are sodium/glucose cotransporter 1 (SGLT1, intestine) and sodium/glucose cotransporter 2 (SGLT2, kidney). Blocking these two transporters delays intestinal glucose absorption and increases urinary glucose excretion, which lowers blood sugar independently of insulin.
+According to the Mechanism of Action section of the FDA-approved prescribing information for sotagliflozin: "Sotagliflozin is an inhibitor of SGLT2 and SGLT1. Inhibiting SGLT2 reduces renal reabsorption of glucose and sodium which may influence several physiological functions such as lowering both pre-and afterload of the heart and downregulating sympathetic activity." ([DailyMed: Inpefa (sotagliflozin) prescribing information, Lexicon Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a46614e-05f6-421a-b6f4-d6f8760d643a), label version 2026-08-12; accessed 2026-11-19.) Its known drug targets are sodium/glucose cotransporter 1 (SGLT1, intestine) and sodium/glucose cotransporter 2 (SGLT2, kidney). Blocking these two transporters delays intestinal glucose absorption and increases urinary glucose excretion, which lowers blood sugar independently of insulin.
 
 Opsismodysplasia is a rare skeletal dysplasia caused by mutations in *INPPL1* (SHIP2 deficiency). We found no plausible mechanistic link between SGLT1/SGLT2 inhibition and this pathway. The two conditions are biologically unrelated: one is a metabolic disease of glucose control, the other a genetic disorder of bone development.
 
@@ -105,11 +105,12 @@ The prediction has no clinical, literature, or mechanistic support (Evidence Lev
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The only US authorization is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data for sotagliflozin is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Inpefa (sotagliflozin) prescribing information, Lexicon Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a46614e-05f6-421a-b6f4-d6f8760d643a) |
 
 <!-- review:end log -->
 

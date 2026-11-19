@@ -54,7 +54,7 @@ Icatibant is a bradykinin B2 receptor antagonist that is marketed in the United 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From pharmacology records, icatibant is a peptide that acts on the bradykinin B1 and B2 receptors (genes BDKRB1 and BDKRB2). By blocking bradykinin signalling, it reduces the vascular leak and swelling driven by bradykinin.
+According to the Mechanism of Action section of the FDA-approved prescribing information for icatibant: "Icatibant is a competitive antagonist selective for the bradykinin B2 receptor, with an affinity similar to bradykinin. Hereditary angioedema is caused by an absence or dysfunction of C1-esterase-inhibitor, a key regulator of the Factor XII/kallikrein proteolytic cascade that leads to bradykinin production." ([DailyMed: Firazyr (icatibant acetate) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540), label version 2025-07-07; accessed 2026-11-19.) From pharmacology records, icatibant is a peptide that acts on the bradykinin B1 and B2 receptors (genes BDKRB1 and BDKRB2). By blocking bradykinin signalling, it reduces the vascular leak and swelling driven by bradykinin.
 
 The high score most likely reflects shared associations with the serpin protein family in the model's network of biological relationships. Toxic serpin polymerization, however, is a different type of problem: proteins misfold and aggregate. It is not primarily driven by bradykinin, and there is no clear reason why B2 receptor blockade would help. The score is therefore a computational prediction without clinical or literature support, and it should be treated as a hypothesis, not as a finding.
 
@@ -107,11 +107,12 @@ The prediction has a very high model score but no supporting trials or publicati
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 8 licences on record are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Firazyr (icatibant acetate) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540) |
 
 <!-- review:end log -->
 

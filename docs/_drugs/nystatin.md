@@ -56,7 +56,7 @@ The data compiled for this report contain **1 registered clinical trial** (which
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for nystatin are not available in the data compiled for this report. Nystatin is generally known as a polyene antifungal, which acts on fungal cell membranes.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for nystatin: "Nystatin acts by binding to sterols in the cell membrane of susceptible Candida species with a resultant change in membrane permeability allowing leakage of intracellular components. Nystatin exhibits no appreciable activity against bacteria, protozoa, or viruses." ([DailyMed: Nystatin Oral Suspension (nystatin) prescribing information, Xttrium Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4a670371-d373-1ba6-e063-6394a90a13b6), label version 2026-02-06; accessed 2026-11-19.) Nystatin is generally known as a polyene antifungal, which acts on fungal cell membranes.
 
 No plausible mechanistic link to disease of orbital region was identified. The only trial returned for this prediction (NCT03178149) tests a different drug, ASP7317, in geographic atrophy secondary to age-related macular degeneration. That is a retinal disease, not an orbital one, so it is not evidence for nystatin. The high TxGNN score therefore remains an unsupported model output. No clinical or literature data currently connect nystatin to this condition.
 
@@ -113,11 +113,12 @@ The prediction rests only on a model score. There is no plausible mechanism, no 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-12 | Corrected: "Eleven are valid and one is cancelled; the list may be partial" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data for nystatin are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nystatin Oral Suspension (nystatin) prescribing information, Xttrium Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4a670371-d373-1ba6-e063-6394a90a13b6) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **strongyloidiasis**, but **0 c
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. From the drug's known class, brodalumab is an IL-17 receptor A inhibitor, and this is the basis for the analysis below.
+According to the Mechanism of Action section of the FDA-approved prescribing information for brodalumab: "Brodalumab is a human monoclonal IgG2 antibody that selectively binds to human IL-17RA and inhibits its interactions with cytokines IL-17A, IL-17F, IL-17C, IL-17A/F heterodimer, and IL-25. IL-17RA is a protein expressed on the cell surface and is a required component of receptor complexes utilized by multiple IL-17 family cytokines." ([DailyMed: Siliq (brodalumab) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a550c33-456a-4833-814e-8591aea7c688), label version 2026-05-28; accessed 2026-11-19.) From the drug's known class, brodalumab is an IL-17 receptor A inhibitor, and this is the basis for the analysis below.
 
 The prediction is weakly supported at best. IL-17 signaling contributes to mucosal and anti-helminth immunity, so blocking it would be expected to impair host defence rather than help. Immunosuppressive biologics also raise concern about *Strongyloides* hyperinfection. The high TxGNN score (0.9984) therefore looks like a network-based artifact rather than a sign of true therapeutic potential. No clinical trials or literature back this indication.
 
@@ -127,11 +127,12 @@ The prediction rests only on a model score. There are no clinical trials or lite
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "he US license is cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Siliq (brodalumab) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a550c33-456a-4833-814e-8591aea7c688) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **leprosy**, but there are curr
 
 ## Why is This Prediction Reasonable?
 
-Lonafarnib is a farnesyltransferase inhibitor (FTI). It blocks farnesylation, a protein modification that anchors certain proteins to cell membranes. Detailed mechanism of action data is not available in the compiled record. This description is general pharmacological knowledge, not drawn from the supplied data.
+Lonafarnib is a farnesyltransferase inhibitor (FTI). It blocks farnesylation, a protein modification that anchors certain proteins to cell membranes. According to the Mechanism of Action section of the FDA-approved prescribing information for lonafarnib: "Lonafarnib inhibits farnesyltransferase to prevent farnesylation and subsequent accumulation of progerin and progerin-like proteins in the inner nuclear membrane." ([DailyMed: Zokinvy (lonafarnib) prescribing information, Sentynl Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97391d0c-943e-4c5a-8423-68e163aa7f50), label version 2025-07-02; accessed 2026-11-19.) This description is general pharmacological knowledge, not drawn from the supplied data.
 
 The data compiled for this report does not establish a direct mechanistic link between lonafarnib and *Mycobacterium leprae* infection. One speculative hypothesis is that host prenylated small GTPases (Ras/Rho family), which are involved in macrophage function, phagocytosis and inflammatory signaling, could be modulated. No evidence in the record supports this. The high TxGNN score (0.9914) is a model-based prediction only and should not be read as clinical evidence. The model's rank for this prediction is 18,762, which further suggests treating it with caution.
 
@@ -117,11 +117,12 @@ The leprosy prediction has no supporting clinical trials or literature (evidence
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "he US license is also cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zokinvy (lonafarnib) prescribing information, Sentynl Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97391d0c-943e-4c5a-8423-68e163aa7f50) |
 
 <!-- review:end log -->
 

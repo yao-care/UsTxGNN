@@ -55,7 +55,7 @@ Fenofibrate is a PPARα agonist marketed in the United States for lipid disorder
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the data compiled for this report. Based on the mechanistic link in the compiled data, fenofibrate is a PPARα agonist that raises HDL cholesterol and lowers triglycerides. Part of this effect comes from increased apoA-I and apoA-II expression and from induction of phospholipid transfer protein (PLTP), which enlarges HDL particles.
+According to the Mechanism of Action section of the FDA-approved prescribing information for fenofibrate: "The active moiety of Antara is fenofibric acid. The pharmacological effects of fenofibric acid in both animals and humans have been studied through oral administration of fenofibrate. The lipid-modifying effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of PPAR alpha receptor." ([DailyMed: Antara (fenofibrate) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=24790a18-0291-4b88-a724-acac43b616ce), label version 2025-10-01; accessed 2026-11-19.) Based on the mechanistic link in the compiled data, fenofibrate is a PPARα agonist that raises HDL cholesterol and lowers triglycerides. Part of this effect comes from increased apoA-I and apoA-II expression and from induction of phospholipid transfer protein (PLTP), which enlarges HDL particles.
 
 CETP deficiency is characterized by markedly elevated HDL cholesterol and impaired HDL remodeling. The overlap lies in the HDL metabolism pathway, and this likely explains the high TxGNN score. Preclinical work combining CETP inhibition with PPARα agonism in transgenic mice points the same way.
 
@@ -111,6 +111,19 @@ The prediction rests on model output and indirect pathway-level mechanistic over
 - FDA package insert warnings and contraindications, to enable safety screening
 - Direct preclinical or clinical studies in CETP deficiency
 - Approved indication text for the US licences
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Antara (fenofibrate) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=24790a18-0291-4b88-a724-acac43b616ce) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

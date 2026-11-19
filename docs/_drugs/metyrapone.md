@@ -60,7 +60,7 @@ The prediction rests on computational network proximity only, and no biological 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not available in the data compiled for this report. Pharmacology data show that metyrapone targets CYP11B1 (11-beta-hydroxylase) and CYP11B2 (aldosterone synthase). Inhibiting these enzymes reduces cortisol synthesis, which explains its use in Cushing's syndrome and in testing pituitary-adrenal function.
+According to the Mechanism of Action section of the FDA-approved prescribing information for metyrapone: "The pharmacological effect of Metopirone is to reduce cortisol and corticosterone production by inhibiting the 11-beta-hydroxylation reaction in the adrenal cortex. Removal of the strong inhibitory feedback mechanism exerted by cortisol results in an increase in adrenocorticotropic hormone (ACTH) production by the pituitary." ([DailyMed: Metopirone (metyrapone) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4046b167-7a46-8f4a-e063-6394a90a147f), label version 2026-05-19; accessed 2026-11-19.) Pharmacology data show that metyrapone targets CYP11B1 (11-beta-hydroxylase) and CYP11B2 (aldosterone synthase). Inhibiting these enzymes reduces cortisol synthesis, which explains its use in Cushing's syndrome and in testing pituitary-adrenal function.
 
 The predicted indication is mechanistically unrelated to this action. Malignant hyperthermia is a disorder of skeletal muscle calcium handling, mainly involving RYR1 and CACNA1S. Its acute treatment is dantrolene, which acts directly on the ryanodine receptor. No plausible link between steroidogenesis inhibition and this pathway was identified.
 
@@ -142,11 +142,12 @@ The prediction has no clinical, registry or literature support and no plausible 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US license is also cancelled, and a" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data was not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Metopirone (metyrapone) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4046b167-7a46-8f4a-e063-6394a90a147f) |
 
 <!-- review:end log -->
 

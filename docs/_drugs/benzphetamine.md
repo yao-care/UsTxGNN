@@ -54,7 +54,7 @@ Benzphetamine is a sympathomimetic amine anorectic (appetite suppressant). The T
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for benzphetamine are not available in the data compiled for this report. Based on its known drug class, benzphetamine is a sympathomimetic amine used as an appetite suppressant.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for benzphetamine: "Benzphetamine hydrochloride is a sympathomimetic amine with pharmacologic activity similar to the prototype drugs of this class used in obesity, the amphetamines. Actions include central nervous system stimulation and elevation of blood pressure." ([DailyMed: benzphetamine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c726aa7-3b78-45de-aca0-fd8a5fff9403), label version 2026-11-09; accessed 2026-11-19.) Based on its known drug class, benzphetamine is a sympathomimetic amine used as an appetite suppressant.
 
 No identifiable mechanistic link connects this class of drug to vitamin excess or vitamin clearance. The high score (0.9998) is a model-derived value only and is not backed by any trial or publication. The prediction should therefore be treated as a hypothesis-generating signal, not as a rationale for clinical use.
 
@@ -99,6 +99,19 @@ The prediction has a very high model score but no supporting clinical trials or 
 - Mechanism-of-action data for benzphetamine
 - Package insert warnings and contraindications, to enable safety screening
 - Any clinical or observational study that directly addresses hypervitaminosis
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for benzphetamine are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: benzphetamine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c726aa7-3b78-45de-aca0-fd8a5fff9403) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

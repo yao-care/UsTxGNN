@@ -54,7 +54,7 @@ Alprostadil is a prostaglandin E1 analogue that relaxes smooth muscle and keeps 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the compiled data. Based on known pharmacology, alprostadil (prostaglandin E1) relaxes the smooth muscle of the ductus arteriosus. In newborns with heart lesions that depend on this vessel for blood flow, infusion keeps the ductus open until corrective surgery can be done.
+According to the Mechanism of Action section of the FDA-approved prescribing information for alprostadil: "Alprostadil (PGE1) is a prostaglandin with a wide variety of pharmacological actions including vasodilation and inhibition of platelet aggregation. Alprostadil induces erection by relaxation of trabecular smooth muscle and by dilation of cavernosal arteries by binding to its receptors and increasing intracellular cyclic adenosine monophosphate (cAMP) levels via modulation of adenylate cyclase." ([DailyMed: Caverject (alprostadil) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98), label version 2024-05-13; accessed 2026-11-19.) Based on known pharmacology, alprostadil (prostaglandin E1) relaxes the smooth muscle of the ductus arteriosus. In newborns with heart lesions that depend on this vessel for blood flow, infusion keeps the ductus open until corrective surgery can be done.
 
 Some aortic malformations, such as interrupted aortic arch and coarctation of the aorta, are ductal-dependent. For these, keeping the ductus open supports blood flow to the body. This offers a plausible mechanistic link between the drug's known action and the predicted condition.
 
@@ -106,6 +106,19 @@ The prediction score is very high, and the ductal-dependent physiology gives a p
 - Mechanism of action data
 - Package insert warnings and contraindications, especially for prolonged neonatal infusion
 - A clear definition of which aortic malformation subtypes are in scope, since only ductal-dependent lesions have a mechanistic rationale
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data are not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Caverject (alprostadil) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

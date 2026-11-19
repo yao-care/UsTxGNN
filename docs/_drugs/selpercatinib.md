@@ -54,7 +54,7 @@ Selpercatinib is a selective RET kinase inhibitor used in RET-driven cancers suc
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, selpercatinib is a selective RET kinase inhibitor. Its use in RET-altered cancers is reflected in the literature compiled here (RET fusion NSCLC and RET-mutated medullary thyroid carcinoma).
+According to the Mechanism of Action section of the FDA-approved prescribing information for selpercatinib: "Selpercatinib is a kinase inhibitor. Selpercatinib inhibited wild-type RET and multiple mutated RET isoforms as well as VEGFR1 and VEGFR3 with IC 50 values ranging from 0.92 nM to 67.8 nM. In other enzyme assays, selpercatinib also inhibited FGFR 1, 2, and 3 at higher concentrations that were still clinically achievable." ([DailyMed: Retevmo (selpercatinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7fa848ba-a59c-4144-9f52-64d090f4d828), label version 2026-09-11; accessed 2026-11-19.) Based on general knowledge, selpercatinib is a selective RET kinase inhibitor. Its use in RET-altered cancers is reflected in the literature compiled here (RET fusion NSCLC and RET-mutated medullary thyroid carcinoma).
 
 The link to pulmonary hypertension is only indirect. Kinase signaling is involved in pulmonary vascular remodeling, and some other kinase inhibitors have been studied in pulmonary arterial hypertension. Conversely, some kinase inhibitors are associated with pulmonary vascular toxicity. No direct mechanistic or clinical evidence for RET inhibition in pulmonary hypertension is available.
 
@@ -131,12 +131,13 @@ The prediction rests on a model score alone (Evidence Level L5). There are no cl
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both US NDAs are cancelled, and p" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and the reasons for the NDA cancellations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Retevmo (selpercatinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7fa848ba-a59c-4144-9f52-64d090f4d828) |
 
 <!-- review:end log -->
 

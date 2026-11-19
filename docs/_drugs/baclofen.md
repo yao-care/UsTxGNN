@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for baclofen is not available in the data compiled for this report. Baclofen is generally known as a GABA-B receptor agonist, and a plausible but unproven link is that GABA-B activity modulates the balance between cortical excitation and inhibition and influences dopaminergic signalling, both relevant to impulsivity and attention.
+According to the Mechanism of Action section of the FDA-approved prescribing information for baclofen: "The precise mechanism of action of baclofen is not fully understood. Baclofen inhibits both monosynaptic and polysynaptic reflexes at the spinal level, possibly by decreasing excitatory neurotransmitter release from afferent terminals, although actions at supraspinal sites may also occur and contribute to its clinical effect." ([DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2), label version 2026-09-22; accessed 2026-11-19.) Baclofen is generally known as a GABA-B receptor agonist, and a plausible but unproven link is that GABA-B activity modulates the balance between cortical excitation and inhibition and influences dopaminergic signalling, both relevant to impulsivity and attention.
 
 The retrieved literature does not test baclofen in ADHD. It mostly concerns Tourette syndrome and tic treatment, where ADHD is a common comorbidity, plus rodent studies on noradrenergic, hippocampal, habenular and cingulate circuits involved in impulsive decision-making. The link is therefore inferred from the model score and indirect, comorbidity-related literature, and should be treated as a hypothesis only.
 
@@ -101,6 +101,19 @@ The TxGNN score is very high (0.9932), but there are no registered clinical tria
 - Detailed mechanism-of-action data linking GABA-B activity to ADHD symptoms
 - Review of the package insert warnings and contraindications, particularly given central nervous system and psychiatric considerations in the target population
 - A dosing and route plan suited to the intended population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for baclofen is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

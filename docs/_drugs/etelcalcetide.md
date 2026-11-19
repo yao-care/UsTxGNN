@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **hyperphosphatemia (disease)**, 
 
 ## Why is This Prediction Reasonable?
 
-Etelcalcetide activates the calcium-sensing receptor (CaSR) on parathyroid cells and lowers PTH. Detailed mechanism of action data is not available in the data compiled for this report, so this description is inferred from the known drug class.
+Etelcalcetide activates the calcium-sensing receptor (CaSR) on parathyroid cells and lowers PTH. According to the Mechanism of Action section of the FDA-approved prescribing information for etelcalcetide: "Etelcalcetide is a calcimimetic agent that allosterically modulates the calcium-sensing receptor (CaSR). Etelcalcetide binds to the CaSR and enhances activation of the receptor by extracellular calcium. Activation of the CaSR on parathyroid chief cells decreases PTH secretion." ([DailyMed: Parsabiv (etelcalcetide) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd270093-c6a8-4596-a4ab-e6aa0a2c8a0c), label version 2026-03-08; accessed 2026-11-19.) This description is inferred from the known drug class.
 
 Hyperphosphatemia is closely tied to secondary hyperparathyroidism in chronic kidney disease and dialysis. Lowering PTH can indirectly reduce bone resorption and serum calcium and phosphate. The link is therefore plausible, but the effect is indirect: etelcalcetide is not a phosphate binder and does not directly promote phosphate excretion.
 
@@ -109,11 +109,12 @@ The prediction score is high, but the only study on hyperphosphatemia itself is 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Also, the only US NDA is cancelled, and package insert safety data is missing" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Parsabiv (etelcalcetide) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd270093-c6a8-4596-a4ab-e6aa0a2c8a0c) |
 
 <!-- review:end log -->
 

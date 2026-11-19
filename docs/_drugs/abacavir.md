@@ -56,7 +56,7 @@ Currently there are **0 clinical trials** and **1 publication** (an in vitro sus
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, abacavir is a carbocyclic guanosine nucleoside reverse transcriptase inhibitor (NRTI). Its efficacy in HIV infection is established, and mechanistically it may be applicable to related lentiviruses.
+According to the Mechanism of Action section of the FDA-approved prescribing information for abacavir and lamivudine (a combination product containing abacavir): "Abacavir and lamivudine is an antiretroviral agent with activity against HIV-1." ([DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c), label version 2026-09-18; accessed 2026-11-19.) Based on known information, abacavir is a carbocyclic guanosine nucleoside reverse transcriptase inhibitor (NRTI). Its efficacy in HIV infection is established, and mechanistically it may be applicable to related lentiviruses.
 
 Simian immunodeficiency virus (SIV) is a lentivirus closely related to HIV, and its reverse transcriptase can be inhibited by NRTIs. An in vitro study (PMID 15040537) tested the susceptibility of HIV-2, SIV and SHIV to anti-HIV-1 compounds, which provides indirect mechanistic support.
 
@@ -135,13 +135,14 @@ The only support for the top prediction is a single in vitro study. There are no
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 7 licenses are valid. Two further cancelled solution ANDAs (Camber ANDA201107, Rising ANDA077950) are not shown" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "The drug is marketed in the US, with all 7 licenses valid, and the prediction largely overlaps with abacavir's existing HIV indication" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "Clarification of the US regulatory status, given that the drug is marketed and all 7 licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c) |
 
 <!-- review:end log -->
 

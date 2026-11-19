@@ -62,7 +62,7 @@ This is largely an extension of warfarin's existing anticoagulant use rather tha
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, warfarin is a vitamin K antagonist that reduces the synthesis of clotting factors II, VII, IX and X. Its efficacy in thrombotic disease is established, and mechanistically it may be applicable to inherited and acquired thrombophilias, in which the underlying problem is a tendency toward clot formation.
+According to the Mechanism of Action section of the FDA-approved prescribing information for warfarin: "Warfarin acts by inhibiting the synthesis of vitamin K-dependent clotting factors, which include Factors II, VII, IX, and X, and the anticoagulant proteins C and S. Vitamin K is an essential cofactor for the post ribosomal synthesis of the vitamin K-dependent clotting factors. Vitamin K promotes the biosynthesis of γ-carboxyglutamic acid residues in the proteins that are essential for biological activity." ([DailyMed: Jantoven (warfarin sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19a69a72-ac5d-45d5-a94d-a5aaecbe4730), label version 2026-10-28; accessed 2026-11-19.) Based on known pharmacology, warfarin is a vitamin K antagonist that reduces the synthesis of clotting factors II, VII, IX and X. Its efficacy in thrombotic disease is established, and mechanistically it may be applicable to inherited and acquired thrombophilias, in which the underlying problem is a tendency toward clot formation.
 
 Thrombophilia is a predisposition to thrombosis, so anticoagulation for secondary prevention of venous thromboembolism is a natural fit. The same reasoning applies to the other top predictions: heparin cofactor II deficiency, factor V excess and antithrombin type 2 deficiency are all inherited prothrombotic states. These conditions overlap closely with warfarin's existing thrombotic-disease indications, so the high TxGNN scores likely reflect similarity to those indications rather than independent evidence of new benefit.
 
@@ -184,12 +184,13 @@ Label warnings and contraindications have not been retrieved, so please refer to
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the data compiled for this report show four valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-12 | Removed: "since four authorizations are listed as valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Jantoven (warfarin sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19a69a72-ac5d-45d5-a94d-a5aaecbe4730) |
 
 <!-- review:end log -->
 

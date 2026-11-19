@@ -57,7 +57,7 @@ A second prediction, **duodenal obstruction** (score 0.9968), was also generated
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for lansoprazole is not available in the compiled data. Based on general knowledge, lansoprazole is a proton pump inhibitor that suppresses gastric acid secretion. Its established uses (GERD, esophagitis, peptic and duodenal ulcer) overlap with the clinical consequences of reflux.
+According to the Mechanism of Action section of the FDA-approved prescribing information for lansoprazole: "Lansoprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the (H +, K + )-ATPase enzyme system at the secretory surface of the gastric parietal cell. Because this enzyme system is regarded as the acid (proton) pump within the parietal cell, lansoprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Prevacid (lansoprazole) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71ba78cb-7e46-43eb-9425-fa130f537f84), label version 2025-07-08; accessed 2026-11-19.) Based on general knowledge, lansoprazole is a proton pump inhibitor that suppresses gastric acid secretion. Its established uses (GERD, esophagitis, peptic and duodenal ulcer) overlap with the clinical consequences of reflux.
 
 Duodenogastric (bile) reflux is driven mainly by pyloric incompetence and altered motility, not by acid hypersecretion. Acid suppression would therefore be expected to ease symptoms and mucosal injury from mixed acid and bile exposure, but it would not correct the underlying reflux. The very high TxGNN score likely reflects network proximity to the approved gastric and esophageal indications and is a computational prediction only. The mechanistic link here is inferred from general PPI pharmacology.
 
@@ -118,12 +118,13 @@ Mechanistically, acid suppression would at best relieve symptoms rather than tre
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-12 | Removed: "Five more authorizations (all cancelled, 10 in total) are on record and not listed here" | Corrected (revised 2026-11-12; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since all 10 records are marked cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data for lansoprazole is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Prevacid (lansoprazole) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71ba78cb-7e46-43eb-9425-fa130f537f84) |
 
 <!-- review:end log -->
 

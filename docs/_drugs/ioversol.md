@@ -55,7 +55,7 @@ Ioversol is an iodinated radiographic contrast agent, marketed in the US as Opti
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ioversol is a non-ionic, iodinated contrast agent used for imaging, not a drug with a known therapeutic pharmacological effect on joint disease.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ioversol: "Intravascular injection of ioversol opacifies those vessels in the path of the flow of the contrast medium, permitting radiographic visualization of the internal structures until significant hemodilution occurs. Ioversol may be visualized in the renal parenchyma within 30 to 60 seconds following rapid intravenous injection." ([DailyMed: Optiray 320 (ioversol) prescribing information, Liebel-Flarsheim Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6cb6ca5f-b249-49b0-a9eb-8aa583da7c74), label version 2025-12-29; accessed 2026-11-19.) Based on known information, ioversol is a non-ionic, iodinated contrast agent used for imaging, not a drug with a known therapeutic pharmacological effect on joint disease.
 
 The only linked publication (LipioJoint-1) tested genicular artery embolization with an ethiodized oil-based emulsion (Lipiodol) for knee osteoarthritis. That is a different product and a procedural intervention, not ioversol therapy. Any relationship is indirect. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Because no cited study directly examines ioversol in osteoarthritis, the evidence level is capped at L5.
 
@@ -93,6 +93,19 @@ Ioversol has no known pharmacological anti-osteoarthritis mechanism, no clinical
 - Mechanism of action data for ioversol
 - Any direct preclinical or clinical study of ioversol in osteoarthritis
 - A clear hypothesis for a therapeutic (not imaging or procedural) role
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Optiray 320 (ioversol) prescribing information, Liebel-Flarsheim Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6cb6ca5f-b249-49b0-a9eb-8aa583da7c74) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

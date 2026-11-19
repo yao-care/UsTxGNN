@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on its drug class, tildrakizumab is an anti-IL-23 p19 monoclonal antibody, so it blocks the IL-23/IL-17 inflammatory axis, which is the basis of its use in psoriasis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for tildrakizumab: "Tildrakizumab is a humanized IgG1/k monoclonal antibody that selectively binds to the p19 subunit of IL-23 and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in inflammatory and immune responses." ([DailyMed: Ilumya (tildrakizumab-asmn) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6a322bb-51b9-4f0e-8642-62a9682ffcde), label version 2026-11-02; accessed 2026-11-19.) Based on its drug class, tildrakizumab is an anti-IL-23 p19 monoclonal antibody, so it blocks the IL-23/IL-17 inflammatory axis, which is the basis of its use in psoriasis.
 
 The proposed link is that chronic low-grade inflammation, including IL-23/IL-17 signaling, may contribute to retinal microvascular damage in diabetic retinopathy. This link is speculative. It rests only on the TxGNN score and has no supporting trial or publication, and it cannot be validated from the supplied data.
 
@@ -124,12 +124,13 @@ All four predictions are supported only by model scores (L5), with no registered
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "In addition, the only US license is recorded as cancelled, and the package insert safety data has not been obtained" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and of the regulatory implications of the cancelled license status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ilumya (tildrakizumab-asmn) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6a322bb-51b9-4f0e-8642-62a9682ffcde) |
 
 <!-- review:end log -->
 

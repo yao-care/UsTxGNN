@@ -56,7 +56,7 @@ but currently only **0 clinical trials** and **1 publication** (a preclinical bi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, efavirenz is an NNRTI that blocks the reverse transcriptase (RT) enzyme of HIV-1. Feline immunodeficiency virus (FIV) is also a lentivirus that depends on its own reverse transcriptase, so a mechanistic link is plausible.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for efavirenz: "Efavirenz is an antiviral drug. […] Efavirenz is an NNRTI of HIV-1. Efavirenz activity is mediated predominantly by noncompetitive inhibition of HIV-1 reverse transcriptase. HIV-2 reverse transcriptase and human cellular DNA polymerases α,β, γ, and δ are not inhibited by efavirenz." ([DailyMed: efavirenz prescribing information, Macleods Pharmaceuticals Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13ca3456-e5bf-4bb1-af95-b1378658a358), label version 2024-06-28; accessed 2026-11-19.) Based on known information, efavirenz is an NNRTI that blocks the reverse transcriptase (RT) enzyme of HIV-1. Feline immunodeficiency virus (FIV) is also a lentivirus that depends on its own reverse transcriptase, so a mechanistic link is plausible.
 
 However, the link is uncertain. NNRTIs bind a pocket that is quite specific to HIV-1 RT and generally work poorly against the RT of other lentiviruses. A 2023 biochemical and structural study (PMID 38031646) compared NNRTIs, including efavirenz, against feline and human immunodeficiency virus RT. The data compiled for this report do not include its results, so efavirenz's activity against FIV cannot be confirmed. Cross-species activity should not be assumed.
 
@@ -134,12 +134,13 @@ The prediction rests on model output alone plus one preclinical study. There are
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 14 US licenses are valid; the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "In addition, the drug is marketed, with all 14 US licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: efavirenz prescribing information, Macleods Pharmaceuticals Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13ca3456-e5bf-4bb1-af95-b1378658a358) |
 
 <!-- review:end log -->
 

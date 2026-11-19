@@ -56,7 +56,7 @@ The prediction comes from the TxGNN model (deep learning) and is not supported b
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, PTU inhibits thyroid peroxidase, which reduces thyroid hormone synthesis, and it also blocks peripheral conversion of T4 to T3. This is why it works in hyperthyroidism and Graves disease.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for propylthiouracil: "Propylthiouracil inhibits the synthesis of thyroid hormones and thus is effective in the treatment of hyperthyroidism. The drug does not inactivate existing thyroxine and triiodothyronine that are stored in the thyroid or circulating in the blood, nor does it interfere with the effectiveness of thyroid hormones given by mouth or by injection." ([DailyMed: propylthiouracil prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d819e532-09ac-434a-84a6-636c4204c7aa), label version 2026-08-27; accessed 2026-11-19.) Based on known pharmacology, PTU inhibits thyroid peroxidase, which reduces thyroid hormone synthesis, and it also blocks peripheral conversion of T4 to T3. This is why it works in hyperthyroidism and Graves disease.
 
 The predicted indication is a different kind of problem. In resistance to thyroid hormone (RTH beta), mutations in the THRB gene make tissues respond poorly to circulating thyroid hormone. Hormone levels are high, but the defect lies in the receptor. Lowering hormone levels is therefore mechanistically questionable. It could worsen hypothyroidism in resistant tissues and push TSH higher, which may enlarge the goitre. One published case in the compiled literature fits this concern: a patient with RTH was treated with PTU for presumed thyrotoxicosis, and her goitre became larger.
 
@@ -138,12 +138,13 @@ The prediction score is very high, but there are no clinical trials and the lite
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 5 US authorizations are valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "All five authorizations are oral tablets and all are listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: propylthiouracil prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d819e532-09ac-434a-84a6-636c4204c7aa) |
 
 <!-- review:end log -->
 

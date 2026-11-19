@@ -57,7 +57,7 @@ with **2 clinical trials** and **6 publications** currently supporting this dire
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, desloratadine is a selective peripheral H1-receptor inverse agonist. It blocks the histamine-driven wheal and flare response.
+According to the Mechanism of Action section of the FDA-approved prescribing information for desloratadine: "Desloratadine is a long-acting tricyclic histamine antagonist with selective H1-receptor histamine antagonist activity. Receptor binding data indicates that at a concentration of 2-3 ng/mL (7 nanomolar), desloratadine shows significant interaction with the human histamine H1-receptor." ([DailyMed: Desloratadine Oral Solution (desloratadine) prescribing information, INA Pharmaceutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41d5e0d4-6188-847b-e063-6294a90a2e2f), label version 2025-10-23; accessed 2026-11-19.) Based on known pharmacology, desloratadine is a selective peripheral H1-receptor inverse agonist. It blocks the histamine-driven wheal and flare response.
 
 Cold urticaria is a histamine-mediated physical urticaria. Desloratadine is already used for idiopathic and allergic urticaria, so the new indication sits close to existing use. Increasing the dose of second-generation H1 antihistamines is also endorsed by guidelines for patients with cold urticaria who do not respond to the standard dose. The repurposing rationale is therefore mechanistically coherent.
 
@@ -129,11 +129,12 @@ Two completed randomized, double-blind Phase 4 trials and three published RCTs d
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the product's US licenses are all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Desloratadine Oral Solution (desloratadine) prescribing information, INA Pharmaceutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41d5e0d4-6188-847b-e063-6294a90a2e2f) |
 
 <!-- review:end log -->
 

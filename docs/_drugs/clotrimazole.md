@@ -58,7 +58,7 @@ Clotrimazole is a topical azole antifungal marketed in the United States as crea
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Clotrimazole belongs to the azole antifungal class, which inhibits fungal CYP51 and so disrupts the fungal cell membrane. It also has some anti-inflammatory activity.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for clotrimazole: "Clotrimazole is a broad-spectrum antifungal agent that inhibits the growth of pathogenic yeasts by altering the permeability of cell membranes. The action of clotrimazole is fungistatic at concentrations of drug up to 20 mcg/mL and may be fungicidal in vitro against Candida albicans and other species of the genus Candida at higher concentrations." ([DailyMed: clotrimazole prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=980736aa-751a-4642-ab85-a309435fd02f), label version 2025-03-27; accessed 2026-11-19.) Clotrimazole belongs to the azole antifungal class, which inhibits fungal CYP51 and so disrupts the fungal cell membrane. It also has some anti-inflammatory activity.
 
 The suggested link to acne is indirect. Colonisation by *Malassezia* or *Candida* has been proposed as a contributor to acne-like folliculitis, so an antifungal could in theory help in that subset of cases. This is a hypothesis only. The one registered trial tested a fixed combination of beclomethasone, gentamicin and clotrimazole, so any effect cannot be attributed to clotrimazole alone.
 
@@ -127,11 +127,12 @@ No completed study tests clotrimazole in acne. The only trial is a suspended stu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 4 listed licences are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: clotrimazole prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=980736aa-751a-4642-ab85-a309435fd02f) |
 
 <!-- review:end log -->
 

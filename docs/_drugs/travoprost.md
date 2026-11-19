@@ -56,7 +56,7 @@ The model's other top-ranked predictions are likewise unsupported, so this repor
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not available in the data compiled for this report. Based on known pharmacology, travoprost is a prostaglandin F2-alpha analog that acts on the FP receptor. In glaucoma it lowers eye pressure mainly by increasing uveoscleral outflow. It also has vasoactive properties.
+According to the Mechanism of Action section of the FDA-approved prescribing information for travoprost: "Travoprost free acid, a prostaglandin analog is a selective FP prostanoid receptor agonist, which is believed to reduce IOP by increasing uveoscleral outflow. The exact mechanism of action is unknown at this time." ([DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5), label version 2026-09-28; accessed 2026-11-19.) Based on known pharmacology, travoprost is a prostaglandin F2-alpha analog that acts on the FP receptor. In glaucoma it lowers eye pressure mainly by increasing uveoscleral outflow. It also has vasoactive properties.
 
 The link between the original and predicted indications is weak. Visceral calciphylaxis (calcific uremic arteriolopathy) is a disease of small-vessel calcification and clotting, usually seen in kidney failure. No plausible mechanistic connection to FP receptor agonism has been established. Topical eye drops also produce minimal systemic exposure, so meaningful effects on visceral blood vessels are unlikely.
 
@@ -132,12 +132,13 @@ The prediction rests on model output alone (L5). There are no trials or publicat
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All nine US authorizations are valid, and the approved-indication text was not available for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "All nine US licenses are valid, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data was not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5) |
 
 <!-- review:end log -->
 

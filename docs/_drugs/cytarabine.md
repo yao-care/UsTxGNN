@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **small cell lung carcinoma**, 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, cytarabine is a pyrimidine nucleoside antimetabolite that inhibits DNA synthesis. It is most active against rapidly dividing cells, which explains its established role in leukemia.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for cytarabine: "Although the mechanism of action is not completely understood, it appears that cytarabine acts through the inhibition of DNA polymerase. A limited, but significant, incorporation of cytarabine into both DNA and RNA has also been reported." ([DailyMed: cytarabine prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3a8c0e9-19ed-49b7-8464-11e8806f47fd), label version 2026-10-19; accessed 2026-11-19.) Based on known pharmacology, cytarabine is a pyrimidine nucleoside antimetabolite that inhibits DNA synthesis. It is most active against rapidly dividing cells, which explains its established role in leukemia.
 
 Small cell lung carcinoma is also a fast-growing tumor, so a general rationale for antimetabolite activity exists. However, the retrieved literature is mostly about non-small cell lung cancer (NSCLC) and related agents (gemcitabine, decitabine, topotecan). One older report, "High-dose cytarabine in small cell lung cancer" (1987), is directly relevant by title, but no abstract was available to assess its findings. Literature also notes that many solid tumors are insensitive to cytarabine. The high TxGNN score is a computational prediction only and should not be read as clinical proof.
 
@@ -154,12 +154,13 @@ The prediction rests on a computational score and indirect evidence. No clinical
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 12 US authorizations are valid and the drug is marketed, and no approved indication text was available" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "Clarification of regulatory and supply status given that the drug is marketed and all 12 US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: cytarabine prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3a8c0e9-19ed-49b7-8464-11e8806f47fd) |
 
 <!-- review:end log -->
 

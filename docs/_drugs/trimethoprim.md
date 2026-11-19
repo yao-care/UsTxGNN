@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Punctate Epithelial Keratocon
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, trimethoprim inhibits bacterial dihydrofolate reductase, and it is used in ophthalmic solutions, usually combined with polymyxin B, for bacterial conjunctivitis and blepharoconjunctivitis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for trimethoprim: "Trimethoprim blocks the production of tetrahydrofolic acid from dihydrofolic acid by binding to and reversibly inhibiting the required enzyme, dihydrofolate reductase. This binding is very much stronger for the bacterial enzyme than for the corresponding mammalian enzyme." ([DailyMed: trimethoprim prescribing information, SQUARE PHARMACEUTICALS PLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e53ccf1b-315f-4454-824e-f69769908597), label version 2026-11-15; accessed 2026-11-19.) Based on known pharmacology, trimethoprim inhibits bacterial dihydrofolate reductase, and it is used in ophthalmic solutions, usually combined with polymyxin B, for bacterial conjunctivitis and blepharoconjunctivitis.
 
 The link to punctate epithelial keratoconjunctivitis is weak. This condition is frequently viral (for example adenoviral) or immune-mediated, so an antibacterial would not be expected to address the primary cause. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between this disease and the already-listed conjunctivitis indications, not biological evidence. Bacterial superinfection prophylaxis is a theoretical role only and is not supported by any evidence provided.
 
@@ -138,13 +138,14 @@ The 0.9957 score is a computational prediction only, with no trials or literatur
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Two further cancelled licences (ANDA211572 and ANDA065006) are polymyxin B/trimethoprim ophthalmic solutions" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 7 of 7 licences valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 7 of 7 licences valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: trimethoprim prescribing information, SQUARE PHARMACEUTICALS PLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e53ccf1b-315f-4454-824e-f69769908597) |
 
 <!-- review:end log -->
 

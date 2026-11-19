@@ -60,7 +60,7 @@ Among the other nine predictions, only "lung germ cell tumor" has any (indirect)
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, pembrolizumab is a monoclonal antibody that targets programmed cell death protein 1 (PD-1, CD279). By blocking PD-1, it releases the "brake" on T cells so the immune system can attack tumours. Its efficacy in lung cancer and melanoma is well established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for pembrolizumab: "Binding of the PD-1 ligands, PD-L1 and PD-L2, to the PD-1 receptor found on T cells, inhibits T cell proliferation and cytokine production. Upregulation of PD-1 ligands occurs in some tumors and signaling through this pathway can contribute to inhibition of active T-cell immune surveillance of tumors. […] Pembrolizumab is a monoclonal antibody that binds to the PD-1 receptor and blocks its interaction with PD-L1 and PD-L2, releasing PD-1 pathway-mediated inhibition of the immune response, including the anti-tumor immune response." ([DailyMed: Keytruda (pembrolizumab) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9333c79b-d487-4538-a9f0-71b91a02b287), label version 2026-10-16; accessed 2026-11-19.) Based on known information, pembrolizumab is a monoclonal antibody that targets programmed cell death protein 1 (PD-1, CD279). By blocking PD-1, it releases the "brake" on T cells so the immune system can attack tumours. Its efficacy in lung cancer and melanoma is well established.
 
 For gingival fibromatosis, however, no mechanistic link has been established. It is a non-malignant fibrotic condition, and PD-1 blockade has no known rationale in it. The high TxGNN score (0.994) appears to be a TxGNN model (deep learning) artifact rather than a biologically grounded signal. Note that scores across the top ten predictions are all about 99.3–0.9940, so the score does little to distinguish between candidates.
 
@@ -161,12 +161,13 @@ The top prediction, gingival fibromatosis, rests on a model score alone, with no
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license record is marked cancelled, and no indication text was captured" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "Confirmation of current US licensing status, since the only record is marked cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Keytruda (pembrolizumab) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9333c79b-d487-4538-a9f0-71b91a02b287) |
 
 <!-- review:end log -->
 

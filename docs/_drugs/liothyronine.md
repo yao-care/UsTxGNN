@@ -60,7 +60,7 @@ No plausible mechanism links thyroid hormone replacement to this congenital kidn
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, liothyronine is the active form of thyroid hormone (T3). Its efficacy in hypothyroidism is well established, since it replaces the missing hormone. Its mechanistic applicability to renal hypodysplasia/aplasia is not supported.
+According to the Mechanism of Action section of the FDA-approved prescribing information for liothyronine: "Thyroid hormones exert their physiologic actions through control of DNA transcription and protein synthesis. Triiodothyronine (T3) and L-thyroxine (T4) diffuse into the cell nucleus and bind to thyroid receptor proteins attached to DNA." ([DailyMed: Cytomel (liothyronine sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51452b31-ff68-4e0c-b982-c15502ebf1d3), label version 2026-05-18; accessed 2026-11-19.) Based on known information, liothyronine is the active form of thyroid hormone (T3). Its efficacy in hypothyroidism is well established, since it replaces the missing hormone. Its mechanistic applicability to renal hypodysplasia/aplasia is not supported.
 
 Renal hypodysplasia/aplasia is a developmental malformation in which the kidneys form incompletely or not at all. Hormone replacement cannot restore missing or malformed organs. The very high TxGNN score (0.9995) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -136,11 +136,12 @@ The prediction rests only on a TxGNN model (deep learning) score. There are no c
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 5 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cytomel (liothyronine sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51452b31-ff68-4e0c-b982-c15502ebf1d3) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, nafarelin is a peptide GnRH agonist that acts on the GnRH receptor (GNRHR). Continuous exposure suppresses gonadotropin release and therefore sex steroid production. This is why it works in hormone-dependent conditions such as endometriosis and central precocious puberty.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for nafarelin: "Nafarelin acetate is a potent agonistic analog of gonadotropin-releasing hormone (GnRH). At the onset of administration, nafarelin stimulates the release of the pituitary gonadotropins, LH and FSH, resulting in a temporary increase of gonadal steroidogenesis." ([DailyMed: Synarel (nafarelin acetate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d0aa57cb-d2f4-46d7-af43-7c8b06aa81a6), label version 2026-03-05; accessed 2026-11-19.) Based on known pharmacology, nafarelin is a peptide GnRH agonist that acts on the GnRH receptor (GNRHR). Continuous exposure suppresses gonadotropin release and therefore sex steroid production. This is why it works in hormone-dependent conditions such as endometriosis and central precocious puberty.
 
 The predicted indication, Ambras syndrome, is a congenital hypertrichosis linked to genomic rearrangements affecting regulation of the *TRPS1* gene. Its cause is developmental and genetic rather than driven by sex hormones. No established mechanistic link to GnRH-agonist-mediated hormonal suppression was identified. The high score appears to be a network-based association with no supporting clinical or literature data, so this prediction should be viewed as **speculative**.
 
@@ -135,12 +135,13 @@ The prediction rests only on a network-based score, with no clinical trials, no 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US authorization is cancelled, which further limits practical development" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given that the NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Synarel (nafarelin acetate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d0aa57cb-d2f4-46d7-af43-7c8b06aa81a6) |
 
 <!-- review:end log -->
 

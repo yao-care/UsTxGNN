@@ -60,7 +60,7 @@ This prediction has **0 clinical trials** behind it. The **20 publications** ret
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Generally, NO is a selective pulmonary vasodilator. It works through the guanylate cyclase and cGMP signalling pathway, which is the basis of its use in pulmonary hypertension.
+According to the Mechanism of Action section of the FDA-approved prescribing information for nitric oxide: "Nitric oxide relaxes vascular smooth muscle by binding to the heme moiety of cytosolic guanylate cyclase, activating guanylate cyclase and increasing intracellular levels of cyclic guanosine 3',5'-monophosphate, which then leads to vasodilation. When inhaled, nitric oxide selectively dilates the pulmonary vasculature, and because of efficient scavenging by hemoglobin, has minimal effect on the systemic vasculature." ([DailyMed: Inomax (nitric oxide) prescribing information, INO Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=762b51be-1893-4cd1-9511-e645fc420d3a), label version 2025-12-12; accessed 2026-11-19.) Generally, NO is a selective pulmonary vasodilator. It works through the guanylate cyclase and cGMP signalling pathway, which is the basis of its use in pulmonary hypertension.
 
 The link to a condition with a dental or periodontal component is weak. NO also acts as an inflammatory mediator and is produced in periodontal disease. Some of the retrieved papers describe NO production by macrophages stimulated with *Porphyromonas gingivalis* vesicles. Others describe how oral bacteria produce nitrite and NO. These findings describe NO's biological role in the mouth. They do not show that giving NO treats a malformation syndrome.
 
@@ -125,12 +125,24 @@ Please refer to the package insert for complete warnings and contraindications.
 **Rationale:**
 The prediction rests only on a very high model score (0.9957). No clinical trials exist, and the literature is indirect laboratory work on periodontitis. NO is also delivered as an inhaled gas, and all four US licenses are valid. No clear mechanism links it to a congenital malformation syndrome with a dental component.
 
-
 **To proceed, the following is needed:**
 - Mechanism of action data for the drug
 - A plausible biological rationale for NO in this specific malformation syndrome, supported by disease-specific preclinical studies
 - Confirmation that an inhaled gas can reach and act on the relevant target tissue
 - Full safety information from the current package insert, including methemoglobinemia monitoring and the interaction risks listed above
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Inomax (nitric oxide) prescribing information, INO Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=762b51be-1893-4cd1-9511-e645fc420d3a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

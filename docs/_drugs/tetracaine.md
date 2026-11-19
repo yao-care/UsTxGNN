@@ -56,7 +56,7 @@ The high score comes from the TxGNN model (deep learning) and may reflect simila
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Tetracaine is generally known as a local ester anesthetic that blocks voltage-gated sodium channels.
+According to the Mechanism of Action section of the FDA-approved prescribing information for tetracaine: "Tetracaine blocks sodium ion channels required for the initiation and conduction of neuronal impulses thereby affecting local anesthesia." ([DailyMed: tetracaine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01fba5f8-a60a-444c-9abd-299540b8815a), label version 2026-08-28; accessed 2026-11-19.) Tetracaine is generally known as a local ester anesthetic that blocks voltage-gated sodium channels.
 
 Acrodermatitis chronica atrophicans is a late-stage skin infection caused by Borrelia. Tetracaine has no known antimicrobial or anti-inflammatory activity relevant to this disease. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or a real mechanistic link.
 
@@ -146,12 +146,13 @@ The top prediction has no clinical trials and no literature. Tetracaine has no p
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All five licenses are valid, and the data contain no approved indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "All five US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: tetracaine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01fba5f8-a60a-444c-9abd-299540b8815a) |
 
 <!-- review:end log -->
 

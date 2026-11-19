@@ -56,7 +56,7 @@ The prediction is computational only.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Tretinoin is a retinoid (a vitamin A derivative) with established efficacy in acne and acute promyelocytic leukemia. Mechanistically, it may be applicable to rheumatoid nodulosis, but this has not been tested.
+According to the Mechanism of Action section of the FDA-approved prescribing information for tretinoin: "Tretinoin induces cytodifferentiation and decreased proliferation of APL cells in culture and in vivo. In APL patients, tretinoin treatment produces an initial maturation of the primitive promyelocytes derived from the leukemic clone, followed by a repopulation of the bone marrow and peripheral blood by normal, polyclonal hematopoietic cells in patients achieving complete remission (CR)." ([DailyMed: tretinoin prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c4ae9d9-c2a0-4995-a27a-e3f0f0284db9), label version 2026-08-20; accessed 2026-11-19.) Tretinoin is a retinoid (a vitamin A derivative) with established efficacy in acne and acute promyelocytic leukemia. Mechanistically, it may be applicable to rheumatoid nodulosis, but this has not been tested.
 
 A plausible but unverified link is retinoid-mediated modulation of inflammation and of fibroblast and tissue remodeling. The high TxGNN score (0.9984) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Rheumatoid nodulosis is also very different from the original indications (skin keratinization disorders and a blood cancer), so the similarity to the original use has not been established.
 
@@ -145,11 +145,12 @@ The prediction rests solely on a computational score. There are no clinical tria
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "There are 16 valid US licenses and n" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: tretinoin prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c4ae9d9-c2a0-4995-a27a-e3f0f0284db9) |
 
 <!-- review:end log -->
 

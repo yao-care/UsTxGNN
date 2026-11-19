@@ -54,7 +54,7 @@ Benzoyl peroxide is a topical agent used for skin conditions, mainly acne. The T
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Benzoyl peroxide is generally known as a topical oxidizing agent with antibacterial, keratolytic and comedolytic activity.
+According to the Mechanism of Action section of the FDA-approved prescribing information for benzoyl peroxide: "Benzoyl peroxide is an oxidizing agent with bactericidal and keratolytic effects but the precise mechanism of action in the treatment of rosacea is unknown." ([DailyMed: Epsolay (benzoyl peroxide) prescribing information, Mayne Pharma Commercial LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c), label version 2025-08-11; accessed 2026-11-19.) Benzoyl peroxide is generally known as a topical oxidizing agent with antibacterial, keratolytic and comedolytic activity.
 
 Inverted follicular keratosis is a benign follicular growth that is related to seborrheic keratosis. The model's association may reflect this link to follicular and keratinizing skin conditions. This link is speculative.
 
@@ -93,6 +93,19 @@ The model score is very high (0.9992), but there are no clinical trials or publi
 - Mechanism-of-action data
 - Package insert warnings and contraindications
 - An assessment of mucosal tolerability for vulvar application
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Epsolay (benzoyl peroxide) prescribing information, Mayne Pharma Commercial LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ with **39 clinical trials** and **18 publications** compiled for this prediction
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on established pharmacology, busulfan is an alkylating agent that cross-links DNA and is myeloablative.
+According to the Mechanism of Action section of the FDA-approved prescribing information for busulfan: "Busulfan is a bifunctional alkylating agent in which two labile methanesulfonate groups are attached to opposite ends of a four-carbon alkyl chain. In aqueous media, busulfan hydrolyzes to release the methanesulfonate groups." ([DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203), label version 2026-07-29; accessed 2026-11-19.) Based on established pharmacology, busulfan is an alkylating agent that cross-links DNA and is myeloablative.
 
 In MDS, allogeneic stem cell transplantation is the only potentially curative approach, and busulfan-based regimens (Bu/Cy, Flu/Bu, Bu/Cy with additions) clear malignant marrow and create space for donor engraftment. The benefit is therefore a transplant-conditioning role rather than direct disease modification. This is consistent with a randomized phase 3 trial comparing busulfan-TBI with cyclophosphamide-TBI in advanced MDS (NCT00005866), and with several newer trials adding venetoclax or decitabine to busulfan backbones.
 
@@ -162,13 +162,14 @@ Multiple randomized phase 3 and phase 2/3 trials and several phase 3 publication
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 9 listed licenses are valid (9 of 9); the approved indication text is blank in the compiled data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "all 9 of 9 US licenses are valid and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Four more ANDAs (Amneal, Sagent, Eugia, Hospira) are also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203) |
 
 <!-- review:end log -->
 

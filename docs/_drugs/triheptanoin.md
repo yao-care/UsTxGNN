@@ -56,7 +56,7 @@ The prediction rests on the model score alone.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge of its chemistry, triheptanoin is a triglyceride of heptanoate (C7). It is thought to supply anaplerotic substrates, such as propionyl-CoA and succinyl-CoA, to the TCA cycle, which supports cellular energy metabolism.
+According to the Mechanism of Action section of the FDA-approved prescribing information for triheptanoin: "Triheptanoin is a medium-chain triglyceride consisting of three odd-chain 7-carbon length fatty acids (heptanoate) that provide a source of calories and fatty acids to bypass the long-chain FAOD enzyme deficiencies for energy production and replacement." ([DailyMed: Dojolvi (triheptanoin) prescribing information, Ultragenyx Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4cfeb8bd-143e-4dd7-bc34-b0bcda02460d), label version 2025-06-10; accessed 2026-11-19.) Based on general knowledge of its chemistry, triheptanoin is a triglyceride of heptanoate (C7). It is thought to supply anaplerotic substrates, such as propionyl-CoA and succinyl-CoA, to the TCA cycle, which supports cellular energy metabolism.
 
 The link to the predicted indication is speculative. Tetanic cataract is a lens opacity associated with low blood calcium. No connection between triheptanoin's metabolic action and calcium-related lens changes has been identified, and no trial or publication tests it.
 
@@ -110,11 +110,12 @@ The prediction for tetanic cataract is supported only by a model score, with no 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "he US license is also cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dojolvi (triheptanoin) prescribing information, Ultragenyx Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4cfeb8bd-143e-4dd7-bc34-b0bcda02460d) |
 
 <!-- review:end log -->
 

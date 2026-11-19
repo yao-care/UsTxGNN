@@ -60,7 +60,7 @@ Among the other predictions, **insomnia** has the most supporting literature (17
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not available in the data compiled for this report. Lorazepam is generally known as a positive allosteric modulator of the GABA-A receptor, which gives it anxiolytic, sedative and anticonvulsant effects. These effects are established in anxiety and seizure emergencies.
+According to the Mechanism of Action section of the FDA-approved prescribing information for lorazepam: "Lorazepam exerts its effect for the treatment of anxiety disorders through binding to the benzodiazepine site of the gamma-aminobutyric acid-A (GABA A ) receptors in the brain and enhances GABA-mediated synaptic inhibition." ([DailyMed: Loreev Xr (lorazepam) prescribing information, Almatica Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=227734c1-bf01-9607-73ea-5a1f38a89bd9), label version 2025-10-08; accessed 2026-11-19.) Lorazepam is generally known as a positive allosteric modulator of the GABA-A receptor, which gives it anxiolytic, sedative and anticonvulsant effects. These effects are established in anxiety and seizure emergencies.
 
 For trigeminal nerve neoplasm, the data supports **no mechanistic link**. Lorazepam has no known antineoplastic activity. Any realistic use would be symptom control (for example anxiety or seizures in a patient with a tumor), not treating the tumor itself. The very high model score (0.9987) is not backed by any trial or publication. It comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -160,13 +160,14 @@ The top prediction, trigeminal nerve neoplasm, has a very high model score but n
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Two further cancelled ANDAs (ANDA203572, Preferred Pharmaceuticals; ANDA076045, PD-Rx) are not shown" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with seven valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with seven valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data was not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Loreev Xr (lorazepam) prescribing information, Almatica Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=227734c1-bf01-9607-73ea-5a1f38a89bd9) |
 
 <!-- review:end log -->
 

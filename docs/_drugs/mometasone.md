@@ -56,7 +56,7 @@ but there are currently **0 registered clinical trials** and only **2 case repor
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available for mometasone in the data compiled for this report. Based on known pharmacology, mometasone is a synthetic corticosteroid that binds the glucocorticoid receptor (NR3C1). It is a medium-to-high potency agent and has been used for inflammatory conditions of the airways and skin.
+According to the Mechanism of Action section of the FDA-approved prescribing information for mometasone: "Mometasone furoate is a corticosteroid demonstrating potent anti-inflammatory activity. The precise mechanism of corticosteroid action on asthma is not known. Inflammation is an important component in the pathogenesis of asthma." ([DailyMed: Asmanex Hfa (mometasone furoate) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c6d63da-41bc-4894-bead-198e66c848ac), label version 2026-07-07; accessed 2026-11-19.) Based on known pharmacology, mometasone is a synthetic corticosteroid that binds the glucocorticoid receptor (NR3C1). It is a medium-to-high potency agent and has been used for inflammatory conditions of the airways and skin.
 
 Topical corticosteroids are an established skin-directed therapy for early-stage mycosis fungoides, the most common form of primary cutaneous T-cell lymphoma. Through glucocorticoid receptor signalling, they exert anti-inflammatory and pro-apoptotic effects on both malignant and reactive T cells. This gives a plausible class-level mechanistic link between mometasone and the predicted indication.
 
@@ -133,13 +133,14 @@ The prediction (primary cutaneous T-cell lymphoma, score 0.9936) comes from the 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "The drug is marketed in the US, and all 4 licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 4 valid licenses, but the available products are nasal sprays, which are not suited to skin-directed therapy" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(topical versus the nasal spray forms in the data) and of the regulatory and commercial implications of the cancelled status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data are not available for mometasone in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Asmanex Hfa (mometasone furoate) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c6d63da-41bc-4894-bead-198e66c848ac) |
 
 <!-- review:end log -->
 

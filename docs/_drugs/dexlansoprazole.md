@@ -55,7 +55,7 @@ Currently **2 completed Phase 3 trials** (in erosive esophagitis, so indirect ev
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. However, dexlansoprazole belongs to the well-established proton pump inhibitor class. These drugs irreversibly block the H+/K+ ATPase in gastric parietal cells and suppress gastric acid secretion. Raising gastric pH allows ulcerated mucosa to heal.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dexlansoprazole: "Dexlansoprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the (H +, K + )-ATPase at the secretory surface of the gastric parietal cell. Because this enzyme is regarded as the acid (proton) pump within the parietal cell, dexlansoprazole has been characterized as a gastric proton-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Dexlansoprazole Delayed Release (dexlansoprazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55c550b4-eb8b-4e69-9c09-fa5125a52e65), label version 2026-11-04; accessed 2026-11-19.) However, dexlansoprazole belongs to the well-established proton pump inhibitor class. These drugs irreversibly block the H+/K+ ATPase in gastric parietal cells and suppress gastric acid secretion. Raising gastric pH allows ulcerated mucosa to heal.
 
 This prediction is therefore effectively an on-label or near-label indication rather than true repurposing. The high TxGNN score mainly reflects this close relationship.
 
@@ -133,11 +133,12 @@ Other high-ranking predictions, summarized for reference:
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Clarification of the cancelled US market status and any re-licensing plan" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dexlansoprazole Delayed Release (dexlansoprazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55c550b4-eb8b-4e69-9c09-fa5125a52e65) |
 
 <!-- review:end log -->
 

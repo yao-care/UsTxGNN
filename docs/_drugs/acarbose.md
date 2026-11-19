@@ -55,7 +55,7 @@ The TxGNN model (deep learning) predicts it may be effective for **classic stiff
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, acarbose is an alpha-glucosidase inhibitor that acts in the gut to slow carbohydrate digestion and lower postprandial blood glucose. Its efficacy in type 2 diabetes is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for acarbose: "In contrast to sulfonylureas, Acarbose Tablets do not enhance insulin secretion. The antihyperglycemic action of acarbose results from a competitive, reversible inhibition of pancreatic alpha-amylase and membrane-bound intestinal alpha-glucoside hydrolase enzymes." ([DailyMed: acarbose prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ba7a072-03b0-41f2-be7a-101145bdef3a), label version 2026-08-11; accessed 2026-11-19.) Based on known information, acarbose is an alpha-glucosidase inhibitor that acts in the gut to slow carbohydrate digestion and lower postprandial blood glucose. Its efficacy in type 2 diabetes is established.
 
 For stiff person syndrome, no clear mechanistic link exists. The condition is an autoimmune disorder of GABAergic neurotransmission, typically involving anti-GAD65 antibodies. The high score probably reflects network proximity through autoimmune diabetes and GAD autoimmunity, not a direct pharmacological rationale. Acarbose has no known action on the nervous system or on the autoimmune process.
 
@@ -117,11 +117,12 @@ The prediction rests on model output alone (evidence level L5), with no clinical
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "The drug is marketed in the US, and all 3 licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: acarbose prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ba7a072-03b0-41f2-be7a-101145bdef3a) |
 
 <!-- review:end log -->
 

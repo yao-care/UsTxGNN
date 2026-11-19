@@ -55,7 +55,7 @@ but the data compiled for this report contain **0 clinical trials** and **0 publ
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on general pharmacological knowledge, rufinamide is a sodium channel modulator that prolongs the inactive state of voltage-gated sodium channels. Its efficacy in Lennox-Gastaut syndrome has been established, so it may plausibly provide broad anti-seizure activity in other severe epilepsies.
+According to the Mechanism of Action section of the FDA-approved prescribing information for rufinamide: "The precise mechanism(s) by which rufinamide exerts its antiepileptic effect is unknown. The results of in vitro studies suggest that the principal mechanism of action of rufinamide is modulation of the activity of sodium channels and, in particular, prolongation of the inactive state of the channel." ([DailyMed: Banzel (rufinamide) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a3fa925-1abd-458a-bd57-4ae780a1ef2d), label version 2022-12-15; accessed 2026-11-19.) Based on general pharmacological knowledge, rufinamide is a sodium channel modulator that prolongs the inactive state of voltage-gated sodium channels. Its efficacy in Lennox-Gastaut syndrome has been established, so it may plausibly provide broad anti-seizure activity in other severe epilepsies.
 
 The link to FIRES is weak, however. FIRES is a refractory status epilepticus driven largely by neuroinflammation, and sodium channel blockers generally offer limited benefit in it.
 
@@ -124,11 +124,12 @@ The prediction has only a model score (L5) behind it, with no clinical trials or
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "the cancelled US license status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Banzel (rufinamide) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a3fa925-1abd-458a-bd57-4ae780a1ef2d) |
 
 <!-- review:end log -->
 

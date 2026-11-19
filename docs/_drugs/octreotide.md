@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Vulvar Inverted Follicular Ke
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, octreotide is a somatostatin analogue that acts on somatostatin receptors (mainly SSTR2 and SSTR5). Its efficacy in acromegaly and carcinoid syndrome is established, and it works by suppressing hormone secretion, including growth hormone and, through it, IGF-1.
+According to the Mechanism of Action section of the FDA-approved prescribing information for octreotide: "Sandostatin Injection exerts pharmacologic actions similar to the natural hormone, somatostatin. It is an even more potent inhibitor of GH, glucagon, and insulin than somatostatin. […] By virtue of these pharmacological actions, octreotide has been used to treat the symptoms associated with metastatic carcinoid tumors (flushing and diarrhea), and VIP secreting adenomas (watery diarrhea)." ([DailyMed: Sandostatin (octreotide acetate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e2c9856-1836-49f0-9472-4dbeeb408f39), label version 2026-07-22; accessed 2026-11-19.) Based on known pharmacology, octreotide is a somatostatin analogue that acts on somatostatin receptors (mainly SSTR2 and SSTR5). Its efficacy in acromegaly and carcinoid syndrome is established, and it works by suppressing hormone secretion, including growth hormone and, through it, IGF-1.
 
 A possible link to the predicted indication is that somatostatin receptors may be present in epidermal or follicular keratinocytes, and receptor agonism could slow keratinocyte proliferation or growth-factor signaling. This is speculation with no supporting data.
 
@@ -123,12 +123,13 @@ The prediction has no clinical or literature support (evidence level L5) and onl
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "given the 14 valid US authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-12 | Removed: "All 14 US authorizations are listed as valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sandostatin (octreotide acetate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e2c9856-1836-49f0-9472-4dbeeb408f39) |
 
 <!-- review:end log -->
 

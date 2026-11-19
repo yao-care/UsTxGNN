@@ -60,7 +60,7 @@ but currently there are **0 clinical trials** and only **1 publication** (a gene
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, cyanocobalamin is a form of vitamin B12, and its efficacy in vitamin B12 deficiency is established. It is a cofactor for methionine synthase and methylmalonyl-CoA mutase.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for cyanocobalamin: "CLINICAL PHAMRACOLOGY Vitamin B12 is essential to growth, cell reproduction, hematopoiesis, and nucleoprotein and myelin synthesis." ([DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d), label version 2025-12-08; accessed 2026-11-19.) Based on known information, cyanocobalamin is a form of vitamin B12, and its efficacy in vitamin B12 deficiency is established. It is a cofactor for methionine synthase and methylmalonyl-CoA mutase.
 
 Biotin is a cofactor for carboxylases such as propionyl-CoA carboxylase, which feeds into the methylmalonyl-CoA pathway. A plausible link is therefore shared propionate, branched-chain amino acid, and odd-chain fatty acid metabolism, along with a possible overlap in vitamin-dependent inborn errors of metabolism.
 
@@ -137,12 +137,13 @@ The TxGNN score is high (0.9960), but there are no registered clinical trials, a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 11 valid licenses for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d) |
 
 <!-- review:end log -->
 

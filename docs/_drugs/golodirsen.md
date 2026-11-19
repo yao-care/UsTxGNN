@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, golodirsen is an antisense phosphorodiamidate morpholino oligomer that causes exon 53 skipping in DMD pre-mRNA, allowing production of a shortened but partly functional dystrophin protein.
+According to the Mechanism of Action section of the FDA-approved prescribing information for golodirsen: "Golodirsen is designed to bind to exon 53 of dystrophin pre-mRNA resulting in exclusion of this exon during mRNA processing in patients with genetic mutations that are amenable to exon 53 skipping. Exon 53 skipping is intended to allow for production of an internally truncated dystrophin protein in patients with genetic mutations that are amenable to exon 53 skipping." ([DailyMed: Vyondys 53 (golodirsen) prescribing information, Sarepta Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=35c227d1-5b24-44b0-b5d3-f0f6b1c46bd5), label version 2025-03-13; accessed 2026-11-19.) Based on known pharmacology, golodirsen is an antisense phosphorodiamidate morpholino oligomer that causes exon 53 skipping in DMD pre-mRNA, allowing production of a shortened but partly functional dystrophin protein.
 
 Welander distal myopathy is linked to a founder variant in TIA1, a gene involved in RNA binding and stress granule biology. This is not a dystrophin defect, and it is not an exon 53-skippable lesion. No mechanistic link beyond the high prediction score has been established. The score most likely reflects network proximity between muscle diseases rather than a shared pathogenic mechanism.
 
@@ -106,11 +106,12 @@ The prediction has no supporting clinical trials or literature (evidence level L
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "In addition, the only US license is cancelled, and the package insert safety data has not been obtained" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vyondys 53 (golodirsen) prescribing information, Sarepta Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=35c227d1-5b24-44b0-b5d3-f0f6b1c46bd5) |
 
 <!-- review:end log -->
 

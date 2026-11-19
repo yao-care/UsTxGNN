@@ -56,7 +56,7 @@ but currently only **1 case report** supports this direction, with **no register
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, mepolizumab is an anti-IL-5 monoclonal antibody that depletes eosinophils. Its use in eosinophil-driven conditions such as eosinophilic pneumonia and pulmonary eosinophilia is the basis of its original indications.
+According to the Mechanism of Action section of the FDA-approved prescribing information for mepolizumab: "Mepolizumab is an IL-5 antagonist (IgG1 kappa). IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation, and survival of eosinophils. Mepolizumab binds to IL-5 with a dissociation constant of 100 pM, inhibiting the bioactivity of IL-5 by blocking its binding to the alpha chain of the IL-5 receptor complex expressed on the eosinophil cell surface." ([DailyMed: Nucala (mepolizumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea), label version 2025-08-06; accessed 2026-11-19.) Based on known information, mepolizumab is an anti-IL-5 monoclonal antibody that depletes eosinophils. Its use in eosinophil-driven conditions such as eosinophilic pneumonia and pulmonary eosinophilia is the basis of its original indications.
 
 A plausible link to immune-mediated thrombocytopenia exists only in a narrow context: hypereosinophilic syndrome accompanied by an immune-mediated cytopenia, where eosinophil-driven immune dysregulation may contribute to platelet destruction. There is no established role for IL-5 blockade in primary immune thrombocytopenia, which is driven mainly by anti-platelet autoantibodies and T-cell dysregulation.
 
@@ -107,11 +107,12 @@ The prediction rests on a single case report confounded by concomitant therapy, 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "as both listed BLAs are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nucala (mepolizumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea) |
 
 <!-- review:end log -->
 

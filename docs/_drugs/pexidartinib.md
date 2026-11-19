@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **HER2 positive breast carcinom
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. The published literature describes pexidartinib as an oral inhibitor of colony-stimulating factor 1 receptor (CSF1R), KIT and FLT3-ITD. In TGCT, CSF1 overexpression recruits CSF1R-bearing macrophages that drive tumor growth, and pexidartinib's efficacy there is well established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for pexidartinib: "Pexidartinib is a small molecule tyrosine kinase inhibitor that targets colony stimulating factor 1 receptor (CSF1R), KIT proto-oncogene receptor tyrosine kinase (KIT), and FMS-like tyrosine kinase 3 (FLT3) harboring an internal tandem duplication (ITD) mutation. Overexpression of the CSF1R ligand promotes cell proliferation and accumulation in the synovium." ([DailyMed: Turalio (pexidartinib hydrochloride) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b0ec4bf-b2ac-49ee-96af-7740ad3f2e16), label version 2025-01-16; accessed 2026-11-19.) The published literature describes pexidartinib as an oral inhibitor of colony-stimulating factor 1 receptor (CSF1R), KIT and FLT3-ITD. In TGCT, CSF1 overexpression recruits CSF1R-bearing macrophages that drive tumor growth, and pexidartinib's efficacy there is well established.
 
 The proposed link to breast cancer is indirect. CSF1R inhibition can reprogram tumor-associated macrophages, which may counter immunosuppression in the tumor microenvironment. The only linked paper (PMID 41986650) is a preclinical study in which CSF1R inhibitors reduced CDK4/6 inhibitor-induced immunosuppression in **HR+/HER2-** breast cancer. It addresses CSF1R inhibitors in general, not HER2-positive disease and not pexidartinib specifically.
 
@@ -146,12 +146,13 @@ The prediction for HER2-positive breast carcinoma has no clinical trials and onl
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the US license is cancelled-only" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given the cancelled-only market status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Turalio (pexidartinib hydrochloride) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b0ec4bf-b2ac-49ee-96af-7740ad3f2e16) |
 
 <!-- review:end log -->
 

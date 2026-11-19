@@ -56,7 +56,7 @@ with **no registered clinical trials** but **10 publications** (including 2 rand
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, sucralfate forms a protective, adherent barrier over damaged gastric and esophageal mucosa and binds bile acids and pepsin.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for sucralfate: "Although the mechanism of sucralfate's ability to accelerate healing of duodenal ulcers remains to be fully defined, it is known that it exerts its effect through a local, rather than systemic, action. The following observations also appear pertinent: 1." ([DailyMed: Sucralfate Oral Suspension (sucralfate) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e595c2a-edd0-43f7-a2db-69553b9557d9), label version 2026-01-06; accessed 2026-11-19.) Based on known pharmacology, sucralfate forms a protective, adherent barrier over damaged gastric and esophageal mucosa and binds bile acids and pepsin.
 
 In duodenogastric (bile) reflux, the stomach lining is injured by refluxed bile salts and pancreatic secretions. A drug that shields the mucosa and adsorbs bile acids could plausibly address this injury. This fits with sucralfate's established use in duodenal ulcer, peptic ulcer disease and gastritis, where mucosal protection is also the main therapeutic principle.
 
@@ -144,13 +144,14 @@ Two small, older randomized trials in alkaline reflux gastritis support the idea
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 9 authorizations are currently valid; only the first 5 are shown" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "where the drug is marketed with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sucralfate Oral Suspension (sucralfate) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e595c2a-edd0-43f7-a2db-69553b9557d9) |
 
 <!-- review:end log -->
 

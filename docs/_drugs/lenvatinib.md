@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **liposarcoma**, and the suppor
 
 ## Why is This Prediction Reasonable?
 
-Lenvatinib inhibits several receptor tyrosine kinases involved in angiogenesis and tumour-stroma signalling (VEGFR1-3, FGFR1-4, PDGFRα, RET, KIT). Blocking these pathways may suppress the blood supply and growth signals that sarcomas depend on. A formal mechanism-of-action entry was not available in the data compiled for this report, so this description rests on the known target profile.
+Lenvatinib inhibits several receptor tyrosine kinases involved in angiogenesis and tumour-stroma signalling (VEGFR1-3, FGFR1-4, PDGFRα, RET, KIT). Blocking these pathways may suppress the blood supply and growth signals that sarcomas depend on. According to the Mechanism of Action section of the FDA-approved prescribing information for lenvatinib: "Lenvatinib is a kinase inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4). Lenvatinib inhibits other kinases that have been implicated in pathogenic angiogenesis, tumor growth, and cancer progression in addition to their normal cellular functions, including fibroblast growth factor (FGF) receptors FGFR1, 2, 3, and 4; platelet derived growth factor receptor alpha (PDGFRA), KIT, and RET." ([DailyMed: Lenvima (lenvatinib) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4bedd21-efde-44c6-9d9c-b48b78d7ed1e), label version 2026-10-14; accessed 2026-11-19.) This description rests on the known target profile.
 
 Eribulin, a microtubule inhibitor, is already used in liposarcoma, and preclinical work showed that eribulin combined with agents of different mechanisms has broad antitumour activity. Combining it with an anti-angiogenic kinase inhibitor such as lenvatinib is therefore a reasonable strategy. Because the clinical data come from a combination study without a randomized comparison, lenvatinib's own contribution cannot be separated from eribulin's.
 
@@ -98,6 +98,18 @@ The only direct clinical evidence is one completed single-arm Phase Ib/II study 
 - Reported efficacy and safety results from the completed LEADER study
 - Package insert warnings and contraindications
 - A drug-interaction and monitoring plan, particularly for QT-prolonging agents
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "A formal mechanism-of-action entry was not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lenvima (lenvatinib) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4bedd21-efde-44c6-9d9c-b48b78d7ed1e) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

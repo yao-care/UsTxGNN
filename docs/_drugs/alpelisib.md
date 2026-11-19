@@ -54,7 +54,7 @@ Alpelisib is a PI3K-alpha inhibitor marketed in the US as PIQRAY and VIJOICE. Th
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Alpelisib is known to be a PI3K-alpha inhibitor, and the PI3K/AKT/mTOR pathway is biologically implicated in pulmonary vascular remodeling, particularly the proliferation of pulmonary artery smooth muscle cells. This offers a plausible theoretical link between the drug and pulmonary hypertension.
+According to the Mechanism of Action section of the FDA-approved prescribing information for alpelisib: "Alpelisib is an inhibitor of phosphatidylinositol-3-kinase (PI3K) with inhibitory activity predominantly against PI3Kα. Gain-of-function mutations in the gene encoding the catalytic α-subunit of PI3K (PIK3CA) lead to activation of PI3Kα and Akt-signaling, cellular transformation and the generation of tumors in in vitro and in vivo models." ([DailyMed: Piqray (alpelisib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b20b4e18-7a4b-4500-a08f-06c6dab0ee5b), label version 2026-10-28; accessed 2026-11-19.) Alpelisib is known to be a PI3K-alpha inhibitor, and the PI3K/AKT/mTOR pathway is biologically implicated in pulmonary vascular remodeling, particularly the proliferation of pulmonary artery smooth muscle cells. This offers a plausible theoretical link between the drug and pulmonary hypertension.
 
 However, this link is not supported by any evidence in the data compiled. The only publication retrieved (PMID 35730191) is a case report of alpelisib-induced interstitial lung disease in a patient with advanced breast cancer. It describes a pulmonary adverse effect rather than a therapeutic benefit, and it concerns interstitial lung disease rather than pulmonary hypertension. If anything, it is a lung safety signal.
 
@@ -124,11 +124,12 @@ The prediction is supported only by the model score (L5). There are no clinical 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the reasons for the NDA cancellations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Piqray (alpelisib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b20b4e18-7a4b-4500-a08f-06c6dab0ee5b) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Hydroquinone is a topical skin-lightening (depigmenting) agent. The TxGNN model 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, hydroquinone inhibits tyrosinase and reduces melanin synthesis. This is why it is used in pigmentary conditions such as melasma.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for hydroquinone: "Topical application of hydroquinone produces a reversible depigmentation of the skin by inhibition of the enzymatic oxidation of tyrosine to 3,4-dihydroxyphenylalanine (dopa) (Denton, C. et al., 1952)1 and suppression of other melanocyte metabolic processes (Jimbow, K. et al., 1974)2. Exposure to sunlight or ultraviolet light will cause repigmentation of bleached areas (Parrish, L.A. et al., 1978)3." ([DailyMed: Hydroquinone 4% (hydroquinone) prescribing information, Acella Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595dfc50-ee6f-41b5-ab5b-4c293aee342b), label version 2026-07-10; accessed 2026-11-19.) From general pharmacology, hydroquinone inhibits tyrosinase and reduces melanin synthesis. This is why it is used in pigmentary conditions such as melasma.
 
 Seborrheic keratosis is a benign epidermal growth that is often pigmented. A depigmenting agent might lighten the colour of these lesions, but it would not treat the growth itself. The only supporting document is a prospective observational study of combination treatment for facial pigmentary disorders, which is indirect evidence. The high TxGNN score is a computational prediction and should not be read as clinical proof.
 
@@ -122,12 +122,13 @@ The prediction score is high, but there are no clinical trials for seborrheic ke
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Clarification of the regulatory status, since the only US license on record is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "The U license is cancelled, and s" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Hydroquinone 4% (hydroquinone) prescribing information, Acella Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595dfc50-ee6f-41b5-ab5b-4c293aee342b) |
 
 <!-- review:end log -->
 

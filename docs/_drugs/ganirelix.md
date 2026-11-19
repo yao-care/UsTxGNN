@@ -56,7 +56,7 @@ The prediction rests on model output alone and should be treated as a hypothesis
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled records. Based on known pharmacology, ganirelix is a peptide antagonist of the GnRH receptor (GNRHR). It suppresses pituitary LH and FSH release and, indirectly, gonadal sex steroids.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for ganirelix: "The pulsatile release of GnRH stimulates the synthesis and secretion of luteinizing hormone (LH) and follicle-stimulating hormone (FSH). The frequency of LH pulses in the mid and late follicular phase is approximately 1 pulse per hour. […] Ganirelix acetate acts by competitively blocking the GnRH receptors on the pituitary gonadotroph and subsequent transduction pathway." ([DailyMed: Fyremadel (ganirelix acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f0908b5-3551-47fd-95f7-3669b0dff7f1), label version 2026-10-16; accessed 2026-11-19.) Based on known pharmacology, ganirelix is a peptide antagonist of the GnRH receptor (GNRHR). It suppresses pituitary LH and FSH release and, indirectly, gonadal sex steroids.
 
 The link to hypertrichosis is speculative. Hypertrichosis is not primarily driven by gonadotropins. Any connection would be through indirect modulation of sex steroids acting on hair follicles. The very high TxGNN score is a model output only.
 
@@ -116,11 +116,12 @@ The prediction for hypertrichosis has no supporting trials, no literature, and n
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Two further cancelled ANDAs (ANDA216075, Lupin; ANDA218855, Qilu) are also on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled records" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fyremadel (ganirelix acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f0908b5-3551-47fd-95f7-3669b0dff7f1) |
 
 <!-- review:end log -->
 

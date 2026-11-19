@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but **no cl
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the data compiled for this report. Based on general pharmacology, cevimeline is a muscarinic M1/M3 receptor agonist that increases exocrine gland secretion. Its efficacy in dry mouth is the basis of its original use.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for cevimeline: "Cevimeline is a cholinergic agonist which binds to muscarinic receptors. Muscarinic agonists in sufficient dosage can increase secretion of exocrine glands, such as salivary and sweat glands and increase tone of the smooth muscle in the gastrointestinal and urinary tracts." ([DailyMed: cevimeline hydrochloride prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8da082f8-a6a3-46b3-8405-fbc4c220e60b), label version 2026-10-05; accessed 2026-11-19.) Based on general pharmacology, cevimeline is a muscarinic M1/M3 receptor agonist that increases exocrine gland secretion. Its efficacy in dry mouth is the basis of its original use.
 
 No plausible mechanistic link between muscarinic agonism and hair follicle cycling or hypertrichosis is established in the available data. The high score (0.9926) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trial or publication backs it. Because the original mechanism data are missing, the prediction cannot be cross-checked against them.
 
@@ -124,12 +124,13 @@ The prediction rests only on a TxGNN model (deep learning) score, which may refl
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All eight US authorisations are oral capsules and all are listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(8 of 8 licenses valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: cevimeline hydrochloride prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8da082f8-a6a3-46b3-8405-fbc4c220e60b) |
 
 <!-- review:end log -->
 

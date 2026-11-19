@@ -56,7 +56,7 @@ but **no clinical trials and no publications** were found for this specific dise
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, anakinra blocks signaling of the cytokine IL-1 by occupying its receptor. IL-1 signaling is theoretically involved in mast cell-driven inflammation, which is the only conceptual bridge to this prediction.
+According to the Mechanism of Action section of the FDA-approved prescribing information for anakinra: "KINERET blocks the biologic activity of IL-1 alpha and beta by competitively inhibiting IL-1 binding to the interleukin-1 type I receptor (IL-1RI), which is expressed in a wide variety of tissues and organs. IL-1 production is induced in response to inflammatory stimuli and mediates various physiologic responses including inflammatory and immunological responses." ([DailyMed: Kineret (anakinra) prescribing information, Swedish Orphan Biovitrum AB (publ)](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d9d74915-6606-4570-9c52-c4001d3177de), label version 2026-04-03; accessed 2026-11-19.) Based on general knowledge, anakinra blocks signaling of the cytokine IL-1 by occupying its receptor. IL-1 signaling is theoretically involved in mast cell-driven inflammation, which is the only conceptual bridge to this prediction.
 
 However, the data compiled for this report show no direct link between anakinra and extracutaneous mastocytoma. No trials or publications address this disease, so the prediction should be treated as a hypothesis from the model rather than an evidence-backed direction.
 
@@ -108,11 +108,12 @@ The prediction score is very high, but there are no trials or publications for e
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The available record lists one authorization, and it is marked as cancelled in the licence details, while the overall market status is repor" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Kineret (anakinra) prescribing information, Swedish Orphan Biovitrum AB (publ)](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d9d74915-6606-4570-9c52-c4001d3177de) |
 
 <!-- review:end log -->
 

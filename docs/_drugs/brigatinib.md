@@ -54,7 +54,7 @@ Brigatinib is an oral kinase inhibitor (targeting ALK and other tyrosine kinases
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. From the broader literature, brigatinib is a next-generation ALK inhibitor that also inhibits other tyrosine kinases, including FAK and EGFR-family signalling.
+According to the Mechanism of Action section of the FDA-approved prescribing information for brigatinib: "Brigatinib is a tyrosine kinase inhibitor (TKI) with in vitro activity at clinically achievable concentrations against multiple kinases including ALK, ROS1, insulin-like growth factor-1 receptor (IGF-1R), and FLT-3 as well as EGFR deletion and point mutations. Brigatinib inhibited autophosphorylation of ALK and ALK-mediated phosphorylation of the downstream signaling proteins STAT3, AKT, ERK1/2, and S6 in in vitro and in vivo assays." ([DailyMed: Alunbrig (brigatinib) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fe9ff20-d402-41f3-bc1e-7002ea7007db), label version 2026-01-12; accessed 2026-11-19.) From the broader literature, brigatinib is a next-generation ALK inhibitor that also inhibits other tyrosine kinases, including FAK and EGFR-family signalling.
 
 No plausible kinase-driven mechanism has been established for gingival fibromatosis, a fibrous overgrowth of the gum tissue. The score of 0.9989 is a model output only, and nothing in the compiled data links brigatinib to this condition. The prediction should be treated as a hypothesis, not as a supported repurposing opportunity.
 
@@ -105,6 +105,19 @@ The prediction rests only on a model score, with no clinical trials, no publicat
 - Preclinical data in a relevant model of the condition
 - Package insert warnings and contraindications for a safety screen
 - Mechanism-of-action data for the drug
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Alunbrig (brigatinib) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fe9ff20-d402-41f3-bc1e-7002ea7007db) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ This is a model-only prediction with no supporting evidence in the data compiled
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general knowledge, propranolol is a non-selective beta-blocker that reduces heart rate and myocardial contractility. Its efficacy is established in cardiovascular conditions such as hypertension and hypertrophic cardiomyopathy.
+According to the Mechanism of Action section of the FDA-approved prescribing information for propranolol: "The mechanism of the antihypertensive effect of propranolol has not been established. Among factors that contribute to the antihypertensive action are: decreased cardiac output, inhibition of renin release by the kidneys, and diminution of tonic sympathetic nerve outflow from vasomotor centers in the brain." ([DailyMed: Inderal Xl (propranolol hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac196ff5-9215-402b-bc57-69aa87f8bade), label version 2026-08-27; accessed 2026-11-19.) Based on general knowledge, propranolol is a non-selective beta-blocker that reduces heart rate and myocardial contractility. Its efficacy is established in cardiovascular conditions such as hypertension and hypertrophic cardiomyopathy.
 
 The data compiled for this report do not support a mechanistic link between beta-blockade and the pathophysiology of this rare distal myopathy. The high TxGNN score (0.9940) is a computational prediction only, and the relationship to the original indications remains unassessed.
 
@@ -152,13 +152,14 @@ The prediction for distal myopathy, Tateyama type rests only on a TxGNN model (d
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Three more cancelled licenses exist: ANDA070979 (solution), ANDA070221 (tablet), and ANDA078955 (tablet)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Inderal Xl (propranolol hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac196ff5-9215-402b-bc57-69aa87f8bade) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, loteprednol etabonate is a topical corticosteroid with anti-inflammatory activity. Its efficacy in allergic and inflammatory conjunctival disease (atopic, vernal and papillary conjunctivitis) is established, so it may be mechanistically applicable to other conjunctival conditions.
+According to the Mechanism of Action section of the FDA-approved prescribing information for loteprednol etabonate: "Loteprednol etabonate is a corticosteroid. Corticosteroids have been shown to inhibit the inflammatory response to a variety of inciting agents. They inhibit the edema, fibrin deposition, capillary dilation, leukocyte migration, capillary proliferation, fibroblast proliferation, deposition of collagen, and scar formation associated with inflammation." ([DailyMed: Lotemax Sm (loteprednol etabonate) prescribing information, Bausch & Lomb Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f9477b5-699f-4d3b-b9a6-0cc238266237), label version 2026-03-31; accessed 2026-11-19.) Based on known information, loteprednol etabonate is a topical corticosteroid with anti-inflammatory activity. Its efficacy in allergic and inflammatory conjunctival disease (atopic, vernal and papillary conjunctivitis) is established, so it may be mechanistically applicable to other conjunctival conditions.
 
 However, the mechanistic rationale for conjunctival folliculosis is weak. Folliculosis is generally a benign, often non-inflammatory follicular change, so an anti-inflammatory steroid has little to treat. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -126,12 +126,13 @@ The prediction for conjunctival folliculosis rests on model score alone (L5). Th
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 14 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 14 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lotemax Sm (loteprednol etabonate) prescribing information, Bausch & Lomb Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f9477b5-699f-4d3b-b9a6-0cc238266237) |
 
 <!-- review:end log -->
 

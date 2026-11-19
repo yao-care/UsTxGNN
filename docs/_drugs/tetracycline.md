@@ -56,7 +56,7 @@ but currently **0 clinical trials** and only **1 publication** (a case report) s
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, tetracycline is a member of the tetracycline class of antibiotics, its efficacy in bacterial conjunctivitis and other infections is established, and mechanistically it may be applicable to punctate epithelial keratoconjunctivitis.
+ChEMBL (EMBL-EBI) records the mechanism of action of tetracycline as: Bacterial 70S ribosome inhibitor ([ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, tetracycline is a member of the tetracycline class of antibiotics, its efficacy in bacterial conjunctivitis and other infections is established, and mechanistically it may be applicable to punctate epithelial keratoconjunctivitis.
 
 Tetracycline is already used for chlamydial and other bacterial conjunctivitis, and its activity against *Chlamydia trachomatis* is plausibly relevant to keratoconjunctival disease. Tetracyclines are also reported to have anti-inflammatory and matrix metalloproteinase (MMP) inhibiting effects that could help ocular surface inflammation.
 
@@ -128,11 +128,12 @@ The prediction rests on one indirect case report and no registered trials. The h
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440) |
 
 <!-- review:end log -->
 

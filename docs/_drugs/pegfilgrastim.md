@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general knowledge, pegfilgrastim is a PEGylated G-CSF analog that stimulates neutrophil production. No mechanistic link to diabetic retinopathy can be verified from the data compiled for this report.
+According to the Mechanism of Action section of the FDA-approved prescribing information for pegfilgrastim: "Pegfilgrastim products are colony-stimulating factor that acts on hematopoietic cells by binding to specific cell surface receptors, thereby stimulating proliferation, differentiation, commitment, and end cell functional activation." ([DailyMed: Armlupeg (pegfilgrastim-unne) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c48fe1a7-63d7-4dce-bb53-a913cb0ade83), label version 2026-10-29; accessed 2026-11-19.) Based on general knowledge, pegfilgrastim is a PEGylated G-CSF analog that stimulates neutrophil production. No mechanistic link to diabetic retinopathy can be verified from the data compiled for this report.
 
 One speculative argument is that G-CSF can mobilize bone marrow-derived progenitor cells, which might support vascular repair. The opposite is also plausible: G-CSF-driven neutrophil activation and inflammation could worsen retinal vascular pathology. The direction of effect is unknown.
 
@@ -121,12 +121,13 @@ The only support is a very high model score (0.9989). There are no clinical tria
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Two further licenses, NYVEPRIA (BLA761111, Pfizer) and STIMUFEND (BLA761173, Northstar Rx), are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "all seven US licenses are valid and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Armlupeg (pegfilgrastim-unne) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c48fe1a7-63d7-4dce-bb53-a913cb0ade83) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ The TxGNN model's top-ranked prediction is **relapsing-remitting multiple sclero
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general pharmacological knowledge, dactinomycin is a DNA-intercalating transcription inhibitor used as a cytotoxic antineoplastic, and its efficacy in paediatric sarcomas and germ cell tumours is well established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dactinomycin: "Dactinomycin is a cytotoxic actinomycin that binds DNA and inhibits RNA synthesis. The cytotoxic activity of dactinomycin has been demonstrated in animal models of different human cancers." ([DailyMed: dactinomycin prescribing information, Eugia US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5da55538-2602-4704-a9da-603c9f7ff7dc), label version 2024-06-18; accessed 2026-11-19.) Based on general pharmacological knowledge, dactinomycin is a DNA-intercalating transcription inhibitor used as a cytotoxic antineoplastic, and its efficacy in paediatric sarcomas and germ cell tumours is well established.
 
 For **relapsing-remitting multiple sclerosis**, no supporting mechanism has been identified. A nonspecific immunosuppressive or antiproliferative rationale is conceivable. However, the toxicity profile (myelosuppression, hepatotoxicity, extravasation injury) makes it unattractive for a chronic autoimmune disease that has many safer approved options. The score of 0.9958 is a computational prediction only.
 
@@ -157,12 +157,13 @@ The top-ranked prediction, relapsing-remitting multiple sclerosis, rests on a mo
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All four authorizations are valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "All four US ANDAs are valid and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: dactinomycin prescribing information, Eugia US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5da55538-2602-4704-a9da-603c9f7ff7dc) |
 
 <!-- review:end log -->
 

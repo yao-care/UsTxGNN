@@ -56,7 +56,7 @@ but currently **0 clinical trials** and **0 publications** support this directio
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available in the data compiled for this report. From general knowledge, asfotase alfa is a recombinant tissue-nonspecific alkaline phosphatase (TNSALP). It hydrolyzes extracellular substrates such as inorganic pyrophosphate and pyridoxal 5'-phosphate, which is how it supports bone mineralization in hypophosphatasia.
+According to the Mechanism of Action section of the FDA-approved prescribing information for asfotase alfa: "HPP is caused by a deficiency in TNSALP enzyme activity, which leads to elevations in several TNSALP substrates, including inorganic pyrophosphate (PPi). TNSALP is a metallo-enzyme that catalyzes the hydrolysis of phosphomonoesters with release of inorganic phosphate and alcohol." ([DailyMed: Strensiq (asfotase alfa) prescribing information, Alexion Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3387574f-5eaa-4501-a71d-4cbfbd563031), label version 2025-12-12; accessed 2026-11-19.) From general knowledge, asfotase alfa is a recombinant tissue-nonspecific alkaline phosphatase (TNSALP). It hydrolyzes extracellular substrates such as inorganic pyrophosphate and pyridoxal 5'-phosphate, which is how it supports bone mineralization in hypophosphatasia.
 
 A mechanistic link to the predicted indication is not apparent. Mitochondrial oxidative phosphorylation disorders arise from defects in intracellular energy metabolism, whereas asfotase alfa acts on extracellular substrates. The very high TxGNN score (0.9995) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It is not supported by trial or literature evidence.
 
@@ -110,11 +110,12 @@ The prediction has no supporting clinical trials or literature (evidence level L
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "the only US authorization is listed as cancelled, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Strensiq (asfotase alfa) prescribing information, Alexion Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3387574f-5eaa-4501-a71d-4cbfbd563031) |
 
 <!-- review:end log -->
 

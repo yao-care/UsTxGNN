@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **multiple endocrine neoplasia*
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Pemigatinib is known to be an FGFR1-3 inhibitor, a targeted kinase-inhibitor class used in oncology. Because the original MOA entry is empty, this mechanism could not be cross-checked against the data.
+According to the Mechanism of Action section of the FDA-approved prescribing information for pemigatinib: "Pemigatinib is a small molecule kinase inhibitor that targets FGFR1, 2 and 3 with IC 50 values of less than 2 nM. Pemigatinib also inhibited FGFR4 in vitro at a concentration approximately 100 times higher than those that inhibit FGFR1, 2, and 3." ([DailyMed: Pemazyre (pemigatinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9e1f2222-1d89-4e63-989c-ccebe2ab1eb4), label version 2026-06-09; accessed 2026-11-19.) Pemigatinib is known to be an FGFR1-3 inhibitor, a targeted kinase-inhibitor class used in oncology. Because the original MOA entry is empty, this mechanism could not be cross-checked against the data.
 
 The link to multiple endocrine neoplasia is weak. These syndromes are typically driven by MEN1 or RET alterations, and the compiled data shows no direct connection between FGFR signaling and these syndromes. The high TxGNN score (0.9971) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. A high score alone should not be read as evidence of efficacy.
 
@@ -132,12 +132,13 @@ The safety review also cannot proceed without the label warnings and contraindic
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The prediction is model-only (L5), with no clinical trials or literature, no demonstrated mechanistic link between FGFR inhibition and multi" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Review of the cancelled NDA status and its implications for any development path" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Pemazyre (pemigatinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9e1f2222-1d89-4e63-989c-ccebe2ab1eb4) |
 
 <!-- review:end log -->
 

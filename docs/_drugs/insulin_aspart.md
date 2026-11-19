@@ -55,7 +55,7 @@ Note that type 1 diabetes is effectively part of the drug's existing (on-label) 
 
 ## Why is This Prediction Reasonable?
 
-Insulin aspart is a rapid-acting human insulin analogue. It activates the insulin receptor to lower blood glucose. Detailed mechanism-of-action data is not available in the data compiled for this report, but the drug's pharmacology is well established.
+Insulin aspart is a rapid-acting human insulin analogue. It activates the insulin receptor to lower blood glucose. According to the Mechanism of Action section of the FDA-approved prescribing information for insulin aspart: "The primary activity of insulin, including NOVOLOG MIX 70/30 is the regulation of glucose metabolism. Insulin and its analog lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85), label version 2026-05-18; accessed 2026-11-19.) The drug's pharmacology is well established.
 
 Type 1 diabetes is caused by absolute insulin deficiency, so exogenous insulin replacement is its core treatment. The predicted indication is therefore very close to the original one: it is a subtype of diabetes mellitus that the drug already covers. The high TxGNN score is consistent with this, though it mostly confirms an existing use.
 
@@ -144,12 +144,13 @@ Multiple completed Phase 3 trials and several systematic reviews support insulin
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The safety label data is missing and the US licenses are all listed as cancelled, so the drug's regulatory status needs clarifying before pr" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since the compiled licenses are all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85) |
 
 <!-- review:end log -->
 

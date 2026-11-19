@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **metastatic neoplasm** (the hi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From what is known, denileukin diftitox is a fusion protein that joins interleukin-2 (IL-2) with diphtheria toxin. It binds cells that express the IL-2 receptor (CD25) and delivers the toxin into them. Its efficacy in cutaneous T-cell lymphoma, where malignant cells express CD25, has been established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for denileukin diftitox: "Denileukin diftitox-cxdl is a fusion protein designed to direct the cytocidal action of diphtheria toxin (DT) to cells which express the IL-2 receptor. After uptake into the cell, the DT fragment is cleaved and the free DT fragments inhibit protein synthesis, resulting in cell death." ([DailyMed: Lymphir (denileukin diftitox-cxdl) prescribing information, Citius Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac3613d7-4304-40e7-a3f5-adb8a8adca5d), label version 2025-01-23; accessed 2026-11-19.) From what is known, denileukin diftitox is a fusion protein that joins interleukin-2 (IL-2) with diphtheria toxin. It binds cells that express the IL-2 receptor (CD25) and delivers the toxin into them. Its efficacy in cutaneous T-cell lymphoma, where malignant cells express CD25, has been established.
 
 In solid tumours, the rationale is different. Instead of killing the cancer cells directly, the drug is studied as a way to deplete CD25-expressing regulatory T cells (Tregs). Tregs suppress the immune attack on tumours, so removing them may strengthen the effect of vaccines, adoptive T-cell or NK-cell transfer, and high-dose IL-2. Some studies report transient Treg depletion and regression of melanoma metastases (PMID 18334033, 16308572).
 
@@ -137,11 +137,12 @@ The only supporting evidence for metastatic neoplasm is early-phase (mostly Phas
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the product's US market status is "Cancelled only"" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lymphir (denileukin diftitox-cxdl) prescribing information, Citius Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac3613d7-4304-40e7-a3f5-adb8a8adca5d) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ The score is a model output only, with no actual study behind it.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Primidone is an anticonvulsant that is metabolized to phenobarbital and phenylethylmalonamide (PEMA), and its efficacy in epilepsy is well established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for primidone: "MYSOLINE raises electro- or chemoshock seizure thresholds or alters seizure patterns in experimental animals. The mechanism(s) of primidone’s antiepileptic action is not known. Primidone per se has anticonvulsant activity as do its two metabolites, phenobarbital and phenylethylmalonamide (PEMA)." ([DailyMed: Mysoline (primidone) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af593171-dabb-4ea3-b44c-89ed457b2c46), label version 2026-09-10; accessed 2026-11-19.) Primidone is an anticonvulsant that is metabolized to phenobarbital and phenylethylmalonamide (PEMA), and its efficacy in epilepsy is well established.
 
 For trigeminal nerve neoplasm, however, the data compiled for this report supports no mechanistic link. There is no rationale for antitumor activity from an antiseizure drug. The very high score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases such as trigeminal neuralgia or epilepsy, not biological evidence of an effect on the tumor.
 
@@ -140,11 +140,12 @@ The TxGNN score for trigeminal nerve neoplasm is very high, but there are no cli
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Three more cancelled ANDAs (083551, 218366, 084903) are not shown. All 8 authorizations in the data compiled for this report are cancelled, " | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mysoline (primidone) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af593171-dabb-4ea3-b44c-89ed457b2c46) |
 
 <!-- review:end log -->
 

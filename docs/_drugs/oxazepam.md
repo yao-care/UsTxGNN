@@ -56,7 +56,7 @@ but there are currently **0 registered clinical trials** and only **2 directly r
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for oxazepam is not available in the data compiled for this report. Based on established class pharmacology, oxazepam is a short-acting benzodiazepine that enhances GABA-A receptor-mediated inhibitory neurotransmission, producing anxiolytic and sedative-hypnotic effects.
+ChEMBL (EMBL-EBI) records the mechanism of action of oxazepam as: GABA-A receptor; anion channel positive allosteric modulator ([ChEMBL CHEMBL568 (oxazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL568), CC BY-SA 3.0; accessed 2026-11-19.) Based on established class pharmacology, oxazepam is a short-acting benzodiazepine that enhances GABA-A receptor-mediated inhibitory neurotransmission, producing anxiolytic and sedative-hypnotic effects.
 
 Anxiety and insomnia frequently occur together, and other benzodiazepines are already used as hypnotics. Enhanced inhibitory signalling is plausibly linked to easier sleep onset and better sleep maintenance. The high TxGNN score is consistent with this class-level reasoning, but it is a computational prediction and not clinical evidence.
 
@@ -129,12 +129,13 @@ The prediction is mechanistically plausible, but direct evidence is limited to o
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "with all 3 authorizations valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 3 of 3 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data for oxazepam is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL568 (oxazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL568) |
 
 <!-- review:end log -->
 

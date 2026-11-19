@@ -67,7 +67,7 @@ Other predicted indications, all L5 with a Hold recommendation:
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacological knowledge, flavoxate is a smooth muscle relaxant with antimuscarinic, phosphodiesterase-inhibiting and calcium-antagonizing properties.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for flavoxate: "Flavoxate hydrochloride counteracts smooth muscle spasm of the urinary tract and exerts its effect directly on the muscle. In a single study of 11 normal male subjects, the time to onset of action was 55 minutes." ([DailyMed: flavoxate hydrochloride prescribing information, PuraCap Laboratories LLC dba Blu Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6a06eda-2480-4c0d-8d1e-9e3e89d3ee88), label version 2025-12-11; accessed 2026-11-19.) Based on general pharmacological knowledge, flavoxate is a smooth muscle relaxant with antimuscarinic, phosphodiesterase-inhibiting and calcium-antagonizing properties.
 
 For the top-ranked prediction, ADHD (inattentive type), no established mechanistic link is supported. ADHD pathophysiology centres on dopaminergic and noradrenergic dysregulation, and flavoxate is not known to act on these pathways. Anticholinergic activity would more likely impair than improve attention and cognition. The high TxGNN score is probably driven by network-level similarity to anticholinergic or CNS-active drugs rather than by biological evidence. The same reasoning applies to the ADHD (unspecified) and specific developmental disorder predictions.
 
@@ -125,11 +125,12 @@ All eight predictions are supported only by model scores (L5), with no clinical 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US license is cancelled, and k" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: flavoxate hydrochloride prescribing information, PuraCap Laboratories LLC dba Blu Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6a06eda-2480-4c0d-8d1e-9e3e89d3ee88) |
 
 <!-- review:end log -->
 

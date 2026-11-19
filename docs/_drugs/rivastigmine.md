@@ -56,7 +56,7 @@ but currently there are **0 registered clinical trials** and only **3 publicatio
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on the known pharmacology of the drug class, rivastigmine inhibits both acetylcholinesterase and butyrylcholinesterase, which raises acetylcholine levels. Its efficacy in Alzheimer's disease comes from this cholinergic enhancement in the brain.
+According to the Mechanism of Action section of the FDA-approved prescribing information for rivastigmine: "Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase." ([DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d), label version 2025-11-11; accessed 2026-11-19.) Based on the known pharmacology of the drug class, rivastigmine inhibits both acetylcholinesterase and butyrylcholinesterase, which raises acetylcholine levels. Its efficacy in Alzheimer's disease comes from this cholinergic enhancement in the brain.
 
 In the eye, higher acetylcholine acting on muscarinic receptors can contract the ciliary muscle and increase outflow through the trabecular meshwork, which lowers intraocular pressure (IOP). This is how established cholinergic agents such as pilocarpine and physostigmine work. A 2000 rabbit study found that topical rivastigmine lowered IOP, and a 2024 systems-genetics review supports a general cholinergic mechanism for IOP reduction.
 
@@ -127,12 +127,13 @@ The glaucoma prediction is mechanistically plausible and supported by one rabbit
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Nine US authorizations are valid. for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with nine valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d) |
 
 <!-- review:end log -->
 

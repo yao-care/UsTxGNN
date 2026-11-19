@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **fascioliasis**, but this rest
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, penciclovir is a guanosine nucleoside analog. After phosphorylation by viral thymidine kinase, it inhibits viral DNA polymerase in herpesviruses. This explains its effect in herpes labialis.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for penciclovir: "Penciclovir is an antiviral agent active against alpha herpes viruses. […] Penciclovir has inhibitory activity against herpes simplex virus types 1 (HSV-1) and 2 (HSV-2). In cells infected with HSV-1 or HSV-2, the viral thymidine kinase phosphorylates penciclovir to a monophosphate form that, in turn, is converted by cellular kinases to the active form penciclovir triphosphate." ([DailyMed: Denavir (penciclovir) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=61229829-55a0-4d6f-a423-4b48a2b4d8e5), label version 2018-11-26; accessed 2026-11-19.) Based on known pharmacology, penciclovir is a guanosine nucleoside analog. After phosphorylation by viral thymidine kinase, it inhibits viral DNA polymerase in herpesviruses. This explains its effect in herpes labialis.
 
 The predicted link to fascioliasis is hard to justify mechanistically. Fascioliasis is caused by the trematode parasites *Fasciola hepatica* and *Fasciola gigantica*. These parasites have no known viral-type thymidine kinase activation pathway, so the antiviral mechanism of penciclovir has no clear counterpart. The high score (0.9906) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -111,11 +111,12 @@ The prediction rests only on a TxGNN model (deep learning) score, with no clinic
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All five licenses are valid, and all are topical creams" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Denavir (penciclovir) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=61229829-55a0-4d6f-a423-4b48a2b4d8e5) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and only **1 publication** (an ane
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, buprenorphine is a mu-opioid partial agonist, its use in opioid dependence is established, and the data compiled for this report do not show a clear mechanistic route to acute intermittent porphyria.
+According to the Mechanism of Action section of the FDA-approved prescribing information for buprenorphine: "SUBLOCADE Injection contains buprenorphine. Buprenorphine is a partial agonist at the mu- opioid receptor and an antagonist at the kappa-opioid receptor." ([DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95), label version 2026-07-27; accessed 2026-11-19.) Based on known information, buprenorphine is a mu-opioid partial agonist, its use in opioid dependence is established, and the data compiled for this report do not show a clear mechanistic route to acute intermittent porphyria.
 
 Acute intermittent porphyria is a disorder of heme biosynthesis, which has no evident connection to opioid receptor partial agonism. The only publication retrieved describes anesthetic management of a patient with the condition. This suggests opioids might be used for pain control during attacks, rather than as treatment of the underlying disease. The high TxGNN score (0.9941) is therefore not supported by clinical data. In addition, whether buprenorphine is safe in porphyria (for example, whether it can trigger attacks) would need to be verified before any use.
 
@@ -129,13 +129,14 @@ The TxGNN score is high, but no clinical trials exist and the only publication i
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "the cancelled US regulatory status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95) |
 
 <!-- review:end log -->
 

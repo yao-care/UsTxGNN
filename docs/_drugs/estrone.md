@@ -56,7 +56,7 @@ The prediction rests on a computational score alone and has no direct clinical s
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, estrone is an estrogen. The prediction comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Whether and how it would affect plasma zinc has not been established.
+ChEMBL (EMBL-EBI) records the mechanism of action of estrone as: Estrogen receptor alpha agonist ([ChEMBL CHEMBL1405 (estrone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1405), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, estrone is an estrogen. The prediction comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Whether and how it would affect plasma zinc has not been established.
 
 The only retrieved publication (PMID 12081830) studied soy protein and isoflavone intake in perimenopausal women and measured iron indexes and antioxidant status. It did not test estrone and did not report plasma zinc. Any link would be indirect, for example through estrogen effects on trace metal metabolism, and is speculative. The high TxGNN score (0.9981) is a model output and should not be read as clinical validation.
 
@@ -111,6 +111,19 @@ The prediction has no clinical trials, no direct literature, and no established 
 - Evidence that elevated plasma zinc is a meaningful clinical target, and studies measuring zinc in estrogen-treated patients
 - Clarification of the relationship between the original indication (acne) and the predicted indication
 - Route and formulation compatibility assessment, given the cancelled US status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1405 (estrone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1405) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

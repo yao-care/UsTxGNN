@@ -56,7 +56,7 @@ The evidence is weak and limited to tuberculosis-related eye disease.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, isoniazid is an anti-mycobacterial agent that inhibits mycolic acid synthesis in the mycobacterial cell wall. Its efficacy in tuberculosis is well established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for isoniazid: "Isoniazid inhibits the synthesis of mycoloic acids, an essential component of the bacterial cell wall. At therapeutic levels isoniazid is bactericidal against actively growing intracellular and extracellular Mycobacterium tuberculosis organisms." ([DailyMed: isoniazid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dab7b7b-a3a9-47ef-b423-134bc6970d8b), label version 2026-09-04; accessed 2026-11-19.) Based on general knowledge, isoniazid is an anti-mycobacterial agent that inhibits mycolic acid synthesis in the mycobacterial cell wall. Its efficacy in tuberculosis is well established.
 
 The link to conjunctivitis is indirect and applies only to tuberculosis-related eye disease. Primary conjunctival tuberculosis is a true mycobacterial infection. Phlyctenular keratoconjunctivitis is a hypersensitivity reaction to mycobacterial antigens, often seen in people with tuberculosis infection or sensitization. In both cases, isoniazid would act on the underlying tuberculous process, not on conjunctivitis in general.
 
@@ -151,7 +151,7 @@ The prediction rests on a model score only. There are no registered clinical tri
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
@@ -159,6 +159,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "Two more cancelled authorizations are not shown: ANDA040648 (Sandoz, injection solution) and ANDA089776 (Chartwell RX, tablet)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 7 of 7 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(7 of 7 licenses are valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: isoniazid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dab7b7b-a3a9-47ef-b423-134bc6970d8b) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Aripiprazole is an atypical antipsychotic originally used for manic bipolar diso
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, aripiprazole is a dopamine D2/D3 partial agonist and a serotonin 5-HT1A partial agonist / 5-HT2A antagonist.
+According to the Mechanism of Action section of the FDA-approved prescribing information for aripiprazole: "The mechanism of action of aripiprazole in the treatment of schizophrenia and bipolar I disorder is unknown. The efficacy of aripiprazole could be mediated through a combination of partial agonist activity at dopamine D 2 and serotonin 5-HT 1A receptors and antagonist activity at 5-HT 2A receptors." ([DailyMed: Abilify Asimtufii (aripiprazole) prescribing information, Otsuka America Pharmaceutical, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da4c07fd-1130-4341-bb44-63acfa4162be), label version 2025-04-04; accessed 2026-11-19.) Based on known pharmacology, aripiprazole is a dopamine D2/D3 partial agonist and a serotonin 5-HT1A partial agonist / 5-HT2A antagonist.
 
 Bipolar disorder and major depression are both mood disorders. Their treatment shares dopaminergic and serotonergic modulation. Aripiprazole's profile supports augmenting antidepressants when the response to an antidepressant alone is inadequate. Literature in the dataset notes that several atypical antipsychotics, including aripiprazole, have been approved by the FDA as adjuncts to antidepressants in MDD, and that these agents work for depression at sub-antipsychotic doses.
 
@@ -162,13 +162,14 @@ Several completed Phase 3 placebo-controlled adjunctive trials (n=1200, 1151 and
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the cancelled US license status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid licenses for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Abilify Asimtufii (aripiprazole) prescribing information, Otsuka America Pharmaceutical, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da4c07fd-1130-4341-bb44-63acfa4162be) |
 
 <!-- review:end log -->
 

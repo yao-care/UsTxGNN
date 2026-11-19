@@ -63,7 +63,7 @@ Note: No completed randomized phase 3 trial exists. The evidence comes from pros
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, emicizumab is a bispecific antibody that bridges activated factor IX (FIXa) and factor X (FX), mimicking the cofactor function of activated factor VIII (FVIIIa). Pharmacology data confirm binding to both targets (F9 and F10).
+According to the Mechanism of Action section of the FDA-approved prescribing information for emicizumab: "HEMLIBRA bridges activated factor IX and factor X to restore the function of missing activated factor VIII that is needed for effective hemostasis." ([DailyMed: Hemlibra (emicizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2483adba-fab6-4d1b-96c5-c195577ed071), label version 2025-07-11; accessed 2026-11-19.) Based on known information, emicizumab is a bispecific antibody that bridges activated factor IX (FIXa) and factor X (FX), mimicking the cofactor function of activated factor VIII (FVIIIa). Pharmacology data confirm binding to both targets (F9 and F10).
 
 Acquired hemophilia A is caused by autoantibodies that neutralize the patient's own FVIII. Congenital hemophilia A is a FVIII deficiency, and emicizumab is already used in patients who have developed FVIII inhibitors. Because emicizumab does not resemble FVIII structurally, anti-FVIII antibodies do not neutralize it. This makes the mechanistic extension to acquired hemophilia A logical: the functional defect (missing FVIIIa activity) is the same, and the drug works regardless of inhibitor status.
 
@@ -163,12 +163,13 @@ Several prospective open-label studies (Japanese phase III, GTH-AHA-EMI, AGEHA) 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the US license is recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "which is listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Hemlibra (emicizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2483adba-fab6-4d1b-96c5-c195577ed071) |
 
 <!-- review:end log -->
 

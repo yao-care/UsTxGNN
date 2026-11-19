@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **breast fibrocystic disease**, bu
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Progesterone is a natural progestogen that acts on progesterone receptors in the uterus, breast and other hormone-responsive tissues.
+According to the Mechanism of Action section of the FDA-approved prescribing information for progesterone: "Progesterone is a naturally occurring steroid that is secreted by the ovary, placenta, and adrenal gland. In the presence of adequate estrogen, progesterone transforms a proliferative endometrium into a secretory endometrium." ([DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1), label version 2026-10-05; accessed 2026-11-19.) Progesterone is a natural progestogen that acts on progesterone receptors in the uterus, breast and other hormone-responsive tissues.
 
 Fibrocystic breast changes are hormone-responsive. A review of the condition (Vorherr, 1986) describes its pathophysiology as driven by estrogen predominance and progesterone deficiency, leading to connective tissue overgrowth followed by epithelial proliferation. A smaller study of women with the condition (2018) examined the estradiol-to-progesterone ratio in the late luteal phase. Together these give a plausible rationale for restoring progestogen activity.
 
@@ -120,11 +120,12 @@ The prediction score is high and the hormonal rationale is plausible. However, n
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Of the licence records, 8 are valid and 1 (an injectable product) is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1) |
 
 <!-- review:end log -->
 

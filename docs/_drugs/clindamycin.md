@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **punctate epithelial keratocon
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Clindamycin belongs to the lincosamide class of antibacterials, which inhibit bacterial protein synthesis. Its activity is directed at bacteria, particularly Gram-positive organisms such as *Staphylococcus aureus* and anaerobes.
+According to the Mechanism of Action section of the FDA-approved prescribing information for clindamycin: "Clindamycin inhibits bacterial protein synthesis by binding to the 23S RNA of the 50S subunit of the ribosome. Clindamycin is bacteriostatic." ([DailyMed: Cleocin Hydrochloride (clindamycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df9a2a41-b132-4f43-8940-b2d773b1369a), label version 2026-09-16; accessed 2026-11-19.) Clindamycin belongs to the lincosamide class of antibacterials, which inhibit bacterial protein synthesis. Its activity is directed at bacteria, particularly Gram-positive organisms such as *Staphylococcus aureus* and anaerobes.
 
 Punctate epithelial keratoconjunctivitis is usually inflammatory, viral (for example adenoviral), or related to toxicity or dry eye. A protein-synthesis-inhibiting antibacterial therefore has no clear mechanistic rationale, unless a bacterial component such as staphylococcal blepharokeratoconjunctivitis is present. Clindamycin is also not a standard ophthalmic agent, and none of the marketed forms listed in the data are ophthalmic preparations. The high score most likely reflects network similarity in the model rather than a demonstrated biological link.
 
@@ -118,6 +118,19 @@ The prediction has the highest score among the listed candidates but no supporti
 - Preclinical or clinical data on ocular delivery, tolerability, and efficacy
 - Mechanism of action data and the package insert warnings and contraindications
 - A feasible ophthalmic formulation and route of administration
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cleocin Hydrochloride (clindamycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df9a2a41-b132-4f43-8940-b2d773b1369a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

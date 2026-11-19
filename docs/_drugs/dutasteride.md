@@ -56,7 +56,7 @@ but **0 clinical trials** and **0 publications** currently support this predicti
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, dutasteride inhibits type 1 and type 2 5-alpha-reductase and lowers dihydrotestosterone (DHT). This is the basis for its efficacy in BPH, where prostate growth is DHT-driven.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dutasteride: "Dutasteride inhibits the conversion of testosterone to DHT. DHT is the androgen primarily responsible for the initial development and subsequent enlargement of the prostate gland. Testosterone is converted to DHT by the enzyme 5 alpha-reductase, which exists as 2 isoforms, type 1 and type 2." ([DailyMed: dutasteride prescribing information, Strides Pharma Science Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c78d18cf-05df-4154-b2f9-39cc374ca9e3), label version 2026-08-27; accessed 2026-11-19.) Based on known pharmacology, dutasteride inhibits type 1 and type 2 5-alpha-reductase and lowers dihydrotestosterone (DHT). This is the basis for its efficacy in BPH, where prostate growth is DHT-driven.
 
 The link to the predicted indication is weak. Ambras syndrome is a congenital hypertrichosis tied to genetic changes affecting hair follicle development, and it is not known to be androgen-driven. Lowering DHT would not be expected to correct the underlying genetic defect. The very high TxGNN score (1.0000) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -138,13 +138,14 @@ The prediction has no clinical trials and no literature (Evidence Level L5). The
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Two more cancelled ANDAs (ANDA209909 and ANDA202660, both A-S Medication Solutions) are also on record. , with 7 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 7 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "of the 7 valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: dutasteride prescribing information, Strides Pharma Science Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c78d18cf-05df-4154-b2f9-39cc374ca9e3) |
 
 <!-- review:end log -->
 

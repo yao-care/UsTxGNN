@@ -56,7 +56,7 @@ The prediction rests on a TxGNN model (deep learning) score alone.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Palifermin is known as a recombinant keratinocyte growth factor (FGF7) that acts on epithelial cells through FGFR2b. Its original approved indication could not be confirmed from the data compiled for this report.
+According to the Mechanism of Action section of the FDA-approved prescribing information for palifermin: "KGF is an endogenous protein in the fibroblast growth factor (FGF) family that binds to the KGF receptor. Binding of KGF to its receptor has been reported to result in proliferation, differentiation, and migration of epithelial cells." ([DailyMed: Kepivance (palifermin) prescribing information, Swedish Orphan Biovitrum AB (publ)](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=426f6e64-2c20-4a61-6d65-7320426f6e64), label version 2025-12-17; accessed 2026-11-19.) Palifermin is known as a recombinant keratinocyte growth factor (FGF7) that acts on epithelial cells through FGFR2b. Its original approved indication could not be confirmed from the data compiled for this report.
 
 No established link was found between this epithelial growth-factor pathway and platelet granule release or platelet function. The very high TxGNN score (0.9994) reflects a TxGNN model (deep learning) prediction only. It may be driven by network artifacts rather than biology, so the prediction should be treated as a hypothesis with weak biological support.
 
@@ -125,11 +125,12 @@ The prediction is supported only by a TxGNN model (deep learning) score, with no
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "In addition, the only US license is cancelled, and the label-based safety review could not be completed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Kepivance (palifermin) prescribing information, Swedish Orphan Biovitrum AB (publ)](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=426f6e64-2c20-4a61-6d65-7320426f6e64) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **obstructive lung disease**, b
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Norepinephrine is known as an adrenergic agonist with predominantly alpha-1 activity. Its original indications (asthma, bronchitis, emphysema, bronchiectasis) are themselves obstructive airway diseases, so the prediction largely restates the historical label rather than offering new repurposing insight.
+According to the Mechanism of Action section of the FDA-approved prescribing information for norepinephrine: "Norepinephrine is a peripheral vasoconstrictor (alpha-adrenergic action) and an inotropic stimulator of the heart and dilator of coronary arteries (beta-adrenergic action)." ([DailyMed: Norepinephrine Bitartrate In Dextrose (norepinephrine bitartrate) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be3c6f4f-54fc-4cb3-a299-8a022515d396), label version 2026-10-27; accessed 2026-11-19.) Norepinephrine is known as an adrenergic agonist with predominantly alpha-1 activity. Its original indications (asthma, bronchitis, emphysema, bronchiectasis) are themselves obstructive airway diseases, so the prediction largely restates the historical label rather than offering new repurposing insight.
 
 The literature does discuss adrenergic signalling and airway innervation in asthma and COPD, and neuroimmune mechanisms are plausible (PMID 29696025, 21271508, 41601146). However, systemic norepinephrine is a potent vasopressor and not a practical bronchodilator.
 
@@ -125,12 +125,13 @@ The only clinical trial found is a Phase 1 hypertension study unrelated to this 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The high TxGNN score is a computational prediction only and is not supported by clinical evidence for this use" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "The high TxGNN score is a computational prediction, the mechanistic overlap mostly restates the old label, and the only US product record is" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Norepinephrine Bitartrate In Dextrose (norepinephrine bitartrate) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be3c6f4f-54fc-4cb3-a299-8a022515d396) |
 
 <!-- review:end log -->
 

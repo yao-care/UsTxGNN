@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **primary release disorder of p
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available for this drug. Based on known pharmacology, filgrastim is a granulocyte colony-stimulating factor (G-CSF). It acts on the G-CSF receptor of the neutrophil lineage to promote neutrophil production, which is why it suits neutropenic conditions.
+According to the Mechanism of Action section of the FDA-approved prescribing information for filgrastim: "Colony-stimulating factors are glycoproteins which act on hematopoietic cells by binding to specific cell surface receptors and stimulating proliferation‚ differentiation commitment‚ and some end-cell functional activation. Endogenous G-CSF is a lineage-specific colony-stimulating factor that is produced by monocytes‚ fibroblasts, and endothelial cells." ([DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7), label version 2026-11-10; accessed 2026-11-19.) Based on known pharmacology, filgrastim is a granulocyte colony-stimulating factor (G-CSF). It acts on the G-CSF receptor of the neutrophil lineage to promote neutrophil production, which is why it suits neutropenic conditions.
 
 The predicted indication is a different kind of problem. Platelet release disorders are intrinsic platelet functional defects, and G-CSF would not be expected to correct them. The high TxGNN score is therefore best read as a computational association, not a biologically grounded signal. The other top-ranked predictions show the same pattern:
 
@@ -144,12 +144,13 @@ The prediction is supported only by the model score. No trials or literature add
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "One further license, BLA761082 (RELEUKO, Amneal, injection, solution), is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Clarification of the cancelled status of all six US licenses and their approved indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7) |
 
 <!-- review:end log -->
 

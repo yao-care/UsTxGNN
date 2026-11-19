@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, alfuzosin is a uroselective alpha-1 adrenergic receptor antagonist, and its efficacy in BPH rests on relaxing smooth muscle in the prostate and bladder neck.
+According to the Mechanism of Action section of the FDA-approved prescribing information for alfuzosin: "Alfuzosin is a selective antagonist of post-synaptic alpha 1 -adrenoreceptors, which are located in the prostate, bladder base, bladder neck, prostatic capsule, and prostatic urethra." ([DailyMed: Uroxatral (alfuzosin hcl) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9fc7f119-f36b-44cf-945d-940160f3afe3), label version 2024-12-05; accessed 2026-11-19.) Based on general pharmacology, alfuzosin is a uroselective alpha-1 adrenergic receptor antagonist, and its efficacy in BPH rests on relaxing smooth muscle in the prostate and bladder neck.
 
 No established mechanistic link to the predicted indication was identified. Ambras syndrome is a rare genetic disorder caused by chromosomal rearrangements near 8q22 that affect regulation of the *TRPS1* gene. Alpha-1 blockade is not known to act on this pathway. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It may also reflect an adverse-effect-like association, since hypertrichosis is a known side effect of some vasodilators such as minoxidil, rather than a therapeutic effect.
 
@@ -138,12 +138,13 @@ The prediction has no clinical trials and no literature behind it, so it sits at
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 6 US authorizations are valid (one further generic, ANDA203192 from Unichem, is not shown)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "The drug is marketed in the US, with all 6 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Uroxatral (alfuzosin hcl) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9fc7f119-f36b-44cf-945d-940160f3afe3) |
 
 <!-- review:end log -->
 

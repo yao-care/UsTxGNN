@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known pharmacology, droxidopa is a synthetic precursor of norepinephrine, converted by aromatic L-amino acid decarboxylase (DOPA decarboxylase). Its established role is in the noradrenergic system, where it helps treat neurogenic orthostatic hypotension in conditions such as Parkinson disease, multiple system atrophy and related autonomic failure.
+According to the Mechanism of Action section of the FDA-approved prescribing information for droxidopa: "The exact mechanism of action of NORTHERA in the treatment of neurogenic orthostatic hypotension is unknown. NORTHERA is a synthetic amino acid analog that is directly metabolized to norepinephrine by dopa­-decarboxylase, which is extensively distributed throughout the body." ([DailyMed: Northera (droxidopa) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2179f02c-48d7-48eb-8007-5ae43d8d16bc), label version 2019-07-01; accessed 2026-11-19.) Based on known pharmacology, droxidopa is a synthetic precursor of norepinephrine, converted by aromatic L-amino acid decarboxylase (DOPA decarboxylase). Its established role is in the noradrenergic system, where it helps treat neurogenic orthostatic hypotension in conditions such as Parkinson disease, multiple system atrophy and related autonomic failure.
 
 The link to VPSPr is weak. VPSPr is a rare sporadic prion disease involving misfolded, partially protease-sensitive prion protein. Noradrenergic replacement does not target prion protein misfolding, aggregation or clearance, and no plausible mechanistic connection is documented.
 
@@ -124,12 +124,13 @@ The prediction is model-only (evidence level L5) with no clinical trials or publ
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Ten authorizations are listed in total (all oral capsules, all cancelled); the five above are shown as the main ones" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 10 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Northera (droxidopa) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2179f02c-48d7-48eb-8007-5ae43d8d16bc) |
 
 <!-- review:end log -->
 

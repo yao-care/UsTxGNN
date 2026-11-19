@@ -56,7 +56,7 @@ The prediction is a computational signal only and is not backed by any real-worl
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general pharmacology, meperidine is a synthetic mu-opioid receptor agonist with weak serotonin reuptake inhibition and anticholinergic-like properties. This general description is not drawn from the compiled mechanism data, so it should be verified against DrugBank.
+According to the Mechanism of Action section of the FDA-approved prescribing information for meperidine: "Meperidine hydrochloride is an opioid agonist with multiple actions qualitatively similar to those of morphine; the most prominent of these involve the central nervous system and organs composed of smooth muscle. The principal actions of therapeutic value are analgesia and sedation." ([DailyMed: Demerol (meperidine hydrochloride) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b31d1308-28c3-43f4-e0a6-2f3ed76b8975), label version 2026-07-20; accessed 2026-11-19.) Based on general pharmacology, meperidine is a synthetic mu-opioid receptor agonist with weak serotonin reuptake inhibition and anticholinergic-like properties. This general description is not drawn from the compiled mechanism data, so it should be verified against DrugBank.
 
 Tourette syndrome involves dysregulated cortico-striato-thalamo-cortical circuits, mainly dopaminergic, with GABAergic and glutamatergic contributions. A link through opioid-system modulation of dopaminergic tone is speculative. Some opioid-modulating agents have been explored in tic disorders, but nothing supports meperidine specifically.
 
@@ -146,12 +146,13 @@ The prediction rests on a model score alone (Evidence Level L5), with no clinica
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All five licenses are valid and the drug is marketed in the US, and no approved indication text is available for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 5 of 5 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Demerol (meperidine hydrochloride) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b31d1308-28c3-43f4-e0a6-2f3ed76b8975) |
 
 <!-- review:end log -->
 

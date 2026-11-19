@@ -54,7 +54,7 @@ Miconazole is a topical azole antifungal of the imidazole class. The TxGNN model
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general knowledge, miconazole is an azole antifungal that inhibits fungal lanosterol 14-alpha-demethylase (CYP51), blocking ergosterol synthesis. This reasoning comes from general pharmacology rather than the provided record.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for miconazole: "Miconazole is an antifungal drug. […] Miconazole inhibits the enzyme cytochrome P450 14α-demethylase which leads to inhibition of ergosterol synthesis, an essential component of the fungal cell membrane. Miconazole also affects the synthesis of triglycerides and fatty acids and inhibits oxidative and peroxidative enzymes, increasing the amount of reactive oxygen species within the cell." ([DailyMed: Oravig (miconazole) prescribing information, Galt Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dc2427ff-e566-4b48-b289-9e51c011250a), label version 2026-01-08; accessed 2026-11-19.) Based on general knowledge, miconazole is an azole antifungal that inhibits fungal lanosterol 14-alpha-demethylase (CYP51), blocking ergosterol synthesis. This reasoning comes from general pharmacology rather than the provided record.
 
 Its relevance to acne is plausible through three routes:
 
@@ -108,6 +108,18 @@ The TxGNN score is high (0.9954), but the evidence level is L4: support comes on
 - Confirmation of the mechanism (antibacterial vs anti-inflammatory) in acne-relevant models
 - Mechanism-of-action data and package insert warnings and contraindications
 - Review of drug interaction relevance for the intended route and formulation
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Oravig (miconazole) prescribing information, Galt Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dc2427ff-e566-4b48-b289-9e51c011250a) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

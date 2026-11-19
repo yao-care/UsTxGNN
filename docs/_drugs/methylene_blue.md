@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **bronchitis**, but the evidenc
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for methylene blue is not available in the data compiled for this report. Based on general pharmacology, methylene blue is known to inhibit nitric oxide synthase and guanylate cyclase, and it is a redox-cycling agent with some anti-inflammatory properties. In theory, these could be relevant to airway inflammation.
+According to the Mechanism of Action section of the FDA-approved prescribing information for methylene blue: "Methylene blue is a water soluble thiazine dye that promotes a non-enyzmatic redox conversion of metHb to hemoglobin. In situ, methylene blue is first converted to leucomethylene blue (LMB) via NADPH reductase. It is the LMB molecule which then reduces the ferric iron of metHb to the ferrous state of normal hemoglobin." ([DailyMed: Provayblue (methylene blue) prescribing information, American Regent, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232), label version 2025-05-28; accessed 2026-11-19.) Based on general pharmacology, methylene blue is known to inhibit nitric oxide synthase and guanylate cyclase, and it is a redox-cycling agent with some anti-inflammatory properties. In theory, these could be relevant to airway inflammation.
 
 Its established use is in methemoglobinemia, where it is reduced to leucomethylene blue and then converts methemoglobin back to hemoglobin. This mechanism has no obvious link to bronchitis, a respiratory tract inflammatory or infectious condition. The TxGNN score is very high, but none of the retrieved literature tests methylene blue as a treatment for bronchitis. The prediction therefore cannot be grounded in the data supplied and should be treated as a model-generated hypothesis.
 
@@ -144,12 +144,13 @@ The TxGNN score for bronchitis is very high, but there are no clinical trials, n
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Five further authorizations (including ANDA219550, ANDA219363, ANDA217380, and 505G(a)(3)) are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and the US licenses are all cancelled with injectable-only forms" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data for methylene blue is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Provayblue (methylene blue) prescribing information, American Regent, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232) |
 
 <!-- review:end log -->
 

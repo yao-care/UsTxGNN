@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **Congenital Analbuminemia**, b
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, nifurtimox is a nitrofuran antiprotozoal that generates reactive oxygen species and nitro-radical metabolites in *Trypanosoma cruzi*. Its efficacy in Chagas disease is the basis for its original use.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for nifurtimox: "Nifurtimox is an antiprotozoal drug. […] The mechanism of action of nifurtimox is not fully understood. Studies suggest that nifurtimox is metabolized/activated, by Type I (oxygen insensitive) and Type II (oxygen sensitive) nitoreductases (NTR) leading to production of toxic intermediate metabolites and/or reactive oxygen species that induce DNA damage and cell death of both intracellular and extracellular forms of T. cruzi." ([DailyMed: Lampit (nifurtimox) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=90d09714-a8b1-4696-8ada-f99dc54d0721), label version 2026-03-03; accessed 2026-11-19.) Based on known information, nifurtimox is a nitrofuran antiprotozoal that generates reactive oxygen species and nitro-radical metabolites in *Trypanosoma cruzi*. Its efficacy in Chagas disease is the basis for its original use.
 
 This mechanism does not appear applicable to congenital analbuminemia. That disorder is a rare monogenic condition caused by loss-of-function variants in the *ALB* gene, and an antiparasitic prodrug has no plausible way to correct it. The high TxGNN score (0.9958) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -134,11 +134,12 @@ The prediction rests only on a TxGNN model (deep learning) score. No clinical tr
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lampit (nifurtimox) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=90d09714-a8b1-4696-8ada-f99dc54d0721) |
 
 <!-- review:end log -->
 

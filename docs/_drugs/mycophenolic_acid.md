@@ -60,7 +60,7 @@ The prediction is best treated as a research question rather than an actionable 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. From the literature, mycophenolic acid (the active form of mycophenolate mofetil) is a selective, reversible inhibitor of IMPDH. This blocks de novo guanosine nucleotide synthesis, which T and B lymphocytes depend on, so it suppresses lymphocyte proliferation.
+According to the Mechanism of Action section of the FDA-approved prescribing information for mycophenolic acid: "Mycophenolic acid (MPA), an immunosuppressant, is an uncompetitive and reversible inhibitor of inosine monophosphate dehydrogenase (IMPDH), and therefore inhibits the de novo pathway of guanosine nucleotide synthesis without incorporation to DNA. T- and B-lymphocytes are critically dependent for their proliferation on de novo synthesis of purines, whereas other cell types can utilize salvage pathways." ([DailyMed: Myfortic (mycophenolic acid) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eed26501-890d-4ff6-88e7-6dbea4726e53), label version 2026-07-29; accessed 2026-11-19.) From the literature, mycophenolic acid (the active form of mycophenolate mofetil) is a selective, reversible inhibitor of IMPDH. This blocks de novo guanosine nucleotide synthesis, which T and B lymphocytes depend on, so it suppresses lymphocyte proliferation.
 
 The link to hemoglobinopathy is **indirect**. The drug does not correct the underlying hemoglobin disorder. Its plausible role is in managing transplant-related complications, such as graft-versus-host disease (GVHD) after allogeneic stem cell transplantation for thalassemia or sickle cell disease. A 2025 publication on off-label mycophenolate mofetil dosing in pediatric thalassemia transplant patients suggests this use exists in practice, but it provides dosing guidance rather than evidence of efficacy.
 
@@ -131,11 +131,12 @@ The 0.9960 TxGNN score is a computational prediction. The only supporting materi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US product is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Myfortic (mycophenolic acid) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eed26501-890d-4ff6-88e7-6dbea4726e53) |
 
 <!-- review:end log -->
 

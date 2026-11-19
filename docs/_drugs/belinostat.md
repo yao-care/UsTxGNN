@@ -58,7 +58,7 @@ with **6 clinical trials** (all early phase, Phase 1 to Phase 2) and **20 public
 
 ## Why is This Prediction Reasonable?
 
-Belinostat is a pan-HDAC (histone deacetylase) inhibitor. Detailed mechanism of action data is not available in the data compiled for this report, but the class mechanism is well established. In myeloid leukemia, HDAC inhibition promotes histone hyperacetylation, re-expression of silenced tumor suppressor genes, cell-cycle arrest and apoptosis.
+Belinostat is a pan-HDAC (histone deacetylase) inhibitor. According to the Mechanism of Action section of the FDA-approved prescribing information for belinostat: "Beleodaq is a histone deacetylase (HDAC) inhibitor. HDACs catalyze the removal of acetyl groups from the lysine residues of histones and some non-histone proteins. In vitro, belinostat caused the accumulation of acetylated histones and other proteins, inducing cell cycle arrest and/or apoptosis of some transformed cells." ([DailyMed: Beleodaq (belinostat) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e8ef36b-71fa-4492-a16f-577d5f7d111d), label version 2025-04-07; accessed 2026-11-19.) The class mechanism is well established. In myeloid leukemia, HDAC inhibition promotes histone hyperacetylation, re-expression of silenced tumor suppressor genes, cell-cycle arrest and apoptosis.
 
 Its approved use in T-cell lymphoma and myeloid leukemia are both blood cancers in which epigenetic dysregulation plays a role. Preclinical work shows synergy with:
 - proteasome inhibitors (bortezomib),
@@ -159,12 +159,13 @@ The TxGNN score is very high and there is a sound mechanistic rationale, but cli
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US NDA is cancelled, and l" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given the cancelled NDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Beleodaq (belinostat) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e8ef36b-71fa-4492-a16f-577d5f7d111d) |
 
 <!-- review:end log -->
 

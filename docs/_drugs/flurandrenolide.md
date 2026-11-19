@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **vulvar inverted follicular ke
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, flurandrenolide is a topical corticosteroid. Its use in inflammatory and eczematous skin diseases is established, and mechanistically a glucocorticoid anti-inflammatory effect may be applicable to some inflammatory skin conditions.
+ChEMBL (EMBL-EBI) records the mechanism of action of flurandrenolide as: Glucocorticoid receptor agonist ([ChEMBL CHEMBL1201012 (flurandrenolide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201012), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, flurandrenolide is a topical corticosteroid. Its use in inflammatory and eczematous skin diseases is established, and mechanistically a glucocorticoid anti-inflammatory effect may be applicable to some inflammatory skin conditions.
 
 The high score for vulvar inverted follicular keratosis comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as seborrheic keratosis, a related benign keratinocytic lesion that appears among the drug's original indications, not biological evidence. However, inverted follicular keratosis is typically treated by excision, and there is no evidence that a corticosteroid is effective. The link is a computational prediction only. The vulvar location also raises a concern about skin atrophy with potent topical steroids.
 
@@ -135,12 +135,13 @@ The prediction for vulvar inverted follicular keratosis has no supporting clinic
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All three authorizations are valid, so the product is currently marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "All three US authorizations are valid and the drug is marketed, but label safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1201012 (flurandrenolide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201012) |
 
 <!-- review:end log -->
 

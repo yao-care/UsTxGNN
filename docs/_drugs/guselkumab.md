@@ -60,7 +60,7 @@ Guselkumab is an anti-IL-23 p19 monoclonal antibody, and the data compiled for t
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the compiled record. From the literature, guselkumab is a fully human monoclonal antibody that binds the p19 subunit of IL-23. IL-23 sustains Th17 cells, which drive inflammation in plaque psoriasis and in the gut.
+According to the Mechanism of Action section of the FDA-approved prescribing information for guselkumab: "Guselkumab is a human monoclonal IgG1λ antibody that selectively binds to the p19 subunit of interleukin 23 (IL-23) and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in normal inflammatory and immune responses." ([DailyMed: Tremfya (guselkumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56), label version 2026-10-20; accessed 2026-11-19.) From the literature, guselkumab is a fully human monoclonal antibody that binds the p19 subunit of IL-23. IL-23 sustains Th17 cells, which drive inflammation in plaque psoriasis and in the gut.
 
 **Drug-induced osteoporosis (rank 1).** There are no trials or publications. IL-23 and the IL-17/Th17 axis have been implicated in bone remodeling, but the compiled data do not support a direct link. The high score is a computational prediction only.
 
@@ -162,12 +162,13 @@ Please refer to the package insert for warnings and contraindications, because t
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The record shows the single license as "cancelled", giving a market status of "Cancelled only"" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(the record shows "Cancelled only" and no indication text)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data are not available in the compiled record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tremfya (guselkumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56) |
 
 <!-- review:end log -->
 

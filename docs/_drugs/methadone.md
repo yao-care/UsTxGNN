@@ -60,7 +60,7 @@ This direction rests mainly on a computational prediction, and the evidence is w
 
 ## Why is This Prediction Reasonable?
 
-Methadone is a mu-opioid receptor agonist and also an NMDA receptor antagonist. Detailed mechanism-of-action data are not available in the data compiled for this report. Based on known pharmacology, opioid signalling can modulate dopaminergic and striatal circuits, which are thought to be involved in tic expression.
+Methadone is a mu-opioid receptor agonist and also an NMDA receptor antagonist. According to the Mechanism of Action section of the FDA-approved prescribing information for methadone: "Methadone hydrochloride is a mu-agonist; a synthetic opioid with multiple actions qualitatively similar to those of morphine, the most prominent of which involves the central nervous system and organs composed of smooth muscle. The methadone withdrawal syndrome, although qualitatively similar to that of morphine, differs in that the onset is slower, the course is more prolonged, and the symptoms are less severe." ([DailyMed: Methadose Dispersible (methadone hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=544483e6-6f9d-4371-9e93-313e54e0ea05), label version 2026-08-04; accessed 2026-11-19.) Based on known pharmacology, opioid signalling can modulate dopaminergic and striatal circuits, which are thought to be involved in tic expression.
 
 The literature offers some indirect support. A 2007 preclinical review notes that opiate drugs have been reported to be effective in treatment-refractory obsessive-compulsive disorder and Tourette syndrome. A 1992 report in the *American Journal of Psychiatry* describes methadone treatment of Tourette's disorder. However, this is a very old, small observation with no modern replication.
 
@@ -137,11 +137,12 @@ The Tourette syndrome prediction has a high model score but little real-world su
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 16 licenses are valid, and no approved-indication text is recorded" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Methadose Dispersible (methadone hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=544483e6-6f9d-4371-9e93-313e54e0ea05) |
 
 <!-- review:end log -->
 

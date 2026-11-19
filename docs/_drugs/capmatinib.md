@@ -56,7 +56,7 @@ Support is very limited: **0 clinical trials** and **1 general review publicatio
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data from DrugBank are not available in the data compiled for this report. Capmatinib is known as a selective MET (c-Met) tyrosine kinase inhibitor, and its original indication could not be confirmed from the data provided.
+According to the Mechanism of Action section of the FDA-approved prescribing information for capmatinib: "Capmatinib is a kinase inhibitor that targets MET, including the mutant variant produced by exon 14 skipping. MET exon 14 skipping results in a protein with a missing regulatory domain that reduces its negative regulation leading to increased downstream MET signaling." ([DailyMed: Tabrecta (capmatinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=455892c3-d144-4ba8-9ab4-79cabff9876d), label version 2026-10-26; accessed 2026-11-19.) Capmatinib is known as a selective MET (c-Met) tyrosine kinase inhibitor, and its original indication could not be confirmed from the data provided.
 
 There is a plausible but unproven mechanistic link. HGF/MET signaling has been reported to be upregulated in rheumatoid synovium. It may contribute to synovial fibroblast activation, angiogenesis, and inflammatory cell migration. In theory, blocking MET could dampen these processes.
 
@@ -127,11 +127,12 @@ The prediction rests on model output alone (L5), with no registered trials and n
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The drug's only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data from DrugBank are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tabrecta (capmatinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=455892c3-d144-4ba8-9ab4-79cabff9876d) |
 
 <!-- review:end log -->
 

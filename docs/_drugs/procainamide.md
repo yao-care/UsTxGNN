@@ -56,7 +56,7 @@ This is a model-only prediction with no actual supporting studies.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general pharmacology, procainamide is a class Ia sodium channel blocker used for cardiac arrhythmias.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for procainamide: "Procainamide (PA) increases the effective refractory period of the atria, and to a lesser extent the bundle of His-Purkinje system and ventricles of the heart. It reduces impulse conduction velocity in the atria, His-Purkinje fibers, and ventricular muscle, but has variable effects on the atrioventricular (A-V) node, a direct slowing action and a weaker vagolytic effect which may speed A-V conduction slightly." ([DailyMed: procainamide hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ec3b767-66bb-4634-877e-71f70d501da0), label version 2026-08-31; accessed 2026-11-19.) Based on general pharmacology, procainamide is a class Ia sodium channel blocker used for cardiac arrhythmias.
 
 Nothing in its known pharmacology connects to the dopaminergic or cortico-striato-thalamo-cortical circuitry implicated in Tourette syndrome. The high TxGNN score (0.9946) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No credible mechanistic rationale supports it.
 
@@ -150,12 +150,13 @@ The Tourette syndrome prediction rests solely on a score from the TxGNN model (d
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 5 valid licenses of 5" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(5 valid licenses of 5)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: procainamide hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ec3b767-66bb-4634-877e-71f70d501da0) |
 
 <!-- review:end log -->
 

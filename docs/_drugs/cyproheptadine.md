@@ -55,7 +55,7 @@ No clinical trials are registered for the top prediction, and **9 publications**
 
 ## Why is This Prediction Reasonable?
 
-Cyproheptadine is a first-generation H1 antihistamine that also blocks serotonin receptors, and it has anticholinergic activity. Detailed mechanism-of-action data is not available in the data compiled for this report, so this description relies on general knowledge of the drug class.
+Cyproheptadine is a first-generation H1 antihistamine that also blocks serotonin receptors, and it has anticholinergic activity. According to the Clinical Pharmacology section of the FDA-approved prescribing information for cyproheptadine: "Cyproheptadine is a serotonin and histamine antagonist with anticholinergic and sedative effects. Antiserotonin and antihistamine drugs appear to compete with serotonin and histamine, respectively, for receptor sites." ([DailyMed: Cyproheptadine Hydrochloride Solution (cyproheptadine hydrochloride) prescribing information, Method Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1acfd050-6c07-a269-e063-6394a90a77e8), label version 2025-10-21; accessed 2026-11-19.) This description relies on general knowledge of the drug class.
 
 Allergic urticaria is driven by histamine released from mast cells, so blocking H1 receptors is a direct mechanistic fit. Urticaria and angioedema are already among cyproheptadine's original indications, so this prediction is effectively an on-label or near-label use rather than true repurposing. The extra antiserotonergic activity may add benefit in some forms of urticaria.
 
@@ -69,7 +69,6 @@ Currently no related clinical trials registered (for allergic urticaria or cold 
 
 ## Literature Evidence
 
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [7488341](https://pubmed.ncbi.nlm.nih.gov/7488341/) | 1995 | Double-blind crossover comparison | Asian Pac J Allergy Immunol | Cyproheptadine vs ketotifen in 6 Thai children with cold urticaria |
@@ -78,7 +77,6 @@ Currently no related clinical trials registered (for allergic urticaria or cold 
 | [13685954](https://pubmed.ncbi.nlm.nih.gov/13685954/) | 1961 | Clinical study | Br Med J | Cyproheptadine in the treatment of urticaria |
 | [14106555](https://pubmed.ncbi.nlm.nih.gov/14106555/) | 1964 | Clinical evaluation | J Assoc Physicians India | Early evaluation in allergic dermatosis |
 | [4382319](https://pubmed.ncbi.nlm.nih.gov/4382319/) | 1967 | Clinical study/review | Med Lett Drugs Ther | Cyproheptadine for allergic and pruritic dermatoses |
-
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -98,7 +96,6 @@ Overall, the evidence is small, old and mostly comparative. Modern controlled da
 | ANDA203191 | Cyproheptadine (Chartwell RX) | Syrup | Not listed (valid) |
 | ANDA205087 | Cyproheptadine Hydrochloride (Ingenus) | Tablet | Not listed (valid) |
 | ANDA212423 | Cyproheptadine Hydrochloride (Bryant Ranch Prepack) | Solution | Not listed (valid) |
-
 
 ## Safety Considerations
 
@@ -122,6 +119,19 @@ Please refer to the package insert for official warnings and contraindications.
 - Mechanism-of-action data
 - Comparison with current guideline therapy (up-titrated second-generation antihistamines, omalizumab)
 - A safety plan for sedation and anticholinergic effects in children and the elderly, and for co-medication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cyproheptadine Hydrochloride Solution (cyproheptadine hydrochloride) prescribing information, Method Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1acfd050-6c07-a269-e063-6394a90a77e8) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

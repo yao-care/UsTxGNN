@@ -56,7 +56,7 @@ This prediction is not supported by clinical data.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Pharmacology data show that cholic acid binds the bile acid receptor GPBAR1 (TGR5) and the farnesoid X receptor (FXR). It is approved by the FDA and EMA for rare bile acid synthesis disorders.
+According to the Mechanism of Action section of the FDA-approved prescribing information for cholic acid: "Cholic acid is a primary bile acid synthesized from cholesterol in the liver. In bile acid synthesis disorders due to SEDs in the biosynthetic pathway, and in PDs including Zellweger spectrum disorders, deficiency of primary bile acids leads to unregulated accumulation of intermediate bile acids and cholestasis." ([DailyMed: Cholbam (cholic acid) prescribing information, Mirum Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5c6e4c9d-b85e-493f-9420-ab2fd0ff3723), label version 2026-01-26; accessed 2026-11-19.) Pharmacology data show that cholic acid binds the bile acid receptor GPBAR1 (TGR5) and the farnesoid X receptor (FXR). It is approved by the FDA and EMA for rare bile acid synthesis disorders.
 
 The link to HIV is weak and indirect. A 1993 in vitro study found that sodium cholate had spermicidal activity and inhibited HIV-1 reverse transcriptase, and it was tested in a vaginal sponge together with nonoxynol-9 and benzalkonium chloride. In contrast, a 2006 study found that amino-functionalized cholic acid derivatives **induced** HIV-1 replication and syncytia formation in T cells, which argues against benefit. A 2010 cohort paper only describes plasma bile acid levels in HIV patients on protease inhibitors, which is an association rather than a treatment effect.
 
@@ -126,11 +126,12 @@ The prediction rests on a high model score alone. There are no clinical trials, 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The product's only US NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cholbam (cholic acid) prescribing information, Mirum Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5c6e4c9d-b85e-493f-9420-ab2fd0ff3723) |
 
 <!-- review:end log -->
 

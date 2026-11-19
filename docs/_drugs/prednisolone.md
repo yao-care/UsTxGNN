@@ -60,7 +60,7 @@ with **0 registered clinical trials** but **20 publications** (including a place
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, prednisolone is a glucocorticoid that suppresses T-cell activation and pro-inflammatory cytokine production.
+According to the Mechanism of Action section of the FDA-approved prescribing information for prednisolone: "Prednisolone is a synthetic adrenocortical steroid drug with predominantly glucocorticoid properties. Some of these properties reproduce the physiological actions of endogenous glucocorticosteroids, but others do not necessarily reflect any of the adrenal hormones' normal functions; they are seen only after administration of large therapeutic doses of the drug." ([DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1), label version 2025-06-03; accessed 2026-11-19.) Based on known pharmacology, prednisolone is a glucocorticoid that suppresses T-cell activation and pro-inflammatory cytokine production.
 
 Alopecia areata is a T-cell mediated autoimmune attack on the hair follicle, with collapse of the follicle's immune privilege. Prednisolone is already used in other autoimmune diseases, so its immunosuppressive action addresses the same type of mechanism. One study also reported that oral pulse steroids alter serum and tissue TNF-α levels in alopecia areata, a possible mechanism of action.
 
@@ -149,11 +149,12 @@ Alopecia areata is the only predicted indication with direct supporting evidence
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 13 valid licenses in the data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1) |
 
 <!-- review:end log -->
 

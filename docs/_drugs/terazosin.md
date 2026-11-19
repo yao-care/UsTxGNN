@@ -56,7 +56,7 @@ Among the other predicted indications, **Raynaud disease** and **migraine** have
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, terazosin is an alpha-1 adrenergic blocker. Its effect in hypertension and benign prostatic hyperplasia comes from relaxing vascular and prostatic smooth muscle.
+According to the Mechanism of Action section of the FDA-approved prescribing information for terazosin: "Benign Prostatic Hyperplasia The symptoms associated with benign prostatic hyperplasia (BPH) are related to bladder outlet obstruction, which is comprised of two underlying components: static and dynamic. The static component is related to an increase in prostate size caused, in part by a proliferation of smooth muscle cells in the prostatic stroma. […] Blockade of the alpha-1 receptor decreases urethral resistance and may relieve the obstruction of BPH symptoms and improve urine flow Hypertension The mechanism of action of terazosin is selective blockade of the alpha-1 subtype of adrenergic receptors." ([DailyMed: Tezruly (terazosin) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69582e0c-6569-490c-8c14-999f3750336f), label version 2025-04-18; accessed 2026-11-19.) Based on known information, terazosin is an alpha-1 adrenergic blocker. Its effect in hypertension and benign prostatic hyperplasia comes from relaxing vascular and prostatic smooth muscle.
 
 For hypotrichosis simplex of the scalp, the mechanistic rationale is weak. Hypotrichosis simplex is a genetic disorder of hair growth. A link to hair follicle biology, for example through the antihypertensive minoxidil, is only an analogy and not evidence. A vasodilatory effect on scalp microcirculation is speculative, and alpha-1 blockade is unlikely to correct an underlying genetic defect. The high score (0.9997) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -114,6 +114,19 @@ The top prediction, hypotrichosis simplex of the scalp, has a very high model sc
 - If pursuing this candidate list, prioritize **Raynaud disease** and **migraine**: these have older, small studies and need controlled trials, with comparison to established agents such as calcium channel blockers for Raynaud disease
 - For the hair-related predictions, preclinical evidence on follicle biology before any clinical consideration
 - Clarification of the regulatory path, since 5 US licenses are valid
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tezruly (terazosin) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69582e0c-6569-490c-8c14-999f3750336f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

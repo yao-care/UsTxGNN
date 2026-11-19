@@ -60,7 +60,7 @@ Evidence is therefore limited to model prediction and indirect mechanistic reaso
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, famciclovir is a prodrug of penciclovir, whose triphosphate form inhibits varicella-zoster virus (VZV) DNA polymerase.
+According to the Mechanism of Action section of the FDA-approved prescribing information for famciclovir: "Famciclovir is an orally administered prodrug of the anti-alpha herpes viral agent penciclovir." ([DailyMed: famciclovir prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2c44b8d2-3b70-4e8b-af03-2e917178f761), label version 2026-11-13; accessed 2026-11-19.) Based on known pharmacology, famciclovir is a prodrug of penciclovir, whose triphosphate form inhibits varicella-zoster virus (VZV) DNA polymerase.
 
 Postherpetic neuralgia is the most common complication of herpes zoster. Starting antiviral treatment early in acute shingles may limit viral replication and nerve damage, which could in turn reduce the risk or severity of subsequent neuralgia.
 
@@ -117,6 +117,19 @@ The prediction score is high, but the supporting evidence is only a model predic
 - Package insert warnings and contraindications (not yet obtained, and required for safety screening)
 - Clarification of current US market and supply status
 - Renal safety assessment, given the knowledge-graph link to kidney disease
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: famciclovir prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2c44b8d2-3b70-4e8b-af03-2e917178f761) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

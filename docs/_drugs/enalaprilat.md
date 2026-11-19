@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, enalaprilat is the active diacid metabolite of enalapril and inhibits angiotensin-converting enzyme (ACE). Its efficacy in hypertension and heart failure is established through this mechanism.
+According to the Mechanism of Action section of the FDA-approved prescribing information for enalaprilat: "Intravenous enalaprilat, or oral enalapril, after hydrolysis to enalaprilat, inhibits ACE in human subjects and animals. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II." ([DailyMed: enalaprilat prescribing information, Dr. Reddys Laboratories Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d398da1-020c-ccb1-a775-ce8e0b29d621), label version 2024-06-07; accessed 2026-11-19.) Based on known pharmacology, enalaprilat is the active diacid metabolite of enalapril and inhibits angiotensin-converting enzyme (ACE). Its efficacy in hypertension and heart failure is established through this mechanism.
 
 A speculative link is that a local renin-angiotensin system (RAS) exists in ocular tissue. ACE inhibition might lower intraocular pressure by altering aqueous humor dynamics or uveoscleral outflow.
 
@@ -123,12 +123,13 @@ The prediction is supported only by a model score, with no clinical trials or li
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "Both US authorizations for enalaprilat are valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since both authorizations are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: enalaprilat prescribing information, Dr. Reddys Laboratories Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d398da1-020c-ccb1-a775-ce8e0b29d621) |
 
 <!-- review:end log -->
 

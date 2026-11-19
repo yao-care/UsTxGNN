@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **retinal dystrophy with or wit
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Paliperidone is known to be the active metabolite of risperidone (9-hydroxyrisperidone) and acts as a dopamine D2 and serotonin 5-HT2A antagonist. Its efficacy in schizophrenia and related psychotic disorders is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for paliperidone: "Paliperidone is the major active metabolite of risperidone. The mechanism of action of paliperidone in schizophrenia is unclear. However, the drug's therapeutic effect in schizophrenia could be mediated through a combination of central dopamine Type 2 (D 2 ) and serotonin Type 2 (5HT 2A ) receptor antagonism." ([DailyMed: Invega (paliperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b8e5b26-b9e4-4704-921b-3c3c0d159916), label version 2025-01-31; accessed 2026-11-19.) Paliperidone is known to be the active metabolite of risperidone (9-hydroxyrisperidone) and acts as a dopamine D2 and serotonin 5-HT2A antagonist. Its efficacy in schizophrenia and related psychotic disorders is established.
 
 No plausible link between this receptor pharmacology and inherited retinal dystrophy has been shown. Retinal dystrophies are mostly monogenic degenerative conditions of the retina. The very high TxGNN score (0.9992) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trial or publication was found to support the connection, and the similarity between the original and predicted indications could not be assessed.
 
@@ -143,13 +143,14 @@ The prediction is supported only by a model score, with no clinical trials or pu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 12 authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Verification of the cancelled market status and its effect on development feasibility" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 12 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Invega (paliperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b8e5b26-b9e4-4704-921b-3c3c0d159916) |
 
 <!-- review:end log -->
 

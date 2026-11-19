@@ -56,7 +56,7 @@ This is a computational prediction only, so the evidence is very weak.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the compiled data. Erdafitinib is known to be a pan-FGFR tyrosine kinase inhibitor. FGF/FGFR signaling has been implicated in pulmonary vascular remodeling and smooth muscle proliferation, so a biologically plausible link to pulmonary hypertension exists, but it has not been validated.
+According to the Mechanism of Action section of the FDA-approved prescribing information for erdafitinib: "Erdafitinib is a kinase inhibitor that binds to and inhibits enzymatic activity of FGFR1, FGFR2, FGFR3 and FGFR4 based on in vitro data. Erdafitinib inhibited FGFR phosphorylation and signaling and decreased cell viability in cell lines expressing FGFR genetic alterations, including point mutations, amplifications, and fusions." ([DailyMed: Balversa (erdafitinib) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a8aa5c0-6c92-4566-8c45-e8f4d1fc20ee), label version 2025-10-24; accessed 2026-11-19.) Erdafitinib is known to be a pan-FGFR tyrosine kinase inhibitor. FGF/FGFR signaling has been implicated in pulmonary vascular remodeling and smooth muscle proliferation, so a biologically plausible link to pulmonary hypertension exists, but it has not been validated.
 
 The original indication text was empty in the compiled data, so the relationship between the original and the predicted indication cannot be assessed. The high TxGNN score (0.9938) is a model output and not evidence of efficacy.
 
@@ -130,12 +130,13 @@ The prediction rests only on a computational score, with no clinical trials or r
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license is cancelled, and the label warnings and original indication data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Clarification of the cancelled US market status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Balversa (erdafitinib) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a8aa5c0-6c92-4566-8c45-e8f4d1fc20ee) |
 
 <!-- review:end log -->
 

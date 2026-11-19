@@ -56,7 +56,7 @@ but **no clinical trials** are registered and the 19 retrieved publications are 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, nisoldipine is a dihydropyridine L-type calcium channel blocker. Its efficacy in hypertension rests on relaxing vascular smooth muscle, and mechanistically this may be applicable to the pulmonary circulation.
+According to the Mechanism of Action section of the FDA-approved prescribing information for nisoldipine: "Nisoldipine is a member of the dihydropyridine class of calcium channel antagonists (calcium ion antagonists or slow channel blockers) that inhibit the transmembrane influx of calcium into vascular smooth muscle and cardiac muscle. It reversibly competes with other dihydropyridines for binding to the calcium channel." ([DailyMed: Sular (nisoldipine) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=589157fa-d129-4de3-be3d-e0e1c22c5873), label version 2026-03-12; accessed 2026-11-19.) Based on known pharmacology, nisoldipine is a dihydropyridine L-type calcium channel blocker. Its efficacy in hypertension rests on relaxing vascular smooth muscle, and mechanistically this may be applicable to the pulmonary circulation.
 
 Hypoxic pulmonary vasoconstriction depends partly on calcium influx through L-type channels and on calcium release from intracellular stores in pulmonary arterial smooth muscle. This gives a plausible link between calcium channel blockade and the predicted indication. Older animal work, such as a 1985 canine study comparing nisoldipine, nifedipine and bepridil in experimental pulmonary hypertension, is consistent with this idea.
 
@@ -142,13 +142,14 @@ The mechanistic link is plausible, but the evidence is limited to old preclinica
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Calcium channel blockers are generally not recommended for pulmonary hypertension associated with lung disease or hypoxia, because they may " | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "Calcium channel blockers are generally not recommended in hypoxia-related pulmonary hypertension, and the only US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the drug's cancelled market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sular (nisoldipine) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=589157fa-d129-4de3-be3d-e0e1c22c5873) |
 
 <!-- review:end log -->
 

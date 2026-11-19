@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **bacterial arthritis**, but so
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Ertapenem is a carbapenem, and carbapenems generally act by binding penicillin-binding proteins and blocking bacterial cell wall synthesis. The reasoning below rests on that general class pharmacology.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for ertapenem: "Ertapenem sodium is a carbapenem antibiotic. […] Ertapenem has in vitro activity against Gram-positive and Gram-negative aerobic and anaerobic bacteria. The bactericidal activity of ertapenem results from the inhibition of cell wall synthesis and is mediated through ertapenem binding to penicillin binding proteins (PBPs)." ([DailyMed: Invanz (ertapenem sodium) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33f3b99b-fa82-42e0-26bf-f49891ae3d22), label version 2026-02-04; accessed 2026-11-19.) Ertapenem is a carbapenem, and carbapenems generally act by binding penicillin-binding proteins and blocking bacterial cell wall synthesis. The reasoning below rests on that general class pharmacology.
 
 The drug covers many pathogens that cause septic arthritis and bone and joint infections. These include Enterobacterales (such as *Klebsiella pneumoniae* and *Citrobacter koseri*) and anaerobes (such as *Prevotella* and *Clostridium*). Its original indications are also bacterial infections, so extending it to a joint infection with similar organisms is mechanistically plausible, and the high TxGNN score is consistent with this.
 
@@ -136,13 +136,14 @@ A separate direction may be worth considering. The second-ranked prediction, *St
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 6 authorizations are valid, and no label indication text was available" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "The drug is marketed in the US, and all 6 US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "although all 6 listed licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Invanz (ertapenem sodium) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33f3b99b-fa82-42e0-26bf-f49891ae3d22) |
 
 <!-- review:end log -->
 

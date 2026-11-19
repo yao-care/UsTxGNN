@@ -56,7 +56,7 @@ There are **no registered clinical trials** and only **1 publication** for this 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Chloroquine is known as a 4-aminoquinoline whose immunomodulatory effects are generally described as raising lysosomal pH, interfering with antigen processing and presentation, and dampening Toll-like receptor signaling. These effects are the plausible basis for its use in autoimmune arthritis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for chloroquine: "Chloroquine, a 4-aminoquinoline, is an anti-protozoal agent. The precise mechanism by which chloroquine exhibits activity is not known. Chloroquine, may exert its effect against Plasmodium species by concentrating in the acid vesicles of the parasite and by inhibiting polymerization of heme." ([DailyMed: chloroquine phosphate prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=06c69e2b-211b-4746-9f3a-f86d36520570), label version 2026-10-21; accessed 2026-11-19.) Chloroquine is known as a 4-aminoquinoline whose immunomodulatory effects are generally described as raising lysosomal pH, interfering with antigen processing and presentation, and dampening Toll-like receptor signaling. These effects are the plausible basis for its use in autoimmune arthritis.
 
 Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis is the paediatric form of joint disease that most resembles adult rheumatoid arthritis. The high model score likely reflects that closeness to adult autoimmune arthritis. Mechanistically, the same immune pathways could be relevant in children.
 
@@ -112,11 +112,12 @@ The prediction rests only on the model score. No clinical trial or chloroquine-s
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The local data hold 6 licence records in total, and the list above shows 5 of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: chloroquine phosphate prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=06c69e2b-211b-4746-9f3a-f86d36520570) |
 
 <!-- review:end log -->
 

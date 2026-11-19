@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and only **3 publications** (revie
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the literature retrieved, rotigotine is a dopamine agonist that acts on D1 to D5 receptors, with notable activity at D3, D2 and D1. It also shows some activity at 5-HT1A and alpha-2B adrenergic receptors.
+According to the Mechanism of Action section of the FDA-approved prescribing information for rotigotine: "Rotigotine is a non-ergoline dopamine agonist. The precise mechanism of action of rotigotine as a treatment for Parkinson's disease is unknown, although it is thought to be related to its ability to stimulate dopamine receptors within the caudate-putamen in the brain." ([DailyMed: Neupro (rotigotine) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=939e28c5-f3a9-42c0-9a2d-8d471d82a6e0), label version 2026-11-11; accessed 2026-11-19.) Based on the literature retrieved, rotigotine is a dopamine agonist that acts on D1 to D5 receptors, with notable activity at D3, D2 and D1. It also shows some activity at 5-HT1A and alpha-2B adrenergic receptors.
 
 ADHD involves dysregulation of dopamine and noradrenaline signalling. The retrieved literature discusses heteromerization between the dopamine D4 receptor and the α2A adrenoceptor, both of which have been genetically linked to ADHD. In addition, restless legs syndrome (one of rotigotine's original indications) frequently co-occurs with ADHD, and the two conditions share dopaminergic involvement.
 
@@ -127,12 +127,13 @@ The TxGNN score is very high (1.0000), but there are no clinical trials and the 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Moreover, the only US NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given the cancelled US license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Neupro (rotigotine) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=939e28c5-f3a9-42c0-9a2d-8d471d82a6e0) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Clonazepam is a benzodiazepine that enhances GABA-A receptor signalling. The TxG
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for clonazepam is not available in the data compiled for this report. Based on class-level pharmacology, clonazepam is a positive allosteric modulator of the GABA-A receptor. In restless legs syndrome it is thought to reduce sensory-motor arousal and sleep fragmentation and to suppress periodic limb movements during sleep.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for clonazepam: "The precise mechanism by which clonazepam exerts its antiseizure and antipanic effects is unknown, although it is believed to be related to its ability to enhance the activity of gamma aminobutyric acid (GABA), the major inhibitory neurotransmitter in the central nervous system." ([DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1), label version 2025-12-01; accessed 2026-11-19.) Based on class-level pharmacology, clonazepam is a positive allosteric modulator of the GABA-A receptor. In restless legs syndrome it is thought to reduce sensory-motor arousal and sleep fragmentation and to suppress periodic limb movements during sleep.
 
 This effect is symptomatic and sleep-related, not disease-modifying. Benzodiazepines, particularly clonazepam, have been used for restless legs syndrome for decades. A recent survey of about 16,700 treated patients found roughly 25% received benzodiazepines, alone or combined with other therapies. The high TxGNN score is consistent with this long-standing but low-quality body of use. Dopamine agonists and other agents remain the usual first-line options in the literature reviewed.
 
@@ -99,6 +99,19 @@ Decades of clinical use, a Cochrane review, a current clinical practice guidelin
 - A larger, modern controlled trial against current standard therapy
 - FDA package insert warnings and contraindications, and mechanism-of-action data
 - A plan for monitoring sedation, dependence, respiratory risk and opioid co-prescription
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for clonazepam is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **specific developmental disord
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, atomoxetine is a selective norepinephrine reuptake inhibitor, its efficacy in ADHD is established, and noradrenergic modulation of attention and executive function may be relevant to specific developmental disorders.
+According to the Mechanism of Action section of the FDA-approved prescribing information for atomoxetine: "The precise mechanism by which STRATTERA produces its therapeutic effects in ADHD is unknown, but is thought to be related to selective inhibition of the pre-synaptic norepinephrine transporter, as determined in ex vivo uptake and neurotransmitter depletion studies." ([DailyMed: Strattera (atomoxetine hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=309de576-c318-404a-bc15-660c2b1876fb), label version 2026-06-30; accessed 2026-11-19.) Based on known information, atomoxetine is a selective norepinephrine reuptake inhibitor, its efficacy in ADHD is established, and noradrenergic modulation of attention and executive function may be relevant to specific developmental disorders.
 
 Specific developmental disorders, such as learning disabilities, frequently co-occur with ADHD. This overlap is the most likely reason the TxGNN score is so high. The score probably reflects the shared link to the ADHD indication, not independent evidence of benefit.
 
@@ -140,13 +140,14 @@ The prediction rests almost entirely on the model score. No clinical trials exis
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All six US authorizations are valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "All six US authorizations are generic (abbreviated) applications for oral capsules, and all have been cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "One further cancelled authorization (ANDA090609, Major Pharmaceuticals) is not shown, to keep within the five-row limit" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Strattera (atomoxetine hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=309de576-c318-404a-bc15-660c2b1876fb) |
 
 <!-- review:end log -->
 

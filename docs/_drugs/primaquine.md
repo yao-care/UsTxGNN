@@ -60,7 +60,7 @@ The prediction rests on model output alone and has no biological rationale behin
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, primaquine acts on protozoan parasites, notably the liver stages and dormant hypnozoites of *P. vivax*/*P. ovale* and mature *P. falciparum* gametocytes, probably through oxidative stress mechanisms.
+According to the Mechanism of Action section of the FDA-approved prescribing information for primaquine: "Primaquine phosphate is an 8-aminoquinoline antimalarial drug. The mechanism of action has not been fully established. The major assumptions are an inhibition of the mitochondrial system of dormant parasites, and an oxidative stress generated through reactive metabolites in infected cells." ([DailyMed: primaquine phosphate prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1bfbf4ae-81b8-4160-a00d-6322aadd4b59), label version 2026-02-11; accessed 2026-11-19.) Based on known information, primaquine acts on protozoan parasites, notably the liver stages and dormant hypnozoites of *P. vivax*/*P. ovale* and mature *P. falciparum* gametocytes, probably through oxidative stress mechanisms.
 
 Myiasis is a different kind of disease. It is an infestation by fly larvae, which are multicellular arthropods rather than protozoa. Treatment is normally larval removal, occlusion or debridement, with ivermectin sometimes used. Primaquine has no known activity against fly larvae.
 
@@ -133,12 +133,13 @@ Other predictions for this drug are better supported and may deserve review firs
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All three US authorizations for primaquine are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "and all three US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: primaquine phosphate prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1bfbf4ae-81b8-4160-a00d-6322aadd4b59) |
 
 <!-- review:end log -->
 

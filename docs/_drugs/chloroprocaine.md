@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **cauda equina syndrome**, but 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, chloroprocaine is an ester-type local anesthetic that blocks voltage-gated sodium channels, and it is used for spinal and epidural anesthesia.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for chloroprocaine: "Chloroprocaine, like other local anesthetics, blocks the generation and the conduction of nerve impulses, presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse and by reducing the rate of rise of the action potential. In general, the progression of anesthesia is related to the diameter, myelination and conduction velocity of affected nerve fibers." ([DailyMed: Nesacaine (chloroprocaine hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a844e68a-1462-40e4-be5e-f56214906eb9), label version 2022-09-01; accessed 2026-11-19.) Based on general pharmacology, chloroprocaine is an ester-type local anesthetic that blocks voltage-gated sodium channels, and it is used for spinal and epidural anesthesia.
 
 The prediction is **not mechanistically convincing**. The publications link chloroprocaine to cauda equina syndrome as a potential **cause** (neurotoxicity after intrathecal or epidural administration, particularly with large doses of preservative-containing formulations). No plausible mechanism has been identified by which a sodium channel blocker would treat or reverse cauda equina syndrome, which is typically a surgical emergency caused by nerve root compression.
 
@@ -117,11 +117,12 @@ The prediction rests on model output alone (L5). The available literature descri
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All three US authorizations are valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nesacaine (chloroprocaine hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a844e68a-1462-40e4-be5e-f56214906eb9) |
 
 <!-- review:end log -->
 

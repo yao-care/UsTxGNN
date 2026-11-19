@@ -56,7 +56,7 @@ but the evidence is thin: **0 clinical trials** and **1 publication** (a veterin
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge of the drug class, dolutegravir is an integrase strand transfer inhibitor (INSTI). It blocks the step in which viral DNA is inserted into the host genome, which is essential for lentiviral replication.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for dolutegravir: "Dolutegravir is an HIV-1 antiretroviral agent. […] Dolutegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral DNA integration which is essential for the HIV replication cycle. Strand transfer biochemical assays using purified HIV-1 integrase and pre-processed substrate DNA resulted in IC 50 values of 2.7 nM and 12.6 nM." ([DailyMed: Tivicay (dolutegravir sodium) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63df5af3-b8ac-4e76-9830-2dbb340af922), label version 2026-08-25; accessed 2026-11-19.) Based on general knowledge of the drug class, dolutegravir is an integrase strand transfer inhibitor (INSTI). It blocks the step in which viral DNA is inserted into the host genome, which is essential for lentiviral replication.
 
 Feline immunodeficiency virus (FIV) is a lentivirus that causes progressive immune dysfunction in cats, much like HIV in humans. It has its own integrase enzyme, which is related to HIV-1 integrase, so INSTI activity is biologically plausible. The high TxGNN score likely reflects this shared lentiviral biology and the drug's original HIV/AIDS indications.
 
@@ -121,12 +121,13 @@ The only supporting evidence is a single veterinary study of a multi-drug regime
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and both US authorizations are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Both authorizations are held by ViiV Healthcare Company and are currently valid; the drug is marketed, with 2 valid licenses out of 2" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tivicay (dolutegravir sodium) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63df5af3-b8ac-4e76-9830-2dbb340af922) |
 
 <!-- review:end log -->
 

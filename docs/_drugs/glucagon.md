@@ -59,7 +59,7 @@ The TxGNN model predicts it may be useful for **irritable bowel syndrome**, but 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for glucagon is not available in the data compiled for this report. Based on known biology, glucagon comes from the same precursor (proglucagon) as GLP-1 and GLP-2, and glucagon has long been used to relax gastrointestinal smooth muscle during diagnostic procedures.
+According to the Mechanism of Action section of the FDA-approved prescribing information for glucagon: "Glucagon increases blood glucose concentration by activating hepatic glucagon receptors, thereby stimulating glycogen breakdown and release of glucose from the liver. Hepatic stores of glycogen are necessary for glucagon to produce an antihypoglycemic effect." ([DailyMed: glucagon prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e4be1c0e-0fe6-45a0-9229-5cde98434b84), label version 2020-09-16; accessed 2026-11-19.) Based on known biology, glucagon comes from the same precursor (proglucagon) as GLP-1 and GLP-2, and glucagon has long been used to relax gastrointestinal smooth muscle during diagnostic procedures.
 
 This suggests a plausible link to irritable bowel syndrome (IBS) through inhibition of gut motility, with possible effects on visceral hypersensitivity and the brain-gut axis.
 
@@ -140,11 +140,12 @@ No study tests glucagon in irritable bowel syndrome. The supporting trials and p
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Of the 5 licence records, 4 are valid and 1 is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data for glucagon is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: glucagon prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e4be1c0e-0fe6-45a0-9229-5cde98434b84) |
 
 <!-- review:end log -->
 

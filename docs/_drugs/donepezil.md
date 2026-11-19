@@ -56,7 +56,7 @@ Evidence is limited, and no randomized controlled trial supports this direction 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, donepezil is a cholinesterase inhibitor that raises synaptic acetylcholine. Its efficacy in Alzheimer disease is established, and mechanistically it may be applicable to disorders involving cholinergic signalling.
+According to the Mechanism of Action section of the FDA-approved prescribing information for donepezil: "Current theories on the pathogenesis of the cognitive signs and symptoms of Alzheimer’s disease attribute some of them to a deficiency of cholinergic neurotransmission. Donepezil hydrochloride is postulated to exert its therapeutic effect by enhancing cholinergic function." ([DailyMed: Aricept (donepezil hydrochloride) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975), label version 2021-12-30; accessed 2026-11-19.) Based on known pharmacology, donepezil is a cholinesterase inhibitor that raises synaptic acetylcholine. Its efficacy in Alzheimer disease is established, and mechanistically it may be applicable to disorders involving cholinergic signalling.
 
 **Top-ranked prediction (psychogenic movement disorders).** The score is very high (0.9923), but no trials or publications were found. A possible link is cholinergic modulation of basal ganglia motor circuits, but this is speculative. Psychogenic movement disorders have no established pharmacologic basis for cholinesterase inhibition.
 
@@ -146,12 +146,13 @@ Package insert warnings and contraindications were not available; please refer t
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 13 licenses in the data compiled for this report are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aricept (donepezil hydrochloride) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975) |
 
 <!-- review:end log -->
 

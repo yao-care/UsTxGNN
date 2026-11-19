@@ -59,7 +59,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data from the drug database is not available. Pharmacology data compiled for this report show that plerixafor targets **CXCR4** and also interacts with **ACKR3**. The CXCR4/CXCL12 axis anchors plasma cell myeloma cells in the bone marrow niche, so blocking it could in theory release them from that protective environment.
+According to the Mechanism of Action section of the FDA-approved prescribing information for plerixafor: "Plerixafor is an inhibitor of the CXCR4 chemokine receptor and blocks binding of its cognate ligand, stromal cell-derived factor-1α (SDF-1α). SDF-1α and CXCR4 are recognized to play a role in the trafficking and homing of human hematopoietic stem cells (HSCs) to the marrow compartment." ([DailyMed: Mozobil (plerixafor) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed08d2b-5051-46b2-aa37-1d6275bf9003), label version 2025-09-22; accessed 2026-11-19.) Pharmacology data compiled for this report show that plerixafor targets **CXCR4** and also interacts with **ACKR3**. The CXCR4/CXCL12 axis anchors plasma cell myeloma cells in the bone marrow niche, so blocking it could in theory release them from that protective environment.
 
 The high score is plausibly driven by the drug's closeness to an established myeloma-related use: stem cell mobilisation in multiple myeloma before autologous transplantation. That use is supportive care for transplant, not treatment of the myeloma itself.
 
@@ -131,11 +131,12 @@ The prediction has a very high model score but no clinical trials, no literature
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The five shown are the original brand NDA and four generic ANDAs" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data from the drug database is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mozobil (plerixafor) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed08d2b-5051-46b2-aa37-1d6275bf9003) |
 
 <!-- review:end log -->
 

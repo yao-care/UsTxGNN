@@ -57,7 +57,7 @@ Two other predicted indications are closely related diabetic eye conditions with
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general knowledge, pegvaliase is a PEGylated phenylalanine ammonia lyase that degrades phenylalanine, and it is used in phenylketonuria.
+According to the Mechanism of Action section of the FDA-approved prescribing information for pegvaliase: "Pegvaliase-pqpz is a PEGylated phenylalanine ammonia lyase (PAL) enzyme that converts phenylalanine to ammonia and trans -cinnamic acid. It substitutes for the deficient phenylalanine hydroxylase (PAH) enzyme activity in patients with PKU and reduces blood phenylalanine concentrations." ([DailyMed: Palynziq (pegvaliase-pqpz) prescribing information, BioMarin Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dba844a-db02-44f8-8593-ce497ed9406c), label version 2026-03-02; accessed 2026-11-19.) Based on general knowledge, pegvaliase is a PEGylated phenylalanine ammonia lyase that degrades phenylalanine, and it is used in phenylketonuria.
 
 The data does not support a mechanistic link to diabetic retinopathy. This condition is a microvascular complication driven mainly by hyperglycemia, VEGF signaling, and inflammation, and pegvaliase has no known action on these pathways. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. A speculative connection through amino acid metabolism could be imagined, but nothing in the evidence supports it.
 
@@ -113,11 +113,12 @@ The prediction rests only on a TxGNN model (deep learning) score, with no clinic
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Clarification of the regulatory status of the cancelled BLA and its approved indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Palynziq (pegvaliase-pqpz) prescribing information, BioMarin Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dba844a-db02-44f8-8593-ce497ed9406c) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **endothrix infectious disease**, 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on its drug class, luliconazole is an azole antifungal with activity against dermatophytes, the fungi that cause superficial skin infections.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for luliconazole: "LUZU Cream, 1% is an azole antifungal. […] Luliconazole is an antifungal that belongs to the azole class. Although the exact mechanism of action against dermatophytes is unknown, luliconazole appears to inhibit ergosterol synthesis by inhibiting the enzyme lanosterol demethylase." ([DailyMed: Luzu (luliconazole) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7016010-ce43-4c09-8d21-aeb697ffed31), label version 2020-04-01; accessed 2026-11-19.) Based on its drug class, luliconazole is an azole antifungal with activity against dermatophytes, the fungi that cause superficial skin infections.
 
 Endothrix infections are caused by dermatophytes that grow inside the hair shaft, for example *Trichophyton tonsurans*. Because luliconazole acts against dermatophytes in general, it is plausible that these organisms are susceptible. However, no trial or publication in the compiled data tests luliconazole in this setting, so the high score reflects a model prediction rather than demonstrated efficacy.
 
@@ -99,11 +99,12 @@ The prediction score is high (0.9910), but there are no clinical trials or publi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US authorization is cancelled, and label safety information is missing, so the case is not strong enough to advance" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Luzu (luliconazole) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7016010-ce43-4c09-8d21-aeb697ffed31) |
 
 <!-- review:end log -->
 

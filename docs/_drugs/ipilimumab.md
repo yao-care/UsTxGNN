@@ -56,7 +56,7 @@ The prediction rests on a computational score alone, and the biology does not su
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the data compiled for this report. Ipilimumab is an anti-CTLA-4 antibody. It releases the T-cell checkpoint brake and strengthens anti-tumour immunity, which is the basis of its efficacy in melanoma.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ipilimumab: "CTLA-4 is a negative regulator of T-cell activity. Ipilimumab is a monoclonal antibody that binds to CTLA-4 and blocks the interaction of CTLA-4 with its ligands, CD80/CD86. Blockade of CTLA-4 has been shown to augment T-cell activation and proliferation, including the activation and proliferation of tumor infiltrating T-effector cells." ([DailyMed: Yervoy (ipilimumab) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2265ef30-253e-11df-8a39-0800200c9a66), label version 2026-08-20; accessed 2026-11-19.) Ipilimumab is an anti-CTLA-4 antibody. It releases the T-cell checkpoint brake and strengthens anti-tumour immunity, which is the basis of its efficacy in melanoma.
 
 Choroideremia is an X-linked inherited retinal disease caused by loss of function of the *CHM* (REP1) gene. The retinal pigment epithelium, choroid and photoreceptors degenerate progressively. The disease is not driven by tumour immune evasion or by an immune-mediated process, so there is no plausible way for checkpoint blockade to act on it.
 
@@ -120,11 +120,12 @@ The prediction has no clinical or published support (L5) and no credible mechani
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US licence is cancelled only" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Yervoy (ipilimumab) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2265ef30-253e-11df-8a39-0800200c9a66) |
 
 <!-- review:end log -->
 

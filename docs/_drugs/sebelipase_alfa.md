@@ -54,7 +54,7 @@ Sebelipase alfa is a recombinant lysosomal acid lipase enzyme replacement therap
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Sebelipase alfa is a recombinant form of lysosomal acid lipase, an enzyme that breaks down cholesteryl esters and triglycerides inside lysosomes.
+ChEMBL (EMBL-EBI) records the mechanism of action of sebelipase alfa as: Cholesterol ester hydrolytic enzyme; Triglyceride hydrolytic enzyme ([ChEMBL CHEMBL3039537 (sebelipase alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3039537), CC BY-SA 3.0; accessed 2026-11-19.) Sebelipase alfa is a recombinant form of lysosomal acid lipase, an enzyme that breaks down cholesteryl esters and triglycerides inside lysosomes.
 
 Scheie syndrome, the attenuated form of mucopolysaccharidosis type I, is caused by a deficiency of alpha-L-iduronidase. Sebelipase alfa does not supply this enzyme. Both conditions are lysosomal storage disorders, and the high score most likely reflects that shared disease-class proximity in the model rather than a true biological rationale. On the available information, a therapeutic link has not been established.
 
@@ -90,6 +90,18 @@ The prediction has no supporting trials or publications, and the biology does no
 - Mechanism of action data for sebelipase alfa
 - Package insert warnings and contraindications for safety screening
 - Any clinical or literature evidence directly addressing Scheie syndrome
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL3039537 (sebelipase alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3039537) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **sick sinus syndrome 2, autoso
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. From general pharmacology, sotalol is a beta-blocker that also blocks potassium channels (class III antiarrhythmic activity). It slows sinus rate and atrioventricular conduction, which is how it controls rhythm in atrial fibrillation.
+According to the Mechanism of Action section of the FDA-approved prescribing information for sotalol: "Sotalol has both beta-adrenoreceptor blocking (Vaughan Williams Class II) and cardiac action potential duration prolongation (Vaughan Williams Class III) antiarrhythmic properties. The two isomers of sotalol have similar Class III antiarrhythmic effects, while the l-isomer is responsible for virtually all of the beta-blocking activity." ([DailyMed: Betapace (sotalol hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6a7702f-36c9-45db-b640-453dc324baee), label version 2024-12-16; accessed 2026-11-19.) From general pharmacology, sotalol is a beta-blocker that also blocks potassium channels (class III antiarrhythmic activity). It slows sinus rate and atrioventricular conduction, which is how it controls rhythm in atrial fibrillation.
 
 The prediction is **not mechanistically convincing**. Sick sinus syndrome type 2 is linked to HCN4 variants, and in sick sinus syndrome the problem is a sinus node that is already too slow or unreliable. A drug that slows the sinus rate and conduction can worsen sinus bradycardia, sinus arrest and conduction block. The knowledge graph itself lists sick sinus syndrome (including the familial form) as a contraindication for sotalol. The high score most likely reflects proximity within the cardiac-rhythm network rather than a true therapeutic signal.
 
@@ -118,12 +118,13 @@ Other predicted indications are also at Hold: Wildervanck syndrome, sarcoglycano
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 7 licenses are oral tablets" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Betapace (sotalol hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6a7702f-36c9-45db-b640-453dc324baee) |
 
 <!-- review:end log -->
 

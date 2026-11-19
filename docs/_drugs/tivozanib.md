@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on pharmacology information, tivozanib is a tyrosine kinase inhibitor that blocks all three VEGF receptors (VEGFR-1/FLT1, VEGFR-2/KDR and VEGFR-3/FLT4) with equal potency. Its efficacy in renal cell carcinoma, a highly vascularised tumour, is the basis of its original use.
+According to the Mechanism of Action section of the FDA-approved prescribing information for tivozanib: "Tivozanib is a tyrosine kinase inhibitor. In vitro cellular kinase assays demonstrated that tivozanib inhibits phosphorylation of vascular endothelial growth factor receptor (VEGFR)-1, VEGFR-2 and VEGFR-3 and inhibits other kinases including c-kit and PDGFR β at clinically relevant concentrations." ([DailyMed: Fotivda (tivozanib) prescribing information, AVEO Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de77155c-ecf2-4f15-9758-21d271449d83), label version 2026-11-11; accessed 2026-11-19.) Based on pharmacology information, tivozanib is a tyrosine kinase inhibitor that blocks all three VEGF receptors (VEGFR-1/FLT1, VEGFR-2/KDR and VEGFR-3/FLT4) with equal potency. Its efficacy in renal cell carcinoma, a highly vascularised tumour, is the basis of its original use.
 
 Cervical cancer also depends on VEGF-driven angiogenesis, and anti-VEGF therapy (bevacizumab) has shown benefit in this disease. This gives a plausible mechanistic bridge from renal cell carcinoma to endocervical carcinoma. However, this rationale is unverified: no disease-specific data was supplied, and the high TxGNN score is a computational prediction only.
 
@@ -131,12 +131,13 @@ The prediction has no supporting clinical trials or publications (Evidence Level
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The anti-angiogenic rationale is plausible but unverified, the predicted diseases are mostly rare subtypes where evidence is unlikely to eme" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "The NDA is currently listed as cancelled in the compiled data, so its present marketing status should be confirmed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fotivda (tivozanib) prescribing information, AVEO Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de77155c-ecf2-4f15-9758-21d271449d83) |
 
 <!-- review:end log -->
 

@@ -61,7 +61,7 @@ The TxGNN model's top-ranked prediction is *pleural adenomatoid tumor*, which ha
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, pralatrexate is an antifolate that inhibits dihydrofolate reductase (DHFR). It enters cells efficiently through the reduced folate carrier (RFC-1) and is retained through polyglutamylation. Its efficacy in T-cell lymphoma is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for pralatrexate: "Pralatrexate is a folate analog metabolic inhibitor that competitively inhibits dihydrofolate reductase. It is also a competitive inhibitor for polyglutamylation by the enzyme folylpolyglutamyl synthetase. This inhibition results in the depletion of thymidine and other biological molecules the synthesis of which depends on single carbon transfer." ([DailyMed: Folotyn (pralatrexate) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f3d9c4d-9386-4451-b712-0fbdc5478d8f), label version 2026-09-16; accessed 2026-11-19.) Based on known information, pralatrexate is an antifolate that inhibits dihydrofolate reductase (DHFR). It enters cells efficiently through the reduced folate carrier (RFC-1) and is retained through polyglutamylation. Its efficacy in T-cell lymphoma is established.
 
 Malignant pleural mesothelioma is known to respond to antifolates, and pemetrexed is a standard therapy. Pralatrexate shares the antifolate mechanism, so it is plausible that it could act similarly. The epithelioid subtype is the most common and the most antifolate-responsive, which makes it the most reasonable subtype target.
 
@@ -146,11 +146,12 @@ The only direct evidence is a 2007 single-arm Phase II study in pleural mesothel
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "of the cancelled US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Folotyn (pralatrexate) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f3d9c4d-9386-4451-b712-0fbdc5478d8f) |
 
 <!-- review:end log -->
 

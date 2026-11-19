@@ -56,7 +56,7 @@ Currently **0 clinical trials** and **0 publications** support this specific pre
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, ritonavir is an HIV-1 protease inhibitor and a CYP3A4 inhibitor used to boost other antiretrovirals. Its efficacy in HIV/AIDS is established.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for ritonavir: "Ritonavir is an antiretroviral drug. […] Ritonavir is a peptidomimetic inhibitor of the HIV-1 protease. Inhibition of HIV protease renders the enzyme incapable of processing the Gag-Pol polyprotein precursor which leads to production of non-infectious immature HIV particles." ([DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3), label version 2026-07-23; accessed 2026-11-19.) Based on known pharmacology, ritonavir is an HIV-1 protease inhibitor and a CYP3A4 inhibitor used to boost other antiretrovirals. Its efficacy in HIV/AIDS is established.
 
 Feline immunodeficiency virus (FIV) is a lentivirus related to HIV, so a protease-inhibitor mechanism is plausible in principle. However, FIV protease differs from HIV-1 protease in substrate specificity and inhibitor sensitivity, and no data were available to show that ritonavir inhibits it.
 
@@ -139,12 +139,13 @@ The top prediction (feline AIDS) is a veterinary indication with no clinical tri
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 11 US licenses are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid licenses out of 11" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3) |
 
 <!-- review:end log -->
 

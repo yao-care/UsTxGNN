@@ -56,7 +56,7 @@ but **no clinical trials** and **no publications** currently support this predic
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Pirfenidone is generally described as an anti-fibrotic and anti-inflammatory agent that modulates TGF-beta signaling. Its efficacy in idiopathic pulmonary fibrosis is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for pirfenidone: "The mechanism of action of pirfenidone in the treatment of IPF has not been established." ([DailyMed: Esbriet (pirfenidone) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e8c3537-36d7-4de5-9b5c-7a624b9a9e6e), label version 2025-12-05; accessed 2026-11-19.) Pirfenidone is generally described as an anti-fibrotic and anti-inflammatory agent that modulates TGF-beta signaling. Its efficacy in idiopathic pulmonary fibrosis is established.
 
 For extracutaneous mastocytoma, however, no direct mechanistic link is supported. Mast cell neoplasms are typically driven by KIT mutations, and pirfenidone's anti-fibrotic activity does not target that pathway. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be treated as a hypothesis, not as evidence of efficacy.
 
@@ -161,13 +161,14 @@ The prediction for extracutaneous mastocytoma is supported only by a TxGNN model
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Clarification of the cancelled US license status if a US development path is considered" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid licenses for these records" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Esbriet (pirfenidone) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e8c3537-36d7-4de5-9b5c-7a624b9a9e6e) |
 
 <!-- review:end log -->
 

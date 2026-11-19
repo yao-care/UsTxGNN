@@ -54,7 +54,7 @@ Docetaxel is a taxane chemotherapy drug that is marketed in the United States as
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Docetaxel is a taxane. Drugs in this class stabilize microtubules and block cell division, so they act on rapidly proliferating tumour cells. Ewing sarcoma is an aggressive, fast-growing bone and soft-tissue cancer, so a cytotoxic drug of this type is a plausible fit.
+According to the Mechanism of Action section of the FDA-approved prescribing information for docetaxel: "Docetaxel is an antineoplastic agent that acts by disrupting the microtubular network in cells that is essential for mitotic and interphase cellular functions. Docetaxel binds to free tubulin and promotes the assembly of tubulin into stable microtubules while simultaneously inhibiting their disassembly." ([DailyMed: Beizray (docetaxel) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8fb7d980-d6c7-468b-a9f0-adff16101a4b), label version 2025-12-17; accessed 2026-11-19.) Docetaxel is a taxane. Drugs in this class stabilize microtubules and block cell division, so they act on rapidly proliferating tumour cells. Ewing sarcoma is an aggressive, fast-growing bone and soft-tissue cancer, so a cytotoxic drug of this type is a plausible fit.
 
 Clinical use has focused on combinations. Gemcitabine plus docetaxel and docetaxel plus irinotecan have been tried mainly in relapsed or refractory Ewing sarcoma and other pediatric and young-adult sarcomas. Responses in Ewing sarcoma appear modest. The results are also mixed with other sarcoma types, and docetaxel's own contribution is hard to separate from its partner drugs. The prediction is therefore best treated as a research question, not an established treatment.
 
@@ -129,6 +129,18 @@ Several completed Phase 2 studies in recurrent Ewing sarcoma include docetaxel (
 - Mechanism-of-action data and the package insert warnings and contraindications
 - Comparative or randomized data that isolate docetaxel's contribution in Ewing sarcoma
 - A myelosuppression and hepatic monitoring plan for pediatric and young-adult patients, and a review of clarithromycin and other CYP3A-related interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Beizray (docetaxel) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8fb7d980-d6c7-468b-a9f0-adff16101a4b) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

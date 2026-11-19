@@ -56,7 +56,7 @@ but currently **0 clinical trials** and **0 publications** support this directio
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, dalbavancin is a lipoglycopeptide antibiotic active against Gram-positive bacteria, and it is used for infections of the skin and skin structures.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for dalbavancin: "Dalbavancin is an antibacterial drug. […] Dalbavancin, a semisynthetic lipoglycopeptide, interferes with cell wall synthesis by binding to the D-alanyl-D-alanine terminus of the stem pentapeptide in nascent cell wall peptidoglycan, thus preventing cross-linking. Dalbavancin is bactericidal in vitro against Staphylococcus aureus and Streptococcus pyogenes at concentrations similar to those sustained throughout treatment in humans treated according to the recommended dosage regimen." ([DailyMed: Dalvance (dalbavancin) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b4674d8-4d1e-4728-8465-d42ada33fa5c), label version 2025-01-13; accessed 2026-11-19.) Based on known information, dalbavancin is a lipoglycopeptide antibiotic active against Gram-positive bacteria, and it is used for infections of the skin and skin structures.
 
 Postinfectious vasculitis is typically an immune-mediated process that follows an infection, not an active bacterial infection. Direct antibacterial activity therefore has no clear role, and the mechanistic link is speculative. The very high score (0.9976) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -124,11 +124,12 @@ The prediction has no supporting trials or literature (L5), and the mechanistic 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "he US license records are all cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dalvance (dalbavancin) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b4674d8-4d1e-4728-8465-d42ada33fa5c) |
 
 <!-- review:end log -->
 

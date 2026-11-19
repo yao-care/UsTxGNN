@@ -56,7 +56,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. From the evidence reviewed, venetoclax is a selective BCL-2 inhibitor (BH3 mimetic) that restores apoptosis in cells that depend on BCL-2 for survival.
+According to the Mechanism of Action section of the FDA-approved prescribing information for venetoclax: "Venetoclax is a selective and orally bioavailable small-molecule inhibitor of BCL-2, an anti-apoptotic protein. Overexpression of BCL-2 has been demonstrated in CLL and AML cells where it mediates tumor cell survival and has been associated with resistance to chemotherapeutics." ([DailyMed: Venclexta (venetoclax) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b118a40d-6b56-cee3-10f6-ded821a97018), label version 2026-05-20; accessed 2026-11-19.) From the evidence reviewed, venetoclax is a selective BCL-2 inhibitor (BH3 mimetic) that restores apoptosis in cells that depend on BCL-2 for survival.
 
 CLL/SLL cells depend on BCL-2 overexpression, so BCL-2 inhibition is mechanistically plausible. The predicted entry is a molecular subtype (mutated IGHV) of a disease in which venetoclax is already well established. Literature in the compiled data (for example the MURANO final analysis, PMID 40009494) reports durable benefit from venetoclax-rituximab in relapsed/refractory CLL. The same BCL-2 dependence extends to other predicted indications such as follicular lymphoma (t(14;18) drives BCL-2 overexpression) and AML.
 
@@ -184,11 +184,12 @@ Label warnings and contraindications were not available. Please refer to the pac
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and verification of the "cancelled" licence status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Venclexta (venetoclax) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b118a40d-6b56-cee3-10f6-ded821a97018) |
 
 <!-- review:end log -->
 

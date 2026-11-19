@@ -58,7 +58,7 @@ Golimumab is an anti-TNF-alpha monoclonal antibody originally used for inflammat
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Golimumab is a fully human monoclonal antibody that neutralizes TNF-alpha. TNF-alpha is a central cytokine in rheumatoid arthritis, and it is also implicated in vasculitic inflammation.
+According to the Mechanism of Action section of the FDA-approved prescribing information for golimumab: "Golimumab is a human monoclonal antibody that binds to both the soluble and transmembrane bioactive forms of human TNFα. This interaction prevents the binding of TNFα to its receptors, thereby inhibiting the biological activity of TNFα (a cytokine protein)." ([DailyMed: Simponi (golimumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f86cb4a7-c358-4136-ae57-b32bda9bba00), label version 2026-11-02; accessed 2026-11-19.) Golimumab is a fully human monoclonal antibody that neutralizes TNF-alpha. TNF-alpha is a central cytokine in rheumatoid arthritis, and it is also implicated in vasculitic inflammation.
 
 Rheumatoid vasculitis is a severe extra-articular complication of rheumatoid arthritis, mostly seen in seropositive patients. Its incidence has fallen since biologic DMARDs, including anti-TNF agents, were introduced. This gives a biological rationale for the prediction.
 
@@ -141,12 +141,13 @@ The biological rationale (TNF-alpha blockade) is plausible, but there is no dire
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The market status is "Cancelled only"" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given the cancelled licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Simponi (golimumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f86cb4a7-c358-4136-ae57-b32bda9bba00) |
 
 <!-- review:end log -->
 

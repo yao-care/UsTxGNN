@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, fosinopril is an ACE inhibitor, its efficacy in hypertension is established, and mechanistically it may be applicable to hypertension-driven renal disease.
+According to the Mechanism of Action section of the FDA-approved prescribing information for fosinopril: "In animals and humans, fosinopril sodium is hydrolyzed by esterases to the pharmacologically active form, fosinoprilat, a specific competitive inhibitor of angiotensin-converting enzyme (ACE). ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II." ([DailyMed: Fosinopril Sodium (fosinopril) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fc38f1bb-f175-4a81-8ed9-c8701efdea35), label version 2023-11-27; accessed 2026-11-19.) Based on known information, fosinopril is an ACE inhibitor, its efficacy in hypertension is established, and mechanistically it may be applicable to hypertension-driven renal disease.
 
 Malignant hypertensive renal disease is a severe kidney complication of very high blood pressure, and activation of the renin-angiotensin-aldosterone system (RAAS) plays a central role. Blocking this pathway with an ACE inhibitor is therefore biologically plausible.
 
@@ -150,12 +150,13 @@ The prediction is supported only by a high model score (0.9987), with no clinica
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All four authorizations are single-ingredient oral tablets and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since the drug is marketed and 4 US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fosinopril Sodium (fosinopril) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fc38f1bb-f175-4a81-8ed9-c8701efdea35) |
 
 <!-- review:end log -->
 

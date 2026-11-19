@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Sclerosing Cholangitis**, but
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on general pharmacological knowledge, dexrazoxane is an iron chelator and a catalytic inhibitor of topoisomerase II, and it is known for protecting the heart from anthracycline toxicity.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dexrazoxane: "The mechanism by which dexrazoxane exerts its cytoprotective activity is not fully understood. Dexrazoxane is a cyclic derivative of EDTA that penetrates cell membranes. Results of laboratory studies suggest that dexrazoxane is converted intracellularly to a ring-opened chelating agent that interferes with iron-mediated free radical generation thought to be responsible, in part, for anthracycline-induced cardiomyopathy." ([DailyMed: dexrazoxane prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7c01089-85f5-40aa-b679-f53a425b4d68), label version 2025-07-31; accessed 2026-11-19.) Based on general pharmacological knowledge, dexrazoxane is an iron chelator and a catalytic inhibitor of topoisomerase II, and it is known for protecting the heart from anthracycline toxicity.
 
 One speculative link to sclerosing cholangitis is that iron-dependent oxidative injury could contribute to bile duct damage, and an iron chelator might theoretically dampen it. No clinical or literature evidence was found to support this idea. The high score (0.9999) is a model prediction only and should not be read as evidence of efficacy.
 
@@ -122,11 +122,12 @@ The prediction for sclerosing cholangitis has no supporting clinical trials or l
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "(marketed; all 3 of 3 authorizations valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: dexrazoxane prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7c01089-85f5-40aa-b679-f53a425b4d68) |
 
 <!-- review:end log -->
 

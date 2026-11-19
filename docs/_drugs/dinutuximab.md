@@ -63,7 +63,7 @@ For comparison, the other predictions are:
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, dinutuximab is an anti-GD2 chimeric monoclonal antibody. It targets GD2-expressing tumor cells through antibody-dependent cellular cytotoxicity (ADCC) and complement-dependent cytotoxicity (CDC). Its efficacy in neuroblastoma, a GD2-expressing tumor, is the basis of its original indication.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dinutuximab: "Dinutuximab binds to the glycolipid GD2. This glycolipid is expressed on neuroblastoma cells and on normal cells of neuroectodermal origin, including the central nervous system and peripheral nerves. Dinutuximab binds to cell surface GD2 and induces cell lysis of GD2-expressing cells through antibody-dependent cell-mediated cytotoxicity (ADCC) and complement-dependent cytotoxicity (CDC)." ([DailyMed: Unituxin (dinutuximab) prescribing information, United Therapeutics Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d66bdf0d-9d65-45de-ae5b-a58617c27492), label version 2026-07-06; accessed 2026-11-19.) Based on known pharmacology, dinutuximab is an anti-GD2 chimeric monoclonal antibody. It targets GD2-expressing tumor cells through antibody-dependent cellular cytotoxicity (ADCC) and complement-dependent cytotoxicity (CDC). Its efficacy in neuroblastoma, a GD2-expressing tumor, is the basis of its original indication.
 
 **Top-ranked prediction (vertebral anomalies with endocrine and T-cell dysfunction):** No mechanistic link was identified. This rare syndrome is a developmental disorder, not a GD2-expressing malignancy. The high score (0.9942) is a computational prediction only and should not be treated as evidence of benefit.
 
@@ -124,11 +124,12 @@ The top-ranked prediction has no supporting trials or literature and no plausibl
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "the only US license for dinutuximab is listed as cancelled, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Unituxin (dinutuximab) prescribing information, United Therapeutics Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d66bdf0d-9d65-45de-ae5b-a58617c27492) |
 
 <!-- review:end log -->
 

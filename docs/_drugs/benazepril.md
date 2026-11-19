@@ -56,7 +56,7 @@ So far, **no clinical trials and no publications** directly studying this diseas
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for benazepril are not available in the data compiled for this report. Based on its drug class, benazepril blocks the ACE enzyme and thereby dampens the renin-angiotensin-aldosterone system (RAAS). This lowers blood pressure and reduces pressure inside the kidney's filtering units.
+According to the Mechanism of Action section of the FDA-approved prescribing information for benazepril: "Benazepril and benazeprilat inhibit angiotensin-converting enzyme (ACE) in human subjects and animals. Benazeprilat has much greater ACE inhibitory activity than does benazepril. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II." ([DailyMed: Lotensin (benazepril hydrochloride) prescribing information, Validus Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2abb091b-a53e-46b0-9b84-e5ee8f2bdd8e), label version 2025-09-30; accessed 2026-11-19.) Based on its drug class, benazepril blocks the ACE enzyme and thereby dampens the renin-angiotensin-aldosterone system (RAAS). This lowers blood pressure and reduces pressure inside the kidney's filtering units.
 
 Malignant hypertensive kidney disease involves severe blood pressure elevation together with strong RAAS activation. Reducing intraglomerular pressure and protein leakage is therefore biologically coherent for an ACE inhibitor.
 
@@ -106,6 +106,19 @@ The prediction score is high (0.9965) and the mechanistic reasoning is plausible
 - Detailed mechanism-of-action data for benazepril
 - The package insert warnings and contraindications, reviewed for renal impairment, hyperkalaemia and hypotension
 - A kidney-function and potassium monitoring plan for any proposed study
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for benazepril are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lotensin (benazepril hydrochloride) prescribing information, Validus Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2abb091b-a53e-46b0-9b84-e5ee8f2bdd8e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

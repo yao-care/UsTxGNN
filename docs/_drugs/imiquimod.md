@@ -58,7 +58,7 @@ with **2 clinical trials** and **9 publications** currently supporting this dire
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the drug record. However, imiquimod is a well-established Toll-like receptor 7 (TLR7) agonist. It triggers local innate and adaptive immune responses, including interferon-alpha, TNF-alpha and IL-12, which help clear abnormal epithelial cells and HPV-infected tissue.
+According to the Mechanism of Action section of the FDA-approved prescribing information for imiquimod: "The mechanism of action of ZYCLARA in the treatment of AK and EGW is unknown." ([DailyMed: Zyclara (imiquimod) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=28cd9b5b-680b-480f-b33d-9c5b52bbf03d), label version 2025-05-23; accessed 2026-11-19.) However, imiquimod is a well-established Toll-like receptor 7 (TLR7) agonist. It triggers local innate and adaptive immune responses, including interferon-alpha, TNF-alpha and IL-12, which help clear abnormal epithelial cells and HPV-infected tissue.
 
 The original indications (actinic keratosis, superficial basal cell carcinoma, HPV-related warts) are themselves pre-malignant or HPV-driven epithelial lesions. "Pre-malignant neoplasm" is a broader class that includes them. Off-label use in intraepithelial neoplasia of the cervix, vulva, anus and penis is documented in the literature, which fits this mechanism.
 
@@ -152,13 +152,14 @@ The mechanism (TLR7 agonism) is well established and consistent with pre-maligna
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All five US authorizations are valid, and no approved indication text was available for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "All five US authorizations are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled US market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the drug record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zyclara (imiquimod) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=28cd9b5b-680b-480f-b33d-9c5b52bbf03d) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ with **7 clinical trials** (1 directly relevant completed Phase 2 trial) and **2
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on established pharmacology, pemetrexed inhibits thymidylate synthase, DHFR and GARFT, which blocks nucleotide synthesis in rapidly dividing cells. It is a standard partner for cisplatin or carboplatin in pleural mesothelioma.
+According to the Mechanism of Action section of the FDA-approved prescribing information for pemetrexed: "Pemetrexed is a folate analog metabolic inhibitor that disrupts folate-dependent metabolic processes essential for cell replication. In vitro studies show that pemetrexed inhibits thymidylate synthase (TS), dihydrofolate reductase (DHFR), and glycinamide ribonucleotide formyltransferase (GARFT), which are folate-dependent enzymes involved in the de novo biosynthesis of thymidine and purine nucleotides." ([DailyMed: Pemfexy (pemetrexed) prescribing information, Acacia Pharma, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0), label version 2026-06-18; accessed 2026-11-19.) Based on established pharmacology, pemetrexed inhibits thymidylate synthase, DHFR and GARFT, which blocks nucleotide synthesis in rapidly dividing cells. It is a standard partner for cisplatin or carboplatin in pleural mesothelioma.
 
 Pleural and peritoneal mesothelioma share histology and biology, and mesothelioma cells are sensitive to antifolates regardless of anatomic site. The peritoneal indication is therefore a plausible extension of the pleural indication. Peritoneal mesothelioma is not among the listed original indications, and it is a rare disease with few site-specific trials. Systemic therapy recommendations are largely extrapolated from pleural mesothelioma studies. Pemetrexed-platinum is cited as a first-line systemic option in a 2024 review (JNCCN).
 
@@ -177,12 +177,13 @@ Pemetrexed-platinum is an established backbone in pleural mesothelioma, and the 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both listed NDAs are cancelled, so availability depends on other pemetrexed products not captured in these records" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since both listed NDAs are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Pemfexy (pemetrexed) prescribing information, Acacia Pharma, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0) |
 
 <!-- review:end log -->
 

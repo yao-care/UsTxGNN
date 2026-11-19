@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **autosomal recessive familial 
 
 ## Why is This Prediction Reasonable?
 
-Emapalumab is a monoclonal antibody that neutralizes IFN-γ. Detailed mechanism-of-action data were not available in the compiled drug record, but this role is the basis of its use in HLH, a hyperinflammatory syndrome driven by excess IFN-γ.
+Emapalumab is a monoclonal antibody that neutralizes IFN-γ. According to the Mechanism of Action section of the FDA-approved prescribing information for emapalumab: "Emapalumab-lzsg is a monoclonal antibody that binds to and neutralizes interferon gamma (IFNγ). Nonclinical data suggest that IFNγ plays a pivotal role in the pathogenesis of HLH by being hypersecreted." ([DailyMed: Gamifant (emapalumab-lzsg) prescribing information, Swedish Orphan Biovitrum AB (publ)](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a865e0ef-8685-4f69-8838-648c4f3bab47), label version 2026-03-26; accessed 2026-11-19.) This role is the basis of its use in HLH, a hyperinflammatory syndrome driven by excess IFN-γ.
 
 The link to FMF is weak. FMF is driven mainly by pyrin inflammasome activation and overproduction of IL-1β. Its established treatments (colchicine and IL-1 inhibitors) act on that pathway rather than on IFN-γ. One possible niche is macrophage activation syndrome complicating FMF, which does involve IFN-γ, but nothing in the data supports it. The high TxGNN score is therefore a computational signal, not a mechanistically or clinically validated one.
 
@@ -111,11 +111,12 @@ The prediction has no supporting trials or literature, and IFN-γ blockade has o
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The only authorization is listed with a **cancelled** status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the compiled drug record, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Gamifant (emapalumab-lzsg) prescribing information, Swedish Orphan Biovitrum AB (publ)](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a865e0ef-8685-4f69-8838-648c4f3bab47) |
 
 <!-- review:end log -->
 

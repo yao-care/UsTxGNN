@@ -59,7 +59,7 @@ The TxGNN model predicts it may be relevant to **nasal cavity disease**, but the
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Codeine is an opioid, and opioids are generally used for pain relief and cough suppression. Nothing in the data shows how this would translate into treating structural or inflammatory disease of the nasal cavity.
+According to the Mechanism of Action section of the FDA-approved prescribing information for codeine: "Codeine sulfate is an opioid agonist relatively selective for the mu-opioid receptor, but with a much weaker affinity than morphine. The analgesic properties of codeine have been speculated to come from its conversion to morphine, although the exact mechanism of analgesic action remains unknown." ([DailyMed: codeine sulfate prescribing information, Lannett Company, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293), label version 2026-01-16; accessed 2026-11-19.) Codeine is an opioid, and opioids are generally used for pain relief and cough suppression. Nothing in the data shows how this would translate into treating structural or inflammatory disease of the nasal cavity.
 
 The only publication retrieved describes a rhinolith (a stone in the nose) that formed around a hardened mixture of codeine and opium, an "opioma", which was a foreign body. That is an unusual complication, not a therapeutic effect. The very high TxGNN score therefore appears to reflect a model association and not a plausible disease-modifying mechanism. At this point the prediction should be treated as a hypothesis with no supporting evidence.
 
@@ -118,6 +118,19 @@ The TxGNN score is very high (0.9993), but no study supports codeine as a treatm
 - Any clinical or observational study that directly examines codeine for this condition
 - Package insert warnings and contraindications for safety screening
 - A review of opioid-specific risks (dependence, respiratory depression, drug interactions) against any plausible benefit
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: codeine sulfate prescribing information, Lannett Company, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

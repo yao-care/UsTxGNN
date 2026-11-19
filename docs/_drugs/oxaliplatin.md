@@ -56,7 +56,7 @@ with **3 clinical trials** (2 directly relevant Phase 2 studies) and **20 public
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, oxaliplatin is a third-generation platinum compound that forms DNA crosslinks (adducts), which block DNA replication and trigger apoptosis. It has proven efficacy in colorectal cancer, particularly with 5-FU.
+According to the Mechanism of Action section of the FDA-approved prescribing information for oxaliplatin: "Oxaliplatin undergoes nonenzymatic conversion in physiologic solutions to active derivatives via displacement of the labile oxalate ligand. Several transient reactive species are formed, including monoaquo and diaquo DACH platinum, which covalently bind with macromolecules." ([DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5), label version 2026-08-24; accessed 2026-11-19.) Based on known pharmacology, oxaliplatin is a third-generation platinum compound that forms DNA crosslinks (adducts), which block DNA replication and trigger apoptosis. It has proven efficacy in colorectal cancer, particularly with 5-FU.
 
 Platinum compounds such as cisplatin and carboplatin are already the backbone of mesothelioma chemotherapy, so activity through DNA damage is mechanistically plausible. Oxaliplatin has a different toxicity profile from cisplatin (less nephrotoxicity, but more neurotoxicity), so it could be an alternative where cisplatin is unsuitable. Phase 2 studies have tested it with gemcitabine, raltitrexed, vinorelbine and bortezomib. However, no Phase 3 randomized trial shows it is better than the standard cisplatin/pemetrexed regimen.
 
@@ -144,12 +144,13 @@ Several Phase 2 studies show oxaliplatin-based combinations have some activity i
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 9 US licenses are ANDA generic applications, and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(9 valid licenses are currently marketed)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5) |
 
 <!-- review:end log -->
 

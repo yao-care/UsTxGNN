@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **vulvovaginal candidiasis**, b
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Podofilox (podophyllotoxin) is generally known as an antimitotic agent that inhibits tubulin polymerization. It kills rapidly dividing HPV-infected skin cells and causes local necrosis of wart tissue. This is why it works for genital warts and common warts.
+According to the Mechanism of Action section of the FDA-approved prescribing information for podofilox: "Treatment of genital warts with podofilox results in necrosis of visible wart tissue. The exact mechanism of action is unknown." ([DailyMed: podofilox prescribing information, Padagis US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6af07697-5203-43e0-ba35-83683af851c3), label version 2023-02-28; accessed 2026-11-19.) Podofilox (podophyllotoxin) is generally known as an antimitotic agent that inhibits tubulin polymerization. It kills rapidly dividing HPV-infected skin cells and causes local necrosis of wart tissue. This is why it works for genital warts and common warts.
 
 Vulvovaginal candidiasis is a fungal infection, not a viral or proliferative skin lesion. An antimitotic wart treatment has no known antifungal activity, so **no credible mechanistic link was found**. The only related literature is a 1999 review of treatments for common sexually transmitted diseases. It discusses vaginal infections and genital warts side by side, but it does not suggest podofilox for candidiasis.
 
@@ -133,13 +133,14 @@ The prediction rests on model output alone, with no clinical trials and no suppo
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Neither product is currently active, so availability would need to be verified" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Both US licenses are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since both US licenses are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: podofilox prescribing information, Padagis US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6af07697-5203-43e0-ba35-83683af851c3) |
 
 <!-- review:end log -->
 

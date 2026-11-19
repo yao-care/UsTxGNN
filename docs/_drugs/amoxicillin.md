@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Polyclonal Hyperviscosity Syn
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data compiled for this report. Amoxicillin is a member of the beta-lactam antibacterial class, which acts by inhibiting bacterial cell wall synthesis. Its efficacy in bacterial infections is well established.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for amoxicillin: "Amoxicillin is an antibacterial drug. […] Amoxicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication. It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria." ([DailyMed: amoxicillin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e9274c-c02e-44d9-8cc5-17536ef03a77), label version 2026-11-13; accessed 2026-11-19.) Amoxicillin is a member of the beta-lactam antibacterial class, which acts by inhibiting bacterial cell wall synthesis. Its efficacy in bacterial infections is well established.
 
 For the predicted indication, however, no plausible mechanistic link was identified. Polyclonal hyperviscosity syndrome arises from elevated polyclonal immunoglobulins, which is not an infectious process, so an antibacterial would have no clear target. The high TxGNN score (0.9963) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Similarly high scores were assigned to several other unrelated predictions (for example hyperamylasemia at 0.9963 and congenital analbuminemia at 0.9959).
 
@@ -120,12 +120,13 @@ The prediction rests on a model score alone (L5), with no clinical trials, no li
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 11 US authorizations are generic applications (ANDAs) with cancelled status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "In addition, all US authorizations for amoxicillin are currently cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: amoxicillin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e9274c-c02e-44d9-8cc5-17536ef03a77) |
 
 <!-- review:end log -->
 

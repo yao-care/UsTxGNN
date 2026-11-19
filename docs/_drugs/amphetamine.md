@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **faciodigitogenital syndrome**, 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for amphetamine are not available in the data compiled for this report. In general, amphetamine promotes release of dopamine and noradrenaline and blocks their reuptake in the brain.
+According to the Mechanism of Action section of the FDA-approved prescribing information for amphetamine: "Amphetamines are non-catecholamine sympathomimetic amines with CNS stimulant activity. The mode of therapeutic action in ADHD is not known. Amphetamines are thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space." ([DailyMed: Adzenys Xr-Odt (amphetamine) prescribing information, Neos Therapeutics Brands, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1179269-00b5-48ea-972d-31e614e99b7e), label version 2026-05-13; accessed 2026-11-19.) In general, amphetamine promotes release of dopamine and noradrenaline and blocks their reuptake in the brain.
 
 Faciodigitogenital syndrome (Aarskog-Scott syndrome) is a rare X-linked developmental disorder linked to variants in the FGD1 gene. No established connection exists between amphetamine's monoamine mechanism and the core biology of this condition. Any benefit would at most be a speculative effect on associated attention or behavioural features, and nothing in the compiled data supports this. The high score should therefore be read as a computational signal only, not as evidence of efficacy.
 
@@ -102,6 +102,19 @@ The score is very high (0.9997), but there are no trials or publications on faci
 - Any clinical or published evidence directly in this disease
 - Mechanism-of-action data and the package insert warnings and contraindications
 - A cardiovascular and abuse-potential risk assessment for the target population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for amphetamine are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Adzenys Xr-Odt (amphetamine) prescribing information, Neos Therapeutics Brands, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1179269-00b5-48ea-972d-31e614e99b7e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

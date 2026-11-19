@@ -57,7 +57,7 @@ Note: The highest TxGNN score belongs to mammary Paget disease (0.9969), but its
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, tamoxifen is a selective estrogen receptor modulator (SERM) that blocks estrogen receptor signaling in breast tissue. Its efficacy in estrogen receptor-positive breast cancer is well established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for tamoxifen: "Tamoxifen is an estrogen agonist/antagonist. Tamoxifen competes with estrogen for binding to the estrogen receptor, which can result in a decrease in estrogen receptor signaling-dependent growth in breast tissue. Tamoxifen has demonstrated antitumor activity against human breast cancer cell lines xenografted in mice." ([DailyMed: Soltamox (tamoxifen citrate) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6ff055-590c-41e6-9530-1fdf04cdbd02), label version 2021-11-29; accessed 2026-11-19.) Based on known pharmacology, tamoxifen is a selective estrogen receptor modulator (SERM) that blocks estrogen receptor signaling in breast tissue. Its efficacy in estrogen receptor-positive breast cancer is well established.
 
 Ductal carcinoma in situ (DCIS) and related breast intraepithelial neoplasia are early, non-invasive forms of breast cancer. When they express estrogen receptors, they depend on the same estrogen signaling that tamoxifen blocks. Blocking this pathway can reduce local and contralateral recurrence.
 
@@ -180,13 +180,14 @@ Randomized Phase 3 evidence, including NSABP B-24, the placebo-controlled TAM-01
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All five licenses in the dataset are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "all five US licenses in the dataset are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and the US licenses are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Soltamox (tamoxifen citrate) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6ff055-590c-41e6-9530-1fdf04cdbd02) |
 
 <!-- review:end log -->
 

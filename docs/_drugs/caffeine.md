@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Nasal Cavity Disease**, but t
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, caffeine is an adenosine receptor antagonist and phosphodiesterase inhibitor. Bitter taste receptors are also expressed in the human nasal cavity and airways, which could offer a pharmacological connection.
+According to the Mechanism of Action section of the FDA-approved prescribing information for caffeine: "Caffeine is structurally related to other methylxanthines, theophylline, and theobromine. It is a bronchial smooth muscle relaxant, a CNS stimulant, a cardiac muscle stimulant, and a diuretic. Although the mechanism of action of caffeine in apnea of prematurity is not known, several mechanisms have been hypothesized." ([DailyMed: caffeine citrate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f38c395-0093-4afd-89ec-f96e5dc0934a), label version 2026-07-29; accessed 2026-11-19.) Based on general pharmacology, caffeine is an adenosine receptor antagonist and phosphodiesterase inhibitor. Bitter taste receptors are also expressed in the human nasal cavity and airways, which could offer a pharmacological connection.
 
 The original indications already include nasal conditions (allergic and vasomotor rhinitis). The high score may therefore mostly reflect a known indication class rather than a truly new use. The only intranasal caffeine paper found concerns an in situ gel for cognition after sleep deprivation, not treatment of nasal disease. The link is weakly supported.
 
@@ -120,12 +120,13 @@ The prediction score is very high (0.9991), but it rests on model output alone, 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Eight US licence records are valid, and no approved-indication text is available for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 8 valid licences" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: caffeine citrate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f38c395-0093-4afd-89ec-f96e5dc0934a) |
 
 <!-- review:end log -->
 

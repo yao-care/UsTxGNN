@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tropicamide is a topical antimuscarinic (anticholinergic) agent. Pharmacology data show it binds muscarinic receptors M2, M3, M4 and M5, and it is used as a short-acting mydriatic for examining the lens, vitreous humor and retina.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for tropicamide: "This anticholinergic preparation blocks the responses of the sphincter muscle of the iris and the ciliary muscle to cholinergic stimulation, dilating the pupil (mydriasis). The stronger preparation (1%) also paralyzes accommodation." ([DailyMed: Mydriacyl (tropicamide) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4f4a2e-eb00-4c65-b3fa-baf5738d468d), label version 2023-02-15; accessed 2026-11-19.) Based on known information, tropicamide is a topical antimuscarinic (anticholinergic) agent. Pharmacology data show it binds muscarinic receptors M2, M3, M4 and M5, and it is used as a short-acting mydriatic for examining the lens, vitreous humor and retina.
 
 The possible link to cauda equina syndrome is indirect. Antimuscarinic drugs can suppress detrusor overactivity, so a drug of this class could in theory help with bladder dysfunction secondary to cauda equina syndrome. However, cauda equina syndrome is mainly a surgical emergency treated by decompression. Any drug role would be limited to symptomatic bladder management, not treatment of the underlying nerve root compression.
 
@@ -117,11 +117,12 @@ The prediction is supported only by a model score. There are no clinical trials 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "(5 of 5 licenses valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mydriacyl (tropicamide) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4f4a2e-eb00-4c65-b3fa-baf5738d468d) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Olsalazine is a locally acting prodrug of 5-aminosalicylic acid (5-ASA, mesalami
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, olsalazine is a prodrug of 5-ASA that acts mainly locally in the colon, with minimal systemic exposure. Its original indication text is not recorded in the data compiled for this report.
+According to the Mechanism of Action section of the FDA-approved prescribing information for olsalazine: "Upon reaching the colon, colonic bacteria convert olsalazine into 5‑aminosalicylic acid (5-ASA or mesalazine). The mechanism of action of 5-ASA (mesalamine) is not fully understood, but appears to be a topical anti-inflammatory effect on colonic epithelial cells." ([DailyMed: Dipentum (olsalazine sodium) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8512d0c6-db4e-4673-b3b4-28975c18413f), label version 2026-05-15; accessed 2026-11-19.) Based on known information, olsalazine is a prodrug of 5-ASA that acts mainly locally in the colon, with minimal systemic exposure. Its original indication text is not recorded in the data compiled for this report.
 
 No mechanistic link to MDS is established. A speculative anti-inflammatory or NF-kB-modulating rationale could be proposed, but olsalazine's low systemic absorption argues against meaningful effects on bone marrow. The high TxGNN score (0.9991) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -112,11 +112,12 @@ The prediction rests solely on a model score. There are no trials or publication
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license is cancelled, and package insert safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dipentum (olsalazine sodium) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8512d0c6-db4e-4673-b3b4-28975c18413f) |
 
 <!-- review:end log -->
 

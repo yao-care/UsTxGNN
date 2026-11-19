@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, ravulizumab is a long-acting inhibitor of complement component C5. Its efficacy in PNH, a disease of complement-mediated hemolysis, is the basis of its original indication.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ravulizumab: "Ravulizumab-cwvz is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a (the proinflammatory anaphylatoxin) and C5b (the initiating subunit of the membrane attack complex [MAC or C5b-9]) thus preventing MAC formation. ULTOMIRIS inhibits terminal complement-mediated intravascular hemolysis in patients with PNH and complement-mediated thrombotic microangiopathy (TMA) in patients with aHUS." ([DailyMed: Ultomiris (ravulizumab) prescribing information, Alexion Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9a590d9-0217-43c7-908d-e62a71279791), label version 2026-10-29; accessed 2026-11-19.) Based on known information, ravulizumab is a long-acting inhibitor of complement component C5. Its efficacy in PNH, a disease of complement-mediated hemolysis, is the basis of its original indication.
 
 The predicted disease is different in nature. G6PC3 deficiency is a defect in glucose-6-phosphatase catalytic subunit 3, which causes neutrophil apoptosis and endoplasmic reticulum stress. No established link exists between terminal complement activation and this neutropenia. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -113,12 +113,13 @@ The prediction has no clinical trial or literature support (Evidence Level L5), 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "In addition, the only US license is listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and the reason for cancellation" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ultomiris (ravulizumab) prescribing information, Alexion Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9a590d9-0217-43c7-908d-e62a71279791) |
 
 <!-- review:end log -->
 

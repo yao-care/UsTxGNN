@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Ethosuximide is generally known as a T-type calcium channel blocker acting on thalamic neurons, which is how it controls absence seizures.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for ethosuximide: "Ethosuximide suppresses the paroxysmal three cycle per second spike and wave activity associated with lapses of consciousness which is common in absence (petit mal) seizures. The frequency of epileptiform attacks is reduced, apparently by depression of the motor cortex and elevation of the threshold of the central nervous system to convulsive stimuli." ([DailyMed: Zarontin (ethosuximide) prescribing information, Parke-Davis Div of Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e008f33-70a1-4bc6-b3a0-d45214418ab6), label version 2026-05-25; accessed 2026-11-19.) Ethosuximide is generally known as a T-type calcium channel blocker acting on thalamic neurons, which is how it controls absence seizures.
 
 NSIAD is a different kind of disease. It is caused by gain-of-function changes in the vasopressin V2 receptor (AVPR2), or in some cases by GNAS-related signaling. These changes make the kidney collecting duct reabsorb too much water. A link between T-type calcium channel blockade and V2 receptor signaling or aquaporin-2 regulation in the kidney is speculative and has not been demonstrated.
 
@@ -140,13 +140,14 @@ The prediction has only a model score behind it. The knowledge graph also flags 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All seven US authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "given that all seven US authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Two further cancelled authorizations are not listed here: ANDA211928 (Strides Pharma, capsule) and ANDA040430 (Bryant Ranch Prepack, liquid-" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zarontin (ethosuximide) prescribing information, Parke-Davis Div of Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e008f33-70a1-4bc6-b3a0-d45214418ab6) |
 
 <!-- review:end log -->
 

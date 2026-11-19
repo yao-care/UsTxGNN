@@ -60,7 +60,7 @@ but only **1 clinical trial** (a procedural study in upper GI bleeding) and **20
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, metoclopramide is a dopamine D2 antagonist and 5-HT4 agonist that enhances gastric emptying and upper GI motility.
+According to the Mechanism of Action section of the FDA-approved prescribing information for metoclopramide: "Metoclopramide stimulates motility of the upper gastrointestinal tract without stimulating gastric, biliary, or pancreatic secretions. The exact mechanism of action of metoclopramide in the treatment of gastroesophageal reflux and acute and recurrent diabetic gastroparesis has not been fully established." ([DailyMed: Reglan (metoclopramide hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de55c133-eb08-4a35-91a2-5dc093027397), label version 2026-02-09; accessed 2026-11-19.) Based on general pharmacology, metoclopramide is a dopamine D2 antagonist and 5-HT4 agonist that enhances gastric emptying and upper GI motility.
 
 Its efficacy in reflux disease and esophagitis relates to this prokinetic effect. For gastric ulcer, the link is **symptomatic and adjunctive, not disease-modifying**. It may help with nausea and delayed emptying, and it may improve gastric visualization before endoscopy in upper GI bleeding. It has no acid-suppressing or mucosal-healing action, and standard therapy (PPIs, *H. pylori* eradication) is far more effective.
 
@@ -160,11 +160,12 @@ Several of the interactions involve CNS depressants and opioids. Please refer to
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 10 US authorizations are generic applications (A DAs) with a cancelled status, and n" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Reglan (metoclopramide hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de55c133-eb08-4a35-91a2-5dc093027397) |
 
 <!-- review:end log -->
 

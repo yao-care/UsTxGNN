@@ -56,7 +56,7 @@ with **8 clinical trials** and **20 publications** currently linked to this pred
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on known pharmacology, clomipramine is a potent serotonin reuptake inhibitor, and its active metabolite, desmethylclomipramine, inhibits norepinephrine reuptake. This serotonergic and noradrenergic modulation underlies its effect in OCD.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for clomipramine: "Clomipramine (CMI) is presumed to influence obsessive and compulsive behaviors through its effects on serotonergic neuronal transmission. The actual neurochemical mechanism is unknown, but CMI's capacity to inhibit the reuptake of serotonin (5-HT) is thought to be important." ([DailyMed: Anafranil (clomipramine hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4074b555-7635-41a9-809d-fae3b3610059), label version 2024-11-26; accessed 2026-11-19.) Based on known pharmacology, clomipramine is a potent serotonin reuptake inhibitor, and its active metabolite, desmethylclomipramine, inhibits norepinephrine reuptake. This serotonergic and noradrenergic modulation underlies its effect in OCD.
 
 OCD is closely related to the anxiety disorders, and the same neurotransmitter systems are involved in panic disorder and agoraphobia. Network meta-analyses and the WFSBP guidelines list clomipramine among effective drugs for panic disorder. Several older controlled studies in panic disorder and agoraphobia also support this (for example, comparisons with imipramine, diazepam and paroxetine, and a dose-finding study in which about 70% of patients reached remission).
 
@@ -151,12 +151,13 @@ Clomipramine has a plausible serotonergic mechanism and supportive older studies
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "given that the US market status is cancelled only" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Anafranil (clomipramine hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4074b555-7635-41a9-809d-fae3b3610059) |
 
 <!-- review:end log -->
 

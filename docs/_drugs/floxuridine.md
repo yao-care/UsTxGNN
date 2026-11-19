@@ -56,7 +56,7 @@ Among the other predictions, the best-supported are **female breast carcinoma** 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available from the data compiled for this report. Based on the repurposing analysis, floxuridine is a fluoropyrimidine nucleoside analog whose active metabolite, FdUMP, inhibits thymidylate synthase and disrupts DNA synthesis in rapidly dividing cells.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for floxuridine: "However, when floxuridine is given by continuous intra-arterial infusion its direct anabolism to floxuridine-monophosphate is enhanced, thus increasing the inhibition of DNA." ([DailyMed: floxuridine prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c8edabc1-67cd-421b-a147-7c1f19f05b8e), label version 2024-10-14; accessed 2026-11-19.) Based on the repurposing analysis, floxuridine is a fluoropyrimidine nucleoside analog whose active metabolite, FdUMP, inhibits thymidylate synthase and disrupts DNA synthesis in rapidly dividing cells.
 
 For the top-ranked prediction, the rationale is weak. Hereditary breast ovarian cancer syndrome is a germline predisposition (BRCA-related DNA repair deficiency), not a treatable tumor type. Floxuridine has no known link to that deficiency. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as breast and ovarian cancer, not biological evidence.
 
@@ -154,12 +154,13 @@ The top-ranked prediction, hereditary breast ovarian cancer syndrome, has no tri
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both US ANDAs are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since both ANDAs are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: floxuridine prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c8edabc1-67cd-421b-a147-7c1f19f05b8e) |
 
 <!-- review:end log -->
 

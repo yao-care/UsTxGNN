@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, phenoxybenzamine is an irreversible, non-selective alpha-adrenergic antagonist. Its use in pheochromocytoma is consistent with blocking catecholamine-driven vasoconstriction and hypertension.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for phenoxybenzamine: "Phenoxybenzamine hydrochloride is a long-acting, adrenergic, alpha -receptor-blocking agent, which can produce and maintain “chemical sympathectomy” by oral administration. It increases blood flow to the skin, mucosa and abdominal viscera, and lowers both supine and erect blood pressures." ([DailyMed: phenoxybenzamine hydrochloride prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0be6a394-cd10-42fc-97cf-ad53d81d8d93), label version 2026-07-03; accessed 2026-11-19.) Based on known pharmacology, phenoxybenzamine is an irreversible, non-selective alpha-adrenergic antagonist. Its use in pheochromocytoma is consistent with blocking catecholamine-driven vasoconstriction and hypertension.
 
 In principle, alpha blockade could affect aqueous humor dynamics, for example through changes in ocular vascular tone or uveoscleral outflow. This gives a theoretical link to intraocular pressure regulation. Adrenergic modulation is a recognised route in glaucoma care: alpha-2 agonists such as brimonidine lower intraocular pressure.
 
@@ -131,13 +131,14 @@ The prediction is supported only by the TxGNN model score, with no clinical tria
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All three licenses are for single-ingredient oral capsules, and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given that the US market status is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(3 of 3 licenses valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: phenoxybenzamine hydrochloride prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0be6a394-cd10-42fc-97cf-ad53d81d8d93) |
 
 <!-- review:end log -->
 

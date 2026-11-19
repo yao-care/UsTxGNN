@@ -60,7 +60,7 @@ but support is limited to **2 Phase 2 combination-chemotherapy trials** and **li
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general pharmacology, daunorubicin is an anthracycline that intercalates into DNA and inhibits topoisomerase II, a mechanism active against rapidly proliferating blood cancers.
+According to the Mechanism of Action section of the FDA-approved prescribing information for daunorubicin: "Daunorubicin has antimitotic and cytotoxic activity through a number of proposed mechanisms of action. Daunorubicin forms complexes with DNA by intercalation between base pairs. It inhibits topoisomerase II activity by stabilizing the DNA-topoisomerase II complex, preventing the religation portion of the ligation-religation reaction that topoisomerase II catalyzes." ([DailyMed: daunorubicin hydrochloride prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff6b9bd4-8a9f-400f-a0b9-70e25fa8a28f), label version 2025-05-21; accessed 2026-11-19.) Based on general pharmacology, daunorubicin is an anthracycline that intercalates into DNA and inhibits topoisomerase II, a mechanism active against rapidly proliferating blood cancers.
 
 Leukemia and Hodgkin's lymphoma are both hematologic malignancies. Anthracyclines, mainly doxorubicin, are already part of standard Hodgkin regimens such as ABVD, so the mechanistic plausibility is high. However, evidence specific to daunorubicin is limited to Phase 2 combination protocols and liposomal-formulation studies, mostly in non-Hodgkin lymphoma. The high TxGNN score therefore reflects a plausible class effect rather than demonstrated daunorubicin efficacy in Hodgkin's lymphoma.
 
@@ -166,13 +166,14 @@ The evidence is only Phase 2 combination protocols and non-Hodgkin lymphoma or l
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All three authorizations are valid, so valid single-agent or combination licenses are currently listed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "given that all 3 US licenses are valid and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the drug's US licenses are all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: daunorubicin hydrochloride prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff6b9bd4-8a9f-400f-a0b9-70e25fa8a28f) |
 
 <!-- review:end log -->
 

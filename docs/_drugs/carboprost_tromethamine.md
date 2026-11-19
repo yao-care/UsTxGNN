@@ -54,7 +54,7 @@ Carboprost tromethamine is a prostaglandin F2alpha analog marketed in the US as 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, carboprost is a 15-methyl analog of prostaglandin F2alpha. It acts on FP receptors to cause smooth muscle contraction in the uterus, blood vessels and bronchi.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for carboprost tromethamine: "Carboprost tromethamine administered intramuscularly stimulates in the gravid uterus myometrial contractions similar to labor contractions at the end of a full term pregnancy. Whether or not these contractions result from a direct effect of carboprost on the myometrium has not been determined." ([DailyMed: Hemabate (carboprost tromethamine) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d282998-ff0c-480a-bd80-155606ef0a65), label version 2026-03-30; accessed 2026-11-19.) Based on known pharmacology, carboprost is a 15-methyl analog of prostaglandin F2alpha. It acts on FP receptors to cause smooth muscle contraction in the uterus, blood vessels and bronchi.
 
 For atypical coarctation of aorta, there is no plausible mechanistic rationale. It is a structural congenital defect, and an FP agonist would not correct it. Vasoconstriction could even be harmful. In neonates with ductal-dependent lesions, the relevant prostaglandin is PGE1, not PGF2alpha. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, rather than a true therapeutic link.
 
@@ -121,6 +121,19 @@ All ten predictions are model output only (L5), with no clinical trials or liter
 - Mechanism of action data from DrugBank
 - If any direction is pursued, glaucoma is the only one with class precedent, and it would require a dedicated ocular formulation and preclinical studies
 - Confirmation of current market and supply status, given that the drug is marketed with 13 valid licenses
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Hemabate (carboprost tromethamine) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d282998-ff0c-480a-bd80-155606ef0a65) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

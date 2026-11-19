@@ -56,7 +56,7 @@ but currently **0 clinical trials** and **0 publications** support this directio
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, mupirocin inhibits bacterial isoleucyl-tRNA synthetase and is active against *Staphylococcus aureus* (including MRSA) and many streptococci. These organisms are common causes of pleural empyema, which gives a plausible antibacterial rationale linking the original skin infection indication to the predicted one.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for mupirocin: "Mupirocin is an RNA synthetase inhibitor antibacterial. […] Mupirocin inhibits bacterial protein synthesis by reversibly and specifically binding to bacterial isoleucyl-transfer RNA (tRNA) synthetase. Mupirocin is bactericidal at concentrations achieved by topical administration." ([DailyMed: Pirnuo (mupirocin) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89c43f7b-1a88-45bf-a356-07518d4e7870), label version 2020-03-20; accessed 2026-11-19.) Based on known pharmacology, mupirocin inhibits bacterial isoleucyl-tRNA synthetase and is active against *Staphylococcus aureus* (including MRSA) and many streptococci. These organisms are common causes of pleural empyema, which gives a plausible antibacterial rationale linking the original skin infection indication to the predicted one.
 
 However, the practical link is weak. Mupirocin is a topical agent with negligible systemic bioavailability because it is rapidly metabolized to inactive monic acid. It cannot reach therapeutic concentrations in the pleural space by either topical or systemic routes. Standard care for empyema (drainage plus systemic antibiotics) is well established, so the prediction has no realistic translational pathway.
 
@@ -117,12 +117,13 @@ The prediction rests solely on a model score, with no clinical trials or literat
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All five authorizations are single-ingredient ointments and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 5 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Pirnuo (mupirocin) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89c43f7b-1a88-45bf-a356-07518d4e7870) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ This is essentially an on-label use rather than true repurposing, so the evidenc
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, insulin degludec is an ultra-long-acting basal insulin analogue that binds the insulin receptor and lowers blood glucose. Published reviews describe a flat, stable glucose-lowering profile, a half-life of about 25 hours and a duration of action beyond 42 hours.
+According to the Mechanism of Action section of the FDA-approved prescribing information for insulin degludec: "The primary activity of insulin, including TRESIBA, is regulation of glucose metabolism. Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17), label version 2024-02-22; accessed 2026-11-19.) Based on known pharmacology, insulin degludec is an ultra-long-acting basal insulin analogue that binds the insulin receptor and lowers blood glucose. Published reviews describe a flat, stable glucose-lowering profile, a half-life of about 25 hours and a duration of action beyond 42 hours.
 
 Type 1 diabetes is characterised by absolute insulin deficiency, so basal insulin replacement is the direct therapeutic mechanism. Type 1 diabetes falls within the drug's original diabetes mellitus indication, which explains the very high TxGNN score.
 
@@ -159,12 +159,13 @@ Multiple completed Phase 3 trials, randomised controlled trials and meta-analyse
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "This is an on-label use rather than true repurposing, but the only US licence is listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "The market status of the single US licence is listed as "Cancelled only"" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17) |
 
 <!-- review:end log -->
 

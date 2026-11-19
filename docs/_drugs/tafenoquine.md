@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, tafenoquine is an 8-aminoquinoline antimalarial, and its efficacy in malaria has been established. Any mechanistic link to smouldering systemic mastocytosis cannot be established from the data compiled for this report.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for tafenoquine: "Tafenoquine is an 8-aminoquinoline antimalarial drug. […] Tafenoquine, an 8-aminoquinoline antimalarial, is active against all the stages of Plasmodium species that include the hypnozoite (dormant stage) in the liver. Studies in vitro with the erythrocytic forms of Plasmodium falciparum suggest that tafenoquine may exert its effect by inhibiting hematin polymerization and inducing apoptotic like death of the parasite." ([DailyMed: Arakoda (tafenoquine) prescribing information, 60 Degrees Pharmaceuticals, INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=299e49d8-470f-4779-a010-4a1ee0e0c6cd), label version 2025-01-10; accessed 2026-11-19.) Based on known information, tafenoquine is an 8-aminoquinoline antimalarial, and its efficacy in malaria has been established. Any mechanistic link to smouldering systemic mastocytosis cannot be established from the data compiled for this report.
 
 The TxGNN score is very high (0.9905), but it comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Possible links to mast cell disease, such as effects on KIT-driven mast cell proliferation, oxidative stress, or lysosomal pathways, are speculative and not supported by any evidence gathered here. Malaria and smouldering systemic mastocytosis are also biologically very different diseases (a parasitic infection versus a clonal mast cell neoplasm), so the relationship between the original and new indication is not apparent.
 
@@ -125,12 +125,13 @@ The prediction is supported only by a model score (Evidence Level L5), with no c
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "no US license for tafenoquine is currently valid, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "of the cancelled NDAs" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Arakoda (tafenoquine) prescribing information, 60 Degrees Pharmaceuticals, INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=299e49d8-470f-4779-a010-4a1ee0e0c6cd) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Atazanavir is an HIV protease inhibitor antiviral. The TxGNN model predicts it m
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for atazanavir are not available in the data compiled for this report. Based on its known drug class, atazanavir is an HIV protease inhibitor.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for atazanavir: "Atazanavir is an HIV-1 antiretroviral drug. […] Atazanavir (ATV) is an azapeptide HIV-1 protease inhibitor (PI). The compound selectively inhibits the virus-specific processing of viral Gag and Gag-Pol polyproteins in HIV-1-infected cells, thus preventing formation of mature virions." ([DailyMed: Reyataz (atazanavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=165cff62-b284-4a27-a65d-9ec8a5bfcdd8), label version 2024-12-05; accessed 2026-11-19.) Based on its known drug class, atazanavir is an HIV protease inhibitor.
 
 Feline immunodeficiency virus (FIV) is a lentivirus whose protease is structurally related to HIV-1 protease, so a protease inhibitor could plausibly act on it. The very high score of 0.9998 most likely reflects the similarity of this disease to HIV in the model's training data rather than independent evidence.
 
@@ -99,6 +99,19 @@ The prediction has a very high score but no supporting trials or literature (evi
 - Confirmation of whether veterinary indications fall within the program scope
 - Direct evidence, such as in vitro FIV protease inhibition data or veterinary studies
 - Mechanism of action data and package insert safety information (warnings, contraindications)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for atazanavir are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Reyataz (atazanavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=165cff62-b284-4a27-a65d-9ec8a5bfcdd8) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

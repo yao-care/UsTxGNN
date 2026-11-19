@@ -56,7 +56,7 @@ The TxGNN model predicts it may be useful for **cauda equina neoplasm**, but the
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general pharmacology, temozolomide is an oral alkylating agent that methylates DNA (O6-guanine, N7-guanine, N3-adenine). This causes cytotoxic lesions and apoptosis in tumor cells. It crosses the blood-brain barrier and is used in glial tumors of the brain.
+According to the Mechanism of Action section of the FDA-approved prescribing information for temozolomide: "Temozolomide is not directly active but undergoes rapid nonenzymatic conversion at physiologic pH to the reactive compound 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide (MTIC). The cytotoxicity of MTIC is thought to be primarily due to DNA alkylation, mainly at the O 6 and N 7 positions of guanine, which causes DNA double strand breaks and results in programmed cell death." ([DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56), label version 2026-02-20; accessed 2026-11-19.) Based on general pharmacology, temozolomide is an oral alkylating agent that methylates DNA (O6-guanine, N7-guanine, N3-adenine). This causes cytotoxic lesions and apoptosis in tumor cells. It crosses the blood-brain barrier and is used in glial tumors of the brain.
 
 Cauda equina neoplasms are mostly myxopapillary ependymomas, which are glial-lineage tumors of the spinal axis. This gives a plausible biological link to the glial tumors in the original indications. Efficacy likely depends on MGMT promoter methylation status (low MGMT expression predicts sensitivity), which is not reported in the available data.
 
@@ -118,6 +118,19 @@ No clinical trial is registered for this indication, and the only closely relate
 - Mechanism-of-action data from DrugBank
 - FDA package insert warnings and contraindications for safety screening
 - A review of the blood-disorder contraindication relations and a monitoring plan for patients with spinal tumors
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

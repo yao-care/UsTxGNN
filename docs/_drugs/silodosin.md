@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on its known pharmacology, silodosin is a selective alpha-1A adrenergic receptor antagonist. It relaxes smooth muscle in the prostate and bladder neck, which is how it relieves urinary symptoms of BPH.
+According to the Mechanism of Action section of the FDA-approved prescribing information for silodosin: "Silodosin is a selective antagonist of post-synaptic alpha-1 adrenoreceptors, which are located in the human prostate, bladder base, bladder neck, prostatic capsule, and prostatic urethra. Blockade of these alpha-1 adrenoreceptors can cause smooth muscle in these tissues to relax, resulting in an improvement in urine flow and a reduction in BPH symptoms." ([DailyMed: silodosin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94bca72c-c74a-4181-8b6a-a0a2f654a0a7), label version 2026-10-30; accessed 2026-11-19.) Based on its known pharmacology, silodosin is a selective alpha-1A adrenergic receptor antagonist. It relaxes smooth muscle in the prostate and bladder neck, which is how it relieves urinary symptoms of BPH.
 
 The link to the predicted indication is weak. Ambras syndrome is a rare congenital disorder associated with genomic rearrangements affecting regulation of the *TRPS1* gene. This pathway is unrelated to alpha-1A adrenergic signaling. The very high TxGNN score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -145,13 +145,14 @@ The prediction has no clinical trial or literature support (Evidence Level L5) a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All nine US authorizations are generic (ANDA) silodosin oral capsules and all are listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given that 9 US licenses are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: silodosin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94bca72c-c74a-4181-8b6a-a0a2f654a0a7) |
 
 <!-- review:end log -->
 

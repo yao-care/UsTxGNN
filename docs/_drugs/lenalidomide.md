@@ -56,7 +56,7 @@ with **47 clinical trials** and **20 publications** currently supporting this di
 
 ## Why is This Prediction Reasonable?
 
-Lenalidomide is a cereblon E3 ligase modulator. It promotes degradation of the transcription factors IKZF1 and IKZF3, and of CK1alpha, which underlies its activity in MDS with del(5q). It also activates NK and T cells. These data come from the analysis compiled for this report rather than a structured mechanism-of-action record, which is currently unavailable.
+Lenalidomide is a cereblon E3 ligase modulator. It promotes degradation of the transcription factors IKZF1 and IKZF3, and of CK1alpha, which underlies its activity in MDS with del(5q). It also activates NK and T cells. According to the Mechanism of Action section of the FDA-approved prescribing information for lenalidomide: "Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties. Cellular activities of lenalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex." ([DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be), label version 2023-03-24; accessed 2026-11-19.)
 
 MDS and acute myeloid leukemia (AML) are biologically adjacent myeloid malignancies, and MDS frequently transforms into AML. Because lenalidomide already has an established role in del(5q) MDS, a mechanistic extension to myeloid leukemia is plausible. A 2025 laboratory study also reported that cereblon levels govern the sensitivity of AML cells to lenalidomide, supporting this mechanism in leukemia cells.
 
@@ -158,12 +158,13 @@ The mechanism is plausible and there are many Phase 1/2 AML and MDS trials, but 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 12 authorizations are generic ANDAs for oral capsules and are currently cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "These data come from the analysis compiled for this report rather than a structured mechanism-of-action record, which is currently unavailable" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be) |
 
 <!-- review:end log -->
 

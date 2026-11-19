@@ -56,7 +56,7 @@ with **3 clinical trials** (all early-phase or combination studies) and **20 pub
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the known drug class, topotecan inhibits topoisomerase I, causing DNA damage and replication-dependent cell death in rapidly dividing tumour cells. Its efficacy in ovarian cancer is established, and mechanistically it may be applicable to breast cancer.
+According to the Mechanism of Action section of the FDA-approved prescribing information for topotecan: "Topoisomerase I relieves torsional strain in DNA by inducing reversible single-strand breaks. Topotecan binds to the topoisomerase I-DNA complex and prevents re-ligation of these single-strand breaks. The cytotoxicity of topotecan is thought to be due to double-strand DNA damage produced during DNA synthesis, when replication enzymes interact with the ternary complex formed by topotecan, topoisomerase I, and DNA." ([DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579), label version 2023-09-18; accessed 2026-11-19.) Based on the known drug class, topotecan inhibits topoisomerase I, causing DNA damage and replication-dependent cell death in rapidly dividing tumour cells. Its efficacy in ovarian cancer is established, and mechanistically it may be applicable to breast cancer.
 
 Two lines of evidence support the link:
 - A 2023 preclinical study (PMID 37987734) suggests that topoisomerase 1 inhibition causes aberrant R-loop accumulation and synthetic lethality in MYC-driven cancer. This may be relevant to MYC-high breast cancer subtypes such as triple-negative disease.
@@ -160,12 +160,13 @@ The TxGNN score is very high (0.9992), but the supporting clinical data are weak
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 7 US authorizations are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(7 of 7 licenses valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579) |
 
 <!-- review:end log -->
 

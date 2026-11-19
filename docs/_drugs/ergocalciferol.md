@@ -57,7 +57,7 @@ Evidence is minimal: **0 clinical trials** and **0 publications** support this s
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Ergocalciferol is a vitamin D analogue whose efficacy in vitamin D deficiency and related bone disorders is well known. Mechanistically it might be applicable to skeletal disease, but no specific link to this condition has been established.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for ergocalciferol: "The in vivo synthesis of the major biologically active metabolites of vitamin D occurs in two steps. The first hydroxylation of ergocalciferol takes place in the liver (to 25-hydroxyvitamin D) and the second in the kidneys (to 1, 25-dihydroxyvitamin D)." ([DailyMed: Vitamin D (ergocalciferol) prescribing information, Preferred Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba2076ef-1650-45e1-b092-a4c449dd6210), label version 2026-11-02; accessed 2026-11-19.) Ergocalciferol is a vitamin D analogue whose efficacy in vitamin D deficiency and related bone disorders is well known. Mechanistically it might be applicable to skeletal disease, but no specific link to this condition has been established.
 
 The predicted condition is a rare inherited skeletal dysplasia. The score of 0.9983 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No mechanistic or clinical evidence connects ergocalciferol to this disease, so the prediction should be treated as a hypothesis-generating signal only.
 
@@ -106,6 +106,19 @@ The prediction rests only on a TxGNN model (deep learning) score. There are no t
 - Label warnings and contraindications from the package insert, to complete safety screening
 
 **Note on other candidates:** Among the other predictions for this drug, renal osteodystrophy has the most supporting data. It has one Phase 4 trial (NCT01799317, n=60, status unknown) and a randomized comparison of ergocalciferol versus calcitriol in CKD mineral bone disorder (PMID 27401037). It is a more promising direction for further evaluation than the top-ranked prediction. Calcium-alkali syndrome, on the other hand, may be harmful, because vitamin D can aggravate hypercalcemia.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vitamin D (ergocalciferol) prescribing information, Preferred Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba2076ef-1650-45e1-b092-a4c449dd6210) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

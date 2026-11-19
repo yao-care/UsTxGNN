@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** directly su
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, trandolapril is an angiotensin-converting enzyme (ACE) inhibitor. By blocking the renin-angiotensin-aldosterone system (RAAS), it lowers blood pressure and reduces pressure within the kidney's filtering units (intraglomerular pressure). This is biologically plausible for kidney injury caused by severe hypertension.
+According to the Mechanism of Action section of the FDA-approved prescribing information for trandolapril: "Trandolapril is deesterified to the diacid metabolite, trandolaprilat, which is approximately eight times more active as an inhibitor of ACE activity. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor, angiotensin II." ([DailyMed: trandolapril prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8143a6cf-dadc-4ef7-a8db-d16d7150ad34), label version 2025-10-31; accessed 2026-11-19.) Based on general pharmacology, trandolapril is an angiotensin-converting enzyme (ACE) inhibitor. By blocking the renin-angiotensin-aldosterone system (RAAS), it lowers blood pressure and reduces pressure within the kidney's filtering units (intraglomerular pressure). This is biologically plausible for kidney injury caused by severe hypertension.
 
 The predicted indication is closely related to the approved one. Malignant hypertensive renal disease is a kidney complication of severe hypertension, so this is more a subtype extension of the hypertension indication than true repurposing. The high prediction score (0.9992) is not backed by any trials or literature in the data compiled for this report.
 
@@ -106,12 +106,13 @@ The prediction is supported only by a model score from the TxGNN model (deep lea
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Clarification of the cancelled US market status, including whether the cancellations are commercial or safety-related" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 3 of 3 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: trandolapril prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8143a6cf-dadc-4ef7-a8db-d16d7150ad34) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **acute pulmonary heart disease**,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the known pharmacology of the drug class, bumetanide inhibits the Na-K-2Cl cotransporter (NKCC2) in the thick ascending limb of the loop of Henle. This produces rapid sodium and water excretion and reduces intravascular volume and cardiac preload.
+According to the Mechanism of Action section of the FDA-approved prescribing information for bumetanide: "Bumetanide primarily inhibits the reabsorption of sodium and chloride in the proximal and distal tubules and in the loop of Henle. The high degree of diuresis is largely due to the unique site of action. The action on the distal tubule is independent of any inhibitory effect on carbonic anhydrase and aldosterone." ([DailyMed: Enbumyst (bumetanide) prescribing information, Corstasis USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6f752c5-d2bd-4f77-9611-ca2110066d1f), label version 2026-08-27; accessed 2026-11-19.) Based on the known pharmacology of the drug class, bumetanide inhibits the Na-K-2Cl cotransporter (NKCC2) in the thick ascending limb of the loop of Henle. This produces rapid sodium and water excretion and reduces intravascular volume and cardiac preload.
 
 In acute pulmonary heart disease (acute cor pulmonale), right ventricular overload and venous congestion could in principle be relieved by lowering preload. Haemodynamic studies of bumetanide in left-sided acute and chronic heart failure show reduced preload and lower left ventricular volume. This is an indirect and plausible link to right-sided congestion.
 
@@ -119,11 +119,12 @@ The prediction score is high (0.9958), but the only supporting literature concer
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "The local data list 11 US records, all currently valid, and the list may be partial" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Enbumyst (bumetanide) prescribing information, Corstasis USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6f752c5-d2bd-4f77-9611-ca2110066d1f) |
 
 <!-- review:end log -->
 

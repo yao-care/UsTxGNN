@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, potassium bicarbonate is an alkalinizing agent and a potassium source. Its listed original indications include several upper gastrointestinal acid-related conditions, and mechanistically it may be applicable to gastroduodenitis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for potassium bicarbonate: "Intravenous sodium bicarbonate therapy increases plasma bicarbonate, buffers excess hydrogen ion concentration, raises blood pH." ([DailyMed: sodium bicarbonate prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50c858a-00c8-4cb2-ad73-8797f19e656d), label version 2026-08-14; accessed 2026-11-19.) Based on known information, potassium bicarbonate is an alkalinizing agent and a potassium source. Its listed original indications include several upper gastrointestinal acid-related conditions, and mechanistically it may be applicable to gastroduodenitis.
 
 Gastroduodenitis (inflammation of the stomach and duodenum) is closely related to peptic ulcer disease, GERD, esophagitis and dyspepsia. A plausible explanation is gastric acid neutralization. However, this is an inference by analogy and has not been verified by any trial or publication.
 
@@ -75,7 +75,6 @@ Currently no related literature available.
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | Not available | Effer-K (Nomax Inc.) | Effervescent tablet (oral) | Not available |
-
 
 ## Safety Considerations
 
@@ -99,6 +98,19 @@ The prediction has a high model score (0.9972) but no supporting clinical trials
 - Literature and trial searches for potassium bicarbonate or alkalinizing agents in gastroduodenitis
 - Assessment of whether gastroduodenitis is a true new indication or an extension of existing uses
 - Review of the cancelled market status and the hyperkalemia-related interaction risk
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: sodium bicarbonate prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50c858a-00c8-4cb2-ad73-8797f19e656d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

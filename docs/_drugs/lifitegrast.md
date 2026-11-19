@@ -61,7 +61,7 @@ Other predicted indications from the same analysis, all at evidence level L5 and
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for the original indication was not available in the data compiled for this report. Pharmacology data do show that lifitegrast is a topical integrin antagonist that targets LFA-1 (integrin alpha L, ITGAL). In laboratory assays it blocks T-cell adhesion to ICAM-1 (IC50 about 2.98 nM in Jurkat cells and 9 nM in HuT 78 cells) and reduces inflammatory mediator release. It was designed to have minimal systemic exposure.
+According to the Mechanism of Action section of the FDA-approved prescribing information for lifitegrast: "Lifitegrast binds to the integrin LFA-1, a cell surface protein found on leukocytes and blocks the interaction of LFA-1 with its cognate ligand intercellular adhesion molecule-1 (ICAM-1). ICAM-1 may be overexpressed in corneal and conjunctival tissues in DED." ([DailyMed: Xiidra (lifitegrast) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8589d376-ac10-4ddb-9c53-2e0c8d5675c4), label version 2025-08-18; accessed 2026-11-19.) Pharmacology data do show that lifitegrast is a topical integrin antagonist that targets LFA-1 (integrin alpha L, ITGAL). In laboratory assays it blocks T-cell adhesion to ICAM-1 (IC50 about 2.98 nM in Jurkat cells and 9 nM in HuT 78 cells) and reduces inflammatory mediator release. It was designed to have minimal systemic exposure.
 
 Fibromatoses such as Peyronie's disease involve chronic inflammation and fibroblast activation. Blocking LFA-1/ICAM-1 interaction could in theory modulate the immune cells involved, so a link to dry eye (a T-cell-mediated inflammatory disease) is plausible but **speculative**. The same reasoning applies to palmar fibromatosis (Dupuytren's disease) and Ledderhose disease. For infantile digital fibromatosis, no data-supported mechanism exists, and the high score likely reflects network proximity to other fibromatoses rather than a biological signal.
 
@@ -136,11 +136,12 @@ All predicted indications rest on model scores alone, with no clinical trials an
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and both US licenses are currently cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data for the original indication was not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xiidra (lifitegrast) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8589d376-ac10-4ddb-9c53-2e0c8d5675c4) |
 
 <!-- review:end log -->
 

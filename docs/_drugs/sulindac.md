@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunt
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on general knowledge, sulindac is a cyclooxygenase (COX) inhibitor that reduces prostaglandin synthesis, and its efficacy in inflammatory joint disease is established.
+ChEMBL (EMBL-EBI) records the mechanism of action of sulindac as: Cyclooxygenase inhibitor ([ChEMBL CHEMBL15770 (sulindac): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL15770), CC BY-SA 3.0; accessed 2026-11-19.) Based on general knowledge, sulindac is a cyclooxygenase (COX) inhibitor that reduces prostaglandin synthesis, and its efficacy in inflammatory joint disease is established.
 
 The predicted disease is a rare skeletal dysplasia caused by loss-of-function mutations in CDMP1/GDF5, which disrupt BMP/GDF5 signaling during skeletal development. Sulindac's COX inhibition has no known link to this signaling defect. The very high TxGNN score (0.999) is therefore a model output only, likely reflecting network proximity to other skeletal and joint disease nodes rather than a mechanism-based rationale. At most, NSAIDs might relieve joint pain symptomatically, which is not disease-modifying repurposing.
 
@@ -129,12 +129,13 @@ The prediction is supported only by the TxGNN model score.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All six records are cancelled; only the first five are shown" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 6 of 6 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL15770 (sulindac): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL15770) |
 
 <!-- review:end log -->
 

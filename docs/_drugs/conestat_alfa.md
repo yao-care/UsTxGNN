@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **serpinopathy with toxic serpin 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for conestat alfa is not available in the data compiled for this report. Based on its known identity, conestat alfa is a recombinant C1 inhibitor, which is itself a member of the serpin family. This shared serpin-family annotation is the most likely reason the model gives a high score.
+ChEMBL (EMBL-EBI) records the mechanism of action of conestat alfa as: Plasma protease C1 inhibitor exogenous protein ([ChEMBL CHEMBL2108350 (conestat alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108350), CC BY-SA 3.0; accessed 2026-11-19.) Based on its known identity, conestat alfa is a recombinant C1 inhibitor, which is itself a member of the serpin family. This shared serpin-family annotation is the most likely reason the model gives a high score.
 
 The mechanistic fit, however, is weak. Toxic polymerization serpinopathies arise from intracellular misfolding and accumulation of mutant serpin proteins. Supplying functional serpin from outside the cell is unlikely to correct that intracellular problem. The high score should therefore be read as a signal of annotation similarity, not as evidence of likely benefit.
 
@@ -98,6 +98,18 @@ The prediction has no supporting trials or publications (evidence level L5). The
 - Preclinical evidence showing that exogenous C1 inhibitor can affect serpin polymerization or its toxic effects
 - Detailed mechanism-of-action data for conestat alfa
 - Package insert warnings and contraindications for a safety review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for conestat alfa is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2108350 (conestat alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108350) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -59,7 +59,7 @@ The TxGNN model's top-ranked predictions are mostly unsupported, so this report 
 
 ## Why is This Prediction Reasonable?
 
-Cetuximab binds the epidermal growth factor receptor (EGFR) and blocks its signaling. Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, cetuximab is used for EGFR-expressing metastatic colorectal cancer and, with radiotherapy, for squamous cell cancers of the head and neck.
+Cetuximab binds the epidermal growth factor receptor (EGFR) and blocks its signaling. According to the Mechanism of Action section of the FDA-approved prescribing information for cetuximab: "The epidermal growth factor receptor (EGFR, HER1, c-ErbB-1) is a transmembrane glycoprotein that is a member of a subfamily of type I receptor tyrosine kinases including EGFR, HER2, HER3, and HER4. The EGFR is constitutively expressed in many normal epithelial tissues, including the skin and hair follicle. […] Cetuximab binds specifically to the EGFR on both normal and tumor cells, and competitively inhibits the binding of epidermal growth factor (EGF) and other ligands, such as transforming growth factor-alpha." ([DailyMed: Erbitux (cetuximab) prescribing information, ImClone LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9), label version 2026-04-16; accessed 2026-11-19.) Based on known information, cetuximab is used for EGFR-expressing metastatic colorectal cancer and, with radiotherapy, for squamous cell cancers of the head and neck.
 
 **Top-ranked predictions:** The highest-scoring predictions (chondroid hamartoma, childhood bronchial carcinoids, non-seminomatous lesion, testicular tumors, thyroglossal duct cyst) are benign or non-EGFR-driven conditions with no trials or literature. The high scores have no clinical support here. The epiglottis neoplasm prediction most likely overlaps with cetuximab's existing laryngeal squamous cell carcinoma indication, so it is not a new opportunity.
 
@@ -175,12 +175,13 @@ Please refer to the package insert for warnings and contraindications.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Clarification of the US regulatory status, since the only BLA record is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and the US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Erbitux (cetuximab) prescribing information, ImClone LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9) |
 
 <!-- review:end log -->
 

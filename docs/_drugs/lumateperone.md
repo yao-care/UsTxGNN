@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Lumateperone is an atypical antipsychotic. Its known pharmacology includes serotonin 5-HT2A antagonism and dopamine D2 receptor modulation, with additional serotonin transporter inhibition and glutamatergic modulation. Its efficacy in schizophrenia is the basis of its original indication.
+According to the Mechanism of Action section of the FDA-approved prescribing information for lumateperone: "The mechanism of action of lumateperone for the treatment of schizophrenia in adults, for the treatment of depressive episodes associated with bipolar depression (as monotherapy or as adjunctive therapy with lithium or valproate), and as adjunctive therapy with antidepressants for the treatment of MDD is unknown. However, the mechanism of action of lumateperone for these uses could be mediated through a combination of antagonist activity at central serotonin 5-HT 2A receptors, and partial agonist activity at central dopamine D 2 receptors." ([DailyMed: Caplyta (lumateperone) prescribing information, Intra-Cellular Therapies, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=db730b06-6351-47fd-8183-e61e61bbead5), label version 2026-11-05; accessed 2026-11-19.) Lumateperone is an atypical antipsychotic. Its known pharmacology includes serotonin 5-HT2A antagonism and dopamine D2 receptor modulation, with additional serotonin transporter inhibition and glutamatergic modulation. Its efficacy in schizophrenia is the basis of its original indication.
 
 These actions are all aimed at the central nervous system. They have no established link to the genetic causes of retinal dystrophy, which is an inherited degeneration of retinal cells. The high TxGNN score (0.9997, rank 1345) is a TxGNN model (deep learning) prediction only. It does not indicate biological plausibility, so this prediction should be treated as a hypothesis, not a supported direction.
 
@@ -114,11 +114,12 @@ The prediction is supported only by a model score. There are no clinical trials 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the product's US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Caplyta (lumateperone) prescribing information, Intra-Cellular Therapies, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=db730b06-6351-47fd-8183-e61e61bbead5) |
 
 <!-- review:end log -->
 

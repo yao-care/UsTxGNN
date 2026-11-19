@@ -60,7 +60,7 @@ The model score is very high, but the evidence is weak and the biological ration
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this report. Metronidazole is a nitroimidazole that is generally known to act against anaerobic bacteria and protozoa. Its efficacy in anaerobic infections, giardiasis and bacterial vaginosis is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for metronidazole: "Metronidazole, a nitroimidazole, exerts antibacterial effects in an anaerobic environment against most obligate anaerobes. Once metronidazole enters the organism by passive diffusion and activated in the cytoplasm of susceptible anaerobic bacteria, it is reduced; this process includes intra-cellular electron transport donors such as ferredoxin and transfer of an electron to the nitro group of the metronidazole leading to formation of a short-lived nitroso free radical." ([DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255), label version 2026-11-02; accessed 2026-11-19.) Metronidazole is a nitroimidazole that is generally known to act against anaerobic bacteria and protozoa. Its efficacy in anaerobic infections, giardiasis and bacterial vaginosis is established.
 
 The prediction for pneumocystosis is hard to justify mechanistically. *Pneumocystis* is a fungus and lacks the nitroreductase-dependent activation pathway that nitroimidazoles rely on. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The retrieved literature supports this view: the papers are general reviews of antiparasitic therapy and HIV opportunistic infections, and case reports in which metronidazole was given for a coexisting condition such as amebiasis. Pneumocystis pneumonia is treated with other agents, such as trimethoprim-sulfamethoxazole.
 
@@ -154,13 +154,14 @@ The prediction rests on model score alone: there are no clinical trials, no supp
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "These are 5 of 15 licenses (the others include oral capsules, gels and injectable solutions)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 15 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 15 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255) |
 
 <!-- review:end log -->
 

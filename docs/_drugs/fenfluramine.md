@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, fenfluramine is a serotonin-releasing agent with an established appetite-suppressing effect in obesity. A later formulation has also shown antiseizure activity in developmental and epileptic encephalopathies.
+According to the Mechanism of Action section of the FDA-approved prescribing information for fenfluramine: "The precise mechanism by which fenfluramine exerts its therapeutic effects in the treatment of seizures associated with Dravet syndrome and Lennox-Gastaut syndrome is unknown. Fenfluramine and the metabolite, norfenfluramine, exhibit agonist activity at serotonin 5-HT2 receptors." ([DailyMed: Fintepla (fenfluramine) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e88f360e-33ad-4cd6-b2de-5ef885857c5d), label version 2026-10-22; accessed 2026-11-19.) Based on known information, fenfluramine is a serotonin-releasing agent with an established appetite-suppressing effect in obesity. A later formulation has also shown antiseizure activity in developmental and epileptic encephalopathies.
 
 The 16p11.2 microdeletion is associated with hyperphagia, early-onset obesity, and neurodevelopmental features such as seizures and autism spectrum traits. Serotonergic modulation of appetite and neuronal excitability therefore offers a plausible, though unproven, link between the original use and this new indication.
 
@@ -125,11 +125,12 @@ The prediction has a high model score and a plausible serotonergic link to the a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "the cancelled NDA status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fintepla (fenfluramine) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e88f360e-33ad-4cd6-b2de-5ef885857c5d) |
 
 <!-- review:end log -->
 

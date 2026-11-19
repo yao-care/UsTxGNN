@@ -58,7 +58,7 @@ Sertraline is an SSRI antidepressant that is marketed in the United States in se
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Sertraline is an SSRI, and serotonergic modulation may reduce affective instability, anxiety and impulsivity. These symptoms often accompany personality disorders, so a mechanistic link to this group of conditions is plausible.
+According to the Mechanism of Action section of the FDA-approved prescribing information for sertraline: "Sertraline potentiates serotonergic activity in the central nervous system through inhibition of neuronal reuptake of serotonin (5-HT)." ([DailyMed: Zoloft (sertraline hydrochloride) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7), label version 2023-08-08; accessed 2026-11-19.) Sertraline is an SSRI, and serotonergic modulation may reduce affective instability, anxiety and impulsivity. These symptoms often accompany personality disorders, so a mechanistic link to this group of conditions is plausible.
 
 The literature retrieved concerns other conditions: borderline personality disorder, personality-disorder comorbidity in depression, and sertraline augmentation. None of it studies paranoid personality disorder. The same very high score (0.9993) is shared by several unrelated personality disorders. It most likely reflects a class-level model prediction rather than disease-specific evidence. Any benefit would probably be on comorbid mood or anxiety symptoms, not on the core paranoid traits.
 
@@ -135,12 +135,13 @@ The prediction score is very high (0.9993), but it is shared across several unre
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Eight valid US licences for single-ingredient sertraline are recorded" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "for these licences" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zoloft (sertraline hydrochloride) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7) |
 
 <!-- review:end log -->
 

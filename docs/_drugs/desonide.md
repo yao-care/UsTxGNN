@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, desonide is a low-potency topical glucocorticoid with anti-inflammatory activity. Its efficacy in inflammatory skin disease is established, and it may mechanistically be applicable to inflammation-driven lesions.
+According to the Mechanism of Action section of the FDA-approved prescribing information for desonide: "The mechanism of action of desonide is unknown." ([DailyMed: desonide prescribing information, Cintex Services, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6192416-09b4-47fa-e053-2a95a90add96), label version 2020-07-31; accessed 2026-11-19.) Based on known information, desonide is a low-potency topical glucocorticoid with anti-inflammatory activity. Its efficacy in inflammatory skin disease is established, and it may mechanistically be applicable to inflammation-driven lesions.
 
 Vocal cord polyps are largely related to vocal trauma and chronic inflammation or edema, so a glucocorticoid effect is conceivable. This is the only link between the original indications and the predicted one.
 
@@ -135,12 +135,13 @@ The prediction is supported only by a model score. There are no clinical trials 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 13 authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given that 13 US authorizations are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: desonide prescribing information, Cintex Services, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6192416-09b4-47fa-e053-2a95a90add96) |
 
 <!-- review:end log -->
 

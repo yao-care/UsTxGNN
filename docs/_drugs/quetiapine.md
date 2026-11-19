@@ -57,7 +57,7 @@ This report therefore covers the top-ranked prediction in the overview table, an
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for quetiapine is not available in the data compiled for this report. Based on general pharmacology, quetiapine is an atypical antipsychotic that acts mainly through serotonin (5-HT2A) and dopamine (D2) receptor antagonism. This is general knowledge, not drawn from the supplied data.
+According to the Mechanism of Action section of the FDA-approved prescribing information for quetiapine: "The mechanism of action of quetiapine in the listed indications is unclear. However, the efficacy of quetiapine in these indications could be mediated through a combination of dopamine type 2 (D 2 ) and serotonin type 2A (5HT 2A ) antagonism." ([DailyMed: Quetiapine Extended Release (quetiapine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6953175c-78ec-442c-b91d-97dfb57db933), label version 2026-10-08; accessed 2026-11-19.) Based on general pharmacology, quetiapine is an atypical antipsychotic that acts mainly through serotonin (5-HT2A) and dopamine (D2) receptor antagonism. This is general knowledge, not drawn from the supplied data.
 
 **Rank 1 (retinal dystrophy):** No clinical trials or literature were found, and no plausible mechanism links quetiapine to retinal degeneration. The high score (0.9957) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same holds for the other top-ranked predictions, such as congenital disorder of glycosylation, hydranencephaly, 17p13.3 microdeletion syndrome, polymicrogyria, X-linked myopia, syndromic myopia, and Charcot-Marie-Tooth type 1G. These are genetic or structural conditions that an antipsychotic is not expected to modify.
 
@@ -131,11 +131,12 @@ Package insert warnings and contraindications are not available in the data comp
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with nine valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data for quetiapine is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Quetiapine Extended Release (quetiapine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6953175c-78ec-442c-b91d-97dfb57db933) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ The TxGNN model predicts it may be relevant to **HIV infectious disease** (score
 
 ## Why is This Prediction Reasonable?
 
-Rifabutin inhibits bacterial DNA-dependent RNA polymerase (RpoB). It has no direct antiviral activity against HIV. Detailed mechanism-of-action data were not available in the data compiled for this report. The description here is based on the known rifamycin class pharmacology.
+Rifabutin inhibits bacterial DNA-dependent RNA polymerase (RpoB). It has no direct antiviral activity against HIV. According to the Mechanism of Action section of the FDA-approved prescribing information for rifabutin: "Rifabutin inhibits DNA-dependent RNA polymerase in susceptible strains of Escherichia coli and Bacillus subtilis but not in mammalian cells. In resistant strains of E. coli, rifabutin, like rifampin, did not inhibit this enzyme." ([DailyMed: rifabutin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=25a60937-cbbe-4a50-994f-2ce15203f589), label version 2026-09-01; accessed 2026-11-19.) The description here is based on the known rifamycin class pharmacology.
 
 The link between rifabutin and HIV is indirect. People with advanced HIV are prone to mycobacterial opportunistic infections such as MAC and tuberculosis, and rifabutin has been studied in these settings. It is also a weaker CYP3A4 inducer than rifampin. That makes it easier to combine with protease inhibitors and other antiretrovirals, although dose adjustment and interaction management are still required.
 
@@ -152,11 +152,12 @@ No study in the data treats HIV infection with rifabutin. The evidence concerns 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "Both licences are valid, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: rifabutin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=25a60937-cbbe-4a50-994f-2ce15203f589) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, givosiran is a GalNAc-conjugated siRNA that silences hepatic ALAS1, the first enzyme in heme biosynthesis. This lowers production of the neurotoxic intermediates ALA and PBG, which drive attacks in acute hepatic porphyria.
+According to the Mechanism of Action section of the FDA-approved prescribing information for givosiran: "Givosiran is a double-stranded small interfering RNA that causes degradation of aminolevulinate synthase 1 ( ALAS1 ) mRNA in hepatocytes through RNA interference, reducing the elevated levels of liver ALAS1 mRNA. This leads to reduced circulating levels of neurotoxic intermediates aminolevulinic acid (ALA) and porphobilinogen (PBG), factors associated with attacks and other disease manifestations of AHP." ([DailyMed: Givlaari (givosiran sodium) prescribing information, Alnylam Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=167e663c-11e1-497b-a3fc-951d65d58eaa), label version 2025-09-10; accessed 2026-11-19.) Based on known information, givosiran is a GalNAc-conjugated siRNA that silences hepatic ALAS1, the first enzyme in heme biosynthesis. This lowers production of the neurotoxic intermediates ALA and PBG, which drive attacks in acute hepatic porphyria.
 
 For hepatoportal sclerosis (non-cirrhotic portal hypertension with obliterative portal venopathy), no plausible link to ALAS1 suppression is established. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Several other predictions share an identical score (1.0000), including primitive portal vein thrombosis, hepatopulmonary syndrome, idiopathic copper-associated cirrhosis and early-onset familial noncirrhotic portal hypertension. This points to a shared model artifact rather than disease-specific signals.
 
@@ -144,12 +144,13 @@ Hepatoportal sclerosis is supported only by a model score, with no trials, no li
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US NDA is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled NDA status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Givlaari (givosiran sodium) prescribing information, Alnylam Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=167e663c-11e1-497b-a3fc-951d65d58eaa) |
 
 <!-- review:end log -->
 

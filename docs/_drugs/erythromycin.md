@@ -56,7 +56,7 @@ but there are currently **no registered clinical trials** and only **1 publicati
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general knowledge, erythromycin is a macrolide that blocks bacterial protein synthesis by binding the 50S ribosomal subunit. Macrolides are also reported to have anti-inflammatory effects.
+According to the Mechanism of Action section of the FDA-approved prescribing information for erythromycin: "Erythromycin acts by inhibition of protein synthesis by binding 50S ribosomal subunits of susceptible organisms. It does not affect nucleic acid synthesis." ([DailyMed: Ery-Tab (erythromycin) prescribing information, Arbor Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda44eb6-7901-4b80-ba0b-216f6cacf3fd), label version 2018-12-04; accessed 2026-11-19.) Based on general knowledge, erythromycin is a macrolide that blocks bacterial protein synthesis by binding the 50S ribosomal subunit. Macrolides are also reported to have anti-inflammatory effects.
 
 The proposed link is indirect. Chronic inflammation of the eyelid and cornea in children often involves staphylococcal colonization and meibomian gland dysfunction, so an antibacterial and anti-inflammatory agent could plausibly help the ocular surface. However, the only supporting paper is a general review of diagnosis and management of chronic blepharokeratoconjunctivitis. It is not primary efficacy data, does not evaluate erythromycin for punctate epithelial keratoconjunctivitis, and the review's abstract does not describe a specific erythromycin finding.
 
@@ -118,11 +118,12 @@ The model score is high (0.9989), but no clinical trial or publication directly 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "At least 15 US licence records are listed, and the list may be partial. Of these, 14 are valid and 1 is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ery-Tab (erythromycin) prescribing information, Arbor Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda44eb6-7901-4b80-ba0b-216f6cacf3fd) |
 
 <!-- review:end log -->
 

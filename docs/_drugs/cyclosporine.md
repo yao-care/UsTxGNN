@@ -56,7 +56,7 @@ This prediction should be regarded as a computational signal only.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Cyclosporine is generally known as a calcineurin inhibitor that suppresses T-cell activation. Its efficacy in immune-mediated conditions such as rheumatoid arthritis and Sjogren syndrome-related dry eye is established.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for cyclosporine: "Cyclosporine is a potent immunosuppressive agent that in animals prolongs survival of allogeneic transplants involving skin, kidney, liver, heart, pancreas, bone marrow, small intestine, and lung. Cyclosporine has been demonstrated to suppress some humoral immunity and to a greater extent, cell-mediated immune reactions such as allograft rejection, delayed hypersensitivity, experimental allergic encephalomyelitis, Freund’s adjuvant arthritis, and graft versus host disease in many animal species for a variety of organs." ([DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f), label version 2026-09-10; accessed 2026-11-19.) Cyclosporine is generally known as a calcineurin inhibitor that suppresses T-cell activation. Its efficacy in immune-mediated conditions such as rheumatoid arthritis and Sjogren syndrome-related dry eye is established.
 
 Chronic granulomatous disease (CGD) is an inherited immunodeficiency caused by a defect in the NADPH oxidase system of phagocytes. Calcineurin inhibition does not correct this defect, so no direct mechanistic link is evident. The only publication concerns outcomes of sibling or unrelated donor stem cell transplantation in CGD. Cyclosporine could at most appear as a supportive agent (for example, graft-versus-host disease prophylaxis) in such regimens, which is not a disease-modifying effect.
 
@@ -131,12 +131,13 @@ The prediction score is very high, but there are no registered clinical trials, 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 13 US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and 13 US licenses are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f) |
 
 <!-- review:end log -->
 

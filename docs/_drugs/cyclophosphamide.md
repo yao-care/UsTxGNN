@@ -56,7 +56,7 @@ The TxGNN model predicts it may be relevant to **vertebral anomalies and variabl
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for cyclophosphamide are not available in the data compiled for this report. As a drug class, cyclophosphamide is a nitrogen mustard alkylating agent. It is activated in the liver and cross-links DNA, which kills rapidly dividing cells and suppresses lymphocytes.
+According to the Mechanism of Action section of the FDA-approved prescribing information for cyclophosphamide: "The mechanism of action has not been fully characterized. However, cross-linking of tumor cell DNA may be involved. The active alkylating metabolites of cyclophosphamide interfere with the growth of susceptible rapidly proliferating malignant cells." ([DailyMed: Frindovyx (cyclophosphamide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ad8ea65-4c98-487a-9c8d-df778765ec5e), label version 2026-08-26; accessed 2026-11-19.) As a drug class, cyclophosphamide is a nitrogen mustard alkylating agent. It is activated in the liver and cross-links DNA, which kills rapidly dividing cells and suppresses lymphocytes.
 
 The predicted condition is a rare syndrome that combines skeletal (vertebral) anomalies with endocrine abnormalities and T-cell dysfunction. No mechanistic link to cyclophosphamide is evident. In a condition that already involves impaired T-cell function, a lymphocyte-depleting drug could worsen the immune deficiency. The high model score is therefore not backed by biological reasoning or by any study, and it should be read as a computational hypothesis only.
 
@@ -123,11 +123,12 @@ The prediction has no supporting trials or publications (evidence level L5). Cyc
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 12 licences on record are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data for cyclophosphamide are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Frindovyx (cyclophosphamide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ad8ea65-4c98-487a-9c8d-df778765ec5e) |
 
 <!-- review:end log -->
 

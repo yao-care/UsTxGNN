@@ -56,7 +56,7 @@ but **0 clinical trials** and **0 publications** currently support this directio
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source data. Diroximel fumarate is a prodrug of monomethyl fumarate (MMF), which is known to activate the Nrf2 pathway and has antioxidative and anti-inflammatory effects.
+According to the Mechanism of Action section of the FDA-approved prescribing information for diroximel fumarate: "The mechanism by which diroximel fumarate exerts its therapeutic effect in multiple sclerosis is unknown. MMF, the active metabolite of diroximel fumarate, has been shown to activate the nuclear factor (erythroid-derived 2)-like 2 (Nrf2) pathway in vitro and in vivo in animals and humans." ([DailyMed: Vumerity (diroximel fumarate) prescribing information, Biogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d74414f-6b83-4ea2-9a95-3cecabbce774), label version 2025-05-29; accessed 2026-11-19.) Diroximel fumarate is a prodrug of monomethyl fumarate (MMF), which is known to activate the Nrf2 pathway and has antioxidative and anti-inflammatory effects.
 
 Oxidative stress and polyol-pathway damage are plausible contributors to diabetic lens opacity. This gives a hypothetical link between Nrf2 activation and diabetic cataract. The same reasoning could apply to diabetic retinopathy, where oxidative stress and inflammation contribute to retinal microvascular damage. However, this link has not been tested for diroximel fumarate.
 
@@ -121,11 +121,12 @@ The only support for diabetic cataract (and the other predicted eye conditions) 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the source data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vumerity (diroximel fumarate) prescribing information, Biogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d74414f-6b83-4ea2-9a95-3cecabbce774) |
 
 <!-- review:end log -->
 

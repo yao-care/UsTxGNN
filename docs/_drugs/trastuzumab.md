@@ -55,7 +55,7 @@ This is best understood as an extension within the already established HER2-posi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on established knowledge, trastuzumab binds the extracellular domain of HER2. This inhibits downstream signaling and engages immune-mediated killing (antibody-dependent cellular cytotoxicity). Its efficacy in HER2-positive breast cancer is well proven.
+According to the Mechanism of Action section of the FDA-approved prescribing information for trastuzumab: "The HER2 (or c-erbB2) proto-oncogene encodes a transmembrane receptor protein of 185 kDa, which is structurally related to the epidermal growth factor receptor. Trastuzumab products have been shown, in both in vitro assays and in animals, to inhibit the proliferation of human tumor cells that overexpress HER2." ([DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c), label version 2026-06-26; accessed 2026-11-19.) Based on established knowledge, trastuzumab binds the extracellular domain of HER2. This inhibits downstream signaling and engages immune-mediated killing (antibody-dependent cellular cytotoxicity). Its efficacy in HER2-positive breast cancer is well proven.
 
 PR status does not change this mechanism. Tumours that are both HER2-positive and hormone receptor-positive are an established setting for trastuzumab-based therapy, usually with endocrine therapy added. The prediction therefore mostly reflects an overlap with the approved indication. Benefit applies only to HER2-positive tumours, so patients must be selected by HER2 status. Trastuzumab has no established role in PR-positive tumours that are HER2-negative.
 
@@ -157,12 +157,13 @@ A completed Phase 3 adjuvant trial with 3,270 patients (NCT01275677), plus rando
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All nine US listings for trastuzumab products are marked as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since all listings show as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c) |
 
 <!-- review:end log -->
 

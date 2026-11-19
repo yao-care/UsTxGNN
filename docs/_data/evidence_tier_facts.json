@@ -9,7 +9,7 @@
   "with_current": 50,
   "none_current": 0,
   "without_data": 2,
-  "with_reviews": 39,
+  "with_reviews": 50,
   "rows": [
    {
     "t": "Bendamustine",
@@ -18,8 +18,8 @@
     "i": "mantle cell lymphoma",
     "lt": 17,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -29,7 +29,7 @@
     "i": "eye disease",
     "lt": 19,
     "lv": 12,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All 12 licenses are valid\"",
     "x": 0
    },
@@ -40,7 +40,7 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 73,
     "lv": 45,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"13 ANDAs are valid and\"",
     "x": 0
    },
@@ -51,7 +51,7 @@
     "i": "myelodysplastic syndrome",
     "lt": 17,
     "lv": 9,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"Four more ANDAs (Amneal, Sagent, Eugia, Hospira) are also listed as cancelled\"",
     "x": 0
    },
@@ -62,8 +62,8 @@
     "i": "myeloid leukemia",
     "lt": 13,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the compiled data, but t\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -73,7 +73,7 @@
     "i": "anxiety disorder",
     "lt": 22,
     "lv": 13,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 9 valid licenses\"",
     "x": 0
    },
@@ -84,7 +84,7 @@
     "i": "pneumocystosis",
     "lt": 29,
     "lv": 23,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and the cancellation of all US authorizations\"",
     "x": 0
    },
@@ -95,7 +95,7 @@
     "i": "eye disease",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given that both US NDAs are cancelled\"",
     "x": 0
    },
@@ -106,7 +106,7 @@
     "i": "hepatitis E virus infection",
     "lt": 1,
     "lv": 1,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"The main caution is regulatory. The only US license on record (Pegasys, BLA103964) is cancelled, so…",
     "x": 0
    },
@@ -128,7 +128,7 @@
     "i": "esophageal varices with bleeding",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given the cancelled US license\"",
     "x": 0
    },
@@ -150,7 +150,7 @@
     "i": "chronic hepatitis B virus infection",
     "lt": 16,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given that all 5 US authorizations are valid and the drug is marketed\"",
     "x": 0
    },
@@ -161,7 +161,7 @@
     "i": "seborrheic dermatitis",
     "lt": 26,
     "lv": 23,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"There are currently 13 valid licenses\"",
     "x": 0
    },
@@ -172,8 +172,8 @@
     "i": "thrombotic disease",
     "lt": 34,
     "lv": 18,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -183,8 +183,8 @@
     "i": "insomnia (disease)",
     "lt": 7,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -194,8 +194,8 @@
     "i": "HIV infectious disease",
     "lt": 43,
     "lv": 32,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -205,7 +205,7 @@
     "i": "myeloid leukemia",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given the cancelled NDA\"",
     "x": 0
    },
@@ -216,7 +216,7 @@
     "i": "follicular lymphoma",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"the single US license (BLA125388) is listed as cancelled in the compiled data, and\"",
     "x": 0
    },
@@ -238,8 +238,8 @@
     "i": "obsessive-compulsive disorder",
     "lt": 37,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for citalopram is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -249,8 +249,8 @@
     "i": "manic bipolar affective disorder",
     "lt": 16,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for clozapine are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -260,7 +260,7 @@
     "i": "myofascial pain syndrome",
     "lt": 26,
     "lv": 18,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 9 valid licenses\"",
     "x": 0
    },
@@ -271,7 +271,7 @@
     "i": "Ewing sarcoma",
     "lt": 13,
     "lv": 13,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Clarification of the cancelled US market status, to confirm product availability\"",
     "x": 0
    },
@@ -282,7 +282,7 @@
     "i": "insomnia (disease)",
     "lt": 97,
     "lv": 31,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"for these licences\"",
     "x": 0
    },
@@ -293,8 +293,8 @@
     "i": "Ewing sarcoma",
     "lt": 31,
     "lv": 21,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -304,7 +304,7 @@
     "i": "Ewing sarcoma",
     "lt": 30,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"and 12 US authorizations are currently valid for any of them\"",
     "x": 0
    },
@@ -315,7 +315,7 @@
     "i": "migraine disorder",
     "lt": 10,
     "lv": 10,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 7 valid licenses\"",
     "x": 0
    },
@@ -326,7 +326,7 @@
     "i": "plasma cell myeloma",
     "lt": 14,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"4 of 4 licenses are valid, and\"",
     "x": 0
    },
@@ -337,7 +337,7 @@
     "i": "amenorrhea (disease)",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"larification of the regulatory status of the cancelled Zoladex NDAs and c\"",
     "x": 0
    },
@@ -348,7 +348,7 @@
     "i": "alopecia areata",
     "lt": 292,
     "lv": 72,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Of the licence records compiled for this report, 8 are valid and 1 is cancelled\"",
     "x": 0
    },
@@ -359,7 +359,7 @@
     "i": "mantle cell lymphoma",
     "lt": 3,
     "lv": 2,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"since the NDA is cancelled\"",
     "x": 0
    },
@@ -370,7 +370,7 @@
     "i": "headache disorder",
     "lt": 12,
     "lv": 8,
-    "r": 4,
+    "r": 5,
     "rs": "Removed: \"given that the drug is marketed with 6 valid authorizations\"",
     "x": 0
    },
@@ -381,7 +381,7 @@
     "i": "myeloid leukemia",
     "lt": 21,
     "lv": 20,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 12 valid licenses\"",
     "x": 0
    },
@@ -392,7 +392,7 @@
     "i": "headache disorder",
     "lt": 6,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The data compiled for this report shows 3 valid single-ingredient oral capsule licences for…",
     "x": 0
    },
@@ -403,7 +403,7 @@
     "i": "bronchitis",
     "lt": 52,
     "lv": 34,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 14 valid authorizations\"",
     "x": 0
    },
@@ -414,7 +414,7 @@
     "i": "HIV infectious disease",
     "lt": 55,
     "lv": 38,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since 17 listed US licenses are valid\"",
     "x": 0
    },
@@ -425,7 +425,7 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 15,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 4 valid licenses\"",
     "x": 0
    },
@@ -436,8 +436,8 @@
     "i": "follicular lymphoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -447,7 +447,7 @@
     "i": "malignant pleural mesothelioma",
     "lt": 31,
     "lv": 13,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"(9 valid licenses are currently marketed)\"",
     "x": 0
    },
@@ -458,8 +458,8 @@
     "i": "liposarcoma",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -469,8 +469,8 @@
     "i": "seborrheic dermatitis",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for pimecrolimus are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -480,7 +480,7 @@
     "i": "alopecia areata",
     "lt": 134,
     "lv": 26,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 13 valid licenses in the data\"",
     "x": 0
    },
@@ -491,7 +491,7 @@
     "i": "migraine disorder",
     "lt": 14,
     "lv": 12,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 9 valid licenses\"",
     "x": 0
    },
@@ -513,7 +513,7 @@
     "i": "dermatitis",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Paradoxical eczema reports add a safety concern, and the current US licence records show only…",
     "x": 0
    },
@@ -524,7 +524,7 @@
     "i": "insomnia (disease)",
     "lt": 6,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 4 of 4 licenses valid\"",
     "x": 0
    },
@@ -535,7 +535,7 @@
     "i": "hepatitis B virus infection",
     "lt": 8,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All seven US licences are valid, and the drug is marketed in the US\"",
     "x": 0
    },
@@ -557,7 +557,7 @@
     "i": "duodenogastric reflux",
     "lt": 17,
     "lv": 14,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"where the drug is marketed with 9 valid licenses\"",
     "x": 0
    },
@@ -568,7 +568,7 @@
     "i": "migraine disorder",
     "lt": 32,
     "lv": 24,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The list may be partial; all 9 licence records in the data compiled for this report are currently…",
     "x": 0
    },
@@ -579,7 +579,7 @@
     "i": "dermatitis",
     "lt": 12,
     "lv": 12,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 11 valid licenses\"",
     "x": 0
    }
@@ -603,7 +603,7 @@
   "with_current": 79,
   "none_current": 3,
   "without_data": 9,
-  "with_reviews": 69,
+  "with_reviews": 87,
   "rows": [
    {
     "t": "Abatacept",
@@ -612,8 +612,8 @@
     "i": "ankylosing spondylitis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -623,8 +623,8 @@
     "i": "insomnia (disease)",
     "lt": 40,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -634,7 +634,7 @@
     "i": "atopic eczema",
     "lt": 14,
     "lv": 4,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and the drug is marketed in the US with all 3 authorizations valid\"",
     "x": 0
    },
@@ -645,8 +645,8 @@
     "i": "restless legs syndrome",
     "lt": 19,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for clonazepam is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -656,7 +656,7 @@
     "i": "Hodgkins lymphoma",
     "lt": 12,
     "lv": 6,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"the drug's US licenses are all cancelled\"",
     "x": 0
    },
@@ -667,7 +667,7 @@
     "i": "alopecia areata",
     "lt": 40,
     "lv": 28,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and all U S. licenses are cancelled\"",
     "x": 0
    },
@@ -678,7 +678,7 @@
     "i": "bronchitis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"(cancelled BLA record)\"",
     "x": 0
    },
@@ -689,7 +689,7 @@
     "i": "amenorrhea (disease)",
     "lt": 0,
     "lv": 0,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 4 of 4 licenses valid\"",
     "x": 0
    },
@@ -700,8 +700,8 @@
     "i": "liposarcoma",
     "lt": 23,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for everolimus are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -722,7 +722,7 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 46,
     "lv": 14,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"(5 valid licenses)\"",
     "x": 0
    },
@@ -733,8 +733,8 @@
     "i": "liposarcoma",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"A formal mechanism-of-action entry was not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -744,7 +744,7 @@
     "i": "acne (disease)",
     "lt": 111,
     "lv": 78,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"13 US licenses for levonorgestrel are valid. for them\"",
     "x": 0
    },
@@ -755,8 +755,8 @@
     "i": "myeloid leukemia",
     "lt": 6,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -777,7 +777,7 @@
     "i": "insomnia (disease)",
     "lt": 46,
     "lv": 23,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 12 valid licenses\"",
     "x": 0
    },
@@ -788,7 +788,7 @@
     "i": "migraine disorder",
     "lt": 6,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only US NDA is cancelled, and the knowledge graph flags several cardiovascular…",
     "x": 0
    },
@@ -799,8 +799,8 @@
     "i": "myofascial pain syndrome",
     "lt": 77,
     "lv": 28,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -810,7 +810,7 @@
     "i": "pulmonary hypertension",
     "lt": 63,
     "lv": 26,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with nine valid licenses\"",
     "x": 0
    },
@@ -821,7 +821,7 @@
     "i": "insomnia (disease)",
     "lt": 23,
     "lv": 4,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 3 of 3 licenses valid\"",
     "x": 0
    },
@@ -832,7 +832,7 @@
     "i": "nasal cavity disease",
     "lt": 58,
     "lv": 41,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 12 valid US licenses\"",
     "x": 0
    },
@@ -843,7 +843,7 @@
     "i": "trichotillomania",
     "lt": 3,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"The US product is cancelled, and p\"",
     "x": 0
    },
@@ -854,8 +854,8 @@
     "i": "alopecia areata",
     "lt": 131,
     "lv": 34,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for prednisone are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -865,7 +865,7 @@
     "i": "follicular lymphoma",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"he US license is cancelled, t\"",
     "x": 0
    },
@@ -876,7 +876,7 @@
     "i": "leprosy",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Clarification of US regulatory status, since the only NDA on record is cancelled\"",
     "x": 0
    },
@@ -887,7 +887,7 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 23,
     "lv": 15,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 7 valid authorizations\"",
     "x": 0
    },
@@ -898,7 +898,7 @@
     "i": "migraine disorder",
     "lt": 17,
     "lv": 15,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 8 valid licenses\"",
     "x": 0
    },
@@ -909,7 +909,7 @@
     "i": "ankylosing spondylitis",
     "lt": 7,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All six licenses are valid, and t\"",
     "x": 0
    },
@@ -920,7 +920,7 @@
     "i": "obsessive-compulsive disorder",
     "lt": 36,
     "lv": 16,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"he US licenses are all cancelled, and t\"",
     "x": 0
    },
@@ -942,7 +942,7 @@
     "i": "renal cell carcinoma (disease)",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Vandetanib carries a notable QT and cardiovascular risk profile, and its only US license is…",
     "x": 0
    },
@@ -964,7 +964,7 @@
     "i": "acne (disease)",
     "lt": 8,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"all currently valid, and\"",
     "x": 0
    },
@@ -975,7 +975,7 @@
     "i": "reactive thrombocytosis",
     "lt": 10,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"nd the cancellation of all US licenses, a\"",
     "x": 0
    },
@@ -997,7 +997,7 @@
     "i": "specific developmental disorder",
     "lt": 11,
     "lv": 10,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"One further cancelled authorization (ANDA090609, Major Pharmaceuticals) is not shown, to keep…",
     "x": 0
    },
@@ -1008,8 +1008,8 @@
     "i": "liposarcoma",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1019,8 +1019,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 15,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1030,7 +1030,7 @@
     "i": "rheumatoid arthritis",
     "lt": 15,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Two further licenses (ANDA207110, Actavis; ANDA213981, Zydus Pharmaceuticals USA) are also…",
     "x": 0
    },
@@ -1041,7 +1041,7 @@
     "i": "acute intermittent porphyria",
     "lt": 53,
     "lv": 41,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 11 valid authorizations\"",
     "x": 0
    },
@@ -1063,7 +1063,7 @@
     "i": "HIV infectious disease",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The product's only US NDA is cancelled\"",
     "x": 0
    },
@@ -1085,7 +1085,7 @@
     "i": "granulomatous disease, chronic, autosomal recessive",
     "lt": 38,
     "lv": 31,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and 13 US licenses are currently valid\"",
     "x": 0
    },
@@ -1096,7 +1096,7 @@
     "i": "dry eye syndrome",
     "lt": 4,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All three US licenses are valid, and no label safety data are available\"",
     "x": 0
    },
@@ -1107,7 +1107,7 @@
     "i": "small cell lung carcinoma",
     "lt": 24,
     "lv": 15,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Clarification of regulatory and supply status given that the drug is marketed and all 12 US…",
     "x": 0
    },
@@ -1118,7 +1118,7 @@
     "i": "HIV infectious disease",
     "lt": 38,
     "lv": 28,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All 15 US authorizations compiled for this report are in cancelled status\"",
     "x": 0
    },
@@ -1129,7 +1129,7 @@
     "i": "hepatic porphyria",
     "lt": 6,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"One further authorization, ANDA220132 (Dr. Reddy's, coated tablet), is also cancelled\"",
     "x": 0
    },
@@ -1140,7 +1140,7 @@
     "i": "obsessive-compulsive disorder",
     "lt": 17,
     "lv": 13,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given the cancelled license\"",
     "x": 0
    },
@@ -1151,7 +1151,7 @@
     "i": "stroke disorder",
     "lt": 2,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"why the US NDA is cancelled and\"",
     "x": 0
    },
@@ -1162,7 +1162,7 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 41,
     "lv": 33,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 14 valid authorizations\"",
     "x": 0
    },
@@ -1173,8 +1173,8 @@
     "i": "chronic hepatitis C virus infection",
     "lt": 20,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -1184,7 +1184,7 @@
     "i": "nasal cavity disease",
     "lt": 24,
     "lv": 20,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 14 valid US licenses\"",
     "x": 0
    },
@@ -1195,7 +1195,7 @@
     "i": "hyperphosphatemia (disease)",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Also, the only US NDA is cancelled, and package insert safety data is missing\"",
     "x": 0
    },
@@ -1206,7 +1206,7 @@
     "i": "hypouricemia, renal",
     "lt": 16,
     "lv": 13,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 10 valid authorizations\"",
     "x": 0
    },
@@ -1217,7 +1217,7 @@
     "i": "HIV infectious disease",
     "lt": 19,
     "lv": 16,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 12 of 12 licenses valid\"",
     "x": 0
    },
@@ -1228,7 +1228,7 @@
     "i": "rheumatoid arthritis",
     "lt": 21,
     "lv": 9,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and its US licenses are all cancelled\"",
     "x": 0
    },
@@ -1239,7 +1239,7 @@
     "i": "acne (disease)",
     "lt": 28,
     "lv": 15,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"under 12 valid licenses\"",
     "x": 0
    },
@@ -1250,7 +1250,7 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 65,
     "lv": 34,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 13 valid licenses in the compiled data\"",
     "x": 0
    },
@@ -1261,8 +1261,8 @@
     "i": "lymphosarcoma",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1272,7 +1272,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 46,
     "lv": 30,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with nine valid licenses in the compiled data\"",
     "x": 0
    },
@@ -1294,7 +1294,7 @@
     "i": "Tourette syndrome",
     "lt": 34,
     "lv": 26,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All 16 licenses are valid, and no approved-indication text is recorded\"",
     "x": 0
    },
@@ -1305,8 +1305,8 @@
     "i": "痤瘡",
     "lt": 33,
     "lv": 21,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1327,7 +1327,7 @@
     "i": "migraine disorder",
     "lt": 1,
     "lv": 0,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"(marketed in the US as Cesamet) that is known as an antiemetic\"",
     "x": 0
    },
@@ -1338,8 +1338,8 @@
     "i": "migraine disorder",
     "lt": 10,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1349,7 +1349,7 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 27,
     "lv": 11,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All nine authorizations are generic applications (ANDA) with cancelled status\"",
     "x": 0
    },
@@ -1360,7 +1360,7 @@
     "i": "obstructive lung disease",
     "lt": 27,
     "lv": 22,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"The high TxGNN score is a computational prediction, the mechanistic overlap mostly restates the old…",
     "x": 0
    },
@@ -1371,7 +1371,7 @@
     "i": "restless legs syndrome",
     "lt": 35,
     "lv": 29,
-    "r": 1,
+    "r": 2,
     "rs": "Corrected: \"The full set comprises 11 authorizations, including\"",
     "x": 0
    },
@@ -1382,8 +1382,8 @@
     "i": "ischemic disease",
     "lt": 0,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -1393,7 +1393,7 @@
     "i": "migraine disorder",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"that was formerly marketed as an injectable in the United States\"",
     "x": 0
    },
@@ -1415,7 +1415,7 @@
     "i": "bronchitis",
     "lt": 97,
     "lv": 32,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since the injectable licenses listed are all cancelled\"",
     "x": 0
    },
@@ -1437,7 +1437,7 @@
     "i": "nasal cavity disease",
     "lt": 6,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given that the drug is marketed in the US with four valid licenses\"",
     "x": 0
    },
@@ -1448,8 +1448,8 @@
     "i": "HIV infectious disease",
     "lt": 20,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1459,7 +1459,7 @@
     "i": "hypouricemia, renal",
     "lt": 25,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All seven US licenses are valid\"",
     "x": 0
    },
@@ -1481,7 +1481,7 @@
     "i": "breast fibrocystic disease",
     "lt": 27,
     "lv": 20,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Of the licence records, 8 are valid and 1 (an injectable product) is cancelled\"",
     "x": 0
    },
@@ -1492,7 +1492,7 @@
     "i": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
     "lt": 16,
     "lv": 4,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All five authorizations are oral tablets and all are listed as cancelled\"",
     "x": 0
    },
@@ -1503,7 +1503,7 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 6,
     "lv": 5,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"all three listed licenses are valid\"",
     "x": 0
    },
@@ -1536,7 +1536,7 @@
     "i": "exposure keratitis",
     "lt": 73,
     "lv": 41,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"The other 10 licenses are also cancelled generic ANDAs (solution, injection, and eye-drop forms)\"",
     "x": 0
    },
@@ -1558,8 +1558,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 79,
     "lv": 60,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -1569,7 +1569,7 @@
     "i": "rhabdomyosarcoma (disease)",
     "lt": 7,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"A plan to confirm injectable product availability in the US, since the only listed ANDA is…",
     "x": 0
    },
@@ -1580,7 +1580,7 @@
     "i": "migraine disorder",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given that the NDA is cancelled\"",
     "x": 0
    },
@@ -1591,7 +1591,7 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 36,
     "lv": 16,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 13 of 13 licences valid\"",
     "x": 0
    },
@@ -1602,8 +1602,8 @@
     "i": "acne (disease)",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available for zinc oxide\" replaced with a sourced…",
     "x": 0
    }
   ],
@@ -1638,7 +1638,7 @@
   "with_current": 712,
   "none_current": 17,
   "without_data": 48,
-  "with_reviews": 580,
+  "with_reviews": 744,
   "rows": [
    {
     "t": "Ibuprofen",
@@ -1647,7 +1647,7 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 272,
     "lv": 121,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 14 valid licenses\"",
     "x": 0
    },
@@ -1658,7 +1658,7 @@
     "i": "classic stiff person syndrome",
     "lt": 174,
     "lv": 102,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since the data lists 14 valid authorizations\"",
     "x": 0
    },
@@ -1669,7 +1669,7 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 205,
     "lv": 93,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All are single-ingredient products\"",
     "x": 0
    },
@@ -1680,8 +1680,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 141,
     "lv": 85,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1691,7 +1691,7 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 146,
     "lv": 74,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 15 valid licenses\"",
     "x": 0
    },
@@ -1702,7 +1702,7 @@
     "i": "beta-ketothiolase deficiency",
     "lt": 113,
     "lv": 72,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"he US licenses are all cancelled, and t\"",
     "x": 0
    },
@@ -1713,7 +1713,7 @@
     "i": "brain stem infarction",
     "lt": 116,
     "lv": 68,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 11 valid authorizations\"",
     "x": 0
    },
@@ -1724,7 +1724,7 @@
     "i": "duodenal obstruction",
     "lt": 111,
     "lv": 68,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"since all listings in the data compiled are cancelled\"",
     "x": 0
    },
@@ -1735,7 +1735,7 @@
     "i": "alopecia mucinosa",
     "lt": 159,
     "lv": 65,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Fifteen US licences are recorded as valid, and the list may be partial\"",
     "x": 0
    },
@@ -1746,7 +1746,7 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 98,
     "lv": 65,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 16 valid licenses\"",
     "x": 0
    },
@@ -1757,7 +1757,7 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 126,
     "lv": 62,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"In addition, all US authorizations for amoxicillin are currently cancelled\"",
     "x": 0
    },
@@ -1768,7 +1768,7 @@
     "i": "faciodigitogenital syndrome",
     "lt": 89,
     "lv": 58,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All 18 authorizations are marked as valid, and t\"",
     "x": 0
    },
@@ -1779,7 +1779,7 @@
     "i": "brachydactyly-syndactyly syndrome",
     "lt": 106,
     "lv": 58,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"given that 14 licenses are valid\"",
     "x": 0
    },
@@ -1790,8 +1790,8 @@
     "i": "vulvar inverted follicular keratosis",
     "lt": 100,
     "lv": 57,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action text is not available in the data compiled for this report, so t\" replaced with…",
     "x": 0
    },
    {
@@ -1812,8 +1812,8 @@
     "i": "nasal cavity disease",
     "lt": 79,
     "lv": 54,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1823,7 +1823,7 @@
     "i": "obstructive lung disease",
     "lt": 96,
     "lv": 54,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"against the 11 valid licenses\"",
     "x": 0
    },
@@ -1834,7 +1834,7 @@
     "i": "pneumocystosis",
     "lt": 98,
     "lv": 53,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 15 valid licenses\"",
     "x": 0
    },
@@ -1845,7 +1845,7 @@
     "i": "disease of orbital region",
     "lt": 124,
     "lv": 51,
-    "r": 1,
+    "r": 2,
     "rs": "Corrected: \"Eleven are valid and one is cancelled; the list may be partial\"",
     "x": 0
    },
@@ -1856,8 +1856,8 @@
     "i": "duodenal obstruction",
     "lt": 71,
     "lv": 50,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -1867,8 +1867,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 100,
     "lv": 49,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -1878,8 +1878,8 @@
     "i": "faciodigitogenital syndrome",
     "lt": 70,
     "lv": 48,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for amphetamine are not available in the data compiled for this report\"…",
     "x": 5
    },
    {
@@ -1889,7 +1889,7 @@
     "i": "faciodigitogenital syndrome",
     "lt": 87,
     "lv": 47,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 12 valid licenses\"",
     "x": 0
    },
@@ -1900,7 +1900,7 @@
     "i": "nasal cavity disease",
     "lt": 128,
     "lv": 46,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 8 valid licences\"",
     "x": 0
    },
@@ -1911,8 +1911,8 @@
     "i": "duodenal obstruction",
     "lt": 62,
     "lv": 45,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1922,7 +1922,7 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 61,
     "lv": 44,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 13 valid licenses\"",
     "x": 0
    },
@@ -1933,7 +1933,7 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 52,
     "lv": 44,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 11 valid licenses\"",
     "x": 0
    },
@@ -1944,7 +1944,7 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 57,
     "lv": 43,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 10 valid licenses\"",
     "x": 0
    },
@@ -1955,7 +1955,7 @@
     "i": "rheumatoid nodulosis",
     "lt": 55,
     "lv": 42,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"There are 16 valid US licenses and n\"",
     "x": 0
    },
@@ -1966,7 +1966,7 @@
     "i": "diffuse scleroderma",
     "lt": 68,
     "lv": 42,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 13 valid licenses\"",
     "x": 0
    },
@@ -1977,7 +1977,7 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 61,
     "lv": 41,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since all licenses in the compiled records are listed as cancelled\"",
     "x": 0
    },
@@ -1988,8 +1988,8 @@
     "i": "manic bipolar affective disorder",
     "lt": 48,
     "lv": 40,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1999,7 +1999,7 @@
     "i": "diffuse scleroderma",
     "lt": 71,
     "lv": 39,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 8 valid licenses\"",
     "x": 0
    },
@@ -2010,8 +2010,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 56,
     "lv": 39,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2021,7 +2021,7 @@
     "i": "histrionic personality disorder (disease)",
     "lt": 80,
     "lv": 38,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Twelve valid single-ingredient ANDA records were listed, and the list may be partial\"",
     "x": 0
    },
@@ -2032,7 +2032,7 @@
     "i": "migraine disorder",
     "lt": 76,
     "lv": 35,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 13 valid licenses\"",
     "x": 0
    },
@@ -2043,8 +2043,8 @@
     "i": "acrodermatitis chronica atrophicans",
     "lt": 52,
     "lv": 35,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2054,7 +2054,7 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 52,
     "lv": 35,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All 16 US licenses are recorded as valid, and t\"",
     "x": 0
    },
@@ -2065,8 +2065,8 @@
     "i": "rosacea conjunctivitis",
     "lt": 151,
     "lv": 35,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for hydroxyzine are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -2076,8 +2076,8 @@
     "i": "vulvar inverted follicular keratosis",
     "lt": 41,
     "lv": 34,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2087,7 +2087,7 @@
     "i": "lichen planus pemphigoides",
     "lt": 80,
     "lv": 34,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"At least 17 US authorizations are recorded, and the list below may be partial. Of these, 15 are…",
     "x": 0
    },
@@ -2098,7 +2098,7 @@
     "i": "congenital disorder of glycosylation with defective fucosylation",
     "lt": 125,
     "lv": 34,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"he US licenses are all cancelled, and t\"",
     "x": 0
    },
@@ -2109,7 +2109,7 @@
     "i": "pulmonary hypertension",
     "lt": 52,
     "lv": 34,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 13 valid licenses\"",
     "x": 0
    },
@@ -2120,8 +2120,8 @@
     "i": "duodenal obstruction",
     "lt": 47,
     "lv": 34,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data was not available in the structured drug record\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -2142,8 +2142,8 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 52,
     "lv": 33,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for baclofen is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -2153,7 +2153,7 @@
     "i": "faciodigitogenital syndrome",
     "lt": 74,
     "lv": 33,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 12 valid licenses\"",
     "x": 0
    },
@@ -2164,7 +2164,7 @@
     "i": "nasal cavity disease",
     "lt": 42,
     "lv": 33,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"of the cancelled regulatory status and\"",
     "x": 0
    },
@@ -2175,7 +2175,7 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 130,
     "lv": 33,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"At least 15 US licence records are listed, and the list may be partial. Of these, 14 are valid and…",
     "x": 0
    },
@@ -2186,7 +2186,7 @@
     "i": "thrombophilia due to protein C deficiency, autosomal recessive",
     "lt": 89,
     "lv": 33,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"13 valid licenses\"",
     "x": 0
    },
@@ -2197,7 +2197,7 @@
     "i": "gaze palsy, familial horizontal, with progressive scoliosis",
     "lt": 56,
     "lv": 33,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 10 valid licenses\"",
     "x": 0
    },
@@ -2208,7 +2208,7 @@
     "i": "atopic eczema",
     "lt": 39,
     "lv": 32,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 12 valid licenses\"",
     "x": 0
    },
@@ -2219,7 +2219,7 @@
     "i": "gaze palsy, familial horizontal, with progressive scoliosis",
     "lt": 46,
     "lv": 31,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 11 valid licenses\"",
     "x": 0
    },
@@ -2230,7 +2230,7 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 36,
     "lv": 31,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All US listings are cancelled, and t\"",
     "x": 0
    },
@@ -2241,7 +2241,7 @@
     "i": "cauda equina syndrome",
     "lt": 46,
     "lv": 31,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 13 valid licenses\"",
     "x": 0
    },
@@ -2252,7 +2252,7 @@
     "i": "alopecia mucinosa",
     "lt": 47,
     "lv": 31,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 13 valid licenses\"",
     "x": 0
    },
@@ -2263,7 +2263,7 @@
     "i": "psychogenic movement disorders",
     "lt": 58,
     "lv": 30,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 13 valid licenses\"",
     "x": 0
    },
@@ -2274,7 +2274,7 @@
     "i": "distal myopathy, Tateyama type",
     "lt": 153,
     "lv": 30,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 8 valid licenses\"",
     "x": 0
    },
@@ -2285,8 +2285,8 @@
     "i": "laryngitis",
     "lt": 57,
     "lv": 29,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2296,7 +2296,7 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 53,
     "lv": 29,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"13 authorizations are currently valid and\"",
     "x": 0
    },
@@ -2307,7 +2307,7 @@
     "i": "Rasmussen subacute encephalitis",
     "lt": 51,
     "lv": 29,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 12 valid authorizations\"",
     "x": 0
    },
@@ -2318,7 +2318,7 @@
     "i": "pulmonary blastoma",
     "lt": 66,
     "lv": 29,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 13 valid authorizations\"",
     "x": 0
    },
@@ -2329,7 +2329,7 @@
     "i": "obsolete bundle branch block",
     "lt": 79,
     "lv": 29,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 12 valid licences\"",
     "x": 0
    },
@@ -2340,8 +2340,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 84,
     "lv": 28,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2362,7 +2362,7 @@
     "i": "alopecia mucinosa",
     "lt": 99,
     "lv": 28,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Of the 8 licence records in the local data, 7 are valid and 1 is cancelled\"",
     "x": 0
    },
@@ -2373,7 +2373,7 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 41,
     "lv": 28,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with nine valid authorizations\"",
     "x": 0
    },
@@ -2384,8 +2384,8 @@
     "i": "exercise-induced malignant hyperthermia",
     "lt": 43,
     "lv": 27,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for acetazolamide are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -2395,7 +2395,7 @@
     "i": "zinc, elevated plasma",
     "lt": 31,
     "lv": 27,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 9 valid authorizations\"",
     "x": 0
    },
@@ -2406,7 +2406,7 @@
     "i": "primary hereditary glaucoma",
     "lt": 84,
     "lv": 27,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 9 valid licenses\"",
     "x": 0
    },
@@ -2417,8 +2417,8 @@
     "i": "nasal cavity disease",
     "lt": 165,
     "lv": 27,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2428,7 +2428,7 @@
     "i": "osteoarthritis",
     "lt": 32,
     "lv": 27,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 17 US licenses currently valid\"",
     "x": 0
    },
@@ -2439,7 +2439,7 @@
     "i": "acute contagious conjunctivitis",
     "lt": 49,
     "lv": 27,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 10 valid licenses\"",
     "x": 0
    },
@@ -2450,7 +2450,7 @@
     "i": "amenorrhea (disease)",
     "lt": 36,
     "lv": 27,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"The 13 US licenses are valid, and l\"",
     "x": 0
    },
@@ -2472,7 +2472,7 @@
     "i": "manic bipolar affective disorder",
     "lt": 53,
     "lv": 26,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Five more licenses (all cancelled) are on file, covering tablets, film-coated tablets and…",
     "x": 0
    },
@@ -2483,7 +2483,7 @@
     "i": "duodenal obstruction",
     "lt": 41,
     "lv": 26,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Five more authorizations (all cancelled, 10 in total) are on record and not listed here\"",
     "x": 0
    },
@@ -2494,7 +2494,7 @@
     "i": "pulmonary hypertension with unclear multifactorial mechanism",
     "lt": 39,
     "lv": 26,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Two further ANDAs (ANDA076102, Bryant Ranch Prepack; ANDA203508, Exelan) are also cancelled. All…",
     "x": 0
    },
@@ -2505,7 +2505,7 @@
     "i": "rheumatoid arthritis",
     "lt": 49,
     "lv": 26,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"12 valid licenses are on the market in this country, and n\"",
     "x": 0
    },
@@ -2516,7 +2516,7 @@
     "i": "rosacea conjunctivitis",
     "lt": 34,
     "lv": 26,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 12 valid authorizations\"",
     "x": 0
    },
@@ -2527,8 +2527,8 @@
     "i": "Plasmodium falciparum malaria",
     "lt": 34,
     "lv": 25,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2538,7 +2538,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 40,
     "lv": 25,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Nine licenses are on record in total (1 NDA, 8 ANDAs), and all are cancelled\"",
     "x": 0
    },
@@ -2549,7 +2549,7 @@
     "i": "restless legs syndrome",
     "lt": 43,
     "lv": 25,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 9 valid licenses\"",
     "x": 0
    },
@@ -2560,7 +2560,7 @@
     "i": "rheumatoid arthritis",
     "lt": 29,
     "lv": 25,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 9 valid licenses\"",
     "x": 0
    },
@@ -2571,7 +2571,7 @@
     "i": "non-syndromic esophageal malformation",
     "lt": 31,
     "lv": 24,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and all 20 licences are counted as valid\"",
     "x": 2
    },
@@ -2582,7 +2582,7 @@
     "i": "acne (disease)",
     "lt": 43,
     "lv": 24,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All 4 listed licences are valid\"",
     "x": 0
    },
@@ -2593,7 +2593,7 @@
     "i": "botryoid-type embryonal rhabdomyosarcoma of the vagina",
     "lt": 52,
     "lv": 24,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 12 valid US licenses\"",
     "x": 0
    },
@@ -2604,7 +2604,7 @@
     "i": "nasal cavity disease",
     "lt": 29,
     "lv": 24,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 8 valid licences\"",
     "x": 0
    },
@@ -2615,7 +2615,7 @@
     "i": "hypervitaminosis",
     "lt": 103,
     "lv": 24,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 11 valid licenses\"",
     "x": 0
    },
@@ -2626,7 +2626,7 @@
     "i": "paranoid personality disorder",
     "lt": 39,
     "lv": 24,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"for these licences\"",
     "x": 0
    },
@@ -2637,8 +2637,8 @@
     "i": "insomnia (disease)",
     "lt": 110,
     "lv": 23,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for chlordiazepoxide is not available in the data compiled for this…",
     "x": 0
    },
    {
@@ -2648,7 +2648,7 @@
     "i": "biotin metabolic disease",
     "lt": 62,
     "lv": 23,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 11 valid licenses\"",
     "x": 0
    },
@@ -2659,7 +2659,7 @@
     "i": "vertebral anomalies and variable endocrine and T-cell dysfunction",
     "lt": 32,
     "lv": 23,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All 12 licences on record are currently valid\"",
     "x": 0
    },
@@ -2670,7 +2670,7 @@
     "i": "rosacea conjunctivitis",
     "lt": 109,
     "lv": 23,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 4 valid authorizations\"",
     "x": 0
    },
@@ -2681,7 +2681,7 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 41,
     "lv": 23,
-    "r": 4,
+    "r": 5,
     "rs": "Removed: \"with 8 valid licenses\"",
     "x": 0
    },
@@ -2692,7 +2692,7 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 31,
     "lv": 23,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"for these entries\"",
     "x": 0
    },
@@ -2703,7 +2703,7 @@
     "i": "Ohdo syndrome and variants",
     "lt": 35,
     "lv": 23,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 10 valid licenses\"",
     "x": 0
    },
@@ -2714,7 +2714,7 @@
     "i": "pneumocystosis",
     "lt": 26,
     "lv": 23,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"of the 14 valid US licenses\"",
     "x": 0
    },
@@ -2725,8 +2725,8 @@
     "i": "thrombotic disease",
     "lt": 127,
     "lv": 23,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2736,8 +2736,8 @@
     "i": "Rasmussen subacute encephalitis",
     "lt": 43,
     "lv": 22,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2747,8 +2747,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 34,
     "lv": 22,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for benazepril are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -2758,7 +2758,7 @@
     "i": "acute pulmonary heart disease",
     "lt": 26,
     "lv": 22,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The local data list 11 US records, all currently valid, and the list may be partial\"",
     "x": 0
    },
@@ -2769,8 +2769,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 32,
     "lv": 22,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2780,7 +2780,7 @@
     "i": "faciodigitogenital syndrome",
     "lt": 27,
     "lv": 22,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 11 valid authorizations\"",
     "x": 0
    },
@@ -2791,7 +2791,7 @@
     "i": "brachydactyly-syndactyly syndrome",
     "lt": 75,
     "lv": 22,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"All US licenses in the compiled data are also cancelled\"",
     "x": 0
    },
@@ -2802,7 +2802,7 @@
     "i": "osteoarthritis",
     "lt": 28,
     "lv": 22,
-    "r": 4,
+    "r": 5,
     "rs": "Removed: \"the cancelled licence status and\"",
     "x": 0
    },
@@ -2813,8 +2813,8 @@
     "i": "renal hypodysplasia/aplasia",
     "lt": 34,
     "lv": 22,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2824,7 +2824,7 @@
     "i": "pleural adenomatoid tumor",
     "lt": 30,
     "lv": 22,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since both listed NDAs are cancelled\"",
     "x": 0
    },
@@ -2835,7 +2835,7 @@
     "i": "Prinzmetal angina",
     "lt": 36,
     "lv": 22,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and 10 licenses are valid\"",
     "x": 0
    },
@@ -2846,7 +2846,7 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 84,
     "lv": 22,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 7 of 7 licences valid\"",
     "x": 0
    },
@@ -2857,8 +2857,8 @@
     "i": "beta-ketothiolase deficiency",
     "lt": 23,
     "lv": 21,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2868,7 +2868,7 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 29,
     "lv": 21,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with seven valid licenses\"",
     "x": 0
    },
@@ -2879,7 +2879,7 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 46,
     "lv": 21,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 10 valid authorizations in this country\"",
     "x": 0
    },
@@ -2890,8 +2890,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 34,
     "lv": 21,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2901,7 +2901,7 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 48,
     "lv": 21,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"In total, 10 licences are valid and 1 is cancelled\"",
     "x": 0
    },
@@ -2912,7 +2912,7 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 73,
     "lv": 21,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with seven valid authorizations\"",
     "x": 0
    },
@@ -2923,7 +2923,7 @@
     "i": "cauda equina syndrome",
     "lt": 81,
     "lv": 21,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 8 valid licenses\"",
     "x": 0
    },
@@ -2934,7 +2934,7 @@
     "i": "hyperamylasemia",
     "lt": 34,
     "lv": 21,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 12 valid licenses\"",
     "x": 0
    },
@@ -2945,7 +2945,7 @@
     "i": "extracutaneous mastocytoma",
     "lt": 25,
     "lv": 21,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 11 valid licenses\"",
     "x": 0
    },
@@ -2956,7 +2956,7 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 59,
     "lv": 21,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 11 valid authorizations, and none has approved indication text on record\"",
     "x": 0
    },
@@ -2978,7 +2978,7 @@
     "i": "intracranial arteriosclerosis",
     "lt": 22,
     "lv": 21,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 13 valid licenses\"",
     "x": 0
    },
@@ -2989,7 +2989,7 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 31,
     "lv": 20,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 13 valid licenses\"",
     "x": 0
    },
@@ -3000,7 +3000,7 @@
     "i": "febrile infection-related epilepsy syndrome",
     "lt": 34,
     "lv": 20,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Of 15 recorded licences, 14 are valid and 1 is cancelled\"",
     "x": 0
    },
@@ -3011,7 +3011,7 @@
     "i": "primary cutaneous T-cell lymphoma",
     "lt": 35,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"(topical versus the nasal spray forms in the data) and of the regulatory and commercial…",
     "x": 0
    },
@@ -3022,8 +3022,8 @@
     "i": "pulmonary hypertension with unclear multifactorial mechanism",
     "lt": 30,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3033,7 +3033,7 @@
     "i": "opsismodysplasia",
     "lt": 27,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 6 valid licenses\"",
     "x": 0
    },
@@ -3044,8 +3044,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 32,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3055,8 +3055,8 @@
     "i": "hepatic porphyria",
     "lt": 37,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for allopurinol are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -3066,7 +3066,7 @@
     "i": "congenital prothrombin deficiency",
     "lt": 38,
     "lv": 19,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 11 valid authorizations\"",
     "x": 0
    },
@@ -3077,8 +3077,8 @@
     "i": "rectum mucinous adenocarcinoma",
     "lt": 34,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -3088,7 +3088,7 @@
     "i": "pharyngitis",
     "lt": 30,
     "lv": 19,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since 10 valid licenses are listed\"",
     "x": 0
    },
@@ -3099,7 +3099,7 @@
     "i": "female breast carcinoma",
     "lt": 29,
     "lv": 19,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 9 valid licenses\"",
     "x": 0
    },
@@ -3110,7 +3110,7 @@
     "i": "conjunctival folliculosis",
     "lt": 23,
     "lv": 19,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 14 valid licenses\"",
     "x": 0
    },
@@ -3121,7 +3121,7 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 35,
     "lv": 19,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"the cancelled US market status and\"",
     "x": 0
    },
@@ -3132,7 +3132,7 @@
     "i": "vulvar inverted follicular keratosis",
     "lt": 27,
     "lv": 19,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All 14 US authorizations are listed as valid\"",
     "x": 0
    },
@@ -3143,7 +3143,7 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 29,
     "lv": 19,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 9 valid licenses\"",
     "x": 0
    },
@@ -3154,7 +3154,7 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 54,
     "lv": 19,
-    "r": 2,
+    "r": 3,
     "rs": "Corrected: \"All 10 authorizations are listed as valid; the five main\"",
     "x": 0
    },
@@ -3165,7 +3165,7 @@
     "i": "specific developmental disorder",
     "lt": 24,
     "lv": 18,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with nine valid authorizations\"",
     "x": 0
    },
@@ -3176,7 +3176,7 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 31,
     "lv": 18,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and the current US market status (\"Cancelled only\") needs verification\"",
     "x": 0
    },
@@ -3187,7 +3187,7 @@
     "i": "hypoalphalipoproteinemia",
     "lt": 20,
     "lv": 18,
-    "r": 4,
+    "r": 5,
     "rs": "Removed: \"since 13 licenses are shown as valid\"",
     "x": 0
    },
@@ -3198,7 +3198,7 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 48,
     "lv": 18,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"since the drug is marketed with 8 valid licenses\"",
     "x": 0
    },
@@ -3220,7 +3220,7 @@
     "i": "catecholaminergic polymorphic ventricular tachycardia",
     "lt": 35,
     "lv": 17,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Among the 12 licences listed, 11 are valid and 1 is cancelled. The list may be partial\"",
     "x": 0
    },
@@ -3231,7 +3231,7 @@
     "i": "migraine with brainstem aura",
     "lt": 26,
     "lv": 17,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"given the cancelled US market status\"",
     "x": 0
    },
@@ -3242,7 +3242,7 @@
     "i": "refractory cytopenia of childhood",
     "lt": 23,
     "lv": 17,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 13 valid licenses\"",
     "x": 0
    },
@@ -3253,7 +3253,7 @@
     "i": "sick sinus syndrome 2, autosomal dominant",
     "lt": 38,
     "lv": 17,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All 8 listed licences are valid\"",
     "x": 0
    },
@@ -3264,7 +3264,7 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 27,
     "lv": 17,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 10 valid licenses\"",
     "x": 0
    },
@@ -3275,7 +3275,7 @@
     "i": "biotin metabolic disease",
     "lt": 57,
     "lv": 17,
-    "r": 4,
+    "r": 5,
     "rs": "Removed: \"with eight valid licenses\"",
     "x": 0
    },
@@ -3286,7 +3286,7 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 17,
     "lv": 17,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 11 valid licenses\"",
     "x": 0
    },
@@ -3297,7 +3297,7 @@
     "i": "alopecia",
     "lt": 46,
     "lv": 17,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Eight records are listed, all single-ingredient oral tablets with valid status\"",
     "x": 0
    },
@@ -3308,8 +3308,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 20,
     "lv": 17,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3319,7 +3319,7 @@
     "i": "migraine disorder",
     "lt": 25,
     "lv": 17,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 14 valid licenses in the data\"",
     "x": 0
    },
@@ -3330,7 +3330,7 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 64,
     "lv": 17,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 7 valid licenses\"",
     "x": 0
    },
@@ -3341,7 +3341,7 @@
     "i": "perioral myoclonia with absences",
     "lt": 17,
     "lv": 17,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"the cancelled US license status and\"",
     "x": 0
    },
@@ -3352,8 +3352,8 @@
     "i": "brain stem infarction",
     "lt": 30,
     "lv": 17,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, but t\" replaced…",
     "x": 0
    },
    {
@@ -3363,8 +3363,8 @@
     "i": "migraine disorder",
     "lt": 38,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3385,8 +3385,8 @@
     "i": "parameningeal embryonal rhabdomyosarcoma",
     "lt": 24,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available from the source database\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -3396,7 +3396,7 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 20,
     "lv": 16,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 12 valid authorizations\"",
     "x": 0
    },
@@ -3407,7 +3407,7 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 26,
     "lv": 16,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 11 valid licenses out of 11\"",
     "x": 0
    },
@@ -3418,7 +3418,7 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 25,
     "lv": 15,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"All 7 licenses are valid. Two further cancelled solution ANDAs (Camber ANDA201107, Rising…",
     "x": 0
    },
@@ -3429,8 +3429,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 42,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action statement",
     "x": 0
    },
    {
@@ -3440,8 +3440,8 @@
     "i": "malformation syndrome with odontal and/or periodontal component",
     "lt": 20,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3451,8 +3451,8 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 42,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action statement",
     "x": 0
    },
    {
@@ -3462,8 +3462,8 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 33,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for clarithromycin are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -3473,7 +3473,7 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 16,
     "lv": 15,
-    "r": 4,
+    "r": 5,
     "rs": "Removed: \"All 10 authorizations listed below are in valid status\"",
     "x": 0
    },
@@ -3484,7 +3484,7 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 26,
     "lv": 15,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"In addition, the drug is marketed, with all 14 US licenses valid\"",
     "x": 0
    },
@@ -3495,8 +3495,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 42,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3506,7 +3506,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 19,
     "lv": 15,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given the cancelled market status\"",
     "x": 0
    },
@@ -3517,7 +3517,7 @@
     "i": "female breast carcinoma",
     "lt": 24,
     "lv": 15,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since both NDAs are cancelled\"",
     "x": 0
    },
@@ -3528,7 +3528,7 @@
     "i": "gastroduodenitis",
     "lt": 67,
     "lv": 15,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All 10 US authorizations are generic applications (A DAs) with a cancelled status, and n\"",
     "x": 0
    },
@@ -3539,7 +3539,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 21,
     "lv": 15,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 11 valid licenses\"",
     "x": 0
    },
@@ -3550,7 +3550,7 @@
     "i": "liposarcoma",
     "lt": 16,
     "lv": 15,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All 11 licences on record are valid, and the list above shows only the first five\"",
     "x": 0
    },
@@ -3561,7 +3561,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 29,
     "lv": 15,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All three authorizations are single-ingredient oral capsules and all are cancelled\"",
     "x": 0
    },
@@ -3572,7 +3572,7 @@
     "i": "atrophoderma vermiculata",
     "lt": 26,
     "lv": 15,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and the US licenses are all cancelled\"",
     "x": 0
    },
@@ -3583,8 +3583,8 @@
     "i": "obsolete bundle branch block",
     "lt": 23,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3594,8 +3594,8 @@
     "i": "obsolete vitamin D deficiency",
     "lt": 23,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3605,8 +3605,8 @@
     "i": "rectum mucinous adenocarcinoma",
     "lt": 37,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3616,8 +3616,8 @@
     "i": "insomnia (disease)",
     "lt": 36,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for carisoprodol is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -3627,7 +3627,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 21,
     "lv": 14,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with nine valid US licenses\"",
     "x": 0
    },
@@ -3638,8 +3638,8 @@
     "i": "nasal cavity disease",
     "lt": 41,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report, so t\" replaced with…",
     "x": 0
    },
    {
@@ -3649,7 +3649,7 @@
     "i": "polyp of vocal cord",
     "lt": 26,
     "lv": 14,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given that 13 US authorizations are currently valid\"",
     "x": 0
    },
@@ -3660,7 +3660,7 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 25,
     "lv": 14,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"of the 7 valid US licenses\"",
     "x": 0
    },
@@ -3671,7 +3671,7 @@
     "i": "vulvovaginal candidiasis",
     "lt": 15,
     "lv": 14,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 10 valid authorizations\"",
     "x": 0
    },
@@ -3682,7 +3682,7 @@
     "i": "acute urate nephropathy",
     "lt": 38,
     "lv": 14,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"(8 valid US licenses)\"",
     "x": 0
    },
@@ -3693,7 +3693,7 @@
     "i": "Ohdo syndrome and variants",
     "lt": 26,
     "lv": 14,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 7 valid licenses\"",
     "x": 0
    },
@@ -3704,7 +3704,7 @@
     "i": "glaucoma",
     "lt": 19,
     "lv": 14,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with nine valid licenses\"",
     "x": 0
    },
@@ -3715,7 +3715,7 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 21,
     "lv": 14,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"since 6 valid licenses are listed\"",
     "x": 0
    },
@@ -3726,7 +3726,7 @@
     "i": "seborrheic dermatitis",
     "lt": 16,
     "lv": 14,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 11 valid licenses\"",
     "x": 0
    },
@@ -3737,8 +3737,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 15,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3748,8 +3748,8 @@
     "i": "atypical coarctation of aorta",
     "lt": 14,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -3759,7 +3759,7 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 13,
     "lv": 13,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"and all 10 of 10 authorizations are valid\"",
     "x": 0
    },
@@ -3770,7 +3770,7 @@
     "i": "nasal cavity disease",
     "lt": 20,
     "lv": 13,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and the product's US licenses are all cancelled\"",
     "x": 0
    },
@@ -3781,7 +3781,7 @@
     "i": "thrombophilia due to protein C deficiency, autosomal recessive",
     "lt": 13,
     "lv": 13,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 7 valid licenses\"",
     "x": 0
    },
@@ -3792,8 +3792,8 @@
     "i": "paranoid personality disorder",
     "lt": 27,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3803,7 +3803,7 @@
     "i": "hemoglobinopathy",
     "lt": 13,
     "lv": 13,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 10 valid authorizations\"",
     "x": 0
    },
@@ -3825,8 +3825,8 @@
     "i": "pseudoachondroplasia",
     "lt": 36,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3836,7 +3836,7 @@
     "i": "solid pseudopapillary carcinoma of pancreas",
     "lt": 18,
     "lv": 13,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Of the 8 licences in the records reviewed, 7 are valid and 1 is cancelled\"",
     "x": 0
    },
@@ -3847,7 +3847,7 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 43,
     "lv": 13,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"since 8 valid licenses are listed\"",
     "x": 0
    },
@@ -3858,7 +3858,7 @@
     "i": "sick sinus syndrome 2, autosomal dominant",
     "lt": 21,
     "lv": 13,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 7 valid licenses\"",
     "x": 0
    },
@@ -3869,7 +3869,7 @@
     "i": "congenital prothrombin deficiency",
     "lt": 14,
     "lv": 13,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"for the nine valid US authorizations\"",
     "x": 0
    },
@@ -3880,8 +3880,8 @@
     "i": "non-syndromic esophageal malformation",
     "lt": 23,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for ascorbic acid are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -3891,7 +3891,7 @@
     "i": "cauda equina syndrome",
     "lt": 17,
     "lv": 12,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"given that 8 valid licenses exist\"",
     "x": 0
    },
@@ -3902,8 +3902,8 @@
     "i": "infectious otitis media",
     "lt": 41,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3913,7 +3913,7 @@
     "i": "variably protease-sensitive prionopathy",
     "lt": 17,
     "lv": 12,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 10 valid licenses\"",
     "x": 0
    },
@@ -3924,7 +3924,7 @@
     "i": "PLA2G6-associated neurodegeneration",
     "lt": 17,
     "lv": 12,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"(6 of 6 US licenses are valid)\"",
     "x": 0
    },
@@ -3935,7 +3935,7 @@
     "i": "myiasis",
     "lt": 22,
     "lv": 12,
-    "r": 4,
+    "r": 5,
     "rs": "Removed: \"The remaining five licences are also cancelled\"",
     "x": 0
    },
@@ -3946,7 +3946,7 @@
     "i": "hypertrichosis (disease)",
     "lt": 23,
     "lv": 12,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since the facts list 7 valid licences\"",
     "x": 0
    },
@@ -3957,7 +3957,7 @@
     "i": "pneumocystosis",
     "lt": 20,
     "lv": 12,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 9 valid licenses\"",
     "x": 0
    },
@@ -3968,7 +3968,7 @@
     "i": "variably protease-sensitive prionopathy",
     "lt": 15,
     "lv": 12,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 10 valid licenses\"",
     "x": 0
    },
@@ -3979,7 +3979,7 @@
     "i": "pleural empyema (disease)",
     "lt": 17,
     "lv": 12,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 5 valid licenses\"",
     "x": 0
    },
@@ -3990,7 +3990,7 @@
     "i": "anaphylaxis",
     "lt": 14,
     "lv": 12,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"The remaining seven ANDAs (International Medication Systems, Hikma, Baxter, Gland Pharma, Accord…",
     "x": 0
    },
@@ -4001,8 +4001,8 @@
     "i": "trichotillomania",
     "lt": 15,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4012,8 +4012,8 @@
     "i": "hypermobility of coccyx",
     "lt": 11,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4023,8 +4023,8 @@
     "i": "unclassified myelodysplastic syndrome",
     "lt": 12,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4034,7 +4034,7 @@
     "i": "gastric adenocarcinoma and proximal polyposis of the stomach",
     "lt": 15,
     "lv": 11,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All 11 listed are valid single-ingredient products\"",
     "x": 0
    },
@@ -4045,8 +4045,8 @@
     "i": "Prinzmetal angina",
     "lt": 20,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4056,7 +4056,7 @@
     "i": "hemoglobinopathy",
     "lt": 11,
     "lv": 11,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"(9 of 9 US licenses are currently valid)\"",
     "x": 0
    },
@@ -4067,7 +4067,7 @@
     "i": "allergic urticaria",
     "lt": 38,
     "lv": 11,
-    "r": 4,
+    "r": 5,
     "rs": "Removed: \"with 7 valid licenses\"",
     "x": 0
    },
@@ -4078,8 +4078,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 17,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -4089,7 +4089,7 @@
     "i": "relapsing-remitting multiple sclerosis",
     "lt": 11,
     "lv": 11,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 10 of 10 licenses valid\"",
     "x": 0
    },
@@ -4100,8 +4100,8 @@
     "i": "manic bipolar affective disorder",
     "lt": 18,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for propafenone is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -4111,8 +4111,8 @@
     "i": "cauda equina neoplasm",
     "lt": 18,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4122,7 +4122,7 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 61,
     "lv": 11,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 7 valid licenses\"",
     "x": 0
    },
@@ -4133,7 +4133,7 @@
     "i": "renal-hepatic-pancreatic dysplasia",
     "lt": 11,
     "lv": 11,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Three more generic ANDAs (Camber, Ascend and Lupin) are also listed, all with cancelled status\"",
     "x": 0
    },
@@ -4144,7 +4144,7 @@
     "i": "female breast carcinoma",
     "lt": 18,
     "lv": 11,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"(7 of 7 licenses valid)\"",
     "x": 0
    },
@@ -4155,8 +4155,8 @@
     "i": "neuroblastoma",
     "lt": 21,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4166,7 +4166,7 @@
     "i": "hypertrichosis (disease)",
     "lt": 11,
     "lv": 10,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"(8 of 8 licenses valid)\"",
     "x": 4
    },
@@ -4177,8 +4177,8 @@
     "i": "peptic ulcer perforation",
     "lt": 57,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4188,7 +4188,7 @@
     "i": "stroke disorder",
     "lt": 15,
     "lv": 10,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 9 valid US authorizations\"",
     "x": 9
    },
@@ -4199,7 +4199,7 @@
     "i": "classic stiff person syndrome",
     "lt": 22,
     "lv": 10,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 6 valid licenses\"",
     "x": 0
    },
@@ -4210,7 +4210,7 @@
     "i": "visceral calciphylaxis",
     "lt": 16,
     "lv": 10,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Other cancelled authorizations include NDA216472 (IYUZEH, Thea Pharma) and NDA206185 (XELPROS, Sun…",
     "x": 0
    },
@@ -4221,7 +4221,7 @@
     "i": "brachydactyly-syndactyly syndrome",
     "lt": 13,
     "lv": 10,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 9 valid licenses\"",
     "x": 0
    },
@@ -4232,8 +4232,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 13,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -4243,7 +4243,7 @@
     "i": "hemoglobinopathy",
     "lt": 13,
     "lv": 10,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US product is also cancelled\"",
     "x": 0
    },
@@ -4254,7 +4254,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 18,
     "lv": 10,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"given that the drug is marketed with 6 valid licenses\"",
     "x": 0
    },
@@ -4265,7 +4265,7 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 11,
     "lv": 10,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The compiled records list 9 authorizations for single-ingredient pitavastatin tablets, all…",
     "x": 0
    },
@@ -4276,7 +4276,7 @@
     "i": "duodenal ulcer (disease)",
     "lt": 10,
     "lv": 10,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 7 valid licenses\"",
     "x": 0
    },
@@ -4287,7 +4287,7 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 11,
     "lv": 10,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and the cancelled US market status further limits practical development\"",
     "x": 0
    },
@@ -4298,7 +4298,7 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 14,
     "lv": 10,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"given that 9 US licenses are currently valid\"",
     "x": 0
    },
@@ -4320,7 +4320,7 @@
     "i": "esotropia",
     "lt": 9,
     "lv": 9,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with all 6 licenses valid\"",
     "x": 0
    },
@@ -4331,7 +4331,7 @@
     "i": "primary cutaneous B-cell lymphoma",
     "lt": 11,
     "lv": 9,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"given the cancelled status of all authorizations\"",
     "x": 0
    },
@@ -4342,7 +4342,7 @@
     "i": "pulmonary hypertension with unclear multifactorial mechanism",
     "lt": 10,
     "lv": 9,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"since all six listed authorizations are shown as valid\"",
     "x": 0
    },
@@ -4353,7 +4353,7 @@
     "i": "antithrombin deficiency type 2",
     "lt": 12,
     "lv": 9,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All 7 listings are cancelled\"",
     "x": 0
    },
@@ -4364,7 +4364,7 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 39,
     "lv": 9,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"and the cancelled market status\"",
     "x": 0
    },
@@ -4375,8 +4375,8 @@
     "i": "uterine inflammatory disease",
     "lt": 10,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4386,7 +4386,7 @@
     "i": "serpinopathy with toxic serpin polymerization",
     "lt": 11,
     "lv": 9,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All 8 licences on record are valid\"",
     "x": 0
    },
@@ -4397,8 +4397,8 @@
     "i": "nipple carcinoma",
     "lt": 23,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4408,7 +4408,7 @@
     "i": "dermatofibrosarcoma protuberans",
     "lt": 10,
     "lv": 9,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"for the 8 valid US authorizations\"",
     "x": 0
    },
@@ -4419,7 +4419,7 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 21,
     "lv": 9,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All five US authorisations are generic applications (ANDAs) and all are cancelled\"",
     "x": 0
    },
@@ -4430,7 +4430,7 @@
     "i": "epiglottitis",
     "lt": 31,
     "lv": 9,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"Three more authorizations (ANDA207147, ANDA206199 and NDA050640, the Baxter injectable solution)…",
     "x": 0
    },
@@ -4441,7 +4441,7 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 9,
     "lv": 9,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"all seven US licenses are valid and\"",
     "x": 0
    },
@@ -4452,7 +4452,7 @@
     "i": "papillary conjunctivitis",
     "lt": 16,
     "lv": 9,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Its only US authorization on record is a dental injectable\"",
     "x": 0
    },
@@ -4463,7 +4463,7 @@
     "i": "polycystic kidney disease 3 with or without polycystic liver disease",
     "lt": 12,
     "lv": 9,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"all U.S. authorizations for tetrabenazine are cancelled, and\"",
     "x": 0
    },
@@ -4474,7 +4474,7 @@
     "i": "malignant cutaneous granular cell skin tumor",
     "lt": 9,
     "lv": 9,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since all listings show as cancelled\"",
     "x": 0
    },
@@ -4485,7 +4485,7 @@
     "i": "visceral calciphylaxis",
     "lt": 13,
     "lv": 9,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All nine US licenses are valid, and t\"",
     "x": 0
    },
@@ -4496,7 +4496,7 @@
     "i": "pulmonary arteriovenous malformation (disease)",
     "lt": 11,
     "lv": 9,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"Four generic injection ANDAs (Dr. Reddy's, Alembic, Sandoz, Teva) are also listed as cancelled\"",
     "x": 0
    },
@@ -4507,7 +4507,7 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 23,
     "lv": 9,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"since the compiled data lists 7 valid authorizations\"",
     "x": 0
    },
@@ -4518,7 +4518,7 @@
     "i": "Tourette syndrome",
     "lt": 21,
     "lv": 9,
-    "r": 4,
+    "r": 5,
     "rs": "Removed: \"given that the drug is marketed with seven valid licenses\"",
     "x": 0
    },
@@ -4529,7 +4529,7 @@
     "i": "post-bacterial disorder",
     "lt": 24,
     "lv": 8,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"and is also cancelled\"",
     "x": 0
    },
@@ -4540,8 +4540,8 @@
     "i": "pulmonary arteriovenous malformation (disease)",
     "lt": 10,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4551,8 +4551,8 @@
     "i": "paratyphoid fever",
     "lt": 26,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4562,8 +4562,8 @@
     "i": "epiglottis neoplasm",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4573,8 +4573,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 33,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4595,7 +4595,7 @@
     "i": "attention deficit hyperactivity disorder, inattentive type",
     "lt": 18,
     "lv": 8,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"A review of how the cancelled market status affects practical feasibility\"",
     "x": 0
    },
@@ -4606,7 +4606,7 @@
     "i": "familial adrenal hypoplasia with absent pituitary luteinizing hormone",
     "lt": 9,
     "lv": 8,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with all 8 of 8 licenses valid\"",
     "x": 0
    },
@@ -4617,7 +4617,7 @@
     "i": "rheumatoid arthritis",
     "lt": 15,
     "lv": 8,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 7 valid licenses\"",
     "x": 0
    },
@@ -4628,7 +4628,7 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 10,
     "lv": 8,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"Two further cancelled authorizations are not listed here: ANDA211928 (Strides Pharma, capsule) and…",
     "x": 0
    },
@@ -4639,7 +4639,7 @@
     "i": "well-differentiated fetal adenocarcinoma of the lung",
     "lt": 21,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Two further cancelled authorisations are not shown: NDA220200 (Avopef, Avyxa Pharma) and ANDA074983…",
     "x": 0
    },
@@ -4650,7 +4650,7 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 9,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Eight authorizations are on record in total, and all are cancelled\"",
     "x": 0
    },
@@ -4661,7 +4661,7 @@
     "i": "pulmonary hypertension with unclear multifactorial mechanism",
     "lt": 15,
     "lv": 8,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Six US licenses are valid\"",
     "x": 0
    },
@@ -4672,7 +4672,7 @@
     "i": "stroke disorder",
     "lt": 11,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The list may be partial\"",
     "x": 0
    },
@@ -4683,7 +4683,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 22,
     "lv": 8,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since the drug is marketed and 4 US licenses are valid\"",
     "x": 0
    },
@@ -4694,7 +4694,7 @@
     "i": "conjunctivitis",
     "lt": 16,
     "lv": 8,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All six US authorizations are valid, and the drug is marketed\"",
     "x": 0
    },
@@ -4705,7 +4705,7 @@
     "i": "autoimmune oophoritis",
     "lt": 8,
     "lv": 8,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with six valid licenses\"",
     "x": 0
    },
@@ -4716,7 +4716,7 @@
     "i": "autoimmune oophoritis",
     "lt": 8,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The compiled data lists 8 authorizations in total, all with cancelled status\"",
     "x": 0
    },
@@ -4727,7 +4727,7 @@
     "i": "renal hypodysplasia/aplasia",
     "lt": 12,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 5 valid licenses\"",
     "x": 0
    },
@@ -4738,7 +4738,7 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 22,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 7 of 7 licenses valid\"",
     "x": 0
    },
@@ -4749,7 +4749,7 @@
     "i": "bronchitis",
     "lt": 8,
     "lv": 8,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and the US licenses are all cancelled with injectable-only forms\"",
     "x": 0
    },
@@ -4760,7 +4760,7 @@
     "i": "amenorrhea (disease)",
     "lt": 13,
     "lv": 8,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"given that the drug is marketed with five valid licenses\"",
     "x": 0
    },
@@ -4771,7 +4771,7 @@
     "i": "失眠",
     "lt": 11,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The list may be partial; 7 valid single-ingredient licences are recorded, all for oral tablets\"",
     "x": 0
    },
@@ -4782,7 +4782,7 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 15,
     "lv": 8,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"with 4 valid licenses\"",
     "x": 0
    },
@@ -4793,8 +4793,8 @@
     "i": "beta-ketothiolase deficiency",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data was not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4804,7 +4804,7 @@
     "i": "CMM7",
     "lt": 10,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The five shown are the original brand NDA and four generic ANDAs\"",
     "x": 0
    },
@@ -4815,7 +4815,7 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 12,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Three more cancelled ANDAs (083551, 218366, 084903) are not shown. All 8 authorizations in the data…",
     "x": 0
    },
@@ -4826,7 +4826,7 @@
     "i": "pulmonary hypertension owing to lung disease and/or hypoxia",
     "lt": 20,
     "lv": 8,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"(marketed, 6 valid licences)\"",
     "x": 0
    },
@@ -4837,7 +4837,7 @@
     "i": "cauda equina syndrome",
     "lt": 8,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All nine US licenses are valid, and t\"",
     "x": 0
    },
@@ -4848,7 +4848,7 @@
     "i": "brachydactyly-syndactyly syndrome",
     "lt": 16,
     "lv": 8,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"across the six valid licenses\"",
     "x": 0
    },
@@ -4859,7 +4859,7 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 9,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"The compiled data list 14 US authorizations, all with cancelled status and no indication text\"",
     "x": 0
    },
@@ -4870,8 +4870,8 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 11,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for atazanavir are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -4881,7 +4881,7 @@
     "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
     "lt": 9,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All four authorizations are single-ingredient oral tablets, and all are cancelled\"",
     "x": 0
    },
@@ -4892,8 +4892,8 @@
     "i": "acromesomelic dysplasia, Campailla Martinelli type",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for cholecalciferol are not available in the data compiled for this…",
     "x": 0
    },
    {
@@ -4903,7 +4903,7 @@
     "i": "cauda equina syndrome",
     "lt": 14,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All five authorizations are valid, and no approved indication text is recorded for them\"",
     "x": 0
    },
@@ -4914,8 +4914,8 @@
     "i": "moderate multiminicore disease with hand involvement",
     "lt": 8,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data was not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -4925,7 +4925,7 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 7,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Both authorizations are held by ViiV Healthcare Company and are currently valid; the drug is…",
     "x": 0
    },
@@ -4947,7 +4947,7 @@
     "i": "staphylococcal scalded skin syndrome",
     "lt": 7,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and all 5 of its 5 licenses are valid\"",
     "x": 0
    },
@@ -4958,7 +4958,7 @@
     "i": "Prinzmetal angina",
     "lt": 8,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 6 of 6 licenses valid\"",
     "x": 0
    },
@@ -4969,7 +4969,7 @@
     "i": "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome",
     "lt": 8,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 6 of 6 licenses valid\"",
     "x": 0
    },
@@ -4980,7 +4980,7 @@
     "i": "hypertrichosis (disease)",
     "lt": 8,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Two further cancelled ANDAs (ANDA216075, Lupin; ANDA218855, Qilu) are also on record\"",
     "x": 0
    },
@@ -4991,7 +4991,7 @@
     "i": "irritable bowel syndrome",
     "lt": 12,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Of the 5 licence records, 4 are valid and 1 is cancelled\"",
     "x": 0
    },
@@ -5002,7 +5002,7 @@
     "i": "female breast carcinoma",
     "lt": 10,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Two further generic capsule authorizations (ANDA218021, ANDA213438) are also cancelled\"",
     "x": 0
    },
@@ -5013,7 +5013,7 @@
     "i": "pre-malignant neoplasm",
     "lt": 12,
     "lv": 7,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"the cancelled US market status and\"",
     "x": 0
    },
@@ -5024,8 +5024,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 12,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5035,7 +5035,7 @@
     "i": "alopecia",
     "lt": 8,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 4 valid licenses\"",
     "x": 0
    },
@@ -5046,7 +5046,7 @@
     "i": "Tourette syndrome",
     "lt": 49,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 5 of 5 licenses valid\"",
     "x": 0
    },
@@ -5057,7 +5057,7 @@
     "i": "infectious otitis media",
     "lt": 10,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with four valid US licenses\"",
     "x": 0
    },
@@ -5079,7 +5079,7 @@
     "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
     "lt": 24,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Two further cancelled authorizations are not shown: ANDA206136 (Proficient Rx) and ANDA074118…",
     "x": 0
    },
@@ -5090,8 +5090,8 @@
     "i": "pulmonary hypertension",
     "lt": 11,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5101,7 +5101,7 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 68,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 5 of 5 authorizations valid\"",
     "x": 0
    },
@@ -5112,8 +5112,8 @@
     "i": "diabetes mellitus type 2 associated cataract",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5123,8 +5123,8 @@
     "i": "peptic ulcer perforation",
     "lt": 84,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5134,7 +5134,7 @@
     "i": "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis",
     "lt": 18,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Three further abbreviated applications (ANDA075352, ANDA075321, ANDA074565; capsules and tablets)…",
     "x": 0
    },
@@ -5145,7 +5145,7 @@
     "i": "amenorrhea (disease)",
     "lt": 17,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Four further cancelled authorizations are not shown: NDA204508 (Clinolipid, Baxter) and three…",
     "x": 0
    },
@@ -5156,7 +5156,7 @@
     "i": "duodenal ulcer (disease)",
     "lt": 8,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"The drug is marketed in the US, with all six authorizations valid\"",
     "x": 0
    },
@@ -5167,7 +5167,7 @@
     "i": "renal tubular acidosis",
     "lt": 9,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All 7 licenses are valid\"",
     "x": 0
    },
@@ -5178,7 +5178,7 @@
     "i": "cauda equina syndrome",
     "lt": 17,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"(5 of 5 licenses valid)\"",
     "x": 0
    },
@@ -5200,7 +5200,7 @@
     "i": "coenurosis",
     "lt": 10,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Of 7 US licence records, 5 are valid and 2 are cancelled. All are single-ingredient oral products…",
     "x": 0
    },
@@ -5211,8 +5211,8 @@
     "i": "aortic malformation",
     "lt": 8,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data are not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -5222,8 +5222,8 @@
     "i": "migraine disorder",
     "lt": 17,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5233,8 +5233,8 @@
     "i": "preeclampsia",
     "lt": 23,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for atracurium is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -5255,8 +5255,8 @@
     "i": "progeria-short stature-pigmented nevi syndrome",
     "lt": 11,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5266,8 +5266,8 @@
     "i": "nasal cavity disease",
     "lt": 13,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5277,7 +5277,7 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 33,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The list may be partial. Of these licences, four are valid and one (NDA050780) is cancelled\"",
     "x": 0
    },
@@ -5288,7 +5288,7 @@
     "i": "nasal cavity disease",
     "lt": 70,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Three US licence records are in the local data, and the list may be partial. They are…",
     "x": 0
    },
@@ -5299,7 +5299,7 @@
     "i": "parameningeal embryonal rhabdomyosarcoma",
     "lt": 8,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All five authorizations are listed as valid in the data compiled for this report\"",
     "x": 0
    },
@@ -5310,7 +5310,7 @@
     "i": "postinfectious vasculitis",
     "lt": 6,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"he US license records are all cancelled, and t\"",
     "x": 0
    },
@@ -5332,7 +5332,7 @@
     "i": "obsolete vitamin D deficiency",
     "lt": 18,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All five authorizations are valid\"",
     "x": 1
    },
@@ -5343,7 +5343,7 @@
     "i": "classic stiff person syndrome",
     "lt": 8,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The drug is marketed in the US, and all 3 US authorizations listed are valid\"",
     "x": 0
    },
@@ -5354,7 +5354,7 @@
     "i": "bacterial arthritis",
     "lt": 7,
     "lv": 6,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"although all 6 listed licenses are valid\"",
     "x": 0
    },
@@ -5365,7 +5365,7 @@
     "i": "symptomatic form of fragile X syndrome in female carrier",
     "lt": 13,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All four US licenses are valid, and the safety label data are missing\"",
     "x": 0
    },
@@ -5376,7 +5376,7 @@
     "i": "amenorrhea (disease)",
     "lt": 7,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The drug is marketed in the US, with all four licenses valid, and label safety data are missing\"",
     "x": 0
    },
@@ -5387,7 +5387,7 @@
     "i": "primary release disorder of platelets",
     "lt": 6,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Clarification of the cancelled status of all six US licenses and their approved indication text\"",
     "x": 0
    },
@@ -5398,7 +5398,7 @@
     "i": "bone Paget disease",
     "lt": 8,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"One further license (ANDA218005, Laurus Labs, capsule) is also cancelled. All six licenses are for…",
     "x": 0
    },
@@ -5409,7 +5409,7 @@
     "i": "autoimmune oophoritis",
     "lt": 8,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since the compiled licenses are all cancelled\"",
     "x": 0
    },
@@ -5420,7 +5420,7 @@
     "i": "autoimmune oophoritis",
     "lt": 6,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"One additional cancelled license (BLA761109, LYUMJEV, injection solution, A-S Medication Solutions)…",
     "x": 0
    },
@@ -5431,7 +5431,7 @@
     "i": "hypertrichosis (disease)",
     "lt": 8,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 7 valid licenses\"",
     "x": 0
    },
@@ -5442,7 +5442,7 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 9,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 6 valid licenses of 6\"",
     "x": 0
    },
@@ -5453,7 +5453,7 @@
     "i": "multiple endocrine neoplasia",
     "lt": 6,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All four licenses are currently valid\"",
     "x": 0
    },
@@ -5464,7 +5464,7 @@
     "i": "gastroduodenitis",
     "lt": 21,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given that all six licenses are valid and the drug is marketed\"",
     "x": 0
    },
@@ -5475,8 +5475,8 @@
     "i": "congestive heart failure",
     "lt": 9,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5486,7 +5486,7 @@
     "i": "ectothrix infectious disease",
     "lt": 9,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"why the US licences were cancelled (commercial versus safety or regulatory reasons) and\"",
     "x": 0
    },
@@ -5497,8 +5497,8 @@
     "i": "homozygous familial hypercholesterolemia",
     "lt": 9,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5519,7 +5519,7 @@
     "i": "bilateral parasagittal parieto-occipital polymicrogyria",
     "lt": 12,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All US authorizations are valid\"",
     "x": 0
    },
@@ -5530,8 +5530,8 @@
     "i": "Prinzmetal angina",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -5541,8 +5541,8 @@
     "i": "liposarcoma",
     "lt": 7,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not included in the compiled data, so t\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -5552,7 +5552,7 @@
     "i": "postinfectious vasculitis",
     "lt": 55,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"the cancelled license status and\"",
     "x": 0
    },
@@ -5563,7 +5563,7 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 14,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 6 of 6 licenses valid\"",
     "x": 0
    },
@@ -5574,7 +5574,7 @@
     "i": "mammary Paget disease",
     "lt": 14,
     "lv": 6,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"and the US licenses are cancelled\"",
     "x": 0
    },
@@ -5585,7 +5585,7 @@
     "i": "respiratory malformation",
     "lt": 15,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Five of the six licences are currently valid, and one is cancelled\"",
     "x": 0
    },
@@ -5596,7 +5596,7 @@
     "i": "trichomonal vulvovaginitis",
     "lt": 10,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All six authorizations in the local data are currently valid. This table lists the first five; the…",
     "x": 0
    },
@@ -5607,7 +5607,7 @@
     "i": "postmenopausal atrophic vaginitis",
     "lt": 7,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and all four US licenses are valid\"",
     "x": 0
    },
@@ -5618,7 +5618,7 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 16,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"In addition, the drug is marketed in the US, with all six licenses valid\"",
     "x": 0
    },
@@ -5629,8 +5629,8 @@
     "i": "neurotic disorder",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 1
    },
    {
@@ -5640,7 +5640,7 @@
     "i": "heparin cofactor 2 deficiency",
     "lt": 21,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since four authorizations are listed as valid\"",
     "x": 0
    },
@@ -5651,7 +5651,7 @@
     "i": "classic stiff person syndrome",
     "lt": 9,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The drug is marketed in the US, and all 3 licenses are valid\"",
     "x": 0
    },
@@ -5662,7 +5662,7 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 10,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"The drug is marketed in the US, with all 6 licenses valid\"",
     "x": 0
    },
@@ -5673,8 +5673,8 @@
     "i": "migraine disorder",
     "lt": 7,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the compiled data, so t\" replaced with a sourced…",
     "x": 5
    },
    {
@@ -5684,7 +5684,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 11,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All three records are single-ingredient oral tablets\"",
     "x": 0
    },
@@ -5695,8 +5695,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5706,7 +5706,7 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 8,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All three US authorizations are valid, and only injectable forms are listed\"",
     "x": 0
    },
@@ -5728,7 +5728,7 @@
     "i": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis",
     "lt": 15,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The local data hold 6 licence records in total, and the list above shows 5 of them\"",
     "x": 0
    },
@@ -5739,8 +5739,8 @@
     "i": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5750,7 +5750,7 @@
     "i": "gastroduodenitis",
     "lt": 6,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Clarification of the cancelled US market status and any re-licensing plan\"",
     "x": 0
    },
@@ -5761,7 +5761,7 @@
     "i": "alopecia",
     "lt": 16,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"all five US licenses are valid, and\"",
     "x": 0
    },
@@ -5772,7 +5772,7 @@
     "i": "heparin cofactor 2 deficiency",
     "lt": 9,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with all 4 of 4 authorizations valid\"",
     "x": 0
    },
@@ -5783,8 +5783,8 @@
     "i": "primary pulmonary lymphoma",
     "lt": 15,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5794,8 +5794,8 @@
     "i": "acromesomelic dysplasia, Campailla Martinelli type",
     "lt": 23,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -5805,7 +5805,7 @@
     "i": "postinfectious vasculitis",
     "lt": 10,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"The drug is marketed in the US, and all 4 of its 4 authorizations are valid\"",
     "x": 0
    },
@@ -5816,7 +5816,7 @@
     "i": "HIV infectious disease",
     "lt": 7,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All five records are single-ingredient products\"",
     "x": 0
    },
@@ -5827,7 +5827,7 @@
     "i": "annular atrophic lichen planus",
     "lt": 9,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"The drug is marketed in the US, with all four licenses valid\"",
     "x": 10
    },
@@ -5838,7 +5838,7 @@
     "i": "Prinzmetal angina",
     "lt": 7,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"noting that all five US licenses are valid\"",
     "x": 0
    },
@@ -5849,7 +5849,7 @@
     "i": "conjunctivitis",
     "lt": 48,
     "lv": 5,
-    "r": 4,
+    "r": 5,
     "rs": "Removed: \"(7 of 7 licenses are valid)\"",
     "x": 0
    },
@@ -5860,7 +5860,7 @@
     "i": "autosomal ichthyosis syndrome with fatal disease course",
     "lt": 6,
     "lv": 5,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"All five licenses are listed as valid\"",
     "x": 0
    },
@@ -5882,7 +5882,7 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 16,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and all five authorizations are valid\"",
     "x": 0
    },
@@ -5893,7 +5893,7 @@
     "i": "nasal cavity disease",
     "lt": 6,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US product record is cancelled, and l\"",
     "x": 0
    },
@@ -5904,7 +5904,7 @@
     "i": "primary hereditary glaucoma",
     "lt": 7,
     "lv": 5,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"(3 of 3 licenses valid)\"",
     "x": 0
    },
@@ -5915,7 +5915,7 @@
     "i": "insomnia (disease)",
     "lt": 5,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Clarification of why the US Wakix licence (NDA211150) is recorded as cancelled\"",
     "x": 0
    },
@@ -5926,7 +5926,7 @@
     "i": "Tourette syndrome",
     "lt": 78,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"(5 valid licenses of 5)\"",
     "x": 0
    },
@@ -5937,7 +5937,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 21,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"why US authorizations were cancelled, and\"",
     "x": 0
    },
@@ -5948,7 +5948,7 @@
     "i": "HIV infectious disease",
     "lt": 6,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Both licences are valid, and t\"",
     "x": 0
    },
@@ -5959,7 +5959,7 @@
     "i": "migraine disorder",
     "lt": 7,
     "lv": 5,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"(3 of 3 licenses valid)\"",
     "x": 0
    },
@@ -5970,7 +5970,7 @@
     "i": "bilateral parasagittal parieto-occipital polymicrogyria",
     "lt": 5,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"of the cancelled US authorizations\"",
     "x": 0
    },
@@ -5981,8 +5981,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 16,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -5992,7 +5992,7 @@
     "i": "acrodermatitis chronica atrophicans",
     "lt": 6,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All five US licenses are valid\"",
     "x": 0
    },
@@ -6014,7 +6014,7 @@
     "i": "bronchitis",
     "lt": 5,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"ll four licences are currently valid, and a\"",
     "x": 0
    },
@@ -6025,8 +6025,8 @@
     "i": "hypervitaminosis",
     "lt": 10,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for benzphetamine are not available in the data compiled for this report\"…",
     "x": 4
    },
    {
@@ -6036,8 +6036,8 @@
     "i": "cauda equina neoplasm",
     "lt": 9,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6047,7 +6047,7 @@
     "i": "CMM7",
     "lt": 7,
     "lv": 4,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"the cancelled US market status and\"",
     "x": 0
    },
@@ -6058,8 +6058,8 @@
     "i": "gastrin secretion abnormality",
     "lt": 9,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -6069,8 +6069,8 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 17,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for ceftazidime is not available in the compiled data\" replaced with a…",
     "x": 0
    },
    {
@@ -6091,7 +6091,7 @@
     "i": "relapsing-remitting multiple sclerosis",
     "lt": 7,
     "lv": 4,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All four US ANDAs are valid and the drug is marketed\"",
     "x": 0
    },
@@ -6102,7 +6102,7 @@
     "i": "sclerosing cholangitis",
     "lt": 6,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"(marketed; all 3 of 3 authorizations valid)\"",
     "x": 0
    },
@@ -6113,7 +6113,7 @@
     "i": "Tourette syndrome",
     "lt": 20,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All five US authorizations are valid, and the records contain no approved-indication text\"",
     "x": 0
    },
@@ -6124,7 +6124,7 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 4,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Confirmation of why the US licenses were cancelled (commercial or safety reasons)\"",
     "x": 0
    },
@@ -6135,8 +6135,8 @@
     "i": "post-infectious neuralgia",
     "lt": 9,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6146,7 +6146,7 @@
     "i": "bronchitis",
     "lt": 4,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only US license is cancelled, and the possible infection-related concerns with intravenous iron…",
     "x": 0
    },
@@ -6157,7 +6157,7 @@
     "i": "primary cutaneous T-cell lymphoma",
     "lt": 8,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US market status is \"Cancelled only\", and k\"",
     "x": 0
    },
@@ -6168,7 +6168,7 @@
     "i": "atopic eczema",
     "lt": 4,
     "lv": 4,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"given that the drug is marketed with 5 valid US authorizations of 5\"",
     "x": 0
    },
@@ -6179,7 +6179,7 @@
     "i": "sclerosing cholangitis",
     "lt": 6,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 4 of 4 licenses valid\"",
     "x": 0
    },
@@ -6190,7 +6190,7 @@
     "i": "fibromatosis, gingival",
     "lt": 7,
     "lv": 4,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since 4 of 4 licenses are currently valid\"",
     "x": 0
    },
@@ -6201,7 +6201,7 @@
     "i": "female breast carcinoma",
     "lt": 7,
     "lv": 4,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"the cancelled US status and\"",
     "x": 0
    },
@@ -6212,8 +6212,8 @@
     "i": "migraine disorder",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -6223,7 +6223,7 @@
     "i": "upper aerodigestive tract neoplasm",
     "lt": 9,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All three US licenses are generic injectables and all are cancelled\"",
     "x": 0
    },
@@ -6234,8 +6234,8 @@
     "i": "malformation syndrome with odontal and/or periodontal component",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -6245,8 +6245,8 @@
     "i": "duodenal obstruction",
     "lt": 13,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6256,7 +6256,7 @@
     "i": "fascioliasis",
     "lt": 5,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All five licenses are valid, and all are topical creams\"",
     "x": 0
    },
@@ -6267,8 +6267,8 @@
     "i": "obesity disorder",
     "lt": 28,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -6278,7 +6278,7 @@
     "i": "homozygous familial hypercholesterolemia",
     "lt": 5,
     "lv": 4,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"beyond the three valid US licenses\"",
     "x": 10
    },
@@ -6289,7 +6289,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 13,
     "lv": 4,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 3 of 3 licenses valid\"",
     "x": 0
    },
@@ -6300,7 +6300,7 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 4,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"he US licenses are all cancelled, and t\"",
     "x": 0
    },
@@ -6311,7 +6311,7 @@
     "i": "bronchitis",
     "lt": 8,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All three licences are currently valid, and the drug is marketed in the United States\"",
     "x": 7
    },
@@ -6322,7 +6322,7 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 4,
     "lv": 4,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with five valid licenses\"",
     "x": 0
    },
@@ -6333,7 +6333,7 @@
     "i": "pulmonary hypertension",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and the reasons for the NDA cancellations\"",
     "x": 0
    },
@@ -6344,8 +6344,8 @@
     "i": "vulvar inverted follicular keratosis",
     "lt": 8,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6355,7 +6355,7 @@
     "i": "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis",
     "lt": 4,
     "lv": 3,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"given that all 3 licences are listed as valid\"",
     "x": 0
    },
@@ -6366,8 +6366,8 @@
     "i": "uterine ligament adenocarcinoma",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6388,7 +6388,7 @@
     "i": "rheumatoid arthritis",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"In addition, the only US license is cancelled, and package insert safety data are missing\"",
     "x": 0
    },
@@ -6399,7 +6399,7 @@
     "i": "cauda equina syndrome",
     "lt": 6,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All three US authorizations are valid, and the drug is marketed\"",
     "x": 0
    },
@@ -6421,7 +6421,7 @@
     "i": "upper aerodigestive tract neoplasm",
     "lt": 10,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 3 of 3 licenses valid\"",
     "x": 0
    },
@@ -6432,8 +6432,8 @@
     "i": "amenorrhea (disease)",
     "lt": 5,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6443,7 +6443,7 @@
     "i": "chronic ethmoidal sinusitis",
     "lt": 8,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Both authorizations are cancelled, which limits practical feasibility for any repurposing effort\"",
     "x": 0
    },
@@ -6454,8 +6454,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 7,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6465,8 +6465,8 @@
     "i": "hypervitaminosis",
     "lt": 16,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 4
    },
    {
@@ -6476,7 +6476,7 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 10,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and a plan for the cancelled market status\"",
     "x": 0
    },
@@ -6487,7 +6487,7 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"In addition, the only US authorization is cancelled\"",
     "x": 0
    },
@@ -6498,7 +6498,7 @@
     "i": "cyclic hematopoiesis",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"the cancelled status of all three US licenses and\"",
     "x": 0
    },
@@ -6509,7 +6509,7 @@
     "i": "amenorrhea (disease)",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"In addition, the only US license is cancelled, and label safety data are missing\"",
     "x": 0
    },
@@ -6520,7 +6520,7 @@
     "i": "primary hereditary glaucoma",
     "lt": 7,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since both authorizations are cancelled\"",
     "x": 0
    },
@@ -6531,7 +6531,7 @@
     "i": "prostate leiomyoma",
     "lt": 6,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since both NDAs are listed as cancelled\"",
     "x": 0
    },
@@ -6553,7 +6553,7 @@
     "i": "hypermobility of coccyx",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US license for ENBREL is also listed as cancelled\"",
     "x": 0
    },
@@ -6575,8 +6575,8 @@
     "i": "non-syndromic esophageal malformation",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available for ferumoxytol in the data compiled for this…",
     "x": 5
    },
    {
@@ -6586,8 +6586,8 @@
     "i": "atopic eczema",
     "lt": 8,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available for this drug\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -6597,7 +6597,7 @@
     "i": "vulvar inverted follicular keratosis",
     "lt": 10,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"All three US authorizations are valid and the drug is marketed, but label safety data are missing\"",
     "x": 10
    },
@@ -6619,7 +6619,7 @@
     "i": "hypermobility of coccyx",
     "lt": 3,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given the cancelled licenses\"",
     "x": 0
    },
@@ -6630,8 +6630,8 @@
     "i": "osteoarthritis",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data are not available\" replaced with a sourced mechanism-of-action statement",
     "x": 0
    },
    {
@@ -6641,8 +6641,8 @@
     "i": "insomnia (disease)",
     "lt": 4,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -6652,7 +6652,7 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 15,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"(2 of 2 licenses valid)\"",
     "x": 0
    },
@@ -6663,7 +6663,7 @@
     "i": "vulvovaginal candidiasis",
     "lt": 3,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"plus clarification of the cancelled US authorization status\"",
     "x": 0
    },
@@ -6674,7 +6674,7 @@
     "i": "localized pagetoid reticulosis",
     "lt": 6,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"since both US authorizations are cancelled\"",
     "x": 0
    },
@@ -6685,7 +6685,7 @@
     "i": "atrophoderma vermiculata",
     "lt": 10,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All three US authorizations are generic applications that are now cancelled, and no approved…",
     "x": 0
    },
@@ -6696,7 +6696,7 @@
     "i": "ectomesenchymoma",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"In addition, the US license is listed as cancelled\"",
     "x": 0
    },
@@ -6707,7 +6707,7 @@
     "i": "myiasis",
     "lt": 5,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and all three US licenses are valid\"",
     "x": 0
    },
@@ -6718,8 +6718,8 @@
     "i": "infectious otitis media",
     "lt": 4,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -6729,7 +6729,7 @@
     "i": "oral candidiasis",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Clarification of the current US marketing status, since the only NDA on record is cancelled\"",
     "x": 0
    },
@@ -6740,8 +6740,8 @@
     "i": "uterine corpus perivascular epithelioid cell tumor",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6762,7 +6762,7 @@
     "i": "thrombotic disease",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and both of its US licenses are cancelled\"",
     "x": 0
    },
@@ -6773,8 +6773,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 26,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 10
    },
    {
@@ -6784,7 +6784,7 @@
     "i": "female breast carcinoma",
     "lt": 3,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"of why the US NDA was cancelled, and\"",
     "x": 0
    },
@@ -6806,7 +6806,7 @@
     "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
     "lt": 3,
     "lv": 3,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"Clarification of the cancelled US authorization status\"",
     "x": 0
    },
@@ -6817,7 +6817,7 @@
     "i": "Hodgkins lymphoma",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and verification of the \"cancelled\" licence status\"",
     "x": 0
    },
@@ -6828,8 +6828,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 4,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6839,8 +6839,8 @@
     "i": "chronic hepatitis C virus infection",
     "lt": 3,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6850,7 +6850,7 @@
     "i": "adult polyglucosan body disease",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"(both licenses cancelled)\"",
     "x": 0
    },
@@ -6861,7 +6861,7 @@
     "i": "glaucoma",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only US authorization on record is also cancelled\"",
     "x": 0
    },
@@ -6872,8 +6872,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for aripiprazole lauroxil is not available in the data compiled for this…",
     "x": 9
    },
    {
@@ -6883,8 +6883,8 @@
     "i": "marcothrombocytopenia with mitral valve insufficiency",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6894,8 +6894,8 @@
     "i": "human herpesvirus 8-related tumor",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for avelumab is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -6905,8 +6905,8 @@
     "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
     "lt": 3,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6916,7 +6916,7 @@
     "i": "primary release disorder of platelets",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Clarification of why both US BLAs are recorded as cancelled, since this affects feasibility of…",
     "x": 0
    },
@@ -6927,7 +6927,7 @@
     "i": "hyperthyroidism",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The licence records compiled for this report show both licences with a cancelled status, while the…",
     "x": 0
    },
@@ -6938,8 +6938,8 @@
     "i": "sclerosing cholangitis",
     "lt": 3,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6949,7 +6949,7 @@
     "i": "cauda equina syndrome",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and both US licenses are cancelled\"",
     "x": 0
    },
@@ -6960,7 +6960,7 @@
     "i": "primary release disorder of platelets",
     "lt": 2,
     "lv": 2,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"The manufacturer is Smith & Nephew, Inc\"",
     "x": 9
    },
@@ -6971,8 +6971,8 @@
     "i": "fibromatosis, gingival",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -6982,7 +6982,7 @@
     "i": "plasmacytoma",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and the product's US market status is \"Cancelled only\"\"",
     "x": 4
    },
@@ -6993,7 +6993,7 @@
     "i": "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and the product's US authorization is cancelled\"",
     "x": 0
    },
@@ -7004,7 +7004,7 @@
     "i": "diabetic cataract",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and the US license is cancelled\"",
     "x": 0
    },
@@ -7015,7 +7015,7 @@
     "i": "vascular disease",
     "lt": 3,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Clarification of the regulatory and route situation, given that the only US license is cancelled\"",
     "x": 0
    },
@@ -7026,7 +7026,7 @@
     "i": "migraine disorder",
     "lt": 7,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"This list may be partial. Of the records listed, 2 are valid and 2 are cancelled\"",
     "x": 0
    },
@@ -7037,8 +7037,8 @@
     "i": "Tourette syndrome",
     "lt": 26,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7048,7 +7048,7 @@
     "i": "proximal 16p11.2 microdeletion syndrome",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"the cancelled NDA status and\"",
     "x": 0
    },
@@ -7059,7 +7059,7 @@
     "i": "attention deficit hyperactivity disorder, inattentive type",
     "lt": 4,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US license is cancelled, and k\"",
     "x": 0
    },
@@ -7070,7 +7070,7 @@
     "i": "hereditary breast ovarian cancer syndrome",
     "lt": 5,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since both ANDAs are cancelled\"",
     "x": 10
    },
@@ -7081,7 +7081,7 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 11,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All 3 licences listed are currently valid\"",
     "x": 0
    },
@@ -7092,7 +7092,7 @@
     "i": "autosomal thrombocytopenia with normal platelets",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US market status is also \"Cancelled only\"\"",
     "x": 0
    },
@@ -7114,7 +7114,7 @@
     "i": "esotropia",
     "lt": 3,
     "lv": 2,
-    "r": 4,
+    "r": 5,
     "rs": "Removed: \"and it is part of several subcutaneous biologic formulations\"",
     "x": 0
    },
@@ -7125,7 +7125,7 @@
     "i": "esophageal varices with bleeding",
     "lt": 6,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"given that both US authorizations are cancelled\"",
     "x": 0
    },
@@ -7136,7 +7136,7 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 3,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Confirmation of a currently marketed US iloprost product, since the only NDA listed is cancelled\"",
     "x": 0
    },
@@ -7147,7 +7147,7 @@
     "i": "autoimmune oophoritis",
     "lt": 3,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"The market status of the single US licence is listed as \"Cancelled only\"\"",
     "x": 0
    },
@@ -7158,7 +7158,7 @@
     "i": "autoimmune oophoritis",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"of the reason for cancellation and\"",
     "x": 0
    },
@@ -7169,8 +7169,8 @@
     "i": "osteoarthritis",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -7180,8 +7180,8 @@
     "i": "osteoarthritis",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -7191,7 +7191,7 @@
     "i": "pneumocystosis",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"of the cancelled NDAs\"",
     "x": 0
    },
@@ -7202,7 +7202,7 @@
     "i": "hypertrichosis (disease)",
     "lt": 4,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"with 3 of 3 licenses valid\"",
     "x": 0
    },
@@ -7213,7 +7213,7 @@
     "i": "multiple endocrine neoplasia",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Both US licences are cancelled, and p\"",
     "x": 0
    },
@@ -7224,7 +7224,7 @@
     "i": "visceral calciphylaxis",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"since both US licenses are cancelled\"",
     "x": 0
    },
@@ -7235,7 +7235,7 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 5,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The target population (infants) adds a major safety barrier, and the only US license on record is…",
     "x": 0
    },
@@ -7246,7 +7246,7 @@
     "i": "cauda equina syndrome",
     "lt": 4,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since the listed NDA is cancelled\"",
     "x": 0
    },
@@ -7268,7 +7268,7 @@
     "i": "thrombocytopenia due to immune destruction",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"as both listed BLAs are cancelled\"",
     "x": 0
    },
@@ -7290,8 +7290,8 @@
     "i": "insomnia (disease)",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 7
    },
    {
@@ -7301,7 +7301,7 @@
     "i": "bronchitis",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"of why both US licenses are listed as cancelled, and\"",
     "x": 0
    },
@@ -7312,7 +7312,7 @@
     "i": "pulmonary hypertension owing to lung disease and/or hypoxia",
     "lt": 4,
     "lv": 2,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"the drug's cancelled market status and\"",
     "x": 0
    },
@@ -7323,7 +7323,7 @@
     "i": "HER2 positive breast carcinoma",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since both BLA records show as cancelled\"",
     "x": 0
    },
@@ -7334,7 +7334,7 @@
     "i": "drug-induced osteoporosis",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Clarification of the cancelled NDA status and its commercial availability\"",
     "x": 9
    },
@@ -7345,8 +7345,8 @@
     "i": "bronchitis",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7356,7 +7356,7 @@
     "i": "Bacteroidaceae infectious disease",
     "lt": 2,
     "lv": 2,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"of the reasons for the authorization cancellations and\"",
     "x": 0
    },
@@ -7367,7 +7367,7 @@
     "i": "hypervitaminosis",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Both US authorizations are cancelled\"",
     "x": 0
    },
@@ -7378,7 +7378,7 @@
     "i": "hyperthyroidism",
     "lt": 3,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"of why the US NDAs are cancelled and\"",
     "x": 0
    },
@@ -7389,7 +7389,7 @@
     "i": "fibromatosis, gingival",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Confirmation of current US licensing status, since the only record is marked cancelled\"",
     "x": 0
    },
@@ -7400,7 +7400,7 @@
     "i": "botryoid-type embryonal rhabdomyosarcoma of the vagina",
     "lt": 3,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"of whether the cancelled US status affects drug supply or formulation availability, and\"",
     "x": 0
    },
@@ -7411,7 +7411,7 @@
     "i": "vulvovaginal candidiasis",
     "lt": 5,
     "lv": 2,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"since both US licenses are cancelled\"",
     "x": 0
    },
@@ -7422,7 +7422,7 @@
     "i": "has no evidence.",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"of the cancelled US licenses\"",
     "x": 0
    },
@@ -7444,7 +7444,7 @@
     "i": "acne (disease)",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since both NDAs are recorded as cancelled\"",
     "x": 0
    },
@@ -7455,7 +7455,7 @@
     "i": "pulmonary hypertension",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and the reasons for the NDA cancellations\"",
     "x": 0
    },
@@ -7466,7 +7466,7 @@
     "i": "familial generalized lentiginosis",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"of the cancelled NDAs\"",
     "x": 0
    },
@@ -7477,7 +7477,7 @@
     "i": "malignant catarrh",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Both U licenses are cancelled, and s\"",
     "x": 0
    },
@@ -7488,7 +7488,7 @@
     "i": "pulmonary hypertension",
     "lt": 4,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US license is cancelled, and w\"",
     "x": 0
    },
@@ -7499,8 +7499,8 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -7510,7 +7510,7 @@
     "i": "Smouldering systemic mastocytosis",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"of the cancelled NDAs\"",
     "x": 0
    },
@@ -7532,7 +7532,7 @@
     "i": "hyperamylasemia",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US license is also cancelled\"",
     "x": 0
    },
@@ -7543,7 +7543,7 @@
     "i": "vulvitis",
     "lt": 3,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The local records show one licence, and it is valid\"",
     "x": 0
    },
@@ -7554,7 +7554,7 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 3,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"A review of the regulatory and market situation, given that the only NDA is cancelled\"",
     "x": 0
    },
@@ -7576,7 +7576,7 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 16,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 2 valid licenses of 2\"",
     "x": 0
    },
@@ -7587,7 +7587,7 @@
     "i": "HIV infectious disease",
     "lt": 3,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 3 of 3 licenses valid\"",
     "x": 0
    },
@@ -7598,7 +7598,7 @@
     "i": "atrophoderma vermiculata",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US market status is listed as cancelled and should be verified\"",
     "x": 0
    },
@@ -7609,7 +7609,7 @@
     "i": "colonic neoplasm",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and its US authorizations are cancelled\"",
     "x": 10
    },
@@ -7620,7 +7620,7 @@
     "i": "non-syndromic esophageal malformation",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only US license is cancelled, and warnings and contraindications are not available\"",
     "x": 0
    },
@@ -7631,7 +7631,7 @@
     "i": "Ureaplasma urethritis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Clarification of the regulatory and supply pathway, given that the only US product is cancelled\"",
     "x": 0
    },
@@ -7642,7 +7642,7 @@
     "i": "fibromatosis, gingival",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"of the cancelled US regulatory status and\"",
     "x": 0
    },
@@ -7653,8 +7653,8 @@
     "i": "ichthyosis, X-linked, without steroid sulfatase deficiency",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7664,7 +7664,7 @@
     "i": "amenorrhea (disease)",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US marketing authorisation is also cancelled\"",
     "x": 0
    },
@@ -7675,8 +7675,8 @@
     "i": "heparin cofactor 2 deficiency",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7697,7 +7697,7 @@
     "i": "extracutaneous mastocytoma",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The available record lists one authorization, and it is marked as cancelled in the licence details…",
     "x": 0
    },
@@ -7708,7 +7708,7 @@
     "i": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"the only US authorization is listed as cancelled, and\"",
     "x": 0
    },
@@ -7719,7 +7719,7 @@
     "i": "amenorrhea (disease)",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and the drug's US license is listed as cancelled\"",
     "x": 0
    },
@@ -7730,8 +7730,8 @@
     "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -7741,7 +7741,7 @@
     "i": "axial spondylometaphyseal dysplasia",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given the cancelled NDA\"",
     "x": 0
    },
@@ -7752,7 +7752,7 @@
     "i": "thrombocytopenia due to immune destruction",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"since the data list the BLA as cancelled while pharmacology data describe approved uses\"",
     "x": 0
    },
@@ -7763,7 +7763,7 @@
     "i": "congenital analbuminemia",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given the cancelled US license\"",
     "x": 0
    },
@@ -7774,7 +7774,7 @@
     "i": "bronchitis",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The drug is available only as an ophthalmic suspension with minimal systemic exposure, and its only…",
     "x": 0
    },
@@ -7785,8 +7785,8 @@
     "i": "acute female pelvic peritonitis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7796,7 +7796,7 @@
     "i": "paratyphoid fever",
     "lt": 2,
     "lv": 1,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"given that the drug is marketed with three valid authorizations\"",
     "x": 0
    },
@@ -7807,8 +7807,8 @@
     "i": "acne (disease)",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action text is not available in the data compiled for this report, so t\" replaced with…",
     "x": 10
    },
    {
@@ -7818,8 +7818,8 @@
     "i": "Gingival fibromatosis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7829,7 +7829,7 @@
     "i": "strongyloidiasis",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"he US license is cancelled, and t\"",
     "x": 0
    },
@@ -7840,7 +7840,7 @@
     "i": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"he US license is cancelled, and t\"",
     "x": 0
    },
@@ -7851,7 +7851,7 @@
     "i": "insomnia (disease)",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Confirm the current regulatory and supply status, since the only license is cancelled\"",
     "x": 0
    },
@@ -7862,8 +7862,8 @@
     "i": "renal tubular acidosis",
     "lt": 2,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7873,8 +7873,8 @@
     "i": "hepatic infarction",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7884,7 +7884,7 @@
     "i": "amenorrhea (disease)",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only US license on record is cancelled\"",
     "x": 0
    },
@@ -7895,7 +7895,7 @@
     "i": "rheumatoid arthritis",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The drug's only US license is cancelled\"",
     "x": 0
    },
@@ -7906,8 +7906,8 @@
     "i": "gallbladder adenosquamous carcinoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7928,8 +7928,8 @@
     "i": "hypermobility of coccyx",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7939,7 +7939,7 @@
     "i": "chondroid hamartoma",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and the US license is cancelled\"",
     "x": 0
    },
@@ -7950,7 +7950,7 @@
     "i": "ALK-positive large B-cell lymphoma",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given that the US NDA is cancelled\"",
     "x": 0
    },
@@ -7961,8 +7961,8 @@
     "i": "serpinopathy with toxic serpin polymerization",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for conestat alfa is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -7972,7 +7972,7 @@
     "i": "irritable bowel syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"e and the cancelled US licens\"",
     "x": 0
    },
@@ -7983,7 +7983,7 @@
     "i": "thrombophilia due to protein C deficiency, autosomal recessive",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US license is also cancelled\"",
     "x": 0
    },
@@ -7994,7 +7994,7 @@
     "i": "homozygous familial hypercholesterolemia",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Clarification of the cancelled NDA status\"",
     "x": 0
    },
@@ -8005,7 +8005,7 @@
     "i": "pseudo-von Willebrand disease",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"why the US license was cancelled and\"",
     "x": 0
    },
@@ -8016,7 +8016,7 @@
     "i": "allergic urticaria",
     "lt": 9,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"since the drug is currently marketed with 2 valid US authorizations\"",
     "x": 0
    },
@@ -8027,7 +8027,7 @@
     "i": "vertebral anomalies and variable endocrine and T-cell dysfunction",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"the only US license for dinutuximab is listed as cancelled, and\"",
     "x": 0
    },
@@ -8038,8 +8038,8 @@
     "i": "uterine ligament adenocarcinoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -8049,7 +8049,7 @@
     "i": "Hodgkins lymphoma",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"the cancelled US market status and\"",
     "x": 0
    },
@@ -8071,7 +8071,7 @@
     "i": "serpinopathy with toxic serpin polymerization",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Confirmation of current US availability, since the only license (BLA125277) is cancelled\"",
     "x": 5
    },
@@ -8082,7 +8082,7 @@
     "i": "esotropia",
     "lt": 3,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only US NDA is cancelled, and label safety data were not available\"",
     "x": 0
    },
@@ -8093,7 +8093,7 @@
     "i": "amenorrhea (disease)",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The drug's US license record is also listed as cancelled\"",
     "x": 0
    },
@@ -8104,7 +8104,7 @@
     "i": "diabetic retinopathy",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US license is also listed as cancelled, and p\"",
     "x": 10
    },
@@ -8115,7 +8115,7 @@
     "i": "Scheie syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since the license is recorded as cancelled\"",
     "x": 0
    },
@@ -8126,7 +8126,7 @@
     "i": "autosomal recessive familial Mediterranean fever",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only authorization is listed with a cancelled status\"",
     "x": 8
    },
@@ -8137,7 +8137,7 @@
     "i": "pseudo-von Willebrand disease",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"which is listed as cancelled\"",
     "x": 0
    },
@@ -8148,7 +8148,7 @@
     "i": "leprosy",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"he US license record is cancelled, and t\"",
     "x": 0
    },
@@ -8159,7 +8159,7 @@
     "i": "rosacea conjunctivitis",
     "lt": 7,
     "lv": 1,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"Confirmation of current US availability, since the only license is cancelled\"",
     "x": 0
    },
@@ -8170,7 +8170,7 @@
     "i": "pulmonary hypertension",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Clarification of the cancelled US market status\"",
     "x": 0
    },
@@ -8181,7 +8181,7 @@
     "i": "agoraphobia",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"the cancelled US license status and\"",
     "x": 0
    },
@@ -8192,7 +8192,7 @@
     "i": "symptomatic form of fragile X syndrome in female carrier",
     "lt": 6,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since this license is cancelled\"",
     "x": 0
    },
@@ -8214,7 +8214,7 @@
     "i": "symptomatic form of hemophilia in female carriers",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Clarification of the cancelled US regulatory status of BLA125522\"",
     "x": 0
    },
@@ -8225,7 +8225,7 @@
     "i": "benign PEComa",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and a cancelled US NDA\"",
     "x": 0
    },
@@ -8236,8 +8236,8 @@
     "i": "vitamin B12- and folate-independent constitutional megaloblastic anemia",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for ferric maltol are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -8247,7 +8247,7 @@
     "i": "amenorrhea (disease)",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The compound is a diagnostic tracer with no pharmacologic effect at tracer doses, and its only US…",
     "x": 1
    },
@@ -8258,7 +8258,7 @@
     "i": "fibroma of prostate",
     "lt": 6,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Re-verification of US regulatory status, since only a cancelled license is on record\"",
     "x": 0
    },
@@ -8269,7 +8269,7 @@
     "i": "atrophoderma vermiculata",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US license record is cancelled, and p\"",
     "x": 0
    },
@@ -8280,7 +8280,7 @@
     "i": "rheumatoid arthritis",
     "lt": 2,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and the license is cancelled\"",
     "x": 0
    },
@@ -8291,7 +8291,7 @@
     "i": "heparin cofactor 2 deficiency",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only US license listed is cancelled, and safety data are missing\"",
     "x": 0
    },
@@ -8302,7 +8302,7 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The U.S. licence is also cancelled\"",
     "x": 2
    },
@@ -8313,7 +8313,7 @@
     "i": "hepatoportal sclerosis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"the cancelled NDA status and\"",
     "x": 0
    },
@@ -8324,7 +8324,7 @@
     "i": "diabetic cataract",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The drug is also an intravenously given enzyme unlikely to reach the lens or retina, and its only…",
     "x": 0
    },
@@ -8346,7 +8346,7 @@
     "i": "distal myopathy, Welander type",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"In addition, the only US license is cancelled, and the package insert safety data has not been…",
     "x": 3
    },
@@ -8357,7 +8357,7 @@
     "i": "drug-induced osteoporosis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"(the record shows \"Cancelled only\" and no indication text)\"",
     "x": 0
    },
@@ -8368,7 +8368,7 @@
     "i": "thrombocytopenic purpura",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The product's US license is cancelled, and h\"",
     "x": 0
    },
@@ -8379,7 +8379,7 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 3,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Confirmation of current regulatory and supply status, since the only NDA is cancelled\"",
     "x": 8
    },
@@ -8401,7 +8401,7 @@
     "i": "seborrheic keratosis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"The U license is cancelled, and s\"",
     "x": 0
    },
@@ -8412,7 +8412,7 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 4,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"the licence-status discrepancy and\"",
     "x": 0
    },
@@ -8423,7 +8423,7 @@
     "i": "Hurler syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and the US license for Cerezyme is listed as cancelled\"",
     "x": 0
    },
@@ -8434,8 +8434,8 @@
     "i": "potassium deficiency disease",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -8445,7 +8445,7 @@
     "i": "thiamine-responsive dysfunction syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"Note that the US market status is \"Cancelled only,\" so product availability should be verified…",
     "x": 0
    },
@@ -8456,7 +8456,7 @@
     "i": "heart disease",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"the US licenses are cancelled and\"",
     "x": 0
    },
@@ -8467,7 +8467,7 @@
     "i": "choroideremia",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US licence is cancelled only\"",
     "x": 0
    },
@@ -8478,7 +8478,7 @@
     "i": "Rasmussen subacute encephalitis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"of the NDA cancellation status and\"",
     "x": 0
    },
@@ -8489,7 +8489,7 @@
     "i": "bulbar polio",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Clarification of the current US market status, since the only NDA is listed as cancelled\"",
     "x": 0
    },
@@ -8500,8 +8500,8 @@
     "i": "serpinopathy with toxic serpin polymerization",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -8511,7 +8511,7 @@
     "i": "lingual-facial-buccal dyskinesia",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US license record also shows only a cancelled status\"",
     "x": 0
    },
@@ -8522,7 +8522,7 @@
     "i": "Sanfilippo syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US license is also listed as cancelled\"",
     "x": 0
    },
@@ -8533,7 +8533,7 @@
     "i": "penile fibromatosis",
     "lt": 4,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and both US licenses are currently cancelled\"",
     "x": 0
    },
@@ -8544,7 +8544,7 @@
     "i": "leprosy",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"he US license is also cancelled, and t\"",
     "x": 0
    },
@@ -8555,7 +8555,7 @@
     "i": "fibromatosis, gingival",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"the cancelled NDA status and\"",
     "x": 0
    },
@@ -8566,7 +8566,7 @@
     "i": "endothrix infectious disease",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only US authorization is cancelled, and label safety information is missing, so the case is not…",
     "x": 0
    },
@@ -8577,7 +8577,7 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and the product's US authorization is cancelled\"",
     "x": 9
    },
@@ -8588,7 +8588,7 @@
     "i": "multiple endocrine neoplasia",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Clarification of the cancelled license status\"",
     "x": 0
    },
@@ -8599,7 +8599,7 @@
     "i": "hereditary thrombocytopenia with normal platelets",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given the cancelled US authorization\"",
     "x": 0
    },
@@ -8610,7 +8610,7 @@
     "i": "irritable bowel syndrome",
     "lt": 4,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only US license is cancelled, and mafenide is a topical product with notable tissue toxicity…",
     "x": 0
    },
@@ -8632,8 +8632,8 @@
     "i": "drug-induced osteoporosis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report, which limits how…",
     "x": 1
    },
    {
@@ -8643,7 +8643,7 @@
     "i": "acne (disease)",
     "lt": 3,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only US license is cancelled, and label safety data is unavailable\"",
     "x": 0
    },
@@ -8654,8 +8654,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 2,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 3
    },
    {
@@ -8665,7 +8665,7 @@
     "i": "monosomy X",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"the cancelled market status and\"",
     "x": 0
    },
@@ -8676,7 +8676,7 @@
     "i": "relapsing-remitting multiple sclerosis",
     "lt": 2,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The supporting literature is mostly old combination-regimen studies, no clinical trials are…",
     "x": 0
    },
@@ -8687,7 +8687,7 @@
     "i": "primary release disorder of platelets",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given the cancelled license\"",
     "x": 0
    },
@@ -8698,7 +8698,7 @@
     "i": "familial generalized lentiginosis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Clarification of the cancelled US license status and its implications for access and development\"",
     "x": 0
    },
@@ -8709,7 +8709,7 @@
     "i": "exercise-induced malignant hyperthermia",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US license is also cancelled, and a\"",
     "x": 0
    },
@@ -8720,8 +8720,8 @@
     "i": "focal stiff limb syndrome",
     "lt": 2,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8731,8 +8731,8 @@
     "i": "echinococcus granulosus infectious disease",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action statement",
     "x": 0
    },
    {
@@ -8742,7 +8742,7 @@
     "i": "prostatic urethra urothelial carcinoma",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US BLA is also listed as cancelled\"",
     "x": 0
    },
@@ -8753,7 +8753,7 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 3,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"given the cancelled license\"",
     "x": 10
    },
@@ -8764,7 +8764,7 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given that the NDA is cancelled\"",
     "x": 0
    },
@@ -8775,7 +8775,7 @@
     "i": "vulvitis",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only license is cancelled, and it covers an ophthalmic product, not a vaginal one\"",
     "x": 0
    },
@@ -8786,7 +8786,7 @@
     "i": "congenital analbuminemia",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only US authorization is cancelled\"",
     "x": 0
    },
@@ -8797,7 +8797,7 @@
     "i": "postinfectious vasculitis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"the cancelled US regulatory status and\"",
     "x": 0
    },
@@ -8808,7 +8808,7 @@
     "i": "myelodysplastic syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only US license is cancelled, and package insert safety data are missing\"",
     "x": 0
    },
@@ -8819,7 +8819,7 @@
     "i": "pancreatitis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Clarification of the cancelled NDA status and the reasons for it\"",
     "x": 0
    },
@@ -8830,7 +8830,7 @@
     "i": "primary release disorder of platelets",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"In addition, the only US license is cancelled, and the label-based safety review could not be…",
     "x": 6
    },
@@ -8841,7 +8841,7 @@
     "i": "drug-induced osteoporosis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"of the cancelled BLA status and\"",
     "x": 0
    },
@@ -8863,7 +8863,7 @@
     "i": "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The main concerns are known toxicities, missing label safety data, and the fact that the only US…",
     "x": 0
    },
@@ -8874,7 +8874,7 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given the cancelled US license status\"",
     "x": 1
    },
@@ -8885,7 +8885,7 @@
     "i": "diabetic retinopathy",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Clarification of the regulatory status of the cancelled BLA and its approved indication text\"",
     "x": 0
    },
@@ -8896,7 +8896,7 @@
     "i": "multiple endocrine neoplasia",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Review of the cancelled NDA status and its implications for any development path\"",
     "x": 0
    },
@@ -8907,7 +8907,7 @@
     "i": "primary release disorder of platelets",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given the cancelled license\"",
     "x": 0
    },
@@ -8918,7 +8918,7 @@
     "i": "HER2 positive breast carcinoma",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given the cancelled-only market status\"",
     "x": 0
    },
@@ -8929,7 +8929,7 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"he US licence is cancelled and t\"",
     "x": 0
    },
@@ -8940,7 +8940,7 @@
     "i": "hypertrichosis (disease)",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"the cancelled NDA status and\"",
     "x": 0
    },
@@ -8962,8 +8962,8 @@
     "i": "fibromatosis, gingival",
     "lt": 2,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8973,7 +8973,7 @@
     "i": "heparin cofactor 2 deficiency",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Both US authorizations are cancelled\"",
     "x": 0
    },
@@ -8984,7 +8984,7 @@
     "i": "candidiasis",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"In addition, the US NDA is recorded as cancelled\"",
     "x": 0
    },
@@ -8995,7 +8995,7 @@
     "i": "uterine ligament adenocarcinoma",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"the cancelled US licence status and\"",
     "x": 0
    },
@@ -9006,7 +9006,7 @@
     "i": "autosomal recessive severe congenital neutropenia due to G6PC3 deficiency",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and the reason for cancellation\"",
     "x": 0
    },
@@ -9017,7 +9017,7 @@
     "i": "postinfectious vasculitis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"the cancelled US license status and\"",
     "x": 8
    },
@@ -9028,7 +9028,7 @@
     "i": "multiple endocrine neoplasia",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US authorization is also listed as cancelled\"",
     "x": 0
    },
@@ -9039,7 +9039,7 @@
     "i": "thrombocytopenia due to immune destruction",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given the cancelled US license\"",
     "x": 0
    },
@@ -9050,7 +9050,7 @@
     "i": "bronchitis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"The only US authorization is recorded as cancelled, so commercial availability should be verified…",
     "x": 0
    },
@@ -9061,7 +9061,7 @@
     "i": "atrophoderma vermiculata",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and the reason it is recorded as cancelled\"",
     "x": 0
    },
@@ -9072,7 +9072,7 @@
     "i": "primary release disorder of platelets",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"since the licence record shows \"Cancelled only\"\"",
     "x": 0
    },
@@ -9083,7 +9083,7 @@
     "i": "Laubry-Pezzi syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"(the BLA is listed as cancelled)\"",
     "x": 0
    },
@@ -9094,7 +9094,7 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given the cancelled US license\"",
     "x": 0
    },
@@ -9105,7 +9105,7 @@
     "i": "drug-induced osteoporosis",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only US license record is cancelled, and safety label data are missing\"",
     "x": 0
    },
@@ -9116,7 +9116,7 @@
     "i": "cystinosis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"Clarification of the regulatory and supply status, given that the only US license is cancelled\"",
     "x": 2
    },
@@ -9127,8 +9127,8 @@
     "i": "Scheie syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action statement",
     "x": 0
    },
    {
@@ -9149,7 +9149,7 @@
     "i": "postmenopausal atrophic vaginitis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given the cancelled US license\"",
     "x": 0
    },
@@ -9171,7 +9171,7 @@
     "i": "drug-induced osteoporosis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and the reason for the NDA cancellation\"",
     "x": 0
    },
@@ -9182,7 +9182,7 @@
     "i": "extracutaneous mastocytoma",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since the Sylvant license is cancelled\"",
     "x": 0
    },
@@ -9204,7 +9204,7 @@
     "i": "opsismodysplasia",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only US authorization is also listed as cancelled\"",
     "x": 9
    },
@@ -9215,7 +9215,7 @@
     "i": "pneumocystosis",
     "lt": 8,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given that both licenses are cancelled\"",
     "x": 0
    },
@@ -9226,7 +9226,7 @@
     "i": "esotropia",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"In addition, the only US license is cancelled\"",
     "x": 0
    },
@@ -9237,7 +9237,7 @@
     "i": "Hurler syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and it has a cancelled status\"",
     "x": 0
    },
@@ -9248,8 +9248,8 @@
     "i": "glottis squamous cell carcinoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -9259,7 +9259,7 @@
     "i": "cauda equina syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"the cancelled US market status and\"",
     "x": 0
    },
@@ -9270,7 +9270,7 @@
     "i": "monosomy X",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US license is also listed as cancelled\"",
     "x": 0
    },
@@ -9281,7 +9281,7 @@
     "i": "open-angle glaucoma",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Clarification of the US market status, since the only license is cancelled\"",
     "x": 0
    },
@@ -9292,7 +9292,7 @@
     "i": "manic bipolar affective disorder",
     "lt": 81,
     "lv": 1,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"All six licences are oral single-ingredient products\"",
     "x": 0
    },
@@ -9303,7 +9303,7 @@
     "i": "migraine disorder",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"of the cancelled BLA and its original approved indication\"",
     "x": 0
    },
@@ -9314,7 +9314,7 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and of the regulatory implications of the cancelled license status\"",
     "x": 0
    },
@@ -9325,7 +9325,7 @@
     "i": "endocervical carcinoma",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"The NDA is currently listed as cancelled in the compiled data, so its present marketing status…",
     "x": 0
    },
@@ -9336,7 +9336,7 @@
     "i": "drug-induced osteoporosis",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and the reason the US license is recorded as cancelled\"",
     "x": 0
    },
@@ -9347,7 +9347,7 @@
     "i": "diabetic cataract",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The drug's cytotoxic profile adds a strong safety concern for this chronic indication, and its only…",
     "x": 0
    },
@@ -9358,8 +9358,8 @@
     "i": "zinc, elevated plasma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available from the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -9369,7 +9369,7 @@
     "i": "tetanic cataract",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"he US license is also cancelled, and t\"",
     "x": 0
    },
@@ -9391,7 +9391,7 @@
     "i": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The only US NDA is cancelled, and the knowledge graph flags several relevant contraindications…",
     "x": 0
    },
@@ -9402,7 +9402,7 @@
     "i": "Scheie syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given that the license is cancelled\"",
     "x": 0
    },
@@ -9413,7 +9413,7 @@
     "i": "faciodigitogenital syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"given that the licence record shows \"cancelled\" while the literature describes it as FDA-approved\"",
     "x": 0
    },
@@ -9424,8 +9424,8 @@
     "i": "vertebral anomalies and variable endocrine and T-cell dysfunction",
     "lt": 18,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -9435,7 +9435,7 @@
     "i": "medulloblastoma with extensive nodularity",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"since the US license is cancelled\"",
     "x": 0
    },
@@ -9446,8 +9446,8 @@
     "i": "primary cutaneous B-cell lymphoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -9457,7 +9457,7 @@
     "i": "pyelonephritis",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"There are no clinical trials or literature, no plausible mechanism against bacterial…",
     "x": 0
    },
@@ -9468,7 +9468,7 @@
     "i": "myeloid leukemia",
     "lt": 2,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"the cancelled US NDA status and\"",
     "x": 0
    },
@@ -9534,7 +9534,7 @@
     "i": "Glanzmann thrombasthenia",
     "lt": 1,
     "lv": 0,
-    "r": 1,
+    "r": 2,
     "rs": "Restored: \"The product's license is also cancelled in the US\" (Purple Book lists BLA 125586 as Revoked)",
     "x": 0
    },
@@ -9545,8 +9545,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 14,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, and t\" replaced…",
     "x": 0
    },
    {
@@ -9567,8 +9567,8 @@
     "i": "bronchitis",
     "lt": 1,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -9644,7 +9644,7 @@
     "i": "Plummer-Vinson syndrome",
     "lt": 0,
     "lv": 0,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 2 valid licenses\"",
     "x": 0
    },
@@ -9655,8 +9655,8 @@
     "i": "zinc, elevated plasma",
     "lt": 5,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -9699,8 +9699,8 @@
     "i": "endometriosis of uterus",
     "lt": 8,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for this drug is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -9710,8 +9710,8 @@
     "i": "gastroduodenitis",
     "lt": 0,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -9743,8 +9743,8 @@
     "i": "primary release disorder of platelets",
     "lt": 0,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -9798,8 +9798,8 @@
     "i": "insomnia (disease)",
     "lt": 1,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 4
    },
    {
@@ -9864,7 +9864,7 @@
     "i": "gonococcal urethritis",
     "lt": 1,
     "lv": 0,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The drug i curre t marketed in the (1 v lid e ce\"",
     "x": 7
    },
@@ -9897,8 +9897,8 @@
     "i": "gastroduodenitis",
     "lt": 0,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -9985,8 +9985,8 @@
     "i": "papillary conjunctivitis",
     "lt": 0,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -9996,8 +9996,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 0,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available for this drug\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -10051,7 +10051,7 @@
     "i": "epiglottitis",
     "lt": 1,
     "lv": 0,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"The drug is marketed, with 3 valid US authorizations, and the safety package is incomplete\"",
     "x": 0
    },
@@ -10073,8 +10073,8 @@
     "i": "relapsing-remitting multiple sclerosis",
     "lt": 1,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -10095,8 +10095,8 @@
     "i": "Rasmussen subacute encephalitis",
     "lt": 5,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report, so t\" replaced with…",
     "x": 0
    },
    {
@@ -10172,8 +10172,8 @@
     "i": "hereditary thrombocytopenia with normal platelets",
     "lt": 2,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -10183,7 +10183,7 @@
     "i": "anemia of prematurity",
     "lt": 0,
     "lv": 0,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 1 valid license\"",
     "x": 0
    }

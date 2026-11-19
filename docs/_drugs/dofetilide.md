@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **stroke disorder**, but there 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, dofetilide is a selective blocker of the IKr potassium current (Kv11.1/hERG) and is used for rhythm control in atrial fibrillation.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dofetilide: "Dofetilide shows Vaughan Williams Class III antiarrhythmic activity. The mechanism of action is blockade of the cardiac ion channel carrying the rapid component of the delayed rectifier potassium current, I Kr. At concentrations covering several orders of magnitude, dofetilide blocks only I Kr with no relevant block of the other repolarizing potassium currents (e.g., I Ks, I K1 )." ([DailyMed: Tikosyn (dofetilide) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=02438044-d6a3-49e9-a1ac-3aad21ef2c8c), label version 2026-04-21; accessed 2026-11-19.) Based on known information, dofetilide is a selective blocker of the IKr potassium current (Kv11.1/hERG) and is used for rhythm control in atrial fibrillation.
 
 The link between the two conditions is indirect. Stroke is a downstream complication of atrial fibrillation, so maintaining sinus rhythm might lower the risk of clot formation and embolism. However, the retrieved literature covers rhythm management and comparisons of antiarrhythmic drugs. None of it shows that dofetilide prevents stroke. Rhythm control also does not replace anticoagulation.
 
@@ -144,13 +144,14 @@ The stroke prediction comes from the TxGNN model (deep learning) and may reflect
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "A review of whether the cancelled US market status limits practical development" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "All 9 authorizations are in valid status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 9 valid US authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tikosyn (dofetilide) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=02438044-d6a3-49e9-a1ac-3aad21ef2c8c) |
 
 <!-- review:end log -->
 

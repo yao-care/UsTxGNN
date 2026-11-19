@@ -54,7 +54,7 @@ with **40 clinical trials** and **20 publications** compiled for this direction,
 
 ## Why is This Prediction Reasonable?
 
-Gemcitabine is a pyrimidine nucleoside analog. It inhibits DNA synthesis and ribonucleotide reductase, so it acts mainly on rapidly dividing tumour cells. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description is based on the general knowledge of the drug class.
+Gemcitabine is a pyrimidine nucleoside analog. It inhibits DNA synthesis and ribonucleotide reductase, so it acts mainly on rapidly dividing tumour cells. According to the Mechanism of Action section of the FDA-approved prescribing information for gemcitabine: "Gemcitabine kills cells undergoing DNA synthesis and blocks the progression of cells through the G1/S-phase boundary. Gemcitabine is metabolized by nucleoside kinases to diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides." ([DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84), label version 2026-07-27; accessed 2026-11-19.) This description is based on the general knowledge of the drug class.
 
 Ovarian cancer and breast cancer are both solid epithelial tumours that respond to cytotoxic chemotherapy. Published reviews describe gemcitabine as active in metastatic breast cancer, both alone (reported response rates of 16–37%) and in combination with taxanes, platinum compounds, anthracyclines, vinorelbine and trastuzumab. Several trials listed below have tested these combinations, which supports the plausibility of the model's prediction.
 
@@ -135,6 +135,19 @@ Multiple completed Phase 3 and Phase 2 trials, along with many reviews, support 
 - Detailed mechanism-of-action data from DrugBank
 - Review of Phase 3 results for the gemcitabine-containing arms (NCT00006459, NCT00093795), since enrollment and outcome data are incomplete
 - A safety monitoring plan for myelosuppression, and for renal, hepatic and pulmonary risk
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

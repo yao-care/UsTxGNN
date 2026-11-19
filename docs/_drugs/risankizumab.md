@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **dermatitis** (mainly atopic d
 
 ## Why is This Prediction Reasonable?
 
-Risankizumab blocks the p19 subunit of IL-23. Its use in psoriasis rests on the IL-23/Th17 axis, which is also involved in some other inflammatory skin diseases. This is the link behind the model's prediction. Detailed mechanism-of-action data were not available in the data compiled for this report, so the description above is based on the drug class and published literature.
+Risankizumab blocks the p19 subunit of IL-23. Its use in psoriasis rests on the IL-23/Th17 axis, which is also involved in some other inflammatory skin diseases. This is the link behind the model's prediction. According to the Mechanism of Action section of the FDA-approved prescribing information for risankizumab: "Risankizumab-rzaa is a humanized IgG1 monoclonal antibody that selectively binds to the p19 subunit of human IL-23 cytokine and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in inflammatory and immune responses." ([DailyMed: Skyrizi (risankizumab-rzaa) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7148c8eb-b39e-e20a-6494-a6df82392858), label version 2026-10-23; accessed 2026-11-19.) The description above is based on the drug class and published literature.
 
 The overlap is only partial. Atopic dermatitis is driven mainly by Th2 signalling (IL-4/IL-13), with possible contributions from Th22 and Th17. A Phase 2 trial tested IL-23 blockade directly in moderate-to-severe atopic dermatitis, and the published results (PMID 36588137) did not show a clear efficacy advantage.
 
@@ -135,11 +135,12 @@ The only directly relevant controlled trial (Phase 2, n=172) did not show a clea
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Paradoxical eczema reports add a safety concern, and the current US licence records show only cancelled entries" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Skyrizi (risankizumab-rzaa) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7148c8eb-b39e-e20a-6494-a6df82392858) |
 
 <!-- review:end log -->
 

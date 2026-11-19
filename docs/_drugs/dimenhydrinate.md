@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and only **1 publication** (a phar
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, dimenhydrinate is a salt of diphenhydramine and 8-chlorotheophylline. Diphenhydramine is a first-generation H1 receptor antagonist, and its efficacy in motion sickness and vertigo is established.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for dimenhydrinate: "While the precise mode of action of dimenhydrinate is not known, it has a depressant action on hyperstimulated labyrinthine function." ([DailyMed: dimenhydrinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc71539e-1a33-4709-8a24-c2894e8dbc1c), label version 2025-01-15; accessed 2026-11-19.) Based on known information, dimenhydrinate is a salt of diphenhydramine and 8-chlorotheophylline. Diphenhydramine is a first-generation H1 receptor antagonist, and its efficacy in motion sickness and vertigo is established.
 
 H1 antagonism is a well-established way to relieve histamine-mediated urticaria symptoms, so the prediction is biologically plausible and consistent with the high TxGNN score. However, diphenhydramine itself is already used for allergic conditions. The signal therefore reflects the known activity of the active ingredient rather than a novel repurposing finding.
 
@@ -132,11 +132,12 @@ The prediction is biologically plausible through H1 antagonism, but no clinical 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "since the drug is currently marketed with 2 valid US authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: dimenhydrinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc71539e-1a33-4709-8a24-c2894e8dbc1c) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ with **1 clinical trial** (a completed Phase 2 randomized study) and **18 public
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for pimecrolimus are not available in the data compiled for this report. The literature does describe it as a calcineurin inhibitor that selectively targets T cells and mast cells. It inhibits T-cell proliferation and the production of IL-2, IL-4, interferon-gamma and TNF-alpha, and it also inhibits mast cell degranulation.
+According to the Mechanism of Action section of the FDA-approved prescribing information for pimecrolimus: "The mechanism of action of pimecrolimus in atopic dermatitis is not known. While the following have been observed, the clinical significance of these observations in atopic dermatitis is not known. It has been demonstrated that pimecrolimus binds with high affinity to macrophilin-12 (FKBP-12) and inhibits the calcium-dependent phosphatase, calcineurin." ([DailyMed: pimecrolimus prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6601e43e-ce7d-446a-8568-8e7b24b86f06), label version 2026-04-30; accessed 2026-11-19.) The literature does describe it as a calcineurin inhibitor that selectively targets T cells and mast cells. It inhibits T-cell proliferation and the production of IL-2, IL-4, interferon-gamma and TNF-alpha, and it also inhibits mast cell degranulation.
 
 Atopic dermatitis is a T-cell-driven inflammatory skin disease, and pimecrolimus is established as a non-steroidal treatment for it. Seborrheic dermatitis is a chronic, relapsing inflammatory skin condition affecting sebum-rich areas, and it is linked to an inflammatory response to *Malassezia* yeast. Topical anti-inflammatory immunomodulation is therefore mechanistically plausible, and the two diseases share an inflammatory pathway. Reviews note that corticosteroids have limited long-term use in seborrheic dermatitis because of adverse effects, and that topical calcineurin inhibitors are a proposed alternative.
 
@@ -105,7 +105,6 @@ Several other retrieved publications were only tangentially related and are not 
 | ANDA209345 | Pimecrolimus (Actavis Pharma, Inc.) | Cream | Not listed (status: valid) |
 | ANDA211769 | Pimecrolimus (Glenmark Pharmaceuticals Inc., USA) | Cream | Not listed (status: valid) |
 
-
 ---
 
 ## Safety Considerations
@@ -141,6 +140,19 @@ A completed, randomized Phase 2 trial in seborrheic dermatitis plus two systemat
 - Results from NCT00403559 and, ideally, a Phase 3 randomized trial in seborrheic dermatitis
 - Drug-specific mechanism of action data to replace the class-based inference
 - A safety plan covering limits on duration of use, infection screening (viral and fungal), and avoidance in infants under 2 years
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for pimecrolimus are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: pimecrolimus prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6601e43e-ce7d-446a-8568-8e7b24b86f06) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

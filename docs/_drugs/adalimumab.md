@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **hypermobility of coccyx**, bu
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Adalimumab is generally understood to be a monoclonal antibody that blocks tumour necrosis factor alpha (TNF-alpha), a driver of inflammation in several immune-mediated diseases.
+According to the Mechanism of Action section of the FDA-approved prescribing information for adalimumab: "Adalimumab products bind specifically to TNF-alpha and block its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab products also lyse surface TNF expressing cells in vitro in the presence of complement." ([DailyMed: Simlandi (adalimumab-ryvk) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12f609c9-2088-bb05-e063-6394a90a9ecc), label version 2026-11-11; accessed 2026-11-19.) Adalimumab is generally understood to be a monoclonal antibody that blocks tumour necrosis factor alpha (TNF-alpha), a driver of inflammation in several immune-mediated diseases.
 
 For hypermobility of coccyx, a plausible TNF-driven mechanism has not been established. The condition is generally mechanical or traumatic in nature rather than inflammatory. The very high score of 0.9977 is a computational output only, and no trials or publications were retrieved to support a biological link. The prediction should therefore be treated as a hypothesis with weak mechanistic support.
 
@@ -96,6 +96,19 @@ The prediction has a very high model score but no supporting trials or literatur
 - Any preclinical or observational data directly on this condition
 - Package insert warnings and contraindications, and detailed mechanism-of-action data
 - A clear clinical definition of the target population before any trial design
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Simlandi (adalimumab-ryvk) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12f609c9-2088-bb05-e063-6394a90a9ecc) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

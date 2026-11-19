@@ -60,7 +60,7 @@ Across the 10 predicted indications, the only published item is a 1977 title-onl
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, halcinonide is a high-potency topical corticosteroid. Its efficacy in inflammatory dermatoses is established, and mechanistically it may be applicable to lichen planus.
+ChEMBL (EMBL-EBI) records the mechanism of action of halcinonide as: Glucocorticoid receptor agonist ([ChEMBL CHEMBL1200845 (halcinonide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200845), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, halcinonide is a high-potency topical corticosteroid. Its efficacy in inflammatory dermatoses is established, and mechanistically it may be applicable to lichen planus.
 
 Lichen planus and its variants are T-cell mediated inflammatory skin diseases, and topical corticosteroids are standard first-line therapy. This is why the prediction is biologically plausible, and it sits close to halcinonide's existing indications such as lichen disease and neurodermatitis.
 
@@ -153,12 +153,13 @@ The prediction score is very high (0.9993), and a topical corticosteroid for lic
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All four US licenses are valid, and halcinonide is currently marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "The drug is marketed in the US, with all four licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1200845 (halcinonide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200845) |
 
 <!-- review:end log -->
 

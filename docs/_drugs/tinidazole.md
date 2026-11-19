@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **postmenopausal atrophic vagin
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, tinidazole belongs to the 5-nitroimidazole class of antimicrobials. Its efficacy in infectious vaginitis and bacterial vaginosis is established.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for tinidazole: "Tinidazole is an antiprotozoal, antibacterial agent.. […] Tinidazole is an antiprotozoal, antibacterial agent. The nitro- group of tinidazole is reduced by cell extracts of Trichomonas. The free nitro radical generated as a result of this reduction may be responsible for the antiprotozoal activity." ([DailyMed: Tindazole (tinidazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45fa3ebd-52da-4987-82a1-4a64f99785a7), label version 2026-08-18; accessed 2026-11-19.) Based on known information, tinidazole belongs to the 5-nitroimidazole class of antimicrobials. Its efficacy in infectious vaginitis and bacterial vaginosis is established.
 
 The prediction is probably not mechanistically grounded. Atrophic vaginitis after menopause is caused by estrogen deficiency, not infection, so an antimicrobial offers no clear rationale. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be treated as such until proven otherwise.
 
@@ -137,12 +137,13 @@ The prediction has only model support (L5). Atrophic vaginitis is a hormone-defi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All four authorizations on record are valid, and all products are oral" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and all four US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tindazole (tinidazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45fa3ebd-52da-4987-82a1-4a64f99785a7) |
 
 <!-- review:end log -->
 

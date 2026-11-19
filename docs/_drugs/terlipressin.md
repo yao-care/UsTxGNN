@@ -56,7 +56,7 @@ The evidence is early-stage and the direction of effect is uncertain.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on known information, terlipressin is a prodrug of lysine-vasopressin and acts on vasopressin V1 receptors, producing systemic vasoconstriction.
+According to the Mechanism of Action section of the FDA-approved prescribing information for terlipressin: "Terlipressin is a synthetic vasopressin analogue with twice the selectivity for vasopressin V 1 receptors versus V 2 receptors. Terlipressin acts as both a prodrug for lysine-vasopressin, as well as having pharmacologic activity on its own." ([DailyMed: Terlivaz (terlipressin) prescribing information, Keenova Hospital Products Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a35b86c-f451-4fac-8499-43019e4da354), label version 2026-10-23; accessed 2026-11-19.) Based on known information, terlipressin is a prodrug of lysine-vasopressin and acts on vasopressin V1 receptors, producing systemic vasoconstriction.
 
 Several small human studies in patients with cirrhosis and pulmonary hypertension suggest that terlipressin may lower pulmonary vascular resistance and pulmonary pressures while raising systemic vascular resistance. This differential effect on the pulmonary and systemic circulations is the main reason the prediction is plausible. A case report also describes rescue use in a preterm infant with persistent pulmonary hypertension and refractory shock.
 
@@ -124,11 +124,12 @@ The pulmonary hypertension prediction is the only one with any supporting human 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Clarification of the US market status, since the only license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Terlivaz (terlipressin) prescribing information, Keenova Hospital Products Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a35b86c-f451-4fac-8499-43019e4da354) |
 
 <!-- review:end log -->
 

@@ -57,7 +57,7 @@ This report focuses on the highest-ranked prediction with meaningful supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, iloprost is a prostacyclin (IP receptor) analog that causes pulmonary vasodilation and inhibits platelet aggregation and vascular smooth muscle proliferation. Its efficacy in PAH is established, which is the original indication.
+According to the Mechanism of Action section of the FDA-approved prescribing information for iloprost: "Iloprost is a synthetic analog of prostacyclin PGI 2. Iloprost is a vasodilator and inhibits platelet aggregation." ([DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4), label version 2026-08-13; accessed 2026-11-19.) Based on known pharmacology, iloprost is a prostacyclin (IP receptor) analog that causes pulmonary vasodilation and inhibits platelet aggregation and vascular smooth muscle proliferation. Its efficacy in PAH is established, which is the original indication.
 
 PAH associated with congenital heart disease (CHD-PAH) is a recognized subgroup of PAH. It shares the same pulmonary vascular pathology (vasoconstriction, remodeling, and proliferation), so the mechanistic link to the original indication is direct. Published studies have examined inhaled iloprost in children and adults with CHD-PAH, including patients with Eisenmenger syndrome.
 
@@ -144,12 +144,13 @@ The mechanism is the same as in the approved PAH indication, and several cohort 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "Confirmation of a currently marketed US iloprost product, since the only NDA listed is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4) |
 
 <!-- review:end log -->
 

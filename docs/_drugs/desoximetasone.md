@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **alopecia areata**, with **0 r
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Pharmacology records show that desoximetasone acts on the glucocorticoid receptor (NR3C1), the standard target of corticosteroids, and it is used to reduce skin inflammation in allergic reactions, eczema and psoriasis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for desoximetasone: "Corticosteroids play a role in cellular signaling, immune function, inflammation and protein regulation; however, the precise mechanism of action in psoriasis is unknown." ([DailyMed: Topicort (desoximetasone) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e417856a-b760-4626-bc34-8e4bc62c026c), label version 2025-07-02; accessed 2026-11-19.) Pharmacology records show that desoximetasone acts on the glucocorticoid receptor (NR3C1), the standard target of corticosteroids, and it is used to reduce skin inflammation in allergic reactions, eczema and psoriasis.
 
 Alopecia areata is an autoimmune, T-cell-mediated disease in which the immune privilege of the hair follicle collapses. Suppressing inflammation around the follicle is therefore a plausible mechanism. This fits the drug's established use in immune-mediated skin diseases such as discoid lupus and atopic dermatitis. Topical corticosteroids are already used for alopecia areata in practice.
 
@@ -123,12 +123,13 @@ The mechanistic rationale for alopecia areata is reasonable and one placebo-cont
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 12 U.S. licenses are cancelled, and n" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and all U S. licenses are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Topicort (desoximetasone) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e417856a-b760-4626-bc34-8e4bc62c026c) |
 
 <!-- review:end log -->
 

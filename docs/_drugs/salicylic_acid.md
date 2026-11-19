@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **papillary conjunctivitis**, b
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, salicylic acid is thought to act through inhibition of COX enzymes, which reduces prostaglandin synthesis and produces anti-inflammatory effects. However, public bioactivity data confirming this at a specific molecular target are lacking. Its keratolytic action is also well known in skin products.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for salicylic acid: "Although the exact mode of action for salicylic acid in the treatment of warts is unknown, its activity appears to be associated with its keratolytic action, which results in mechanical removal of epidermal cells infected with wart viruses." ([DailyMed: Xalix (salicylic acid) prescribing information, Cintex Services, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41369b38-7f15-b597-e063-6394a90a614b), label version 2025-10-15; accessed 2026-11-19.) Based on known information, salicylic acid is thought to act through inhibition of COX enzymes, which reduces prostaglandin synthesis and produces anti-inflammatory effects. However, public bioactivity data confirming this at a specific molecular target are lacking. Its keratolytic action is also well known in skin products.
 
 Its listed indications include allergic and inflammatory conditions (allergic rhinitis, vasomotor rhinitis, rheumatoid arthritis). Papillary conjunctivitis is an allergic or inflammatory disease of the ocular surface, so a loose link through anti-inflammatory activity is plausible.
 
@@ -100,7 +100,6 @@ Currently no related literature available.
 | M032 | Gold Bond Psoriasis Relief Medicated Multi-Symptom | Cream | Not specified (valid) |
 | nan | Acne Healing Dots | Patch | Not specified (valid) |
 
-
 ---
 
 ## Safety Considerations
@@ -124,6 +123,19 @@ The prediction rests on a computational score alone, with no clinical trials, no
 - A literature and trial search specific to salicylic acid or salicylates in ocular allergic or inflammatory disease
 - Ocular tolerability and safety data for any proposed route of administration
 - Assessment of route compatibility, since available dosage forms are topical or skin-directed and none are ophthalmic
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xalix (salicylic acid) prescribing information, Cintex Services, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41369b38-7f15-b597-e063-6394a90a614b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

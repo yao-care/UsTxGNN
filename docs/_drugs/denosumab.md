@@ -58,7 +58,7 @@ A second, related prediction, **diabetic retinopathy** (score 0.9923, Evidence L
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, denosumab is a monoclonal antibody that inhibits RANKL, a key signal for bone resorption, and its efficacy in osteoporosis is established. Mechanistically, it may be applicable to diabetic retinopathy only through speculative routes.
+According to the Mechanism of Action section of the FDA-approved prescribing information for denosumab: "Denosumab products bind to RANKL, a transmembrane or soluble protein essential for the formation, function, and survival of osteoclasts, the cells responsible for bone resorption. Denosumab products prevent RANKL from activating its receptor, RANK, on the surface of osteoclasts and their precursors." ([DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd), label version 2026-11-04; accessed 2026-11-19.) Based on known information, denosumab is a monoclonal antibody that inhibits RANKL, a key signal for bone resorption, and its efficacy in osteoporosis is established. Mechanistically, it may be applicable to diabetic retinopathy only through speculative routes.
 
 RANKL/RANK signaling has been linked to inflammation, vascular calcification and bone-vascular crosstalk. This could plausibly relate to microvascular disease, but this link is **not established for the retina**, and the supplied data do not support any direct retinal mechanism.
 
@@ -135,13 +135,14 @@ Both predictions have high TxGNN scores (0.9963 and 0.9923) but no clinical tria
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Five further authorizations are also cancelled: XGEVA (BLA125320), OSPOMYV (BLA761392), BOSAYA (BLA761436), Oziltus (BLA761457) and Boncresa" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and the drug's US authorizations are all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and all 10 of 10 authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd) |
 
 <!-- review:end log -->
 

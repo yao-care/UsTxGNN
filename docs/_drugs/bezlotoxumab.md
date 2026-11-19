@@ -56,7 +56,7 @@ but **no clinical trials and no publications** were found to support this direct
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Bezlotoxumab is, however, a well-characterized antibody that binds and neutralizes *C. difficile* toxin B, so its activity is specific to that toxin.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for bezlotoxumab: "ZINPLAVA (bezlotoxumab) is a human monoclonal antibody that binds to C. difficile toxin B and neutralizes its effects. […] Bezlotoxumab is a human monoclonal antibody that binds C. difficile toxin B with an equilibrium dissociation constant (K d ) of &lt;1×10 -9 M. Bezlotoxumab inhibits the binding of toxin B and prevents its effects on mammalian cells. Bezlotoxumab does not bind to C. difficile toxin A. Activity In Vitro Bezlotoxumab binds to an epitope on toxin B that is conserved across reported strains of C. difficile, although amino acid sequence variation within the epitope does occur." ([DailyMed: Zinplava (bezlotoxumab) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f479bfe-2bfa-4cc5-9aee-1357364480b0), label version 2024-11-12; accessed 2026-11-19.) Bezlotoxumab is, however, a well-characterized antibody that binds and neutralizes *C. difficile* toxin B, so its activity is specific to that toxin.
 
 Acute female pelvic peritonitis is usually polymicrobial infection and inflammation of the pelvic cavity, and it is not typically driven by toxin B. No credible mechanistic link between toxin B neutralization and this disease could be established. The high score of 0.9989 is a model output only; it is not backed by any trial or publication and likely reflects proximity to other pelvic-region predictions rather than biology.
 
@@ -94,6 +94,19 @@ The prediction has no supporting clinical trials or literature, and no plausible
 - Detailed mechanism of action data from DrugBank
 - A credible biological rationale, plus preclinical or clinical evidence that toxin B plays a role in this disease
 - Confirmation of whether any toxin B-producing organism is implicated in pelvic peritonitis
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zinplava (bezlotoxumab) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f479bfe-2bfa-4cc5-9aee-1357364480b0) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

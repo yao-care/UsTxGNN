@@ -54,7 +54,7 @@ Flutamide is an oral antiandrogen originally used to treat prostate cancer.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Flutamide is a nonsteroidal androgen receptor (AR) antagonist. Its efficacy in prostate cancer is established, and mechanistically it may be applicable to androgen-driven prostate disease.
+ChEMBL (EMBL-EBI) records the mechanism of action of flutamide as: Androgen Receptor antagonist ([ChEMBL CHEMBL806 (flutamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL806), CC BY-SA 3.0; accessed 2026-11-19.) Flutamide is a nonsteroidal androgen receptor (AR) antagonist. Its efficacy in prostate cancer is established, and mechanistically it may be applicable to androgen-driven prostate disease.
 
 The predicted entry combines prostate cancer with brain cancer susceptibility. It describes an inherited predisposition, not a disease state a drug can treat. There is no plausible mechanistic link to brain cancer, and no trials or literature support this entry.
 
@@ -127,12 +127,13 @@ The predicted entry is a genetic susceptibility label with no supporting trials 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "In addition, the only US license on record is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "Re-verification of US regulatory status, since only a cancelled license is on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL806 (flutamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL806) |
 
 <!-- review:end log -->
 

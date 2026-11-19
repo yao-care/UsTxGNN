@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, raxibacumab is a monoclonal antibody that neutralizes the protective antigen (PA) of *Bacillus anthracis*, blocking anthrax toxin from entering cells. Its efficacy is relevant to anthrax toxin-mediated disease.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for raxibacumab: "Raxibacumab is a monoclonal antibody that binds the protective antigen of B. anthracis. […] Raxibacumab is a monoclonal antibody that binds free PA with an affinity equilibrium dissociation constant (Kd) of 2.78 ± 0.9 nM. Raxibacumab inhibits the binding of PA to its cellular receptors, preventing the intracellular entry of the anthrax lethal factor and edema factor, the enzymatic toxin components responsible for the pathogenic effects of anthrax toxin." ([DailyMed: raxibacumab prescribing information, Emergent BioDefense Operations Lansing](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6927e91-bb46-47b3-ab66-f9d8a9d7b12a), label version 2026-08-28; accessed 2026-11-19.) Based on known information, raxibacumab is a monoclonal antibody that neutralizes the protective antigen (PA) of *Bacillus anthracis*, blocking anthrax toxin from entering cells. Its efficacy is relevant to anthrax toxin-mediated disease.
 
 A mechanistic link to postinfectious vasculitis is weak. Postinfectious vasculitis is generally immune-complex or immune-mediated, and no plausible connection to the anti-PA mechanism was identified. The high TxGNN score (0.9975) is a computational prediction only and is not backed by trials or literature.
 
@@ -115,12 +115,13 @@ The prediction has no clinical trials or literature behind it (evidence level L5
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license is cancelled, and safety and mechanism data are incomplete" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled US license status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: raxibacumab prescribing information, Emergent BioDefense Operations Lansing](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6927e91-bb46-47b3-ab66-f9d8a9d7b12a) |
 
 <!-- review:end log -->
 

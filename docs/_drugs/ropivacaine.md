@@ -60,7 +60,7 @@ The evidence is small and mostly observational, so this is best treated as a res
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the compiled data. Based on known pharmacology, ropivacaine is a long-acting amide local anesthetic that blocks voltage-gated sodium channels.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ropivacaine: "Ropivacaine is a member of the amino amide class of local anesthetics and is supplied as the pure S-(-)-enantiomer. Local anesthetics block the generation and the conduction of nerve impulses, presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse, and by reducing the rate of rise of the action potential." ([DailyMed: Naropin (ropivacaine hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb6583ff-cde4-4280-aa5b-0bea2b844792), label version 2026-07-17; accessed 2026-11-19.) Based on known pharmacology, ropivacaine is a long-acting amide local anesthetic that blocks voltage-gated sodium channels.
 
 Its use is regional nerve blockade. Blocking pain signaling at the sphenopalatine ganglion, stellate ganglion, occipital or trigeminal branches, or myofascial trigger points could plausibly reduce trigeminovascular activation and peripheral and central sensitization in migraine. This is a local nerve-block effect, not a systemic disease-modifying effect.
 
@@ -150,13 +150,14 @@ The migraine signal is plausible mechanistically and has some supporting studies
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 8 records below are cancelled generic applications (single-ingredient injections)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Naropin (ropivacaine hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb6583ff-cde4-4280-aa5b-0bea2b844792) |
 
 <!-- review:end log -->
 

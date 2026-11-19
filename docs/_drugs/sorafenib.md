@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **liposarcoma**, but no study has 
 
 ## Why is This Prediction Reasonable?
 
-Sorafenib inhibits the RAF/MEK/ERK pathway and the angiogenic receptors VEGFR and PDGFR, as well as KIT. These pathways contribute to tumour growth and blood-vessel formation in soft tissue sarcomas. Detailed mechanism-of-action data were not included in the compiled data, so this description is based on the drug's known pharmacology.
+Sorafenib inhibits the RAF/MEK/ERK pathway and the angiogenic receptors VEGFR and PDGFR, as well as KIT. These pathways contribute to tumour growth and blood-vessel formation in soft tissue sarcomas. According to the Mechanism of Action section of the FDA-approved prescribing information for sorafenib: "Sorafenib is a kinase inhibitor that decreases tumor cell proliferation in vitro. Sorafenib was shown to inhibit multiple intracellular (c-CRAF, BRAF and mutant BRAF) and cell surface kinases (KIT, FLT- 3, RET, RET/PTC, VEGFR-1, VEGFR- 2, VEGFR- 3, and PDGFR-ß)." ([DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0), label version 2023-08-28; accessed 2026-11-19.) This description is based on the drug's known pharmacology.
 
 Liposarcoma is a soft tissue sarcoma, so a kinase and angiogenesis inhibitor is a plausible candidate. However, the clinical studies available enrolled advanced soft tissue sarcomas of mixed types. In the Phase 2 programme, activity was modest and was seen mainly in vascular sarcomas, not liposarcoma. A preclinical study showed sorafenib inhibited growth and MAPK signalling in malignant peripheral nerve sheath tumour cells and in dedifferentiated liposarcoma cell lines, which is supportive but not specific, and does not amount to a study in patients with liposarcoma.
 
@@ -117,6 +117,18 @@ The prediction score is high (0.9982), but no study tests sorafenib in liposarco
 - Package insert warnings and contraindications
 - Detailed mechanism-of-action data
 - A safety and drug-interaction plan, particularly for patients on QT-prolonging agents such as dolasetron
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not included in the compiled data, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

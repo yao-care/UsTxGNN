@@ -55,7 +55,7 @@ Most of the publications concern cetirizine (hydroxyzine's active metabolite) an
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for hydroxyzine are not available in the data compiled for this report. From the known pharmacology, hydroxyzine is a first-generation histamine H1-receptor inverse agonist, and cetirizine is its active metabolite.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for hydroxyzine: "Hydroxyzine is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system. Primary skeletal muscle relaxation has been demonstrated experimentally." ([DailyMed: hydroxyzine hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a3e389f-391d-4f37-9e34-ce3c6f5fe8c1), label version 2026-11-12; accessed 2026-11-19.) From the known pharmacology, hydroxyzine is a first-generation histamine H1-receptor inverse agonist, and cetirizine is its active metabolite.
 
 In allergic urticaria, histamine released from mast cells drives the wheal-and-flare reaction, so H1 blockade is mechanistically well supported. Urticaria and angioedema are already among hydroxyzine's recorded indications. This prediction is therefore close to an existing use rather than a true repurposing.
 
@@ -125,6 +125,18 @@ The prediction is mechanistically sound but is essentially an existing use. Guid
 | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|
 | Rosacea conjunctivitis | 0.9970 | L5 | Hold. Weak mechanistic link, since ocular rosacea is not mainly histamine-driven, and no trials or literature. |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for hydroxyzine are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: hydroxyzine hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a3e389f-391d-4f37-9e34-ce3c6f5fe8c1) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

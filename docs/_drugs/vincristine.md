@@ -58,7 +58,7 @@ Evidence for this specific disease is indirect and weak.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Vincristine is generally known as a vinca alkaloid that binds tubulin, blocks microtubule polymerization and arrests dividing cells in metaphase. This is a general pharmacological description and not taken from the compiled data.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for vincristine: "The mechanisms of action of vincristine sulfate remain under investigation. The mechanism of action of vincristine sulfate has been related to the inhibition of microtubule formation in mitotic spindle, resulting in an arrest of dividing cells at the metaphase stage." ([DailyMed: vincristine sulfate prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b22e4c8e-dbe1-4d4b-a026-e1812974071c), label version 2026-02-17; accessed 2026-11-19.) Vincristine is generally known as a vinca alkaloid that binds tubulin, blocks microtubule polymerization and arrests dividing cells in metaphase. This is a general pharmacological description and not taken from the compiled data.
 
 Retroperitoneal tumors, such as rhabdomyosarcoma, primitive neuroectodermal tumors, malignant paraganglioma and other pediatric sarcomas, are often highly proliferative. A drug that targets dividing cells is therefore biologically plausible. The published reports that mention vincristine for such tumors use it in combinations (for example cyclophosphamide, vincristine and dacarbazine; or vincristine, doxorubicin and cyclophosphamide). Vincristine's own contribution cannot be separated from the combination effect.
 
@@ -124,6 +124,19 @@ The prediction score is high, but it is computational. There are no registered t
 - A systematic review separating vincristine's contribution from the other drugs in the regimens, restricted to true retroperitoneal tumors
 - Definition of specific tumor subtypes (for example sarcoma or paraganglioma) for any further study
 - A neurotoxicity and hepatic-function monitoring plan, given the knowledge-graph contraindication relations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: vincristine sulfate prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b22e4c8e-dbe1-4d4b-a026-e1812974071c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

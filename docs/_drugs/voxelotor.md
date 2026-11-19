@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Voxelotor is generally known as a hemoglobin S polymerization inhibitor that increases hemoglobin-oxygen affinity, which is the basis of its use in sickle cell anemia.
+According to the Mechanism of Action section of the FDA-approved prescribing information for voxelotor: "Voxelotor is a hemoglobin S (HbS) polymerization inhibitor that binds to HbS with a 1:1 stoichiometry and exhibits preferential partitioning to red blood cells (RBCs). By increasing the affinity of Hb for oxygen, voxelotor demonstrates dose-dependent inhibition of HbS polymerization." ([DailyMed: Oxbryta (voxelotor) prescribing information, Global Blood Therapeutics, Inc, A subsidiary of Pfizer Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3c557fac-29ec-483f-b691-8a935d4decc3), label version 2023-12-26; accessed 2026-11-19.) Voxelotor is generally known as a hemoglobin S polymerization inhibitor that increases hemoglobin-oxygen affinity, which is the basis of its use in sickle cell anemia.
 
 That mechanism acts on red blood cells. There is no evident connection to platelet production or function, which is the area affected by the predicted indication. Because no mechanistic bridge can be verified, the high score (0.9958) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -107,6 +107,19 @@ The prediction is supported only by a TxGNN model (deep learning) score.
 - Package insert warnings and contraindications, which are required before any safety screening
 - Preclinical or literature evidence linking voxelotor to platelet production or function
 - Clarification of the reasons for the cancellation of the US authorizations and of the regulatory path to supply the drug for any new study
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Oxbryta (voxelotor) prescribing information, Global Blood Therapeutics, Inc, A subsidiary of Pfizer Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3c557fac-29ec-483f-b691-8a935d4decc3) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Laubry-Pezzi syndrome** (vent
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ropeginterferon alfa-2b is a long-acting interferon that modulates JAK2-mutant myeloproliferative clones, and its efficacy in polycythemia vera has been studied in randomized trials.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ropeginterferon alfa-2b: "Interferon alfa belongs to the class of type I interferons, which exhibit their cellular effects in polycythemia vera and essential thrombocythemia in the bone marrow by binding to a transmembrane receptor termed interferon alfa receptor (IFNAR). Binding to IFNAR initiates a downstream signaling cascade through the activation of kinases, in particular Janus kinase 1 (JAK1) and tyrosine kinase 2 (TYK2) and activator of transcription (STAT) proteins." ([DailyMed: Besremi (ropeginterferon alfa-2b) prescribing information, PharmaEssentia USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9583405d-53a0-49dc-88eb-5e6384ebabcb), label version 2026-08-25; accessed 2026-11-19.) Based on known information, ropeginterferon alfa-2b is a long-acting interferon that modulates JAK2-mutant myeloproliferative clones, and its efficacy in polycythemia vera has been studied in randomized trials.
 
 However, no plausible mechanistic link to the predicted indication can be identified. Laubry-Pezzi syndrome is a structural cardiac anomaly, and interferon-based immunomodulation or antiproliferative activity has no known action on it. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so the prediction should be treated as a hypothesis with no biological support.
 
@@ -119,12 +119,13 @@ The prediction rests only on a model score. There are no clinical trials or lite
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license is listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(the BLA is listed as cancelled)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Besremi (ropeginterferon alfa-2b) prescribing information, PharmaEssentia USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9583405d-53a0-49dc-88eb-5e6384ebabcb) |
 
 <!-- review:end log -->
 

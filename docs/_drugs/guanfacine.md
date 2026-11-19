@@ -60,7 +60,7 @@ Currently **0 clinical trials** and **0 publications** support this prediction, 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Guanfacine is known to be a selective alpha-2A adrenergic agonist. It strengthens prefrontal cortical regulation and reduces noradrenergic tone, which underlies its effects in hypertension and ADHD.
+According to the Mechanism of Action section of the FDA-approved prescribing information for guanfacine: "Guanfacine is a central alpha 2A -adrenergic receptor agonist. Guanfacine is not a central nervous system (CNS) stimulant. The mechanism of action of guanfacine in ADHD is not known." ([DailyMed: Guanfacine Extended-Release (guanfacine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3ec4fed6-cafc-49a0-9540-8d70ac435769), label version 2026-10-15; accessed 2026-11-19.) Guanfacine is known to be a selective alpha-2A adrenergic agonist. It strengthens prefrontal cortical regulation and reduces noradrenergic tone, which underlies its effects in hypertension and ADHD.
 
 The predicted disease is a rare genetic developmental disorder. No plausible mechanistic connection between alpha-2A agonism and this condition was identified. The high model score is not backed by any clinical trial or published study, so the prediction should be treated as a computational signal that has not been validated.
 
@@ -131,12 +131,13 @@ The prediction has no supporting trials or literature, and no plausible biologic
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "There are 11 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Guanfacine Extended-Release (guanfacine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3ec4fed6-cafc-49a0-9540-8d70ac435769) |
 
 <!-- review:end log -->
 

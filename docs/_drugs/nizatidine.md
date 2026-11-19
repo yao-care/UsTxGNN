@@ -54,7 +54,7 @@ Nizatidine is an H2-receptor antagonist (acid-suppressing drug). The TxGNN model
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Nizatidine belongs to the H2-receptor antagonist class, which lowers gastric acid secretion.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for nizatidine: "Nizatidine is a competitive, reversible inhibitor of histamine at the histamine H 2 -receptors, particularly those in the gastric parietal cells. Antisecretory Activity Effects on Acid Secretion Nizatidine significantly inhibited nocturnal gastric acid secretion for up to 12 hours." ([DailyMed: nizatidine prescribing information, Epic Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9957997-8b85-48a0-9bb3-b878cb223236), label version 2025-01-02; accessed 2026-11-19.) Nizatidine belongs to the H2-receptor antagonist class, which lowers gastric acid secretion.
 
 Duodenal obstruction is mostly a mechanical or fibrotic complication of ulcer disease. Acid suppression could reduce ulcer-related inflammation, which might limit one contributing factor. It would not relieve an established obstruction, which usually needs endoscopic or surgical management. The mechanistic link is therefore weak and indirect, and the prediction should be treated as a hypothesis only.
 
@@ -97,6 +97,19 @@ The prediction score is high, but there are no clinical trials or publications f
 - Any clinical or observational evidence that directly studies nizatidine in duodenal obstruction
 - Mechanism-of-action data and a clearer rationale for how acid suppression could help
 - Package insert warnings and contraindications, to complete the safety review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: nizatidine prescribing information, Epic Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9957997-8b85-48a0-9bb3-b878cb223236) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

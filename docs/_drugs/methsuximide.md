@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **insomnia**, but **no clinical
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general pharmacological knowledge, methsuximide is a succinimide anticonvulsant thought to act mainly by inhibiting T-type calcium channels in thalamic neurons. These channels help shape thalamocortical rhythms and sedation, so an effect on sleep is plausible.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for methsuximide: "Methsuximide suppresses the paroxysmal three cycle per second spike and wave activity associated with lapses of consciousness which is common in absence (petit mal) seizures. The frequency of epileptiform attacks is reduced, apparently by depression of the motor cortex and elevation of the threshold of the central nervous system to convulsive stimuli." ([DailyMed: Celontin (methsuximide) prescribing information, Parke-Davis Div of Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=64a6ee88-c6b1-4e13-8208-b6772ef65a74), label version 2026-04-07; accessed 2026-11-19.) Based on general pharmacological knowledge, methsuximide is a succinimide anticonvulsant thought to act mainly by inhibiting T-type calcium channels in thalamic neurons. These channels help shape thalamocortical rhythms and sedation, so an effect on sleep is plausible.
 
 However, no direct link between methsuximide and insomnia is documented. The high score (0.9997) is a computational prediction only. A closely related prediction, "sleep disorder, initiating and maintaining sleep" (score 0.9970), relies on the same speculative hypothesis and likewise has no trials or literature.
 
@@ -116,6 +116,19 @@ The insomnia prediction is supported only by a model score, with no clinical tri
 - Detailed mechanism-of-action data (for example, from DrugBank)
 - Preclinical or early clinical evidence of methsuximide's effect on sleep
 - Review of the sedation and CNS-depressant interaction risks in a sleep population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Celontin (methsuximide) prescribing information, Parke-Davis Div of Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=64a6ee88-c6b1-4e13-8208-b6772ef65a74) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

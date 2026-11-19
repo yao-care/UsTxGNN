@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **pancreatitis**, but there are
 
 ## Why is This Prediction Reasonable?
 
-Omidenepag isopropyl is a prodrug. Its active metabolite, omidenepag, is a selective EP2 receptor agonist. EP2 signaling raises intracellular cAMP and has anti-inflammatory and smooth-muscle-relaxing effects, which could plausibly bear on pancreatic inflammation. Detailed mechanism-of-action data are not currently available in the compiled data, so this reasoning is based on the known pharmacology of the drug class.
+Omidenepag isopropyl is a prodrug. Its active metabolite, omidenepag, is a selective EP2 receptor agonist. EP2 signaling raises intracellular cAMP and has anti-inflammatory and smooth-muscle-relaxing effects, which could plausibly bear on pancreatic inflammation. According to the Mechanism of Action section of the FDA-approved prescribing information for omidenepag isopropyl: "Omidenepag is a relatively selective EP2 receptor agonist which decreases intraocular pressure (IOP). The exact mechanism of action is unknown at this time. Elevated IOP represents a major risk factor for glaucomatous field loss." ([DailyMed: Omlonti (omidenepag isopropyl) prescribing information, Ocuvex Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4258e437-7e92-4b09-baf1-01cb158cfc05), label version 2025-04-21; accessed 2026-11-19.) This reasoning is based on the known pharmacology of the drug class.
 
 The link between the original and new indications is weak. Glaucoma treatment relies on increasing aqueous humour outflow in the eye, while pancreatitis is an inflammatory disease of an internal organ. The drug is a topical eye drop with minimal systemic exposure, and no pancreatic data exist. The high TxGNN score (0.9976, model rank 6,557) is a computational prediction only.
 
@@ -121,12 +121,13 @@ The pancreatitis prediction is supported only by a model score, with no clinical
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The drug is a topical ocular product with minimal systemic exposure, and its only US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Clarification of the cancelled NDA status and the reasons for it" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not currently available in the compiled data, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Omlonti (omidenepag isopropyl) prescribing information, Ocuvex Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4258e437-7e92-4b09-baf1-01cb158cfc05) |
 
 <!-- review:end log -->
 

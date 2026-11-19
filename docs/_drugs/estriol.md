@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **amenorrhea**, with **0 regist
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, estriol is an estrogen that acts on estrogen receptor alpha (ESR1) and estrogen receptor beta (ESR2). It is a weak agonist at these receptors. Its original indication is not documented in the data compiled for this report, although it has been marketed in Europe and Asia for more than 40 years for post-menopausal hot flashes.
+ChEMBL (EMBL-EBI) records the mechanism of action of estriol as: Estrogen receptor modulator ([ChEMBL CHEMBL193482 (estriol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL193482), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, estriol is an estrogen that acts on estrogen receptor alpha (ESR1) and estrogen receptor beta (ESR2). It is a weak agonist at these receptors. Its original indication is not documented in the data compiled for this report, although it has been marketed in Europe and Asia for more than 40 years for post-menopausal hot flashes.
 
 Functional hypothalamic amenorrhea (FHA) is a reversible endocrine disorder in which GnRH pulsatility is suppressed. This lowers LH and FSH release and leads to a low-estrogen state. Low-dose estrogens may act as neuroendocrine modulators that restore feedback on LH secretion. A 2012 study reported that estriol administration modulated LH secretion in women with FHA, and a 2023 review proposed a putative mechanism for this effect.
 
@@ -122,11 +122,12 @@ The only direct support is one small physiological study and one narrative revie
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 4 of 4 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL193482 (estriol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL193482) |
 
 <!-- review:end log -->
 

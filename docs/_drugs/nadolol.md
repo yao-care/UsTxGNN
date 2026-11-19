@@ -56,7 +56,7 @@ but **0 clinical trials** and **0 publications** currently support this specific
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, nadolol is a non-selective beta-adrenergic blocker, its efficacy in hypertension is established, and mechanistically it may be applicable to hypertension-related end-organ disease. Beta-blockade also reduces renin release from the kidney, which is relevant when the renin-angiotensin system is activated.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for nadolol: "Nadolol is a nonselective beta-adrenergic receptor blocking agent. Clinical pharmacology studies have demonstrated beta-blocking activity by showing reduction in heart rate and cardiac output at rest and on exercise, reduction of systolic and diastolic blood pressure at rest and on exercise, inhibition of isoproterenol-induced tachycardia, and reduction of reflex orthostatic tachycardia." ([DailyMed: nadolol prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f11553f1-18ec-41b0-a7ad-1c9f21ef2c9f), label version 2026-09-07; accessed 2026-11-19.) Based on known information, nadolol is a non-selective beta-adrenergic blocker, its efficacy in hypertension is established, and mechanistically it may be applicable to hypertension-related end-organ disease. Beta-blockade also reduces renin release from the kidney, which is relevant when the renin-angiotensin system is activated.
 
 Malignant hypertensive renal disease is a severe kidney complication of hypertension. The TxGNN model (deep learning) score of 0.9959 may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -163,13 +163,14 @@ The prediction is mechanistically plausible but has no supporting trials or lite
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Six valid licenses are currently on record, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 6 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given that the drug is marketed with 6 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: nadolol prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f11553f1-18ec-41b0-a7ad-1c9f21ef2c9f) |
 
 <!-- review:end log -->
 

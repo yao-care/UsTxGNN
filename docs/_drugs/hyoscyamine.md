@@ -56,7 +56,7 @@ but currently there are **0 registered clinical trials** and only **1 publicatio
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, hyoscyamine is a non-selective antimuscarinic agent. Gastric acid secretion and gastrointestinal motility and spasm are both modulated by muscarinic receptors, which is the basis of its use in peptic ulcer disease.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for hyoscyamine: "Hyoscyamine sulfate inhibits specifically the actions of acetylcholine on structures innervated by postganglionic cholinergic nerves and on smooth muscles that respond to acetylcholine but lack cholinergic innervation. These peripheral cholinergic receptors are present in the autonomic effector cells of the smooth muscle, cardiac muscle, the sinoatrial node, the atrioventricular node, and the exocrine glands." ([DailyMed: Nulev (hyoscyamine sulfate) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ae2a78b2-b811-11e2-9e96-0800200c9a66), label version 2025-07-15; accessed 2026-11-19.) Based on known information, hyoscyamine is a non-selective antimuscarinic agent. Gastric acid secretion and gastrointestinal motility and spasm are both modulated by muscarinic receptors, which is the basis of its use in peptic ulcer disease.
 
 Gastroduodenitis is an inflammatory condition of the same anatomical region. Reduced secretion and reduced spasm could therefore plausibly relieve symptoms. However, this link is symptomatic only: antimuscarinics do not treat the underlying inflammation or causes such as *H. pylori* infection. The high TxGNN score (0.9959) is a computational prediction, not clinical evidence.
 
@@ -114,6 +114,19 @@ The prediction has no registered clinical trials and no directly relevant litera
 - A targeted literature search on antimuscarinics in gastroduodenitis or gastritis, and review of whether any trials exist
 - Clarification of the knowledge-graph gastritis and gastric ulcer contraindication signals
 - Confirmation of the regulatory pathway, given the cancelled US status, and of route and formulation compatibility
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nulev (hyoscyamine sulfate) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ae2a78b2-b811-11e2-9e96-0800200c9a66) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

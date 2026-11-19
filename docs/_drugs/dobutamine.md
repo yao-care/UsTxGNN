@@ -56,7 +56,7 @@ This prediction is best regarded as a likely model artifact rather than a genuin
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, dobutamine is a beta-1 adrenergic agonist that increases myocardial contractility and is given only by intravenous infusion.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for dobutamine: "Dobutamine hydrochloride is a direct-acting inotropic agent whose primary activity results from stimulation of the beta-receptors of the heart while producing comparatively mild chronotropic, hypertensive, arrhythmogenic, and vasodilative effects. It does not cause the release of endogenous norepinephrine, as does dopamine." ([DailyMed: Dobutamine Hydrochloride In Dextrose (dobutamine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b17b98b-e06d-42ed-925f-69aa2699dead), label version 2023-09-08; accessed 2026-11-19.) Based on general pharmacology, dobutamine is a beta-1 adrenergic agonist that increases myocardial contractility and is given only by intravenous infusion.
 
 There is no plausible mechanistic link between this action and hair follicle biology. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The only retrieved paper reports heart failure caused by minoxidil intoxication in a cat, so it concerns minoxidil cardiotoxicity and not a dobutamine benefit.
 
@@ -135,12 +135,13 @@ The prediction is supported only by a model score. There are no clinical trials 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All five US authorizations are valid, and no approved-indication text is available in the compiled data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "all five US licenses are valid, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dobutamine Hydrochloride In Dextrose (dobutamine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b17b98b-e06d-42ed-925f-69aa2699dead) |
 
 <!-- review:end log -->
 

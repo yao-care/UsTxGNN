@@ -56,7 +56,7 @@ with **3 clinical trials** (1 completed, 1 of unknown status, 1 not yet recruiti
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, nitroglycerin is a nitric oxide donor. NO activates soluble guanylate cyclase, raises cGMP in vascular smooth muscle, and causes vasodilation.
+According to the Mechanism of Action section of the FDA-approved prescribing information for nitroglycerin: "Nitroglycerin forms free radical nitric oxide (NO), which activates guanylate cyclase, resulting in an increase of guanosine 3',5'-monophosphate (cyclic GMP) in smooth muscle and other tissues. This eventually leads to dephosphorylation of myosin light chains, which regulates the contractile state in smooth muscle and results in vasodilatation." ([DailyMed: Nitroglycerin Lingual (nitroglycerin) prescribing information, Allegis Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fadd07b7-189b-4678-ad0f-bf1e4d3d1300), label version 2025-12-17; accessed 2026-11-19.) Based on general pharmacology, nitroglycerin is a nitric oxide donor. NO activates soluble guanylate cyclase, raises cGMP in vascular smooth muscle, and causes vasodilation.
 
 Pulmonary hypertension is driven in large part by pulmonary vasoconstriction and elevated pulmonary vascular resistance. Vasodilator pathways such as inhaled NO, PDE5 inhibitors and sGC stimulators are already used in this condition. Delivered by nebulization, nitroglycerin may act as a relatively selective pulmonary vasodilator with less systemic hypotension than intravenous use. This is mechanistically coherent with the high TxGNN score.
 
@@ -136,12 +136,13 @@ The biological rationale is coherent and there are small randomized and hemodyna
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All nine US authorizations are valid, and the drug is marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with nine valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nitroglycerin Lingual (nitroglycerin) prescribing information, Allegis Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fadd07b7-189b-4678-ad0f-bf1e4d3d1300) |
 
 <!-- review:end log -->
 

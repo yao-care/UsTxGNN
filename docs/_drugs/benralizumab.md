@@ -59,7 +59,7 @@ The TxGNN model's top-scoring predictions have no supporting studies. The best-s
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From the pharmacology data, benralizumab binds the IL-5 receptor alpha subunit (IL5RA) and depletes eosinophils and basophils through antibody-dependent cell-mediated cytotoxicity. Its original indications, eosinophilic pneumonia and pulmonary eosinophilia, are eosinophil-driven diseases.
+According to the Mechanism of Action section of the FDA-approved prescribing information for benralizumab: "Benralizumab is a humanized afucosylated, monoclonal antibody (IgG1, kappa) that directly binds to the alpha subunit of the human interleukin-5 receptor (IL-5Rα) with a dissociation constant of 11 pM. The IL-5 receptor is expressed on the surface of eosinophils and basophils." ([DailyMed: Fasenra (benralizumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da6aca1a-19ed-44a4-abb7-696c7d58b784), label version 2026-05-13; accessed 2026-11-19.) From the pharmacology data, benralizumab binds the IL-5 receptor alpha subunit (IL5RA) and depletes eosinophils and basophils through antibody-dependent cell-mediated cytotoxicity. Its original indications, eosinophilic pneumonia and pulmonary eosinophilia, are eosinophil-driven diseases.
 
 Eosinophils, basophils and type 2 innate lymphoid cells contribute to type 2 inflammation in atopic dermatitis and related skin diseases, so a plausible mechanistic link to dermatitis exists. However, blocking the IL-5 pathway has shown limited clinical benefit in atopic dermatitis compared with blocking IL-4/IL-13 (for example, dupilumab). The Phase 2 HILLIER trial was terminated, and its published report is titled "Lack of effect of benralizumab on signs and symptoms of moderate-to-severe atopic dermatitis."
 
@@ -137,11 +137,12 @@ The best-supported prediction (dermatitis) has only one terminated Phase 2 place
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "since the data list the BLA as cancelled while pharmacology data describe approved uses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fasenra (benralizumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da6aca1a-19ed-44a4-abb7-696c7d58b784) |
 
 <!-- review:end log -->
 

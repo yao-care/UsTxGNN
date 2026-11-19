@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, icosapent ethyl is a purified form of eicosapentaenoic acid (EPA) that lowers triglycerides, and its efficacy in hypertriglyceridemia is the basis of its original indication. Mechanistically, it may be applicable to hemoglobinopathy.
+According to the Mechanism of Action section of the FDA-approved prescribing information for icosapent ethyl: "Studies suggest that EPA reduces hepatic very low-density lipoprotein triglycerides (VLDL-TG) synthesis and/or secretion and enhances TG clearance from circulating VLDL particles. Potential mechanisms of action include increased β-oxidation; inhibition of acyl-CoA:1,2-diacylglycerol acyltransferase (DGAT); decreased lipogenesis in the liver; and increased plasma lipoprotein lipase activity." ([DailyMed: Icosapent (icosapent ethyl) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cc28828d-beab-45cc-a3b6-151c5fee3924), label version 2026-08-10; accessed 2026-11-19.) Based on known information, icosapent ethyl is a purified form of eicosapentaenoic acid (EPA) that lowers triglycerides, and its efficacy in hypertriglyceridemia is the basis of its original indication. Mechanistically, it may be applicable to hemoglobinopathy.
 
 A plausible but unverified link is that EPA has anti-inflammatory, anti-oxidative, and triglyceride-lowering effects. These could in principle act on the chronic inflammation, oxidative stress, endothelial dysfunction, and vaso-occlusion seen in sickle cell disease and related hemoglobinopathies. Omega-3 fatty acids have been studied in sickle cell disease, but no such literature was included in the data compiled for this report, so it is not cited here. It would need to be retrieved and verified before it could support any recommendation.
 
@@ -124,13 +124,14 @@ The only support for this indication is a high TxGNN score, with no clinical tri
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Five further authorizations (ANDA216811, ANDA217656, ANDA217844, ANDA218899, ANDA217919) are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 10 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 10 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Icosapent (icosapent ethyl) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cc28828d-beab-45cc-a3b6-151c5fee3924) |
 
 <!-- review:end log -->
 

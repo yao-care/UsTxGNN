@@ -58,7 +58,7 @@ Esomeprazole is a proton pump inhibitor originally used for acid-related conditi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on the known class mechanism, esomeprazole is a proton pump inhibitor. It blocks the H+/K+ ATPase in gastric parietal cells, which suppresses acid secretion and raises intragastric pH. Its efficacy in acid-related conditions is well established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for esomeprazole: "Esomeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell. Esomeprazole is protonated and converted in the acidic compartment of the parietal cell forming the active inhibitor, the achiral sulphenamide." ([DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96), label version 2025-12-19; accessed 2026-11-19.) Based on the known class mechanism, esomeprazole is a proton pump inhibitor. It blocks the H+/K+ ATPase in gastric parietal cells, which suppresses acid secretion and raises intragastric pH. Its efficacy in acid-related conditions is well established.
 
 The link to duodenogastric reflux is **indirect**. This condition involves bile and duodenal contents flowing back into the stomach, driven mainly by non-acid factors such as motility problems and pyloric dysfunction. Acid suppression may ease symptoms or mucosal injury caused by the acidic part of the refluxate. It does not address the bile-reflux mechanism itself. The high model score most likely reflects network proximity to other acid-peptic diseases rather than a confirmed therapeutic effect.
 
@@ -79,7 +79,6 @@ Currently no related clinical trials registered.
 ---
 
 ## US Market Information
-
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -114,6 +113,19 @@ The mechanistic link is indirect, because the condition is largely non-acid driv
 - A review of the DDI burden for the likely patient population
 
 Another prediction in the same analysis, duodenal ulcer, is much better supported. It has multiple completed Phase 3 trials, and it is better described as a near-label indication than as true repurposing. It may be the stronger candidate to pursue first.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

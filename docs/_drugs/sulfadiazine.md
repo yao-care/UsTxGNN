@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and only **indirect literature (20
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, sulfadiazine is a sulfonamide that inhibits dihydropteroate synthase (DHPS) in the folate biosynthesis pathway. Its efficacy in toxoplasmosis is established.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for sulfadiazine: "The systemic sulfonamides are bacteriostatic agents having a similar spectrum of activity. Sulfonamides competitively inhibit bacterial synthesis of folic acid (pteroylglutamic acid) from aminobenzoic acid. Resistant strains are capable of utilizing folic acid precursors or preformed folic acid." ([DailyMed: sulfadiazine prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6032d6f7-cbce-4e5d-841c-a1e24b616f91), label version 2024-09-24; accessed 2026-11-19.) Based on known pharmacology, sulfadiazine is a sulfonamide that inhibits dihydropteroate synthase (DHPS) in the folate biosynthesis pathway. Its efficacy in toxoplasmosis is established.
 
 *Pneumocystis jirovecii* also depends on the folate pathway. Sulfonamides, notably sulfamethoxazole combined with trimethoprim, are established therapy for Pneumocystis pneumonia. This gives a plausible class-level mechanistic link. Both toxoplasmosis and pneumocystosis are also common opportunistic infections in patients with AIDS, and the literature often discusses them together.
 
@@ -144,12 +144,13 @@ The second prediction, **punctate epithelial keratoconjunctivitis** (TxGNN score
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and both US licenses are cancelled, which limits practical availability" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given that both licenses are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: sulfadiazine prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6032d6f7-cbce-4e5d-841c-a1e24b616f91) |
 
 <!-- review:end log -->
 

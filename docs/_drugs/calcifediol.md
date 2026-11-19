@@ -54,7 +54,7 @@ Calcifediol is the 25-hydroxylated form of vitamin D3, the main circulating vita
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, calcifediol is the direct circulating precursor of calcitriol and the main biomarker of vitamin D status, so replenishing it in vitamin D deficiency is mechanistically plausible.
+According to the Mechanism of Action section of the FDA-approved prescribing information for calcifediol: "Calcifediol (25-hydroxyvitamin D 3 ) is a prohormone of the active form of vitamin D 3, calcitriol (1,25‑dihydroxyvitamin D 3 ). Calcifediol is converted to calcitriol by cytochrome P450 27B1 (CYP27B1), also called 1-alpha hydroxylase, primarily in the kidney." ([DailyMed: Rayaldee (calcifediol) prescribing information, OPKO Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a95effd-32a5-46b6-a30e-7f4f9bf8cc77), label version 2024-01-19; accessed 2026-11-19.) Based on known pharmacology, calcifediol is the direct circulating precursor of calcitriol and the main biomarker of vitamin D status, so replenishing it in vitamin D deficiency is mechanistically plausible.
 
 However, this is the drug's native physiological role, and the disease term is flagged as obsolete in the ontology. It should not be read as proof of benefit, and it is not a probability of success.
 
@@ -96,6 +96,19 @@ The prediction has no supporting trials or publications (evidence level L5). It 
 - FDA package insert warnings and contraindications
 - Mechanism of action data
 - A safety plan for hypercalcemia, kidney disease and the major drug interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Rayaldee (calcifediol) prescribing information, OPKO Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a95effd-32a5-46b6-a30e-7f4f9bf8cc77) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

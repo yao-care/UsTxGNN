@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Oral Candidiasis**, but there
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Based on known information, rifaximin is a non-absorbable, gut-restricted antibacterial. It has no known direct antifungal activity.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for rifaximin: "Rifaximin is an antibacterial drug. […] Rifaximin is a semi-synthetic derivative of rifampin and acts by binding to the beta-subunit of bacterial DNA-dependent RNA polymerase blocking one of the steps in transcription. This results in inhibition of bacterial protein synthesis and consequently inhibits the growth of bacteria." ([DailyMed: Xifaxan (rifaximin) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7afafa63-3236-4212-9589-045db6b01c0b), label version 2025-08-27; accessed 2026-11-19.) Based on known information, rifaximin is a non-absorbable, gut-restricted antibacterial. It has no known direct antifungal activity.
 
 The available literature does not support the prediction. The only linked report describes rifaximin use *favouring* micafungin-resistant Candida infections in allogeneic hematopoietic cell transplant recipients. This suggests a plausible harm mechanism: antibiotic-driven disruption of the gut microbiome can allow Candida overgrowth. The high TxGNN score therefore conflicts with the available evidence and is likely an artifact of co-occurrence in the literature rather than a true therapeutic signal.
 
@@ -109,11 +109,12 @@ The prediction rests on a model score alone. The only supporting literature sugg
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Clarification of the current US marketing status, since the only NDA on record is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xifaxan (rifaximin) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7afafa63-3236-4212-9589-045db6b01c0b) |
 
 <!-- review:end log -->
 

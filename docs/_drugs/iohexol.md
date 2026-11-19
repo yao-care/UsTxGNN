@@ -56,7 +56,7 @@ This is a model-only prediction with no supporting evidence, and the mechanistic
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Iohexol is a non-ionic, iodinated contrast agent. It is considered pharmacologically inert and has no known activity on sleep-regulating pathways such as GABAergic, orexinergic, melatonergic or histaminergic signalling.
+According to the Mechanism of Action section of the FDA-approved prescribing information for iohexol: "The iodine atoms in iohexol provide attenuation of X-rays in direct proportion to the concentration of iohexol. Since concentration changes over time, iohexol provides time-dependent image contrast which may assist in visualizing body structures." ([DailyMed: Omnipaque (iohexol) prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=508c42eb-f5e5-44f1-e063-6294a90a4d1f), label version 2026-04-28; accessed 2026-11-19.) Iohexol is a non-ionic, iodinated contrast agent. It is considered pharmacologically inert and has no known activity on sleep-regulating pathways such as GABAergic, orexinergic, melatonergic or histaminergic signalling.
 
 There is no clear relationship between its original use (imaging) and insomnia. The very high TxGNN score (0.9987) is a TxGNN model (deep learning) prediction only. It is not supported by any clinical trial or publication, and it likely reflects network artifacts, such as the large number of drug-drug interaction relationships (100 recorded), rather than a true pharmacological effect.
 
@@ -115,6 +115,19 @@ Both predictions (insomnia and anxiety) are supported only by the TxGNN model sc
 - Mechanism of action data, to test whether any biologically plausible link to sleep or anxiety pathways exists
 - Any preclinical or clinical signal for insomnia, otherwise the prediction should be treated as a likely TxGNN model (deep learning) artifact
 - Clarification of the original approved indication, since the license records contain none
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Omnipaque (iohexol) prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=508c42eb-f5e5-44f1-e063-6294a90a4d1f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

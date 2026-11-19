@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Faciodigitogenital Syndrome**
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, dextroamphetamine is a stimulant whose efficacy in ADHD and narcolepsy is established, and it is generally understood to increase catecholamine (dopamine and norepinephrine) activity in the brain.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for dextroamphetamine: "Amphetamines are noncatecholamine, sympathomimetic amines with CNS stimulant activity. Peripheral actions include elevations of systolic and diastolic blood pressures and weak bronchodilator and respiratory stimulant action." ([DailyMed: Dextroamphetamine Sulfate Extended-Release (dextroamphetamine sulfate) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69c40af8-3710-46bf-bd3d-137fe5eea23e), label version 2025-12-08; accessed 2026-11-19.) Based on known information, dextroamphetamine is a stimulant whose efficacy in ADHD and narcolepsy is established, and it is generally understood to increase catecholamine (dopamine and norepinephrine) activity in the brain.
 
 Faciodigitogenital syndrome (Aarskog-Scott syndrome) is an X-linked developmental disorder caused by FGD1 variants. It often involves ADHD-like behavioral features. Dextroamphetamine might plausibly address those symptoms, but this link is inferred. The data compiled for this report contain no supporting studies, and the high score reflects a TxGNN model (deep learning) prediction rather than clinical findings.
 
@@ -111,11 +111,12 @@ The prediction for faciodigitogenital syndrome rests on a model score alone (TxG
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dextroamphetamine Sulfate Extended-Release (dextroamphetamine sulfate) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69c40af8-3710-46bf-bd3d-137fe5eea23e) |
 
 <!-- review:end log -->
 

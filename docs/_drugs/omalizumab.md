@@ -54,7 +54,7 @@ Omalizumab is an anti-IgE monoclonal antibody used in allergic disease. The TxGN
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. From the drug's known pharmacology, omalizumab binds free IgE (target: immunoglobulin heavy constant epsilon, IGHE), lowering free IgE and the activation of mast cells and basophils, and so dampening allergic airway inflammation.
+According to the Mechanism of Action section of the FDA-approved prescribing information for omalizumab: "Asthma, Chronic Rhinosinusitis with Nasal Polyps, and IgE-Mediated Food Allergy Omalizumab products inhibit the binding of IgE to the high-affinity IgE receptor (FcεRI) on the surface of mast cells, basophils, and dendritic cells, resulting in FcεRI down-regulation on these cells. In allergic asthmatics, treatment with omalizumab products inhibit IgE-mediated inflammation, as evidenced by reduced blood and tissue eosinophils and reduced inflammatory mediators, including IL-4, IL-5, and IL-13." ([DailyMed: Omlyclo (omalizumab-igec) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dbd8709f-1636-45d9-ba94-5a3bc5f22f84), label version 2026-10-06; accessed 2026-11-19.) From the drug's known pharmacology, omalizumab binds free IgE (target: immunoglobulin heavy constant epsilon, IGHE), lowering free IgE and the activation of mast cells and basophils, and so dampening allergic airway inflammation.
 
 Any benefit in bronchitis would most likely be indirect, for example in people with allergic asthma or asthma-COPD overlap who also have a chronic bronchitis phenotype. No study directly tests bronchitis as the indication, so the mechanistic link is a hypothesis rather than a demonstrated effect. The high model score should be read as a computational signal only.
 
@@ -101,6 +101,18 @@ No published study supports omalizumab in bronchitis. The one related trial (NCT
 - A clear definition of the target bronchitis population (for example eosinophilic bronchitis or a type 2-high chronic bronchitis phenotype)
 - A properly powered, controlled trial with bronchitis-specific outcomes
 - Mechanism-of-action data and the full package insert warnings and contraindications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Omlyclo (omalizumab-igec) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dbd8709f-1636-45d9-ba94-5a3bc5f22f84) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

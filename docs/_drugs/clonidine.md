@@ -71,7 +71,7 @@ The top-ranked prediction has no supporting evidence. Other predictions have mor
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, clonidine is an alpha-2 adrenergic agonist that reduces noradrenergic outflow. Its efficacy in hypertension and ADHD is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for clonidine: "Clonidine stimulates alpha-adrenoreceptors in the brain stem. This action results in reduced sympathetic outflow from the central nervous system and in decreases in peripheral resistance, renal vascular resistance, heart rate, and blood pressure." ([DailyMed: Qlonilik (clonidine hydrochloride) prescribing information, CMP Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=826de1dc-378e-4c90-86d1-e33f7a4248cd), label version 2026-08-12; accessed 2026-11-19.) Based on known information, clonidine is an alpha-2 adrenergic agonist that reduces noradrenergic outflow. Its efficacy in hypertension and ADHD is established.
 
 For the top-ranked prediction, faciodigitogenital syndrome, no plausible mechanistic link is evident. This is a rare developmental genetic disorder, and the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same applies to chondromyxoid fibroma, hypervitaminosis and proximal 16p11.2 microdeletion syndrome. These should not be pursued without new supporting data.
 
@@ -169,13 +169,14 @@ Package insert warnings and contraindications were not available for this report
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "US authorizations are all cancelled, and l" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Qlonilik (clonidine hydrochloride) prescribing information, CMP Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=826de1dc-378e-4c90-86d1-e33f7a4248cd) |
 
 <!-- review:end log -->
 

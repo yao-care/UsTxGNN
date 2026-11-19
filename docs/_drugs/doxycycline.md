@@ -60,7 +60,7 @@ That direction is backed by **11 clinical trials** (several completed Phase 4 an
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, doxycycline is a tetracycline-class antibiotic that inhibits bacterial protein synthesis at the 30S ribosomal subunit. It also has anti-inflammatory and matrix metalloproteinase (MMP)-inhibiting effects.
+According to the Mechanism of Action section of the FDA-approved prescribing information for doxycycline: "Doxycycline inhibits bacterial protein synthesis by binding to the 30S ribosomal subunit. Doxycycline has bacteriostatic activity against a broad range of Gram-positive and Gram-negative bacteria." ([DailyMed: Doxycyclate Hyclate (doxycycline hyclate) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4dc319c1-b7ef-40e4-9e66-fb24cfdefea8), label version 2026-07-09; accessed 2026-11-19.) Based on known pharmacology, doxycycline is a tetracycline-class antibiotic that inhibits bacterial protein synthesis at the 30S ribosomal subunit. It also has anti-inflammatory and matrix metalloproteinase (MMP)-inhibiting effects.
 
 **Top-ranked prediction (punctate epithelial keratoconjunctivitis).** Doxycycline is active against *Chlamydia trachomatis*, and the single supporting publication (a 1992 case report) describes punctate keratitis persisting after chlamydial conjunctivitis had been treated with tetracycline or doxycycline. This is indirect and does not show a treatment effect. The anti-inflammatory properties offer a plausible but unproven link.
 
@@ -174,12 +174,13 @@ Please refer to the package insert for full warnings and precautions.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 15 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 15 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Doxycyclate Hyclate (doxycycline hyclate) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4dc319c1-b7ef-40e4-9e66-fb24cfdefea8) |
 
 <!-- review:end log -->
 

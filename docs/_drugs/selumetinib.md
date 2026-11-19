@@ -62,7 +62,7 @@ with **3 clinical trials** and **6 publications** currently supporting this dire
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Selumetinib is known as a MEK1/2 inhibitor, which blocks the RAS/MAPK signaling pathway. It is established for neurofibromatosis type 1 plexiform neurofibromas, a closely related nerve sheath tumor.
+According to the Mechanism of Action section of the FDA-approved prescribing information for selumetinib: "Selumetinib is an inhibitor of mitogen-activated protein kinase kinases 1 and 2 (MEK1/2). MEK1/2 proteins are upstream regulators of the extracellular signal-related kinase (ERK) pathway. Both MEK and ERK are critical components of the RAS-regulated RAF-MEK-ERK pathway, which is often activated in different types of cancers." ([DailyMed: Koselugo (selumetinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d042c61-f28f-4ab5-ab10-d7558c0d49ff), label version 2026-05-26; accessed 2026-11-19.) Selumetinib is known as a MEK1/2 inhibitor, which blocks the RAS/MAPK signaling pathway. It is established for neurofibromatosis type 1 plexiform neurofibromas, a closely related nerve sheath tumor.
 
 Loss of NF1 or NF2 in Schwann cells drives RAS/MAPK and related signaling, which gives a mechanistic reason to try MEK inhibition in schwannomas (PMID 38216572). Neurofibromatosis and schwannoma are both nerve sheath tumor conditions with overlapping pathway biology.
 
@@ -156,12 +156,13 @@ The mechanistic basis is strong and selumetinib is established in the related NF
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "he US NDAs are listed as cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "of the cancelled NDAs" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Koselugo (selumetinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d042c61-f28f-4ab5-ab10-d7558c0d49ff) |
 
 <!-- review:end log -->
 

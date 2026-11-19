@@ -56,7 +56,7 @@ The score comes from the TxGNN model (deep learning) and may reflect similaritie
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, sulfacetamide is a sulfonamide antibacterial. Sulfonamides generally inhibit bacterial dihydropteroate synthase, blocking folate synthesis. Its use in acne, seborrheic dermatitis and bacterial conjunctivitis is consistent with this antibacterial role.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for sulfacetamide: "The most widely accepted mechanism of action of sulfonamides is the Woods-Fildes theory, based on sulfonamides acting as a competitive inhibitor of para-aminobenzoic acid (PABA) utilization, an essential component for bacterial growth." ([DailyMed: Klaron (sulfacetamide sodium) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66ab38ea-5cea-47be-97f2-486517999fb0), label version 2020-08-31; accessed 2026-11-19.) Based on known information, sulfacetamide is a sulfonamide antibacterial. Sulfonamides generally inhibit bacterial dihydropteroate synthase, blocking folate synthesis. Its use in acne, seborrheic dermatitis and bacterial conjunctivitis is consistent with this antibacterial role.
 
 Postinfectious vasculitis, however, is an immune-mediated sequela that follows an infection rather than an active bacterial infection. A direct antibacterial mechanism is therefore unlikely to be relevant. The very high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. This should be treated as a weak hypothesis.
 
@@ -136,12 +136,13 @@ The prediction for postinfectious vasculitis has no clinical trials or literatur
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All four US licenses are valid, and none has approved indication text on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled license status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Klaron (sulfacetamide sodium) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66ab38ea-5cea-47be-97f2-486517999fb0) |
 
 <!-- review:end log -->
 

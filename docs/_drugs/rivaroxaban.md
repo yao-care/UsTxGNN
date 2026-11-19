@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but t
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general pharmacological knowledge, rivaroxaban is a direct factor Xa inhibitor used for anticoagulation. Its efficacy in venous thromboembolism and atrial fibrillation is established outside this dataset, but the compiled data do not state the original indication.
+According to the Mechanism of Action section of the FDA-approved prescribing information for rivaroxaban: "XARELTO is a selective inhibitor of FXa. It does not require a cofactor (such as Anti-thrombin III) for activity. Rivaroxaban inhibits free FXa and prothrombinase activity. Rivaroxaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin." ([DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610), label version 2026-09-10; accessed 2026-11-19.) Based on general pharmacological knowledge, rivaroxaban is a direct factor Xa inhibitor used for anticoagulation. Its efficacy in venous thromboembolism and atrial fibrillation is established outside this dataset, but the compiled data do not state the original indication.
 
 The only mechanistic link is a loose one. Rheumatoid arthritis is associated with a prothrombotic state, and inflammation-driven coagulation activation (for example, increased thrombin generation) gives a rationale for factor Xa inhibition. At most, this supports thromboprophylaxis in patients who also have rheumatoid arthritis. It does not support disease-modifying activity, and no evidence shows that rivaroxaban changes rheumatoid arthritis activity or outcomes. The high TxGNN score is a network-based prediction and should be read with caution.
 
@@ -132,13 +132,14 @@ The prediction score is very high, but it is a model output only. There are no c
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 9 licenses are valid, and the approved-indication text is not available for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Clarification of the cancelled US licensing status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610) |
 
 <!-- review:end log -->
 

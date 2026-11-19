@@ -56,7 +56,7 @@ Evidence is limited: **1 completed Phase 2 clinical trial** without available re
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Dronabinol is known as a synthetic form of delta-9-THC that acts as a CB1/CB2 agonist.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dronabinol: "Dronabinol is an orally active cannabinoid that has complex effects on the CNS, including central sympathomimetic activity. Cannabinoid receptors have been discovered in neural tissues. These receptors may play a role in mediating the effects of dronabinol." ([DailyMed: Syndros (dronabinol) prescribing information, Benuvia Operations, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7801c70-995d-46a2-91ee-141ef427c6b5), label version 2026-04-21; accessed 2026-11-19.) Dronabinol is known as a synthetic form of delta-9-THC that acts as a CB1/CB2 agonist.
 
 The endocannabinoid system is thought to modulate trigeminovascular pain signalling, serotonergic signalling and release of CGRP (calcitonin gene-related peptide), all of which are involved in migraine. This gives a plausible mechanistic basis for the prediction.
 
@@ -119,11 +119,12 @@ The only study directly addressing migraine is a completed Phase 2 trial with no
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "This list may be partial. Of the records listed, 2 are valid and 2 are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Syndros (dronabinol) prescribing information, Benuvia Operations, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7801c70-995d-46a2-91ee-141ef427c6b5) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ Nabilone is a synthetic cannabinoid capsule. The TxGNN model predicts it may be 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, nabilone is a synthetic agonist of the CB1 and CB2 cannabinoid receptors. The endocannabinoid system modulates trigeminovascular pain signaling, CGRP release and central pain sensitization, all of which are involved in migraine. This offers a plausible mechanistic link.
+ChEMBL (EMBL-EBI) records the mechanism of action of nabilone as: Cannabinoid CB1 receptor agonist ([ChEMBL CHEMBL2218896 (nabilone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2218896), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, nabilone is a synthetic agonist of the CB1 and CB2 cannabinoid receptors. The endocannabinoid system modulates trigeminovascular pain signaling, CGRP release and central pain sensitization, all of which are involved in migraine. This offers a plausible mechanistic link.
 
 The original indication is not recorded in the license data. Publications describe nabilone as approved for chemotherapy-induced vomiting that is refractory to other antiemetics. That indication is not closely related to migraine, so the case for repurposing rests on the shared cannabinoid-receptor pharmacology rather than on similarity between diseases.
 
@@ -125,11 +125,12 @@ The prediction is biologically plausible, but support is limited to an indirect 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "(marketed in the US as Cesamet) that is known as an antiemetic" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2218896 (nabilone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2218896) |
 
 <!-- review:end log -->
 

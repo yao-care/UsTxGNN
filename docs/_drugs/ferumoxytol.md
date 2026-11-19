@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **non-syndromic esophageal malfor
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for ferumoxytol in the data compiled for this report. It is an iron oxide nanoparticle formulation given by injection.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ferumoxytol: "Feraheme consists of a superparamagnetic iron oxide that is coated with a carbohydrate shell, which helps to isolate the bioactive iron from plasma components until the iron-carbohydrate complex enters the reticuloendothelial system macrophages of the liver, spleen and bone marrow. The iron is released from the iron-carbohydrate complex within vesicles in the macrophages." ([DailyMed: Feraheme (ferumoxytol) prescribing information, AMAG Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=32b0e320-a739-11dc-a704-0002a5d5c51b), label version 2026-05-31; accessed 2026-11-19.) It is an iron oxide nanoparticle formulation given by injection.
 
 No plausible mechanistic link to this prediction was identified. Congenital esophageal malformations are structural defects of development, and they are managed by surgical correction. An intravenous iron product would not be expected to change the anatomy of the esophagus. The very high score therefore looks like a statistical artifact of the model, probably driven by shared esophageal anatomy with other predicted diseases, rather than a biologically grounded signal.
 
@@ -76,7 +76,6 @@ Currently no related literature available.
 | NDA022180 | Feraheme (AMAG Pharmaceuticals) | Injection | Not available; status valid |
 | ANDA206604 | Ferumoxytol (Sandoz) | Injection | Not available; status valid |
 | NDA219868 | FeraBright (Azurity Pharmaceuticals) | Injection | Not available; status valid |
-
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -105,6 +104,18 @@ The prediction has no clinical or literature support and no plausible mechanism.
 - Any preclinical or clinical evidence that directly studies this malformation with ferumoxytol
 - A credible mechanistic hypothesis for how an iron oxide nanoparticle could affect esophageal development or repair
 - Mechanism of action data and full package insert warnings and contraindications, to support a later safety review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available for ferumoxytol in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Feraheme (ferumoxytol) prescribing information, AMAG Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=32b0e320-a739-11dc-a704-0002a5d5c51b) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

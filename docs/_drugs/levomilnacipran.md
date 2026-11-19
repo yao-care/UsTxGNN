@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **benign paroxysmal torticollis
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, levomilnacipran is an SNRI. Its efficacy in major depressive disorder has been established, and it is the more active enantiomer of milnacipran.
+According to the Mechanism of Action section of the FDA-approved prescribing information for levomilnacipran: "The exact mechanism of the antidepressant action of levomilnacipran is unknown, but is thought to be related to the potentiation of serotonin and norepinephrine in the central nervous system, through inhibition of reuptake at serotonin and norepinephrine transporters. Non-clinical studies have shown that levomilnacipran is a potent and selective serotonin and norepinephrine reuptake inhibitor (SNRI)." ([DailyMed: Fetzima (levomilnacipran hydrochloride) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f371258d-91b3-4b6a-ac99-434a1964c3af), label version 2024-04-30; accessed 2026-11-19.) Based on known information, levomilnacipran is an SNRI. Its efficacy in major depressive disorder has been established, and it is the more active enantiomer of milnacipran.
 
 Benign paroxysmal torticollis of infancy is an episodic pediatric disorder related to the migraine spectrum and possibly to channelopathies (e.g., CACNA1A). A link to serotonin and norepinephrine reuptake inhibition is speculative. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -126,11 +126,12 @@ The prediction has a very high model score, but there are no clinical trials or 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The target population (infants) adds a major safety barrier, and the only US license on record is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fetzima (levomilnacipran hydrochloride) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f371258d-91b3-4b6a-ac99-434a1964c3af) |
 
 <!-- review:end log -->
 

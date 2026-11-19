@@ -56,7 +56,7 @@ with **2 clinical trials** (one completed Phase 3, one completed Phase 4) and **
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on the known pharmacology of tacrolimus, it is a calcineurin inhibitor. It blocks NFAT-dependent T-cell activation and the release of pro-inflammatory cytokines (IL-2, IL-4, IFN-gamma, TNF-alpha).
+According to the Mechanism of Action section of the FDA-approved prescribing information for tacrolimus: "Tacrolimus binds to an intracellular protein, FKBP-12. A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (an ubiquitous mammalian intracellular enzyme) is then formed and the phosphatase activity of calcineurin inhibited." ([DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7), label version 2025-02-26; accessed 2026-11-19.) Based on the known pharmacology of tacrolimus, it is a calcineurin inhibitor. It blocks NFAT-dependent T-cell activation and the release of pro-inflammatory cytokines (IL-2, IL-4, IFN-gamma, TNF-alpha).
 
 Atopic dermatitis and seborrheic dermatitis are both chronic, relapsing inflammatory skin diseases. Seborrheic dermatitis involves an inflammatory response to *Malassezia* yeast and skin barrier dysfunction. Topical calcineurin inhibition therefore plausibly reduces this inflammation, and the mechanism overlaps with the approved atopic dermatitis use. Clinical studies of tacrolimus ointment as maintenance therapy in facial seborrheic dermatitis support this reasoning.
 
@@ -136,12 +136,13 @@ A completed Phase 3 trial and a completed Phase 4 study in facial seborrheic der
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US licences are all cancelled, and l" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "There are currently 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7) |
 
 <!-- review:end log -->
 

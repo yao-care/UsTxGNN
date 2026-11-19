@@ -60,7 +60,7 @@ The second-ranked prediction, **mycetoma**, is biologically more plausible, but 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, isavuconazonium is a prodrug of isavuconazole, a triazole that inhibits fungal lanosterol 14-alpha-demethylase (CYP51) and blocks ergosterol synthesis. This mechanism is the basis of its activity in aspergillosis and other mold and yeast infections.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for isavuconazonium: "Isavuconazonium sulfate is the prodrug of isavuconazole, an azole antifungal. […] Isavuconazonium sulfate is the prodrug of isavuconazole, an azole antifungal drug. Isavuconazole inhibits the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14-alpha-demethylase." ([DailyMed: Cresemba (isavuconazonium sulfate) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f7f73b8-586a-4df0-935f-fecd4696c16c), label version 2025-04-25; accessed 2026-11-19.) Based on known pharmacology, isavuconazonium is a prodrug of isavuconazole, a triazole that inhibits fungal lanosterol 14-alpha-demethylase (CYP51) and blocks ergosterol synthesis. This mechanism is the basis of its activity in aspergillosis and other mold and yeast infections.
 
 For **pneumocystosis**, the mechanistic link is weak. *Pneumocystis jirovecii* has little or no ergosterol in its cell membrane and uses cholesterol and other sterols instead, so azoles are generally considered poorly active against it. The very high TxGNN score (0.9956) probably reflects a general antifungal class association rather than a validated mechanism.
 
@@ -132,11 +132,12 @@ The pneumocystosis prediction rests on model score alone (L5). There are no clin
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "of the cancelled NDAs" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cresemba (isavuconazonium sulfate) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f7f73b8-586a-4df0-935f-fecd4696c16c) |
 
 <!-- review:end log -->
 

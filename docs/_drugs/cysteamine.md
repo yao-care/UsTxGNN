@@ -60,7 +60,7 @@ This prediction currently has **0 clinical trials** and **0 publications** behin
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on known information, cysteamine is a thiol-containing, cystine-depleting agent. Its efficacy in cystinosis, a lysosomal cystine-storage disease, is established. Mechanistically, its thiol and antioxidant activity could relate to mitochondrial oxidative stress, which may be why the model links it to this indication.
+According to the Mechanism of Action section of the FDA-approved prescribing information for cysteamine: "Cysteamine is an aminothiol that participates within lysosomes in a thiol-disulfide interchange reaction converting cystine into cysteine and cysteine-cysteamine mixed disulfide, both of which can exit the lysosome in patients with cystinosis." ([DailyMed: Procysbi (cysteamine bitartrate) prescribing information, Horizon Therapeutics USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d3a3ec28-f746-463a-bb92-3bc8826db09e), label version 2026-06-25; accessed 2026-11-19.) Based on known information, cysteamine is a thiol-containing, cystine-depleting agent. Its efficacy in cystinosis, a lysosomal cystine-storage disease, is established. Mechanistically, its thiol and antioxidant activity could relate to mitochondrial oxidative stress, which may be why the model links it to this indication.
 
 This link is theoretical only. No trials, literature or other supporting data were found for cysteamine in mitochondrial oxidative phosphorylation disorders. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The relationship between the original and new indication has not been assessed.
 
@@ -112,6 +112,18 @@ The prediction has a very high model score but no clinical trials, no literature
 - FDA package insert warnings and contraindications, which are needed before any safety screening
 - Preclinical or mechanistic studies of cysteamine in mitochondrial oxidative phosphorylation disorders
 - Confirmation of current US formulation availability
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Procysbi (cysteamine bitartrate) prescribing information, Horizon Therapeutics USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d3a3ec28-f746-463a-bb92-3bc8826db09e) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

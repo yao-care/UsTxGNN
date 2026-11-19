@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Exposure Keratitis**, but **n
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, tobramycin is an aminoglycoside antibiotic with activity against Gram-negative bacteria (including Pseudomonas aeruginosa) and Staphylococcus aureus. Its efficacy in bacterial eye infections is established, and topical ophthalmic use is well known.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for tobramycin: "Tobramycin is an aminoglycoside antibacterial. […] Tobramycin is an aminoglycoside antibacterial produced by Streptomyces tenebrarius. It acts primarily by disrupting protein synthesis leading to altered cell membrane permeability, progressive disruption of the cell envelope, and eventual cell death." ([DailyMed: Tobi Podhaler (tobramycin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4b5bb1f-e158-4ac1-9c35-e98a416c743a), label version 2026-04-15; accessed 2026-11-19.) Based on known information, tobramycin is an aminoglycoside antibiotic with activity against Gram-negative bacteria (including Pseudomonas aeruginosa) and Staphylococcus aureus. Its efficacy in bacterial eye infections is established, and topical ophthalmic use is well known.
 
 Exposure keratitis is mainly a non-infectious condition caused by corneal drying and epithelial injury, usually from incomplete eyelid closure. A mechanistic fit therefore exists only in a limited sense: tobramycin could prevent or treat secondary bacterial infection of a compromised cornea. One case report in the data describes bacterial keratitis in a patient who could not close his eyes, which illustrates this scenario.
 
@@ -137,13 +137,14 @@ The prediction score is high, but exposure keratitis is mainly a non-infectious 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "15 valid US licenses are on record, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 15 valid licenses in the data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-12 | Removed: "The other 10 licenses are also cancelled generic ANDAs (solution, injection, and eye-drop forms)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tobi Podhaler (tobramycin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4b5bb1f-e158-4ac1-9c35-e98a416c743a) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, alglucosidase alfa is a recombinant acid alpha-glucosidase that breaks down glycogen inside lysosomes. Its efficacy is established in Pompe disease, a lysosomal glycogen storage disorder.
+According to the Mechanism of Action section of the FDA-approved prescribing information for alglucosidase alfa: "Pompe disease (acid maltase deficiency, glycogen storage disease type II, GSD II, glycogenosis type II) is an inherited disorder of glycogen metabolism caused by the absence or marked deficiency of the lysosomal enzyme GAA. Alglucosidase alfa provides an exogenous source of GAA." ([DailyMed: Lumizyme (alglucosidase alfa) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6bfbc45-2d34-439e-8aad-59ee2d53d4df), label version 2025-01-10; accessed 2026-11-19.) Based on known information, alglucosidase alfa is a recombinant acid alpha-glucosidase that breaks down glycogen inside lysosomes. Its efficacy is established in Pompe disease, a lysosomal glycogen storage disorder.
 
 Adult polyglucosan body disease is caused by deficiency of the glycogen branching enzyme (GBE1). This leads to accumulation of poorly branched polyglucosan in neurons and other tissues. The only link is shared glycogen metabolism, which likely explains the high model score.
 
@@ -126,12 +126,13 @@ The prediction is supported only by a model score. There are no clinical trials 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both licenses are listed as cancelled in the data compiled for this report, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(both licenses cancelled)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lumizyme (alglucosidase alfa) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6bfbc45-2d34-439e-8aad-59ee2d53d4df) |
 
 <!-- review:end log -->
 

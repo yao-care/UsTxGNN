@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **insomnia (disease)**, but **n
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for carisoprodol is not available in the data compiled for this report. From general pharmacology, carisoprodol acts on the central nervous system and is metabolized to meprobamate, a compound with GABA-A receptor-modulating, barbiturate-like sedative and anxiolytic activity. This gives a plausible biological reason for sedation and sleep promotion, but it is an inference from general knowledge and not from the supplied data.
+According to the Mechanism of Action section of the FDA-approved prescribing information for carisoprodol: "The mechanism of action of carisoprodol in relieving discomfort associated with acute painful musculoskeletal conditions has not been clearly identified. In animal studies, muscle relaxation induced by carisoprodol is associated with altered interneuronal activity in the spinal cord and in the descending reticular formation of the brain." ([DailyMed: Carisoprodol Tablets, Usp, 350 Mg (carisoprodol) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f08f4af-37c2-49b5-a4e3-284414f866fa), label version 2026-11-03; accessed 2026-11-19.) From general pharmacology, carisoprodol acts on the central nervous system and is metabolized to meprobamate, a compound with GABA-A receptor-modulating, barbiturate-like sedative and anxiolytic activity. This gives a plausible biological reason for sedation and sleep promotion, but it is an inference from general knowledge and not from the supplied data.
 
 The only linked publication is a review on nocturnal leg cramps, a muscle condition that can disturb sleep. It does not evaluate carisoprodol for insomnia. The high TxGNN score (0.9902) is a computational output only and is not clinical proof.
 
@@ -101,6 +101,19 @@ The prediction is supported only by a model score and a plausible sedative mecha
 - Mechanism-of-action data and package insert warnings and contraindications
 - A benefit–risk assessment covering abuse potential, dependence and interactions with opioids and other sedatives
 - Comparison with existing insomnia treatments that have established safety profiles
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for carisoprodol is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Carisoprodol Tablets, Usp, 350 Mg (carisoprodol) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f08f4af-37c2-49b5-a4e3-284414f866fa) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

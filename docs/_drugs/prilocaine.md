@@ -66,7 +66,7 @@ The evidence is early-stage: small, uncontrolled studies, mostly of the lidocain
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Prilocaine is an amide local anesthetic, and this class generally blocks voltage-gated sodium channels in nerve fibres. This is background knowledge, not something confirmed by the compiled data.
+According to the Mechanism of Action section of the FDA-approved prescribing information for prilocaine: "Prilocaine stabilizes the neuronal membrane by inhibiting the ionic fluxes required for the initiation and conduction of impulses, thereby effecting local anesthetic action." ([DailyMed: Citanest Plain (prilocaine hydrochloride) prescribing information, Dentsply Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=db23a56f-1e41-4843-9220-1b2e3059db41), label version 2021-11-10; accessed 2026-11-19.) Prilocaine is an amide local anesthetic, and this class generally blocks voltage-gated sodium channels in nerve fibres. This is background knowledge, not something confirmed by the compiled data.
 
 Neuralgia, especially postherpetic neuralgia (PHN), is a neuropathic pain condition driven by hyperexcitable peripheral nociceptors. Blocking sodium channels in these fibres is mechanistically coherent. Prilocaine is usually given topically as the lidocaine 2.5%/prilocaine 2.5% eutectic mixture (EMLA). Reports from 1989 to 1996 describe this cream in PHN, including a pharmacokinetic study.
 
@@ -156,12 +156,13 @@ Neuralgia is the best-supported prediction (L3), but the evidence consists of sm
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US authorization is cancelled, and no mechanism or label safety data were available" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Its only US authorization on record is a dental injectable" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Citanest Plain (prilocaine hydrochloride) prescribing information, Dentsply Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=db23a56f-1e41-4843-9220-1b2e3059db41) |
 
 <!-- review:end log -->
 

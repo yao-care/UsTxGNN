@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, flucytosine is a fluorinated pyrimidine antifungal prodrug. Fungal cytosine deaminase converts it to 5-fluorouracil (5-FU), which disrupts fungal RNA and DNA synthesis.
+According to the Clinical Pharmacology and Microbiology sections of the FDA-approved prescribing information for flucytosine: "Flucytosine is taken up by fungal organisms via the enzyme cytosine permease. Inside the fungal cell, flucytosine is rapidly converted to fluorouracil by the enzyme cytosine deaminase. Fluorouracil exerts its antifungal activity through the subsequent conversion into several active metabolites, which inhibit protein synthesis by being falsely incorporated into fungal RNA or interfere with the biosynthesis of fungal DNA through the inhibition of the enzyme thymidylate synthetase." ([DailyMed: Ancobon (flucytosine) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aea0df00-a88c-4a16-abcf-750f3ff2004e), label version 2022-02-02; accessed 2026-11-19.) Based on general pharmacology, flucytosine is a fluorinated pyrimidine antifungal prodrug. Fungal cytosine deaminase converts it to 5-fluorouracil (5-FU), which disrupts fungal RNA and DNA synthesis.
 
 Mammalian cells have very little cytosine deaminase activity, so this mechanism has no clear link to Paget disease of bone. That disease involves overactive osteoclasts and abnormal bone remodeling. The only support for the prediction is the high TxGNN model (deep learning) score, and no biological rationale was supplied. Any connection, for example through pyrimidine metabolism or a 5-FU-related cytotoxic pathway, would be speculative and would need independent validation.
 
@@ -114,11 +114,12 @@ The prediction rests only on a model score (L5). There are no clinical trials or
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "One further license (ANDA218005, Laurus Labs, capsule) is also cancelled. All six licenses are for oral capsules" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ancobon (flucytosine) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aea0df00-a88c-4a16-abcf-750f3ff2004e) |
 
 <!-- review:end log -->
 

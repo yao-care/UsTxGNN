@@ -55,7 +55,7 @@ The TxGNN model's top-ranked prediction is a rare skeletal and ocular syndrome w
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, piroxicam is an NSAID that inhibits cyclo-oxygenase (COX-1/COX-2) and reduces prostaglandin-mediated inflammation. This is the same mechanism that underlies its use in rheumatoid arthritis and osteoarthritis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for piroxicam: "Piroxicam has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of Piroxicam Capsules, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: piroxicam prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41425352-2a59-43ef-bccc-f8cc69e72be4), label version 2026-09-29; accessed 2026-11-19.) Based on general pharmacology, piroxicam is an NSAID that inhibits cyclo-oxygenase (COX-1/COX-2) and reduces prostaglandin-mediated inflammation. This is the same mechanism that underlies its use in rheumatoid arthritis and osteoarthritis.
 
 **Top-ranked prediction (colobomatous microphthalmia-rhizomelic dysplasia syndrome):** No mechanistic link was identified. This is a rare developmental skeletal and ocular syndrome, and COX inhibition would not be expected to alter its course. The very high score is most likely a TxGNN model (deep learning) artifact. The same applies to the other top-ranked predictions (brachydactyly-syndactyly syndrome, Hunter-Thompson acromesomelic dysplasia, brachyolmia and related syndromes, pseudoachondroplasia, WHIM syndrome). Myosclerosis and rheumatoid nodulosis have at most weak, indirect plausibility.
 
@@ -139,12 +139,13 @@ Package insert warnings and contraindications were not available in the data com
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All seven authorizations are generic capsules and all are now cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Two further cancelled authorizations are not shown: ANDA206136 (Proficient Rx) and ANDA074118 (Bryant Ranch Prepack)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: piroxicam prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41425352-2a59-43ef-bccc-f8cc69e72be4) |
 
 <!-- review:end log -->
 

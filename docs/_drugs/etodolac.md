@@ -54,7 +54,7 @@ The TxGNN model predicts it may be effective for **Acromesomelic Dysplasia, Hunt
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the literature, etodolac is an NSAID whose primary anti-inflammatory action is a selective effect on cyclo-oxygenase-2 (COX-2). This reduces prostaglandin-mediated inflammation and pain.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for etodolac: "The mechanism of action of etodolac extended-release tablets, like that of other NSAIDs, is not completely understood, but may be related to prostaglandin synthetase inhibition." ([DailyMed: Etodolac Er (etodolac) prescribing information, Advanced Rx Pharmacy of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=baebdfb2-17f6-9081-e053-2a95a90ab331), label version 2024-12-31; accessed 2026-11-19.) Based on the literature, etodolac is an NSAID whose primary anti-inflammatory action is a selective effect on cyclo-oxygenase-2 (COX-2). This reduces prostaglandin-mediated inflammation and pain.
 
 **Top-ranked prediction (Hunter-Thompson acromesomelic dysplasia):** This is a genetic skeletal disorder caused by growth-factor (GDF5) signaling defects. No plausible mechanism links an NSAID to correcting this defect. The same applies to brachyolmia, brachyolmia-amelogenesis imperfecta syndrome, myosclerosis and pseudoachondroplasia, none of which has any supporting studies.
 
@@ -82,7 +82,6 @@ Evidence for **ankylosing spondylitis** (the same set supports inflammatory spon
 | [20829199](https://pubmed.ncbi.nlm.nih.gov/20829199/) | 2011 | Guideline/Recommendation | Ann Rheum Dis | ASAS recommendations for collecting and reporting NSAID intake in axial spondyloarthritis studies (methodological, not efficacy data) |
 
 ## US Market Information
-
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -117,6 +116,19 @@ Package insert warnings and contraindications were not available in the data com
 - Mechanism of action data from DrugBank
 - Controlled, indication-specific trials of etodolac in ankylosing spondylitis, or a comparative analysis against NSAIDs already approved for it
 - Safety assessment for patients with cardiovascular, renal, hepatic or gastrointestinal risk
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Etodolac Er (etodolac) prescribing information, Advanced Rx Pharmacy of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=baebdfb2-17f6-9081-e053-2a95a90ab331) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

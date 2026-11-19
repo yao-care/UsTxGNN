@@ -57,7 +57,7 @@ but **no clinical trials and no publications** currently address this disease, s
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Based on known pharmacology, atenolol is a beta-1 selective blocker that lowers blood pressure and reduces renin release. Hypertension is recorded as an original use in the knowledge graph, and that is a plausible link to hypertensive kidney damage.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for atenolol: "TENORMIN is a beta 1 -selective (cardioselective) beta-adrenergic receptor blocking agent without membrane stabilizing or intrinsic sympathomimetic (partial agonist) activities. This preferential effect is not absolute, however, and at higher doses, TENORMIN inhibits beta 2 -adrenoreceptors, chiefly located in the bronchial and vascular musculature." ([DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a), label version 2025-09-18; accessed 2026-11-19.) Based on known pharmacology, atenolol is a beta-1 selective blocker that lowers blood pressure and reduces renin release. Hypertension is recorded as an original use in the knowledge graph, and that is a plausible link to hypertensive kidney damage.
 
 The high score (0.9985) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Malignant hypertension is usually managed with intravenous agents in an acute setting, and oral beta-blockers are not the standard first-line approach. No supporting study was supplied, so the prediction should be treated as a hypothesis.
 
@@ -100,6 +100,19 @@ The prediction is supported only by the model score. There are no trials or publ
 - Package insert warnings and contraindications
 - Mechanism of action data
 - Comparison with the current standard of care for malignant hypertension
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

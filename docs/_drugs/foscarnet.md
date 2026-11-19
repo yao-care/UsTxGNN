@@ -55,7 +55,7 @@ The TxGNN model (deep learning) predicts it may be effective for **autosomal dom
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. From general pharmacology, foscarnet is a pyrophosphate analog that inhibits viral DNA polymerase and reverse transcriptase, so its activity is antiviral.
+According to the Mechanism of Action section of the FDA-approved prescribing information for foscarnet: "Foscarnet exerts its antiviral activity by a selective inhibition at the pyrophosphate binding site on virus-specific DNA polymerases at concentrations that do not affect cellular DNA polymerases. Foscarnet does not require activation (phosphorylation) by thymidine kinase or other kinases." ([DailyMed: Foscavir (foscarnet sodium) prescribing information, Clinigen Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=90e3da4e-3b1f-428b-99ca-e4bed1c80028), label version 2025-12-11; accessed 2026-11-19.) From general pharmacology, foscarnet is a pyrophosphate analog that inhibits viral DNA polymerase and reverse transcriptase, so its activity is antiviral.
 
 The predicted condition is a rare inherited vascular and basement-membrane disorder (COL4A1-related) with no known viral cause. No mechanistic link between foscarnet and this syndrome was identified. The high TxGNN score (0.9956) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. With no supporting trials or literature, the prediction should be treated as a hypothesis only.
 
@@ -119,11 +119,12 @@ The prediction has a high model score but no clinical trials, no relevant litera
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 6 of 6 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Foscavir (foscarnet sodium) prescribing information, Clinigen Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=90e3da4e-3b1f-428b-99ca-e4bed1c80028) |
 
 <!-- review:end log -->
 

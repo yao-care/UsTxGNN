@@ -57,7 +57,7 @@ The data compiled for this report show that TxGNN's top-ranked prediction is pul
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, prasugrel is a thienopyridine P2Y12 antagonist that inhibits platelet aggregation. Its efficacy in acute coronary syndrome is established, and mechanistically it may be applicable to migraine in a specific subgroup.
+According to the Mechanism of Action section of the FDA-approved prescribing information for prasugrel: "Prasugrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets." ([DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e), label version 2022-09-07; accessed 2026-11-19.) Based on known information, prasugrel is a thienopyridine P2Y12 antagonist that inhibits platelet aggregation. Its efficacy in acute coronary syndrome is established, and mechanistically it may be applicable to migraine in a specific subgroup.
 
 Some people with migraine also have a patent foramen ovale (PFO), a small opening in the heart wall. In these patients, small emboli or platelet-derived vasoactive mediators (such as serotonin) may bypass the lungs' filtering and trigger migraine. Blocking platelet activation with a P2Y12 inhibitor may reduce migraine frequency in this subgroup.
 
@@ -112,6 +112,19 @@ The migraine hypothesis rests on a retrospective review and an open-label pilot 
 - Prasugrel-specific controlled data in migraine with PFO, such as a randomized trial in a well-defined PFO subgroup
 - Benefit-risk assessment of bleeding, especially intracranial hemorrhage, in a non-cardiac population
 - Review of the other nine predictions: none has direct prasugrel evidence, and pulmonary hypertension, the top-scoring one, has none at all.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -54,7 +54,7 @@ Cocaine is a local anesthetic and vasoconstrictor historically used in nasal, or
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this report. Based on known information, cocaine is a local anesthetic that blocks sodium channels and also blocks reuptake of monoamines (including dopamine via DAT). Pharmacology records also list activity at 5-HT3 receptors.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for cocaine: "Cocaine hydrochloride is a local anesthetic of the ester type. Cocaine hydrochloride prevents conduction in nerve fibers by reversibly blocking sodium channels and preventing the transient rise in sodium conductance necessary for generation of an action potential." ([DailyMed: Goprelto (cocaine hydrochloride) prescribing information, LXO US Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f897764-fe30-090a-e063-6294a90af106), label version 2024-11-06; accessed 2026-11-19.) Based on known information, cocaine is a local anesthetic that blocks sodium channels and also blocks reuptake of monoamines (including dopamine via DAT). Pharmacology records also list activity at 5-HT3 receptors.
 
 There is no credible mechanistic link between these actions and cauda equina syndrome, which is a compressive neuropathy of the lumbosacral nerve roots, usually from disc pathology, and is treated surgically. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The only retrieved paper is a case report on lumbosacral disc pathology and does not address cocaine.
 
@@ -109,11 +109,12 @@ The prediction is supported only by the model score. There are no clinical trial
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and both US licenses are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Goprelto (cocaine hydrochloride) prescribing information, LXO US Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f897764-fe30-090a-e063-6294a90af106) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ The only prediction with any literature is **multiple endocrine neoplasia** (ran
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Based on known information, Tc-99m sestamibi is a lipophilic cation that accumulates in tissue in proportion to mitochondrial content and blood flow. It is used as an imaging agent, not as a lipid-modifying or therapeutic drug.
+According to the Mechanism of Action section of the FDA-approved prescribing information for technetium tc-99m sestamibi: "Technetium Tc99m Sestamibi is a cationic Tc99m complex which has been found to accumulate in viable myocardial tissue in a manner analogous to that of thallous chloride Tl-201. Scintigraphic images obtained in humans after the intravenous administration of the drug have been comparable to those obtained with thallous chloride Tl-201 in normal and abnormal myocardial tissue." ([DailyMed: technetium tc 99m sestamibi prescribing information, Curium US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4110d0f4-3bcf-4688-a39f-42a81064c796), label version 2022-05-19; accessed 2026-11-19.) Based on known information, Tc-99m sestamibi is a lipophilic cation that accumulates in tissue in proportion to mitochondrial content and blood flow. It is used as an imaging agent, not as a lipid-modifying or therapeutic drug.
 
 For homozygous familial hypercholesterolemia, no mechanism links a diagnostic tracer to cholesterol metabolism. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. At most, myocardial perfusion imaging could help assess coronary disease in these patients. That would be a diagnostic use, not therapeutic repurposing.
 
@@ -132,12 +132,13 @@ The top-ranked prediction has no clinical, literature or mechanistic support. Th
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All three authorizations are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "beyond the three valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: technetium tc 99m sestamibi prescribing information, Curium US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4110d0f4-3bcf-4688-a39f-42a81064c796) |
 
 <!-- review:end log -->
 

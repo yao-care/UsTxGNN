@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **malignant renovascular hypert
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. The only support for this prediction is a high TxGNN score of 0.9901, which is a prediction from the TxGNN model (deep learning). No mechanistic rationale can be assessed from the data compiled for this report.
+According to the Mechanism of Action section of the FDA-approved prescribing information for isotretinoin: "The exact mechanism of action of Zenatane in the treatment of severe recalcitrant nodular acne in nonpregnant patients 12 years of age and older with multiple inflammatory nodules with a diameter of 5 mm or greater who are unresponsive to conventional therapy, including systemic antibiotics is unknown. Isotretinoin, a retinoid, inhibits sebaceous gland function and keratinization." ([DailyMed: Zenatane (isotretinoin) prescribing information, Dr. Reddy's Laboratories Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=27b3cf26-f22e-5b70-1c24-009933b7c6ee), label version 2026-09-20; accessed 2026-11-19.) The only support for this prediction is a high TxGNN score of 0.9901, which is a prediction from the TxGNN model (deep learning). No mechanistic rationale can be assessed from the data compiled for this report.
 
 Isotretinoin is a systemic retinoid, and the "hypertension" original indication is likely a data artifact rather than an established use. Retinoids have been studied preclinically for effects on renin-angiotensin signaling and vascular remodeling. These ideas are not supported by the data compiled here and are not a validated link to malignant renovascular hypertension.
 
@@ -146,12 +146,13 @@ The prediction rests only on a TxGNN model (deep learning) score, with no clinic
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Five more cancelled authorizations are on record, including ZENATANE (Dr. Reddy's) and products from Amneal and Mayne Pharma" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given the cancelled market status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zenatane (isotretinoin) prescribing information, Dr. Reddy's Laboratories Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=27b3cf26-f22e-5b70-1c24-009933b7c6ee) |
 
 <!-- review:end log -->
 

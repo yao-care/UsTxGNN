@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **bilateral parasagittal pariet
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Tasimelteon is known to be a dual agonist of the MT1 and MT2 melatonin receptors. These receptors regulate circadian rhythm and sleep timing, which is the basis for its use in non-24-hour sleep-wake syndrome.
+According to the Mechanism of Action section of the FDA-approved prescribing information for tasimelteon: "The mechanism by which tasimelteon exerts its therapeutic effect in patients with Non-24 or nighttime sleep disturbances in SMS is unclear. However, tasimelteon is an agonist at melatonin MT 1 and MT 2 receptors which are thought to be involved in the control of circadian rhythms." ([DailyMed: Hetlioz (tasimelteon) prescribing information, Vanda Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ca4a9b63-708e-49e9-8f9b-010625443b90), label version 2026-08-04; accessed 2026-11-19.) Tasimelteon is known to be a dual agonist of the MT1 and MT2 melatonin receptors. These receptors regulate circadian rhythm and sleep timing, which is the basis for its use in non-24-hour sleep-wake syndrome.
 
 No mechanistic link to the predicted indication could be identified. Polymicrogyria is a cortical malformation of developmental origin, and the circadian and sleep effects of MT1/MT2 agonism have no clear connection to it. The high score (0.9948) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trials or literature support it. It should be treated as a hypothesis-generating signal rather than a rationale for development.
 
@@ -113,11 +113,12 @@ The prediction has no clinical trials, no literature, and no identifiable mechan
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "of the cancelled US authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Hetlioz (tasimelteon) prescribing information, Vanda Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ca4a9b63-708e-49e9-8f9b-010625443b90) |
 
 <!-- review:end log -->
 

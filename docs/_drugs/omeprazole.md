@@ -58,7 +58,7 @@ Omeprazole is a proton pump inhibitor originally used for acid-related condition
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, omeprazole is a proton pump inhibitor (PPI) that suppresses gastric acid secretion. Its efficacy in acid-related disorders such as GERD, esophagitis and peptic ulcer is well established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for omeprazole: "Omeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H + /K + ATPase enzyme system at the secretory surface of the gastric parietal cell. Because this enzyme system is regarded as the acid (proton) pump within the gastric mucosa, omeprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179), label version 2024-03-19; accessed 2026-11-19.) Based on known information, omeprazole is a proton pump inhibitor (PPI) that suppresses gastric acid secretion. Its efficacy in acid-related disorders such as GERD, esophagitis and peptic ulcer is well established.
 
 Duodenogastric reflux is closely related to these conditions because it affects the same part of the digestive tract and can damage the mucosa. However, it is driven mainly by bile and pancreatic secretions, not acid. Acid suppression may ease acid-related mucosal symptoms but does not address the bile reflux itself. Small studies in Barrett's oesophagus and in children with oesophageal bile reflux have looked at omeprazole's effect on reflux parameters.
 
@@ -102,7 +102,6 @@ No randomized controlled trials were identified.
 | ANDA203270 | Omeprazole (Rising Pharma) | Delayed-release capsule | Not available (valid) |
 | ANDA091672 | Omeprazole (Preferred Pharmaceuticals) | Delayed-release capsule | Not available (valid) |
 
-
 ---
 
 ## Safety Considerations
@@ -136,6 +135,19 @@ The prediction rests on a high model score and a plausible but indirect link to 
 ### Note on the second predicted indication (duodenal obstruction)
 
 Duodenal obstruction (TxGNN score 0.9964, evidence level L5, decision **Hold**) is not supported. It is a mechanical condition, omeprazole has no plausible direct effect on it, and the one linked trial (NCT00557921, a terminated Phase 3 study of clopidogrel plus omeprazole for upper GI bleeding) does not address obstruction. The literature consists of case reports on ulcer, stenosis and Crohn's disease. The high score likely reflects network proximity to peptic ulcer disease and not a true treatment effect.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

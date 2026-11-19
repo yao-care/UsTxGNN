@@ -56,7 +56,7 @@ but the data compiled for this report show only **1 early-phase clinical trial**
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Zanubrutinib is known as a next-generation, highly selective BTK inhibitor, and its efficacy in B-cell malignancies is supported by the literature, including CLL/SLL and Waldenström macroglobulinemia.
+According to the Mechanism of Action section of the FDA-approved prescribing information for zanubrutinib: "Zanubrutinib is a small-molecule inhibitor of Bruton's tyrosine kinase (BTK). Zanubrutinib forms a covalent bond with a cysteine residue in the BTK active site, leading to inhibition of BTK activity. BTK is a signaling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways." ([DailyMed: Brukinsa (zanubrutinib) prescribing information, BeOne Medicines USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e08fe23-d70e-424c-bc51-1222e320f902), label version 2026-09-04; accessed 2026-11-19.) Zanubrutinib is known as a next-generation, highly selective BTK inhibitor, and its efficacy in B-cell malignancies is supported by the literature, including CLL/SLL and Waldenström macroglobulinemia.
 
 The link to myeloid leukemia is only indirect. BTK is expressed in myeloid lineage cells and contributes to signaling independent of the B-cell receptor, so shared pathway biology could make the drug relevant. However, all supplied literature concerns B-cell malignancies, not myeloid leukemia. The high TxGNN score is a computational prediction and is not backed by myeloid-specific clinical data.
 
@@ -143,12 +143,13 @@ The prediction rests mainly on a high model score. The only trial is an early Ph
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both US NDAs are also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled US NDA status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Brukinsa (zanubrutinib) prescribing information, BeOne Medicines USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e08fe23-d70e-424c-bc51-1222e320f902) |
 
 <!-- review:end log -->
 

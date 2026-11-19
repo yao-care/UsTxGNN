@@ -54,7 +54,7 @@ Avapritinib was originally used to treat gastrointestinal stromal tumor (GIST). 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, avapritinib is a KIT/PDGFRA kinase inhibitor, and its efficacy in gastrointestinal stromal tumor is the basis of its original indication.
+According to the Mechanism of Action section of the FDA-approved prescribing information for avapritinib: "Avapritinib is a tyrosine kinase inhibitor that targets KIT D816V, PDGFRA and PDGFRA D842 mutants as well as multiple KIT exon 11, 11/17 and 17 mutants with half maximal inhibitory concentrations (IC 50s ) less than 25 nM in biochemical assays. Certain mutations in PDGFRA and KIT can result in the autophosphorylation and constitutive activation of these receptors which can contribute to tumor and mast cell proliferation." ([DailyMed: Ayvakit (avapritinib) prescribing information, Blueprint Medicines Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=645c887c-8cd4-4623-8da9-ac223d71a8b9), label version 2026-10-20; accessed 2026-11-19.) Based on known information, avapritinib is a KIT/PDGFRA kinase inhibitor, and its efficacy in gastrointestinal stromal tumor is the basis of its original indication.
 
 No mechanistic link to axial spondylometaphyseal dysplasia can be established from the data compiled for this report. This is a skeletal dysplasia with a genetic basis, and nothing supplied connects KIT/PDGFRA inhibition to its biology. The high score (0.9992) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so the prediction should be treated as a hypothesis only.
 
@@ -138,12 +138,13 @@ The prediction rests on a model score alone (Evidence Level L5), with no clinica
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The sole US NDA is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given the cancelled NDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ayvakit (avapritinib) prescribing information, Blueprint Medicines Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=645c887c-8cd4-4623-8da9-ac223d71a8b9) |
 
 <!-- review:end log -->
 

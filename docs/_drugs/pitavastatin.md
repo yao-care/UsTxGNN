@@ -60,7 +60,7 @@ The TxGNN model predicts it may be effective for **cholesterol-ester transfer pr
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Pitavastatin is generally known as an HMG-CoA reductase inhibitor that lowers LDL cholesterol.
+According to the Mechanism of Action section of the FDA-approved prescribing information for pitavastatin: "Pitavastatin is an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, a rate-limiting step in the biosynthetic pathway for cholesterol. As a result, the expression of LDL-receptors followed by the uptake of LDL from blood to liver is accelerated and then the plasma TC decreases." ([DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2), label version 2026-03-31; accessed 2026-11-19.) Pitavastatin is generally known as an HMG-CoA reductase inhibitor that lowers LDL cholesterol.
 
 CETP deficiency is a genetic condition marked by markedly elevated HDL cholesterol and altered lipoprotein metabolism. The prediction most likely reflects closeness within the lipid-metabolism network, not a demonstrated treatment effect. CETP deficiency is a lipid phenotype rather than a condition that clearly needs drug treatment, and no plausible therapeutic rationale is evident. The high score should be read as a computational signal only.
 
@@ -126,11 +126,12 @@ The prediction has a very high model score but no supporting trials or publicati
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "The compiled records list 9 authorizations for single-ingredient pitavastatin tablets, all currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2) |
 
 <!-- review:end log -->
 

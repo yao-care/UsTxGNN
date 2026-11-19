@@ -54,7 +54,7 @@ Allopurinol is a xanthine oxidase inhibitor that lowers uric acid production. Th
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for allopurinol are not available in the data compiled for this report. Allopurinol is generally known as an inhibitor of xanthine oxidase, the enzyme that produces uric acid.
+According to the Mechanism of Action section of the FDA-approved prescribing information for allopurinol: "Allopurinol is a structural analogue of the natural purine base, hypoxanthine. Allopurinol and its oxypurinol metabolite inhibitor xanthine oxidase, the enzyme responsible for the conversion of hypoxanthine to xanthine and of xanthine to uric acid, the end product of purine metabolism in humans." ([DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449), label version 2022-02-18; accessed 2026-11-19.) Allopurinol is generally known as an inhibitor of xanthine oxidase, the enzyme that produces uric acid.
 
 The link to hepatic porphyria is indirect. Older preclinical work suggests allopurinol can affect hepatic heme metabolism, for example by degrading cytochrome P450 heme and perturbing regulation of ALA synthase, the rate-limiting enzyme of heme biosynthesis. That is mechanistically relevant to porphyria. However, this effect is generally associated with precipitating or exacerbating porphyria rather than treating it, so the direction of benefit is uncertain and may be the opposite of what the prediction implies.
 
@@ -104,6 +104,19 @@ The high model score is not supported by any trial or direct study of allopurino
 - Review of the evidence that allopurinol may exacerbate porphyria
 - Detailed mechanism-of-action data
 - FDA package insert warnings and contraindications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for allopurinol are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

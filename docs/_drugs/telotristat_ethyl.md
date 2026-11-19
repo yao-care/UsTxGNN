@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, telotristat ethyl is a tryptophan hydroxylase inhibitor that reduces peripheral serotonin synthesis, which is how it helps control diarrhoea.
+According to the Mechanism of Action section of the FDA-approved prescribing information for telotristat ethyl: "Telotristat, the active metabolite of telotristat ethyl, is an inhibitor of tryptophan hydroxylase, which mediates the rate limiting step in serotonin biosynthesis. The in vitro inhibitory potency of telotristat towards tryptophan hydroxylase is 29 times higher than that of telotristat ethyl." ([DailyMed: Xermelo (telotristat ethyl) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4ac9d62-887c-4c8f-b04d-a5f31cec7c86), label version 2026-08-06; accessed 2026-11-19.) Based on general pharmacological knowledge, telotristat ethyl is a tryptophan hydroxylase inhibitor that reduces peripheral serotonin synthesis, which is how it helps control diarrhoea.
 
 No established biological link was identified between lowering peripheral serotonin and cauda equina syndrome. Cauda equina syndrome is a compressive injury of the lumbosacral nerve roots. The drug is not expected to cross the blood-brain barrier appreciably and would not be expected to relieve nerve root compression.
 
@@ -121,12 +121,13 @@ The prediction has no supporting clinical trials or literature (evidence level L
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled US market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xermelo (telotristat ethyl) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4ac9d62-887c-4c8f-b04d-a5f31cec7c86) |
 
 <!-- review:end log -->
 

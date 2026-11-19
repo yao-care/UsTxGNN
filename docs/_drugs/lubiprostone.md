@@ -56,7 +56,7 @@ Currently there are **0 clinical trials** and **0 publications** supporting this
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. From pharmacology records, lubiprostone is a synthetic compound that activates the ClC-2 chloride channel in the gut. It is derived from a prostaglandin E1 metabolite (a bicyclic fatty acid, a "prostone").
+According to the Mechanism of Action section of the FDA-approved prescribing information for lubiprostone: "Lubiprostone is a locally acting chloride channel activator that enhances a chloride-rich intestinal fluid secretion without altering sodium and potassium concentrations in the serum. Lubiprostone acts by specifically activating ClC-2, which is a normal constituent of the apical membrane of the human intestine, in a protein kinase A–independent fashion." ([DailyMed: Amitiza (lubiprostone) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=164a2b47-0a52-4bb4-9e71-5342c2e951f4), label version 2026-07-10; accessed 2026-11-19.) From pharmacology records, lubiprostone is a synthetic compound that activates the ClC-2 chloride channel in the gut. It is derived from a prostaglandin E1 metabolite (a bicyclic fatty acid, a "prostone").
 
 No established mechanism links ClC-2 activation to hair growth. The alopecia prediction is therefore best read as a computational artifact. The other highly ranked predictions are also hair disorders (congenital hypotrichosis milia, hypotrichosis simplex of the scalp, diffuse alopecia areata). This suggests the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. For alopecia areata specifically, the disease is T-cell mediated and lubiprostone has no recognized immunomodulatory action against it.
 
@@ -120,11 +120,12 @@ The prediction rests only on a TxGNN model (deep learning) score. There are no c
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 4 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Amitiza (lubiprostone) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=164a2b47-0a52-4bb4-9e71-5342c2e951f4) |
 
 <!-- review:end log -->
 

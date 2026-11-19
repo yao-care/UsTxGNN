@@ -56,7 +56,7 @@ The data compiled for this report contain **no clinical trials and no publicatio
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Mitomycin is generally known as a DNA cross-linking agent. It damages DNA in rapidly dividing cells, which gives it a broad cytotoxic rationale against solid tumours. The model appears to link this activity to the pancreatic tumour setting.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for mitomycin: "Mitomycin selectively inhibits the synthesis of deoxyribonucleic acid (DNA). The guanine and cytosine content correlates with the degree of mitomycin-induced cross-linking. At high concentrations of the drug, cellular RNA and protein synthesis are also suppressed." ([DailyMed: Mutamycin (mitomycin) prescribing information, Accord BioPharma Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbf0f6ba-3a53-4791-9a85-5c6b271eeb8e), label version 2025-03-12; accessed 2026-11-19.) Mitomycin is generally known as a DNA cross-linking agent. It damages DNA in rapidly dividing cells, which gives it a broad cytotoxic rationale against solid tumours. The model appears to link this activity to the pancreatic tumour setting.
 
 There are important caveats. Solid pseudopapillary carcinoma of the pancreas is a low-grade neoplasm that is typically treated by surgery. No trial or publication supplied here shows that mitomycin benefits patients with this tumour. The prediction is therefore a hypothesis rather than a supported finding. The high score alone cannot establish clinical usefulness.
 
@@ -126,11 +126,12 @@ The prediction score is high (0.9986), but no trial or publication studies mitom
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Of the 8 licences in the records reviewed, 7 are valid and 1 is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mutamycin (mitomycin) prescribing information, Accord BioPharma Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbf0f6ba-3a53-4791-9a85-5c6b271eeb8e) |
 
 <!-- review:end log -->
 

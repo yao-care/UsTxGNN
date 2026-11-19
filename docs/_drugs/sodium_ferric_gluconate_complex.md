@@ -56,7 +56,7 @@ It is a computational prediction only, and a plausible biological rationale is l
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Sodium ferric gluconate complex is an intravenous iron preparation that replenishes iron stores. Its role in iron deficiency anemia is established. Mechanistically, however, there is no known pathway linking it to diabetic retinopathy.
+According to the Mechanism of Action section of the FDA-approved prescribing information for sodium ferric gluconate complex: "Ferrlecit is used to replete the body content of iron. Iron is critical for normal hemoglobin synthesis to maintain oxygen transport. Additionally, iron is necessary for metabolism and various enzymatic processes." ([DailyMed: Ferrlecit (sodium ferric gluconate complex) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b25b34ab-9cf1-4a2b-bdf2-5eaf66625999), label version 2025-10-07; accessed 2026-11-19.) Sodium ferric gluconate complex is an intravenous iron preparation that replenishes iron stores. Its role in iron deficiency anemia is established. Mechanistically, however, there is no known pathway linking it to diabetic retinopathy.
 
 The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Iron is a pro-oxidant, and iron-catalyzed oxidative stress could plausibly worsen retinal vascular damage rather than improve it. A likely confounder is that many diabetic patients with chronic kidney disease receive IV iron to correct anemia, which could create a statistical link the model learned without any retinal effect.
 
@@ -106,6 +106,19 @@ The prediction is supported only by a high model score, with no trials, no liter
 - Preclinical evidence on whether iron or iron complexes affect retinal vascular pathology
 - Assessment of whether the association is confounded by diabetic CKD anemia
 - Route and formulation feasibility for an ocular indication (only the injectable form exists, and it is intravenous)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ferrlecit (sodium ferric gluconate complex) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b25b34ab-9cf1-4a2b-bdf2-5eaf66625999) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

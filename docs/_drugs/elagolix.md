@@ -60,7 +60,7 @@ Amenorrhea appears to be an expected pharmacological effect of the drug rather t
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, elagolix is an oral GnRH receptor antagonist. It suppresses pituitary release of LH and FSH, which lowers ovarian production of estradiol and progesterone.
+According to the Mechanism of Action section of the FDA-approved prescribing information for elagolix: "ORILISSA is a GnRH receptor antagonist that inhibits endogenous GnRH signaling by binding competitively to GnRH receptors in the pituitary gland. Administration of ORILISSA results in dose-dependent suppression of luteinizing hormone (LH) and follicle-stimulating hormone (FSH), leading to decreased blood concentrations of the ovarian sex hormones, estradiol and progesterone." ([DailyMed: Orilissa (elagolix) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a86757b3-09c5-fd3b-1223-244e94f50a66), label version 2025-12-19; accessed 2026-11-19.) Based on known pharmacology, elagolix is an oral GnRH receptor antagonist. It suppresses pituitary release of LH and FSH, which lowers ovarian production of estradiol and progesterone.
 
 This hypoestrogenic state suppresses endometrial proliferation and often reduces or stops menstrual bleeding. Amenorrhea is therefore a plausible pharmacodynamic effect, and it has been observed as a secondary outcome in uterine fibroid and heavy menstrual bleeding studies. The very high TxGNN score most likely reflects this mechanistic proximity.
 
@@ -131,11 +131,12 @@ The prediction is supported only by model score and mechanistic proximity (L4 ev
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "In addition, the only US license is cancelled, and label safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Orilissa (elagolix) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a86757b3-09c5-fd3b-1223-244e94f50a66) |
 
 <!-- review:end log -->
 

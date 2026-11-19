@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, hemin is a heme preparation used in acute intermittent porphyria, a disorder of heme biosynthesis. Hemin supplies heme and induces heme oxygenase-1, but the data compiled for this report show no established link between these actions and platelet disorders.
+According to the Mechanism of Action section of the FDA-approved prescribing information for hemin: "Heme acts to limit the hepatic and/or marrow synthesis of porphyrin. This action is likely due to the inhibition of δ-aminolevulinic acid synthetase, the enzyme which limits the rate of the porphyrin/heme biosynthetic pathway." ([DailyMed: Panhematin (hemin) prescribing information, Recordati Rare Diseases, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9984267a-4d57-4444-9bb5-16bca7dea691), label version 2026-02-26; accessed 2026-11-19.) Based on known information, hemin is a heme preparation used in acute intermittent porphyria, a disorder of heme biosynthesis. Hemin supplies heme and induces heme oxygenase-1, but the data compiled for this report show no established link between these actions and platelet disorders.
 
 The high TxGNN score (0.9979) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trials or publications were found to explain why a porphyria treatment would help thrombocytopenic purpura, so the mechanistic link remains unconfirmed.
 
@@ -116,11 +116,12 @@ The prediction rests only on a TxGNN model (deep learning) score, with no clinic
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The product's US license is cancelled, and h" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Panhematin (hemin) prescribing information, Recordati Rare Diseases, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9984267a-4d57-4444-9bb5-16bca7dea691) |
 
 <!-- review:end log -->
 

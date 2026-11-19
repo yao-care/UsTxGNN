@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** directly su
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, tazarotene is a topical retinoid (a RAR-beta/gamma agonist). Its efficacy in psoriasis and acne is established, and mechanistically it may be applicable to seborrheic dermatitis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for tazarotene: "Tazarotene is a retinoid prodrug which is converted to its active form, the carboxylic acid of tazarotene, by deesterification. Tazarotenic acid binds to all three members of the retinoic acid receptor (RAR) family: RARα, RARβ, and RARγ, but shows relative selectivity for RARβ, and RARγ and may modify gene expression." ([DailyMed: Tazorac (tazarotene) prescribing information, Almirall, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e4e4b81-420e-4492-8a74-80b692a80057), label version 2026-11-04; accessed 2026-11-19.) Based on known information, tazarotene is a topical retinoid (a RAR-beta/gamma agonist). Its efficacy in psoriasis and acne is established, and mechanistically it may be applicable to seborrheic dermatitis.
 
 Retinoids normalize keratinocyte differentiation and reduce proliferation and inflammation. Psoriasis is a hyperproliferative, inflammatory skin disease. Seborrheic dermatitis also involves scaling and inflammation, so a shared mechanistic basis is plausible.
 
@@ -138,13 +138,14 @@ The prediction score is high (0.9979), but the evidence level is L5: there are n
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "the cancelled US market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tazorac (tazarotene) prescribing information, Almirall, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e4e4b81-420e-4492-8a74-80b692a80057) |
 
 <!-- review:end log -->
 

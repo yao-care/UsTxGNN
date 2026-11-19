@@ -60,7 +60,7 @@ The strongest signal in the data is for **headache disorder**, where evidence ex
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, hydromorphone is a mu-opioid receptor agonist that produces central analgesia. In principle it could relieve the pain of an inflamed throat.
+According to the Mechanism of Action section of the FDA-approved prescribing information for hydromorphone: "Hydromorphone is a full opioid agonist and is relatively selective for the mu-opioid receptor, although it can bind to other opioid receptors at higher doses. The principal therapeutic action of hydromorphone is analgesia." ([DailyMed: Dilaudid (hydromorphone hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9eebd88a-5632-460f-b7b6-26c8a180540d), label version 2026-07-15; accessed 2026-11-19.) Based on known pharmacology, hydromorphone is a mu-opioid receptor agonist that produces central analgesia. In principle it could relieve the pain of an inflamed throat.
 
 The link to the original indications is weak. Pharyngitis is closely related to the common cold and nasopharyngitis, which likely explains the high model score. However, the three trials found are post-tonsillectomy pain studies, not pharyngitis treatment trials. They show opioids are used for pain in a related throat-surgery setting, but they give no evidence that hydromorphone treats the infection or inflammation. Non-opioid analgesics are preferred for routine pharyngitis pain, and the 0.998 score is a computational prediction only.
 
@@ -167,12 +167,13 @@ Package insert warnings and contraindications were not available in the data com
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 10 valid authorizations for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since 10 valid licenses are listed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dilaudid (hydromorphone hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9eebd88a-5632-460f-b7b6-26c8a180540d) |
 
 <!-- review:end log -->
 

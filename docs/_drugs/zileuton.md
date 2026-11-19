@@ -56,7 +56,7 @@ However, there are currently **no clinical trials and no publications** for this
 
 ## Why is This Prediction Reasonable?
 
-Zileuton inhibits 5-lipoxygenase, the enzyme that produces leukotrienes. Leukotrienes are inflammatory mediators that act on the airways, so lowering their production could in theory dampen airway inflammation. Detailed mechanism-of-action data were not available in the data compiled for this report, so this reasoning rests on the known pharmacology of the drug class.
+Zileuton inhibits 5-lipoxygenase, the enzyme that produces leukotrienes. Leukotrienes are inflammatory mediators that act on the airways, so lowering their production could in theory dampen airway inflammation. According to the Mechanism of Action section of the FDA-approved prescribing information for zileuton: "Zileuton is an inhibitor of 5-lipoxygenase and thus inhibits leukotriene (LTB 4, LTC 4, LTD 4 and LTE 4 ) formation. Both the R(+) and S(-) enantiomers are pharmacologically active as 5-lipoxygenase inhibitors in in vitro and in vivo systems." ([DailyMed: zileuton prescribing information, NorthStar RxLLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc29c998-1324-46aa-8386-e5b2fc9e0b16), label version 2024-05-02; accessed 2026-11-19.) This reasoning rests on the known pharmacology of the drug class.
 
 Bronchitis is an inflammatory condition of the bronchial airways, so a drug that reduces leukotriene-driven inflammation is mechanistically plausible. The TxGNN score is very high, but no study has tested zileuton in bronchitis. The prediction is therefore a hypothesis and not a demonstrated benefit.
 
@@ -105,11 +105,12 @@ The prediction score is very high, but there are no clinical trials or publicati
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All three licences are currently valid, and the drug is marketed in the United States" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: zileuton prescribing information, NorthStar RxLLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc29c998-1324-46aa-8386-e5b2fc9e0b16) |
 
 <!-- review:end log -->
 

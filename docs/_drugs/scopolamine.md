@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, scopolamine is a non-selective muscarinic antagonist. Blocking muscarinic receptors can reduce detrusor (bladder muscle) overactivity, and that is the link to the bladder dysfunction seen in cauda equina syndrome.
+According to the Mechanism of Action section of the FDA-approved prescribing information for scopolamine: "Scopolamine, a belladonna alkaloid, is an anticholinergic. Scopolamine acts: i) as a competitive inhibitor at postganglionic muscarinic receptor sites of the parasympathetic nervous system, and ii) on smooth muscles that respond to acetylcholine but lack cholinergic innervation." ([DailyMed: Transderm Scop (scopolamine) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b877a694-a1d0-4280-937a-a06820b12a88), label version 2025-06-10; accessed 2026-11-19.) Based on known pharmacology, scopolamine is a non-selective muscarinic antagonist. Blocking muscarinic receptors can reduce detrusor (bladder muscle) overactivity, and that is the link to the bladder dysfunction seen in cauda equina syndrome.
 
 The relationship to the original indications is loose. Scopolamine's known uses are mostly related to reducing smooth muscle spasm and secretions, and to blocking cholinergic signalling in the gut, eye, and vestibular system. Cauda equina syndrome, however, is caused by compression of the nerve roots at the base of the spine and needs surgical decompression. Any effect of scopolamine would at most relieve bladder symptoms, not treat the underlying injury.
 
@@ -131,11 +131,12 @@ The prediction has a very high model score but no supporting clinical trials or 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All nine US licenses are valid, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Transderm Scop (scopolamine) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b877a694-a1d0-4280-937a-a06820b12a88) |
 
 <!-- review:end log -->
 

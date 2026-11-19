@@ -59,7 +59,7 @@ Note that ADHD is already an FDA-approved use of extended-release viloxazine, so
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, viloxazine is a selective norepinephrine reuptake inhibitor with additional serotonergic modulation. This is consistent with the noradrenergic mechanism of other non-stimulant ADHD treatments such as atomoxetine.
+According to the Mechanism of Action section of the FDA-approved prescribing information for viloxazine: "The mechanism of action of viloxazine in the treatment of ADHD is unclear; however, it is thought to be through inhibiting the reuptake of norepinephrine." ([DailyMed: Qelbree (viloxazine hydrochloride) prescribing information, Supernus Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aedf408d-0f84-418d-9416-7c39ddb0d29a), label version 2026-10-05; accessed 2026-11-19.) Based on known information, viloxazine is a selective norepinephrine reuptake inhibitor with additional serotonergic modulation. This is consistent with the noradrenergic mechanism of other non-stimulant ADHD treatments such as atomoxetine.
 
 The original narcolepsy indications and ADHD are both conditions of impaired arousal, attention and wakefulness regulation, in which noradrenergic signalling plays a role. This provides a plausible, though indirect, link between the two.
 
@@ -145,12 +145,13 @@ A completed Phase 3 randomized placebo-controlled trial, several long-term exten
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The US licence record shows only a single NDA with cancelled status, and the safety label data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given that the licence record shows "cancelled" while the literature describes it as FDA-approved" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Qelbree (viloxazine hydrochloride) prescribing information, Supernus Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aedf408d-0f84-418d-9416-7c39ddb0d29a) |
 
 <!-- review:end log -->
 

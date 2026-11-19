@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **chronic hepatitis C virus inf
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, adefovir is an acyclic nucleoside phosphonate that, once converted to its active form, inhibits the DNA polymerase/reverse transcriptase of hepatitis B virus.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for adefovir dipivoxil: "Adefovir is an antiviral drug. […] Adefovir is an acyclic nucleotide analog of adenosine monophosphate which is phosphorylated to the active metabolite adefovir diphosphate by cellular kinases. Adefovir diphosphate inhibits HBV DNA polymerase (reverse transcriptase) by competing with the natural substrate deoxyadenosine triphosphate and by causing DNA chain termination after its incorporation into viral DNA." ([DailyMed: adefovir dipivoxil prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=08e07fae-3191-b6a3-c894-d3a8cc53923f), label version 2025-07-22; accessed 2026-11-19.) Based on known pharmacology, adefovir is an acyclic nucleoside phosphonate that, once converted to its active form, inhibits the DNA polymerase/reverse transcriptase of hepatitis B virus.
 
 Hepatitis C virus is an RNA virus that replicates through the NS5B RNA-dependent RNA polymerase, a different target. No plausible direct mechanistic link is evident. The high TxGNN score most likely reflects network proximity to viral hepatitis in general rather than a demonstrated antiviral effect against hepatitis C. The retrieved literature covers hepatitis B treatment and general viral hepatitis reviews, and does not report adefovir efficacy against hepatitis C.
 
@@ -102,6 +102,19 @@ The prediction rests on a model score alone. No clinical trial or publication di
 - Mechanism-of-action data and any in vitro evidence of activity against hepatitis C virus
 - Package insert warnings and contraindications (not available in the compiled data)
 - A comparison against current direct-acting antiviral therapies for hepatitis C to establish whether there is any unmet need
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: adefovir dipivoxil prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=08e07fae-3191-b6a3-c894-d3a8cc53923f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -61,7 +61,7 @@ The TxGNN model predicts it may be relevant to **diabetic nephropathy** (the hig
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Deoxycholic acid is a secondary bile acid. The data compiled for this report do not describe how it acts, so any mechanistic argument is inferential.
+According to the Mechanism of Action section of the FDA-approved prescribing information for deoxycholic acid: "KYBELLA is a cytolytic drug, which when injected into submental fat - in patients with moderate to severe convexity or fullness associated with submental fat - physically destroys the cell membrane causing lysis." ([DailyMed: Kybella (deoxycholic acid) prescribing information, Kythera Biopharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553), label version 2026-09-11; accessed 2026-11-19.) Deoxycholic acid is a secondary bile acid. The data compiled for this report do not describe how it acts, so any mechanistic argument is inferential.
 
 The three top-ranked predictions differ in plausibility:
 
@@ -130,12 +130,13 @@ All predictions rest on model scores alone. The two highest-scoring rare disorde
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "its US authorization is now cancelled and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and the product's US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Kybella (deoxycholic acid) prescribing information, Kythera Biopharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
 
 <!-- review:end log -->
 

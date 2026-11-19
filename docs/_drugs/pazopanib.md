@@ -56,7 +56,7 @@ Evidence consists of **2 liposarcoma-specific Phase 2 trials**, several other sa
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on what is known, pazopanib is a multi-target tyrosine kinase inhibitor with anti-angiogenic and antitumour properties, acting on the PDGFR and VEGFR pathways. These pathways are relevant to soft tissue sarcoma.
+According to the Mechanism of Action section of the FDA-approved prescribing information for pazopanib: "Pazopanib is a multi-tyrosine kinase inhibitor of vascular endothelial growth factor receptor (VEGFR)-1, VEGFR-2, VEGFR-3, platelet-derived growth factor receptor (PDGFR)-α and -β, fibroblast growth factor receptor (FGFR)-1 and -3, cytokine receptor (Kit), interleukin-2 receptor-inducible T-cell kinase (Itk), lymphocyte-specific protein tyrosine kinase (Lck), and transmembrane glycoprotein receptor tyrosine kinase (c-Fms). In vitro, pazopanib inhibited ligand-induced autophosphorylation of VEGFR-2, Kit, and PDGFR-β receptors." ([DailyMed: Votrient (pazopanib hydrochloride) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7), label version 2025-12-16; accessed 2026-11-19.) Based on what is known, pazopanib is a multi-target tyrosine kinase inhibitor with anti-angiogenic and antitumour properties, acting on the PDGFR and VEGFR pathways. These pathways are relevant to soft tissue sarcoma.
 
 Pazopanib is used in non-adipocytic soft tissue sarcoma, but liposarcoma, an adipocytic subtype, was excluded from the registration trial. Evidence in liposarcoma therefore comes from separate Phase 2 studies, including two dedicated single-agent trials (NCT01506596, NCT01692496) and a published Phase 2 report (PMID 31010343). Results are modest, and no Phase 3 trial exists.
 
@@ -125,6 +125,18 @@ Two liposarcoma-specific Phase 2 trials (NCT01506596, NCT01692496) and a publish
 - Package insert warnings and contraindications, and mechanism-of-action data
 - A monitoring plan covering blood pressure, QT interval, liver function and interacting acid-suppressing drugs
 - Comparison against current second-line options such as trabectedin and eribulin, ideally in a randomized study
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Votrient (pazopanib hydrochloride) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

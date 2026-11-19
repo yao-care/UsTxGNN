@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, oritavancin is a lipoglycopeptide that inhibits bacterial cell wall synthesis (transglycosylation and transpeptidation) and disrupts membrane integrity. Its activity is mainly against Gram-positive bacteria, which is consistent with its use in skin infections.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for oritavancin: "Oritavancin is an antibacterial drug. […] Oritavancin has three mechanisms of action: (i) inhibition of the transglycosylation (polymerization) step of cell wall biosynthesis by binding to the stem peptide of peptidoglycan precursors; (ii) inhibition of the transpeptidation (crosslinking) step of cell wall biosynthesis by binding to the peptide bridging segments of the cell wall; and (iii) disruption of bacterial membrane integrity, leading to depolarization, permeabilization, and cell death. These multiple mechanisms contribute to the concentration-dependent bactericidal activity of oritavancin." ([DailyMed: Orbactiv (oritavancin) prescribing information, Melinta Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff09a726-9f9b-4e30-b509-396781293220), label version 2026-09-15; accessed 2026-11-19.) Based on general pharmacology, oritavancin is a lipoglycopeptide that inhibits bacterial cell wall synthesis (transglycosylation and transpeptidation) and disrupts membrane integrity. Its activity is mainly against Gram-positive bacteria, which is consistent with its use in skin infections.
 
 The link to the predicted indication is weak. Bacteroidaceae are Gram-negative anaerobes with an outer membrane that glycopeptides generally cannot penetrate. The high TxGNN score (0.9948) is therefore not supported by known pharmacology. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -126,13 +126,14 @@ The prediction has no clinical trial or literature support (Evidence Level L5). 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both authorizations are held by Melinta Therapeutics, LLC and are currently listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Both U authorizations are cancelled, and s" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "of the reasons for the authorization cancellations and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Orbactiv (oritavancin) prescribing information, Melinta Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff09a726-9f9b-4e30-b509-396781293220) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but **0 clinical trials** and **0 publications** currently support this specific
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, carvedilol is a non-selective beta-blocker with alpha-1 blockade. Its blood-pressure-lowering effect is established in hypertension, and mechanistically it may be applicable to hypertension-related kidney damage.
+According to the Mechanism of Action section of the FDA-approved prescribing information for carvedilol: "COREG is a racemic mixture in which nonselective β-adrenoreceptor blocking activity is present in the S(-) enantiomer and α1-adrenergic blocking activity is present in both R(+) and S(-) enantiomers at equal potency. COREG has no intrinsic sympathomimetic activity." ([DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39), label version 2026-07-31; accessed 2026-11-19.) Based on known pharmacology, carvedilol is a non-selective beta-blocker with alpha-1 blockade. Its blood-pressure-lowering effect is established in hypertension, and mechanistically it may be applicable to hypertension-related kidney damage.
 
 The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Here, the model may be picking up how close this disease sits to the original hypertension indication. Malignant hypertensive renal disease is essentially a severe complication of hypertension, so this is arguably an extension of the existing indication rather than true repurposing. No trials or literature were found for this specific indication.
 
@@ -137,12 +137,13 @@ The prediction comes from the TxGNN model (deep learning) and may reflect simila
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All nine US authorizations are valid, and none has approved-indication text on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with nine valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39) |
 
 <!-- review:end log -->
 

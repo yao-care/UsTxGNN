@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, pegloticase is a PEGylated recombinant uricase that converts uric acid to allantoin, lowering serum urate. Its efficacy in gout is the basis of its original use.
+According to the Mechanism of Action section of the FDA-approved prescribing information for pegloticase: "KRYSTEXXA is a uric acid specific enzyme which is a recombinant uricase and achieves its therapeutic effect by catalyzing the oxidation of uric acid to allantoin, thereby lowering serum uric acid. Allantoin is an inert and water-soluble purine metabolite; it is readily eliminated, primarily by renal excretion." ([DailyMed: Krystexxa (pegloticase) prescribing information, Horizon Therapeutics USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e566303-d93a-4130-b764-25749829aa95), label version 2026-11-02; accessed 2026-11-19.) Based on general knowledge, pegloticase is a PEGylated recombinant uricase that converts uric acid to allantoin, lowering serum urate. Its efficacy in gout is the basis of its original use.
 
 A possible indirect link is that hyperuricemia and xanthine oxidase-related oxidative stress have been proposed as contributors to diabetic microvascular injury, including retinopathy. This link is speculative and has not been validated here.
 
@@ -125,12 +125,13 @@ The only support for this prediction is a high TxGNN score. There are no clinica
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license is cancelled, which further limits availability" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given the cancelled US license status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Krystexxa (pegloticase) prescribing information, Horizon Therapeutics USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e566303-d93a-4130-b764-25749829aa95) |
 
 <!-- review:end log -->
 

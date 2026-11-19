@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Prinzmetal angina**, but ther
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. From general pharmacological knowledge, digoxin inhibits Na+/K+-ATPase, which raises intracellular calcium, increases myocardial contractility and slows atrioventricular conduction. This underlies its use in atrial fibrillation rate control.
+According to the Mechanism of Action section of the FDA-approved prescribing information for digoxin: "All of digoxin’s actions are mediated through its effects on Na-K ATPase. This enzyme, the “sodium pump,” is responsible for maintaining the intracellular milieu throughout the body by moving sodium ions out of and potassium ions into cells." ([DailyMed: Lanoxin (digoxin) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ec84cac-6ecc-43dc-8006-6ccc029e2707), label version 2025-10-17; accessed 2026-11-19.) From general pharmacological knowledge, digoxin inhibits Na+/K+-ATPase, which raises intracellular calcium, increases myocardial contractility and slows atrioventricular conduction. This underlies its use in atrial fibrillation rate control.
 
 The link to Prinzmetal (vasospastic) angina is weak. This condition is driven by coronary artery vasospasm. Higher intracellular calcium in vascular smooth muscle could, in theory, worsen rather than relieve vasospasm. The only retrieved publication is a review of chronopharmacology in antihypertensive treatment, which does not address digoxin in vasospastic angina.
 
@@ -107,6 +107,19 @@ The prediction rests on a model score alone (L5), with no clinical trials and no
 - Clarification of current US marketing status, given the 11 valid authorizations
 
 **Other predictions reviewed (all L5, Hold):** duodenal obstruction, duodenal ulcer, duodenogastric reflux, obsolete susceptibility to ischemic stroke and hypoalphalipoproteinemia. None has clinical trials or a plausible supporting mechanism, and the stroke entry is an obsolete ontology term that should be excluded.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lanoxin (digoxin) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ec84cac-6ecc-43dc-8006-6ccc029e2707) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

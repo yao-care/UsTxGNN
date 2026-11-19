@@ -55,7 +55,7 @@ with **no registered clinical trials** specific to this subtype and **19 publica
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, ubrogepant is a small-molecule calcitonin gene-related peptide (CGRP) receptor antagonist. Its efficacy in acute migraine with or without aura has been shown in Phase 3 trials.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ubrogepant: "Ubrogepant is a calcitonin gene-related peptide receptor antagonist." ([DailyMed: Ubrelvy (ubrogepant) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=36106b14-d410-4faf-a361-2871de8198c3), label version 2026-09-29; accessed 2026-11-19.) Based on known information, ubrogepant is a small-molecule calcitonin gene-related peptide (CGRP) receptor antagonist. Its efficacy in acute migraine with or without aura has been shown in Phase 3 trials.
 
 Migraine with brainstem aura is a subtype of migraine with aura and shares the trigeminovascular, CGRP-mediated pathophysiology. The high TxGNN score is consistent with this overlap. This is effectively an extension within the same disease family rather than true repurposing.
 
@@ -120,11 +120,12 @@ Ubrogepant has strong Phase 3 evidence in acute migraine with or without aura, a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US market status is listed as cancelled and should be verified" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ubrelvy (ubrogepant) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=36106b14-d410-4faf-a361-2871de8198c3) |
 
 <!-- review:end log -->
 

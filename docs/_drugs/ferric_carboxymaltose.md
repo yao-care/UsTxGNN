@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ferric carboxymaltose is an intravenous iron replacement product, and its use in correcting iron deficiency and iron deficiency anemia is established. No mechanistic link to bronchitis has been established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ferric carboxymaltose: "Ferric carboxymaltose is a colloidal iron (III) hydroxide in complex with carboxymaltose, a carbohydrate polymer that releases iron." ([DailyMed: ferric carboxymaltose prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8e8e95f4-8d3a-4658-9f6c-09edf2210341), label version 2026-09-16; accessed 2026-11-19.) Based on known information, ferric carboxymaltose is an intravenous iron replacement product, and its use in correcting iron deficiency and iron deficiency anemia is established. No mechanistic link to bronchitis has been established.
 
 A speculative connection could involve iron status and host immune function or susceptibility to respiratory infection. This is only a hypothesis with no supporting data here. Intravenous iron may also carry infection-related concerns, which argues against assuming a benefit in bronchitis.
 
@@ -115,11 +115,12 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license is cancelled, and the possible infection-related concerns with intravenous iron argue against assuming a benefit" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ferric carboxymaltose prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8e8e95f4-8d3a-4658-9f6c-09edf2210341) |
 
 <!-- review:end log -->
 

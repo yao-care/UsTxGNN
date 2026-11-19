@@ -56,7 +56,7 @@ Most of this evidence concerns uses that nepafenac is already established for, s
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. From the literature, nepafenac is a prodrug. Ocular tissue enzymes convert it to amfenac, a COX-1 and COX-2 inhibitor. Blocking COX reduces prostaglandin synthesis, which lowers ocular inflammation, pain, and breakdown of the blood-retinal barrier.
+According to the Mechanism of Action section of the FDA-approved prescribing information for nepafenac: "After topical ocular dosing, nepafenac penetrates the cornea and is converted by ocular tissue hydrolases to amfenac, a NSAID. Nepafenac and amfenac are thought to inhibit the action of prostaglandin H synthase (cyclooxygenase), an enzyme required for prostaglandin production." ([DailyMed: Ilevro (nepafenac) prescribing information, Harrow Eye, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10f411d3-a81e-074a-e063-6294a90ab547), label version 2026-04-01; accessed 2026-11-19.) From the literature, nepafenac is a prodrug. Ocular tissue enzymes convert it to amfenac, a COX-1 and COX-2 inhibitor. Blocking COX reduces prostaglandin synthesis, which lowers ocular inflammation, pain, and breakdown of the blood-retinal barrier.
 
 The original use, controlling inflammation and pain after cataract surgery, is directly tied to this mechanism. The same pathway plausibly applies to related eye conditions such as pseudophakic cystoid macular edema, diabetic macular edema, and post-surgical retinal inflammation. Preclinical work also shows that topical nepafenac reaches the retina and inhibits retinal edema and ocular neovascularization in animal models.
 
@@ -145,12 +145,13 @@ Several large Phase 3 trials (for example NCT01109173, NCT01853072 and NCT018726
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US licenses are currently cancelled, and l" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given that both US NDAs are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ilevro (nepafenac) prescribing information, Harrow Eye, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10f411d3-a81e-074a-e063-6294a90ab547) |
 
 <!-- review:end log -->
 

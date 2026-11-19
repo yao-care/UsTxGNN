@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **preeclampsia**, but **no clinic
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for atracurium is not available in the data compiled for this report. From general pharmacology, atracurium is a non-depolarizing neuromuscular blocker that acts on nicotinic acetylcholine receptors at the motor end plate and is eliminated rapidly by Hofmann degradation.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for atracurium besylate: "Atracurium besylate is a nondepolarizing skeletal muscle relaxant. Nondepolarizing agents antagonize the neurotransmitter action of acetylcholine by binding competitively with cholinergic receptor sites on the motor end-plate." ([DailyMed: atracurium besylate prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efe90ee2-fe9e-421f-9e54-2961085d3b12), label version 2024-12-04; accessed 2026-11-19.) From general pharmacology, atracurium is a non-depolarizing neuromuscular blocker that acts on nicotinic acetylcholine receptors at the motor end plate and is eliminated rapidly by Hofmann degradation.
 
 There is no established mechanistic link between this action and the pathophysiology of preeclampsia, which involves placental dysfunction, endothelial injury and angiogenic imbalance. Muscle relaxants are used during general anesthesia for cesarean delivery in women with preeclampsia, but that is a procedural use, not treatment of the disease. The high score (0.9997) is a model output only. It may partly reflect the proximity of magnesium sulfate, the standard preeclampsia therapy, which potentiates neuromuscular blockade. The prediction should therefore be regarded as hypothesis-generating and not mechanistically supported.
 
@@ -87,6 +87,19 @@ The prediction has no supporting trials or publications, and no plausible diseas
 - Mechanism-of-action data and a defined biological rationale for the disease
 - FDA package insert warnings and contraindications, particularly regarding magnesium sulfate and use in pregnancy
 - Evaluation of route and dosing suitability, given the drug's short duration of action and injectable-only forms
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for atracurium is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: atracurium besylate prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efe90ee2-fe9e-421f-9e54-2961085d3b12) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

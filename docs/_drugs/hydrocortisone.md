@@ -60,7 +60,7 @@ with **1 Phase 3 clinical trial** (where hydrocortisone served as the comparator
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug. Based on general pharmacology, hydrocortisone is a glucocorticoid with anti-inflammatory and immunosuppressive actions.
+According to the Mechanism of Action section of the FDA-approved prescribing information for hydrocortisone: "Hydrocortisone is a glucocorticoid. Glucocorticoids, adrenocortical steroids, cause varied metabolic effects. In addition, they modify the body's immune responses to diverse stimuli.." ([DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682), label version 2026-04-21; accessed 2026-11-19.) Based on general pharmacology, hydrocortisone is a glucocorticoid with anti-inflammatory and immunosuppressive actions.
 
 Alopecia areata is an autoimmune disease in which T-cell-mediated attack on hair follicles follows a collapse of follicular immune privilege. A drug that suppresses this immune response is biologically plausible, and topical and intralesional corticosteroids are an established treatment class for the condition.
 
@@ -138,11 +138,12 @@ The only Phase 3 trial used hydrocortisone 1% as a low-potency comparator, and i
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Of the licence records compiled for this report, 8 are valid and 1 is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682) |
 
 <!-- review:end log -->
 

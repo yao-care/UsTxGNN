@@ -56,7 +56,7 @@ but currently there are **0 registered clinical trials** and **1 publication** (
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge of nilotinib's kinase profile, it is a BCR-ABL tyrosine kinase inhibitor that also inhibits PDGFR and KIT.
+According to the Mechanism of Action section of the FDA-approved prescribing information for nilotinib: "Nilotinib is an inhibitor of the BCR-ABL kinase. Nilotinib binds to and stabilizes the inactive conformation of the kinase domain of ABL protein. In vitro, nilotinib inhibited BCR-ABL mediated proliferation of murine leukemic cell lines and human cell lines derived from patients with Ph+ CML." ([DailyMed: Cavhanza (nilotinib) prescribing information, Cycle Pharmaceuticals Ltd](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98b197ea-bca4-427e-8737-97f70a3262bc), label version 2026-07-20; accessed 2026-11-19.) Based on general knowledge of nilotinib's kinase profile, it is a BCR-ABL tyrosine kinase inhibitor that also inhibits PDGFR and KIT.
 
 DFSP is typically driven by the COL1A1-PDGFB fusion, which causes constitutive autocrine activation of PDGFRB. Because nilotinib inhibits PDGFR, it plausibly blocks this driver pathway. This is the same class rationale that supports imatinib, which is established in unresectable or metastatic DFSP. The high TxGNN score (0.9931) is consistent with this shared-target logic.
 
@@ -145,13 +145,14 @@ The mechanistic rationale (PDGFR inhibition, analogous to imatinib in DFSP) is p
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Eight valid authorizations are listed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 8 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "for the 8 valid US authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cavhanza (nilotinib) prescribing information, Cycle Pharmaceuticals Ltd](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98b197ea-bca4-427e-8737-97f70a3262bc) |
 
 <!-- review:end log -->
 

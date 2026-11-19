@@ -55,7 +55,7 @@ This is essentially an on-label use rather than a true repurposing; the other pr
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not available in the compiled data. Based on the literature supplied, dantrolene inhibits RyR1-mediated calcium release from the sarcoplasmic reticulum in skeletal muscle. A 2017 PNAS study (PMID 28373535) further reports that dantrolene requires Mg2+ to arrest malignant hyperthermia.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dantrolene: "In isolated nerve-muscle preparation, dantrolene has been shown to produce relaxation by affecting the contractile response of the muscle at a site beyond the myoneural junction. In skeletal muscle, dantrolene dissociates the excitation-contraction coupling, probably by interfering with the release of Ca ++ from the sarcoplasmic reticulum." ([DailyMed: Ryanodex Dantrolene Sodium (dantrolene sodium) prescribing information, Eagle Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f7b3ac0-604d-4c78-b545-5e0f8ea3d698), label version 2024-10-30; accessed 2026-11-19.) Based on the literature supplied, dantrolene inhibits RyR1-mediated calcium release from the sarcoplasmic reticulum in skeletal muscle. A 2017 PNAS study (PMID 28373535) further reports that dantrolene requires Mg2+ to arrest malignant hyperthermia.
 
 Malignant hyperthermia susceptibility is caused mainly by gain-of-function variants in the RYR1 gene, which lead to uncontrolled calcium release in muscle after exposure to volatile anaesthetics or succinylcholine. Dantrolene therefore acts directly on the underlying pathophysiology. Consensus guidelines (Association of Anaesthetists 2020; European Malignant Hyperthermia Group 2021) support its role.
 
@@ -94,7 +94,6 @@ Currently no related clinical trials registered. The published guidelines note t
 
 ## US Market Information
 
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA018264 | Dantrium | Injection | Not available |
@@ -122,6 +121,19 @@ For malignant hyperthermia susceptibility, dantrolene directly targets the disea
 - Obtain detailed mechanism-of-action data from DrugBank
 - Review the major morphine interaction and the liver, muscle and lung cautions
 - For RYR1 myopathies, define whether the goal is MH prophylaxis or disease treatment before any further study
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data was not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ryanodex Dantrolene Sodium (dantrolene sodium) prescribing information, Eagle Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f7b3ac0-604d-4c78-b545-5e0f8ea3d698) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

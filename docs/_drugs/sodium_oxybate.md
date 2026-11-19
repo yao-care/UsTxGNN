@@ -56,7 +56,7 @@ with **3 clinical trials** (only 1 directly relevant) and **12 publications** cu
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, sodium oxybate acts on GABA-B and GHB receptors. It increases slow-wave (N3) sleep and consolidates nighttime sleep. This is consistent with its established effect on disrupted nighttime sleep in narcolepsy.
+According to the Mechanism of Action section of the FDA-approved prescribing information for sodium oxybate: "Xyrem is a CNS depressant. The mechanism of action of Xyrem in the treatment of narcolepsy is unknown. Sodium oxybate is the sodium salt of gamma-hydroxybutyrate (GHB), an endogenous compound and metabolite of the neurotransmitter GABA." ([DailyMed: Xyrem (sodium oxybate) prescribing information, Jazz Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=926eb076-a4a8-45e4-91ef-411f0aa4f3ca), label version 2025-07-01; accessed 2026-11-19.) Based on general pharmacology, sodium oxybate acts on GABA-B and GHB receptors. It increases slow-wave (N3) sleep and consolidates nighttime sleep. This is consistent with its established effect on disrupted nighttime sleep in narcolepsy.
 
 Narcolepsy involves disrupted nighttime sleep and sleep instability. Insomnia, especially sleep-maintenance insomnia, shares this feature. That makes the prediction biologically plausible. A review of sodium oxybate and baclofen (PMID 21476957) notes that GABA-B agonists shorten sleep-onset latency, increase sleep consolidation and increase slow-wave sleep.
 
@@ -139,12 +139,13 @@ The only directly relevant trial is a small Phase 2 study (n=48) with no availab
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All U.S. authorizations are currently cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 4 of 4 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xyrem (sodium oxybate) prescribing information, Jazz Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=926eb076-a4a8-45e4-91ef-411f0aa4f3ca) |
 
 <!-- review:end log -->
 

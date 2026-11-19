@@ -56,7 +56,7 @@ but the data compiled for this report contain **0 clinical trials** and only **2
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, ephedrine is a mixed-acting sympathomimetic. It stimulates alpha and beta adrenergic receptors directly and also promotes norepinephrine release. This causes constriction of blood vessels in the nasal mucosa and reduces congestion.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ephedrine: "Ephedrine sulfate is a sympathomimetic amine that directly acts as an agonist at α- and β-adrenergic receptors and indirectly causes the release of norepinephrine from sympathetic neurons. Pressor effects by direct alpha- and beta-adrenergic receptor activation are mediated by increases in arterial pressures, cardiac output, and peripheral resistance." ([DailyMed: Emerphed Pfs (ephedrine sulfate) prescribing information, Nexus Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14601778-93ac-43ec-b66b-5a942317133f), label version 2024-09-16; accessed 2026-11-19.) Based on general pharmacology, ephedrine is a mixed-acting sympathomimetic. It stimulates alpha and beta adrenergic receptors directly and also promotes norepinephrine release. This causes constriction of blood vessels in the nasal mucosa and reduces congestion.
 
 The predicted indication, nasal cavity disease, largely overlaps with the drug's existing indications (allergic rhinitis, vasomotor rhinitis, rhinitis, nasopharyngitis). It is therefore not a true repurposing candidate, but more of a restatement of known uses. The mechanism is biologically plausible, but it is inferred from general knowledge rather than from the provided data.
 
@@ -126,12 +126,13 @@ The prediction score is high, but the predicted indication largely overlaps with
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 14 licenses are valid, and no approved indication text is recorded for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 14 valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Emerphed Pfs (ephedrine sulfate) prescribing information, Nexus Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14601778-93ac-43ec-b66b-5a942317133f) |
 
 <!-- review:end log -->
 

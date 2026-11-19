@@ -56,7 +56,7 @@ This top-ranked prediction is most likely a network-proximity artefact, and the 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, desmopressin is a synthetic vasopressin analogue. It acts through V2 receptor signalling to release von Willebrand factor (VWF) and factor VIII (FVIII) from endothelial stores. This explains its use in von Willebrand disease and mild hemophilia A.
+According to the Mechanism of Action section of the FDA-approved prescribing information for desmopressin: "Desmopressin acetate increases plasma levels of factor VIII activity in patients with hemophilia and von Willebrand's disease Type I. The antidiuretic effects of desmopressin acetate are mediated by stimulation of vasopressin 2 (V2) receptors, thereby increasing water re-absorption in the kidney, and hence reducing urine production. Desmopressin acetate is a replacement hormone for antidiuretic hormone in the treatment of central diabetes insipidus." ([DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244), label version 2022-09-28; accessed 2026-11-19.) Based on known pharmacology, desmopressin is a synthetic vasopressin analogue. It acts through V2 receptor signalling to release von Willebrand factor (VWF) and factor VIII (FVIII) from endothelial stores. This explains its use in von Willebrand disease and mild hemophilia A.
 
 Congenital prothrombin (factor II) deficiency is a different problem. Desmopressin has no known way to raise prothrombin levels. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Prothrombin deficiency is normally managed with prothrombin complex concentrate. The prediction is therefore **not mechanistically supported**.
 
@@ -131,11 +131,12 @@ The top prediction, congenital prothrombin deficiency, has no clinical trials, o
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 11 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244) |
 
 <!-- review:end log -->
 

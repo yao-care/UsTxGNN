@@ -56,7 +56,7 @@ No clinical trials are registered for this prediction, but **20 publications** a
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not available in the data compiled for this report. The published studies describe mefenamic acid as an NSAID that inhibits both the synthesis and the actions of prostaglandins, mainly through cyclooxygenase (COX) blockade.
+According to the Mechanism of Action section of the FDA-approved prescribing information for mefenamic acid: "Mefenamic acid has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of mefenamic acid, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: mefenamic acid prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d15733a9-d5fd-4d5f-86ce-e7ed8c706c7f), label version 2026-04-20; accessed 2026-11-19.) The published studies describe mefenamic acid as an NSAID that inhibits both the synthesis and the actions of prostaglandins, mainly through cyclooxygenase (COX) blockade.
 
 Prostaglandins contribute to headache pain and neurogenic inflammation. Perimenstrual prostaglandin release is thought to drive menstrually related migraine. A drug that reduces prostaglandin production could therefore plausibly relieve headache.
 
@@ -134,11 +134,12 @@ Several small double-blind trials and guideline-level reviews support mefenamic 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The data compiled for this report shows 3 valid single-ingredient oral capsule licences for mefenamic acid in the United States, held by dif" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data was not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: mefenamic acid prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d15733a9-d5fd-4d5f-86ce-e7ed8c706c7f) |
 
 <!-- review:end log -->
 

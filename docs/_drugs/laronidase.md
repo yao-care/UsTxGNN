@@ -55,7 +55,7 @@ The prediction largely overlaps with the existing MPS I indication, so it is not
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not available in the data compiled for this report. Based on known information, laronidase is recombinant alpha-L-iduronidase, an enzyme that breaks down the glycosaminoglycans dermatan sulfate and heparan sulfate.
+According to the Mechanism of Action section of the FDA-approved prescribing information for laronidase: "Mucopolysaccharide storage disorders are caused by the deficiency of specific lysosomal enzymes required for the catabolism of glycosaminoglycans (GAG). Mucopolysaccharidosis I (MPS I) is characterized by the deficiency of α-L-iduronidase, a lysosomal hydrolase which catalyzes the hydrolysis of terminal α-L-iduronic acid residues of dermatan sulfate and heparan sulfate. […] ALDURAZYME uptake by cells into lysosomes is most likely mediated by the mannose-6-phosphate-terminated oligosaccharide chains of laronidase binding to specific mannose-6-phosphate receptors." ([DailyMed: Aldurazyme (laronidase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a80ac249-cae4-41f3-88bb-344088b20e60), label version 2026-09-11; accessed 2026-11-19.) Based on known information, laronidase is recombinant alpha-L-iduronidase, an enzyme that breaks down the glycosaminoglycans dermatan sulfate and heparan sulfate.
 
 In MPS I, these substances accumulate in bone, cartilage and connective tissue and cause skeletal disease (dysostosis multiplex). Skeletal involvement is therefore a manifestation of MPS I rather than a distinct new disease, and the predicted indication overlaps heavily with the approved one. Laboratory work showing that laronidase is taken up by cultured fibroblasts and osteoblasts and delivered to lysosomes supports a plausible mechanism.
 
@@ -125,11 +125,12 @@ The mechanistic rationale is weak:
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US license is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data was not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aldurazyme (laronidase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a80ac249-cae4-41f3-88bb-344088b20e60) |
 
 <!-- review:end log -->
 

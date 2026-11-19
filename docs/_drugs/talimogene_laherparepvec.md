@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **glottis squamous cell carcinoma*
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Talimogene laherparepvec is an oncolytic virus given by injection directly into tumours. In principle, such products can destroy tumour cells directly and stimulate an immune response against the tumour.
+According to the Mechanism of Action section of the FDA-approved prescribing information for talimogene laherparepvec: "IMLYGIC has been genetically modified to replicate within tumors and to produce the immune stimulatory protein GM-CSF. IMLYGIC causes lysis of tumors, followed by release of tumor-derived antigens, which together with virally derived GM-CSF may promote an antitumor immune response." ([DailyMed: Imlygic (talimogene laherparepvec) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=64ffb680-ea8c-42fc-9649-9e8c0eb77ddb), label version 2024-11-29; accessed 2026-11-19.) Talimogene laherparepvec is an oncolytic virus given by injection directly into tumours. In principle, such products can destroy tumour cells directly and stimulate an immune response against the tumour.
 
 Oncolytic therapy has been explored in head and neck squamous cell carcinoma more broadly, which gives a conceptual reason to consider glottic disease. However, that evidence is not part of the data compiled here. The high score reflects the model's pattern matching, not clinical support. Injecting a lesion near the airway also carries practical risks that would need careful assessment.
 
@@ -107,6 +107,18 @@ The prediction rests only on a model score, with no clinical trials or publicati
 - Package insert warnings and contraindications
 - An assessment of injection feasibility and airway safety for laryngeal lesions
 - A review of the interaction risk with corticosteroids and other immunosuppressive agents
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Imlygic (talimogene laherparepvec) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=64ffb680-ea8c-42fc-9649-9e8c0eb77ddb) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

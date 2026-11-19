@@ -56,7 +56,7 @@ Most of this work concerns specific subtypes (thrombotic thrombocytopenic purpur
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on the published literature, acetylcysteine can reduce disulfide bonds in von Willebrand factor (VWF) multimers. This lowers their size and their ability to promote clotting. It also has antioxidant effects that may limit platelet activation and injury to blood-vessel lining cells.
+According to the Mechanism of Action section of the FDA-approved prescribing information for acetylcysteine: "Acetylcysteine has been shown to reduce the extent of liver injury following acetaminophen overdose. Acetaminophen doses of 150 mg/kg or greater have been associated with hepatotoxicity. Acetylcysteine probably protects the liver by maintaining or restoring the glutathione levels, or by acting as an alternate substrate for conjugation with, and thus detoxification of, the reactive metabolite of acetaminophen." ([DailyMed: Acetadote (acetylcysteine) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=472f158a-5ab9-4308-8e49-1116e6ea3d39), label version 2025-04-30; accessed 2026-11-19.) Based on the published literature, acetylcysteine can reduce disulfide bonds in von Willebrand factor (VWF) multimers. This lowers their size and their ability to promote clotting. It also has antioxidant effects that may limit platelet activation and injury to blood-vessel lining cells.
 
 This is supported by preclinical mouse and baboon models of thrombotic thrombocytopenic purpura (TTP) (PMID 28011677). Clinical signals come mainly from TTP, transplant-associated thrombotic microangiopathy (TA-TMA), and combination regimens in immune thrombocytopenia (ITP).
 
@@ -113,6 +113,19 @@ Several trials and reviews, including a completed 170-patient Phase 3 trial in T
 - Label-based warnings and contraindications from the package insert
 - Mechanism-of-action data
 - Clarification of the current licence status of the US products
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Acetadote (acetylcysteine) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=472f158a-5ab9-4308-8e49-1116e6ea3d39) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

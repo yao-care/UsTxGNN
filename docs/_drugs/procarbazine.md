@@ -56,7 +56,7 @@ Direct support is limited: **2 related clinical trials** (neither of them a clea
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, procarbazine is an oral alkylating-type agent with established activity in lymphoid malignancies, and its efficacy in Hodgkin lymphoma has been proven. Mechanistically, it may be applicable to follicular lymphoma.
+According to the Mechanism of Action section of the FDA-approved prescribing information for procarbazine: "The precise mode of cytotoxic action of procarbazine has not been clearly defined. After metabolic activation, procarbazine may inhibit the transmethylation of methyl groups of methionine into transfer RNA (t-RNA). The unavailability of t-RNA prevents protein synthesis, and consequently prevents DNA and RNA synthesis." ([DailyMed: Matulane (procarbazine hydrochloride) prescribing information, Leadiant Biosciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1aa75a3a-18c9-49e1-91a6-293d0b7da756), label version 2026-10-09; accessed 2026-11-19.) Based on known information, procarbazine is an oral alkylating-type agent with established activity in lymphoid malignancies, and its efficacy in Hodgkin lymphoma has been proven. Mechanistically, it may be applicable to follicular lymphoma.
 
 Both Hodgkin lymphoma and follicular lymphoma are lymphoid cancers, so shared lymphoma biology makes activity plausible. Procarbazine was also used in non-Hodgkin lymphoma regimens before CHOP became standard. A 2006 report describes two patients with relapsed or refractory follicular lymphoma who achieved a complete and durable remission with prolonged daily procarbazine. The low-dose oral PEP-C regimen, a metronomic combination, has also been studied in relapsed or refractory lymphoma.
 
@@ -150,12 +150,13 @@ The evidence is limited to a small case report, a cohort description of the PEP-
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "A review of the regulatory pathway, given that the only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "he US license is cancelled, t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Matulane (procarbazine hydrochloride) prescribing information, Leadiant Biosciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1aa75a3a-18c9-49e1-91a6-293d0b7da756) |
 
 <!-- review:end log -->
 

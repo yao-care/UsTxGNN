@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, galcanezumab is a monoclonal antibody that neutralizes calcitonin gene-related peptide (CGRP), and its efficacy is established in migraine prevention.
+According to the Mechanism of Action section of the FDA-approved prescribing information for galcanezumab: "Galcanezumab-gnlm is a humanized monoclonal antibody that binds to calcitonin gene-related peptide (CGRP) ligand and blocks its binding to the receptor." ([DailyMed: Emgality (galcanezumab-gnlm) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33a147be-233a-40e8-a55e-e40936e28db0), label version 2026-06-05; accessed 2026-11-19.) Based on known information, galcanezumab is a monoclonal antibody that neutralizes calcitonin gene-related peptide (CGRP), and its efficacy is established in migraine prevention.
 
 Heparin cofactor 2 deficiency is a disorder of serpin-mediated thrombin inhibition (SERPIND1). CGRP signaling is not known to take part in this pathway, so **no credible mechanistic link was identified**. The high TxGNN score is a computational prediction only and should not be read as evidence of efficacy.
 
@@ -111,11 +111,12 @@ The prediction is supported only by a model score (L5), with no trials, no liter
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license listed is cancelled, and safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Emgality (galcanezumab-gnlm) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33a147be-233a-40e8-a55e-e40936e28db0) |
 
 <!-- review:end log -->
 

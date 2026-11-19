@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **gastroduodenitis**, but **no 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general pharmacological knowledge, mepivacaine is an amide-type local anesthetic that blocks voltage-gated sodium channels. This information is not confirmed by the data compiled for this report.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for mepivacaine: "Local anesthetics block the generation and the conduction of nerve impulses, presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse, and by reducing the rate of rise of the action potential. In general, the progression of anesthesia is related to the diameter, myelination, and conduction velocity of affected nerve fibers." ([DailyMed: Polocaine-Mpf (mepivacaine hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a27d0815-ae6b-4a21-a8f5-564c01e83814), label version 2022-10-01; accessed 2026-11-19.) Based on general pharmacological knowledge, mepivacaine is an amide-type local anesthetic that blocks voltage-gated sodium channels. This information is not confirmed by the data compiled for this report.
 
 The relationship between its anesthetic use and gastroduodenitis is not established. One plausible but unverified idea is an anti-nociceptive effect on visceral afferent nerves, or an effect on mucosal inflammation. Neither is supported by evidence here. The TxGNN score is a computational prediction only and should not be read as proof of efficacy.
 
@@ -122,12 +122,13 @@ The prediction rests only on a computational score, with no clinical trials and 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All six licenses are valid, so there is currently valid US authorization in these records" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "given that all six licenses are valid and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Polocaine-Mpf (mepivacaine hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a27d0815-ae6b-4a21-a8f5-564c01e83814) |
 
 <!-- review:end log -->
 

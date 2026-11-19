@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, verteporfin is a photosensitizer activated by non-thermal red light (about 689 nm). Activation generates reactive oxygen species and causes local vascular occlusion, which is the basis of its use in macular degeneration.
+ChEMBL (EMBL-EBI) records the mechanism of action of verteporfin as: DNA inhibitor ([ChEMBL CHEMBL5314346 (verteporfin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5314346), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, verteporfin is a photosensitizer activated by non-thermal red light (about 689 nm). Activation generates reactive oxygen species and causes local vascular occlusion, which is the basis of its use in macular degeneration.
 
 Preclinical work also reports that verteporfin inhibits YAP-TEAD signaling and may affect autophagy. If this holds, modulating YAP/Hippo signaling or autophagy/mitophagy could be a speculative route to mitochondrial disease. However, the photodynamic action produces oxidative stress, which could instead worsen oxidative phosphorylation dysfunction.
 
@@ -112,11 +112,12 @@ The prediction is supported only by a model score, with no clinical trials or li
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US NDA is cancelled, and the knowledge graph flags several relevant contraindications (porphyria, liver and gallbladder disease)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL5314346 (verteporfin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5314346) |
 
 <!-- review:end log -->
 

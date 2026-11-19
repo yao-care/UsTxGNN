@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **obsolete bundle branch block**,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on general pharmacology, adenosine acts on cardiac A1 receptors, which slows or transiently blocks conduction through the AV node. It is used diagnostically and for terminating supraventricular tachycardia.
+According to the Mechanism of Action section of the FDA-approved prescribing information for adenosine: "Adenosine Injection slows conduction time through the A-V node, can interrupt the reentry pathways through the A-V node, and can restore normal sinus rhythm in patients with paroxysmal supraventricular tachycardia (PSVT), including PSVT associated with Wolff-Parkinson-White Syndrome. Adenosine Injection is antagonized competitively by methylxanthines such as caffeine and theophylline, and potentiated by blockers of nucleoside transport such as dipyridamole." ([DailyMed: adenosine prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9508caf5-0e3a-4d32-909d-bff7ea40ec30), label version 2026-08-31; accessed 2026-11-19.) Based on general pharmacology, adenosine acts on cardiac A1 receptors, which slows or transiently blocks conduction through the AV node. It is used diagnostically and for terminating supraventricular tachycardia.
 
 A plausible rationale for treating bundle branch block is not apparent. Bundle branch block is a disorder of conduction below the AV node, and a drug that slows conduction could in principle worsen conduction disease rather than improve it. The disease term is also flagged as obsolete in the ontology, so the high score (0.9994) may reflect an artifact of the model's training data rather than a real therapeutic signal. The mechanistic link and similarity to the original use are still pending review.
 
@@ -96,6 +96,19 @@ The prediction score is very high, but there are no clinical trials or publicati
 - Mechanism-of-action data and a mechanistic analysis for conduction disorders
 - FDA package insert warnings and contraindications for a safety review
 - Any clinical or preclinical studies directly addressing this condition
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: adenosine prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9508caf5-0e3a-4d32-909d-bff7ea40ec30) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

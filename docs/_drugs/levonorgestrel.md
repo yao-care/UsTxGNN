@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Acne (disease)**. **No clinic
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Levonorgestrel is a progestin of the 19-carbon (androstane) series, with some residual androgenic activity (PMID 7825629). It is used mainly in contraceptive pills, emergency contraception, intrauterine systems and implants.
+According to the Mechanism of Action section of the FDA-approved prescribing information for levonorgestrel: "The local mechanism by which continuously released LNG contributes to the contraceptive effectiveness of Skyla has not been conclusively demonstrated. Studies of Skyla and similar LNG IUS prototypes have suggested several mechanisms that prevent pregnancy: thickening of cervical mucus preventing passage of sperm into the uterus, inhibition of sperm capacitation or survival, and alteration of the endometrium." ([DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309), label version 2026-03-04; accessed 2026-11-19.) Levonorgestrel is a progestin of the 19-carbon (androstane) series, with some residual androgenic activity (PMID 7825629). It is used mainly in contraceptive pills, emergency contraception, intrauterine systems and implants.
 
 The mechanistic link to acne is weak and possibly contradictory. Acne improvement with hormonal contraceptives is generally attributed to the estrogen component and to anti-androgenic progestins such as chlormadinone acetate (PMID 21895044). Progestin-only levonorgestrel products (IUDs, implants) may worsen acne in some users. The one directly relevant randomized trial (PMID 12196750) tested a combination of ethinyl estradiol 20 µg and levonorgestrel 100 µg, so any benefit cannot be attributed to levonorgestrel alone.
 
@@ -132,12 +132,13 @@ The other predictions (Worth syndrome, pregnancy-associated osteoporosis, autoso
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Review of the cancelled license status for any feasible regulatory pathway" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "13 US licenses for levonorgestrel are valid. for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309) |
 
 <!-- review:end log -->
 

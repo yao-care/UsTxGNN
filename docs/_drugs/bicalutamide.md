@@ -56,7 +56,7 @@ Support is thin: **no clinical trials** are registered and there is **1 publicat
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Bicalutamide is, however, a well-characterised non-steroidal androgen receptor (AR) antagonist. Androgen signalling drives hair follicle activity, so blocking the AR is biologically plausible for conditions with excess hair growth.
+According to the Mechanism of Action section of the FDA-approved prescribing information for bicalutamide: "CASODEX is a non-steroidal androgen receptor inhibitor. It competitively inhibits the action of androgens by binding to cytosol androgen receptors in the target tissue. Prostatic carcinoma is known to be androgen sensitive and responds to treatment that counteracts the effect of androgen and/or removes the source of androgen." ([DailyMed: Casodex (bicalutamide) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfee4fe7-8478-4a3e-925d-00be3cd0ab67), label version 2026-02-27; accessed 2026-11-19.) Bicalutamide is, however, a well-characterised non-steroidal androgen receptor (AR) antagonist. Androgen signalling drives hair follicle activity, so blocking the AR is biologically plausible for conditions with excess hair growth.
 
 The only literature item is a comment on a retrospective review of 35 patients with female pattern hair loss, in whom minoxidil-induced hypertrichosis improved with bicalutamide. This is indirect, human-level observational evidence. The review itself is not among the data compiled here, and the letter does not address congenital or generalised hypertrichosis, which are often genetically driven rather than androgen-mediated. The prediction is therefore mechanistically reasonable but only weakly supported.
 
@@ -109,6 +109,18 @@ The evidence level is L4: the only human evidence is a letter commenting on a re
 - Prospective, controlled data in the chosen population
 - Package insert warnings and contraindications, and detailed mechanism-of-action data
 - A safety plan covering liver function and glycaemic monitoring, and review of the major drug interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Casodex (bicalutamide) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfee4fe7-8478-4a3e-925d-00be3cd0ab67) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -56,7 +56,7 @@ No clinical trials or publications were found for this disease, so the support i
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on general pharmacology, amiloride blocks ENaC in the distal nephron, which reduces sodium reabsorption and lowers blood pressure while sparing potassium.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for amiloride: "Amiloride HCl is a potassium-conserving (antikaliuretic) drug that possesses weak (compared with thiazide diuretics) natriuretic, diuretic, and antihypertensive activity. These effects have been partially additive to the effects of thiazide diuretics in some clinical studies." ([DailyMed: amiloride hydrochloride prescribing information, Kesin Pharma Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5eedadbd-9be9-b920-e063-6394a90afa68), label version 2026-11-11; accessed 2026-11-19.) Based on general pharmacology, amiloride blocks ENaC in the distal nephron, which reduces sodium reabsorption and lowers blood pressure while sparing potassium.
 
 Malignant hypertensive renal disease is kidney injury driven by severe, uncontrolled hypertension. Blood-pressure and volume reduction through sodium handling is biologically plausible here. However, no trial or publication examines amiloride in this severe renal phenotype. The high score (0.9982) most likely reflects similarity to amiloride's existing blood-pressure uses and should be treated as a computational prediction only.
 
@@ -105,11 +105,12 @@ The prediction for malignant hypertensive renal disease has a very high model sc
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All three records are single-ingredient oral tablets" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: amiloride hydrochloride prescribing information, Kesin Pharma Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5eedadbd-9be9-b920-e063-6394a90afa68) |
 
 <!-- review:end log -->
 

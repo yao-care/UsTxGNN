@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, lenograstim is a recombinant human G-CSF that acts through the G-CSF receptor to drive proliferation and differentiation of the neutrophil (granulocyte) lineage.
+ChEMBL (EMBL-EBI) records the mechanism of action of lenograstim as: Granulocyte colony stimulating factor receptor agonist ([ChEMBL CHEMBL2109128 (lenograstim): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109128), CC BY-SA 3.0; accessed 2026-11-19.) Based on general knowledge, lenograstim is a recombinant human G-CSF that acts through the G-CSF receptor to drive proliferation and differentiation of the neutrophil (granulocyte) lineage.
 
 Primary release disorder of platelets is a qualitative platelet function defect, not a shortage of white blood cells. No direct mechanistic link between G-CSF signaling and this condition is evident. The high TxGNN score (0.9991) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and nothing in the compiled data supports it with clinical or laboratory evidence. This prediction should therefore be treated as a hypothesis to be tested, not as a finding.
 
@@ -110,6 +110,19 @@ The prediction is supported only by a model score, with no clinical trials, no l
 - Original approved indication text for the drug
 - Preclinical or mechanistic studies showing any plausible effect of G-CSF on platelet function
 - Confirmation of the regulatory status and route compatibility if development is pursued
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2109128 (lenograstim): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109128) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

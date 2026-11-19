@@ -56,7 +56,7 @@ The evidence is early-phase and the trials are mostly small, terminated or of un
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the compiled data. Based on known pharmacology, ifosfamide is a prodrug activated in the liver by cytochrome P450 enzymes. Its active metabolite, isophosphoramide mustard, cross-links DNA and induces apoptosis in rapidly dividing tumour cells.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ifosfamide: "Ifosfamide is a prodrug that requires metabolic activation by hepatic cytochrome P450 isoenzymes to exert its cytotoxic activity. Activation occurs by hydroxylation at the ring carbon atom forming the unstable intermediate 4-hydroxyifosfamide and its ring-opened aldo tautomer, which decomposes to yield the cytotoxic and urotoxic compound acrolein and an alkylating isophosphoramide mustard." ([DailyMed: Ifex (ifosfamide) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b7241707-7538-4d1a-91e7-3a25a91e0b9a), label version 2026-10-07; accessed 2026-11-19.) Based on known pharmacology, ifosfamide is a prodrug activated in the liver by cytochrome P450 enzymes. Its active metabolite, isophosphoramide mustard, cross-links DNA and induces apoptosis in rapidly dividing tumour cells.
 
 Breast cancer is a chemotherapy-responsive solid tumour, and alkylating agents are already used against it. Ifosfamide is an analogue of cyclophosphamide, which is a component of standard breast cancer regimens. Published studies report single-agent response rates of roughly 7–30% in pretreated patients. Phase 2 combination studies with docetaxel, vinorelbine, mitoxantrone, etoposide, paclitaxel and doxorubicin report higher response rates.
 
@@ -154,13 +154,14 @@ The breast cancer evidence consists only of Phase 1/2 trials (several terminated
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All three licenses are valid, so the drug is marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "All 3 US licenses are valid, but the label indications and warnings are not available" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled US status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ifex (ifosfamide) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b7241707-7538-4d1a-91e7-3a25a91e0b9a) |
 
 <!-- review:end log -->
 

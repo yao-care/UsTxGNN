@@ -68,7 +68,7 @@ The evidence includes one completed Phase 3 trial (THINK), but no trial results 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data from the source record is not available. Based on general pharmacology, ketamine is an NMDA receptor antagonist. Central sensitization and glutamatergic signaling are thought to contribute to migraine, cluster headache, and chronic headache pain. Blocking NMDA receptors is therefore a plausible way to relieve pain and to interrupt pain amplification in the trigeminovascular pathway.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ketamine: "KETALAR, a racemic mixture of ketamine, is a non-selective, non-competitive antagonist of the N-methyl-D-aspartate (NMDA) receptor, an ionotropic glutamate receptor. The major circulating metabolite of ketamine (norketamine) demonstrated activity at the same receptor with less affinity." ([DailyMed: Ketalar (ketamine hydrochloride) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063), label version 2026-03-27; accessed 2026-11-19.) Based on general pharmacology, ketamine is an NMDA receptor antagonist. Central sensitization and glutamatergic signaling are thought to contribute to migraine, cluster headache, and chronic headache pain. Blocking NMDA receptors is therefore a plausible way to relieve pain and to interrupt pain amplification in the trigeminovascular pathway.
 
 The original approved indication is not recorded in the data. Ketamine is a well-known anesthetic and analgesic agent, and headache is a pain condition, so the link between the two is plausible. The very high TxGNN score (0.9933) is consistent with this rationale, but it is a model prediction and not clinical evidence.
 
@@ -188,7 +188,7 @@ Several trials directly test ketamine in headache, and the mechanistic rationale
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
@@ -196,6 +196,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "and all six authorizations are listed as valid in the data compiled for this report" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "all U.S. authorizations are cancelled and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given that the drug is marketed with 6 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data from the source record is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ketalar (ketamine hydrochloride) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063) |
 
 <!-- review:end log -->
 

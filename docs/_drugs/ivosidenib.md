@@ -60,7 +60,7 @@ Two lower-ranked predictions, **AML/MDS related to alkylating agents** and **AML
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From general knowledge, ivosidenib is an inhibitor of mutant IDH1. It lowers 2-hydroxyglutarate in IDH1-mutant cancers.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ivosidenib: "Ivosidenib is a small molecule inhibitor that targets the mutant isocitrate dehydrogenase 1 (IDH1) enzyme. In patients with AML, susceptible IDH1 mutations are defined as those leading to increased levels of 2-hydroxyglutarate (2-HG) in the leukemia cells and where efficacy is predicted by 1) clinically meaningful remissions with the recommended dose of ivosidenib and/or 2) inhibition of mutant IDH1 enzymatic activity at concentrations of ivosidenib sustainable at the recommended dosage according to validated methods." ([DailyMed: Tibsovo (ivosidenib) prescribing information, Servier Pharmaceutical LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65d254c0-67ad-42c4-b972-ad463b755b2d), label version 2025-12-22; accessed 2026-11-19.) From general knowledge, ivosidenib is an inhibitor of mutant IDH1. It lowers 2-hydroxyglutarate in IDH1-mutant cancers.
 
 **Bulbar polio (rank 1):** Bulbar polio is a viral infection of motor neurons caused by poliovirus. No plausible mechanistic link to mutant IDH1 inhibition was identified. The very high score (0.9931) is a TxGNN model (deep learning) prediction only and most likely reflects network artifacts rather than biology. This prediction is not considered credible without independent supporting evidence.
 
@@ -142,12 +142,13 @@ Please refer to the package insert for warnings and contraindications.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The US license record shows only a cancelled NDA, and package insert safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "Clarification of the current US market status, since the only NDA is listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tibsovo (ivosidenib) prescribing information, Servier Pharmaceutical LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65d254c0-67ad-42c4-b972-ad463b755b2d) |
 
 <!-- review:end log -->
 

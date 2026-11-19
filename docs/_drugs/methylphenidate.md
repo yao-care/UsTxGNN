@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Faciodigitogenital Syndrome**
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the published literature, methylphenidate blocks the dopamine transporter (DAT) and norepinephrine transporter (NET), raising dopamine and norepinephrine levels in the brain. This is the basis of its effect on attention and hyperactivity in ADHD.
+According to the Mechanism of Action section of the FDA-approved prescribing information for methylphenidate: "Methylphenidate hydrochloride is a central nervous system (CNS) stimulant. The mode of therapeutic action of METADATE CD in the treatment of ADHD in pediatric patients 6 years of age and older is not known. Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increases the release of these monoamines into the extraneuronal space." ([DailyMed: Metadate Cd (methylphenidate hydrochloride) prescribing information, Lannett Company, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4), label version 2026-10-21; accessed 2026-11-19.) Based on the published literature, methylphenidate blocks the dopamine transporter (DAT) and norepinephrine transporter (NET), raising dopamine and norepinephrine levels in the brain. This is the basis of its effect on attention and hyperactivity in ADHD.
 
 Faciodigitogenital syndrome (Aarskog-Scott syndrome) is an X-linked developmental disorder caused by FGD1 mutations. It mainly involves facial, finger and genital anomalies, but can also include ADHD-like behavioural features. A plausible link is that methylphenidate could treat these attention and hyperactivity symptoms. It would not treat the skeletal or genital anomalies. This is a hypothesis only, and no supporting data were found.
 
@@ -145,12 +145,13 @@ The TxGNN score for faciodigitogenital syndrome is very high, but there are no c
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "he US market status is also "cancelled only", and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "All 18 authorizations are marked as valid, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Metadate Cd (methylphenidate hydrochloride) prescribing information, Lannett Company, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4) |
 
 <!-- review:end log -->
 

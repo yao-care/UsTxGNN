@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, diphenhydramine is a first-generation H1-receptor antagonist. Its efficacy in allergic and atopic conjunctivitis is established, so a histamine-mediated component of ocular surface inflammation offers a plausible link to rosacea conjunctivitis.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for diphenhydramine: "Diphenhydramine hydrochloride is an antihistamine with anticholinergic (drying) and sedative side effects. Antihistamines appear to compete with histamine for cell receptor sites on effector cells. Diphenhydramine hydrochloride in the injectable form has a rapid onset of action." ([DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4), label version 2026-10-28; accessed 2026-11-19.) Based on known information, diphenhydramine is a first-generation H1-receptor antagonist. Its efficacy in allergic and atopic conjunctivitis is established, so a histamine-mediated component of ocular surface inflammation offers a plausible link to rosacea conjunctivitis.
 
 However, the link is weak. Ocular rosacea is driven mainly by meibomian gland dysfunction, tear film instability, innate immune activation, Demodex colonization, and vascular dysregulation, not primarily by histamine. An antihistamine would likely provide at most symptomatic relief of itch or redness and would not be expected to affect the underlying disease.
 
@@ -118,12 +118,13 @@ The prediction is supported only by a model score, with no clinical trials or pu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All four authorizations are currently valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 4 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4) |
 
 <!-- review:end log -->
 

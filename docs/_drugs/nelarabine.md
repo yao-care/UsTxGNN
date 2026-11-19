@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, nelarabine is a prodrug of ara-G, a deoxyguanosine analog. It is converted to ara-GTP and incorporated into DNA, causing preferential cytotoxicity in T-lymphoblasts.
+According to the Mechanism of Action section of the FDA-approved prescribing information for nelarabine: "Nelarabine is a prodrug of the deoxyguanosine analogue 9-β- D -arabinofuranosylguanine (ara-G), a nucleoside metabolic inhibitor. Nelarabine is demethylated by ADA to ara-G, mono-phosphorylated by deoxyguanosine kinase and deoxycytidine kinase, and subsequently converted to the active 5’-triphosphate, ara-GTP." ([DailyMed: Arranon (nelarabine) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f9051de-5c4d-4c0f-8c19-e15214498cca), label version 2025-03-31; accessed 2026-11-19.) Based on known pharmacology, nelarabine is a prodrug of ara-G, a deoxyguanosine analog. It is converted to ara-GTP and incorporated into DNA, causing preferential cytotoxicity in T-lymphoblasts.
 
 Relapsing-remitting multiple sclerosis is driven in part by pathogenic autoreactive lymphocytes. Selectively depleting lymphocytes is the same rationale behind cladribine, a purine analog approved for MS. This gives the prediction a plausible mechanistic basis.
 
@@ -128,12 +128,13 @@ The prediction has no supporting clinical trials or literature (evidence level L
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The 10 US authorizations are all injectable products and all currently have cancelled status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 10 of 10 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Arranon (nelarabine) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f9051de-5c4d-4c0f-8c19-e15214498cca) |
 
 <!-- review:end log -->
 

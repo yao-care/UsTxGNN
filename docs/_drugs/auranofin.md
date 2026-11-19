@@ -54,7 +54,7 @@ Auranofin is an oral gold-based compound used for its anti-inflammatory effects.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Auranofin is a gold-based compound known to react with thiol groups and to inhibit thioredoxin reductase, and it has been used as an anti-inflammatory agent.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for auranofin: "The mechanism of action of RIDAURA (auranofin) is not understood. In patients with adult rheumatoid arthritis, RIDAURA may modify disease activity as manifested by synovitis and associated symptoms, and reflected by laboratory parameters such as ESR." ([DailyMed: Ridaura (auranofin) prescribing information, Sebela Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43ba3de1-ab2e-06f6-e054-00144ff8d46c), label version 2025-11-08; accessed 2026-11-19.) Auranofin is a gold-based compound known to react with thiol groups and to inhibit thioredoxin reductase, and it has been used as an anti-inflammatory agent.
 
 Colobomatous microphthalmia-rhizomelic dysplasia syndrome is an ultra-rare developmental malformation syndrome. No plausible pathway connects auranofin's pharmacology to the way this condition arises. The high score may reflect network proximity effects in the model rather than biological rationale, so the prediction should be treated only as a hypothesis.
 
@@ -103,6 +103,19 @@ The prediction has no supporting trials or publications and no plausible mechani
 - Preclinical or mechanistic evidence connecting auranofin to the pathogenesis of this syndrome
 - Package insert warnings and contraindications for safety screening
 - Review of the Major-rated drug interactions before any clinical consideration
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ridaura (auranofin) prescribing information, Sebela Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43ba3de1-ab2e-06f6-e054-00144ff8d46c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

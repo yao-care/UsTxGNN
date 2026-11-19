@@ -56,7 +56,7 @@ This is a TxGNN model (deep learning) prediction only: **0 clinical trials** and
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data were not available in the compiled data. Midodrine is known to be a peripherally acting alpha-1 adrenergic agonist. Its active metabolite, desglymidodrine, constricts arterioles and veins and raises blood pressure. This explains its use in orthostatic hypotension, POTS and autonomic failure in multiple system atrophy.
+According to the Mechanism of Action section of the FDA-approved prescribing information for midodrine: "Midodrine hydrochloride forms an active metabolite, desglymidodrine, that is an alpha 1 -agonist, and exerts its actions via activation of the alpha-adrenergic receptors of the arteriolar and venous vasculature, producing an increase in vascular tone and elevation of blood pressure. Desglymidodrine does not stimulate cardiac beta-adrenergic receptors." ([DailyMed: midodrine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6705af-bb72-4edb-863a-93a351bd6dba), label version 2026-11-12; accessed 2026-11-19.) Midodrine is known to be a peripherally acting alpha-1 adrenergic agonist. Its active metabolite, desglymidodrine, constricts arterioles and veins and raises blood pressure. This explains its use in orthostatic hypotension, POTS and autonomic failure in multiple system atrophy.
 
 The link to a prion disorder is weak. No plausible mechanism connects alpha-1 agonism to modifying the course of a prion disease. At most, midodrine could treat autonomic symptoms such as low blood pressure on standing, and that would not be a repurposing claim for the underlying disease. The very high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -120,12 +120,13 @@ The prediction for variably protease-sensitive prionopathy rests only on a TxGNN
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 10 midodrine hydrochloride tablet authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 10 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: midodrine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6705af-bb72-4edb-863a-93a351bd6dba) |
 
 <!-- review:end log -->
 

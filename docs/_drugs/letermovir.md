@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, letermovir is a CMV-specific antiviral that inhibits the viral terminase complex (pUL56/pUL51/pUL89). This target has no known human or fungal counterpart.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for letermovir: "PREVYMIS is an antiviral drug against CMV. […] Letermovir inhibits the CMV DNA terminase complex (pUL51, pUL56, and pUL89) which is required for viral DNA processing and packaging. Biochemical characterization and electron microscopy demonstrated that letermovir affects the production of proper unit length genomes and interferes with virion maturation." ([DailyMed: Prevymis (letermovir) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b49df80-be4f-47e0-a0b7-123f3e69395b), label version 2026-01-14; accessed 2026-11-19.) From general pharmacology, letermovir is a CMV-specific antiviral that inhibits the viral terminase complex (pUL56/pUL51/pUL89). This target has no known human or fungal counterpart.
 
 Cytomegalovirus infection is a viral disease, while vulvovaginal candidiasis is a fungal infection. There is no clear mechanistic path from a viral terminase inhibitor to antifungal activity against *Candida* species. Any link would have to be indirect, for example through changes in host immunity or the vaginal microbiome, and nothing in the compiled data supports this.
 
@@ -120,12 +120,13 @@ The prediction has only a model score behind it. There are no clinical trials or
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All three authorizations (manufacturer: Merck Sharp & Dohme LLC) are listed as cancelled in the compiled data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "plus clarification of the cancelled US authorization status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Prevymis (letermovir) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b49df80-be4f-47e0-a0b7-123f3e69395b) |
 
 <!-- review:end log -->
 

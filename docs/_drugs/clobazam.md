@@ -58,7 +58,7 @@ Clobazam is a benzodiazepine anticonvulsant that acts on GABA-A receptors. The T
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on what is known about the drug class, clobazam is a benzodiazepine that positively modulates GABA-A receptors and has anticonvulsant activity.
+According to the Mechanism of Action section of the FDA-approved prescribing information for clobazam: "The exact mechanism of action for clobazam, a 1,5-benzodiazepine, is not fully understood but is thought to involve potentiation of GABAergic neurotransmission resulting from binding at the benzodiazepine site of the GABA A receptor." ([DailyMed: Onfi (clobazam) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de03bd69-2dca-459c-93b4-541fd3e9571c), label version 2026-10-16; accessed 2026-11-19.) Based on what is known about the drug class, clobazam is a benzodiazepine that positively modulates GABA-A receptors and has anticonvulsant activity.
 
 Febrile infection-related epilepsy syndrome is a severe, refractory status epilepticus syndrome in which GABAergic agents such as midazolam and barbiturates are commonly used. This gives the prediction a plausible class-level rationale.
 
@@ -129,11 +129,12 @@ The prediction score is high (0.9982), but no study of clobazam in febrile infec
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Of 15 recorded licences, 14 are valid and 1 is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Onfi (clobazam) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de03bd69-2dca-459c-93b4-541fd3e9571c) |
 
 <!-- review:end log -->
 

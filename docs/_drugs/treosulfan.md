@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, treosulfan is a bifunctional alkylating agent. It is a prodrug that converts to epoxide intermediates, which cross-link DNA. It is used in conditioning before hematopoietic stem cell transplantation.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for treosulfan: "Treosulfan is an alkylating agent. DNA alkylation is thought to be responsible for the cytotoxic activities of treosulfan. Treosulfan showed hematopoietic stem cell depleting activity as well as immunosuppressive and antitumor activity in mouse models of leukemia." ([DailyMed: Grafapex (treosulfan) prescribing information, Medexus Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d06b03c-17aa-0492-e063-6294a90abd8f), label version 2025-01-31; accessed 2026-11-19.) Based on known information, treosulfan is a bifunctional alkylating agent. It is a prodrug that converts to epoxide intermediates, which cross-link DNA. It is used in conditioning before hematopoietic stem cell transplantation.
 
 Diabetic cataract develops mainly through polyol pathway activation, oxidative stress, and aldose reductase-mediated lens opacification. From the data compiled for this report, no plausible mechanistic link can be established between DNA cross-linking by an alkylating agent and these lens pathways.
 
@@ -120,11 +120,12 @@ The prediction is supported only by a high model score, with no clinical trials,
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The drug's cytotoxic profile adds a strong safety concern for this chronic indication, and its only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Grafapex (treosulfan) prescribing information, Medexus Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d06b03c-17aa-0492-e063-6294a90abd8f) |
 
 <!-- review:end log -->
 

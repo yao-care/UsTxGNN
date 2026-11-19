@@ -56,7 +56,7 @@ but **no clinical trials and no publications** were found to support this direct
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for esketamine is not available in the data compiled for this report. From general pharmacology, esketamine is an NMDA receptor antagonist that modulates glutamatergic signaling. This background knowledge could not be confirmed from the supplied data.
+According to the Mechanism of Action section of the FDA-approved prescribing information for esketamine: "Esketamine, the S-enantiomer of racemic ketamine, is a non-selective, non-competitive antagonist of the N -methyl- D -aspartate (NMDA) receptor, an ionotropic glutamate receptor. The mechanism by which esketamine exerts its antidepressant effect is unknown." ([DailyMed: Spravato (esketamine hydrochloride) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed), label version 2026-09-22; accessed 2026-11-19.) From general pharmacology, esketamine is an NMDA receptor antagonist that modulates glutamatergic signaling. This background knowledge could not be confirmed from the supplied data.
 
 Agoraphobia is usually classed with the anxiety disorders and often occurs together with panic disorder. Because esketamine's listed original indications (anxiety disorder, neurotic disorder) are close neighbors of agoraphobia, the prediction is biologically plausible on grounds of disease proximity.
 
@@ -119,12 +119,13 @@ The prediction rests only on a model score, with no registered trials or publica
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US license is cancelled, and l" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled US license status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data for esketamine is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Spravato (esketamine hydrochloride) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed) |
 
 <!-- review:end log -->
 

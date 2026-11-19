@@ -56,7 +56,7 @@ The top-scoring predictions (e.g., post-bacterial disorder) have no supporting s
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Based on known information, acetic acid acts as a topical acidifier with antibacterial and antifungal properties. Its efficacy in external ear infections is thought to come from lowering local pH, which inhibits bacterial and fungal growth.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for acetic acid: "Acetic acid is antibacterial and antifungal; propylene glycol is hydrophilic and provides a low surface tension; benzethonium chloride is a surface active agent that promotes contact of the solution with tissues." ([DailyMed: acetic acid prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1c28375-9b03-4590-9d39-ab28403da93d), label version 2026-03-18; accessed 2026-11-19.) Based on known information, acetic acid acts as a topical acidifier with antibacterial and antifungal properties. Its efficacy in external ear infections is thought to come from lowering local pH, which inhibits bacterial and fungal growth.
 
 Tinea corporis is a superficial dermatophyte infection of the skin. Lowering skin pH may inhibit dermatophyte growth, so the idea is mechanistically plausible. Historical reports from 1946 to 1958 describe dilute acetic acid (with iodine) for tinea capitis and acetic acid for foot epidermophytosis, which are related dermatophyte infections. An in vitro onychomycosis model and a chemical peeling report offer indirect support. However, no modern controlled studies have been done in tinea corporis itself.
 
@@ -145,13 +145,14 @@ All predictions are supported only by model scores. Tinea corporis has the best 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All six authorizations are valid and the drug is currently marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "All six US authorizations are valid, but label-based safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: acetic acid prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1c28375-9b03-4590-9d39-ab28403da93d) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and only **indirect literature** (
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, nevirapine is an HIV-1 non-nucleoside reverse transcriptase inhibitor (NNRTI). Its efficacy in HIV infection is established, and SIV is a closely related lentivirus, so a model that relies on viral similarity would naturally link the two.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for nevirapine: "Nevirapine is an antiretroviral drug. […] Nevirapine is a non-nucleoside reverse transcriptase inhibitor (NNRTI) of HIV-1. Nevirapine binds directly to reverse transcriptase (RT) and blocks the RNA-dependent and DNA-dependent DNA polymerase activities by causing a disruption of the enzyme's catalytic site." ([DailyMed: nevirapine prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f6c3eed-2a5d-46ed-9a7c-59715f338a15), label version 2026-10-08; accessed 2026-11-19.) Based on known information, nevirapine is an HIV-1 non-nucleoside reverse transcriptase inhibitor (NNRTI). Its efficacy in HIV infection is established, and SIV is a closely related lentivirus, so a model that relies on viral similarity would naturally link the two.
 
 However, the mechanistic link is weak. SIV reverse transcriptase is naturally resistant to most NNRTIs, as is HIV-2's. The literature is consistent with this: SIV/HIV chimeric viruses (RT-SHIV), in which the SIV RT is replaced by HIV-1 RT, are used specifically to model NNRTI susceptibility in macaques. The high TxGNN score is therefore likely driven by lentiviral similarity rather than direct evidence of nevirapine activity against wild-type SIV.
 
@@ -128,11 +128,12 @@ The prediction rests on model output and indirect in vitro and animal-model lite
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All nine authorizations are generic applications (ANDA) with cancelled status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: nevirapine prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f6c3eed-2a5d-46ed-9a7c-59715f338a15) |
 
 <!-- review:end log -->
 

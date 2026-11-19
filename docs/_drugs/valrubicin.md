@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, valrubicin is a semisynthetic anthracycline (N-trifluoroacetyladriamycin-14-valerate). It acts as a topoisomerase II inhibitor and DNA intercalator, and it is used in the bladder for BCG-refractory carcinoma in situ. A cytotoxic mechanism like this could plausibly act on other epithelial tumors, which may explain the high TxGNN score.
+According to the Mechanism of Action section of the FDA-approved prescribing information for valrubicin: "Valrubicin is an anthracycline that affects a variety of interrelated biological functions, most of which involve nucleic acid metabolism. In cells, it inhibits the incorporation of nucleosides into nucleic acids, causes chromosomal damage, and arrests the cell cycle in G 2." ([DailyMed: Valstar (valrubicin) prescribing information, Endo USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e96f30a0-6662-11de-8f80-0002a5d5c51b), label version 2024-10-31; accessed 2026-11-19.) Based on known pharmacology, valrubicin is a semisynthetic anthracycline (N-trifluoroacetyladriamycin-14-valerate). It acts as a topoisomerase II inhibitor and DNA intercalator, and it is used in the bladder for BCG-refractory carcinoma in situ. A cytotoxic mechanism like this could plausibly act on other epithelial tumors, which may explain the high TxGNN score.
 
 There are significant limits to this reasoning. Valrubicin is lipophilic and designed for local delivery into the bladder, with minimal systemic absorption. There is therefore no established route for the drug to reach colonic tumors. A hypothetical intrarectal or other local route would be entirely untested. No trial or literature evidence supports the colonic indication.
 
@@ -124,11 +124,12 @@ The prediction has no clinical or literature support (Evidence Level L5). Valrub
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and its US authorizations are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Valstar (valrubicin) prescribing information, Endo USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e96f30a0-6662-11de-8f80-0002a5d5c51b) |
 
 <!-- review:end log -->
 

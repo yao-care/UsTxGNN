@@ -55,7 +55,7 @@ but there are **0 registered clinical trials** and only **indirect literature** 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known class pharmacology, naratriptan is a selective 5-HT1B/1D receptor agonist approved for acute migraine. Its effect is thought to come from cranial vasoconstriction, inhibition of trigeminal CGRP release, and blocking of trigeminovascular pain transmission.
+According to the Mechanism of Action section of the FDA-approved prescribing information for naratriptan: "Naratriptan binds with high affinity to human cloned 5-HT 1B/1D receptors. Migraines are likely due to local cranial vasodilatation and/or to the release of sensory neuropeptides (including substance P and calcitonin gene-related peptide) through nerve endings in the trigeminal system." ([DailyMed: naratriptan prescribing information, ASCLEMED USA INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63ea356f-0895-4540-b242-8e611eacd938), label version 2026-08-07; accessed 2026-11-19.) Based on known class pharmacology, naratriptan is a selective 5-HT1B/1D receptor agonist approved for acute migraine. Its effect is thought to come from cranial vasoconstriction, inhibition of trigeminal CGRP release, and blocking of trigeminovascular pain transmission.
 
 Migraine with brainstem aura is a subtype of migraine with aura, so the pharmacological rationale overlaps with the approved indication. The very high TxGNN score is consistent with this overlap.
 
@@ -137,11 +137,12 @@ The prediction is mechanistically plausible because the subtype shares pharmacol
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All three US authorizations are generic applications that are now cancelled, and no approved indication text is recorded for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: naratriptan prescribing information, ASCLEMED USA INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63ea356f-0895-4540-b242-8e611eacd938) |
 
 <!-- review:end log -->
 

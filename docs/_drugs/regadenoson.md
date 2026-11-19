@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **anaphylaxis**, but **no clinica
 
 ## Why is This Prediction Reasonable?
 
-Regadenoson is a selective A2A adenosine receptor agonist (it also binds A1, A2B and A3 receptors). Detailed mechanism-of-action text is not available in the data compiled for this report, but receptor binding data confirm that it acts on adenosine receptors. In preclinical models, A2A signaling generally has anti-inflammatory and mast cell-stabilizing effects, which offers a theoretical link to allergic reactions.
+Regadenoson is a selective A2A adenosine receptor agonist (it also binds A1, A2B and A3 receptors). According to the Mechanism of Action section of the FDA-approved prescribing information for regadenoson: "Regadenoson is a low affinity agonist (K i ≈ 1.3 µM) for the A 2A adenosine receptor, with at least 10-fold lower affinity for the A 1 adenosine receptor (K i > 16.5 µM), and weak, if any, affinity for the A 2B and A 3 adenosine receptors. Activation of the A 2A adenosine receptor by regadenoson produces coronary vasodilation and increases coronary blood flow (CBF)." ([DailyMed: Lexiscan (regadenoson) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=057289f4-2e18-4c1e-bed4-6c1858e2ef16), label version 2018-12-21; accessed 2026-11-19.) Receptor binding data confirm that it acts on adenosine receptors. In preclinical models, A2A signaling generally has anti-inflammatory and mast cell-stabilizing effects, which offers a theoretical link to allergic reactions.
 
 However, the prediction is weak from a clinical standpoint. Regadenoson causes vasodilation and hypotension, whereas anaphylaxis requires rapid vasopressor support such as epinephrine. A vasodilator would be expected to worsen, not treat, anaphylactic shock. Regadenoson itself also carries rare hypersensitivity warnings. The high TxGNN score is a purely computational result and is not backed by any clinical or literature data.
 
@@ -138,13 +138,14 @@ The prediction is supported only by a computational score (L5). No trials or pub
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 12 licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "All 12 US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "The remaining seven ANDAs (International Medication Systems, Hikma, Baxter, Gland Pharma, Accord, Meitheal, Hospira) are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action text is not available in the data compiled for this report, but r" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lexiscan (regadenoson) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=057289f4-2e18-4c1e-bed4-6c1858e2ef16) |
 
 <!-- review:end log -->
 

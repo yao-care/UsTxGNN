@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **exercise-induced malignant hy
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for acetazolamide are not available in the data compiled for this report. From general pharmacology, acetazolamide inhibits carbonic anhydrase, which changes acid-base balance and fluid handling. It has been used in some muscle ion-channel disorders such as periodic paralysis.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for acetazolamide: "Acetazolamide is a potent carbonic anhydrase inhibitor, effective in the control of fluid secretion (e.g., some types of glaucoma), in the treatment of certain convulsive disorders (e.g., epilepsy), and in the promotion of diuresis in instances of abnormal fluid retention (e.g., cardiac edema). Acetazolamide is not a mercurial diuretic." ([DailyMed: acetazolamide prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8e48a25-5f6c-4b5a-a5f2-ee87aabea33b), label version 2026-11-10; accessed 2026-11-19.) From general pharmacology, acetazolamide inhibits carbonic anhydrase, which changes acid-base balance and fluid handling. It has been used in some muscle ion-channel disorders such as periodic paralysis.
 
 A link to exercise-induced malignant hyperthermia, a condition involving disordered calcium handling in skeletal muscle, is speculative. No trial, publication or mechanistic study was found that connects the drug to this condition. The very high TxGNN score (0.9995) should therefore be read as a model signal that needs independent confirmation, not as evidence of benefit.
 
@@ -102,6 +102,19 @@ The prediction has no clinical trials and no literature, and no mechanistic basi
 - Any case reports, observational data or registered trials in this condition
 - Package-insert warnings and contraindications, and a review of the interaction profile
 - Detailed mechanism-of-action data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for acetazolamide are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: acetazolamide prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8e48a25-5f6c-4b5a-a5f2-ee87aabea33b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

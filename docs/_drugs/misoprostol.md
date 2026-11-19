@@ -56,7 +56,7 @@ The evidence is weak, so the recommendation is **Hold**.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, misoprostol is a prostaglandin E1 analog that induces uterine contraction and cervical ripening, and it is used clinically in uterine evacuation.
+According to the Mechanism of Action section of the FDA-approved prescribing information for diclofenac sodium and misoprostol (a combination product containing misoprostol): "Misoprostol Misoprostol is a synthetic PGE1 analog with gastric antisecretory and mucosal protective properties. Misoprostol can increase bicarbonate and mucus production, but it has been shown at doses 200 mcg and above that are also antisecretory." ([DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3), label version 2026-08-31; accessed 2026-11-19.) Based on known information, misoprostol is a prostaglandin E1 analog that induces uterine contraction and cervical ripening, and it is used clinically in uterine evacuation.
 
 The link to amenorrhea is indirect. Misoprostol is used where absent menses are caused by pregnancy-related conditions (for example, missed abortion or anembryonic pregnancy), helping to empty the uterus and restore the cycle. The retrieved literature, however, shows no evidence that misoprostol treats amenorrhea itself. Most of the papers describe mifepristone plus misoprostol regimens for ending early pregnancy, where "amenorrhea" appears only as an inclusion criterion (for example, amenorrhea ≤35 days).
 
@@ -150,13 +150,14 @@ The second predicted indication, atypical coarctation of aorta, has no supportin
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All five licenses are valid and the only dosage form is an oral tablet" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with five valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given that the drug is marketed with five valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3) |
 
 <!-- review:end log -->
 

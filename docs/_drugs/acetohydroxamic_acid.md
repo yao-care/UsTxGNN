@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, AHA is an irreversible inhibitor of bacterial urease. It is not an antimicrobial in the usual sense. By blocking urease, it reduces ammonia production and urinary alkalinization, which is why it has been used in urinary infections involving urease-producing bacteria.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for acetohydroxamic acid: "AHA reversibly inhibits the bacterial enzyme urease, thereby inhibiting the hydrolysis of urea and production of ammonia in urine infected with urea-splitting organisms. The reduced ammonia levels and decreased pH enhance the effectiveness of antimicrobial agents and allow an increased cure rate of these infections." ([DailyMed: Lithostat (acetohydroxamic acid) prescribing information, Mission Pharmacal Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6660b616-a82d-9109-19ce-2bdf9747acea), label version 2026-01-08; accessed 2026-11-19.) Based on general pharmacological knowledge, AHA is an irreversible inhibitor of bacterial urease. It is not an antimicrobial in the usual sense. By blocking urease, it reduces ammonia production and urinary alkalinization, which is why it has been used in urinary infections involving urease-producing bacteria.
 
 *Ureaplasma urealyticum* also produces urease, so the mechanism is biologically plausible. However, Ureaplasma urethritis is a mucosal infection of the lower genital tract. It is not an upper-tract struvite stone condition, so the benefit of urease inhibition is less clear. The high score (0.9963) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. This mechanistic reasoning is inferred rather than drawn from the supplied data.
 
@@ -133,12 +133,13 @@ The prediction has no clinical trial or literature support (evidence level L5), 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US product is cancelled, and the hematologic safety signals are notable" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "Clarification of the regulatory and supply pathway, given that the only US product is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lithostat (acetohydroxamic acid) prescribing information, Mission Pharmacal Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6660b616-a82d-9109-19ce-2bdf9747acea) |
 
 <!-- review:end log -->
 

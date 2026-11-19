@@ -60,7 +60,7 @@ There are currently **0 clinical trials** and **14 publications** on this direct
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available for this report. Diclofenac is a well-known NSAID that inhibits cyclooxygenase (COX) enzymes, which reduces prostaglandin production and thereby joint inflammation, pain and stiffness.
+According to the Mechanism of Action section of the FDA-approved prescribing information for diclofenac: "Diclofenac has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of diclofenac, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970), label version 2026-09-24; accessed 2026-11-19.) Diclofenac is a well-known NSAID that inhibits cyclooxygenase (COX) enzymes, which reduces prostaglandin production and thereby joint inflammation, pain and stiffness.
 
 JIA shares the same inflammatory joint pathology as diclofenac's established indications (rheumatoid arthritis, ankylosing spondylitis, osteoarthritis). COX inhibition addresses symptoms in JIA in the same way. This is symptomatic relief, not disease modification, and NSAIDs in JIA are typically used alongside disease-modifying drugs (DMARDs) and biologics.
 
@@ -161,12 +161,13 @@ Please refer to the package insert for official warnings, as label text was not 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 16 valid licenses The table lists 5 of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 16 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970) |
 
 <!-- review:end log -->
 

@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **follicular lymphoma**, but th
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, brentuximab vedotin is an antibody-drug conjugate. The antibody targets CD30 and delivers a cytotoxic payload (vedotin, MMAE) into CD30-positive cells. Its efficacy in CD30-positive Hodgkin lymphoma is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for brentuximab vedotin: "CD30 is a member of the tumor necrosis factor receptor family and is expressed on the surface of sALCL cells and on Hodgkin Reed-Sternberg (HRS) cells in cHL. CD30 is variably expressed in other T-cell lymphomas. […] Brentuximab vedotin is an antibody-drug conjugate (ADC)." ([DailyMed: Adcetris (brentuximab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3904f8dd-1aef-3490-e48f-bd55f32ed67f), label version 2025-11-11; accessed 2026-11-19.) Based on known pharmacology, brentuximab vedotin is an antibody-drug conjugate. The antibody targets CD30 and delivers a cytotoxic payload (vedotin, MMAE) into CD30-positive cells. Its efficacy in CD30-positive Hodgkin lymphoma is established.
 
 The link to follicular lymphoma is weak. Follicular lymphoma is generally CD30-low or negative, so any benefit would depend on a CD30-expressing subset or on bystander effects of the payload. The high TxGNN score reflects network-level similarity between lymphoid diseases and should not be read as evidence of CD30-driven activity.
 
@@ -153,12 +153,13 @@ The mechanistic rationale is weak because follicular lymphoma is generally CD30-
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Verification of current US marketing status, since the compiled data shows only a cancelled license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the single US license (BLA125388) is listed as cancelled in the compiled data, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Adcetris (brentuximab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3904f8dd-1aef-3490-e48f-bd55f32ed67f) |
 
 <!-- review:end log -->
 

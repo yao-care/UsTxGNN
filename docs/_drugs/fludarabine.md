@@ -56,7 +56,7 @@ In nearly all of these studies, fludarabine is a conditioning or lymphodepletion
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data from DrugBank are not available. From the compiled analysis, fludarabine is a purine nucleoside analog that inhibits DNA synthesis and is cytotoxic to lymphoid cells. Preclinical work has also reported anti-myeloma activity in vitro and in vivo (PMID 17976186).
+According to the Mechanism of Action section of the FDA-approved prescribing information for fludarabine: "Fludarabine phosphate is rapidly converted to active 2-fluoro-ara-ATP, which appears to inhibit DNA synthesis through inhibition of DNA polymerase alpha, ribonucleotide reductase and DNA primase." ([DailyMed: fludarabine phosphate prescribing information, Hisun Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=291f6ee2-f5d2-ae6c-e063-6294a90a5951), label version 2026-09-20; accessed 2026-11-19.) From the compiled analysis, fludarabine is a purine nucleoside analog that inhibits DNA synthesis and is cytotoxic to lymphoid cells. Preclinical work has also reported anti-myeloma activity in vitro and in vivo (PMID 17976186).
 
 In myeloma, fludarabine is used mainly as a **lymphodepleting and conditioning agent**:
 - with cyclophosphamide before BCMA-directed CAR-T therapy;
@@ -162,12 +162,13 @@ Fludarabine is firmly embedded in conditioning and lymphodepletion regimens for 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All four US records are generic (ANDA) injectables, and all have been cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "4 of 4 licenses are valid, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data from DrugBank are not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: fludarabine phosphate prescribing information, Hisun Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=291f6ee2-f5d2-ae6c-e063-6294a90a5951) |
 
 <!-- review:end log -->
 

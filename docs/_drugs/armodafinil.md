@@ -59,7 +59,7 @@ The TxGNN model predicts it may be relevant to **insomnia (disease)**, with **3 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Armodafinil is generally described as a dopamine reuptake inhibitor that promotes wakefulness. This is pharmacologically opposite to a hypnotic effect, so the mechanistic link to insomnia is weak and indirect.
+According to the Mechanism of Action section of the FDA-approved prescribing information for armodafinil: "The mechanism(s) through which armodafinil promotes wakefulness is unknown. Armodafinil (R-modafinil) has pharmacological properties similar to those of modafinil (a mixture of R- and S-modafinil), to the extent tested in animal and in vitro studies." ([DailyMed: Nuvigil (armodafinil) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3dd49302-f757-d945-e063-6294a90afcba), label version 2026-09-24; accessed 2026-11-19.) Armodafinil is generally described as a dopamine reuptake inhibitor that promotes wakefulness. This is pharmacologically opposite to a hypnotic effect, so the mechanistic link to insomnia is weak and indirect.
 
 The clinical link is better explained by how the drug is used in the trials. Armodafinil was given to patients whose insomnia occurred together with daytime fatigue or sleepiness, such as breast cancer survivors after chemotherapy or people with sleep-disordered breathing. It was usually combined with cognitive behavioral therapy for insomnia (CBT-I). In these studies it targets the daytime symptoms rather than insomnia itself.
 
@@ -113,6 +113,19 @@ The three trials involve insomnia populations, but armodafinil is mainly used th
 - Mechanism-of-action data that explain how a wakefulness-promoting drug could help insomnia
 - Package insert warnings and contraindications, with attention to cardiovascular and psychiatric conditions
 - A safety plan for patients with hypertension, psychiatric disorders or liver impairment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nuvigil (armodafinil) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3dd49302-f757-d945-e063-6294a90afcba) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ but currently only **0 clinical trials** and **1 publication** (a 2004 review) t
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, nefazodone is an antidepressant with serotonergic activity (5-HT2A antagonism and serotonin reuptake inhibition). Its efficacy in depression and anxiety has been established, and serotonergic modulation is plausibly relevant to migraine prophylaxis. This link is inferred, not documented in the available data.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for nefazodone: "The mechanism of action of nefazodone, as with other antidepressants, is unknown. Preclinical studies have shown that nefazodone inhibits neuronal uptake of serotonin and norepinephrine. Nefazodone occupies central 5-HT 2 receptors at nanomolar concentrations, and acts as an antagonist at this receptor." ([DailyMed: nefazodone hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0bd4c34a-4f43-4c84-8b98-1d074cba97d5), label version 2025-09-04; accessed 2026-11-19.) Based on general knowledge, nefazodone is an antidepressant with serotonergic activity (5-HT2A antagonism and serotonin reuptake inhibition). Its efficacy in depression and anxiety has been established, and serotonergic modulation is plausibly relevant to migraine prophylaxis. This link is inferred, not documented in the available data.
 
 The only supporting literature is a 2004 review of emerging migraine preventive therapies, which lists nefazodone among several candidates. This is indirect, non-trial evidence. The high TxGNN score (0.996) reflects a model-based signal and should not be read as clinical validation.
 
@@ -99,6 +99,19 @@ The prediction rests on a model score and a single 2004 review, with no clinical
 - Primary clinical evidence in migraine (controlled trials or at least well-designed observational studies)
 - A hepatotoxicity risk-benefit analysis versus existing migraine preventives
 - Assessment of route and formulation compatibility, and of regulatory feasibility given the cancelled license
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: nefazodone hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0bd4c34a-4f43-4c84-8b98-1d074cba97d5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

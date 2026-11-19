@@ -62,7 +62,7 @@ The evidence is weak, and thioridazine carries a serious cardiac (QTc) safety co
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available. Thioridazine is a phenothiazine antipsychotic, and the class acts mainly by blocking D2 dopamine receptors. That mechanism is plausible for acute mania, as with other antipsychotics.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for thioridazine: "The basic pharmacological activity of thioridazine is similar to that of other phenothiazines, but is associated with minimal extrapyramidal stimulation. However, thioridazine has been shown to prolong the QTc interval in a dose dependent fashion." ([DailyMed: thioridazine hydrochloride prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56b3f4c2-52af-4947-b225-6808ae9f26f5), label version 2026-08-12; accessed 2026-11-19.) Thioridazine is a phenothiazine antipsychotic, and the class acts mainly by blocking D2 dopamine receptors. That mechanism is plausible for acute mania, as with other antipsychotics.
 
 Supporting hints in the literature are thin:
 - A 1980 study reported that the dopamine blocker pimozide produced clinical improvement in manic patients similar to that seen with chlorpromazine and thioridazine.
@@ -176,13 +176,14 @@ The prediction is mechanistically plausible (D2 antagonism), but there are no cl
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "and the drug is marketed in the US with 6 valid licenses of 6" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "whose US licences are now all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "All six licences are oral single-ingredient products" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data are not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: thioridazine hydrochloride prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56b3f4c2-52af-4947-b225-6808ae9f26f5) |
 
 <!-- review:end log -->
 

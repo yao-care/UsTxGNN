@@ -57,7 +57,7 @@ The TxGNN model's top-ranked predictions are mostly rare congenital syndromes wi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug in the data compiled for this report. Based on known information, sulfasalazine is an anti-inflammatory agent whose efficacy in rheumatoid arthritis and inflammatory bowel disease is established. It is commonly described as an NF-kB inhibitor and an inhibitor of the cystine/glutamate antiporter (system xc-).
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for sulfasalazine: "The mode of action of sulfasalazine (SSZ) or its metabolites, 5-aminosalicylic acid (5-ASA) and sulfapyridine (SP), may be related to the anti-inflammatory and/or immunomodulatory properties that have been observed in animal and in vitro models, to its affinity for connective tissue, and/or to the relatively high concentration it reaches in serous fluids, the liver and intestinal walls, as demonstrated in autoradiographic studies in animals. In ulcerative colitis, clinical studies utilizing rectal administration of SSZ, SP and 5-ASA have indicated that the major therapeutic action may reside in the 5-ASA moiety." ([DailyMed: Azulfidine En-Tabs (sulfasalazine) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9ef541a-93c8-4428-ba45-398aa0b327d1), label version 2026-10-27; accessed 2026-11-19.) Based on known information, sulfasalazine is an anti-inflammatory agent whose efficacy in rheumatoid arthritis and inflammatory bowel disease is established. It is commonly described as an NF-kB inhibitor and an inhibitor of the cystine/glutamate antiporter (system xc-).
 
 The link to osteoarthritis is indirect but plausible. Osteoarthritis involves inflammatory mediators and cartilage breakdown, and several preclinical studies are consistent with an effect on these processes:
 
@@ -152,12 +152,13 @@ The high TxGNN scores are model predictions only. Eight of the ten top predictio
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All six US authorizations are valid (6 of 6), and the drug is marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "across the six valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for this drug in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Azulfidine En-Tabs (sulfasalazine) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9ef541a-93c8-4428-ba45-398aa0b327d1) |
 
 <!-- review:end log -->
 

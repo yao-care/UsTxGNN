@@ -56,7 +56,7 @@ Support is thin: **0 clinical trials** and **1 preclinical publication**. The ot
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, rilpivirine is an NNRTI that inhibits HIV-1 reverse transcriptase, and its efficacy in HIV infection is established.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for rilpivirine: "Rilpivirine is an antiviral drug. […] Rilpivirine is a diarylpyrimidine non-nucleoside reverse transcriptase inhibitor (NNRTI) of human immunodeficiency virus type 1 (HIV-1) and inhibits HIV-1 replication by non-competitive inhibition of HIV-1 reverse transcriptase (RT). Rilpivirine does not inhibit the human cellular DNA polymerases α, β and γ." ([DailyMed: Edurant (rilpivirine hydrochloride) prescribing information, Janssen Products, LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03880372-2c68-45c6-a53a-f420c49541d6), label version 2025-08-28; accessed 2026-11-19.) Based on known pharmacology, rilpivirine is an NNRTI that inhibits HIV-1 reverse transcriptase, and its efficacy in HIV infection is established.
 
 Feline immunodeficiency virus (FIV) is a lentivirus related to HIV and has its own reverse transcriptase, so a mechanistic rationale exists. However, the FIV enzyme is known to differ from HIV-1 reverse transcriptase in the residues lining the NNRTI binding pocket, so activity cannot be assumed. The only supporting item is a 2023 biochemical and structural comparison of NNRTIs (nevirapine, efavirenz, rilpivirine) against FIV and HIV reverse transcriptases. It is preclinical. This is a veterinary indication with no human clinical relevance.
 
@@ -144,12 +144,13 @@ The top-ranked prediction (feline acquired immunodeficiency syndrome) is a veter
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All four US authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and the cancelled US market status further limits practical development" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Edurant (rilpivirine hydrochloride) prescribing information, Janssen Products, LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03880372-2c68-45c6-a53a-f420c49541d6) |
 
 <!-- review:end log -->
 

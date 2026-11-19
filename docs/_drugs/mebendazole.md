@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **acne**, but there are current
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, mebendazole is a benzimidazole anthelmintic that binds parasite beta-tubulin and inhibits microtubule polymerization. Its efficacy in intestinal worm infections is established.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for mebendazole: "Mebendazole, a benzimidazole, is an anthelmintic. […] Mebendazole interferes with cellular tubulin formation in the helminth and causes ultrastructural degenerative changes in its intestine. As a result, its glucose uptake and the digestive and reproductive functions are disrupted, leading to immobilization, inhibition of egg production and death of the helminth." ([DailyMed: Vermox (mebendazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a720c424-517a-461b-8e13-6c37caf8aa3f), label version 2021-10-05; accessed 2026-11-19.) Based on general pharmacology, mebendazole is a benzimidazole anthelmintic that binds parasite beta-tubulin and inhibits microtubule polymerization. Its efficacy in intestinal worm infections is established.
 
 No credible mechanistic link to acne was identified. Acne is driven by excess sebum production, follicular hyperkeratinization, *Cutibacterium acnes* colonization and inflammation. No established pathway connects tubulin inhibition to these processes. Possible anti-proliferative or anti-inflammatory effects on keratinocytes or sebocytes are speculative and not supported by the available data.
 
@@ -131,11 +131,12 @@ The prediction rests only on a TxGNN model (deep learning) score, with no clinic
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "The only US license is cancelled, and label safety data is unavailable" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vermox (mebendazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a720c424-517a-461b-8e13-6c37caf8aa3f) |
 
 <!-- review:end log -->
 

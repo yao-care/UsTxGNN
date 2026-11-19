@@ -56,7 +56,7 @@ with **0 registered clinical trials** and **20 publications** (including 2 RCTs)
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, polidocanol is a sclerosing agent that damages the vascular endothelium and induces thrombosis and fibrosis of the vessel. This is the basis of its use in varicose veins.
+According to the Mechanism of Action section of the FDA-approved prescribing information for polidocanol: "The active ingredient of Asclera is polidocanol. Polidocanol is a sclerosing agent that locally damages the endothelium of blood vessels. When injected intravenously, polidocanol induces endothelial damage. Platelets then aggregate at the site of damage and attach to the venous wall." ([DailyMed: Asclera (polidocanol) prescribing information, Methapharm, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bb1f342b-5352-4059-a0b2-e60fd652fd28), label version 2025-07-16; accessed 2026-11-19.) Based on known information, polidocanol is a sclerosing agent that damages the vascular endothelium and induces thrombosis and fibrosis of the vessel. This is the basis of its use in varicose veins.
 
 Esophageal varices are also dilated veins. The same mechanism can be applied by injecting the drug into (intravariceal) or beside (paravariceal) the varix during endoscopy, which achieves hemostasis and obliterates the varix. Published studies describe this use in adults and in children and adolescents (for cardiac varices).
 
@@ -130,12 +130,13 @@ The predicted indication has a plausible mechanism and multiple published studie
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license is cancelled, which limits practical availability" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given the cancelled US license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Asclera (polidocanol) prescribing information, Methapharm, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bb1f342b-5352-4059-a0b2-e60fd652fd28) |
 
 <!-- review:end log -->
 

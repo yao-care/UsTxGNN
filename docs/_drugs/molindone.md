@@ -60,7 +60,7 @@ The only prediction with any literature is **manic bipolar affective disorder** 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known pharmacology, molindone is a dopamine D2 receptor antagonist and a structurally distinct dihydroindolone antipsychotic. Its efficacy in schizophrenia is established.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for molindone: "Molindone Hydrochloride has a pharmacological profile in laboratory animals which predominantly resembles that of other antipsychotic agents causing reduction of spontaneous locomotion and aggressiveness, suppression of a conditioned response and antagonism of the bizarre stereotyped behavior and hyperactivity induced by amphetamines. In addition, Molindone Hydrochloride antagonizes the depression caused by the tranquilizing agent tetrabenazine." ([DailyMed: molindone hydrochloride prescribing information, EPIC PHARMA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1275e92f-9573-4d0c-8e77-1c9ac47696d2), label version 2025-12-17; accessed 2026-11-19.) Based on known pharmacology, molindone is a dopamine D2 receptor antagonist and a structurally distinct dihydroindolone antipsychotic. Its efficacy in schizophrenia is established.
 
 **Rank 1 (retinal dystrophy):** No plausible mechanistic link was identified. Retinal dystrophies are mainly genetic, and nothing suggests D2 antagonism would alter their course. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -143,11 +143,12 @@ Please refer to the package insert for label warnings and contraindications, whi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "given the cancelled license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: molindone hydrochloride prescribing information, EPIC PHARMA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1275e92f-9573-4d0c-8e77-1c9ac47696d2) |
 
 <!-- review:end log -->
 

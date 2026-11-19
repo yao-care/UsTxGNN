@@ -56,7 +56,7 @@ This prediction currently has **0 clinical trials** and **0 publications** behin
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, risperidone is an atypical antipsychotic. Its efficacy in schizophrenia, bipolar disorder and autism-related irritability is established, and it is generally understood to act through dopamine D2 and serotonin 5-HT2A receptor antagonism.
+According to the Mechanism of Action section of the FDA-approved prescribing information for risperidone: "The mechanism of action of risperidone in schizophrenia is unclear. The drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D 2 ) and serotonin Type 2 (5HT 2 ) receptor antagonism." ([DailyMed: Risperdal (risperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e117c7e-02fc-4343-92a1-230061dfc5e0), label version 2026-10-23; accessed 2026-11-19.) Based on known information, risperidone is an atypical antipsychotic. Its efficacy in schizophrenia, bipolar disorder and autism-related irritability is established, and it is generally understood to act through dopamine D2 and serotonin 5-HT2A receptor antagonism.
 
 The predicted condition is a rare genetic disorder (ROBO3-related) affecting eye movement and spine development. There is no plausible dopaminergic or serotonergic target that links it to risperidone. The high score (rank 6497 in the model's ranking) therefore looks like a computational artefact rather than a real pharmacological signal. No mechanistic link is supported by the data compiled for this report.
 
@@ -127,13 +127,14 @@ The prediction has a very high model score but no clinical trials, no literature
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and all US licenses for risperidone are currently cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "10 licenses are valid. for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 10 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Risperdal (risperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e117c7e-02fc-4343-92a1-230061dfc5e0) |
 
 <!-- review:end log -->
 

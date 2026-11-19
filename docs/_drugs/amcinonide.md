@@ -54,7 +54,7 @@ Amcinonide is a topical corticosteroid that has been marketed in the United Stat
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Amcinonide belongs to the topical corticosteroid class, which works through anti-inflammatory and immunosuppressive effects on the skin. Its efficacy in inflammatory skin conditions is well established for this class.
+ChEMBL (EMBL-EBI) records the mechanism of action of amcinonide as: Glucocorticoid receptor agonist ([ChEMBL CHEMBL1200732 (amcinonide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200732), CC BY-SA 3.0; accessed 2026-11-19.) Amcinonide belongs to the topical corticosteroid class, which works through anti-inflammatory and immunosuppressive effects on the skin. Its efficacy in inflammatory skin conditions is well established for this class.
 
 The link to the predicted disease is weak. Inverted follicular keratosis is a benign keratinocytic proliferation that is usually treated by excision. An anti-inflammatory steroid is unlikely to resolve it. The high score likely reflects similarity to other keratinocytic skin conditions rather than a plausible treatment effect. Vulvar mucosa also absorbs steroids more readily, which raises the risk of local skin thinning (atrophy).
 
@@ -96,6 +96,19 @@ The prediction has a high model score but no supporting trials or publications. 
 - Mechanism of action data
 - Package insert warnings and contraindications
 - Assessment of vulvar route suitability and local safety
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1200732 (amcinonide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200732) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

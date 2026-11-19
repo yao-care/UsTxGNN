@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, mogamulizumab is an anti-CCR4 monoclonal antibody. It mediates antibody-dependent cellular cytotoxicity against CCR4-expressing cells, mainly malignant T cells and regulatory T cells (Tregs). Its efficacy in cutaneous T-cell lymphoma comes from targeting these CCR4-expressing malignant cells.
+According to the Mechanism of Action section of the FDA-approved prescribing information for mogamulizumab: "Mogamulizumab-kpkc is a defucosylated, humanized IgG1 kappa monoclonal antibody that binds to CCR4, a G protein-coupled receptor for CC chemokines that is involved in the trafficking of lymphocytes to various organs. Non-clinical in vitro studies demonstrate mogamulizumab-kpkc binding targets a cell for antibody-dependent cellular cytotoxicity (ADCC) resulting in depletion of the target cells." ([DailyMed: Poteligeo (mogamulizumab-kpkc) prescribing information, Kyowa Kirin, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e53960ab-42a1-40d1-9c7d-eb013fe7f18f), label version 2026-03-02; accessed 2026-11-19.) Based on general knowledge, mogamulizumab is an anti-CCR4 monoclonal antibody. It mediates antibody-dependent cellular cytotoxicity against CCR4-expressing cells, mainly malignant T cells and regulatory T cells (Tregs). Its efficacy in cutaneous T-cell lymphoma comes from targeting these CCR4-expressing malignant cells.
 
 The possible link to urothelial carcinoma is Treg depletion in the tumour microenvironment, which could enhance anti-tumour immunity and might complement checkpoint-based immunotherapy. This is a generic immuno-oncology hypothesis and is speculative. No data were provided showing CCR4 dependence in this tumour type.
 
@@ -124,11 +124,12 @@ The prediction has no supporting clinical trials or publications (evidence level
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US BLA is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Poteligeo (mogamulizumab-kpkc) prescribing information, Kyowa Kirin, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e53960ab-42a1-40d1-9c7d-eb013fe7f18f) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ Among the other top predictions, only alopecia areata has any related material (
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, fluocinonide is a high-potency topical corticosteroid with anti-inflammatory and immunosuppressive effects, and its efficacy in inflammatory skin diseases is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for fluocinonide: "Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action of Fluocinonide Cream USP, 0.1% in corticosteroid responsive dermatoses is unknown." ([DailyMed: Fluocinol Pak (fluocinonide) prescribing information, PureTek Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9c88a41-3ff8-78f7-e053-2995a90adb8f), label version 2023-01-11; accessed 2026-11-19.) Based on known information, fluocinonide is a high-potency topical corticosteroid with anti-inflammatory and immunosuppressive effects, and its efficacy in inflammatory skin diseases is established.
 
 Alopecia mucinosa (follicular mucinosis) is an inflammatory disorder of the hair follicle, so local anti-inflammatory therapy is mechanistically plausible. It can also overlap with cutaneous T-cell lymphoma, which is already among fluocinonide's listed original indications. This overlap is an inference, not evidence.
 
@@ -134,12 +134,13 @@ The top prediction, alopecia mucinosa, has only a computational score (L5), with
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 13 licences are generic applications and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fluocinol Pak (fluocinonide) prescribing information, PureTek Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9c88a41-3ff8-78f7-e053-2995a90adb8f) |
 
 <!-- review:end log -->
 

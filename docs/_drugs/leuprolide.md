@@ -56,7 +56,7 @@ but currently **0 clinical trials** and **1 publication** (an unrelated case rep
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Based on known pharmacology, leuprolide is a GnRH agonist that suppresses the pituitary-gonadal axis and lowers sex steroid levels. This is the basis of its use in endometriosis and precocious puberty.
+According to the Mechanism of Action section of the FDA-approved prescribing information for leuprolide: "Leuprolide acetate, a gonadotropin releasing hormone (GnRH) agonist, acts as an inhibitor of gonadotropin secretion when given continuously in therapeutic doses. Animal and human studies indicate that after an initial stimulation, chronic administration of leuprolide acetate results in suppression of testicular and ovarian steroidogenesis." ([DailyMed: Vabrinty (leuprolide acetate) prescribing information, URONOVA PHARMACEUTICALS, INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=008776cc-83f1-4f8c-819b-6471425da15f), label version 2026-04-30; accessed 2026-11-19.) Based on known pharmacology, leuprolide is a GnRH agonist that suppresses the pituitary-gonadal axis and lowers sex steroid levels. This is the basis of its use in endometriosis and precocious puberty.
 
 A credible mechanistic link to osteoarthritis cannot be established from the data compiled for this report. Estrogen deficiency is generally associated with worse joint health (for example, higher osteoarthritis risk after menopause). GnRH-agonist-induced hypoestrogenism would therefore be expected to be neutral or harmful rather than beneficial.
 
@@ -134,7 +134,7 @@ The prediction rests on a model score alone (evidence level L5). There are no re
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
@@ -142,6 +142,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-05 | Removed: "All six US licenses are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "A sixth licence, NDA213150 (Fensolvi, Tolmar, extended-release injectable suspension), is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled licence status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vabrinty (leuprolide acetate) prescribing information, URONOVA PHARMACEUTICALS, INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=008776cc-83f1-4f8c-819b-6471425da15f) |
 
 <!-- review:end log -->
 

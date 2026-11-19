@@ -56,7 +56,7 @@ but there are currently **0 registered clinical trials** and only **10 publicati
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on general pharmacological knowledge, anagrelide is an established platelet-lowering agent, thought to act by inhibiting megakaryocyte maturation. Its efficacy in essential thrombocythemia and familial thrombocytosis is established, so it offers a plausible biological link to reducing platelet counts in other forms of thrombocytosis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for anagrelide: "The precise mechanism by which anagrelide reduces blood platelet count is unknown. In cell culture studies, anagrelide suppressed expression of transcription factors including GATA-1 and FOG-1 required for megakaryocytopoiesis, ultimately leading to reduced platelet production." ([DailyMed: Agrylin (anagrelide hydrochloride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb960074-99c1-4a73-941f-f0644a7ec219), label version 2026-04-08; accessed 2026-11-19.) Based on general pharmacological knowledge, anagrelide is an established platelet-lowering agent, thought to act by inhibiting megakaryocyte maturation. Its efficacy in essential thrombocythemia and familial thrombocytosis is established, so it offers a plausible biological link to reducing platelet counts in other forms of thrombocytosis.
 
 However, the clinical fit is weak. Reactive thrombocytosis is secondary to an underlying cause (inflammation, iron deficiency, infection, post-splenectomy, malignancy). It is usually self-limited and carries a low thrombotic risk. The reviews in the literature set note that reactive thrombocytosis generally does not require therapeutic intervention, whereas clonal thrombocytosis may need cytoreductive therapy. Treatment normally targets the underlying cause rather than the platelet count.
 
@@ -142,12 +142,13 @@ The prediction rests on a model score and general pharmacology, with no register
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All four authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "nd the cancellation of all US licenses, a" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Agrylin (anagrelide hydrochloride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb960074-99c1-4a73-941f-f0644a7ec219) |
 
 <!-- review:end log -->
 

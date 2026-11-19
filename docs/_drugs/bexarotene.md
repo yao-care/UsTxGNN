@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **primary cutaneous B-cell lymp
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, bexarotene is a synthetic retinoid that selectively activates retinoid X receptors (RXR). It promotes apoptosis and slows proliferation in malignant T-cells, and its efficacy in cutaneous T-cell lymphoma is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for bexarotene: "Bexarotene selectively binds and activates retinoid X receptor subtypes (RXRα, RXRß, RXRγ). RXRs can form heterodimers with various receptor partners such as retinoic acid receptors (RARs), vitamin D receptor, thyroid receptor, and peroxisome proliferator activator receptors (PPARs)." ([DailyMed: Targretin (bexarotene) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1d056725-0576-4338-8089-6336e768ccdc), label version 2020-04-30; accessed 2026-11-19.) Based on known information, bexarotene is a synthetic retinoid that selectively activates retinoid X receptors (RXR). It promotes apoptosis and slows proliferation in malignant T-cells, and its efficacy in cutaneous T-cell lymphoma is established.
 
 The prediction is only partly convincing. Cutaneous B-cell lymphoma is biologically distinct from the T-cell forms: it has a different cell of origin and different signaling dependencies. The RXR-mediated mechanism therefore cannot be assumed to carry over. The very high TxGNN score is most likely driven by network proximity to the approved T-cell lymphoma indications, not by B-cell-specific biology. No B-cell-specific mechanistic data are available.
 
@@ -150,13 +150,14 @@ The high TxGNN score is not backed by any trial or B-cell-specific study. The li
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 9 authorizations (2 NDAs and 7 ANDAs) are valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "All 9 US authorizations are valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given the cancelled status of all authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Targretin (bexarotene) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1d056725-0576-4338-8089-6336e768ccdc) |
 
 <!-- review:end log -->
 

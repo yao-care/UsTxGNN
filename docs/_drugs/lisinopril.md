@@ -55,7 +55,7 @@ but **no clinical trials** and **no publications** specific to this indication w
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on known information, lisinopril is an angiotensin-converting enzyme (ACE) inhibitor. It lowers angiotensin II-mediated vasoconstriction, and its efficacy in hypertension and myocardial infarction is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for lisinopril: "Lisinopril inhibits angiotensin-converting enzyme (ACE) in human subjects and animals. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex." ([DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c), label version 2025-12-16; accessed 2026-11-19.) Based on known information, lisinopril is an angiotensin-converting enzyme (ACE) inhibitor. It lowers angiotensin II-mediated vasoconstriction, and its efficacy in hypertension and myocardial infarction is established.
 
 Posterolateral myocardial infarction is an anatomical subtype of myocardial infarction, for which lisinopril is already indicated. The high TxGNN score most likely reflects this closeness in the disease ontology rather than a genuinely new repurposing signal. The same is true of the other infarction subtypes ranked by the model (posteroinferior and septal), and of malignant renovascular hypertension and malignant hypertensive renal disease, which sit close to the approved hypertension indication.
 
@@ -121,11 +121,12 @@ Lisinopril is already used for myocardial infarction, and posterolateral MI is a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Two further ANDAs (ANDA076102, Bryant Ranch Prepack; ANDA203508, Exelan) are also cancelled. All seven licenses are oral tablets" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c) |
 
 <!-- review:end log -->
 

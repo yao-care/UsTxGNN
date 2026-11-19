@@ -56,7 +56,7 @@ The high score comes from the TxGNN model (deep learning) and may reflect simila
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ketoprofen is a cyclooxygenase (COX) inhibitor of the NSAID class with analgesic and anti-inflammatory activity. Its efficacy in arthritic conditions is established.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for ketoprofen: "In anti-inflammatory models ketoprofen has been shown to have inhibitory effects on prostaglandin and leukotriene synthesis, to have antibradykinin activity, as well as to have lysosomal membrane-stabilizing action. However, its mode of action, like that of other non-steroidal anti-inflammatory drugs, is not fully understood." ([DailyMed: Orudis (ketoprofen) prescribing information, Allegis Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=47d0b808-7142-c7a9-e063-6394a90a6e0d), label version 2026-01-07; accessed 2026-11-19.) Based on known information, ketoprofen is a cyclooxygenase (COX) inhibitor of the NSAID class with analgesic and anti-inflammatory activity. Its efficacy in arthritic conditions is established.
 
 For the top prediction, however, **no credible mechanistic link was identified**. Acromesomelic dysplasia, Hunter-Thompson type, is a rare genetic skeletal dysplasia caused by loss-of-function variants in CDMP1/GDF5, which affects bone growth. Ketoprofen has no known effect on GDF5/BMP signaling. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -131,12 +131,13 @@ The top prediction has no clinical trials, no literature, and no credible mechan
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both products are oral formulations, and neither has a currently valid license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(2 of 2 licenses valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Orudis (ketoprofen) prescribing information, Allegis Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=47d0b808-7142-c7a9-e063-6394a90a6e0d) |
 
 <!-- review:end log -->
 

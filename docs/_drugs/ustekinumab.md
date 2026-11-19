@@ -60,7 +60,7 @@ Ustekinumab blocks the shared p40 subunit of IL-12 and IL-23, which suppresses T
 
 Some chronic inflammatory skin disease, including a subset of atopic dermatitis, involves these pathways, so the prediction has a biological basis. However, atopic dermatitis is predominantly Th2-driven, so the mechanistic fit is only partial. The Phase 2 data also appear to show limited efficacy.
 
-The very high TxGNN score should be read with caution. "Dermatitis" covers heterogeneous conditions (atopic, contact and others), so the score alone does not establish a specific indication. Detailed mechanism-of-action data from DrugBank were not available for this report; the description above is based on known pharmacology.
+The very high TxGNN score should be read with caution. "Dermatitis" covers heterogeneous conditions (atopic, contact and others), so the score alone does not establish a specific indication. According to the Mechanism of Action section of the FDA-approved prescribing information for ustekinumab: "Ustekinumab products are human IgG1κ monoclonal antibodies that bind with specificity to the p40 protein subunit used by both the IL-12 and IL-23 cytokines. IL-12 and IL-23 are naturally occurring cytokines that are involved in inflammatory and immune responses, such as natural killer cell activation and CD4+ T-cell differentiation and activation." ([DailyMed: Selarsdi (ustekinumab-aekn) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=87f75b59-e48b-47c7-a4c0-5fe5965660e7), label version 2026-11-11; accessed 2026-11-19.) The description above is based on known pharmacology.
 
 ## Clinical Trial Evidence
 
@@ -142,12 +142,13 @@ Two Phase 2 randomized, placebo-controlled studies exist in atopic dermatitis (e
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The data list 11 BLAs in total (including the Stelara originator and several biosimilars), all with cancelled status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data from DrugBank were not available for this report; t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Selarsdi (ustekinumab-aekn) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=87f75b59-e48b-47c7-a4c0-5fe5965660e7) |
 
 <!-- review:end log -->
 

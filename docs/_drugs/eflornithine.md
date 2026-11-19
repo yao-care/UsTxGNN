@@ -54,7 +54,7 @@ Eflornithine was originally used to treat human African trypanosomiasis (sleepin
 
 ## Why is This Prediction Reasonable?
 
-Eflornithine irreversibly inhibits ornithine decarboxylase (ODC, encoded by *ODC1*), the enzyme that controls polyamine biosynthesis. This is the basis of its use in trypanosomiasis, and also of its other uses: topical treatment of facial hirsutism, oral maintenance therapy for high-risk neuroblastoma (FDA authorisation in December 2023), and a proposed role in the skin manifestations of Bachmann-Bupp syndrome. Detailed mechanism-of-action data beyond this target information are not available.
+Eflornithine irreversibly inhibits ornithine decarboxylase (ODC, encoded by *ODC1*), the enzyme that controls polyamine biosynthesis. This is the basis of its use in trypanosomiasis, and also of its other uses: topical treatment of facial hirsutism, oral maintenance therapy for high-risk neuroblastoma (FDA authorisation in December 2023), and a proposed role in the skin manifestations of Bachmann-Bupp syndrome. According to the Mechanism of Action section of the FDA-approved prescribing information for eflornithine: "Eflornithine is an irreversible inhibitor of the enzyme ornithine decarboxylase (ODC), the first and rate-limiting enzyme in the biosynthesis of polyamines and a transcriptional target of MYCN. Polyamines are involved in differentiation and proliferation of mammalian cells and are important for neoplastic transformation." ([DailyMed: Iwilfin (eflornithine hydrochloride) prescribing information, USWM, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6716d8cc-66e6-4cee-935c-ccb85ed984f5), label version 2026-03-26; accessed 2026-11-19.)
 
 For esotropia, no established mechanistic link was found. Esotropia is a disorder of ocular alignment driven by extraocular muscle, neural, or refractive factors, and no plausible pathway connecting polyamine depletion to ocular motor alignment is supported by the data compiled for this report. The high TxGNN score is therefore best treated as a hypothesis-generating signal, not as supporting evidence.
 
@@ -111,11 +111,12 @@ The prediction rests only on a model score, with no clinical trials or publicati
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US NDA is cancelled, and label safety data were not available" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data beyond this target information are not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Iwilfin (eflornithine hydrochloride) prescribing information, USWM, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6716d8cc-66e6-4cee-935c-ccb85ed984f5) |
 
 <!-- review:end log -->
 

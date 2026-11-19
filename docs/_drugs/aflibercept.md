@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **esotropia**, but **no clinica
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, aflibercept traps VEGF-A, VEGF-B, and placental growth factor (PlGF), which reduces abnormal blood vessel growth and vascular leakage. This is why it is used in retinal vascular diseases and in colorectal cancer.
+According to the Mechanism of Action section of the FDA-approved prescribing information for aflibercept: "Vascular endothelial growth factor-A (VEGF-A) and placental growth factor (PlGF) are members of the VEGF family of angiogenic factors that can act as mitogenic, chemotactic, and vascular permeability factors for endothelial cells. VEGF acts via two receptor tyrosine kinases, VEGFR-1 and VEGFR-2, present on the surface of endothelial cells. […] Aflibercept products act as a soluble decoy receptor that binds VEGF - A and PlGF, and thereby can inhibit the binding and activation of these cognate VEGF receptors." ([DailyMed: Pavblu (aflibercept-ayyh) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c61062f3-80ec-4a20-8c28-46e468592a06), label version 2026-10-29; accessed 2026-11-19.) Based on general pharmacology, aflibercept traps VEGF-A, VEGF-B, and placental growth factor (PlGF), which reduces abnormal blood vessel growth and vascular leakage. This is why it is used in retinal vascular diseases and in colorectal cancer.
 
 The link to esotropia is weak. Esotropia is a form of strabismus (inward eye turning) caused by neuromuscular, refractive, or accommodative factors. The data compiled for this report establish no direct biological connection between VEGF inhibition and these causes. One possible indirect link is that anti-VEGF agents are used in retinal diseases, such as retinopathy of prematurity, which can co-occur with or lead to secondary strabismus. That would be a link to a comorbidity, not a treatment effect on esotropia, and it remains speculative.
 
@@ -141,12 +141,13 @@ The prediction rests only on a model score. No clinical trials or publications s
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "A sixth license, BLA125418 (ZALTRAP, solution concentrate, sanofi-aventis U.S. LLC), is also listed as valid. All 6 licenses are valid in th" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with all 6 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Pavblu (aflibercept-ayyh) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c61062f3-80ec-4a20-8c28-46e468592a06) |
 
 <!-- review:end log -->
 

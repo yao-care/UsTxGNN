@@ -60,7 +60,7 @@ This is a model-only prediction with no direct supporting evidence.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, lithium inhibits GSK-3β and modulates Wnt/β-catenin signalling. This pathway influences chondrocyte differentiation and skeletal cell stress responses.
+According to the Mechanism of Action section of the FDA-approved prescribing information for lithium carbonate: "The mechanism of action of lithium as a mood stabilizing agent is unknown." ([DailyMed: Lithium Carbonate Lithium Carbonate (lithium carbonate) prescribing information, Alembic Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ca2b977-b94c-4232-9b7e-835db97c9544), label version 2022-11-03; accessed 2026-11-19.) Based on general pharmacology, lithium inhibits GSK-3β and modulates Wnt/β-catenin signalling. This pathway influences chondrocyte differentiation and skeletal cell stress responses.
 
 Pseudoachondroplasia is caused by COMP mutations, which lead to endoplasmic reticulum stress in chondrocytes and defects in the extracellular matrix. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as the arthropathies associated with lithium (rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis, spondyloarthropathy) and skeletal disorders, not biological evidence.
 
@@ -123,6 +123,19 @@ The prediction is model-only (L5), with no clinical trials and no supporting lit
 - A literature review for lithium in skeletal dysplasias and chondrocyte biology
 - Confirmation of current US marketing status
 - A risk-benefit assessment for a rare, largely paediatric population, given lithium's toxicity profile and teratogenic risk
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lithium Carbonate Lithium Carbonate (lithium carbonate) prescribing information, Alembic Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ca2b977-b94c-4232-9b7e-835db97c9544) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

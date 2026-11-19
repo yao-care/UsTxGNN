@@ -54,7 +54,7 @@ Colchicine is a microtubule-disrupting agent that is marketed in the United Stat
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the data compiled for this report. Colchicine is generally known as a microtubule-disrupting agent that binds tubulin and interferes with cell division and cell movement.
+According to the Mechanism of Action section of the FDA-approved prescribing information for colchicine: "Colchicine’s effectiveness as a treatment for gout has been postulated to be due to its ability to block neutrophil-mediated inflammatory responses induced by monosodium urate crystals in synovial fluid. Colchicine disrupts the polymerization of β-tubulin into microtubules, thereby preventing the activation, degranulation, and migration of neutrophils to sites of inflammation." ([DailyMed: Mitigare (colchicine) prescribing information, Hikma Specialty USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb5f9d85-6b81-49f8-bcd6-17b7bfbc10f2), label version 2026-10-16; accessed 2026-11-19.) Colchicine is generally known as a microtubule-disrupting agent that binds tubulin and interferes with cell division and cell movement.
 
 The mechanistic link to malaria is a plausible biological idea: if the parasite's tubulin can be targeted, a tubulin binder might slow parasite growth. The two retrieved papers touch on this only indirectly. One studies how curcumin disrupts *P. falciparum* microtubules, and the other studies how the parasite transporter pfmdr1 changes drug susceptibility in mammalian cells. Neither shows that colchicine treats malaria.
 
@@ -106,6 +106,19 @@ No clinical trial or publication tests colchicine against *P. falciparum* malari
 - Mechanism of action data and confirmation of parasite tubulin binding
 - Review of the FDA package insert for warnings and contraindications
 - A toxicity and dosing assessment showing that antiparasitic exposure is achievable at tolerable doses
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mitigare (colchicine) prescribing information, Hikma Specialty USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb5f9d85-6b81-49f8-bcd6-17b7bfbc10f2) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

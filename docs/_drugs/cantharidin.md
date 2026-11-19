@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled record. Based on known pharmacology, cantharidin inhibits protein phosphatase 2A (PPP2CA) and protein phosphatase 1 (PPP1CA). Disrupting cell-to-cell connections in the skin is how it produces blisters, and PP2A inhibition has also been linked to its anti-cancer activity in laboratory studies.
+According to the Mechanism of Action section of the FDA-approved prescribing information for cantharidin: "The mechanism of action of cantharidin in the treatment of molluscum contagiosum is unknown." ([DailyMed: Ycanth (cantharidin) prescribing information, Verrica Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7c9bdeaa-9822-4c69-a719-ea4a8643f59c), label version 2024-11-13; accessed 2026-11-19.) Based on known pharmacology, cantharidin inhibits protein phosphatase 2A (PPP2CA) and protein phosphatase 1 (PPP1CA). Disrupting cell-to-cell connections in the skin is how it produces blisters, and PP2A inhibition has also been linked to its anti-cancer activity in laboratory studies.
 
 None of this has an established link to the hormonal and reproductive-axis processes behind amenorrhea. The only support for this prediction is the high TxGNN model (deep learning) score. In addition, cantharidin is highly toxic when taken systemically (renal, gastrointestinal, and genitourinary toxicity), which argues against any plausible systemic use. Until a biological rationale is shown, the prediction should be treated as a computational artifact.
 
@@ -105,11 +105,12 @@ The prediction has only a model score behind it: no clinical trials, no literatu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license on record is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ycanth (cantharidin) prescribing information, Verrica Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7c9bdeaa-9822-4c69-a719-ea4a8643f59c) |
 
 <!-- review:end log -->
 

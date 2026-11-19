@@ -54,7 +54,7 @@ Abatacept is a biologic that blocks T-cell co-stimulation and is already markete
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Abatacept is known as a T-cell co-stimulation blocker. It interrupts the activation of T cells, a process that drives several immune-mediated joint diseases. Ankylosing spondylitis is also an immune-mediated inflammatory arthritis, so a T-cell-directed therapy is mechanistically plausible.
+According to the Mechanism of Action section of the FDA-approved prescribing information for abatacept: "Abatacept, a selective costimulation modulator, inhibits T-cell (T lymphocyte) activation by binding to CD80 and CD86, thereby blocking interaction with CD28. This interaction provides a costimulatory signal necessary for full activation of T lymphocytes." ([DailyMed: Orencia (abatacept) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0836c6ac-ee37-5640-2fed-a3185a0b16eb), label version 2025-11-13; accessed 2026-11-19.) Abatacept is known as a T-cell co-stimulation blocker. It interrupts the activation of T cells, a process that drives several immune-mediated joint diseases. Ankylosing spondylitis is also an immune-mediated inflammatory arthritis, so a T-cell-directed therapy is mechanistically plausible.
 
 The plausibility is limited. Axial spondyloarthritis is driven mainly by TNF and IL-17/IL-23 pathways, not by T-cell co-stimulation. A 2016 review (PMID 27856659) states that biologics targeting IL-1, IL-6 and T cells (abatacept) are not effective in axial spondyloarthritis, whereas TNF blockers are highly effective. The high model score is therefore not supported by the clinical literature.
 
@@ -114,6 +114,19 @@ The only direct evidence is a small, uncontrolled pilot trial with unknown statu
 - A controlled trial showing efficacy against placebo or a TNF inhibitor in ankylosing spondylitis.
 - Mechanism-of-action data and a rationale for why T-cell co-stimulation blockade would work in axial disease.
 - Package insert warnings and contraindications, and a monitoring plan for infection risk and interacting drugs.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Orencia (abatacept) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0836c6ac-ee37-5640-2fed-a3185a0b16eb) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

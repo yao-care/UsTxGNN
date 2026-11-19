@@ -59,7 +59,7 @@ The TxGNN model ranks **trigeminal nerve neoplasm** as its top predicted new ind
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, valproic acid enhances GABAergic transmission and modulates sodium and T-type calcium channels, and it is a histone deacetylase (HDAC) inhibitor that has been hypothesized to have antineoplastic effects.
+According to the Mechanism of Action section of the FDA-approved prescribing information for valproic acid: "Valproic acid dissociates to the valproate ion in the gastrointestinal tract. The mechanisms by which valproate exerts its antiepileptic effects have not been established. It has been suggested that its activity in epilepsy is related to increased brain concentrations of gamma-aminobutyric acid (GABA)." ([DailyMed: Valproic (valproic acid) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34a0d45a-4388-7d8b-e063-6394a90a6c3f), label version 2025-05-23; accessed 2026-11-19.) Based on general knowledge, valproic acid enhances GABAergic transmission and modulates sodium and T-type calcium channels, and it is a histone deacetylase (HDAC) inhibitor that has been hypothesized to have antineoplastic effects.
 
 For the top prediction, trigeminal nerve neoplasm, **no direct mechanistic link is supported by the data.** The only retrieved paper is a 1997 case series on Sturge-Weber syndrome, a neurocutaneous vascular disorder rather than a tumour. The very high TxGNN score (0.9997) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -172,13 +172,14 @@ The top prediction, trigeminal nerve neoplasm, has no trials and no supporting l
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Two further cancelled authorizations (ANDA070868, ANDA073229) are not listed. 7 authorizations are currently valid in the compiled data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 7 valid authorizations in the compiled data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since the compiled data lists 7 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Valproic (valproic acid) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34a0d45a-4388-7d8b-e063-6394a90a6c3f) |
 
 <!-- review:end log -->
 

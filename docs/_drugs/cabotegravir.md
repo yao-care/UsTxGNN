@@ -54,7 +54,7 @@ Cabotegravir is an HIV-1 integrase strand transfer inhibitor (INSTI). The TxGNN 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, cabotegravir is an HIV-1 integrase strand transfer inhibitor, a class that blocks viral DNA integration into the host genome.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for cabotegravir: "Cabotegravir is an HIV-1 antiretroviral drug. […] Cabotegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral deoxyribonucleic acid (DNA) integration that is essential for the HIV replication cycle. The mean 50% inhibitory concentration (IC 50 ) value of cabotegravir in a strand transfer assay using purified recombinant HIV-1 integrase was 3.0 nM." ([DailyMed: Vocabria (cabotegravir sodium) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66d450fb-cca4-476c-b0c7-c0730e3e4cf3), label version 2025-04-11; accessed 2026-11-19.) Based on general pharmacology, cabotegravir is an HIV-1 integrase strand transfer inhibitor, a class that blocks viral DNA integration into the host genome.
 
 Rheumatoid arthritis is an autoimmune and inflammatory disease driven by pathways such as TNF, IL-6 and JAK/STAT. Integrase inhibition does not target these pathways, so no established mechanistic link exists between the original use and the predicted indication. The high TxGNN score (0.9945) is a TxGNN model (deep learning) prediction and is not backed by any clinical or published evidence in the data compiled.
 
@@ -117,11 +117,12 @@ The prediction rests only on a TxGNN model (deep learning) score. There are no t
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "In addition, the only US license is cancelled, and package insert safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vocabria (cabotegravir sodium) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66d450fb-cca4-476c-b0c7-c0730e3e4cf3) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ A second prediction, **factor 5 excess with spontaneous thrombosis** (score 0.99
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this report. Based on known information, edaravone is a free radical scavenger. In ischemic stroke and ALS, it is thought to reduce oxidative stress and endothelial injury.
+According to the Mechanism of Action section of the FDA-approved prescribing information for edaravone: "The mechanism by which edaravone injection exert its therapeutic effect in patients with ALS is unknown." ([DailyMed: edaravone prescribing information, Piramal Critical Care Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19862ae9-d6e1-70e6-e063-6394a90ae749), label version 2025-10-07; accessed 2026-11-19.) Based on known information, edaravone is a free radical scavenger. In ischemic stroke and ALS, it is thought to reduce oxidative stress and endothelial injury.
 
 Heparin cofactor 2 deficiency is a hereditary thrombophilia in which thrombin inhibition (dependent on dermatan sulfate) is reduced. A possible, but unproven, link is that antioxidant and endothelial-protective effects could limit vascular injury associated with thrombosis.
 
@@ -124,12 +124,13 @@ The prediction is supported only by the TxGNN model score (0.9947), with no clin
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All four authorizations are injectable products and all are currently cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with all 4 of 4 authorizations valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: edaravone prescribing information, Piramal Critical Care Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19862ae9-d6e1-70e6-e063-6394a90ae749) |
 
 <!-- review:end log -->
 

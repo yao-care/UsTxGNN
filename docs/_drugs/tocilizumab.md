@@ -60,7 +60,7 @@ The strongest-supported prediction among the top 10 is actually **polyarticular 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, tocilizumab is a humanized monoclonal antibody that blocks the interleukin-6 (IL-6) receptor. Its efficacy in rheumatoid arthritis and juvenile idiopathic arthritis is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for tocilizumab: "Tocilizumab products bind to both soluble and membrane-bound IL-6 receptors (sIL-6R and mIL-6R), and have been shown to inhibit IL-6-mediated signaling through these receptors. IL-6 is a pleiotropic pro-inflammatory cytokine produced by a variety of cell types including T- and B-cells, lymphocytes, monocytes and fibroblasts." ([DailyMed: Avtozma (tocilizumab) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=581c288f-8015-40ef-a4c3-683c96db193d), label version 2026-10-20; accessed 2026-11-19.) Based on known information, tocilizumab is a humanized monoclonal antibody that blocks the interleukin-6 (IL-6) receptor. Its efficacy in rheumatoid arthritis and juvenile idiopathic arthritis is established.
 
 IL-6 contributes to systemic inflammation and bone effects in spondyloarthritis, so blocking its receptor is biologically plausible. Ankylosing spondylitis also shares inflammatory pathways with the rheumatic diseases the drug already treats.
 
@@ -153,12 +153,13 @@ The IL-6 rationale for ankylosing spondylitis is plausible, but both dedicated P
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "since all six BLAs show as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "All six licenses are valid, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Avtozma (tocilizumab) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=581c288f-8015-40ef-a4c3-683c96db193d) |
 
 <!-- review:end log -->
 

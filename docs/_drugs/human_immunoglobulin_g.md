@@ -58,7 +58,7 @@ Two other predictions were also generated: diabetic retinopathy (0.9963) and dru
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Based on general knowledge, IVIG is thought to act through Fc-receptor blockade, complement inhibition, and broad anti-inflammatory effects. Low-grade inflammation contributes to diabetic retinopathy, so an immunomodulatory link is plausible. This link is unverified and cannot be confirmed from the compiled data.
+According to the Mechanism of Action section of the FDA-approved prescribing information for human immunoglobulin g: "ASCENIV is a replacement therapy for patients with primary humoral immunodeficiency (PI). ASCENIV provides a broad spectrum of opsonizing and neutralizing IgG antibodies against bacterial and viral pathogens and their toxins." ([DailyMed: Asceniv (human immunoglobulin g) prescribing information, ADMA Biologics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d74f4360-3b51-496c-96fb-84c3976958d2), label version 2026-09-29; accessed 2026-11-19.) Based on general knowledge, IVIG is thought to act through Fc-receptor blockade, complement inhibition, and broad anti-inflammatory effects. Low-grade inflammation contributes to diabetic retinopathy, so an immunomodulatory link is plausible. This link is unverified and cannot be confirmed from the compiled data.
 
 The original indication is not recorded in the compiled data, so a direct comparison with the new indication is not possible. The established treatments for diabetic retinopathy are intravitreal anti-VEGF agents and laser photocoagulation. A systemic plasma-derived product has no clear rationale against them.
 
@@ -128,13 +128,14 @@ The prediction rests only on a TxGNN model (deep learning) score, with no clinic
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Six further cancelled licenses are not shown: Gamunex-C, Alyglo, Flebogamma, Panzyga, GAMMAGARD Liquid, and Gammaplex" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Asceniv (human immunoglobulin g) prescribing information, ADMA Biologics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d74f4360-3b51-496c-96fb-84c3976958d2) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **retinal dystrophy with or wit
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known pharmacology, perphenazine is a phenothiazine antipsychotic that mainly blocks dopamine D2 receptors, with additional serotonin 5-HT2A, adrenergic and histamine activity. Its efficacy in schizophrenia and in mixed anxiety and depression (in combination with amitriptyline) is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for perphenazine: "Perphenazine has actions at all levels of the central nervous system, particularly the hypothalamus. However, the site and mechanism of action of therapeutic effect are not known." ([DailyMed: perphenazine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e87e78e-d39c-44fc-95a0-70cdb2a91941), label version 2026-11-11; accessed 2026-11-19.) Based on known pharmacology, perphenazine is a phenothiazine antipsychotic that mainly blocks dopamine D2 receptors, with additional serotonin 5-HT2A, adrenergic and histamine activity. Its efficacy in schizophrenia and in mixed anxiety and depression (in combination with amitriptyline) is established.
 
 For this prediction, however, **no plausible therapeutic link was found**. The only retrieved publication describes pigmentary retinopathy as an *adverse effect* of thioridazine, a different phenothiazine. Phenothiazines are known to be associated with retinal toxicity. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Perphenazine is not expected to treat inherited retinal dystrophy, and the prediction should be read as a likely model artifact.
 
@@ -133,12 +133,13 @@ The prediction rests on model output alone (L5). No trials exist, and the single
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 7 US authorizations are generic (ANDA) tablet products and all are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: perphenazine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e87e78e-d39c-44fc-95a0-70cdb2a91941) |
 
 <!-- review:end log -->
 

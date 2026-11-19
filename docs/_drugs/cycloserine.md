@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Irritable Bowel Syndrome**, b
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, cycloserine is a D-alanine analog that inhibits bacterial cell-wall synthesis, and it also acts as a partial agonist at the NMDA receptor glycine site. Its efficacy in tuberculosis comes from the antibacterial action.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for cycloserine: "The antibacterial activity of Cycloserine results from inhibition of cell-wall synthesis in susceptible strains of gram-positive and gram-negative bacteria." ([DailyMed: cycloserine prescribing information, Dr. Reddys Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8e7e2665-7a3d-3f54-9f92-5fe845f02ef9), label version 2024-07-30; accessed 2026-11-19.) Based on general pharmacology, cycloserine is a D-alanine analog that inhibits bacterial cell-wall synthesis, and it also acts as a partial agonist at the NMDA receptor glycine site. Its efficacy in tuberculosis comes from the antibacterial action.
 
 No established mechanism links cycloserine to the pathophysiology of irritable bowel syndrome. The antibacterial and NMDA-related actions have no demonstrated connection to gut motility, visceral hypersensitivity, or the gut-brain axis in the supplied data. The prediction should therefore be treated as a computational hypothesis, not as a mechanistically supported lead.
 
@@ -116,12 +116,13 @@ The prediction is supported only by the model score, with no clinical trials or 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Clarification of regulatory and supply status, since the only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "e and the cancelled US licens" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: cycloserine prescribing information, Dr. Reddys Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8e7e2665-7a3d-3f54-9f92-5fe845f02ef9) |
 
 <!-- review:end log -->
 

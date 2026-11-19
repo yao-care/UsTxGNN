@@ -64,7 +64,7 @@ The prediction is therefore pharmacologically consistent, but it largely reflect
 
 These framings differ from the predicted "amenorrhea" indication and would need to be defined as separate research questions.
 
-The data compiled for this report contains no detailed mechanism-of-action entry for goserelin. The description above is based on its known pharmacology.
+According to the Mechanism of Action section of the FDA-approved prescribing information for goserelin: "ZOLADEX is a synthetic decapeptide analogue of GnRH. ZOLADEX acts as an inhibitor of pituitary gonadotropin secretion when administered in the biodegradable formulation. In animal and in vitro studies, administration of goserelin resulted in the regression or inhibition of growth of the hormonally sensitive dimethylbenzanthracene (DMBA)-induced rat mammary tumor and Dunning R3327 prostate tumor." ([DailyMed: Zoladex (goserelin) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=294b168b-6e5f-4db9-bf70-d599271458b3), label version 2026-03-24; accessed 2026-11-19.) The description above is based on its known pharmacology.
 
 Two other predictions (renal hypoplasia and bilateral renal hypoplasia, both scoring about 0.9906) have no clinical trials, no literature, and no plausible biological rationale. They are evidence level L5 and should be held.
 
@@ -131,11 +131,12 @@ Amenorrhea is mainly an expected pharmacological effect of goserelin, not a dist
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "larification of the regulatory status of the cancelled Zoladex NDAs and c" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "The data compiled for this report contains no detailed mechanism-of-action entry for goserelin" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zoladex (goserelin) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=294b168b-6e5f-4db9-bf70-d599271458b3) |
 
 <!-- review:end log -->
 

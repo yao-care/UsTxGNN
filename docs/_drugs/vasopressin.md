@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **congenital prothrombin defici
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general pharmacology, vasopressin and its analog desmopressin (DDAVP) raise plasma factor VIII and von Willebrand factor by stimulating V2-receptor-mediated release from endothelial cells. This is a plausible route for some rare bleeding disorders.
+According to the Mechanism of Action section of the FDA-approved prescribing information for vasopressin: "Vasopressin causes vasoconstriction by binding to V 1 receptors on vascular smooth muscle coupled to the Gq/11-phospholipase C-phosphatidyl-inositol-triphosphate pathway, resulting in the release of intracellular calcium. In addition, vasopressin stimulates antidiuresis via stimulation of V 2 receptors which are coupled to adenyl cyclase." ([DailyMed: Vasostrict (vasopressin) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1147beb-743e-4c62-8927-91192447f8b8), label version 2026-04-21; accessed 2026-11-19.) Based on general pharmacology, vasopressin and its analog desmopressin (DDAVP) raise plasma factor VIII and von Willebrand factor by stimulating V2-receptor-mediated release from endothelial cells. This is a plausible route for some rare bleeding disorders.
 
 However, prothrombin (factor II) is not known to be released through this pathway, so the mechanistic link to congenital prothrombin deficiency is weak. The supplied literature concerns factor VIII and factor V deficiencies and acquired hemophilia A, not prothrombin deficiency. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -132,13 +132,14 @@ The TxGNN score is high (0.9963), but there are no clinical trials and the liter
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Four additional cancelled authorizations are on record (Amneal, Civica, Amphastar, Long Grove)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "The compiled data lists nine valid authorizations, and approved indication text is not available for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "for the nine valid US authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vasostrict (vasopressin) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1147beb-743e-4c62-8927-91192447f8b8) |
 
 <!-- review:end log -->
 

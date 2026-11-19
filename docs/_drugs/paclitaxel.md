@@ -58,7 +58,7 @@ The data compiled for this report include **40 clinical trials** and **20 public
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available from the source database. From established pharmacology, paclitaxel stabilizes microtubules and blocks disassembly of the mitotic spindle. This causes G2/M cell-cycle arrest and apoptosis in rapidly dividing tumor cells.
+According to the Mechanism of Action section of the FDA-approved prescribing information for paclitaxel: "Paclitaxel protein-bound particles for injectable suspension (albumin-bound) is a microtubule inhibitor that promotes the assembly of microtubules from tubulin dimers and stabilizes microtubules by preventing depolymerization. This stability results in the inhibition of the normal dynamic reorganization of the microtubule network that is essential for vital interphase and mitotic cellular functions." ([DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c), label version 2025-09-17; accessed 2026-11-19.) From established pharmacology, paclitaxel stabilizes microtubules and blocks disassembly of the mitotic spindle. This causes G2/M cell-cycle arrest and apoptosis in rapidly dividing tumor cells.
 
 Ovarian cancer and breast cancer are both epithelial solid tumors that respond to taxane chemotherapy. Taxane activity does not depend on hormone receptor status. Reviews in the compiled literature describe paclitaxel and docetaxel as evidence-based components of therapy for advanced breast, lung and ovarian carcinomas, and paclitaxel has been approved in the US for adjuvant treatment of node-positive early breast cancer.
 
@@ -171,6 +171,19 @@ Other predictions in the data are weaker:
 - Current US label indications.
 - Pivotal comparative data for specific settings, such as ER-negative and hormone-resistant disease, rather than combination studies where paclitaxel is only the backbone.
 - A monitoring plan for myelosuppression, neuropathy and hypersensitivity, and a review of CYP-related drug interactions.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available from the source database" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

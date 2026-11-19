@@ -56,7 +56,7 @@ but there are **0 registered clinical trials** and only indirect literature (**2
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge of the drug class, dacarbazine is an alkylating agent. Its active metabolite (MTIC) methylates DNA and is cytotoxic to rapidly dividing tumour cells. This gives a plausible but generic link to head and neck and upper aerodigestive tract malignancies.
+ChEMBL (EMBL-EBI) records the mechanism of action of dacarbazine as: DNA inhibitor ([ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476), CC BY-SA 3.0; accessed 2026-11-19.) Based on general knowledge of the drug class, dacarbazine is an alkylating agent. Its active metabolite (MTIC) methylates DNA and is cytotoxic to rapidly dividing tumour cells. This gives a plausible but generic link to head and neck and upper aerodigestive tract malignancies.
 
 The retrieved literature does not show direct evidence in squamous cell carcinoma of the upper aerodigestive tract. It instead covers tumour types where dacarbazine has been used: melanoma (including mucosal disease), Hodgkin lymphoma involving head and neck sites, medullary thyroid carcinoma (dacarbazine plus 5-FU), and head and neck paragangliomas. The very high TxGNN score most likely reflects these related-tumour associations and not validated efficacy in this indication. The prediction should therefore be treated as a hypothesis.
 
@@ -137,12 +137,13 @@ The prediction rests on a high model score and indirect literature from other tu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All three US authorisations for single-agent dacarbazine are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 3 of 3 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476) |
 
 <!-- review:end log -->
 

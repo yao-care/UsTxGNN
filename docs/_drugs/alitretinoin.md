@@ -54,7 +54,7 @@ Alitretinoin (9-cis-retinoic acid) is a retinoid that was marketed in the US as 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Pharmacology records show that alitretinoin binds retinoic acid receptors (RAR-α, -β, -γ) and retinoid X receptors (RXR-α, -β, -γ). These nuclear receptors regulate cell differentiation and proliferation. Their signalling also touches reproductive and endocrine tissues.
+According to the Mechanism of Action section of the FDA-approved prescribing information for alitretinoin: "Alitretinoin (9-cis-retinoic acid) is a naturally occurring endogenous retinoid that binds to and activates all known intracellular retinoid receptor subtypes (RARα, RARβ, RARγ, RXRα, RXRβ and RXRγ). Once activated these receptors function as transcription factors that regulate the expression of genes that control the process of cellular differentiation and proliferation in both normal and neoplastic cells." ([DailyMed: Panretin (alitretinoin) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49c16717-7d86-4257-80c9-baa1417e5555), label version 2025-11-25; accessed 2026-11-19.) Pharmacology records show that alitretinoin binds retinoic acid receptors (RAR-α, -β, -γ) and retinoid X receptors (RXR-α, -β, -γ). These nuclear receptors regulate cell differentiation and proliferation. Their signalling also touches reproductive and endocrine tissues.
 
 That link is general, and it does not amount to a therapeutic rationale for amenorrhea. No clinical or literature evidence supports it. Retinoids are also strongly teratogenic, which is a major safety concern for use in women of reproductive age. The score should be treated as a computational hypothesis only.
 
@@ -131,11 +131,12 @@ The amenorrhea prediction rests on a model score alone (L5). There are no trials
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US marketing authorisation is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Panretin (alitretinoin) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49c16717-7d86-4257-80c9-baa1417e5555) |
 
 <!-- review:end log -->
 

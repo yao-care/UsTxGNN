@@ -60,7 +60,7 @@ Two other predictions were also generated, both with L5 evidence and a Hold reco
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this report. Based on known information, demeclocycline is a tetracycline antibiotic whose efficacy in bacterial infections of the respiratory tract and other sites is established. Mechanistically, it may be applicable to chronic sinusitis, where bacterial involvement is possible.
+According to the Clinical Pharmacology and Microbiology sections of the FDA-approved prescribing information for demeclocycline: "The tetracyclines are primarily bacteriostatic and are thought to exert their antimicrobial effect by the inhibition of protein synthesis. The tetracyclines, including demeclocycline have a similar antimicrobial spectrum of activity against a wide range of gram-negative and gram-positive organisms." ([DailyMed: Demeclocycline Hydrochloride (demeclocycline) prescribing information, Amneal Pharmaceuticals of New York LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=539add06-e0a0-401a-b4f6-20776084aa9c), label version 2026-04-02; accessed 2026-11-19.) Based on known information, demeclocycline is a tetracycline antibiotic whose efficacy in bacterial infections of the respiratory tract and other sites is established. Mechanistically, it may be applicable to chronic sinusitis, where bacterial involvement is possible.
 
 Tetracyclines have also been reported to have anti-inflammatory and matrix metalloproteinase-inhibiting effects, which could be relevant to chronic sinus inflammation. These are hypotheses and are not supported by data compiled for this report.
 
@@ -124,11 +124,12 @@ The prediction score is high (0.9914), but there are no clinical trials or publi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both authorizations are cancelled, which limits practical feasibility for any repurposing effort" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Demeclocycline Hydrochloride (demeclocycline) prescribing information, Amneal Pharmaceuticals of New York LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=539add06-e0a0-401a-b4f6-20776084aa9c) |
 
 <!-- review:end log -->
 

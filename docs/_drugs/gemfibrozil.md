@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but *
 
 ## Why is This Prediction Reasonable?
 
-Formal mechanism-of-action data for gemfibrozil are not available in the data compiled for this report. Based on the mechanistic analysis, gemfibrozil is a PPAR-alpha agonist. This is how it lowers triglycerides in hypertriglyceridemia. PPAR-alpha activation has also been linked to anti-inflammatory effects, including lower pro-inflammatory cytokines and modulation of T-cell responses.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for gemfibrozil: "Gemfibrozil is a lipid regulating agent which decreases serum triglycerides and very low density lipoprotein (VLDL) cholesterol, and increases high density lipoprotein (HDL) cholesterol. While modest decreases in total and low density lipoprotein (LDL) cholesterol may be observed with gemfibrozil therapy, treatment of patients with elevated triglycerides due to Type IV hyperlipoproteinemia often results in a rise in LDL-cholesterol." ([DailyMed: gemfibrozil prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5501438d-5247-4f2a-8e15-085276d01725), label version 2026-11-10; accessed 2026-11-19.) Based on the mechanistic analysis, gemfibrozil is a PPAR-alpha agonist. This is how it lowers triglycerides in hypertriglyceridemia. PPAR-alpha activation has also been linked to anti-inflammatory effects, including lower pro-inflammatory cytokines and modulation of T-cell responses.
 
 Hypertriglyceridemia and rheumatoid arthritis are quite different diseases, so the link is indirect and runs through inflammation rather than lipids. Supporting evidence comes from animal work. The related pan-PPAR agonist bezafibrate attenuated experimental arthritis, and gemfibrozil combined with a reduced steroid dose performed similarly to a full steroid dose in a rat arthritis model. Neither result has been shown in humans, so the plausibility is real but unproven.
 
@@ -124,12 +124,13 @@ For context, two other predicted indications for gemfibrozil have more human evi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All five US licenses are generic tablets and are now cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and its US licenses are all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Formal mechanism-of-action data for gemfibrozil are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: gemfibrozil prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5501438d-5247-4f2a-8e15-085276d01725) |
 
 <!-- review:end log -->
 

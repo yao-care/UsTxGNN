@@ -58,7 +58,7 @@ with **0 registered clinical trials** and **15 publications** (including one RCT
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, nortriptyline is a tricyclic antidepressant that mainly inhibits norepinephrine reuptake and, to a lesser extent, serotonin reuptake. This link is inferred from general knowledge of the drug class, not from the supplied data.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for nortriptyline: "The mechanism of mood elevation by tricyclic antidepressants is at present unknown. Pamelor is not a monoamine oxidase inhibitor. It inhibits the activity of such diverse agents as histamine, 5-hydroxytryptamine, and acetylcholine." ([DailyMed: Pamelor (nortriptyline hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e17dc299-f52d-414d-ab6e-e809bd6f8acb), label version 2024-12-04; accessed 2026-11-19.) Based on known pharmacology, nortriptyline is a tricyclic antidepressant that mainly inhibits norepinephrine reuptake and, to a lesser extent, serotonin reuptake. This link is inferred from general knowledge of the drug class, not from the supplied data.
 
 Noradrenergic enhancement in prefrontal circuits is the shared mechanism of established non-stimulant ADHD drugs such as atomoxetine. A PET study in the literature (PMID 24345533) describes nortriptyline as a norepinephrine-transporter-selective tricyclic, which supports this reasoning. Reviews also describe secondary-amine tricyclics, including nortriptyline, as established alternative ADHD treatments.
 
@@ -134,11 +134,12 @@ The literature includes a controlled pediatric study, a Cochrane review of tricy
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 4 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Pamelor (nortriptyline hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e17dc299-f52d-414d-ab6e-e809bd6f8acb) |
 
 <!-- review:end log -->
 

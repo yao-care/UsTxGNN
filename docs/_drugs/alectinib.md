@@ -56,7 +56,7 @@ This is a model-only signal and is not backed by any real-world evidence.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. From general knowledge, alectinib is a selective inhibitor of anaplastic lymphoma kinase (ALK), with activity against RET as well. Its efficacy in ALK-positive NSCLC is well established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for alectinib: "Alectinib is a tyrosine kinase inhibitor that targets ALK and RET. In nonclinical studies, alectinib inhibited ALK phosphorylation and ALK-mediated activation of the downstream signaling proteins STAT3 and AKT, and decreased tumor cell viability in multiple cell lines harboring ALK fusions, amplifications, or activating mutations." ([DailyMed: Alecensa (alectinib hydrochloride) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42c49deb-713b-427a-9670-08af08adcffb), label version 2026-08-21; accessed 2026-11-19.) From general knowledge, alectinib is a selective inhibitor of anaplastic lymphoma kinase (ALK), with activity against RET as well. Its efficacy in ALK-positive NSCLC is well established.
 
 For gingival fibromatosis, the link is weak. Hereditary gingival fibromatosis is not known to be driven by ALK or RET signaling, and no mechanistic rationale has been established. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The other top-ranked predictions show the same pattern: none has a plausible ALK-dependent mechanism, apart from tumor types that overlap with the existing lung cancer use.
 
@@ -122,12 +122,13 @@ The prediction is model-only (L5), with no trials, no literature, and no plausib
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only NDA on record is cancelled, and the interaction burden is substantial" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "of the cancelled US regulatory status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Alecensa (alectinib hydrochloride) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42c49deb-713b-427a-9670-08af08adcffb) |
 
 <!-- review:end log -->
 

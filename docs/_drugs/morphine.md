@@ -60,7 +60,7 @@ This report therefore evaluates RLS as the lead candidate and compares it with t
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, morphine is a mu-opioid receptor agonist with general analgesic activity.
+According to the Mechanism of Action section of the FDA-approved prescribing information for morphine: "Morphine is a full opioid agonist and is relatively selective for the mu-opioid receptor, although it can bind to other opioid receptors at higher doses. The principal therapeutic action of morphine is analgesia. Like all full opioid agonists, there is no ceiling effect for analgesia with morphine." ([DailyMed: Ms Contin (morphine sulfate) prescribing information, Rhodes Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c354b3bf-86c0-4bb8-8b1f-be2164942698), label version 2026-08-14; accessed 2026-11-19.) Based on known pharmacology, morphine is a mu-opioid receptor agonist with general analgesic activity.
 
 Opioids act on the endogenous opioid and dopaminergic systems implicated in RLS. Opioid receptor agonists are known to relieve both the sensory and motor symptoms of RLS and to improve sleep, although the exact mechanism is still debated. Low-dose opioids are used clinically for refractory RLS, meaning patients who do not respond to dopamine agonists or alpha-2-delta ligands, or who develop augmentation (a worsening of symptoms caused by treatment).
 
@@ -150,6 +150,19 @@ Restless legs syndrome has the most credible support among the ten predictions: 
 - FDA package insert warnings and contraindications (a blocking data gap for safety screening)
 - Mechanism of action data from DrugBank
 - A risk-benefit assessment covering dependence, augmentation and sleep-disordered breathing
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ms Contin (morphine sulfate) prescribing information, Rhodes Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c354b3bf-86c0-4bb8-8b1f-be2164942698) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

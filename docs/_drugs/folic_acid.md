@@ -56,7 +56,7 @@ but there are **0 clinical trials** and only indirect literature (**20 publicati
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this report. Folic acid is a water-soluble B vitamin that serves as a cofactor in one-carbon metabolism, supporting nucleotide synthesis and methylation. Its efficacy in correcting folate deficiency and the related anemias is well established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for folic acid: "Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, an exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids." ([DailyMed: Quiofic (folic acid) prescribing information, Solubiomix, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b868b314-591d-458b-be82-2bcd0b73cce1), label version 2026-10-05; accessed 2026-11-19.) Folic acid is a water-soluble B vitamin that serves as a cofactor in one-carbon metabolism, supporting nucleotide synthesis and methylation. Its efficacy in correcting folate deficiency and the related anemias is well established.
 
 Biotin (vitamin B7) is also a water-soluble B vitamin. It acts as the cofactor for carboxylases involved in fatty acid synthesis, gluconeogenesis and amino acid catabolism. The two vitamins sit in metabolically adjacent pathways, and the retrieved literature often discusses B vitamins together (for example, vitamin-responsive disorders and vitamins in metabolic disease). The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -144,7 +144,7 @@ The prediction is supported only by a model score and general vitamin reviews. T
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
@@ -152,6 +152,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "Three further cancelled authorizations are not listed here: two injection solutions (ANDA089202, Fresenius Kabi; ANDA202522, XGen) and one t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled US market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with eight valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Quiofic (folic acid) prescribing information, Solubiomix, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b868b314-591d-458b-be82-2bcd0b73cce1) |
 
 <!-- review:end log -->
 

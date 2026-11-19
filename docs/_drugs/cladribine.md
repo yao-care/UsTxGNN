@@ -56,7 +56,7 @@ but **no clinical trials** and **no directly relevant publications** currently s
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, cladribine is an adenosine deaminase-resistant purine nucleoside analog. It is incorporated into DNA and induces apoptosis, mainly in lymphocytes and monocytes that have high deoxycytidine kinase activity. This explains its efficacy in hairy cell leukemia and its use in multiple sclerosis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for cladribine: "The mechanism by which cladribine exerts its therapeutic effects in patients with multiple sclerosis has not been fully elucidated but is thought to involve cytotoxic effects on B and T lymphocytes through impairment of DNA synthesis, resulting in depletion of lymphocytes." ([DailyMed: Mavenclad (cladribine) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c75e30a-a410-40f1-b653-04d532bd9144), label version 2026-05-27; accessed 2026-11-19.) Based on known information, cladribine is an adenosine deaminase-resistant purine nucleoside analog. It is incorporated into DNA and induces apoptosis, mainly in lymphocytes and monocytes that have high deoxycytidine kinase activity. This explains its efficacy in hairy cell leukemia and its use in multiple sclerosis.
 
 Rhabdomyosarcoma is a solid tumor of mesenchymal origin, and it has no established dependence on this pathway. The very high score (0.9977) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Seven rhabdomyosarcoma-related entries (several subtypes and the parent class) have nearly identical scores (0.9970-0.9977), which suggests the score is inherited across the disease class. The mechanistic link is therefore weak and unvalidated.
 
@@ -138,12 +138,13 @@ The prediction is based on the model score alone (Evidence Level L5). There are 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All five US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "All five authorizations are listed as valid in the data compiled for this report" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mavenclad (cladribine) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c75e30a-a410-40f1-b653-04d532bd9144) |
 
 <!-- review:end log -->
 

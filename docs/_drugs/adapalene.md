@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **elevated plasma zinc**, but t
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, adapalene is a topical retinoid that selectively acts on retinoic acid receptors RAR-beta and RAR-gamma. It regulates keratinocyte differentiation and inflammation, and this is the basis of its efficacy in acne.
+According to the Mechanism of Action section of the FDA-approved prescribing information for adapalene: "Adapalene binds to specific retinoic acid nuclear receptors but does not bind to cytosolic receptor protein. Biochemical and pharmacological profile studies have demonstrated that adapalene is a modulator of cellular differentiation, keratinization, and inflammatory processes." ([DailyMed: Differin (adapalene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec), label version 2023-12-27; accessed 2026-11-19.) Based on known information, adapalene is a topical retinoid that selectively acts on retinoic acid receptors RAR-beta and RAR-gamma. It regulates keratinocyte differentiation and inflammation, and this is the basis of its efficacy in acne.
 
 Elevated plasma zinc (hyperzincemia) is a biochemical state. It is typically caused by excess zinc intake, altered zinc homeostasis, or specific disorders such as calprotectin-related hyperzincemia. No recognized pathway links retinoid receptor signaling to this condition, and acne and hyperzincemia are unrelated in disease nature.
 
@@ -118,12 +118,13 @@ The prediction has no supporting clinical trials or literature (evidence level L
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "There are 9 authorizations in total, and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 9 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Differin (adapalene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec) |
 
 <!-- review:end log -->
 

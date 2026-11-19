@@ -54,7 +54,7 @@ Etanercept is a TNF-blocking fusion protein, originally used for inflammatory ar
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on the published literature, etanercept is a soluble TNF receptor (p75)–Fc fusion protein that binds TNF-alpha and blocks its activity. Its efficacy in rheumatoid arthritis is well established, and it is a mainstay of TNF-targeted therapy.
+According to the Mechanism of Action section of the FDA-approved prescribing information for etanercept: "TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. It plays an important role in the inflammatory processes of RA, polyarticular JIA, PsA, and AS and the resulting joint pathology. […] Etanercept is a dimeric soluble form of the p75 TNF receptor that can bind TNF molecules." ([DailyMed: Enbrel (etanercept) prescribing information, Immunex Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a002b40c-097d-47a5-957f-7a7b1807af7f), label version 2026-05-11; accessed 2026-11-19.) Based on the published literature, etanercept is a soluble TNF receptor (p75)–Fc fusion protein that binds TNF-alpha and blocks its activity. Its efficacy in rheumatoid arthritis is well established, and it is a mainstay of TNF-targeted therapy.
 
 Rheumatoid vasculitis is a severe extra-articular complication of rheumatoid arthritis. TNF-alpha is central to the inflammation in both conditions, which gives a plausible mechanistic link.
 
@@ -124,11 +124,12 @@ The mechanistic link is plausible, since TNF-alpha drives both rheumatoid arthri
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US license for ENBREL is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Enbrel (etanercept) prescribing information, Immunex Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a002b40c-097d-47a5-957f-7a7b1807af7f) |
 
 <!-- review:end log -->
 

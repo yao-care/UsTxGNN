@@ -59,7 +59,7 @@ The TxGNN model predicts it may be related to **polyclonal hyperviscosity syndro
 
 ## Why is This Prediction Reasonable?
 
-Cefuroxime is a beta-lactam antibiotic. It blocks bacterial cell wall synthesis and acts on susceptible bacteria. Detailed mechanism-of-action data are not available in the data compiled for this report, so this description rests on the general pharmacology of the drug class.
+Cefuroxime is a beta-lactam antibiotic. It blocks bacterial cell wall synthesis and acts on susceptible bacteria. According to the Mechanism of Action section of the FDA-approved prescribing information for cefuroxime: "Cefuroxime is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Cefuroxime has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: cefuroxime sodium prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a145288-733a-4966-b7ae-dc96eb103d8c), label version 2025-03-27; accessed 2026-11-19.) This description rests on the general pharmacology of the drug class.
 
 Polyclonal hyperviscosity syndrome is a disorder of plasma proteins and immunoglobulins that raises blood viscosity. No mechanistic link to an antibacterial action can be identified. The high TxGNN score is a model-based association with no trial or literature evidence behind it. At this stage the prediction should be treated as a hypothesis, not as a supported therapeutic direction.
 
@@ -129,11 +129,12 @@ The prediction has the highest model score but no clinical trials, no literature
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The list may be partial. Of these licences, four are valid and one (NDA050780) is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: cefuroxime sodium prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a145288-733a-4966-b7ae-dc96eb103d8c) |
 
 <!-- review:end log -->
 

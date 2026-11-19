@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **stroke disorder**, but there are
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, dronedarone is a multichannel-blocking Class III antiarrhythmic, and its efficacy in atrial fibrillation or atrial flutter has been established. It is structurally related to amiodarone but is non-iodinated.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dronedarone: "The mechanism of action of dronedarone is unknown. Dronedarone has antiarrhythmic properties belonging to all four Vaughan-Williams classes, but the contribution of each of these activities to the clinical effect is unknown." ([DailyMed: Multaq (dronedarone) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bd4006a-8bad-4909-ac6d-b6d84390155c), label version 2026-01-27; accessed 2026-11-19.) Based on known information, dronedarone is a multichannel-blocking Class III antiarrhythmic, and its efficacy in atrial fibrillation or atrial flutter has been established. It is structurally related to amiodarone but is non-iodinated.
 
 AF is a major cause of cardioembolic stroke. Controlling AF could therefore lower stroke risk indirectly. Post hoc analyses of the ATHENA trial suggested fewer strokes in paroxysmal or persistent AF. A laboratory study also reported that dronedarone has direct anticoagulant and antiplatelet effects, independent of its antiarrhythmic action. Preclinical reviews describe protective effects on ischemia/reperfusion injury in heart and brain.
 
@@ -137,12 +137,13 @@ The stroke prediction has a high model score, but support is indirect. It rests 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "a cancelled US NDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "why the US NDA is cancelled and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Multaq (dronedarone) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bd4006a-8bad-4909-ac6d-b6d84390155c) |
 
 <!-- review:end log -->
 

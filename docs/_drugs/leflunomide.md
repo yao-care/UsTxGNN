@@ -56,7 +56,7 @@ but currently **0 clinical trials** and **0 publications** support this directio
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Leflunomide is an immunomodulatory antimetabolite whose efficacy in rheumatoid arthritis and psoriatic arthritis is established. As general background (not drawn from the compiled data), it acts through its active metabolite teriflunomide, which inhibits dihydroorotate dehydrogenase (DHODH) and pyrimidine synthesis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for leflunomide: "Leflunomide is an isoxazole immunomodulatory agent that inhibits dihydroorotate dehydrogenase (a mitochondrial enzyme involved in de novo pyrimidine synthesis) and has antiproliferative activity. Several in vivo and in vitro experimental models have demonstrated an anti-inflammatory effect." ([DailyMed: Arava (leflunomide) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=320f63f2-fac3-4aee-aff8-85724e00ef52), label version 2025-06-04; accessed 2026-11-19.) Leflunomide is an immunomodulatory antimetabolite whose efficacy in rheumatoid arthritis and psoriatic arthritis is established. As general background (not drawn from the compiled data), it acts through its active metabolite teriflunomide, which inhibits dihydroorotate dehydrogenase (DHODH) and pyrimidine synthesis.
 
 No mechanistic link between leflunomide and the pathways underlying brachydactyly-syndactyly syndrome, a rare limb malformation disorder, has been established. The high TxGNN score (0.9993) is a computational prediction only and is not corroborated by any clinical or preclinical evidence. DHODH inhibition is also associated with teratogenic risk, which argues for particular caution in developmental disorders. This is general pharmacological background, not a finding from the compiled data.
 
@@ -129,12 +129,13 @@ The prediction has only a computational basis (L5), with no clinical trials, lit
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Four additional ANDA authorizations (Bryant Ranch Prepack, KVK-Tech, Alembic, Burel Pharmaceuticals) are also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Arava (leflunomide) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=320f63f2-fac3-4aee-aff8-85724e00ef52) |
 
 <!-- review:end log -->
 

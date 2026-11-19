@@ -54,7 +54,7 @@ Aminocaproic acid is an antifibrinolytic drug, used to control bleeding caused b
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, aminocaproic acid is a lysine analog that inhibits plasminogen activation and plasmin activity, which reduces the breakdown of fibrin clots.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for aminocaproic acid: "The fibrinolysis-inhibitory effects of aminocaproic acid appear to be exerted principally via inhibition of plasminogen activators and to a lesser degree through antiplasmin activity." ([DailyMed: aminocaproic acid prescribing information, Kesin Pharma Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e5ebfcb-c3a2-1fcf-e063-6394a90a356a), label version 2026-11-09; accessed 2026-11-19.) Based on known pharmacology, aminocaproic acid is a lysine analog that inhibits plasminogen activation and plasmin activity, which reduces the breakdown of fibrin clots.
 
 A possible link to diabetic retinopathy is that this action could limit bleeding from fragile new blood vessels in the retina. It might also influence fibrinolytic and extracellular-matrix remodeling pathways in the retina.
 
@@ -128,12 +128,13 @@ The prediction rests solely on a high model score (L5). No trials or publication
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "13 valid licenses are on record for this drug in the US market, which is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: aminocaproic acid prescribing information, Kesin Pharma Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e5ebfcb-c3a2-1fcf-e063-6394a90a356a) |
 
 <!-- review:end log -->
 

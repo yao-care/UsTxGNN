@@ -60,7 +60,7 @@ The prediction rests on the model alone. The only predicted indication with mean
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Ofloxacin is a fluoroquinolone antibacterial, and this class is generally known to inhibit bacterial DNA gyrase and topoisomerase IV. Its efficacy in bacterial infections is established.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for ofloxacin: "Ofloxacin exerts its antibacterial activity by inhibiting DNA gyrase, a bacterial topoisomerase. DNA gyrase is an essential enzyme which controls DNA topology and assists in DNA replication, repair, deactivation, and transcription." ([DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de), label version 2026-10-23; accessed 2026-11-19.) Ofloxacin is a fluoroquinolone antibacterial, and this class is generally known to inhibit bacterial DNA gyrase and topoisomerase IV. Its efficacy in bacterial infections is established.
 
 For hyperamylasemia, **no plausible mechanistic link** was identified. An antibacterial mechanism has no obvious bearing on elevated serum amylase. The high score (0.9991) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Other top-ranked predictions (polyclonal hyperviscosity syndrome, congenital analbuminemia, blood group incompatibility, premalignant and congenital hematological conditions) show the same pattern: high scores, no trials, and no mechanistic rationale.
 
@@ -155,13 +155,14 @@ The top prediction, hyperamylasemia, has no clinical trials, no literature, and 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de) |
 
 <!-- review:end log -->
 

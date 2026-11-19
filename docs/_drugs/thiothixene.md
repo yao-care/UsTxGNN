@@ -59,7 +59,7 @@ The TxGNN model (deep learning) predicts it may be effective for **retinal dystr
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, thiothixene is a dopamine D2-receptor antagonist antipsychotic. Its efficacy in schizophrenia is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for thiothixene: "Thiothixene is an antipsychotic of the thioxanthene series. Thiothixene possesses certain chemical and pharmacological similarities to the piperazine phenothiazines and differences from the aliphatic group of phenothiazines." ([DailyMed: thiothixene prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=81c40311-7dc4-4332-8920-a39a8466aea6), label version 2024-11-16; accessed 2026-11-19.) Based on known pharmacology, thiothixene is a dopamine D2-receptor antagonist antipsychotic. Its efficacy in schizophrenia is established.
 
 No mechanistic link to inherited retinal dystrophy has been identified. The score is very high (0.9999), but it comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Nothing in thiothixene's pharmacology connects dopamine receptor antagonism to the course of a genetically driven retinal degeneration. This prediction should be treated as a computational hypothesis, not a supported repurposing direction.
 
@@ -121,6 +121,19 @@ The prediction rests on a model score alone (evidence level L5). There are no cl
 - FDA package insert warnings and contraindications for a formal safety screen
 - Preclinical evidence (for example, retinal degeneration models) before any clinical consideration
 - Consideration of redirecting effort to manic bipolar affective disorder, the only prediction with published studies, if a repurposing program is pursued, along with a review of whether the drug can still be sourced given the cancelled licenses
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: thiothixene prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=81c40311-7dc4-4332-8920-a39a8466aea6) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

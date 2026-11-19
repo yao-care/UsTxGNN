@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **elevated plasma zinc**, but t
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on general knowledge of the drug class, trifarotene is a topical retinoid that acts on retinoic acid receptors (RARα, RARβ and RARγ are listed as its targets), and it is best known as an RAR-γ-selective agonist. It is applied as a 0.005% cream, and its high metabolic instability suggests limited systemic exposure.
+According to the Mechanism of Action section of the FDA-approved prescribing information for trifarotene: "Trifarotene is an agonist of retinoic acid receptors (RAR), with particular activity at the gamma subtype of RAR. Stimulation of RAR results in modulation of target genes which are associated with various processes, including cell differentiation and mediation of inflammation." ([DailyMed: Aklief (trifarotene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=62d910db-85a6-4696-b69b-4bd2f3080cfc), label version 2024-09-16; accessed 2026-11-19.) Based on general knowledge of the drug class, trifarotene is a topical retinoid that acts on retinoic acid receptors (RARα, RARβ and RARγ are listed as its targets), and it is best known as an RAR-γ-selective agonist. It is applied as a 0.005% cream, and its high metabolic instability suggests limited systemic exposure.
 
 Its efficacy in acne is established: it completed Phase 3 trials and received FDA approval in October 2019. However, no credible mechanistic link to elevated plasma zinc was identified. Elevated plasma zinc is a metabolic or laboratory finding (for example, from excess supplementation or disordered zinc homeostasis). It is not a disease process known to be modulated by retinoic acid receptor signalling. The high score (0.994) probably reflects indirect network associations, such as retinoid and zinc co-involvement in skin and vitamin A biology, rather than a validated target relationship. Topical use with minimal systemic exposure further weakens the case for any systemic metabolic effect.
 
@@ -99,6 +99,19 @@ The prediction has no supporting clinical trials or literature (evidence level L
 - Evidence that RAR signalling influences zinc homeostasis, before pursuing elevated plasma zinc
 - Route compatibility assessment, since the drug is available only as a topical cream and any systemic indication would need a different route
 - For PAPA syndrome, a focused review of whether topical trifarotene has a role as an adjunct for the acne manifestation
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aklief (trifarotene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=62d910db-85a6-4696-b69b-4bd2f3080cfc) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

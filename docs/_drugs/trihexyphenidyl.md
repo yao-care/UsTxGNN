@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and only **1 indirect publication*
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, trihexyphenidyl is a central muscarinic (M1-preferring) anticholinergic. It is used in Parkinson disease and dystonia to correct the cholinergic-dopaminergic imbalance in the striatum.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for trihexyphenidyl: "Trihexyphenidyl Hydrochloride is the substituted piperidine salt, 3-(1-piperidyl)- 1-phenylcyclohexyl-1-propanol hydrochloride, which exerts a direct inhibitory effect upon the parasympathetic nervous system. It also has a relaxing effect on smooth musculature; exerted both directly upon the muscle tissue itself and indirectly through an inhibitory effect upon the parasympathetic nervous system." ([DailyMed: trihexyphenidyl hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60ef86c-b8b6-4530-baaf-d4671ce961af), label version 2026-07-23; accessed 2026-11-19.) Based on known pharmacology, trihexyphenidyl is a central muscarinic (M1-preferring) anticholinergic. It is used in Parkinson disease and dystonia to correct the cholinergic-dopaminergic imbalance in the striatum.
 
 A similar imbalance in striatal and prefrontal circuits is a plausible but unproven contributor to ADHD symptoms. Tics and movement disorders also often co-occur with ADHD, which may be one reason the model links the two conditions.
 
@@ -128,12 +128,13 @@ The prediction rests almost entirely on a computational score. There are no clin
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All six US authorizations (ANDAs) are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "In addition, the drug is marketed in the US, with all six licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: trihexyphenidyl hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60ef86c-b8b6-4530-baaf-d4671ce961af) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ Among the other predictions, only **schizophrenia** has a body of literature (**
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. From general pharmacology, orphenadrine is an anticholinergic agent with NMDA-channel-blocking and antihistamine activity. Its efficacy in parkinsonism comes from central muscarinic blockade.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for orphenadrine: "The mode of action has not been clearly identified but may be related to analgesic properties. Orphenadrine citrate possesses anticholinergic actions." ([DailyMed: orphenadrine citrate prescribing information, Actavis Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aec8ad3a-f717-4e74-b7b9-19debdaad79a), label version 2016-07-20; accessed 2026-11-19.) From general pharmacology, orphenadrine is an anticholinergic agent with NMDA-channel-blocking and antihistamine activity. Its efficacy in parkinsonism comes from central muscarinic blockade.
 
 For the top-ranked prediction, **retinal dystrophy**, no mechanistic link can be identified. None of orphenadrine's known actions connects to inherited retinal degeneration. Despite the high score (0.9929), the prediction is most likely a TxGNN model (deep learning) artifact.
 
@@ -142,12 +142,13 @@ The top-ranked prediction, retinal dystrophy, has a high model score but no clin
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "In addition, the drug is marketed, with all 5 licences valid, and safety label data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "All five US authorisations are generic applications (ANDAs) and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: orphenadrine citrate prescribing information, Actavis Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aec8ad3a-f717-4e74-b7b9-19debdaad79a) |
 
 <!-- review:end log -->
 

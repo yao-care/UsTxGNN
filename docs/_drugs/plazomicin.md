@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, plazomicin belongs to the aminoglycoside class, which acts against many Gram-negative bacteria, including Enterobacterales. Its efficacy in urinary tract infection is the basis of its original use.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for plazomicin: "ZEMDRI is an antibacterial drug. […] Plazomicin is an aminoglycoside that acts by binding to bacterial 30S ribosomal subunit, thereby inhibiting protein synthesis. Plazomicin has concentration-dependent bactericidal activity as measured by time kill studies." ([DailyMed: Zemdri (Plazomicin) (plazomicin) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eccf9fd9-53ac-4252-a106-5567b3a82a70), label version 2024-12-20; accessed 2026-11-19.) Based on known information, plazomicin belongs to the aminoglycoside class, which acts against many Gram-negative bacteria, including Enterobacterales. Its efficacy in urinary tract infection is the basis of its original use.
 
 *Neisseria gonorrhoeae* is also a Gram-negative pathogen, and other aminoglycosides (e.g., gentamicin) have been used in gonorrhea treatment. This gives the prediction a plausible antibacterial link. However, plazomicin has not been established for gonococcal infection, and current standard-of-care options are well defined. The high score (0.9964) comes from the TxGNN model (deep learning) and is a computational output only; it may reflect similarities the model learned between related diseases, not biological evidence. Its only US application (1 of 1) is no longer active.
 
@@ -111,11 +111,12 @@ The prediction has no supporting clinical trials or publications (evidence level
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The drug i curre t marketed in the (1 v lid e ce" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zemdri (Plazomicin) (plazomicin) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eccf9fd9-53ac-4252-a106-5567b3a82a70) |
 
 <!-- review:end log -->
 

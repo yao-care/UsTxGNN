@@ -54,7 +54,7 @@ Canakinumab is an anti-interleukin-1β monoclonal antibody used in autoinflammat
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Canakinumab is known as an antibody that neutralizes interleukin-1β (IL-1β), a key driver of inflammation in several autoinflammatory disorders.
+According to the Mechanism of Action section of the FDA-approved prescribing information for canakinumab: "Canakinumab is a human monoclonal anti-human IL-1β antibody of the IgG1/κ isotype. Canakinumab binds to human IL-1β and neutralizes its activity by blocking its interaction with IL-1 receptors, but it does not bind IL-1α or IL-1 receptor antagonist (IL-1ra)." ([DailyMed: Ilaris (canakinumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d271f3b-e4f9-4d80-8dcf-28d49123f80e), label version 2026-06-08; accessed 2026-11-19.) Canakinumab is known as an antibody that neutralizes interleukin-1β (IL-1β), a key driver of inflammation in several autoinflammatory disorders.
 
 Ischemic injury, such as an infarct, can trigger sterile inflammation in which IL-1 signaling plausibly plays a role, so IL-1β blockade could in theory dampen that response. This is a hypothesis only. Nothing in the compiled data directly links canakinumab to hepatic infarction, and no study of this disease was found. The prediction should be treated as a hypothesis-generating signal, not as evidence of benefit.
 
@@ -98,6 +98,19 @@ The prediction score is high (0.9986), but there are no trials or publications o
 - Detailed mechanism-of-action data
 - FDA package insert warnings and contraindications
 - A route and dosing feasibility assessment for this indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ilaris (canakinumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d271f3b-e4f9-4d80-8dcf-28d49123f80e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

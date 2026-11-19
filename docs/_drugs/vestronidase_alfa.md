@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Scheie syndrome**, but **no c
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, vestronidase alfa is a recombinant beta-glucuronidase (GUSB) that replaces the enzyme deficient in MPS VII, helping break down glycosaminoglycans (GAGs).
+According to the Mechanism of Action section of the FDA-approved prescribing information for vestronidase alfa: "Mucopolysaccharidosis VII (MPS VII or Sly syndrome) is a lysosomal disorder characterized by the deficiency of GUS that results in GAG accumulation in cells throughout the body leading to multisystem tissue and organ damage. Vestronidase alfa-vjbk is a recombinant form of human GUS and is intended to provide exogenous GUS enzyme for uptake into cellular lysosomes." ([DailyMed: Mepsevii (vestronidase alfa) prescribing information, Ultragenyx Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=925d4e21-fd98-474d-a34d-a0b3558ed750), label version 2026-10-26; accessed 2026-11-19.) Based on known information, vestronidase alfa is a recombinant beta-glucuronidase (GUSB) that replaces the enzyme deficient in MPS VII, helping break down glycosaminoglycans (GAGs).
 
 Scheie syndrome is the attenuated form of MPS I and is caused by alpha-L-iduronidase deficiency. Both conditions are lysosomal GAG storage disorders, so the high TxGNN score probably reflects shared pathway and disease-class similarity.
 
@@ -131,12 +131,13 @@ The Scheie syndrome prediction rests on model output alone (L5). The enzyme defi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US biologics license is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given that the license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mepsevii (vestronidase alfa) prescribing information, Ultragenyx Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=925d4e21-fd98-474d-a34d-a0b3558ed750) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but **no clinical trials** and **no publications** currently support this specif
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not available in the compiled data. Based on the available analysis, vismodegib is a Smoothened (SMO) inhibitor that blocks the Hedgehog signaling pathway. Aberrant activation of this pathway drives most basal cell carcinomas.
+According to the Mechanism of Action section of the FDA-approved prescribing information for vismodegib: "Vismodegib is an inhibitor of the Hedgehog pathway. Vismodegib binds to and inhibits Smoothened, a transmembrane protein involved in Hedgehog signal transduction." ([DailyMed: Erivedge (vismodegib) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eb368bb6-80e3-4df9-8a85-91df0a2ada6a), label version 2024-12-02; accessed 2026-11-19.) Based on the available analysis, vismodegib is a Smoothened (SMO) inhibitor that blocks the Hedgehog signaling pathway. Aberrant activation of this pathway drives most basal cell carcinomas.
 
 Medulloblastoma, especially the SHH (Sonic Hedgehog) subgroup, is also driven by Hedgehog signaling. Medulloblastoma with extensive nodularity is a histological subtype of this tumor. This makes the prediction biologically plausible: the same pathway that vismodegib blocks in basal cell carcinoma is a known driver in this brain tumor.
 
@@ -129,12 +129,13 @@ The Hedgehog-pathway rationale for medulloblastoma is plausible, but the predict
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license is also cancelled, so availability would need to be verified" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since the US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data was not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Erivedge (vismodegib) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eb368bb6-80e3-4df9-8a85-91df0a2ada6a) |
 
 <!-- review:end log -->
 

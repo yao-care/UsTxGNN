@@ -60,7 +60,7 @@ This prediction has **0 clinical trials** and **0 publications** behind it, so i
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Indomethacin is generally known as a COX-1/COX-2 inhibitor that reduces prostaglandin-mediated inflammation and pain, and its efficacy in inflammatory arthritis is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for indomethacin: "Indomethacin has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of INDOCIN, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Indocin (indomethacin) prescribing information, Zyla Life Sciences US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73878376-1d24-423b-9f37-3666e83c95da), label version 2024-12-16; accessed 2026-11-19.) Indomethacin is generally known as a COX-1/COX-2 inhibitor that reduces prostaglandin-mediated inflammation and pain, and its efficacy in inflammatory arthritis is established.
 
 That mechanism does not obviously apply to the predicted condition. Brachydactyly-syndactyly syndrome is a rare congenital limb malformation driven by developmental genetics, not by ongoing inflammation. No mechanistic link between COX inhibition and this pathology has been identified. The high score (0.9997) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be treated as a hypothesis-generating signal at most.
 
@@ -139,13 +139,14 @@ The prediction for brachydactyly-syndactyly syndrome rests only on a model score
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "The drug is marketed, and all seven US authorizations in the compiled data are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Two further cancelled entries (ANDA079175, extended-release capsule; ANDA216184, suppository) are not shown" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "All US licenses in the compiled data are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Indocin (indomethacin) prescribing information, Zyla Life Sciences US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73878376-1d24-423b-9f37-3666e83c95da) |
 
 <!-- review:end log -->
 

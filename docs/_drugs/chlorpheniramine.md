@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **nasal cavity disease**, but the
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for chlorpheniramine is not available in the data compiled for this report. Based on its known drug class, chlorpheniramine is an H1 antihistamine. H1 blockade reduces histamine-driven increases in nasal vascular permeability, runny nose and itching, which is the pharmacological basis for linking it to nasal conditions.
+According to the Mechanism of Action section of the FDA-approved prescribing information for codeine phosphate and chlorpheniramine maleate (a combination product containing chlorpheniramine): "Chlorpheniramine Chlorpheniramine is a propylamine derivative antihistamine (H 1 -receptor antagonist) of the alkylamine class that also possesses anticholinergic and sedative activity." ([DailyMed: Tuxarin (codeine phosphate and chlorpheniramine maleate) prescribing information, Mainpointe Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7cfab67-6087-4ab4-b7cd-4f9295413180), label version 2024-01-10; accessed 2026-11-19.) Based on its known drug class, chlorpheniramine is an H1 antihistamine. H1 blockade reduces histamine-driven increases in nasal vascular permeability, runny nose and itching, which is the pharmacological basis for linking it to nasal conditions.
 
 The retrieved literature, however, does not study "nasal cavity disease" as a defined clinical condition. It consists of animal models of nasal congestion and allergic rhinitis (cat, dog and rat) and a mechanistic study of histamine-induced protein secretion in the nose. Some of these studies indicate that H1 blockade alone is not enough to relieve congestion; a combination of H1 and H3 receptor blockade was needed in the cat model. "Nasal cavity disease" is also a very broad term, so the prediction cannot be translated into a specific, testable indication from the current data.
 
@@ -121,11 +121,12 @@ The only support is preclinical animal and mechanistic work, with no registered 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Three US licence records are in the local data, and the list may be partial. They are single-ingredient products with no indication text rec" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data for chlorpheniramine is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tuxarin (codeine phosphate and chlorpheniramine maleate) prescribing information, Mainpointe Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7cfab67-6087-4ab4-b7cd-4f9295413180) |
 
 <!-- review:end log -->
 

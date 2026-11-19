@@ -54,7 +54,7 @@ Atorvastatin is a statin, a cholesterol-lowering drug that works by inhibiting H
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. As a statin, atorvastatin lowers LDL cholesterol. It also has pleiotropic effects, including reduced monocyte/macrophage activation and lower systemic inflammation.
+According to the Mechanism of Action section of the FDA-approved prescribing information for atorvastatin: "LIPITOR is a selective, competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A to mevalonate, a precursor of sterols, including cholesterol. In animal models, LIPITOR lowers plasma cholesterol and lipoprotein levels by inhibiting HMG-CoA reductase and cholesterol synthesis in the liver and by increasing the number of hepatic LDL receptors on the cell surface to enhance uptake and catabolism of LDL; LIPITOR also reduces LDL production and the number of LDL particles." ([DailyMed: Lipitor (atorvastatin calcium) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60cc18b-0631-4cf0-b021-9f52224ece65), label version 2024-04-15; accessed 2026-11-19.) As a statin, atorvastatin lowers LDL cholesterol. It also has pleiotropic effects, including reduced monocyte/macrophage activation and lower systemic inflammation.
 
 People with HIV often have dyslipidemia, especially when taking protease inhibitors. They also have persistent low-grade inflammation and a higher risk of cardiovascular disease. Atorvastatin could plausibly help with all three: lipid control, immune activation and cardiovascular risk. A 2026 mouse study also suggests it may protect against cardiac fibrosis caused by HIV and antiretroviral drugs.
 
@@ -126,6 +126,19 @@ The completed HIV trials are small (5 to 53 participants). They mainly assess li
 - Mechanism-of-action data and clarification of whether any benefit goes beyond cardiovascular risk and inflammation
 - Package insert warnings and contraindications
 - A dosing and interaction-management plan for patients on protease inhibitors or boosters
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lipitor (atorvastatin calcium) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60cc18b-0631-4cf0-b021-9f52224ece65) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

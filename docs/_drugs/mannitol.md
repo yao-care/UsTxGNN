@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and only **1 general review articl
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Mannitol is known as an osmotic diuretic: it is filtered by the kidney but poorly reabsorbed, so it draws water into the urine and promotes water diuresis. In theory this could influence free-water balance, which is the only link to NSIAD.
+According to the Mechanism of Action section of the FDA-approved prescribing information for mannitol: "Mannitol, when administered intravenously, exerts its osmotic diuretic effect as a solute of relatively small molecular size being largely confined to the extracellular space. Mannitol hinders tubular reabsorption of water and enhances excretion of sodium and chloride by elevating the osmolarity of the glomerular filtrate." ([DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc), label version 2025-08-26; accessed 2026-11-19.) Mannitol is known as an osmotic diuretic: it is filtered by the kidney but poorly reabsorbed, so it draws water into the urine and promotes water diuresis. In theory this could influence free-water balance, which is the only link to NSIAD.
 
 On closer inspection the mechanistic fit is weak. NSIAD is caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2), leading to water retention and hyponatremia. Osmotic diuresis does not correct this underlying receptor defect. Mannitol can also worsen hyponatremia through osmotic water shifts out of cells. The score of 0.9997 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -120,11 +120,12 @@ The prediction rests on a model score alone, with no registered trials and no su
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 7 of 7 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc) |
 
 <!-- review:end log -->
 

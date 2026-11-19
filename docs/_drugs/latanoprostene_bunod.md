@@ -56,7 +56,7 @@ The prediction rests on model output alone.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not currently available in the data compiled for this report. Based on known information, latanoprostene bunod is converted into latanoprost acid (a prostaglandin F2-alpha analog acting on the FP receptor) and nitric oxide (NO). Its efficacy in lowering intraocular pressure is established: it increases aqueous humor outflow through the uveoscleral pathway and the trabecular meshwork.
+According to the Mechanism of Action section of the FDA-approved prescribing information for latanoprostene bunod: "Latanoprostene bunod is thought to lower intraocular pressure by increasing outflow of aqueous humor through both the trabecular meshwork and uveoscleral routes. Intraocular pressure is a major modifiable risk factor for glaucoma progression." ([DailyMed: Vyzulta (latanoprostene bunod) prescribing information, Bausch & Lomb Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60ce7900-a677-4fc2-88d0-1603baa9dbd4), label version 2024-02-27; accessed 2026-11-19.) Based on known information, latanoprostene bunod is converted into latanoprost acid (a prostaglandin F2-alpha analog acting on the FP receptor) and nitric oxide (NO). Its efficacy in lowering intraocular pressure is established: it increases aqueous humor outflow through the uveoscleral pathway and the trabecular meshwork.
 
 The link to visceral calciphylaxis is weak. NO-mediated vasodilation and cGMP signaling could theoretically influence vascular calcification, but this is a hypothesis only. Calciphylaxis is a systemic microvascular disease, while this drug is a topical eye drop with negligible systemic exposure. The high TxGNN score is a computational prediction and should not be read as clinical support.
 
@@ -126,11 +126,12 @@ The prediction for visceral calciphylaxis rests on model output alone (L5), with
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "since both US licenses are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not currently available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vyzulta (latanoprostene bunod) prescribing information, Bausch & Lomb Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60ce7900-a677-4fc2-88d0-1603baa9dbd4) |
 
 <!-- review:end log -->
 

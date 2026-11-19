@@ -56,7 +56,7 @@ but currently there are **0 registered clinical trials** and **8 publications** 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, ropinirole is a D2/D3 dopamine receptor agonist. Its efficacy in restless legs syndrome and Parkinson disease is established, and mechanistically it may be applicable to ADHD, which is associated with dopaminergic dysregulation.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ropinirole: "Ropinirole is a non-ergoline dopamine agonist. The precise mechanism of action of ropinirole as a treatment for Parkinson’s disease is unknown, although it is thought to be related to its ability to stimulate dopamine D 2 receptors within the caudate-putamen in the brain." ([DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da), label version 2026-11-06; accessed 2026-11-19.) Based on known information, ropinirole is a D2/D3 dopamine receptor agonist. Its efficacy in restless legs syndrome and Parkinson disease is established, and mechanistically it may be applicable to ADHD, which is associated with dopaminergic dysregulation.
 
 The link between the original and new indication is the frequent co-occurrence of restless legs syndrome and ADHD. A literature review suggests the two conditions may share dopaminergic and iron-metabolism pathways. A case report describes a 6-year-old boy with ADHD and restless legs/periodic limb movement who had limited response to methylphenidate; ropinirole improved both his ADHD symptoms and sleep problems.
 
@@ -131,12 +131,13 @@ The prediction score is high and there is a plausible dopaminergic link, support
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 7 valid authorizations for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 7 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da) |
 
 <!-- review:end log -->
 

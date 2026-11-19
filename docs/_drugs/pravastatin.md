@@ -55,7 +55,7 @@ but the supporting evidence is indirect: **1 clinical trial** (which tests a dif
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Pravastatin is a well-known HMG-CoA reductase inhibitor. It lowers LDL cholesterol by reducing hepatic cholesterol synthesis and upregulating LDL receptors, and it has an established role in hyperlipidemia and atherosclerosis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for pravastatin: "Pravastatin is a reversible inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol." ([DailyMed: pravastatin sodium prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be592e98-8a17-4c18-99b8-0f3a67000e2d), label version 2026-10-23; accessed 2026-11-19.) Pravastatin is a well-known HMG-CoA reductase inhibitor. It lowers LDL cholesterol by reducing hepatic cholesterol synthesis and upregulating LDL receptors, and it has an established role in hyperlipidemia and atherosclerosis.
 
 There is an important caveat, however. Homozygous FH is characterized by severe LDL receptor deficiency, and statin efficacy depends on residual receptor activity. One review in the data states that statins are not very effective in homozygous FH. The expected benefit is therefore likely limited compared with heterozygous FH.
 
@@ -111,6 +111,19 @@ The prediction score is high, but the only linked trial tests a different drug (
 - Mechanism of action data and clarification of the market and licensing situation
 
 **Other predictions of note:** Two other predictions have more substantial evidence. Both are about positioning within an established drug class rather than true repurposing.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: pravastatin sodium prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be592e98-8a17-4c18-99b8-0f3a67000e2d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **irritable bowel syndrome**, b
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, mafenide is a topical sulfonamide antimicrobial and carbonic anhydrase inhibitor. It is a topical agent, and the data compiled for this report do not state its original indication.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for mafenide: "SULFAMYLON Cream, applied topically produces a marked reduction in the bacterial population present in the avascular tissues of second- and third-degree burns. Reduction in bacterial growth after application of SULFAMYLON Cream has also been reported to permit spontaneous healing of deep partial-thickness burns, and thus prevent conversion of burn wounds from partial-thickness to full-thickness." ([DailyMed: Sulfamylon (mafenide acetate) prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=008eaa23-8f19-4e39-85ff-540c1c834a9e), label version 2023-07-03; accessed 2026-11-19.) Based on known information, mafenide is a topical sulfonamide antimicrobial and carbonic anhydrase inhibitor. It is a topical agent, and the data compiled for this report do not state its original indication.
 
 No mechanistic link to irritable bowel syndrome has been established. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. A topical antimicrobial has no plausible rationale for a functional gut disorder, and the route of administration is also incompatible. The prediction should be treated as a weak, unsupported signal.
 
@@ -113,11 +113,12 @@ The prediction rests only on a model score, with no trials, no literature and no
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license is cancelled, and mafenide is a topical product with notable tissue toxicity and metabolic acidosis risk" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sulfamylon (mafenide acetate) prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=008eaa23-8f19-4e39-85ff-540c1c834a9e) |
 
 <!-- review:end log -->
 

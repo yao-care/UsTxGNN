@@ -57,7 +57,7 @@ A second prediction, **migraine with brainstem aura** (score 0.9942, Evidence Le
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general pharmacology, atropine is a non-selective muscarinic cholinergic antagonist, and the link to migraine is mechanistically plausible but unproven.
+According to the Mechanism of Action section of the FDA-approved prescribing information for atropine: "Atropine competitively blocks the effects of acetylcholine, including excess acetylcholine due to organophosphorus poisoning, at muscarinic cholinergic receptors on smooth muscle, cardiac muscle, secretory gland cells, and in peripheral autonomic ganglia and the central nervous system." ([DailyMed: Atropen Auto-Injector (atropine) prescribing information, Meridian Medical Technologies LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2d4307d-da8f-49f5-aac0-02355dd9ffb7), label version 2022-09-15; accessed 2026-11-19.) Based on general pharmacology, atropine is a non-selective muscarinic cholinergic antagonist, and the link to migraine is mechanistically plausible but unproven.
 
 Preclinical studies suggest that the parasympathetic and cholinergic systems are involved in migraine biology. Cholinergic modulation affects meningeal mast cell-mediated neurogenic inflammation in a rat migraine model. Stimulating the parasympathetic sphenopalatine ganglion causes plasma protein extravasation in rat dura mater. A cholinergic role in antinociception has also been reported in rodents. Blocking muscarinic receptors could therefore, in theory, dampen these pathways in the trigeminovascular system.
 
@@ -132,12 +132,13 @@ The TxGNN score is very high, but the evidence is model prediction plus indirect
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 13 US licenses are valid, and none has approved indication text on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Atropen Auto-Injector (atropine) prescribing information, Meridian Medical Technologies LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2d4307d-da8f-49f5-aac0-02355dd9ffb7) |
 
 <!-- review:end log -->
 

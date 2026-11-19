@@ -56,7 +56,7 @@ The prediction rests on a model score alone.
 
 ## Why is This Prediction Reasonable?
 
-Elafibranor is a dual agonist of peroxisome proliferator-activated receptors α and δ (PPARA and PPARD). It is converted in the liver to its main active metabolite, GFT-1007. Preclinical work showed reduced hepatic fat accumulation, inflammation and fibrosis. A formal mechanism-of-action entry is not available in the data compiled for this report, so this description comes from pharmacology data on the drug's targets.
+Elafibranor is a dual agonist of peroxisome proliferator-activated receptors α and δ (PPARA and PPARD). It is converted in the liver to its main active metabolite, GFT-1007. Preclinical work showed reduced hepatic fat accumulation, inflammation and fibrosis. According to the Mechanism of Action section of the FDA-approved prescribing information for elafibranor: "Elafibranor and its main active metabolite GFT1007 are peroxisome proliferator-activated receptor (PPAR) agonists, both of which activate PPAR-alpha, PPAR-gamma, and PPAR-delta in vitro. However, the mechanism by which elafibranor exerts its therapeutic effects in patients with PBC is not well understood." ([DailyMed: Iqirvo (elafibranor) prescribing information, Ipsen Biopharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d78aa14f-6ec1-4b1d-a4ae-e48658137a25), label version 2026-08-11; accessed 2026-11-19.) This description comes from pharmacology data on the drug's targets.
 
 PPAR signaling affects lipid and glucose metabolism, insulin sensitivity and inflammation. These pathways could plausibly relate to metabolic causes of amenorrhea, such as PCOS-associated or hypothalamic dysfunction. However, this link is speculative. No trial or publication in the compiled data supports it, and the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The relationship between PBC (a liver disease) and amenorrhea (a reproductive-endocrine condition) has not been assessed.
 
@@ -105,11 +105,12 @@ The only support for amenorrhea is a model score, with no clinical trials, no li
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The drug's US license record is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "A formal mechanism-of-action entry is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Iqirvo (elafibranor) prescribing information, Ipsen Biopharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d78aa14f-6ec1-4b1d-a4ae-e48658137a25) |
 
 <!-- review:end log -->
 

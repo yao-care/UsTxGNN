@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for several conditions. The best-su
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, mexiletine is a class IB sodium channel blocker (related to lidocaine). It is used for ventricular arrhythmias and, in practice, for neuropathic pain and myotonia.
+According to the Mechanism of Action section of the FDA-approved prescribing information for mexiletine: "Mexiletine hydrochloride is a local anesthetic, antiarrhythmic agent, structurally similar to lidocaine, but orally active. In animal studies, mexiletine has been shown to be effective in the suppression of induced ventricular arrhythmias, including those induced by glycoside toxicity and coronary artery ligation." ([DailyMed: mexiletine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c09f68fa-759e-4772-9f6b-11005d8f83d5), label version 2026-03-31; accessed 2026-11-19.) Based on known pharmacology, mexiletine is a class IB sodium channel blocker (related to lidocaine). It is used for ventricular arrhythmias and, in practice, for neuropathic pain and myotonia.
 
 Sodium channel blockade may dampen the hyperexcitability of trigeminal and central pain pathways. Small studies report benefit of mexiletine or intravenous lidocaine in trigeminal autonomic cephalalgias, SUNCT/SUNA, refractory chronic daily headache and vascular headaches. The link to **migraine** itself is more indirect, because the evidence comes from related but different headache subtypes.
 
@@ -138,6 +138,19 @@ The approved indication text is not available in the compiled data.
 - Approved indication text, to confirm the original indication.
 - A systematic review of mexiletine in trigeminal autonomic cephalalgias and chronic headache, followed by a controlled trial design if the signal holds.
 - A cardiac safety plan (proarrhythmia, conduction block) and a DDI management plan for headache populations.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: mexiletine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c09f68fa-759e-4772-9f6b-11005d8f83d5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

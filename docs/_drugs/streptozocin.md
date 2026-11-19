@@ -56,7 +56,7 @@ The second-ranked prediction, **small cell lung carcinoma**, has **2 publication
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, streptozocin is a nitrosourea alkylating agent. It is taken up selectively by pancreatic beta cells through the GLUT2 transporter, which is why it is used against pancreatic neuroendocrine tumors.
+ChEMBL (EMBL-EBI) records the mechanism of action of streptozocin as: DNA inhibitor ([ChEMBL CHEMBL1977579 (streptozocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1977579), CC BY-SA 3.0; accessed 2026-11-19.) Based on general pharmacology, streptozocin is a nitrosourea alkylating agent. It is taken up selectively by pancreatic beta cells through the GLUT2 transporter, which is why it is used against pancreatic neuroendocrine tumors.
 
 For multiple sclerosis, the only rationale is that cytotoxic, immunosuppressive agents have been used in MS. This is weak. The 0.9997 score is a model output with no trials or literature behind it. The known toxicity profile (kidney toxicity, myelosuppression, diabetogenic effects) makes a favorable benefit-risk balance unlikely for a chronic autoimmune condition.
 
@@ -117,6 +117,19 @@ The top prediction (relapsing-remitting multiple sclerosis) is supported only by
 - Confirmation of the original approved indication
 - Preclinical or mechanistic evidence for streptozocin in MS, or a shift of focus to neuroendocrine-related predictions (e.g., SCLC) with direct supporting studies
 - A benefit-risk assessment against established disease-modifying MS therapies
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1977579 (streptozocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1977579) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

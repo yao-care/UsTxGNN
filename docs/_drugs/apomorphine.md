@@ -57,7 +57,7 @@ The TxGNN model's top-ranked prediction is a rare congenital brain malformation 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Apomorphine is generally known as a direct dopamine D1/D2 receptor agonist. Its efficacy in Parkinson disease comes from stimulating dopamine receptors, which compensates for the loss of dopaminergic neurons.
+According to the Mechanism of Action section of the FDA-approved prescribing information for apomorphine: "ONAPGO is a non-ergoline dopamine agonist with high in vitro binding affinity for the dopamine D4 receptor, and moderate affinity for the dopamine D2, D3, and D5, and adrenergic α1D, α2B, α2C receptors. The precise mechanism of action of ONAPGO as a treatment for Parkinson's disease is unknown, although it is believed to be due to stimulation of post-synaptic dopamine D2-type receptors within the caudate-putamen in the brain." ([DailyMed: Onapgo (apomorphine hydrochloride) prescribing information, MDD US Operations, LLC, a subsidiary of Supernus Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f3552b6e-5ae7-4993-aa1a-e399c4a7080a), label version 2026-10-05; accessed 2026-11-19.) Apomorphine is generally known as a direct dopamine D1/D2 receptor agonist. Its efficacy in Parkinson disease comes from stimulating dopamine receptors, which compensates for the loss of dopaminergic neurons.
 
 **Schizophrenia:** There is a biological connection through the dopamine hypothesis, which implicates dopaminergic dysfunction in the disorder. However, the direction of the pharmacology is opposite to that of approved antipsychotics, which block D2 receptors. Older studies (1975–1984) used apomorphine as a probe and in small treatment and neuroendocrine-response studies. One small study of 25 male patients using low-dose apomorphine (0.75 mg subcutaneously) found no significant improvement or deterioration. A 2001 review framed the question as a "dilemma," because apomorphine shows little evidence of inducing psychosis, even though the dopamine hypothesis would predict it should. One possible rationale is stimulation of presynaptic autoreceptors, but this is unproven.
 
@@ -143,13 +143,14 @@ Package insert warnings and contraindications were not available in the data com
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "The drug is marketed in the US, and all 3 licences are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-12 | Removed: "All three authorizations are listed as valid, so currently valid US licences exist in the compiled data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-12 | Removed: "given that all 3 licences are listed as valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Onapgo (apomorphine hydrochloride) prescribing information, MDD US Operations, LLC, a subsidiary of Supernus Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f3552b6e-5ae7-4993-aa1a-e399c4a7080a) |
 
 <!-- review:end log -->
 

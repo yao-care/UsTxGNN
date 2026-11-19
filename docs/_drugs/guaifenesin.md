@@ -56,7 +56,7 @@ but there are currently **no registered clinical trials** and only **1 publicati
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general knowledge, guaifenesin is an expectorant that thins and loosens airway mucus. This could plausibly relieve mucus retention in the nose and upper airway.
+ChEMBL (EMBL-EBI) records the mechanism of action of guaifenesin as: Unknown ([ChEMBL CHEMBL980 (guaifenesin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL980), CC BY-SA 3.0; accessed 2026-11-19.) Based on general knowledge, guaifenesin is an expectorant that thins and loosens airway mucus. This could plausibly relieve mucus retention in the nose and upper airway.
 
 The original indications (allergic rhinitis, vasomotor rhinitis, rhinitis, nasopharyngitis, common cold) are closely related upper respiratory conditions that involve the nasal cavity. This anatomical and clinical proximity makes the predicted indication biologically plausible.
 
@@ -146,13 +146,14 @@ The prediction is biologically plausible because guaifenesin is a mucus-thinning
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Three further cancelled licences are not listed here, including NDA021282 (Mucinex, Bryant Ranch Prepack)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 8 valid licences" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 8 valid licences" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL980 (guaifenesin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL980) |
 
 <!-- review:end log -->
 

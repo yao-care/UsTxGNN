@@ -56,7 +56,7 @@ The prediction most likely reflects the drug's similarity to estradiol rather th
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Based on known information, fluoroestradiol F-18 is an estrogen analog that binds estrogen receptors and is used as a PET radiotracer to visualise receptor expression.
+According to the Mechanism of Action section of the FDA-approved prescribing information for fluoroestradiol f-18: "Fluoroestradiol F 18 binds ER. The following binding affinity: Kd = 0.13 ± 0.02 nM, Bmax = 1901 ± 89 fmol/mg, and IC 50 = 0.085 nM, was determined in an ER-positive human breast cancer cell line (MCF-7)." ([DailyMed: Cerianna (fluoroestradiol f 18) prescribing information, GE Healthcare Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b2c2a2df-cf3e-4a29-a033-231ed5a94b58), label version 2026-01-12; accessed 2026-11-19.) Based on known information, fluoroestradiol F-18 is an estrogen analog that binds estrogen receptors and is used as a PET radiotracer to visualise receptor expression.
 
 Amenorrhea involves disrupted estrogen and hypothalamic-pituitary-ovarian axis signalling. In principle, an estrogen-receptor-binding tracer could be used to image receptor expression in uterine or other target tissue. However, at tracer doses the compound has no pharmacologic effect and would not treat amenorrhea.
 
@@ -96,11 +96,12 @@ The prediction rests on model output alone (L5). There are no registered clinica
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The compound is a diagnostic tracer with no pharmacologic effect at tracer doses, and its only US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cerianna (fluoroestradiol f 18) prescribing information, GE Healthcare Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b2c2a2df-cf3e-4a29-a033-231ed5a94b58) |
 
 <!-- review:end log -->
 

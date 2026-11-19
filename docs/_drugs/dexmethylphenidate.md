@@ -56,7 +56,7 @@ but **no clinical trials** and **no publications** currently support this predic
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, dexmethylphenidate is a central nervous system stimulant that is understood to raise synaptic dopamine and norepinephrine levels by blocking their reuptake. Its efficacy in ADHD is established, but this mechanism cannot be verified from the data compiled for this report.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dexmethylphenidate: "Dexmethylphenidate hydrochloride is a central nervous system (CNS) stimulant. The mode of therapeutic action in ADHD is not known." ([DailyMed: Dexmethylphenidate Hydrochloride Extended-Release (dexmethylphenidate hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bb4f32eb-05c7-449e-8e5a-f45781a58f70), label version 2026-03-31; accessed 2026-11-19.) Based on known information, dexmethylphenidate is a central nervous system stimulant that is understood to raise synaptic dopamine and norepinephrine levels by blocking their reuptake. Its efficacy in ADHD is established, but this mechanism cannot be verified from the data compiled for this report.
 
 ADHD is itself a neurodevelopmental condition, so the high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or a new therapeutic mechanism. Specific developmental disorders (such as learning or language difficulties) often occur together with ADHD, which may explain the association. This is an interpretation, and no study was supplied to confirm it.
 
@@ -133,12 +133,13 @@ The prediction rests on the model score only (L5), with no trials or literature,
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with nine valid authorizations for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with nine valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dexmethylphenidate Hydrochloride Extended-Release (dexmethylphenidate hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bb4f32eb-05c7-449e-8e5a-f45781a58f70) |
 
 <!-- review:end log -->
 

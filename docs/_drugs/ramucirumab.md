@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general drug knowledge, ramucirumab is a VEGFR-2 antagonist, and its established indications (gastric adenocarcinoma, non-small cell lung cancer, hepatocellular carcinoma) are tumours in which VEGF/VEGFR-2 signalling and angiogenesis play a role. This mechanistic description is an inference and is not drawn from the supplied data.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ramucirumab: "Ramucirumab is a VEGFR2 antagonist that specifically binds VEGFR2 and blocks binding of VEGFR ligands, VEGF-A, VEGF-C, and VEGF-D. As a result, ramucirumab inhibits ligand-stimulated activation of VEGFR2, thereby inhibiting ligand-induced proliferation, and migration of human endothelial cells. Ramucirumab inhibited angiogenesis in an in vivo animal model." ([DailyMed: Cyramza (ramucirumab) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6080942-dee6-423e-b688-1272c2ae90d4), label version 2026-06-09; accessed 2026-11-19.) Based on general drug knowledge, ramucirumab is a VEGFR-2 antagonist, and its established indications (gastric adenocarcinoma, non-small cell lung cancer, hepatocellular carcinoma) are tumours in which VEGF/VEGFR-2 signalling and angiogenesis play a role. This mechanistic description is an inference and is not drawn from the supplied data.
 
 Uterine ligament adenocarcinoma is a gynaecological adenocarcinoma, so an anti-angiogenic rationale is plausible. However, no direct data were available for this entity, and the link between the original and new indications remains theoretical.
 
@@ -126,12 +126,13 @@ The prediction is supported only by the TxGNN score (Evidence Level L5), with no
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US licence on record is cancelled, and warnings and contraindications are not available, so safety screening cannot proceed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled US licence status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cyramza (ramucirumab) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6080942-dee6-423e-b688-1272c2ae90d4) |
 
 <!-- review:end log -->
 

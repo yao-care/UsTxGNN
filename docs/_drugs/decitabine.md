@@ -56,7 +56,7 @@ Support is currently limited: **0 registered clinical trials** and **2 publicati
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the drug's known class pharmacology, decitabine is a hypomethylating agent (DNA methyltransferase inhibitor) already used in myeloid malignancies, including AML and myelodysplastic syndromes (MDS).
+According to the Mechanism of Action section of the FDA-approved prescribing information for decitabine: "Decitabine is believed to exert its antineoplastic effects after phosphorylation and direct incorporation into DNA and inhibition of DNA methyltransferase, causing hypomethylation of DNA and cellular differentiation or apoptosis. Decitabine inhibits DNA methylation in vitro, which is achieved at concentrations that do not cause major suppression of DNA synthesis." ([DailyMed: decitabine prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5975fa81-1e29-4d56-e063-6394a90a9cd5), label version 2026-11-03; accessed 2026-11-19.) Based on the drug's known class pharmacology, decitabine is a hypomethylating agent (DNA methyltransferase inhibitor) already used in myeloid malignancies, including AML and myelodysplastic syndromes (MDS).
 
 RCC is the most common pediatric MDS subtype. The shared biology of aberrant DNA methylation and clonal myeloid dysregulation provides a plausible mechanistic rationale. This link rests on class-level knowledge rather than on the supplied data. The high TxGNN score (0.9903) is a computational prediction and does not substitute for clinical evidence.
 
@@ -133,12 +133,13 @@ The prediction is mechanistically plausible, but evidence is limited to one like
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 13 authorizations in the data are generic ANDAs for lyophilized powder for injection solution, and all are listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: decitabine prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5975fa81-1e29-4d56-e063-6394a90a9cd5) |
 
 <!-- review:end log -->
 

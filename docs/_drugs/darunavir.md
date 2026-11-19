@@ -61,7 +61,7 @@ Note: the four predictions are tied or nearly tied on score. The first two, feli
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, darunavir is an HIV-1 protease inhibitor. It blocks cleavage of viral polyproteins and prevents the production of mature, infectious virus particles. Its efficacy in HIV/AIDS is established.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for darunavir: "Darunavir is an HIV-1 antiviral drug. […] Darunavir is an inhibitor of the HIV-1 protease. It selectively inhibits the cleavage of HIV-1 encoded Gag-Pol polyproteins in infected cells, thereby preventing the formation of mature virus particles." ([DailyMed: Prezista (darunavir) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814301f9-c990-46a5-b481-2879a521a16f), label version 2025-08-29; accessed 2026-11-19.) Based on known information, darunavir is an HIV-1 protease inhibitor. It blocks cleavage of viral polyproteins and prevents the production of mature, infectious virus particles. Its efficacy in HIV/AIDS is established.
 
 SIV is a close lentiviral relative of HIV, and its protease is broadly sensitive to HIV protease inhibitors, so a mechanistic link is plausible. However, SIV is mainly a research model for HIV rather than a distinct human disease. The "new" indication therefore largely overlaps with the existing one and adds little repurposing value.
 
@@ -161,7 +161,7 @@ The predictions come from the TxGNN model (deep learning) and may reflect simila
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
@@ -169,6 +169,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "Clarification of the cancelled US market status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 10 valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-12 | Removed: "All 10 authorizations listed below are in valid status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Prezista (darunavir) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814301f9-c990-46a5-b481-2879a521a16f) |
 
 <!-- review:end log -->
 

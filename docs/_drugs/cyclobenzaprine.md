@@ -54,7 +54,7 @@ Cyclobenzaprine is a centrally acting skeletal muscle relaxant. The TxGNN model 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the compiled data. Based on known pharmacology, cyclobenzaprine is a centrally acting muscle relaxant structurally related to tricyclic antidepressants. It acts mainly in the brainstem, reducing tonic somatic motor activity through 5-HT2 antagonism, with additional antihistaminic and anticholinergic effects.
+According to the Mechanism of Action section of the FDA-approved prescribing information for cyclobenzaprine: "The mechanism of action of cyclobenzaprine for the treatment of fibromyalgia in adults is unknown. In in vitro pharmacology studies, cyclobenzaprine demonstrated functional antagonism of 5-HT 2A, α 1 -adrenergic, H 1 -histaminergic, and M 1 -muscarinic acetylcholine receptors." ([DailyMed: Tonmya (cyclobenzaprine hydrochloride) prescribing information, Tonix Medicines, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa59588-ce9b-48cf-8c5f-725a448f8571), label version 2026-08-14; accessed 2026-11-19.) Based on known pharmacology, cyclobenzaprine is a centrally acting muscle relaxant structurally related to tricyclic antidepressants. It acts mainly in the brainstem, reducing tonic somatic motor activity through 5-HT2 antagonism, with additional antihistaminic and anticholinergic effects.
 
 Myofascial pain syndrome involves muscle tenderness, trigger points and spasm. A drug that reduces muscle hyperactivity and modulates serotonergic pain pathways could plausibly relieve these symptoms, which is the link behind the prediction.
 
@@ -141,12 +141,13 @@ The TxGNN score is high (0.9909), and the mechanism is plausible. However, the l
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Nine valid US licenses are on record, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tonmya (cyclobenzaprine hydrochloride) prescribing information, Tonix Medicines, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa59588-ce9b-48cf-8c5f-725a448f8571) |
 
 <!-- review:end log -->
 

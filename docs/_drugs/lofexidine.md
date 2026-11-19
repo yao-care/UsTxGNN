@@ -56,7 +56,7 @@ This prediction is a computational signal only and has no direct clinical suppor
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, lofexidine is a central alpha-2 adrenergic receptor agonist that reduces noradrenergic outflow from the locus coeruleus.
+According to the Mechanism of Action section of the FDA-approved prescribing information for lofexidine: "Lofexidine is a central alpha-2 adrenergic agonist that binds to receptors on adrenergic neurons. This reduces the release of norepinephrine and decreases sympathetic tone." ([DailyMed: Lucemyra (lofexidine hydrochloride) prescribing information, BioCorRx Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a848cc2-4dda-40d9-8b01-d789fe8981ed), label version 2026-07-22; accessed 2026-11-19.) Based on general pharmacology, lofexidine is a central alpha-2 adrenergic receptor agonist that reduces noradrenergic outflow from the locus coeruleus.
 
 A plausible link to migraine exists through modulation of sympathetic tone and central pain processing. The related alpha-2 agonist clonidine has been studied for migraine prophylaxis, with limited and inconsistent results. No lofexidine-specific clinical or mechanistic data support this indication.
 
@@ -109,6 +109,19 @@ The prediction rests only on a computational score. There are no clinical trials
 - Confirmation of the approved indication and current US market status
 - Preclinical or clinical evidence specific to lofexidine in migraine, for example a review of the clonidine migraine-prophylaxis data and a small proof-of-concept study
 - Assessment of cardiovascular safety (blood pressure and heart rate effects) in a migraine population, as well as the major interaction with dolasetron
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lucemyra (lofexidine hydrochloride) prescribing information, BioCorRx Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a848cc2-4dda-40d9-8b01-d789fe8981ed) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

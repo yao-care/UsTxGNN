@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this specific p
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug. Based on known pharmacology, estradiol cypionate is an ester of estradiol, given by injection as a long-acting estrogen. It is used to replace estrogen when the ovaries do not produce enough.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for estradiol cypionate: "Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol, at the receptor level. The primary source of estrogen in normally cycling adult women is the ovarian follicle, which secretes 70 to 500 mcg of estradiol daily, depending on the phase of the menstrual cycle." ([DailyMed: Depo-Estradiol (estradiol cypionate) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9a4229fd-fecd-4ac1-9c4f-6d442533457f), label version 2024-02-28; accessed 2026-11-19.) Based on known pharmacology, estradiol cypionate is an ester of estradiol, given by injection as a long-acting estrogen. It is used to replace estrogen when the ovaries do not produce enough.
 
 Female carriers of an FMR1 premutation can develop fragile X-associated primary ovarian insufficiency (FXPOI). This overlaps directly with the drug's original indication of primary ovarian failure. Estrogen replacement is therefore plausible for the hypoestrogenic manifestations of the condition.
 
@@ -135,12 +135,13 @@ The prediction is biologically plausible for the ovarian insufficiency component
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The drug is also cancelled-only in the US market" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since this license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Depo-Estradiol (estradiol cypionate) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9a4229fd-fecd-4ac1-9c4f-6d442533457f) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Based on known chemistry, tiopronin is a thiol compound that forms soluble mixed disulfides with cysteine. This is the basis for its use in cystinuria, a renal tubular transport disorder.
+According to the Mechanism of Action section of the FDA-approved prescribing information for tiopronin: "The goal of therapy is to reduce urinary cystine concentration below its solubility limit. Tiopronin is an active reducing agent which undergoes thiol-disulfide exchange with cystine to form a mixed disulfide of tiopronin-cysteine." ([DailyMed: Venxxiva (tiopronin) prescribing information, Cycle Pharmaceuticals Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=02e24443-04c6-4b98-a395-49aec4a468de), label version 2025-12-22; accessed 2026-11-19.) Based on known chemistry, tiopronin is a thiol compound that forms soluble mixed disulfides with cysteine. This is the basis for its use in cystinuria, a renal tubular transport disorder.
 
 Renal tubular acidosis (RTA) also involves renal tubular dysfunction, so the model may be linking the two through a shared tubular-disease space. However, the thiol-exchange mechanism does not address the bicarbonate reabsorption or acid secretion defects that cause RTA. The high score (0.9963) is a computational output only, with no supporting clinical or literature evidence, so the mechanistic link should be considered weak.
 
@@ -117,11 +117,12 @@ The prediction rests only on a computational score. The knowledge-graph contrain
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 7 licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Venxxiva (tiopronin) prescribing information, Cycle Pharmaceuticals Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=02e24443-04c6-4b98-a395-49aec4a468de) |
 
 <!-- review:end log -->
 

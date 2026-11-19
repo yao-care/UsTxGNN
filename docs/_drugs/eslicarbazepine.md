@@ -56,7 +56,7 @@ with **1 clinical trial** (a completed Phase 2 study) and **only indirect litera
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, eslicarbazepine acetate is converted to its active metabolite, S-licarbazepine, which blocks voltage-gated sodium channels. This reduces neuronal hyperexcitability.
+According to the Mechanism of Action section of the FDA-approved prescribing information for eslicarbazepine: "APTIOM is extensively converted to eslicarbazepine, which is considered to be responsible for therapeutic effects in humans. The precise mechanism(s) by which eslicarbazepine exerts anticonvulsant activity is unknown but is thought to involve inhibition of voltage-gated sodium channels." ([DailyMed: Aptiom (eslicarbazepine acetate) prescribing information, Sumitomo Pharma America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d0c9554-eaeb-4694-8089-00133fcadce3), label version 2023-11-10; accessed 2026-11-19.) Based on known pharmacology, eslicarbazepine acetate is converted to its active metabolite, S-licarbazepine, which blocks voltage-gated sodium channels. This reduces neuronal hyperexcitability.
 
 Migraine involves neuronal hyperexcitability and cortical spreading depression, so a sodium channel blocker is mechanistically plausible. Other antiseizure drugs, such as topiramate and valproate, are established migraine preventives. This supports the prediction.
 
@@ -143,13 +143,14 @@ The only direct evidence is one completed Phase 2 migraine prevention trial whos
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All seven authorizations are valid, and n" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aptiom (eslicarbazepine acetate) prescribing information, Sumitomo Pharma America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d0c9554-eaeb-4694-8089-00133fcadce3) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **uterine corpus perivascular e
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Ruxolitinib is a Janus kinase (JAK) inhibitor. Its efficacy in myeloproliferative neoplasms is established, and mechanistically it may be applicable to diseases driven by JAK/STAT signaling.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ruxolitinib: "Ruxolitinib, a kinase inhibitor, inhibits Janus Associated Kinases (JAKs), JAK1 and JAK2, which mediate the signaling of a number of cytokines and growth factors that are important for hematopoiesis and immune function. JAK signaling involves recruitment of STATs (signal transducers and activators of transcription) to cytokine receptors, activation, and subsequent localization of STATs to the nucleus leading to modulation of gene expression." ([DailyMed: Jakafi (ruxolitinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1c82580-87ae-11e0-bc84-0002a5d5c51b), label version 2026-07-20; accessed 2026-11-19.) Ruxolitinib is a Janus kinase (JAK) inhibitor. Its efficacy in myeloproliferative neoplasms is established, and mechanistically it may be applicable to diseases driven by JAK/STAT signaling.
 
 For this specific prediction, the supporting rationale is weak. JAK/STAT signaling is a plausible link, but nothing in the compiled data supports it for this tumor. PEComa biology is mainly driven by dysregulation of the mTOR pathway (TSC1/TSC2), which differs from the JAK/STAT axis targeted by ruxolitinib. The high TxGNN score therefore reflects a network-level association rather than a demonstrated biological or clinical link.
 
@@ -129,6 +129,19 @@ The prediction for uterine corpus PEComa rests on the model score alone (L5). Th
 - Confirmation of route and formulation compatibility with the target disease
 
 **Note on other predictions:** Among the other predicted indications, hemophagocytic syndrome associated with an infection has far more support. It is graded L3 and has about 20 publications, including a pediatric stratified-treatment study, case series, and murine mechanism work. No registered trials were provided, and study designs were inferred from titles only, so they need verification. If the goal is to prioritize repurposing candidates, that indication is a better starting point than this one.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Jakafi (ruxolitinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1c82580-87ae-11e0-bc84-0002a5d5c51b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

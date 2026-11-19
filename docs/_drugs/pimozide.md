@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **trichotillomania** (a hair-pu
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Pimozide is known as a dopamine D2 receptor antagonist of the diphenylbutylpiperidine class, and its efficacy in Tourette syndrome has been established.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for pimozide: "Pharmacodynamic Actions Pimozide tablets, are an orally active antipsychotic drug product which shares with other antipsychotics the ability to blockade dopaminergic receptors on neurons in the central nervous system. Although its exact mode of action has not been established, the ability of pimozide to suppress motor and phonic tics in Tourette’s Disorder is thought to be a function of its dopaminergic blocking activity." ([DailyMed: pimozide prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=70b079e2-a1f7-4a93-8685-d60a4d7c1280), label version 2026-08-12; accessed 2026-11-19.) Pimozide is known as a dopamine D2 receptor antagonist of the diphenylbutylpiperidine class, and its efficacy in Tourette syndrome has been established.
 
 Tourette syndrome, obsessive-compulsive disorder and trichotillomania share overlapping phenomenology and treatment response, and are all characterized by repetitive, habitual behaviors. Dopaminergic hyperactivity is implicated in such behaviors, so D2 blockade may plausibly help. A 1992 study examined low-dose pimozide added to serotonin reuptake inhibitors in trichotillomania (PMID 1532960). The supporting evidence is small and dated, so it should be read as limited clinical data rather than proof of efficacy.
 
@@ -124,12 +124,13 @@ The prediction is mechanistically plausible, but the only direct evidence is one
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Confirmation of a currently available US product, since the only listed authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "The US product is cancelled, and p" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: pimozide prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=70b079e2-a1f7-4a93-8685-d60a4d7c1280) |
 
 <!-- review:end log -->
 

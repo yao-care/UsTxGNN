@@ -55,7 +55,7 @@ and it is supported by **29 registered clinical trials** and **19 publications**
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available in the data compiled for this report. Based on known information, insulin glulisine is a rapid-acting human insulin analogue that binds the insulin receptor to lower blood glucose. Its modified amino acid sequence gives it a faster onset and shorter duration of action than regular human insulin, which suits mealtime (bolus) dosing.
+According to the Mechanism of Action section of the FDA-approved prescribing information for insulin glulisine: "Regulation of glucose metabolism is the primary activity of insulins and insulin analogs, including insulin glulisine. Insulins lower blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Apidra (insulin glulisine) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7af6a7a-8046-4fb4-9979-4ec4230b23aa), label version 2025-11-25; accessed 2026-11-19.) Based on known information, insulin glulisine is a rapid-acting human insulin analogue that binds the insulin receptor to lower blood glucose. Its modified amino acid sequence gives it a faster onset and shorter duration of action than regular human insulin, which suits mealtime (bolus) dosing.
 
 Type 1 diabetes is a core form of diabetes mellitus, which is already the drug's original indication. The prediction is therefore consistent with the drug's established use. Because type 1 diabetes involves absolute insulin deficiency, exogenous insulin replacement is mechanistically sound.
 
@@ -151,13 +151,14 @@ Multiple completed Phase 3 trials and randomized studies support insulin glulisi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "However, this is on-label use rather than true repurposing, and the only US license is cancelled, so availability must be confirmed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "Confirm current US availability and licensing status (the only BLA is cancelled)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Note that the US market status is "Cancelled only," so product availability should be verified before any recommendation" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Apidra (insulin glulisine) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7af6a7a-8046-4fb4-9979-4ec4230b23aa) |
 
 <!-- review:end log -->
 

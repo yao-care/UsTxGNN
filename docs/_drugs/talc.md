@@ -66,7 +66,7 @@ This is a model-association artifact rather than a credible repurposing signal.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Talc is a mineral (hydrated magnesium silicate) used in powder form, historically for procedures such as pleurodesis and as a pharmaceutical excipient. It is not a drug with a known receptor- or enzyme-based pharmacology.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for talc: "Talc instilled into the pleural cavity is thought to result in an inflammatory reaction. This reaction promotes adherence of the visceral and parietal pleura to prevent reaccumulation of pleural air or fluid." ([DailyMed: Steritalc 2G (talc) prescribing information, Novatech SA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c94e51d9-beef-4b06-e053-2a95a90a754a), label version 2025-06-25; accessed 2026-11-19.) Talc is a mineral (hydrated magnesium silicate) used in powder form, historically for procedures such as pleurodesis and as a pharmaceutical excipient. It is not a drug with a known receptor- or enzyme-based pharmacology.
 
 The available literature does **not** support a therapeutic mechanism in thrombotic disease. Reports describe the opposite: intravenous talc from illicit drug use causes pulmonary granulomatosis, angiothrombotic pulmonary hypertension, and retinal and cerebral microembolization. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or a treatment effect. Several retrieved papers (Trousseau syndrome, pneumothorax, chylothorax) are unrelated to talc as a treatment for thrombosis.
 
@@ -135,11 +135,12 @@ The 0.9985 TxGNN score is not backed by any clinical trial, and the available li
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and both of its US licenses are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Steritalc 2G (talc) prescribing information, Novatech SA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c94e51d9-beef-4b06-e053-2a95a90a754a) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Isoflurane is an inhaled volatile general anesthetic. The TxGNN model's top-rank
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available for this drug in the data compiled for this report. Isoflurane is a volatile general anesthetic. Related prediction rationales point to GABA-A receptor potentiation and NMDA receptor inhibition, but these have not been confirmed here.
+ChEMBL (EMBL-EBI) records the mechanism of action of isoflurane as: Glycine receptor (alpha-1/beta) positive modulator; GABA-A receptor; anion channel positive allosteric modulator; Potassium channel subfamily K member 10 opener; Potassium channel subfamily K member 18 opener ([ChEMBL CHEMBL1256 (isoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1256), CC BY-SA 3.0; accessed 2026-11-19.) Isoflurane is a volatile general anesthetic. Related prediction rationales point to GABA-A receptor potentiation and NMDA receptor inhibition, but these have not been confirmed here.
 
 The link to migraine runs through cortical spreading depression (CSD), the wave of neuronal depolarization that underlies migraine aura. A 1996 animal study (PMID 8665587) reported that inhalational anesthetics inhibit spreading depression and discussed the relevance to migraine. NMDA receptor antagonists have also been shown to suppress CSD in rats. Because isoflurane acts on both GABA-A and NMDA pathways, a suppressive effect on CSD is biologically plausible.
 
@@ -129,12 +129,13 @@ Please refer to the package insert for warnings and label contraindications, whi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All five US licenses are valid, and no approved indication text was recorded for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "noting that all five US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available for this drug in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1256 (isoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1256) |
 
 <!-- review:end log -->
 

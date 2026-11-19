@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **familial generalized lentigin
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, metreleptin is a recombinant leptin analog used to replace leptin in patients with lipodystrophy, where leptin deficiency drives metabolic disease such as insulin resistance and abnormal lipid levels.
+According to the Mechanism of Action section of the FDA-approved prescribing information for metreleptin: "Adipocytes store lipids to meet the fuel requirements of non-adipose tissues during fasting. In patients with generalized lipodystrophy, the deficiency of adipose tissue leads to hypertriglyceridemia and ectopic deposition of fat in non-adipose tissues such as liver and muscle, contributing to metabolic abnormalities including insulin resistance. […] MYALEPT (metreleptin) for injection exerts its function by binding to and activating the human leptin receptor (ObR), which belongs to the Class I cytokine family of receptors that signals through the JAK/STAT transduction pathway." ([DailyMed: Myalept (metreleptin) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d3b50bbd-140b-425c-b5ec-d4682aad62bc), label version 2024-03-25; accessed 2026-11-19.) Based on known information, metreleptin is a recombinant leptin analog used to replace leptin in patients with lipodystrophy, where leptin deficiency drives metabolic disease such as insulin resistance and abnormal lipid levels.
 
 The data compiled for this report show no plausible mechanistic link between leptin replacement and familial generalized lentiginosis, which is a pigmentation disorder. The high score (0.9971) comes from the TxGNN model (deep learning) only. It may reflect similarities the model learned between related diseases, not biological evidence. The prediction should be treated as a hypothesis, not as evidence of efficacy.
 
@@ -120,12 +120,13 @@ The prediction has no supporting clinical trials or literature (evidence level L
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US license is also cancelled, and p" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Clarification of the cancelled US license status and its implications for access and development" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Myalept (metreleptin) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d3b50bbd-140b-425c-b5ec-d4682aad62bc) |
 
 <!-- review:end log -->
 

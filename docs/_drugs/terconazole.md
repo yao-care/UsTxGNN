@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **trichomonal vulvovaginitis**, bu
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data were not available in the compiled data. Terconazole belongs to the triazole antifungals, which inhibit fungal lanosterol 14-alpha-demethylase (CYP51) and block ergosterol synthesis.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for terconazole: "Terconazole is an antifungal agent. […] Terconazole inhibits the enzyme cytochrome P450 14α-demethylase which leads to inhibition of ergosterol synthesis, an essential component of the fungal cell membrane Activity in vitro Terconazole exhibits fungicidal activity in vitro against Candida albicans." ([DailyMed: Terconazole Vaginal Cream 0.8% (terconazole) prescribing information, E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f59448bd-f730-46d2-a785-c2d6205579ff), label version 2026-01-28; accessed 2026-11-19.) Terconazole belongs to the triazole antifungals, which inhibit fungal lanosterol 14-alpha-demethylase (CYP51) and block ergosterol synthesis.
 
 This mechanism does not transfer plausibly to trichomonal infection. *Trichomonas vaginalis* is a protozoan, and it lacks ergosterol-dependent membrane biology comparable to that of fungi. The high TxGNN score most likely reflects shared genital-infection neighbours in the model's training data rather than a true pharmacological link.
 
@@ -108,11 +108,12 @@ There are no trials or targeted literature for trichomonal vulvovaginitis. The a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All six authorizations in the local data are currently valid. This table lists the first five; the sixth is ANDA077149 (suppository)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Terconazole Vaginal Cream 0.8% (terconazole) prescribing information, E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f59448bd-f730-46d2-a785-c2d6205579ff) |
 
 <!-- review:end log -->
 

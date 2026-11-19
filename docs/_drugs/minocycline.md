@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, minocycline is a tetracycline-class antibiotic. Its efficacy in bacterial infections and acne is established, and mechanistically it may be applicable to inflammatory eye-surface disease.
+According to the Mechanism of Action section of the FDA-approved prescribing information for minocycline: "The mechanism of action of ARESTIN as an adjunct to scaling and root planing procedures for reduction of pocket depth in patients with adult periodontitis is unknown." ([DailyMed: Arestin (minocycline hydrochloride) prescribing information, OraPharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8515df41-1936-4f3b-86ba-d2bb2a8441fb), label version 2024-05-31; accessed 2026-11-19.) Based on known information, minocycline is a tetracycline-class antibiotic. Its efficacy in bacterial infections and acne is established, and mechanistically it may be applicable to inflammatory eye-surface disease.
 
 From general pharmacology knowledge (not from the data compiled for this report), minocycline has two properties that could be relevant to the ocular surface. It has anti-inflammatory activity and inhibits matrix metalloproteinases (MMPs), enzymes involved in tissue breakdown. It also acts against bacteria. Both could in principle help in a condition with inflammation and surface damage of the cornea and conjunctiva.
 
@@ -134,7 +134,7 @@ The prediction has a high model score but no clinical trials or literature behin
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
@@ -142,6 +142,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Arestin (minocycline hydrochloride) prescribing information, OraPharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8515df41-1936-4f3b-86ba-d2bb2a8441fb) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ The prediction is model-based only.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, tapentadol is a mu-opioid receptor agonist that also inhibits norepinephrine reuptake. Both actions modulate central pain pathways, which gives a plausible but unverified link to migraine pain.
+According to the Mechanism of Action section of the FDA-approved prescribing information for tapentadol: "Tapentadol is a centrally-acting synthetic analgesic. The exact mechanism of action is unknown. Although the clinical relevance is unclear, preclinical studies have shown that tapentadol is a mu-opioid receptor (MOR) agonist and a norepinephrine reuptake inhibitor (NRI)." ([DailyMed: Nucynta (tapentadol hydrochloride) prescribing information, Collegium Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80938c30-9fe3-4c7d-9d9c-5476638cfb2d), label version 2025-12-30; accessed 2026-11-19.) Based on general pharmacology, tapentadol is a mu-opioid receptor agonist that also inhibits norepinephrine reuptake. Both actions modulate central pain pathways, which gives a plausible but unverified link to migraine pain.
 
 The prediction should be interpreted cautiously. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Opioids are generally not recommended for routine migraine treatment because of the risks of medication-overuse headache, chronification, and dependence. This link rests on general pharmacology, not on data supplied for this report.
 
@@ -138,13 +138,14 @@ The prediction is model-based only (L5), with no clinical trials and no literatu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All three US authorizations are valid, and no indication text is recorded for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since all current oral products are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(3 of 3 licenses valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nucynta (tapentadol hydrochloride) prescribing information, Collegium Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80938c30-9fe3-4c7d-9d9c-5476638cfb2d) |
 
 <!-- review:end log -->
 

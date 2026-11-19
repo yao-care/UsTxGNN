@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **atopic eczema**, but there ar
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, budesonide is a glucocorticoid with broad anti-inflammatory and immunosuppressive activity, including suppression of Th2 cytokines and reduced eosinophil and mast cell activity. Its efficacy in allergic and inflammatory conditions such as asthma, allergic rhinitis and inflammatory bowel disease is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for budesonide: "Budesonide is an anti-inflammatory corticosteroid that exhibits potent glucocorticoid activity and weak mineralocorticoid activity. In standard in vitro and animal models, budesonide has approximately a 200-fold higher affinity for the glucocorticoid receptor and a 1000-fold higher topical anti-inflammatory potency than cortisol (rat croton oil ear edema assay)." ([DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da), label version 2026-06-10; accessed 2026-11-19.) Based on known pharmacology, budesonide is a glucocorticoid with broad anti-inflammatory and immunosuppressive activity, including suppression of Th2 cytokines and reduced eosinophil and mast cell activity. Its efficacy in allergic and inflammatory conditions such as asthma, allergic rhinitis and inflammatory bowel disease is established.
 
 Atopic eczema is a type 2 inflammatory skin disease, so the mechanism is biologically plausible. Topical corticosteroids are already standard care for it. The very high TxGNN score likely reflects class similarity to approved topical corticosteroids rather than budesonide-specific evidence.
 
@@ -134,12 +134,13 @@ The mechanism is plausible, but there are no registered clinical trials and the 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da) |
 
 <!-- review:end log -->
 

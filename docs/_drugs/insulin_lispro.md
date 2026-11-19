@@ -56,7 +56,7 @@ The high score comes from the TxGNN model (deep learning) and may reflect simila
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Based on general knowledge, insulin lispro is a rapid-acting insulin analog that acts on the insulin receptor to promote cellular glucose uptake. Its efficacy in diabetes mellitus is well established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for insulin lispro: "Regulation of glucose metabolism is the primary activity of insulins and insulin analogs, including insulin lispro products. Insulins lower blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Admelog (insulin lispro) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12ec9e3f-e2ac-43a1-b334-8b6538cf2bb0), label version 2026-09-03; accessed 2026-11-19.) Based on general knowledge, insulin lispro is a rapid-acting insulin analog that acts on the insulin receptor to promote cellular glucose uptake. Its efficacy in diabetes mellitus is well established.
 
 Autoimmune oophoritis is an immune-mediated ovarian disorder, often seen in autoimmune polyglandular syndromes that include type 1 diabetes. The high score (0.9978) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No direct mechanistic link is established: insulin would at most treat a coexisting diabetes, not the oophoritis itself. The prediction should therefore be read as an association signal, not as evidence of therapeutic benefit.
 
@@ -122,11 +122,12 @@ The prediction rests on model output alone (evidence level L5), with no trials o
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "One additional cancelled license (BLA761109, LYUMJEV, injection solution, A-S Medication Solutions) is also on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Admelog (insulin lispro) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12ec9e3f-e2ac-43a1-b334-8b6538cf2bb0) |
 
 <!-- review:end log -->
 

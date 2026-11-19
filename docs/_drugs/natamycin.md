@@ -56,7 +56,7 @@ The data compiled for this report contain **1 Phase 3 trial** and **15 publicati
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Natamycin belongs to the polyene antifungals, which bind ergosterol in fungal cell membranes and disrupt them. This action should matter only where the vulvar inflammation has a fungal cause.
+ChEMBL (EMBL-EBI) records the mechanism of action of natamycin as: Ergosterol sequestering agent ([ChEMBL CHEMBL1200656 (natamycin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200656), CC BY-SA 3.0; accessed 2026-11-19.) Natamycin belongs to the polyene antifungals, which bind ergosterol in fungal cell membranes and disrupt them. This action should matter only where the vulvar inflammation has a fungal cause.
 
 Vulvar inflammation has many other causes, including irritants, allergens, bacteria and hormonal changes, and an antifungal would not be expected to help in those cases. The trial and literature below study vaginal natamycin products in adult women, but none of them uses vulvitis as a stand-alone condition or endpoint. The link to vulvitis is therefore plausible only for fungal-related cases and remains indirect.
 
@@ -114,11 +114,12 @@ The prediction score is high (0.9981), but no trial or publication studies vulvi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only license is cancelled, and it covers an ophthalmic product, not a vaginal one" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1200656 (natamycin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200656) |
 
 <!-- review:end log -->
 

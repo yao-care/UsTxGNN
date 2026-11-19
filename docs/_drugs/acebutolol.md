@@ -54,7 +54,7 @@ Acebutolol is a cardioselective beta-1 blocker with intrinsic sympathomimetic ac
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on its known drug class, acebutolol blocks beta-1 adrenergic receptors in the heart. This lowers heart rate and cardiac output and reduces renin release, all of which can lower blood pressure.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for acebutolol: "Acebutolol is a cardioselective, β-adrenoreceptor blocking agent, which possesses mild intrinsic sympathomimetic activity (ISA) in its therapeutically effective dose range." ([DailyMed: acebutolol hydrochloride prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa40a564-a579-15c1-e053-6294a90ad8e9), label version 2026-01-13; accessed 2026-11-19.) Based on its known drug class, acebutolol blocks beta-1 adrenergic receptors in the heart. This lowers heart rate and cardiac output and reduces renin release, all of which can lower blood pressure.
 
 Malignant hypertension with kidney involvement is a state of severely raised blood pressure with kidney injury. In principle, a blood-pressure-lowering drug that also reduces renin release could be relevant. The high TxGNN score (0.9910) reflects the model's pattern of association with hypertension-related conditions. It is not evidence specific to this disease.
 
@@ -96,6 +96,19 @@ The prediction has no supporting clinical trials or publications (evidence level
 - Run a systematic literature search on beta-blockers in malignant hypertension with kidney involvement
 - Compare acebutolol against current standard treatments for this condition, including route of administration
 - Confirm the current regulatory status of the marketed products
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: acebutolol hydrochloride prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa40a564-a579-15c1-e053-6294a90ad8e9) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

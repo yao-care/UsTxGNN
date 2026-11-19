@@ -54,7 +54,7 @@ Oliceridine is a G protein-biased mu-opioid receptor agonist given by injection,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, oliceridine is a G protein-biased mu-opioid receptor agonist, and its use is in acute pain. Opioids can cause sedation, so a link to sleep is conceivable.
+According to the Mechanism of Action section of the FDA-approved prescribing information for oliceridine: "Oliceridine is a full opioid agonist and is relatively selective for the mu-opioid receptor. The principal therapeutic action of oliceridine is analgesia. Like all full opioid agonists, there is no ceiling effect to analgesia for oliceridine." ([DailyMed: Olinvyk (oliceridine) prescribing information, Trevena, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ce167984-8b9d-40b7-84ce-d0f33fff1eaa), label version 2025-12-31; accessed 2026-11-19.) Based on known information, oliceridine is a G protein-biased mu-opioid receptor agonist, and its use is in acute pain. Opioids can cause sedation, so a link to sleep is conceivable.
 
 That link is weak. Opioids generally disrupt sleep architecture by reducing slow-wave and REM sleep. They also carry risks of tolerance, dependence, and respiratory depression. The high score (0.9979) is a TxGNN model (deep learning) prediction only. No clinical or mechanistic evidence supports it, and the link cannot be verified. The product's US market status is also "cancelled only".
 
@@ -102,6 +102,19 @@ All four predictions rest on model scores alone, with no registered trials and n
 - Preclinical or observational evidence linking biased mu-opioid agonism to the predicted indication
 - Review of the cancelled status of NDA210730 and its implications for supply
 - An assessment of whether an IV-only product can fit chronic or outpatient conditions such as insomnia, migraine, and IBS
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Olinvyk (oliceridine) prescribing information, Trevena, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ce167984-8b9d-40b7-84ce-d0f33fff1eaa) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ but there are **0 registered clinical trials** and only **4 publications** (all 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Based on known information, potassium iodide has a long history of use as an expectorant/mucolytic in upper respiratory conditions, and it is also a long-established treatment for certain fungal and fungus-like infections, such as sporotrichosis and, in veterinary medicine, conidiobolomycosis/zygomycosis and pythiosis.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for potassium iodide: "Potassium iodide is thought to act as an expectorant by increasing respiratory tract secretions and thereby decreasing the viscosity of mucus." ([DailyMed: Potassium Iodide (Saturated) (potassium iodide) prescribing information, Emerald Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0bdf305f-ed4a-49d1-8901-edaed8d67850), label version 2026-08-25; accessed 2026-11-19.) Based on known information, potassium iodide has a long history of use as an expectorant/mucolytic in upper respiratory conditions, and it is also a long-established treatment for certain fungal and fungus-like infections, such as sporotrichosis and, in veterinary medicine, conidiobolomycosis/zygomycosis and pythiosis.
 
 The retrieved literature describes nasal and rhinofacial infections in which potassium iodide (or sodium iodide) was used: pythiosis in sheep, Aspergillus rhinitis and *Pseudallescheria boydii* infection in horses, and nasofacial zygomycosis in a human patient. This suggests a plausible antifungal/anti-inflammatory link to **infectious** nasal cavity disease.
 
@@ -128,12 +128,13 @@ The prediction rests on a high model score and four case reports, three of them 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "Four US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "given that the drug is marketed in the US with four valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Potassium Iodide (Saturated) (potassium iodide) prescribing information, Emerald Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0bdf305f-ed4a-49d1-8901-edaed8d67850) |
 
 <!-- review:end log -->
 

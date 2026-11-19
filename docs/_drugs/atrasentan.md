@@ -58,7 +58,7 @@ Note: the license record compiled for this report has no indication text. The or
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. From general pharmacological knowledge, atrasentan is a selective ETA receptor antagonist. Binding studies indicate that its activity resides in one enantiomer, and it showed little non-specific antagonism across a panel of 29 receptor assays. Endothelin signaling affects vascular tone, and in the kidney it contributes to proteinuria, which explains the IgA nephropathy indication.
+According to the Mechanism of Action section of the FDA-approved prescribing information for atrasentan: "Atrasentan is an ET A receptor antagonist (Ki = 0.034 nM) with >1800-fold selectivity for the ET A receptor compared to the endothelin type B receptor (Ki = 63.3 nM). Endothelin (ET)-1 is thought to contribute to the pathogenesis of IgAN via the ET A R." ([DailyMed: Vanrafia (atrasentan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9a7e7f85-bfd0-44a0-beda-3bcfa8215c64), label version 2026-06-12; accessed 2026-11-19.) From general pharmacological knowledge, atrasentan is a selective ETA receptor antagonist. Binding studies indicate that its activity resides in one enantiomer, and it showed little non-specific antagonism across a panel of 29 receptor assays. Endothelin signaling affects vascular tone, and in the kidney it contributes to proteinuria, which explains the IgA nephropathy indication.
 
 Endothelin signaling is also involved in ovarian and uterine vascular tone, follicular function and endometrial physiology, so a link to menstrual function is biologically conceivable. However, the link is speculative. The only support is the TxGNN TxGNN model (deep learning) score, which is a computational prediction and not clinical evidence.
 
@@ -114,11 +114,12 @@ The prediction is supported only by a high model score. There are no clinical tr
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the drug's US license is listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vanrafia (atrasentan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9a7e7f85-bfd0-44a0-beda-3bcfa8215c64) |
 
 <!-- review:end log -->
 

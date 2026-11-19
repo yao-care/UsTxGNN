@@ -55,7 +55,7 @@ The data compiled for this report include **41 clinical trials** and **18 public
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on the repurposing analysis, ezetimibe inhibits NPC1L1-mediated intestinal cholesterol absorption, which lowers LDL cholesterol (LDL-C). This is the same mechanism behind its approved lipid-lowering uses.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ezetimibe: "Ezetimibe reduces blood cholesterol by inhibiting the absorption of cholesterol by the small intestine. The molecular target of ezetimibe has been shown to be the sterol transporter, Niemann-Pick C1-Like 1 (NPC1L1), which is involved in the intestinal uptake of cholesterol and phytosterols." ([DailyMed: ezetimibe prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c37c695b-fb40-423c-9b73-d1aa58a34db9), label version 2026-10-08; accessed 2026-11-19.) Based on the repurposing analysis, ezetimibe inhibits NPC1L1-mediated intestinal cholesterol absorption, which lowers LDL cholesterol (LDL-C). This is the same mechanism behind its approved lipid-lowering uses.
 
 However, it is largely a re-labelling of the existing use rather than a new therapeutic direction. Many of the Phase 3/4 trials test ezetimibe as background therapy, as a comparator, or inside combinations, so they are indirect evidence.
 
@@ -142,11 +142,12 @@ Hyperlipoproteinemia substantially overlaps with ezetimibe's existing indication
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the current US market status ("Cancelled only") needs verification" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ezetimibe prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c37c695b-fb40-423c-9b73-d1aa58a34db9) |
 
 <!-- review:end log -->
 

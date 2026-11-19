@@ -55,7 +55,7 @@ with **0 registered clinical trials** and **19 publications** currently supporti
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, ranibizumab is an anti-VEGF antibody fragment. VEGF drives retinal vascular permeability and neovascularization in diabetic retinopathy, and VEGF levels are elevated in the vitreous and serum of affected eyes. This is a direct mechanistic match.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ranibizumab: "Ranibizumab products bind to the receptor binding site of active forms of VEGF-A, including the biologically active, cleaved form of this molecule, VEGF110. VEGF-A has been shown to cause neovascularization and leakage in models of ocular angiogenesis and vascular occlusion and is thought to contribute to pathophysiology of neovascular AMD, mCNV, DR, DME and macular edema following RVO." ([DailyMed: Nufymco (ranibizumab-leyk) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=05ed75bc-ae21-480b-9be4-cbc51689dd8a), label version 2026-11-05; accessed 2026-11-19.) Based on known information, ranibizumab is an anti-VEGF antibody fragment. VEGF drives retinal vascular permeability and neovascularization in diabetic retinopathy, and VEGF levels are elevated in the vitreous and serum of affected eyes. This is a direct mechanistic match.
 
 Diabetic retinopathy is already among the drug's original indications, so severe nonproliferative disease is a more specific stage of a condition the drug is already linked to. Post hoc analyses of the RIDE/RISE Phase 3 trials report regression of retinopathy severity with ranibizumab. The ranibizumab Port Delivery System has also been studied in nonproliferative diabetic retinopathy without macular edema (the PAVILION randomized trial, published 2025).
 
@@ -110,6 +110,19 @@ Ranibizumab has a direct mechanistic fit for diabetic retinopathy, and the liter
 - Define a monitoring plan for intravitreal injection risks, including infection, given the knowledge-graph contraindications
 
 **Other predicted indications:** The remaining predictions (diabetic and other cataract types, craniostenosis cataract, tetanic cataract, hemorrhagic disease of newborn) lack a plausible anti-VEGF mechanism and have only indirect or no evidence. The suggested decision for all of them is **Hold**.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nufymco (ranibizumab-leyk) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=05ed75bc-ae21-480b-9be4-cbc51689dd8a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

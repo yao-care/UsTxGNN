@@ -56,7 +56,7 @@ but currently **0 clinical trials** and **0 publications** support this predicti
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on general pharmacological knowledge, tetrabenazine is a reversible VMAT2 (vesicular monoamine transporter 2) inhibitor that depletes presynaptic monoamines in the central nervous system. This explains its use in hyperkinetic movement disorders such as Huntington disease.
+According to the Mechanism of Action section of the FDA-approved prescribing information for tetrabenazine: "The precise mechanism by which XENAZINE (tetrabenazine) exerts its anti-chorea effects is unknown but is believed to be related to its effect as a reversible depletor of monoamines (such as dopamine, serotonin, norepinephrine, and histamine) from nerve terminals. Tetrabenazine reversibly inhibits the human vesicular monoamine transporter type 2 (VMAT2) (K i ≈ 100 nM), resulting in decreased uptake of monoamines into synaptic vesicles and depletion of monoamine stores." ([DailyMed: Xenazine (tetrabenazine) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac768bab-8afa-4446-bc7f-caeeffec0cda), label version 2026-11-06; accessed 2026-11-19.) Based on general pharmacological knowledge, tetrabenazine is a reversible VMAT2 (vesicular monoamine transporter 2) inhibitor that depletes presynaptic monoamines in the central nervous system. This explains its use in hyperkinetic movement disorders such as Huntington disease.
 
 The predicted indication is a different kind of disease. Polycystic kidney and liver disease arises from ciliary and cystogenesis pathways (for example, glycoprotein processing defects related to GANAB). It is not a disorder of monoamine signalling. No clear mechanistic link between VMAT2 inhibition and this pathology has been identified.
 
@@ -119,11 +119,12 @@ The prediction is purely computational. It has no clinical trials, no literature
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "all U.S. authorizations for tetrabenazine are cancelled, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xenazine (tetrabenazine) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac768bab-8afa-4446-bc7f-caeeffec0cda) |
 
 <!-- review:end log -->
 

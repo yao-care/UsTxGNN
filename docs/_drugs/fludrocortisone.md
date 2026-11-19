@@ -59,7 +59,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Based on known pharmacology, fludrocortisone is a corticosteroid dominated by mineralocorticoid effects, with some glucocorticoid activity.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for fludrocortisone: "Corticosteroids are thought to act at least in part, by controlling the rate of synthesis of proteins. Although there are a number of instances in which the synthesis of specific proteins is known to be induced by corticosteroids, the links between the initial actions of the hormones and the final metabolic effects have not been completely elucidated. […] The physiologic action of fludrocortisone acetate is similar to that of hydrocortisone." ([DailyMed: fludrocortisone acetate prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=933e28ef-05e8-419e-a786-21eab67f33a2), label version 2026-06-24; accessed 2026-11-19.) Based on known pharmacology, fludrocortisone is a corticosteroid dominated by mineralocorticoid effects, with some glucocorticoid activity.
 
 Glucocorticoids can induce apoptosis in lymphoid cells, and topical corticosteroids are used in early-stage cutaneous T-cell lymphoma. This offers a loose conceptual link. However, fludrocortisone's activity is mainly mineralocorticoid, and no data connect it to this disease. The high TxGNN score is a prediction only and has no clinical or literature support.
 
@@ -146,11 +146,12 @@ The predicted indication is supported only by a model score, with no clinical tr
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US market status is "Cancelled only", and k" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: fludrocortisone acetate prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=933e28ef-05e8-419e-a786-21eab67f33a2) |
 
 <!-- review:end log -->
 

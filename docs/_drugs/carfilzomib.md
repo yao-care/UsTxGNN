@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **melanoma** (and several melan
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, carfilzomib is a proteasome inhibitor. It is used in plasma cell myeloma, and proteasome inhibition disrupts protein homeostasis and can induce apoptosis in cancer cells. This mechanism may in theory also apply to melanoma.
+According to the Mechanism of Action section of the FDA-approved prescribing information for carfilzomib: "Carfilzomib is a tetrapeptide epoxyketone proteasome inhibitor that irreversibly binds to the N-terminal threonine-containing active sites of the 20S proteasome, the proteolytic core particle within the 26S proteasome. Carfilzomib had antiproliferative and proapoptotic activities in vitro in solid and hematologic tumor cells." ([DailyMed: Kyprolis (carfilzomib) prescribing information, Onyx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea66eb30-e665-4693-99a1-a9d3b4bbe2d6), label version 2025-06-18; accessed 2026-11-19.) Based on known information, carfilzomib is a proteasome inhibitor. It is used in plasma cell myeloma, and proteasome inhibition disrupts protein homeostasis and can induce apoptosis in cancer cells. This mechanism may in theory also apply to melanoma.
 
 The only direct supporting finding is preclinical. A 2021 study showed that carfilzomib combined with bortezomib increased apoptotic cell death in B16-F1 mouse melanoma cells. The other retrieved papers are computational docking work or indirect mechanistic studies, and they provide only weak support.
 
@@ -159,12 +159,13 @@ The predictions are supported only by a very high model score. For melanoma, the
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "he registered product is also cancelled in the US, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled US market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Kyprolis (carfilzomib) prescribing information, Onyx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea66eb30-e665-4693-99a1-a9d3b4bbe2d6) |
 
 <!-- review:end log -->
 

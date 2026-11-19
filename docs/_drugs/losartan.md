@@ -56,7 +56,7 @@ but the data compiled for this report show **0 clinical trials** and only **1 pu
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, losartan blocks the angiotensin II type 1 (AT1) receptor, and its efficacy in hypertension and diabetic nephropathy is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for losartan: "Angiotensin II [formed from angiotensin I in a reaction catalyzed by angiotensin converting enzyme (ACE, kininase II)] is a potent vasoconstrictor, the primary vasoactive hormone of the renin-angiotensin system, and an important component in the pathophysiology of hypertension. It also stimulates aldosterone secretion by the adrenal cortex. […] Losartan and its principal active metabolite block the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor found in many tissues, (e.g., vascular smooth muscle, adrenal gland)." ([DailyMed: Losartan Potassium 50 Mg (losartan potassium) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498f26a1-5030-4f9b-9599-07d50e912d41), label version 2026-09-15; accessed 2026-11-19.) Based on known pharmacology, losartan blocks the angiotensin II type 1 (AT1) receptor, and its efficacy in hypertension and diabetic nephropathy is established.
 
 Malignant hypertensive renal disease is a severe kidney injury caused by extremely high blood pressure. Angiotensin II and NF-κB signaling are implicated in its pathology. A 2019 rat model study of malignant hypertensive nephrosclerosis supports this angle. The link is therefore mechanistically plausible, since the new indication overlaps with the drug's known blood-pressure and kidney-protective effects.
 
@@ -135,12 +135,13 @@ The only support for malignant hypertensive renal disease is a high TxGNN score 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "ine valid licenses are listed below, and n" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with nine valid licenses in the compiled data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Losartan Potassium 50 Mg (losartan potassium) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498f26a1-5030-4f9b-9599-07d50e912d41) |
 
 <!-- review:end log -->
 

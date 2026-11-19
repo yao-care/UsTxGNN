@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, imipramine inhibits presynaptic reuptake of norepinephrine and, to a lesser extent, serotonin.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for imipramine: "The mechanism of action of imipramine hydrochloride, is not definitely known. However, it does not act primarily by stimulation of the central nervous system. The clinical effect is hypothesized as being due to potentiation of adrenergic synapses by blocking uptake of norepinephrine at nerve endings." ([DailyMed: imipramine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd3b62a-88d4-49eb-b0aa-71e28cf40919), label version 2026-11-04; accessed 2026-11-19.) Based on known pharmacology, imipramine inhibits presynaptic reuptake of norepinephrine and, to a lesser extent, serotonin.
 
 Enhancing noradrenergic signalling in prefrontal circuits is the same mechanism targeted by non-stimulant ADHD drugs such as atomoxetine. This makes the prediction biologically plausible. Several ADHD reviews in the literature discuss tricyclic antidepressants, including imipramine and desipramine, as second-line options when stimulants fail or are not suitable.
 
@@ -148,12 +148,13 @@ The mechanism is plausible and the literature includes a dedicated report and se
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All five records are cancelled, and the data compiled contains no approved indication text for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(5 valid licenses)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: imipramine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd3b62a-88d4-49eb-b0aa-71e28cf40919) |
 
 <!-- review:end log -->
 

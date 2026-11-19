@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunt
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Nabumetone is known to be an NSAID and a prodrug of 6-MNA, a preferential COX-2 inhibitor. Its efficacy in rheumatoid arthritis and osteoarthritis comes from reducing prostaglandin-mediated inflammation and pain.
+ChEMBL (EMBL-EBI) records the mechanism of action of nabumetone as: Cyclooxygenase-2 inhibitor ([ChEMBL CHEMBL1070 (nabumetone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1070), CC BY-SA 3.0; accessed 2026-11-19.) Nabumetone is known to be an NSAID and a prodrug of 6-MNA, a preferential COX-2 inhibitor. Its efficacy in rheumatoid arthritis and osteoarthritis comes from reducing prostaglandin-mediated inflammation and pain.
 
 Acromesomelic dysplasia, Hunter-Thompson type, is a skeletal dysplasia caused by loss-of-function mutations in CDMP1/GDF5, which disrupt BMP signaling and cartilage formation. COX inhibition has no known corrective effect on this pathway. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. At most, an NSAID might relieve secondary joint pain, and no data support even that.
 
@@ -130,13 +130,14 @@ The prediction for acromesomelic dysplasia, Hunter-Thompson type, has no clinica
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All four authorizations are for oral products and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and clarification of the cancelled market status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 4 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1070 (nabumetone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1070) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model (deep learning) ranks **fibromatosis, gingival** as its top pred
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, lorlatinib is a brain-penetrant ALK/ROS1 inhibitor. Its efficacy in ALK-positive NSCLC has been established, notably in the Phase 3 CROWN trial.
+According to the Mechanism of Action section of the FDA-approved prescribing information for lorlatinib: "Lorlatinib is a kinase inhibitor with in vitro activity against ALK and ROS1 as well as TYK1, FER, FPS, TRKA, TRKB, TRKC, FAK, FAK2, and ACK. Lorlatinib demonstrated in vitro activity against multiple mutant forms of the ALK enzyme, including some mutations detected in tumors at the time of disease progression on crizotinib and other ALK inhibitors." ([DailyMed: Lorbrena (lorlatinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b34d62d-e02a-4af3-bc0d-1571dd4ee76d), label version 2026-06-26; accessed 2026-11-19.) Based on known information, lorlatinib is a brain-penetrant ALK/ROS1 inhibitor. Its efficacy in ALK-positive NSCLC has been established, notably in the Phase 3 CROWN trial.
 
 For the top prediction, however, no link was identified between ALK/ROS1 inhibition and fibromatosis, gingival. The high TxGNN score (0.9981) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The mechanistic rationale is weak, and the prediction should be treated as a hypothesis rather than a supported repurposing opportunity.
 
@@ -129,12 +129,13 @@ The top prediction, gingival fibromatosis, has no clinical trials, no literature
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Lorlatinib's only US NDA is also recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled NDA status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lorbrena (lorlatinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b34d62d-e02a-4af3-bc0d-1571dd4ee76d) |
 
 <!-- review:end log -->
 

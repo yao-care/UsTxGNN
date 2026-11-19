@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunt
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, tolmetin is a non-selective cyclooxygenase (COX) inhibitor of the NSAID class. Its efficacy in rheumatoid arthritis and related joint conditions is established, through reducing inflammation and pain.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for tolmetin: "Studies in animals have shown TOLECTIN (tolmetin sodium) to possess anti-inflammatory, analgesic, and antipyretic activity. In the rat, TOLECTIN prevents the development of experimentally induced polyarthritis and also decreases established inflammation." ([DailyMed: Tolectin (tolmetin sodium) prescribing information, Poly Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=15467b19-e43a-5be9-e063-6294a90a3cca), label version 2025-12-30; accessed 2026-11-19.) Based on known information, tolmetin is a non-selective cyclooxygenase (COX) inhibitor of the NSAID class. Its efficacy in rheumatoid arthritis and related joint conditions is established, through reducing inflammation and pain.
 
 For the predicted indication, the link is weak. Acromesomelic dysplasia, Hunter-Thompson type, is a genetic skeletal dysplasia caused by loss-of-function variants in the CDMP1/GDF5 gene. Tolmetin has no known effect on GDF5/BMP signalling or on the underlying skeletal growth defect. The high score (0.9998) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. At most, symptomatic joint pain relief could be hypothesised.
 
@@ -129,12 +129,13 @@ The top prediction has no clinical or literature support and no plausible mechan
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both authorizations, held by Atland Pharmaceuticals, LLC, are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 2 valid licenses of 2" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tolectin (tolmetin sodium) prescribing information, Poly Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=15467b19-e43a-5be9-e063-6294a90a3cca) |
 
 <!-- review:end log -->
 

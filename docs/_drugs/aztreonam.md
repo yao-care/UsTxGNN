@@ -60,7 +60,7 @@ The top-scoring predictions (such as polyclonal hyperviscosity syndrome) have no
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From general knowledge, aztreonam is a monobactam that inhibits bacterial cell wall synthesis by binding penicillin-binding protein 3 (PBP3). It is active against aerobic gram-negative bacteria and is stable against many beta-lactamases.
+According to the Mechanism of Action section of the FDA-approved prescribing information for aztreonam: "Aztreonam is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Aztreonam has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: aztreonam prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d4500795-3b07-4a7d-b432-73cafbb3dbc6), label version 2024-06-03; accessed 2026-11-19.) From general knowledge, aztreonam is a monobactam that inhibits bacterial cell wall synthesis by binding penicillin-binding protein 3 (PBP3). It is active against aerobic gram-negative bacteria and is stable against many beta-lactamases.
 
 *Neisseria gonorrhoeae* is a gram-negative aerobe susceptible to PBP3-targeting monobactams. Aztreonam is stable against the penicillinase produced by penicillin-resistant gonococci. Its original indications (urinary tract infection, *E. coli* infection, peritonitis) are also gram-negative infections, so extension to gonococcal urethritis is mechanistically coherent.
 
@@ -155,11 +155,12 @@ The highest-scoring predictions have no mechanistic or clinical support and appe
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All three US authorizations are valid, and only injectable forms are listed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: aztreonam prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d4500795-3b07-4a7d-b432-73cafbb3dbc6) |
 
 <!-- review:end log -->
 

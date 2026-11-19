@@ -56,7 +56,7 @@ but **0 clinical trials** and **0 publications** currently support this directio
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug. Ammonia N-13 is a short-lived radiotracer (half-life of roughly 10 minutes) used for PET perfusion imaging. It is a diagnostic agent and has no established therapeutic activity.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ammonia n-13: "Ammonia N 13 Injection is a radio-labeled analog of ammonia that is distributed to all organs of the body after intravenous administration. It is extracted from the blood in the coronary capillaries into the myocardial cells where it is metabolized to glutamine N 13 and retained in the cells." ([DailyMed: ammonia n 13 prescribing information, SOFIE Co. dba SOFIE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d24f8595-2231-4f15-ac2b-9148ec453324), label version 2026-10-20; accessed 2026-11-19.) Ammonia N-13 is a short-lived radiotracer (half-life of roughly 10 minutes) used for PET perfusion imaging. It is a diagnostic agent and has no established therapeutic activity.
 
 Non-syndromic esophageal malformations are structural developmental conditions. A diagnostic radiotracer is not biologically plausible as a treatment for them, and no mechanistic link is supported by the data compiled for this report. The high score (0.9973) is a computational output only. It most likely reflects connectivity patterns in the model's training data rather than a real pharmacological relationship.
 
@@ -107,11 +107,12 @@ The prediction has no supporting clinical trials or publications and no plausibl
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and all 20 licences are counted as valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ammonia n 13 prescribing information, SOFIE Co. dba SOFIE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d24f8595-2231-4f15-ac2b-9148ec453324) |
 
 <!-- review:end log -->
 

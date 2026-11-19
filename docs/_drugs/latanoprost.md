@@ -55,7 +55,7 @@ but **0 clinical trials** and **0 publications** are currently available to supp
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, latanoprost is a prostaglandin F2-alpha analog that lowers intraocular pressure (IOP) by increasing uveoscleral outflow of aqueous humour.
+According to the Mechanism of Action section of the FDA-approved prescribing information for latanoprost: "Latanoprost is a prostaglandin F 2α analogue that is believed to reduce the intraocular pressure (IOP) by increasing the outflow of aqueous humor. Studies in animals and man suggest that the main mechanism of action is increased uveoscleral outflow." ([DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded), label version 2025-12-18; accessed 2026-11-19.) Based on general pharmacological knowledge, latanoprost is a prostaglandin F2-alpha analog that lowers intraocular pressure (IOP) by increasing uveoscleral outflow of aqueous humour.
 
 Hereditary glaucoma is also characterised by elevated IOP, so an IOP-lowering mechanism is plausible.
 
@@ -113,11 +113,12 @@ The prediction is supported only by the model score (L5), with no clinical trial
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Other cancelled authorizations include NDA216472 (IYUZEH, Thea Pharma) and NDA206185 (XELPROS, Sun Pharmaceutical), plus three further ANDAs" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded) |
 
 <!-- review:end log -->
 

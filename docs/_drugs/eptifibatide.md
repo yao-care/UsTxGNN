@@ -62,7 +62,7 @@ The evidence is early and does not establish efficacy.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, eptifibatide is a glycoprotein IIb/IIIa (alpha-IIb-beta-3 integrin) antagonist. It blocks the final common pathway of platelet aggregation, which is why it works in acute coronary syndrome.
+According to the Mechanism of Action section of the FDA-approved prescribing information for eptifibatide: "Eptifibatide reversibly inhibits platelet aggregation by preventing the binding of fibrinogen, von Willebrand factor, and other adhesive ligands to GP IIb/IIIa. When administered intravenously, eptifibatide inhibits ex vivo platelet aggregation in a dose- and concentration-dependent manner." ([DailyMed: eptifibatide prescribing information, Avenacy, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0781dae-3ef6-4cab-b084-01d2e45f3764), label version 2026-10-02; accessed 2026-11-19.) Based on known information, eptifibatide is a glycoprotein IIb/IIIa (alpha-IIb-beta-3 integrin) antagonist. It blocks the final common pathway of platelet aggregation, which is why it works in acute coronary syndrome.
 
 Platelet activation and GP IIb/IIIa-mediated adhesion are also thought to contribute to **vaso-occlusion and inflammation in sickle cell disease**. Blocking this pathway could, in theory, reduce the occlusion that drives painful crises. This is the logic behind the early clinical studies in sickle cell patients.
 
@@ -161,13 +161,14 @@ The only direct clinical evidence is a small, terminated Phase 1/2 trial (13 pat
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "*Two further cancelled ANDAs (Sagent, ANDA204693; Slate Run, ANDA209864) are not shown.*" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "All seven authorizations are generic ANDAs with a valid status. No approved indication text is recorded for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: eptifibatide prescribing information, Avenacy, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0781dae-3ef6-4cab-b084-01d2e45f3764) |
 
 <!-- review:end log -->
 

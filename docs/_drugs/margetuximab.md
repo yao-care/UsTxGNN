@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **drug-induced osteoporosis**, bu
 
 ## Why is This Prediction Reasonable?
 
-Margetuximab binds HER2 (ERBB2) and has an engineered Fc region that increases binding to CD16A, which strengthens antibody-dependent cell-mediated cytotoxicity. Detailed mechanism-of-action data are not available in the data compiled for this report, which limits how far the link can be checked.
+Margetuximab binds HER2 (ERBB2) and has an engineered Fc region that increases binding to CD16A, which strengthens antibody-dependent cell-mediated cytotoxicity. According to the Mechanism of Action section of the FDA-approved prescribing information for margetuximab: "Margetuximab-cmkb binds to the extracellular domain of the human epidermal growth factor receptor 2 protein (HER2). Upon binding to HER2-expressing tumor cells, margetuximab-cmkb inhibits tumor cell proliferation, reduces shedding of the HER2 extracellular domain and mediates antibody-dependent cellular cytotoxicity (ADCC)." ([DailyMed: Margenza (margetuximab-cmkb) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a6d50c7-06ea-479c-83cc-f197a9e428c9), label version 2025-02-11; accessed 2026-11-19.)
 
 The model's score is very high (0.9929), but no known biological pathway connects HER2 targeting to the prevention or treatment of drug-induced bone loss. The prediction most likely reflects network proximity in the model's training data rather than a real mechanism. At this stage it should be treated as a hypothesis only, and no similarity to the drug's existing use or route compatibility has been assessed.
 
@@ -103,6 +103,18 @@ The score is high, but there is no clinical or published evidence for drug-induc
 - Mechanism-of-action data
 - Preclinical bone-biology evidence (for example, bone density or osteoclast/osteoblast models) showing a plausible link
 - Any clinical or observational data on bone outcomes in patients treated with margetuximab
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report, which limits how far the link can be checked" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Margenza (margetuximab-cmkb) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a6d50c7-06ea-479c-83cc-f197a9e428c9) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

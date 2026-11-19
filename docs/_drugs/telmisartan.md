@@ -60,7 +60,7 @@ The data compiled for this report show stronger support for two other candidates
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, telmisartan blocks the angiotensin II type 1 (AT1) receptor and has partial PPARgamma agonist activity. Its original use is blood pressure control, so a link to a disease of vascular tone such as Prinzmetal angina is plausible, but it is speculative and unsupported by any trial or publication provided.
+According to the Mechanism of Action section of the FDA-approved prescribing information for telmisartan: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the reninangiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Telmisartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10), label version 2026-11-02; accessed 2026-11-19.) Based on known pharmacology, telmisartan blocks the angiotensin II type 1 (AT1) receptor and has partial PPARgamma agonist activity. Its original use is blood pressure control, so a link to a disease of vascular tone such as Prinzmetal angina is plausible, but it is speculative and unsupported by any trial or publication provided.
 
 Prinzmetal angina is a coronary vasospasm disorder. Vascular tone modulation through AT1 blockade is a conceivable connection to hypertension treatment, but the prediction currently rests on the model score alone.
 
@@ -176,12 +176,13 @@ The top prediction, Prinzmetal angina, has only a model score (0.9998) with no t
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 10 records are cancelled generic (ANDA) tablet products, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and 10 licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Bremelanotide is a melanocortin receptor agonist delivered by injection. The TxG
 
 ## Why is This Prediction Reasonable?
 
-Bremelanotide is a melanocortin receptor agonist. It acts mainly on MC3R and MC4R, with some activity at MC1R, and the pharmacology data compiled for this report also list MC5R as a target. Detailed mechanism-of-action text is not available in the data compiled for this report, so this section relies on the receptor targets listed there.
+Bremelanotide is a melanocortin receptor agonist. It acts mainly on MC3R and MC4R, with some activity at MC1R, and the pharmacology data compiled for this report also list MC5R as a target. According to the Mechanism of Action section of the FDA-approved prescribing information for bremelanotide: "Bremelanotide is a melanocortin receptor (MCR) agonist that nonselectively activates several receptor subtypes with the following order of potency: MC1R, MC4R, MC3R, MC5R, MC2R. At therapeutic dose levels, binding to MC1R and MC4R is most relevant." ([DailyMed: Vyleesi (bremelanotide) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf), label version 2026-11-05; accessed 2026-11-19.) This section relies on the receptor targets listed there.
 
 Melanocortin signaling, particularly through MC1R and MC5R, has been linked to skin inflammation and the regulation of sebaceous glands. That gives a plausible but unvalidated reason why a melanocortin agonist could affect acne. The link has not been tested for bremelanotide.
 
@@ -95,6 +95,19 @@ The prediction rests only on the model score. No trials or publications address 
 - Package insert warnings and contraindications for a formal safety review
 - Detailed mechanism-of-action data
 - Evaluation of the injectable route against what an acne treatment would require
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action text is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vyleesi (bremelanotide) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

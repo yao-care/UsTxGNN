@@ -57,7 +57,7 @@ There are currently **0 clinical trials** and **0 publications** that directly s
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, vilazodone combines serotonin reuptake inhibition with 5-HT1A partial agonism.
+According to the Mechanism of Action section of the FDA-approved prescribing information for vilazodone: "The mechanism of action of vilazodone in the treatment of major depressive disorder is not fully understood, but is thought to be related to its enhancement of serotonergic activity in the CNS through selective inhibition of serotonin reuptake. Vilazodone is also a partial agonist at serotonergic 5-HT 1A receptors; however, the net result of this action on serotonergic transmission and its role in vilazodone’s antidepressant effect are unknown." ([DailyMed: Viibryd (vilazodone hydrochloride) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c55ccfb-c4cf-11df-851a-0800200c9a66), label version 2023-10-01; accessed 2026-11-19.) Based on general pharmacological knowledge, vilazodone combines serotonin reuptake inhibition with 5-HT1A partial agonism.
 
 Neurotic disorder is a broad, legacy category that overlaps with anxiety-spectrum conditions. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No study cited here addresses neurotic disorder directly.
 
@@ -122,6 +122,19 @@ The prediction for neurotic disorder has a high model score but no supporting cl
 - Mechanism of action data from DrugBank
 - A clearer, narrower definition of the target condition (for example, specific anxiety or obsessive-compulsive disorders)
 - Disease-specific clinical or literature evidence, such as vilazodone trials in anxiety-spectrum or obsessive-compulsive disorders
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Viibryd (vilazodone hydrochloride) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c55ccfb-c4cf-11df-851a-0800200c9a66) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

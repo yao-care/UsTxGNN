@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **female breast carcinoma**, bu
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the compiled data. Hydroxyurea is a ribonucleotide reductase inhibitor. It depletes the cell's pool of DNA building blocks (dNTPs) and causes replication stress. This is the basis of its use in cancers and, through a different effect (raising fetal hemoglobin), in sickle cell anemia.
+According to the Mechanism of Action section of the FDA-approved prescribing information for hydroxyurea: "The precise mechanism by which hydroxyurea produces its cytotoxic and cytoreductive effects is not known. However, various studies support the hypothesis that hydroxyurea causes an immediate inhibition of DNA synthesis by acting as a ribonucleotide reductase inhibitor, without interfering with the synthesis of ribonucleic acid or of protein." ([DailyMed: Xromi (hydroxyurea) prescribing information, Nova Laboratories, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b37d336-86da-4363-aef1-34a7d3ba973b), label version 2026-02-02; accessed 2026-11-19.) Hydroxyurea is a ribonucleotide reductase inhibitor. It depletes the cell's pool of DNA building blocks (dNTPs) and causes replication stress. This is the basis of its use in cancers and, through a different effect (raising fetal hemoglobin), in sickle cell anemia.
 
 Rapidly dividing tumours such as breast cancer are plausible targets for this mechanism. Preclinical studies link hydroxyurea to replication-stress and DNA-repair pathways in breast cancer cells. Examples include work on RPA2 hyperphosphorylation, in which valproic acid sensitized breast cancer cells to hydroxyurea, and work on replication-stress avoidance. The original oncology indications (melanoma, ovarian cancer) are also solid or gynaecological tumours treated with DNA-synthesis-targeting agents.
 
@@ -152,11 +152,12 @@ Among the other candidates evaluated for hydroxyurea, **sickle cell-hemoglobin C
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Two further generic capsule authorizations (ANDA218021, ANDA213438) are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xromi (hydroxyurea) prescribing information, Nova Laboratories, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b37d336-86da-4363-aef1-34a7d3ba973b) |
 
 <!-- review:end log -->
 

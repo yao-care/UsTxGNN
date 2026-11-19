@@ -54,7 +54,7 @@ Atezolizumab is a PD-L1–blocking antibody that is marketed in the United State
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general knowledge, atezolizumab is an antibody that blocks PD-L1, which can restore T-cell activity against tumour cells. A plausible link to this prediction would be PD-L1 expression in gynecologic adenocarcinomas.
+According to the Mechanism of Action section of the FDA-approved prescribing information for atezolizumab: "PD L1 may be expressed on tumor cells and/or tumor infiltrating immune cells and can contribute to the inhibition of the anti-tumor immune response in the tumor microenvironment. Binding of PD L1 to the PD 1 and B7.1 receptors found on T cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation and cytokine production. […] Atezolizumab is a monoclonal antibody that binds to PD L1 and blocks its interactions with both PD 1 and B7.1 receptors." ([DailyMed: Tecentriq (atezolizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee), label version 2026-10-13; accessed 2026-11-19.) Based on general knowledge, atezolizumab is an antibody that blocks PD-L1, which can restore T-cell activity against tumour cells. A plausible link to this prediction would be PD-L1 expression in gynecologic adenocarcinomas.
 
 This link is speculative. The score comes from the model only, and no study in the compiled data examines uterine ligament adenocarcinoma. Any rationale is extrapolated from immunotherapy experience in related gynecologic cancers and would need biomarker confirmation (for example, PD-L1 expression in the tumour) before it could be relied on.
 
@@ -99,6 +99,19 @@ The TxGNN score is very high (0.9993), but no trial or publication directly stud
 - Mechanism of action data and a review of the package insert warnings and contraindications
 - Any case series or early-phase studies in this rare gynecologic tumour
 - A safety plan addressing interactions with immunosuppressants and live vaccines
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tecentriq (atezolizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

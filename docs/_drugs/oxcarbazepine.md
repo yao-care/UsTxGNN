@@ -59,7 +59,7 @@ The evidence is indirect, so this is a model-driven hypothesis at this stage.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on the literature, oxcarbazepine is a derivative of carbamazepine. Its active metabolite, the monohydroxy derivative (MHD), is responsible for its clinical efficacy. It is thought to act by blocking voltage-gated sodium channels, which reduces neuronal hyperexcitability and limits the spread of focal discharges.
+According to the Mechanism of Action section of the FDA-approved prescribing information for oxcarbazepine: "The pharmacological activity of TRILEPTAL is primarily exerted through the 10-monohydroxy metabolite (MHD) of oxcarbazepine. The precise mechanism by which oxcarbazepine and MHD exert their anti-seizure effect is unknown; however, in vitro electrophysiological studies indicate that they produce blockade of voltage-sensitive sodium channels, resulting in stabilization of hyperexcited neural membranes, inhibition of repetitive neuronal firing, and diminution of propagation of synaptic impulses." ([DailyMed: Trileptal (oxcarbazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b), label version 2026-10-28; accessed 2026-11-19.) Based on the literature, oxcarbazepine is a derivative of carbamazepine. Its active metabolite, the monohydroxy derivative (MHD), is responsible for its clinical efficacy. It is thought to act by blocking voltage-gated sodium channels, which reduces neuronal hyperexcitability and limits the spread of focal discharges.
 
 Visual epilepsy is a focal, visually triggered seizure type. Because oxcarbazepine's efficacy in focal seizures is well established, sodium channel blockade is a plausible mechanism for seizures triggered by visual stimuli.
 
@@ -144,11 +144,12 @@ There are no clinical trials, and the literature is general epilepsy material th
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-12 | Corrected: "The full set comprises 11 authorizations, including" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Trileptal (oxcarbazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b) |
 
 <!-- review:end log -->
 

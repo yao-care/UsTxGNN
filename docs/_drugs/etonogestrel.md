@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **amenorrhea**, but **no clinic
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, etonogestrel is a progestin (the active metabolite of desogestrel) that suppresses ovulation and causes endometrial atrophy.
+According to the Mechanism of Action section of the FDA-approved prescribing information for etonogestrel: "The contraceptive effect of NEXPLANON is achieved by suppression of ovulation, increased viscosity of the cervical mucus, and alterations in the endometrium." ([DailyMed: Nexplanon (etonogestrel) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=487f8a62-e142-457c-97cc-2e398fde7594), label version 2026-05-28; accessed 2026-11-19.) Based on known pharmacology, etonogestrel is a progestin (the active metabolite of desogestrel) that suppresses ovulation and causes endometrial atrophy.
 
 Amenorrhea is a well-recognised effect of etonogestrel-releasing implants, so a biological link is plausible. However, it is an expected side effect rather than a validated therapeutic goal. The use of etonogestrel for deliberate menstrual suppression has not been formally studied in the data reviewed. The model score is a prediction only.
 
@@ -119,11 +119,12 @@ The prediction is supported only by the model score (L5). There are no relevant 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "The drug is marketed in the US, with all four licenses valid, and label safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nexplanon (etonogestrel) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=487f8a62-e142-457c-97cc-2e398fde7594) |
 
 <!-- review:end log -->
 

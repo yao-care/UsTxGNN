@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. No original indications are recorded either, so the relationship between the original and new indications cannot be assessed from the data compiled for this report.
+According to the Mechanism of Action section of the FDA-approved prescribing information for soybean oil: "Nutrilipid 20% administered intravenously provides biologically utilizable source of calories and essential fatty acids. Fatty acids serve as an important substrate for energy production. The most common mechanism of action for energy production derived from fatty acid metabolism is beta oxidation." ([DailyMed: Nutrilipid I.V. Fat Emulsion (soybean oil) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=193290b1-a0a1-4054-a22a-de5c9e7a8b73), label version 2026-07-10; accessed 2026-11-19.) No original indications are recorded either, so the relationship between the original and new indications cannot be assessed from the data compiled for this report.
 
 The very high TxGNN score (0.9961) is a computational TxGNN model (deep learning) prediction only. Soybean oil is mainly a lipid and calorie source (for example in parenteral nutrition emulsions) and provides omega-6 fatty acids and phytosterols. One could speculate that amenorrhea related to low energy availability, such as functional hypothalamic amenorrhea, might be indirectly influenced by lipid supplementation, or that phytoestrogens might play a role. This is a hypothesis only. It is not supported by any evidence in the data and should not be treated as a finding.
 
@@ -120,12 +120,13 @@ The prediction rests only on a model score, with no registered clinical trials, 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "The drug is marketed, and all 9 authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Four further cancelled authorizations are not shown: NDA204508 (Clinolipid, Baxter) and three allergenic-extract BLAs (BLA103888, BLA103753," | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nutrilipid I.V. Fat Emulsion (soybean oil) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=193290b1-a0a1-4054-a22a-de5c9e7a8b73) |
 
 <!-- review:end log -->
 

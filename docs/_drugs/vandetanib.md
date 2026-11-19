@@ -56,7 +56,7 @@ The evidence level is **L3**: the most informative study is a completed Phase 2 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on what is known, vandetanib is a multi-target kinase inhibitor acting on VEGFR2, EGFR and RET.
+According to the Mechanism of Action section of the FDA-approved prescribing information for vandetanib: "In vitro studies have shown that vandetanib inhibits the tyrosine kinase activity of the EGFR and VEGFR families, RET, BRK, TIE2, and members of the EPH receptor and Src kinase families. These receptor tyrosine kinases are involved in both normal cellular function and pathologic processes such as oncogenesis, metastasis, tumor angiogenesis, and maintenance of the tumor microenvironment." ([DailyMed: Caprelsa (vandetanib) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e5721cb8-4185-47b9-bbb3-1c587e558a03), label version 2026-10-30; accessed 2026-11-19.) Based on what is known, vandetanib is a multi-target kinase inhibitor acting on VEGFR2, EGFR and RET.
 
 Clear cell renal cell carcinoma is typically characterised by loss of the VHL gene and HIF-driven overexpression of VEGF, so blocking VEGFR2-dependent angiogenesis is mechanistically coherent. Combination with metformin has also been explored in fumarate hydratase- or SDH-deficient kidney cancers, which depend on altered metabolism.
 
@@ -120,11 +120,12 @@ The mechanistic rationale is plausible, but the evidence is thin: one completed 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Vandetanib carries a notable QT and cardiovascular risk profile, and its only US license is cancelled" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Caprelsa (vandetanib) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e5721cb8-4185-47b9-bbb3-1c587e558a03) |
 
 <!-- review:end log -->
 

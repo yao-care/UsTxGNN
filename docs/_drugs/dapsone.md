@@ -56,7 +56,7 @@ with **10 clinical trials** and **20 publications** currently supporting this di
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, dapsone is a sulfone antibacterial that inhibits dihydropteroate synthase in the folate synthesis pathway, the same target as sulfonamides such as sulfamethoxazole. This mechanism has not been verified against the supplied data and should be confirmed from a primary source.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dapsone: "The mechanism of action in Dermatitis herpetiformis has not been established. By the kinetic method in mice, Dapsone is bactericidal as well as bacteriostatic against Mycobacterium leprae." ([DailyMed: dapsone prescribing information, Proficient Rx LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=347c753b-8daa-40f8-9391-0339c9d6679c), label version 2026-10-01; accessed 2026-11-19.) Based on general pharmacological knowledge, dapsone is a sulfone antibacterial that inhibits dihydropteroate synthase in the folate synthesis pathway, the same target as sulfonamides such as sulfamethoxazole. This mechanism has not been verified against the supplied data and should be confirmed from a primary source.
 
 *Pneumocystis jirovecii* depends on this folate pathway. That explains why dapsone has activity as prophylaxis, and, combined with trimethoprim, as treatment of mild-to-moderate PCP. Dapsone's established uses (leprosy, an infection, and dermatitis herpetiformis) show both antimicrobial and anti-inflammatory activity. The very high TxGNN score is consistent with this mechanistic rationale.
 
@@ -145,12 +145,13 @@ Four completed Phase 3 trials (700, 600, 400 and 290 participants) evaluated dap
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 15 US authorizations for dapsone are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and the cancellation of all US authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: dapsone prescribing information, Proficient Rx LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=347c753b-8daa-40f8-9391-0339c9d6679c) |
 
 <!-- review:end log -->
 

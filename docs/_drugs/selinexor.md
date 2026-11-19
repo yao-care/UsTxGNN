@@ -56,7 +56,7 @@ The prediction rests only on a computational score.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Selinexor is generally known as an XPO1 (exportin-1) inhibitor, which blocks the nuclear export of regulatory proteins. A possible link to bone biology would run through nuclear export of regulators involved in osteoclast and osteoblast signaling. This is speculative and not supported by the supplied data.
+According to the Mechanism of Action section of the FDA-approved prescribing information for selinexor: "In nonclinical studies, selinexor reversibly inhibits nuclear export of tumor suppressor proteins (TSPs), growth regulators, and mRNAs of oncogenic proteins by blocking exportin 1 (XPO1). XPO1 inhibition by selinexor leads to accumulation of TSPs in the nucleus and reductions in several oncoproteins, such as c-myc and cyclin D1, cell cycle arrest, and apoptosis of cancer cells." ([DailyMed: Xpovio (selinexor) prescribing information, Karyopharm Therapeutics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6dd2682-75a6-4863-90a8-a3197f6f78a8), label version 2026-05-12; accessed 2026-11-19.) Selinexor is generally known as an XPO1 (exportin-1) inhibitor, which blocks the nuclear export of regulatory proteins. A possible link to bone biology would run through nuclear export of regulators involved in osteoclast and osteoblast signaling. This is speculative and not supported by the supplied data.
 
 There is also a caution. Selinexor is associated with nausea, anorexia, weight loss, fatigue and cytopenias, which could plausibly worsen bone health in frail oncology patients. No evidence shows that it treats or prevents drug-induced osteoporosis. The high TxGNN score (0.9922) is a computational prediction, not clinical evidence.
 
@@ -133,12 +133,13 @@ The prediction is supported only by a model score, with no clinical trials or pu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and the reason for the NDA cancellation" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xpovio (selinexor) prescribing information, Karyopharm Therapeutics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6dd2682-75a6-4863-90a8-a3197f6f78a8) |
 
 <!-- review:end log -->
 

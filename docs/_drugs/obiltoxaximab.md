@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on known information, obiltoxaximab is a monoclonal antibody that binds the *Bacillus anthracis* protective antigen (PA) and blocks entry of anthrax toxin into host cells. Its activity is therefore specific to anthrax toxin neutralization.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for obiltoxaximab: "Obiltoxaximab is a monoclonal antibody that binds the PA of B. anthracis. […] Obiltoxaximab is a monoclonal antibody that binds free PA with an affinity equilibrium dissociation constant (Kd) of 0.33 nM. Obiltoxaximab inhibits the binding of PA to its cellular receptors, preventing the intracellular entry of the anthrax lethal factor and edema factor, the enzymatic toxin components responsible for the pathogenic effects of anthrax toxin." ([DailyMed: Anthim (obiltoxaximab) prescribing information, Elusys Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39ad8799-00a4-4fc8-9852-c0536350c474), label version 2026-09-14; accessed 2026-11-19.) Based on known information, obiltoxaximab is a monoclonal antibody that binds the *Bacillus anthracis* protective antigen (PA) and blocks entry of anthrax toxin into host cells. Its activity is therefore specific to anthrax toxin neutralization.
 
 Postinfectious vasculitis is typically immune-complex mediated and is not driven by anthrax toxin. No plausible mechanistic link was identified. The high TxGNN score (0.9974) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -126,12 +126,13 @@ The prediction has no clinical trials or literature behind it (evidence level L5
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled US regulatory status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Anthim (obiltoxaximab) prescribing information, Elusys Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39ad8799-00a4-4fc8-9852-c0536350c474) |
 
 <!-- review:end log -->
 

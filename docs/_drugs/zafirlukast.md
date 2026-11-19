@@ -57,7 +57,7 @@ The TxGNN model predicts it may be useful for **bronchitis**, but this rests on 
 
 Zafirlukast blocks the CysLT1 receptor, which cysteinyl leukotrienes use to drive airway inflammation, bronchoconstriction and mucus secretion. Because these processes are also part of inflammatory airway conditions, there is a plausible biological rationale for bronchitis.
 
-Detailed mechanism-of-action data are not available in the data compiled for this report, so the mechanistic link described above comes from general pharmacology of the drug class and cannot be verified here. The TxGNN score of 0.9993 is a model output only; it is not evidence of clinical benefit. Similarity to the original use and route compatibility have not yet been assessed.
+According to the Mechanism of Action section of the FDA-approved prescribing information for zafirlukast: "Zafirlukast is a selective and competitive receptor antagonist of leukotriene D 4 and E 4 (LTD 4 and LTE 4 ), components of slow-reacting substance of anaphylaxis (SRSA). Cysteinyl leukotriene production and receptor occupation have been correlated with the pathophysiology of asthma, including airway edema, smooth muscle constriction, and altered cellular activity associated with the inflammatory process, which contribute to the signs and symptoms of asthma." ([DailyMed: zafirlukast prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60f39f6-d590-4b00-8751-7f12b7ec5385), label version 2024-10-11; accessed 2026-11-19.) The mechanistic link described above comes from general pharmacology of the drug class and cannot be verified here. The TxGNN score of 0.9993 is a model output only; it is not evidence of clinical benefit. Similarity to the original use and route compatibility have not yet been assessed.
 
 ## Clinical Trial Evidence
 
@@ -108,11 +108,12 @@ The prediction is supported only by the model score (0.9993), with no trials or 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "ll four licences are currently valid, and a" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: zafirlukast prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60f39f6-d590-4b00-8751-7f12b7ec5385) |
 
 <!-- review:end log -->
 

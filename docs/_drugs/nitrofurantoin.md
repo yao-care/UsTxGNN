@@ -56,7 +56,7 @@ The retrieved publications mostly describe harm, such as drug-induced pulmonary 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, nitrofurantoin is an antibacterial agent with no recognised anti-inflammatory or immunomodulatory action relevant to rheumatoid arthritis (RA).
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for nitrofurantoin: "Nitrofurantoin is an antibacterial drug. […] Nitrofurantoin is reduced by a wide range of enzymes including bacterial flavoproteins to reactive intermediates which are damaging to macromolecules such as DNA and proteins." ([DailyMed: nitrofurantoin prescribing information, Somerset Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd99ba40-edff-47c3-9ee4-7e5b7774e5b5), label version 2026-01-22; accessed 2026-11-19.) Based on known information, nitrofurantoin is an antibacterial agent with no recognised anti-inflammatory or immunomodulatory action relevant to rheumatoid arthritis (RA).
 
 The high TxGNN score (0.9989) is not backed by any clinical signal. The retrieved literature concerns harm rather than benefit:
 - Drug-induced pulmonary fibrosis and interstitial lung disease associated with nitrofurantoin.
@@ -130,11 +130,12 @@ Other predicted indications (for example the rare genetic syndromes, gout and sc
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "12 valid licenses are on the market in this country, and n" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: nitrofurantoin prescribing information, Somerset Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd99ba40-edff-47c3-9ee4-7e5b7774e5b5) |
 
 <!-- review:end log -->
 

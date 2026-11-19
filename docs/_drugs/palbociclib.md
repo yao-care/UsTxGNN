@@ -56,7 +56,7 @@ Palbociclib is a CDK4/6 inhibitor used in HR-positive, HER2-negative breast canc
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on general knowledge, palbociclib is a CDK4/6 inhibitor that blocks G1-to-S cell cycle progression and so suppresses cell proliferation.
+According to the Mechanism of Action section of the FDA-approved prescribing information for palbociclib: "Palbociclib is an inhibitor of cyclin-dependent kinases (CDK) 4 and 6. Cyclin D1 and CDK4/6 are downstream of signaling pathways which lead to cellular proliferation. In vitro, palbociclib reduced cellular proliferation of estrogen receptor (ER)-positive breast cancer cell lines by blocking progression of the cell from G1 into S phase of the cell cycle." ([DailyMed: Ibrance (palbociclib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89a142d5-7e61-48bf-9e77-e2cd124c4792), label version 2026-07-06; accessed 2026-11-19.) Based on general knowledge, palbociclib is a CDK4/6 inhibitor that blocks G1-to-S cell cycle progression and so suppresses cell proliferation.
 
 For rheumatoid arthritis, the link is plausible but indirect. Synovial fibroblasts proliferate abnormally in the RA joint, and preclinical work suggests CDK inhibition can reduce this:
 - Cell cycle inhibition of synovial fibroblasts with CDK inhibitors ameliorated disease in animal models of RA without weakening acquired immunity (PMID 25165034).
@@ -160,12 +160,13 @@ Moderate-level interactions include aprepitant, dexamethasone, cimetidine, saxag
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both US NDAs are cancelled, and l" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "of why the US NDAs are cancelled and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ibrance (palbociclib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89a142d5-7e61-48bf-9e77-e2cd124c4792) |
 
 <!-- review:end log -->
 

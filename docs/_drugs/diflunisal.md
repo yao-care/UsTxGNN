@@ -60,7 +60,7 @@ For ankylosing spondylitis there are **0 registered clinical trials** and **7 pu
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for diflunisal is not available in the data compiled for this report. Based on known information, diflunisal is an NSAID that inhibits cyclooxygenase and thereby reduces prostaglandin synthesis. Its efficacy in rheumatoid arthritis and osteoarthritis symptoms is established.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for diflunisal: "The precise mechanism of the analgesic and anti-inflammatory actions of diflunisal is not known. Diflunisal is a prostaglandin synthetase inhibitor. In animals, prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain." ([DailyMed: Dolobid (diflunisal) prescribing information, INA Pharmaceutics Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=725234b2-0e23-45c3-a42d-eb4e62273f9b), label version 2025-10-06; accessed 2026-11-19.) Based on known information, diflunisal is an NSAID that inhibits cyclooxygenase and thereby reduces prostaglandin synthesis. Its efficacy in rheumatoid arthritis and osteoarthritis symptoms is established.
 
 NSAIDs are a guideline-recognized first-line symptomatic therapy for ankylosing spondylitis, reducing pain, stiffness and inflammation through the same prostaglandin pathway. This makes the prediction mechanistically plausible, but it is essentially a class effect. Many established NSAIDs (such as naproxen and diclofenac) already fill this role, so the repurposing value of diflunisal is low.
 
@@ -139,11 +139,12 @@ The only credible new indication is ankylosing spondylitis. It rests on a class 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and a plan for the cancelled market status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data for diflunisal is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dolobid (diflunisal) prescribing information, INA Pharmaceutics Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=725234b2-0e23-45c3-a42d-eb4e62273f9b) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but the supporting evidence is thin: **2 clinical trials** (one terminated with 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From the published literature, dasatinib inhibits BCR-ABL and SRC-family kinases, and it also acts on c-KIT and PDGFR. Its efficacy in BCR-ABL1-positive leukemia is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dasatinib: "Dasatinib, at nanomolar concentrations, inhibits the following kinases: BCR-ABL, SRC family (SRC, LCK, YES, FYN), c-KIT, EPHA2, and PDGFRβ. Based on modeling studies, dasatinib is predicted to bind to multiple conformations of the ABL kinase." ([DailyMed: Sprycel (dasatinib) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4764f37b-c9e6-4ede-bcc2-8a03b7c521df), label version 2026-10-16; accessed 2026-11-19.) From the published literature, dasatinib inhibits BCR-ABL and SRC-family kinases, and it also acts on c-KIT and PDGFR. Its efficacy in BCR-ABL1-positive leukemia is established.
 
 The link to Ewing sarcoma runs through SRC. Preclinical studies show that Src signaling drives invasion, migration and invadopodia formation in Ewing sarcoma cells. Dasatinib reduced proliferation and migration in Ewing sarcoma and other sarcoma cell lines, and induced apoptosis in bone sarcoma cells that depend on SRC. The rationale is therefore plausible.
 
@@ -145,12 +145,13 @@ The preclinical rationale (SRC dependence of Ewing sarcoma) is plausible, but th
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Three more ANDAs (AvKARE, Aurobindo, Zydus) are also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Clarification of the cancelled US market status, to confirm product availability" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sprycel (dasatinib) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4764f37b-c9e6-4ede-bcc2-8a03b7c521df) |
 
 <!-- review:end log -->
 

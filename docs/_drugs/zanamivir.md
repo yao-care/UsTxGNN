@@ -56,7 +56,7 @@ The prediction rests on the model score alone.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known information, zanamivir is a viral neuraminidase inhibitor, and its efficacy in influenza has been established.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for zanamivir: "Zanamivir is an antiviral drug with activity against influenza virus. […] Zanamivir is an inhibitor of influenza virus neuraminidase (NA), an enzyme that releases viral particles from the plasma membrane of infected cells and promotes virus spread in the respiratory tract. In neuraminidase inhibition assays, zanamivir is active against all NA enzyme subtypes N1 to N9." ([DailyMed: Relenza (zanamivir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b4e68930-4e6d-4d27-b1f0-abf60d12e28d), label version 2026-07-23; accessed 2026-11-19.) Based on known information, zanamivir is a viral neuraminidase inhibitor, and its efficacy in influenza has been established.
 
 A plausible mechanistic link to pyelonephritis is hard to find. Pyelonephritis is mostly caused by bacteria such as *E. coli*, not by viruses. Bacteria do produce neuraminidases (sialidases) that may contribute to virulence, but zanamivir has little established activity against them, so this idea is speculative.
 
@@ -117,11 +117,12 @@ The prediction rests only on a high model score. The score is likely a TxGNN mod
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "There are no clinical trials or literature, no plausible mechanism against bacterial pyelonephritis, and the only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Relenza (zanamivir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b4e68930-4e6d-4d27-b1f0-abf60d12e28d) |
 
 <!-- review:end log -->
 

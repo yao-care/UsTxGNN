@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **diabetic retinopathy**, but t
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, elapegademase is a PEGylated form of the ADA enzyme. It replaces the missing enzyme in ADA-SCID, so it works systemically on purine metabolism.
+According to the Mechanism of Action section of the FDA-approved prescribing information for elapegademase: "SCID associated with a deficiency of ADA enzyme is a rare, inherited, and often fatal disease. ADA enzyme is involved in purine metabolism, catalyzing the irreversible hydrolytic deamination of adenosine or deoxyadenosine to inosine or deoxyinosine, respectively, as well as several naturally occurring methylated adenosine compounds. […] Elapegademase-lvlr provides an exogenous source of ADA enzyme that is associated with a decrease in toxic adenosine and deoxyadenosine nucleotides levels as well as an increase in lymphocyte number." ([DailyMed: Revcovi (elapegademase-lvlr) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c073f84-cdd0-40e4-b3a9-172687267f28), label version 2026-05-31; accessed 2026-11-19.) Based on known information, elapegademase is a PEGylated form of the ADA enzyme. It replaces the missing enzyme in ADA-SCID, so it works systemically on purine metabolism.
 
 No clear mechanistic link to diabetic retinopathy has been established. The high TxGNN score may reflect network proximity through purine metabolism or adenosine signaling, which has been loosely studied in retinal vascular biology. This is speculation and cannot be checked against known pharmacology without MOA data.
 
@@ -105,11 +105,12 @@ The prediction is supported only by a model score (Evidence Level L5). There are
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US license is also listed as cancelled, and p" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Revcovi (elapegademase-lvlr) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c073f84-cdd0-40e4-b3a9-172687267f28) |
 
 <!-- review:end log -->
 

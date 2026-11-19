@@ -60,7 +60,7 @@ The high score appears to be a TxGNN model (deep learning) artifact rather than 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, telavancin is a lipoglycopeptide antibiotic that inhibits bacterial cell wall synthesis and disrupts bacterial membrane integrity. Its efficacy is established for Gram-positive bacterial infections.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for telavancin: "Telavancin is an antibacterial drug. […] Telavancin inhibits cell wall biosynthesis by binding to late-stage peptidoglycan precursors, including lipid II. Telavancin also binds to the bacterial membrane and disrupts membrane barrier function. Interactions with Other Antibacterial Drugs In vitro investigations demonstrated no antagonism between telavancin and amikacin, aztreonam, cefepime, ceftriaxone, ciprofloxacin, gentamicin, imipenem, meropenem, oxacillin, piperacillin/tazobactam, rifampin, and trimethoprim/sulfamethoxazole when tested in various combinations against telavancin-susceptible staphylococci, streptococci, and enterococci." ([DailyMed: Vibativ (telavancin hydrochloride) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5359b759-db7c-4672-9e8a-59c93869bd91), label version 2025-12-19; accessed 2026-11-19.) Based on known information, telavancin is a lipoglycopeptide antibiotic that inhibits bacterial cell wall synthesis and disrupts bacterial membrane integrity. Its efficacy is established for Gram-positive bacterial infections.
 
 For hyperamylasemia, a credible mechanistic link is **not apparent**. Hyperamylasemia is a laboratory finding, usually tied to pancreatic or salivary gland pathology, and is not a condition an antibiotic would treat. The high score (0.9963) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Telavancin's known toxicity profile (nephrotoxicity, QT prolongation) also makes it a poor fit for this use.
 
@@ -127,11 +127,12 @@ Please refer to the package insert for label warnings and contraindications.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US license is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vibativ (telavancin hydrochloride) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5359b759-db7c-4672-9e8a-59c93869bd91) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ but there are currently **0 clinical trials** and **20 publications** on migrain
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the literature, zolmitriptan is a selective 5-HT1B/1D receptor agonist that acts both centrally and peripherally. Preclinical studies show it can inhibit trigeminovascular activation at both levels.
+According to the Mechanism of Action section of the FDA-approved prescribing information for zolmitriptan: "Zolmitriptan binds with high affinity to human recombinant 5-HT 1D and 5-HT 1B receptors, and moderate affinity for 5-HT 1A receptors. The N-desmethyl metabolite also has high affinity for 5-HT 1B/1D and moderate affinity for 5-HT 1A receptors." ([DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4), label version 2026-01-29; accessed 2026-11-19.) Based on the literature, zolmitriptan is a selective 5-HT1B/1D receptor agonist that acts both centrally and peripherally. Preclinical studies show it can inhibit trigeminovascular activation at both levels.
 
 Migraine with brainstem aura is a subtype of migraine, so it shares the same underlying pathophysiology: trigeminovascular activation, CGRP release and cranial vasodilation. This supports biological plausibility.
 
@@ -132,12 +132,13 @@ The prediction is biologically plausible because brainstem aura is a migraine su
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 11 are listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and the US licenses are all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4) |
 
 <!-- review:end log -->
 

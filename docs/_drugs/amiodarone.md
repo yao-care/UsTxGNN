@@ -56,7 +56,7 @@ but **no clinical trials** are registered and the 9 retrieved publications are c
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general pharmacology, amiodarone blocks potassium, sodium and calcium channels and antagonises beta-adrenergic receptors. In theory, this could suppress ventricular arrhythmias triggered by catecholamines.
+According to the Mechanism of Action section of the FDA-approved prescribing information for amiodarone: "Amiodarone is considered a class III antiarrhythmic drug, but it possesses electrophysiologic characteristics of all four Vaughan Williams classes. Like class I drugs, amiodarone blocks sodium channels at rapid pacing frequencies, and like class II drugs, amiodarone exerts a noncompetitive antisympathetic action." ([DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3), label version 2025-11-05; accessed 2026-11-19.) Based on general pharmacology, amiodarone blocks potassium, sodium and calcium channels and antagonises beta-adrenergic receptors. In theory, this could suppress ventricular arrhythmias triggered by catecholamines.
 
 However, catecholaminergic polymorphic ventricular tachycardia is driven by defects in calcium handling (RYR2/CASQ2-related). Standard care relies on beta-blockers, flecainide and sympathetic denervation. In the retrieved literature, amiodarone appears mainly in the context of refractory arrhythmias, and none of the studies shows that it benefits this condition. The mechanistic argument is therefore plausible but unproven.
 
@@ -144,11 +144,12 @@ The TxGNN score is high, but no clinical trial or publication tests amiodarone i
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Among the 12 licences listed, 11 are valid and 1 is cancelled. The list may be partial" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3) |
 
 <!-- review:end log -->
 

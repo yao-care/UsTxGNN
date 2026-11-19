@@ -62,7 +62,7 @@ with **15 clinical trials** and **20 publications** retrieved. Most of these are
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, ribavirin is a guanosine nucleoside analogue with broad antiviral activity. It is thought to act by inhibiting IMPDH, depleting GTP pools, and shifting immune responses toward a Th1 profile. Its efficacy in HCV is established.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for ribavirin: "Ribavirin is an antiviral drug. […] The mechanism by which ribavirin contributes to its antiviral efficacy in the clinic is not fully understood. Ribavirin has direct antiviral activity in tissue culture against many RNA viruses. Ribavirin increases the mutation frequency in the genomes of several RNA viruses and ribavirin triphosphate inhibits HCV polymerase in a biochemical reaction." ([DailyMed: ribavirin prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eee304d0-c2ea-44f4-97d9-92a414d31b6c), label version 2024-02-06; accessed 2026-11-19.) Based on known pharmacology, ribavirin is a guanosine nucleoside analogue with broad antiviral activity. It is thought to act by inhibiting IMPDH, depleting GTP pools, and shifting immune responses toward a Th1 profile. Its efficacy in HCV is established.
 
 Direct anti-HBV activity of ribavirin is weak. Any benefit in HBV would most likely come from immunomodulation when combined with peginterferon or nucleos(t)ide analogues, and not from direct inhibition of viral replication. Both HBV and HCV are chronic hepatotropic viral infections. The TxGNN model (deep learning) score may reflect similarities the model learned between related diseases, not biological evidence. However, the contribution of ribavirin alone in HBV cannot be separated from the combination regimens in the available trials.
 
@@ -162,12 +162,13 @@ Only one completed Phase 3 trial directly tests ribavirin (combined with peginte
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All five authorizations in the data are valid, and the drug is marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "given that all 5 US authorizations are valid and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ribavirin prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eee304d0-c2ea-44f4-97d9-92a414d31b6c) |
 
 <!-- review:end log -->
 

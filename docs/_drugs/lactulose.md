@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **obstructive jaundice** (the top-
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, lactulose is a non-absorbed disaccharide that acts in the colon. It works as an osmotic laxative and traps ammonia by acidifying the gut, which is the basis for its use in hepatic encephalopathy.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for lactulose: "Lactulose causes a decrease in blood ammonia concentration and reduces the degree of portalsystemic encephalopathy. These actions are considered to be results of the following: Bacterial degradation of lactulose in the colon acidifies the colonic contents." ([DailyMed: Enulose (lactulose) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa3aae7c-6f98-4fbb-85dc-32affe9874d5), label version 2024-12-18; accessed 2026-11-19.) Based on general knowledge, lactulose is a non-absorbed disaccharide that acts in the colon. It works as an osmotic laxative and traps ammonia by acidifying the gut, which is the basis for its use in hepatic encephalopathy.
 
 Obstructive jaundice reduces the amount of bile salts reaching the gut. This impairs the intestinal barrier and promotes bacterial translocation and endotoxaemia. Endotoxaemia contributes to postoperative renal dysfunction and liver injury. Oral lactulose may bind endotoxin, lower luminal pH, alter gut flora and help restore barrier function. This gut-focused mechanism is consistent with how lactulose is already used in liver disease.
 
@@ -139,13 +139,14 @@ The top TxGNN prediction (acute urate nephropathy) has no evidence and no plausi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All eight US authorizations are single-ingredient ANDAs and all are listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(8 valid US licenses)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Enulose (lactulose) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa3aae7c-6f98-4fbb-85dc-32affe9874d5) |
 
 <!-- review:end log -->
 

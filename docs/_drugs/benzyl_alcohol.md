@@ -54,7 +54,7 @@ Benzyl alcohol is a topical and preservative agent used in dermatological and pa
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Benzyl alcohol is known to have weak antimicrobial and preservative properties, which could in theory be relevant to infectious bronchitis. This link is only indirect.
+ChEMBL (EMBL-EBI) records the mechanism of action of benzyl alcohol as: Unknown ([ChEMBL CHEMBL720 (benzyl alcohol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL720), CC BY-SA 3.0; accessed 2026-11-19.) Benzyl alcohol is known to have weak antimicrobial and preservative properties, which could in theory be relevant to infectious bronchitis. This link is only indirect.
 
 The available literature points the other way. A study of nebulized bacteriostatic saline, which contains benzyl alcohol as a preservative, examined whether it irritates the airway lining in healthy adults, and its title reports it as a cause of bronchitis. This is a safety signal, not a therapeutic one. The high TxGNN score is a computational prediction and has no clinical support.
 
@@ -97,6 +97,19 @@ The prediction rests only on a computational score. No trial or publication dire
 - Package insert warnings and contraindications
 - Evidence on inhaled safety of benzyl alcohol, especially in people with airway disease
 - Any preclinical or clinical study testing benzyl alcohol directly in bronchitis
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL720 (benzyl alcohol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL720) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

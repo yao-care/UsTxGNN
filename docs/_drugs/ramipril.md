@@ -56,7 +56,7 @@ but the evidence is thin: **0 clinical trials** and only **1 directly relevant p
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, ramipril is an ACE inhibitor: it reduces the formation of angiotensin II, a peptide that causes vasoconstriction and is implicated in vascular remodelling.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ramipril: "Ramipril and ramiprilat inhibit ACE in human subjects and animals. Angiotensin converting enzyme is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex." ([DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59), label version 2026-11-11; accessed 2026-11-19.) Based on known pharmacology, ramipril is an ACE inhibitor: it reduces the formation of angiotensin II, a peptide that causes vasoconstriction and is implicated in vascular remodelling.
 
 Chronic hypoxia drives constriction and remodelling of the pulmonary blood vessels, and angiotensin II is thought to contribute to this process. This is the mechanistic link between ramipril's original cardiovascular use and the predicted indication. A 1996 rat study (PMID 9200213) found that ramipril given during 3 weeks of chronic hypoxia lowered baseline pulmonary perfusion pressure, which is consistent with this idea.
 
@@ -138,13 +138,14 @@ The TxGNN score is very high (0.9993), but the support is limited to a single 19
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All six licences are valid, and no approved-indication text is recorded for any of them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 6 valid licences" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(marketed, 6 valid licences)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ The prediction is best treated as a model artifact until disease-specific eviden
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. From the pharmacology data, romiplostim is a peptide that targets the thrombopoietin receptor (MPL). It stimulates megakaryocyte proliferation and platelet production, and it is used to raise platelet counts in chronic ITP. The FDA permits its use in pediatric ITP patients aged 1 year and older.
+According to the Mechanism of Action section of the FDA-approved prescribing information for romiplostim: "Nplate increases platelet production through binding and activation of the TPO receptor, a mechanism analogous to endogenous TPO." ([DailyMed: Nplate (romiplostim) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c45f9a58-37c1-4f76-8e36-97d38c577037), label version 2026-06-23; accessed 2026-11-19.) From the pharmacology data, romiplostim is a peptide that targets the thrombopoietin receptor (MPL). It stimulates megakaryocyte proliferation and platelet production, and it is used to raise platelet counts in chronic ITP. The FDA permits its use in pediatric ITP patients aged 1 year and older.
 
 The predicted disease is a **qualitative** platelet function defect, in which platelets fail to release their granule contents. Raising platelet count would not be expected to correct this. The literature found (PMID 25682608) studies antiplatelet autoantibodies that impair platelet production in ITP, which is a different disease mechanism. The very high TxGNN score most likely reflects network proximity to ITP rather than disease-specific evidence.
 
@@ -149,11 +149,12 @@ The top prediction has no clinical trials, and its only publication concerns a d
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "since the licence record shows "Cancelled only"" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nplate (romiplostim) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c45f9a58-37c1-4f76-8e36-97d38c577037) |
 
 <!-- review:end log -->
 

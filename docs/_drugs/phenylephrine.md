@@ -60,7 +60,7 @@ This is largely an extension of existing indications, and the evidence is still 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, phenylephrine is an alpha-1 adrenergic agonist. It constricts the blood vessels of the nasal mucosa, which reduces swelling, congestion and bleeding.
+According to the Mechanism of Action section of the FDA-approved prescribing information for phenylephrine: "Phenylephrine hydrochloride is an α-1 adrenergic receptor agonist." ([DailyMed: Biorphen (phenylephrine hydrochloride) prescribing information, Dr. Reddy's Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f715e4e-b269-b935-d2c9-003cb29770be), label version 2026-03-31; accessed 2026-11-19.) Based on known pharmacology, phenylephrine is an alpha-1 adrenergic agonist. It constricts the blood vessels of the nasal mucosa, which reduces swelling, congestion and bleeding.
 
 This is consistent with its existing uses in rhinitis and nasopharyngitis. "Nasal cavity disease" is a broad category that largely overlaps with these indications, so the prediction is more of an extension than a new therapeutic area.
 
@@ -148,12 +148,13 @@ The predicted indication largely overlaps with existing rhinitis and nasopharyng
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 12 US authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 12 valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Biorphen (phenylephrine hydrochloride) prescribing information, Dr. Reddy's Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f715e4e-b269-b935-d2c9-003cb29770be) |
 
 <!-- review:end log -->
 

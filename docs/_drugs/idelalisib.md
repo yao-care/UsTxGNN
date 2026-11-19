@@ -67,7 +67,7 @@ The TxGNN model predicts it may be effective for **Mantle Cell Lymphoma**, with 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, idelalisib selectively inhibits the delta isoform of PI3K, which sits downstream of the B-cell receptor and supports the survival, proliferation and homing of malignant B cells.
+According to the Mechanism of Action section of the FDA-approved prescribing information for idelalisib: "Idelalisib is an inhibitor of phosphatidylinositol 3-kinase, PI3Kδ, which is expressed in normal and malignant B-cells. Idelalisib induced apoptosis and inhibited proliferation in cell lines derived from malignant B-cells and in primary tumor cells." ([DailyMed: Zydelig (idelalisib) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efbdafa9-d18c-4e85-b4a2-1e620fc74e50), label version 2026-09-10; accessed 2026-11-19.) Based on known pharmacology, idelalisib selectively inhibits the delta isoform of PI3K, which sits downstream of the B-cell receptor and supports the survival, proliferation and homing of malignant B cells.
 
 Mantle cell lymphoma is a B-cell non-Hodgkin lymphoma that also depends on B-cell receptor and PI3K/AKT signaling. This is the same biology targeted in idelalisib's original indications (CLL/SLL and follicular lymphoma). Laboratory work shows idelalisib inhibits growth of mantle cell lymphoma cells through translation-regulatory mechanisms (PMID 27342398).
 
@@ -180,13 +180,14 @@ The mantle cell lymphoma evidence consists of early-phase combination studies (o
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "No confirmatory randomized trial exists for this indication, and the drug's only US license is now cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "'s sole US license is cancelled, and it" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since the NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zydelig (idelalisib) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efbdafa9-d18c-4e85-b4a2-1e620fc74e50) |
 
 <!-- review:end log -->
 

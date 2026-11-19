@@ -56,7 +56,7 @@ with **2 clinical trials** (one Phase 3) and **2 publications** currently suppor
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not available in the data compiled for this report. Based on known pharmacology, ticagrelor is a reversible P2Y12 receptor antagonist that inhibits platelet aggregation. Its efficacy in acute coronary syndrome, a platelet-driven thrombotic condition, is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ticagrelor: "Ticagrelor and its major metabolite reversibly interact with the platelet P2Y 12 ADP-receptor to prevent signal transduction and platelet activation. Ticagrelor and its active metabolite are approximately equipotent." ([DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8), label version 2026-05-07; accessed 2026-11-19.) Based on known pharmacology, ticagrelor is a reversible P2Y12 receptor antagonist that inhibits platelet aggregation. Its efficacy in acute coronary syndrome, a platelet-driven thrombotic condition, is established.
 
 Intracranial atherosclerotic stenosis causes stroke through platelet-rich thrombus formation and artery-to-artery embolism, so antiplatelet therapy is mechanistically plausible. Ticagrelor is already used in dual antiplatelet regimens for neurointerventional procedures such as intracranial stenting.
 
@@ -141,13 +141,14 @@ The mechanism is plausible, and a large Phase 3 trial (CAPTIVA, n=1683) directly
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Eight further ANDAs are on file, all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 13 valid licenses, and none has approved-indication text on file" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data was not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, dicyclomine is an antimuscarinic and smooth-muscle relaxant. Its use in irritable bowel syndrome is based on reducing gut spasm, and mechanistically it may be applicable to bladder and bowel dysfunction.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dicyclomine: "Dicyclomine relieves smooth muscle spasm of the gastrointestinal tract. Animal studies indicate that this action is achieved via a dual mechanism: a specific anticholinergic effect (antimuscarinic) at the acetylcholine-receptor sites with approximately 1/8 the milligram potency of atropine ( in vitro, guinea pig ileum); and a direct effect upon smooth muscle (musculotropic) as evidenced by dicyclomine’s antagonism of bradykinin- and histamine-induced spasms of the isolated guinea pig ileum." ([DailyMed: dicyclomine hydrochloride prescribing information, Slate Run Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e20a1ccf-2f3a-4872-811e-d93fb56b8e83), label version 2026-11-13; accessed 2026-11-19.) Based on known information, dicyclomine is an antimuscarinic and smooth-muscle relaxant. Its use in irritable bowel syndrome is based on reducing gut spasm, and mechanistically it may be applicable to bladder and bowel dysfunction.
 
 A plausible link is symptomatic control of detrusor overactivity and spasm that can accompany cauda equina syndrome. However, the drug would not treat the underlying cause, which is compression of the lumbosacral nerve roots and requires urgent surgical decompression.
 
@@ -127,12 +127,13 @@ The prediction has a high model score but no clinical trials or literature (Evid
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 13 valid licenses for these entries" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: dicyclomine hydrochloride prescribing information, Slate Run Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e20a1ccf-2f3a-4872-811e-d93fb56b8e83) |
 
 <!-- review:end log -->
 

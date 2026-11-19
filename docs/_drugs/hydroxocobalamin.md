@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **esophageal varices with bleed
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, hydroxocobalamin is a vitamin B12 form. Its established actions are acting as a cofactor for methionine synthase and methylmalonyl-CoA mutase, and binding cyanide to form cyanocobalamin. Its efficacy in B12 deficiency and cyanide poisoning is well recognized.
+According to the Mechanism of Action section of the FDA-approved prescribing information for hydroxocobalamin: "Cyanide is an extremely toxic poison. In the absence of rapid and adequate treatment, exposure to a high dose of cyanide can result in death within minutes due to the inhibition of cytochrome oxidase resulting in arrest of cellular respiration. […] Each hydroxocobalamin molecule can bind one cyanide ion by substituting it for the hydroxo ligand linked to the trivalent cobalt ion, to form cyanocobalamin, which is then excreted in the urine." ([DailyMed: Cyanokit (hydroxocobalamin) prescribing information, BTG INTERNATIONAL INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d56fcc8d-bd64-46ab-b0c0-2124bd745a6b), label version 2023-04-27; accessed 2026-11-19.) Based on known information, hydroxocobalamin is a vitamin B12 form. Its established actions are acting as a cofactor for methionine synthase and methylmalonyl-CoA mutase, and binding cyanide to form cyanocobalamin. Its efficacy in B12 deficiency and cyanide poisoning is well recognized.
 
 These actions have no recognized role in portal hypertension, variceal formation, or hemostasis. The two predicted indications (with and without bleeding) have identical scores of 0.9923. These scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -114,11 +114,12 @@ The prediction has a high model score (0.9923) but no clinical trials, no litera
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "given that both US authorizations are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cyanokit (hydroxocobalamin) prescribing information, BTG INTERNATIONAL INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d56fcc8d-bd64-46ab-b0c0-2124bd745a6b) |
 
 <!-- review:end log -->
 

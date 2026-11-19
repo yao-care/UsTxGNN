@@ -54,7 +54,7 @@ Modafinil is a wake-promoting agent that is mainly used to reduce excessive dayt
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Modafinil is generally understood to be a wake-promoting agent. It inhibits the dopamine transporter and modulates histaminergic, orexinergic and glutamatergic wake circuits. Its established role is to counteract daytime sleepiness, not to start or consolidate sleep.
+According to the Mechanism of Action section of the FDA-approved prescribing information for modafinil: "The mechanism(s) through which modafinil promotes wakefulness is unknown. Modafinil has wake-promoting actions similar to sympathomimetic agents including amphetamine and methylphenidate, although the pharmacologic profile is not identical to that of the sympathomimetic amines." ([DailyMed: Provigil (modafinil) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7), label version 2026-09-16; accessed 2026-11-19.) Modafinil is generally understood to be a wake-promoting agent. It inhibits the dopamine transporter and modulates histaminergic, orexinergic and glutamatergic wake circuits. Its established role is to counteract daytime sleepiness, not to start or consolidate sleep.
 
 The high score (0.9985) most likely reflects the drug's closeness to sleep-wake disorders in the model's network, such as narcolepsy, shift work disorder and sleep disturbance in neurological disease. It does not show a plausible therapeutic effect on insomnia itself. A drug that promotes wakefulness could plausibly worsen insomnia, so the mechanistic link is weak. Any real benefit would more likely be limited to daytime sleepiness or to sleep/wake problems secondary to another condition, such as Parkinson's disease.
 
@@ -116,11 +116,12 @@ The evidence level is L5. The only completed trial in primary insomnia (NCT00124
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The list may be partial; 7 valid single-ingredient licences are recorded, all for oral tablets" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Provigil (modafinil) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7) |
 
 <!-- review:end log -->
 

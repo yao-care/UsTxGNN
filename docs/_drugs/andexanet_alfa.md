@@ -54,7 +54,7 @@ Andexanet alfa is a recombinant factor Xa decoy protein used to reverse the effe
 
 ## Why is This Prediction Reasonable?
 
-Currently, formal mechanism of action data is not available in the compiled record. From the product's known profile, andexanet alfa is a catalytically inactive factor Xa decoy that binds and sequesters factor Xa inhibitors. It also binds TFPI and antithrombin-heparin complexes. Its role is to reverse anticoagulation, not to correct an intrinsic bleeding disorder.
+According to the Mechanism of Action section of the FDA-approved prescribing information for andexanet alfa: "Coagulation factor Xa (recombinant), inactivated-zhzo exerts its procoagulant effect by binding and sequestering the FXa inhibitors, rivaroxaban and apixaban. Another observed procoagulant effect of the ANDEXXA protein is its ability to bind to, and inhibit the activity of, Tissue Factor Pathway Inhibitor (TFPI)." ([DailyMed: Andexxa (andexanet alfa) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d9d90a6-63e6-46ef-96ff-dd6519ae7b6c), label version 2025-05-23; accessed 2026-11-19.) From the product's known profile, andexanet alfa is a catalytically inactive factor Xa decoy that binds and sequesters factor Xa inhibitors. It also binds TFPI and antithrombin-heparin complexes. Its role is to reverse anticoagulation, not to correct an intrinsic bleeding disorder.
 
 Glanzmann thrombasthenia is an inherited platelet disorder caused by a defect in integrin αIIbβ3 (GPIIb/IIIa), which impairs platelet aggregation. A factor Xa-inhibitor reversal agent does not act on this defect, so **no plausible mechanistic link** is apparent. The very high score (0.9977) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -127,11 +127,12 @@ The prediction is supported only by a model score (L5). There are no clinical tr
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-17 | Restored: "The product's license is also cancelled in the US" (Purple Book lists BLA 125586 as Revoked) | Annotated (revised 2026-11-17; earlier version kept in the record) | [FDA Purple Book data download (October 2026)](https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-October-data-download.csv); [openFDA NDC Directory](https://open.fda.gov/data/ndc/); [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/) |
+| 2026-11-19 | "Currently, formal mechanism of action data is not available in the compiled record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Andexxa (andexanet alfa) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d9d90a6-63e6-46ef-96ff-dd6519ae7b6c) |
 
 <!-- review:end log -->
 

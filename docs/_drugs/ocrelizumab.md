@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** that specif
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ocrelizumab is a humanized anti-CD20 monoclonal antibody that depletes CD20-expressing B cells. Its efficacy in multiple sclerosis is well established. The publications compiled for this report describe B-cell depletion as the basis of its action in that disease.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ocrelizumab: "The precise mechanism by which ocrelizumab exerts its therapeutic effects in multiple sclerosis is unknown, but is presumed to involve binding to CD20, a cell surface antigen present on pre-B and mature B lymphocytes. Following cell surface binding to B lymphocytes, ocrelizumab results in antibody-dependent cellular cytolysis and complement-mediated lysis." ([DailyMed: Ocrevus (ocrelizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9da42362-3bb5-4b83-b4bb-b59fd4e55f0d), label version 2026-05-14; accessed 2026-11-19.) Based on known information, ocrelizumab is a humanized anti-CD20 monoclonal antibody that depletes CD20-expressing B cells. Its efficacy in multiple sclerosis is well established. The publications compiled for this report describe B-cell depletion as the basis of its action in that disease.
 
 The data compiled for this report do not support a mechanistic link to HER2-positive breast carcinoma. HER2-driven tumour biology is not obviously connected to CD20-mediated B-cell depletion. The high TxGNN score (0.9989) is a computational prediction only, and no trials or publications back it.
 
@@ -133,12 +133,13 @@ The prediction rests on a model score alone (Evidence Level L5). There are no cl
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All US licences for the drug are also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since both BLA records show as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ocrevus (ocrelizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9da42362-3bb5-4b83-b4bb-b59fd4e55f0d) |
 
 <!-- review:end log -->
 

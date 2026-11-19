@@ -56,7 +56,7 @@ but **no clinical trials and no publications** were found to support this direct
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on what is known, cemiplimab is an antibody that blocks the interaction between PD-1 (encoded by PDCD1) and its ligand PD-L1, with an IC50 below 1 nM in a laboratory binding assay. Blocking this pathway releases the brake on T cells so they can attack tumour cells.
+According to the Mechanism of Action section of the FDA-approved prescribing information for cemiplimab: "Binding of the PD-1 ligands PD-L1 and PD-L2 to the PD-1 receptor found on T cells inhibits T-cell proliferation and cytokine production. Upregulation of PD-1 ligands occurs in some tumors and signaling through this pathway can contribute to inhibition of active T-cell immune surveillance of tumors. […] Cemiplimab-rwlc is a recombinant human immunoglobulin G4 (IgG4) monoclonal antibody that binds to PD-1 and blocks its interaction with PD-L1 and PD-L2, releasing PD-1 pathway-mediated inhibition of the immune response, including the anti-tumor immune response." ([DailyMed: Libtayo (cemiplimab-rwlc) prescribing information, Regeneron Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4347ae1f-d397-4f18-8b70-03897e1c054a), label version 2026-08-31; accessed 2026-11-19.) Based on what is known, cemiplimab is an antibody that blocks the interaction between PD-1 (encoded by PDCD1) and its ligand PD-L1, with an IC50 below 1 nM in a laboratory binding assay. Blocking this pathway releases the brake on T cells so they can attack tumour cells.
 
 Adenosquamous carcinoma contains a squamous cell component. Because cemiplimab has clinical activity in a squamous-histology cancer (cutaneous squamous cell carcinoma), the squamous component of this tumour could plausibly respond to PD-1 blockade as well.
 
@@ -96,6 +96,18 @@ The prediction score is very high, but there are no clinical trials or publicati
 - Obtain and review the FDA package insert warnings and contraindications
 - Detailed mechanism of action data from DrugBank
 - Assessment of route compatibility and similarity to the original use (currently pending)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Libtayo (cemiplimab-rwlc) prescribing information, Regeneron Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4347ae1f-d397-4f18-8b70-03897e1c054a) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

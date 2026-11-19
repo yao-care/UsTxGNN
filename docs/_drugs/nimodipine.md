@@ -58,7 +58,7 @@ A second prediction, **nephrogenic syndrome of inappropriate antidiuresis (NSIAD
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, nimodipine is an L-type calcium channel blocker of the dihydropyridine class, used for its effects on cerebral blood vessels in subarachnoid hemorrhage.
+According to the Mechanism of Action section of the FDA-approved prescribing information for nimodipine: "Nimodipine is a dihydropyridine calcium channel blocker. The contractile processes of smooth muscle cells are dependent upon calcium ions, which enter these cells during depolarization as slow ionic transmembrane currents." ([DailyMed: Nymalize (nimodipine) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e660fa26-b5c4-4d6d-8887-9e22b6666a10), label version 2024-08-30; accessed 2026-11-19.) Based on known information, nimodipine is an L-type calcium channel blocker of the dihydropyridine class, used for its effects on cerebral blood vessels in subarachnoid hemorrhage.
 
 **Homozygous familial hypercholesterolemia (HoFH)** is caused by defects in the LDL receptor pathway (LDLR, APOB, PCSK9, LDLRAP1), which impair LDL clearance. No established mechanistic link to calcium channel blockade exists. Some calcium channel blockers have been reported in preclinical settings to have minor effects on vascular lipid deposition or atherosclerosis progression. This is indirect and does not address the primary defect. The high TxGNN score is a computational output only and should not be read as evidence of efficacy.
 
@@ -106,6 +106,19 @@ Both predictions have only a computational basis (L5), with no clinical trials o
 - Preclinical or mechanistic evidence linking calcium channel blockade to LDL metabolism (HoFH) or to V2 receptor/aquaporin-2 signaling (NSIAD)
 - A systematic literature and trial search for either indication
 - Route and formulation compatibility assessment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nymalize (nimodipine) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e660fa26-b5c4-4d6d-8887-9e22b6666a10) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ but **no clinical trials and no supporting publications** are currently availabl
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, triamterene is a potassium-sparing diuretic that blocks the epithelial sodium channel (ENaC) in the distal nephron. It is already used for hypertension and heart failure, and mechanistically it may contribute to blood pressure and volume control in hypertensive kidney disease.
+ChEMBL (EMBL-EBI) records the mechanism of action of triamterene as: Amiloride-sensitive sodium channel, ENaC blocker ([ChEMBL CHEMBL585 (triamterene): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL585), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, triamterene is a potassium-sparing diuretic that blocks the epithelial sodium channel (ENaC) in the distal nephron. It is already used for hypertension and heart failure, and mechanistically it may contribute to blood pressure and volume control in hypertensive kidney disease.
 
 The link between the original and predicted indications is plausible but weak. Malignant hypertension is a medical emergency that generally needs rapid, titratable parenteral therapy, so an oral diuretic is unlikely to be suitable as primary treatment. Reduced kidney function also raises the risk of hyperkalaemia with a potassium-sparing agent. The high TxGNN score likely reflects network proximity to hypertension-related terms rather than direct evidence.
 
@@ -129,11 +129,12 @@ The prediction is supported only by the model score (Evidence Level L5). There a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All three authorizations are single-ingredient oral capsules and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL585 (triamterene): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL585) |
 
 <!-- review:end log -->
 

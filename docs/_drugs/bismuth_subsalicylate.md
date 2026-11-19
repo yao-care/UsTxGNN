@@ -56,7 +56,7 @@ The data compiled for this report show the strongest (still only indirect) suppo
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, bismuth subsalicylate is a poorly soluble compound widely used for gastrointestinal disorders. A laboratory study found that it binds diverse bacteria and subsequently kills them, and reviews describe it as an antisecretory agent that reduces stool number by about 50% in acute diarrhea.
+ChEMBL (EMBL-EBI) records the mechanism of action of bismuth subsalicylate as: Cyclooxygenase inhibitor ([ChEMBL CHEMBL1120 (bismuth subsalicylate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1120), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, bismuth subsalicylate is a poorly soluble compound widely used for gastrointestinal disorders. A laboratory study found that it binds diverse bacteria and subsequently kills them, and reviews describe it as an antisecretory agent that reduces stool number by about 50% in acute diarrhea.
 
 A plausible link to paratyphoid fever is its antibacterial and anti-secretory action against enteric *Salmonella*. However, this reasoning is inferred from its use in diarrheal disease and is not supported by any data on paratyphoid fever. Paratyphoid fever is a systemic infection, and a gut-acting, minimally absorbed agent would not be expected to treat it adequately. The very high score is therefore best read as a model signal, not as evidence of efficacy.
 
@@ -147,13 +147,14 @@ The top-ranked prediction, paratyphoid fever, rests on model score alone (L5) wi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "The drug is marketed in the US, and all three authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "The drug is marketed in the US with three valid authorizations, and label safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "given that the drug is marketed with three valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1120 (bismuth subsalicylate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1120) |
 
 <!-- review:end log -->
 

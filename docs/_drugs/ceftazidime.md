@@ -54,7 +54,7 @@ Ceftazidime is an injectable cephalosporin antibiotic that kills bacteria by blo
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for ceftazidime is not available in the compiled data. As a cephalosporin, ceftazidime is known to bind penicillin-binding proteins and block bacterial cell wall synthesis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ceftazidime: "Ceftazidime is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Ceftazidime has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: ceftazidime prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=112c5457-8d71-49f5-b531-9761d7d38c93), label version 2026-08-03; accessed 2026-11-19.) As a cephalosporin, ceftazidime is known to bind penicillin-binding proteins and block bacterial cell wall synthesis.
 
 Polyclonal hyperviscosity syndrome is a condition of abnormally thick blood, linked to elevated immunoglobulin levels. It is not a bacterial disease, and it has no cell wall target for an antibiotic to act on. The data compiled for this report found no plausible mechanistic link. The high score looks like a statistical output of the model rather than a biologically grounded signal. The prediction should be treated as a hypothesis only.
 
@@ -95,6 +95,19 @@ The prediction has no supporting trials or publications, and no plausible link b
 - A biological rationale for how a cell wall-targeting antibiotic could affect this condition
 - Full mechanism-of-action data
 - Safety information from the current package insert
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for ceftazidime is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ceftazidime prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=112c5457-8d71-49f5-b531-9761d7d38c93) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

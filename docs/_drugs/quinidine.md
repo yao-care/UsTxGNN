@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, quinidine is a class Ia antiarrhythmic (a sodium and potassium channel blocker) and also has antimalarial activity. Its efficacy in atrial fibrillation and malaria is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for quinidine: "In patients with malaria, quinidine acts primarily as an intra-erythrocytic schizonticide, with little effect upon sporozites or upon pre-erythrocytic parasites. Quinidine is gametocidal to Plasmodium vivax and P. malariae, but not to P. falciparum." ([DailyMed: quinidine gluconate prescribing information, Golden State Medical Supply](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ad2ad985-cca2-25b5-e053-2995a90a402f), label version 2024-08-27; accessed 2026-11-19.) Based on known information, quinidine is a class Ia antiarrhythmic (a sodium and potassium channel blocker) and also has antimalarial activity. Its efficacy in atrial fibrillation and malaria is established.
 
 NSIAD is caused by gain-of-function variants in the vasopressin V2 receptor gene (AVPR2) or, in some cases, GNAS. These variants cause the kidney collecting duct to reabsorb water inappropriately even when vasopressin levels are low. A possible link is that quinidine's ion channel activity or off-target effects influence renal water handling or vasopressin signaling. This is speculative, and the data compiled for this report contain no evidence supporting it. The high score (0.9927) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The model's rank for this prediction is 16,214.
 
@@ -117,12 +117,13 @@ The prediction score is very high, but no clinical trials, literature, or mechan
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All five authorizations are valid, and the drug is currently marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 5 of 5 authorizations valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: quinidine gluconate prescribing information, Golden State Medical Supply](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ad2ad985-cca2-25b5-e053-2995a90a402f) |
 
 <!-- review:end log -->
 

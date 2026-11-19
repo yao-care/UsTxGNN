@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **Hodgkin lymphoma**, but the e
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, duvelisib inhibits PI3K-delta and PI3K-gamma. These enzymes support B-cell receptor signaling, cell survival, and the tumor microenvironment in lymphoid malignancies.
+According to the Mechanism of Action section of the FDA-approved prescribing information for duvelisib: "Duvelisib is an inhibitor of PI3K with inhibitory activity predominantly against PI3K-δ and PI3K-γ isoforms expressed in normal and malignant B-cells. Duvelisib induced growth inhibition and reduced viability in cell lines derived from malignant B-cells and in primary CLL tumor cells." ([DailyMed: Copiktra (duvelisib) prescribing information, Secura Bio, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3c5ac56-e1f6-473a-bc73-687836534780), label version 2025-12-18; accessed 2026-11-19.) Based on known pharmacology, duvelisib inhibits PI3K-delta and PI3K-gamma. These enzymes support B-cell receptor signaling, cell survival, and the tumor microenvironment in lymphoid malignancies.
 
 Classical Hodgkin lymphoma depends on PI3K/AKT signaling and an immune-rich microenvironment, so targeting this pathway is plausible. Duvelisib has shown activity in related lymphoid diseases (CLL/SLL, indolent non-Hodgkin lymphoma, and T-cell lymphoma).
 
@@ -162,12 +162,13 @@ The high prediction score is not backed by any Hodgkin lymphoma-specific trial o
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The supporting evidence is from related lymphomas, several trials were withdrawn or terminated, and the only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled US market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Copiktra (duvelisib) prescribing information, Secura Bio, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3c5ac56-e1f6-473a-bc73-687836534780) |
 
 <!-- review:end log -->
 

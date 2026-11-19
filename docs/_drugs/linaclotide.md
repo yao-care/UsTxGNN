@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, linaclotide is a guanylate cyclase-C (GC-C) agonist that acts locally on the intestinal epithelium with minimal systemic absorption. Activating GC-C raises intracellular cGMP, which increases intestinal fluid secretion, accelerates transit, and may reduce visceral pain signalling. This explains its use in bowel disorders such as irritable bowel syndrome.
+According to the Mechanism of Action section of the FDA-approved prescribing information for linaclotide: "Linaclotide is structurally related to human guanylin and uroguanylin and functions as a guanylate cyclase-C (GC-C) agonist. Both linaclotide and its active metabolite bind to GC-C and act locally on the luminal surface of the intestinal epithelium." ([DailyMed: Linzess (linaclotide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d09771d-69da-4c9d-92b6-74374ffa130f), label version 2026-10-10; accessed 2026-11-19.) Based on general pharmacology, linaclotide is a guanylate cyclase-C (GC-C) agonist that acts locally on the intestinal epithelium with minimal systemic absorption. Activating GC-C raises intracellular cGMP, which increases intestinal fluid secretion, accelerates transit, and may reduce visceral pain signalling. This explains its use in bowel disorders such as irritable bowel syndrome.
 
 Cauda equina syndrome is a compressive neurological emergency, typically caused by disc herniation, and it requires surgical decompression. No direct mechanistic link to linaclotide has been established. The only plausible connection is indirect: symptomatic relief of neurogenic bowel dysfunction (constipation) that can accompany the condition. That would not treat the underlying disease.
 
@@ -129,12 +129,13 @@ The prediction has no clinical trials or publications behind it, and no credible
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The marketed US product is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since the listed NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Linzess (linaclotide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d09771d-69da-4c9d-92b6-74374ffa130f) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **multiple endocrine neoplasia*
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on general knowledge of the drug, lurbinectedin is an alkylating agent that binds guanines in the DNA minor groove and inhibits oncogenic transcription. It is known to be used in relapsed small cell lung cancer, which is a neuroendocrine tumour. This background is not drawn from the compiled data and should be verified.
+According to the Mechanism of Action section of the FDA-approved prescribing information for lurbinectedin: "Lurbinectedin is an alkylating drug that binds guanine residues in the minor groove of DNA, forming adducts and resulting in a bending of the DNA helix towards the major groove. Adduct formation triggers a cascade of events that can affect the subsequent activity of DNA binding proteins, including some transcription factors, and DNA repair pathways, resulting in perturbation of the cell cycle and eventual cell death." ([DailyMed: Zepzelca (lurbinectedin) prescribing information, Jazz Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=632bb50c-3bcb-4c85-9056-fc33410550ae), label version 2026-09-30; accessed 2026-11-19.) Based on general knowledge of the drug, lurbinectedin is an alkylating agent that binds guanines in the DNA minor groove and inhibits oncogenic transcription. It is known to be used in relapsed small cell lung cancer, which is a neuroendocrine tumour. This background is not drawn from the compiled data and should be verified.
 
 Multiple endocrine neoplasia (MEN) syndromes involve tumors of endocrine and neuroendocrine tissue. A link between a transcription-inhibiting cytotoxic agent used in a neuroendocrine cancer and MEN-associated neuroendocrine tumors is plausible. It remains a hypothesis, however, because the TxGNN score is high (0.9944) but no trials or publications support it.
 
@@ -132,12 +132,13 @@ The prediction rests only on a model score. There are no clinical trials or publ
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Clarification of the cancelled license status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zepzelca (lurbinectedin) prescribing information, Jazz Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=632bb50c-3bcb-4c85-9056-fc33410550ae) |
 
 <!-- review:end log -->
 

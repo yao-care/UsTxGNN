@@ -58,7 +58,7 @@ Droperidol is a butyrophenone dopamine D2 antagonist that has been sold in the U
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Droperidol is known to be a butyrophenone neuroleptic that blocks dopamine D2 receptors. This is the same class as haloperidol, an established treatment for Tourette syndrome.
+ChEMBL (EMBL-EBI) records the mechanism of action of droperidol as: Serotonin 2a (5-HT2a) receptor antagonist; D2-like dopamine receptor antagonist ([ChEMBL CHEMBL1108 (droperidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1108), CC BY-SA 3.0; accessed 2026-11-19.) Droperidol is known to be a butyrophenone neuroleptic that blocks dopamine D2 receptors. This is the same class as haloperidol, an established treatment for Tourette syndrome.
 
 Tourette syndrome is a tic disorder in which dopamine D2 blockade is a recognized treatment approach. The mechanistic rationale is therefore plausible. However, droperidol is an injectable, mainly sedating agent. Tourette syndrome usually needs long-term oral treatment, and no study of droperidol in this condition was retrieved. The high TxGNN score should be read as a hypothesis, not as evidence of benefit.
 
@@ -130,6 +130,19 @@ The Tourette syndrome prediction has a very high model score and a plausible D2-
 - A cardiac safety plan (QT/ECG monitoring)
 
 **Note on other predicted indications:** among the other predictions in the data, **headache disorder** (rank 7) has the most support. It has one registered trial (NCT01406860, terminated with 19 participants), a randomized placebo-controlled trial of droperidol in acute migraine (PMID 12552051), and several reviews. It reaches evidence level L3. If the aim is to prioritize droperidol repurposing candidates, that indication merits a dedicated evaluation, with QT-risk guardrails and a check of the market status.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1108 (droperidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1108) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

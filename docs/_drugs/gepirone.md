@@ -56,7 +56,7 @@ Two other predictions, agoraphobia and postpartum depression, have somewhat more
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, gepirone is a 5-HT1A receptor agonist (an azapirone, related to buspirone-type anxiolytics). Its efficacy in depression and anxiety is the basis of its original indications.
+According to the Mechanism of Action section of the FDA-approved prescribing information for gepirone: "The mechanism of the antidepressant effect of EXXUA is not fully understood but is thought to be related to its modulation of serotonergic activity in the CNS through selective agonist activity at 5HT1A receptors." ([DailyMed: Exxua (gepirone) prescribing information, Aytu Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c78edd8-6acb-433c-9d34-2527da8d64e1), label version 2026-07-14; accessed 2026-11-19.) Based on general pharmacological knowledge, gepirone is a 5-HT1A receptor agonist (an azapirone, related to buspirone-type anxiolytics). Its efficacy in depression and anxiety is the basis of its original indications.
 
 Benign paroxysmal torticollis of infancy is regarded as a migraine-related channelopathy, associated with variants in CACNA1A. A serotonergic link is therefore plausible, but it is speculative. The condition is also self-limiting and occurs in infants, and no safety data exist for gepirone in this age group. The high TxGNN score is not backed by clinical or mechanistic evidence.
 
@@ -119,11 +119,12 @@ The TxGNN score is very high, but there are no clinical trials, no literature, a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The U.S. licence is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Exxua (gepirone) prescribing information, Aytu Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c78edd8-6acb-433c-9d34-2527da8d64e1) |
 
 <!-- review:end log -->
 

@@ -61,7 +61,7 @@ The TxGNN model's top-ranked prediction is **acute contagious conjunctivitis**, 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, loperamide is a peripheral mu-opioid receptor agonist that slows gut motility. Its efficacy in diarrheal disease is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for loperamide: "In vitro and animal studies show that loperamide hydrochloride capsules act by slowing intestinal motility and by affecting water and electrolyte movement through the bowel. Loperamide binds to the opiate receptor in the gut wall." ([DailyMed: loperamide hydrochloride prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74b9893a-18c3-4117-85c2-edab8e7b3b3b), label version 2026-07-09; accessed 2026-11-19.) From general pharmacology, loperamide is a peripheral mu-opioid receptor agonist that slows gut motility. Its efficacy in diarrheal disease is established.
 
 **Acute contagious conjunctivitis (rank 1):** There is no credible mechanism. Loperamide acts on the gut, and opioid receptors in the cornea do not support an anti-infective or anti-inflammatory role in an infectious ocular surface disease. The high score (0.9997) comes from the TxGNN model (deep learning) and most likely reflects similarities the model learned between related diseases, not biological evidence or pharmacology. The same applies to conjunctivitis (rank 3), pseudomembranous conjunctivitis (rank 5), conjunctival folliculosis (rank 6), parasitic conjunctivitis (rank 7), chronic follicular conjunctivitis (rank 8), serous conjunctivitis except viral (rank 9) and Angelucci syndrome (rank 10). Ranks 6 to 9 share an identical score, which suggests ontology-propagated predictions rather than independent signals.
 
@@ -145,12 +145,13 @@ The rank-1 prediction (acute contagious conjunctivitis) and the other ocular pre
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 10 licenses are valid, and no approved indication text is recorded" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 10 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: loperamide hydrochloride prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74b9893a-18c3-4117-85c2-edab8e7b3b3b) |
 
 <!-- review:end log -->
 

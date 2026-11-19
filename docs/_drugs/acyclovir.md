@@ -56,7 +56,7 @@ but **no clinical trials** and only **2 publications** were retrieved, and neith
 
 ## Why is This Prediction Reasonable?
 
-Acyclovir is active against herpesviruses. It is selectively activated by viral thymidine kinase and then blocks viral DNA synthesis. Detailed mechanism-of-action data are not available in the data compiled for this report, so this description reflects general knowledge of the drug class.
+Acyclovir is active against herpesviruses. It is selectively activated by viral thymidine kinase and then blocks viral DNA synthesis. According to the Mechanism of Action section of the FDA-approved prescribing information for acyclovir: "Acyclovir is a synthetic purine nucleoside analogue with in vitro and in vivo inhibitory activity against herpes simplex virus types 1 (HSV-1), 2 (HSV-2), and varicella-zoster virus (VZV). The inhibitory activity of acyclovir is highly selective due to its affinity for the enzyme thymidine kinase (TK) encoded by HSV and VZV." ([DailyMed: acyclovir prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=499c6a98-0614-4ded-8526-909942bae8a4), label version 2026-06-26; accessed 2026-11-19.) This description reflects general knowledge of the drug class.
 
 The link to punctate epithelial keratoconjunctivitis is weak. The only literature retrieved concerns microsporidial keratoconjunctivitis (a parasitic infection) and drug-induced corneal lipidosis in patients with AIDS. Neither is herpetic and neither involves acyclovir as a treatment. The high model score therefore rests on network-level similarity and is not backed by clinical data. Any plausibility would depend on a viral cause of the keratoconjunctivitis that acyclovir could target, which the retrieved data do not show.
 
@@ -101,6 +101,19 @@ The prediction score is high (0.9967), but no clinical trials exist and the retr
 - Clinical studies or case series of acyclovir in punctate epithelial keratoconjunctivitis
 - Detailed mechanism-of-action data
 - Package insert warnings and contraindications for review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: acyclovir prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=499c6a98-0614-4ded-8526-909942bae8a4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

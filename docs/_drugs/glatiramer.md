@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and only **1 loosely related publi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, glatiramer acetate is an immunomodulator that shifts T-cell responses toward a Th2 phenotype and induces regulatory T cells. It is used in multiple sclerosis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for glatiramer: "The mechanism(s) by which glatiramer acetate exerts its effects in patients with MS are not fully understood. However, glatiramer acetate is thought to act by modifying immune processes that are believed to be responsible for the pathogenesis of MS." ([DailyMed: Glatopa (glatiramer acetate) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0679689e-8930-4d6a-b922-5125082b2716), label version 2026-10-26; accessed 2026-11-19.) Based on general knowledge, glatiramer acetate is an immunomodulator that shifts T-cell responses toward a Th2 phenotype and induces regulatory T cells. It is used in multiple sclerosis.
 
 No plausible direct mechanistic link to hemoglobinopathies (such as sickle cell disease or thalassemia) has been established. The only linked publication (PMID 28372806) is a case-based commentary on immune disorders after natalizumab discontinuation in an MS patient who also had beta thalassemia. It does not evaluate glatiramer in hemoglobinopathy. The very high score (0.9903) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -118,12 +118,13 @@ The prediction rests only on a score from the TxGNN model (deep learning). There
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 9 of 9 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(9 of 9 US licenses are currently valid)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Glatopa (glatiramer acetate) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0679689e-8930-4d6a-b922-5125082b2716) |
 
 <!-- review:end log -->
 

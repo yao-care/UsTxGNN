@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **Insomnia**, but there are **0
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not available in the data compiled for this report. From the literature, pitolisant is a selective histamine H3 receptor antagonist/inverse agonist. It increases histaminergic neurotransmission in the brain and promotes wakefulness, which is why it is used for excessive daytime sleepiness in narcolepsy.
+According to the Mechanism of Action section of the FDA-approved prescribing information for pitolisant: "The mechanism of action of pitolisant in excessive daytime sleepiness (EDS) or cataplexy in patients 6 years and older with narcolepsy is unclear. However, its efficacy could be mediated through its activity as an antagonist/inverse agonist at histamine-3 (H3) receptors." ([DailyMed: Wakix (pitolisant hydrochloride) prescribing information, Harmony Biosciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8daa5562-824e-476c-9652-26ceef3d4b0e), label version 2026-02-13; accessed 2026-11-19.) From the literature, pitolisant is a selective histamine H3 receptor antagonist/inverse agonist. It increases histaminergic neurotransmission in the brain and promotes wakefulness, which is why it is used for excessive daytime sleepiness in narcolepsy.
 
 This is where the prediction becomes doubtful. Insomnia treatment aims to promote sleep, whereas pitolisant promotes wakefulness. Blocking H3 receptors could plausibly worsen insomnia, and insomnia is a known adverse effect of the drug. The high TxGNN score (0.9971) comes from the TxGNN model (deep learning) and most likely reflects similarities the model learned between related diseases, such as sleep-wake disorders in general, not biological evidence or a true therapeutic signal.
 
@@ -149,11 +149,12 @@ The prediction is supported only by a model score. There are no clinical trials 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Clarification of why the US Wakix licence (NDA211150) is recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data was not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Wakix (pitolisant hydrochloride) prescribing information, Harmony Biosciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8daa5562-824e-476c-9652-26ceef3d4b0e) |
 
 <!-- review:end log -->
 

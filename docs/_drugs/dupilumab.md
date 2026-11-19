@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **bronchitis**, but this predic
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on the published literature, dupilumab blocks IL-4Rα and thereby the signaling of IL-4 and IL-13, two key drivers of type 2 inflammation. This is the mechanism behind its efficacy in atopic dermatitis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dupilumab: "Dupilumab is a human monoclonal IgG4 antibody that inhibits interleukin-4 (IL-4) and interleukin-13 (IL-13) signaling by specifically binding to the IL-4Rα subunit shared by the IL-4 and IL-13 receptor complexes. Dupilumab inhibits IL-4 signaling via the Type I receptor and both IL-4 and IL-13 signaling through the Type II receptor." ([DailyMed: Dupixent (dupilumab) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780), label version 2026-04-22; accessed 2026-11-19.) Based on the published literature, dupilumab blocks IL-4Rα and thereby the signaling of IL-4 and IL-13, two key drivers of type 2 inflammation. This is the mechanism behind its efficacy in atopic dermatitis.
 
 The same type 2 pathway drives mucus hypersecretion and eosinophilic infiltration in the airways. A mechanistic link is therefore plausible for eosinophilic or type 2 bronchitis phenotypes, including type 2 COPD with chronic bronchitis features. Real-world COPD series, including one in older patients with a predominant chronic bronchitis phenotype, point in this direction.
 
@@ -133,12 +133,13 @@ The mechanistic rationale is plausible, but no trial has tested dupilumab in bro
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US BLA is also recorded as cancelled, and p" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "(cancelled BLA record)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dupixent (dupilumab) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780) |
 
 <!-- review:end log -->
 

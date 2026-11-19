@@ -56,7 +56,7 @@ and so far this is supported by only **1 broad, non-specific clinical trial** an
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. From the available analysis, larotrectinib is a selective pan-TRK inhibitor (TRKA/B/C). Its original indication could not be confirmed from the license records.
+According to the Mechanism of Action section of the FDA-approved prescribing information for larotrectinib: "Larotrectinib is an inhibitor of the tropomyosin receptor kinases (TRK), TRKA, TRKB, and TRKC. In a broad panel of purified enzyme assays, larotrectinib inhibited TRKA, TRKB, and TRKC with IC 50 values between 5-11 nM. One other kinase TNK2 was inhibited at approximately 100-fold higher concentration." ([DailyMed: Vitrakvi (larotrectinib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c8ca614-58b2-4aa4-83d3-0387a8f782fd), label version 2026-05-22; accessed 2026-11-19.) From the available analysis, larotrectinib is a selective pan-TRK inhibitor (TRKA/B/C). Its original indication could not be confirmed from the license records.
 
 Multiple endocrine neoplasia type 2 (MEN2) is driven by activating germline RET mutations, which underlie medullary thyroid carcinoma and pheochromocytoma. Larotrectinib has no established direct RET activity, so the link is indirect. It rests on shared receptor tyrosine kinase signalling (RAS/MAPK, PI3K/AKT) and on TRK fusions occurring in a small subset of thyroid cancers.
 
@@ -125,11 +125,12 @@ The only supporting trial is a non-specific basket study, and the literature is 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both US licences are cancelled, and p" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vitrakvi (larotrectinib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c8ca614-58b2-4aa4-83d3-0387a8f782fd) |
 
 <!-- review:end log -->
 

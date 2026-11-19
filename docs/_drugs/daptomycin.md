@@ -60,7 +60,7 @@ This prediction is best viewed as a model artifact rather than a real repurposin
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, daptomycin is a cyclic lipopeptide antibiotic that acts on Gram-positive bacteria, and its efficacy in bacterial infections is established. Mechanistically, there is no clear basis for it being applicable to degenerative osteoarthritis.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for daptomycin: "Daptomycin is an antibacterial drug. […] Daptomycin binds to bacterial cell membranes and causes a rapid depolarization of membrane potential. This loss of membrane potential causes inhibition of DNA, RNA, and protein synthesis, which results in bacterial cell death." ([DailyMed: Dapzura Rt (daptomycin) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb1283e1-35b8-425c-b338-d9ac0c7161f8), label version 2022-01-25; accessed 2026-11-19.) Based on known information, daptomycin is a cyclic lipopeptide antibiotic that acts on Gram-positive bacteria, and its efficacy in bacterial infections is established. Mechanistically, there is no clear basis for it being applicable to degenerative osteoarthritis.
 
 The retrieved literature concerns daptomycin used to treat osteoarticular and prosthetic joint infections caused by organisms such as *Staphylococcus*. That is an anti-infective use, not disease modification of osteoarthritis. The high TxGNN score most likely reflects network proximity to bone and joint terms rather than a true repurposing signal.
 
@@ -153,12 +153,13 @@ No clinical trials exist, and the literature concerns treating joint infections 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 17 US authorizations for daptomycin are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-12 | Removed: "with 17 US licenses currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dapzura Rt (daptomycin) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb1283e1-35b8-425c-b338-d9ac0c7161f8) |
 
 <!-- review:end log -->
 

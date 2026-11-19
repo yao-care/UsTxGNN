@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **obesity disorder**, but there
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, pentobarbital is a barbiturate that enhances GABA-A receptor signalling, producing sedation, hypnosis, and anticonvulsant effects. This explains its original uses in epilepsy and insomnia.
+ChEMBL (EMBL-EBI) records the mechanism of action of pentobarbital as: GABA-A receptor; anion channel positive allosteric modulator ([ChEMBL CHEMBL448 (pentobarbital): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL448), CC BY-SA 3.0; accessed 2026-11-19.) From general pharmacology, pentobarbital is a barbiturate that enhances GABA-A receptor signalling, producing sedation, hypnosis, and anticonvulsant effects. This explains its original uses in epilepsy and insomnia.
 
 For obesity, **no credible mechanistic link was identified**. The retrieved publications are animal or physiology studies on insulin kinetics, hypothalamic lesions, leptin mimetics, and gastric electrical stimulation. In these papers pentobarbital appears almost entirely as an **anaesthetic used during experiments**, not as a treatment. Barbiturates are not known to reduce body fat or appetite. The high TxGNN score therefore looks like a model signal rather than a pharmacologically grounded hypothesis.
 
@@ -145,6 +145,19 @@ The obesity prediction has no clinical trials, no human studies, and no plausibl
 - Any credible pharmacological rationale linking GABA-A modulation to weight or appetite regulation
 - Evidence from controlled human or well-designed pharmacological studies that tests pentobarbital as the intervention, not as an anaesthetic
 - A risk-benefit comparison against existing obesity therapies, given pentobarbital's dependence and respiratory depression risks
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL448 (pentobarbital): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL448) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

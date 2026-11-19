@@ -56,7 +56,7 @@ The data compiled for this report contain **no registered clinical trials** and 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Bleomycin is generally understood to cause DNA strand breaks, which gives a broad antineoplastic rationale. Cauda equina neoplasms are tumours of the nerve roots at the lower end of the spinal canal.
+According to the Mechanism of Action section of the FDA-approved prescribing information for bleomycin: "Although the exact mechanism of action of bleomycin is unknown, available evidence indicates that the main mode of action is the inhibition of DNA synthesis with some evidence of lesser inhibition of RNA and protein synthesis. Bleomycin is known to cause single, and to a lesser extent, double-stranded breaks in DNA." ([DailyMed: Bleomycin (bleomycin sulfate) prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=640602f9-a7df-46f0-a9b1-19c471008bee), label version 2026-04-17; accessed 2026-11-19.) Bleomycin is generally understood to cause DNA strand breaks, which gives a broad antineoplastic rationale. Cauda equina neoplasms are tumours of the nerve roots at the lower end of the spinal canal.
 
 No specific mechanistic or clinical link between bleomycin and cauda equina tumours was found. The only retrieved paper is a retrospective cohort on radiation therapy for relapsed CNS germinoma after a carboplatin, etoposide and bleomycin chemotherapy regimen. It studies radiotherapy, not bleomycin, and not this disease. The high TxGNN score is a computational prediction only.
 
@@ -110,6 +110,19 @@ No clinical trial or publication directly studies bleomycin in cauda equina neop
 - Detailed mechanism of action data
 - Label warnings and contraindications from the package insert, including a pulmonary toxicity risk assessment
 - A delivery-route assessment for access to this tumour site
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Bleomycin (bleomycin sulfate) prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=640602f9-a7df-46f0-a9b1-19c471008bee) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ The evidence is indirect and rests mainly on class-level corticosteroid pharmaco
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug. Based on known information, flunisolide is a corticosteroid with anti-inflammatory activity. Its efficacy in asthma and allergic rhinitis is established, and mechanistically it may be applicable to atopic eczema.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for flunisolide: "Flunisolide has demonstrated potent glucocorticoid and weak mineralocorticoid activity in classical animal test systems. As a glucocorticoid, it is several hundred times more potent than the cortisol standard. Clinical studies with flunisolide have shown therapeutic activity on nasal mucous membranes with minimal evidence of systemic activity at the recommended doses." ([DailyMed: flunisolide prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=50d87523-e1fb-4342-825f-9dba972c6a25), label version 2025-05-02; accessed 2026-11-19.) Based on known information, flunisolide is a corticosteroid with anti-inflammatory activity. Its efficacy in asthma and allergic rhinitis is established, and mechanistically it may be applicable to atopic eczema.
 
 Asthma, allergic rhinitis and atopic dermatitis are closely related allergic (atopic) conditions that often occur together. Atopic dermatitis is also considered a risk factor for later asthma. Corticosteroids as a class are an established treatment for atopic dermatitis. This makes the prediction biologically plausible.
 
@@ -108,6 +108,19 @@ The prediction score is very high, but there are no clinical trials, and the onl
 - Direct evidence for flunisolide in atopic dermatitis, or a comparison against existing topical corticosteroids
 - A route and formulation assessment, since only a solution form is on record
 - A check of other predictions for stronger candidates. Bronchitis (L3) has a small, old 1981 clinical evaluation of flunisolide, which makes it the most directly supported of the ten predictions, although the evidence is dated and low-grade.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: flunisolide prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=50d87523-e1fb-4342-825f-9dba972c6a25) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

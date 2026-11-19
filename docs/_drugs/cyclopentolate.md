@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, cyclopentolate is a muscarinic antagonist (anticholinergic). Its efficacy in producing cycloplegia and pupil dilation when applied to the eye is well established.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for cyclopentolate: "This anticholinergic preparation blocks the responses of the sphincter muscle of the iris and the accommodative muscle of the ciliary body to cholinergic stimulation, producing pupillary dilation (mydriasis) and paralysis of accommodation (cycloplegia). It acts rapidly, but has a shorter duration than atropine." ([DailyMed: Cyclogyl (cyclopentolate hydrochloride) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1d008c76-7210-4ace-90fa-7cd22762e12e), label version 2024-06-25; accessed 2026-11-19.) Based on known pharmacology, cyclopentolate is a muscarinic antagonist (anticholinergic). Its efficacy in producing cycloplegia and pupil dilation when applied to the eye is well established.
 
 The possible link to cauda equina syndrome is bladder dysfunction. Nerve root compression can cause detrusor overactivity or other bladder problems, and antimuscarinic drugs are a recognised class for such symptoms. However, cauda equina syndrome is mainly a surgical emergency caused by nerve root compression, and an anticholinergic would at most address a downstream symptom, not the underlying condition. Cyclopentolate is formulated only as an eye drop, and systemic exposure at therapeutic anticholinergic levels would raise safety concerns. The high TxGNN score is a computational prediction with no clinical or mechanistic data behind it.
 
@@ -106,11 +106,12 @@ The prediction is supported only by a model score and class-level plausibility. 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All five authorizations are valid, and no approved indication text is recorded for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cyclogyl (cyclopentolate hydrochloride) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1d008c76-7210-4ace-90fa-7cd22762e12e) |
 
 <!-- review:end log -->
 

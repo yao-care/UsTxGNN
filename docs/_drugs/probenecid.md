@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **renal hypouricemia**, but the
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, probenecid inhibits the renal urate transporter URAT1 (SLC22A12) and the organic anion transporters OAT1/OAT3. This blocks urate reabsorption in the proximal tubule and increases uric acid excretion, which is why it lowers serum urate in gout.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for probenecid: "Probenecid is a uricosuric and renal tubular blocking agent." ([DailyMed: probenecid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65b4888c-d49a-433f-9bfd-17880ae40069), label version 2026-11-06; accessed 2026-11-19.) Based on known pharmacology, probenecid inhibits the renal urate transporter URAT1 (SLC22A12) and the organic anion transporters OAT1/OAT3. This blocks urate reabsorption in the proximal tubule and increases uric acid excretion, which is why it lowers serum urate in gout.
 
 The prediction is therefore **mechanistically doubtful**. Renal hypouricemia is mainly caused by loss-of-function mutations in URAT1 (SLC22A12), or in some cases GLUT9, which already produce excessive urinary urate excretion and low serum urate. A drug that further increases urate excretion would be expected to **worsen** the condition, not treat it. The high score (0.9973) most likely reflects the drug's close network association with urate transport, not a therapeutic benefit.
 
@@ -138,12 +138,13 @@ The prediction rests on a computational score alone. No clinical trials exist, a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All seven authorizations are valid, and no approved-indication text is available" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "All seven US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: probenecid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65b4888c-d49a-433f-9bfd-17880ae40069) |
 
 <!-- review:end log -->
 

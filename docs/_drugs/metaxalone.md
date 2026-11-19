@@ -58,7 +58,7 @@ Two other predictions were also reviewed: **endocarditis** (0.9902) and **endoca
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Metaxalone is a centrally acting skeletal muscle relaxant, and its mechanism is not well defined. It is thought to act through general central nervous system depression rather than a direct effect on muscle.
+According to the Mechanism of Action section of the FDA-approved prescribing information for metaxalone: "The mechanism of action of metaxalone in humans has not been established, but may be due to general central nervous system (CNS) depression. Metaxalone has no direct action on the contractile mechanism of striated muscle, the motor end plate, or the nerve fiber." ([DailyMed: metaxalone prescribing information, Misemer Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d0276e7b-a1c9-61f3-e053-2a95a90ae3aa), label version 2026-11-12; accessed 2026-11-19.) Metaxalone is a centrally acting skeletal muscle relaxant, and its mechanism is not well defined. It is thought to act through general central nervous system depression rather than a direct effect on muscle.
 
 No established mechanistic link to infectious otitis media was identified. Metaxalone has no known antimicrobial, anti-inflammatory, or Eustachian tube-modulating activity. The high TxGNN score comes from the TxGNN model (deep learning) and most likely reflects similarities the model learned between related diseases, not biological evidence or plausibility. Standard otitis media therapy (antibiotics and analgesics) is well established, so there is no clear unmet need that metaxalone would address.
 
@@ -132,12 +132,13 @@ The prediction is supported only by a TxGNN model (deep learning) score, which m
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and four valid authorizations remain" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with four valid US licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: metaxalone prescribing information, Misemer Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d0276e7b-a1c9-61f3-e053-2a95a90ae3aa) |
 
 <!-- review:end log -->
 

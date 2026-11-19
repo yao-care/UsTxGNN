@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **focal stiff limb syndrome**, 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Miglitol is known to inhibit intestinal alpha-glucosidases, which delays carbohydrate digestion and lowers the rise in blood glucose after meals. It acts mainly in the gut.
+According to the Mechanism of Action section of the FDA-approved prescribing information for miglitol: "In contrast to sulfonylureas, miglitol tablets do not enhance insulin secretion. The antihyperglycemic action of miglitol results from a reversible inhibition of membrane-bound intestinal α-glucoside hydrolase enzymes. Membrane-bound intestinal α-glucosidases hydrolyze oligosaccharides and disaccharides to glucose and other monosaccharides in the brush border of the small intestine." ([DailyMed: miglitol prescribing information, Proficient Rx LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f16ecb50-e54e-43e1-8789-eaf5bc94f332), label version 2022-04-01; accessed 2026-11-19.) Miglitol is known to inhibit intestinal alpha-glucosidases, which delays carbohydrate digestion and lowers the rise in blood glucose after meals. It acts mainly in the gut.
 
 **The prediction is not mechanistically convincing.** Focal stiff limb syndrome is a variant of stiff person syndrome spectrum disorders. These are autoimmune or neurological disorders of the central nervous system, often linked to anti-GAD antibodies. Miglitol's local action on carbohydrate digestion has no known effect on this pathology.
 
@@ -136,6 +136,19 @@ The predicted indication, focal stiff limb syndrome, has no clinical trials or p
 - Detailed mechanism of action data
 - Full package insert warnings and contraindications
 - If pursuing the better-supported type 1 diabetes direction, a re-evaluation with a controlled trial design and a plan for hypoglycemia and gastrointestinal monitoring
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: miglitol prescribing information, Proficient Rx LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f16ecb50-e54e-43e1-8789-eaf5bc94f332) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -61,7 +61,7 @@ However, there are **0 clinical trials** and **2 publications**, and neither pub
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Fluoxetine belongs to the selective serotonin reuptake inhibitor (SSRI) class. Its use in mood and anxiety disorders is recorded in the knowledge graph, and mechanistically it may be applicable to personality-disorder symptoms driven by serotonin signalling.
+According to the Mechanism of Action section of the FDA-approved prescribing information for fluoxetine: "Although the exact mechanism of PROZAC is unknown, it is presumed to be linked to its inhibition of CNS neuronal uptake of serotonin." ([DailyMed: Prozac (fluoxetine hydrochloride) prescribing information, Dista Products Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c88f33ed-6dfb-4c5e-bc01-d8e36dd97299), label version 2026-01-08; accessed 2026-11-19.) Fluoxetine belongs to the selective serotonin reuptake inhibitor (SSRI) class. Its use in mood and anxiety disorders is recorded in the knowledge graph, and mechanistically it may be applicable to personality-disorder symptoms driven by serotonin signalling.
 
 The plausible link is that serotonergic modulation could ease affective lability and impulsivity, which are features sometimes seen in histrionic personality disorder. No direct link between fluoxetine and this disorder is documented, though. The high TxGNN score is a computational prediction without clinical support.
 
@@ -135,11 +135,12 @@ The TxGNN score is very high, but there are no clinical trials, and neither retr
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Twelve valid single-ingredient ANDA records were listed, and the list may be partial" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Prozac (fluoxetine hydrochloride) prescribing information, Dista Products Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c88f33ed-6dfb-4c5e-bc01-d8e36dd97299) |
 
 <!-- review:end log -->
 

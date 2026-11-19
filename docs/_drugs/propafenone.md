@@ -57,7 +57,7 @@ Every US license record in the data compiled for this report lacks approved-indi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for propafenone is not available in the data compiled for this report. Based on known information, propafenone is a class IC antiarrhythmic (sodium-channel blocker) whose efficacy in ventricular and atrial arrhythmias is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for propafenone: "Propafenone is a Class 1C antiarrhythmic drug with local anesthetic effects, and a direct stabilizing action on myocardial membranes. The electrophysiological effect of propafenone manifests itself in a reduction of upstroke velocity (Phase 0) of the monophasic action potential." ([DailyMed: propafenone hydrochloride prescribing information, Northstar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ecd6452-ccc3-493f-9a4a-69f0fbf67a42), label version 2026-06-04; accessed 2026-11-19.) Based on known information, propafenone is a class IC antiarrhythmic (sodium-channel blocker) whose efficacy in ventricular and atrial arrhythmias is established.
 
 CPVT is an inherited arrhythmia caused mainly by ryanodine receptor 2 (RyR2) mutations, which produce spontaneous Ca²⁺ release. Preclinical studies show that propafenone, and its R-enantiomer in particular, blocks RyR2 Ca²⁺ release channels and suppresses arrhythmogenic Ca²⁺ waves, much as flecainide does. Flecainide is the established add-on therapy for CPVT, so propafenone is a mechanistically plausible alternative. A case report describes 35 years of effective treatment with propafenone.
 
@@ -83,7 +83,6 @@ Currently no related clinical trials registered.
 | [42558477](https://pubmed.ncbi.nlm.nih.gov/42558477/) | 2026 | Case report | Front Pediatr | Overlap of long QT syndrome and CPVT in two children with CALM2-related calmodulinopathy |
 
 ## US Market Information
-
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -120,6 +119,19 @@ Please refer to the package insert for full warnings and contraindications.
 - Comparative or prospective clinical data against flecainide in CPVT
 - A safety plan for structural heart disease, pediatric use and QT-prolonging or CYP-interacting drugs
 - A route and formulation check, including current US availability
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for propafenone is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: propafenone hydrochloride prescribing information, Northstar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ecd6452-ccc3-493f-9a4a-69f0fbf67a42) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

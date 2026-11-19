@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm**, 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Carbamazepine is a well-established antiseizure drug that is generally understood to act by blocking voltage-gated sodium channels. It is an established treatment for trigeminal neuralgia.
+According to the Mechanism of Action section of the FDA-approved prescribing information for carbamazepine: "Tegretol has demonstrated anticonvulsant properties in rats and mice with electrically and chemically induced seizures. It appears to act by reducing polysynaptic responses and blocking the post-tetanic potentiation. […] The principal metabolite of Tegretol, carbamazepine-10,11-epoxide, has anticonvulsant activity as demonstrated in several in vivo animal models of seizures." ([DailyMed: Tegretol (carbamazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d409411-aa9f-4f3a-a52c-fbcb0c3ec053), label version 2026-08-20; accessed 2026-11-19.) Carbamazepine is a well-established antiseizure drug that is generally understood to act by blocking voltage-gated sodium channels. It is an established treatment for trigeminal neuralgia.
 
 The high prediction score most likely reflects the anatomical overlap with trigeminal neuralgia, not any anticancer effect. The retrieved literature concerns neuralgia secondary to tumors (schwannoma, meningioma, lipoma, dermoid cyst, lymphoma, pituitary adenoma and others). In these reports carbamazepine was used for symptom control, and in several it failed or caused side effects. No evidence shows that carbamazepine acts on tumor growth. At most it offers symptomatic relief of tumor-associated facial pain, which is already within its established use.
 
@@ -142,12 +142,13 @@ The prediction for trigeminal nerve neoplasm has no clinical trials, and the lit
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "since all records show cancelled licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "All 16 US licenses are recorded as valid, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tegretol (carbamazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d409411-aa9f-4f3a-a52c-fbcb0c3ec053) |
 
 <!-- review:end log -->
 

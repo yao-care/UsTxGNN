@@ -55,7 +55,7 @@ but the evidence is thin: the only registered trial (**1 clinical trial**) was w
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, lurasidone is an atypical antipsychotic with D2 and 5-HT2A/5-HT7 antagonism and 5-HT1A partial agonism. Other atypical antipsychotics with this kind of receptor profile are used for acute mania, so an antimanic effect is plausible.
+According to the Mechanism of Action section of the FDA-approved prescribing information for lurasidone: "The mechanism of action of lurasidone in the treatment of schizophrenia and bipolar depression is unclear. However, its efficacy in schizophrenia and bipolar depression could be mediated through a combination of central dopamine D 2 and serotonin Type 2 (5HT 2A ) receptor antagonism." ([DailyMed: Latuda (lurasidone hydrochloride) prescribing information, Sumitomo Pharma America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=afad3051-9df2-4c54-9684-e8262a133af8), label version 2025-01-31; accessed 2026-11-19.) Based on general pharmacology, lurasidone is an atypical antipsychotic with D2 and 5-HT2A/5-HT7 antagonism and 5-HT1A partial agonism. Other atypical antipsychotics with this kind of receptor profile are used for acute mania, so an antimanic effect is plausible.
 
 Lurasidone is already used in bipolar disorder, mainly bipolar depression. The predicted indication is therefore closer to an extension within the same disease family than to true repurposing. Mania is the opposite mood pole from depression, and the supporting literature mainly addresses bipolar depression. For example, a 2024 dose-response meta-analysis covers lurasidone in bipolar depression, not mania. Evidence for the manic phase is therefore indirect and inferred from class effects.
 
@@ -122,6 +122,19 @@ Package insert warnings were not available in the data compiled for this report.
 - Mechanism of action data and the package insert's warnings and contraindications
 - Controlled trials of lurasidone in acute mania (adult and pediatric), or a review of existing data
 - A safety plan covering metabolic, cardiovascular and hematologic risks, along with the major drug interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Latuda (lurasidone hydrochloride) prescribing information, Sumitomo Pharma America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=afad3051-9df2-4c54-9684-e8262a133af8) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

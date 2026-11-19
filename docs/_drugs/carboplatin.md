@@ -58,7 +58,7 @@ Carboplatin is a platinum-based cytotoxic chemotherapy drug that is already mark
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Carboplatin belongs to the platinum class of chemotherapy drugs. Platinum agents generally act by damaging tumour-cell DNA, which blocks cell division and leads to cell death.
+According to the Mechanism of Action section of the FDA-approved prescribing information for carboplatin: "Carboplatin is a platinum-based drug that binds to DNA and forms DNA cross-links. These crosslinks inhibit DNA replication and transcription and trigger cytotoxic processes that lead to cell death." ([DailyMed: Kyxata (carboplatin) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f91c48da-68d1-4aa7-89b8-d84a3e8b629b), label version 2026-11-09; accessed 2026-11-19.) Carboplatin belongs to the platinum class of chemotherapy drugs. Platinum agents generally act by damaging tumour-cell DNA, which blocks cell division and leads to cell death.
 
 The prediction is probably driven by the similarity between mucinous adenocarcinoma of the rectum and the mucinous tumour types in which carboplatin is already used. This is an inference from the model score, not a demonstrated link. No study of carboplatin in this disease was found. Colorectal cancers are also generally considered less sensitive to platinum than the gynaecological tumours for which carboplatin is better established. The mechanistic case therefore remains hypothetical.
 
@@ -117,6 +117,19 @@ The only support for this prediction is the model score (0.9928). There are no c
 - Comparison against current standard-of-care treatment for this disease
 - Mechanism-of-action data and the package-insert safety information
 - A safety monitoring plan, particularly for myelosuppression
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Kyxata (carboplatin) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f91c48da-68d1-4aa7-89b8-d84a3e8b629b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

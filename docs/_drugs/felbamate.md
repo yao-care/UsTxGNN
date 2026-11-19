@@ -60,7 +60,7 @@ Support for trigeminal neuralgia is thin: **0 registered clinical trials** and *
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on what is known about the drug, felbamate is an antiepileptic that modulates NMDA receptors (glycine-site antagonism) and potentiates GABA-A receptors. Sodium-channel modulation is also described in the available analysis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for felbamate: "The mechanism by which felbamate exerts its anticonvulsant activity is unknown, but in animal test systems designed to detect anticonvulsant activity, felbamate has properties in common with other marketed anticonvulsants. Felbamate is effective in mice and rats in the maximal electroshock test, the subcutaneous pentylenetetrazol seizure test, and the subcutaneous picrotoxin seizure test." ([DailyMed: Felbatol (felbamate) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f522701-397a-11de-8a39-0800200c9a66), label version 2025-08-15; accessed 2026-11-19.) Based on what is known about the drug, felbamate is an antiepileptic that modulates NMDA receptors (glycine-site antagonism) and potentiates GABA-A receptors. Sodium-channel modulation is also described in the available analysis.
 
 **Trigeminal neuralgia.** This condition causes sudden, severe, one-sided facial pain attacks that resemble seizures in their timing. This similarity led to the discovery that several anticonvulsants work against it. Carbamazepine is the drug of choice, and oxcarbazepine, lamotrigine, baclofen, phenytoin and valproate are also used. Felbamate's mechanisms are plausibly relevant to neuropathic pain, which makes the prediction reasonable on mechanistic grounds.
 
@@ -138,11 +138,12 @@ Package insert warnings and contraindications were not available for this report
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Eight authorizations are on record in total, and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Felbatol (felbamate) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f522701-397a-11de-8a39-0800200c9a66) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Tourette syndrome** with a ve
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, disopyramide is a class IA antiarrhythmic that blocks sodium channels and has anticholinergic activity.
+According to the Mechanism of Action section of the FDA-approved prescribing information for disopyramide: "Norpace (disopyramide phosphate) is a Type 1 antiarrhythmic drug (i.e., similar to procainamide and quinidine). In animal studies Norpace decreases the rate of diastolic depolarization (phase 4) in cells with augmented automaticity, decreases the upstroke velocity (phase 0) and increases the action potential duration of normal cardiac cells, decreases the disparity in refractoriness between infarcted and adjacent normally perfused myocardium, and has no effect on alpha- or beta-adrenergic receptors." ([DailyMed: Norpace (disopyramide phosphate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2aa1642-d262-4520-bc6a-9fd3ad795677), label version 2026-08-24; accessed 2026-11-19.) Based on known pharmacology, disopyramide is a class IA antiarrhythmic that blocks sodium channels and has anticholinergic activity.
 
 The review of this prediction found **no clear mechanistic link**. Tourette syndrome is mainly associated with dopaminergic dysfunction and abnormal cortico-striato-thalamo-cortical circuits. Sodium channel blockade with anticholinergic effects does not directly address these pathways. The high TxGNN score is a model output only and is not backed by trials or literature.
 
@@ -118,11 +118,12 @@ The Tourette syndrome prediction rests only on a model score. There is no mechan
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All five US authorizations are valid, and the records contain no approved-indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Norpace (disopyramide phosphate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2aa1642-d262-4520-bc6a-9fd3ad795677) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ The prediction is a model output only and has no credible mechanistic or clinica
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, diethylpropion is a sympathomimetic amine that suppresses appetite through catecholamine release, and it has been used for obesity.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for diethylpropion: "Diethylpropion hydrochloride is a sympathomimetic amine with some pharmacologic activity similar to that of the prototype drugs of this class used in obesity, the amphetamines. Actions include some central nervous system stimulation and elevation of blood pressure." ([DailyMed: Diethylpropion Hydrochloride Er (diethylpropion hydrochloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d213a24-ebbf-41df-8f32-de44a572829e), label version 2026-11-09; accessed 2026-11-19.) Based on known information, diethylpropion is a sympathomimetic amine that suppresses appetite through catecholamine release, and it has been used for obesity.
 
 Hypervitaminosis is a toxicity state caused by excess vitamin intake. No credible mechanistic link to an anorectic sympathomimetic has been identified. The very high TxGNN score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and it should not be read as evidence of efficacy.
 
@@ -124,6 +124,19 @@ The prediction rests on a model score alone, with no clinical trials, no literat
 - Detailed mechanism of action data
 - A credible biological rationale linking diethylpropion to hypervitaminosis, or a reassessment of whether other predictions (for example, the obesity-related phenotype of 16p11.2 microdeletion syndrome) are more worth pursuing
 - Any supporting preclinical or clinical evidence, which is currently absent
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Diethylpropion Hydrochloride Er (diethylpropion hydrochloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d213a24-ebbf-41df-8f32-de44a572829e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

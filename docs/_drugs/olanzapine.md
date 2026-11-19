@@ -56,7 +56,7 @@ Two other predictions, agoraphobia (6 publications) and dysthymic disorder (5 pu
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Olanzapine is known as a multi-receptor antagonist (dopamine D2, serotonin 5-HT2A, histamine H1 and muscarinic receptors), but this was not confirmed in the data compiled for this report, so no mechanistic validation is possible here.
+According to the Mechanism of Action section of the FDA-approved prescribing information for olanzapine: "The mechanism of action of olanzapine, in the listed indications, is unclear. However, the efficacy of olanzapine in schizophrenia could be mediated through a combination of dopamine and serotonin type 2 (5HT 2 ) antagonism." ([DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c), label version 2026-10-26; accessed 2026-11-19.) Olanzapine is known as a multi-receptor antagonist (dopamine D2, serotonin 5-HT2A, histamine H1 and muscarinic receptors), but this was not confirmed in the data compiled for this report, so no mechanistic validation is possible here.
 
 Benign paroxysmal torticollis of infancy is a rare, self-limiting childhood disorder. It is thought to belong to the migraine spectrum and has been linked to channelopathies (for example, CACNA1A). No established mechanistic link exists between olanzapine's receptor profile and this condition.
 
@@ -128,12 +128,13 @@ The prediction has a very high model score but no clinical trials, no literature
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 10 US records are cancelled generic applications" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 10 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c) |
 
 <!-- review:end log -->
 

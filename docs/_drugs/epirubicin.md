@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **原發性肺淋巴瘤 (primary 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on known pharmacology, epirubicin is an anthracycline, the 4' epimer of doxorubicin. Anthracyclines act by intercalating into DNA and inhibiting topoisomerase II, and they are most active during the S phase of the cell cycle.
+According to the Mechanism of Action section of the FDA-approved prescribing information for epirubicin: "Epirubicin is an anthracycline cytotoxic agent. Although it is known that anthracyclines can interfere with a number of biochemical and biological functions within eukaryotic cells, the precise mechanisms of epirubicin's cytotoxic and/or antiproliferative properties have not been completely elucidated." ([DailyMed: Ellence (epirubicin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a03c798-a652-4895-b29c-3b521a89ba42), label version 2026-07-24; accessed 2026-11-19.) Based on known pharmacology, epirubicin is an anthracycline, the 4' epimer of doxorubicin. Anthracyclines act by intercalating into DNA and inhibiting topoisomerase II, and they are most active during the S phase of the cell cycle.
 
 Anthracyclines are components of several lymphoma regimens, for example CEOP and VEBEP, which gives a plausible mechanistic link to lymphoma. However, the current standard of care for B-cell lymphomas is rituximab-based CHOP (which uses doxorubicin), with Pola-R-CHP emerging as an option. No study found tests epirubicin specifically in primary pulmonary lymphoma, so the link remains theoretical.
 
@@ -111,6 +111,18 @@ The prediction score is high, but it is purely computational. No clinical trial 
 - Comparison against current rituximab-based standard regimens
 - Mechanism-of-action data and the full package insert warnings and contraindications
 - A cardiac and haematological safety monitoring plan
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ellence (epirubicin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a03c798-a652-4895-b29c-3b521a89ba42) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

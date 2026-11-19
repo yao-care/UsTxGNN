@@ -60,7 +60,7 @@ Bacitracin inhibits bacterial cell wall synthesis by blocking dephosphorylation 
 
 The predicted disease is an inflammatory condition of the cornea and conjunctiva, which sits close to the eye conditions for which bacitracin ointments have been used. That proximity is the main reason the model's prediction is plausible.
 
-There is an important caveat. Punctate epithelial keratoconjunctivitis is frequently viral or non-infectious in origin, so an antibacterial mechanism may not address the underlying cause. At best, bacitracin might help prevent or treat secondary bacterial infection. Detailed mechanism-of-action data were not available in the data compiled for this report, and the rationale above rests on general knowledge of the drug class.
+There is an important caveat. Punctate epithelial keratoconjunctivitis is frequently viral or non-infectious in origin, so an antibacterial mechanism may not address the underlying cause. At best, bacitracin might help prevent or treat secondary bacterial infection. ChEMBL (EMBL-EBI) records the mechanism of action of bacitracin as: C55-isoprenyl pyrophosphate inhibitor ([ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558), CC BY-SA 3.0; accessed 2026-11-19.) The rationale above rests on general knowledge of the drug class.
 
 ## Clinical Trial Evidence
 
@@ -104,6 +104,19 @@ The prediction is supported only by the TxGNN model, with no trials or publicati
 - Mechanism-of-action data and a clearer link between bacitracin and the disease
 - Package insert warnings and contraindications, especially for ophthalmic use
 - A route and formulation check for ophthalmic delivery
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, and t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

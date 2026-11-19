@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, levodopa is a dopamine precursor that acts on dopaminergic signaling in the nigrostriatal pathway. Its efficacy in Parkinson disease and related parkinsonian syndromes is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for levodopa: "Levodopa, the metabolic precursor of dopamine, crosses the blood-brain barrier and presumably is converted to dopamine in the brain. This is thought to be the mechanism whereby levodopa relieves symptoms of Parkinson's disease." ([DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb), label version 2026-07-20; accessed 2026-11-19.) Based on known information, levodopa is a dopamine precursor that acts on dopaminergic signaling in the nigrostriatal pathway. Its efficacy in Parkinson disease and related parkinsonian syndromes is established.
 
 Rasmussen encephalitis is a rare, chronic, unilateral inflammatory brain disease. It is thought to be driven by T-cell-mediated (cytotoxic CD8+) neuroinflammation with astrocyte and neuronal loss. It presents with intractable focal seizures, progressive hemiparesis and cognitive decline. **No direct mechanistic link between the two has been established.**
 
@@ -129,12 +129,13 @@ The prediction is supported only by the TxGNN model (deep learning) score (L5). 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The data compiled for this report list 12 authorizations, all with cancelled status and no approved indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 12 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb) |
 
 <!-- review:end log -->
 

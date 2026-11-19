@@ -60,7 +60,7 @@ This prediction is most likely a computational artifact and is not supported as 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Gadodiamide is a gadolinium-based MRI contrast agent. It enhances image contrast and has no known therapeutic target or anti-inflammatory activity.
+ChEMBL (EMBL-EBI) records the mechanism of action of gadodiamide as: Diagnostic agent ([ChEMBL CHEMBL1200346 (gadodiamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200346), CC BY-SA 3.0; accessed 2026-11-19.) Gadodiamide is a gadolinium-based MRI contrast agent. It enhances image contrast and has no known therapeutic target or anti-inflammatory activity.
 
 The three retrieved publications used gadolinium-enhanced MRI to visualize inflamed joints in rheumatoid arthritis and other inflammatory joint diseases, for example to assess synovitis and predict bone erosions. They support a **diagnostic or imaging-assessment role**, not treatment of the disease.
 
@@ -126,11 +126,12 @@ Gadodiamide is a diagnostic contrast agent with no known therapeutic mechanism. 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1200346 (gadodiamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200346) |
 
 <!-- review:end log -->
 

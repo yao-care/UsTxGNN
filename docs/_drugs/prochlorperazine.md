@@ -56,7 +56,7 @@ The only prediction with any supporting literature is **manic bipolar affective 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, prochlorperazine is a phenothiazine that acts as a dopamine D2 receptor antagonist. Its efficacy in schizophrenia and nausea is established, but nothing in the data compiled for this report connects it to inherited retinal dystrophy.
+ChEMBL (EMBL-EBI) records the mechanism of action of prochlorperazine as: Dopamine D2 receptor antagonist ([ChEMBL CHEMBL728 (prochlorperazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL728), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, prochlorperazine is a phenothiazine that acts as a dopamine D2 receptor antagonist. Its efficacy in schizophrenia and nausea is established, but nothing in the data compiled for this report connects it to inherited retinal dystrophy.
 
 The high TxGNN score reflects a computational prediction only. No trials or literature corroborate it, and there is no supported mechanistic link between a symptomatic D2 antagonist and an inherited retinal degeneration.
 
@@ -136,11 +136,12 @@ The top-ranked prediction (retinal dystrophy) is supported only by a model score
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 11 valid authorizations, and none has approved indication text on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL728 (prochlorperazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL728) |
 
 <!-- review:end log -->
 

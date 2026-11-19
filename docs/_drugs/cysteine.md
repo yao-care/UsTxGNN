@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **dry eye syndrome**, but there
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, cysteine is a thiol-containing amino acid. Its mucolytic and antioxidant properties are consistent with its original respiratory indications and may be applicable to dry eye.
+According to the Mechanism of Action section of the FDA-approved prescribing information for cysteine: "Endogenous cysteine is synthesized from methionine by the enzyme, cystathionase, via the trans-sulfuration pathway, and serves as a precursor substrate for both glutathione and taurine. ELCYS ® provides cysteine to the systemic circulation of patients who require PN and cannot synthesize adequate quantities of cysteine due to insufficient or deficient cystathionase activity." ([DailyMed: Elcys (cysteine hydrochloride) prescribing information, Exela Pharma Sciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52317b38-b2e6-4a1c-b5b0-43cada0d205e), label version 2026-04-09; accessed 2026-11-19.) Based on known information, cysteine is a thiol-containing amino acid. Its mucolytic and antioxidant properties are consistent with its original respiratory indications and may be applicable to dry eye.
 
 The literature compiled for this report suggests two possible links:
 
@@ -143,12 +143,13 @@ Other predicted indications are weaker:
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All three US licenses are valid, and the data compiled for this report contain no approved indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "All three US licenses are valid, and no label safety data are available" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Elcys (cysteine hydrochloride) prescribing information, Exela Pharma Sciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52317b38-b2e6-4a1c-b5b0-43cada0d205e) |
 
 <!-- review:end log -->
 

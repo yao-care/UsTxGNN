@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **attention deficit hyperactivi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, desipramine is a tricyclic antidepressant with strong norepinephrine reuptake inhibition. That action is plausibly relevant to ADHD, where noradrenergic modulation in prefrontal circuits is thought to matter.
+According to the Mechanism of Action section of the FDA-approved prescribing information for desipramine: "Available evidence suggests that many depressions have a biochemical basis in the form of a relative deficiency of neurotransmitters such as norepinephrine and serotonin. Norepinephrine deficiency may be associated with relatively low urinary 3-methoxy-4-hydroxyphenyl glycol (MHPG) levels, while serotonin deficiencies may be associated with low spinal fluid levels of 5-hydroxyindoleacetic acid." ([DailyMed: Norpramin (desipramine hydrochloride) prescribing information, Validus Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=70b562ea-9f21-4e4a-b3ed-0590b2892f6a), label version 2025-07-03; accessed 2026-11-19.) Based on known pharmacology, desipramine is a tricyclic antidepressant with strong norepinephrine reuptake inhibition. That action is plausibly relevant to ADHD, where noradrenergic modulation in prefrontal circuits is thought to matter.
 
 Its original indications (anxiety, neurotic and dysthymic disorders) are psychiatric conditions treated through monoaminergic modulation. ADHD is a neurodevelopmental disorder, and non-stimulant treatments such as atomoxetine share the noradrenergic mechanism. This makes the prediction mechanistically consistent.
 
@@ -143,12 +143,13 @@ For context, the two other predictions with literature support are weaker or com
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All six US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "A review of how the cancelled market status affects practical feasibility" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Norpramin (desipramine hydrochloride) prescribing information, Validus Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=70b562ea-9f21-4e4a-b3ed-0590b2892f6a) |
 
 <!-- review:end log -->
 

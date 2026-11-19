@@ -56,7 +56,7 @@ but **no clinical trials** and **no publications** currently support this predic
 
 ## Why is This Prediction Reasonable?
 
-Pentostatin is known as an adenosine deaminase (ADA) inhibitor that disrupts purine metabolism, and it is approved for hairy cell leukemia. Detailed mechanism-of-action data were not available in the data compiled for this report, so the mechanism described here comes from general pharmacological knowledge and could not be verified against the supplied data.
+Pentostatin is known as an adenosine deaminase (ADA) inhibitor that disrupts purine metabolism, and it is approved for hairy cell leukemia. According to the Clinical Pharmacology section of the FDA-approved prescribing information for pentostatin: "Pentostatin is a potent transition state inhibitor of the enzyme adenosine deaminase (ADA). The greatest activity of ADA is found in cells of the lymphoid system with T-cells having higher activity than B-cells, and T-cell malignancies having higher ADA activity than B-cell malignancies." ([DailyMed: Nipent (pentostatin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=674e0e6d-46ed-4868-9196-04019d667716), label version 2026-10-19; accessed 2026-11-19.) The mechanism described here comes from general pharmacological knowledge and could not be verified against the supplied data.
 
 No trial, publication, or mechanistic data link ADA inhibition to the biology of embryonal rhabdomyosarcoma. The high score (0.9954) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The prediction should be treated as a hypothesis only.
 
@@ -133,12 +133,13 @@ The prediction has a high model score but no supporting trials, literature, or v
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "he US license is cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "of whether the cancelled US status affects drug supply or formulation availability, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nipent (pentostatin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=674e0e6d-46ed-4868-9196-04019d667716) |
 
 <!-- review:end log -->
 

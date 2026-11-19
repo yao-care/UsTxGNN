@@ -60,7 +60,7 @@ However, **no clinical trials** are registered and the **3 publications** retrie
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Chlorzoxazone is generally described as a centrally acting muscle relaxant, and it is known to activate calcium-dependent potassium channels (SK/IK/BK).
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for chlorzoxazone: "Data available from animal experiments as well as human study indicate that chlorzoxazone acts primarily at the level of the spinal cord and subcortical areas of the brain where it inhibits multisynaptic reflex arcs involved in producing and maintaining skeletal muscle spasm of varied etiology. The clinical result is a reduction of the skeletal muscle spasm with relief of pain and increased mobility of the involved muscles." ([DailyMed: chlorzoxazone prescribing information, Solubiomix](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c3d40a90-6df8-4b44-bc61-d7655c52bacb), label version 2026-10-05; accessed 2026-11-19.) Chlorzoxazone is generally described as a centrally acting muscle relaxant, and it is known to activate calcium-dependent potassium channels (SK/IK/BK).
 
 The link to migraine is indirect. One retrieved preclinical paper studies CaV2.1 (CACNA1A) channel mutations in a mouse model of cerebellar ataxia, and these mutations are also associated with familial hemiplegic migraine. Calcium-dependent potassium channel activators eased ataxia in that model. This suggests a plausible channel-biology rationale, but it is preclinical and indirect. No migraine-specific clinical data were found.
 
@@ -120,6 +120,19 @@ The prediction rests on a high model score alone. No clinical trials exist, and 
 - FDA package insert warnings and contraindications
 - Preclinical or exploratory clinical data on chlorzoxazone in migraine models or patients
 - A review of the 72 recorded interactions, particularly with opioids and other central nervous system depressants
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: chlorzoxazone prescribing information, Solubiomix](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c3d40a90-6df8-4b44-bc61-d7655c52bacb) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

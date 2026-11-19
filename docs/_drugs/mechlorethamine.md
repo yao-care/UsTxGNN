@@ -56,7 +56,7 @@ There are currently **0 clinical trials** and **0 publications** supporting this
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Mechlorethamine belongs to the nitrogen mustard class of alkylating agents. These drugs cross-link DNA and are cytotoxic to rapidly dividing cells, including lymphocytes.
+According to the Mechanism of Action section of the FDA-approved prescribing information for mechlorethamine: "Mechlorethamine, also known as nitrogen mustard, is an alkylating agent which inhibits rapidly proliferating cells." ([DailyMed: Valchlor (mechlorethamine hydrochloride) prescribing information, Helsinn Therapeutics (U.S.), Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a52e4c2-6a9f-4ebb-bc77-046b4f8bcd57), label version 2024-11-20; accessed 2026-11-19.) Mechlorethamine belongs to the nitrogen mustard class of alkylating agents. These drugs cross-link DNA and are cytotoxic to rapidly dividing cells, including lymphocytes.
 
 A plausible rationale is that other cytotoxic alkylating and immunosuppressive agents, such as cyclophosphamide and mitoxantrone, have been used in multiple sclerosis (MS). MS is driven by autoreactive lymphocytes, so broad lymphocyte depletion is a conceivable mechanism.
 
@@ -112,11 +112,12 @@ The prediction score is high (0.9913), but there are no clinical trials or publi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The supporting literature is mostly old combination-regimen studies, no clinical trials are registered, and the only US license is cancelled" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Valchlor (mechlorethamine hydrochloride) prescribing information, Helsinn Therapeutics (U.S.), Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a52e4c2-6a9f-4ebb-bc77-046b4f8bcd57) |
 
 <!-- review:end log -->
 

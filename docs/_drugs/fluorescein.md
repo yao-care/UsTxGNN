@@ -60,7 +60,7 @@ The prediction comes only from the TxGNN model (deep learning) score, which may 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug. Fluorescein is a fluorescent dye used diagnostically, chiefly to visualize retinal and choroidal vasculature (angiography) and to reveal corneal and conjunctival surface damage (staining). It is not known to act on a therapeutic target.
+According to the Mechanism of Action section of the FDA-approved prescribing information for fluorescein: "Fluorescein sodium responds to electromagnetic radiation and light between the wavelengths of 465 to 490 nm and fluoresces, i.e., emits light at wavelengths of 520 to 530 nm. Thus, the hydrocarbon is excited by blue light and emits light that appears yellowish green." ([DailyMed: Ak-Fluor (fluorescein) prescribing information, Long Grove Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73511e79-c050-4dc0-aa2f-a79ed320b5b0), label version 2026-02-26; accessed 2026-11-19.) Fluorescein is a fluorescent dye used diagnostically, chiefly to visualize retinal and choroidal vasculature (angiography) and to reveal corneal and conjunctival surface damage (staining). It is not known to act on a therapeutic target.
 
 For Prinzmetal angina, no mechanistic link could be identified. Prinzmetal angina is caused by coronary vasospasm, and fluorescein has no known vasodilatory or anti-vasospastic activity. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -125,11 +125,12 @@ The prediction rests only on a TxGNN model (deep learning) score, which may refl
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 6 of 6 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ak-Fluor (fluorescein) prescribing information, Long Grove Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73511e79-c050-4dc0-aa2f-a79ed320b5b0) |
 
 <!-- review:end log -->
 

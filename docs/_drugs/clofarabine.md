@@ -56,7 +56,7 @@ with **many clinical trials, including 2 completed Phase 3 trials**, and **20 pu
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the compiled data, but the literature describes clofarabine as a second-generation purine nucleoside analog. It inhibits ribonucleotide reductase and DNA polymerase, which depletes the nucleotide pools needed for DNA replication. It also induces mitochondrial apoptosis. These actions hit rapidly dividing leukemic blasts.
+According to the Mechanism of Action section of the FDA-approved prescribing information for clofarabine: "Clofarabine is sequentially metabolized intracellularly to the 5’-monophosphate metabolite by deoxycytidine kinase and mono- and di-phospho-kinases to the active 5’-triphosphate metabolite. Clofarabine has affinity for the activating phosphorylating enzyme, deoxycytidine kinase, equal to or greater than that of the natural substrate, deoxycytidine." ([DailyMed: clofarabine prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26b2de66-6518-49ab-820e-492454cbc873), label version 2026-08-24; accessed 2026-11-19.) The literature describes clofarabine as a second-generation purine nucleoside analog. It inhibits ribonucleotide reductase and DNA polymerase, which depletes the nucleotide pools needed for DNA replication. It also induces mitochondrial apoptosis. These actions hit rapidly dividing leukemic blasts.
 
 Because this mechanism does not depend on the lineage of the leukemic cell, it is shared by lymphoid and myeloid leukemias. Extending clofarabine from lymphoblastic leukemia to myeloid leukemia is therefore mechanistically coherent. Reviews describe single-agent activity in acute myeloid leukemia (AML), and the drug has been combined with cytarabine, idarubicin, and other agents in many trials.
 
@@ -134,6 +134,19 @@ Two completed Phase 3 randomized trials (727 and 326 participants) and many Phas
 - Package insert warnings and contraindications, which are missing from the compiled data
 - Detailed mechanism-of-action data
 - A safety monitoring plan (blood counts, liver and renal function, infection risk) and a review of the drug interactions above
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the compiled data, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: clofarabine prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26b2de66-6518-49ab-820e-492454cbc873) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

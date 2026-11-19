@@ -59,7 +59,7 @@ The TxGNN model's top-ranked prediction is **hepatitis B virus infection**, but 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, sofosbuvir is a prodrug whose triphosphate metabolite inhibits the viral RNA-dependent RNA polymerase (NS5B in HCV).
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for sofosbuvir: "Sofosbuvir is a direct-acting antiviral agent against the hepatitis C virus. […] Sofosbuvir is an inhibitor of the HCV NS5B RNA-dependent RNA polymerase, which is essential for viral replication. Sofosbuvir is a nucleotide prodrug that undergoes intracellular metabolism to form the pharmacologically active uridine analog triphosphate (GS-461203), which can be incorporated into HCV RNA by the NS5B polymerase and acts as a chain terminator." ([DailyMed: Sovaldi (sofosbuvir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80beab2c-396e-4a37-a4dc-40fdb62859cf), label version 2024-12-26; accessed 2026-11-19.) Based on known pharmacology, sofosbuvir is a prodrug whose triphosphate metabolite inhibits the viral RNA-dependent RNA polymerase (NS5B in HCV).
 
 **Hepatitis B (top-ranked prediction):** This link is weak. HBV replicates through a DNA polymerase/reverse transcriptase, which is a different mechanism from HCV NS5B. HBV changes seen in trials occur mainly in HCV/HBV co-infected patients and most likely reflect HCV clearance, not direct anti-HBV activity. HBV reactivation during direct-acting antiviral (DAA) therapy is a recognized safety concern. The high TxGNN score probably reflects network proximity among hepatitis viruses rather than true efficacy.
 
@@ -168,12 +168,13 @@ For label warnings and contraindications, please refer to the package insert.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All seven US licences are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "All seven US licences are valid, and the drug is marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sovaldi (sofosbuvir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80beab2c-396e-4a37-a4dc-40fdb62859cf) |
 
 <!-- review:end log -->
 

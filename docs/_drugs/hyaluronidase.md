@@ -68,7 +68,7 @@ The top-ranked prediction (esotropia) has no supporting evidence. This report th
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, hyaluronidase degrades hyaluronan, a major component of the extracellular matrix and the vitreous gel. That property explains its use as a "spreading agent" in injections.
+According to the Mechanism of Action section of the FDA-approved prescribing information for hyaluronidase: "Hyaluronidase is a dispersion agent, which modifies the permeability of connective tissue through the hydrolysis of hyaluronic acid, a polysaccharide found in the intercellular ground substance of connective tissue, and of certain specialized tissues, such as the umbilical cord and vitreous humor. Hyaluronic acid is also present in the capsules of type A and C hemolytic streptococci." ([DailyMed: Hylenex Recombinant (hyaluronidase) prescribing information, Antares Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3023cc56-ed4b-4e87-b3a1-81b20943f658), label version 2024-11-11; accessed 2026-11-19.) Based on known information, hyaluronidase degrades hyaluronan, a major component of the extracellular matrix and the vitreous gel. That property explains its use as a "spreading agent" in injections.
 
 **Diabetic retinopathy (best-supported direction).** Injected into the vitreous, hyaluronidase can liquefy the vitreous gel, promote posterior vitreous detachment, and help clear vitreous hemorrhage. This is called pharmacologic vitreolysis. Supporting work includes:
 - Animal studies in diabetic rats.
@@ -194,7 +194,7 @@ Please refer to the package insert for the full warnings and contraindications.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
@@ -202,6 +202,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "Five further cancelled BLAs are on record: Opdivo Qvantig, Rybrevant Faspro (two entries), Vyvgart Hytrulo, and Tecentriq Hybreza" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 10 of 10 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and it is part of several subcutaneous biologic formulations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Hylenex Recombinant (hyaluronidase) prescribing information, Antares Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3023cc56-ed4b-4e87-b3a1-81b20943f658) |
 
 <!-- review:end log -->
 

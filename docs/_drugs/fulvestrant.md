@@ -56,7 +56,7 @@ but the supporting evidence is thin: **0 clinical trials** and **2 publications*
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, fulvestrant is an estrogen receptor (ER) antagonist and degrader. Its efficacy in hormone receptor-positive breast cancer is well established, and it may be mechanistically relevant to HIV if ER signaling affects viral latency.
+According to the Mechanism of Action section of the FDA-approved prescribing information for fulvestrant: "Many breast cancers have estrogen receptors (ER) and the growth of these tumors can be stimulated by estrogen. Fulvestrant is an estrogen receptor antagonist that binds to the estrogen receptor in a competitive manner with affinity comparable to that of estradiol and downregulates the ER protein in human breast cancer cells." ([DailyMed: Cligavyx (fulvestrant) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e20d8ca3-8837-4003-8b01-1ebec342062a), label version 2026-10-16; accessed 2026-11-19.) Based on general pharmacology, fulvestrant is an estrogen receptor (ER) antagonist and degrader. Its efficacy in hormone receptor-positive breast cancer is well established, and it may be mechanistically relevant to HIV if ER signaling affects viral latency.
 
 A 2026 preclinical study (PMID 42430506) examined how estrogen, fulvestrant and HIV latency-reversing agents affect ERα in CD4+ T cells. This suggests a plausible link between ER signaling and HIV transcription and latency. However, the evidence is in vitro and indirect, and no clinical data exist for fulvestrant in HIV. The other publication concerns HTLV-1, a related but different retrovirus, and does not directly support fulvestrant use in HIV.
 
@@ -139,13 +139,14 @@ The HIV prediction has a high model score but rests only on one preclinical stud
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The data compiled for this report list 12 US authorizations, all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 12 of 12 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 12 of 12 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cligavyx (fulvestrant) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e20d8ca3-8837-4003-8b01-1ebec342062a) |
 
 <!-- review:end log -->
 

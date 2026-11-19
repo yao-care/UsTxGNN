@@ -60,7 +60,7 @@ with **6 clinical trials** (3 directly relevant to clopidogrel) and **22 publica
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, clopidogrel is a P2Y12 platelet inhibitor with proven efficacy in preventing thrombotic events in acute coronary syndrome and ischemic stroke. The literature compiled for this report suggests a plausible link to migraine.
+According to the Mechanism of Action section of the FDA-approved prescribing information for clopidogrel: "Clopidogrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets." ([DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227), label version 2025-05-30; accessed 2026-11-19.) Based on known information, clopidogrel is a P2Y12 platelet inhibitor with proven efficacy in preventing thrombotic events in acute coronary syndrome and ischemic stroke. The literature compiled for this report suggests a plausible link to migraine.
 
 The proposed link is that, in patients with a PFO or another right-to-left shunt, platelet-mediated microemboli or platelet-released vasoactive substances (such as serotonin) may trigger migraine, especially migraine with aura. Inhibiting P2Y12 may reduce platelet activation and these triggers. The most consistent signal comes from patients who developed new migraine after transcatheter atrial septal defect (ASD) closure, where adding clopidogrel to aspirin lowered migraine occurrence.
 
@@ -165,11 +165,12 @@ Migraine disorder has the strongest support, with a completed Phase 4 randomized
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "given the cancelled US market status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227) |
 
 <!-- review:end log -->
 

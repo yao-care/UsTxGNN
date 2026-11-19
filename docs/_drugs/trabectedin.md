@@ -56,7 +56,7 @@ with **1 clinical trial** (a QT-interval safety study, not an efficacy trial) an
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the published literature, trabectedin binds the DNA minor groove, forms DNA adducts and interferes with transcription-coupled nucleotide excision repair. This leads to DNA double-strand breaks. It is especially active in cells with homologous recombination deficiency, such as BRCA1/2-mutated tumours.
+According to the Mechanism of Action section of the FDA-approved prescribing information for trabectedin: "Trabectedin is an alkylating drug that binds guanine residues in the minor groove of DNA, forming adducts and resulting in a bending of the DNA helix towards the major groove. Adduct formation triggers a cascade of events that can affect the subsequent activity of DNA binding proteins, including some transcription factors, and DNA repair pathways, resulting in perturbation of the cell cycle and eventual cell death." ([DailyMed: Evdi (trabectedin) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1d50f5c-4202-27f3-4798-a9708114ddea), label version 2026-06-29; accessed 2026-11-19.) Based on the published literature, trabectedin binds the DNA minor groove, forms DNA adducts and interferes with transcription-coupled nucleotide excision repair. This leads to DNA double-strand breaks. It is especially active in cells with homologous recombination deficiency, such as BRCA1/2-mutated tumours.
 
 Ovarian cancer and a subset of breast cancers share BRCA-related DNA-repair biology. This overlap is the main reason the prediction is plausible. Preclinical work also suggests trabectedin reduces tumour-associated macrophages and may enhance immunotherapy. One example is its enhancement of IL-12 effects in triple-negative breast cancer (2025).
 
@@ -141,12 +141,13 @@ The mechanism is plausible, especially for BRCA-mutated breast cancer, and sever
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "he US NDA is cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "of why the US NDA was cancelled, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Evdi (trabectedin) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1d50f5c-4202-27f3-4798-a9708114ddea) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **hepatic porphyria**, but ther
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, deferiprone is an oral iron chelator, and its efficacy in iron overload from thalassemia is established. Mechanistically, it may be applicable to hepatic porphyria through iron depletion.
+According to the Mechanism of Action section of the FDA-approved prescribing information for deferiprone: "Deferiprone is a chelating agent with an affinity for ferric ions (iron III). Deferiprone binds with ferric ions to form neutral 3:1 (deferiprone:iron) complexes that are stable at physiological pH." ([DailyMed: Ferriprox (deferiprone) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=946718ff-df43-1baa-74d1-e5bcfbe8ad86), label version 2026-01-28; accessed 2026-11-19.) Based on known information, deferiprone is an oral iron chelator, and its efficacy in iron overload from thalassemia is established. Mechanistically, it may be applicable to hepatic porphyria through iron depletion.
 
 The rationale is that iron overload and iron-dependent oxidative stress worsen uroporphyria. In a mouse model of porphyria cutanea tarda, an oral iron chelator reduced uroporphyrin accumulation. In congenital erythropoietic porphyria, a 2020 report showed that iron chelation improved hemolytic anemia and skin photosensitivity. The biological link is plausible.
 
@@ -148,11 +148,12 @@ Eight further predictions were generated, all with no registered clinical trials
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "One further authorization, ANDA220132 (Dr. Reddy's, coated tablet), is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ferriprox (deferiprone) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=946718ff-df43-1baa-74d1-e5bcfbe8ad86) |
 
 <!-- review:end log -->
 

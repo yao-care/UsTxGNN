@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **acromesomelic dysplasia, Campai
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for cholecalciferol are not available in the data compiled for this report. In general, cholecalciferol is converted in the liver and kidney to active forms that promote intestinal absorption of calcium and phosphate and support bone mineralization.
+ChEMBL (EMBL-EBI) records the mechanism of action of cholecalciferol as: Vitamin D receptor agonist ([ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042), CC BY-SA 3.0; accessed 2026-11-19.) In general, cholecalciferol is converted in the liver and kidney to active forms that promote intestinal absorption of calcium and phosphate and support bone mineralization.
 
 The predicted disease is an ultra-rare genetic skeletal dysplasia, a disorder of bone growth. The high TxGNN score (0.9978) most likely reflects the drug's proximity to bone and mineral-metabolism terms in the model's network, not a demonstrated causal pathway. Nothing in the compiled data shows that cholecalciferol could correct the underlying genetic defect in this condition, so the mechanistic rationale is weak and speculative.
 
@@ -91,6 +91,19 @@ The prediction score is very high, but there are no clinical trials, no publicat
 - Any mechanistic or preclinical evidence linking vitamin D3 to the pathway underlying this dysplasia
 - Case reports or published studies that directly address this disease
 - Detailed mechanism-of-action data and package insert safety information (warnings and contraindications)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for cholecalciferol are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

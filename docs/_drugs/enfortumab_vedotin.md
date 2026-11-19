@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **leprosy**, but there are **0 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, enfortumab vedotin is an antibody-drug conjugate that targets Nectin-4 and delivers monomethyl auristatin E (MMAE), a microtubule-disrupting cytotoxic agent. Its efficacy has been established in urothelial carcinoma.
+According to the Mechanism of Action section of the FDA-approved prescribing information for enfortumab vedotin: "Enfortumab vedotin-ejfv is an ADC. The antibody is a human IgG1 kappa directed against Nectin-4, an adhesion protein located on the surface of cells. The small molecule, MMAE, is a microtubule-disrupting agent, attached to the antibody via a protease-cleavable linker." ([DailyMed: Padcev Ejfv (enfortumab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5631d3e-4604-4363-8f20-11dfc5a4a8ed), label version 2026-08-04; accessed 2026-11-19.) Based on known information, enfortumab vedotin is an antibody-drug conjugate that targets Nectin-4 and delivers monomethyl auristatin E (MMAE), a microtubule-disrupting cytotoxic agent. Its efficacy has been established in urothelial carcinoma.
 
 No plausible mechanistic link to leprosy was identified. Leprosy is a *Mycobacterium leprae* infection, and a cytotoxic payload aimed at Nectin-4-expressing tumour cells has no known antibacterial activity. The high TxGNN score is best read as a model output, not as biological support. Immunosuppression and cytotoxicity would also be a safety concern in this setting.
 
@@ -126,11 +126,12 @@ The leprosy prediction rests only on a model score, with no clinical trials, no 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "he US license record is cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Padcev Ejfv (enfortumab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5631d3e-4604-4363-8f20-11dfc5a4a8ed) |
 
 <!-- review:end log -->
 

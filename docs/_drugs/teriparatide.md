@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **duodenal ulcer**, but there a
 
 ## Why is This Prediction Reasonable?
 
-Teriparatide is a synthetic peptide that mimics the first 34 amino acids of human parathyroid hormone. Pharmacology data show it binds the PTH1 receptor (and also the PTH2 receptor). Its established role is anabolic: it stimulates bone formation in osteoporosis. A detailed mechanism-of-action record is not available for this report, so the description above rests on the receptor data and its known clinical use.
+Teriparatide is a synthetic peptide that mimics the first 34 amino acids of human parathyroid hormone. Pharmacology data show it binds the PTH1 receptor (and also the PTH2 receptor). Its established role is anabolic: it stimulates bone formation in osteoporosis. According to the Mechanism of Action section of the FDA-approved prescribing information for teriparatide: "Endogenous 84-amino acid parathyroid hormone (PTH) is the primary regulator of calcium and phosphate metabolism in bone and kidney. Physiological actions of PTH include regulation of bone metabolism, renal tubular reabsorption of calcium and phosphate, and intestinal calcium absorption. […] The biological actions of PTH and teriparatide are mediated through binding to specific high-affinity cell-surface receptors." ([DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c), label version 2026-08-31; accessed 2026-11-19.) The description above rests on the receptor data and its known clinical use.
 
 The data compiled for this report do not show a plausible mechanistic link between PTH receptor signaling in bone and duodenal ulcer healing. The very high TxGNN score (0.9986, model rank 32) reflects network-based computational similarity, not biological or clinical validation. Neither trials nor literature were found to support it, and the similarity between the original and predicted indications has not been assessed. This prediction should be treated as a hypothesis only.
 
@@ -122,12 +122,13 @@ The duodenal ulcer prediction rests only on a model score from the TxGNN model (
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All six US authorizations are currently valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "The drug is marketed in the US, with all six authorizations valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "A detailed mechanism-of-action record is not available for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general drug knowledge, tipranavir is a non-peptidic HIV-1 protease inhibitor. Its efficacy in HIV infection is established, and mechanistically it may be applicable to simian immunodeficiency virus (SIV).
+ChEMBL (EMBL-EBI) records the mechanism of action of tipranavir as: Human immunodeficiency virus type 1 protease inhibitor ([ChEMBL CHEMBL222559 (tipranavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL222559), CC BY-SA 3.0; accessed 2026-11-19.) Based on general drug knowledge, tipranavir is a non-peptidic HIV-1 protease inhibitor. Its efficacy in HIV infection is established, and mechanistically it may be applicable to simian immunodeficiency virus (SIV).
 
 SIV is a closely related lentivirus with a homologous protease, so activity is biologically plausible. However, SIV infection is a veterinary and preclinical model disease, not a human clinical indication. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as the approved HIV indication, not biological evidence. The mechanistic reasoning above is inferred from general knowledge only, since no trials or literature were available.
 
@@ -117,12 +117,13 @@ The prediction is supported only by the TxGNN model score, with no clinical tria
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Tipranavir's only US authorization is cancelled, and the knowledge graph flags substantial hepatic, bleeding and metabolic safety signals" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "A review of the regulatory and market situation, given that the only NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL222559 (tipranavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL222559) |
 
 <!-- review:end log -->
 

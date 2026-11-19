@@ -54,7 +54,7 @@ Dexamethasone is a systemic corticosteroid that is widely marketed in the United
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for dexamethasone are not available in the data compiled for this report. Dexamethasone belongs to the glucocorticoid class, which suppresses inflammatory and immune responses.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dexamethasone: "Dexamethasone is a corticosteroid with anti-inflammatory effects and low mineralocorticoid activity. The precise mechanism of action in multiple myeloma is unknown. Dexamethasone induces apoptosis of multiple myeloma cells." ([DailyMed: Hemady (dexamethasone) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b9cf32c-6d60-4853-bbfd-2304ffc2c129), label version 2026-01-09; accessed 2026-11-19.) Dexamethasone belongs to the glucocorticoid class, which suppresses inflammatory and immune responses.
 
 The model's high score probably reflects shared inflammatory skin and hair-follicle disease features. Alopecia mucinosa is an inflammatory follicular condition, and systemic corticosteroids are sometimes used in inflammatory follicular disorders. None of this use is documented in the supplied data, so the link is plausible but unverified. The score is a model output and does not show that the drug works for this disease.
 
@@ -119,12 +119,13 @@ The prediction is supported only by a model score, with no trials or publication
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-12 | Removed: "All are single-ingredient generic products (ANDA)" | Corrected (revised 2026-11-12; earlier version kept in the record) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-12 | Removed: "Fifteen US licences are recorded as valid, and the list may be partial" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data for dexamethasone are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Hemady (dexamethasone) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b9cf32c-6d60-4853-bbfd-2304ffc2c129) |
 
 <!-- review:end log -->
 

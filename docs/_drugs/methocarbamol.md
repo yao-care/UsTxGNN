@@ -54,7 +54,7 @@ Methocarbamol is a centrally acting skeletal muscle relaxant. The TxGNN model pr
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Based on general knowledge, methocarbamol is a centrally acting skeletal muscle relaxant. A plausible link to cauda equina syndrome is symptomatic relief of muscle spasm or pain associated with nerve root compression.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for methocarbamol: "The mechanism of action of methocarbamol in humans has not been established, but may be due to general CNS depression. It has no direct action on the contractile mechanism of striated muscle, the motor end plate or the nerve fiber." ([DailyMed: Methocarbamol Tablets, Usp, 500 Mg (methocarbamol) prescribing information, Marlex Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2e38ac9-1cf3-14ca-e053-2a95a90a8522), label version 2026-11-06; accessed 2026-11-19.) Based on general knowledge, methocarbamol is a centrally acting skeletal muscle relaxant. A plausible link to cauda equina syndrome is symptomatic relief of muscle spasm or pain associated with nerve root compression.
 
 This link is weak. Cauda equina syndrome is a surgical emergency caused by compression of the nerve roots. Methocarbamol would not treat that underlying compression, so at best it could serve as an adjunct for symptoms. No trials or literature in the data compiled for this report support the prediction.
 
@@ -116,12 +116,13 @@ The prediction rests only on a model score. There are no clinical trials or supp
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Eight licenses are recorded in total, and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Methocarbamol Tablets, Usp, 500 Mg (methocarbamol) prescribing information, Marlex Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2e38ac9-1cf3-14ca-e053-2a95a90a8522) |
 
 <!-- review:end log -->
 

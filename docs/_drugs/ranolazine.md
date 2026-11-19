@@ -54,7 +54,7 @@ Ranolazine is an antianginal drug that inhibits the late sodium current. The TxG
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Ranolazine is generally described as an antianginal agent that inhibits the late sodium current (INa) and, to a lesser extent, the rapid delayed rectifier potassium current (IKr).
+According to the Mechanism of Action section of the FDA-approved prescribing information for ranolazine: "The mechanism of action of ranolazine's antianginal effects has not been determined. Ranolazine has anti-ischemic and antianginal effects that do not depend upon reductions in heart rate or blood pressure. It does not affect the rate-pressure product, a measure of myocardial work, at maximal exercise." ([DailyMed: Aspruzyo Sprinkle (ranolazine) prescribing information, SUN PHARMACEUTICAL INDUSTRIES, INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd9f81e4-50da-4551-aed5-559d304df42e), label version 2025-01-29; accessed 2026-11-19.) Ranolazine is generally described as an antianginal agent that inhibits the late sodium current (INa) and, to a lesser extent, the rapid delayed rectifier potassium current (IKr).
 
 NSIAD is caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2). These mutations cause constitutive receptor activation and unsuppressed water reabsorption, which leads to hyponatremia.
 
@@ -117,12 +117,13 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Nine licenses are recorded in total, all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aspruzyo Sprinkle (ranolazine) prescribing information, SUN PHARMACEUTICAL INDUSTRIES, INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd9f81e4-50da-4551-aed5-559d304df42e) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and only **1 general review articl
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, imiglucerase is a recombinant glucocerebrosidase (beta-glucosidase) that hydrolyzes glucosylceramide, and its efficacy in Gaucher disease is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for imiglucerase: "Gaucher disease is characterized by a deficiency of β-glucocerebrosidase activity, which results in accumulation of glucocerebroside in various tissues including liver, spleen, and bone marrow. The mannose sugars on imiglucerase mediate binding to and internalization by cells including macrophages." ([DailyMed: Cerezyme (imiglucerase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df60f030-866b-4374-a31f-8ae3f6b45c38), label version 2026-08-27; accessed 2026-11-19.) Based on known information, imiglucerase is a recombinant glucocerebrosidase (beta-glucosidase) that hydrolyzes glucosylceramide, and its efficacy in Gaucher disease is established.
 
 Hurler syndrome (MPS I) is caused by alpha-L-iduronidase deficiency, which leads to accumulation of glycosaminoglycans (dermatan and heparan sulfate). Both Gaucher disease and Hurler syndrome are lysosomal storage disorders, and both are treated with the enzyme replacement therapy concept. However, the enzyme substrates are different, so imiglucerase would not be expected to correct the MPS I defect. The high TxGNN score most likely reflects network proximity within the lysosomal storage disease class rather than a direct mechanistic effect. A disease-specific approved therapy (laronidase) already exists.
 
@@ -117,11 +117,12 @@ Other predictions show the same picture, with no trials or literature:
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the US license for Cerezyme is listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cerezyme (imiglucerase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df60f030-866b-4374-a31f-8ae3f6b45c38) |
 
 <!-- review:end log -->
 

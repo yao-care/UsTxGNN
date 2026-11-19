@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Diffuse Scleroderma**, but th
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Vancomycin is known to be a glycopeptide antibiotic that inhibits cell wall synthesis in Gram-positive bacteria, and its efficacy in Gram-positive infections is well established.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for vancomycin: "Vancomycin is an antibacterial drug. […] The bactericidal action of vancomycin results primarily from inhibition of cell-wall biosynthesis. In addition, vancomycin alters bacterial-cell-membrane permeability and RNA synthesis." ([DailyMed: Tyzavan (vancomycin) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e9c5e2-07cc-4a8b-ba64-b2e7619ea560), label version 2026-08-19; accessed 2026-11-19.) Vancomycin is known to be a glycopeptide antibiotic that inhibits cell wall synthesis in Gram-positive bacteria, and its efficacy in Gram-positive infections is well established.
 
 That mechanism does not plausibly link to diffuse scleroderma, which is an autoimmune fibrotic disease and not a bacterial infection. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The single retrieved paper is a case report on erythroderma with sepsis and eosinophilia, and it does not show any benefit in scleroderma.
 
@@ -137,12 +137,13 @@ There is no mechanistic link, no clinical trial and no relevant literature suppo
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "13 valid authorizations are on record, and none has approved indication text on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tyzavan (vancomycin) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e9c5e2-07cc-4a8b-ba64-b2e7619ea560) |
 
 <!-- review:end log -->
 

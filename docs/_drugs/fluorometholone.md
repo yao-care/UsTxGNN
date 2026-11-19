@@ -60,7 +60,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Fluorometholone is a synthetic corticosteroid that acts on the glucocorticoid receptor (NR3C1), giving it anti-inflammatory and immunosuppressive effects. Its recognized use is treating inflammatory conditions of the eye surface and anterior segment.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for fluorometholone: "Corticosteroids inhibit the inflammatory response to a variety of inciting agents and probably delay or slow healing. They inhibit the edema, fibrin deposition, capillary dilation, leukocyte migration, capillary proliferation, fibroblast proliferation, deposition of collagen, and scar formation associated with inflammation. […] In clinical studies of documented steroid-responders, fluorometholone demonstrated a significantly longer average time to produce a rise in intraocular pressure than dexamethasone phosphate; however, in a small percentage of individuals, a significant rise in intraocular pressure occurred within one week." ([DailyMed: Fluorometholone Ophthalmic Suspension (fluorometholone) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7988a3b-e432-4d42-a8d2-63ca017e6a01), label version 2026-08-12; accessed 2026-11-19.) Fluorometholone is a synthetic corticosteroid that acts on the glucocorticoid receptor (NR3C1), giving it anti-inflammatory and immunosuppressive effects. Its recognized use is treating inflammatory conditions of the eye surface and anterior segment.
 
 Corticosteroids are generally relevant to immune-mediated vasculitis, which is the basis of the model's prediction. However, there is an important practical barrier: fluorometholone is formulated only as an eye-drop suspension with low systemic penetration. Postinfectious vasculitis is a systemic disease, so a topical ocular product is unlikely to reach relevant exposure. The link is a model prediction only, with no clinical or literature support, and route compatibility with the new indication has not been established.
 
@@ -147,12 +147,13 @@ The prediction for postinfectious vasculitis is supported only by a model score 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All four US authorizations are currently valid, and the drug is marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "The drug is marketed in the US, and all 4 of its 4 authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fluorometholone Ophthalmic Suspension (fluorometholone) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7988a3b-e432-4d42-a8d2-63ca017e6a01) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Alosetron is an oral selective 5-HT3 receptor antagonist. The TxGNN model predic
 
 ## Why is This Prediction Reasonable?
 
-Alosetron is a selective 5-HT3 receptor antagonist. Detailed mechanism-of-action data were not available in the compiled data, so this description comes from the general pharmacology of the drug class. 5-HT3 signalling is thought to play a role in nausea and in peripheral and visceral pain signalling, which gives a loose biological rationale for migraine.
+Alosetron is a selective 5-HT3 receptor antagonist. According to the Mechanism of Action section of the FDA-approved prescribing information for alosetron: "Alosetron is a potent and selective 5-HT 3 receptor antagonist. 5-HT 3 receptors are ligand-gated cation channels that are extensively distributed on enteric neurons in the human gastrointestinal tract, as well as other peripheral and central locations." ([DailyMed: Lotronex (alosetron hydrochloride) prescribing information, Sebela Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=35cbb9d5-639b-207a-e054-00144ff88e88), label version 2026-06-30; accessed 2026-11-19.) This description comes from the general pharmacology of the drug class. 5-HT3 signalling is thought to play a role in nausea and in peripheral and visceral pain signalling, which gives a loose biological rationale for migraine.
 
 This rationale is weak. 5-HT3 antagonists such as ondansetron are used in migraine mainly to control nausea and vomiting. They have no established efficacy as preventive or acute migraine treatment. The high score is a computational prediction only, and no trials or publications were supplied for this disease.
 
@@ -76,6 +76,19 @@ The prediction has no supporting clinical trials or literature on migraine, and 
 - Mechanism-of-action data for alosetron
 - Label warnings and contraindications from the FDA package insert, to support a safety assessment
 - A review of the Major interactions (fluvoxamine, apomorphine) in the context of a migraine population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the compiled data, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lotronex (alosetron hydrochloride) prescribing information, Sebela Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=35cbb9d5-639b-207a-e054-00144ff88e88) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

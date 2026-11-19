@@ -55,7 +55,7 @@ Currently **19 clinical trials** and **20 publications** support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, peginterferon alfa-2a is a pegylated form of interferon alfa. It acts through the interferon-alpha receptor and induces interferon-stimulated genes, giving it both direct antiviral and immunomodulatory effects. These effects are thought to support control of HBV replication and loss of the surface antigen (HBsAg).
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for peginterferon alfa-2a: "Pegylated recombinant human interferon alfa-2a is an inducer of the innate antiviral immune response. […] The biological activity of PEGASYS is derived from its recombinant human interferon α-2a moiety. Peginterferon α-2a binds to the human type 1 interferon receptor leading to receptor dimerization. Receptor dimerization activates multiple intracellular signal transduction pathways initially mediated by the JAK/STAT pathway." ([DailyMed: Pegasys (peginterferon alfa-2a) prescribing information, pharmaand GmbH](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d9290e5b-6d40-2318-e053-2995a90a9916), label version 2026-10-16; accessed 2026-11-19.) Based on known pharmacology, peginterferon alfa-2a is a pegylated form of interferon alfa. It acts through the interferon-alpha receptor and induces interferon-stimulated genes, giving it both direct antiviral and immunomodulatory effects. These effects are thought to support control of HBV replication and loss of the surface antigen (HBsAg).
 
 Chronic hepatitis B is already listed among the drug's original indications, so the prediction mostly confirms existing use. The many HBV trials and publications on file are consistent with this.
 
@@ -148,13 +148,14 @@ Peginterferon alfa-2a is an established therapy for chronic hepatitis B, with su
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The guardrail is that the only US license is cancelled, and label-based safety data have not yet been reviewed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "Confirm product availability and current regulatory status, since the only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "The main caution is regulatory. The only US license on record (Pegasys, BLA103964) is cancelled, so product availability and local regulator" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Pegasys (peginterferon alfa-2a) prescribing information, pharmaand GmbH](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d9290e5b-6d40-2318-e053-2995a90a9916) |
 
 <!-- review:end log -->
 

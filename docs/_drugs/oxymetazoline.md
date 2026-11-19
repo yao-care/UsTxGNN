@@ -56,7 +56,7 @@ but there are currently **0 registered clinical trials** and only **5 indirect p
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, oxymetazoline is a topical sympathomimetic that acts as an agonist at alpha-1 and alpha-2 adrenergic receptors (and also binds several serotonin receptors, including 5-HT1B, 5-HT1D and 5-HT2C). Alpha-adrenergic activation constricts blood vessels in the nasal mucosa, which reduces congestion, swelling and mucosal blood flow.
+According to the Mechanism of Action section of the FDA-approved prescribing information for oxymetazoline: "Oxymetazoline is an alpha 1A adrenoceptor agonist. Oxymetazoline acts as a vasoconstrictor." ([DailyMed: Rhofade (oxymetazoline hydrochloride) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34298db6-647d-480d-88a8-dc53258a5164), label version 2026-07-13; accessed 2026-11-19.) Based on known pharmacology, oxymetazoline is a topical sympathomimetic that acts as an agonist at alpha-1 and alpha-2 adrenergic receptors (and also binds several serotonin receptors, including 5-HT1B, 5-HT1D and 5-HT2C). Alpha-adrenergic activation constricts blood vessels in the nasal mucosa, which reduces congestion, swelling and mucosal blood flow.
 
 The predicted indication, nasal cavity disease, is a broad category that overlaps heavily with the existing uses (common cold and rhinitis symptoms). It is therefore better viewed as a broad extension of the current use than as a truly novel repurposing. The mechanism is plausible for nasal conditions involving congestion, edema or bleeding, but "nasal cavity disease" is heterogeneous, so no single clinical claim can be supported.
 
@@ -122,11 +122,12 @@ The prediction is mechanistically plausible but largely overlaps with oxymetazol
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US product record is cancelled, and l" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Rhofade (oxymetazoline hydrochloride) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34298db6-647d-480d-88a8-dc53258a5164) |
 
 <!-- review:end log -->
 

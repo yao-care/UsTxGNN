@@ -54,7 +54,7 @@ Ferric maltol is an oral iron preparation used to replace iron in iron-deficienc
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for ferric maltol are not available in the data compiled for this report. Based on what is known, ferric maltol is an oral, lipophilic iron complex designed to deliver iron for absorption in the gut.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for ferric maltol: "ACCRUFER delivers iron for uptake across the intestinal wall and transfer to transferrin and ferritin." ([DailyMed: Accrufer (ferric maltol) prescribing information, Shield TX (UK) Ltd](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=367ac157-2d25-4f34-99ce-b126e0f03851), label version 2026-01-02; accessed 2026-11-19.) Based on what is known, ferric maltol is an oral, lipophilic iron complex designed to deliver iron for absorption in the gut.
 
 The mechanistic link to the predicted condition is weak. Megaloblastic anemia is typically driven by impaired DNA synthesis, through B12 or folate pathways or through inherited defects in nucleotide metabolism. It is not driven by iron deficiency. Iron replacement would not be expected to correct a megaloblastic defect that is independent of B12 and folate, unless iron deficiency is also present. The very high score of 0.9998 most likely reflects closeness to other anemia-related conditions in the model's network rather than a true therapeutic mechanism. The score is a model output only and does not show that the drug works for this condition.
 
@@ -93,6 +93,18 @@ The prediction has a very high model score but no supporting trials or publicati
 - Mechanism-of-action data for ferric maltol
 - Package insert warnings and contraindications, to complete the safety review
 - Evidence that patients with this condition also have iron deficiency that would justify iron replacement
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for ferric maltol are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Accrufer (ferric maltol) prescribing information, Shield TX (UK) Ltd](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=367ac157-2d25-4f34-99ce-b126e0f03851) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

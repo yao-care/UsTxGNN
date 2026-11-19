@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, lamivudine is a nucleoside reverse transcriptase inhibitor (NRTI). After phosphorylation inside cells, it acts as a chain terminator of viral DNA synthesis. Its efficacy in HIV and hepatitis B has been established.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for lamivudine: "Lamivudine is an antiretroviral agent. […] Lamivudine is a synthetic nucleoside analogue. Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC-TP). The principal mode of action of 3TC-TP is inhibition of HIV-1 reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue." ([DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8), label version 2024-08-15; accessed 2026-11-19.) Based on known pharmacology, lamivudine is a nucleoside reverse transcriptase inhibitor (NRTI). After phosphorylation inside cells, it acts as a chain terminator of viral DNA synthesis. Its efficacy in HIV and hepatitis B has been established.
 
 SIV is a close lentiviral relative of HIV with a homologous reverse transcriptase, so lamivudine's mechanism is plausibly shared. Macaque studies support this. They include work on the M184V resistance mutation in SIV reverse transcriptase, multidrug antiretroviral regimens, and post-exposure prophylaxis with zidovudine, lamivudine and indinavir.
 
@@ -137,13 +137,14 @@ The predicted indication, SIV infection, is a non-human research-model disease w
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and lamivudine's US licenses are all cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled US license status, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 13 valid licenses in the compiled data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8) |
 
 <!-- review:end log -->
 

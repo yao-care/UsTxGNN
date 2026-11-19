@@ -56,7 +56,7 @@ The TxGNN model predicts it may be useful for **nasal cavity disease**, with a s
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Carbinoxamine belongs to the class of first-generation H1 antihistamines. Such drugs block histamine at H1 receptors and also have anticholinergic effects, which reduce sneezing and watery nasal discharge.
+According to the Mechanism of Action section of the FDA-approved prescribing information for carbinoxamine: "Carbinoxamine maleate, an ethanolamine derivative, is an antihistamine with anticholinergic (drying) and sedative properties. Carbinoxamine appears to compete with histamine (type H1) for receptor sites on effector cells in the gastrointestinal tract, blood vessels and respiratory tract." ([DailyMed: Carbzah (carbinoxamine maleate) prescribing information, IPG Pharmaceuticals, inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a845fc15-c675-4e33-840c-6a74e79d0ced), label version 2026-10-05; accessed 2026-11-19.) Carbinoxamine belongs to the class of first-generation H1 antihistamines. Such drugs block histamine at H1 receptors and also have anticholinergic effects, which reduce sneezing and watery nasal discharge.
 
 "Nasal cavity disease" is a very broad category. A symptomatic benefit on nasal discharge and sneezing is plausible for allergic or vasomotor nasal conditions. However, the term is too non-specific to support a distinct repurposing claim. The link is indirect and inferred from the drug's class effects, not from any study of this disease.
 
@@ -98,6 +98,19 @@ The prediction score is high (0.9988), but no trials or publications address nas
 - Clinical or literature evidence studying carbinoxamine directly in that condition
 - Mechanism of action data
 - Package insert warnings and contraindications for safety screening
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Carbzah (carbinoxamine maleate) prescribing information, IPG Pharmaceuticals, inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a845fc15-c675-4e33-840c-6a74e79d0ced) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

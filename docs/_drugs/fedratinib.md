@@ -56,7 +56,7 @@ but **0 clinical trials** and **0 publications** currently support this directio
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, fedratinib is a JAK2 inhibitor (with additional FLT3 and BRD4 activity). Its efficacy in myelofibrosis, a disease driven by dysregulated JAK/STAT signaling, is the basis of its original use.
+According to the Mechanism of Action section of the FDA-approved prescribing information for fedratinib: "Fedratinib is an oral kinase inhibitor with activity against wild type and mutationally activated Janus Associated Kinase 2 (JAK2) and FMS-like tyrosine kinase 3 (FLT3). Fedratinib is a JAK2-selective inhibitor with higher inhibitory activity for JAK2 over family members JAK1, JAK3 and TYK2." ([DailyMed: Inrebic (fedratinib hydrochloride) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0f55a2a-4e0c-4cba-8571-03e1424486d7), label version 2026-07-20; accessed 2026-11-19.) Based on general knowledge, fedratinib is a JAK2 inhibitor (with additional FLT3 and BRD4 activity). Its efficacy in myelofibrosis, a disease driven by dysregulated JAK/STAT signaling, is the basis of its original use.
 
 PEComas are typically driven by mTOR pathway activation through TSC1/TSC2 loss. No direct link between JAK2 inhibition and mTOR-driven biology is established in the data compiled for this report, so the mechanistic connection is weak and speculative. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -134,12 +134,13 @@ The prediction is supported only by the TxGNN model score (evidence level L5), w
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Clarification of the current US regulatory status of fedratinib, since the compiled record shows only a cancelled NDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and a cancelled US NDA" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Inrebic (fedratinib hydrochloride) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0f55a2a-4e0c-4cba-8571-03e1424486d7) |
 
 <!-- review:end log -->
 

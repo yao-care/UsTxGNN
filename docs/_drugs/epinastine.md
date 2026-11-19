@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **rosacea conjunctivitis**, but
 
 ## Why is This Prediction Reasonable?
 
-Epinastine is a histamine H1 receptor antagonist with mast-cell stabilizing activity. Detailed mechanism of action data are not available in the data compiled for this report, so this description reflects its known drug class.
+Epinastine is a histamine H1 receptor antagonist with mast-cell stabilizing activity. According to the Mechanism of Action section of the FDA-approved prescribing information for epinastine: "Epinastine is a topically active, direct H 1 -receptor antagonist and an inhibitor of the release of histamine from the mast cell. Epinastine is selective for the histamine H 1 -receptor and has affinity for the histamine H 2 -receptor." ([DailyMed: epinastine hydrochloride prescribing information, Somerset Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4ee45c-e58f-4b7c-b389-898f5c27f54d), label version 2025-03-22; accessed 2026-11-19.) This description reflects its known drug class.
 
 Its efficacy is established in allergic conjunctival conditions, where histamine and mast-cell mediators drive itching and surface inflammation. Ocular rosacea involves meibomian gland dysfunction, inflammation and ocular surface irritation. It may also have an allergic or histamine-mediated component. That gives a plausible but only indirect link.
 
@@ -128,13 +128,14 @@ The prediction for rosacea conjunctivitis rests only on a model score, with no r
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license on record is cancelled, so the drug's practical availability would need verification" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "The drug's only US license is cancelled, and label-level safety and mechanism data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "Confirmation of current US availability, since the only license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: epinastine hydrochloride prescribing information, Somerset Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4ee45c-e58f-4b7c-b389-898f5c27f54d) |
 
 <!-- review:end log -->
 

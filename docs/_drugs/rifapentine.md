@@ -60,7 +60,7 @@ A separate, much better-supported extension is **TB prevention and treatment in 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on what is known, rifapentine is a rifamycin that inhibits bacterial DNA-dependent RNA polymerase (rpoB). Its efficacy in tuberculosis is established.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for rifapentine: "Rifapentine, a cyclopentyl rifamycin, is an antimycobacterial agent. […] Rifapentine, a cyclopentyl rifamycin, inhibits DNA-dependent RNA polymerase in susceptible strains of Mycobacterium tuberculosis but does not affect mammalian cells at concentrations that are active against these bacteria. At therapeutic levels, rifapentine inhibits RNA transcription by preventing the initiation of RNA chain formation." ([DailyMed: Priftin (rifapentine) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a64fb70-b85e-43d9-8bcd-7e893f568ae1), label version 2026-02-06; accessed 2026-11-19.) Based on what is known, rifapentine is a rifamycin that inhibits bacterial DNA-dependent RNA polymerase (rpoB). Its efficacy in tuberculosis is established.
 
 *Mycobacterium leprae* is susceptible to rifamycins, and rifampicin is already a cornerstone of leprosy treatment and post-exposure prophylaxis. Mouse footpad studies suggest rifapentine has stronger bactericidal activity against *M. leprae* than rifampicin. A 2023 study in the New England Journal of Medicine evaluated single-dose rifapentine in household contacts of leprosy patients. The link is therefore biologically plausible, since it is an extension within the same drug class against a closely related mycobacterium.
 
@@ -164,11 +164,12 @@ Package insert warnings and contraindications were not available. Please refer t
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Clarification of US regulatory status, since the only NDA on record is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Priftin (rifapentine) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a64fb70-b85e-43d9-8bcd-7e893f568ae1) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **drug-induced osteoporosis**, 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known drug characteristics, sacituzumab govitecan is an antibody-drug conjugate. The antibody targets Trop-2, and the payload SN-38 is a topoisomerase I inhibitor that kills rapidly dividing cells.
+According to the Mechanism of Action section of the FDA-approved prescribing information for sacituzumab govitecan: "Sacituzumab govitecan-hziy is a Trop-2-directed antibody-drug conjugate. Sacituzumab is a humanized antibody that recognizes Trop-2. The small molecule, SN-38, is a topoisomerase I inhibitor, which is covalently attached to the antibody by a linker." ([DailyMed: Trodelvy (sacituzumab govitecan) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=57a597d2-03f0-472e-b148-016d7169169d), label version 2026-06-24; accessed 2026-11-19.) Based on known drug characteristics, sacituzumab govitecan is an antibody-drug conjugate. The antibody targets Trop-2, and the payload SN-38 is a topoisomerase I inhibitor that kills rapidly dividing cells.
 
 On the available data, a mechanistic link to drug-induced osteoporosis is not supported. The TxGNN score is a network-based computational prediction and is not evidence of efficacy. No plausible bone-protective mechanism is apparent. Cytotoxic chemotherapy is, if anything, more commonly associated with bone loss. The relationship between the original indication and this predicted indication has not been established, so the prediction should be treated as a hypothesis only.
 
@@ -147,11 +147,12 @@ The prediction is supported only by a model score, with no clinical trials, no l
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license record is cancelled, and safety label data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Trodelvy (sacituzumab govitecan) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=57a597d2-03f0-472e-b148-016d7169169d) |
 
 <!-- review:end log -->
 

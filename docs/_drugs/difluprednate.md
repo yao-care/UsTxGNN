@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **familial adrenal hypoplasia w
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. From pharmacology data, difluprednate is a glucocorticoid receptor (NR3C1) agonist with a reported binding affinity (Ki) of 0.78 nM. It is a prodrug that is converted to an active metabolite after application.
+According to the Mechanism of Action section of the FDA-approved prescribing information for difluprednate: "Corticosteroids inhibit the inflammatory response to a variety of inciting agents and may delay or slow healing. They inhibit edema, fibrin deposition, capillary dilation, leukocyte migration, capillary proliferation, fibroblast proliferation, deposition of collagen, and scar formation associated with inflammation. […] Difluprednate is structurally similar to other corticosteroids." ([DailyMed: Durezol (difluprednate) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea520a27-f569-4b31-8bad-a25ad54b2caa), label version 2026-08-18; accessed 2026-11-19.) From pharmacology data, difluprednate is a glucocorticoid receptor (NR3C1) agonist with a reported binding affinity (Ki) of 0.78 nM. It is a prodrug that is converted to an active metabolite after application.
 
 The predicted disease is a congenital genetic disorder (for example involving NR0B1/DAX-1) that causes adrenal and gonadotropin deficiency. Glucocorticoids are relevant to the cortisol deficiency in such conditions, so there is a class-level link. However, difluprednate is a potent topical ophthalmic and dermatologic steroid, not a systemic replacement agent. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No clinical or literature support was found.
 
@@ -128,12 +128,13 @@ The prediction is supported only by the model score (L5). There are no clinical 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Three more authorizations (Mylan, Amneal and Dr. Reddy's) are also cancelled, for a total of 8" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with all 8 of 8 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Durezol (difluprednate) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea520a27-f569-4b31-8bad-a25ad54b2caa) |
 
 <!-- review:end log -->
 

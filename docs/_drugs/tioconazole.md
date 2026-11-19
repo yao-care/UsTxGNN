@@ -54,7 +54,7 @@ Tioconazole is a topical imidazole antifungal that blocks ergosterol synthesis i
 
 ## Why is This Prediction Reasonable?
 
-Tioconazole's molecular target in fungi and yeasts is lanosterol 14-α demethylase (CYP51/ERG11). This enzyme converts lanosterol to ergosterol, an essential cell membrane component. Without ergosterol the organism cannot survive. Tioconazole also inhibits the human enzyme CYP8B1, which takes part in bile acid synthesis. Detailed mechanism-of-action data were not available in the data compiled for this report, so the mechanism above comes from pharmacology data and the general azole class.
+Tioconazole's molecular target in fungi and yeasts is lanosterol 14-α demethylase (CYP51/ERG11). This enzyme converts lanosterol to ergosterol, an essential cell membrane component. Without ergosterol the organism cannot survive. Tioconazole also inhibits the human enzyme CYP8B1, which takes part in bile acid synthesis. ChEMBL (EMBL-EBI) records the mechanism of action of tioconazole as: Cytochrome P450 51 inhibitor ([ChEMBL CHEMBL1200438 (tioconazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200438), CC BY-SA 3.0; accessed 2026-11-19.) The mechanism above comes from pharmacology data and the general azole class.
 
 Vulvitis often occurs together with yeast infection of the lower genital tract. Where the vulvar inflammation is caused by Candida, an azole antifungal could plausibly help. This reasoning holds only for the fungal subset. Vulvitis from non-infectious or non-fungal causes (irritant, allergic, or other causes) would not be expected to respond to an antifungal. The literature retrieved does not separate vulvitis from general vaginal Candida infection, so the link remains an inference.
 
@@ -115,11 +115,12 @@ The TxGNN score is high (0.9920), but no clinical trial or publication studies v
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-12 | Removed: "The local records show one licence, and it is valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1200438 (tioconazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200438) |
 
 <!-- review:end log -->
 

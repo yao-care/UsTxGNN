@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **Alopecia** (the highest-ranke
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, diazoxide opens ATP-sensitive potassium (KATP) channels. In the pancreas this suppresses insulin release, which explains its use in hyperinsulinemic hypoglycemia.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for diazoxide: "PROGLYCEM produces a dose-related increase in blood glucose, due primarily to an inhibition of insulin release from the pancreas, and also to an extrapancreatic effect. The hyperglycemic effect of PROGLYCEM begins within an hour and generally lasts no more than 8 hours in the presence of normal renal function." ([DailyMed: Proglycem (diazoxide) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b16c7832-2fd9-49af-b923-1dc0d91fd6e2), label version 2026-10-06; accessed 2026-11-19.) Based on known pharmacology, diazoxide opens ATP-sensitive potassium (KATP) channels. In the pancreas this suppresses insulin release, which explains its use in hyperinsulinemic hypoglycemia.
 
 The link to hair is an adverse-effect signal. Hypertrichosis is a well-documented side effect of diazoxide. Minoxidil, an established hair-growth drug, is also a KATP opener (through its sulfate metabolite). Researchers have therefore asked whether diazoxide's hair-growth effect could be used on purpose. In a stumptailed macaque model of baldness, topical diazoxide induced hair regrowth on the bald scalp (PMID 2085505, PMID 8326148).
 
@@ -138,6 +138,19 @@ The high TxGNN scores are model predictions only. For alopecia the sole direct e
 - A topical formulation and route strategy, since systemic dosing is unlikely to be acceptable for alopecia. No topical product currently exists in the US data.
 - Preclinical and early human data on topical diazoxide in androgenetic alopecia, including systemic absorption and a comparison with minoxidil.
 - For the Kir6.2 hyperinsulinism prediction, genotype-specific evidence of diazoxide responsiveness.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Proglycem (diazoxide) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b16c7832-2fd9-49af-b923-1dc0d91fd6e2) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 
 ## Why is This Prediction Reasonable?
 
-Ziconotide is a selective N-type (Cav2.2) voltage-gated calcium channel blocker. By blocking these channels in the dorsal horn, it is thought to reduce the release of pain-transmitting neurotransmitters such as substance P, CGRP and glutamate. Detailed mechanism of action data were not available in the drug record, so this description comes from the mechanistic analysis of the prediction.
+Ziconotide is a selective N-type (Cav2.2) voltage-gated calcium channel blocker. By blocking these channels in the dorsal horn, it is thought to reduce the release of pain-transmitting neurotransmitters such as substance P, CGRP and glutamate. According to the Mechanism of Action section of the FDA-approved prescribing information for ziconotide: "Ziconotide binds to N-type calcium channels located on the primary nociceptive (A-δ and C) afferent nerves in the superficial layers (Rexed laminae I and II) of the dorsal horn in the spinal cord. Although the mechanism of action of ziconotide has not been established in humans, results in animals suggest that its binding blocks N-type calcium channels, which leads to a blockade of excitatory neurotransmitter release from the primary afferent nerve terminals and antinociception." ([DailyMed: Prialt (ziconotide acetate) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=57376a5b-4530-9018-e063-6394a90a9afe), label version 2026-09-15; accessed 2026-11-19.) This description comes from the mechanistic analysis of the prediction.
 
 CGRP and trigeminal-cervical pain pathways play a central role in migraine. Dampening nociceptive signalling in these pathways could therefore plausibly help chronic migraine. This is the main mechanistic rationale for the prediction.
 
@@ -135,12 +135,13 @@ Evidence is limited to one case report and narrative reviews, with no registered
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given that the NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data were not available in the drug record, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Prialt (ziconotide acetate) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=57376a5b-4530-9018-e063-6394a90a9afe) |
 
 <!-- review:end log -->
 

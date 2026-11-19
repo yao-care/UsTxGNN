@@ -56,7 +56,7 @@ It is most likely a TxGNN model (deep learning) artifact rather than a genuine r
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, histrelin is a GnRH agonist. With continuous exposure it desensitizes pituitary GnRH receptors and suppresses LH and FSH, which lowers sex steroids. This is why it works in precocious puberty.
+According to the Mechanism of Action section of the FDA-approved prescribing information for histrelin: "SUPPRELIN LA is a GnRH agonist and an inhibitor of gonadotropin secretion when given continuously. It delivers approximately 65 mcg histrelin acetate per day. Both animal and human studies indicate that following an initial stimulatory phase, chronic, subcutaneous administration of histrelin acetate desensitizes responsiveness of the pituitary gonadotropin which, in turn causes a reduction in ovarian and testicular steroidogenesis." ([DailyMed: Supprelin La (histrelin acetate) prescribing information, Endo USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d8fb000e-3cc9-4803-b71d-2cc597661977), label version 2025-09-25; accessed 2026-11-19.) Based on known pharmacology, histrelin is a GnRH agonist. With continuous exposure it desensitizes pituitary GnRH receptors and suppresses LH and FSH, which lowers sex steroids. This is why it works in precocious puberty.
 
 That mechanism does not connect credibly to Ambras syndrome. Ambras syndrome is a genetic hypertrichosis disorder associated with chromosome 8q rearrangements that affect regulation of the TRPS1 gene. It is not a hormone-driven condition, so suppressing the pituitary-gonadal axis would not be expected to change it. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and there is no clinical or published evidence to back it.
 
@@ -115,12 +115,13 @@ The prediction for Ambras type hypertrichosis universalis congenita has no clini
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US product is cancelled, so the high TxGNN score alone does not justify further investment" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "Confirmation of current regulatory and supply status, since the only NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Supprelin La (histrelin acetate) prescribing information, Endo USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d8fb000e-3cc9-4803-b71d-2cc597661977) |
 
 <!-- review:end log -->
 

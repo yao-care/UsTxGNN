@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **epiglottitis**, but this rest
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Sodium fluoride is best known as a topical and dietary dental-caries preventive. Its predicted relationship to vitamin deficiency disorder comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for sodium fluoride: "Fluoride delivered from Clinpro 5000 inhibits the demineralization of sound teeth and enhances the remineralization (i.e., repair) of demineralized teeth. During tooth brushing, fluoride is taken up by teeth and dental plaque." ([DailyMed: Clinpro 5000 (sodium fluoride) prescribing information, Solventum US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a20d3cf0-2e1f-4191-971e-9e47936b4580), label version 2024-08-01; accessed 2026-11-19.) Sodium fluoride is best known as a topical and dietary dental-caries preventive. Its predicted relationship to vitamin deficiency disorder comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Epiglottitis is an acute airway infection, typically caused by *Haemophilus influenzae* type b or other bacteria. It is treated with systemic antibiotics and airway management. Nothing in the data compiled for this report shows an antibacterial or anti-inflammatory mechanism of sodium fluoride relevant to this condition. The very high score (0.999) is most likely a TxGNN model (deep learning) artifact, not a mechanistic signal.
 
@@ -123,12 +123,13 @@ The prediction rests only on a model score, with no clinical trials or relevant 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All three US authorizations in the data are valid, and none carries approved indication text" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "The drug is marketed, with 3 valid US authorizations, and the safety package is incomplete" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Clinpro 5000 (sodium fluoride) prescribing information, Solventum US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a20d3cf0-2e1f-4191-971e-9e47936b4580) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, mecasermin is recombinant human IGF-1. It acts on the GH/IGF-1 axis and bypasses defective growth hormone signaling, which is why it was used in growth hormone insensitivity.
+According to the Mechanism of Action section of the FDA-approved prescribing information for mecasermin: "Insulin-like growth factor-1 (IGF-1) is a key hormonal mediator on statural growth. Under normal circumstances, growth hormone (GH) binds to its receptor in the liver, and other tissues, and stimulates the synthesis/secretion of IGF-1." ([DailyMed: Increlex (mecasermin) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d5b2b0e1-c523-468d-9a0b-4ae4e4a8dbce), label version 2026-05-18; accessed 2026-11-19.) Based on known information, mecasermin is recombinant human IGF-1. It acts on the GH/IGF-1 axis and bypasses defective growth hormone signaling, which is why it was used in growth hormone insensitivity.
 
 Monosomy X (Turner syndrome) is characterized by short stature, so a biological link to growth failure is plausible: IGF-1 supplementation could theoretically address growth deficits. However, the rationale is indirect. Patients with Turner syndrome typically have normal or elevated growth hormone levels and are treated with growth hormone itself, not IGF-1. The high TxGNN score is a computational prediction only and is not backed by trials or literature.
 
@@ -126,12 +126,13 @@ The prediction is supported only by the TxGNN model (L5). There are no clinical 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the US authorizations are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled market status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Increlex (mecasermin) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d5b2b0e1-c523-468d-9a0b-4ae4e4a8dbce) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but **no clinical trials or publications** were found in the data compiled for t
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Based on known information, lusutrombopag is a TPO receptor (c-Mpl) agonist. Its efficacy in thrombocytopenia has been established in patients with chronic liver disease undergoing procedures, and mechanistically it may be applicable to inherited thrombocytopenias.
+According to the Mechanism of Action section of the FDA-approved prescribing information for lusutrombopag: "Lusutrombopag is an orally bioavailable, small molecule TPO receptor agonist that interacts with the transmembrane domain of human TPO receptors expressed on megakaryocytes to induce the proliferation and differentiation of megakaryocytic progenitor cells from hematopoietic stem cells and megakaryocyte maturation." ([DailyMed: Mulpleta (lusutrombopag) prescribing information, VANCOCIN ITALIA SRL](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a390aec3-6e77-45f8-95d3-d4b8c2eeee40), label version 2025-12-09; accessed 2026-11-19.) Based on known information, lusutrombopag is a TPO receptor (c-Mpl) agonist. Its efficacy in thrombocytopenia has been established in patients with chronic liver disease undergoing procedures, and mechanistically it may be applicable to inherited thrombocytopenias.
 
 Stimulating megakaryocyte production through the TPO receptor could plausibly raise platelet counts in inherited thrombocytopenias where megakaryocytes can still respond. This is the link between the original and predicted indications.
 
@@ -135,12 +135,13 @@ The prediction has a high model score but no clinical trials or literature (L5).
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The disease name is internally inconsistent, and the only US authorization is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given the cancelled US authorization" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mulpleta (lusutrombopag) prescribing information, VANCOCIN ITALIA SRL](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a390aec3-6e77-45f8-95d3-d4b8c2eeee40) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **polyclonal hyperviscosity syn
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Moxifloxacin belongs to the fluoroquinolone class, which is generally understood to act by inhibiting bacterial DNA gyrase and topoisomerase IV. Its efficacy in bacterial infections is established.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for moxifloxacin: "Moxifloxacin Tablet is a member of the fluoroquinolone class of antibacterial agents. […] The bactericidal action of moxifloxacin results from inhibition of the topoisomerase II (DNA gyrase) and topoisomerase IV required for bacterial DNA replication, transcription, repair, and recombination." ([DailyMed: Moxifloxacin (moxifloxacin hydrochloride) prescribing information, Kesin Pharma Corportation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6d3ff1-e853-a3d8-e063-6394a90a18f5), label version 2026-11-06; accessed 2026-11-19.) Moxifloxacin belongs to the fluoroquinolone class, which is generally understood to act by inhibiting bacterial DNA gyrase and topoisomerase IV. Its efficacy in bacterial infections is established.
 
 On this basis, **no plausible mechanistic link** to polyclonal hyperviscosity syndrome can be identified. The condition involves raised serum viscosity from excess polyclonal immunoglobulins. An antibacterial has no known effect on serum viscosity or immunoglobulin levels. The very high TxGNN score is a computational association only. It should not be read as evidence of benefit, and no trial or publication backs it.
 
@@ -115,12 +115,13 @@ The prediction has no supporting trials or literature and no plausible mechanism
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 10 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "for these entries" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Moxifloxacin (moxifloxacin hydrochloride) prescribing information, Kesin Pharma Corportation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6d3ff1-e853-a3d8-e063-6394a90a18f5) |
 
 <!-- review:end log -->
 

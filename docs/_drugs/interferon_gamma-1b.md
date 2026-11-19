@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **heart disease**, but there ar
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the compiled data. Based on general knowledge, interferon gamma-1b is an immunomodulatory cytokine that activates macrophages and supports defence against intracellular pathogens, including mycobacteria. This is background knowledge, not data supplied with this report.
+According to the Mechanism of Action section of the FDA-approved prescribing information for interferon gamma-1b: "Interferons bind to specific cell surface receptors and initiate a sequence of intracellular events that lead to the transcription of interferon-stimulated genes. The three major groups of interferons (alpha, beta, gamma) have partially overlapping biological activities that include immunoregulation such as increased resistance to microbial pathogens and inhibition of cell proliferation." ([DailyMed: Actimmune (interferon gamma-1b) prescribing information, Horizon Therapeutics USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d0b1256-1981-4519-94f4-a4a2f98bd8a3), label version 2026-03-30; accessed 2026-11-19.) Based on general knowledge, interferon gamma-1b is an immunomodulatory cytokine that activates macrophages and supports defence against intracellular pathogens, including mycobacteria. This is background knowledge, not data supplied with this report.
 
 The link to heart disease is weak. None of the three retrieved publications tests the drug in a cardiac condition:
 
@@ -145,11 +145,12 @@ The prediction has no clinical trials and no literature that tests interferon ga
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "the US licenses are cancelled and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Actimmune (interferon gamma-1b) prescribing information, Horizon Therapeutics USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d0b1256-1981-4519-94f4-a4a2f98bd8a3) |
 
 <!-- review:end log -->
 

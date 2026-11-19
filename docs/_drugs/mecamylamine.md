@@ -54,7 +54,7 @@ Mecamylamine is an oral ganglionic blocker, originally used to treat hypertensio
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, mecamylamine is a non-competitive nicotinic acetylcholine receptor (ganglionic) antagonist. By blocking autonomic ganglia it lowers sympathetic tone and blood pressure, which is why it was used in hypertension.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for mecamylamine: "Mecamylamine HCl reduces blood pressure in both normotensive and hypertensive individuals. It has a gradual onset of action (1/2 to 2 hours) and a long-lasting effect (usually 6 to 12 hours or more). A small oral dosage often produces a smooth and predictable reduction of blood pressure." ([DailyMed: Vecamyl (mecamylamine hydrochloride) prescribing information, TILDE Sciences LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0b149023-f7a8-442d-ac69-295df8e66ed3), label version 2025-02-20; accessed 2026-11-19.) Based on general pharmacology, mecamylamine is a non-competitive nicotinic acetylcholine receptor (ganglionic) antagonist. By blocking autonomic ganglia it lowers sympathetic tone and blood pressure, which is why it was used in hypertension.
 
 The new indication is also a form of severe hypertension, so the prediction is plausible on the surface. Ganglionic blockade was historically used in malignant hypertension. However, malignant renovascular hypertension is driven largely by activation of the renin-angiotensin system and renal artery stenosis, which ganglionic blockade does not address directly. The high TxGNN score most likely reflects similarity to the already-approved hypertension indication rather than independent evidence.
 
@@ -121,6 +121,19 @@ The prediction is supported only by the model score (Evidence Level L5), with no
 - Mechanism of action data from DrugBank
 - Any clinical or mechanistic evidence specific to mecamylamine in malignant or renovascular hypertension
 - Assessment of whether any demonstrated benefit would exceed that of current standard therapies
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vecamyl (mecamylamine hydrochloride) prescribing information, TILDE Sciences LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0b149023-f7a8-442d-ac69-295df8e66ed3) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

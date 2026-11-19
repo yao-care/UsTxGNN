@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **vascular disease**, but there
 
 ## Why is This Prediction Reasonable?
 
-Doxapram is a respiratory stimulant that acts on the peripheral carotid chemoreceptors and the brainstem respiratory centers. Currently, detailed mechanism of action data is not available in the data compiled for this report, so this description is based on general pharmacological knowledge.
+Doxapram is a respiratory stimulant that acts on the peripheral carotid chemoreceptors and the brainstem respiratory centers. According to the Clinical Pharmacology section of the FDA-approved prescribing information for doxapram: "Doxapram hydrochloride produces respiratory stimulation mediated through the peripheral carotid chemoreceptors. As the dosage level is increased, the central respiratory centers in the medulla are stimulated with progressive stimulation of other parts of the brain and spinal cord." ([DailyMed: Dopram (doxapram hydrochloride) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8eb330a-a75b-46cb-b694-5be9327ed2eb), label version 2024-04-09; accessed 2026-11-19.) This description is based on general pharmacological knowledge.
 
 The retrieved literature shows only indirect hemodynamic effects: pressor responses in hypovolemic or hemorrhagic hypotension (in dogs and humans), and modulation of hypoxic pulmonary vasoconstriction. None of it supports treating an underlying vascular disease. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -139,12 +139,13 @@ The high TxGNN score is not backed by any clinical trial or relevant literature,
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Several vascular conditions appear among the knowledge-graph cautions, and the only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "Clarification of the regulatory and route situation, given that the only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dopram (doxapram hydrochloride) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8eb330a-a75b-46cb-b694-5be9327ed2eb) |
 
 <!-- review:end log -->
 

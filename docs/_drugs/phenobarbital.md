@@ -60,7 +60,7 @@ The prediction is best read as a likely model artifact. The score comes from the
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. From general pharmacology, phenobarbital is a barbiturate anticonvulsant that enhances GABA-A receptor-mediated inhibition. This explains its established role in seizure control.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for phenobarbital: "The precise mechanism of action for phenobarbital for the treatment of neonatal seizures is not fully understood, but it is thought to involve potentiation of synaptic inhibition through an action on the GABA A receptor." ([DailyMed: Sezaby (phenobarbital sodium) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c7d0402-4977-4c25-bc4b-11db91339e9a), label version 2026-10-23; accessed 2026-11-19.) From general pharmacology, phenobarbital is a barbiturate anticonvulsant that enhances GABA-A receptor-mediated inhibition. This explains its established role in seizure control.
 
 For the top-ranked prediction, **trigeminal nerve neoplasm**, no credible mechanistic link can be established. Phenobarbital has no known antitumor activity. The only retrieved paper is a case series on Sturge-Weber syndrome, which is not a trigeminal neoplasm. The very high score (0.9996) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -164,12 +164,13 @@ The top prediction, trigeminal nerve neoplasm, has no clinical trials, no releva
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The only US license in the compiled data is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "he US licence is cancelled and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sezaby (phenobarbital sodium) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c7d0402-4977-4c25-bc4b-11db91339e9a) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ with **40 clinical trials** and **20 publications** compiled for this direction,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the compiled data. Based on known pharmacology, bendamustine is a bifunctional alkylating agent with purine-analog-like properties. It causes DNA cross-linking and apoptosis in B-cell malignancies.
+According to the Mechanism of Action section of the FDA-approved prescribing information for bendamustine: "Bendamustine is a bifunctional mechlorethamine derivative containing a purine-like benzimidazole ring. Mechlorethamine and its derivatives form electrophilic alkyl groups. These groups form covalent bonds with electron-rich nucleophilic moieties, resulting in interstrand DNA crosslinks." ([DailyMed: Vivimusta (bendamustine hydrochloride) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bf0e08b3-50ab-48e0-a52b-89c04787a75f), label version 2026-10-28; accessed 2026-11-19.) Based on known pharmacology, bendamustine is a bifunctional alkylating agent with purine-analog-like properties. It causes DNA cross-linking and apoptosis in B-cell malignancies.
 
 Mantle cell lymphoma is a mature B-cell neoplasm closely related to other B-cell lymphomas in which bendamustine is already used. Bendamustine plus rituximab (BR) is an established backbone in mantle cell lymphoma. It is the comparator or backbone in several Phase 3 trials, such as the StiL and BRIGHT trials (first-line BR versus R-CHOP) and trials adding ibrutinib, acalabrutinib or orelabrutinib to BR.
 
@@ -131,6 +131,19 @@ Several completed Phase 3 randomized trials (StiL, BRIGHT) and recent Phase 3 tr
 - Detailed mechanism-of-action data
 - A hematologic and infection monitoring plan, especially for older patients and those with renal or hepatic impairment
 - Review of the interaction list against typical co-medications in mantle cell lymphoma
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vivimusta (bendamustine hydrochloride) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bf0e08b3-50ab-48e0-a52b-89c04787a75f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ but **0 clinical trials** and **0 publications** currently support this predicti
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, chlorthalidone is a thiazide-like diuretic. Its efficacy in hypertension and congestive heart failure is established, and it acts mainly through fluid and electrolyte balance.
+According to the Mechanism of Action section of the FDA-approved prescribing information for chlorthalidone: "Chlorthalidone is a long-acting oral diuretic with antihypertensive activity. The diuretic effects of chlorthalidone and the benzothiadiazine (thiazide) diuretics appear to arise from similar mechanisms and the maximal effect of chlorthalidone and the thiazides appear to be similar." ([DailyMed: Thalitone (chlorthalidone) prescribing information, Casper Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc5a0299-115b-4e60-bb3f-c75a95c51c15), label version 2026-06-25; accessed 2026-11-19.) Based on known information, chlorthalidone is a thiazide-like diuretic. Its efficacy in hypertension and congestive heart failure is established, and it acts mainly through fluid and electrolyte balance.
 
 A link to intraocular pressure (for example, through changes in aqueous humor dynamics) is speculative and not supported by the data compiled for this report. Primary hereditary glaucoma is genetically driven, so a diuretic is unlikely to address the underlying cause. Systemic antihypertensives can also lower ocular perfusion pressure, which may be a concern in glaucoma.
 
@@ -130,12 +130,13 @@ The prediction for primary hereditary glaucoma is supported only by a model scor
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "A total of 9 licenses are listed, and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Thalitone (chlorthalidone) prescribing information, Casper Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc5a0299-115b-4e60-bb3f-c75a95c51c15) |
 
 <!-- review:end log -->
 

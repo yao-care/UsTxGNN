@@ -56,7 +56,7 @@ The TxGNN model predicts it may be useful for **hypermobility of coccyx**, with 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Certolizumab pegol is known to bind and neutralize TNF-α, a driver of inflammation in several immune-mediated joint and spinal diseases.
+According to the Mechanism of Action section of the FDA-approved prescribing information for certolizumab pegol: "Certolizumab pegol binds to human TNFα with a KD of 90pM. TNFα is a key pro-inflammatory cytokine with a central role in inflammatory processes. Certolizumab pegol selectively neutralizes TNFα (IC 90 of 4 ng/mL for inhibition of human TNFα in the in vitro L929 murine fibrosarcoma cytotoxicity assay) but does not neutralize lymphotoxin α (TNFβ)." ([DailyMed: Cimzia (certolizumab pegol) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b4c2c9dc-a0bb-4d64-a667-a67ebe88392d), label version 2026-10-29; accessed 2026-11-19.) Certolizumab pegol is known to bind and neutralize TNF-α, a driver of inflammation in several immune-mediated joint and spinal diseases.
 
 Hypermobility of coccyx is a mechanical or structural condition of the tailbone, not a TNF-driven inflammatory disease. No plausible TNF-mediated mechanism links the drug to it. The high model score (0.9975) is probably a statistical artifact of the model associating the drug with spine-related terms rather than a sign of a real therapeutic link. The prediction should be treated as a hypothesis only.
 
@@ -100,6 +100,19 @@ The prediction has only a model score behind it. There are no trials or publicat
 - Mechanism of action data to support a biological rationale
 - Package insert warnings and contraindications for a safety review
 - Expert clinical review to judge whether the prediction is meaningful or a model artifact
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cimzia (certolizumab pegol) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b4c2c9dc-a0bb-4d64-a667-a67ebe88392d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant for **migraine disorder**, but the e
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Apixaban is known as a direct factor Xa inhibitor, which reduces thrombin generation and clot formation.
+According to the Mechanism of Action section of the FDA-approved prescribing information for apixaban: "Apixaban is a selective inhibitor of FXa. It does not require antithrombin III for antithrombotic activity. Apixaban inhibits free and clot-bound FXa, and prothrombinase activity. Apixaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin." ([DailyMed: Eliquis (apixaban) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41a133ef-e461-48ad-8221-b735bdd0ec25), label version 2026-09-24; accessed 2026-11-19.) Apixaban is known as a direct factor Xa inhibitor, which reduces thrombin generation and clot formation.
 
 A plausible but unproven link is that migraine with aura has been associated with paradoxical embolism through a patent foramen ovale, microthrombi, and prothrombotic states such as antiphospholipid antibodies. Anticoagulation might therefore help selected patients. The TxGNN score is high (0.9902), but it comes from a model-based prediction and does not establish a mechanism.
 
@@ -104,6 +104,18 @@ The evidence level is L5. No study supports apixaban for migraine, and the avail
 - Controlled studies that directly test apixaban in migraine, ideally in defined subgroups (e.g., migraine with aura and PFO, or antiphospholipid antibodies)
 - Mechanism of action data linking factor Xa inhibition to migraine pathophysiology
 - Review of the package insert for warnings and contraindications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Eliquis (apixaban) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41a133ef-e461-48ad-8221-b735bdd0ec25) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

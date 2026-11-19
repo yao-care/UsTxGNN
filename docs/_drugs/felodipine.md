@@ -55,7 +55,7 @@ The TxGNN model's top-ranked prediction is **pulmonary hypertension with unclear
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, felodipine is a dihydropyridine L-type calcium channel blocker that relaxes vascular smooth muscle. Its efficacy in hypertension comes from lowering systemic vascular resistance.
+According to the Mechanism of Action section of the FDA-approved prescribing information for felodipine: "Felodipine is a member of the dihydropyridine class of calcium channel antagonists (calcium channel blockers). It reversibly competes with nitrendipine and/or other calcium channel blockers for dihydropyridine binding sites, blocks voltage-dependent Ca ++ currents in vascular smooth muscle and cultured rabbit atrial cells, and blocks potassium-induced contracture of the rat portal vein." ([DailyMed: Felopdipine (felodipine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=129c48eb-29f2-462b-ad8a-b3bf1b193115), label version 2024-08-07; accessed 2026-11-19.) Based on known pharmacology, felodipine is a dihydropyridine L-type calcium channel blocker that relaxes vascular smooth muscle. Its efficacy in hypertension comes from lowering systemic vascular resistance.
 
 Mechanistically, similar vasodilation could reduce pulmonary vascular tone, which is why the model links felodipine to pulmonary hypertension. However, this is the only support. Pulmonary hypertension with a multifactorial cause is a heterogeneous condition, and a single vasodilator mechanism is unlikely to work across all of it.
 
@@ -140,12 +140,13 @@ The top-ranked prediction, pulmonary hypertension with unclear multifactorial me
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Six US authorizations are valid. for them" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Six US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Felopdipine (felodipine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=129c48eb-29f2-462b-ad8a-b3bf1b193115) |
 
 <!-- review:end log -->
 

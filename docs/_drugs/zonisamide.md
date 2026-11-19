@@ -60,7 +60,7 @@ Among the other top-10 predictions, **absence epilepsy** has the most supporting
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. From general pharmacology, zonisamide blocks voltage-gated sodium channels and T-type calcium channels and may modulate dopaminergic and serotonergic transmission. These actions could plausibly relate to the neural circuits involved in tics, but this link is speculative.
+According to the Mechanism of Action section of the FDA-approved prescribing information for zonisamide: "The precise mechanism(s) by which zonisamide exerts its antiseizure effect is unknown. Zonisamide demonstrated anticonvulsant activity in several experimental models. In animals, zonisamide was effective against tonic extension seizures induced by maximal electroshock but ineffective against clonic seizures induced by subcutaneous pentylenetetrazol." ([DailyMed: Zonegran (zonisamide) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12de43e-3ac3-4335-bc85-70d7366a91eb), label version 2026-09-23; accessed 2026-11-19.) From general pharmacology, zonisamide blocks voltage-gated sodium channels and T-type calcium channels and may modulate dopaminergic and serotonergic transmission. These actions could plausibly relate to the neural circuits involved in tics, but this link is speculative.
 
 There is also a safety concern. A 2022 pragmatic review (PMID 36005856) reports that antiseizure medications can induce obsessive-compulsive disorder and tic disorder. This raises a risk signal rather than supporting efficacy.
 
@@ -206,7 +206,7 @@ The top-ranked prediction, Tourette syndrome, rests on a model score alone (L5) 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
@@ -214,6 +214,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "Two further generic authorizations (ANDA214492, Unichem; ANDA077869, Exelan) are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with seven valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given that the drug is marketed with seven valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zonegran (zonisamide) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12de43e-3ac3-4335-bc85-70d7366a91eb) |
 
 <!-- review:end log -->
 

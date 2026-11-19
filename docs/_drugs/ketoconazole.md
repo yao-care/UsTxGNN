@@ -56,7 +56,7 @@ with **1 clinical trial** (a small, ongoing, non-placebo-controlled study) and a
 
 ## Why is This Prediction Reasonable?
 
-Ketoconazole is an azole antifungal that inhibits fungal CYP51 (lanosterol 14-alpha-demethylase). At higher systemic doses it also inhibits human steroidogenic enzymes such as CYP17A1, which lowers androgen synthesis. Formal mechanism-of-action data were not available in the data compiled for this report, so this description reflects the general pharmacology of the drug rather than curated source data.
+Ketoconazole is an azole antifungal that inhibits fungal CYP51 (lanosterol 14-alpha-demethylase). At higher systemic doses it also inhibits human steroidogenic enzymes such as CYP17A1, which lowers androgen synthesis. According to the Mechanism of Action section of the FDA-approved prescribing information for ketoconazole: "Ketoconazole blocks the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14α-demethylase responsible for the conversion of lanosterol to ergosterol in the fungal cell membrane. This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane." ([DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371), label version 2025-11-18; accessed 2026-11-19.) This description reflects the general pharmacology of the drug rather than curated source data.
 
 Two links to acne are plausible:
 
@@ -144,13 +144,14 @@ The prediction is plausible, particularly for topical use, but supporting eviden
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "The drug is marketed in the US, and all 12 US licenses compiled for this report are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "under 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "under 12 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Formal mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371) |
 
 <!-- review:end log -->
 

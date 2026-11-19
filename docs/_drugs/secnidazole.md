@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **postmenopausal atrophic vagin
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Secnidazole belongs to the 5-nitroimidazole class. In anaerobic bacteria and protozoa, its nitro group is reduced to radicals that damage DNA. Its efficacy in bacterial vaginosis and trichomoniasis is established.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for secnidazole: "SOLOSEC is a nitroimidazole antimicrobial drug. […] Secnidazole, like other 5-nitroimidazoles, enters the bacterial and Trichomonas cells where the nitro group is reduced by nitroreductase enzyme(s) leading to the production of radical anions and a series of intermediates, depletion of thiols, DNA damage, and death of susceptible isolates of Gram positive bacteria, Gram negative bacteria and T. vaginalis." ([DailyMed: Solosec (secnidazole) prescribing information, Evofem Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=056485b6-8bba-4a21-ae00-cdb4e7ae4bfa), label version 2026-10-30; accessed 2026-11-19.) Secnidazole belongs to the 5-nitroimidazole class. In anaerobic bacteria and protozoa, its nitro group is reduced to radicals that damage DNA. Its efficacy in bacterial vaginosis and trichomoniasis is established.
 
 The mechanistic link to the predicted indication is weak. Postmenopausal atrophic vaginitis is driven mainly by estrogen deficiency rather than infection. An antimicrobial would not be expected to address the underlying cause. The high score comes from the TxGNN model (deep learning) and most likely reflects similarities the model learned between related diseases, such as the approved vaginitis and vulvovaginitis indications, not biological evidence or a true therapeutic relationship. This prediction should therefore be treated as a model artifact until shown otherwise.
 
@@ -119,12 +119,13 @@ Other predictions in the same data are better supported, though they largely ext
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The product's only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given the cancelled US license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Solosec (secnidazole) prescribing information, Evofem Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=056485b6-8bba-4a21-ae00-cdb4e7ae4bfa) |
 
 <!-- review:end log -->
 

@@ -62,7 +62,7 @@ but there are currently **0 clinical trials** and only **1 directly relevant pub
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, nicardipine is a dihydropyridine calcium channel blocker. It relaxes vascular smooth muscle and causes vasodilation, which is how it lowers blood pressure in hypertension.
+According to the Mechanism of Action section of the FDA-approved prescribing information for nicardipine: "Nicardipine inhibits the transmembrane influx of calcium ions into cardiac muscle and smooth muscle without changing serum calcium concentrations. The contractile processes of cardiac muscle and vascular smooth muscle are dependent upon the movement of extracellular calcium ions into these cells through specific ion channels." ([DailyMed: Nicardipine Hydrochloride In Sodium Chloride (nicardipine hydrochloride) prescribing information, WG Critical Care, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ffe6b6f-b8bc-413f-9bec-7639e9d71d3d), label version 2026-07-31; accessed 2026-11-19.) Based on known pharmacology, nicardipine is a dihydropyridine calcium channel blocker. It relaxes vascular smooth muscle and causes vasodilation, which is how it lowers blood pressure in hypertension.
 
 Pulmonary hypertension due to lung disease or hypoxia is driven largely by hypoxic pulmonary vasoconstriction (HPV), a calcium-dependent constriction of pulmonary arteries. Blocking calcium entry could, in principle, relax these vessels and lower pulmonary pressure. A 1988 study in dogs (PMID 3132192) directly examined nicardipine's effect on regional HPV, which gives physiological support for this link.
 
@@ -137,6 +137,19 @@ The prediction rests on a high model score and one 1988 animal study, with no cl
 - Mechanism-of-action data from DrugBank
 - Human haemodynamic and oxygenation studies in pulmonary hypertension due to lung disease
 - Assessment of whether the other predictions merit follow-up. Malignant renovascular hypertension and malignant hypertensive renal disease overlap with the original indication, and the Braddock syndrome prediction has no identifiable mechanistic link.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nicardipine Hydrochloride In Sodium Chloride (nicardipine hydrochloride) prescribing information, WG Critical Care, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ffe6b6f-b8bc-413f-9bec-7639e9d71d3d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, istradefylline is a selective adenosine A2A receptor antagonist. A2A receptors are found on neurons, astrocytes, microglia and lymphocytes, and A2A signaling influences neuroinflammation, glutamate release and T-cell responses.
+According to the Mechanism of Action section of the FDA-approved prescribing information for istradefylline: "The precise mechanism by which istradefylline exerts its therapeutic effect in Parkinson’s disease is unknown. In in vitro studies and in in vivo animal studies, istradefylline was demonstrated to be an adenosine A 2A receptor antagonist." ([DailyMed: Nourianz (istradefylline) prescribing information, Kyowa Kirin, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7d008cb-b273-4049-a5d2-9c6902910d58), label version 2025-05-20; accessed 2026-11-19.) Based on known pharmacology, istradefylline is a selective adenosine A2A receptor antagonist. A2A receptors are found on neurons, astrocytes, microglia and lymphocytes, and A2A signaling influences neuroinflammation, glutamate release and T-cell responses.
 
 Rasmussen encephalitis is a unilateral, T-cell-mediated (CD8+) chronic inflammatory brain disease. It features astrocyte and microglial activation and intractable focal epilepsy. A plausible but purely theoretical link is that blocking A2A receptors could alter neuroinflammatory or excitotoxic pathways.
 
@@ -122,12 +122,13 @@ The prediction has the lowest evidence level (L5). It has no registered trials o
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US NDA is cancelled, and package insert safety data is missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "of the NDA cancellation status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nourianz (istradefylline) prescribing information, Kyowa Kirin, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7d008cb-b273-4049-a5d2-9c6902910d58) |
 
 <!-- review:end log -->
 

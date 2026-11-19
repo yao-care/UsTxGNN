@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **HIV infectious disease**, but
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Toremifene is a known estrogen receptor antagonist related to tamoxifen, and its use in hormone-driven cancer is established. Any mechanistic link to HIV infectious disease therefore has to be inferred from indirect evidence.
+According to the Mechanism of Action section of the FDA-approved prescribing information for toremifene: "Toremifene is a nonsteroidal triphenylethylene derivative. Toremifene binds to estrogen receptors and may exert estrogenic, antiestrogenic, or both activities, depending upon the duration of treatment, animal species, gender, target organ, or endpoint selected." ([DailyMed: Fareston (toremifene citrate) prescribing information, Kyowa Kirin, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2cab8dd1-3a10-48e6-86ce-0e5275ed49e5), label version 2024-11-13; accessed 2026-11-19.) Toremifene is a known estrogen receptor antagonist related to tamoxifen, and its use in hormone-driven cancer is established. Any mechanistic link to HIV infectious disease therefore has to be inferred from indirect evidence.
 
 The only linked publication (PMID 24520056, 2014) shows that estrogen receptor antagonists related to tamoxifen and toremifene have antifungal activity against *Cryptococcus*. They appear to act by binding EF-hand proteins such as calmodulin, and they synergize with fluconazole and amphotericin B in vitro. Cryptococcal meningitis is a major opportunistic infection in people with HIV/AIDS.
 
@@ -155,12 +155,13 @@ The prediction rests only on a computational score and a single preclinical anti
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 3 of 3 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 3 of 3 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fareston (toremifene citrate) prescribing information, Kyowa Kirin, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2cab8dd1-3a10-48e6-86ce-0e5275ed49e5) |
 
 <!-- review:end log -->
 

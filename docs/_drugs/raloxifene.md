@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **duodenal ulcer**, but **0 cli
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, raloxifene is a selective estrogen receptor modulator, and its efficacy in postmenopausal osteoporosis has been established. Whether it could apply to duodenal ulcer is unclear.
+According to the Mechanism of Action section of the FDA-approved prescribing information for raloxifene: "Raloxifene is an estrogen agonist/antagonist, commonly referred to as a selective estrogen receptor modulator (SERM). The biological actions of raloxifene are largely mediated through binding to estrogen receptors. This binding results in activation of estrogenic pathways in some tissues (agonism) and blockade of estrogenic pathways in others (antagonism)." ([DailyMed: Evista (raloxifene hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcaaa6dc-74e8-4fb8-800c-5574bf0f8de9), label version 2026-02-11; accessed 2026-11-19.) Based on known information, raloxifene is a selective estrogen receptor modulator, and its efficacy in postmenopausal osteoporosis has been established. Whether it could apply to duodenal ulcer is unclear.
 
 No mechanistic link is supported by the data compiled for this report. One speculative idea is that estrogen receptor effects might influence gastric or duodenal mucosal protection, but no retrieved evidence backs this. The high TxGNN score (0.9972) is a TxGNN model (deep learning) prediction only and should not be read as evidence of efficacy.
 
@@ -129,13 +129,14 @@ The prediction has no supporting clinical trials, literature, or mechanistic rat
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Two further cancelled ANDAs (ANDA211324 and ANDA206384) are not shown. All 7 records are oral dosage forms and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Evista (raloxifene hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcaaa6dc-74e8-4fb8-800c-5574bf0f8de9) |
 
 <!-- review:end log -->
 

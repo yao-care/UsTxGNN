@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug. Based on known information, salsalate is a salicylate prodrug with NF-κB inhibitory and AMPK-activating activity. Its efficacy in joint inflammation and pain is the basis of its original indications.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for salsalate: "Although salicylic acid (the primary metabolite of salsalate) is a weak inhibitor of prostaglandin synthesis in vitro, salsalate appears to selectively inhibit prostaglandin synthesis in vivo 1, providing anti-inflammatory activity equivalent to aspirin 2 and indomethacin 3. Unlike aspirin, salsalate does not inhibit platelet aggregation 4." ([DailyMed: salsalate prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=213f0930-4a4a-4894-90b9-70c12daaa093), label version 2024-10-30; accessed 2026-11-19.) Based on known information, salsalate is a salicylate prodrug with NF-κB inhibitory and AMPK-activating activity. Its efficacy in joint inflammation and pain is the basis of its original indications.
 
 Hunter-Thompson type acromesomelic dysplasia is a rare skeletal dysplasia caused by loss-of-function mutations in CDMP1/GDF5, which disrupt BMP signaling and cartilage formation. No plausible mechanistic link between salsalate and GDF5/BMP signaling has been established. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. This prediction should be regarded as a hypothesis only.
 
@@ -101,6 +101,19 @@ The prediction rests only on a TxGNN model (deep learning) score, with no clinic
 - FDA package insert warnings and contraindications for safety screening
 - Confirmation of the regulatory and supply situation, given the cancelled US license
 - Route and formulation compatibility assessment for any candidate indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: salsalate prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=213f0930-4a4a-4894-90b9-70c12daaa093) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

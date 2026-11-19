@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, lincomycin is a lincosamide antibiotic that inhibits bacterial protein synthesis by binding the 50S ribosomal subunit. Its efficacy in gram-positive bacterial infections is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for lincomycin: "Lincomycin inhibits bacterial protein synthesis by binding to the 23S RNA of the 50S subunit of the bacterial ribosome. Lincomycin is predominantly bacteriostatic in vitro." ([DailyMed: Lincocin (lincomycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c01906fa-2c73-4c13-9765-2fd06628d263), label version 2025-03-10; accessed 2026-11-19.) Based on general pharmacology, lincomycin is a lincosamide antibiotic that inhibits bacterial protein synthesis by binding the 50S ribosomal subunit. Its efficacy in gram-positive bacterial infections is established.
 
 For the predicted indication, **no established mechanistic link was identified**. Polyclonal hyperviscosity syndrome arises from elevated serum immunoglobulins, for example in autoimmune disease or chronic infection. An antibacterial would not directly address this. Any benefit would at most be indirect, through treating an underlying infection.
 
@@ -128,12 +128,13 @@ The prediction is supported only by a model score, with no clinical trials, no l
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "One further licence (ANDA215082, Armas Pharmaceuticals, injection solution) is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 6 valid licenses of 6" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lincocin (lincomycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c01906fa-2c73-4c13-9765-2fd06628d263) |
 
 <!-- review:end log -->
 

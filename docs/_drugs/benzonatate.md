@@ -58,7 +58,7 @@ A second prediction was also generated: **obsolete neurogenic bladder (disease)*
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for benzonatate is not available in the data compiled for this report. Based on general pharmacological knowledge, benzonatate is a peripherally acting antitussive that numbs stretch receptors in the respiratory tract through local anesthetic-like sodium channel blockade. It is structurally related to tetracaine and procaine.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for benzonatate: "Benzonatate acts peripherally by anesthetizing the stretch receptors located in the respiratory passages, lungs, and pleura by dampening their activity and thereby reducing the cough reflex at its source. It begins to act within 15 to 20 minutes and its effect lasts for 3 to 8 hours." ([DailyMed: Benzonatate 100 Mg (benzonatate) prescribing information, TIME CAP LABORATORIES, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5adfd324-b6d6-f624-e063-6294a90ab26e), label version 2026-09-07; accessed 2026-11-19.) Based on general pharmacological knowledge, benzonatate is a peripherally acting antitussive that numbs stretch receptors in the respiratory tract through local anesthetic-like sodium channel blockade. It is structurally related to tetracaine and procaine.
 
 A plausible but unverified link to cauda equina syndrome is sodium channel modulation of neuropathic pain or of bladder and sensory dysfunction. However, cauda equina syndrome is primarily a surgical emergency caused by mechanical compression of the nerve roots, and treatment centers on decompression. A symptomatic local-anesthetic-type drug is unlikely to address the underlying pathology. The very high TxGNN score is a computational prediction only and has not been validated clinically.
 
@@ -128,13 +128,14 @@ The predictions rest on a model score alone, with no clinical trials, no literat
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Eight licenses in total are on record, all cancelled and all for single-ingredient oral products" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 8 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given that 8 valid licenses exist" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data for benzonatate is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Benzonatate 100 Mg (benzonatate) prescribing information, TIME CAP LABORATORIES, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5adfd324-b6d6-f624-e063-6294a90ab26e) |
 
 <!-- review:end log -->
 

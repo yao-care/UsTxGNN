@@ -57,7 +57,7 @@ The prediction comes from the TxGNN model (deep learning) and may reflect simila
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Isosorbide dinitrate is generally known as a nitric oxide (NO) donor that relaxes vascular smooth muscle. The only mechanistic idea linking it to alopecia is that NO-mediated vasodilation might increase scalp blood flow. This resembles the proposed vascular effect of minoxidil, which acts as a potassium channel opener.
+According to the Mechanism of Action section of the FDA-approved prescribing information for hydralazine hydrochloride and isosorbide dinitrate (a combination product containing isosorbide dinitrate): "Isosorbide dinitrate is a vasodilator affecting both arteries and veins." ([DailyMed: Bidil (hydralazine hydrochloride and isosorbide dinitrate) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e1e63cd5-d1e4-4af5-bad5-1ad41ea46b00), label version 2025-11-30; accessed 2026-11-19.) Isosorbide dinitrate is generally known as a nitric oxide (NO) donor that relaxes vascular smooth muscle. The only mechanistic idea linking it to alopecia is that NO-mediated vasodilation might increase scalp blood flow. This resembles the proposed vascular effect of minoxidil, which acts as a potassium channel opener.
 
 Nothing in the supplied data supports this idea. There are no trials or publications on isosorbide dinitrate in alopecia, and the high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Because the original indication text is missing, the similarity between the original and new indications could not be assessed.
 
@@ -127,11 +127,12 @@ The alopecia prediction rests only on a model score. No clinical trials or publi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "Eight records are listed, all single-ingredient oral tablets with valid status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Bidil (hydralazine hydrochloride and isosorbide dinitrate) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e1e63cd5-d1e4-4af5-bad5-1ad41ea46b00) |
 
 <!-- review:end log -->
 

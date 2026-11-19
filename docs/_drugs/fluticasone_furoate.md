@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **atopic eczema**, but there ar
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Based on known pharmacology, fluticasone furoate is a glucocorticoid receptor agonist with anti-inflammatory and immunosuppressive activity. It is already established for allergic airway disease (asthma and allergic rhinitis).
+According to the Mechanism of Action section of the FDA-approved prescribing information for fluticasone furoate: "Fluticasone furoate is a synthetic trifluorinated corticosteroid with anti-inflammatory activity. Fluticasone furoate has been shown in vitro to exhibit a binding affinity for the human glucocorticoid receptor that is approximately 29.9 times that of dexamethasone and 1.7 times that of fluticasone propionate." ([DailyMed: Fluticasone Furoate Ellipta (fluticasone furoate) prescribing information, Prasco Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d3e797fc-2636-49a0-b89e-5246b18ee440), label version 2025-03-06; accessed 2026-11-19.) Based on known pharmacology, fluticasone furoate is a glucocorticoid receptor agonist with anti-inflammatory and immunosuppressive activity. It is already established for allergic airway disease (asthma and allergic rhinitis).
 
 Atopic eczema is a Th2-driven allergic skin inflammation, which shares an allergic-inflammatory basis with the drug's original indications. Topical corticosteroids are an established class treatment for atopic eczema, so the prediction is biologically plausible.
 
@@ -132,13 +132,14 @@ The atopic eczema prediction is mechanistically plausible through the corticoste
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Five of five authorizations are currently valid in the US market, as a single-ingredient or combination product, in the data compiled for th" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 5 valid authorizations of 5" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given that the drug is marketed with 5 valid US authorizations of 5" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fluticasone Furoate Ellipta (fluticasone furoate) prescribing information, Prasco Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d3e797fc-2636-49a0-b89e-5246b18ee440) |
 
 <!-- review:end log -->
 

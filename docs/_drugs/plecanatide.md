@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but there a
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the drug record. Based on the pharmacology data compiled for this report, plecanatide is a peptide agonist of guanylate cyclase-C (GUCY2C) on intestinal epithelium. It raises intracellular cGMP and is approved for constipation-predominant gut disorders.
+According to the Mechanism of Action section of the FDA-approved prescribing information for plecanatide: "Plecanatide is a structural analog of human uroguanylin, and similarly to uroguanylin, plecanatide functions as a guanylate cyclase-C (GC-C) agonist. Both plecanatide and its active metabolite bind to GC-C and act locally on the luminal surface of the intestinal epithelium." ([DailyMed: Trulance Immediate Release (plecanatide) prescribing information, Salix Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe2895bf-71a6-493a-b0ca-e06b2dfefc82), label version 2024-04-04; accessed 2026-11-19.) Based on the pharmacology data compiled for this report, plecanatide is a peptide agonist of guanylate cyclase-C (GUCY2C) on intestinal epithelium. It raises intracellular cGMP and is approved for constipation-predominant gut disorders.
 
 The link to hypertrichosis is weak. No known pathway connects GC-C agonism to hair follicle regulation. Plecanatide acts locally in the gut with minimal systemic absorption, which makes an effect on hair growth even less plausible.
 
@@ -125,12 +125,13 @@ The prediction is supported only by the model score. No trials or publications e
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US license is also recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "the cancelled NDA status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the drug record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Trulance Immediate Release (plecanatide) prescribing information, Salix Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe2895bf-71a6-493a-b0ca-e06b2dfefc82) |
 
 <!-- review:end log -->
 

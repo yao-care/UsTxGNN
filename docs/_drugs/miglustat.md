@@ -59,7 +59,7 @@ Among the top 10 TxGNN predictions, the best-supported new indication is **Tay-S
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Pharmacology data nonetheless identify the target of miglustat as UDP-glucose ceramide glucosyltransferase (glucosylceramide synthase, UGCG). Miglustat is an iminosugar that inhibits this enzyme, and the literature describes it as brain-penetrant.
+According to the Mechanism of Action section of the FDA-approved prescribing information for miglustat: "Type 1 Gaucher disease is caused by a functional deficiency of glucocerebrosidase, the enzyme that mediates the degradation of the glycosphingolipid glucosylceramide. Miglustat functions as a competitive and reversible inhibitor of the enzyme glucosylceramide synthase, the initial enzyme in a series of reactions which results in the synthesis of most glycosphingolipids." ([DailyMed: Yargesa (miglustat) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b371dfe-e2b0-47fe-b677-a7bde7149f87), label version 2025-12-17; accessed 2026-11-19.) Pharmacology data nonetheless identify the target of miglustat as UDP-glucose ceramide glucosyltransferase (glucosylceramide synthase, UGCG). Miglustat is an iminosugar that inhibits this enzyme, and the literature describes it as brain-penetrant.
 
 Gaucher disease and Tay-Sachs disease are both glycosphingolipid storage disorders. Miglustat is used as substrate reduction therapy (SRT): it lowers the synthesis of glycosphingolipids so that a cell with deficient enzyme activity is less overloaded. In Tay-Sachs disease, HEXA deficiency causes GM2 ganglioside to accumulate in nerve cells. Reducing the synthesis of GM2 and its precursors is therefore a biologically coherent approach. Because miglustat crosses the blood-brain barrier, it is also of interest for neurological forms, where enzyme replacement therapy generally does not reach the central nervous system.
 
@@ -159,13 +159,14 @@ Tay-Sachs disease has a coherent mechanistic rationale, a randomized study in la
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "although all five US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "noting that all five US licenses are currently valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-12 | Removed: "All five licenses are listed as valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Yargesa (miglustat) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b371dfe-e2b0-47fe-b677-a7bde7149f87) |
 
 <!-- review:end log -->
 

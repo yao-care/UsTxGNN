@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, fomepizole is a competitive inhibitor of alcohol dehydrogenase and is used as an antidote in ethylene glycol and methanol poisoning.
+According to the Mechanism of Action section of the FDA-approved prescribing information for fomepizole: "Fomepizole is a competitive inhibitor of alcohol dehydrogenase. Alcohol dehydrogenase catalyzes the oxidation of ethanol to acetaldehyde. Alcohol dehydrogenase also catalyzes the initial steps in the metabolism of ethylene glycol and methanol to their toxic metabolites." ([DailyMed: fomepizole prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1dea37fd-ec17-416e-b28e-980a87d49e1a), label version 2023-10-26; accessed 2026-11-19.) Based on general pharmacology, fomepizole is a competitive inhibitor of alcohol dehydrogenase and is used as an antidote in ethylene glycol and methanol poisoning.
 
 Sclerosing cholangitis is a chronic, cholestatic, immune-mediated biliary disease. No plausible mechanistic link between alcohol dehydrogenase inhibition and this disease can be established from the available data. One speculative route is alcohol dehydrogenase-mediated metabolism or oxidative stress in the biliary epithelium, but nothing in the data supports it, so it should not be treated as a finding.
 
@@ -118,11 +118,12 @@ The only support is a computational prediction score. There are no clinical tria
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 4 of 4 licenses valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: fomepizole prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1dea37fd-ec17-416e-b28e-980a87d49e1a) |
 
 <!-- review:end log -->
 

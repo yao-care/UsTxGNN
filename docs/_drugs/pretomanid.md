@@ -60,7 +60,7 @@ Pretomanid is an oral nitroimidazooxazine antibiotic used against drug-resistant
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Pretomanid is known to be a prodrug activated by the Ddn nitroreductase of *Mycobacterium tuberculosis*, and it has no established antifungal activity.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for pretomanid: "Pretomanid is a nitroimidazooxazine antimycobacterial drug. […] Pretomanid Tablet is a nitroimidazooxazine antimycobacterial drug. Pretomanid kills actively replicating M. tuberculosis by inhibiting mycolic acid biosynthesis, thereby blocking cell wall production. Under anaerobic conditions, against non-replicating bacteria, pretomanid acts as a respiratory poison following nitric oxide release." ([DailyMed: pretomanid prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1906fc9-cb3c-4e13-8a4a-da76100c1bf3), label version 2024-11-15; accessed 2026-11-19.) Pretomanid is known to be a prodrug activated by the Ddn nitroreductase of *Mycobacterium tuberculosis*, and it has no established antifungal activity.
 
 For candidiasis, the supplied data support **no mechanistic link**. The very high TxGNN score (0.9969) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. A fungal infection caused by *Candida* is biologically distant from mycobacterial infection, so this prediction should be treated as a computational hypothesis.
 
@@ -146,11 +146,12 @@ The candidiasis prediction rests on a model score alone, with no trials, no lite
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "In addition, the US NDA is recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: pretomanid prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1906fc9-cb3c-4e13-8a4a-da76100c1bf3) |
 
 <!-- review:end log -->
 

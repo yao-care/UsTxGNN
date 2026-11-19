@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **pulmonary blastoma**, a rare 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Methotrexate is widely known as an antifolate that inhibits dihydrofolate reductase (DHFR). This suppresses purine and thymidine synthesis, which is why it acts on rapidly dividing cells such as leukemic and lymphoid cells. Its efficacy in blood cancers, particularly leukemia and lymphoma, is well established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for methotrexate: "Methotrexate inhibits dihydrofolic acid reductase. Dihydrofolates must be reduced to tetrahydrofolates by this enzyme before they can be utilized as carriers of one-carbon groups in the synthesis of purine nucleotides and thymidylate." ([DailyMed: Jylamvo (methotrexate) prescribing information, SHORLA ONCOLOGY INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96e931f5-51ae-4bdf-a441-bb0dd26d4c0e), label version 2026-11-05; accessed 2026-11-19.) Methotrexate is widely known as an antifolate that inhibits dihydrofolate reductase (DHFR). This suppresses purine and thymidine synthesis, which is why it acts on rapidly dividing cells such as leukemic and lymphoid cells. Its efficacy in blood cancers, particularly leukemia and lymphoma, is well established.
 
 Pulmonary blastoma is a rare, fast-growing lung tumor with embryonic-like (blastomatous) cells. In principle, an agent that attacks DNA synthesis in proliferating cells could act on such a tumor. This reasoning is speculative, though. The high TxGNN score (0.9945) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No retrieved clinical or laboratory result supports it, and no methotrexate data specific to this tumor was found.
 
@@ -155,11 +155,12 @@ Neither has a Phase 3 RCT directly supporting it.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 13 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Jylamvo (methotrexate) prescribing information, SHORLA ONCOLOGY INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96e931f5-51ae-4bdf-a441-bb0dd26d4c0e) |
 
 <!-- review:end log -->
 

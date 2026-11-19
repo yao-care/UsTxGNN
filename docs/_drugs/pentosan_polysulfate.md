@@ -56,7 +56,7 @@ The prediction is computational only and, on mechanistic grounds, raises a safet
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, pentosan polysulfate is a semi-synthetic sulfated polysaccharide with heparin-like, weak anticoagulant activity and effects on coagulation and fibrinolysis. Its efficacy in interstitial cystitis is the basis of its original use.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for pentosan polysulfate: "The mechanism of action of pentosan polysulfate sodium in interstitial cystitis is not known." ([DailyMed: Elmiron (pentosan polysulfate sodium) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0ba651e-3d8a-11df-8fbe-119855d89593), label version 2024-09-18; accessed 2026-11-19.) Based on known information, pentosan polysulfate is a semi-synthetic sulfated polysaccharide with heparin-like, weak anticoagulant activity and effects on coagulation and fibrinolysis. Its efficacy in interstitial cystitis is the basis of its original use.
 
 The link to the predicted indication is purely computational. A drug acting on coagulation and fibrinolysis could plausibly touch platelet or hemostatic pathways. However, its anticoagulant activity would more likely worsen bleeding tendency in a platelet function disorder than treat it. The high score may reflect network proximity to hemostasis-related genes rather than a true therapeutic rationale.
 
@@ -121,12 +121,13 @@ The prediction is supported only by a model score, with no trials or literature.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given the cancelled license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Elmiron (pentosan polysulfate sodium) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0ba651e-3d8a-11df-8fbe-119855d89593) |
 
 <!-- review:end log -->
 

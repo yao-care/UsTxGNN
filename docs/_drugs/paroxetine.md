@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Ohdo syndrome and variants**,
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, paroxetine is an SSRI that blocks serotonin reuptake and has also been reported to inhibit GRK2. Its efficacy in depression and anxiety-spectrum disorders is established, but no mechanistic pathway linking it to Ohdo syndrome could be identified from the data compiled for this report.
+According to the Mechanism of Action section of the FDA-approved prescribing information for paroxetine: "The mechanism of action of PAXIL CR in the treatment of major depressive disorder (MDD), panic disorder (PD), social anxiety disorder (SAD), and premenstrual dysphoric disorder (PMDD) is unknown, but is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5-HT)." ([DailyMed: Paxil Cr (paroxetine hydrochloride) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=483bd97f-c4d0-4e23-aaa8-6334f4471e0c), label version 2026-09-30; accessed 2026-11-19.) Based on known information, paroxetine is an SSRI that blocks serotonin reuptake and has also been reported to inhibit GRK2. Its efficacy in depression and anxiety-spectrum disorders is established, but no mechanistic pathway linking it to Ohdo syndrome could be identified from the data compiled for this report.
 
 Ohdo syndrome variants (for example Say-Barber-Biesecker-Young-Simpson syndrome, linked to KAT6B variants, and the Maat-Kievit-Brunner type) are rare neurodevelopmental disorders. They involve intellectual disability, blepharophimosis and hypotonia, and the underlying problem is a chromatin-regulation defect. Nothing in the available data suggests that paroxetine acts on this defect.
 
@@ -110,11 +110,12 @@ The recommendation rests only on a computational prediction score. There are no 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 10 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Paxil Cr (paroxetine hydrochloride) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=483bd97f-c4d0-4e23-aaa8-6334f4471e0c) |
 
 <!-- review:end log -->
 

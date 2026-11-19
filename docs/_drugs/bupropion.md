@@ -56,7 +56,7 @@ with **6 registered clinical trials** (4 completed, 1 withdrawn, 1 early phase) 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, bupropion inhibits the reuptake of norepinephrine and dopamine and has no serotonergic activity. This is a general-knowledge link, not one taken from the supplied record.
+According to the Mechanism of Action section of the FDA-approved prescribing information for bupropion: "The exact mechanism by which bupropion hydrochloride extended-release tablets (SR) enhances the ability of patients to abstain from smoking is not known but is presumed to be related to noradrenergic and/or dopaminergic mechanisms. Bupropion is a relatively weak inhibitor of the neuronal reuptake of norepinephrine and dopamine, and does not inhibit the reuptake of serotonin." ([DailyMed: Bupropion Hydrochloride Sr (bupropion hydrochloride) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfb45438-1116-48f2-9bfe-776ebbf1e119), label version 2026-11-11; accessed 2026-11-19.) Based on general pharmacology, bupropion inhibits the reuptake of norepinephrine and dopamine and has no serotonergic activity. This is a general-knowledge link, not one taken from the supplied record.
 
 ADHD is linked to dysfunction of the same noradrenergic and dopaminergic pathways. Established ADHD treatments such as stimulants and atomoxetine act on these pathways. Bupropion's efficacy in depression, together with this catecholaminergic action, gives a plausible reason for improved attention and reduced hyperactivity and impulsivity. The very high TxGNN score is consistent with this overlap.
 
@@ -153,13 +153,14 @@ One completed Phase 3 randomised, placebo-controlled trial (NCT00048360) and one
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 13 US licences found are generic applications (ANDAs), and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "The US licences are all cancelled, so the drug's regulatory position needs clarification" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "13 ANDAs are valid and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Bupropion Hydrochloride Sr (bupropion hydrochloride) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfb45438-1116-48f2-9bfe-776ebbf1e119) |
 
 <!-- review:end log -->
 

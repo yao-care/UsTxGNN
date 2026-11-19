@@ -54,7 +54,7 @@ Glucarpidase is a recombinant enzyme (marketed as Voraxaze) that breaks down met
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on general knowledge, glucarpidase is a recombinant bacterial carboxypeptidase G2. It hydrolyzes extracellular methotrexate and other folates into inactive metabolites, which is why it is used to clear toxic methotrexate levels.
+According to the Mechanism of Action section of the FDA-approved prescribing information for glucarpidase: "Glucarpidase is a recombinant bacterial enzyme that hydrolyzes the carboxyl- terminal glutamate residue from folic acid and classical antifolates such as methotrexate. Glucarpidase converts methotrexate to its inactive metabolites 4-deoxy-4-amino-N 10 - methylpteroic acid (DAMPA) and glutamate." ([DailyMed: Voraxaze (glucarpidase) prescribing information, BTG International Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acaef5a6-b740-40e3-8ffe-74a75c74745c), label version 2024-11-27; accessed 2026-11-19.) Based on general knowledge, glucarpidase is a recombinant bacterial carboxypeptidase G2. It hydrolyzes extracellular methotrexate and other folates into inactive metabolites, which is why it is used to clear toxic methotrexate levels.
 
 The review found no plausible link between this mechanism and diabetic cataract. Diabetic cataract involves the polyol pathway, aldose reductase activity, and oxidative stress in the lens, and glucarpidase acts on none of these. As a large protein given intravenously, it is also unlikely to reach the avascular lens in meaningful amounts.
 
@@ -107,11 +107,12 @@ The prediction rests only on a computational score, with no clinical trials, no 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The drug is also an intravenously given enzyme unlikely to reach the lens or retina, and its only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Voraxaze (glucarpidase) prescribing information, BTG International Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acaef5a6-b740-40e3-8ffe-74a75c74745c) |
 
 <!-- review:end log -->
 

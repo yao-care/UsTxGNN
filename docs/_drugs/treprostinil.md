@@ -55,7 +55,7 @@ The TxGNN model's top-ranked prediction is **pulmonary arteriovenous malformatio
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on known pharmacology, treprostinil is a prostacyclin (PGI2) analogue. It acts on IP receptors to cause vasodilation, inhibit platelet aggregation, and reduce vascular cell proliferation. Its efficacy in PAH is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for treprostinil: "Treprostinil is a prostacyclin analogue. The major pharmacologic actions of treprostinil are direct vasodilation of pulmonary and systemic arterial vascular beds and inhibition of platelet aggregation." ([DailyMed: Tyvaso (treprostinil) prescribing information, United Therapeutics Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbc31ab1-a80f-4b50-a3b1-39910b0fb609), label version 2026-04-14; accessed 2026-11-19.) Based on known pharmacology, treprostinil is a prostacyclin (PGI2) analogue. It acts on IP receptors to cause vasodilation, inhibit platelet aggregation, and reduce vascular cell proliferation. Its efficacy in PAH is established.
 
 Most of the top-10 predictions are PAH subgroups (congenital heart disease, chronic hemolytic anemia, schistosomiasis, connective tissue disease, HIV infection). These share the same WHO Group 1 pathophysiology, so the mechanism plausibly carries over. These are better viewed as extensions within the approved indication than as true repurposing.
 
@@ -142,13 +142,14 @@ The top-ranked prediction, pulmonary arteriovenous malformation, has only a mode
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "The drug is marketed in the US, and all nine US authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "The drug is marketed in the US, and nine US authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Four generic injection ANDAs (Dr. Reddy's, Alembic, Sandoz, Teva) are also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tyvaso (treprostinil) prescribing information, United Therapeutics Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbc31ab1-a80f-4b50-a3b1-39910b0fb609) |
 
 <!-- review:end log -->
 

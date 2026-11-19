@@ -58,7 +58,7 @@ Several other predictions (e.g., rhabdomyosarcoma) are also supported, while man
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, etoposide is a topoisomerase II inhibitor that causes DNA double-strand breaks in rapidly dividing cells. Its efficacy in small cell lung carcinoma and germ cell tumours is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for etoposide: "Etoposide causes the induction of DNA strand breaks by an interaction with DNA-topoisomerase II or the formation of free radicals, leading to cell cycle arrest, primarily at the G2 stage of the cell cycle, and cell death." ([DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059), label version 2026-10-07; accessed 2026-11-19.) Based on known pharmacology, etoposide is a topoisomerase II inhibitor that causes DNA double-strand breaks in rapidly dividing cells. Its efficacy in small cell lung carcinoma and germ cell tumours is established.
 
 Ewing sarcoma is a highly proliferative bone and soft tissue tumour of children and young adults. The literature notes it is highly sensitive to genotoxic agents such as etoposide. A randomised Phase III trial (INT-0154, PMID 12594313) showed that adding ifosfamide and etoposide to standard chemotherapy improved outcomes in newly diagnosed disease. Etoposide-containing regimens are already part of many standard protocols, so this "repurposing" is largely confirmatory.
 
@@ -163,11 +163,12 @@ Package insert warnings and contraindications were not available in the data com
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Two further cancelled authorisations are not shown: NDA220200 (Avopef, Avyxa Pharma) and ANDA074983 (Etoposide, Fresenius Kabi)" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059) |
 
 <!-- review:end log -->
 

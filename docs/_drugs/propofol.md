@@ -56,7 +56,7 @@ with **3 clinical trials** and **20 publications** currently supporting this dir
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the compiled data. Based on the mechanistic rationale in the data, propofol is a GABA-A positive allosteric modulator. Enhanced GABAergic inhibition may dampen trigeminovascular pain signaling and cortical hyperexcitability.
+According to the Mechanism of Action section of the FDA-approved prescribing information for propofol: "The mechanism of action, like all general anesthetics, is poorly understood. However, propofol is thought to produce its sedative/anesthetic effects by the positive modulation of the inhibitory function of the neurotransmitter GABA through the ligand-gated GABA A receptors." ([DailyMed: Diprivan (propofol) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3105799-a4b6-f3f4-e6e2-b2b29bbdb538), label version 2025-09-11; accessed 2026-11-19.) Based on the mechanistic rationale in the data, propofol is a GABA-A positive allosteric modulator. Enhanced GABAergic inhibition may dampen trigeminovascular pain signaling and cortical hyperexcitability.
 
 In preclinical work, propofol hemisuccinate suppressed cortical spreading depression (PMID 22390898). This phenomenon is believed to underlie migraine aura and may also trigger migraine pain. This offers a plausible biological link between a sedative-hypnotic and migraine.
 
@@ -144,12 +144,13 @@ Several randomized trials and systematic reviews support low-dose propofol for a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "There are 9 licenses in total, all listed as cancelled; the table shows the 5 main ones" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 9 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Diprivan (propofol) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3105799-a4b6-f3f4-e6e2-b2b29bbdb538) |
 
 <!-- review:end log -->
 

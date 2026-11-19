@@ -56,7 +56,7 @@ Currently there are **0 clinical trials** and **15 publications** (mostly precli
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, raltegravir is an integrase strand transfer inhibitor (INSTI). It blocks the step in which viral DNA is integrated into the host genome.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for raltegravir: "Raltegravir is an HIV-1 antiviral drug. […] Raltegravir inhibits the catalytic activity of HIV-1 integrase, an HIV-1 encoded enzyme that is required for viral replication. Inhibition of integrase prevents the covalent insertion, or integration, of unintegrated linear HIV-1 DNA into the host cell genome preventing the formation of the HIV-1 provirus." ([DailyMed: Isentress (raltegravir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e659505-c902-4906-9461-1cc83e2236d2), label version 2026-09-16; accessed 2026-11-19.) Based on known pharmacology, raltegravir is an integrase strand transfer inhibitor (INSTI). It blocks the step in which viral DNA is integrated into the host genome.
 
 SIV is a close lentiviral relative of HIV-1, and its integrase is highly conserved. This makes it plausible that raltegravir acts on SIV in the same way. Studies in rhesus macaques and in cell culture (SIVmac251 and SIVmac239) show that raltegravir is active against SIV and that resistance mutations resemble those seen in HIV.
 
@@ -144,13 +144,14 @@ Please refer to the package insert for label warnings and contraindications, whi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All three licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "and all three of its US licenses in the data are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "all three listed licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Isentress (raltegravir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e659505-c902-4906-9461-1cc83e2236d2) |
 
 <!-- review:end log -->
 

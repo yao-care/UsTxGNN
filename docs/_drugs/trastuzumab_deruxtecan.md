@@ -56,7 +56,7 @@ The prediction rests on a model score alone and should be treated as a low-confi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, trastuzumab deruxtecan is a HER2-directed antibody-drug conjugate whose payload, deruxtecan, is a topoisomerase I inhibitor. It is a cytotoxic oncology agent.
+According to the Mechanism of Action section of the FDA-approved prescribing information for trastuzumab deruxtecan: "Fam-trastuzumab deruxtecan-nxki is a HER2-directed antibody-drug conjugate. The antibody is a humanized anti-HER2 IgG1. The small molecule, DXd, is a topoisomerase I inhibitor attached to the antibody by a cleavable linker." ([DailyMed: Enhertu (fam-trastuzumab deruxtecan-nxki) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e67e73e-ddf4-4e4d-8b50-09d7514910b6), label version 2026-05-15; accessed 2026-11-19.) Based on known information, trastuzumab deruxtecan is a HER2-directed antibody-drug conjugate whose payload, deruxtecan, is a topoisomerase I inhibitor. It is a cytotoxic oncology agent.
 
 Its high TxGNN score (0.9931) is the only support for this prediction, and no plausible mechanistic path to bone metabolism or to treating drug-induced osteoporosis is evident. The prediction may reflect TxGNN model (deep learning) artifacts, such as shared links with other oncology drugs or with cancer treatments that cause osteoporosis, rather than a true therapeutic signal.
 
@@ -123,11 +123,12 @@ The prediction rests only on a model score (evidence level L5), with no clinical
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the reason the US license is recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Enhertu (fam-trastuzumab deruxtecan-nxki) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e67e73e-ddf4-4e4d-8b50-09d7514910b6) |
 
 <!-- review:end log -->
 

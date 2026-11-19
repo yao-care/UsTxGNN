@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **classic stiff person syndrome
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for metformin in the data compiled for this report. Based on known information, metformin is an established oral antidiabetic agent for type 2 diabetes, but no mechanism has been identified that addresses the neurological pathology of the predicted indication.
+According to the Mechanism of Action section of the FDA-approved prescribing information for metformin: "Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose. Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization." ([DailyMed: Metformin Hydrochloride Er (metformin hydrochloride) prescribing information, Leading Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3dca884d-ec44-496f-9eeb-31fd8fa3f574), label version 2026-09-21; accessed 2026-11-19.) Based on known information, metformin is an established oral antidiabetic agent for type 2 diabetes, but no mechanism has been identified that addresses the neurological pathology of the predicted indication.
 
 Stiff person syndrome is an autoimmune neurological disorder involving anti-GAD65 antibodies and impaired GABAergic signaling. One possible indirect link is that GAD-antibody autoimmunity co-occurs with type 1 and type 2 diabetes. This is speculative and does not suggest that metformin treats the neurological condition.
 
@@ -148,12 +148,13 @@ The prediction is supported only by a model score, with no clinical trials or li
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 14 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since the data lists 14 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for metformin in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Metformin Hydrochloride Er (metformin hydrochloride) prescribing information, Leading Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3dca884d-ec44-496f-9eeb-31fd8fa3f574) |
 
 <!-- review:end log -->
 

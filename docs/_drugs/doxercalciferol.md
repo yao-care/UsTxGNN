@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **"obsolete vitamin D deficienc
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the compiled record. Based on general knowledge of the drug class, doxercalciferol is a prohormone of vitamin D2. It is hydroxylated in the liver to 1α,25-dihydroxyvitamin D2, the active form, which binds the vitamin D receptor. This is biologically consistent with correcting vitamin D deficiency and helps explain the high TxGNN score.
+According to the Mechanism of Action section of the FDA-approved prescribing information for doxercalciferol: "Doxercalciferol is a synthetic vitamin D 2 analog that requires metabolic activation to form the active 1α,25-(OH) 2 D 2 metabolite, which binds to the vitamin D receptor (VDR) to result in the selective activation of vitamin D responsive pathways. Vitamin D and doxercalciferol have been shown to reduce PTH levels by inhibiting PTH synthesis and secretion." ([DailyMed: doxercalciferol prescribing information, Alembic Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d07fa4f-f2a2-4c2b-86bf-c0a4691c1a0a), label version 2026-08-05; accessed 2026-11-19.) Based on general knowledge of the drug class, doxercalciferol is a prohormone of vitamin D2. It is hydroxylated in the liver to 1α,25-dihydroxyvitamin D2, the active form, which binds the vitamin D receptor. This is biologically consistent with correcting vitamin D deficiency and helps explain the high TxGNN score.
 
 However, the prediction should be read with caution. The disease label is "obsolete", which suggests a deprecated ontology term rather than a currently used diagnosis. The drug's established use, secondary hyperparathyroidism in chronic kidney disease, relies on the same vitamin D pathway. The prediction is therefore likely a restatement of known pharmacology rather than a novel repurposing signal. The link to the original indication could not be assessed further because no approved indication text was available.
 
@@ -114,11 +114,12 @@ The prediction rests on the model score alone (Evidence Level L5), with no trial
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All five authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data are not available in the compiled record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: doxercalciferol prescribing information, Alembic Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d07fa4f-f2a2-4c2b-86bf-c0a4691c1a0a) |
 
 <!-- review:end log -->
 

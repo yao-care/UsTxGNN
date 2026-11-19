@@ -56,7 +56,7 @@ There are **0 clinical trials** and **5 publications** (1 cohort study, 4 review
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, exemestane is a steroidal aromatase inhibitor that blocks the conversion of androgens to estrogens and so lowers circulating estradiol.
+According to the Mechanism of Action section of the FDA-approved prescribing information for exemestane: "Breast cancer cell growth may be estrogen-dependent. Aromatase is the principal enzyme that converts androgens to estrogens both in pre- and postmenopausal women. […] Exemestane is an irreversible, steroidal aromatase inactivator, structurally related to the natural substrate androstenedione." ([DailyMed: Aromasin (exemestane) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cf066b7a-032a-416c-8d40-15ba581423e3), label version 2025-12-24; accessed 2026-11-19.) Based on general pharmacology, exemestane is a steroidal aromatase inhibitor that blocks the conversion of androgens to estrogens and so lowers circulating estradiol.
 
 This is where the prediction becomes questionable. Amenorrhea is a consequence of estrogen and ovarian function suppression, so it is a pharmacological effect of exemestane and not something it would treat. The retrieved papers discuss chemotherapy-induced amenorrhea, ovarian suppression and ovarian function recovery in premenopausal breast cancer patients. In these papers amenorrhea is an outcome or a treatment-related state. The direction of effect (induction rather than treatment) argues against repurposing for this indication.
 
@@ -129,11 +129,12 @@ The TxGNN scores are very high (0.9983 for antithrombin deficiency type 2), but 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 7 listings are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aromasin (exemestane) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cf066b7a-032a-416c-8d40-15ba581423e3) |
 
 <!-- review:end log -->
 

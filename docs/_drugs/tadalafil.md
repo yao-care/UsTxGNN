@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Ambras type hypertrichosis un
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Tadalafil is generally known as a PDE5 inhibitor that raises cGMP and causes vasodilation. Its efficacy in erectile dysfunction and pulmonary hypertension is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for tadalafil: "Penile erection during sexual stimulation is caused by increased penile blood flow resulting from the relaxation of penile arteries and corpus cavernosal smooth muscle. This response is mediated by the release of nitric oxide (NO) from nerve terminals and endothelial cells, which stimulates the synthesis of cGMP in smooth muscle cells. […] Tadalafil inhibits PDE5." ([DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895), label version 2026-06-03; accessed 2026-11-19.) Tadalafil is generally known as a PDE5 inhibitor that raises cGMP and causes vasodilation. Its efficacy in erectile dysfunction and pulmonary hypertension is established.
 
 The predicted disease is a congenital condition driven by genetic (chromosomal or regulatory) abnormalities, and a biological link to PDE5 inhibition is not evident. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Hypertrichosis is a known adverse effect of vasodilators such as minoxidil, so the association may point in the wrong direction (inducing rather than treating). The therapeutic rationale is unsupported.
 
@@ -132,12 +132,13 @@ The prediction has no trials or publications (Evidence Level L5). The biological
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 11 US licenses are valid, and none has approved-indication text on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895) |
 
 <!-- review:end log -->
 

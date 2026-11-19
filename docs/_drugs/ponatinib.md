@@ -56,7 +56,7 @@ The second-ranked prediction, liposarcoma, is supported by only **1 preclinical 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, ponatinib is a multi-targeted tyrosine kinase inhibitor acting on BCR-ABL, FGFR, PDGFR, VEGFR, SRC and KIT. Its efficacy in BCR-ABL1-positive chronic myelogenous leukemia is established, and in theory its kinase profile could affect fibroproliferative signaling.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ponatinib: "Ponatinib is a kinase inhibitor. Ponatinib inhibited the in vitro tyrosine kinase activity of ABL and T315I mutant ABL with IC 50 concentrations of 0.4 nM and 2.0 nM, respectively. Ponatinib inhibited the in vitro activity of additional kinases with IC 50 concentrations between 0.1 nM and 20 nM, including members of the VEGFR, PDGFR, FGFR, EPH receptors and SRC families of kinases, and KIT, RET, TIE2, and FLT3." ([DailyMed: Iclusig (ponatinib hydrochloride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16d804b6-4957-43ee-b18c-3b36ec37c5ac), label version 2026-08-14; accessed 2026-11-19.) Based on general knowledge, ponatinib is a multi-targeted tyrosine kinase inhibitor acting on BCR-ABL, FGFR, PDGFR, VEGFR, SRC and KIT. Its efficacy in BCR-ABL1-positive chronic myelogenous leukemia is established, and in theory its kinase profile could affect fibroproliferative signaling.
 
 However, no mechanism specific to gingival fibromatosis is documented in the available data, so the link is speculative. Gingival fibromatosis is a benign, non-life-threatening condition, and ponatinib's known cardiovascular and thrombotic toxicity would weigh heavily against its use there.
 
@@ -117,6 +117,19 @@ The only support for gingival fibromatosis is a high model score, with no clinic
 - Detailed mechanism of action data (e.g., from DrugBank)
 - Preclinical evidence of ponatinib activity in gingival fibromatosis fibroblast models, or confirmation of ponatinib activity in the liposarcoma kinase screen
 - A risk-benefit assessment given the cardiovascular and thrombotic safety profile
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Iclusig (ponatinib hydrochloride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16d804b6-4957-43ee-b18c-3b36ec37c5ac) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

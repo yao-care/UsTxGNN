@@ -54,7 +54,7 @@ Prasterone (DHEA) is a sex-steroid precursor whose original indications in the d
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, prasterone (DHEA) is an endogenous steroid precursor that is converted in the body into androgens and estrogens. It has reported immunomodulatory properties, which is consistent with its use in lupus.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for prasterone: "Prasterone is an inactive endogenous steroid and is converted into active androgens and/or estrogens. The mechanism of action of INTRAROSA in postmenopausal women with vulvar and vaginal atrophy is not fully established." ([DailyMed: Intrarosa (prasterone) prescribing information, Millicent US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ada639d4-bac0-2ad0-e053-2a95a90afce7), label version 2026-07-17; accessed 2026-11-19.) Based on known information, prasterone (DHEA) is an endogenous steroid precursor that is converted in the body into androgens and estrogens. It has reported immunomodulatory properties, which is consistent with its use in lupus.
 
 For heparin cofactor 2 deficiency, no mechanistic link has been established. This is a rare inherited serpin deficiency, and prasterone has no known effect on heparin cofactor II levels or function. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -119,12 +119,13 @@ The prediction rests only on a model score, with no trials, no literature, and n
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both authorizations are now cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Both US authorizations are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Intrarosa (prasterone) prescribing information, Millicent US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ada639d4-bac0-2ad0-e053-2a95a90afce7) |
 
 <!-- review:end log -->
 

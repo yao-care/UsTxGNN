@@ -54,7 +54,7 @@ Palonosetron is a 5-HT3 receptor antagonist, a drug class used to prevent nausea
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, palonosetron is a 5-HT3 receptor antagonist, and it is used as an antiemetic. Mechanistically, 5-HT3 antagonism has a plausible but unproven link to migraine, through serotonergic signalling and nausea/vomiting pathways, since nausea is a prominent migraine symptom.
+According to the Mechanism of Action section of the FDA-approved prescribing information for palonosetron: "Palonosetron is a 5-HT 3 receptor antagonist with a strong binding affinity for this receptor and little or no affinity for other receptors. Cancer chemotherapy may be associated with a high incidence of nausea and vomiting, particularly when certain agents, such as cisplatin, are used." ([DailyMed: Posfrea (palonosetron) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13a201ba-c86d-48c5-a0e1-a3e0b4e6a2a7), label version 2025-04-29; accessed 2026-11-19.) Based on known information, palonosetron is a 5-HT3 receptor antagonist, and it is used as an antiemetic. Mechanistically, 5-HT3 antagonism has a plausible but unproven link to migraine, through serotonergic signalling and nausea/vomiting pathways, since nausea is a prominent migraine symptom.
 
 The high TxGNN score (0.9974) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The only retrieved publication reports palonosetron-**induced** migraine-type headache, an adverse-event signal that runs counter to a therapeutic benefit. No clinical trials were found.
 
@@ -130,11 +130,12 @@ The prediction rests on a TxGNN model (deep learning) score alone, which may ref
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 14 valid licenses in the data" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Posfrea (palonosetron) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13a201ba-c86d-48c5-a0e1-a3e0b4e6a2a7) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ The only prediction with any literature is **pulmonary arterial hypertension** (
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the compiled data. Based on general knowledge, isosorbide mononitrate is a nitric oxide (NO) donor. NO activates soluble guanylate cyclase, raises cGMP, and relaxes vascular smooth muscle.
+According to the Mechanism of Action section of the FDA-approved prescribing information for isosorbide mononitrate: "Isosorbide mononitrate extended-release tablet are an oral extended-release formulation of ISMN, the major active metabolite of isosorbide dinitrate; most of the clinical activity of the dinitrate is attributable to the mononitrate. The principal pharmacological action of ISMN and all organic nitrates in general is relaxation of vascular smooth muscle, producing dilatation of peripheral arteries and veins, especially the latter." ([DailyMed: isosorbide mononitrate prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=86be0e85-5337-bee4-e053-2a91aa0a8158), label version 2026-11-10; accessed 2026-11-19.) Based on general knowledge, isosorbide mononitrate is a nitric oxide (NO) donor. NO activates soluble guanylate cyclase, raises cGMP, and relaxes vascular smooth muscle.
 
 For the top prediction, hypertrichosis (score 1.0000), the link is weak. The only plausible argument is that increased skin blood flow could influence hair growth, as with minoxidil. But hypertrichosis is a disorder of *excess* hair growth, so a vasodilator-like effect would be expected to worsen it rather than treat it. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -131,12 +131,13 @@ The top-ranked prediction (hypertrichosis) and the other hair and genetic-disord
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Seven licences are currently valid in the US market, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since the facts list 7 valid licences" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: isosorbide mononitrate prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=86be0e85-5337-bee4-e053-2a91aa0a8158) |
 
 <!-- review:end log -->
 

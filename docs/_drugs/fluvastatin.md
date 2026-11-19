@@ -58,7 +58,7 @@ The evidence level is L5 because no cited study directly examines fluvastatin as
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Fluvastatin is known to belong to the statin class, which lowers cholesterol by inhibiting HMG-CoA reductase.
+According to the Mechanism of Action section of the FDA-approved prescribing information for fluvastatin: "Fluvastatin is a competitive inhibitor of HMG-CoA reductase, the rate limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) to mevalonate, a precursor of cholesterol." ([DailyMed: Fluvastatin Sodium Er (fluvastatin sodium) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ab4296c-87c2-4c64-b218-d620eef51310), label version 2024-01-31; accessed 2026-11-19.) Fluvastatin is known to belong to the statin class, which lowers cholesterol by inhibiting HMG-CoA reductase.
 
 Fluvastatin is not an antiviral agent. The literature compiled for this report suggests the link to HIV is indirect:
 
@@ -129,11 +129,12 @@ The TxGNN score is high, but no clinical trial or publication tests fluvastatin 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All five records are single-ingredient products" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fluvastatin Sodium Er (fluvastatin sodium) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ab4296c-87c2-4c64-b218-d620eef51310) |
 
 <!-- review:end log -->
 

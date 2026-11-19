@@ -60,7 +60,7 @@ The evidence is early-stage: no controlled efficacy results are available yet.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, milnacipran belongs to the SNRI class. Its efficacy in fibromyalgia has been established, and mechanistically it may be applicable to migraine.
+According to the Mechanism of Action section of the FDA-approved prescribing information for milnacipran: "The exact mechanism of the central pain inhibitory action of milnacipran and its ability to improve the symptoms of fibromyalgia in humans are unknown. Preclinical studies have shown that milnacipran is a potent inhibitor of neuronal norepinephrine and serotonin reuptake; milnacipran inhibits norepinephrine uptake with approximately 3-fold higher potency in vitro than serotonin without directly affecting the uptake of dopamine or other neurotransmitters." ([DailyMed: Savella (milnacipran hydrochloride) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8b720a1e-034b-4583-b80d-105a794cce74), label version 2026-01-26; accessed 2026-11-19.) Based on known information, milnacipran belongs to the SNRI class. Its efficacy in fibromyalgia has been established, and mechanistically it may be applicable to migraine.
 
 Other drugs with overlapping monoaminergic activity, such as venlafaxine and amitriptyline, are used for migraine prophylaxis. Descending serotonergic and noradrenergic pathways modulate pain and are plausibly relevant to migraine and central sensitization. Fibromyalgia and myofascial pain also involve central pain processing, which gives the two indications a shared biological theme.
 
@@ -152,11 +152,12 @@ The prediction score is very high and the SNRI mechanism is plausible, but the c
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US NDA is cancelled, and the knowledge graph flags several cardiovascular contraindications that matter in a migraine population" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Savella (milnacipran hydrochloride) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8b720a1e-034b-4583-b80d-105a794cce74) |
 
 <!-- review:end log -->
 

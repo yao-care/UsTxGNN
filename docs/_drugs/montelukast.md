@@ -60,7 +60,7 @@ The data compiled for this report include **17 clinical trials** and **20 public
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the compiled drug record. The literature, however, describes montelukast as a selective cysteinyl leukotriene receptor 1 (CysLT1) antagonist. It blocks leukotriene-driven airway inflammation, bronchoconstriction, mucus secretion and airway edema. This is the pathway behind its use in asthma and allergic rhinitis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for montelukast: "The cysteinyl leukotrienes (LTC 4, LTD 4, LTE 4 ) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils. These eicosanoids bind to cysteinyl leukotriene (CysLT) receptors. […] Montelukast is an orally active compound that binds with high affinity and selectivity to the CysLT 1 receptor (in preference to other pharmacologically important airway receptors, such as the prostanoid, cholinergic, or β-adrenergic receptor)." ([DailyMed: Singulair (montelukast sodium) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=482dcc92-b47f-4ea6-854a-f5ac2aea7842), label version 2025-04-30; accessed 2026-11-19.) The literature, however, describes montelukast as a selective cysteinyl leukotriene receptor 1 (CysLT1) antagonist. It blocks leukotriene-driven airway inflammation, bronchoconstriction, mucus secretion and airway edema. This is the pathway behind its use in asthma and allergic rhinitis.
 
 Cysteinyl leukotrienes are released during viral airway infections such as RSV bronchiolitis, and leukotriene-driven inflammation and fibrosis are plausible targets in bronchiolitis obliterans syndrome after stem cell or lung transplantation. This gives a mechanistic reason for testing montelukast in "bronchitis".
 
@@ -168,13 +168,14 @@ The mechanism is plausible and several randomized trials exist, including one la
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The cancelled-only status in this dataset should be checked against current FDA records before any development decision" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 14 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 14 valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the compiled drug record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Singulair (montelukast sodium) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=482dcc92-b47f-4ea6-854a-f5ac2aea7842) |
 
 <!-- review:end log -->
 

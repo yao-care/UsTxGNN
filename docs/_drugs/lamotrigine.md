@@ -60,7 +60,7 @@ The prediction is therefore best treated as a model signal without direct suppor
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for lamotrigine is not available in the compiled data. Based on known pharmacology, lamotrigine blocks voltage-gated sodium channels and reduces glutamate release. This is the basis of its efficacy in epilepsy.
+According to the Mechanism of Action section of the FDA-approved prescribing information for lamotrigine: "The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action are unknown. In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock (MES) and pentylenetetrazol (scMet) tests, and prevented seizures in the visually and electrically evoked after-discharge (EEAD) tests for antiepileptic activity." ([DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4), label version 2026-10-12; accessed 2026-11-19.) Based on known pharmacology, lamotrigine blocks voltage-gated sodium channels and reduces glutamate release. This is the basis of its efficacy in epilepsy.
 
 The link to a trigeminal nerve neoplasm is weak. The supporting literature concerns **trigeminal neuralgia**, a facial pain syndrome, and a case report of Gamma Knife radiosurgery for neuralgia caused by a cavernous malformation. Neither studies lamotrigine as a treatment for a neoplasm.
 
@@ -140,12 +140,13 @@ The TxGNN model (deep learning) score is very high (0.9997), but there are no cl
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 13 US licenses for single-ingredient lamotrigine are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data for lamotrigine is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4) |
 
 <!-- review:end log -->
 

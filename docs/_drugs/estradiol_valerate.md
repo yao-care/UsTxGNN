@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this specific p
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Based on known information, estradiol valerate is an ester of estradiol, the natural estrogen, delivered by injection. Its efficacy in replacing estrogen in ovarian hypofunction is established, and mechanistically it may be applicable to conditions that involve a low-estrogen state.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for estradiol valerate: "Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol, at the receptor level. The primary source of estrogen in normally cycling adult women is the ovarian follicle, which secretes 70 to 500 mcg of estradiol daily, depending on the phase of the menstrual cycle." ([DailyMed: Delestrogen (estradiol valerate) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8f94df9-0692-4462-a7f0-fe019a0a3f07), label version 2026-05-13; accessed 2026-11-19.) Based on known information, estradiol valerate is an ester of estradiol, the natural estrogen, delivered by injection. Its efficacy in replacing estrogen in ovarian hypofunction is established, and mechanistically it may be applicable to conditions that involve a low-estrogen state.
 
 Female carriers of an FMR1 premutation can develop fragile X-associated primary ovarian insufficiency (FXPOI). This overlaps with the original indication of primary ovarian failure, so estrogen replacement is plausible for the hypoestrogenic part of the condition. Replacement would address the ovarian insufficiency symptoms, not the underlying FMR1 disorder. The prediction is therefore best read as a narrow, symptom-level link.
 
@@ -137,11 +137,12 @@ The fragile X carrier prediction has a high model score (0.9994) but no clinical
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All four US licenses are valid, and the safety label data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Delestrogen (estradiol valerate) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8f94df9-0692-4462-a7f0-fe019a0a3f07) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ The TxGNN model predicts it may be useful for **Amenorrhea** (therapeutic menstr
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on the published literature, danazol is a synthetic steroid derived from 17α-ethinyltestosterone. It suppresses pituitary gonadotropins (LH/FSH) and ovarian steroid production, which leads to endometrial atrophy and amenorrhea.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for danazol: "Danazol suppresses the pituitary-ovarian axis." ([DailyMed: danazol prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55ad6325-16f6-4f0c-a1dc-734847052d0b), label version 2024-10-10; accessed 2026-11-19.) Based on the published literature, danazol is a synthetic steroid derived from 17α-ethinyltestosterone. It suppresses pituitary gonadotropins (LH/FSH) and ovarian steroid production, which leads to endometrial atrophy and amenorrhea.
 
 This is the same mechanism that underlies its use in endometriosis, a hormone-dependent disease in which lesions regress during states of ovarian down-regulation such as amenorrhea. The relationship between the original and new indication is therefore close: in endometriosis, amenorrhea is part of how the drug works, and the prediction extends that effect to menstrual suppression as a goal in its own right.
 
@@ -97,7 +97,6 @@ Currently no related clinical trials registered.
 | ANDA078214 | Danazol (Lannett Company) | Capsule | Not available (valid) |
 | ANDA074582 | Danazol (Teva Pharmaceuticals USA) | Capsule | Not available (valid) |
 | ANDA077246 | Danazol (Chartwell RX) | Capsule | Not available (valid) |
-
 
 ---
 
@@ -140,6 +139,18 @@ The mechanism of menstrual suppression is the same one that underlies danazol's 
 | 8 | Breast adenosis | L3 | Research Question |
 | 9 | Vulvovaginitis | L5 | Hold |
 | 10 | Vulvitis | L5 | Hold |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: danazol prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55ad6325-16f6-4f0c-a1dc-734847052d0b) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

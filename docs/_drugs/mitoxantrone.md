@@ -60,7 +60,7 @@ This prediction is supported by **no directly registered clinical trials** and *
 
 ## Why is This Prediction Reasonable?
 
-Mitoxantrone is a topoisomerase II inhibitor and DNA intercalator. It kills rapidly dividing cells by damaging their DNA. A structured mechanism-of-action entry was not available in the data compiled for this report, but the literature describes it as an anthraquinone with a mechanism similar to the anthracyclines such as doxorubicin.
+Mitoxantrone is a topoisomerase II inhibitor and DNA intercalator. It kills rapidly dividing cells by damaging their DNA. According to the Mechanism of Action section of the FDA-approved prescribing information for mitoxantrone: "Mitoxantrone, a DNA-reactive agent that intercalates into deoxyribonucleic acid (DNA) through hydrogen bonding, causes crosslinks and strand breaks. Mitoxantrone also interferes with ribonucleic acid (RNA) and is a potent inhibitor of topoisomerase II, an enzyme responsible for uncoiling and repairing damaged DNA." ([DailyMed: mitoxantrone prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1634528a-30c5-4309-acc8-4c0293ae14ae), label version 2026-09-01; accessed 2026-11-19.) The literature describes it as an anthraquinone with a mechanism similar to the anthracyclines such as doxorubicin.
 
 The original indications are all forms of acute myeloid leukemia. Upper aerodigestive tract tumors include head and neck, nasopharyngeal, salivary gland and related cancers. These are a different tumor type, but many are squamous carcinomas that respond to cytotoxic drugs. Several older phase II studies tested mitoxantrone in head and neck, nasopharyngeal and salivary gland cancers. Their results suggest only modest activity. One Southwest Oncology Group study (22 evaluable patients) reported one partial response, and the main toxicities were leukopenia and thrombocytopenia.
 
@@ -151,11 +151,12 @@ The evidence for this specific term is limited to older single-arm phase II stud
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All three US licenses are generic injectables and all are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "A structured mechanism-of-action entry was not available in the data compiled for this report, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: mitoxantrone prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1634528a-30c5-4309-acc8-4c0293ae14ae) |
 
 <!-- review:end log -->
 

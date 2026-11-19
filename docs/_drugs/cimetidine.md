@@ -56,7 +56,7 @@ No clinical trials are registered for this prediction, and the **20 publications
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Cimetidine is generally known as an H2-receptor antagonist that reduces gastric acid secretion, and acid suppression is the basis for its use in peptic ulcer disease.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for cimetidine: "Cimetidine tablets competitively inhibits the action of histamine at the histamine H 2 receptors of the parietal cells and thus is a histamine H 2 -receptor antagonist. Cimetidine is not an anticholinergic agent. Studies have shown that cimetidine tablets inhibit both daytime and nocturnal basal gastric acid secretion." ([DailyMed: cimetidine prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=06c0a509-026f-44e0-9975-a94a8de51d43), label version 2026-07-15; accessed 2026-11-19.) Cimetidine is generally known as an H2-receptor antagonist that reduces gastric acid secretion, and acid suppression is the basis for its use in peptic ulcer disease.
 
 Perforation is a complication of peptic ulcer disease and is managed primarily by surgery. Acid suppression could in theory play an adjunctive or preventive role. However, the available literature does not support a protective effect: two reports describe perforation occurring while patients were on cimetidine (PMIDs 3967139, 6743974), and another describes perforation after cimetidine was withdrawn (PMID 922364). Some population-level reports show fewer elective ulcer operations after cimetidine became available, with only a small drop in perforations (10%, PMID 7082957).
 
@@ -112,6 +112,19 @@ No cited study shows that cimetidine benefits peptic ulcer perforation. Several 
 - Mechanism-of-action data
 - Package insert warnings and contraindications
 - Controlled clinical studies that directly assess perforation outcomes with acid suppression, compared with other acid-suppressing drugs
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: cimetidine prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=06c0a509-026f-44e0-9975-a94a8de51d43) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

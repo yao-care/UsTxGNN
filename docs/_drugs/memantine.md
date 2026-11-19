@@ -58,7 +58,7 @@ The evidence is real but modest in quality: the only Phase 3 trial is small (33 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Memantine is known as an NMDA receptor antagonist, and the literature gathered for this report is consistent with that.
+According to the Mechanism of Action section of the FDA-approved prescribing information for memantine: "Persistent activation of central nervous system N-methyl-D-aspartate (NMDA) receptors by the excitatory amino acid glutamate has been hypothesized to contribute to the symptomatology of Alzheimer’s disease. Memantine is postulated to exert its therapeutic effect through its action as a low to moderate affinity uncompetitive (open-channel) NMDA receptor antagonist which binds preferentially to the NMDA receptor-operated cation channels." ([DailyMed: memantine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6977ef-6a0a-4bd9-b500-6ceb15abbd5e), label version 2026-11-11; accessed 2026-11-19.) Memantine is known as an NMDA receptor antagonist, and the literature gathered for this report is consistent with that.
 
 Migraine is thought to involve glutamatergic hyperexcitability and cortical spreading depression. Blocking NMDA receptors is therefore a plausible way to prevent attacks. Reviews describe higher glutamate levels in migraine patients, especially during attacks. Genetic studies also implicate glutamate-signalling genes.
 
@@ -141,12 +141,13 @@ Migraine has a plausible mechanism and a completed Phase 3 trial, which gives it
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 13 US authorizations are generic applications (ANDAs) and all are listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 13 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: memantine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6977ef-6a0a-4bd9-b500-6ceb15abbd5e) |
 
 <!-- review:end log -->
 

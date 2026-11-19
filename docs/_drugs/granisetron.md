@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **manic bipolar affective disor
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled records. Based on known pharmacology, granisetron is a selective 5-HT3 receptor antagonist, and its efficacy in nausea and vomiting is established through blockade of serotonin signaling.
+According to the Mechanism of Action section of the FDA-approved prescribing information for granisetron: "Granisetron is a selective 5-hydroxytryptamine 3 (5-HT 3 ) receptor antagonist with little or no affinity for other serotonin receptors, including 5-HT 1, 5-HT 1A, 5-HT 1B/C, 5-HT 2; for alpha 1-, alpha 2-, or beta-adrenoreceptors; for dopamine-D 2; or for histamine-H 1; benzodiazepine; picrotoxin or opioid receptors. Serotonin receptors of the 5-HT 3 type are located peripherally on vagal nerve terminals and centrally in the chemoreceptor trigger zone of the area postrema." ([DailyMed: Sustol (granisetron) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7c7ffdd-8270-4030-bc1e-a1cb28a6de56), label version 2026-04-30; accessed 2026-11-19.) Based on known pharmacology, granisetron is a selective 5-HT3 receptor antagonist, and its efficacy in nausea and vomiting is established through blockade of serotonin signaling.
 
 Mechanistically, 5-HT3 modulation has been hypothesized to influence dopaminergic and serotonergic signaling relevant to mood disorders. This link is speculative. The very high TxGNN score (0.9962) is a model prediction only, and no clinical trials or literature were found to support it. The original indication (nausea and vomiting) and the predicted indication (mania) are not closely related clinically, so the similarity between them has not yet been assessed.
 
@@ -137,12 +137,13 @@ The top prediction (manic bipolar affective disorder) has a very high model scor
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 10 valid licenses out of 10" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-12 | Removed: "Five more licenses (all cancelled) are on file, covering tablets, film-coated tablets and additional injections" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled records" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sustol (granisetron) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7c7ffdd-8270-4030-bc1e-a1cb28a6de56) |
 
 <!-- review:end log -->
 

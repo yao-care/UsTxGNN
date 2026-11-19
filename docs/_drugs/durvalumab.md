@@ -57,7 +57,7 @@ The nearest supported direction is the second-ranked prediction, endocervical ca
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general knowledge, durvalumab is a monoclonal antibody that blocks PD-L1, which can restore T-cell antitumour activity. The rationale for gynaecologic adenocarcinomas is that PD-L1 blockade could be relevant to tumours that express PD-L1.
+According to the Mechanism of Action section of the FDA-approved prescribing information for durvalumab: "Expression of programmed cell death ligand-1 (PD-L1) can be induced by inflammatory signals (e.g., IFN-gamma) and can be expressed on both tumor cells and tumor-associated immune cells in the tumor microenvironment. PD-L1 blocks T-cell function and activation through interaction with PD-1 and CD80 (B7.1). […] Durvalumab is a human immunoglobulin G1 kappa (IgG1κ) monoclonal antibody that binds to PD-L1 and blocks the interaction of PD-L1 with PD-1 and CD80 (B7.1)." ([DailyMed: Imfinzi (durvalumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3), label version 2026-08-31; accessed 2026-11-19.) Based on general knowledge, durvalumab is a monoclonal antibody that blocks PD-L1, which can restore T-cell antitumour activity. The rationale for gynaecologic adenocarcinomas is that PD-L1 blockade could be relevant to tumours that express PD-L1.
 
 For uterine ligament adenocarcinoma specifically, this link is only an inference. The tumour is rare, and no study of any kind was found for it. The prediction should be seen as a hypothesis from the TxGNN model, not as supported evidence.
 
@@ -119,6 +119,19 @@ The top-ranked prediction, uterine ligament adenocarcinoma, has a very high mode
 - Review of FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Preclinical or case-level evidence in uterine ligament adenocarcinoma, or a decision to focus on better-supported gynaecologic indications such as endocervical carcinoma
 - Confirmation of the original and approved indications from the FDA label, because the licence record has no indication text
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Imfinzi (durvalumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

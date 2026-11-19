@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, panitumumab is a fully human monoclonal antibody that targets EGFR, and its efficacy in metastatic colon cancer is the basis of its original indication. Whether this mechanism applies to drug-induced osteoporosis is not established by the data compiled for this report.
+According to the Mechanism of Action section of the FDA-approved prescribing information for panitumumab: "The EGFR is a transmembrane glycoprotein that is a member of a subfamily of type I receptor tyrosine kinases, including EGFR, HER2, HER3, and HER4. EGFR is constitutively expressed in normal epithelial tissues, including the skin and hair follicle. […] Panitumumab binds specifically to EGFR on both normal and tumor cells, and competitively inhibits the binding of ligands for EGFR." ([DailyMed: Vectibix (panitumumab) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e0fa4bca-f245-4d92-ae29-b0c630a315c2), label version 2026-06-23; accessed 2026-11-19.) Based on known information, panitumumab is a fully human monoclonal antibody that targets EGFR, and its efficacy in metastatic colon cancer is the basis of its original indication. Whether this mechanism applies to drug-induced osteoporosis is not established by the data compiled for this report.
 
 EGFR signaling takes part in bone remodeling, including osteoblast differentiation and osteoclast regulation, so a biological connection is plausible in principle. However, EGFR inhibition has been associated with low magnesium and low calcium levels, which could harm bone rather than help it. This points toward a risk, not a benefit. The idea is a hypothesis only, and no data support it. The high TxGNN score (0.9913) cannot be checked against a known mechanism.
 
@@ -129,12 +129,13 @@ The prediction score is very high, but there are no clinical trials or publicati
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "In addition, the only US license is cancelled, and a chronic bone indication for a cancer antibody would need a strong case" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "of the cancelled BLA status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vectibix (panitumumab) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e0fa4bca-f245-4d92-ae29-b0c630a315c2) |
 
 <!-- review:end log -->
 

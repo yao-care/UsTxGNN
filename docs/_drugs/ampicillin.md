@@ -54,7 +54,7 @@ Ampicillin is a beta-lactam (aminopenicillin) antibiotic. The TxGNN model predic
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. As a general property of the class, ampicillin is a beta-lactam that interferes with bacterial cell wall synthesis. It is active against many common respiratory pathogens, such as streptococci and susceptible *Haemophilus influenzae*.
+According to the Mechanism of Action section of the FDA-approved prescribing information for ampicillin: "Ampicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication. It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria." ([DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1), label version 2026-07-27; accessed 2026-11-19.) As a general property of the class, ampicillin is a beta-lactam that interferes with bacterial cell wall synthesis. It is active against many common respiratory pathogens, such as streptococci and susceptible *Haemophilus influenzae*.
 
 That activity makes use in bacterial infections of the larynx plausible, for example epiglottitis or laryngeal abscess. However, most laryngitis is viral and non-bacterial, so any benefit would be limited to a bacterial subset. Ampicillin has also been largely replaced by other agents for epiglottitis, and ampicillin-resistant *H. influenzae* type b has been reported. Several retrieved papers are off-topic (Whipple's disease, canine neck infections, experimental otitis media).
 
@@ -110,6 +110,19 @@ The TxGNN score is high, but no cited study directly addresses laryngitis. The l
 - Definition of the bacterial subset that would be targeted, with current local resistance data
 - Package insert warnings and contraindications for safety screening
 - Mechanism-of-action data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

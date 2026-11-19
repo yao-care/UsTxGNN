@@ -56,7 +56,7 @@ The most evidence-supported related direction in the data compiled for this repo
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Defibrotide is an oligonucleotide with endothelial-protective, profibrinolytic and antithrombotic activity. These properties explain its use in hepatic VOD, a disease of endothelial injury and microvascular thrombosis.
+According to the Mechanism of Action section of the FDA-approved prescribing information for defibrotide: "The mechanism of action of defibrotide sodium has not been fully elucidated. In vitro, defibrotide sodium enhances the enzymatic activity of plasmin to hydrolyze fibrin clots. Studies evaluating the pharmacological effects of defibrotide sodium on endothelial cells (ECs) were conducted primarily in the human microvascular endothelial cell line." ([DailyMed: Defitelio (defibrotide sodium) prescribing information, Jazz Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2c3db989-d7ad-41ed-9ebf-698dcf6c24ec), label version 2025-07-01; accessed 2026-11-19.) Defibrotide is an oligonucleotide with endothelial-protective, profibrinolytic and antithrombotic activity. These properties explain its use in hepatic VOD, a disease of endothelial injury and microvascular thrombosis.
 
 For pseudo-von Willebrand disease, the rationale is weak. It is a platelet-type bleeding disorder caused by a gain-of-function defect in the platelet receptor GP1BA. No plausible mechanism is established by which defibrotide would correct this defect. Using an antithrombotic agent in a bleeding disorder also raises a safety concern. The high score (0.9991) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -122,11 +122,12 @@ The top prediction (pseudo-von Willebrand disease) rests on a model score alone,
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "why the US license was cancelled and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Defitelio (defibrotide sodium) prescribing information, Jazz Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2c3db989-d7ad-41ed-9ebf-698dcf6c24ec) |
 
 <!-- review:end log -->
 

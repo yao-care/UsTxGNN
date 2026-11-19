@@ -56,7 +56,7 @@ No registered clinical trials were found; support comes from **case reports and 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Vinblastine is generally known as a vinca alkaloid that binds tubulin and inhibits microtubule assembly, causing mitotic arrest. Rapidly dividing tumour cells, such as those of rhabdomyosarcoma, are plausibly sensitive to this mechanism.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for vinblastine: "Other studies indicate that vinblastine sulfate has an effect on cell-energy production required for mitosis and interferes with nucleic acid synthesis. The mechanism of action of vinblastine has been related to the inhibition of microtubule formation in the mitotic spindle, resulting in an arrest of dividing cells at the metaphase stage." ([DailyMed: vinblastine sulfate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f073b58e-56d6-4c8d-a2ce-b37719402d77), label version 2025-04-15; accessed 2026-11-19.) Vinblastine is generally known as a vinca alkaloid that binds tubulin and inhibits microtubule assembly, causing mitotic arrest. Rapidly dividing tumour cells, such as those of rhabdomyosarcoma, are plausibly sensitive to this mechanism.
 
 Published reports include vinblastine in multi-drug regimens for rhabdomyosarcoma. A case of perianal rhabdomyosarcoma in an adult showed a partial response after a regimen that included nivolumab, dacarbazine, cisplatin and vinblastine. Preclinical work in rhabdomyosarcoma models also describes synthetic lethality between PLK1 inhibition and microtubule-destabilizing drugs. However, vinblastine's individual contribution cannot be separated from the other agents in these reports, and they are anecdotal.
 
@@ -118,12 +118,13 @@ The only support for rhabdomyosarcoma is case reports of vinblastine-containing 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US authorization is cancelled, and the official label safety data are missing" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "A plan to confirm injectable product availability in the US, since the only listed ANDA is cancelled" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: vinblastine sulfate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f073b58e-56d6-4c8d-a2ce-b37719402d77) |
 
 <!-- review:end log -->
 

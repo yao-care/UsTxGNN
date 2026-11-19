@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but *
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this report. From general pharmacology, dextromethorphan is an NMDA receptor antagonist and sigma-1 agonist with central antitussive (cough-suppressing) activity. It does not have an established direct effect on nasal mucosal disease.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dextromethorphan hydrobromide, bupropion hydrochloride (a combination product containing dextromethorphan): "Dextromethorphan is an uncompetitive antagonist of the NMDA receptor (an ionotropic glutamate receptor) and a sigma-1 receptor agonist. The mechanism of dextromethorphan in the treatment of MDD and agitation associated with dementia due to Alzheimer’s disease is unclear." ([DailyMed: Auvelity (dextromethorphan hydrobromide, bupropion hydrochloride) prescribing information, Axsome Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcefda7c-9a68-278e-e053-2995a90aec79), label version 2026-08-17; accessed 2026-11-19.) From general pharmacology, dextromethorphan is an NMDA receptor antagonist and sigma-1 agonist with central antitussive (cough-suppressing) activity. It does not have an established direct effect on nasal mucosal disease.
 
 The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Dextromethorphan is already linked to allergic rhinitis, vasomotor rhinitis and rhinitis, all of which are nasal cavity conditions. The prediction therefore looks like an extension of existing rhinitis-related uses rather than a newly identified mechanism. Any benefit would probably be symptomatic (for example, cough relief), not disease-modifying.
 
@@ -138,12 +138,13 @@ The prediction has the highest model score but no clinical trial or literature s
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All five US authorizations are valid, and the drug is currently marketed in the US" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "of the cancelled regulatory status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Auvelity (dextromethorphan hydrobromide, bupropion hydrochloride) prescribing information, Axsome Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcefda7c-9a68-278e-e053-2995a90aec79) |
 
 <!-- review:end log -->
 

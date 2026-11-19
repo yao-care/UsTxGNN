@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, dalteparin is a low-molecular-weight heparin that potentiates antithrombin and inhibits factor Xa.
+According to the Mechanism of Action section of the FDA-approved prescribing information for dalteparin: "Dalteparin is a low molecular weight heparin with antithrombotic properties. It acts by enhancing the inhibition of Factor Xa and thrombin by antithrombin. In humans, dalteparin potentiates preferentially the inhibition of coagulation Factor Xa, while only slightly affecting the activated partial thromboplastin time (APTT)." ([DailyMed: Fragmin (dalteparin sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23527b8b-9b28-4e6d-9751-33b143975ac7), label version 2025-09-30; accessed 2026-11-19.) Based on known pharmacology, dalteparin is a low-molecular-weight heparin that potentiates antithrombin and inhibits factor Xa.
 
 This is biologically plausible for a prothrombotic state such as protein C deficiency. It also overlaps with the original indication of purpura fulminans, which is often caused by severe protein C deficiency. However, standard care for severe congenital protein C deficiency is protein C concentrate plus anticoagulation, so any role for dalteparin would be adjunctive and is unverified here. The high score is a computational prediction without clinical or literature support.
 
@@ -126,11 +126,12 @@ All predicted indications are supported by model scores only, with no relevant t
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US license is also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fragmin (dalteparin sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23527b8b-9b28-4e6d-9751-33b143975ac7) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ The TxGNN model predicts it may be useful for **alopecia mucinosa**, but **no cl
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Methylprednisolone belongs to the glucocorticoid class, which broadly suppresses inflammatory and immune responses. That is the general reason it could be considered for inflammatory skin and hair-follicle disorders.
+According to the Mechanism of Action section of the FDA-approved prescribing information for methylprednisolone: "Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states. Their synthetic analogs are primarily used for their potent anti-inflammatory effects in disorders of many organ systems." ([DailyMed: methylprednisolone prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97256c7e-5694-4148-926f-594b9d5c34f4), label version 2026-07-01; accessed 2026-11-19.) Methylprednisolone belongs to the glucocorticoid class, which broadly suppresses inflammatory and immune responses. That is the general reason it could be considered for inflammatory skin and hair-follicle disorders.
 
 Alopecia mucinosa is an inflammatory condition of the hair follicle. The model's score likely reflects shared inflammatory follicular pathology with conditions the drug is already used for. This link is computational only. No trial or publication was found to confirm that methylprednisolone benefits patients with this disease. Any mechanistic argument therefore remains a hypothesis.
 
@@ -130,11 +130,12 @@ The prediction score is high (0.9999), but there are no clinical trials or publi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Of the 8 licence records in the local data, 7 are valid and 1 is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: methylprednisolone prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97256c7e-5694-4148-926f-594b9d5c34f4) |
 
 <!-- review:end log -->
 

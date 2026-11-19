@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug. Parathyroid hormone is a hormone that regulates calcium and phosphate balance. The one US license on record is for the injectable product NATPARA, but its approved indication text is blank in the data compiled for this report.
+ChEMBL (EMBL-EBI) records the mechanism of action of parathyroid hormone as: Parathyroid hormone receptor agonist ([ChEMBL CHEMBL2108078 (parathyroid hormone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108078), CC BY-SA 3.0; accessed 2026-11-19.) Parathyroid hormone is a hormone that regulates calcium and phosphate balance. The one US license on record is for the injectable product NATPARA, but its approved indication text is blank in the data compiled for this report.
 
 The link to migraine is indirect. A 2025 genetic study (PMID 40297711) proposes that receptors for parathyroid hormone-related peptide (PTHrP), a close relative of PTH that acts on a shared receptor family, are genetic drivers of migraine susceptibility. This points to a plausible connection between PTH-family signalling and migraine. The other supporting papers only show associations between migraine and calcium, vitamin D, magnesium or bone status. No study shows that giving PTH treats migraine, so the very high TxGNN score is not backed by clinical data.
 
@@ -126,12 +126,13 @@ The migraine prediction has a high model score, but there are no clinical trials
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license is cancelled, and the label's warnings, contraindications and indication text are missing, so safety screening cannot pr" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "that was formerly marketed as an injectable in the United States" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2108078 (parathyroid hormone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108078) |
 
 <!-- review:end log -->
 

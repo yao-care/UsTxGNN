@@ -60,7 +60,7 @@ The data compiled for this report contain **no registered clinical trials** and 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available for this drug in the compiled data. The literature does describe diazepam as a positive allosteric modulator of GABA-A receptors. By enhancing inhibitory neurotransmission, it produces sedative and hypnotic effects.
+According to the Mechanism of Action section of the FDA-approved prescribing information for diazepam: "The mechanism of action of diazepam for the listed indications is thought to involve potentiation of gamma aminobutyric acid (GABA), an inhibitory neurotransmitter, resulting from binding at the benzodiazepine site of the GABA A receptor." ([DailyMed: Valium (diazepam) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=260e2041-2bb3-482f-850e-b5d47a7bdbe6), label version 2026-10-06; accessed 2026-11-19.) The literature does describe diazepam as a positive allosteric modulator of GABA-A receptors. By enhancing inhibitory neurotransmission, it produces sedative and hypnotic effects.
 
 This mechanism fits insomnia, because benzodiazepines are used clinically as hypnotics. A 1981 double-blind trial studied diazepam directly in outpatients with sleep disorders, which is the strongest direct support found.
 
@@ -145,12 +145,13 @@ The mechanism is plausible and one double-blind trial in insomnia patients exist
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 12 valid licences on record" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "for these licences" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available for this drug in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Valium (diazepam) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=260e2041-2bb3-482f-850e-b5d47a7bdbe6) |
 
 <!-- review:end log -->
 

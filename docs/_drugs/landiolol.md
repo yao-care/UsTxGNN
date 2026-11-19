@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Landiolol selectively blocks the beta-1 adrenergic receptor (about 250-fold selectivity over beta-2) and has a very short half-life. Currently, detailed mechanism of action data is not available in the compiled data, so no mechanistic validation is possible.
+Landiolol selectively blocks the beta-1 adrenergic receptor (about 250-fold selectivity over beta-2) and has a very short half-life. According to the Mechanism of Action section of the FDA-approved prescribing information for landiolol: "RAPIBLYK is a selective beta-1-adrenoreceptor antagonist that inhibits the positive chronotropic effects of the catecholamines, epinephrine and norepinephrine, on the heart, where beta-1-receptors are predominantly located. Landiolol does not exhibit any membrane-stabilizing activity or intrinsic sympathomimetic activity at the approved recommended dosage in vitro." ([DailyMed: Rapiblyk (landiolol) prescribing information, AOP Orphan Pharmaceuticals GmbH](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=27e7f20f-78a4-f1a9-e063-6394a90ae465), label version 2026-10-19; accessed 2026-11-19.) No mechanistic validation is possible.
 
 The link to orofacial dyskinesia comes purely from the TxGNN model (deep learning) prediction. Other beta-blockers, such as propranolol, have been used for some drug-induced movement disorders (for example akathisia). However, propranolol is non-selective and enters the brain, whereas landiolol is beta-1 selective, acts mainly in the periphery, and has minimal CNS penetration. There is no evidence that it would affect orofacial dyskinesia, so the prediction is probably a class-level association rather than a true landiolol-specific mechanism.
 
@@ -115,11 +115,12 @@ The prediction is supported only by the model score (L5). There are no clinical 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The US license record also shows only a cancelled status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data, so n" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Rapiblyk (landiolol) prescribing information, AOP Orphan Pharmaceuticals GmbH](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=27e7f20f-78a4-f1a9-e063-6394a90ae465) |
 
 <!-- review:end log -->
 

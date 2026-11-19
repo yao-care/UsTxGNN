@@ -59,7 +59,7 @@ Two other predictions were also generated: alveolar echinococcosis (score 0.9921
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Based on known information, miltefosine is an alkylphosphocholine with established antiparasitic activity against Leishmania and other protozoa. It is thought to disrupt lipid metabolism, membrane signaling and calcium homeostasis in parasites.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for miltefosine: "Miltefosine is an anti-leishmanial agent. […] The specific mode of action of miltefosine against Leishmania species is unknown. The mechanism of action of miltefosine is likely to involve interaction with lipids (phospholipids and sterols), including membrane lipids, inhibition of cytochrome c oxidase (mitochondrial function), and apoptosis-like cell death." ([DailyMed: Impavido (miltefosine) prescribing information, Profounda, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcb387ac-2e90-4f5e-94b2-d3635190678e), label version 2026-10-08; accessed 2026-11-19.) Based on known information, miltefosine is an alkylphosphocholine with established antiparasitic activity against Leishmania and other protozoa. It is thought to disrupt lipid metabolism, membrane signaling and calcium homeostasis in parasites.
 
 *Echinococcus granulosus* is a parasitic tapeworm (cestode) that causes cystic echinococcosis. A similar membrane-targeting effect on its larval stages (metacestodes or protoscoleces) is plausible, but this is unverified. The very high TxGNN score is a computational prediction only, and the supplied data contain no study that confirms the link.
 
@@ -108,6 +108,19 @@ The prediction for echinococcus granulosus infectious disease is supported only 
 - FDA package insert warnings and contraindications for safety screening
 - Comparison with the current standard of care (benzimidazoles and surgery) to define the clinical need
 - Assessment of route and dosing suitability, which are still pending
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Impavido (miltefosine) prescribing information, Profounda, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcb387ac-2e90-4f5e-94b2-d3635190678e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

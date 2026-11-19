@@ -56,7 +56,7 @@ Currently there are **0 clinical trials** and **0 publications** specific to thi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, methoxsalen is a psoralen. When activated by UVA light (PUVA), it crosslinks DNA and induces apoptosis of malignant epidermotropic T cells. It is also used in extracorporeal photopheresis, where blood cells are exposed to the drug and UVA outside the body.
+ChEMBL (EMBL-EBI) records the mechanism of action of methoxsalen as: DNA inhibitor ([ChEMBL CHEMBL416 (methoxsalen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416), CC BY-SA 3.0; accessed 2026-11-19.) Based on known pharmacology, methoxsalen is a psoralen. When activated by UVA light (PUVA), it crosslinks DNA and induces apoptosis of malignant epidermotropic T cells. It is also used in extracorporeal photopheresis, where blood cells are exposed to the drug and UVA outside the body.
 
 Localized pagetoid reticulosis (Woringer-Kolopp disease) is an indolent, epidermotropic variant of mycosis fungoides, which is a primary cutaneous T-cell lymphoma. Because the original indication is the same disease family and the malignant cells sit in the skin, where UVA can reach them, the prediction is biologically plausible. However, this is an extrapolation from the broader indication. No studies specific to this entity were found.
 
@@ -123,11 +123,12 @@ The prediction is mechanistically plausible because it lies within the cutaneous
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "since both US authorizations are cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL416 (methoxsalen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416) |
 
 <!-- review:end log -->
 

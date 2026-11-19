@@ -59,7 +59,7 @@ Type 1 diabetes falls within the drug's original diabetes indication, so this is
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on the published literature, insulin detemir is a soluble, long-acting insulin analogue. A 14-carbon fatty acid (myristic acid) is attached to lysine B29, and threonine B30 is removed. This lets the molecule bind reversibly to albumin after injection, which slows absorption and extends the effect to about 24 hours. It acts at the insulin receptor and replaces the insulin that people with type 1 diabetes cannot produce.
+According to the Mechanism of Action section of the FDA-approved prescribing information for insulin detemir: "The primary activity of insulin, including LEVEMIR, is regulation of glucose metabolism. Insulins and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Levemir (insulin detemir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c), label version 2024-10-09; accessed 2026-11-19.) Based on the published literature, insulin detemir is a soluble, long-acting insulin analogue. A 14-carbon fatty acid (myristic acid) is attached to lysine B29, and threonine B30 is removed. This lets the molecule bind reversibly to albumin after injection, which slows absorption and extends the effect to about 24 hours. It acts at the insulin receptor and replaces the insulin that people with type 1 diabetes cannot produce.
 
 Type 1 diabetes is characterised by absolute insulin deficiency, so basal insulin replacement is a standard treatment. The high TxGNN score is consistent with this known pharmacology. Because the drug is already used within its original diabetes indication, the prediction confirms an existing use rather than uncovering a new one.
 
@@ -160,12 +160,13 @@ Multiple completed Phase 3 trials, together with systematic reviews and a random
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "However, this is an existing core indication rather than a new use, and the only US license (BLA021536) is cancelled, so availability is a c" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "of the reason for cancellation and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Levemir (insulin detemir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c) |
 
 <!-- review:end log -->
 

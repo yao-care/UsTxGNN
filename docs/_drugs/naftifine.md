@@ -59,7 +59,7 @@ with **0 registered clinical trials** and **9 publications** (including two olde
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From the published literature, naftifine is a topical allylamine that inhibits squalene epoxidase, blocking ergosterol synthesis in fungal cell membranes. It is strongly fungicidal against dermatophytes and also shows some activity against Candida and Aspergillus species.
+According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for naftifine: "NAFTIN ® Gel is a topical antifungal drug. […] Naftifine is an antifungal that belongs to the allylamine class. Although the exact mechanism of action against fungi is not known, naftifine hydrochloride appears to interfere with sterol biosynthesis by inhibiting the enzyme squalene 2, 3-epoxidase." ([DailyMed: Naftin (naftifine hydrochloride) prescribing information, Legacy Pharma USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6c6ee055-4031-45a7-8561-ccd989343580), label version 2025-07-30; accessed 2026-11-19.) From the published literature, naftifine is a topical allylamine that inhibits squalene epoxidase, blocking ergosterol synthesis in fungal cell membranes. It is strongly fungicidal against dermatophytes and also shows some activity against Candida and Aspergillus species.
 
 Dermatophyte infections and cutaneous candidiasis are both superficial fungal skin infections that share the ergosterol pathway as a drug target. This is why the model links them. However, naftifine is less potent against yeasts than against dermatophytes, so the mechanistic fit is real but not as strong as for its original indications.
 
@@ -137,11 +137,12 @@ The evidence for cutaneous candidiasis is clinical but old (1980s), with no regi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "why the US licences were cancelled (commercial versus safety or regulatory reasons) and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Naftin (naftifine hydrochloride) prescribing information, Legacy Pharma USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6c6ee055-4031-45a7-8561-ccd989343580) |
 
 <!-- review:end log -->
 

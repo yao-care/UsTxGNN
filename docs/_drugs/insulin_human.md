@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Insulin is known as the replacement hormone for diabetes, but this report cannot draw a mechanistic argument for ovarian disease from the available data.
+According to the Mechanism of Action section of the FDA-approved prescribing information for insulin human: "Regulation of glucose metabolism is the primary activity of insulins, including HUMULIN R U-500. Insulins lower blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Humulin R U-500 Kwikpen (insulin human) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60e8dd0-1d48-4dc9-87fd-e14675255e8c), label version 2026-07-01; accessed 2026-11-19.) Insulin is known as the replacement hormone for diabetes, but this report cannot draw a mechanistic argument for ovarian disease from the available data.
 
 The prediction is plausible only in a loose sense. Insulin signaling influences ovarian function, and autoimmune polyendocrine syndromes can co-occur with autoimmune diabetes. These are indirect associations, not evidence that insulin treats autoimmune oophoritis. The score of 0.9984 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -133,11 +133,12 @@ The prediction for autoimmune oophoritis is supported only by a TxGNN model (dee
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The compiled data lists 8 authorizations in total, all with cancelled status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Humulin R U-500 Kwikpen (insulin human) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60e8dd0-1d48-4dc9-87fd-e14675255e8c) |
 
 <!-- review:end log -->
 

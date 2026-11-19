@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **insomnia**, but **no clinical
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, calaspargase pegol is a pegylated asparaginase that depletes circulating asparagine and is used in acute lymphoblastic leukemia. The original indication text is missing from the regulatory record, so this description comes from drug-class knowledge rather than the label data.
+According to the Mechanism of Action section of the FDA-approved prescribing information for calaspargase pegol: "L-asparaginase is an enzyme that catalyzes the conversion of the amino acid L-asparagine into aspartic acid and ammonia. The pharmacological effect of ASPARLAS is thought to be based on the killing of leukemic cells due to depletion of plasma asparagine." ([DailyMed: Asparlas (calaspargase pegol) prescribing information, Servier Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6585bd0d-bd78-4341-9e87-0f7664821f05), label version 2024-10-08; accessed 2026-11-19.) Based on general pharmacology, calaspargase pegol is a pegylated asparaginase that depletes circulating asparagine and is used in acute lymphoblastic leukemia. The original indication text is missing from the regulatory record, so this description comes from drug-class knowledge rather than the label data.
 
 The prediction for insomnia does not have a credible mechanistic link. The drug has no known action on sleep-wake regulation or on central nervous system targets. Insomnia appears in the literature mainly as an adverse effect of asparaginase-containing regimens, largely because of corticosteroid co-medication. The very high TxGNN score (0.9980) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It has no supporting biological rationale and is likely an artifact.
 
@@ -126,12 +126,13 @@ All four predictions rest on model scores alone (L5), with no trials or literatu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license is cancelled, and the label safety data are missing" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "Confirm the current regulatory and supply status, since the only license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Asparlas (calaspargase pegol) prescribing information, Servier Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6585bd0d-bd78-4341-9e87-0f7664821f05) |
 
 <!-- review:end log -->
 

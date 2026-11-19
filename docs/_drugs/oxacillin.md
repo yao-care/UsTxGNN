@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Epiglottitis**, but this pred
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, oxacillin is a penicillinase-resistant beta-lactam. It inhibits bacterial cell wall synthesis and is active against methicillin-susceptible *Staphylococcus aureus* (MSSA).
+According to the Mechanism of Action section of the FDA-approved prescribing information for oxacillin: "Penicillinase-resistant penicillins exert a bactericidal action against penicillin susceptible microorganisms during the state of active multiplication. All penicillins inhibit the biosynthesis of the bacterial cell wall." ([DailyMed: oxacillin prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d893e45b-7f18-4c67-b10c-1e2e52a6b3ef), label version 2026-08-31; accessed 2026-11-19.) Based on known pharmacology, oxacillin is a penicillinase-resistant beta-lactam. It inhibits bacterial cell wall synthesis and is active against methicillin-susceptible *Staphylococcus aureus* (MSSA).
 
 Epiglottitis is mainly caused by *Haemophilus influenzae* and *Streptococcus* species, and less often by *S. aureus*. A mechanistic rationale therefore exists only for staphylococcal cases. Oxacillin is also not a first-line choice, because empirical regimens target *H. influenzae* with third-generation cephalosporins.
 
@@ -139,13 +139,14 @@ The prediction is supported only by the model score, with no trials or literatur
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All 8 US authorizations are valid, and the drug is marketed" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "All 8 US licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Three more authorizations (ANDA207147, ANDA206199 and NDA050640, the Baxter injectable solution) are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: oxacillin prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d893e45b-7f18-4c67-b10c-1e2e52a6b3ef) |
 
 <!-- review:end log -->
 

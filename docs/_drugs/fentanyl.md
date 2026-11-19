@@ -58,7 +58,7 @@ A second prediction, Tourette syndrome (score 0.9905), was also evaluated. It li
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the data compiled for this report. Fentanyl is generally known as a mu-opioid receptor agonist, but this report does not rely on any more detailed mechanistic data.
+According to the Mechanism of Action section of the FDA-approved prescribing information for fentanyl: "Fentanyl Citrate Injection is an opioid agonist, whose principal actions of therapeutic value are analgesia and sedation." ([DailyMed: fentanyl citrate prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58dcd3f7-e3d8-4929-a186-8f680a51ff11), label version 2026-10-23; accessed 2026-11-19.) Fentanyl is generally known as a mu-opioid receptor agonist, but this report does not rely on any more detailed mechanistic data.
 
 **The mechanistic link is weak.** Opioids can influence vasopressin (ADH) release and may cause antidiuresis through central mechanisms. NSIAD, however, is caused by gain-of-function variants in the vasopressin V2 receptor (AVPR2) or, in some cases, GNAS-related signaling. In this condition ADH is low or undetectable and the defect lies in the kidney. Modulating central ADH release with an opioid would not be expected to correct a constitutively active receptor. Opioid-induced antidiuresis would be an adverse effect, not a therapeutic benefit.
 
@@ -143,13 +143,14 @@ The second prediction, Tourette syndrome, is also held. The link there is specul
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All six authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with six valid authorizations" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "and the cancelled market status" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: fentanyl citrate prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58dcd3f7-e3d8-4929-a186-8f680a51ff11) |
 
 <!-- review:end log -->
 

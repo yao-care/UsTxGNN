@@ -65,7 +65,7 @@ Other predicted indications, all also at L5 with a Hold recommendation:
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this report. Based on known information, meclizine is a first-generation H1-antihistamine with anticholinergic activity. Its efficacy in vertigo and motion sickness is established, and mechanistically, histamine-receptor blockade may be applicable to histamine-mediated conditions such as allergic urticaria.
+According to the Mechanism of Action section of the FDA-approved prescribing information for meclizine: "The precise mechanism by which meclizine exerts its therapeutic effect is unknown but is presumed to involve antagonism of the histamine H1 receptor." ([DailyMed: Meclizine Hydrochloride (meclizine) prescribing information, St. Mary's Medical Park Pharmacy](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d2ff762-041d-74ed-e063-6394a90ac588), label version 2026-10-06; accessed 2026-11-19.) Based on known information, meclizine is a first-generation H1-antihistamine with anticholinergic activity. Its efficacy in vertigo and motion sickness is established, and mechanistically, histamine-receptor blockade may be applicable to histamine-mediated conditions such as allergic urticaria.
 
 The link between the original and new indications is indirect. Vertigo and motion sickness are treated mainly through central antihistaminic and anticholinergic effects, whereas urticaria is driven by histamine release in the skin. Both share the H1-receptor pathway, which is why the prediction is biologically plausible. However, this reasoning comes from drug class and the model prediction, not from drug-specific evidence.
 
@@ -144,7 +144,7 @@ The prediction (score 0.9967) is supported only by class-level reasoning, with n
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
@@ -152,6 +152,7 @@ Below is the review log for this page: statements checked against official FDA d
 | 2026-11-06 | Removed: "Two further cancelled licenses are not shown: M002 (Motion Sickness Relief, film-coated tablet) and ANDA040659 (Meclizine Hydrochloride, tab" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 7 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Meclizine Hydrochloride (meclizine) prescribing information, St. Mary's Medical Park Pharmacy](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d2ff762-041d-74ed-e063-6394a90ac588) |
 
 <!-- review:end log -->
 

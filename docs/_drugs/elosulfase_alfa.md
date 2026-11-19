@@ -60,7 +60,7 @@ The prediction rests on model scoring alone and should be treated as a computati
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, elosulfase alfa is a recombinant form of N-acetylgalactosamine-6-sulfatase (GALNS). This enzyme degrades keratan sulfate and chondroitin-6-sulfate, which accumulate in Morquio A syndrome.
+According to the Mechanism of Action section of the FDA-approved prescribing information for elosulfase alfa: "Mucopolysaccharidoses comprise a group of lysosomal storage disorders caused by the deficiency of specific lysosomal enzymes required for the catabolism of glycosaminoglycans (GAG). Mucopolysaccharidosis IVA (MPS IVA, Morquio A Syndrome) is characterized by the absence or marked reduction in N -acetylgalactosamine-6-sulfatase activity. […] Elosulfase alfa uptake by cells into lysosomes is mediated by the binding of mannose-6-phosphate-terminated oligosaccharide chains of elosulfase alfa to mannose-6-phosphate receptors." ([DailyMed: Vimizim (elosulfase alfa) prescribing information, BioMarin Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0caa2565-12b2-0ad0-1f9a-273e81c3d4cc), label version 2025-10-30; accessed 2026-11-19.) Based on known information, elosulfase alfa is a recombinant form of N-acetylgalactosamine-6-sulfatase (GALNS). This enzyme degrades keratan sulfate and chondroitin-6-sulfate, which accumulate in Morquio A syndrome.
 
 Scheie syndrome is an attenuated form of MPS I. It is caused by a deficiency of a different enzyme, alpha-L-iduronidase, so dermatan sulfate and heparan sulfate accumulate. The missing enzyme and the stored substrates both differ from those elosulfase alfa acts on, so there is **no direct mechanistic rationale**. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases such as the mucopolysaccharidoses and other lysosomal storage diseases, not biological evidence.
 
@@ -150,12 +150,13 @@ The top prediction, Scheie syndrome, has no clinical trial or literature support
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US market status is also listed as cancelled only" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "since the license is recorded as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vimizim (elosulfase alfa) prescribing information, BioMarin Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0caa2565-12b2-0ad0-1f9a-273e81c3d4cc) |
 
 <!-- review:end log -->
 

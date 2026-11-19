@@ -56,7 +56,7 @@ but currently there are **0 registered clinical trials** and only **9 publicatio
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, beclomethasone dipropionate is a synthetic glucocorticoid with potent anti-inflammatory and immunosuppressive activity. Its efficacy in asthma and allergic rhinitis is established, and mechanistically it may be applicable to atopic eczema.
+According to the Mechanism of Action section of the FDA-approved prescribing information for beclomethasone dipropionate: "Beclomethasone dipropionate is a prodrug that is extensively converted to the active metabolite, beclomethasone-17-monopropionate. The precise mechanism through which beclomethasone dipropionate affects rhinitis symptoms is unknown." ([DailyMed: Qnasl (beclomethasone dipropionate) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b8d8e84-b5d2-4e56-97ec-4f72971465c5), label version 2020-02-29; accessed 2026-11-19.) Based on known information, beclomethasone dipropionate is a synthetic glucocorticoid with potent anti-inflammatory and immunosuppressive activity. Its efficacy in asthma and allergic rhinitis is established, and mechanistically it may be applicable to atopic eczema.
 
 Glucocorticoid receptor activation suppresses pro-inflammatory cytokine and Th2-driven signaling. This is relevant to the inflammatory pathology of atopic dermatitis, which also commonly coexists with asthma and allergic rhinitis as part of the atopic spectrum. Topical beclomethasone also has historical use in dermatology.
 
@@ -128,12 +128,13 @@ The high model score is not backed by modern clinical evidence: there are no reg
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All three authorizations are valid, and all are inhaled or intranasal aerosol products" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "and the drug is marketed in the US with all 3 authorizations valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Qnasl (beclomethasone dipropionate) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b8d8e84-b5d2-4e56-97ec-4f72971465c5) |
 
 <!-- review:end log -->
 

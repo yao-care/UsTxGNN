@@ -60,7 +60,7 @@ Collagenase Clostridium histolyticum is a collagen-degrading enzyme product that
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Collagenase Clostridium histolyticum is a bacterial enzyme preparation that breaks down collagen. Its use is built on that collagen-lysing action.
+According to the Mechanism of Action section of the FDA-approved prescribing information for collagenase clostridium histolyticum: "Collagenases are proteinases that hydrolyze collagen in its native triple helical conformation under physiological conditions, resulting in lysis of collagen deposits. Injection of XIAFLEX into a Dupuytren’s cord, which is comprised mostly of collagen, may result in enzymatic disruption of the cord." ([DailyMed: Xiaflex (collagenase clostridium histolyticum) prescribing information, Endo USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=805cecd0-fd1f-11dd-87af-0800200c9a66), label version 2026-09-17; accessed 2026-11-19.) Collagenase Clostridium histolyticum is a bacterial enzyme preparation that breaks down collagen. Its use is built on that collagen-lysing action.
 
 Primary release disorder of platelets is a platelet function defect. Platelets fail to release their granule contents properly, so they do not aggregate normally. It is not a disorder of collagen accumulation, so a collagen-degrading enzyme has no obvious target.
 
@@ -121,13 +121,14 @@ The prediction has only a model score behind it (evidence level L5), with no tri
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Verification of the regulatory and supply status of the injectable product in the US, since the only record listed is a cancelled ointment" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "as a topical ointment" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "The manufacturer is Smith & Nephew, Inc" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xiaflex (collagenase clostridium histolyticum) prescribing information, Endo USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=805cecd0-fd1f-11dd-87af-0800200c9a66) |
 
 <!-- review:end log -->
 

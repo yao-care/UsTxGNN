@@ -56,7 +56,7 @@ but currently there are **0 registered clinical trials** and only **animal-model
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, bosentan is a dual endothelin ETA/ETB receptor antagonist. Its efficacy in pulmonary arterial hypertension is established, and mechanistically it may be applicable to rheumatoid arthritis, because endothelin signalling contributes to vascular dysfunction and inflammation.
+According to the Mechanism of Action section of the FDA-approved prescribing information for bosentan: "Bosentan is a specific and competitive antagonist at endothelin receptor types ET A and ET B. Bosentan has a slightly higher affinity for ET A receptors than for ET B receptors. The clinical impact of dual endothelin blockage is unknown." ([DailyMed: Tracleer (bosentan) prescribing information, Actelion Pharmaceuticals US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=749e42fb-2fe0-45dd-9268-b43bb3f4081c), label version 2025-11-17; accessed 2026-11-19.) Based on known information, bosentan is a dual endothelin ETA/ETB receptor antagonist. Its efficacy in pulmonary arterial hypertension is established, and mechanistically it may be applicable to rheumatoid arthritis, because endothelin signalling contributes to vascular dysfunction and inflammation.
 
 Preclinical work supports this link. In mice, bosentan ameliorated collagen-induced arthritis, with TNF-α involved in inducing the endothelin system genes. Endothelins also modulate the inflammatory response in zymosan-induced arthritis. Endothelin-1 levels are raised in the plasma and synovial membrane of rheumatoid arthritis patients.
 
@@ -129,12 +129,13 @@ The prediction score is very high (0.9980), but the support is limited to mouse 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "Clarification of the US regulatory status, since the drug is marketed and all 7 of 7 licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "Two further licenses (ANDA207110, Actavis; ANDA213981, Zydus Pharmaceuticals USA) are also cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tracleer (bosentan) prescribing information, Actelion Pharmaceuticals US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=749e42fb-2fe0-45dd-9268-b43bb3f4081c) |
 
 <!-- review:end log -->
 

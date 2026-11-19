@@ -60,7 +60,7 @@ The prediction is a computational output only and has no supporting evidence.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Naproxen is generally known as a non-selective COX-1/COX-2 inhibitor that provides symptomatic anti-inflammatory and analgesic effects. Its efficacy in inflammatory joint disease and pain is well established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for naproxen: "Naproxen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of NAPRELAN, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Naprelan (naproxen sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8a51c9a-488e-4377-a041-436f6a2f8893), label version 2026-01-08; accessed 2026-11-19.) Naproxen is generally known as a non-selective COX-1/COX-2 inhibitor that provides symptomatic anti-inflammatory and analgesic effects. Its efficacy in inflammatory joint disease and pain is well established.
 
 Brachydactyly-syndactyly syndromes are rare congenital limb malformations of genetic and developmental origin. A COX-inhibition mechanism has no plausible disease-modifying role in such conditions, and nothing in the available data supports a mechanistic link.
 
@@ -147,13 +147,14 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 14 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "14 US licenses are valid, and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "given that 14 licenses are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Naprelan (naproxen sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8a51c9a-488e-4377-a041-436f6a2f8893) |
 
 <!-- review:end log -->
 

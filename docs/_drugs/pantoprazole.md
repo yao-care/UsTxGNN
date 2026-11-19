@@ -55,7 +55,7 @@ This prediction is essentially label-consistent (on-label) rather than a true re
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not available in the structured drug record. However, the mechanism is well established in the literature: pantoprazole irreversibly inhibits the gastric H+/K+ ATPase (the proton pump) in parietal cells. This suppresses gastric acid secretion and allows ulcers to heal.
+According to the Mechanism of Action section of the FDA-approved prescribing information for pantoprazole: "Pantoprazole is a PPI that suppresses the final step in gastric acid production by covalently binding to the (H +, K + )-ATPase enzyme system at the secretory surface of the gastric parietal cell. This effect leads to inhibition of both basal and stimulated gastric acid secretion irrespective of the stimulus." ([DailyMed: Protonix I.V. (pantoprazole sodium) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cde88e6-28f2-4cbe-8c3f-770b05cc0e1b), label version 2026-11-06; accessed 2026-11-19.) However, the mechanism is well established in the literature: pantoprazole irreversibly inhibits the gastric H+/K+ ATPase (the proton pump) in parietal cells. This suppresses gastric acid secretion and allows ulcers to heal.
 
 Older randomized trials found that pantoprazole healed acute duodenal ulcers faster than ranitidine and comparably to omeprazole.
 
@@ -112,6 +112,19 @@ Direct randomized evidence supports pantoprazole for ulcer healing, including Ph
 - Obtain and review the FDA package insert for warnings and contraindications (a blocking gap for safety screening)
 - Confirm the comparator and arm structure of NCT02084420
 - Review the bone-health (fracture, osteoporosis) and vitamin B12 (pernicious anemia) flags, and the major drug interactions, for long-term use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data was not available in the structured drug record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Protonix I.V. (pantoprazole sodium) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cde88e6-28f2-4cbe-8c3f-770b05cc0e1b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

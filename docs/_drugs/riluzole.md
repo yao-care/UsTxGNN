@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **bilateral parasagittal pariet
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. From general knowledge, riluzole is thought to act by reducing glutamate release and modulating persistent sodium currents. This is the basis for its modest survival benefit in ALS.
+According to the Mechanism of Action section of the FDA-approved prescribing information for riluzole: "The mechanism by which riluzole exerts its therapeutic effects in patients with ALS is unknown." ([DailyMed: Tiglutik (riluzole) prescribing information, EDW PHARMA, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857), label version 2026-07-27; accessed 2026-11-19.) From general knowledge, riluzole is thought to act by reducing glutamate release and modulating persistent sodium currents. This is the basis for its modest survival benefit in ALS.
 
 Polymicrogyria is a cortical malformation, which is often associated with epilepsy and neurodevelopmental problems. A glutamate-modulating drug could plausibly relate to such conditions, but this link is speculative. No trial or publication in the data directly supports it. The high TxGNN score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so it should not be read as clinical evidence.
 
@@ -132,12 +132,13 @@ The prediction for bilateral parasagittal parieto-occipital polymicrogyria is su
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "All six authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-05 | Removed: "All US authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tiglutik (riluzole) prescribing information, EDW PHARMA, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857) |
 
 <!-- review:end log -->
 

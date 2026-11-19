@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, sacrosidase is an oral enzyme replacement that hydrolyzes dietary sucrose in the gastrointestinal lumen and is not systemically absorbed. Its efficacy in congenital sucrase-isomaltase deficiency rests on this local digestive action.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for sacrosidase: "Congenital sucrase-isomaltase deficiency (CSID) is a chronic, autosomal recessive, inherited, phenotypically heterogeneous disease with very variable enzyme activity. CSID is usually characterized by a complete or almost complete lack of endogenous sucrase activity, a very marked reduction in isomaltase activity, and a moderate decrease in maltase activity." ([DailyMed: Sucraid (sacrosidase) prescribing information, QOL Medical, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d613bb7f-c3f4-462e-81a2-da2347cc4b6b), label version 2025-12-29; accessed 2026-11-19.) Based on known information, sacrosidase is an oral enzyme replacement that hydrolyzes dietary sucrose in the gastrointestinal lumen and is not systemically absorbed. Its efficacy in congenital sucrase-isomaltase deficiency rests on this local digestive action.
 
 Cystinosis is a lysosomal storage disorder caused by CTNS mutations. These impair the cystinosin transporter and lead to cystine accumulation inside lysosomes. The standard of care is cysteamine, which depletes cystine. A luminal digestive enzyme has no plausible effect on lysosomal cystine transport, so **no credible mechanistic link was identified**.
 
@@ -112,12 +112,13 @@ The prediction has no clinical trial or literature support (L5), and no plausibl
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US license is cancelled, so there is also no commercial basis for development" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "Clarification of the regulatory and supply status, given that the only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sucraid (sacrosidase) prescribing information, QOL Medical, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d613bb7f-c3f4-462e-81a2-da2347cc4b6b) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, oxaprozin is an NSAID that inhibits cyclooxygenase (COX), reducing prostaglandin-mediated inflammation and pain. Its efficacy in arthritic conditions is established.
+According to the Mechanism of Action section of the FDA-approved prescribing information for oxaprozin: "Oxaprozin has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of COXANTO, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Coxanto (oxaprozin) prescribing information, SOLA Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=918127f0-9f2a-4edf-a2f7-07c01aa52bb5), label version 2025-10-20; accessed 2026-11-19.) Based on known information, oxaprozin is an NSAID that inhibits cyclooxygenase (COX), reducing prostaglandin-mediated inflammation and pain. Its efficacy in arthritic conditions is established.
 
 Hunter-Thompson type acromesomelic dysplasia is a rare skeletal disorder caused by loss-of-function variants in the CDMP1/GDF5 gene, which disrupt cartilage and bone development. No plausible mechanism links COX inhibition to correcting GDF5 signaling defects. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -118,11 +118,12 @@ The prediction for acromesomelic dysplasia, Hunter-Thompson type has no supporti
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-05 | Removed: "and all five authorizations are valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Coxanto (oxaprozin) prescribing information, SOLA Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=918127f0-9f2a-4edf-a2f7-07c01aa52bb5) |
 
 <!-- review:end log -->
 

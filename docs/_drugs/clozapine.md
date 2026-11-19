@@ -56,7 +56,7 @@ Currently **1 directly relevant Phase 2 clinical trial** and a **systematic revi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for clozapine are not available in the data compiled for this report. Based on known pharmacology, clozapine is a broad-spectrum receptor antagonist, with D2 and 5-HT2A blockade plus effects on glutamatergic and GABAergic signalling. This profile plausibly supports antimanic and mood-stabilizing effects, especially when conventional mood stabilizers or antipsychotics have failed.
+According to the Mechanism of Action section of the FDA-approved prescribing information for clozapine: "The mechanism of action of clozapine is unknown. However, it has been proposed that the therapeutic efficacy of clozapine in schizophrenia is mediated through antagonism of the dopamine type 2 (D 2 ) and the serotonin type 2A (5-HT 2A ) receptors." ([DailyMed: Versacloz (clozapine) prescribing information, TruPharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2592c9a8-fd74-4e0d-a895-b07b014cf355), label version 2026-09-06; accessed 2026-11-19.) Based on known pharmacology, clozapine is a broad-spectrum receptor antagonist, with D2 and 5-HT2A blockade plus effects on glutamatergic and GABAergic signalling. This profile plausibly supports antimanic and mood-stabilizing effects, especially when conventional mood stabilizers or antipsychotics have failed.
 
 A Phase 2 double-blind trial studied clozapine in treatment-resistant mania. A systematic review and meta-analysis (PMID 32182485) covered three small comparative studies. It found clozapine similar to other antipsychotics in manic episodes and better in treatment-resistant bipolar disorder. Both studies are small, so the signal is encouraging but not definitive.
 
@@ -122,6 +122,18 @@ A completed Phase 2 double-blind trial and a systematic review and meta-analysis
 - Mechanism-of-action data for clozapine.
 - A monitoring plan covering blood counts, metabolic and cardiac parameters, and seizure risk.
 - Review of the full package insert warnings and contraindications.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for clozapine are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Versacloz (clozapine) prescribing information, TruPharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2592c9a8-fd74-4e0d-a895-b07b014cf355) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

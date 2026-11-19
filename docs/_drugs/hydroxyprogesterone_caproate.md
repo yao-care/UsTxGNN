@@ -54,7 +54,7 @@ Hydroxyprogesterone caproate is an injectable progestin. The TxGNN model predict
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for this drug is not available in the data compiled for this report. Based on the drug class, hydroxyprogesterone caproate is a progestin. Progestins are an established class of endometriosis therapy because they induce decidualization and atrophy of ectopic endometrial tissue. A mechanistic link to endometriosis of uterus is therefore plausible.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for hydroxyprogesterone caproate: "Hydroxyprogesterone is a potent, long-acting, progestational steroid ester which transforms proliferative endothelium into secretory endothelium, induces mammary gland duct development, and inhibits the production and/or release of gonadotropic hormone; it also shows slight estrogenic, androgenic, or corticoid effects as well, but should not be relied upon for these effects. In advanced adenocarcinoma of the uterine corpus, Hydroxyprogesterone Caproate Injection, USP in a dosage of 1,000 mg or more, one or more times each week, often induces regressive changes." ([DailyMed: hydroxyprogesterone caproate prescribing information, Eugia US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=687bcf42-f437-42c7-8909-a91f621f55df), label version 2026-06-12; accessed 2026-11-19.) Based on the drug class, hydroxyprogesterone caproate is a progestin. Progestins are an established class of endometriosis therapy because they induce decidualization and atrophy of ectopic endometrial tissue. A mechanistic link to endometriosis of uterus is therefore plausible.
 
 The data contains no clinical evidence for this specific drug in this disease. The only retrieved publication (PMID 37488914) is a case report of spontaneous hemoperitoneum in pregnancy, a complication associated with endometriosis. It does not assess treatment efficacy. The very high TxGNN score reflects a computational prediction and is not backed by clinical data for this drug.
 
@@ -92,6 +92,18 @@ The progestin-class mechanism makes the prediction plausible. However, no trial 
 - Detailed mechanism-of-action data for the drug
 - Clinical evidence, such as trials or comparative studies, of this drug in endometriosis of uterus
 - Confirmation of the regulatory pathway and formulation, since the only licence is cancelled
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for this drug is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: hydroxyprogesterone caproate prescribing information, Eugia US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=687bcf42-f437-42c7-8909-a91f621f55df) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

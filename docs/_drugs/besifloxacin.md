@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **bronchitis**, but this is a c
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, besifloxacin is a fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV. Activity against respiratory bacterial pathogens is therefore biologically plausible.
+According to the Mechanism of Action section of the FDA-approved prescribing information for besifloxacin: "Besifloxacin is a fluoroquinolone antibacterial." ([DailyMed: Besivance (besifloxacin) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f312ddb2-3173-4c2c-bf1b-4ade8fb75d94), label version 2026-07-28; accessed 2026-11-19.) Based on known pharmacology, besifloxacin is a fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV. Activity against respiratory bacterial pathogens is therefore biologically plausible.
 
 There are important limits on this rationale. Besifloxacin exists only as an ophthalmic suspension with minimal systemic exposure, and no systemic or inhaled formulation is available. Most bronchitis cases are viral, which further weakens the case for an antibacterial. The very high TxGNN score reflects model output, not clinical evidence.
 
@@ -116,11 +116,12 @@ The bronchitis prediction rests only on a model score, with no trials or literat
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The drug is available only as an ophthalmic suspension with minimal systemic exposure, and its only US license is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Besivance (besifloxacin) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f312ddb2-3173-4c2c-bf1b-4ade8fb75d94) |
 
 <!-- review:end log -->
 

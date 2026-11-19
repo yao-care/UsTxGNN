@@ -57,7 +57,7 @@ but there are currently **0 clinical trials** and **1 publication** (a mouse stu
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general knowledge, lovastatin is a statin that inhibits HMG-CoA reductase and lowers LDL cholesterol. CETP deficiency alters lipoprotein remodeling and raises HDL cholesterol, so a biological link through lipid metabolism is plausible.
+According to the Clinical Pharmacology section of the FDA-approved prescribing information for lovastatin: "The mechanism of the LDL-lowering effect of lovastatin may involve both reduction of VLDL-C concentration, and induction of the LDL receptor, leading to reduced production and/or increased catabolism of LDL-C. Apolipoprotein B also falls during treatment with lovastatin. Lovastatin is a specific inhibitor of HMG-CoA reductase, the enzyme which catalyzes the conversion of HMG-CoA to mevalonate." ([DailyMed: lovastatin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac86821f-d741-4ab1-bd03-ce8797dd4f34), label version 2026-11-13; accessed 2026-11-19.) Based on general knowledge, lovastatin is a statin that inhibits HMG-CoA reductase and lowers LDL cholesterol. CETP deficiency alters lipoprotein remodeling and raises HDL cholesterol, so a biological link through lipid metabolism is plausible.
 
 However, CETP deficiency is mainly a laboratory or genetic phenotype with high HDL and usually does not need treatment. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as lipid-metabolism disorders already linked to lovastatin, not biological evidence. It is not a validated therapeutic signal. The one retrieved publication concerns a mouse model and has no apparent direct relevance to lovastatin or to CETP deficiency in humans.
 
@@ -103,6 +103,19 @@ The prediction has no clinical trials and no directly relevant literature, so it
 - Search for studies that directly examine lovastatin or statins in CETP deficiency
 - Obtain the FDA package insert warnings and contraindications for safety screening
 - Obtain detailed mechanism-of-action data from DrugBank
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: lovastatin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac86821f-d741-4ab1-bd03-ce8797dd4f34) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

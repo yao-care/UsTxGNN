@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, fostamatinib is a prodrug of R406, a spleen tyrosine kinase (SYK) inhibitor. Its efficacy in immune thrombocytopenia comes from blocking Fc-receptor-mediated platelet destruction by macrophages.
+According to the Mechanism of Action section of the FDA-approved prescribing information for fostamatinib: "Fostamatinib is a tyrosine kinase inhibitor with demonstrated activity against spleen tyrosine kinase (SYK). The major metabolite of fostamatinib, R406, inhibits signal transduction of Fc-activating receptors and B-cell receptor." ([DailyMed: Tavalisse (fostamatinib) prescribing information, Rigel Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=21149cc3-049b-43e2-b141-c9499160556c), label version 2025-11-05; accessed 2026-11-19.) Based on known information, fostamatinib is a prodrug of R406, a spleen tyrosine kinase (SYK) inhibitor. Its efficacy in immune thrombocytopenia comes from blocking Fc-receptor-mediated platelet destruction by macrophages.
 
 The predicted indication is a heritable form of thrombocytopenia. Such conditions are presumably driven by defects in platelet production or function rather than by immune-mediated clearance. SYK inhibition therefore has no clear link to the likely underlying disease process. The two conditions share only the label "low platelet count".
 
@@ -113,11 +113,12 @@ Both predictions are supported only by the model score (evidence level L5), with
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US market status is also "Cancelled only"" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tavalisse (fostamatinib) prescribing information, Rigel Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=21149cc3-049b-43e2-b141-c9499160556c) |
 
 <!-- review:end log -->
 

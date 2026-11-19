@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1231
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "TIOPRONIN"
 predicted_indications: ["renal tubular acidosis", "adult polyglucosan body disease", "tricarboxylic acid cycle disorder", "disease of transporter activity", "pyruvate metabolism disorder", "inborn disorder of fatty acid oxidation and ketone body metabolism"]
 description: "Tiopronin: predicted new indication Renal tubular acidosis (evidence level L5). In the US: 9 FDA applications (7 active)"

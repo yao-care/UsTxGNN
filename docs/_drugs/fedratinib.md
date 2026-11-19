@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FEDRATINIB"
 predicted_indications: ["benign PEComa", "lymphangiomyoma", "uterine corpus perivascular epithelioid cell tumor", "dermatofibrosarcoma protuberans", "rhabdoid tumor", "familial rhabdoid tumor", "autosomal recessive familial Mediterranean fever", "hemophagocytic syndrome associated with an infection", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "lymphangioleiomyomatosis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Fedratinib: predicted new indication Benign PEComa (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 

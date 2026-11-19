@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1082
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "PRIMAQUINE"
 predicted_indications: ["myiasis", "creeping myiasis", "furuncular myiasis", "wound myiasis", "toxoplasmosis", "nocardiosis", "pneumocystosis"]
 description: "Primaquine: predicted new indication Myiasis (evidence level L5). In the US: 5 FDA applications (3 active)"

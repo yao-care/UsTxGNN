@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "PROPOFOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Propofol: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the available license records (propofol is generally kn…"
 ---
 

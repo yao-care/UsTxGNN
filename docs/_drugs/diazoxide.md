@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 601
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 monitor_inn: "DIAZOXIDE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
 description: "Diazoxide: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). In the US: 7 FDA applications (3 active)"

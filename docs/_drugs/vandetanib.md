@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "VANDETANIB"
 predicted_indications: ["renal cell carcinoma (disease)", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Vandetanib: predicted new indication Renal cell carcinoma (disease) (evidence level L3). In the US: 1 FDA application (1 active)"
 ---
 

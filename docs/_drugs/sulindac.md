@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1188
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "SULINDAC"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "pseudoachondroplasia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "WHIM syndrome", "hypermobility of coccyx"]
 description: "Sulindac: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In the US: 14 FDA applications (6 active)"

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 892
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "MECHLORETHAMINE"
 predicted_indications: ["relapsing-remitting multiple sclerosis", "follicular lymphoma"]
 description: "Mechlorethamine: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). In the US: 2 FDA applications (1 active)"

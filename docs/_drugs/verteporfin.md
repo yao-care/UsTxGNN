@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "VERTEPORFIN"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Verteporfin: predicted new indication mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (evidence level L5). Approved use: Macular degeneration"
 ---
 

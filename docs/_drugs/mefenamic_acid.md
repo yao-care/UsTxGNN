@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 6
 monitor_inn: "MEFENAMIC ACID"
 predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Mefenamic Acid: predicted new indication Headache disorder (evidence level L2). In the US: 6 FDA applications (4 active)"
 ---
 

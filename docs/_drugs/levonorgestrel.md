@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 857
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Levonorgestrel: predicted new indication Acne (disease) (evidence level L3). In the US: 111 FDA applications (78 active)"

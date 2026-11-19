@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MARGETUXIMAB"
 predicted_indications: ["drug-induced osteoporosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Margetuximab: predicted new indication Drug-induced osteoporosis (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 

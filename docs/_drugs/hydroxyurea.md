@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 781
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "HYDROXYUREA"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
 description: "Hydroxyurea: predicted new indication Female breast carcinoma (evidence level L5). In the US: 10 FDA applications (7 active)"

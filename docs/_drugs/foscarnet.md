@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "FOSCARNET"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "rheumatoid arthritis", "diabetic nephropathy"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Foscarnet: predicted new indication autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (evidence level L5). Approved use: Not stated in the available data (approved-indication tex…"
 ---
 

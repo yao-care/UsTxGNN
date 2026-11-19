@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "CLINDAMYCIN"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "postmenopausal atrophic vaginitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Clindamycin: predicted new indication punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 141 FDA applications (85 active)"
 ---
 

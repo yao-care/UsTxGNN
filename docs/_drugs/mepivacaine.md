@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "MEPIVACAINE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer disease"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Mepivacaine: predicted new indication Gastroduodenitis (evidence level L5). In the US: 21 FDA applications (6 active)"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "AMPHETAMINE"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "trichotillomania", "postural orthostatic tachycardia syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Amphetamine: predicted new indication faciodigitogenital syndrome (evidence level L5). In the US: 70 FDA applications (48 active)"
 ---
 

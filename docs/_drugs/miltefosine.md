@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "MILTEFOSINE"
 predicted_indications: ["echinococcus granulosus infectious disease", "alveolar echinococcosis", "Smouldering systemic mastocytosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Miltefosine: predicted new indication Echinococcus granulosus infectious disease (evidence level L5). Approved use: Leishmaniasis (including mucocutaneous and visceral leishmaniasis)"
 ---
 

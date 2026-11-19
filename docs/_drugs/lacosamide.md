@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "LACOSAMIDE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Lacosamide: predicted new indication Manic bipolar affective disorder (evidence level L5). In the US: 48 FDA applications (40 active)"
 ---
 

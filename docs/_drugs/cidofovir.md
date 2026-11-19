@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CIDOFOVIR"
 predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Cidofovir: predicted new indication sclerosing cholangitis (evidence level L5). In the US: 3 FDA applications (2 active)"
 ---
 

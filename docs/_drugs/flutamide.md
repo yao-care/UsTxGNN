@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 729
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "FLUTAMIDE"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 description: "Flutamide: predicted new indication Fibroma of prostate (evidence level L5). In the US: 6 FDA applications (1 active)"

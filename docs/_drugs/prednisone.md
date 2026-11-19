@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "PREDNISONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Prednisone: predicted new indication Alopecia areata (evidence level L3). In the US: 131 FDA applications (34 active)"
 ---
 

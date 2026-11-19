@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "FERUMOXYTOL"
 predicted_indications: ["non-syndromic esophageal malformation", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "severe nonproliferative diabetic retinopathy", "esophageal ulcer", "esophageal disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Ferumoxytol: predicted new indication Non-syndromic esophageal malformation (evidence level L5). In the US: 3 FDA applications (3 active)"
 ---
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 763
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "GUAIFENESIN"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
 description: "Guaifenesin: predicted new indication Nasal cavity disease (evidence level L5). In the US: 29 FDA applications (24 active), plus 1063 OTC monograph/unapproved NDC listings"

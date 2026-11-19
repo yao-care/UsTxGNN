@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 637
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "DUVELISIB"
 predicted_indications: ["Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
 description: "Duvelisib: predicted new indication Hodgkins lymphoma (evidence level L5). In the US: 1 FDA application (1 active)"

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "BELIMUMAB"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "severe nonproliferative diabetic retinopathy", "autosomal dominant macrothrombocytopenia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Belimumab: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Systemic lupus erythematosus"
 ---
 

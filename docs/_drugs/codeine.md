@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CODEINE"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia", "allergic urticaria"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Codeine: predicted new indication nasal cavity disease (evidence level L5). In the US: 165 FDA applications (27 active), plus 14 OTC monograph/unapproved NDC listings"
 ---
 

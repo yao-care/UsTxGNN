@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 687
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 monitor_inn: "EVEROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
 description: "Everolimus: predicted new indication Liposarcoma (evidence level L3). In the US: 23 FDA applications (19 active)"

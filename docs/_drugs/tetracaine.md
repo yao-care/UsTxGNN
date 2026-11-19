@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1218
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "TETRACAINE"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
 description: "Tetracaine: predicted new indication Acrodermatitis chronica atrophicans (evidence level L5). In the US: 6 FDA applications (5 active), plus 16 OTC monograph/unapproved NDC listings"

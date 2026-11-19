@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1198
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "TAMOXIFEN"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Tamoxifen: predicted new indication Mammary Paget disease (evidence level L5). In the US: 14 FDA applications (6 active)"

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 669
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "ERYTHROMYCIN"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 description: "Erythromycin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 130 FDA applications (33 active), plus 1 OTC monograph/unapproved NDC listing"

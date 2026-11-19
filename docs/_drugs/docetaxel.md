@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 617
 evidence_level: L2
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 monitor_inn: "DOCETAXEL"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
 description: "Docetaxel: predicted new indication Ewing sarcoma (evidence level L2). In the US: 31 FDA applications (21 active)"

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "GLUCAGON"
 predicted_indications: ["irritable bowel syndrome"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Glucagon: predicted new indication Irritable bowel syndrome (evidence level L5). In the US: 12 FDA applications (7 active), plus 3 OTC monograph/unapproved NDC listings"
 ---
 

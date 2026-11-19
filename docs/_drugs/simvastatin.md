@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1163
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: predicted new indication Brain stem infarction (evidence level L5). In the US: 30 FDA applications (17 active)"

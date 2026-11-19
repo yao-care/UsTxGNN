@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 660
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "EPINEPHRINE"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L5). In the US: 96 FDA applications (54 active), plus 143 OTC monograph/unapproved NDC listings"

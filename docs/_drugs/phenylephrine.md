@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1042
 evidence_level: L3
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "PHENYLEPHRINE"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Phenylephrine: predicted new indication Nasal cavity disease (evidence level L3). In the US: 58 FDA applications (41 active), plus 1456 OTC monograph/unapproved NDC listings"

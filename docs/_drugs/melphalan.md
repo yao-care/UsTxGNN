@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 896
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "MELPHALAN"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
 description: "Melphalan: predicted new indication Female breast carcinoma (evidence level L5). In the US: 24 FDA applications (15 active)"

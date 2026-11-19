@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PAROXETINE"
 predicted_indications: ["Ohdo syndrome and variants"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Paroxetine: predicted new indication Ohdo syndrome and variants (evidence level L5). In the US: 35 FDA applications (23 active)"
 ---
 

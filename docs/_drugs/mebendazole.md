@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MEBENDAZOLE"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Mebendazole: predicted new indication Acne (disease) (evidence level L5). In the US: 3 FDA applications (1 active)"
 ---
 

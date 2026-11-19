@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "LOMUSTINE"
 predicted_indications: ["lymphosarcoma", "malignant tumor of meninges", "spinal cord cancer"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Lomustine: predicted new indication Lymphosarcoma (evidence level L4). In the US: 2 FDA applications (2 active)"
 ---
 

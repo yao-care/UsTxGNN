@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1144
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 monitor_inn: "SALSALATE"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia"]
 description: "Salsalate: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In the US: no FDA-approved application; 4 OTC monograph/unapproved NDC listings"

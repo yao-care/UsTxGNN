@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "ROPINIROLE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Ropinirole: predicted new indication Attention deficit-hyperactivity disorder (evidence level L3). In the US: 23 FDA applications (15 active)"
 ---
 

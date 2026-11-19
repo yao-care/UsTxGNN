@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BIMATOPROST"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Bimatoprost: predicted new indication malformation syndrome with odontal and/or periodontal component (evidence level L5). In the US: 20 FDA applications (15 active)"
 ---
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 917
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "METHYLPREDNISOLONE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Methylprednisolone: predicted new indication Alopecia mucinosa (evidence level L5). In the US: 99 FDA applications (28 active), plus 2 OTC monograph/unapproved NDC listings"

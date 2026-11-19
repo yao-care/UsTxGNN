@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 856
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "LEVOMILNACIPRAN"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder"]
 description: "Levomilnacipran: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). In the US: 5 FDA applications (2 active)"

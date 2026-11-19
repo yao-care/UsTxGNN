@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1215
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Teriparatide"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
 description: "Teriparatide: predicted new indication Duodenal ulcer (disease) (evidence level L5). In the US: 8 FDA applications (7 active)"

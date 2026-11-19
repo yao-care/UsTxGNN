@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 4
 monitor_inn: "ROPIVACAINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "dysthymic disorder"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Ropivacaine: predicted new indication Migraine disorder (evidence level L3). In the US: 17 FDA applications (15 active)"
 ---
 

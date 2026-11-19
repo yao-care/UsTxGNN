@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "DENILEUKIN DIFTITOX"
 predicted_indications: ["plasmacytoma", "neurolymphomatosis", "Richter syndrome", "metastatic neoplasm"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Denileukin Diftitox: predicted new indication Metastatic neoplasm (evidence level L5). Approved use: Primary cutaneous T-cell lymphoma (primary cutaneous T-cell non-Hodgk…"
 ---
 

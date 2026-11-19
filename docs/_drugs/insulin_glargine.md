@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Insulin glargine"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Insulin Glargine: predicted new indication Autoimmune oophoritis (evidence level L5). In the US: 8 FDA applications (8 active), plus 1 OTC monograph/unapproved NDC listing"
 ---
 

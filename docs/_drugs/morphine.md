@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "MORPHINE"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Morphine: predicted new indication Myofascial pain syndrome (evidence level L3). In the US: 77 FDA applications (28 active), plus 12 OTC monograph/unapproved NDC listings"
 ---
 

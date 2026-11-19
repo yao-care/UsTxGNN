@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 598
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "DEXTROAMPHETAMINE"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "multiple system atrophy", "variably protease-sensitive prionopathy", "postural orthostatic tachycardia syndrome", "trichotillomania"]
 description: "Dextroamphetamine: predicted new indication Faciodigitogenital syndrome (evidence level L5). In the US: 87 FDA applications (47 active)"

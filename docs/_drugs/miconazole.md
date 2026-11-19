@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "MICONAZOLE"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Miconazole: predicted new indication 痤瘡 (acne (disease)) (evidence level L4). In the US: 33 FDA applications (21 active), plus 210 OTC monograph/unapproved NDC listings"
 ---
 

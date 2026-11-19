@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ZAFIRLUKAST"
 predicted_indications: ["bronchitis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Zafirlukast: predicted new indication Bronchitis (evidence level L5). In the US: 5 FDA applications (5 active)"
 ---
 

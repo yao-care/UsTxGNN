@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "TERBUTALINE"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Terbutaline: predicted new indication Respiratory malformation (evidence level L5). In the US: 15 FDA applications (6 active)"
 ---
 

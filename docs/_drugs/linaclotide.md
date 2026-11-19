@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "LINACLOTIDE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "insomnia (disease)"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Linaclotide: predicted new indication Cauda equina syndrome (evidence level L5). In the US: 4 FDA applications (2 active)"
 ---
 

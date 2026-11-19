@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ERTAPENEM"
 predicted_indications: ["bacterial arthritis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Ertapenem: predicted new indication Bacterial arthritis (evidence level L5). In the US: 7 FDA applications (6 active)"
 ---
 

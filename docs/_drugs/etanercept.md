@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 678
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "ETANERCEPT"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
 description: "Etanercept: predicted new indication Hypermobility of coccyx (evidence level L5). In the US: 3 FDA applications (3 active)"

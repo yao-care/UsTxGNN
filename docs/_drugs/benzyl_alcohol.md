@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BENZYL ALCOHOL"
 predicted_indications: ["bronchitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Benzyl Alcohol: predicted new indication bronchitis (evidence level L5). In the US: 1 FDA application (0 active), plus 30 OTC monograph/unapproved NDC listings"
 ---
 

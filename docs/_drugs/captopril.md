@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CAPTOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Captopril: predicted new indication malignant hypertensive renal disease (evidence level L5). In the US: 33 FDA applications (8 active)"
 ---
 

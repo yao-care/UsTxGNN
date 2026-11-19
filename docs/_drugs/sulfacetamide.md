@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1185
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "SULFACETAMIDE"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis", "exposure keratitis", "parasitic eyelid infestation"]
 description: "Sulfacetamide: predicted new indication Postinfectious vasculitis (evidence level L5). In the US: 55 FDA applications (6 active), plus 113 OTC monograph/unapproved NDC listings"

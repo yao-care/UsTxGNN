@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 1
 monitor_inn: "ARMODAFINIL"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Armodafinil: predicted new indication insomnia (disease) (evidence level L2). In the US: 7 FDA applications (5 active)"
 ---
 

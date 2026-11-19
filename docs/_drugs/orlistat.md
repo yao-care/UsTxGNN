@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ORLISTAT"
 predicted_indications: ["hypervitaminosis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Orlistat: predicted new indication Hypervitaminosis (evidence level L5). In the US: 2 FDA applications (2 active)"
 ---
 

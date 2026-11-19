@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CHLORPHENIRAMINE"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Chlorpheniramine: predicted new indication nasal cavity disease (evidence level L5). In the US: 70 FDA applications (6 active), plus 267 OTC monograph/unapproved NDC listings"
 ---
 

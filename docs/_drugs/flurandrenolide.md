@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FLURANDRENOLIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "lichen planus pigmentosus", "hypertrophic lichen planus", "annular atrophic lichen planus", "alopecia areata", "primary cutaneous B-cell lymphoma", "alopecia mucinosa", "telogen effluvium", "lichen planus pemphigoides", "hereditary hypotrichosis with recurrent skin vesicles"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Flurandrenolide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). In the US: 10 FDA applications (3 active)"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DOXAPRAM"
 predicted_indications: ["vascular disease", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "angiodysplasia of stomach", "blue toe syndrome", "hemangioendothelioma", "atheroembolism of kidney", "neurogenic thoracic outlet syndrome", "visceral calciphylaxis", "lymphangiectasis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Doxapram: predicted new indication Vascular disease (evidence level L5). Approved use: Respiratory failure"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "AMCINONIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "hypertrophic lichen planus", "lichen planus pigmentosus", "annular atrophic lichen planus", "lichen planus pemphigoides", "primary cutaneous B-cell lymphoma", "2-hydroxyethyl methacrylate sensitization"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Amcinonide: predicted new indication vulvar inverted follicular keratosis (evidence level L5). In the US: 8 FDA applications (3 active)"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "DEXAMETHASONE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Dexamethasone: predicted new indication Alopecia mucinosa (evidence level L5). In the US: 159 FDA applications (65 active), plus 3 OTC monograph/unapproved NDC listings"
 ---
 

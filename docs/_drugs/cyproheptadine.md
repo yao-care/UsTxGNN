@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 559
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 monitor_inn: "CYPROHEPTADINE"
 predicted_indications: ["nasal cavity disease"]
 description: "Cyproheptadine: predicted new indication Nasal cavity disease (evidence level L5). In the US: 41 FDA applications (14 active)"

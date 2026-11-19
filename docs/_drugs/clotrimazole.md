@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 543
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "CLOTRIMAZOLE"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
 description: "Clotrimazole: predicted new indication Acne (disease) (evidence level L5). In the US: 43 FDA applications (24 active), plus 195 OTC monograph/unapproved NDC listings"

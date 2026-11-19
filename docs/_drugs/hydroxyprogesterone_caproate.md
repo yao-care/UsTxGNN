@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 780
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 monitor_inn: "HYDROXYPROGESTERONE CAPROATE"
 predicted_indications: ["endometriosis of uterus", "renal hypoplasia, bilateral", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "renal hypoplasia (disease)", "cervix endometriosis", "breast fibrocystic disease", "infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly"]
 description: "Hydroxyprogesterone Caproate: predicted new indication Endometriosis of uterus (evidence level L5). In the US: 8 FDA applications (0 active)"

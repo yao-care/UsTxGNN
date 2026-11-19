@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "OFATUMUMAB"
 predicted_indications: ["follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma", "Langerhans cell histiocytosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Ofatumumab: predicted new indication Follicular lymphoma (evidence level L2). In the US: 1 FDA application (1 active)"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CEFTAZIDIME"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "epiglottitis", "Ureaplasma urethritis", "gonococcal urethritis", "blood group incompatibility", "infectious otitis media", "Peptostreptococcus infectious disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Ceftazidime: predicted new indication polyclonal hyperviscosity syndrome (evidence level L5). In the US: 17 FDA applications (4 active)"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "FELBAMATE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Felbamate: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy (partial epilepsy, Lennox-Gastaut syndrome)"
 ---
 

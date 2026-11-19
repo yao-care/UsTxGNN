@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 732
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 monitor_inn: "FLUVOXAMINE"
 predicted_indications: ["paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Fluvoxamine: predicted new indication Paranoid personality disorder (evidence level L5). In the US: 27 FDA applications (13 active)"

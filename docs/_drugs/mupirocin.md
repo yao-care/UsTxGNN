@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "MUPIROCIN"
 predicted_indications: ["pleural empyema (disease)", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Mupirocin: predicted new indication Pleural empyema (evidence level L5). Approved use: Impetigo, bullous impetigo"
 ---
 

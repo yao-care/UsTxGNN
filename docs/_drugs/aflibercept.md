@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "AFLIBERCEPT"
 predicted_indications: ["esotropia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Aflibercept: predicted new indication Esotropia (evidence level L5). Approved use: Metastasis from malignant tumor of colon"
 ---
 

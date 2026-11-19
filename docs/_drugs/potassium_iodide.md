@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1070
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "POTASSIUM IODIDE"
 predicted_indications: ["nasal cavity disease"]
 description: "Potassium Iodide: predicted new indication Nasal cavity disease (evidence level L4). In the US: 6 FDA applications (3 active), plus 169 OTC monograph/unapproved NDC listings"

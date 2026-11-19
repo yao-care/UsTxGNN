@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Febuxostat: predicted new indication Hypouricemia, renal (evidence level L4). In the US: 16 FDA applications (13 active)"
 ---
 

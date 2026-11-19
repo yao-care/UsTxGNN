@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CARISOPRODOL"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Carisoprodol: predicted new indication insomnia (disease) (evidence level L5). In the US: 36 FDA applications (14 active)"
 ---
 

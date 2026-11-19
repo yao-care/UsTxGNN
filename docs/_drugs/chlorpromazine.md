@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CHLORPROMAZINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Chlorpromazine: predicted new indication retinal dystrophy with or without extraocular anomalies (evidence level L5). In the US: 84 FDA applications (28 active), plus 2 OTC monograph/unapproved NDC listings"
 ---
 

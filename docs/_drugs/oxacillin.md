@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "OXACILLIN"
 predicted_indications: ["epiglottitis", "laryngitis", "bacterial arthritis", "urinary tract infection (disease)"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Oxacillin: predicted new indication Epiglottitis (evidence level L5). In the US: 31 FDA applications (9 active)"
 ---
 

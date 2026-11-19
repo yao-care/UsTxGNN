@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1310
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 monitor_inn: "ZIPRASIDONE"
 predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
 description: "Ziprasidone: predicted new indication Trichotillomania (evidence level L5). In the US: 15 FDA applications (12 active)"

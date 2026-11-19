@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 870
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
 description: "Lorazepam: predicted new indication Trigeminal nerve neoplasm (evidence level L5). In the US: 73 FDA applications (21 active)"

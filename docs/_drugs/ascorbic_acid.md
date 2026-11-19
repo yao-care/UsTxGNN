@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ASCORBIC ACID"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "florid cemento-osseous dysplasia", "perinatal disease", "segmental odontomaxillary dysplasia", "disease by subcellular system affected"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Ascorbic Acid: predicted new indication non-syndromic esophageal malformation (evidence level L5). In the US: 23 FDA applications (12 active), plus 215 OTC monograph/unapproved NDC listings"
 ---
 

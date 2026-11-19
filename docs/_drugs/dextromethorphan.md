@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 599
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "DEXTROMETHORPHAN"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria"]
 description: "Dextromethorphan: predicted new indication Nasal cavity disease (evidence level L5). In the US: 42 FDA applications (33 active), plus 1754 OTC monograph/unapproved NDC listings"

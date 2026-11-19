@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "RANOLAZINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Ranolazine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). In the US: 29 FDA applications (19 active)"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "DOXERCALCIFEROL"
 predicted_indications: ["obsolete vitamin D deficiency"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Doxercalciferol: predicted new indication Obsolete vitamin D deficiency (evidence level L5). In the US: 18 FDA applications (6 active)"
 ---
 

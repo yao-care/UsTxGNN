@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "LACTULOSE"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Lactulose: predicted new indication acute urate nephropathy (evidence level L5). Approved use: Hepatic encephalopathy, hepatic coma…"
 ---
 

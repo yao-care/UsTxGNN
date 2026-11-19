@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ECALLANTIDE"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "Peyronie disease", "pancreatitis", "esophageal varices without bleeding", "esophageal varices with bleeding"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Ecallantide: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 

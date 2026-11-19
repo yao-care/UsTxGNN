@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "IMIGLUCERASE"
 predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Imiglucerase: predicted new indication Hurler syndrome (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 

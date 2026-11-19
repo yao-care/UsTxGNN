@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 730
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "FLUTICASONE FUROATE"
 predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis"]
 description: "Fluticasone Furoate: predicted new indication Atopic eczema (evidence level L5). In the US: 4 FDA applications (4 active)"

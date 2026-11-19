@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 901
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 monitor_inn: "MERCAPTOPURINE"
 predicted_indications: ["myeloid leukemia", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
 description: "Mercaptopurine: predicted new indication Myeloid leukemia (evidence level L3). In the US: 6 FDA applications (5 active)"

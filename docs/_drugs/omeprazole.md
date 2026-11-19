@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 993
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 monitor_inn: "OMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Omeprazole: predicted new indication Duodenal obstruction (evidence level L5). In the US: 62 FDA applications (45 active), plus 1 OTC monograph/unapproved NDC listing"

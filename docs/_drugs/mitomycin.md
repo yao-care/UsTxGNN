@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "MITOMYCIN"
 predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteoclastic giant cell tumor of pancreas", "pancreatic carcinoma with mixed differentiation", "mixed ductal-endocrine carcinoma of pancreas", "undifferentiated pancreatic carcinoma", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Mitomycin: predicted new indication Solid pseudopapillary carcinoma of pancreas (evidence level L5). In the US: 18 FDA applications (13 active)"
 ---
 

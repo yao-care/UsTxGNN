@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "BENZOYL PEROXIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "2-hydroxyethyl methacrylate sensitization", "acrodermatitis chronica atrophicans", "acne keloid"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Benzoyl Peroxide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). In the US: 41 FDA applications (34 active), plus 225 OTC monograph/unapproved NDC listings"
 ---
 

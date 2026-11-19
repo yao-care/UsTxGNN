@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BACITRACIN"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "infective urethral stricture", "post-infectious syndrome", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Bacitracin: predicted new indication punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 14 FDA applications (0 active), plus 36 OTC monograph/unapproved NDC listings"
 ---
 

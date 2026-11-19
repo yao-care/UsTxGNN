@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "MIRTAZAPINE"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Mirtazapine: predicted new indication Ohdo syndrome and variants (evidence level L5). In the US: 26 FDA applications (14 active)"
 ---
 

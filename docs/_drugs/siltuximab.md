@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "SILTUXIMAB"
 predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "Kaposi's sarcoma (disease)", "autosomal recessive familial Mediterranean fever", "aggressive systemic mastocytosis", "autosomal dominant familial periodic fever"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Siltuximab: predicted new indication Extracutaneous mastocytoma (evidence level L5). In the US: 1 FDA application (1 active)"
 ---
 

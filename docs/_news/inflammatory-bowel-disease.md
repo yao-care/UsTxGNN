@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 31 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 40 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-11-19
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>31 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>40 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,29 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (31)
+## Related News (40)
+
+### [Structural and regulatory evolution across the genus Hordeum](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PVVIzOWhoYWpjS1RRMzRib3JRakN1X21jbVFsaWdiOUh2Nm0zVlVtb3dMdy1DWVB5WjI5RFZSWXhrRk01TjlMNFRZdEZ6RllRV0laQk1zMUlmUWt1dm04?oc=5)
+
+2026-11-18
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PVVIzOWhoYWpjS1RRMzRib3JRakN1X21jbVFsaWdiOUh2Nm0zVlVtb3dMdy1DWVB5WjI5RFZSWXhrRk01TjlMNFRZdEZ6RllRV0laQk1zMUlmUWt1dm04?oc=5)
+
+---
 
 ### [A glucose-powered artificial neuroimmune axis for metabolic control](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzYXNQdjhBQ2dXY3JuckJ6Yk1zbjNjeGY5dmhoMnJjNDBRZXQ0ZHB6X29kcGUwd25GVmw2UVJsMXFQYXgzN3JCcVF2dkFhd2NCdWRHcWZ6Uk82cEtlamxv?oc=5)
 
 2026-11-18
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzYXNQdjhBQ2dXY3JuckJ6Yk1zbjNjeGY5dmhoMnJjNDBRZXQ0ZHB6X29kcGUwd25GVmw2UVJsMXFQYXgzN3JCcVF2dkFhd2NCdWRHcWZ6Uk82cEtlamxv?oc=5)
+
+---
+
+### [People Who Don’t Get Sad When It Gets Dark At 5 PM Usually Have 6 Specific Habits](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWlg2X0pRdG5yUnpXZ3VTNzZKa0FiSnFIcWJYb0JyVkZKT0tnZ08xRlBiVWNscHU4TXB3TV9FV0cxTklkY2lhVjA4dDRQUm1FSU53X1puODRWOHQ3V1NfMDFfTXBRaUdzbUtld3RJTVVSVWFIT1NMT1ZJSEVQVVpBY1RFUlNiSF9y?oc=5)
+
+2026-11-18
+
+Source: [YourTango](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWlg2X0pRdG5yUnpXZ3VTNzZKa0FiSnFIcWJYb0JyVkZKT0tnZ08xRlBiVWNscHU4TXB3TV9FV0cxTklkY2lhVjA4dDRQUm1FSU53X1puODRWOHQ3V1NfMDFfTXBRaUdzbUtld3RJTVVSVWFIT1NMT1ZJSEVQVVpBY1RFUlNiSF9y?oc=5)
 
 ---
 
@@ -53,6 +69,30 @@ Source: [Gadget Review](https://news.google.com/rss/articles/CBMingFBVV95cUxNZm9
 
 ---
 
+### [Patients running out of options as antibiotics stop working against common infections - UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDQ3RremV2NDg5TXFWTTJtUmRfUVQ3OVlHQm1NTm9vWHRSUFpGcDFRX0s3VHVHaTJPRENfdmhXMHBIc2J1Uy02VUZGWUNkN3FtQUlfSlBJaw?oc=5)
+
+2026-11-18
+
+Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDQ3RremV2NDg5TXFWTTJtUmRfUVQ3OVlHQm1NTm9vWHRSUFpGcDFRX0s3VHVHaTJPRENfdmhXMHBIc2J1Uy02VUZGWUNkN3FtQUlfSlBJaw?oc=5)
+
+---
+
+### [Ferroptosis in cancer cells triggers PGE2 production for tumour immune escape](https://news.google.com/rss/articles/CBMiX0FVX3lxTE53cHQ4QnNqZWFZV1ZPcEFNNVNiN0ZGanFkUUZRTDRMZTZoc0dKdHQtbXhkcldueUl1WFdaZnFPYVZ1ajNVRDdkakIzcFVuMmN4dU9DYWdnVVlFbXNtNHJF?oc=5)
+
+2026-11-18
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE53cHQ4QnNqZWFZV1ZPcEFNNVNiN0ZGanFkUUZRTDRMZTZoc0dKdHQtbXhkcldueUl1WFdaZnFPYVZ1ajNVRDdkakIzcFVuMmN4dU9DYWdnVVlFbXNtNHJF?oc=5)
+
+---
+
+### [Reported measles cases surpass 200 in Indiana - WANE 15](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHZLelQ2d1NacGlNd1FTUUV0b2JYMDJibkwzVUpjeEk3dXNaa05GZGNNLVBJRW1LNGl1clF2aVdodUU5RjMwaFNCWW5ZTmRiclo5dzdBb2JkMTFUX0tQSVkxOTJzN0VseXZITWVVNnhPcUNSWjczaWxjU2NSc1phazNYMktIaGRs0gGOAUFVX3lxTFA4SjViUnl3OUVDcmg5bTVKUXRIVlg1UWFRNDgtQi1UZEJtbXFndl8zeDBwREozREVoNXZWd1dZTlpTVDBVQjFYbGhicnJqa2JOTWFGeXZTWkl0MUw3Y2lyUTRIbFotYjlDbEdGZkRXR1I5czJnUWw3UENOWVRlS0ozNmhnbWRtcFpUS1BqV0E?oc=5)
+
+2026-11-18
+
+Source: [WANE 15](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHZLelQ2d1NacGlNd1FTUUV0b2JYMDJibkwzVUpjeEk3dXNaa05GZGNNLVBJRW1LNGl1clF2aVdodUU5RjMwaFNCWW5ZTmRiclo5dzdBb2JkMTFUX0tQSVkxOTJzN0VseXZITWVVNnhPcUNSWjczaWxjU2NSc1phazNYMktIaGRs0gGOAUFVX3lxTFA4SjViUnl3OUVDcmg5bTVKUXRIVlg1UWFRNDgtQi1UZEJtbXFndl8zeDBwREozREVoNXZWd1dZTlpTVDBVQjFYbGhicnJqa2JOTWFGeXZTWkl0MUw3Y2lyUTRIbFotYjlDbEdGZkRXR1I5czJnUWw3UENOWVRlS0ozNmhnbWRtcFpUS1BqV0E?oc=5)
+
+---
+
 ### [Scientists Found a Genius Way to Boost Your Brain's Overnight Cleaning System](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2JrWmpJUjhobUNTaWNRcUFfYTJaaEpTOG1zQTMzUGJfSHdGaDB3N0c5aEE3dlFEV0xlVVBwaW5IWVhfOGJraWJNeW9RSTEwak92SUZQV3ZMY1pTck9UOU5LNV9hdGpmeXBxSnpacHVYeDA0WUtWQlRHTXZ1eW9DMno1MV90ZHB5bVBnWG1jTVdaZGw0MzMwanRmTkxWSjAteW5aajY0RWs?oc=5)
 
 2026-11-18
@@ -61,11 +101,35 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2Jr
 
 ---
 
+### [NIH asks if Fauci secretly wrote paper that dismissed Covid lab leak theory](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGVxMW50Qmx3LXh5NkRMOEJQYmJzWjhRdk85ak9JeERTOS1YQ0hVSURnenJYOTJ0OVdRQ1ZXWDB3NXdJOURaSWwwZlJYRDVuaThtTlh5NUgxZkJ6R3JlUGg0WnphdGxkeGRoZExVYnRVNW1IbXVUNi1lOENyRkFRM2xEd3RqbjlHVlI5WGhIM0NaanVnZlphMWZ5cHVnWWs2MEdfUjZsVXQ?oc=5)
+
+2026-11-18
+
+Source: [Politico](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGVxMW50Qmx3LXh5NkRMOEJQYmJzWjhRdk85ak9JeERTOS1YQ0hVSURnenJYOTJ0OVdRQ1ZXWDB3NXdJOURaSWwwZlJYRDVuaThtTlh5NUgxZkJ6R3JlUGg0WnphdGxkeGRoZExVYnRVNW1IbXVUNi1lOENyRkFRM2xEd3RqbjlHVlI5WGhIM0NaanVnZlphMWZ5cHVnWWs2MEdfUjZsVXQ?oc=5)
+
+---
+
+### [MIT discovers that aging weakens the brain’s nighttime cleaning system](https://news.google.com/rss/articles/CBMib0FVX3lxTFA4TWIzanpQMkNUS3U3aHNDN2xQUGJzRXE3RnpILV82NUFGS3dzR19vU19WeTRjUFZ1VFhFSXRjNjFHZU1WOGdIWVdjVDJmdW0wdkFLaVc1SW9aYmtES1FKWk85Ry1kb1VwOUZlSUpUdw?oc=5)
+
+2026-11-18
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFA4TWIzanpQMkNUS3U3aHNDN2xQUGJzRXE3RnpILV82NUFGS3dzR19vU19WeTRjUFZ1VFhFSXRjNjFHZU1WOGdIWVdjVDJmdW0wdkFLaVc1SW9aYmtES1FKWk85Ry1kb1VwOUZlSUpUdw?oc=5)
+
+---
+
 ### [A little-known protein could be a powerful weapon against Alzheimer’s - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5CQ0JDS0RhVl91UFVvYkJJQ2ZUS1A2MnJrWnNDcnhnVEwxUGVjakowVDU2S2d6TkVDSXk5YVJqQUE4a0hTeU01VXZsU052UHFOTnkzNk5PaUJHV3Z4RGJnRVdMZGVuVEtEYUd2MU1FOA?oc=5)
 
 2026-11-18
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5CQ0JDS0RhVl91UFVvYkJJQ2ZUS1A2MnJrWnNDcnhnVEwxUGVjakowVDU2S2d6TkVDSXk5YVJqQUE4a0hTeU01VXZsU052UHFOTnkzNk5PaUJHV3Z4RGJnRVdMZGVuVEtEYUd2MU1FOA?oc=5)
+
+---
+
+### [Multiple short walks better than one long walk for controlling blood sugar - Medical Xpress](https://news.google.com/rss/articles/CBMiekFVX3lxTE1wYXN2RG5FWG14cUpJQ2Z2Nk1nMU9OeXNmc25TRTUzN0kzYUQ4QjBWcENUbjI4bWc5RDIzZjNnZzVqNG5WWTlDM1Y5d0tOUDR3eHo3eUpsaDdOMWpSX294a3ViV0JLZWVic25QOXRqTFdMd0JsTnZKUGdn?oc=5)
+
+2026-11-18
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiekFVX3lxTE1wYXN2RG5FWG14cUpJQ2Z2Nk1nMU9OeXNmc25TRTUzN0kzYUQ4QjBWcENUbjI4bWc5RDIzZjNnZzVqNG5WWTlDM1Y5d0tOUDR3eHo3eUpsaDdOMWpSX294a3ViV0JLZWVic25QOXRqTFdMd0JsTnZKUGdn?oc=5)
 
 ---
 
@@ -101,11 +165,11 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3FkalNk
 
 ---
 
-### [Ozempic and Mounjaro may have a surprising effect on your brain - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
+### [Ozempic and Mounjaro may have a surprising effect on your brain](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
 
 2026-11-17
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
 
 ---
 
@@ -154,6 +218,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RS
 2026-11-16
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2UxaHd2czZvdVN4NTB1U3E0M19zZXZ1RVFKaDhCOTh0TF9HX21sUjJZTFJoTURCaUZpZ2o3eDJYWHJCMDRQRDlUWWVBNklJak9qbDgtYUdiWWExcld2ZHRVWmY4UzllOXZteGhQalUyTFlBZXNrWW1IS0psMXV2M25IXzVxa1hJSVUzUUpnYXE?oc=5)
+
+---
+
+### [More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JUXp5ZldJZmtpZ2lpZTNXN0VpeEI2N1RHQU5HWUg3OHFSTzhuN3l5MTROZEZzZ1R4cXBOWmhTQTY1b2ZwSjJTVFp5bzk5eWt5dmxCb3gxMWVoT25oN3BISDFYcEM0U0U?oc=5)
+
+2026-11-16
+
+Source: [Health.com](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JUXp5ZldJZmtpZ2lpZTNXN0VpeEI2N1RHQU5HWUg3OHFSTzhuN3l5MTROZEZzZ1R4cXBOWmhTQTY1b2ZwSjJTVFp5bzk5eWt5dmxCb3gxMWVoT25oN3BISDFYcEM0U0U?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 34 articles, 1 related drugs."
+description: "Health news about cancer. 36 articles, 1 related drugs."
 permalink: /news/cancer/
 last_modified_at: 2026-11-19
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>34 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>36 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (34)
+## Related News (36)
+
+### [Ferroptosis in cancer cells triggers PGE2 production for tumour immune escape](https://news.google.com/rss/articles/CBMiX0FVX3lxTE53cHQ4QnNqZWFZV1ZPcEFNNVNiN0ZGanFkUUZRTDRMZTZoc0dKdHQtbXhkcldueUl1WFdaZnFPYVZ1ajNVRDdkakIzcFVuMmN4dU9DYWdnVVlFbXNtNHJF?oc=5)
+
+2026-11-18
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE53cHQ4QnNqZWFZV1ZPcEFNNVNiN0ZGanFkUUZRTDRMZTZoc0dKdHQtbXhkcldueUl1WFdaZnFPYVZ1ajNVRDdkakIzcFVuMmN4dU9DYWdnVVlFbXNtNHJF?oc=5)
+
+---
+
+### [Scans show Iowa dad is cancer-free after liver transplant from stranger](https://news.google.com/rss/articles/CBMipwFBVV95cUxNVTZRWWcwU1VEVHhScWhaYnRGSTF1NjlIZmVZazdpb3dITTQ2SVJiRHJ5bWpORGo5OHhMZ0RhRTVwSUJybF82dGhQR1dMWm5CQS00elY0V2MtRjlSTmR2QUN5bjN6OER6X2FyeHctTmxscHB3YTRmRjRtU2Y1a1g5b0RwYWxJbFYyYkQ2VndyYW05RnN4SE5YUTNMWVpZcFVJTGptUHpmTQ?oc=5)
+
+2026-11-18
+
+Source: [KCCI](https://news.google.com/rss/articles/CBMipwFBVV95cUxNVTZRWWcwU1VEVHhScWhaYnRGSTF1NjlIZmVZazdpb3dITTQ2SVJiRHJ5bWpORGo5OHhMZ0RhRTVwSUJybF82dGhQR1dMWm5CQS00elY0V2MtRjlSTmR2QUN5bjN6OER6X2FyeHctTmxscHB3YTRmRjRtU2Y1a1g5b0RwYWxJbFYyYkQ2VndyYW05RnN4SE5YUTNMWVpZcFVJTGptUHpmTQ?oc=5)
+
+---
 
 ### [I Never Felt a Lump. None of My Symptoms Suggested I Might Have Breast Cancer](https://news.google.com/rss/articles/CBMidEFVX3lxTE1KOEVxbGowZHNQbXhzbm1pUW9PMDNFUzZPcEZDWGpid0YtYTAwZjhOUklGOHRPU3ktVndvZFo3dDkxc1gtZG1xU3Z4REM5bE5DbXp5TzFtWWpFRFBKRnZOXzdjRjgyQ0djb0pvUy1hUHA0WEds?oc=5)
 
@@ -120,11 +136,11 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3FkalNk
 
 ---
 
-### [Ozempic and Mounjaro may have a surprising effect on your brain - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
+### [Ozempic and Mounjaro may have a surprising effect on your brain](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
 
 2026-11-17
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
 
 ---
 

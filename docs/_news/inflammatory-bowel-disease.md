@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 50 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 56 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-11-20
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>50 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>56 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,61 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (50)
+## Related News (56)
+
+### [Column | Just one minute of this activity may cut blood sugar spikes by 40 percent - The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlNBSFVmOHYwUjNGaUJUc1R5Ul9YUFZ4bTQtWXZZM2JScU9HbndhZmQ3QTIyU1BCT3BsOXEzOWtkWW9lZi1vQWxoZ1JxRHVab0hGdkJzRGdoeVhYVUlQZ000ekt2M3FycEJnelV0amZOUFNPSDNDdC1jUmMxVDlpWVlHV0N4UFRnSjdEY1djYUhncE16M3BOMm80TlFfdmVJU0JEVlBMeTJucm9FV1ZSQk9KY0NUa2FfMXRCalFxVQ?oc=5)
+
+2026-11-20
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlNBSFVmOHYwUjNGaUJUc1R5Ul9YUFZ4bTQtWXZZM2JScU9HbndhZmQ3QTIyU1BCT3BsOXEzOWtkWW9lZi1vQWxoZ1JxRHVab0hGdkJzRGdoeVhYVUlQZ000ekt2M3FycEJnelV0amZOUFNPSDNDdC1jUmMxVDlpWVlHV0N4UFRnSjdEY1djYUhncE16M3BOMm80TlFfdmVJU0JEVlBMeTJucm9FV1ZSQk9KY0NUa2FfMXRCalFxVQ?oc=5)
+
+---
+
+### [Sleeping nine or more hours in a day could be a warning sign for adults with this common condition - The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW90TlFPTlI1WWpRMnBoVlNXVk5yc1RzV3RfSC01RFd6QldZbUFHMEFNNzFvTE5VdHZ6eXBTVFhVaWVLYzMxVklPMmtyZjZ3WjE1YVlzY0o5WjlkSWRKXy11UW9JTmJ3c2Y2aFVyeGt3a0h2TFVCTXJMMXdmVDFaNDhoNWFGTGcwbWJwVlVQM3Y?oc=5)
+
+2026-11-20
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW90TlFPTlI1WWpRMnBoVlNXVk5yc1RzV3RfSC01RFd6QldZbUFHMEFNNzFvTE5VdHZ6eXBTVFhVaWVLYzMxVklPMmtyZjZ3WjE1YVlzY0o5WjlkSWRKXy11UW9JTmJ3c2Y2aFVyeGt3a0h2TFVCTXJMMXdmVDFaNDhoNWFGTGcwbWJwVlVQM3Y?oc=5)
+
+---
+
+### [Buckwheat vs. Oatmeal: Which Is a Better Breakfast for Blood Sugar? - Verywell Health](https://news.google.com/rss/articles/CBMifEFVX3lxTE84eExzT3UtMWZPMEVlNDhhM2huM29jaDNFNzNoSnA4T2dESWJta2lVNGxzbXBkbzNDbGlOTHdqcEprSVpHMndHS0JLaVR6Q011MTBmVVpyQlNmSXpxTS1JWVUwbm1DVkpWczZKZVh2akNQWl9KTF94QlZOV0U?oc=5)
+
+2026-11-20
+
+Source: [Verywell Health](https://news.google.com/rss/articles/CBMifEFVX3lxTE84eExzT3UtMWZPMEVlNDhhM2huM29jaDNFNzNoSnA4T2dESWJta2lVNGxzbXBkbzNDbGlOTHdqcEprSVpHMndHS0JLaVR6Q011MTBmVVpyQlNmSXpxTS1JWVUwbm1DVkpWczZKZVh2akNQWl9KTF94QlZOV0U?oc=5)
+
+---
+
+### [Keto diet slashes liver fat by 67% in just 4 months](https://news.google.com/rss/articles/CBMib0FVX3lxTE93R1I2ZjdEWnVzU3BNNlo5S3RVR2E3WTF5TlJyQXo5Y09yWWtuOGdWbW5meVVkT0hhb3lYZWhwQWwzSUUyWTJ4Z2NxcnQwZmN4QVhhWFFSX29xeTBpa0ZvNTMyZzJnZEF1YjJUbEk4QQ?oc=5)
+
+2026-11-20
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE93R1I2ZjdEWnVzU3BNNlo5S3RVR2E3WTF5TlJyQXo5Y09yWWtuOGdWbW5meVVkT0hhb3lYZWhwQWwzSUUyWTJ4Z2NxcnQwZmN4QVhhWFFSX29xeTBpa0ZvNTMyZzJnZEF1YjJUbEk4QQ?oc=5)
+
+---
 
 ### [Discovery points to new approach for treating diabetes—no insulin required - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxQWnJLM1VHMTI2blZqbmkxTmFobTFtbXBPY3JCZkxZLW43bnJxWGFOLXNjbmZuRkg5WlJPT2hMQmlLQjZ2a3pyVFllaDZDaUlhZHBGRjNQZmJ1RUhVMmszUGJqdExVaHJhcXJZZF9yQWxjUU9QOC1pN3RyaXhsMGRMeWp0ZFhPQzY1NzRiNjM5TWhYQQ?oc=5)
 
 2026-11-19
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxQWnJLM1VHMTI2blZqbmkxTmFobTFtbXBPY3JCZkxZLW43bnJxWGFOLXNjbmZuRkg5WlJPT2hMQmlLQjZ2a3pyVFllaDZDaUlhZHBGRjNQZmJ1RUhVMmszUGJqdExVaHJhcXJZZF9yQWxjUU9QOC1pN3RyaXhsMGRMeWp0ZFhPQzY1NzRiNjM5TWhYQQ?oc=5)
+
+---
+
+### [Exclusive: I got to eavesdrop on AI agents doing science. It was eye opening - Science | AAAS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUhLMDNxWDJCaFkxQk5lQnFMZGllS0NXVThFSkd5UUxZS3pQQVF6Rk52VERJS2tvS2xZbGF1ak9vYmlFUGZiMTd1aG5aZjE1UFlPY2R3cElhTzdVM3ozUW04MjdRek9vQk1zblhVYlhMY2x3c1lZZ2RkcUlDOHNFTlFuNElEVDYzeXdST3pSVVBLSE5oMmM0NVVkREo4cTRkTlFXYl9ueG5yZkhr?oc=5)
+
+2026-11-19
+
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUhLMDNxWDJCaFkxQk5lQnFMZGllS0NXVThFSkd5UUxZS3pQQVF6Rk52VERJS2tvS2xZbGF1ak9vYmlFUGZiMTd1aG5aZjE1UFlPY2R3cElhTzdVM3ozUW04MjdRek9vQk1zblhVYlhMY2x3c1lZZ2RkcUlDOHNFTlFuNElEVDYzeXdST3pSVVBLSE5oMmM0NVVkREo4cTRkTlFXYl9ueG5yZkhr?oc=5)
+
+---
+
+### [Balancing redox-mediated cytotoxicity and catalysis in natural product biosynthesis - Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE16RWg4MVZQSUM0NzVwZC1LVUlUZkc5dEF0eF80cTh4S0hxMVRiSnloOWdxQWQ1Yk03NWhRZGlSQnMxYk9fUnk3MWVlai1DZnlGanJEZlZ3aDhlTlp4SlVlLQ?oc=5)
+
+2026-11-19
+
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE16RWg4MVZQSUM0NzVwZC1LVUlUZkc5dEF0eF80cTh4S0hxMVRiSnloOWdxQWQ1Yk03NWhRZGlSQnMxYk9fUnk3MWVlai1DZnlGanJEZlZ3aDhlTlp4SlVlLQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "MI (myocardial infarction) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about MI (myocardial infarction). 157 articles, 9 related drugs."
+description: "Health news about MI (myocardial infarction). 165 articles, 9 related drugs."
 permalink: /news/myocardial-infarction/
 last_modified_at: 2026-11-20
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about MI (myocardial infarction)?">
-<strong>MI (myocardial infarction)</strong> currently has <strong>157 news articles</strong> and 9 related drugs.
+<strong>MI (myocardial infarction)</strong> currently has <strong>165 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,47 @@ This page brings together the latest health news about “MI” and lists the dr
 </ul>
 </div>
 
-## Related News (157)
+## Related News (165)
+
+### [Column | Just one minute of this activity may cut blood sugar spikes by 40 percent - The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlNBSFVmOHYwUjNGaUJUc1R5Ul9YUFZ4bTQtWXZZM2JScU9HbndhZmQ3QTIyU1BCT3BsOXEzOWtkWW9lZi1vQWxoZ1JxRHVab0hGdkJzRGdoeVhYVUlQZ000ekt2M3FycEJnelV0amZOUFNPSDNDdC1jUmMxVDlpWVlHV0N4UFRnSjdEY1djYUhncE16M3BOMm80TlFfdmVJU0JEVlBMeTJucm9FV1ZSQk9KY0NUa2FfMXRCalFxVQ?oc=5)
+
+2026-11-20
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlNBSFVmOHYwUjNGaUJUc1R5Ul9YUFZ4bTQtWXZZM2JScU9HbndhZmQ3QTIyU1BCT3BsOXEzOWtkWW9lZi1vQWxoZ1JxRHVab0hGdkJzRGdoeVhYVUlQZ000ekt2M3FycEJnelV0amZOUFNPSDNDdC1jUmMxVDlpWVlHV0N4UFRnSjdEY1djYUhncE16M3BOMm80TlFfdmVJU0JEVlBMeTJucm9FV1ZSQk9KY0NUa2FfMXRCalFxVQ?oc=5)
+
+---
+
+### [Vitamin D, fiber and flavor: how healthy are mushrooms? - The Guardian](https://news.google.com/rss/articles/CBMif0FVX3lxTE4xbXZyYjYzUms4VTJGUmJQbXJ4VE5SemhIUk9FYmdpV2tsVnNudjNaX3U0Z2xGNGNOTFlFdFF1YWpGVjdDejlNMEk3dTllNHpNRXp3QUo5NmZjNzRxWXhpN3RFVF9kZ2pZdER1bVFCZWw2aEk0LTBTZVNVbk1tVU0?oc=5)
+
+2026-11-20
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMif0FVX3lxTE4xbXZyYjYzUms4VTJGUmJQbXJ4VE5SemhIUk9FYmdpV2tsVnNudjNaX3U0Z2xGNGNOTFlFdFF1YWpGVjdDejlNMEk3dTllNHpNRXp3QUo5NmZjNzRxWXhpN3RFVF9kZ2pZdER1bVFCZWw2aEk0LTBTZVNVbk1tVU0?oc=5)
+
+---
+
+### [Dark energy may originate from known laws of particle physics](https://news.google.com/rss/articles/CBMid0FVX3lxTFA5alVoYl9fUlVyOG1FTDNlakRuYUs5SUI2WUVjcTI5X2JkUlN3d0dPTVpsVHJsRkp6UjlJNjNXRFFWUW92cXZXNVBteHNqaGZ5cE1MMUhlbWVPM0dlQ0tMdU43aWJmWjZqM2lYY0JZWk9YOUFkRXNv?oc=5)
+
+2026-11-20
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMid0FVX3lxTFA5alVoYl9fUlVyOG1FTDNlakRuYUs5SUI2WUVjcTI5X2JkUlN3d0dPTVpsVHJsRkp6UjlJNjNXRFFWUW92cXZXNVBteHNqaGZ5cE1MMUhlbWVPM0dlQ0tMdU43aWJmWjZqM2lYY0JZWk9YOUFkRXNv?oc=5)
+
+---
+
+### [Scientists are learning more about the rare Ebola virus in Congo outbreak](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSlFDZ0t2LWZfOElkUERrS0d5RVdaVERpejI2Q2lYdTNIY0RLSHVqQTM2UFJGVVlYNm9veHRzVHYxRmRyVjVCWlJhRnlXQTRpOF9MYVZ2d180X0tZM09sZnVUbzFJalZBbmVmRjJaUkJrbHpJUjI3Y0cwUl9zTlNuSnhsdHByUXNkOVRxV2RwaEkwYzVBeHJRMXdGY3VIdkJGdXZHOEVONmdWVmFOX2hQSkdFT2J1SjZaUXpsTnZ2UmlOUzdEOEhjOWFLX2U3UjBCb2ZjeA?oc=5)
+
+2026-11-20
+
+Source: [Reuters](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSlFDZ0t2LWZfOElkUERrS0d5RVdaVERpejI2Q2lYdTNIY0RLSHVqQTM2UFJGVVlYNm9veHRzVHYxRmRyVjVCWlJhRnlXQTRpOF9MYVZ2d180X0tZM09sZnVUbzFJalZBbmVmRjJaUkJrbHpJUjI3Y0cwUl9zTlNuSnhsdHByUXNkOVRxV2RwaEkwYzVBeHJRMXdGY3VIdkJGdXZHOEVONmdWVmFOX2hQSkdFT2J1SjZaUXpsTnZ2UmlOUzdEOEhjOWFLX2U3UjBCb2ZjeA?oc=5)
+
+---
+
+### [Humans Age Faster at 2 Sharp Peaks, Study of The Immune System Shows](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3B5bm9VbUUwV0xEVWJqRjNsMC1oTmp1M3ozUmhxbjRZNHg0WVE1bGhhVlNneFBBWWJqNjVHb215ZmtfSEl5SEZPeHVCcFJpSWljcmNLcXRmU0IzM3pXblNUYVBKdDBBSzZnMUpvbkRhQnFUUE9TWV82X19lYnZwWG9QRnF5eDdnYnFnU3FzRmt3eUllak9mejZPbEo?oc=5)
+
+2026-11-20
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3B5bm9VbUUwV0xEVWJqRjNsMC1oTmp1M3ozUmhxbjRZNHg0WVE1bGhhVlNneFBBWWJqNjVHb215ZmtfSEl5SEZPeHVCcFJpSWljcmNLcXRmU0IzM3pXblNUYVBKdDBBSzZnMUpvbkRhQnFUUE9TWV82X19lYnZwWG9QRnF5eDdnYnFnU3FzRmt3eUllak9mejZPbEo?oc=5)
+
+---
 
 ### [BepiColombo spacecraft arriving at Mercury after eight years](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFc1plT0pHdW9mdk5HMHFSUHpXS3FOWUI5WFBEcFNfbW94WkFDcWpITU5PUElRaEtESUFYcmZxRlp4dmZUdG1DaERmZEFjcVNCNXNvekNrbWlRR0k?oc=5)
 
@@ -77,6 +117,14 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMib0FVX3lxTFBVU21BYTFS
 2026-11-19
 
 Source: [The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5)
+
+---
+
+### [Balancing redox-mediated cytotoxicity and catalysis in natural product biosynthesis - Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE16RWg4MVZQSUM0NzVwZC1LVUlUZkc5dEF0eF80cTh4S0hxMVRiSnloOWdxQWQ1Yk03NWhRZGlSQnMxYk9fUnk3MWVlai1DZnlGanJEZlZ3aDhlTlp4SlVlLQ?oc=5)
+
+2026-11-19
+
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE16RWg4MVZQSUM0NzVwZC1LVUlUZkc5dEF0eF80cTh4S0hxMVRiSnloOWdxQWQ1Yk03NWhRZGlSQnMxYk9fUnk3MWVlai1DZnlGanJEZlZ3aDhlTlp4SlVlLQ?oc=5)
 
 ---
 
@@ -264,14 +312,6 @@ Source: [Science | AAAS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2
 
 ---
 
-### [Respiratory diseases kill 3 people in Washington County - The Portland Press Herald](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMEJTMGppSUZoc0Q2Nk1CSWVfMjE2dWRDbUNReFpQYU1XRW9McWNkZFpnenpHdThSYmVJT1F6UlljRTdXQWx5OFlqYV9STEZQSnl6eWw4RDc2T3dqUmxteWhpNkVUOUhGZGw5dWlrcU4ySWNrX1FZM1Azb1ZTR0dKeG5laXVsV3JKenVVSXdNZ3VzS19OVURjS3B3bDZQVzdv?oc=5)
-
-2026-11-18
-
-Source: [The Portland Press Herald](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMEJTMGppSUZoc0Q2Nk1CSWVfMjE2dWRDbUNReFpQYU1XRW9McWNkZFpnenpHdThSYmVJT1F6UlljRTdXQWx5OFlqYV9STEZQSnl6eWw4RDc2T3dqUmxteWhpNkVUOUhGZGw5dWlrcU4ySWNrX1FZM1Azb1ZTR0dKeG5laXVsV3JKenVVSXdNZ3VzS19OVURjS3B3bDZQVzdv?oc=5)
-
----
-
 ### [Stem cell–derived nanoparticles modulate immune cells and help delay type 1 diabetes in mice](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd29hb09aREdmOWdLQ3lVaFRSUlppTHpiT2x4Rjl3UjBuNXpjRFUxc2p5WUxxSDZtSFk5RkdCSERzdjJWMnJhRkQtTkY0RGNnLXQyM1FSMFpEQWNPcjJPWkJvSG1tSTdoUkx1UjJUSW9KMkFJNXJtQzFJcGMwTm5pZ1ZQUWhfSGxW?oc=5)
 
 2026-11-18
@@ -365,6 +405,14 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRnpydEZ
 2026-11-18
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRbUpXS3l5OVdSck15LVBydDJEQUpWaHhRbXFicnc5ZDhiQWdFVUZQUnJHNU9ZQ2g1NWJVeVFES3MtcFFLRjhycmlMR0NxeUtsVjJpcWRVdENpaFdVV2cw?oc=5)
+
+---
+
+### [Respiratory diseases kill 3 people in Washington County - The Portland Press Herald](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMEJTMGppSUZoc0Q2Nk1CSWVfMjE2dWRDbUNReFpQYU1XRW9McWNkZFpnenpHdThSYmVJT1F6UlljRTdXQWx5OFlqYV9STEZQSnl6eWw4RDc2T3dqUmxteWhpNkVUOUhGZGw5dWlrcU4ySWNrX1FZM1Azb1ZTR0dKeG5laXVsV3JKenVVSXdNZ3VzS19OVURjS3B3bDZQVzdv?oc=5)
+
+2026-11-18
+
+Source: [The Portland Press Herald](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMEJTMGppSUZoc0Q2Nk1CSWVfMjE2dWRDbUNReFpQYU1XRW9McWNkZFpnenpHdThSYmVJT1F6UlljRTdXQWx5OFlqYV9STEZQSnl6eWw4RDc2T3dqUmxteWhpNkVUOUhGZGw5dWlrcU4ySWNrX1FZM1Azb1ZTR0dKeG5laXVsV3JKenVVSXdNZ3VzS19OVURjS3B3bDZQVzdv?oc=5)
 
 ---
 
@@ -640,6 +688,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pOThEbWJnTU
 
 ---
 
+### [The root-to-tip revolution! An A-Z of how to eat plants in full – for extra flavour, fibre and savings - The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxQT05xUkctT0FBVDduUEhrNkpYUXY1ODh5Q0ZEV3hMSGxZaEYyZGpiRmYyOHdzZ1YwWDZlb1dEZ3N2MmtaMUdvVnN6bDExcFZpQzlpOXRFV2tCY3NRZXZwdjQyQWtYSGRFRUpGV1JYc3pGemctUUhqWlpfZWk2T3JNendYOHJITHNITzR5N0g5RVZ3VHVEd1VsWmU0OVYzRkpnTGhmZ1hkS0FHaXFFaFdHU1pvZTlMaVBkVDFobg?oc=5)
+
+2026-11-17
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxQT05xUkctT0FBVDduUEhrNkpYUXY1ODh5Q0ZEV3hMSGxZaEYyZGpiRmYyOHdzZ1YwWDZlb1dEZ3N2MmtaMUdvVnN6bDExcFZpQzlpOXRFV2tCY3NRZXZwdjQyQWtYSGRFRUpGV1JYc3pGemctUUhqWlpfZWk2T3JNendYOHJITHNITzR5N0g5RVZ3VHVEd1VsWmU0OVYzRkpnTGhmZ1hkS0FHaXFFaFdHU1pvZTlMaVBkVDFobg?oc=5)
+
+---
+
 ### [New E. coli case found in SLO after rare person-to-person transmission](https://news.google.com/rss/articles/CBMigAFBVV95cUxQSEFMVzRkSW1tX0pFelNmUzd0RG9zWV9uVWp6X3ZVRTJzcm0wVmt4MW1GMktBZk45OU9vNzhPTUw2TkVELXBKV05qM3d6cjU2ekRCTDVYRWM4M0NxM0l0eEhBM1JFVnhxNUVGX096R29mUVAzcE5JbkRZaHFOWUgwdg?oc=5)
 
 2026-11-17
@@ -693,6 +749,14 @@ Source: [FOX 8 News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGdCWF
 2026-11-16
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RSTmFwQ2NXYXhnV1ExZFZhOExLYkNXalRKeXh6TW9qRGRQa3VXSndfQW1wd2pXQ3czdUx6UUdoNHhsVmNDV0xZZ0tvd2k1OG5QS0twd0tXdjVpTzZ4ZkNFVnNaMXpLTEE0djBOQWRfMHhRRnZaVG9udG90YjBEWHl2RDBUVUZhLWVsM0l4Rk9XNDZEQ21aQUM4MklRZmpycDdTdkJHalBZamN1YzI5VDFjVTdSeUNObGhEZUR2U3lJY3E2cHc?oc=5)
+
+---
+
+### [Doctors are raising concerns about US babies born with measles - AP News](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSFM1anhXXzhKZlJuOU9wdWtZcGt5ZVVNclJ4am01NXJrTGJPeTRkZGlZZ252Zk9RWjVmTlRlQzZBVTJ5cmhKUG00TF9lWXp3N0xiNzVNUWZIRFVGRUtmNzNXZ0lfYVo5ZDM3OS00d1BuR3I4a1I5YlJEeGZVSTA0YUVSWXZ4WFFES0hQeFNYTGpmUGZuQk1rRXZjLWVhZmhCNzdDVDNn?oc=5)
+
+2026-11-16
+
+Source: [AP News](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSFM1anhXXzhKZlJuOU9wdWtZcGt5ZVVNclJ4am01NXJrTGJPeTRkZGlZZ252Zk9RWjVmTlRlQzZBVTJ5cmhKUG00TF9lWXp3N0xiNzVNUWZIRFVGRUtmNzNXZ0lfYVo5ZDM3OS00d1BuR3I4a1I5YlJEeGZVSTA0YUVSWXZ4WFFES0hQeFNYTGpmUGZuQk1rRXZjLWVhZmhCNzdDVDNn?oc=5)
 
 ---
 

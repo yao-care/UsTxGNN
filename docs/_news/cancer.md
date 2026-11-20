@@ -3,9 +3,9 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 36 articles, 1 related drugs."
+description: "Health news about cancer. 38 articles, 1 related drugs."
 permalink: /news/cancer/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # cancer News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>36 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>38 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (36)
+## Related News (38)
+
+### [Childhood stomach bug toxin is ‘leading explanation’ for rise in early-onset colorectal cancer: expert - New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDVFZlRneXUwaEROS3pwS3VQWmZJRkVRUVFLTklmbC14dlpUU3ZWTUtqOE1LNDczVFdiUExMVlR2d0Z6RDFrbHlNUXdPUERzQ2QxNXJmdnpkQUZxRVAyMklqVDdWOFRYS3dqRDhBN3I0VkRXbHotYVhadmQzZDkzQXFMaU1iYk9wMV9LQ2xPX3RFYU1mYldIbW9ZNHB1RzRrNkcwaA?oc=5)
+
+2026-11-19
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDVFZlRneXUwaEROS3pwS3VQWmZJRkVRUVFLTklmbC14dlpUU3ZWTUtqOE1LNDczVFdiUExMVlR2d0Z6RDFrbHlNUXdPUERzQ2QxNXJmdnpkQUZxRVAyMklqVDdWOFRYS3dqRDhBN3I0VkRXbHotYVhadmQzZDkzQXFMaU1iYk9wMV9LQ2xPX3RFYU1mYldIbW9ZNHB1RzRrNkcwaA?oc=5)
+
+---
+
+### [After a Breast Cancer Diagnosis at 30, Her Twin Sister ‘Dropped Everything’ and Moved 1,200 Miles to Help (Exclusive)](https://news.google.com/rss/articles/CBMijwFBVV95cUxPeFhYOE9EdWxaT04xd0V3MEdyVUs3dUJYMlJSbFpLNFY5Vzl0Q2ZvQ0pYcE1lZTVUUnNIZlFoMk50MUNnTnEyaTByQk9Pd3NpcjM0Rmxyc2lnaDJpS0RoQ0luU1FIUEtvTUVuLVBUZ3FNeWNiYWNKblA5TWQzLXZQOVEtYXBhNktoS3RZOEFLUQ?oc=5)
+
+2026-11-19
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMijwFBVV95cUxPeFhYOE9EdWxaT04xd0V3MEdyVUs3dUJYMlJSbFpLNFY5Vzl0Q2ZvQ0pYcE1lZTVUUnNIZlFoMk50MUNnTnEyaTByQk9Pd3NpcjM0Rmxyc2lnaDJpS0RoQ0luU1FIUEtvTUVuLVBUZ3FNeWNiYWNKblA5TWQzLXZQOVEtYXBhNktoS3RZOEFLUQ?oc=5)
+
+---
 
 ### [Ferroptosis in cancer cells triggers PGE2 production for tumour immune escape](https://news.google.com/rss/articles/CBMiX0FVX3lxTE53cHQ4QnNqZWFZV1ZPcEFNNVNiN0ZGanFkUUZRTDRMZTZoc0dKdHQtbXhkcldueUl1WFdaZnFPYVZ1ajNVRDdkakIzcFVuMmN4dU9DYWdnVVlFbXNtNHJF?oc=5)
 

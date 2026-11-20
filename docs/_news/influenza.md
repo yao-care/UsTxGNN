@@ -3,9 +3,9 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 25 articles, 2 related drugs."
+description: "Health news about flu (influenza). 28 articles, 2 related drugs."
 permalink: /news/influenza/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # flu (influenza) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>25 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>28 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,21 +31,45 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (25)
+## Related News (28)
+
+### [Why your joints may act up in the winter — and what can help - The Washington Post](https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGlSUEZzRTc1TTc3ZmF5NDVZb0tNTlE4QWd3a2pvVGhJaDYtblZwM1lkT1ZtdUtfV25SUk10Ri1HQ05wblpkTlVGMXBTajAtM09NbG1LYmVXd21pTUt2QWY3enJqNVZFeVl4SnJOZU5rRVpQM1BNWVZZcXotRS1TVVliV3ZkVkUyQU1NUDB6N2ZqeFRsTk1fNWdiVGZCR0Yw?oc=5)
+
+2026-11-19
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGlSUEZzRTc1TTc3ZmF5NDVZb0tNTlE4QWd3a2pvVGhJaDYtblZwM1lkT1ZtdUtfV25SUk10Ri1HQ05wblpkTlVGMXBTajAtM09NbG1LYmVXd21pTUt2QWY3enJqNVZFeVl4SnJOZU5rRVpQM1BNWVZZcXotRS1TVVliV3ZkVkUyQU1NUDB6N2ZqeFRsTk1fNWdiVGZCR0Yw?oc=5)
+
+---
+
+### [Dear Doctor: I can get COVID and flu shots on the same day, but does that mean I should?](https://news.google.com/rss/articles/CBMizAFBVV95cUxOcnpoWTlzZXJKQW5lX2hyR1FhU2ttS3hlMGZUZ054MVJ2WXdRRFFCNTlEYVhpS0doQVpRUGJ5V2Vsd1duWmZlTXRJd2l1aHE2bHhfTHhZMEE4VmpQc19uZDBxX1EySzNocy1LTjF6WkhteDZENVd3MjA5SU54TTVrRHVJRjdvdVZIT3RXNUlVSlFYM2Zta09fNWljNDVVVS1Nc2FwaDRLczFCaEhsNHJzMm43cTl3cmlEaHFkOUZqN3ZSLXlIS1RsSmxiY0nSAeABQVVfeXFMTmRTWUNiZTNXLVZOWTl2eHJKODdEX0ZkTWhrMGl2WFZoLVNia2o2U2VVbi1nUnVfVklSUzhrZUNoY25kMHVmcE1OaV9HV082QTc5NWFORjg1VFJfUGlrbzZ1YjZxQTlRRTktWFBkeEV2WDlkQ2F1dGJibzdfdFl4RXlETkdvUUd0aElGckJfcmVaemxrMmVqZVJVenU2QTlqY0xfQ3E4ZEVPb2NnRFpaSVZZcmk1eTRNNmkzUmJXOUxzeXYxV3NaNUdGOHh4RGVsNjlxZ3lPR0Jzekw5TUczc20?oc=5)
+
+2026-11-19
+
+Source: [OregonLive.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxOcnpoWTlzZXJKQW5lX2hyR1FhU2ttS3hlMGZUZ054MVJ2WXdRRFFCNTlEYVhpS0doQVpRUGJ5V2Vsd1duWmZlTXRJd2l1aHE2bHhfTHhZMEE4VmpQc19uZDBxX1EySzNocy1LTjF6WkhteDZENVd3MjA5SU54TTVrRHVJRjdvdVZIT3RXNUlVSlFYM2Zta09fNWljNDVVVS1Nc2FwaDRLczFCaEhsNHJzMm43cTl3cmlEaHFkOUZqN3ZSLXlIS1RsSmxiY0nSAeABQVVfeXFMTmRTWUNiZTNXLVZOWTl2eHJKODdEX0ZkTWhrMGl2WFZoLVNia2o2U2VVbi1nUnVfVklSUzhrZUNoY25kMHVmcE1OaV9HV082QTc5NWFORjg1VFJfUGlrbzZ1YjZxQTlRRTktWFBkeEV2WDlkQ2F1dGJibzdfdFl4RXlETkdvUUd0aElGckJfcmVaemxrMmVqZVJVenU2QTlqY0xfQ3E4ZEVPb2NnRFpaSVZZcmk1eTRNNmkzUmJXOUxzeXYxV3NaNUdGOHh4RGVsNjlxZ3lPR0Jzekw5TUczc20?oc=5)
+
+---
+
+### [L&I inspects two Central Washington dairies after worker dies from bird flu](https://news.google.com/rss/articles/CBMizgFBVV95cUxON2RIaHNyTm1YR1dMVjJYMEp2ZXlLRjR3WFJSUkljcXJHUzc1bDFhOXEwYlc2OXdsR0RQLWFJSUxFTks3WDNKSFVEX1lMTWdRQTllVzgtOE8xU1ZrdEduOHYwZFZidXFzLXZITjZHZkZmTHV0YldfS3BaVE5uRG91a1Zabnd1YXJyZC1xel95MHVoSlAwUXBhcm45RGxtUUh0TWlrZ05FZHNUSDFrS0xKUmRVUVJLak5kX08wcE05aE1SX3V5U3hGTE1zbTRwQQ?oc=5)
+
+2026-11-19
+
+Source: [KOMO](https://news.google.com/rss/articles/CBMizgFBVV95cUxON2RIaHNyTm1YR1dMVjJYMEp2ZXlLRjR3WFJSUkljcXJHUzc1bDFhOXEwYlc2OXdsR0RQLWFJSUxFTks3WDNKSFVEX1lMTWdRQTllVzgtOE8xU1ZrdEduOHYwZFZidXFzLXZITjZHZkZmTHV0YldfS3BaVE5uRG91a1Zabnd1YXJyZC1xel95MHVoSlAwUXBhcm45RGxtUUh0TWlrZ05FZHNUSDFrS0xKUmRVUVJLak5kX08wcE05aE1SX3V5U3hGTE1zbTRwQQ?oc=5)
+
+---
+
+### [Flu activity rises to high levels across 6 US states: CDC says - New York Post](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0doSXZPWHhuMmtGdDFOZEJBdWxmZ1pEZXNrS1hsMUpoSHpuYThZXzd2aVp1Y2Y1M2JxV20wWFdCaWU5ckIxWlhLS1k0ZU9iRExNbWFWbGFoUjR2cERpUnU2Nkp2MTNYbW1rQS1Od2lab3VrZFViQkpVbVU1QXZQRjk4Xy1UbjJUMFJMMHpmYjdheXp1OWZMaEU3Q1E2N3JM?oc=5)
+
+2026-11-19
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0doSXZPWHhuMmtGdDFOZEJBdWxmZ1pEZXNrS1hsMUpoSHpuYThZXzd2aVp1Y2Y1M2JxV20wWFdCaWU5ckIxWlhLS1k0ZU9iRExNbWFWbGFoUjR2cERpUnU2Nkp2MTNYbW1rQS1Od2lab3VrZFViQkpVbVU1QXZQRjk4Xy1UbjJUMFJMMHpmYjdheXp1OWZMaEU3Q1E2N3JM?oc=5)
+
+---
 
 ### [Flu activity rises across US as 6 states reach high levels, CDC data shows - Fox News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnNxbkRYSktvY3FDOHJKUXp0bXNDZHRfb2I5M3VLbm15YVZkbVR3Ny1KNkhrSWJ2c0NmZTk1MWJNODRwSkE3MWxuQVVOWUpPUTdnUEJxNU5oM3BEVkxULVlLNHYwUFVIWDIwcGRORjg5M19MNlZOSzNxNEtpVHpwbFlmNHJheFBjaW9iV0JBN1J4QmUzRnBjak1IUjhtQVZYSS1v0gGoAUFVX3lxTE9VaGJ0aDhKRkxId0E0Ul9jdmlvTFZhbDdWUWVLOTFDWHBIX055SHhHT0YxYVVweVEyMDhjRG14Ujl0LTd1ME05Sl9Oa0lXdGpNMHFnTjA5b1hyUHBmSU4tVzhlblFUUnNBd0FlVXFsS0pOT3VTcUYxVmllakNFazNIN1dlMFVFX2tLQ00tMVVDQ21yUkZCam5DZzJlVU5FZ0NRTXJvbVBDeg?oc=5)
 
 2026-11-18
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnNxbkRYSktvY3FDOHJKUXp0bXNDZHRfb2I5M3VLbm15YVZkbVR3Ny1KNkhrSWJ2c0NmZTk1MWJNODRwSkE3MWxuQVVOWUpPUTdnUEJxNU5oM3BEVkxULVlLNHYwUFVIWDIwcGRORjg5M19MNlZOSzNxNEtpVHpwbFlmNHJheFBjaW9iV0JBN1J4QmUzRnBjak1IUjhtQVZYSS1v0gGoAUFVX3lxTE9VaGJ0aDhKRkxId0E0Ul9jdmlvTFZhbDdWUWVLOTFDWHBIX055SHhHT0YxYVVweVEyMDhjRG14Ujl0LTd1ME05Sl9Oa0lXdGpNMHFnTjA5b1hyUHBmSU4tVzhlblFUUnNBd0FlVXFsS0pOT3VTcUYxVmllakNFazNIN1dlMFVFX2tLQ00tMVVDQ21yUkZCam5DZzJlVU5FZ0NRTXJvbVBDeg?oc=5)
-
----
-
-### [L&I inspects two Central Washington dairies after worker dies from bird flu](https://news.google.com/rss/articles/CBMizgFBVV95cUxON2RIaHNyTm1YR1dMVjJYMEp2ZXlLRjR3WFJSUkljcXJHUzc1bDFhOXEwYlc2OXdsR0RQLWFJSUxFTks3WDNKSFVEX1lMTWdRQTllVzgtOE8xU1ZrdEduOHYwZFZidXFzLXZITjZHZkZmTHV0YldfS3BaVE5uRG91a1Zabnd1YXJyZC1xel95MHVoSlAwUXBhcm45RGxtUUh0TWlrZ05FZHNUSDFrS0xKUmRVUVJLak5kX08wcE05aE1SX3V5U3hGTE1zbTRwQQ?oc=5)
-
-2026-11-18
-
-Source: [KOMO](https://news.google.com/rss/articles/CBMizgFBVV95cUxON2RIaHNyTm1YR1dMVjJYMEp2ZXlLRjR3WFJSUkljcXJHUzc1bDFhOXEwYlc2OXdsR0RQLWFJSUxFTks3WDNKSFVEX1lMTWdRQTllVzgtOE8xU1ZrdEduOHYwZFZidXFzLXZITjZHZkZmTHV0YldfS3BaVE5uRG91a1Zabnd1YXJyZC1xel95MHVoSlAwUXBhcm45RGxtUUh0TWlrZ05FZHNUSDFrS0xKUmRVUVJLak5kX08wcE05aE1SX3V5U3hGTE1zbTRwQQ?oc=5)
 
 ---
 

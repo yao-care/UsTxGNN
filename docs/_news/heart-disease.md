@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "CAD (heart disease) News"
+title: "CVD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 17 articles, 1 related drugs."
+description: "Health news about CVD (heart disease). 19 articles, 1 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
-# CAD (heart disease) News
+# CVD (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>17 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about CVD (heart disease)?">
+<strong>CVD (heart disease)</strong> currently has <strong>19 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “CAD” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “CVD” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (17)
+## Related News (19)
+
+### [This One Sleep Factor Matters More Than How Many Hours You Get, Study Suggests](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
+
+2026-11-19
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
+
+---
 
 ### [As many employers stop covering GLP-1s for weight loss, workers are left scrambling - NBC News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdkpuTHdBTlpRbUh3WGRKTVl6a1hFSjRkME1KRFpMbk1qVDNWQlg4RFVYSVhxQzc1RGc0NUF3LTZoMVY0QzVSVy1HeVVncDFGZ2F6cHVhdGRUU3FFQUdYZXFHc1ZCckNaMVBKZ1ZTZ25WZzNFZmtpZjVtQUtfN0dGX25NMWJUT1hPVk8wRFR0UFVMY1N6d2ZTTDJPQXAyOE8tSHN6NEZSS0NONHhP?oc=5)
 
@@ -69,6 +77,14 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1
 2026-11-17
 
 Source: [KY3](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEJYWWdTMk5JWnpWb29WZWxXNXpWV2ZiS0FId2RfTjd3SWp6b0pUUEVxdW95cXQtVWRKN2ZTOGRKZVJGUV9CUWloZE4wNWZ1a3NyekgwcGVKQmRpZ2dCVTFWeDFieWxyRUNRRmZCMWpfbUJZcm5uWkU3aU5Yd3FreV9ZQ01TWExXR3FKRzdkdlVyMV9DTVNVYnVldHFybmpiOFhpNUNnc9IBuwFBVV95cUxOX2p3RjhzSjduZ00wX1JyWS1fN3VXaHlOQ3ExQzI0ZDJLLVhUUFBzZF9JSHZSb1U4UEd0YzN0OUVFTGcyeTF3X3l1WDhVa25Lend1OXJuTUhOdWxiLWlOYTJPeDZlMjQzS2dUc2M0UmRpdk5kWFJzX3VMTmkwRmhfRkdVcmJMX2NFR0EzQ2lSenZvWXZHa2JaQlZDemVxQ2RTcktLNmlHanNlSjFLVk00dzY2enNqM1JLRWdV?oc=5)
+
+---
+
+### [Generational gains in cognitive capacity and dementia incidence rates in Western countries](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nNjFvMzFNdFB5c1hqbjNjWVhuUnY1YzVndXhtNm5OZmtJQkpKZ1dPYlJrN1lNYms1OGNFUE5DcHNvcThaaGNKamU3cG5obGhKVHdYa1NoRk1aQ3Jrei1Z?oc=5)
+
+2026-11-17
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nNjFvMzFNdFB5c1hqbjNjWVhuUnY1YzVndXhtNm5OZmtJQkpKZ1dPYlJrN1lNYms1OGNFUE5DcHNvcThaaGNKamU3cG5obGhKVHdYa1NoRk1aQ3Jrei1Z?oc=5)
 
 ---
 

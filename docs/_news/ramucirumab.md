@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ramucirumab. 10 predicted indications."
 permalink: /news/ramucirumab/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Ramucirumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>36 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>38 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (36)
+## Related News (38)
+
+### [Childhood stomach bug toxin is ‘leading explanation’ for rise in early-onset colorectal cancer: expert - New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDVFZlRneXUwaEROS3pwS3VQWmZJRkVRUVFLTklmbC14dlpUU3ZWTUtqOE1LNDczVFdiUExMVlR2d0Z6RDFrbHlNUXdPUERzQ2QxNXJmdnpkQUZxRVAyMklqVDdWOFRYS3dqRDhBN3I0VkRXbHotYVhadmQzZDkzQXFMaU1iYk9wMV9LQ2xPX3RFYU1mYldIbW9ZNHB1RzRrNkcwaA?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDVFZlRneXUwaEROS3pwS3VQWmZJRkVRUVFLTklmbC14dlpUU3ZWTUtqOE1LNDczVFdiUExMVlR2d0Z6RDFrbHlNUXdPUERzQ2QxNXJmdnpkQUZxRVAyMklqVDdWOFRYS3dqRDhBN3I0VkRXbHotYVhadmQzZDkzQXFMaU1iYk9wMV9LQ2xPX3RFYU1mYldIbW9ZNHB1RzRrNkcwaA?oc=5)
+
+---
+
+### [After a Breast Cancer Diagnosis at 30, Her Twin Sister ‘Dropped Everything’ and Moved 1,200 Miles to Help (Exclusive)](https://news.google.com/rss/articles/CBMijwFBVV95cUxPeFhYOE9EdWxaT04xd0V3MEdyVUs3dUJYMlJSbFpLNFY5Vzl0Q2ZvQ0pYcE1lZTVUUnNIZlFoMk50MUNnTnEyaTByQk9Pd3NpcjM0Rmxyc2lnaDJpS0RoQ0luU1FIUEtvTUVuLVBUZ3FNeWNiYWNKblA5TWQzLXZQOVEtYXBhNktoS3RZOEFLUQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMijwFBVV95cUxPeFhYOE9EdWxaT04xd0V3MEdyVUs3dUJYMlJSbFpLNFY5Vzl0Q2ZvQ0pYcE1lZTVUUnNIZlFoMk50MUNnTnEyaTByQk9Pd3NpcjM0Rmxyc2lnaDJpS0RoQ0luU1FIUEtvTUVuLVBUZ3FNeWNiYWNKblA5TWQzLXZQOVEtYXBhNktoS3RZOEFLUQ?oc=5)
+
+---
 
 ### [Ferroptosis in cancer cells triggers PGE2 production for tumour immune escape](https://news.google.com/rss/articles/CBMiX0FVX3lxTE53cHQ4QnNqZWFZV1ZPcEFNNVNiN0ZGanFkUUZRTDRMZTZoc0dKdHQtbXhkcldueUl1WFdaZnFPYVZ1ajNVRDdkakIzcFVuMmN4dU9DYWdnVVlFbXNtNHJF?oc=5)
 
@@ -230,7 +246,7 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMitgFBVV95cU
 
 ### [The link between microplastics and one of the deadliest cancers, and what to do - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXJSd0VoUmR3RDRrdDRhTHpJRGNIZzQzZnZfb0NQb1Z0eEFKNWhsRnV0VU5kVUZBb0lLdXNwb1FWV0JBa1pVM09vVXJnZVRtckZKZEhSdXdhd1ZoSXlYQms1R3BTcV84czdEWl9ubEoxLUpRdFh4b1ozeU1LQkozQWRfXzQyWklyQnY3ZGhaQ05LcXdhQmZfdDd3LXdGVFljTmxlTElQV3hOT1Va?oc=5)
 
-2026-11-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
+2026-11-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">OA</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXJSd0VoUmR3RDRrdDRhTHpJRGNIZzQzZnZfb0NQb1Z0eEFKNWhsRnV0VU5kVUZBb0lLdXNwb1FWV0JBa1pVM09vVXJnZVRtckZKZEhSdXdhd1ZoSXlYQms1R3BTcV84czdEWl9ubEoxLUpRdFh4b1ozeU1LQkozQWRfXzQyWklyQnY3ZGhaQ05LcXdhQmZfdDd3LXdGVFljTmxlTElQV3hOT1Va?oc=5)
 

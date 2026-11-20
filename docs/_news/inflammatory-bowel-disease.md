@@ -3,9 +3,9 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 40 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 47 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # UC (inflammatory bowel disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>40 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>47 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,47 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (40)
+## Related News (47)
+
+### [A neural code for generative speech production in human Wernicke’s area - Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JLUZZcVR4dDlrT0JnaXBVNndVdExGV3NaUFBhN0hYWFJDX2xMaHJpLVVCeEg0ZW9JeW90OFBsc1A2MHZlWU1HQll4TmtrZG41MzAySFlBc1JwSUpOanBkMQ?oc=5)
+
+2026-11-19
+
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JLUZZcVR4dDlrT0JnaXBVNndVdExGV3NaUFBhN0hYWFJDX2xMaHJpLVVCeEg0ZW9JeW90OFBsc1A2MHZlWU1HQll4TmtrZG41MzAySFlBc1JwSUpOanBkMQ?oc=5)
+
+---
+
+### [Childhood stomach bug toxin is ‘leading explanation’ for rise in early-onset colorectal cancer: expert - New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDVFZlRneXUwaEROS3pwS3VQWmZJRkVRUVFLTklmbC14dlpUU3ZWTUtqOE1LNDczVFdiUExMVlR2d0Z6RDFrbHlNUXdPUERzQ2QxNXJmdnpkQUZxRVAyMklqVDdWOFRYS3dqRDhBN3I0VkRXbHotYVhadmQzZDkzQXFMaU1iYk9wMV9LQ2xPX3RFYU1mYldIbW9ZNHB1RzRrNkcwaA?oc=5)
+
+2026-11-19
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDVFZlRneXUwaEROS3pwS3VQWmZJRkVRUVFLTklmbC14dlpUU3ZWTUtqOE1LNDczVFdiUExMVlR2d0Z6RDFrbHlNUXdPUERzQ2QxNXJmdnpkQUZxRVAyMklqVDdWOFRYS3dqRDhBN3I0VkRXbHotYVhadmQzZDkzQXFMaU1iYk9wMV9LQ2xPX3RFYU1mYldIbW9ZNHB1RzRrNkcwaA?oc=5)
+
+---
+
+### [This One Sleep Factor Matters More Than How Many Hours You Get, Study Suggests](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
+
+2026-11-19
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
+
+---
+
+### [A Study of 50,000 Children Reveals the Real Impact of Daily Iron Pills](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVZnajVhdGRKd1VRQlYzaWhzUUt0TmVNa1ByRjN4N3ZMVmVuT2w1ejdaZzZ3ejFiVUZfeDg1VDFHZVJ4Z1J0TmlhS190MnUtSG93XzhTeWh1MENpQ0prWVNWQ1UxNmgxNC1FemFSa2NycVpLMHg0b19pYWtja2huRjdtU3hXRnp2M3RMVVhBblJScExIbHJMNEREdw?oc=5)
+
+2026-11-19
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVZnajVhdGRKd1VRQlYzaWhzUUt0TmVNa1ByRjN4N3ZMVmVuT2w1ejdaZzZ3ejFiVUZfeDg1VDFHZVJ4Z1J0TmlhS190MnUtSG93XzhTeWh1MENpQ0prWVNWQ1UxNmgxNC1FemFSa2NycVpLMHg0b19pYWtja2huRjdtU3hXRnp2M3RMVVhBblJScExIbHJMNEREdw?oc=5)
+
+---
+
+### [Flu activity rises to high levels across 6 US states: CDC says - New York Post](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0doSXZPWHhuMmtGdDFOZEJBdWxmZ1pEZXNrS1hsMUpoSHpuYThZXzd2aVp1Y2Y1M2JxV20wWFdCaWU5ckIxWlhLS1k0ZU9iRExNbWFWbGFoUjR2cERpUnU2Nkp2MTNYbW1rQS1Od2lab3VrZFViQkpVbVU1QXZQRjk4Xy1UbjJUMFJMMHpmYjdheXp1OWZMaEU3Q1E2N3JM?oc=5)
+
+2026-11-19
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0doSXZPWHhuMmtGdDFOZEJBdWxmZ1pEZXNrS1hsMUpoSHpuYThZXzd2aVp1Y2Y1M2JxV20wWFdCaWU5ckIxWlhLS1k0ZU9iRExNbWFWbGFoUjR2cERpUnU2Nkp2MTNYbW1rQS1Od2lab3VrZFViQkpVbVU1QXZQRjk4Xy1UbjJUMFJMMHpmYjdheXp1OWZMaEU3Q1E2N3JM?oc=5)
+
+---
 
 ### [Structural and regulatory evolution across the genus Hordeum](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PVVIzOWhoYWpjS1RRMzRib3JRakN1X21jbVFsaWdiOUh2Nm0zVlVtb3dMdy1DWVB5WjI5RFZSWXhrRk01TjlMNFRZdEZ6RllRV0laQk1zMUlmUWt1dm04?oc=5)
 
@@ -50,6 +90,22 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PVVIzOWhoYW
 2026-11-18
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzYXNQdjhBQ2dXY3JuckJ6Yk1zbjNjeGY5dmhoMnJjNDBRZXQ0ZHB6X29kcGUwd25GVmw2UVJsMXFQYXgzN3JCcVF2dkFhd2NCdWRHcWZ6Uk82cEtlamxv?oc=5)
+
+---
+
+### [NIH director calls for new probe of controversial COVID-19 origin paper - Science | AAAS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQa25Fd0hGYU1xUVpkTXhZQjB5aVhiSWJ4MkpxVUhaSFVuS1FVd3BGNXpHRkgxNTNCazdjQzRmUGs3ekJYcFo5NERtVHVmamxrMlhWcUliLU93ZGRDOHlzSDF3RDhLT05uNy1xbFZFQnc3OVd2LTBhT0dsdVFXRU91NHJnVE1Yc3dDVldMcE5ZQzNoUUJGdGxBUU9rb1VOUFRocDRpN1p1SQ?oc=5)
+
+2026-11-18
+
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQa25Fd0hGYU1xUVpkTXhZQjB5aVhiSWJ4MkpxVUhaSFVuS1FVd3BGNXpHRkgxNTNCazdjQzRmUGs3ekJYcFo5NERtVHVmamxrMlhWcUliLU93ZGRDOHlzSDF3RDhLT05uNy1xbFZFQnc3OVd2LTBhT0dsdVFXRU91NHJnVE1Yc3dDVldMcE5ZQzNoUUJGdGxBUU9rb1VOUFRocDRpN1p1SQ?oc=5)
+
+---
+
+### [Duck-Billed Dinosaur’s Beak was as Complex as Bird’s](https://news.google.com/rss/articles/CBMie0FVX3lxTE1QN2JPNnpib1pwQXFodmt2SE9QWkJBcU9zSEUzODBHWWt2NmZRM21HMGtUalpBVVU4VjQwRm9wX2VDUm1MRjF3WmlhdVlYYkRmUDNJUFFCcTdHcHd1YW9qQ2Q2eV83M3pNSC1FS2Q1cElkY01adnhhUUZiYw?oc=5)
+
+2026-11-18
+
+Source: [Sci.News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1QN2JPNnpib1pwQXFodmt2SE9QWkJBcU9zSEUzODBHWWt2NmZRM21HMGtUalpBVVU4VjQwRm9wX2VDUm1MRjF3WmlhdVlYYkRmUDNJUFFCcTdHcHd1YW9qQ2Q2eV83M3pNSC1FS2Q1cElkY01adnhhUUZiYw?oc=5)
 
 ---
 
@@ -82,6 +138,14 @@ Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDQ3RremV2N
 2026-11-18
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE53cHQ4QnNqZWFZV1ZPcEFNNVNiN0ZGanFkUUZRTDRMZTZoc0dKdHQtbXhkcldueUl1WFdaZnFPYVZ1ajNVRDdkakIzcFVuMmN4dU9DYWdnVVlFbXNtNHJF?oc=5)
+
+---
+
+### [How electrons find their way to diamond's quantum defects](https://news.google.com/rss/articles/CBMid0FVX3lxTE1wTG82NVdpX2hQaFNTR0pDbU1nVHE5MjBGUjRLU3cxMXNaN194bkE5M0w3QWotRzJBYlg2WUc2c1dDUE5VNlFLeXNDQmVuMkxwbGcxLUN5OUhyMFcxRWlmODdSdDVHMnNOZTY0ekFCb3U0NkxTYTQw?oc=5)
+
+2026-11-18
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMid0FVX3lxTE1wTG82NVdpX2hQaFNTR0pDbU1nVHE5MjBGUjRLU3cxMXNaN194bkE5M0w3QWotRzJBYlg2WUc2c1dDUE5VNlFLeXNDQmVuMkxwbGcxLUN5OUhyMFcxRWlmODdSdDVHMnNOZTY0ekFCb3U0NkxTYTQw?oc=5)
 
 ---
 
@@ -170,14 +234,6 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3FkalNk
 2026-11-17
 
 Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtwVHctQVJpQklMdEp2QWVyQTIwX2NuX3UyOTRXa1QzR2tLMlgtb2plaTNhNmUyNUhodzFadkcxZnZ4ZkVxby1ZUk1aekQ0NGlTM0ZZcnd2Z1p6ZlJtWTdlaHpULTZxUkNvVnJaVQ?oc=5)
-
----
-
-### [How Much Does My Fitness Decline After a Break From Exercise? - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTFBrcjNkdTc0R2JzVVZhQVlnTVYtaTcxVmRuYmMxMERVZ0J3NFBiMnM5dkdLUTVWRzdxMUJrN1d6ZDFSZUdCWGh6WWlKZUZqdGtXTkY2aWFMYmlJeTU2a0lKeU9tMks4ZWl4ZnFtWVJMaVZjZFFhVnh1dkUwOGI?oc=5)
-
-2026-11-17
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTFBrcjNkdTc0R2JzVVZhQVlnTVYtaTcxVmRuYmMxMERVZ0J3NFBiMnM5dkdLUTVWRzdxMUJrN1d6ZDFSZUdCWGh6WWlKZUZqdGtXTkY2aWFMYmlJeTU2a0lKeU9tMks4ZWl4ZnFtWVJMaVZjZFFhVnh1dkUwOGI?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 513
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Ceritinib: predicted new indication fibromatosis, gingival (evidence level L5). Approved use: Non-small cell lung cancer (NSCLC)"
 monitor_inn: "CERITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "junctional epidermolysis bullosa"]
@@ -56,7 +56,7 @@ but **no clinical trials and no publications** specific to this indication were 
 
 ## Why is This Prediction Reasonable?
 
-Ceritinib inhibits ALK, ROS1 and IGF-1R. Its efficacy in ALK-rearranged NSCLC is well established, including a Phase 3 trial of first-line ceritinib versus platinum chemotherapy (ASCEND-4). The data compiled for this report do not include a detailed mechanism-of-action entry, so the mechanistic discussion relies on the known targets above.
+Ceritinib inhibits ALK, ROS1 and IGF-1R. Its efficacy in ALK-rearranged NSCLC is well established, including a Phase 3 trial of first-line ceritinib versus platinum chemotherapy (ASCEND-4). According to the Mechanism of Action section of the FDA-approved prescribing information for ceritinib: "Ceritinib is a kinase inhibitor. Targets of ceritinib inhibition identified in either biochemical or cellular assays at clinically relevant concentrations include ALK, insulin-like growth factor 1 receptor (IGF-1R), insulin receptor (InsR), and ROS1." ([DailyMed: Zykadia (ceritinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fff5d805-4ffd-4e8e-8e63-6f129697563e), label version 2026-10-28; accessed 2026-11-20.) The mechanistic discussion relies on the known targets above.
 
 No mechanistic link has been identified between these targets and gingival fibromatosis, a condition of gingival tissue overgrowth. A lung cancer drug acting on ALK-driven tumors has no obvious basis for treating it. The very high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It has no trial or literature support and should be treated with caution.
 
@@ -116,11 +116,12 @@ The prediction is supported only by a model score. The evidence level is L5.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "No clinical trials or literature address gingival fibromatosis, no mechanistic link to ceritinib's targets is known, and the only US license" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-20 | "The data compiled for this report do not include a detailed mechanism-of-action entry, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zykadia (ceritinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fff5d805-4ffd-4e8e-8e63-6f129697563e) |
 
 <!-- review:end log -->
 

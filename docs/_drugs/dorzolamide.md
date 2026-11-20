@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 623
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 monitor_inn: "DORZOLAMIDE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
 description: "Dorzolamide: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). In the US: 37 FDA applications (28 active)"
@@ -54,7 +54,7 @@ Dorzolamide is a topical carbonic anhydrase inhibitor, originally used to lower 
 
 ## Why is This Prediction Reasonable?
 
-Dorzolamide inhibits carbonic anhydrase II in the ciliary body of the eye. This reduces aqueous humor secretion and lowers intraocular pressure (IOP). The data compiled for this report also show that it binds other carbonic anhydrase isoforms (CA1, CA7, CA12 and CA14). Detailed mechanism-of-action data are not otherwise available.
+Dorzolamide inhibits carbonic anhydrase II in the ciliary body of the eye. This reduces aqueous humor secretion and lowers intraocular pressure (IOP). The data compiled for this report also show that it binds other carbonic anhydrase isoforms (CA1, CA7, CA12 and CA14). According to the Mechanism of Action section of the FDA-approved prescribing information for dorzolamide: "Carbonic anhydrase (CA) is an enzyme found in many tissues of the body including the eye. It catalyzes the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid. […] Dorzolamide hydrochloride ophthalmic solution contains dorzolamide hydrochloride, an inhibitor of human carbonic anhydrase II." ([DailyMed: Dorzolamide Hydrochloride Ophthalmic Solution (dorzolamide hydrochloride) prescribing information, Micro Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4698e4e1-c5f6-4db1-9328-74464a85afea), label version 2026-11-14; accessed 2026-11-20.)
 
 Hereditary glaucoma, like open-angle glaucoma, is driven by elevated IOP. Lowering aqueous humor production is therefore mechanistically plausible. This is the same pharmacological effect as the original indication, not a new mechanism.
 
@@ -98,6 +98,19 @@ Separately, the open-angle glaucoma predictions have much stronger evidence (L1:
 - Other dorzolamide products and combinations (e.g., dorzolamide/timolol) should also be checked.
 - Package insert warnings and contraindications, including sulfonamide hypersensitivity.
 - Detailed mechanism-of-action data to strengthen the mechanistic-link analysis.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-20 | "Detailed mechanism-of-action data are not otherwise available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dorzolamide Hydrochloride Ophthalmic Solution (dorzolamide hydrochloride) prescribing information, Micro Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4698e4e1-c5f6-4db1-9328-74464a85afea) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 933
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "MINOXIDIL"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with chronic hemolytic anemia"]
 description: "Minoxidil: predicted new indication Hypotrichosis simplex of the scalp (evidence level L4). In the US: 38 FDA applications (23 active), plus 175 OTC monograph/unapproved NDC listings"
@@ -56,7 +56,7 @@ Currently **no clinical trials** are registered, and support comes from **3 publ
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for minoxidil is not recorded in the data compiled for this report. From the published literature, minoxidil opens ATP-sensitive potassium channels. Its active metabolite, minoxidil sulfate, is thought to prolong the anagen (growth) phase of the hair cycle and to promote follicular vasodilation and proliferation.
+ChEMBL (EMBL-EBI) records the mechanism of action of minoxidil as: Sulfonylurea receptor 2, Kir6.2 opener ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; accessed 2026-11-20.) From the published literature, minoxidil opens ATP-sensitive potassium channels. Its active metabolite, minoxidil sulfate, is thought to prolong the anagen (growth) phase of the hair cycle and to promote follicular vasodilation and proliferation.
 
 Hereditary hypotrichosis simplex of the scalp is a rare, genetically determined disorder (linked to variants in the CDSN gene in one reported family) in which hair density and length are reduced. Because minoxidil acts directly on hair follicle growth, a mechanistic link to this condition is plausible.
 
@@ -118,11 +118,12 @@ The model score is very high, but the evidence level is L4: only case reports, a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-12 | Removed: "All 10 are recorded as valid" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-20 | "Detailed mechanism of action data for minoxidil is not recorded in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802) |
 
 <!-- review:end log -->
 

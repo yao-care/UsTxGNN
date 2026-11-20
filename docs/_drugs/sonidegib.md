@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1174
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Sonidegib: predicted new indication Medulloblastoma with extensive nodularity (evidence level L5). Approved use: Basal cell carcinoma (skin carcinoma)"
 monitor_inn: "SONIDEGIB"
 predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma pigmentosum", "annular epidermolytic ichthyosis", "epidermolysis bullosa simplex with mottled pigmentation", "trichothiodystrophy photosensitive", "cutaneous adenocystic carcinoma", "benign neoplasm of sweat gland", "eccrine carcinoma", "obsolete cataract, microcephaly, failure to thrive, kyphoscoliosis syndrome"]
@@ -60,7 +60,7 @@ The prediction is biologically plausible but remains purely computational.
 
 ## Why is This Prediction Reasonable?
 
-Sonidegib is a Smoothened (SMO) inhibitor. SMO is a key signal transducer of the Hedgehog pathway, and sonidegib suppresses aberrant Hedgehog signaling, the main driver of basal cell carcinoma. The data compiled for this report do not include a formal mechanism-of-action entry, so this description comes from the mechanistic analysis of the prediction.
+Sonidegib is a Smoothened (SMO) inhibitor. SMO is a key signal transducer of the Hedgehog pathway, and sonidegib suppresses aberrant Hedgehog signaling, the main driver of basal cell carcinoma. This description comes from the mechanistic analysis of the prediction. According to the Mechanism of Action section of the FDA-approved prescribing information for sonidegib: "Sonidegib is an inhibitor of the Hh pathway. Sonidegib binds to and inhibits Smoothened, a transmembrane protein involved in Hh signal transduction." ([DailyMed: Odomzo (sonidegib) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=028312dc-d155-4fd5-8abd-6bb9f011d3cc), label version 2024-12-31; accessed 2026-11-20.)
 
 Medulloblastoma, particularly the SHH subgroup and the nodular/desmoplastic variant, is also driven by Hedgehog signaling. This shared pathway makes the TxGNN prediction biologically reasonable.
 
@@ -157,13 +157,14 @@ The prediction is mechanistically plausible because medulloblastoma is Hedgehog-
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only US authorization is cancelled, so product availability would need to be verified before any development work" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-10-31 | Removed: "Verification of current product availability, since the only US NDA is cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "he US authorization is cancelled, and t" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-20 | "The data compiled for this report do not include a formal mechanism-of-action entry, so this description comes from the mechanistic analysis of the prediction" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Odomzo (sonidegib) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=028312dc-d155-4fd5-8abd-6bb9f011d3cc) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 838
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 monitor_inn: "Lasmiditan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Lasmiditan: predicted new indication Atrophoderma vermiculata (evidence level L5). In the US: 1 FDA application (0 active)"
@@ -55,7 +55,7 @@ but there are currently **0 registered clinical trials** and only indirect suppo
 
 ## Why is This Prediction Reasonable?
 
-Lasmiditan is an orally available serotonin 5-HT1F receptor agonist. It acts centrally and, unlike triptans, does not cause vasoconstriction. The US FDA approved it in October 2019 for the acute treatment of migraine with or without aura in adults, based on two pivotal Phase 3 trials. The data compiled for this report do not include a formal mechanism-of-action entry, so this description comes from the published literature.
+Lasmiditan is an orally available serotonin 5-HT1F receptor agonist. It acts centrally and, unlike triptans, does not cause vasoconstriction. The US FDA approved it in October 2019 for the acute treatment of migraine with or without aura in adults, based on two pivotal Phase 3 trials. This description comes from the published literature. According to the Mechanism of Action section of the FDA-approved prescribing information for lasmiditan: "Lasmiditan binds with high affinity to the 5-HT 1F receptor. Lasmiditan presumably exerts its therapeutic effects in the treatment of migraine through agonist effects at the 5-HT 1F receptor; however, the precise mechanism is unknown." ([DailyMed: Reyvow (lasmiditan) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aea3358c-ff41-4490-9e6d-c7bf7b3de13f), label version 2026-01-08; accessed 2026-11-20.)
 
 Migraine with brainstem aura is a subtype of migraine with aura, so it shares the trigeminovascular pathophysiology of the parent indication. The lack of vasoconstriction is of particular interest for aura subtypes, where vasoconstrictors such as triptans have traditionally been used with caution.
 
@@ -107,6 +107,19 @@ The only US authorization is cancelled, so current availability is uncertain.
 - Obtain detailed mechanism of action data
 - Collect brainstem aura-specific evidence, such as subgroup analyses of the existing Phase 3 trials or a dedicated clinical study
 - Assess the safety of lasmiditan in brainstem aura patients, who may have neurological symptoms such as altered consciousness
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-20 | "The data compiled for this report do not include a formal mechanism-of-action entry, so this description comes from the published literature" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Reyvow (lasmiditan) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aea3358c-ff41-4490-9e6d-c7bf7b3de13f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

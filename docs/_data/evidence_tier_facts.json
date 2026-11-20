@@ -502,7 +502,7 @@
     "i": "liposarcoma",
     "lt": 3,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The US NDA is also recorded as cancelled, and l\"",
     "x": 0
    },
@@ -734,7 +734,7 @@
     "lt": 2,
     "lv": 2,
     "r": 1,
-    "rs": "\"A formal mechanism-of-action entry was not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"A formal mechanism-of-action entry was not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -1283,7 +1283,7 @@
     "i": "bacterial arthritis",
     "lt": 17,
     "lv": 13,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"The records show 9 valid licences, and the list may be partial\"",
     "x": 0
    },
@@ -1316,7 +1316,7 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 38,
     "lv": 23,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"All 10 are recorded as valid\"",
     "x": 0
    },
@@ -1603,7 +1603,7 @@
     "lt": 1,
     "lv": 1,
     "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available for zinc oxide\" replaced with a sourced…",
+    "rs": "\"Detailed mechanism of action data is not available for zinc oxide. The reasoning below rests on general…",
     "x": 0
    }
   ],
@@ -1638,7 +1638,7 @@
   "with_current": 712,
   "none_current": 17,
   "without_data": 48,
-  "with_reviews": 744,
+  "with_reviews": 747,
   "rows": [
    {
     "t": "Ibuprofen",
@@ -1791,7 +1791,7 @@
     "lt": 100,
     "lv": 57,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action text is not available in the data compiled for this report, so t\" replaced with…",
+    "rs": "\"Detailed mechanism-of-action text is not available in the data compiled for this report, so this description…",
     "x": 0
    },
    {
@@ -1868,7 +1868,7 @@
     "lt": 100,
     "lv": 49,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -2131,7 +2131,7 @@
     "i": "tendinitis",
     "lt": 57,
     "lv": 34,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"with 11 valid licenses\"",
     "x": 0
    },
@@ -2351,8 +2351,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 37,
     "lv": 28,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not otherwise available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3078,7 +3078,7 @@
     "lt": 34,
     "lv": 19,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -3639,7 +3639,7 @@
     "lt": 41,
     "lv": 14,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report, so t\" replaced with…",
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report, so this description…",
     "x": 0
    },
    {
@@ -4584,7 +4584,7 @@
     "i": "infectious otitis media",
     "lt": 18,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Six valid single-ingredient US authorizations are recorded\"",
     "x": 0
    },
@@ -5542,7 +5542,7 @@
     "lt": 7,
     "lv": 6,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not included in the compiled data, so t\" replaced with a sourced…",
+    "rs": "\"Detailed mechanism-of-action data were not included in the compiled data, so this description is based on…",
     "x": 0
    },
    {
@@ -5674,7 +5674,7 @@
     "lt": 7,
     "lv": 5,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the compiled data, so t\" replaced with a sourced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the compiled data, so this description comes from…",
     "x": 5
    },
    {
@@ -6410,8 +6410,8 @@
     "i": "atopic eczema",
     "lt": 4,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not otherwise available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -6993,7 +6993,7 @@
     "i": "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome",
     "lt": 2,
     "lv": 2,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"and the product's US authorization is cancelled\"",
     "x": 0
    },
@@ -7917,7 +7917,7 @@
     "i": "fibromatosis, gingival",
     "lt": 2,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"No clinical trials or literature address gingival fibromatosis, no mechanistic link to ceritinib's…",
     "x": 0
    },
@@ -8203,7 +8203,7 @@
     "i": "Bethlem myopathy",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"the cancelled NDA206488 status and\"",
     "x": 4
    },
@@ -9193,7 +9193,7 @@
     "i": "medulloblastoma with extensive nodularity",
     "lt": 1,
     "lv": 1,
-    "r": 3,
+    "r": 4,
     "rs": "Removed: \"he US authorization is cancelled, and t\"",
     "x": 0
    },
@@ -9546,7 +9546,7 @@
     "lt": 14,
     "lv": 0,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, and t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, and the rationale…",
     "x": 0
    },
    {
@@ -9732,8 +9732,8 @@
     "i": "atrophoderma vermiculata",
     "lt": 1,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"The data compiled for this report do not include a formal mechanism-of-action entry, so this description…",
     "x": 0
    },
    {
@@ -10096,7 +10096,7 @@
     "lt": 5,
     "lv": 0,
     "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report, so t\" replaced with…",
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report, so this description…",
     "x": 0
    },
    {

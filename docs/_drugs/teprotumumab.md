@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **monosomy X** (Turner syndrome
 
 ## Why is This Prediction Reasonable?
 
-Teprotumumab is a monoclonal antibody that inhibits the insulin-like growth factor 1 receptor (IGF-1R). According to the Mechanism of Action section of the FDA-approved prescribing information for teprotumumab: "Teprotumumab-trbw's mechanism of action in patients with Thyroid Eye Disease has not been fully characterized. Teprotumumab-trbw binds to IGF-1R and blocks its activation and signaling." ([DailyMed: Tepezza (teprotumumab) prescribing information, Horizon Therapeutics USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e6c54a1-cefd-4a5b-a855-ab9f268b6cce), label version 2026-09-28; accessed 2026-11-19.) This description relies on its known drug class.
+Teprotumumab is a monoclonal antibody that inhibits the insulin-like growth factor 1 receptor (IGF-1R). This description relies on its known drug class. According to the Mechanism of Action section of the FDA-approved prescribing information for teprotumumab: "Teprotumumab-trbw's mechanism of action in patients with Thyroid Eye Disease has not been fully characterized. Teprotumumab-trbw binds to IGF-1R and blocks its activation and signaling." ([DailyMed: Tepezza (teprotumumab) prescribing information, Horizon Therapeutics USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e6c54a1-cefd-4a5b-a855-ab9f268b6cce), label version 2026-09-28; accessed 2026-11-19.)
 
 The link to monosomy X (Turner syndrome) is weak. Turner syndrome involves growth impairment and gonadal dysgenesis, and the IGF-1 axis is relevant to growth. However, blocking IGF-1R would be expected to oppose, rather than support, growth. No direct mechanistic link is established.
 
@@ -133,7 +133,7 @@ Below is the review log for this page: statements checked against official FDA d
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US license is also listed as cancelled" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
-| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tepezza (teprotumumab) prescribing information, Horizon Therapeutics USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e6c54a1-cefd-4a5b-a855-ab9f268b6cce) |
+| 2026-11-20 | "Detailed mechanism of action data is not available in the data compiled for this report, so this description relies on its known drug class" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Tepezza (teprotumumab) prescribing information, Horizon Therapeutics USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e6c54a1-cefd-4a5b-a855-ab9f268b6cce) |
 
 <!-- review:end log -->
 

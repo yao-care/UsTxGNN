@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CICLESONIDE"
 predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Ciclesonide: predicted new indication atopic eczema (evidence level L5). In the US: 4 FDA applications (3 active)"
 ---
 
@@ -60,7 +60,7 @@ Currently **no clinical trials and no publications** directly study this use, so
 
 ## Why is This Prediction Reasonable?
 
-Ciclesonide is a prodrug that is activated to des-ciclesonide, which binds the glucocorticoid receptor and suppresses inflammatory signalling. Detailed mechanism of action data is not otherwise available in the data compiled for this report.
+Ciclesonide is a prodrug that is activated to des-ciclesonide, which binds the glucocorticoid receptor and suppresses inflammatory signalling. According to the Mechanism of Action section of the FDA-approved prescribing information for ciclesonide: "Ciclesonide is a prodrug that is enzymatically hydrolyzed to a pharmacologically active metabolite, C21-desisobutyryl-ciclesonide (des-ciclesonide or RM1) following oral inhalation. Des-ciclesonide has anti-inflammatory activity with affinity for glucocorticoid receptors that is 120 times greater than the parent compound and 12 times greater than dexamethasone." ([DailyMed: Alvesco (ciclesonide) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6112fb-78ef-43cf-8ae3-36370eb45468), label version 2025-02-28; accessed 2026-11-20.)
 
 Topical corticosteroids are standard therapy for atopic eczema, a chronic inflammatory skin disease. A glucocorticoid-receptor-mediated anti-inflammatory action is therefore plausible in this condition.
 
@@ -117,6 +117,19 @@ The TxGNN score is very high (0.9996), but there are no clinical trials or publi
 - Complete mechanism of action data
 - Package insert warnings and contraindications, including the cross-reactivity and systemic corticosteroid effects
 - A comparison against existing topical corticosteroids to show added value
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-20 | "Detailed mechanism of action data is not otherwise available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Alvesco (ciclesonide) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6112fb-78ef-43cf-8ae3-36370eb45468) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

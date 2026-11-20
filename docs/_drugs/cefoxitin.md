@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 505
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "CEFOXITIN"
 predicted_indications: ["infectious otitis media", "chronic otitis media", "suppurative otitis media", "middle ear disease", "Ureaplasma urethritis", "toxocariasis", "otosalpingitis", "non-suppurative otitis media"]
 description: "Cefoxitin: predicted new indication Infectious otitis media (evidence level L5). In the US: 18 FDA applications (8 active)"
@@ -56,7 +56,7 @@ However, there are **no registered clinical trials** and only **1 publication** 
 
 ## Why is This Prediction Reasonable?
 
-Cefoxitin is a second-generation cephamycin. It binds penicillin-binding proteins and blocks bacterial cell wall synthesis. It is active against many Gram-positive, Gram-negative and anaerobic organisms. Detailed mechanism data beyond this general class description are not available in the data compiled for this report.
+Cefoxitin is a second-generation cephamycin. It binds penicillin-binding proteins and blocks bacterial cell wall synthesis. It is active against many Gram-positive, Gram-negative and anaerobic organisms. According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for cefoxitin: "Cefoxitin is an antibacterial drug. […] Cefoxitin is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Cefoxitin has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: Cefoxitin And Dextrose (cefoxitin sodium) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6c7e9485-1ede-411c-8c46-911439332864), label version 2019-07-29; accessed 2026-11-20.)
 
 Because bacterial otitis media is caused by organisms that a broad-spectrum antibacterial might cover, the prediction is plausible in principle. However, the only linked paper is a review of methicillin-resistant *Staphylococcus aureus* (MRSA). MRSA is generally resistant to cefoxitin, so this paper does not support efficacy. No study directly tests cefoxitin in infectious otitis media, so the evidence level is L5 (model prediction only).
 
@@ -110,11 +110,12 @@ The prediction score is high (0.9930), but there are no clinical trials and the 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Six valid single-ingredient US authorizations are recorded" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-20 | "Detailed mechanism data beyond this general class description are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cefoxitin And Dextrose (cefoxitin sodium) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6c7e9485-1ede-411c-8c46-911439332864) |
 
 <!-- review:end log -->
 

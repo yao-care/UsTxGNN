@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Pregabalin: predicted new indication Tendinitis (evidence level L5). In the US: 57 FDA applications (34 active)"
 ---
 
@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **tendinitis**, but there are *
 
 ## Why is This Prediction Reasonable?
 
-Pregabalin binds the alpha2-delta subunit of voltage-gated calcium channels and reduces the release of excitatory neurotransmitters. This can relieve neuropathic and nociceptive pain. Detailed mechanism data were not available beyond this general description.
+Pregabalin binds the alpha2-delta subunit of voltage-gated calcium channels and reduces the release of excitatory neurotransmitters. This can relieve neuropathic and nociceptive pain. According to the Mechanism of Action section of the FDA-approved prescribing information for pregabalin: "Pregabalin binds with high affinity to the alpha 2 ‑delta site (an auxiliary subunit of voltage‑gated calcium channels) in central nervous system tissues. Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha 2 ‑delta subunit may be involved in pregabalin’s anti‑nociceptive and antiseizure effects in animals." ([DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd), label version 2026-03-12; accessed 2026-11-20.)
 
 The link to tendinitis is indirect. Tendinitis is a painful musculoskeletal condition, and pregabalin's known uses (fibromyalgia, myofascial pain) are also musculoskeletal pain syndromes. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -135,12 +135,13 @@ The prediction score is very high, but no trial or paper tests pregabalin for te
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
 | 2026-11-06 | Removed: "with 11 valid licenses" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-20 | "Detailed mechanism data were not available beyond this general description" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd) |
 
 <!-- review:end log -->
 

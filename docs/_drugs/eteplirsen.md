@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 680
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "ETEPLIRSEN"
 predicted_indications: ["Bethlem myopathy", "nebulin-related early-onset distal myopathy", "X-linked myopathy with postural muscle atrophy", "intellectual disability-hyperkinetic movement-truncal ataxia syndrome"]
 description: "Eteplirsen: predicted new indication Bethlem myopathy (evidence level L5). In the US: 1 FDA application (1 active)"
@@ -55,7 +55,7 @@ The prediction is supported by **10 clinical trials** (including 2 Phase 3 studi
 
 ## Why is This Prediction Reasonable?
 
-Eteplirsen is a phosphorodiamidate morpholino oligomer (PMO) antisense drug. It induces skipping of exon 51 in DMD pre-mRNA, which restores the reading frame. The result is a shortened but partly functional dystrophin protein in patients with exon 51-amenable deletions. The data compiled for this report do not include a structured mechanism-of-action entry, but this mechanism is well described in the published literature.
+Eteplirsen is a phosphorodiamidate morpholino oligomer (PMO) antisense drug. It induces skipping of exon 51 in DMD pre-mRNA, which restores the reading frame. The result is a shortened but partly functional dystrophin protein in patients with exon 51-amenable deletions. According to the Mechanism of Action section of the FDA-approved prescribing information for eteplirsen: "Eteplirsen is designed to bind to exon 51 of dystrophin pre-mRNA, resulting in exclusion of this exon during mRNA processing in patients with genetic mutations that are amenable to exon 51 skipping. Exon skipping is intended to allow for production of an internally truncated dystrophin protein, which was evaluated in Study 2 and Study 3." ([DailyMed: Exondys 51 (eteplirsen) prescribing information, Sarepta Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33bff678-7829-479e-9110-b8e33a0bc0aa), label version 2025-08-13; accessed 2026-11-20.) This mechanism is well described in the published literature.
 
 The predicted indication is not a true repurposing candidate. It is essentially the drug's established use, so the prediction agrees with known biology. Two caveats apply:
 
@@ -138,11 +138,12 @@ The top prediction (DMD) is the drug's established indication, backed by one com
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "the cancelled NDA206488 status and" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-20 | "The data compiled for this report do not include a structured mechanism-of-action entry, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Exondys 51 (eteplirsen) prescribing information, Sarepta Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33bff678-7829-479e-9110-b8e33a0bc0aa) |
 
 <!-- review:end log -->
 

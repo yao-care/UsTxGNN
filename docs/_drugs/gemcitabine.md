@@ -54,7 +54,7 @@ with **40 clinical trials** and **20 publications** compiled for this direction,
 
 ## Why is This Prediction Reasonable?
 
-Gemcitabine is a pyrimidine nucleoside analog. It inhibits DNA synthesis and ribonucleotide reductase, so it acts mainly on rapidly dividing tumour cells. According to the Mechanism of Action section of the FDA-approved prescribing information for gemcitabine: "Gemcitabine kills cells undergoing DNA synthesis and blocks the progression of cells through the G1/S-phase boundary. Gemcitabine is metabolized by nucleoside kinases to diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides." ([DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84), label version 2026-07-27; accessed 2026-11-19.) This description is based on the general knowledge of the drug class.
+Gemcitabine is a pyrimidine nucleoside analog. It inhibits DNA synthesis and ribonucleotide reductase, so it acts mainly on rapidly dividing tumour cells. This description is based on the general knowledge of the drug class. According to the Mechanism of Action section of the FDA-approved prescribing information for gemcitabine: "Gemcitabine kills cells undergoing DNA synthesis and blocks the progression of cells through the G1/S-phase boundary. Gemcitabine is metabolized by nucleoside kinases to diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides." ([DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84), label version 2026-07-27; accessed 2026-11-19.)
 
 Ovarian cancer and breast cancer are both solid epithelial tumours that respond to cytotoxic chemotherapy. Published reviews describe gemcitabine as active in metastatic breast cancer, both alone (reported response rates of 16–37%) and in combination with taxanes, platinum compounds, anthracyclines, vinorelbine and trastuzumab. Several trials listed below have tested these combinations, which supports the plausibility of the model's prediction.
 
@@ -144,7 +144,7 @@ Below is the review log for this page. A statement that mechanism-of-action data
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84) |
+| 2026-11-20 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so this description is based on the general knowledge of the drug class" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84) |
 
 <!-- review:end log -->
 

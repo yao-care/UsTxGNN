@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "REGORAFENIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "childhood kidney cell carcinoma", "vulva sarcoma"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Regorafenib: predicted new indication Liposarcoma (evidence level L2). In the US: 3 FDA applications (2 active)"
 ---
 
@@ -56,7 +56,7 @@ However, the randomized trial data in liposarcoma (REGOSARC and the SARC024 lipo
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not captured in the drug record. From the literature compiled for this report, regorafenib is an oral diphenylurea multi-kinase inhibitor that targets angiogenic (VEGFR1-3, TIE2), stromal (PDGFR-β, FGFR) and oncogenic (KIT, RET, RAF) kinases. It is established in metastatic colorectal cancer and GIST.
+According to the Mechanism of Action section of the FDA-approved prescribing information for regorafenib: "Regorafenib is a small molecule inhibitor of multiple membrane-bound and intracellular kinases involved in normal cellular functions and in pathologic processes such as oncogenesis, tumor angiogenesis, metastasis and tumor immunity. In in vitro biochemical or cellular assays, regorafenib or its major human active metabolites M-2 and M-5 inhibited the activity of RET, VEGFR1, VEGFR2, VEGFR3, KIT, PDGFR-alpha, PDGFR-beta, FGFR1, FGFR2, TIE2, DDR2, TrkA, Eph2A, RAF-1, BRAF, BRAF V600E, SAPK2, PTK5, Abl and CSF1R at concentrations of regorafenib that have been achieved clinically." ([DailyMed: Stivarga (regorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=824f19c9-0546-4a8a-8d8f-c4055c04f7c7), label version 2026-02-09; accessed 2026-11-20.) From the literature compiled for this report, regorafenib is an oral diphenylurea multi-kinase inhibitor that targets angiogenic (VEGFR1-3, TIE2), stromal (PDGFR-β, FGFR) and oncogenic (KIT, RET, RAF) kinases. It is established in metastatic colorectal cancer and GIST.
 
 Soft tissue sarcomas, including liposarcoma, depend partly on angiogenic and growth-factor signaling. Related kinase inhibitors (sorafenib, sunitinib, pazopanib) have shown activity in some soft tissue sarcomas. This is the basis for the model's prediction.
 
@@ -144,11 +144,12 @@ The only direct randomized evidence in liposarcoma (REGOSARC and the SARC024 lip
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The US NDA is also recorded as cancelled, and l" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-20 | "Detailed mechanism-of-action data was not captured in the drug record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Stivarga (regorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=824f19c9-0546-4a8a-8d8f-c4055c04f7c7) |
 
 <!-- review:end log -->
 

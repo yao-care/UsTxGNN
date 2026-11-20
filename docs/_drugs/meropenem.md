@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 903
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "MEROPENEM"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "Ureaplasma urethritis", "gonococcal urethritis"]
 description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L4). In the US: 17 FDA applications (13 active)"
@@ -61,7 +61,7 @@ The literature fits this reasoning only partly:
 - One case report describes septic arthritis from ESBL-producing *Klebsiella pneumoniae*. It was treated successfully with meropenem plus amikacin and early arthroscopic washout.
 - A retrospective review of musculoskeletal melioidosis found that all isolates were susceptible to meropenem.
 
-No trial has tested meropenem directly in bacterial arthritis. Detailed mechanism data beyond the general antibacterial action were not available in the data compiled for this report.
+No trial has tested meropenem directly in bacterial arthritis. According to the Mechanism of Action and Microbiology sections of the FDA-approved prescribing information for meropenem: "Meropenem is an antibacterial drug. […] The bactericidal activity of meropenem results from the inhibition of cell wall synthesis. Meropenem penetrates the cell wall of most gram-positive and gram-negative bacteria to bind penicillin-binding-protein (PBP) targets." ([DailyMed: meropenem prescribing information, Civica, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b0075b72-c3cc-f844-e053-2a95a90a417f), label version 2026-11-02; accessed 2026-11-20.)
 
 ## Clinical Trial Evidence
 
@@ -126,11 +126,12 @@ The mechanism is plausible and a few case reports describe meropenem use in sept
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official FDA data (Drugs@FDA, the NDC Directory, or DailyMed labeling). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The records show 9 valid licences, and the list may be partial" | Corrected | [openFDA Drugs@FDA](https://open.fda.gov/data/drugsfda/); [openFDA NDC Directory](https://open.fda.gov/data/ndc/) |
+| 2026-11-20 | "Detailed mechanism data beyond the general antibacterial action were not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: meropenem prescribing information, Civica, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b0075b72-c3cc-f844-e053-2a95a90a417f) |
 
 <!-- review:end log -->
 

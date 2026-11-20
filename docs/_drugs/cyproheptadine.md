@@ -55,7 +55,7 @@ No clinical trials are registered for the top prediction, and **9 publications**
 
 ## Why is This Prediction Reasonable?
 
-Cyproheptadine is a first-generation H1 antihistamine that also blocks serotonin receptors, and it has anticholinergic activity. According to the Clinical Pharmacology section of the FDA-approved prescribing information for cyproheptadine: "Cyproheptadine is a serotonin and histamine antagonist with anticholinergic and sedative effects. Antiserotonin and antihistamine drugs appear to compete with serotonin and histamine, respectively, for receptor sites." ([DailyMed: Cyproheptadine Hydrochloride Solution (cyproheptadine hydrochloride) prescribing information, Method Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1acfd050-6c07-a269-e063-6394a90a77e8), label version 2025-10-21; accessed 2026-11-19.) This description relies on general knowledge of the drug class.
+Cyproheptadine is a first-generation H1 antihistamine that also blocks serotonin receptors, and it has anticholinergic activity. This description relies on general knowledge of the drug class. According to the Clinical Pharmacology section of the FDA-approved prescribing information for cyproheptadine: "Cyproheptadine is a serotonin and histamine antagonist with anticholinergic and sedative effects. Antiserotonin and antihistamine drugs appear to compete with serotonin and histamine, respectively, for receptor sites." ([DailyMed: Cyproheptadine Hydrochloride Solution (cyproheptadine hydrochloride) prescribing information, Method Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1acfd050-6c07-a269-e063-6394a90a77e8), label version 2025-10-21; accessed 2026-11-19.)
 
 Allergic urticaria is driven by histamine released from mast cells, so blocking H1 receptors is a direct mechanistic fit. Urticaria and angioedema are already among cyproheptadine's original indications, so this prediction is effectively an on-label or near-label use rather than true repurposing. The extra antiserotonergic activity may add benefit in some forms of urticaria.
 
@@ -128,7 +128,7 @@ Below is the review log for this page. A statement that mechanism-of-action data
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cyproheptadine Hydrochloride Solution (cyproheptadine hydrochloride) prescribing information, Method Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1acfd050-6c07-a269-e063-6394a90a77e8) |
+| 2026-11-20 | "Detailed mechanism-of-action data is not available in the data compiled for this report, so this description relies on general knowledge of the drug class" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Cyproheptadine Hydrochloride Solution (cyproheptadine hydrochloride) prescribing information, Method Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1acfd050-6c07-a269-e063-6394a90a77e8) |
 
 <!-- review:end log -->
 

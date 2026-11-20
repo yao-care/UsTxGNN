@@ -52136,7 +52136,7 @@
    "file": "deoxycholic_acid.md",
    "action": "mechanism",
    "claim": "The data compiled for this report do not describe how it acts, so a",
-   "replacement": "According to the Mechanism of Action section of the FDA-approved prescribing information for deoxycholic acid: \"KYBELLA is a cytolytic drug, which when injected into submental fat - in patients with moderate to severe convexity or fullness associated with submental fat - physically destroys the cell membrane causing lysis.\" ([DailyMed: Kybella (deoxycholic acid) prescribing information, Kythera Biopharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553), label version 2026-09-11; accessed 2026-11-20.) A",
+   "replacement": "The mechanism of action is quoted above, with its source ([DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553)). A",
    "summary": "\"The data compiled for this report do not describe how it acts, so a\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上，模型預測與其他正文不動。",
    "sources": [
@@ -52152,7 +52152,35 @@
     }
    ],
    "checked": "2026-11-20",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "us-moa-20261120-deoxycholic_acid-2",
+     "drug": "deoxycholic_acid",
+     "file": "deoxycholic_acid.md",
+     "action": "mechanism",
+     "claim": "The data compiled for this report do not describe how it acts, so a",
+     "replacement": "According to the Mechanism of Action section of the FDA-approved prescribing information for deoxycholic acid: \"KYBELLA is a cytolytic drug, which when injected into submental fat - in patients with moderate to severe convexity or fullness associated with submental fat - physically destroys the cell membrane causing lysis.\" ([DailyMed: Kybella (deoxycholic acid) prescribing information, Kythera Biopharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553), label version 2026-09-11; accessed 2026-11-20.) A",
+     "summary": "\"The data compiled for this report do not describe how it acts, so a\" replaced with a sourced mechanism-of-action statement",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上，模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Kybella (deoxycholic acid) prescribing information, Kythera Biopharmaceuticals Inc.",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553",
+       "accessed": "2026-11-20",
+       "excerpt": "KYBELLA is a cytolytic drug, which when injected into submental fat - in patients with moderate to severe convexity or fullness associated with submental fat - physically destroys the cell membrane causing lysis.",
+       "label_version": "2026-09-11",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553"
+      }
+     ],
+     "checked": "2026-11-20",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "同頁已有同一段節錄（較上方那筆），重複引用改成指向上方節錄的一句"
+    }
+   ]
   },
   {
    "id": "us-moa-20261120-dorzolamide-1",

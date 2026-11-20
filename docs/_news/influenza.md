@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 28 articles, 2 related drugs."
+description: "Health news about flu (influenza). 30 articles, 2 related drugs."
 permalink: /news/influenza/
 last_modified_at: 2026-11-20
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>28 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>30 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (28)
+## Related News (30)
+
+### [Pneumonia is not just a winter cough: Doctor explains 8 things everyone should know about the lung infection, including early symptoms that resemble flu, people at higher risk, warning signs of falling oxygen levels, treatment options and vaccines that can hel - The Times of India](https://news.google.com/rss/articles/CBMi6wNBVV95cUxQUFRHUVhsT29GTFBBb2ZSY0NWT2FhNldGZDVILUFCNlBkYjVfYjZfdDJXYndtSjBPMVN4a0MyaHFGRzVYWlA3VDY4VDFzYWd6R2RlZ0hnNXB5N2tUWGNzWTNrWjM5WnJOS0ltQjRFSFplazluazRKSFZpMDRqajR0VnczVGRVOXM5SWFTWWNkbDI0Y3lCWGtJV0xuT2VFeEh0dUFKOGVqM0lsNGJBVFdRdDFjemdaQWtyQVE5S0dzMkVIYW1ESm1ndkY1dE5lR3lQeTVRSTEwZmh5LXphZDQwUGM5UmVfbE5zTHhCeVNuams1aW4yeHFuY2xldWd0SlhEWHQtSFhFSmVoNjJOZjIxRFh4TDJ4UzdELTFnVDFUbEZfOFU0ODlTLUFqMEtrdk9HX00yQnB4cnB1LUpuRk1RM3loT2RFU0ZPa1FNRzdjVHdBMDB5ZnlVZGxPRFJHYlAyWkp3TXJIbTRJOG5TOUJ5QlFlcWF2aXg5b2YzSVZZcy1RbjVhdzZJTENkLWNhU2RlcXRqeWU0WFRpUXhZOU9TR29YbjE5OXBfTUFtUjZOaEpSaGdmUzlrSWpaRklfaDNMZ3JIVm5mc2pfa3haWHVqdU1TUThVSXkxUHlVbE13VzNKNDBZQ2pyMHVYUdIB8wNBVV95cUxOLVdFNlZIQi1pdlBtR2J0QlBEQnlsM0dyNnhEU0Vfb2FMa2JJUDBHdkhSSG9RdmQ1QUhaOUFjam1lR09zZjNOUUNkWi1MdjVSQjh4aEswNWpZTWZUVEtFbFZQOURFYWZKN2pvODdOR3pyRm91LU1pcTZIaFRaMC1Kc011WTliRUUxRUpOYzcwZlREU0EzQmVJZDhULXFEREpmN3ZWOWtWN2FCY1RFejAyeWJiOW9ZblJPb1VjMmdGQzk0djhrYjEzZ1dTZnZ0OWlmcDhfYTJ0ZjRqR2xIbTRZZUZrb1J2WFNoUHBJWGNEUVNkbjY5NnNGVDR4dmt5LWhWSXBxNE5sOXkyekFZbG81OUtCcU9UaTh3eE5ocE4xNDBCakZqem82ZE9uWVRucEhUTkZ0VGh1NUZJeVh4WnY0UzFLTmJuM1ZWTVhhdWJiaFp0WS1HamhOTmdQRXRCUGMydXRnSFh1V0UzYXhaY1FYWjZrMlpXZms4YTZFSGpiNUc5TnBYakpYQ1QxRERqdDczVXh5MFhTeFllQUFXbERLejVrRXdmemlQc0xENXFxazVCQTg4aW9Ea3hqeGxSancxUXhMU0VRYU42T2RNN3l5OG8zMDdtVGI2dE9Bd0JzYUVIVG9DWlBpU2dtdGxfUWVYTXFj?oc=5)
+
+2026-11-20
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi6wNBVV95cUxQUFRHUVhsT29GTFBBb2ZSY0NWT2FhNldGZDVILUFCNlBkYjVfYjZfdDJXYndtSjBPMVN4a0MyaHFGRzVYWlA3VDY4VDFzYWd6R2RlZ0hnNXB5N2tUWGNzWTNrWjM5WnJOS0ltQjRFSFplazluazRKSFZpMDRqajR0VnczVGRVOXM5SWFTWWNkbDI0Y3lCWGtJV0xuT2VFeEh0dUFKOGVqM0lsNGJBVFdRdDFjemdaQWtyQVE5S0dzMkVIYW1ESm1ndkY1dE5lR3lQeTVRSTEwZmh5LXphZDQwUGM5UmVfbE5zTHhCeVNuams1aW4yeHFuY2xldWd0SlhEWHQtSFhFSmVoNjJOZjIxRFh4TDJ4UzdELTFnVDFUbEZfOFU0ODlTLUFqMEtrdk9HX00yQnB4cnB1LUpuRk1RM3loT2RFU0ZPa1FNRzdjVHdBMDB5ZnlVZGxPRFJHYlAyWkp3TXJIbTRJOG5TOUJ5QlFlcWF2aXg5b2YzSVZZcy1RbjVhdzZJTENkLWNhU2RlcXRqeWU0WFRpUXhZOU9TR29YbjE5OXBfTUFtUjZOaEpSaGdmUzlrSWpaRklfaDNMZ3JIVm5mc2pfa3haWHVqdU1TUThVSXkxUHlVbE13VzNKNDBZQ2pyMHVYUdIB8wNBVV95cUxOLVdFNlZIQi1pdlBtR2J0QlBEQnlsM0dyNnhEU0Vfb2FMa2JJUDBHdkhSSG9RdmQ1QUhaOUFjam1lR09zZjNOUUNkWi1MdjVSQjh4aEswNWpZTWZUVEtFbFZQOURFYWZKN2pvODdOR3pyRm91LU1pcTZIaFRaMC1Kc011WTliRUUxRUpOYzcwZlREU0EzQmVJZDhULXFEREpmN3ZWOWtWN2FCY1RFejAyeWJiOW9ZblJPb1VjMmdGQzk0djhrYjEzZ1dTZnZ0OWlmcDhfYTJ0ZjRqR2xIbTRZZUZrb1J2WFNoUHBJWGNEUVNkbjY5NnNGVDR4dmt5LWhWSXBxNE5sOXkyekFZbG81OUtCcU9UaTh3eE5ocE4xNDBCakZqem82ZE9uWVRucEhUTkZ0VGh1NUZJeVh4WnY0UzFLTmJuM1ZWTVhhdWJiaFp0WS1HamhOTmdQRXRCUGMydXRnSFh1V0UzYXhaY1FYWjZrMlpXZms4YTZFSGpiNUc5TnBYakpYQ1QxRERqdDczVXh5MFhTeFllQUFXbERLejVrRXdmemlQc0xENXFxazVCQTg4aW9Ea3hqeGxSancxUXhMU0VRYU42T2RNN3l5OG8zMDdtVGI2dE9Bd0JzYUVIVG9DWlBpU2dtdGxfUWVYTXFj?oc=5)
+
+---
 
 ### [Why your joints may act up in the winter — and what can help - The Washington Post](https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGlSUEZzRTc1TTc3ZmF5NDVZb0tNTlE4QWd3a2pvVGhJaDYtblZwM1lkT1ZtdUtfV25SUk10Ri1HQ05wblpkTlVGMXBTajAtM09NbG1LYmVXd21pTUt2QWY3enJqNVZFeVl4SnJOZU5rRVpQM1BNWVZZcXotRS1TVVliV3ZkVkUyQU1NUDB6N2ZqeFRsTk1fNWdiVGZCR0Yw?oc=5)
 
@@ -49,11 +57,27 @@ Source: [OregonLive.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxOcn
 
 ---
 
+### [Brits can lower blood pressure with one simple trick - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOVlFZYzhoY29FN1BKSlVhWXRCMm9jbEZ4LXl4eVh4TzVWU3B3OGVxbi02WEJZUUNuZEw4R1lpeEoxTkhxZGh4WTE3bV9sbTBKZ0lOWkV6d2pDdDZMdTc1RTVabFVKa3BBVGlxX185ZnFqb25zVk10bE00RFJZNm9KMDFDWXQ2ZnYwOGZ4ZXl30gGTAUFVX3lxTE5TVnhjVVRXcXlOSXZPMS1wUGJEY1czbllOU2RUYmFDVHoxdF9xNUJERTJiRTJpY01sM0JFNmI2dWkzWjFMUnJPbEp3SUpwVGgzTWhRVTNGM3FxcVZENzNyYTFDNXdtOWV2bE9oMDg4NXhMWmotVUoyQUNDQjlwVjkwdWt2NlJzWG1meHY2TzhEVzZfOA?oc=5)
+
+2026-11-19
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOVlFZYzhoY29FN1BKSlVhWXRCMm9jbEZ4LXl4eVh4TzVWU3B3OGVxbi02WEJZUUNuZEw4R1lpeEoxTkhxZGh4WTE3bV9sbTBKZ0lOWkV6d2pDdDZMdTc1RTVabFVKa3BBVGlxX185ZnFqb25zVk10bE00RFJZNm9KMDFDWXQ2ZnYwOGZ4ZXl30gGTAUFVX3lxTE5TVnhjVVRXcXlOSXZPMS1wUGJEY1czbllOU2RUYmFDVHoxdF9xNUJERTJiRTJpY01sM0JFNmI2dWkzWjFMUnJPbEp3SUpwVGgzTWhRVTNGM3FxcVZENzNyYTFDNXdtOWV2bE9oMDg4NXhMWmotVUoyQUNDQjlwVjkwdWt2NlJzWG1meHY2TzhEVzZfOA?oc=5)
+
+---
+
 ### [L&I inspects two Central Washington dairies after worker dies from bird flu](https://news.google.com/rss/articles/CBMizgFBVV95cUxON2RIaHNyTm1YR1dMVjJYMEp2ZXlLRjR3WFJSUkljcXJHUzc1bDFhOXEwYlc2OXdsR0RQLWFJSUxFTks3WDNKSFVEX1lMTWdRQTllVzgtOE8xU1ZrdEduOHYwZFZidXFzLXZITjZHZkZmTHV0YldfS3BaVE5uRG91a1Zabnd1YXJyZC1xel95MHVoSlAwUXBhcm45RGxtUUh0TWlrZ05FZHNUSDFrS0xKUmRVUVJLak5kX08wcE05aE1SX3V5U3hGTE1zbTRwQQ?oc=5)
 
 2026-11-19
 
 Source: [KOMO](https://news.google.com/rss/articles/CBMizgFBVV95cUxON2RIaHNyTm1YR1dMVjJYMEp2ZXlLRjR3WFJSUkljcXJHUzc1bDFhOXEwYlc2OXdsR0RQLWFJSUxFTks3WDNKSFVEX1lMTWdRQTllVzgtOE8xU1ZrdEduOHYwZFZidXFzLXZITjZHZkZmTHV0YldfS3BaVE5uRG91a1Zabnd1YXJyZC1xel95MHVoSlAwUXBhcm45RGxtUUh0TWlrZ05FZHNUSDFrS0xKUmRVUVJLak5kX08wcE05aE1SX3V5U3hGTE1zbTRwQQ?oc=5)
+
+---
+
+### [Looks like Colorado could be in for another bad flu season, and 3 out of 4 people aren’t vaccinated - Colorado Public Radio](https://news.google.com/rss/articles/CBMiggFBVV95cUxPRzF1MUNUSUhqYkY0VXk4ZXlwRE9KbHBtd1BEQ1NRN2J1ZE1lajIxYXotbE9DQkJSeFpva0FDcXFPS1lteWltRGtmUlpUWGFMcjlLM1lHY2RxYUxfX2tiWmdlNDJ1Q3pFdk1tNmRzMEJxSGo4X0VyRmotOWN1cjFoMzdB?oc=5)
+
+2026-11-19
+
+Source: [Colorado Public Radio](https://news.google.com/rss/articles/CBMiggFBVV95cUxPRzF1MUNUSUhqYkY0VXk4ZXlwRE9KbHBtd1BEQ1NRN2J1ZE1lajIxYXotbE9DQkJSeFpva0FDcXFPS1lteWltRGtmUlpUWGFMcjlLM1lHY2RxYUxfX2tiWmdlNDJ1Q3pFdk1tNmRzMEJxSGo4X0VyRmotOWN1cjFoMzdB?oc=5)
 
 ---
 
@@ -182,14 +206,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pOThEbWJnTU
 2026-11-16
 
 Source: [Space](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjdOMEpUWnlNaGJVaE8wNEtHOVYtclMxX2FnbjJhM0t4Q3NvdnZ1eDA0aFBhWDVHZ3FicEUwT2kwZzVFOEY5elVOaHIzRUJZX0l4b3dib3FmNGVoRnk0ZmRxVG8zWGF2ZGtMaUlBRXVLRkYwdUdaZnp0cWxsMUZ0aGFtRWxVNGZabkFpQ0tNMl9aS29kSjFBeE5WTHZUWWdfV0NYOG80TWgzV3BrajJGWkhnVjlIaXRTUllPQ0ExSUY1NlYxbnRCd1h5eFo?oc=5)
-
----
-
-### [MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBmSjQzSUFNV0cxblZIRzdoaFQwaTNtR1lMcnVIR2FDYjh4ZHJhVkJFSnltaWFZMVhQd0FoN2M4Ulo0emxlMFRRcERGTE0xd3JwZU9aOVBNSGdBNDRCTUJadzhhVThaeFRxWWkxZ0I5VQ?oc=5)
-
-2026-11-16
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBmSjQzSUFNV0cxblZIRzdoaFQwaTNtR1lMcnVIR2FDYjh4ZHJhVkJFSnltaWFZMVhQd0FoN2M4Ulo0emxlMFRRcERGTE0xd3JwZU9aOVBNSGdBNDRCTUJadzhhVThaeFRxWWkxZ0I5VQ?oc=5)
 
 ---
 

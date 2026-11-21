@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 26 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 29 articles, 1 related drugs."
 permalink: /news/heart-disease/
 last_modified_at: 2026-11-21
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>26 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>29 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (26)
+## Related News (29)
+
+### [RFK Jr. vows to curb a measles crisis he initially underestimated - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxQckhpUXNVWXJrVGVkeGZJYVh4aXN2VlV4UHR2SXJMS0V6WFlYVnBjRjNkRldNVDVzTVZiSkFoN3Jqdy01aEMyYWkxRFJSR2FQelg0UnFvcms2NzlIRnJvLWlsQnl1aVFkVXl2MGhRY09OYnNoZ0ZCUDN6cVplS0NhN3g4dHRUZ2JqRFU4QXRoMThiMU9xZC1NRWtOMExHWlJyUDlXUVVXZ0xRWkhsSmc?oc=5)
+
+2026-11-21
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxQckhpUXNVWXJrVGVkeGZJYVh4aXN2VlV4UHR2SXJMS0V6WFlYVnBjRjNkRldNVDVzTVZiSkFoN3Jqdy01aEMyYWkxRFJSR2FQelg0UnFvcms2NzlIRnJvLWlsQnl1aVFkVXl2MGhRY09OYnNoZ0ZCUDN6cVplS0NhN3g4dHRUZ2JqRFU4QXRoMThiMU9xZC1NRWtOMExHWlJyUDlXUVVXZ0xRWkhsSmc?oc=5)
+
+---
 
 ### [Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
 
@@ -56,11 +64,11 @@ Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa
 
 ---
 
-### [Experts have for decades wanted to diagnose CTE in living people. BU researchers may have found a way. - The Boston Globe](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QQndwa25DMUdfRXpVVU9iUi1mQVQxYmt1WVhxcG84VmVmdnNGcWFhQWd6bGdRclRUSXU0cXNxQUYxbGE3V0dVS0FHRGxhVW5FdzlORVhueGZ1M2Y2UzNxNG9ncE9IQWRWbWVSZTEyRVU3SU9ZMUNjTnNrcWxPdw?oc=5)
+### [Scientists are learning more about the rare Ebola virus in Congo outbreak](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSlFDZ0t2LWZfOElkUERrS0d5RVdaVERpejI2Q2lYdTNIY0RLSHVqQTM2UFJGVVlYNm9veHRzVHYxRmRyVjVCWlJhRnlXQTRpOF9MYVZ2d180X0tZM09sZnVUbzFJalZBbmVmRjJaUkJrbHpJUjI3Y0cwUl9zTlNuSnhsdHByUXNkOVRxV2RwaEkwYzVBeHJRMXdGY3VIdkJGdXZHOEVONmdWVmFOX2hQSkdFT2J1SjZaUXpsTnZ2UmlOUzdEOEhjOWFLX2U3UjBCb2ZjeA?oc=5)
 
 2026-11-20
 
-Source: [The Boston Globe](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QQndwa25DMUdfRXpVVU9iUi1mQVQxYmt1WVhxcG84VmVmdnNGcWFhQWd6bGdRclRUSXU0cXNxQUYxbGE3V0dVS0FHRGxhVW5FdzlORVhueGZ1M2Y2UzNxNG9ncE9IQWRWbWVSZTEyRVU3SU9ZMUNjTnNrcWxPdw?oc=5)
+Source: [Reuters](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSlFDZ0t2LWZfOElkUERrS0d5RVdaVERpejI2Q2lYdTNIY0RLSHVqQTM2UFJGVVlYNm9veHRzVHYxRmRyVjVCWlJhRnlXQTRpOF9MYVZ2d180X0tZM09sZnVUbzFJalZBbmVmRjJaUkJrbHpJUjI3Y0cwUl9zTlNuSnhsdHByUXNkOVRxV2RwaEkwYzVBeHJRMXdGY3VIdkJGdXZHOEVONmdWVmFOX2hQSkdFT2J1SjZaUXpsTnZ2UmlOUzdEOEhjOWFLX2U3UjBCb2ZjeA?oc=5)
 
 ---
 
@@ -77,6 +85,14 @@ Source: [The Seattle Times](https://news.google.com/rss/articles/CBMiswFBVV95cUx
 2026-11-20
 
 Source: [Yahoo Sports](https://news.google.com/rss/articles/CBMigAJBVV95cUxQMlpfdzlQWFJ6aVgzSTdYTEJJU3lDSkFxQzk5d2xvZW1yeE1WR3Iza3BqVFBWblJRV2h6ZnNXbXVfT2tTd2llaWhqOTM5ZEU2NlQ2WHNOT0VqRGNYT1BEMFVDcDVkcVd2T3hPbzdxcHJHRWJtUGJ5Q0ZnNzlwRHpZbksyQXdfYUVINFpMT2V6dWhFSWhoUWZRaHhIN2JGQ2xNWHlxNmMxSjgzNi1CRTBta2RiWWN3OFA0VE5QN1JQTzczZC1TWkVJeHJGV1pRZXJWTVNBdU5Ud3haSi1MZEpJbl8tSWsyOC1BbDNEUE1ZcFdyTlVMZnNXb3hielpVeEt6?oc=5)
+
+---
+
+### [Experts have for decades wanted to diagnose CTE in living people. BU researchers may have found a way. - The Boston Globe](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QQndwa25DMUdfRXpVVU9iUi1mQVQxYmt1WVhxcG84VmVmdnNGcWFhQWd6bGdRclRUSXU0cXNxQUYxbGE3V0dVS0FHRGxhVW5FdzlORVhueGZ1M2Y2UzNxNG9ncE9IQWRWbWVSZTEyRVU3SU9ZMUNjTnNrcWxPdw?oc=5)
+
+2026-11-19
+
+Source: [The Boston Globe](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QQndwa25DMUdfRXpVVU9iUi1mQVQxYmt1WVhxcG84VmVmdnNGcWFhQWd6bGdRclRUSXU0cXNxQUYxbGE3V0dVS0FHRGxhVW5FdzlORVhueGZ1M2Y2UzNxNG9ncE9IQWRWbWVSZTEyRVU3SU9ZMUNjTnNrcWxPdw?oc=5)
 
 ---
 
@@ -109,6 +125,14 @@ Source: [NBC News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdkpuTHdB
 2026-11-19
 
 Source: [STAT](https://news.google.com/rss/articles/CBMilgFBVV95cUxNUDlHcFVVUF9oZ1M1Ti1FamZEVm01NEJ2aWJQTk1ZTkpxeFhTM2dlM0lJdW1HMHNkUkVBR3lNNk5VSGtPSjRmTl9wSjlhQUVGTGxTclBTVFZ0NHp5Rzc1cXVkbE5WSC1ZdDBqNTAydUZSR2lnYlNBVThfLXhzLS1SalE1MXpzTnNNVUFpYjIxUWJ5dUJ4VXc?oc=5)
+
+---
+
+### [Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVBnYVppRkMtdUJrYWs3b0tESFNjTU4wOE5JeERpeFFtdUpGb3FLdlZCekxyY3JUNDVlM2dLZ2pLeTR6RGdVSXAzUllyRUU0NWh2T0tTWkZnMnFRY20tLVpEV05XbXFRT1dMUmtQM2l3cDlCWHdqWm1UM0p0THplVlJqM2xXZHllTk5XZ3M0bEtYeGY2Mkp0LQ?oc=5)
+
+2026-11-18
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVBnYVppRkMtdUJrYWs3b0tESFNjTU4wOE5JeERpeFFtdUpGb3FLdlZCekxyY3JUNDVlM2dLZ2pLeTR6RGdVSXAzUllyRUU0NWh2T0tTWkZnMnFRY20tLVpEV05XbXFRT1dMUmtQM2l3cDlCWHdqWm1UM0p0THplVlJqM2xXZHllTk5XZ3M0bEtYeGY2Mkp0LQ?oc=5)
 
 ---
 

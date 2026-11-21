@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 61 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 68 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-11-21
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>61 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>68 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,37 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (61)
+## Related News (68)
+
+### [NASA's Curiosity Rover Spots Potato Chip-Shaped Rocks On Mars](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUTZ0U3BlVTVRZXkxdmZ6WU5haDY2N3lIWEJaZlFRWkxyclNIbkRHQ0JnVjk3VUJfY3VLNlRXcVBEYTJiOHpkSnFvREU0TGZ6Q1lRNVJ5bndncFdBQkp6MF9tYVpTVnlkWjBMaGtSSXBaeWlNVDJubVk4dDNRWTlIREc3U3VhR2xxX1dQSVZ1aDdYNk9RVVVNX1RGdVlDeEnSAacBQVVfeXFMTmdobFhLY1VESmN4aVVPa1RzMV9JNzJyYkRHQVNwR0JQSEZhQ2JETTNBai1fRmdGNUNUdlZ1TXc4djk3bkNkenZ5UFo4YkdWSUw0RHlVRm81Z1AxM0taaWZwbzR6ekd0bDVSQ21hRlNaampNOVR0azFFLVVzRndFSVNKcEVWSnF0THEwSEdZUTd4cmFrNnJqeE85U0ViX25UZ2lyVkE4RW8?oc=5)
+
+2026-11-21
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUTZ0U3BlVTVRZXkxdmZ6WU5haDY2N3lIWEJaZlFRWkxyclNIbkRHQ0JnVjk3VUJfY3VLNlRXcVBEYTJiOHpkSnFvREU0TGZ6Q1lRNVJ5bndncFdBQkp6MF9tYVpTVnlkWjBMaGtSSXBaeWlNVDJubVk4dDNRWTlIREc3U3VhR2xxX1dQSVZ1aDdYNk9RVVVNX1RGdVlDeEnSAacBQVVfeXFMTmdobFhLY1VESmN4aVVPa1RzMV9JNzJyYkRHQVNwR0JQSEZhQ2JETTNBai1fRmdGNUNUdlZ1TXc4djk3bkNkenZ5UFo4YkdWSUw0RHlVRm81Z1AxM0taaWZwbzR6ekd0bDVSQ21hRlNaampNOVR0azFFLVVzRndFSVNKcEVWSnF0THEwSEdZUTd4cmFrNnJqeE85U0ViX25UZ2lyVkE4RW8?oc=5)
+
+---
 
 ### [H.I.V. Research Networks May Again Seek Federal Funding, With a Twist - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
 
 2026-11-20
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
+
+---
+
+### [Eating and sleeping later linked to health risks - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
+
+2026-11-20
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
+
+---
+
+### [These alcoholic drinks are all linked to sudden kidney damage - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSm5HcXd6dUc5eG5sM3lINkU5XzQ4a3o4U3A3S1l6VmtnSExnMW9tNkxQN181emxqdWlBd1lieWkwSTlPM3pqbTcweldGbHU1ak5salpJaEQ2UEdEY1NrdGhOZWZUNlNEM3BMZjc4SzR6SFcxcl9CRzl4VWFLR1N0MV9UOFAyVmVXRU45dENERFZtVFQ5ZjlJeHZEdDVLZFpqLXRLazUzN2c0bTA?oc=5)
+
+2026-11-20
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSm5HcXd6dUc5eG5sM3lINkU5XzQ4a3o4U3A3S1l6VmtnSExnMW9tNkxQN181emxqdWlBd1lieWkwSTlPM3pqbTcweldGbHU1ak5salpJaEQ2UEdEY1NrdGhOZWZUNlNEM3BMZjc4SzR6SFcxcl9CRzl4VWFLR1N0MV9UOFAyVmVXRU45dENERFZtVFQ5ZjlJeHZEdDVLZFpqLXRLazUzN2c0bTA?oc=5)
 
 ---
 
@@ -101,6 +125,14 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMia0FVX3lxTE1Va01KUWhf
 
 ---
 
+### [Powerful new weight-loss drug helps patients cut knee pain in half](https://news.google.com/rss/articles/CBMib0FVX3lxTE5mdWVxaEZDcGQwZUk5cm9xOXNJdEZuUnNQejZmRVg1MVNaZEFSRTU1bUxTSE02azVFQUpqdENQLVBMUEJhYmF0Vm82cVBmN2IyclZCRDdtMnltLWplVjBZN3p3RVFUa1hFcmRBeXNpYw?oc=5)
+
+2026-11-20
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5mdWVxaEZDcGQwZUk5cm9xOXNJdEZuUnNQejZmRVg1MVNaZEFSRTU1bUxTSE02azVFQUpqdENQLVBMUEJhYmF0Vm82cVBmN2IyclZCRDdtMnltLWplVjBZN3p3RVFUa1hFcmRBeXNpYw?oc=5)
+
+---
+
 ### [Discovery points to new approach for treating diabetes—no insulin required - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxQWnJLM1VHMTI2blZqbmkxTmFobTFtbXBPY3JCZkxZLW43bnJxWGFOLXNjbmZuRkg5WlJPT2hMQmlLQjZ2a3pyVFllaDZDaUlhZHBGRjNQZmJ1RUhVMmszUGJqdExVaHJhcXJZZF9yQWxjUU9QOC1pN3RyaXhsMGRMeWp0ZFhPQzY1NzRiNjM5TWhYQQ?oc=5)
 
 2026-11-19
@@ -149,6 +181,14 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDV
 
 ---
 
+### [Medical Imaging and Pediatric and Adolescent Brain Tumor Risk](https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4ZFF2b05jblpIZk4zWVEzT0RvSDFkM2xuVC1jdFhYcDAxeDktNWtPb1hsaHk2RVRSdjhqaWIySndENWFOWlA4NlFIQ1JYNF9mMFFHNWo5T3ctWVk0R0Jya05YY3FDdlo3?oc=5)
+
+2026-11-19
+
+Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4ZFF2b05jblpIZk4zWVEzT0RvSDFkM2xuVC1jdFhYcDAxeDktNWtPb1hsaHk2RVRSdjhqaWIySndENWFOWlA4NlFIQ1JYNF9mMFFHNWo5T3ctWVk0R0Jya05YY3FDdlo3?oc=5)
+
+---
+
 ### [This One Sleep Factor Matters More Than How Many Hours You Get, Study Suggests](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
 
 2026-11-19
@@ -178,6 +218,14 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVZn
 2026-11-19
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0doSXZPWHhuMmtGdDFOZEJBdWxmZ1pEZXNrS1hsMUpoSHpuYThZXzd2aVp1Y2Y1M2JxV20wWFdCaWU5ckIxWlhLS1k0ZU9iRExNbWFWbGFoUjR2cERpUnU2Nkp2MTNYbW1rQS1Od2lab3VrZFViQkpVbVU1QXZQRjk4Xy1UbjJUMFJMMHpmYjdheXp1OWZMaEU3Q1E2N3JM?oc=5)
+
+---
+
+### [Observation of tunable superradiant frequency combs](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBektpbTVnR1RTTFJpc205Zm55cEhpSE1xVFBPajdTV0c3d3JDTkZsRlBUTXA3RzV2dlUzWmZIMnhjeFoxZTczeHdhMUo3SWR4WGc0YlZ1cWlTQUpVVUpV?oc=5)
+
+2026-11-18
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBektpbTVnR1RTTFJpc205Zm55cEhpSE1xVFBPajdTV0c3d3JDTkZsRlBUTXA3RzV2dlUzWmZIMnhjeFoxZTczeHdhMUo3SWR4WGc0YlZ1cWlTQUpVVUpV?oc=5)
 
 ---
 
@@ -218,6 +266,14 @@ Source: [Sci.News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1QN2JPNnpi
 2026-11-18
 
 Source: [YourTango](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWlg2X0pRdG5yUnpXZ3VTNzZKa0FiSnFIcWJYb0JyVkZKT0tnZ08xRlBiVWNscHU4TXB3TV9FV0cxTklkY2lhVjA4dDRQUm1FSU53X1puODRWOHQ3V1NfMDFfTXBRaUdzbUtld3RJTVVSVWFIT1NMT1ZJSEVQVVpBY1RFUlNiSF9y?oc=5)
+
+---
+
+### [Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVBnYVppRkMtdUJrYWs3b0tESFNjTU4wOE5JeERpeFFtdUpGb3FLdlZCekxyY3JUNDVlM2dLZ2pLeTR6RGdVSXAzUllyRUU0NWh2T0tTWkZnMnFRY20tLVpEV05XbXFRT1dMUmtQM2l3cDlCWHdqWm1UM0p0THplVlJqM2xXZHllTk5XZ3M0bEtYeGY2Mkp0LQ?oc=5)
+
+2026-11-18
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVBnYVppRkMtdUJrYWs3b0tESFNjTU4wOE5JeERpeFFtdUpGb3FLdlZCekxyY3JUNDVlM2dLZ2pLeTR6RGdVSXAzUllyRUU0NWh2T0tTWkZnMnFRY20tLVpEV05XbXFRT1dMUmtQM2l3cDlCWHdqWm1UM0p0THplVlJqM2xXZHllTk5XZ3M0bEtYeGY2Mkp0LQ?oc=5)
 
 ---
 

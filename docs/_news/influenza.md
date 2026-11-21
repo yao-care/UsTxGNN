@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 34 articles, 2 related drugs."
+description: "Health news about flu (influenza). 35 articles, 2 related drugs."
 permalink: /news/influenza/
 last_modified_at: 2026-11-21
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>34 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>35 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,13 +31,21 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (34)
+## Related News (35)
 
 ### [Mutated flu strain pushes virus past last year's peak in SF](https://news.google.com/rss/articles/CBMigAFBVV95cUxNaG1NYV9WNkhMUEhiR3VHSE5MenVIb3A1MHdkXzFvMlZoS2pPTEItMkNMbWpXd2xkRm55cGYzRllRdHB5a3RNcHNvRVVHc1hNRWZfRlFwOXFJdzZTYlNlYlN2RGk4clVoZ1hWT2llVW54X2tzMXpOVU1QM3RZZnVTXw?oc=5)
 
 2026-11-20
 
 Source: [SFGATE](https://news.google.com/rss/articles/CBMigAFBVV95cUxNaG1NYV9WNkhMUEhiR3VHSE5MenVIb3A1MHdkXzFvMlZoS2pPTEItMkNMbWpXd2xkRm55cGYzRllRdHB5a3RNcHNvRVVHc1hNRWZfRlFwOXFJdzZTYlNlYlN2RGk4clVoZ1hWT2llVW54X2tzMXpOVU1QM3RZZnVTXw?oc=5)
+
+---
+
+### [Eating and sleeping later linked to health risks - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
+
+2026-11-20
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
 
 ---
 

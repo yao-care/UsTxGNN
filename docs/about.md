@@ -43,6 +43,10 @@ Examples of predictions that no other TxGNN site lists for the same medicine: [P
 
 ## Background
 
+<p class="key-answer" data-question="Is there a free dataset of drug repurposing predictions I can download?">
+Yes. UsTxGNN publishes its drug repurposing predictions and their evidence levels as an open, freely downloadable dataset. Dataset formats, download links and licences are listed on the <a href="{{ '/sources/' | relative_url }}">Data Sources</a> page, alongside the clinical evidence (ClinicalTrials.gov and PubMed records) each prediction is graded against.
+</p>
+
 <p class="key-answer" data-question="What is UsTxGNN?">
 <strong>UsTxGNN</strong> is a research-support platform for drug repurposing, built on the TxGNN
 model published in <em>Nature Medicine</em> by the Zitnik Lab at Harvard University. It predicts

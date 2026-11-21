@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ramucirumab. 10 predicted indications."
 permalink: /news/ramucirumab/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Ramucirumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>38 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>44 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,55 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (38)
+## Related News (44)
+
+### [New cervical cancer guidance to favor HPV screening over traditional Pap tests - NBC News](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFhGOElUOFNhNUNxekpTeDlKUVMtZkJlOEdUWEJjR3BIb1Jfdi1mUXRlX014WjgwT21UeVB3YjQ0aTZGbUFMX3lxT1RncFpoTGdFRjMxZUpZRUJhbzVCUFBuU2xiMUZEc3BlcG9mQXhVdW5helhnVHloMl9YQ3F3UTJSQlB2b1p0T1lFTzdVc2RLZXhvcHJwOVNmRjUzTVVVR29PMmlYVFVPUzJxdnE4b0JzMEhaaDZGUlE?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [NBC News](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFhGOElUOFNhNUNxekpTeDlKUVMtZkJlOEdUWEJjR3BIb1Jfdi1mUXRlX014WjgwT21UeVB3YjQ0aTZGbUFMX3lxT1RncFpoTGdFRjMxZUpZRUJhbzVCUFBuU2xiMUZEc3BlcG9mQXhVdW5helhnVHloMl9YQ3F3UTJSQlB2b1p0T1lFTzdVc2RLZXhvcHJwOVNmRjUzTVVVR29PMmlYVFVPUzJxdnE4b0JzMEhaaDZGUlE?oc=5)
+
+---
+
+### [All men over 50 should be screened for prostate cancer, say US experts - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTltOEpsVjlMUTdrZlNmQWV3eHlmVkxtNktGMHlNYzgxY08zaEVucFh5SE5Cdm1pa0Job1lWam15d3NoOUdWZlhPSGkwNXdKbDNoZlpUV21uNGtKeWFBSFMtYnNCcmw2akVqVWt1alFhaENzNlBUd0pLV0JjZUxJck5YbkR4UFcyVk84N0NXUlRxYlE5WTFCNUFYVDJhaVp2?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTltOEpsVjlMUTdrZlNmQWV3eHlmVkxtNktGMHlNYzgxY08zaEVucFh5SE5Cdm1pa0Job1lWam15d3NoOUdWZlhPSGkwNXdKbDNoZlpUV21uNGtKeWFBSFMtYnNCcmw2akVqVWt1alFhaENzNlBUd0pLV0JjZUxJck5YbkR4UFcyVk84N0NXUlRxYlE5WTFCNUFYVDJhaVp2?oc=5)
+
+---
+
+### [Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">RA</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
+
+---
+
+### [New pancreatic cancer drug halts tumour growth in 90% of patients - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RTTVJkU3ZLREhsRFQ4Y21qWWVvd0ZwSmdROVpQaHFWTF82N01OVXdzbTRqSUlIUjVjN0VOZDBVUlI4Q1NNWU0ycEhLckdnSS1RRTQyRFE4SjhZWnF5dTdsYUp0b0I3YkY1MmZVZmc1bEJCNDhxV09MaVlReUxtX1BXejA?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span>
+
+Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RTTVJkU3ZLREhsRFQ4Y21qWWVvd0ZwSmdROVpQaHFWTF82N01OVXdzbTRqSUlIUjVjN0VOZDBVUlI4Q1NNWU0ycEhLckdnSS1RRTQyRFE4SjhZWnF5dTdsYUp0b0I3YkY1MmZVZmc1bEJCNDhxV09MaVlReUxtX1BXejA?oc=5)
+
+---
+
+### [Humans Age Faster at 2 Sharp Peaks, Study of The Immune System Shows](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3B5bm9VbUUwV0xEVWJqRjNsMC1oTmp1M3ozUmhxbjRZNHg0WVE1bGhhVlNneFBBWWJqNjVHb215ZmtfSEl5SEZPeHVCcFJpSWljcmNLcXRmU0IzM3pXblNUYVBKdDBBSzZnMUpvbkRhQnFUUE9TWV82X19lYnZwWG9QRnF5eDdnYnFnU3FzRmt3eUllak9mejZPbEo?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3B5bm9VbUUwV0xEVWJqRjNsMC1oTmp1M3ozUmhxbjRZNHg0WVE1bGhhVlNneFBBWWJqNjVHb215ZmtfSEl5SEZPeHVCcFJpSWljcmNLcXRmU0IzM3pXblNUYVBKdDBBSzZnMUpvbkRhQnFUUE9TWV82X19lYnZwWG9QRnF5eDdnYnFnU3FzRmt3eUllak9mejZPbEo?oc=5)
+
+---
+
+### [Fayetteville mom rings cancer-free bell after 3-year battle with stage 4 colon cancer](https://news.google.com/rss/articles/CBMingFBVV95cUxQc003VDhXdkxhTWRONERSa2VCMlhJT2NRRnFybnc4aGZCM1gyQWx4UkRyZE8zODZLbXdTSXk4cDRtZ3o5TV85cWxjdU9jejluYzJKcDlJSkRVNE5JcVJ5cGpuMzFtNTBuUkxmYXBQWE1CdXZZZE84aWNkWENhU3VxVTlDeGhyMXJKb3JDOUREQUIxQWROZWt5QkxhWGlMQQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [WRAL](https://news.google.com/rss/articles/CBMingFBVV95cUxQc003VDhXdkxhTWRONERSa2VCMlhJT2NRRnFybnc4aGZCM1gyQWx4UkRyZE8zODZLbXdTSXk4cDRtZ3o5TV85cWxjdU9jejluYzJKcDlJSkRVNE5JcVJ5cGpuMzFtNTBuUkxmYXBQWE1CdXZZZE84aWNkWENhU3VxVTlDeGhyMXJKb3JDOUREQUIxQWROZWt5QkxhWGlMQQ?oc=5)
+
+---
 
 ### [Childhood stomach bug toxin is ‘leading explanation’ for rise in early-onset colorectal cancer: expert - New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDVFZlRneXUwaEROS3pwS3VQWmZJRkVRUVFLTklmbC14dlpUU3ZWTUtqOE1LNDczVFdiUExMVlR2d0Z6RDFrbHlNUXdPUERzQ2QxNXJmdnpkQUZxRVAyMklqVDdWOFRYS3dqRDhBN3I0VkRXbHotYVhadmQzZDkzQXFMaU1iYk9wMV9LQ2xPX3RFYU1mYldIbW9ZNHB1RzRrNkcwaA?oc=5)
 
@@ -110,7 +158,7 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNy1pOGxIcUo
 
 ### [Vapes cause ‘irreversible’ internal damage, study finds: ‘This should be a wake-up call’ - New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
 
-2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">RA</span> <span class="news-drug-tag">Tadalafil</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span> <span class="news-drug-tag">Tadalafil</span>
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 47 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 61 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # UC (inflammatory bowel disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>47 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>61 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,103 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (47)
+## Related News (61)
+
+### [H.I.V. Research Networks May Again Seek Federal Funding, With a Twist - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
+
+2026-11-20
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
+
+---
+
+### [Column | Just one minute of this activity may cut blood sugar spikes by 40 percent - The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlNBSFVmOHYwUjNGaUJUc1R5Ul9YUFZ4bTQtWXZZM2JScU9HbndhZmQ3QTIyU1BCT3BsOXEzOWtkWW9lZi1vQWxoZ1JxRHVab0hGdkJzRGdoeVhYVUlQZ000ekt2M3FycEJnelV0amZOUFNPSDNDdC1jUmMxVDlpWVlHV0N4UFRnSjdEY1djYUhncE16M3BOMm80TlFfdmVJU0JEVlBMeTJucm9FV1ZSQk9KY0NUa2FfMXRCalFxVQ?oc=5)
+
+2026-11-20
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlNBSFVmOHYwUjNGaUJUc1R5Ul9YUFZ4bTQtWXZZM2JScU9HbndhZmQ3QTIyU1BCT3BsOXEzOWtkWW9lZi1vQWxoZ1JxRHVab0hGdkJzRGdoeVhYVUlQZ000ekt2M3FycEJnelV0amZOUFNPSDNDdC1jUmMxVDlpWVlHV0N4UFRnSjdEY1djYUhncE16M3BOMm80TlFfdmVJU0JEVlBMeTJucm9FV1ZSQk9KY0NUa2FfMXRCalFxVQ?oc=5)
+
+---
+
+### [Are some salts healthier than others? - The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ3VkJrck5YcXIwNmkwclNOcmNUNmlOVlYycXQ2SHhkWWNsMXk0bzJPZVJwZU12Rm5RZmJVRW1jSk1fUkc0T3ozNWVCQkVMQnUwMk9ZdUZ3Ri03NWl1cWtPM0tjV2taQ0VzcWNtQWdYWDFZZVNUTDFKTXZDTUdwQ1o5bFI4Ym9kUndrdVpqV2FlSUhaVEgzMjJxcG4?oc=5)
+
+2026-11-20
+
+Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ3VkJrck5YcXIwNmkwclNOcmNUNmlOVlYycXQ2SHhkWWNsMXk0bzJPZVJwZU12Rm5RZmJVRW1jSk1fUkc0T3ozNWVCQkVMQnUwMk9ZdUZ3Ri03NWl1cWtPM0tjV2taQ0VzcWNtQWdYWDFZZVNUTDFKTXZDTUdwQ1o5bFI4Ym9kUndrdVpqV2FlSUhaVEgzMjJxcG4?oc=5)
+
+---
+
+### [Sleeping nine or more hours in a day could be a warning sign for adults with this common condition - The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW90TlFPTlI1WWpRMnBoVlNXVk5yc1RzV3RfSC01RFd6QldZbUFHMEFNNzFvTE5VdHZ6eXBTVFhVaWVLYzMxVklPMmtyZjZ3WjE1YVlzY0o5WjlkSWRKXy11UW9JTmJ3c2Y2aFVyeGt3a0h2TFVCTXJMMXdmVDFaNDhoNWFGTGcwbWJwVlVQM3Y?oc=5)
+
+2026-11-20
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW90TlFPTlI1WWpRMnBoVlNXVk5yc1RzV3RfSC01RFd6QldZbUFHMEFNNzFvTE5VdHZ6eXBTVFhVaWVLYzMxVklPMmtyZjZ3WjE1YVlzY0o5WjlkSWRKXy11UW9JTmJ3c2Y2aFVyeGt3a0h2TFVCTXJMMXdmVDFaNDhoNWFGTGcwbWJwVlVQM3Y?oc=5)
+
+---
+
+### [High blood sugar powers an experimental implant that helps improve glucose control in diabetes - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUF1YUpqbk9wRE1GYUJhT3ZWZXl2T2tRSnpzY1V1RU9jNW93Z3d1a29OQ1REREU1ZllVbDFWeGlTS3hoS1RxZWwzeDQydWpJXzlmVEZkZERaRkZwekpMWlFLNWpJcWdTSmZSUUQyYTQzXzhqbFV3aTh3OHdIbFR3RkktN044YVU?oc=5)
+
+2026-11-20
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUF1YUpqbk9wRE1GYUJhT3ZWZXl2T2tRSnpzY1V1RU9jNW93Z3d1a29OQ1REREU1ZllVbDFWeGlTS3hoS1RxZWwzeDQydWpJXzlmVEZkZERaRkZwekpMWlFLNWpJcWdTSmZSUUQyYTQzXzhqbFV3aTh3OHdIbFR3RkktN044YVU?oc=5)
+
+---
+
+### [Buckwheat vs. Oatmeal: Which Is a Better Breakfast for Blood Sugar? - Verywell Health](https://news.google.com/rss/articles/CBMifEFVX3lxTE84eExzT3UtMWZPMEVlNDhhM2huM29jaDNFNzNoSnA4T2dESWJta2lVNGxzbXBkbzNDbGlOTHdqcEprSVpHMndHS0JLaVR6Q011MTBmVVpyQlNmSXpxTS1JWVUwbm1DVkpWczZKZVh2akNQWl9KTF94QlZOV0U?oc=5)
+
+2026-11-20
+
+Source: [Verywell Health](https://news.google.com/rss/articles/CBMifEFVX3lxTE84eExzT3UtMWZPMEVlNDhhM2huM29jaDNFNzNoSnA4T2dESWJta2lVNGxzbXBkbzNDbGlOTHdqcEprSVpHMndHS0JLaVR6Q011MTBmVVpyQlNmSXpxTS1JWVUwbm1DVkpWczZKZVh2akNQWl9KTF94QlZOV0U?oc=5)
+
+---
+
+### [Keto diet slashes liver fat by 67% in just 4 months](https://news.google.com/rss/articles/CBMib0FVX3lxTE93R1I2ZjdEWnVzU3BNNlo5S3RVR2E3WTF5TlJyQXo5Y09yWWtuOGdWbW5meVVkT0hhb3lYZWhwQWwzSUUyWTJ4Z2NxcnQwZmN4QVhhWFFSX29xeTBpa0ZvNTMyZzJnZEF1YjJUbEk4QQ?oc=5)
+
+2026-11-20
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE93R1I2ZjdEWnVzU3BNNlo5S3RVR2E3WTF5TlJyQXo5Y09yWWtuOGdWbW5meVVkT0hhb3lYZWhwQWwzSUUyWTJ4Z2NxcnQwZmN4QVhhWFFSX29xeTBpa0ZvNTMyZzJnZEF1YjJUbEk4QQ?oc=5)
+
+---
+
+### [Galactic shock: Discovery challenges our understanding of the Milky Way's structure](https://news.google.com/rss/articles/CBMia0FVX3lxTE1Va01KUWhfZFVoZmFTR3c0azNQRXhFSkJmRkdEbEtLQjBZMkhXNXlGZF9fb2NiZVFmampIMVYzUXNDNnZxQ0U1a0ZzdzlzRHBkZi1sWWU0R1V6OUQweldSZnJzYWd0VVFXMEk4?oc=5)
+
+2026-11-20
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMia0FVX3lxTE1Va01KUWhfZFVoZmFTR3c0azNQRXhFSkJmRkdEbEtLQjBZMkhXNXlGZF9fb2NiZVFmampIMVYzUXNDNnZxQ0U1a0ZzdzlzRHBkZi1sWWU0R1V6OUQweldSZnJzYWd0VVFXMEk4?oc=5)
+
+---
+
+### [Discovery points to new approach for treating diabetes—no insulin required - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxQWnJLM1VHMTI2blZqbmkxTmFobTFtbXBPY3JCZkxZLW43bnJxWGFOLXNjbmZuRkg5WlJPT2hMQmlLQjZ2a3pyVFllaDZDaUlhZHBGRjNQZmJ1RUhVMmszUGJqdExVaHJhcXJZZF9yQWxjUU9QOC1pN3RyaXhsMGRMeWp0ZFhPQzY1NzRiNjM5TWhYQQ?oc=5)
+
+2026-11-19
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxQWnJLM1VHMTI2blZqbmkxTmFobTFtbXBPY3JCZkxZLW43bnJxWGFOLXNjbmZuRkg5WlJPT2hMQmlLQjZ2a3pyVFllaDZDaUlhZHBGRjNQZmJ1RUhVMmszUGJqdExVaHJhcXJZZF9yQWxjUU9QOC1pN3RyaXhsMGRMeWp0ZFhPQzY1NzRiNjM5TWhYQQ?oc=5)
+
+---
+
+### [Exclusive: I got to eavesdrop on AI agents doing science. It was eye opening - Science | AAAS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUhLMDNxWDJCaFkxQk5lQnFMZGllS0NXVThFSkd5UUxZS3pQQVF6Rk52VERJS2tvS2xZbGF1ak9vYmlFUGZiMTd1aG5aZjE1UFlPY2R3cElhTzdVM3ozUW04MjdRek9vQk1zblhVYlhMY2x3c1lZZ2RkcUlDOHNFTlFuNElEVDYzeXdST3pSVVBLSE5oMmM0NVVkREo4cTRkTlFXYl9ueG5yZkhr?oc=5)
+
+2026-11-19
+
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUhLMDNxWDJCaFkxQk5lQnFMZGllS0NXVThFSkd5UUxZS3pQQVF6Rk52VERJS2tvS2xZbGF1ak9vYmlFUGZiMTd1aG5aZjE1UFlPY2R3cElhTzdVM3ozUW04MjdRek9vQk1zblhVYlhMY2x3c1lZZ2RkcUlDOHNFTlFuNElEVDYzeXdST3pSVVBLSE5oMmM0NVVkREo4cTRkTlFXYl9ueG5yZkhr?oc=5)
+
+---
+
+### [Stem cells injected into brains of Alzheimer’s patients in world first - The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5)
+
+2026-11-19
+
+Source: [The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5)
+
+---
+
+### [Balancing redox-mediated cytotoxicity and catalysis in natural product biosynthesis - Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE16RWg4MVZQSUM0NzVwZC1LVUlUZkc5dEF0eF80cTh4S0hxMVRiSnloOWdxQWQ1Yk03NWhRZGlSQnMxYk9fUnk3MWVlai1DZnlGanJEZlZ3aDhlTlp4SlVlLQ?oc=5)
+
+2026-11-19
+
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE16RWg4MVZQSUM0NzVwZC1LVUlUZkc5dEF0eF80cTh4S0hxMVRiSnloOWdxQWQ1Yk03NWhRZGlSQnMxYk9fUnk3MWVlai1DZnlGanJEZlZ3aDhlTlp4SlVlLQ?oc=5)
+
+---
 
 ### [A neural code for generative speech production in human Wernicke’s area - Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JLUZZcVR4dDlrT0JnaXBVNndVdExGV3NaUFBhN0hYWFJDX2xMaHJpLVVCeEg0ZW9JeW90OFBsc1A2MHZlWU1HQll4TmtrZG41MzAySFlBc1JwSUpOanBkMQ?oc=5)
 
@@ -58,6 +154,14 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDV
 2026-11-19
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
+
+---
+
+### [Scientists succeed in growing potatoes in simulated moon soil](https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWhSRzFsUkF2NThsYWFFUHJ2bXdzTjRNNnozQjlONEV0Ym5ldTA0Y1pFajUwMDk3TEJCUk1XNkNIQXVaOEpzczF4VlllNFJYYzAxdkdSc29fdnJHSVh4YUZCVF95QTh3eFFyX0psMFQ4RUdBMWx3bGFGT3B5ZXVpaTcyck42Tm1veVNPSlpwZWpvS3ZRQjczVFV2U1dxSERG?oc=5)
+
+2026-11-19
+
+Source: [Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWhSRzFsUkF2NThsYWFFUHJ2bXdzTjRNNnozQjlONEV0Ym5ldTA0Y1pFajUwMDk3TEJCUk1XNkNIQXVaOEpzczF4VlllNFJYYzAxdkdSc29fdnJHSVh4YUZCVF95QTh3eFFyX0psMFQ4RUdBMWx3bGFGT3B5ZXVpaTcyck42Tm1veVNPSlpwZWpvS3ZRQjczVFV2U1dxSERG?oc=5)
 
 ---
 
@@ -237,6 +341,14 @@ Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6aEtw
 
 ---
 
+### [How Long Does It Take to Get Out of Shape? - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTFBrcjNkdTc0R2JzVVZhQVlnTVYtaTcxVmRuYmMxMERVZ0J3NFBiMnM5dkdLUTVWRzdxMUJrN1d6ZDFSZUdCWGh6WWlKZUZqdGtXTkY2aWFMYmlJeTU2a0lKeU9tMks4ZWl4ZnFtWVJMaVZjZFFhVnh1dkUwOGI?oc=5)
+
+2026-11-17
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTFBrcjNkdTc0R2JzVVZhQVlnTVYtaTcxVmRuYmMxMERVZ0J3NFBiMnM5dkdLUTVWRzdxMUJrN1d6ZDFSZUdCWGh6WWlKZUZqdGtXTkY2aWFMYmlJeTU2a0lKeU9tMks4ZWl4ZnFtWVJMaVZjZFFhVnh1dkUwOGI?oc=5)
+
+---
+
 ### [Your Cycling Fitness Has a 14-Day Expiration Date - Outside Magazine](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMk4xaWUtZ0Mzdl84WUQ3QlVUcDdrU2s1UzVhYWktLUJPYXBZSXBQVG1BV2FiZ0Y3dlF4S2Q3ZzdJb1R2Zlg0ZmhwTnk2LXRTeHk4YUljek9kQll1Rm5VdzhQUlJIMnA0aVBxRHdsdzlaeF94QzZtU2s0Yk9Tc2F6WWFrSUxUU2NtcnRCejdB?oc=5)
 
 2026-11-17
@@ -277,6 +389,14 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2U
 
 ---
 
+### [What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing. - Quanta Magazine](https://news.google.com/rss/articles/CBMitAFBVV95cUxPS2FMdU5KcE5LQ2lwa0VBQkFmSlZ4a1NYYk5CakxmQ2lQZ3E1cW1mbjZuQ1dpaE5LYTZLc1pSb1Z2OU9TMzRWejhoWmNON2xyNHhCMVo4aElpOHhMemNjZ0JTOXY1TEpuSEFqZ3UtM3VjSVFjRU1pNVctOUFjYnR0T3JxOUlnajROY3lPWnR4V0NLQ09FbllwdDg2N1FwbHZMLXllUTkxVWJvR3d4UHFrVHJIY1g?oc=5)
+
+2026-11-16
+
+Source: [Quanta Magazine](https://news.google.com/rss/articles/CBMitAFBVV95cUxPS2FMdU5KcE5LQ2lwa0VBQkFmSlZ4a1NYYk5CakxmQ2lQZ3E1cW1mbjZuQ1dpaE5LYTZLc1pSb1Z2OU9TMzRWejhoWmNON2xyNHhCMVo4aElpOHhMemNjZ0JTOXY1TEpuSEFqZ3UtM3VjSVFjRU1pNVctOUFjYnR0T3JxOUlnajROY3lPWnR4V0NLQ09FbllwdDg2N1FwbHZMLXllUTkxVWJvR3d4UHFrVHJIY1g?oc=5)
+
+---
+
 ### [More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JUXp5ZldJZmtpZ2lpZTNXN0VpeEI2N1RHQU5HWUg3OHFSTzhuN3l5MTROZEZzZ1R4cXBOWmhTQTY1b2ZwSjJTVFp5bzk5eWt5dmxCb3gxMWVoT25oN3BISDFYcEM0U0U?oc=5)
 
 2026-11-16
@@ -298,14 +418,6 @@ Source: [Nautilus | Science Connected](https://news.google.com/rss/articles/CBMi
 2026-11-16
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5pNGFUY0FwaHV5N1ZRY2VVanIzN3RXbllrY0VzeUxTTnpWdTRfdUM1azlaaU9TeDlNd3plY0FYR0l0WlBBY1FKNE9iaUpjUXZCQUJlTHRlWUZxaURZczM5cUtIOXBxZUsyaG5NUDZXcw?oc=5)
-
----
-
-### [MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBmSjQzSUFNV0cxblZIRzdoaFQwaTNtR1lMcnVIR2FDYjh4ZHJhVkJFSnltaWFZMVhQd0FoN2M4Ulo0emxlMFRRcERGTE0xd3JwZU9aOVBNSGdBNDRCTUJadzhhVThaeFRxWWkxZ0I5VQ?oc=5)
-
-2026-11-16
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBmSjQzSUFNV0cxblZIRzdoaFQwaTNtR1lMcnVIR2FDYjh4ZHJhVkJFSnltaWFZMVhQd0FoN2M4Ulo0emxlMFRRcERGTE0xd3JwZU9aOVBNSGdBNDRCTUJadzhhVThaeFRxWWkxZ0I5VQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 31 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 35 articles, 1 related drugs."
 permalink: /news/heart-disease/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>31 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>35 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (31)
+## Related News (35)
+
+### [Common sleep habit linked to 50% higher death risk in heart patients, recent study finds - Fox News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVR3cGkxcy15MDlNVkRkZ19wcnhGVlc2V28zYmgxb0lKSXZJOUo3ZmFodXBEa3JnMjJodFlkTFZ0U05YVTdDQkw3Rm9CdE4xUHB5R1RPSXJrNWNzM0c4VUI5WTV5QnhnY2dtOWFQR3ZjY2N0S1lKaTMwZGktUHZsYmphWkZlS0RWTnVwOTQ2aVo5M0tXWjNDdmxRbDliOE9MVkVjR1pDNEwyY2FrSmFPUNIBtgFBVV95cUxPUWNkTDRUcUN2MG9EYVQzYUtnRlhuZS13V3VhbWVrWW1qb1pOSFdFTlRyOTlycHEwWVF2azJZX2M4Yzk5WkpPeDhENFJCTkd0RXFZUFVYckMxaUFsay1UU1NLenBldnQzXzQxanJnZTBPTmxoaktGWWRUS2RVakJ3NzA0MWJfT0djMjNMNlJBSnREdzVsbTFOUHZHYlM5Z0dnOWx4VHJNNWRVc1c0OE04TXl5bTVPZw?oc=5)
+
+2026-11-22
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVR3cGkxcy15MDlNVkRkZ19wcnhGVlc2V28zYmgxb0lKSXZJOUo3ZmFodXBEa3JnMjJodFlkTFZ0U05YVTdDQkw3Rm9CdE4xUHB5R1RPSXJrNWNzM0c4VUI5WTV5QnhnY2dtOWFQR3ZjY2N0S1lKaTMwZGktUHZsYmphWkZlS0RWTnVwOTQ2aVo5M0tXWjNDdmxRbDliOE9MVkVjR1pDNEwyY2FrSmFPUNIBtgFBVV95cUxPUWNkTDRUcUN2MG9EYVQzYUtnRlhuZS13V3VhbWVrWW1qb1pOSFdFTlRyOTlycHEwWVF2azJZX2M4Yzk5WkpPeDhENFJCTkd0RXFZUFVYckMxaUFsay1UU1NLenBldnQzXzQxanJnZTBPTmxoaktGWWRUS2RVakJ3NzA0MWJfT0djMjNMNlJBSnREdzVsbTFOUHZHYlM5Z0dnOWx4VHJNNWRVc1c0OE04TXl5bTVPZw?oc=5)
+
+---
+
+### [European-Japanese BepiColombo mission becomes 2nd ever to arrive in orbit around Mercury](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTNvdl9DUkdXMllqTXdqM053Mmc1REdQZjVTOGlXY1JGZVNvSHRTeFhIZjJXYVE0OFZ3UHBPWDdkdi1TTHZWc3lrZkNPVXd6LTFmT3kxN28zclJOcTlXLVNSanl4UnRHNzhuVDNnenhLTXRqQ3RJRk1sNEJIVTUycVA1Zi0tNnhyNjJJV2JBaFNDdUZZY1J3Vi10MTBHMXd0RXc?oc=5)
+
+2026-11-22
+
+Source: [Space](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTNvdl9DUkdXMllqTXdqM053Mmc1REdQZjVTOGlXY1JGZVNvSHRTeFhIZjJXYVE0OFZ3UHBPWDdkdi1TTHZWc3lrZkNPVXd6LTFmT3kxN28zclJOcTlXLVNSanl4UnRHNzhuVDNnenhLTXRqQ3RJRk1sNEJIVTUycVA1Zi0tNnhyNjJJV2JBaFNDdUZZY1J3Vi10MTBHMXd0RXc?oc=5)
+
+---
 
 ### [New pancreatic cancer drug stops tumor growth: Study](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNEU1WUljbVoySEdNdXJFSWJzZjJyM2ZUeGpiLTE1TEUtWnpsS09UT19Pakt4U2JXZ2lhZ253UVFMTVJLMmRWQTByU0pYYTNuaHhSVERISHRQM0dLNXlzV09obmNkaGpRUzdGVzVybFJfRE54bW4wSldFMlRrNTN1aXo1ZWd1QdIBiwFBVV95cUxOb2g1TUpDajZTWUJVWDl0ZktDZmFuYjhTNFBTSnZkWVctMnhYVnR5SUdjT0ZSTk41aUhhN0Fha0lVaHdJSWJTX2lpeTU5WUdsRUY1eHhfN3lQSk80dFFFeXlEd01hODdDLUVHQmFGbVhudjh6dVcwVVVKSEhfczIxOVdKMWhKNE9KRzdV?oc=5)
 
@@ -45,6 +61,22 @@ Source: [NewsNation](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNEU1WU
 2026-11-21
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxQckhpUXNVWXJrVGVkeGZJYVh4aXN2VlV4UHR2SXJMS0V6WFlYVnBjRjNkRldNVDVzTVZiSkFoN3Jqdy01aEMyYWkxRFJSR2FQelg0UnFvcms2NzlIRnJvLWlsQnl1aVFkVXl2MGhRY09OYnNoZ0ZCUDN6cVplS0NhN3g4dHRUZ2JqRFU4QXRoMThiMU9xZC1NRWtOMExHWlJyUDlXUVVXZ0xRWkhsSmc?oc=5)
+
+---
+
+### [Despite soaring demand for GLP-1s, many eligible patients are unable to access these drugs for weight loss - Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTE95RmpGelUxandKS2xxN2lLcGNjT0d5QlZnSkRQOUFTanZTZGJldEk3N3VoNWdCTnpHbTNRZkVpTE55ZlhTb0ctZ2QxTFJHSGFwU0tmOFFCdXl3VU1qLWRKUWd2R3dIbVNpejVBVG43dmxBMGVXNGFUUlV1TkU2dUU?oc=5)
+
+2026-11-21
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTE95RmpGelUxandKS2xxN2lLcGNjT0d5QlZnSkRQOUFTanZTZGJldEk3N3VoNWdCTnpHbTNRZkVpTE55ZlhTb0ctZ2QxTFJHSGFwU0tmOFFCdXl3VU1qLWRKUWd2R3dIbVNpejVBVG43dmxBMGVXNGFUUlV1TkU2dUU?oc=5)
+
+---
+
+### [New drug combo shrinks tumors in most patients facing aggressive cancer type - Fox News](https://news.google.com/rss/articles/CBMingFBVV95cUxQQXhQdjVhSTVORkh4NktYeGFVeENIYzJTdWVud3hPTlJEU0xyTGJ6ZlZBTE9qUzdDWTB1ZHh6NzdSMWNkNWtxWkVENnZESmR0NFNGM3VQZ3R3eHNsTUJQUXRHcEVLODFzY0xpQkFHc0d6ZGNDaUVNelZjNWVaX0NSUUhjWTFXeFN0Wk1SR29YNXkyTW14WWFxZXBWd3BLQdIBowFBVV95cUxOTVhkZzNIekJWS2lLX0UzUnM4LV9fY29XUlZiMXZyQ2E3eTRnYTlmQVJ2aXZiSjNsd2lGUE1zTFBla2dpdVlTMnA1Q1pqQWRNcGdKUFpLWnlDc0huSC0waVpyY2N3dTFKZnhmT2dzOTNlN3doN05JVk42R1BNeWMyWVJWejN6OENnZlNmaXFaLWllSGRPUUdDRFlYazQ4cWZKbGZv?oc=5)
+
+2026-11-21
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMingFBVV95cUxQQXhQdjVhSTVORkh4NktYeGFVeENIYzJTdWVud3hPTlJEU0xyTGJ6ZlZBTE9qUzdDWTB1ZHh6NzdSMWNkNWtxWkVENnZESmR0NFNGM3VQZ3R3eHNsTUJQUXRHcEVLODFzY0xpQkFHc0d6ZGNDaUVNelZjNWVaX0NSUUhjWTFXeFN0Wk1SR29YNXkyTW14WWFxZXBWd3BLQdIBowFBVV95cUxOTVhkZzNIekJWS2lLX0UzUnM4LV9fY29XUlZiMXZyQ2E3eTRnYTlmQVJ2aXZiSjNsd2lGUE1zTFBla2dpdVlTMnA1Q1pqQWRNcGdKUFpLWnlDc0huSC0waVpyY2N3dTFKZnhmT2dzOTNlN3doN05JVk42R1BNeWMyWVJWejN6OENnZlNmaXFaLWllSGRPUUdDRFlYazQ4cWZKbGZv?oc=5)
 
 ---
 

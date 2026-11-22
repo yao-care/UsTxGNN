@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>77 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>81 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,31 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (77)
+## Related News (81)
+
+### [Two-step routine could help ward off Alzheimer’s disease: study - New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXdvY1dJVFd1Y2hGMm1YZVIwYmhMQVMwSVQwOGNrcFVzby1HRml2bi1LeEJnT2ZNd2FDV0J4SHRvR0RmQnNNWVpLVjFJMlBhY0tHSVoxMnlSaktWT1FyQXltMXVyaUltand2dFU3WFByMWFnVG1MYXNmVVRiSWZKRloxWHlzZ194ZUdGeEx3MF9OSE9LaEVkaw?oc=5)
+
+2026-11-22 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXdvY1dJVFd1Y2hGMm1YZVIwYmhMQVMwSVQwOGNrcFVzby1HRml2bi1LeEJnT2ZNd2FDV0J4SHRvR0RmQnNNWVpLVjFJMlBhY0tHSVoxMnlSaktWT1FyQXltMXVyaUltand2dFU3WFByMWFnVG1MYXNmVVRiSWZKRloxWHlzZ194ZUdGeEx3MF9OSE9LaEVkaw?oc=5)
+
+---
+
+### [Potatoes Grow In Simulated Lunar Soil As Well As On Earth](https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3dGbmJHWldQQTFxeDBoYWE4SW9oU0tLWVlaS1NUa2tQWWZGOEUwMkRpMkJleEROVnViWGJaUnIyd2liTUdBWUZ4ZkZHUzZ3R0RTQ3VlNjBHbEx1LWIxWDlFd0lhZkF3U01EQjdLSlFUR2Z5ajFocDhhcENJUFI4djBSMzdfUC13cnJCRWFyX3lVTUU0?oc=5)
+
+2026-11-22 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Hackaday](https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3dGbmJHWldQQTFxeDBoYWE4SW9oU0tLWVlaS1NUa2tQWWZGOEUwMkRpMkJleEROVnViWGJaUnIyd2liTUdBWUZ4ZkZHUzZ3R0RTQ3VlNjBHbEx1LWIxWDlFd0lhZkF3U01EQjdLSlFUR2Z5ajFocDhhcENJUFI4djBSMzdfUC13cnJCRWFyX3lVTUU0?oc=5)
+
+---
+
+### [Short walks throughout the day may help keep blood sugar in check - Medical News Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlhXTFU2S0FELXFFV0pLRjVLM1RxcUtKUUFkbkdMSWc4XzFNaVQwNUY3WEV3VVJkdGZVY0ltTEpXUU5zaG9DUUZDZEtINFM2d3ItQWxxY0NLQnJYclJpUEtHUEpIQ3Zxa2ZiVWptYnJSdFFCQ2dPaWFuOFE2N1VabWdZYmRBcEhBdUwzX2REaVdJNDl1TUNxeEIxUktGZ3NmcVphVFF4alY?oc=5)
+
+2026-11-22 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlhXTFU2S0FELXFFV0pLRjVLM1RxcUtKUUFkbkdMSWc4XzFNaVQwNUY3WEV3VVJkdGZVY0ltTEpXUU5zaG9DUUZDZEtINFM2d3ItQWxxY0NLQnJYclJpUEtHUEpIQ3Zxa2ZiVWptYnJSdFFCQ2dPaWFuOFE2N1VabWdZYmRBcEhBdUwzX2REaVdJNDl1TUNxeEIxUktGZ3NmcVphVFF4alY?oc=5)
+
+---
 
 ### [Lung cancer is the world’s most commonly diagnosed cancer and the leading cause of cancer deaths: Oncologist explains 7 major risk factors, including smoking, second-hand smoke, air pollution and radon, and practical ways to reduce risk - The Times of India](https://news.google.com/rss/articles/CBMiqgNBVV95cUxONU5WSVVEam9OZWFsR0FOdENwZk9BMDN3MmVFOHpKM0xzQzdMQlpyTUxJcVlZMmx0ZmN5TWtCZUMzWEMtd3RvLU96Zjdkc2lUWThsb281Vmpra1RCcE5BMlFQRXRndVBiMGpXRVg5THRQX2g1YzJfWmFmT3AxYWpiZ3lSUmdrRE85bmFZM2lNR2hLTlkwZ3ZCeXo0SWs0ZDdVMFhUcVJ3ZzhreE94Ym5YWE95SENMcTBXTXA5MEQ0YVFTelBOT21ySV9JODZhYkFvaTVyWVhPYV8wUEprcDJxeTRnOW5ZaldzcXFOQTJaZmwyUzc4YjRVbXhZQVNCbnhCU01OS0t4ZGRBdng3dkV5dUVvaUVrWjJ4N0FJQTktR3paRm90WGR1RlBaWkw1RVFSNkRLRlZLMmZaYWo0WmpUcFNyRlRiUnhwMElNQ050YzNkOUNQWWo5OGc0S21Kcnpab1FFcGRaOThFYU9BWkVCLTBDVnl5b19NUGl2aDBvSV9kMzE1M0VfbnR3STJWTkNidmVfaXM0M25Va29VVFVFblJNX3JoQkRxaFHSAbIDQVVfeXFMTjJDRnRnb0RlV1MyUXVNLXY1THBVeVd0YXpYSXVaSGVuOUxldmkyZHR1b3RkUG5CWUdkR0M4OG1LWm80VVBBVy1rcUhqdXVXTWc4ZU1hNjdYWHBQT19UY2pSb1FwcDM5TjdDWVNITDh5aUIzN0I0ZXlFTkJ5UzBWazFicVdVMm94bDJ3X21GY0hpcWhCWFI1aURBVU1YVlhrM3BiUk5CX2dUTENaMVFLWUk1UzZ0MnlMVW5heEdJVHhTdUNMMGlYQzNzdkszaUd6YW01OFluUTJRX0wzQ1lKaWJfeW1qZXJhRTJVeW9VOUJTTS1pdkxFeU9pSXRhUHFBaEhwcVBSU0s4WkpqTkNiSU52Y2I5a3ZsU1JYWDJqakt4ejczeXZNWVkzRmlDZmdYUlJjZUppNVlMR3AtQWlTSVVFMHFYaHdYRkRnNHBIWTBtQmhDYjduOHNkZjFDUTJ4UjQ4bFFyT1pKYlltaDVYT1pLdDZfTkxaYWJ4WXNxWjloYnhnei1XSzZ1eEc0cEdTVzctMW1VbXRocDhNaGJKUjhjaVhCSUpaeWlfSnM3eHJjTXc?oc=5)
 
@@ -87,6 +111,14 @@ Source: [NDTV](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUTZ0U3BlVTVR
 2026-11-20 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
+
+---
+
+### [New research gives insight to where your brain plans out your speech](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVJQNmMtOWt5a0VTQ2FqZGtBYW1McmdUXzhleFd6YXhIN2tnZmpkcEp1T0F3ZjBPOXc1b1BIc0c0bEl5V1AwbVliYWVXRF9jYV83LXE2bU5QUnk5ZDhZc1oyeXBoclhYQWpWWlVDR3R3YzZaQ2RlWHdqLVRHdG9keDZZQ1NGeDZmSEdQVlVyc3RJclNUMjVFQ3FsNXFLSGZCb1lnTU94UFJnTU13RE92UkstYw?oc=5)
+
+2026-11-20 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [NPR](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVJQNmMtOWt5a0VTQ2FqZGtBYW1McmdUXzhleFd6YXhIN2tnZmpkcEp1T0F3ZjBPOXc1b1BIc0c0bEl5V1AwbVliYWVXRF9jYV83LXE2bU5QUnk5ZDhZc1oyeXBoclhYQWpWWlVDR3R3YzZaQ2RlWHdqLVRHdG9keDZZQ1NGeDZmSEdQVlVyc3RJclNUMjVFQ3FsNXFLSGZCb1lnTU94UFJnTU13RE92UkstYw?oc=5)
 
 ---
 

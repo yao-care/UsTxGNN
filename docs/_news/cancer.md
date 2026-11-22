@@ -3,7 +3,7 @@ layout: default
 title: "tumor (cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 58 articles, 1 related drugs."
+description: "Health news about tumor (cancer). 60 articles, 1 related drugs."
 permalink: /news/cancer/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>58 news articles</strong> and 1 related drugs.
+<strong>tumor (cancer)</strong> currently has <strong>60 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (58)
+## Related News (60)
+
+### [American Cancer Society updates prostate cancer screening guidelines](https://news.google.com/rss/articles/CBMikgFBVV95cUxONi1ndmF4bUZfdWJsRFhwT0xCUUFFWFhIbnBaYkI0djkyRzNCdEFWbjJzek9KcTV4V2YzVnNGNGk5U2prYUtOWEFfazhjVEFYcVB2TmdXT2lqOFpiSExRbUtxT0h6ODY2MXRlSGRNMU1kZEpoem9LZE5ENW9UWm1BYldocm9iZmMyYjgxZ29NNThZZw?oc=5)
+
+2026-11-22
+
+Source: [WMUR](https://news.google.com/rss/articles/CBMikgFBVV95cUxONi1ndmF4bUZfdWJsRFhwT0xCUUFFWFhIbnBaYkI0djkyRzNCdEFWbjJzek9KcTV4V2YzVnNGNGk5U2prYUtOWEFfazhjVEFYcVB2TmdXT2lqOFpiSExRbUtxT0h6ODY2MXRlSGRNMU1kZEpoem9LZE5ENW9UWm1BYldocm9iZmMyYjgxZ29NNThZZw?oc=5)
+
+---
 
 ### [SpaceX Dragon cargo capsule returns to Earth from the ISS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnc4S3dTcWU4TkNqaFdkTTFhR3NLbWpYcUpaazFzRnlpMS1PcllMUXZieWxMa0NHSEhZUjZkQkY2b0lGSEEyQk4yNUFsUUYySzRQUWVOS2VHMkItbjNvNWtGc204T0pYZnZ6RHVTdTN5MTNtdmw5UGxhcDdXNDI2clRRaG1wMnJIaXF5VUxkNW5WLWpTM3ByZXRqNVFpaVdfcUFUSU5NNlNwQ2JQc1VzSFVYbU4?oc=5)
 
@@ -101,6 +109,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uaGpRX0hEYXBQS
 2026-11-21
 
 Source: [WFMZ.com](https://news.google.com/rss/articles/CBMi0wJBVV95cUxQMzRhSjdxZEV1U3VtU29qMm9qWXhpck5pdXFCS2VydUZCUS1RblhLT0o2Z2lkbkZfbWV4YTBfMFVWRWVCYy1fX2VSQVM1YkRHel9DQVRTSU5TM3FIamYwcndvTC1TdHlJbDJCM3hLS1Rjd0tRMlhueWdIS3NXZzNEeG5UOXlZZXFJV3RpODdxeF9UUnhNcmxYSzZLbWMtTnBRZURzVzhUbV9JMlVybHZzcEtobnZYeTFpemVtbWJSYWxWYXJJaXVXcDdkeVpOMlRWdUc3R0lYS2UtNEVfb0FuT1NMRTNQYWhXTjd3OVZDY1dXMGtOTXhGQmpZeGpDR0x2d1NzU0tTSUdzQk1EenpPQS05dExwOG90Nk9menFoOGNXeHpzU1l4T1ZhM21waF8wdDU4Qm4wZDl5S2xtUUhBUXc3eGxzNmZLVmkyMUc1c0Nhelk?oc=5)
+
+---
+
+### [New drug combo shrinks tumors in most patients facing aggressive cancer type - Fox News](https://news.google.com/rss/articles/CBMingFBVV95cUxQQXhQdjVhSTVORkh4NktYeGFVeENIYzJTdWVud3hPTlJEU0xyTGJ6ZlZBTE9qUzdDWTB1ZHh6NzdSMWNkNWtxWkVENnZESmR0NFNGM3VQZ3R3eHNsTUJQUXRHcEVLODFzY0xpQkFHc0d6ZGNDaUVNelZjNWVaX0NSUUhjWTFXeFN0Wk1SR29YNXkyTW14WWFxZXBWd3BLQdIBowFBVV95cUxOTVhkZzNIekJWS2lLX0UzUnM4LV9fY29XUlZiMXZyQ2E3eTRnYTlmQVJ2aXZiSjNsd2lGUE1zTFBla2dpdVlTMnA1Q1pqQWRNcGdKUFpLWnlDc0huSC0waVpyY2N3dTFKZnhmT2dzOTNlN3doN05JVk42R1BNeWMyWVJWejN6OENnZlNmaXFaLWllSGRPUUdDRFlYazQ4cWZKbGZv?oc=5)
+
+2026-11-21
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMingFBVV95cUxQQXhQdjVhSTVORkh4NktYeGFVeENIYzJTdWVud3hPTlJEU0xyTGJ6ZlZBTE9qUzdDWTB1ZHh6NzdSMWNkNWtxWkVENnZESmR0NFNGM3VQZ3R3eHNsTUJQUXRHcEVLODFzY0xpQkFHc0d6ZGNDaUVNelZjNWVaX0NSUUhjWTFXeFN0Wk1SR29YNXkyTW14WWFxZXBWd3BLQdIBowFBVV95cUxOTVhkZzNIekJWS2lLX0UzUnM4LV9fY29XUlZiMXZyQ2E3eTRnYTlmQVJ2aXZiSjNsd2lGUE1zTFBla2dpdVlTMnA1Q1pqQWRNcGdKUFpLWnlDc0huSC0waVpyY2N3dTFKZnhmT2dzOTNlN3doN05JVk42R1BNeWMyWVJWejN6OENnZlNmaXFaLWllSGRPUUdDRFlYazQ4cWZKbGZv?oc=5)
 
 ---
 

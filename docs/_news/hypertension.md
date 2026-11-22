@@ -3,9 +3,9 @@ layout: default
 title: "high blood pressure (hypertension) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about high blood pressure (hypertension). 4 articles, 1 related drugs."
+description: "Health news about high blood pressure (hypertension). 5 articles, 1 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-22
 ---
 
 # high blood pressure (hypertension) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
-<strong>high blood pressure (hypertension)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
+<strong>high blood pressure (hypertension)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “high blood pressure”
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Are some salts healthier than others? - The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ3VkJrck5YcXIwNmkwclNOcmNUNmlOVlYycXQ2SHhkWWNsMXk0bzJPZVJwZU12Rm5RZmJVRW1jSk1fUkc0T3ozNWVCQkVMQnUwMk9ZdUZ3Ri03NWl1cWtPM0tjV2taQ0VzcWNtQWdYWDFZZVNUTDFKTXZDTUdwQ1o5bFI4Ym9kUndrdVpqV2FlSUhaVEgzMjJxcG4?oc=5)
+
+2026-11-20
+
+Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ3VkJrck5YcXIwNmkwclNOcmNUNmlOVlYycXQ2SHhkWWNsMXk0bzJPZVJwZU12Rm5RZmJVRW1jSk1fUkc0T3ozNWVCQkVMQnUwMk9ZdUZ3Ri03NWl1cWtPM0tjV2taQ0VzcWNtQWdYWDFZZVNUTDFKTXZDTUdwQ1o5bFI4Ym9kUndrdVpqV2FlSUhaVEgzMjJxcG4?oc=5)
+
+---
 
 ### [The Best Nutrient for Lowering Blood Pressure, According to a Cardiologist](https://news.google.com/rss/articles/CBMidEFVX3lxTE5qNnNTYVdFUjFSMWRMbXFObmZKcVBTblUzQzF6cW40YXQyT2pSdW5lVENUcDZNUGdtUzJ1REgwbGNta0tFZG9nMjRHQ1NEUmNlQ3JUVzhPbVRyeWk2ZGtBN1Jibmo2T1BTMzhaWVc0Zm02REZm?oc=5)
 

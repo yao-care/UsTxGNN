@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ramucirumab. 10 predicted indications."
 permalink: /news/ramucirumab/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Ramucirumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>44 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>56 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,71 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (44)
+## Related News (56)
+
+### [New pancreatic cancer drug stops tumor growth: Study](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNEU1WUljbVoySEdNdXJFSWJzZjJyM2ZUeGpiLTE1TEUtWnpsS09UT19Pakt4U2JXZ2lhZ253UVFMTVJLMmRWQTByU0pYYTNuaHhSVERISHRQM0dLNXlzV09obmNkaGpRUzdGVzVybFJfRE54bW4wSldFMlRrNTN1aXo1ZWd1QdIBiwFBVV95cUxOb2g1TUpDajZTWUJVWDl0ZktDZmFuYjhTNFBTSnZkWVctMnhYVnR5SUdjT0ZSTk41aUhhN0Fha0lVaHdJSWJTX2lpeTU5WUdsRUY1eHhfN3lQSk80dFFFeXlEd01hODdDLUVHQmFGbVhudjh6dVcwVVVKSEhfczIxOVdKMWhKNE9KRzdV?oc=5)
+
+2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">RA</span>
+
+Source: [NewsNation](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNEU1WUljbVoySEdNdXJFSWJzZjJyM2ZUeGpiLTE1TEUtWnpsS09UT19Pakt4U2JXZ2lhZ253UVFMTVJLMmRWQTByU0pYYTNuaHhSVERISHRQM0dLNXlzV09obmNkaGpRUzdGVzVybFJfRE54bW4wSldFMlRrNTN1aXo1ZWd1QdIBiwFBVV95cUxOb2g1TUpDajZTWUJVWDl0ZktDZmFuYjhTNFBTSnZkWVctMnhYVnR5SUdjT0ZSTk41aUhhN0Fha0lVaHdJSWJTX2lpeTU5WUdsRUY1eHhfN3lQSk80dFFFeXlEd01hODdDLUVHQmFGbVhudjh6dVcwVVVKSEhfczIxOVdKMWhKNE9KRzdV?oc=5)
+
+---
+
+### [A 3-Year-Old's Metastatic Cancer Vanished After Two Doses of Experimental Therapy](https://news.google.com/rss/articles/CBMilwFBVV95cUxPb253SC1BcmVRLW9XVlVHcUhMSlR0dVdSaTUtdkktSzlIZzI5Y1FXazc1NUVJTXJGNWNZWWhjMTFJV2xCUTc2QU5OZms4YUxlRWxpcXRnc3JjZ3NXTEZqMjNVMlZCNFZKTUkxeW1nRG9SQlRBbW9meTdUX3AtWm40dEgxSk5sSHRIRUxQanJFclE1b2lMN2x3?oc=5)
+
+2026-11-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMilwFBVV95cUxPb253SC1BcmVRLW9XVlVHcUhMSlR0dVdSaTUtdkktSzlIZzI5Y1FXazc1NUVJTXJGNWNZWWhjMTFJV2xCUTc2QU5OZms4YUxlRWxpcXRnc3JjZ3NXTEZqMjNVMlZCNFZKTUkxeW1nRG9SQlRBbW9meTdUX3AtWm40dEgxSk5sSHRIRUxQanJFclE1b2lMN2x3?oc=5)
+
+---
+
+### [Microplastics Linked to Deadly Cancer](https://news.google.com/rss/articles/CBMidkFVX3lxTE9lSFNhWXVFaFFhanBGY2ZCbmlUVGMzVm1nRHJ4ZE4zU243dHNZZHNZQ29qdDBCVVFlUWltRmVvbGpDLV85RTZOWmtua0RvN193QzNKNUIyelExeUVzbnFVMmV5Q0NUaDRHQUhZeW93TEZxdmthekE?oc=5)
+
+2026-11-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">OA</span>
+
+Source: [Futurism](https://news.google.com/rss/articles/CBMidkFVX3lxTE9lSFNhWXVFaFFhanBGY2ZCbmlUVGMzVm1nRHJ4ZE4zU243dHNZZHNZQ29qdDBCVVFlUWltRmVvbGpDLV85RTZOWmtua0RvN193QzNKNUIyelExeUVzbnFVMmV5Q0NUaDRHQUhZeW93TEZxdmthekE?oc=5)
+
+---
+
+### [First patient has surgery at £41.5m cancer centre in Guildford](https://news.google.com/rss/articles/CBMiW0FVX3lxTE40dlk1aVhmOU5hVGR6RTB6ZVBnQnUtNlhOcHhNcW1iLThOb05KRUEwWTlRNURQeGV4b2pfUmZsaEhNejNfa1JuYlFCNjRBSmxWd3k1VXd4Ukt1Ukk?oc=5)
+
+2026-11-21 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE40dlk1aVhmOU5hVGR6RTB6ZVBnQnUtNlhOcHhNcW1iLThOb05KRUEwWTlRNURQeGV4b2pfUmZsaEhNejNfa1JuYlFCNjRBSmxWd3k1VXd4Ukt1Ukk?oc=5)
+
+---
+
+### [This 31-Year-Old Woman Shared The Subtle Signs That She Had Colon Cancer, And It's So Important](https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1E3ZzR3bnJrNm5QdGlybmp2RERocnV5WmFWSjFKelN3Q1pTRG9zaG9BX1VwUjBRTXlwOHdqYy1SMG02UHhMc09MaDc1U0dPX0ktTHZfc2NwTVduaUZKb2tUTFJRWHYyS0JZdmRyOXJoZkJ3WEdSUlV0ajFKMlRlTVdCTQ?oc=5)
+
+2026-11-21 <span class="news-indication-tag">cancer</span>
+
+Source: [BuzzFeed](https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1E3ZzR3bnJrNm5QdGlybmp2RERocnV5WmFWSjFKelN3Q1pTRG9zaG9BX1VwUjBRTXlwOHdqYy1SMG02UHhMc09MaDc1U0dPX0ktTHZfc2NwTVduaUZKb2tUTFJRWHYyS0JZdmRyOXJoZkJ3WEdSUlV0ajFKMlRlTVdCTQ?oc=5)
+
+---
+
+### [I lost my dad, mum and sister to the same aggressive brain cancer](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uaGpRX0hEYXBQSnNfT2pzcEMxczNVdnhBQ1JFNWU2WVlLaHBpN3MyT0dWbzlibDRoSHluWm1vQWk1YlB3aXNSbTlDbndsSzlfb2pFZzFoZ2o5WnM?oc=5)
+
+2026-11-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uaGpRX0hEYXBQSnNfT2pzcEMxczNVdnhBQ1JFNWU2WVlLaHBpN3MyT0dWbzlibDRoSHluWm1vQWk1YlB3aXNSbTlDbndsSzlfb2pFZzFoZ2o5WnM?oc=5)
+
+---
+
+### [American Cancer Society changes prostate cancer screening guidelines; biennial blood tests for average-risk men](https://news.google.com/rss/articles/CBMi0wJBVV95cUxQMzRhSjdxZEV1U3VtU29qMm9qWXhpck5pdXFCS2VydUZCUS1RblhLT0o2Z2lkbkZfbWV4YTBfMFVWRWVCYy1fX2VSQVM1YkRHel9DQVRTSU5TM3FIamYwcndvTC1TdHlJbDJCM3hLS1Rjd0tRMlhueWdIS3NXZzNEeG5UOXlZZXFJV3RpODdxeF9UUnhNcmxYSzZLbWMtTnBRZURzVzhUbV9JMlVybHZzcEtobnZYeTFpemVtbWJSYWxWYXJJaXVXcDdkeVpOMlRWdUc3R0lYS2UtNEVfb0FuT1NMRTNQYWhXTjd3OVZDY1dXMGtOTXhGQmpZeGpDR0x2d1NzU0tTSUdzQk1EenpPQS05dExwOG90Nk9menFoOGNXeHpzU1l4T1ZhM21waF8wdDU4Qm4wZDl5S2xtUUhBUXc3eGxzNmZLVmkyMUc1c0Nhelk?oc=5)
+
+2026-11-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [WFMZ.com](https://news.google.com/rss/articles/CBMi0wJBVV95cUxQMzRhSjdxZEV1U3VtU29qMm9qWXhpck5pdXFCS2VydUZCUS1RblhLT0o2Z2lkbkZfbWV4YTBfMFVWRWVCYy1fX2VSQVM1YkRHel9DQVRTSU5TM3FIamYwcndvTC1TdHlJbDJCM3hLS1Rjd0tRMlhueWdIS3NXZzNEeG5UOXlZZXFJV3RpODdxeF9UUnhNcmxYSzZLbWMtTnBRZURzVzhUbV9JMlVybHZzcEtobnZYeTFpemVtbWJSYWxWYXJJaXVXcDdkeVpOMlRWdUc3R0lYS2UtNEVfb0FuT1NMRTNQYWhXTjd3OVZDY1dXMGtOTXhGQmpZeGpDR0x2d1NzU0tTSUdzQk1EenpPQS05dExwOG90Nk9menFoOGNXeHpzU1l4T1ZhM21waF8wdDU4Qm4wZDl5S2xtUUhBUXc3eGxzNmZLVmkyMUc1c0Nhelk?oc=5)
+
+---
+
+### [Cancer mRNA Vaccines Are on the Horizon - McGill University](https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUk1a0ItLXJaczFETWY3WTAwM3B1RVVlT3hPR25kNnJvSXpPek9NNnZRV01HbzJFQmdMMnJVUGxGR2FoTDZBdHdOM3JXVVdzRGZ2X1dQTXV1bVI3U0swNDk0bGZvQV8zSTdIdGZUdGRkVy05X1k2NHREZ3VsYVA3d3hpQXhnNzVHdTFQQ3N3?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [McGill University](https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUk1a0ItLXJaczFETWY3WTAwM3B1RVVlT3hPR25kNnJvSXpPek9NNnZRV01HbzJFQmdMMnJVUGxGR2FoTDZBdHdOM3JXVVdzRGZ2X1dQTXV1bVI3U0swNDk0bGZvQV8zSTdIdGZUdGRkVy05X1k2NHREZ3VsYVA3d3hpQXhnNzVHdTFQQ3N3?oc=5)
+
+---
 
 ### [New cervical cancer guidance to favor HPV screening over traditional Pap tests - NBC News](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFhGOElUOFNhNUNxekpTeDlKUVMtZkJlOEdUWEJjR3BIb1Jfdi1mUXRlX014WjgwT21UeVB3YjQ0aTZGbUFMX3lxT1RncFpoTGdFRjMxZUpZRUJhbzVCUFBuU2xiMUZEc3BlcG9mQXhVdW5helhnVHloMl9YQ3F3UTJSQlB2b1p0T1lFTzdVc2RLZXhvcHJwOVNmRjUzTVVVR29PMmlYVFVPUzJxdnE4b0JzMEhaaDZGUlE?oc=5)
 
@@ -54,7 +118,7 @@ Source: [NBC News](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFhGOElU
 
 ### [All men over 50 should be screened for prostate cancer, say US experts - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTltOEpsVjlMUTdrZlNmQWV3eHlmVkxtNktGMHlNYzgxY08zaEVucFh5SE5Cdm1pa0Job1lWam15d3NoOUdWZlhPSGkwNXdKbDNoZlpUV21uNGtKeWFBSFMtYnNCcmw2akVqVWt1alFhaENzNlBUd0pLV0JjZUxJck5YbkR4UFcyVk84N0NXUlRxYlE5WTFCNUFYVDJhaVp2?oc=5)
 
-2026-11-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-11-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTltOEpsVjlMUTdrZlNmQWV3eHlmVkxtNktGMHlNYzgxY08zaEVucFh5SE5Cdm1pa0Job1lWam15d3NoOUdWZlhPSGkwNXdKbDNoZlpUV21uNGtKeWFBSFMtYnNCcmw2akVqVWt1alFhaENzNlBUd0pLV0JjZUxJck5YbkR4UFcyVk84N0NXUlRxYlE5WTFCNUFYVDJhaVp2?oc=5)
 
@@ -100,11 +164,27 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDV
 
 ---
 
+### [Medical Imaging and Pediatric and Adolescent Brain Tumor Risk](https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4ZFF2b05jblpIZk4zWVEzT0RvSDFkM2xuVC1jdFhYcDAxeDktNWtPb1hsaHk2RVRSdjhqaWIySndENWFOWlA4NlFIQ1JYNF9mMFFHNWo5T3ctWVk0R0Jya05YY3FDdlo3?oc=5)
+
+2026-11-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4ZFF2b05jblpIZk4zWVEzT0RvSDFkM2xuVC1jdFhYcDAxeDktNWtPb1hsaHk2RVRSdjhqaWIySndENWFOWlA4NlFIQ1JYNF9mMFFHNWo5T3ctWVk0R0Jya05YY3FDdlo3?oc=5)
+
+---
+
 ### [After a Breast Cancer Diagnosis at 30, Her Twin Sister ‘Dropped Everything’ and Moved 1,200 Miles to Help (Exclusive)](https://news.google.com/rss/articles/CBMijwFBVV95cUxPeFhYOE9EdWxaT04xd0V3MEdyVUs3dUJYMlJSbFpLNFY5Vzl0Q2ZvQ0pYcE1lZTVUUnNIZlFoMk50MUNnTnEyaTByQk9Pd3NpcjM0Rmxyc2lnaDJpS0RoQ0luU1FIUEtvTUVuLVBUZ3FNeWNiYWNKblA5TWQzLXZQOVEtYXBhNktoS3RZOEFLUQ?oc=5)
 
 2026-11-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
 
 Source: [Yahoo](https://news.google.com/rss/articles/CBMijwFBVV95cUxPeFhYOE9EdWxaT04xd0V3MEdyVUs3dUJYMlJSbFpLNFY5Vzl0Q2ZvQ0pYcE1lZTVUUnNIZlFoMk50MUNnTnEyaTByQk9Pd3NpcjM0Rmxyc2lnaDJpS0RoQ0luU1FIUEtvTUVuLVBUZ3FNeWNiYWNKblA5TWQzLXZQOVEtYXBhNktoS3RZOEFLUQ?oc=5)
+
+---
+
+### [Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVBnYVppRkMtdUJrYWs3b0tESFNjTU4wOE5JeERpeFFtdUpGb3FLdlZCekxyY3JUNDVlM2dLZ2pLeTR6RGdVSXAzUllyRUU0NWh2T0tTWkZnMnFRY20tLVpEV05XbXFRT1dMUmtQM2l3cDlCWHdqWm1UM0p0THplVlJqM2xXZHllTk5XZ3M0bEtYeGY2Mkp0LQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVBnYVppRkMtdUJrYWs3b0tESFNjTU4wOE5JeERpeFFtdUpGb3FLdlZCekxyY3JUNDVlM2dLZ2pLeTR6RGdVSXAzUllyRUU0NWh2T0tTWkZnMnFRY20tLVpEV05XbXFRT1dMUmtQM2l3cDlCWHdqWm1UM0p0THplVlJqM2xXZHllTk5XZ3M0bEtYeGY2Mkp0LQ?oc=5)
 
 ---
 
@@ -236,6 +316,14 @@ Source: [Yahoo Health](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQnlD
 
 ---
 
+### [The root-to-tip revolution! An A-Z of how to eat plants in full – for extra flavour, fibre and savings - The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxQT05xUkctT0FBVDduUEhrNkpYUXY1ODh5Q0ZEV3hMSGxZaEYyZGpiRmYyOHdzZ1YwWDZlb1dEZ3N2MmtaMUdvVnN6bDExcFZpQzlpOXRFV2tCY3NRZXZwdjQyQWtYSGRFRUpGV1JYc3pGemctUUhqWlpfZWk2T3JNendYOHJITHNITzR5N0g5RVZ3VHVEd1VsWmU0OVYzRkpnTGhmZ1hkS0FHaXFFaFdHU1pvZTlMaVBkVDFobg?oc=5)
+
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxQT05xUkctT0FBVDduUEhrNkpYUXY1ODh5Q0ZEV3hMSGxZaEYyZGpiRmYyOHdzZ1YwWDZlb1dEZ3N2MmtaMUdvVnN6bDExcFZpQzlpOXRFV2tCY3NRZXZwdjQyQWtYSGRFRUpGV1JYc3pGemctUUhqWlpfZWk2T3JNendYOHJITHNITzR5N0g5RVZ3VHVEd1VsWmU0OVYzRkpnTGhmZ1hkS0FHaXFFaFdHU1pvZTlMaVBkVDFobg?oc=5)
+
+---
+
 ### [University Hospitals opens cutting-edge cancer facility at TriPoint Medical Center - FOX 8 News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGdCWFJfQjRzT2xiandHNVl4bFZjN2R3RDZsdTVjZ29IQ2J6Y0duTnlzS1ZIdDloV1V3a1RrSThmV2M5MG5KRHR4NjRTY0pIVFJudTNwZHZaZ0trWVR0YXoyM1VDS2t5V0k5bTNhZUZkaFVzdjlmQWctRjBSS2RDT2NPVVZqVm5aQW9QRmkxSHJVb0ZzMTRDaTVPTEdSN2FzcTZUQWVhMljSAa4BQVVfeXFMTlk5U0NDR0YxX09wMUxEZ0pqQzU3dldScHBVVm1fNzRHYlBENjJDZzBwTlRSQURFNDZKUlg2NUItenhMdkRQMFZpbHBSMzRTcm5sNWM4WUNEZl9USzZVMzFwa2liT1VRU21TSktQdmlJS3FnMzRtOE8xS0praEUxbThMRVppRFFUOTU3cTM1TzhSUklCdDlRMjBiZzZXY1FBSm0wWF9lcjFobFdZX25R?oc=5)
 
 2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
@@ -257,6 +345,14 @@ Source: [KREM](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbTFhV0FTZG5X
 2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [Phys.org](https://news.google.com/rss/articles/CBMifEFVX3lxTFBGV3NaNWM4YVBNUnJmQTRUMWpseThaLU9sZ21kMWY5Z1oxNnpobWFVdXN3ZmhMc3VGSkk3UGdMdDlHSU1yZmpQeTR6MmVYOWtTLW45LWZ0emd4a0FlYlVoQnRIdDVreG5INzBOejRPNzM3bGlqWHpSeG9qbjg?oc=5)
+
+---
+
+### [Radiology group held liable in $8M verdict after missed incidental lung cancer on breast MRI - Radiology Business](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeHAyemhiNzRIY09BZ21TZ1lPTDBmNHd1ai1TdW9UWFBkamJHS2d2TzVTaXpneGU5V2R4TUZwUjZlbEI2NS1VVV9NM1dOcV9BMXAzTUtrMVJ5MFhpQ0o2WTJONWdDcjB5ZEpXakl1Vk9wWHQ0TzQycEVtTDZqV3AxQ0NWRXFZY2NROWpuNXVobkJud25SZnBlNnFpTTk5bnRCM0Z4SmhXUDl0aVluejYzR3hnbHo2UkN4Z1hZQ2s2QTBDVl96MDlfbF9JbHlNRUt2Vlota0Zncl8zZ0dial9hSlg3SWk2TWMzdnI0?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [Radiology Business](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeHAyemhiNzRIY09BZ21TZ1lPTDBmNHd1ai1TdW9UWFBkamJHS2d2TzVTaXpneGU5V2R4TUZwUjZlbEI2NS1VVV9NM1dOcV9BMXAzTUtrMVJ5MFhpQ0o2WTJONWdDcjB5ZEpXakl1Vk9wWHQ0TzQycEVtTDZqV3AxQ0NWRXFZY2NROWpuNXVobkJud25SZnBlNnFpTTk5bnRCM0Z4SmhXUDl0aVluejYzR3hnbHo2UkN4Z1hZQ2s2QTBDVl96MDlfbF9JbHlNRUt2Vlota0Zncl8zZ0dial9hSlg3SWk2TWMzdnI0?oc=5)
 
 ---
 

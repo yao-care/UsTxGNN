@@ -3,9 +3,9 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 34 articles, 2 related drugs."
+description: "Health news about flu (influenza). 38 articles, 2 related drugs."
 permalink: /news/influenza/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # flu (influenza) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>34 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>38 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,13 +31,45 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (34)
+## Related News (38)
+
+### [What blue wave? Texas is bright red in CDC’s disease map - New York Post](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQzRDUEd6VnNMdHJlb0NYNHY3WHJtajcxYzZWOHdic0FnamZxQ01qcDg1SzZBWXpSYjJVb1VxRl9NblN2STdGdThFcHEzb1RyenpOZHVsVjM2RTdOWjJ0cGJTcUxqamUyN0k5VUdjWkR1akZoWk9RMFRBTW9kVU9sYjFZemRaS2VwcDJ0cHRTZ2F4djR0RzFz?oc=5)
+
+2026-11-21
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQzRDUEd6VnNMdHJlb0NYNHY3WHJtajcxYzZWOHdic0FnamZxQ01qcDg1SzZBWXpSYjJVb1VxRl9NblN2STdGdThFcHEzb1RyenpOZHVsVjM2RTdOWjJ0cGJTcUxqamUyN0k5VUdjWkR1akZoWk9RMFRBTW9kVU9sYjFZemRaS2VwcDJ0cHRTZ2F4djR0RzFz?oc=5)
+
+---
 
 ### [Mutated flu strain pushes virus past last year's peak in SF](https://news.google.com/rss/articles/CBMigAFBVV95cUxNaG1NYV9WNkhMUEhiR3VHSE5MenVIb3A1MHdkXzFvMlZoS2pPTEItMkNMbWpXd2xkRm55cGYzRllRdHB5a3RNcHNvRVVHc1hNRWZfRlFwOXFJdzZTYlNlYlN2RGk4clVoZ1hWT2llVW54X2tzMXpOVU1QM3RZZnVTXw?oc=5)
 
 2026-11-20
 
 Source: [SFGATE](https://news.google.com/rss/articles/CBMigAFBVV95cUxNaG1NYV9WNkhMUEhiR3VHSE5MenVIb3A1MHdkXzFvMlZoS2pPTEItMkNMbWpXd2xkRm55cGYzRllRdHB5a3RNcHNvRVVHc1hNRWZfRlFwOXFJdzZTYlNlYlN2RGk4clVoZ1hWT2llVW54X2tzMXpOVU1QM3RZZnVTXw?oc=5)
+
+---
+
+### [Lancet retracts report by former SickKids pediatrician on infant’s death from opioid poisoning - Retraction Watch](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOW95YnoxdTZKblVvam1RN1RGUENJSkdyVFh2bGxacXpEZGk1dHFZWWNqN050QkcyTEpOXzNZRS1sZWpJZVRnRUNZdUhRVjVXcnBWc2pycm81VHZMUmZJb3lKTkVKeHJ1MDhBQlJnQ1lsd0V3ZGJKWHBZNTY1UlFxd3l5U3ZNdjdYV1JSVXFIVTF0d3pyZV9aWGMyTXowRkM5eDVkYkZZSGNfMjJ5MDllT1RCYmhVQ1B5bXVrUFBacy11TUtmNW1CMQ?oc=5)
+
+2026-11-20
+
+Source: [Retraction Watch](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOW95YnoxdTZKblVvam1RN1RGUENJSkdyVFh2bGxacXpEZGk1dHFZWWNqN050QkcyTEpOXzNZRS1sZWpJZVRnRUNZdUhRVjVXcnBWc2pycm81VHZMUmZJb3lKTkVKeHJ1MDhBQlJnQ1lsd0V3ZGJKWHBZNTY1UlFxd3l5U3ZNdjdYV1JSVXFIVTF0d3pyZV9aWGMyTXowRkM5eDVkYkZZSGNfMjJ5MDllT1RCYmhVQ1B5bXVrUFBacy11TUtmNW1CMQ?oc=5)
+
+---
+
+### [4 flu-related deaths reported in NH this season, according to DHHS](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wSFloSFo2d054emphb3ZST0FZempEQVBDeWZaR250YmZEQ0taRmpDQlQxcjRfSTJmZ1FqZzBKZDUxT09HRDRmM2s5TzRxM3lNU2RmQ2xKRlVHbHpTQ01wYXJSWF9RYzVB?oc=5)
+
+2026-11-20
+
+Source: [WMUR](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wSFloSFo2d054emphb3ZST0FZempEQVBDeWZaR250YmZEQ0taRmpDQlQxcjRfSTJmZ1FqZzBKZDUxT09HRDRmM2s5TzRxM3lNU2RmQ2xKRlVHbHpTQ01wYXJSWF9RYzVB?oc=5)
+
+---
+
+### [Eating and sleeping later linked to health risks - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
+
+2026-11-20
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
 
 ---
 

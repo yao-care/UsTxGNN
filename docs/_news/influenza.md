@@ -3,9 +3,9 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 40 articles, 2 related drugs."
+description: "Health news about flu (influenza). 41 articles, 2 related drugs."
 permalink: /news/influenza/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # flu (influenza) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>40 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>41 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (40)
+## Related News (41)
+
+### [South Carolina flu hospitalizations nearly triple the usual pace ahead of Thanksgiving](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLW9EOXc4YjdSUHVUanNQQWxvSTBJTFcxT19UNk03Rk5IZkRHcnJJZ1ZQamVzakM0bWF6YnBrV0ZaNHhzN2wxVXdLZkZDaXR2MEpkaDF4VmNCaGhmU2d4Z3hoUXpSNlkxUUx1Nm1zSmcxODRlWUdwSkJtSWxCMl9jbk1MMjRpT2JJTFBwSmZUcElQdUJDV0ZUbHBwdFVzZFFMUTlMWFl4bG0yUVdncDFxeEx5RUdwZWR5YXFIUGltdllhR09WNjUwNG9rVExacEI4MXZOTVBwQUNmMGwzSkpDa0I2Q2h5NTYyb0VTN2xyRlk?oc=5)
+
+2026-11-22
+
+Source: [WLTX](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLW9EOXc4YjdSUHVUanNQQWxvSTBJTFcxT19UNk03Rk5IZkRHcnJJZ1ZQamVzakM0bWF6YnBrV0ZaNHhzN2wxVXdLZkZDaXR2MEpkaDF4VmNCaGhmU2d4Z3hoUXpSNlkxUUx1Nm1zSmcxODRlWUdwSkJtSWxCMl9jbk1MMjRpT2JJTFBwSmZUcElQdUJDV0ZUbHBwdFVzZFFMUTlMWFl4bG0yUVdncDFxeEx5RUdwZWR5YXFIUGltdllhR09WNjUwNG9rVExacEI4MXZOTVBwQUNmMGwzSkpDa0I2Q2h5NTYyb0VTN2xyRlk?oc=5)
+
+---
 
 ### [Flu-related deaths rise in New Hampshire ahead of Thanksgiving](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSU82dl9JbnZJTUpMTHBuZUM2Sl9QczhiN2NYZmhpVXlhemVQZF8tWlhCVWZCVjZPS25XSU5EVHQ1akQ1RldEZzU3dDUyVTBIZmdwNl80blJKRWlwUUNxMVFWT180aHI0RUhubmlVeU5jbVBpd21lR0RrSXRVLTUwVm9UdWtHdk9ETThv?oc=5)
 

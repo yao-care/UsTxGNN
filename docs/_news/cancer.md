@@ -3,9 +3,9 @@ layout: default
 title: "tumor (cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 60 articles, 1 related drugs."
+description: "Health news about tumor (cancer). 63 articles, 1 related drugs."
 permalink: /news/cancer/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # tumor (cancer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>60 news articles</strong> and 1 related drugs.
+<strong>tumor (cancer)</strong> currently has <strong>63 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (60)
+## Related News (63)
+
+### [Can AI spot breast cancer earlier? NHS launches world's largest trial to find out](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVUkQtVVhUR1Rmblg4b0ZmZk84a0lYRXVoekt0T2RLZ3pGTmozUDBTSklReUlJREVwbFlNSHlkd0xLSV8zZnh1ZlpoMl9CNlFndFd4eGZrX1ZocUk?oc=5)
+
+2026-11-23
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVUkQtVVhUR1Rmblg4b0ZmZk84a0lYRXVoekt0T2RLZ3pGTmozUDBTSklReUlJREVwbFlNSHlkd0xLSV8zZnh1ZlpoMl9CNlFndFd4eGZrX1ZocUk?oc=5)
+
+---
 
 ### [American Cancer Society updates prostate cancer screening guidelines](https://news.google.com/rss/articles/CBMikgFBVV95cUxONi1ndmF4bUZfdWJsRFhwT0xCUUFFWFhIbnBaYkI0djkyRzNCdEFWbjJzek9KcTV4V2YzVnNGNGk5U2prYUtOWEFfazhjVEFYcVB2TmdXT2lqOFpiSExRbUtxT0h6ODY2MXRlSGRNMU1kZEpoem9LZE5ENW9UWm1BYldocm9iZmMyYjgxZ29NNThZZw?oc=5)
 
 2026-11-22
 
 Source: [WMUR](https://news.google.com/rss/articles/CBMikgFBVV95cUxONi1ndmF4bUZfdWJsRFhwT0xCUUFFWFhIbnBaYkI0djkyRzNCdEFWbjJzek9KcTV4V2YzVnNGNGk5U2prYUtOWEFfazhjVEFYcVB2TmdXT2lqOFpiSExRbUtxT0h6ODY2MXRlSGRNMU1kZEpoem9LZE5ENW9UWm1BYldocm9iZmMyYjgxZ29NNThZZw?oc=5)
+
+---
+
+### [5 Cancer Prevention Myths to Stop Believing—and What to Do Instead](https://news.google.com/rss/articles/CBMia0FVX3lxTFA0TkZra1JySmVBeHRfaEJOMnRJZ2h4Z196ZHVXNWFOTnpsN3A3M0pReGVRVkY0R0h1Q3Q0cE1TcGpZNWlwdC03MUJFcllPaWwwTFN1R1R0TUlVdUlBa1dZYkxsM1kxWkUtQlVn?oc=5)
+
+2026-11-22
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMia0FVX3lxTFA0TkZra1JySmVBeHRfaEJOMnRJZ2h4Z196ZHVXNWFOTnpsN3A3M0pReGVRVkY0R0h1Q3Q0cE1TcGpZNWlwdC03MUJFcllPaWwwTFN1R1R0TUlVdUlBa1dZYkxsM1kxWkUtQlVn?oc=5)
 
 ---
 
@@ -61,6 +77,14 @@ Source: [NewsNation](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNEU1WU
 2026-11-21
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMiqgNBVV95cUxONU5WSVVEam9OZWFsR0FOdENwZk9BMDN3MmVFOHpKM0xzQzdMQlpyTUxJcVlZMmx0ZmN5TWtCZUMzWEMtd3RvLU96Zjdkc2lUWThsb281Vmpra1RCcE5BMlFQRXRndVBiMGpXRVg5THRQX2g1YzJfWmFmT3AxYWpiZ3lSUmdrRE85bmFZM2lNR2hLTlkwZ3ZCeXo0SWs0ZDdVMFhUcVJ3ZzhreE94Ym5YWE95SENMcTBXTXA5MEQ0YVFTelBOT21ySV9JODZhYkFvaTVyWVhPYV8wUEprcDJxeTRnOW5ZaldzcXFOQTJaZmwyUzc4YjRVbXhZQVNCbnhCU01OS0t4ZGRBdng3dkV5dUVvaUVrWjJ4N0FJQTktR3paRm90WGR1RlBaWkw1RVFSNkRLRlZLMmZaYWo0WmpUcFNyRlRiUnhwMElNQ050YzNkOUNQWWo5OGc0S21Kcnpab1FFcGRaOThFYU9BWkVCLTBDVnl5b19NUGl2aDBvSV9kMzE1M0VfbnR3STJWTkNidmVfaXM0M25Va29VVFVFblJNX3JoQkRxaFHSAbIDQVVfeXFMTjJDRnRnb0RlV1MyUXVNLXY1THBVeVd0YXpYSXVaSGVuOUxldmkyZHR1b3RkUG5CWUdkR0M4OG1LWm80VVBBVy1rcUhqdXVXTWc4ZU1hNjdYWHBQT19UY2pSb1FwcDM5TjdDWVNITDh5aUIzN0I0ZXlFTkJ5UzBWazFicVdVMm94bDJ3X21GY0hpcWhCWFI1aURBVU1YVlhrM3BiUk5CX2dUTENaMVFLWUk1UzZ0MnlMVW5heEdJVHhTdUNMMGlYQzNzdkszaUd6YW01OFluUTJRX0wzQ1lKaWJfeW1qZXJhRTJVeW9VOUJTTS1pdkxFeU9pSXRhUHFBaEhwcVBSU0s4WkpqTkNiSU52Y2I5a3ZsU1JYWDJqakt4ejczeXZNWVkzRmlDZmdYUlJjZUppNVlMR3AtQWlTSVVFMHFYaHdYRkRnNHBIWTBtQmhDYjduOHNkZjFDUTJ4UjQ4bFFyT1pKYlltaDVYT1pLdDZfTkxaYWJ4WXNxWjloYnhnei1XSzZ1eEc0cEdTVzctMW1VbXRocDhNaGJKUjhjaVhCSUpaeWlfSnM3eHJjTXc?oc=5)
+
+---
+
+### [A 3-Year-Old's Cancer Disappeared After Doctors Reprogrammed His Own Immune Cells](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTTR5ZVVsTFpEWnl2WmJJUWs4bGxVRDBLYjJEbEhMM2s1SFN5dm95MkF5a0hmWWVtZVktcTBCX3J4bzFxcXJTOVl1cG9VZHlGbjMxdTNlMHhqRUF0UUhaTHhaU2RKcUo1Vml4bk91Wlh5WTJtUTNMUTZ5VkRINzV4OXRBYmlESDlFaUZkSkkxOFE3djI2MGlnc19zd2pBajhzSS1KZEZhT1BBRlJNLWc?oc=5)
+
+2026-11-21
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTTR5ZVVsTFpEWnl2WmJJUWs4bGxVRDBLYjJEbEhMM2s1SFN5dm95MkF5a0hmWWVtZVktcTBCX3J4bzFxcXJTOVl1cG9VZHlGbjMxdTNlMHhqRUF0UUhaTHhaU2RKcUo1Vml4bk91Wlh5WTJtUTNMUTZ5VkRINzV4OXRBYmlESDlFaUZkSkkxOFE3djI2MGlnc19zd2pBajhzSS1KZEZhT1BBRlJNLWc?oc=5)
 
 ---
 
@@ -144,14 +168,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTl
 
 ---
 
-### [Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
-
-2026-11-20
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
-
----
-
 ### [New pancreatic cancer drug halts tumour growth in 90% of patients - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RTTVJkU3ZLREhsRFQ4Y21qWWVvd0ZwSmdROVpQaHFWTF82N01OVXdzbTRqSUlIUjVjN0VOZDBVUlI4Q1NNWU0ycEhLckdnSS1RRTQyRFE4SjhZWnF5dTdsYUp0b0I3YkY1MmZVZmc1bEJCNDhxV09MaVlReUxtX1BXejA?oc=5)
 
 2026-11-20
@@ -165,6 +181,14 @@ Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa
 2026-11-20
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3B5bm9VbUUwV0xEVWJqRjNsMC1oTmp1M3ozUmhxbjRZNHg0WVE1bGhhVlNneFBBWWJqNjVHb215ZmtfSEl5SEZPeHVCcFJpSWljcmNLcXRmU0IzM3pXblNUYVBKdDBBSzZnMUpvbkRhQnFUUE9TWV82X19lYnZwWG9QRnF5eDdnYnFnU3FzRmt3eUllak9mejZPbEo?oc=5)
+
+---
+
+### [Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ | Pancreas cancer - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
+
+2026-11-20
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 35 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 41 articles, 1 related drugs."
 permalink: /news/heart-disease/
 last_modified_at: 2026-11-23
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>35 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>41 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,39 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (35)
+## Related News (41)
+
+### [Cardiovascular Risk Factors and Biomarkers in the Decades Prior to a Cardiovascular Event](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtZ2dnbE1yVVlJS1ZCSFhnMzU3OUVDX2NrekE5RUktc3FrMjhQY3Zza1Z0VDVRS0w0Q21DN3ZoNjdyTXJsd0hGY2hnbXJtMnpoSlEteUlHT2c0SENIdGIzbjFieTBGNnlVYlRvQkg3T1puakRrUnlz?oc=5)
+
+2026-11-23
+
+Source: [JAMA](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtZ2dnbE1yVVlJS1ZCSFhnMzU3OUVDX2NrekE5RUktc3FrMjhQY3Zza1Z0VDVRS0w0Q21DN3ZoNjdyTXJsd0hGY2hnbXJtMnpoSlEteUlHT2c0SENIdGIzbjFieTBGNnlVYlRvQkg3T1puakRrUnlz?oc=5)
+
+---
+
+### [Heart attacks are on the rise under 50 — the hidden drivers and warning signs you might miss - New York Post](https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVlFX3NzblpxOERDY3BHQVpoY3N6S3g3anc2dmV4aGphQm1oek9wMEZYaTEwcUhaOE5ILUpHbEw1TFBrSUJKQURuME1zcTBkX3Q3aGM0YTlOeFVjNGlmUlZTWF9PRzdPR0tSMVJTcXdUTmZOdjhCMWJ4ZGViMjROakczWW02SXN0OUhxdkhOX2tobk0yZXgxQVo5RVEtRlpodndF?oc=5)
+
+2026-11-23
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVlFX3NzblpxOERDY3BHQVpoY3N6S3g3anc2dmV4aGphQm1oek9wMEZYaTEwcUhaOE5ILUpHbEw1TFBrSUJKQURuME1zcTBkX3Q3aGM0YTlOeFVjNGlmUlZTWF9PRzdPR0tSMVJTcXdUTmZOdjhCMWJ4ZGViMjROakczWW02SXN0OUhxdkhOX2tobk0yZXgxQVo5RVEtRlpodndF?oc=5)
+
+---
+
+### [The red-flag waist size that puts you at risk of dementia - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEF5N1JUeUVpZGdSRlpINGxBOGRudUpXVEVhd2tPYTRvR1BpZjFmVzVHQmR5MmhRZFh5V1Y3ZmR2Nlc2UjVrdEVtWHdMSjFSaFZ3WVNkTlBGWGFqeHpRRGF5Q2swU1Zkb0FaZlZicjFhMFJ1WjE0aU9yLVMxT1hhRUF3ZHFLcjM5S25sVmdnUWtKdw?oc=5)
+
+2026-11-23
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEF5N1JUeUVpZGdSRlpINGxBOGRudUpXVEVhd2tPYTRvR1BpZjFmVzVHQmR5MmhRZFh5V1Y3ZmR2Nlc2UjVrdEVtWHdMSjFSaFZ3WVNkTlBGWGFqeHpRRGF5Q2swU1Zkb0FaZlZicjFhMFJ1WjE0aU9yLVMxT1hhRUF3ZHFLcjM5S25sVmdnUWtKdw?oc=5)
+
+---
+
+### [​6 hidden signs of heart trouble you should never ignore, US-based cardiologist warns: One of them starts in your legs​ - The Times of India](https://news.google.com/rss/articles/CBMinAJBVV95cUxNUkRBZl9rcGU3OW9GTWZqY19JRFhWd1l3cndZLXBEYTZVU1NpeXdfQm04M2pzQm1ydUVzc1pTOWEtWnkyY0dBd0FPMHhPcTRVbEVuVVpId3EyQjFDYzFiOG9wUk80bkJuUktEMy1CcjU4c1B1aG9SQWdmdTRtTC05T2ZHYXhTVlNmZzVIMkNVOTAzcVQtdDFrZUxNNWdlaE5NZTl6eE82QS1lQXp2UUs4NXJQWjN5eWw3SjhEMDJpdUlGc1pfZTFaYzNpZzRTR3pkd0d6VVd0MTdPVGtfd2lDZFhwcE1Zekl1aEVZcGxKV3hYRDA3NTNDMXJrSzc3QkJYMWE5QUNtaF9ja0ZPYjZyWnEyT0IwSHQ0Y1R0VdIBpAJBVV95cUxOZGhGT1hMa05IVW9OTlRoeEhiTkFCNVlMbHVSWTRFT1ltQ0JGTnN3ZEJVSERaa0RWSThJbTh0YzRsY3dHZlJMd2ZCRUViX1lPRGQ5N05KUWppY25iR0lCZ0FDVHFRcXNoYUJJTnBXTHlJMWItbDFoRGZvd3FKMlRSSVp4UUNISUVfYzFVbWlzSW5HQm1BVkJ2MVJnU21uRWZhbnVhSXozS1ppYlp4TnZIZXU2UmdmTUliX0lFNkxlM21rRGVzTkZTX3pfOVotYVh0QS1NZEoyOUxPMU1NRXd2WlpIeFRyTnFaWlF5MUNVT2pWV0E1dVdEUzM4dmR3dXNnN0dTQUJhaTdrZ0l0UG40VmczQnZTSkF2TEJpaFYzT2dHU1Yx?oc=5)
+
+2026-11-23
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMinAJBVV95cUxNUkRBZl9rcGU3OW9GTWZqY19JRFhWd1l3cndZLXBEYTZVU1NpeXdfQm04M2pzQm1ydUVzc1pTOWEtWnkyY0dBd0FPMHhPcTRVbEVuVVpId3EyQjFDYzFiOG9wUk80bkJuUktEMy1CcjU4c1B1aG9SQWdmdTRtTC05T2ZHYXhTVlNmZzVIMkNVOTAzcVQtdDFrZUxNNWdlaE5NZTl6eE82QS1lQXp2UUs4NXJQWjN5eWw3SjhEMDJpdUlGc1pfZTFaYzNpZzRTR3pkd0d6VVd0MTdPVGtfd2lDZFhwcE1Zekl1aEVZcGxKV3hYRDA3NTNDMXJrSzc3QkJYMWE5QUNtaF9ja0ZPYjZyWnEyT0IwSHQ0Y1R0VdIBpAJBVV95cUxOZGhGT1hMa05IVW9OTlRoeEhiTkFCNVlMbHVSWTRFT1ltQ0JGTnN3ZEJVSERaa0RWSThJbTh0YzRsY3dHZlJMd2ZCRUViX1lPRGQ5N05KUWppY25iR0lCZ0FDVHFRcXNoYUJJTnBXTHlJMWItbDFoRGZvd3FKMlRSSVp4UUNISUVfYzFVbWlzSW5HQm1BVkJ2MVJnU21uRWZhbnVhSXozS1ppYlp4TnZIZXU2UmdmTUliX0lFNkxlM21rRGVzTkZTX3pfOVotYVh0QS1NZEoyOUxPMU1NRXd2WlpIeFRyTnFaWlF5MUNVT2pWV0E1dVdEUzM4dmR3dXNnN0dTQUJhaTdrZ0l0UG40VmczQnZTSkF2TEJpaFYzT2dHU1Yx?oc=5)
+
+---
 
 ### [Common sleep habit linked to 50% higher death risk in heart patients, recent study finds - Fox News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVR3cGkxcy15MDlNVkRkZ19wcnhGVlc2V28zYmgxb0lKSXZJOUo3ZmFodXBEa3JnMjJodFlkTFZ0U05YVTdDQkw3Rm9CdE4xUHB5R1RPSXJrNWNzM0c4VUI5WTV5QnhnY2dtOWFQR3ZjY2N0S1lKaTMwZGktUHZsYmphWkZlS0RWTnVwOTQ2aVo5M0tXWjNDdmxRbDliOE9MVkVjR1pDNEwyY2FrSmFPUNIBtgFBVV95cUxPUWNkTDRUcUN2MG9EYVQzYUtnRlhuZS13V3VhbWVrWW1qb1pOSFdFTlRyOTlycHEwWVF2azJZX2M4Yzk5WkpPeDhENFJCTkd0RXFZUFVYckMxaUFsay1UU1NLenBldnQzXzQxanJnZTBPTmxoaktGWWRUS2RVakJ3NzA0MWJfT0djMjNMNlJBSnREdzVsbTFOUHZHYlM5Z0dnOWx4VHJNNWRVc1c0OE04TXl5bTVPZw?oc=5)
 
@@ -136,6 +168,14 @@ Source: [Yahoo Sports](https://news.google.com/rss/articles/CBMigAJBVV95cUxQMlpf
 
 ---
 
+### [Massive hope for pancreatic cancer pill after trial saw tumours vanish](https://news.google.com/rss/articles/CBMiW0FVX3lxTE82dWNyajI5V2RpWmkyN3U0TWx6dDE1UXI3UVMtdkktYXM3R09CS2Ezb19OZ20xYjZmNUpDd2VQMzlGVXNkR0YyLUR5T0FNR0JJanpHRnJNalZOaVU?oc=5)
+
+2026-11-20
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE82dWNyajI5V2RpWmkyN3U0TWx6dDE1UXI3UVMtdkktYXM3R09CS2Ezb19OZ20xYjZmNUpDd2VQMzlGVXNkR0YyLUR5T0FNR0JJanpHRnJNalZOaVU?oc=5)
+
+---
+
 ### [Experts have for decades wanted to diagnose CTE in living people. BU researchers may have found a way. - The Boston Globe](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QQndwa25DMUdfRXpVVU9iUi1mQVQxYmt1WVhxcG84VmVmdnNGcWFhQWd6bGdRclRUSXU0cXNxQUYxbGE3V0dVS0FHRGxhVW5FdzlORVhueGZ1M2Y2UzNxNG9ncE9IQWRWbWVSZTEyRVU3SU9ZMUNjTnNrcWxPdw?oc=5)
 
 2026-11-19
@@ -173,6 +213,14 @@ Source: [NBC News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdkpuTHdB
 2026-11-19
 
 Source: [STAT](https://news.google.com/rss/articles/CBMilgFBVV95cUxNUDlHcFVVUF9oZ1M1Ti1FamZEVm01NEJ2aWJQTk1ZTkpxeFhTM2dlM0lJdW1HMHNkUkVBR3lNNk5VSGtPSjRmTl9wSjlhQUVGTGxTclBTVFZ0NHp5Rzc1cXVkbE5WSC1ZdDBqNTAydUZSR2lnYlNBVThfLXhzLS1SalE1MXpzTnNNVUFpYjIxUWJ5dUJ4VXc?oc=5)
+
+---
+
+### [This Habit Could Raise Your Stroke Risk by 40%, New Study Suggests](https://news.google.com/rss/articles/CBMie0FVX3lxTE5IbjM5RVVXTVdQVnpmZlFsYUw4X2dBczE0UzVpcGVJWFEzazhReXhrZl9aWGgwbjFvM0tyMlE2NGVRbmxoQkx0NGRIMV9QcGZZVE02SFctV2VRZGtydHFPR2kzNTA3RDA2aVptUk5BMmZxbjZOcjJ2V0RVMA?oc=5)
+
+2026-11-19
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMie0FVX3lxTE5IbjM5RVVXTVdQVnpmZlFsYUw4X2dBczE0UzVpcGVJWFEzazhReXhrZl9aWGgwbjFvM0tyMlE2NGVRbmxoQkx0NGRIMV9QcGZZVE02SFctV2VRZGtydHFPR2kzNTA3RDA2aVptUk5BMmZxbjZOcjJ2V0RVMA?oc=5)
 
 ---
 

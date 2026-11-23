@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 41 articles, 2 related drugs."
+description: "Health news about flu (influenza). 42 articles, 2 related drugs."
 permalink: /news/influenza/
 last_modified_at: 2026-11-23
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>41 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>42 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (41)
+## Related News (42)
 
 ### [South Carolina flu hospitalizations nearly triple the usual pace ahead of Thanksgiving](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLW9EOXc4YjdSUHVUanNQQWxvSTBJTFcxT19UNk03Rk5IZkRHcnJJZ1ZQamVzakM0bWF6YnBrV0ZaNHhzN2wxVXdLZkZDaXR2MEpkaDF4VmNCaGhmU2d4Z3hoUXpSNlkxUUx1Nm1zSmcxODRlWUdwSkJtSWxCMl9jbk1MMjRpT2JJTFBwSmZUcElQdUJDV0ZUbHBwdFVzZFFMUTlMWFl4bG0yUVdncDFxeEx5RUdwZWR5YXFIUGltdllhR09WNjUwNG9rVExacEI4MXZOTVBwQUNmMGwzSkpDa0I2Q2h5NTYyb0VTN2xyRlk?oc=5)
 
@@ -54,6 +54,14 @@ Source: [WMUR](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSU82dl9JbnZJ
 2026-11-21
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQzRDUEd6VnNMdHJlb0NYNHY3WHJtajcxYzZWOHdic0FnamZxQ01qcDg1SzZBWXpSYjJVb1VxRl9NblN2STdGdThFcHEzb1RyenpOZHVsVjM2RTdOWjJ0cGJTcUxqamUyN0k5VUdjWkR1akZoWk9RMFRBTW9kVU9sYjFZemRaS2VwcDJ0cHRTZ2F4djR0RzFz?oc=5)
+
+---
+
+### [A Major Review Reveals Three Antidepressants That May Outperform Prozac](https://news.google.com/rss/articles/CBMingFBVV95cUxOdTlwLW51dmxJa3VlX0dxQ1J4WUZKMXpRbC1tRTk3NlcyZzVnZURQa1NKeFJ4RW8tY1l5cnZNOWZVR0x4SzY1bmgzQ3Q1VjVyeGU3V1Bic1V0Mkd3SS1LaTZ4OGVwWkw4Q1cxY3M2UzV1c1VxVDFseXcxUnFXVUZubDl1V0lOOUxnakpuZVdTeTA1N0R0bGZUa0NNTU9vUQ?oc=5)
+
+2026-11-21
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxOdTlwLW51dmxJa3VlX0dxQ1J4WUZKMXpRbC1tRTk3NlcyZzVnZURQa1NKeFJ4RW8tY1l5cnZNOWZVR0x4SzY1bmgzQ3Q1VjVyeGU3V1Bic1V0Mkd3SS1LaTZ4OGVwWkw4Q1cxY3M2UzV1c1VxVDFseXcxUnFXVUZubDl1V0lOOUxnakpuZVdTeTA1N0R0bGZUa0NNTU9vUQ?oc=5)
 
 ---
 

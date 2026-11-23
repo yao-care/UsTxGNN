@@ -3,7 +3,7 @@ layout: default
 title: "tumor (cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 63 articles, 1 related drugs."
+description: "Health news about tumor (cancer). 66 articles, 1 related drugs."
 permalink: /news/cancer/
 last_modified_at: 2026-11-23
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>63 news articles</strong> and 1 related drugs.
+<strong>tumor (cancer)</strong> currently has <strong>66 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (63)
+## Related News (66)
+
+### [Common Plastic Used in Food Packaging May Fuel Colon Cancer, Mouse Study Finds](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTFpV1RGV3JwTUF0azl5eUYzOXJrV24zb0dKMHdTdXRsOUp5UnNja0Fjbi03cDRYSzlkWWFfazM0VzNuVWhjZF9nUzhVcklfNDlrV3oySzBNaEEyeVA3VmdjaDlYdGVKLXpRbFRDc3hqV1JGdm1hemtzNGgydjdWdkJwNi1WOXpGRDB5c01YV0I5TVBCbDJvT09iZTlnR1BuZWQ4QXRYcW5hQQ?oc=5)
+
+2026-11-23
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTFpV1RGV3JwTUF0azl5eUYzOXJrV24zb0dKMHdTdXRsOUp5UnNja0Fjbi03cDRYSzlkWWFfazM0VzNuVWhjZF9nUzhVcklfNDlrV3oySzBNaEEyeVA3VmdjaDlYdGVKLXpRbFRDc3hqV1JGdm1hemtzNGgydjdWdkJwNi1WOXpGRDB5c01YV0I5TVBCbDJvT09iZTlnR1BuZWQ4QXRYcW5hQQ?oc=5)
+
+---
 
 ### [Can AI spot breast cancer earlier? NHS launches world's largest trial to find out](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVUkQtVVhUR1Rmblg4b0ZmZk84a0lYRXVoekt0T2RLZ3pGTmozUDBTSklReUlJREVwbFlNSHlkd0xLSV8zZnh1ZlpoMl9CNlFndFd4eGZrX1ZocUk?oc=5)
 
 2026-11-23
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVUkQtVVhUR1Rmblg4b0ZmZk84a0lYRXVoekt0T2RLZ3pGTmozUDBTSklReUlJREVwbFlNSHlkd0xLSV8zZnh1ZlpoMl9CNlFndFd4eGZrX1ZocUk?oc=5)
+
+---
+
+### [The health discussion you should have when you get together with family - The Washington Post](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcl9vODNjelJ5dENla1A2S05ocjNPTndyN0I5OGpxb3llRlIxQ181c2N6MmxqeW9leko3X1ZlM0lwTW9XVkRWNksxUy02VDJsTmpDNGd1R294NC0yZ2doYk9zeHdZTnowR3lnajE2eXJNcDdfR0dWYW5sT2tndF9ZejVYc3RqeG1DVzk2bTMzX05tcXRDWUVQUGZQZ0UzWktvSl9tUUczeTF0ZDJmRG9aRm84S3F3TXJ3VWU4?oc=5)
+
+2026-11-22
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcl9vODNjelJ5dENla1A2S05ocjNPTndyN0I5OGpxb3llRlIxQ181c2N6MmxqeW9leko3X1ZlM0lwTW9XVkRWNksxUy02VDJsTmpDNGd1R294NC0yZ2doYk9zeHdZTnowR3lnajE2eXJNcDdfR0dWYW5sT2tndF9ZejVYc3RqeG1DVzk2bTMzX05tcXRDWUVQUGZQZ0UzWktvSl9tUUczeTF0ZDJmRG9aRm84S3F3TXJ3VWU4?oc=5)
 
 ---
 
@@ -189,6 +205,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3B5
 2026-11-20
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
+
+---
+
+### [Massive hope for pancreatic cancer pill after trial saw tumours vanish](https://news.google.com/rss/articles/CBMiW0FVX3lxTE82dWNyajI5V2RpWmkyN3U0TWx6dDE1UXI3UVMtdkktYXM3R09CS2Ezb19OZ20xYjZmNUpDd2VQMzlGVXNkR0YyLUR5T0FNR0JJanpHRnJNalZOaVU?oc=5)
+
+2026-11-20
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE82dWNyajI5V2RpWmkyN3U0TWx6dDE1UXI3UVMtdkktYXM3R09CS2Ezb19OZ20xYjZmNUpDd2VQMzlGVXNkR0YyLUR5T0FNR0JJanpHRnJNalZOaVU?oc=5)
 
 ---
 

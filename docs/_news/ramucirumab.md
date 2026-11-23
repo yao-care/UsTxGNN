@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>63 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>66 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (63)
+## Related News (66)
+
+### [Common Plastic Used in Food Packaging May Fuel Colon Cancer, Mouse Study Finds](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTFpV1RGV3JwTUF0azl5eUYzOXJrV24zb0dKMHdTdXRsOUp5UnNja0Fjbi03cDRYSzlkWWFfazM0VzNuVWhjZF9nUzhVcklfNDlrV3oySzBNaEEyeVA3VmdjaDlYdGVKLXpRbFRDc3hqV1JGdm1hemtzNGgydjdWdkJwNi1WOXpGRDB5c01YV0I5TVBCbDJvT09iZTlnR1BuZWQ4QXRYcW5hQQ?oc=5)
+
+2026-11-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">OA</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTFpV1RGV3JwTUF0azl5eUYzOXJrV24zb0dKMHdTdXRsOUp5UnNja0Fjbi03cDRYSzlkWWFfazM0VzNuVWhjZF9nUzhVcklfNDlrV3oySzBNaEEyeVA3VmdjaDlYdGVKLXpRbFRDc3hqV1JGdm1hemtzNGgydjdWdkJwNi1WOXpGRDB5c01YV0I5TVBCbDJvT09iZTlnR1BuZWQ4QXRYcW5hQQ?oc=5)
+
+---
 
 ### [Can AI spot breast cancer earlier? NHS launches world's largest trial to find out](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVUkQtVVhUR1Rmblg4b0ZmZk84a0lYRXVoekt0T2RLZ3pGTmozUDBTSklReUlJREVwbFlNSHlkd0xLSV8zZnh1ZlpoMl9CNlFndFd4eGZrX1ZocUk?oc=5)
 
@@ -52,9 +60,17 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVUkQtVVhUR1Rmb
 
 ---
 
-### [American Cancer Society updates prostate cancer screening guidelines](https://news.google.com/rss/articles/CBMikgFBVV95cUxONi1ndmF4bUZfdWJsRFhwT0xCUUFFWFhIbnBaYkI0djkyRzNCdEFWbjJzek9KcTV4V2YzVnNGNGk5U2prYUtOWEFfazhjVEFYcVB2TmdXT2lqOFpiSExRbUtxT0h6ODY2MXRlSGRNMU1kZEpoem9LZE5ENW9UWm1BYldocm9iZmMyYjgxZ29NNThZZw?oc=5)
+### [The health discussion you should have when you get together with family - The Washington Post](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcl9vODNjelJ5dENla1A2S05ocjNPTndyN0I5OGpxb3llRlIxQ181c2N6MmxqeW9leko3X1ZlM0lwTW9XVkRWNksxUy02VDJsTmpDNGd1R294NC0yZ2doYk9zeHdZTnowR3lnajE2eXJNcDdfR0dWYW5sT2tndF9ZejVYc3RqeG1DVzk2bTMzX05tcXRDWUVQUGZQZ0UzWktvSl9tUUczeTF0ZDJmRG9aRm84S3F3TXJ3VWU4?oc=5)
 
 2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcl9vODNjelJ5dENla1A2S05ocjNPTndyN0I5OGpxb3llRlIxQ181c2N6MmxqeW9leko3X1ZlM0lwTW9XVkRWNksxUy02VDJsTmpDNGd1R294NC0yZ2doYk9zeHdZTnowR3lnajE2eXJNcDdfR0dWYW5sT2tndF9ZejVYc3RqeG1DVzk2bTMzX05tcXRDWUVQUGZQZ0UzWktvSl9tUUczeTF0ZDJmRG9aRm84S3F3TXJ3VWU4?oc=5)
+
+---
+
+### [American Cancer Society updates prostate cancer screening guidelines](https://news.google.com/rss/articles/CBMikgFBVV95cUxONi1ndmF4bUZfdWJsRFhwT0xCUUFFWFhIbnBaYkI0djkyRzNCdEFWbjJzek9KcTV4V2YzVnNGNGk5U2prYUtOWEFfazhjVEFYcVB2TmdXT2lqOFpiSExRbUtxT0h6ODY2MXRlSGRNMU1kZEpoem9LZE5ENW9UWm1BYldocm9iZmMyYjgxZ29NNThZZw?oc=5)
+
+2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">MI</span>
 
 Source: [WMUR](https://news.google.com/rss/articles/CBMikgFBVV95cUxONi1ndmF4bUZfdWJsRFhwT0xCUUFFWFhIbnBaYkI0djkyRzNCdEFWbjJzek9KcTV4V2YzVnNGNGk5U2prYUtOWEFfazhjVEFYcVB2TmdXT2lqOFpiSExRbUtxT0h6ODY2MXRlSGRNMU1kZEpoem9LZE5ENW9UWm1BYldocm9iZmMyYjgxZ29NNThZZw?oc=5)
 
@@ -204,6 +220,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVV
 
 ---
 
+### [Massive hope for pancreatic cancer pill after trial saw tumours vanish](https://news.google.com/rss/articles/CBMiW0FVX3lxTE82dWNyajI5V2RpWmkyN3U0TWx6dDE1UXI3UVMtdkktYXM3R09CS2Ezb19OZ20xYjZmNUpDd2VQMzlGVXNkR0YyLUR5T0FNR0JJanpHRnJNalZOaVU?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">RA</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE82dWNyajI5V2RpWmkyN3U0TWx6dDE1UXI3UVMtdkktYXM3R09CS2Ezb19OZ20xYjZmNUpDd2VQMzlGVXNkR0YyLUR5T0FNR0JJanpHRnJNalZOaVU?oc=5)
+
+---
+
 ### [Fayetteville mom rings cancer-free bell after 3-year battle with stage 4 colon cancer](https://news.google.com/rss/articles/CBMingFBVV95cUxQc003VDhXdkxhTWRONERSa2VCMlhJT2NRRnFybnc4aGZCM1gyQWx4UkRyZE8zODZLbXdTSXk4cDRtZ3o5TV85cWxjdU9jejluYzJKcDlJSkRVNE5JcVJ5cGpuMzFtNTBuUkxmYXBQWE1CdXZZZE84aWNkWENhU3VxVTlDeGhyMXJKb3JDOUREQUIxQWROZWt5QkxhWGlMQQ?oc=5)
 
 2026-11-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
@@ -238,7 +262,7 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMijwFBVV95cUxPeFhYOE9EdWx
 
 ### [Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVBnYVppRkMtdUJrYWs3b0tESFNjTU4wOE5JeERpeFFtdUpGb3FLdlZCekxyY3JUNDVlM2dLZ2pLeTR6RGdVSXAzUllyRUU0NWh2T0tTWkZnMnFRY20tLVpEV05XbXFRT1dMUmtQM2l3cDlCWHdqWm1UM0p0THplVlJqM2xXZHllTk5XZ3M0bEtYeGY2Mkp0LQ?oc=5)
 
-2026-11-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-11-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span> <span class="news-indication-tag">CAD</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVBnYVppRkMtdUJrYWs3b0tESFNjTU4wOE5JeERpeFFtdUpGb3FLdlZCekxyY3JUNDVlM2dLZ2pLeTR6RGdVSXAzUllyRUU0NWh2T0tTWkZnMnFRY20tLVpEV05XbXFRT1dMUmtQM2l3cDlCWHdqWm1UM0p0THplVlJqM2xXZHllTk5XZ3M0bEtYeGY2Mkp0LQ?oc=5)
 

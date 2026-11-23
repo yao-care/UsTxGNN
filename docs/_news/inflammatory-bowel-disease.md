@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 86 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 91 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-11-23
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>86 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>91 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,45 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (86)
+## Related News (91)
+
+### [H.I.V. Research Networks May Again Seek Federal Funding, With a Twist - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
+
+2026-11-23
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
+
+---
+
+### [Farm-raised deer tests positive for Chronic Wasting Disease in this Kentucky county](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaWxhVmNBZmM3WVVmcUF5ZENKRmoyc284Y3lpS3ZTb0xzcmFfOWktSlRvN3lLV1RQdXFYRkliOERtckNXUVVVZzZsa0JtbVJVb0dSNmJIWDFNbEF1ak5VcXlFM2lFX0dhejRENFUySzI4alFGYndQNmFOTFBjTkdkY1ltS2NDTS1pekFrOXVoS2htcl8tdFJnMXpldXlObTJfS0cwZE5aZUd5TGxiSWFxTDRSVlExQTZNMF9PcTF0N0pJSThQZWNWcGZFV0p0dUpPTzZMMzN5U20?oc=5)
+
+2026-11-23
+
+Source: [WHAS11](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaWxhVmNBZmM3WVVmcUF5ZENKRmoyc284Y3lpS3ZTb0xzcmFfOWktSlRvN3lLV1RQdXFYRkliOERtckNXUVVVZzZsa0JtbVJVb0dSNmJIWDFNbEF1ak5VcXlFM2lFX0dhejRENFUySzI4alFGYndQNmFOTFBjTkdkY1ltS2NDTS1pekFrOXVoS2htcl8tdFJnMXpldXlObTJfS0cwZE5aZUd5TGxiSWFxTDRSVlExQTZNMF9PcTF0N0pJSThQZWNWcGZFV0p0dUpPTzZMMzN5U20?oc=5)
+
+---
+
+### [Heart attacks are on the rise under 50 — the hidden drivers and warning signs you might miss - New York Post](https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVlFX3NzblpxOERDY3BHQVpoY3N6S3g3anc2dmV4aGphQm1oek9wMEZYaTEwcUhaOE5ILUpHbEw1TFBrSUJKQURuME1zcTBkX3Q3aGM0YTlOeFVjNGlmUlZTWF9PRzdPR0tSMVJTcXdUTmZOdjhCMWJ4ZGViMjROakczWW02SXN0OUhxdkhOX2tobk0yZXgxQVo5RVEtRlpodndF?oc=5)
+
+2026-11-23
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVlFX3NzblpxOERDY3BHQVpoY3N6S3g3anc2dmV4aGphQm1oek9wMEZYaTEwcUhaOE5ILUpHbEw1TFBrSUJKQURuME1zcTBkX3Q3aGM0YTlOeFVjNGlmUlZTWF9PRzdPR0tSMVJTcXdUTmZOdjhCMWJ4ZGViMjROakczWW02SXN0OUhxdkhOX2tobk0yZXgxQVo5RVEtRlpodndF?oc=5)
+
+---
 
 ### [One Common Vitamin May Lower Toxic Alzheimer's Proteins, Research Suggests](https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1ZTZWw5ZzBJdXZneHNwNnpteDRTYXFmR08zWXN0MXdSa2pSb041cU1seF9malZmOTRfLW5oRXJHWGxGekVnTEdZY1k2SV9GLVRYLU9paGNKVC1Bem5RREVwaHZGbWpHNDA3UjV4aW9TTFN3QXg4dDFGZkpwN2ZGQzZhMWlLRXlRRHVPNzQ3VE1JWWVtWmhBNXRwYkFZbVo5amRr?oc=5)
 
 2026-11-23
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1ZTZWw5ZzBJdXZneHNwNnpteDRTYXFmR08zWXN0MXdSa2pSb041cU1seF9malZmOTRfLW5oRXJHWGxGekVnTEdZY1k2SV9GLVRYLU9paGNKVC1Bem5RREVwaHZGbWpHNDA3UjV4aW9TTFN3QXg4dDFGZkpwN2ZGQzZhMWlLRXlRRHVPNzQ3VE1JWWVtWmhBNXRwYkFZbVo5amRr?oc=5)
+
+---
+
+### [Neandertal gene variant in modern human genomes tied to lower schizophrenia risk, study finds - Archaeology News Online Magazine](https://news.google.com/rss/articles/CBMijAFBVV95cUxNVXM1ekx0NHI5TGR5S0ZiaTdTSmhHMEFyM1VsMDRqQklsWS1nRFlBYmViRkdXYnN6VThWMG9ic25wQ3FGb2czVFpMeHFTVUJzLU5ualA1NXRCcjh1ME91YVhQSXctMW43VHFoV0drSjVsSGxNcDFXTmNFN2xEdk9wS3R2VmYzZHFIQmU3MQ?oc=5)
+
+2026-11-22
+
+Source: [Archaeology News Online Magazine](https://news.google.com/rss/articles/CBMijAFBVV95cUxNVXM1ekx0NHI5TGR5S0ZiaTdTSmhHMEFyM1VsMDRqQklsWS1nRFlBYmViRkdXYnN6VThWMG9ic25wQ3FGb2czVFpMeHFTVUJzLU5ualA1NXRCcjh1ME91YVhQSXctMW43VHFoV0drSjVsSGxNcDFXTmNFN2xEdk9wS3R2VmYzZHFIQmU3MQ?oc=5)
 
 ---
 
@@ -133,14 +165,6 @@ Source: [NDTV](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUTZ0U3BlVTVR
 
 ---
 
-### [H.I.V. Research Networks May Again Seek Federal Funding, With a Twist - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
-
-2026-11-20
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1RY3ZwN1NpdDROa1E0cmVaakszU1VyN09JVWtiTkxueXItdWdXRVowdk40ZDdtNUNXTm1LNzFKLWZCYVNraTB4NEJIcFRKTi0wTG5ueDA5VGZDcEd4RV9EUlQ1a1d1dF9VdWpSdWpDc1VCTWUydFJSZ0NQVEM?oc=5)
-
----
-
 ### [New research gives insight to where your brain plans out your speech](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVJQNmMtOWt5a0VTQ2FqZGtBYW1McmdUXzhleFd6YXhIN2tnZmpkcEp1T0F3ZjBPOXc1b1BIc0c0bEl5V1AwbVliYWVXRF9jYV83LXE2bU5QUnk5ZDhZc1oyeXBoclhYQWpWWlVDR3R3YzZaQ2RlWHdqLVRHdG9keDZZQ1NGeDZmSEdQVlVyc3RJclNUMjVFQ3FsNXFLSGZCb1lnTU94UFJnTU13RE92UkstYw?oc=5)
 
 2026-11-20
@@ -154,6 +178,14 @@ Source: [NPR](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVJQNmMtOWt5a
 2026-11-20
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
+
+---
+
+### [Record-setting X-ray laser reliably generates flashes with wavelengths shorter than distances between atoms](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWF94X3l6QUt4SUpDMDZnd2VRSnBaSFQ0TTB1VkxHOFNtY3dFX2oweFJLNFVtUC10NG5KcEdGeTduSHZId1Y5MHg5dmFOeWxvUVRXYzg2Y0V5Q0RRT0xQbk82QUg2elZaeVB1Mkg4SkpUdm9BNk9tdWhid0dfQk02Ug?oc=5)
+
+2026-11-20
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWF94X3l6QUt4SUpDMDZnd2VRSnBaSFQ0TTB1VkxHOFNtY3dFX2oweFJLNFVtUC10NG5KcEdGeTduSHZId1Y5MHg5dmFOeWxvUVRXYzg2Y0V5Q0RRT0xQbk82QUg2elZaeVB1Mkg4SkpUdm9BNk9tdWhid0dfQk02Ug?oc=5)
 
 ---
 
@@ -562,6 +594,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pOThEbWJnTU
 2026-11-17
 
 Source: [BollywoodShaadis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3F3dlJBbzhHd1RJV1ZVblBEeGxLVWplZ01PaWVoTmtYS2doT0g3S1pUNFozRktlaEtCbmVoMUdwTmZTYUtORS1uSF9HMHE1NmRpUWxRbDkzVFcxV29RYVl6anZyWTRlSGtuUzFSWU9oNTR3UXBEeHVMeUZMNEV5WDhVc2dmdHc1MVZQVUcyVWF6WU1oZ2pVV1R3VFktd2M5Zk5pOFpJS2VGZ03SAbABQVVfeXFMUFVUalpJR3Jia1pOT2dNV2tWSFA3YWFYZjVWUk16RVg5QWlHQUpURk9fYWNRQm9KQ3ltZEhoRTRUb3hyWldXWWFveDhlM3E0dURCV3llUHBkc2gybDBtR0t1enlfR3U5bzBUS2JKa0NiTEhkTnVYNzZ1V0FYZ3R1Nk5kdWR4TnFZeU5fMXh3Z0hWTnRnOHRtWndISlJxcC0xRHh5NndPU1g4M3hCT3pOM3A?oc=5)
+
+---
+
+### [Semaglutide for the Treatment of Obesity in Children 6 to](https://news.google.com/rss/articles/CBMie0FVX3lxTFBocWVSNEdNNzUzYXhyRnd5bE1yMHg0ZElKRXNWSlRwRzI3N0tRam1jNWxqMU1GcmpSaXR5V3g3OWZsbVR2UUpRR0lfeFlhQWZIMDVEUkJGdFg2NmE2MGZaMnRjTUd3S1VFX2x2RktGSWNuV1BuLVE3dndEcw?oc=5)
+
+2026-11-17
+
+Source: [NEJM](https://news.google.com/rss/articles/CBMie0FVX3lxTFBocWVSNEdNNzUzYXhyRnd5bE1yMHg0ZElKRXNWSlRwRzI3N0tRam1jNWxqMU1GcmpSaXR5V3g3OWZsbVR2UUpRR0lfeFlhQWZIMDVEUkJGdFg2NmE2MGZaMnRjTUd3S1VFX2x2RktGSWNuV1BuLVE3dndEcw?oc=5)
 
 ---
 

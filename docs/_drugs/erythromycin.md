@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 669
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ERYTHROMYCIN"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
-description: "Erythromycin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 130 FDA applications (33 active), plus 1 OTC monograph/unapproved NDC listing"
+description: "Erythromycin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). In the US: 130 FDA applications (32 active), plus 1 OTC monograph/unapproved NDC listing"
 ---
 
 # Erythromycin
@@ -50,8 +50,8 @@ but there are currently **no registered clinical trials** and only **1 publicati
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 33 of 130; OTC monograph / unapproved listings: 1) |
-| Number of FDA Applications | 130 (active: 33) |
+| US Market Status | Marketed (active FDA-approved applications: 32 of 130; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 130 (active: 32) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -88,7 +88,7 @@ The approved-indication text is not recorded in the local data. Main authorizati
 | ANDA061904 | ERYTHROMYCIN ETHYLSUCCINATE | CARNEGIE | Tablet; oral | Valid |
 | ANDA061905 | E.E.S. 400 | PHARMOBEDIENT | Tablet; oral | Valid |
 | ANDA062055 | ERYTHROMYCIN ETHYLSUCCINATE | ANI PHARMS | Granule; oral | Valid |
-| ANDA062298 | ERY-TAB | PHARMOBEDIENT | Tablet, delayed release; oral | Valid |
+| ANDA062298 | ERY-TAB | PHARMOBEDIENT | Tablet, delayed release; oral | Discontinued in Drugs@FDA |
 
 Showing 5 of 131 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
 

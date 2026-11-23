@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "IVERMECTIN"
 predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "neonatal candidiasis", "candida glabrata", "congenital candidiasis", "postmenopausal atrophic vaginitis", "candidiasis, invasive"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ivermectin: predicted new indication Vulvovaginal candidiasis (evidence level L5). Approved use: Strongyloidiasis, onchocerciasis"
 ---
 
@@ -50,8 +50,8 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Vulvovaginal candidiasis |
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 14 of 15; OTC monograph / unapproved listings: 6) |
-| Number of FDA Applications | 15 (active: 14) |
+| US Market Status | Marketed (active FDA-approved applications: 13 of 15; OTC monograph / unapproved listings: 6) |
+| Number of FDA Applications | 15 (active: 13) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -87,13 +87,19 @@ The drug is marketed. The data compiled for this report contain no approved indi
 
 <!-- review:end us-lic-20261106-ivermectin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA050742 | Stromectol | Tablet | Merck Sharp & Dohme LLC |
-| NDA206255 | Ivermectin | Cream | Mayne Pharma Inc. |
-| ANDA204154 | Ivermectin | Tablet | Edenbridge Pharmaceuticals LLC |
-| ANDA215922 | Ivermectin | Tablet | Advagen Pharma Ltd |
-| ANDA215210 | Ivermectin | Cream | Zydus Lifesciences Limited |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA204154 | IVERMECTIN | EDENBRIDGE PHARMS | Tablet; oral | Valid |
+| ANDA210019 | IVERMECTIN | TEVA PHARMS USA | Cream; topical | Valid |
+| ANDA210225 | IVERMECTIN | PADAGIS ISRAEL | Cream; topical | Valid |
+| ANDA210720 | IVERMECTIN | TARO | Lotion; topical | Valid |
+| ANDA215210 | IVERMECTIN | ZYDUS LIFESCIENCES | Cream; topical | Valid |
+
+Showing 5 of 21 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

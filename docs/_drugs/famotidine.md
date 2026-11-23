@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 692
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "FAMOTIDINE"
 predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
-description: "Famotidine: predicted new indication Duodenal obstruction (evidence level L5). In the US: 111 FDA applications (68 active), plus 1 OTC monograph/unapproved NDC listing"
+description: "Famotidine: predicted new indication Duodenal obstruction (evidence level L5). In the US: 111 FDA applications (67 active), plus 1 OTC monograph/unapproved NDC listing"
 ---
 
 # Famotidine
@@ -48,8 +48,8 @@ Famotidine is a histamine H2-receptor blocker that reduces stomach acid. It is u
 | Predicted New Indication | Duodenal obstruction |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 68 of 111; OTC monograph / unapproved listings: 1) |
-| Number of FDA Applications | 111 (active: 68) |
+| US Market Status | Marketed (active FDA-approved applications: 67 of 111; OTC monograph / unapproved listings: 1) |
+| Number of FDA Applications | 111 (active: 67) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -73,13 +73,19 @@ Currently no related clinical trials registered.
 
 No approved-indication text was recorded. The first five are shown.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|------|
-| ANDA075786 | famotidine | Tablet, film coated | Chartwell RX, LLC | Valid |
-| ANDA078916 | Famotidine | Tablet | NCS HealthCare of KY (Vangard Labs) | Valid |
-| ANDA075511 | Famotidine | Tablet, film coated | Northwind Health Company, LLC | Valid |
-| ANDA201995 | Famotidine | Powder, for solution | Akorn | Valid |
-| ANDA206531 | Zantac 360, Travel BASIX | Tablet, film coated | Lil' Drug Store Products, Inc | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075302 | FAMOTIDINE | MANKIND PHARMA | Tablet; oral | Valid |
+| ANDA075400 | FAMOTIDINE | PERRIGO | Tablet; oral | Valid |
+| ANDA075486 | FAMOTIDINE PRESERVATIVE FREE | HIKMA | Injectable; injection | Valid |
+| ANDA075488 | FAMOTIDINE | HIKMA | Injectable; injection | Valid |
+| ANDA075511 | FAMOTIDINE | IVAX SUB TEVA PHARMS | Tablet; oral | Valid |
+
+Showing 5 of 112 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

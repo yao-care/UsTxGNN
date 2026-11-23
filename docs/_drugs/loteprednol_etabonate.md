@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 873
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Loteprednol Etabonate: predicted new indication Conjunctival folliculosis (evidence level L5). Approved use: Uveitis and other ocular inflammatory conditions (including atopic…"
 monitor_inn: "LOTEPREDNOL ETABONATE"
 predicted_indications: ["conjunctival folliculosis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "pseudomembranous conjunctivitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
@@ -50,8 +50,8 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Conjunctival folliculosis |
 | TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 19 of 23) |
-| Number of FDA Applications | 23 (active: 19) |
+| US Market Status | Marketed (active FDA-approved applications: 20 of 23) |
+| Number of FDA Applications | 23 (active: 20) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -84,13 +84,19 @@ The drug is marketed in the US. Main entries:
 
 <!-- review:end us-lic-20261106-loteprednol_etabonate-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020583 | LOTEMAX | Suspension/drops | Not available |
-| NDA020803 | Loteprednol etabonate | Suspension/drops | Not available |
-| NDA200738 | Lotemax | Ointment | Not available |
-| NDA202872 | Loteprednol etabonate | Gel | Not available |
-| NDA208219 | Lotemax SM | Gel | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA207609 | LOTEPREDNOL ETABONATE | SENTISS | Suspension/drops; ophthalmic | Valid |
+| ANDA212080 | LOTEPREDNOL ETABONATE | SENTISS | Gel; ophthalmic | Valid |
+| ANDA212450 | LOTEPREDNOL ETABONATE | SUN PHARM | Suspension/drops; ophthalmic | Valid |
+| ANDA215203 | LOTEPREDNOL ETABONATE | PADAGIS US | Suspension/drops; ophthalmic | Valid |
+| ANDA215204 | LOTEPREDNOL ETABONATE | PADAGIS US | Suspension/drops; ophthalmic | Valid |
+
+Showing 5 of 23 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 The remaining entries are generic (ANDA) applications from Amneal, Armas, NorthStar, Padagis and Lupin, in suspension/drops, suspension, and gel forms.
 

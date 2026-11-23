@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 690
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "EZETIMIBE"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-description: "Ezetimibe: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). In the US: 31 FDA applications (18 active)"
+description: "Ezetimibe: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). In the US: 31 FDA applications (17 active)"
 ---
 
 # Ezetimibe
@@ -49,8 +49,8 @@ The data compiled for this report include **41 clinical trials** and **18 public
 | Predicted New Indication | Cholesterol-ester transfer protein deficiency |
 | TxGNN Prediction Score | 0.9909 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 18 of 31) |
-| Number of FDA Applications | 31 (active: 18) |
+| US Market Status | Marketed (active FDA-approved applications: 17 of 31) |
+| Number of FDA Applications | 31 (active: 17) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -97,13 +97,19 @@ The table lists the most relevant trials for the top prediction (up to 10).
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021445 | Zetia (Organon LLC) | Tablet | Not available |
-| ANDA209838 | Ezetimibe (Proficient Rx LP) | Tablet | Not available |
-| ANDA209234 | Ezetimibe (Bryant Ranch Prepack) | Tablet | Not available |
-| ANDA203931 | Ezetimibe (Sandoz Inc) | Tablet | Not available |
-| ANDA211550 | Ezetimibe (Accord Healthcare Inc.) | Tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA078560 | EZETIMIBE | GLENMARK PHARMS LTD | Tablet; oral | Valid |
+| ANDA203931 | EZETIMIBE | SANDOZ | Tablet; oral | Valid |
+| ANDA204331 | EZETIMIBE | ZYDUS PHARMS | Tablet; oral | Valid |
+| ANDA207311 | EZETIMIBE | OHM LABS INC | Tablet; oral | Valid |
+| ANDA208803 | EZETIMIBE | AMNEAL PHARMS CO | Tablet; oral | Valid |
+
+Showing 5 of 31 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

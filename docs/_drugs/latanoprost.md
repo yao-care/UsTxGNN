@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 839
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LATANOPROST"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
-description: "Latanoprost: predicted new indication Visceral calciphylaxis (evidence level L5). In the US: 16 FDA applications (10 active)"
+description: "Latanoprost: predicted new indication Visceral calciphylaxis (evidence level L5). In the US: 16 FDA applications (11 active)"
 ---
 
 # Latanoprost
@@ -49,8 +49,8 @@ but **0 clinical trials** and **0 publications** are currently available to supp
 | Predicted New Indication | Visceral calciphylaxis |
 | TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 10 of 16) |
-| Number of FDA Applications | 16 (active: 10) |
+| US Market Status | Marketed (active FDA-approved applications: 11 of 16) |
+| Number of FDA Applications | 16 (active: 11) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -81,13 +81,19 @@ No approved-indication text was available for any of them.
 
 <!-- review:end us-lic-20261106-latanoprost-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA091449 | Latanoprost (Sandoz Inc) | Solution | Valid |
-| ANDA218257 | Latanoprost (Sagent Pharmaceuticals) | Solution/drops | Valid |
-| ANDA202442 | Latanoprost (Rising Pharma Holdings) | Solution | Valid |
-| ANDA201786 | Latanoprost (Somerset Therapeutics) | Solution/drops | Valid |
-| NDA020597 | Latanoprost (Mylan Pharmaceuticals) | Solution | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA091449 | LATANOPROST | SANDOZ | Solution/drops; ophthalmic | Valid |
+| ANDA200925 | LATANOPROST | J MOLNER | Solution/drops; ophthalmic | Valid |
+| ANDA201006 | LATANOPROST | BAUSCH AND LOMB | Solution/drops; ophthalmic | Valid |
+| ANDA201786 | LATANOPROST | SOMERSET | Solution/drops; ophthalmic | Valid |
+| ANDA202442 | LATANOPROST | FDC LTD | Solution/drops; ophthalmic | Valid |
+
+Showing 5 of 16 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

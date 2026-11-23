@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1189
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Sumatriptan: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Sumatript
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| US Market Status | Marketed (active FDA-approved applications: 33 of 56) |
-| Number of FDA Applications | 56 (active: 33) |
+| US Market Status | Marketed (active FDA-approved applications: 32 of 56) |
+| Number of FDA Applications | 56 (active: 32) |
 
 ## Known uses among the model's candidates
 
@@ -72,23 +72,29 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Sumatript
 
 ## US Market Information
 
-| Licence | Product | Dosage form | Status |
-|------|------|------|------|
-| NDA210884 | sumatriptan | SPRAY | Valid |
-| ANDA078327 | Sumatriptan Succinate | TABLET | Valid |
-| ANDA076572 | Sumatriptan | TABLET | ANDA (Discontinued in Drugs@FDA) |
-| ANDA214209 | Sumatriptan | SPRAY | Valid |
-| ANDA208967 | sumatriptan | SPRAY | Valid |
-| ANDA213465 | sumatriptan | SPRAY | Valid |
-| ANDA213518 | sumatriptan succinate | INJECTION | Valid |
-| NDA020132 | sumatriptan | TABLET, FILM COATED | Valid |
-| ANDA076554 | SUMATRIPTAN | TABLET | ANDA (Discontinued in Drugs@FDA) |
-| ANDA219036 | sumatriptan | TABLET, FILM COATED | Valid |
-| ANDA076847 | Sumatriptan Succinate | TABLET | Valid |
-| ANDA077744 | sumatriptan succinate | TABLET, FILM COATED | Valid |
-| ANDA207101 | Sumatriptan | INJECTION | ANDA (Discontinued in Drugs@FDA) |
-| ANDA078295 | Sumatriptan Succinate | TABLET, FILM COATED | ANDA (Discontinued in Drugs@FDA) |
-| ANDA078284 | Sumatriptan Succinate | TABLET, FILM COATED | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA076847 | SUMATRIPTAN SUCCINATE | DR REDDYS LABS INC | Tablet; oral | Valid |
+| ANDA076933 | SUMATRIPTAN SUCCINATE | WATSON LABS | Tablet; oral | Valid |
+| ANDA077744 | SUMATRIPTAN SUCCINATE | MYLAN | Tablet; oral | Valid |
+| ANDA078284 | SUMATRIPTAN SUCCINATE | ORBION PHARMS | Tablet; oral | Valid |
+| ANDA078327 | SUMATRIPTAN SUCCINATE | AUROBINDO PHARMA | Tablet; oral | Valid |
+| ANDA078593 | SUMATRIPTAN SUCCINATE | WOCKHARDT BIO AG | Solution; subcutaneous | Valid |
+| ANDA079123 | SUMATRIPTAN SUCCINATE | HIKMA | Solution; subcutaneous | Valid |
+| ANDA079242 | SUMATRIPTAN SUCCINATE | FRESENIUS KABI USA | Solution; subcutaneous | Valid |
+| ANDA090314 | SUMATRIPTAN SUCCINATE (AUTOINJECTOR) | ONESOURCE SPECIALTY | Solution; subcutaneous | Valid |
+| ANDA090358 | SUMATRIPTAN SUCCINATE (AUTOINJECTOR) | SUN PHARM | Solution; subcutaneous | Valid |
+| ANDA090495 | SUMATRIPTAN SUCCINATE (AUTOINJECTOR) | DR REDDYS | Solution; subcutaneous | Valid |
+| ANDA200183 | SUMATRIPTAN SUCCINATE | HIKMA | Solution; subcutaneous | Valid |
+| ANDA200263 | SUMATRIPTAN SUCCINATE | ZHEJIANG | Tablet; oral | Valid |
+| ANDA202758 | SUMATRIPTAN SUCCINATE | EUGIA PHARMA | Solution; subcutaneous | Valid |
+| ANDA204841 | SUMATRIPTAN | LANNETT CO INC | Spray; nasal | Valid |
+
+Showing 15 of 56 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Only part of the licence list is held in the data; the list may be incomplete.
 

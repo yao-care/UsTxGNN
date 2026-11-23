@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "PHENOXYBENZAMINE"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma"]
-last_modified_at: 2026-11-20
-description: "Phenoxybenzamine: predicted new indication Primary hereditary glaucoma (evidence level L5). In the US: 7 FDA applications (5 active)"
+last_modified_at: 2026-11-24
+description: "Phenoxybenzamine: predicted new indication Primary hereditary glaucoma (evidence level L5). In the US: 7 FDA applications (4 active)"
 ---
 
 # Phenoxybenzamine
@@ -50,8 +50,8 @@ but **no clinical trials and no publications** currently support this direction,
 | Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 0.9955 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 5 of 7) |
-| Number of FDA Applications | 7 (active: 5) |
+| US Market Status | Marketed (active FDA-approved applications: 4 of 7) |
+| Number of FDA Applications | 7 (active: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -75,11 +75,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA212568 | Phenoxybenzamine hydrochloride (Amneal Pharmaceuticals NY LLC) | Capsule | Not listed (license valid) |
-| ANDA215042 | Phenoxybenzamine Hydrochloride (Novitium Pharma LLC) | Capsule | Not listed (license valid) |
-| ANDA215600 | Phenoxybenzamine Hydrochloride (Aurobindo Pharma Limited) | Capsule | Not listed (license valid) |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA204522 | PHENOXYBENZAMINE HYDROCHLORIDE | PH HEALTH | Capsule; oral | Valid |
+| ANDA204551 | PHENOXYBENZAMINE HYDROCHLORIDE | RISING | Capsule; oral | Valid |
+| ANDA212568 | PHENOXYBENZAMINE HYDROCHLORIDE | AMNEAL | Capsule; oral | Discontinued in Drugs@FDA |
+| ANDA215042 | PHENOXYBENZAMINE HYDROCHLORIDE | NOVITIUM PHARMA | Capsule; oral | Valid |
+| ANDA215600 | PHENOXYBENZAMINE HYDROCHLORIDE | AUROBINDO PHARMA | Capsule; oral | Valid |
+
+Showing 5 of 7 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Availability of the drug in the US is therefore limited.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "UPADACITINIB"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Upadacitinib: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Rheumatoid arthritis"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **colobomatous microphthalmia-r
 | Predicted New Indication | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 3 of 3) |
-| Number of FDA Applications | 3 (active: 3) |
+| US Market Status | Marketed (active FDA-approved applications: 2 of 3) |
+| Number of FDA Applications | 3 (active: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -77,10 +77,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA211675 | Rinvoq (AbbVie Inc.) | Tablet, extended release | Not available |
-| NDA218347 | Rinvoq (AbbVie Inc.) | Solution | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA218866 | UPADACITINIB | AUROBINDO PHARMA LTD | Tablet, extended release; oral | Discontinued in Drugs@FDA |
+| NDA211675 | RINVOQ | ABBVIE | Tablet, extended release; oral | Valid |
+| NDA218347 | RINVOQ LQ | ABBVIE | Solution; oral | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 1163
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-description: "Simvastatin: predicted new indication Brain stem infarction (evidence level L5). In the US: 30 FDA applications (17 active)"
+description: "Simvastatin: predicted new indication Brain stem infarction (evidence level L5). In the US: 30 FDA applications (16 active)"
 ---
 
 # Simvastatin
@@ -48,8 +48,8 @@ Simvastatin is a statin (HMG-CoA reductase inhibitor) originally used for hyperl
 | Predicted New Indication | Brain stem infarction |
 | TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 17 of 30) |
-| Number of FDA Applications | 30 (active: 17) |
+| US Market Status | Marketed (active FDA-approved applications: 16 of 30) |
+| Number of FDA Applications | 30 (active: 16) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -93,13 +93,19 @@ Most trials below test simvastatin as part of a combination or as background the
 
 Approved-indication text was not available.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA077691 | Simvastatin (A-S Medication Solutions) | Film-coated tablet | Not available |
-| ANDA078103 | Simvastatin (St. Mary's Medical Park Pharmacy) | Film-coated tablet | Not available |
-| ANDA078155 | Simvastatin (Accord Healthcare) | Film-coated tablet | Not available |
-| ANDA200895 | Simvastatin (Quallent Pharmaceuticals Health) | Film-coated tablet | Not available |
-| ANDA078034 | Simvastatin (RemedyRepack) | Film-coated tablet | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077691 | SIMVASTATIN | AUROBINDO PHARMA | Tablet; oral | Valid |
+| ANDA077752 | SIMVASTATIN | RISING | Tablet; oral | Valid |
+| ANDA077837 | SIMVASTATIN | ZYDUS PHARMS USA | Tablet; oral | Valid |
+| ANDA078034 | SIMVASTATIN | BIOCON PHARMA | Tablet; oral | Valid |
+| ANDA078103 | SIMVASTATIN | LUPIN | Tablet; oral | Valid |
+
+Showing 5 of 30 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

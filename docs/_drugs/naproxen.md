@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "NAPROXEN"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
-last_modified_at: 2026-11-20
-description: "Naproxen: predicted new indication Brachydactyly-syndactyly syndrome (evidence level L5). In the US: 106 FDA applications (58 active)"
+last_modified_at: 2026-11-24
+description: "Naproxen: predicted new indication Brachydactyly-syndactyly syndrome (evidence level L5). In the US: 106 FDA applications (57 active)"
 ---
 
 # Naproxen
@@ -52,8 +52,8 @@ The prediction is a computational output only and has no supporting evidence.
 | Predicted New Indication | Brachydactyly-syndactyly syndrome |
 | TxGNN Prediction Score | 0.9935 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 58 of 106) |
-| Number of FDA Applications | 106 (active: 58) |
+| US Market Status | Marketed (active FDA-approved applications: 57 of 106) |
+| Number of FDA Applications | 106 (active: 57) |
 | Recommended Decision | Hold |
 
 ---
@@ -90,13 +90,19 @@ The drug is marketed. The approved-indication text is blank in the records. The 
 
 <!-- review:end us-lic-20261106-naproxen-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA020204 | Aleve | Tablet | Lil' Drug Store Products, Inc |
-| NDA021920 | Naproxen Sodium | Capsule, liquid filled | HEB |
-| ANDA208363 | Naproxen Sodium | Capsule, liquid filled | Care One (American Sales Company) |
-| ANDA200629 | Naproxen Sodium | Tablet, film coated | Aurobindo Pharma Limited |
-| ANDA074140 | Naproxen | Tablet | Granules India Ltd |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074140 | NAPROXEN | GRANULES | Tablet; oral | Valid |
+| ANDA074190 | NAPROXEN | HIKMA | Suspension; oral | Valid |
+| ANDA074201 | NAPROXEN | TEVA | Tablet; oral | Valid |
+| ANDA074635 | NAPROXEN SODIUM | CONTRACT PHARMACAL | Tablet; oral | Valid |
+| ANDA074661 | NAPROXEN SODIUM | PERRIGO | Tablet; oral | Valid |
+
+Showing 5 of 106 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 All products are oral formulations.
 

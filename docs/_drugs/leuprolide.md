@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "LEUPROLIDE"
 predicted_indications: ["osteoarthritis", "pseudoachondroplasia"]
-last_modified_at: 2026-11-20
-description: "Leuprolide: predicted new indication Osteoarthritis (evidence level L5). In the US: 28 FDA applications (22 active)"
+last_modified_at: 2026-11-24
+description: "Leuprolide: predicted new indication Osteoarthritis (evidence level L5). In the US: 28 FDA applications (21 active)"
 ---
 
 # Leuprolide
@@ -50,8 +50,8 @@ but currently **0 clinical trials** and **1 publication** (an unrelated case rep
 | Predicted New Indication | Osteoarthritis |
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 22 of 28) |
-| Number of FDA Applications | 28 (active: 22) |
+| US Market Status | Marketed (active FDA-approved applications: 21 of 28) |
+| Number of FDA Applications | 28 (active: 21) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -90,13 +90,19 @@ Approved-indication text is not available in the records.
 
 <!-- review:end us-lic-20261106-leuprolide-3 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021488 | Eligard (Tolmar) | Extended-release injectable suspension | Not available |
-| NDA021343 | Eligard (Tolmar) | Extended-release injectable suspension | Not available |
-| NDA021379 | Vabrinty (Uronova) | Extended-release injectable suspension | Not available |
-| NDA021731 | Vabrinty (Uronova) | Extended-release injectable suspension | Not available |
-| NDA211488 | CAMCEVI (Accord BioPharma) | Injectable emulsion | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074728 | LEUPROLIDE ACETATE | SANDOZ | Solution; subcutaneous | Valid |
+| ANDA075471 | LEUPROLIDE ACETATE | MEITHEAL | Solution; subcutaneous | Valid |
+| ANDA078885 | LEUPROLIDE ACETATE | SUN PHARM | Solution; subcutaneous | Valid |
+| ANDA212963 | LEUPROLIDE ACETATE | EUGIA PHARMA | Solution; subcutaneous | Valid |
+| ANDA213829 | LEUPROLIDE ACETATE | SOMERSET THERAPS LLC | Solution; subcutaneous | Valid |
+
+Showing 5 of 28 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 764
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Guanfacine: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Hypertension"
 monitor_inn: "GUANFACINE"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "manic bipolar affective disorder", "restless legs syndrome", "Tourette syndrome"]
@@ -52,8 +52,8 @@ Currently **0 clinical trials** and **0 publications** support this prediction, 
 | Predicted New Indication | Faciodigitogenital syndrome |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Marketed (active FDA-approved applications: 22 of 27) |
-| Number of FDA Applications | 27 (active: 22) |
+| US Market Status | Marketed (active FDA-approved applications: 21 of 27) |
+| Number of FDA Applications | 27 (active: 21) |
 | Recommended Decision | Hold |
 
 ---
@@ -88,13 +88,19 @@ The five main ones are listed below, and the approved indication text is not spe
 
 <!-- review:end us-lic-20261106-guanfacine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA 022037 | Intuniv (Takeda Pharmaceuticals America) | Extended-release tablet | Not specified |
-| ANDA 217269 | Guanfacine (Alembic Pharmaceuticals) | Extended-release tablet | Not specified |
-| ANDA 205689 | Guanfacine (Bryant Ranch Prepack) | Extended-release tablet | Not specified |
-| ANDA 074796 | Guanfacine (Aurobindo Pharma) | Tablet | Not specified |
-| ANDA 216399 | Guanfacine Hydrochloride (TWi Pharmaceuticals) | Tablet | Not specified |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA074145 | GUANFACINE HYDROCHLORIDE | WATSON LABS | Tablet; oral | Valid |
+| ANDA074673 | GUANFACINE HYDROCHLORIDE | EPIC PHARMA LLC | Tablet; oral | Valid |
+| ANDA074796 | GUANFACINE HYDROCHLORIDE | AUROBINDO PHARMA USA | Tablet; oral | Valid |
+| ANDA075109 | GUANFACINE HYDROCHLORIDE | AMNEAL PHARM | Tablet; oral | Valid |
+| ANDA200881 | GUANFACINE HYDROCHLORIDE | ACTAVIS ELIZABETH | Tablet, extended release; oral | Valid |
+
+Showing 5 of 27 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

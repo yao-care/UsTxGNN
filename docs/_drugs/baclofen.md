@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "BACLOFEN"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
-last_modified_at: 2026-11-20
-description: "Baclofen: predicted new indication attention deficit-hyperactivity disorder (evidence level L5). In the US: 52 FDA applications (33 active)"
+last_modified_at: 2026-11-24
+description: "Baclofen: predicted new indication attention deficit-hyperactivity disorder (evidence level L5). In the US: 52 FDA applications (34 active)"
 ---
 
 # Baclofen
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 | Predicted New Indication | attention deficit-hyperactivity disorder |
 | TxGNN Prediction Score | 0.9932 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 33 of 52) |
-| Number of FDA Applications | 52 (active: 33) |
+| US Market Status | Marketed (active FDA-approved applications: 34 of 52) |
+| Number of FDA Applications | 52 (active: 34) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "METFORMIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
-last_modified_at: 2026-11-20
-description: "Metformin: predicted new indication Classic stiff person syndrome (evidence level L5). In the US: 174 FDA applications (102 active)"
+last_modified_at: 2026-11-24
+description: "Metformin: predicted new indication Classic stiff person syndrome (evidence level L5). In the US: 174 FDA applications (100 active)"
 ---
 
 # Metformin
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **classic stiff person syndrome
 | Predicted New Indication | Classic stiff person syndrome |
 | TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 102 of 174) |
-| Number of FDA Applications | 174 (active: 102) |
+| US Market Status | Marketed (active FDA-approved applications: 100 of 174) |
+| Number of FDA Applications | 174 (active: 100) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

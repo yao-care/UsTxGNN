@@ -7,8 +7,8 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "NEVIRAPINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
-description: "Nevirapine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). In the US: 27 FDA applications (11 active)"
+last_modified_at: 2026-11-24
+description: "Nevirapine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). In the US: 27 FDA applications (10 active)"
 ---
 
 # Nevirapine
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and only **indirect literature** (
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (active FDA-approved applications: 11 of 27) |
-| Number of FDA Applications | 27 (active: 11) |
+| US Market Status | Marketed (active FDA-approved applications: 10 of 27) |
+| Number of FDA Applications | 27 (active: 10) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -95,13 +95,19 @@ No approved indication text is available for them.
 
 <!-- review:end us-lic-20261106-nevirapine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA206879 | Nevirapine (Macleods) | Extended-release tablet | Not available |
-| ANDA205651 | Nevirapine (Mylan) | Extended-release tablet | Not available |
-| ANDA077521 | Nevirapine (Aurobindo) | Tablet | Not available |
-| ANDA078584 | Nevirapine (Camber) | Tablet | Not available |
-| ANDA077702 | Nevirapine (Aurobindo) | Suspension | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077521 | NEVIRAPINE | AUROBINDO | Tablet; oral | Valid |
+| ANDA077702 | NEVIRAPINE | AUROBINDO | Suspension; oral | Valid |
+| ANDA077956 | NEVIRAPINE | CIPLA | Tablet; oral | Valid |
+| ANDA078584 | NEVIRAPINE | HETERO LABS LTD III | Tablet; oral | Valid |
+| ANDA090688 | NEVIRAPINE | MACLEODS PHARMS | Tablet; oral | Valid |
+
+Showing 5 of 27 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

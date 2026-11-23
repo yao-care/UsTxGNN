@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1304
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Zidovudine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease, AIDS"
 monitor_inn: "ZIDOVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (active FDA-approved applications: 16 of 36) |
-| Number of FDA Applications | 36 (active: 16) |
+| US Market Status | Marketed (active FDA-approved applications: 14 of 36) |
+| Number of FDA Applications | 36 (active: 14) |
 | Recommended Decision | Hold |
 
 ---
@@ -100,13 +100,19 @@ Marketed in the US. The data compiled for this report contain no approved-indica
 
 <!-- review:end us-lic-20261106-zidovudine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA019655 | RETROVIR | Capsule | Not available |
-| NDA019951 | RETROVIR | Injection, solution | Not available |
-| NDA019910 | RETROVIR | Solution | Not available |
-| ANDA077267 | Zidovudine | Tablet, film coated | Not available |
-| ANDA077558 | Lamivudine and Zidovudine | Tablet, film coated | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA077267 | ZIDOVUDINE | AUROBINDO | Tablet; oral | Valid |
+| ANDA077268 | ZIDOVUDINE | AUROBINDO | Solution; oral | Valid |
+| ANDA077981 | ZIDOVUDINE | CIPLA LTD | Solution; oral | Discontinued in Drugs@FDA |
+| ANDA078128 | ZIDOVUDINE | AUROBINDO PHARMA LTD | Capsule; oral | Valid |
+| ANDA078349 | ZIDOVUDINE | CIPLA LTD | Capsule; oral | Discontinued in Drugs@FDA |
+
+Showing 5 of 36 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ---
 

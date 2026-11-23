@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "FLUOCINONIDE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "alopecia areata", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluocinonide: predicted new indication Alopecia mucinosa (evidence level L5). Approved use: Atopic dermatitis, contact dermatitis, seborrheic dermatitis…"
 ---
 
@@ -50,8 +50,8 @@ Among the other top predictions, only alopecia areata has any related material (
 | Predicted New Indication | Alopecia mucinosa |
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 31 of 47) |
-| Number of FDA Applications | 47 (active: 31) |
+| US Market Status | Marketed (active FDA-approved applications: 30 of 47) |
+| Number of FDA Applications | 47 (active: 30) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -95,13 +95,19 @@ No approved indication text is recorded. Up to 5 are listed below.
 
 <!-- review:end us-lic-20261106-fluocinonide-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA209030 | Fluocinonide (Padagis Israel) | Gel | Not recorded |
-| ANDA210554 | Fluocinonide Cream (Preferred Pharmaceuticals) | Cream | Not recorded |
-| ANDA211111 | Fluocinonide (Asclemed USA) | Cream | Not recorded |
-| ANDA216389 | Fluocinonide (Quagen Pharmaceuticals) | Solution | Not recorded |
-| ANDA212976 | Fluocinonide (Bryant Ranch Prepack) | Ointment | Not recorded |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA071500 | FLUOCINONIDE | SUN PHARMA CANADA | Cream; topical | Valid |
+| ANDA072488 | FLUOCINONIDE | TEVA | Cream; topical | Valid |
+| ANDA072490 | FLUOCINONIDE EMULSIFIED BASE | TEVA | Cream; topical | Valid |
+| ANDA072494 | FLUOCINONIDE EMULSIFIED BASE | TARO | Cream; topical | Valid |
+| ANDA072933 | FLUOCINONIDE | FOUGERA PHARMS INC | Gel; topical | Valid |
+
+Showing 5 of 47 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -545,7 +545,7 @@
     "l": "L2",
     "i": "attention deficit-hyperactivity disorder",
     "lt": 4,
-    "lv": 4,
+    "lv": 3,
     "r": 0,
     "rs": "",
     "x": 0
@@ -787,7 +787,7 @@
     "l": "L3",
     "i": "migraine disorder",
     "lt": 6,
-    "lv": 6,
+    "lv": 5,
     "r": 2,
     "rs": "Removed: \"The only US NDA is cancelled, and the knowledge graph flags several cardiovascular…",
     "x": 0
@@ -1348,7 +1348,7 @@
     "l": "L4",
     "i": "simian immunodeficiency virus infection",
     "lt": 27,
-    "lv": 11,
+    "lv": 10,
     "r": 2,
     "rs": "Removed: \"All nine authorizations are generic applications (ANDA) with cancelled status\"",
     "x": 0
@@ -1590,7 +1590,7 @@
     "l": "L4",
     "i": "simian immunodeficiency virus infection",
     "lt": 36,
-    "lv": 16,
+    "lv": 14,
     "r": 3,
     "rs": "Removed: \"with 13 of 13 licences valid\"",
     "x": 0
@@ -1646,7 +1646,7 @@
     "l": "L5",
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 272,
-    "lv": 121,
+    "lv": 120,
     "r": 3,
     "rs": "Removed: \"with 14 valid licenses\"",
     "x": 0
@@ -1657,7 +1657,7 @@
     "l": "L5",
     "i": "classic stiff person syndrome",
     "lt": 174,
-    "lv": 102,
+    "lv": 100,
     "r": 3,
     "rs": "Removed: \"since the data lists 14 valid authorizations\"",
     "x": 0
@@ -1723,7 +1723,7 @@
     "l": "L5",
     "i": "duodenal obstruction",
     "lt": 111,
-    "lv": 68,
+    "lv": 67,
     "r": 2,
     "rs": "Removed: \"since all listings in the data compiled are cancelled\"",
     "x": 0
@@ -1773,17 +1773,6 @@
     "x": 0
    },
    {
-    "t": "Naproxen",
-    "u": "/drugs/naproxen/",
-    "l": "L5",
-    "i": "brachydactyly-syndactyly syndrome",
-    "lt": 106,
-    "lv": 58,
-    "r": 4,
-    "rs": "Removed: \"given that 14 licenses are valid\"",
-    "x": 0
-   },
-   {
     "t": "Clobetasol Propionate",
     "u": "/drugs/clobetasol-propionate/",
     "l": "L5",
@@ -1792,6 +1781,17 @@
     "lv": 57,
     "r": 1,
     "rs": "\"Detailed mechanism-of-action text is not available in the data compiled for this report, so this description…",
+    "x": 0
+   },
+   {
+    "t": "Naproxen",
+    "u": "/drugs/naproxen/",
+    "l": "L5",
+    "i": "brachydactyly-syndactyly syndrome",
+    "lt": 106,
+    "lv": 57,
+    "r": 4,
+    "rs": "Removed: \"given that 14 licenses are valid\"",
     "x": 0
    },
    {
@@ -2070,6 +2070,17 @@
     "x": 0
    },
    {
+    "t": "Baclofen",
+    "u": "/drugs/baclofen/",
+    "l": "L5",
+    "i": "attention deficit-hyperactivity disorder",
+    "lt": 52,
+    "lv": 34,
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for baclofen is not available in the data compiled for this report\"…",
+    "x": 0
+   },
+   {
     "t": "Benzoyl Peroxide",
     "u": "/drugs/benzoyl-peroxide/",
     "l": "L5",
@@ -2136,17 +2147,6 @@
     "x": 0
    },
    {
-    "t": "Baclofen",
-    "u": "/drugs/baclofen/",
-    "l": "L5",
-    "i": "attention deficit-hyperactivity disorder",
-    "lt": 52,
-    "lv": 33,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data for baclofen is not available in the data compiled for this report\"…",
-    "x": 0
-   },
-   {
     "t": "Clonidine",
     "u": "/drugs/clonidine/",
     "l": "L5",
@@ -2166,17 +2166,6 @@
     "lv": 33,
     "r": 3,
     "rs": "Removed: \"of the cancelled regulatory status and\"",
-    "x": 0
-   },
-   {
-    "t": "Erythromycin",
-    "u": "/drugs/erythromycin/",
-    "l": "L5",
-    "i": "punctate epithelial keratoconjunctivitis",
-    "lt": 130,
-    "lv": 33,
-    "r": 2,
-    "rs": "Removed: \"At least 15 US licence records are listed, and the list may be partial. Of these, 14 are valid and…",
     "x": 0
    },
    {
@@ -2213,6 +2202,17 @@
     "x": 0
    },
    {
+    "t": "Erythromycin",
+    "u": "/drugs/erythromycin/",
+    "l": "L5",
+    "i": "punctate epithelial keratoconjunctivitis",
+    "lt": 130,
+    "lv": 32,
+    "r": 2,
+    "rs": "Removed: \"At least 15 US licence records are listed, and the list may be partial. Of these, 14 are valid and…",
+    "x": 0
+   },
+   {
     "t": "Aripiprazole",
     "u": "/drugs/aripiprazole/",
     "l": "L5",
@@ -2246,22 +2246,22 @@
     "x": 0
    },
    {
-    "t": "Fluocinonide",
-    "u": "/drugs/fluocinonide/",
-    "l": "L5",
-    "i": "alopecia mucinosa",
-    "lt": 47,
-    "lv": 31,
-    "r": 3,
-    "rs": "Removed: \"with 13 valid licenses\"",
-    "x": 0
-   },
-   {
     "t": "Donepezil",
     "u": "/drugs/donepezil/",
     "l": "L5",
     "i": "psychogenic movement disorders",
     "lt": 58,
+    "lv": 30,
+    "r": 3,
+    "rs": "Removed: \"with 13 valid licenses\"",
+    "x": 0
+   },
+   {
+    "t": "Fluocinonide",
+    "u": "/drugs/fluocinonide/",
+    "l": "L5",
+    "i": "alopecia mucinosa",
+    "lt": 47,
     "lv": 30,
     "r": 3,
     "rs": "Removed: \"with 13 valid licenses\"",
@@ -2774,17 +2774,6 @@
     "x": 0
    },
    {
-    "t": "Guanfacine",
-    "u": "/drugs/guanfacine/",
-    "l": "L5",
-    "i": "faciodigitogenital syndrome",
-    "lt": 27,
-    "lv": 22,
-    "r": 3,
-    "rs": "Removed: \"with 11 valid authorizations\"",
-    "x": 0
-   },
-   {
     "t": "Indomethacin",
     "u": "/drugs/indomethacin/",
     "l": "L5",
@@ -2793,17 +2782,6 @@
     "lv": 22,
     "r": 4,
     "rs": "Removed: \"All US licenses in the compiled data are also cancelled\"",
-    "x": 0
-   },
-   {
-    "t": "Leuprolide",
-    "u": "/drugs/leuprolide/",
-    "l": "L5",
-    "i": "osteoarthritis",
-    "lt": 28,
-    "lv": 22,
-    "r": 5,
-    "rs": "Removed: \"the cancelled licence status and\"",
     "x": 0
    },
    {
@@ -2884,6 +2862,17 @@
     "x": 0
    },
    {
+    "t": "Guanfacine",
+    "u": "/drugs/guanfacine/",
+    "l": "L5",
+    "i": "faciodigitogenital syndrome",
+    "lt": 27,
+    "lv": 21,
+    "r": 3,
+    "rs": "Removed: \"with 11 valid authorizations\"",
+    "x": 0
+   },
+   {
     "t": "Labetalol",
     "u": "/drugs/labetalol/",
     "l": "L5",
@@ -2892,6 +2881,17 @@
     "lv": 21,
     "r": 1,
     "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "x": 0
+   },
+   {
+    "t": "Leuprolide",
+    "u": "/drugs/leuprolide/",
+    "l": "L5",
+    "i": "osteoarthritis",
+    "lt": 28,
+    "lv": 21,
+    "r": 5,
+    "rs": "Removed: \"the cancelled licence status and\"",
     "x": 0
    },
    {
@@ -3005,6 +3005,17 @@
     "x": 0
    },
    {
+    "t": "Loteprednol Etabonate",
+    "u": "/drugs/loteprednol-etabonate/",
+    "l": "L5",
+    "i": "conjunctival folliculosis",
+    "lt": 23,
+    "lv": 20,
+    "r": 3,
+    "rs": "Removed: \"with 14 valid licenses\"",
+    "x": 0
+   },
+   {
     "t": "Mometasone",
     "u": "/drugs/mometasone/",
     "l": "L5",
@@ -3104,17 +3115,6 @@
     "x": 0
    },
    {
-    "t": "Loteprednol Etabonate",
-    "u": "/drugs/loteprednol-etabonate/",
-    "l": "L5",
-    "i": "conjunctival folliculosis",
-    "lt": 23,
-    "lv": 19,
-    "r": 3,
-    "rs": "Removed: \"with 14 valid licenses\"",
-    "x": 0
-   },
-   {
     "t": "Meloxicam",
     "u": "/drugs/meloxicam/",
     "l": "L5",
@@ -3167,17 +3167,6 @@
     "lv": 18,
     "r": 3,
     "rs": "Removed: \"with nine valid authorizations\"",
-    "x": 0
-   },
-   {
-    "t": "Ezetimibe",
-    "u": "/drugs/ezetimibe/",
-    "l": "L5",
-    "i": "cholesterol-ester transfer protein deficiency",
-    "lt": 31,
-    "lv": 18,
-    "r": 2,
-    "rs": "Removed: \"and the current US market status (\"Cancelled only\") needs verification\"",
     "x": 0
    },
    {
@@ -3255,6 +3244,17 @@
     "lv": 17,
     "r": 2,
     "rs": "Removed: \"All 8 listed licences are valid\"",
+    "x": 0
+   },
+   {
+    "t": "Ezetimibe",
+    "u": "/drugs/ezetimibe/",
+    "l": "L5",
+    "i": "cholesterol-ester transfer protein deficiency",
+    "lt": 31,
+    "lv": 17,
+    "r": 2,
+    "rs": "Removed: \"and the current US market status (\"Cancelled only\") needs verification\"",
     "x": 0
    },
    {
@@ -3346,17 +3346,6 @@
     "x": 0
    },
    {
-    "t": "Simvastatin",
-    "u": "/drugs/simvastatin/",
-    "l": "L5",
-    "i": "brain stem infarction",
-    "lt": 30,
-    "lv": 17,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, but t\" replaced…",
-    "x": 0
-   },
-   {
     "t": "Chlorzoxazone",
     "u": "/drugs/chlorzoxazone/",
     "l": "L5",
@@ -3409,6 +3398,17 @@
     "lv": 16,
     "r": 3,
     "rs": "Removed: \"with 11 valid licenses out of 11\"",
+    "x": 0
+   },
+   {
+    "t": "Simvastatin",
+    "u": "/drugs/simvastatin/",
+    "l": "L5",
+    "i": "brain stem infarction",
+    "lt": 30,
+    "lv": 16,
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, but t\" replaced…",
     "x": 0
    },
    {
@@ -3665,17 +3665,6 @@
     "x": 0
    },
    {
-    "t": "Ivermectin",
-    "u": "/drugs/ivermectin/",
-    "l": "L5",
-    "i": "vulvovaginal candidiasis",
-    "lt": 15,
-    "lv": 14,
-    "r": 3,
-    "rs": "Removed: \"with 10 valid authorizations\"",
-    "x": 0
-   },
-   {
     "t": "Lactulose",
     "u": "/drugs/lactulose/",
     "l": "L5",
@@ -3695,6 +3684,17 @@
     "lv": 14,
     "r": 3,
     "rs": "Removed: \"with 7 valid licenses\"",
+    "x": 0
+   },
+   {
+    "t": "Phenytoin",
+    "u": "/drugs/phenytoin/",
+    "l": "L5",
+    "i": "trigeminal nerve neoplasm",
+    "lt": 43,
+    "lv": 14,
+    "r": 4,
+    "rs": "Removed: \"since 8 valid licenses are listed\"",
     "x": 0
    },
    {
@@ -3808,6 +3808,17 @@
     "x": 0
    },
    {
+    "t": "Ivermectin",
+    "u": "/drugs/ivermectin/",
+    "l": "L5",
+    "i": "vulvovaginal candidiasis",
+    "lt": 15,
+    "lv": 13,
+    "r": 3,
+    "rs": "Removed: \"with 10 valid authorizations\"",
+    "x": 0
+   },
+   {
     "t": "Levocarnitine",
     "u": "/drugs/levocarnitine/",
     "l": "L5",
@@ -3838,17 +3849,6 @@
     "lv": 13,
     "r": 2,
     "rs": "Removed: \"Of the 8 licences in the records reviewed, 7 are valid and 1 is cancelled\"",
-    "x": 0
-   },
-   {
-    "t": "Phenytoin",
-    "u": "/drugs/phenytoin/",
-    "l": "L5",
-    "i": "trigeminal nerve neoplasm",
-    "lt": 43,
-    "lv": 13,
-    "r": 4,
-    "rs": "Removed: \"since 8 valid licenses are listed\"",
     "x": 0
    },
    {
@@ -4061,6 +4061,17 @@
     "x": 0
    },
    {
+    "t": "Latanoprost",
+    "u": "/drugs/latanoprost/",
+    "l": "L5",
+    "i": "visceral calciphylaxis",
+    "lt": 16,
+    "lv": 11,
+    "r": 2,
+    "rs": "Removed: \"Other cancelled authorizations include NDA216472 (IYUZEH, Thea Pharma) and NDA206185 (XELPROS, Sun…",
+    "x": 0
+   },
+   {
     "t": "Meclizine",
     "u": "/drugs/meclizine/",
     "l": "L5",
@@ -4201,17 +4212,6 @@
     "lv": 10,
     "r": 3,
     "rs": "Removed: \"with 6 valid licenses\"",
-    "x": 0
-   },
-   {
-    "t": "Latanoprost",
-    "u": "/drugs/latanoprost/",
-    "l": "L5",
-    "i": "visceral calciphylaxis",
-    "lt": 16,
-    "lv": 10,
-    "r": 2,
-    "rs": "Removed: \"Other cancelled authorizations include NDA216472 (IYUZEH, Thea Pharma) and NDA206185 (XELPROS, Sun…",
     "x": 0
    },
    {
@@ -5579,17 +5579,6 @@
     "x": 0
    },
    {
-    "t": "Terbutaline",
-    "u": "/drugs/terbutaline/",
-    "l": "L5",
-    "i": "respiratory malformation",
-    "lt": 15,
-    "lv": 6,
-    "r": 2,
-    "rs": "Removed: \"Five of the six licences are currently valid, and one is cancelled\"",
-    "x": 0
-   },
-   {
     "t": "Terconazole",
     "u": "/drugs/terconazole/",
     "l": "L5",
@@ -5898,17 +5887,6 @@
     "x": 0
    },
    {
-    "t": "Phenoxybenzamine",
-    "u": "/drugs/phenoxybenzamine/",
-    "l": "L5",
-    "i": "primary hereditary glaucoma",
-    "lt": 7,
-    "lv": 5,
-    "r": 4,
-    "rs": "Removed: \"(3 of 3 licenses valid)\"",
-    "x": 0
-   },
-   {
     "t": "Pitolisant",
     "u": "/drugs/pitolisant/",
     "l": "L5",
@@ -5983,6 +5961,17 @@
     "lv": 5,
     "r": 1,
     "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
+    "x": 0
+   },
+   {
+    "t": "Terbutaline",
+    "u": "/drugs/terbutaline/",
+    "l": "L5",
+    "i": "respiratory malformation",
+    "lt": 15,
+    "lv": 5,
+    "r": 2,
+    "rs": "Removed: \"Five of the six licences are currently valid, and one is cancelled\"",
     "x": 0
    },
    {
@@ -6269,6 +6258,17 @@
     "lv": 4,
     "r": 1,
     "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "x": 0
+   },
+   {
+    "t": "Phenoxybenzamine",
+    "u": "/drugs/phenoxybenzamine/",
+    "l": "L5",
+    "i": "primary hereditary glaucoma",
+    "lt": 7,
+    "lv": 4,
+    "r": 4,
+    "rs": "Removed: \"(3 of 3 licenses valid)\"",
     "x": 0
    },
    {
@@ -6798,17 +6798,6 @@
     "r": 3,
     "rs": "Removed: \"All nine US licenses are valid, and t\"",
     "x": 10
-   },
-   {
-    "t": "Upadacitinib",
-    "u": "/drugs/upadacitinib/",
-    "l": "L5",
-    "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
-    "lt": 3,
-    "lv": 3,
-    "r": 4,
-    "rs": "Removed: \"Clarification of the cancelled US authorization status\"",
-    "x": 0
    },
    {
     "t": "Venetoclax",
@@ -7600,6 +7589,17 @@
     "lv": 2,
     "r": 2,
     "rs": "Removed: \"The US market status is listed as cancelled and should be verified\"",
+    "x": 0
+   },
+   {
+    "t": "Upadacitinib",
+    "u": "/drugs/upadacitinib/",
+    "l": "L5",
+    "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+    "lt": 3,
+    "lv": 2,
+    "r": 4,
+    "rs": "Removed: \"Clarification of the cancelled US authorization status\"",
     "x": 0
    },
    {

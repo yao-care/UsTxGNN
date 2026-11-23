@@ -7,8 +7,8 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "SOLRIAMFETOL"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "attention deficit hyperactivity disorder, inattentive type", "chondromyxoid fibroma", "specific developmental disorder", "variably protease-sensitive prionopathy", "multiple system atrophy", "postural orthostatic tachycardia syndrome", "disorder of peroxisomal alpha-, beta- and omega-oxidation"]
-last_modified_at: 2026-11-06
-description: "Solriamfetol: predicted new indication Attention deficit-hyperactivity disorder (evidence level L2). In the US: 4 FDA applications (4 active)"
+last_modified_at: 2026-11-24
+description: "Solriamfetol: predicted new indication Attention deficit-hyperactivity disorder (evidence level L2). In the US: 4 FDA applications (3 active)"
 ---
 
 # Solriamfetol
@@ -50,8 +50,8 @@ Evidence is at **Level L2**: **5 clinical trials** and **6 publications** have b
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (active FDA-approved applications: 4 of 4) |
-| Number of FDA Applications | 4 (active: 4) |
+| US Market Status | Marketed (active FDA-approved applications: 3 of 4) |
+| Number of FDA Applications | 4 (active: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -83,9 +83,16 @@ Its wake-promoting profile also fits the attention and alertness problems seen i
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA211230 | SUNOSI (Axsome Therapeutics, Inc.) | Film-coated tablet (oral) | Not specified in the compiled data; status: valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA218016 | SOLRIAMFETOL HYDROCHLORIDE | HIKMA | Tablet; oral | Discontinued in Drugs@FDA |
+| ANDA218722 | SOLRIAMFETOL HYDROCHLORIDE | ALKEM LABS LTD | Tablet; oral | Valid |
+| ANDA218725 | SOLRIAMFETOL HYDROCHLORIDE | AUROBINDO PHARMA LTD | Tablet; oral | Valid |
+| NDA211230 | SUNOSI | AXSOME MALTA | Tablet; oral | Valid |
+
+<!-- licenses:end -->
 
 At least one licence is currently valid, and the drug is marketed in the United States. The dosage form is oral.
 

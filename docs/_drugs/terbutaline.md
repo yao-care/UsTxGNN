@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "TERBUTALINE"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-20
-description: "Terbutaline: predicted new indication Respiratory malformation (evidence level L5). In the US: 15 FDA applications (6 active)"
+last_modified_at: 2026-11-24
+description: "Terbutaline: predicted new indication Respiratory malformation (evidence level L5). In the US: 15 FDA applications (5 active)"
 ---
 
 # Terbutaline
@@ -48,8 +48,8 @@ Terbutaline is a beta-2 adrenergic agonist. The TxGNN model predicts it may be r
 | Predicted New Indication | Respiratory malformation |
 | TxGNN Prediction Score | 0.9952 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 6 of 15) |
-| Number of FDA Applications | 15 (active: 6) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 15) |
+| Number of FDA Applications | 15 (active: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -91,13 +91,19 @@ None of these studies directly examines terbutaline for respiratory malformation
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA017849 | Terbutaline Sulfate (ANI Pharmaceuticals) | Tablet | Not available |
-| ANDA075877 | Terbutaline Sulfate (Amneal) | Tablet | Not available |
-| ANDA211832 | Terbutaline Sulfate (Upsher-Smith) | Tablet | Not available |
-| ANDA077152 | Terbutaline Sulfate (Chartwell RX) | Tablet | Not available |
-| ANDA078630 | Terbutaline Sulfate (Henry Schein) | Injection | Not available |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA075877 | TERBUTALINE SULFATE | IMPAX LABS | Tablet; oral | Valid |
+| ANDA076887 | TERBUTALINE SULFATE | FRESENIUS KABI USA | Injectable; injection | Valid |
+| ANDA077152 | TERBUTALINE SULFATE | LANNETT CO INC | Tablet; oral | Valid |
+| ANDA078630 | TERBUTALINE SULFATE | HIKMA FARMACEUTICA | Injectable; injection | Valid |
+| ANDA200122 | TERBUTALINE SULFATE | AREVA PHARMS | Injectable; injection | Valid |
+
+Showing 5 of 15 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "IBUPROFEN"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-20
-description: "Ibuprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In the US: 272 FDA applications (121 active), plus 13 OTC monograph/unapproved NDC listings"
+last_modified_at: 2026-11-24
+description: "Ibuprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In the US: 272 FDA applications (120 active), plus 13 OTC monograph/unapproved NDC listings"
 ---
 
 # Ibuprofen
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (active FDA-approved applications: 121 of 272; OTC monograph / unapproved listings: 13) |
-| Number of FDA Applications | 272 (active: 121) |
+| US Market Status | Marketed (active FDA-approved applications: 120 of 272; OTC monograph / unapproved listings: 13) |
+| Number of FDA Applications | 272 (active: 120) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -72,13 +72,19 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA020402 | Advil (Haleon US Holdings LLC) | Capsule, liquid filled | Valid |
-| NDA018989 | Advil (Navajo Manufacturing Company Inc.) | Tablet, coated | Valid |
-| ANDA213794 | Ibuprofen (NuCare Pharmaceuticals) | Tablet | Valid |
-| ANDA071935 | Ibuprofen (Amneal Pharmaceuticals of New York) | Tablet | Valid |
-| ANDA078682 | Ibuprofen 200 (Walgreen Company) | Capsule, liquid filled | Valid |
+<!-- licenses:begin -->
+
+| Application / NDC | Product | Holder | Dosage form | Status |
+|------|------|------|------|------|
+| ANDA071267 | IBUPROFEN | CONTRACT PHARMACAL | Tablet; oral | Valid |
+| ANDA071268 | IBUPROFEN | CONTRACT PHARMACAL | Tablet; oral | Valid |
+| ANDA071334 | IBUPROFEN | AMNEAL PHARMS NY | Tablet; oral | Valid |
+| ANDA071335 | IBUPROFEN | AMNEAL PHARMS NY | Tablet; oral | Valid |
+| ANDA071935 | IBUPROFEN | AMNEAL PHARMS NY | Tablet; oral | Valid |
+
+Showing 5 of 285 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
+
+<!-- licenses:end -->
 
 Approved-indication text is not available for these entries.
 

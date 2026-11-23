@@ -18,7 +18,7 @@
   "drugs_without_data": 60,
   "drugs_partial": 0,
   "items_total": 19551,
-  "items_current": 9944
+  "items_current": 9927
  },
  "reviews": {
   "records": 2080,
@@ -58,7 +58,7 @@
    "u": "/drugs/ibuprofen/",
    "l": "L5",
    "lt": 272,
-   "lv": 121,
+   "lv": 120,
    "r": 3,
    "i": "acromesomelic dysplasia, Hunter-Thompson type"
   },
@@ -67,7 +67,7 @@
    "u": "/drugs/metformin/",
    "l": "L5",
    "lt": 174,
-   "lv": 102,
+   "lv": 100,
    "r": 3,
    "i": "classic stiff person syndrome"
   },

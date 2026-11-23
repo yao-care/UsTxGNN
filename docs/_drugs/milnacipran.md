@@ -7,8 +7,8 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "MILNACIPRAN"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "tendinitis", "papillary conjunctivitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "atrophoderma vermiculata", "cauda equina syndrome"]
-last_modified_at: 2026-11-20
-description: "Milnacipran: predicted new indication Migraine disorder (evidence level L3). In the US: 6 FDA applications (6 active)"
+last_modified_at: 2026-11-24
+description: "Milnacipran: predicted new indication Migraine disorder (evidence level L3). In the US: 6 FDA applications (5 active)"
 ---
 
 # Milnacipran
@@ -52,8 +52,8 @@ The evidence is early-stage: no controlled efficacy results are available yet.
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (active FDA-approved applications: 6 of 6) |
-| Number of FDA Applications | 6 (active: 6) |
+| US Market Status | Marketed (active FDA-approved applications: 5 of 6) |
+| Number of FDA Applications | 6 (active: 5) |
 | Recommended Decision | Hold (treat as a research question) |
 
 ---
@@ -100,7 +100,7 @@ Other retrieved items (a pharmacovigilance methodology paper, a thunderclap head
 | ANDA205071 | MILNACIPRAN HYDROCHLORIDE | BRECKENRIDGE | Tablet; oral | Valid |
 | ANDA205081 | MILNACIPRAN HYDROCHLORIDE | AMNEAL PHARMS | Tablet; oral | Valid |
 | ANDA205147 | MILNACIPRAN HYDROCHLORIDE | HETERO LABS LTD V | Tablet; oral | Valid |
-| ANDA207399 | MILNACIPRAN HYDROCHLORIDE | STRIDES PHARMA | Tablet; oral | Valid |
+| ANDA207399 | MILNACIPRAN HYDROCHLORIDE | STRIDES PHARMA | Tablet; oral | Discontinued in Drugs@FDA |
 | ANDA210944 | MILNACIPRAN HYDROCHLORIDE | MACLEODS PHARMS | Tablet; oral | Valid |
 
 Showing 5 of 6 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).
